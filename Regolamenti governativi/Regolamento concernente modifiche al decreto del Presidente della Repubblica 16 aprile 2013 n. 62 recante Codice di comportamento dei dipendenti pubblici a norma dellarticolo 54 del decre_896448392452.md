@@ -1,0 +1,175 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 2023 n. 81
+
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 2023 n. 81
+============================================================
+
+Regolamento concernente modifiche al decreto del Presidente della Repubblica 16 aprile 2013, n. 62, recante: «Codice di comportamento dei dipendenti pubblici, a norma dell'articolo 54 del decreto legislativo 30 marzo 2001, n. 165». (23G00092)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/07/2023
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visto l'[articolo 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+
+Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1);
+
+Visto il [decreto-legge 30 aprile 2022, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-04-30;36), convertito, con modificazioni, dalla [legge 29 giugno 2022, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-29;79), recante «Ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR)», e, in particolare, l'articolo 4, che ha disciplinato l'introduzione, nell'ambito del Codice di comportamento dei dipendenti pubblici, di misure in materia di utilizzo delle tecnologie informatiche e dei mezzi di informazione e social media;
+
+Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche»;
+
+Visto il [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), recante «[Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), recante disposizioni per l'adeguamento dell'ordinamento nazionale al [regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679), relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la [direttiva 95/46/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31995L0046)» e, in particolare, l'articolo 154, comma 5-bis, che stabilisce che il parere di cui all'articolo 36, paragrafo 4, del Regolamento e' reso dal Garante nei soli casi in cui la legge o il regolamento in corso di adozione disciplina espressamente le modalita' del trattamento dei dati;
+
+Visto il [decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), recante «[Codice dell'amministrazione digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)»;
+
+Visto il [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;62), recante «Regolamento recante codice di comportamento dei dipendenti pubblici, a norma dell'[articolo 54 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art54)»;
+
+Visto, in particolare, il comma 1-bis dell'articolo 54 del predetto [decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165), inserito dall'[articolo 4, comma 1, lettera a), del decreto-legge n. 36 del 2022](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022;36~art4-com1-leta), il quale prevede l'introduzione, nel Codice di cui al [decreto del Presidente della Repubblica n. 62 del 2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013;62), di una sezione dedicata al corretto utilizzo delle tecnologie informatiche e dei mezzi di informazione e social media da parte dei dipendenti pubblici, anche al fine di tutelare l'immagine della pubblica amministrazione;
+
+Visto, in particolare, il [comma 2 dell'articolo 4 del decreto-legge n. 36 del 2022](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022;36~art4-com2), il quale prevede che l'introduzione, nel Codice di cui al [decreto del Presidente della Repubblica n. 62 del 2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013;62), della sezione dedicata al corretto utilizzo delle tecnologie informatiche e dei mezzi di informazione e dei social media da parte dei dipendenti pubblici, anche al fine di tutelare l'immagine della pubblica amministrazione, e' effettuata entro il 31 dicembre 2022;
+
+Visto, altresi', il [comma 7 dell'articolo 54 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art54-com7), novellato dall'[articolo 4, comma 1, lettera b), del decreto-legge n. 36 del 2022](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022;36~art4-com1-letb), che prevede, per i dipendenti delle pubbliche amministrazioni, lo svolgimento di un ciclo formativo obbligatorio, sia a seguito di assunzione, sia in ogni caso di passaggio a ruoli o a funzioni superiori, nonche' di trasferimento del personale, le cui durata e intensita' sono proporzionate al grado di responsabilita', nei limiti delle risorse finanziarie disponibili a legislazione vigente, sui temi dell'etica pubblica e sul comportamento etico;
+
+Vista la deliberazione preliminare del Consiglio dei ministri, adottata nella riunione del 1° dicembre 2022;
+
+Vista l'intesa intervenuta in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), nella riunione del 21 dicembre 2022;
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 4 aprile 2023;
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 31 maggio 2023;
+
+Sulla proposta del Ministro per la pubblica amministrazione;
+
+Emana
+-----
+
+il seguente regolamento:
+
+Art. 1
+------
+
+Modifiche al decreto del Presidente della Repubblica   
+16 aprile 2013, n. 62
+
+1. Al [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;62), sono apportate le seguenti modificazioni:
+
+a) dopo l'articolo 11 sono inseriti i seguenti:   
+«Art. 11-bis (Utilizzo delle tecnologie informatiche). - 1.  
+L'amministrazione, attraverso i propri responsabili di struttura, ha facolta' di svolgere gli accertamenti necessari e adottare ogni misura atta a garantire la sicurezza e la protezione dei sistemi informatici, delle informazioni e dei dati. Le modalita' di svolgimento di tali accertamenti sono stabilite mediante linee guida adottate dall'Agenzia per l'Italia Digitale, sentito il Garante per la protezione dei dati personali. In caso di uso di dispositivi elettronici personali, trova applicazione l'[articolo 12, comma 3-bis del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art12-com3bis).   
+2. L'utilizzo di account istituzionali e' consentito per i soli fini connessi all'attivita' lavorativa o ad essa riconducibili e non puo' in alcun modo compromettere la sicurezza o la reputazione dell'amministrazione. L'utilizzo di caselle di posta elettroniche personali e' di norma evitato per attivita' o comunicazioni afferenti il servizio, salvi i casi di forza maggiore dovuti a circostanze in cui il dipendente, per qualsiasi ragione, non possa accedere all'account istituzionale.   
+3. Il dipendente e' responsabile del contenuto dei messaggi inviati. I dipendenti si uniformano alle modalita' di firma dei messaggi di posta elettronica di servizio individuate dall'amministrazione di appartenenza. Ciascun messaggio in uscita deve consentire l'identificazione del dipendente mittente e deve indicare un recapito istituzionale al quale il medesimo e' reperibile.   
+4. Al dipendente e' consentito l'utilizzo degli strumenti informatici forniti dall'amministrazione per poter assolvere alle incombenze personali senza doversi allontanare dalla sede di servizio, purche' l'attivita' sia contenuta in tempi ristretti e senza alcun pregiudizio per i compiti istituzionali.   
+5. E' vietato l'invio di messaggi di posta elettronica, all'interno o all'esterno dell'amministrazione, che siano oltraggiosi, discriminatori o che possano essere in qualunque modo fonte di responsabilita' dell'amministrazione.   
+Art. 11-ter (Utilizzo dei mezzi di informazione e dei social media). - 1. Nell'utilizzo dei propri account di social media, il dipendente utilizza ogni cautela affinche' le proprie opinioni o i propri giudizi su eventi, cose o persone, non siano in alcun modo attribuibili direttamente alla pubblica amministrazione di appartenenza.   
+2. In ogni caso il dipendente e' tenuto ad astenersi da qualsiasi intervento o commento che possa nuocere al prestigio, al decoro o all'immagine dell'amministrazione di appartenenza o della pubblica amministrazione in generale.   
+3. Al fine di garantirne i necessari profili di riservatezza le comunicazioni, afferenti direttamente o indirettamente il servizio non si svolgono, di norma, attraverso conversazioni pubbliche mediante l'utilizzo di piattaforme digitali o social media. Sono escluse da tale limitazione le attivita' o le comunicazioni per le quali l'utilizzo dei social media risponde ad una esigenza di carattere istituzionale.   
+4. Nei codici di cui all'articolo 1, comma 2, le amministrazioni si possono dotare di una "social media policy" per ciascuna tipologia di piattaforma digitale, al fine di adeguare alle proprie specificita' le disposizioni di cui al presente articolo. In particolare, la "social media policy" deve individuare, graduandole in base al livello gerarchico e di responsabilita' del dipendente, le condotte che possono danneggiare la reputazione delle amministrazioni.   
+5. Fermi restando i casi di divieto previsti dalla legge, i dipendenti non possono divulgare o diffondere per ragioni estranee al loro rapporto di lavoro con l'amministrazione e in difformita' alle disposizioni di cui al [decreto legislativo 13 marzo 2013, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-13;33), e alla [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), documenti, anche istruttori, e informazioni di cui essi abbiano la disponibilita'.»;
+
+b) all'articolo 12:   
+1) al comma 1, dopo le parole «opera nella maniera piu' completa e accurata possibile» sono aggiunte le seguenti: «e, in ogni caso, orientando il proprio comportamento alla soddisfazione dell'utente.»;
+  
+2) al comma 2, sono aggiunte, in fine, le seguenti parole: «o che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione di appartenenza o della pubblica amministrazione in generale.»;
+
+c) all'articolo 13:   
+1) al comma 4, dopo le parole «e adotta un comportamento esemplare» sono inserite le seguenti: «, in termini di integrita', imparzialita', buona fede e correttezza, parita' di trattamento, equita', inclusione e ragionevolezza»;
+  
+2) dopo il comma 4, e' inserito il seguente:   
+«4-bis. Il dirigente cura la crescita professionale dei collaboratori, favorendo le occasioni di formazione e promuovendo opportunita' di sviluppo interne ed esterne alla struttura di cui e' responsabile.»;
+  
+3) il comma 5 e' sostituito dal seguente:   
+«5. Il dirigente cura, compatibilmente con le risorse disponibili, il benessere organizzativo nella struttura a cui e' preposto, favorendo l'instaurarsi di rapporti cordiali e rispettosi tra i collaboratori, nonche' di relazioni, interne ed esterne alla struttura, basate su una leale collaborazione e su una reciproca fiducia e assume iniziative finalizzate alla circolazione delle informazioni, all'inclusione e alla valorizzazione delle differenze di genere, di eta' e di condizioni personali.»;
+  
+4) al comma 7, sono aggiunte, infine, le seguenti parole: «, misurando il raggiungimento dei risultati ed il comportamento organizzativo»;
+
+d) all'articolo 15, dopo il comma 5 e' inserito il seguente:   
+«5-bis. Le attivita' di cui al comma 5 includono anche cicli formativi sui temi dell'etica pubblica e sul comportamento etico, da svolgersi obbligatoriamente, sia a seguito di assunzione, sia in ogni caso di passaggio a ruoli o a funzioni superiori, nonche' di trasferimento del personale, le cui durata e intensita' sono proporzionate al grado di responsabilita'.»;
+
+e) all'articolo 17, dopo il comma 2 e' inserito il seguente:   
+«2-bis. Alle attivita' di cui al presente decreto le amministrazioni provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o ulteriori oneri a carico della finanza pubblica.».
+
+N O T E   
+  
+Avvertenza:   
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [d.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
+  
+Note alle premesse:   
+- L'[art. 87 Cost.](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti.   
+- Si riporta il testo dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri):   
+«Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:   
+a) l'esecuzione delle leggi e dei decreti legislativi nonche' dei regolamenti comunitari;   
+b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;   
+c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;   
+d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;   
+e).».   
+- Il [decreto legislativo 20 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-20;165) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche) e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, S.O.   
+- Si riporta il testo dell'[articolo 154, comma 5-bis del decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art154-com5bis), recante «[Codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), recante disposizioni per l'adeguamento dell'ordinamento nazionale al [regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679), relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la [direttiva 95/46/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31995L0046)», pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O.:   
+«Art. 154 (Compiti). - Omissis.   
+5-bis. Il parere di cui all'articolo 36, paragrafo 4, del Regolamento e' reso dal Garante nei soli casi in cui la legge o il regolamento in corso di adozione disciplina espressamente le modalita' del trattamento descrivendo una o piu' operazioni, compiute con o senza l'ausilio di processi automatizzati e applicate a dati personali o insiemi di dati personali, come la raccolta, la registrazione, l'organizzazione, la strutturazione, la conservazione, l'adattamento o la modifica, l'estrazione, la consultazione, l'uso, la comunicazione mediante trasmissione, diffusione o qualsiasi altra forma di messa a disposizione, il raffronto o l'interconnessione, la limitazione, la cancellazione o la distruzione, nonche' nei casi in cui la norma di legge o di regolamento autorizza espressamente un trattamento di dati personali da parte di soggetti privati senza rinviare la disciplina delle modalita' del trattamento a fonti sottoordinate.   
+Omissis.»   
+- Il [decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), recante il [Codice dell'amministrazione digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O.   
+- Il [decreto del Presidente della Repubblica del 16 aprile 2013, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;62), recante «Regolamento recante codice di comportamento dei dipendenti pubblici, a norma dell'[articolo 54 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art54)», e' pubblicato nella Gazzetta Ufficiale 4 giugno 2013, n. 129.   
+- Si riporta il testo dell'articolo 54, commi 1-bis e 7, del citato [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165):   
+«Art. 54. (Codice di comportamento). - Omissis.   
+1-bis. Il codice contiene, altresi', una sezione dedicata al corretto utilizzo delle tecnologie informatiche e dei mezzi di informazione e social media da parte dei dipendenti pubblici, anche al fine di tutelare l'immagine della pubblica amministrazione.   
+Omissis.   
+7. Le pubbliche amministrazioni verificano annualmente lo stato di applicazione dei codici e organizzano attivita' di formazione del personale per la conoscenza e la corretta applicazione degli stessi. Le pubbliche amministrazioni prevedono lo svolgimento di un ciclo formativo obbligatorio, sia a seguito di assunzione, sia in ogni caso di passaggio a ruoli o a funzioni superiori, nonche' di trasferimento del personale, le cui durata e intensita' sono proporzionate al grado di responsabilita', nei limiti delle risorse finanziarie disponibili a legislazione vigente, sui temi dell'etica pubblica e sul comportamento etico.»   
+- Si riporta il testo dell'[articolo 4, comma 2, del decreto-legge 30 aprile 2022, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-04-30;36~art4-com2) (Ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR)), convertito con modificazioni, dalla [legge 29 giugno 2022, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-29;79):   
+«Art. 4 (Aggiornamento dei codici di comportamento e formazione in tema di etica pubblica). - Omissis.   
+2. Il codice di comportamento di cui all'[articolo 54 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art54), e' aggiornato entro il 31 dicembre 2022 anche al fine di dare attuazione alle disposizioni di cui al comma 1, lettera a).»   
+  
+Note all'[art. 1:   
+- Per il decreto del Presidente della Repubblica 16 aprile 2013, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;62~art1), si vedano le premesse.   
+- Si riporta il testo degli articoli 12, commi 1 e 2, 13, 15 e 17, del citato [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-04-16;62), come modificato dal presente decreto:   
+«Art. 12 (Rapporti con il pubblico). - 1. Il dipendente in rapporto con il pubblico si fa riconoscere attraverso l'esposizione in modo visibile del badge od altro supporto identificativo messo a disposizione dall'amministrazione, salvo diverse disposizioni di servizio, anche in considerazione della sicurezza dei dipendenti, opera con spirito di servizio, correttezza, cortesia e disponibilita' e, nel rispondere alla corrispondenza, a chiamate telefoniche e ai messaggi di posta elettronica, opera nella maniera piu' completa e accurata possibile e, in ogni caso, orientando il proprio comportamento alla soddisfazione dell'utente. Qualora non sia competente per posizione rivestita o per materia, indirizza l'interessato al funzionario o ufficio competente della medesima amministrazione. Il dipendente, fatte salve le norme sul segreto d'ufficio, fornisce le spiegazioni che gli siano richieste in ordine al comportamento proprio e di altri dipendenti dell'ufficio dei quali ha la responsabilita' od il coordinamento. Nelle operazioni da svolgersi e nella trattazione delle pratiche il dipendente rispetta, salvo diverse esigenze di servizio o diverso ordine di priorita' stabilito dall'amministrazione, l'ordine cronologico e non rifiuta prestazioni a cui sia tenuto con motivazioni generiche. Il dipendente rispetta gli appuntamenti con i cittadini e risponde senza ritardo ai loro reclami.   
+2. Salvo il diritto di esprimere valutazioni e diffondere informazioni a tutela dei diritti sindacali, il dipendente si astiene da dichiarazioni pubbliche offensive nei confronti dell'amministrazione o che possano nuocere al prestigio, al decoro o all'immagine dell'amministrazione di appartenenza o della pubblica amministrazione in generale.»   
+«Art. 13 (Disposizioni particolari per i dirigenti).  
+- 1. Ferma restando l'applicazione delle altre disposizioni del Codice, le norme del presente articolo si applicano ai dirigenti, ivi compresi i titolari di incarico ai sensi dell'[articolo 19, comma 6, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19-com6) e dell'[articolo 110 del decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art110), ai soggetti che svolgono funzioni equiparate ai dirigenti operanti negli uffici di diretta collaborazione delle autorita' politiche, nonche' ai funzionari responsabili di posizione organizzativa negli enti privi di dirigenza.   
+2. Il dirigente svolge con diligenza le funzioni ad esso spettanti in base all'atto di conferimento dell'incarico, persegue gli obiettivi assegnati e adotta un comportamento organizzativo adeguato per l'assolvimento dell'incarico.   
+3. Il dirigente, prima di assumere le sue funzioni, comunica all'amministrazione le partecipazioni azionarie e gli altri interessi finanziari che possano porlo in conflitto di interessi con la funzione pubblica che svolge e dichiara se ha parenti e affini entro il secondo grado, coniuge o convivente che esercitano attivita' politiche, professionali o economiche che li pongano in contatti frequenti con l'ufficio che dovra' dirigere o che siano coinvolti nelle decisioni o nelle attivita' inerenti all'ufficio. Il dirigente fornisce le informazioni sulla propria situazione patrimoniale e le dichiarazioni annuali dei redditi soggetti all'imposta sui redditi delle persone fisiche previste dalla legge.   
+4. Il dirigente assume atteggiamenti leali e trasparenti e adotta un comportamento esemplare, in termini di integrita', imparzialita', buona fede e correttezza, parita' di trattamento, equita', inclusione e ragionevolezza e imparziale nei rapporti con i colleghi, i collaboratori e i destinatari dell'azione amministrativa.  
+Il dirigente cura, altresi', che le risorse assegnate al suo ufficio siano utilizzate per finalita' esclusivamente istituzionali e, in nessun caso, per esigenze personali.   
+4-bis. Il dirigente cura la crescita professionale dei collaboratori, favorendo le occasioni di formazione e promuovendo opportunita' di sviluppo interne ed esterne alla struttura di cui e' responsabile.   
+5. Il dirigente cura, compatibilmente con le risorse disponibili, il benessere organizzativo nella struttura a cui e' preposto, favorendo l'instaurarsi di rapporti cordiali e rispettosi tra i collaboratori, nonche' di relazioni, interne ed esterne alla struttura, basate su una leale collaborazione e su una reciproca fiducia e assume iniziative finalizzate alla circolazione delle informazioni, all'inclusione e alla valorizzazione delle differenze di genere, di eta' e di condizioni personali.   
+6. Il dirigente assegna l'istruttoria delle pratiche sulla base di un'equa ripartizione del carico di lavoro, tenendo conto delle capacita', delle attitudini e della professionalita' del personale a sua disposizione. Il dirigente affida gli incarichi aggiuntivi in base alla professionalita' e, per quanto possibile, secondo criteri di rotazione.   
+7. Il dirigente svolge la valutazione del personale assegnato alla struttura cui e' preposto con imparzialita' e rispettando le indicazioni ed i tempi prescritti, misurando il raggiungimento dei risultati ed il comportamento organizzativo.   
+8. Il dirigente intraprende con tempestivita' le iniziative necessarie ove venga a conoscenza di un illecito, attiva e conclude, se competente, il procedimento disciplinare, ovvero segnala tempestivamente l'illecito all'autorita' disciplinare, prestando ove richiesta la propria collaborazione e provvede ad inoltrare tempestiva denuncia all'autorita' giudiziaria penale o segnalazione alla corte dei conti per le rispettive competenze. Nel caso in cui riceva segnalazione di un illecito da parte di un dipendente, adotta ogni cautela di legge affinche' sia tutelato il segnalante e non sia indebitamente rilevata la sua identita' nel procedimento disciplinare, ai sensi dell'[articolo 54-bis del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art54bis).   
+9. Il dirigente, nei limiti delle sue possibilita', evita che notizie non rispondenti al vero quanto all'organizzazione, all'attivita' e ai dipendenti pubblici possano diffondersi. Favorisce la diffusione della conoscenza di buone prassi e buoni esempi al fine di rafforzare il senso di fiducia nei confronti dell'amministrazione.»   
+«Art. 15 (Vigilanza, monitoraggio e attivita' formative). - 1. Ai sensi dell'[articolo 54, comma 6, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art54-com6), vigilano sull'applicazione del presente Codice e dei codici di comportamento adottati dalle singole amministrazioni, i dirigenti responsabili di ciascuna struttura, le strutture di controllo interno e gli uffici etici e di disciplina.   
+2. Ai fini dell'attivita' di vigilanza e monitoraggio prevista dal presente articolo, le amministrazioni si avvalgono dell'ufficio procedimenti disciplinari istituito ai sensi dell'[articolo 55-bis, comma 4, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art55bis-com4) che svolge, altresi', le funzioni dei comitati o uffici etici eventualmente gia' istituiti.   
+3. Le attivita' svolte ai sensi del presente articolo dall'ufficio procedimenti disciplinari si conformano alle eventuali previsioni contenute nei piani di prevenzione della corruzione adottati dalle amministrazioni ai sensi dell'[articolo 1, comma 2, della legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~art1-com2). L'ufficio procedimenti disciplinari, oltre alle funzioni disciplinari di cui all'[articolo 55-bis e seguenti del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art55bis), cura l'aggiornamento del codice di comportamento dell'amministrazione, l'esame delle segnalazioni di violazione dei codici di comportamento, la raccolta delle condotte illecite accertate e sanzionate, assicurando le garanzie di cui all'[articolo 54-bis del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art54bis). Il responsabile della prevenzione della corruzione cura la diffusione della conoscenza dei codici di comportamento nell'amministrazione, il monitoraggio annuale sulla loro attuazione, ai sensi dell'[articolo 54, comma 7, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art54-com7), la pubblicazione sul sito istituzionale e della comunicazione all'Autorita' nazionale anticorruzione, di cui all'[articolo 1, comma 2, della legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~art1-com2), dei risultati del monitoraggio. Ai fini dello svolgimento delle attivita' previste dal presente articolo, l'ufficio procedimenti disciplinari opera in raccordo con il responsabile della prevenzione di cui all'[articolo 1, comma 7, della legge n. 190 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;190~art1-com7).   
+4. Ai fini dell'attivazione del procedimento disciplinare per violazione dei codici di comportamento, l'ufficio procedimenti disciplinari puo' chiedere all'Autorita' nazionale anticorruzione parere facoltativo secondo quanto stabilito dall'[articolo 1, comma 2, lettera d), della legge n. 190 del 2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012;190~art1-com2-letd).   
+5. Al personale delle pubbliche amministrazioni sono rivolte attivita' formative in materia di trasparenza e integrita', che consentano ai dipendenti di conseguire una piena conoscenza dei contenuti del codice di comportamento, nonche' un aggiornamento annuale e sistematico sulle misure e sulle disposizioni applicabili in tali ambiti.   
+5-bis. Le attivita' di cui al comma 5 includono anche cicli formativi sui temi dell'etica pubblica e sul comportamento etico, da svolgersi obbligatoriamente, sia a seguito di assunzione, sia in ogni caso di passaggio a ruoli o a funzioni superiori, nonche' di trasferimento del personale, le cui durata e intensita' sono proporzionate al grado di responsabilita'.   
+6. Le Regioni e gli enti locali, definiscono, nell'ambito della propria autonomia organizzativa, le linee guida necessarie per l'attuazione dei principi di cui al presente articolo.   
+7. Dall'attuazione delle disposizioni del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni provvedono agli adempimenti previsti nell'ambito delle risorse umane, finanziarie, e strumentali disponibili a legislazione vigente.»   
+«Art. 17 (Disposizioni finali e abrogazioni). - 1. Le amministrazioni danno la piu' ampia diffusione al presente decreto, pubblicandolo sul proprio sito internet istituzionale e nella rete intranet, nonche' trasmettendolo tramite e-mail a tutti i propri dipendenti e ai titolari di contratti di consulenza o collaborazione a qualsiasi titolo, anche professionale, ai titolari di organi e di incarichi negli uffici di diretta collaborazione dei vertici politici dell'amministrazione, nonche' ai collaboratori a qualsiasi titolo, anche professionale, di imprese fornitrici di servizi in favore dell'amministrazione. L'amministrazione, contestualmente alla sottoscrizione del contratto di lavoro o, in mancanza, all'atto di conferimento dell'incarico, consegna e fa sottoscrivere ai nuovi assunti, con rapporti comunque denominati, copia del codice di comportamento.   
+2. Le amministrazioni danno la piu' ampia diffusione ai codici di comportamento da ciascuna definiti ai sensi dell'articolo 54, comma 5, del citato [decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165) secondo le medesime modalita' previste dal comma 1 del presente articolo.   
+2-bis. Alle attivita' di cui al presente decreto le amministrazioni provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o ulteriori oneri a carico della finanza pubblica.   
+3. Il decreto del Ministro per la funzione pubblica in data 28 novembre 2000, recante "Codice di comportamento dei dipendenti delle pubbliche amministrazioni", [pubblicato nella Gazzetta Ufficiale n. 84 del 10 aprile 2001](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2001-04-10&numeroGazzetta=84), e' abrogato.».
+
+Art. 2
+------
+
+Clausola di invarianza finanziaria
+
+1. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono alle attivita' previste dal decreto medesimo mediante l'utilizzo delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 13 giugno 2023
+
+MATTARELLA
+
+Meloni, Presidente del Consiglio dei ministri
+
+Zangrillo, Ministro per la pubblica amministrazione
+
+Visto, il Guardasigilli: Nordio Registrato alla Corte dei conti il 26 giugno 2023 Ufficio di controllo sugli atti della Presidenza del Consiglio dei
+
+ministri, del Ministero della giustizia e del Ministero degli affari
+
+esteri e della cooperazione internazionale, n. 1844
