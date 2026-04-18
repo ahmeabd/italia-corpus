@@ -1,0 +1,80 @@
+LEGGE 30 luglio 2002 n. 180
+
+
+LEGGE 30 luglio 2002 n. 180
+===========================
+
+Delega al Governo per il recepimento delle direttive comunitarie 1999/45/CE, 1999/74/CE, 1999/105/CE, 2000/52/CE, 2001/109/CE, 2002/4/CE e 2002/25/CE.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+(Delega al Governo per l'attuazione  
+di direttive comunitarie)
+
+1. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle seguenti [direttive comunitarie: 1999/45/CE del Parlamento europeo e del Consiglio, del 31 maggio 1999](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0045), concernente il ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri relative alla classificazione, all'imballaggio e all'etichettatura dei preparati pericolosi; 1999/74/CE del Consiglio, del 19 luglio 1999, che stabilisce le norme minime per la protezione delle galline ovaiole; 1999/105/CE del Consiglio, del 22 dicembre 1999, relativa alla commercializzazione dei materiali forestali di moltiplicazione; 2000/52/CE della Commissione, del 26 luglio 2000, che modifica la [direttiva 80/723/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0723) relativa alla trasparenza delle relazioni finanziarie fra gli Stati membri e le loro imprese pubbliche; 2001/109/CE del Parlamento europeo e del Consiglio, del 19 dicembre 2001, relativa alle indagini statistiche da effettuarsi dagli Stati membri per determinare il potenziale di produzione delle piantagioni di talune specie di alberi da frutto; 2002/4/CE della Commissione, del 30 gennaio 2002, relativa alla registrazione degli stabilimenti di allevamento di galline ovaiole di cui alla [direttiva 1999/74/CE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0074); [2002/25/CE della Commissione, del 5 marzo 2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0025), che modifica la [direttiva 98/18/CE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0018) relativa alle disposizioni e norme di sicurezza per le navi da passeggeri.
+
+2. I decreti legislativi di cui al comma 1 sono adottati nel rispetto della procedura di cui all'[articolo 1, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-03-01;39~art1-com2) e [3, della legge 1º marzo 2002, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-03-01;39~art1-com3), e si informano ai principi e criteri direttivi di cui all'articolo 2 della medesima [legge n. 39 del 2002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002;39).
+
+3. Il Governo puo' emanare disposizioni integrative e correttive dei decreti legislativi emanati ai sensi del comma 1, entro un anno dalla data di entrata in vigore di ciascuno di essi, secondo la procedura e nel rispetto dei principi e criteri direttivi richiamati al comma 2.
+
+4. In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com5), i decreti legislativi di cui al comma 1 eventualmente adottati nelle materie di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano entrano in vigore, per le regioni e le province autonome nelle quali non siano ancora in vigore le rispettive normative di attuazione, alla data di scadenza del termine stabilito per l'attuazione delle direttive comunitarie e cessano comunque di avere efficacia a decorrere dalla data di entrata in vigore della normativa di attuazione adottata da ciascuna regione e provincia autonoma nel rispetto dei vincoli derivanti dall'ordinamento comunitario e, nelle materie di competenza concorrente, dei principi fondamentali stabiliti dalla legislazione dello Stato. A tale fine i decreti legislativi recano l'esplicita indicazione della natura sostitutiva e cedevole delle disposizioni in essi contenute.
+
+Avvertenza:  
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comm 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).  
+  
+Note all'[art. 1:  
+- La direttiva del 31 maggio 1999, n. 1999/45/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0045), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 30 luglio 1999, n. L200, reca: "Direttiva del Parlamento europeo e del Consiglio concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri relative alla classificazione, all'imballaggio e all'etichettatura dei preparati pericolosi".  
+- La [direttiva del 19 luglio 1999, n. 1999/74/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0074), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 3 agosto 1999, n. L203, reca: "Direttiva del Consiglio che stabilisce le norme minime per la protezione delle galline ovaiole".  
+- La [direttiva del 22 dicembre 1999, n. 1999/105/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0105), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 15 gennaio 2000, n. L11, reca: "Direttiva del Consiglio relativa alla commercializzazione dei materiali forestali di moltiplicazione".  
+- La [direttiva del 26 luglio 2000, n. 2000/52/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32000L0052), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 29 luglio 2000, n. L193, reca: "Direttiva della Commissione che modifica la [direttiva 80/723/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0723) relativa alla trasparenza delle relazioni finanziarie fra gli Stati membri e le loro imprese pubbliche".  
+- La [direttiva del 25 giugno 1980, n. 80/723/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0723), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 29 luglio 1980, n. L195, reca: "Direttiva della Commissione relativa alla trasparenza delle relazioni finanziarie tra gli Stati membri e le loro imprese pubbliche e alla trasparenza finanziaria all'interno di talune imprese".  
+- La [direttiva del 19 dicembre 2001, n. 2001/109/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0109), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 16 gennaio 2002, n. L13, reca: "Direttiva del Parlamento europeo e del Consiglio relativa alle indagini statistiche da effettuarsi dagli Stati membri per determinare il potenziale di produzione delle piantagioni di talune specie di alberi da frutto".  
+- La [direttiva del 30 gennaio 2002, n. 2002/4/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0004), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 31 gennaio 2002, n. L30, reca: "Direttiva della Commissione relativa alla registrazione degli stabilimenti di allevamento di galline ovaiole di cui alla [direttiva 1999/74/CE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0074)".  
+- La [direttiva del 5 marzo 2002, n. 2002/25/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0025), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 15 aprile 2002, n. L98, reca: "Direttiva della Commissione che modifica la [direttiva 98/18/CE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0018) relativa alle disposizioni e norme di sicurezza per le navi da passeggeri".  
+- La [direttiva del 17 marzo 1998, n. 98/18/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0018), pubblicata nella Gazzetta Ufficiale delle Comunita' europee 15 maggio 1998, n. L144, reca: "Direttiva del Consiglio relativa alle disposizioni e norme di sicurezza per le navi da passeggeri. Versione in vigore dal 1 gennaio 2003".  
+- La [legge 1 marzo 2002, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-03-01;39), pubblicata nella Gazzetta Ufficiale 26 marzo 2002, n. 72, supplemento ordinario, reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2001". Gli articoli 1, commi 2 e 3 e 2 cosi' recitano:  
+"Art. 1 (Delega al Governo per l'attuazione di direttive comunitarie). - 1. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.  
+2. I decreti legislativi sono adottati, nel rispetto dell'[art. 14 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art14), su proposta del Presidente del Consiglio dei Ministri o del Ministro per le politiche comunitarie e del Ministro con competenza istituzionale prevalente per la materia, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e con gli altri Ministri interessati in relazione all'oggetto della direttiva".  
+"Art. 2 (Principi e criteri direttivi generali della delega legislativa). - 1. Salvi gli specifici principi e criteri direttivi stabiliti negli articoli seguenti ed in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'art. 1 saranno informati ai seguenti principi e criteri direttivi generali:  
+a) le amministrazioni direttamente interessate provvederanno all'attuazione dei decreti legislativi con le ordinarie strutture ammini-strative;  
+b) per evitare disarmonie con le discipline vigenti per i singoli settori interessati dalla normativa da attuare, saranno introdotte le occorrenti modifiche o integrazioni alle discipline stesse;  
+c) salva l'applicazione delle norme penali vigenti, ove necessario per assicurare l'osservanza delle disposizioni contenute nei decreti legislativi, saranno previste sanzioni amministrative e penali per le infrazioni alle disposizioni dei decreti stessi. Le sanzioni penali, nei limiti, rispettivamente, dell'ammenda fino a 103.291 euro e dell'arresto fino a tre anni, saranno previste, in via alternativa o congiunta, solo nei casi in cui le infrazioni ledano o espongano a pericolo interessi generali dell'ordinamento interno, ivi compreso l'ecosistema. In tali casi saranno previste: la pena dell'ammenda alternativa all'arresto per le infrazioni che espongano a pericolo o danneggino l'interesse protetto; la pena dell'arresto congiunta a quella dell'ammenda per le infrazioni che rechino un danno di particolare gravita'. La sanzione amministrativa del pagamento di una somma non inferiore a 103 euro e non superiore a 103.291 euro sara' prevista per le infrazioni che ledano o espongano a pericolo interessi diversi da quelli sopra indicati.  
+Nell'ambito dei limiti minimi e massimi previsti, le sanzioni sopra indicate saranno determinate nella loro entita', tenendo conto della diversa potenzialita' lesiva dell'interesse protetto che ciascuna infrazione presenta in astratto, di specifiche qualita' personali del colpevole, comprese quelle che impongono particolari doveri di prevenzione, controllo o vigilanza, nonche' del vantaggio patrimoniale che l'infrazione puo' recare al colpevole o alla persona o ente nel cui interesse egli agisce. In ogni caso saranno previste sanzioni identiche a quelle eventualmente gia' comminate dalle leggi vigenti per le violazioni che siano omogenee e di pari offensivita' rispetto alle infrazioni alle disposizioni dei decreti legislativi;  
+d) eventuali spese non contemplate da leggi vigenti e che non riguardano l'attivita' ordinaria delle amministrazioni statali o regionali potranno essere previste nei soli limiti occorrenti per l'adempimento degli obblighi di attuazione delle direttive; alla relativa copertura, nonche' alla copertura delle minori entrate eventualmente derivanti dall'attuazione delle direttive, in quanto non sia possibile fare fronte con i fondi gia' assegnati alle competenti amministrazioni, si provvedera' a norma degli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183~art5) e [21 della legge 16 aprile 1987, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183~art21), osservando altresi' il disposto dell'[art. 11-ter, comma 2, della legge 5 agosto 1978, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468~art11ter-com2), e successive modificazioni;  
+e) all'attuazione di direttive che modificano precedenti direttive gia' attuate con legge o decreto legislativo si procedera', se la modificazione non comporta ampliamento della materia regolata, apportando le corrispondenti modifiche alla legge o al decreto legislativo di attuazione della direttiva modificata;  
+f) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate dalle direttive da attuare, la disciplina disposta sia pienamente conforme alle prescrizioni delle direttive medesime, tenuto anche conto delle eventuali modificazioni comunque intervenute fino al momento dell'esercizio della delega;  
+g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diverse o comunque siano coinvolte le competenze di piu' amministrazioni statali, i decreti legislativi individueranno, attraverso le piu' opportune forme di coordinamento, rispettando i principi di sussidiarieta', differenziazione e adeguatezza e le competenze delle regioni, le procedure per salvaguardare l'unitarieta' dei processi decisionali, la trasparenza, la celerita', l'efficacia e l'economicita' nell'azione amministrativa e la chiara individuazione dei soggetti responsabili".  
+- L'[art. 117, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com5) cosi' recita: "Le regioni e le province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalita' di esercizio del potere sostitutivo in caso di inadempienza".
+
+Art. 2
+------
+
+(Entrata in vigore)
+
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 30 luglio 2002
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Buttiglione, Ministro per le politiche comunitarie
+
+Visto, il Guardasigilli: Castelli
