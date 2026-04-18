@@ -1,0 +1,248 @@
+DECRETO LEGISLATIVO 25 novembre 2019 n. 154
+
+
+DECRETO LEGISLATIVO 25 novembre 2019 n. 154
+===========================================
+
+Norme di attuazione dello Statuto speciale della Regione autonoma Friuli-Venezia Giulia in materia di coordinamento della finanza pubblica. (19G00161)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/01/2020
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visto l'[articolo 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) recante «Statuto speciale della Regione autonoma Friuli-Venezia Giulia» e, in particolare l'articolo 51;
+
+Visto l'accordo tra il Ministro dell'economia e delle finanze e il Presidente della regione Friuli-Venezia Giulia in materia di finanza pubblica sottoscritto in data 25 febbraio 2019;
+
+Visto il [decreto-legge 30 aprile 2019, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-30;34), recante «Misure urgenti di crescita economica e per la risoluzione di specifiche situazioni di crisi» convertito, con modificazioni, dalla [legge 28 giugno 2019, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-06-28;58), ed in particolare l'articolo 33-ter;
+
+Sentita la commissione paritetica prevista dall'articolo 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 6 novembre 2019;
+
+Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli affari regionali e le autonomie, di concerto con il Ministro dell'economia e delle finanze;
+
+Emana
+-----
+
+il seguente decreto legislativo:
+
+Art. 1
+------
+
+Sistema integrato
+
+1. La Regione Friuli-Venezia Giulia, di seguito «Regione», gli enti locali situati sul suo territorio e i rispettivi enti strumentali e organismi interni costituiscono, ai fini del coordinamento della finanza pubblica, il sistema integrato degli enti territoriali del Friuli-Venezia Giulia, di seguito «sistema integrato».
+
+N O T E   
+  
+Avvertenza:   
+  
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
+  
+Note alle premesse:   
+  
+- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) disciplina le funzioni del Presidente della Repubblica. In particolare il comma 5 conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.   
+- La [legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante «Statuto speciale della Regione Friuli-Venezia Giulia.», e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. Si riporta, di seguito, il testo vigente dell'articolo 51:   
+«Art. 51. - Le entrate della Regione sono anche costituite dai redditi del suo patrimonio o da tributi propri che essa ha la facolta' di istituire con legge regionale, in armonia col sistema tributario dello Stato e dei Comuni, anche nella forma di Citta' metropolitane.   
+Il gettito relativo a tributi propri e a compartecipazioni e addizionali su tributi erariali che le leggi dello Stato attribuiscano agli enti locali spetta alla Regione con riferimento agli enti locali del proprio territorio, ferma restando la neutralita' finanziaria per il bilancio dello Stato.   
+Qualora la legge dello Stato attribuisca agli enti locali la disciplina dei tributi, delle addizionali o delle compartecipazioni di cui al secondo comma, spetta alla Regione individuare criteri, modalita' e limiti di applicazione di tale disciplina nel proprio territorio.   
+Nel rispetto delle norme dell'Unione europea sugli aiuti di Stato, la Regione puo':   
+a) con riferimento ai tributi erariali per i quali lo Stato ne prevede la possibilita', modificare le aliquote, in riduzione, oltre i limiti attualmente previsti e, in aumento, entro il livello massimo di imposizione stabilito dalla normativa statale, prevedere esenzioni dal pagamento, introdurre detrazioni di imposta e deduzioni dalla base imponibile;   
+b) nelle materie di propria competenza, istituire nuovi tributi locali, disciplinando, anche in deroga alla legge statale, tra l'altro, le modalita' di riscossione;   
+b-bis) disciplinare i tributi locali comunali di natura immobiliare istituiti con legge statale, anche in deroga alla medesima legge, definendone le modalita' di riscossione e consentire agli enti locali di modificare le aliquote e di introdurre esenzioni, detrazioni e deduzioni.   
+Il regime doganale e' di esclusiva competenza dello Stato.   
+Qualora la legge dello Stato istituisca un tributo di spettanza delle province, tale tributo e i poteri riconosciuti alle province in relazione allo stesso sono attribuiti alla Regione.».   
+- Il [decreto legge 30 aprile 2019, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-30;34), recante «Misure urgenti di crescita economica e per la risoluzione di specifiche situazioni di crisi», pubblicato nella Gazzetta Ufficiale 30 aprile 2019, n. 100, e' stato convertito con modificazioni nella [legge 28 giugno 2019, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-06-28;58), pubblicata nella Gazzetta Ufficiale 29 giugno 2019, n. 151, S.O.. Si riporta, di seguito, il testo vigente dell'articolo 33-ter:   
+«Art. 33-ter (Disposizioni in materia di regioni a statuto speciale). - 1. All'[articolo 1 della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1), dopo il comma 875 sono inseriti i seguenti:   
+"875-bis. - Le disposizioni dei commi da 875-ter a 875-septies sono approvate in attuazione dell'accordo sottoscritto il 25 febbraio 2019 tra il Ministro dell'economia e delle finanze e il Presidente della regione Friuli Venezia Giulia ai sensi del comma 875, con il quale e' data attuazione alle [sentenze della Corte costituzionale n. 77 del 2015](https://e-justice.europa.eu/ecli/ECLI::::), [n. 188 del 2016](https://e-justice.europa.eu/ecli/ECLI::::), [n. 154 del 2017](https://e-justice.europa.eu/ecli/ECLI::::) e [n. 103 del 2018](https://e-justice.europa.eu/ecli/ECLI::::).   
+875-ter. Il contributo alla finanza pubblica da parte del sistema integrato degli enti territoriali della regione Friuli Venezia Giulia in termini di saldo netto da finanziare e' stabilito nell'ammontare complessivo di 686 milioni di euro per l'anno 2019, di 726 milioni di euro per l'anno 2020 e di 716 milioni di euro per l'anno 2021.   
+875-quater. Lo Stato riconosce alla regione Friuli Venezia Giulia un trasferimento per spese di investimento pari a 400 milioni di euro per la manutenzione straordinaria di strade, scuole e immobili e per la realizzazione di opere idrauliche e idrogeologiche per la prevenzione dei danni atmosferici, da erogare in quote pari a 15 milioni di euro per ciascuno degli anni 2019 e 2020, a 80 milioni di euro per ciascuno degli anni dal 2021 al 2024 e a 50 milioni di euro per l'anno 2025, nonche' l'assegnazione di 80 milioni di euro per investimenti in ambito sanitario a valere sulle risorse ancora da ripartire del Programma straordinario di investimenti in sanita' di cui all'[articolo 20 della legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art20), da erogare nella misura del 20 per cento a titolo di acconto a seguito della sottoscrizione dell'accordo di programma e nella misura dell'80 per cento a seguito degli stati di avanzamento dei lavori. Lo schema dell'accordo di programma di cui al periodo precedente e' presentato dalla regione ai Ministeri competenti; in assenza di osservazioni entro il termine perentorio di sessanta giorni, l'accordo si intende sottoscritto ed e' esecutivo.   
+875-quinquies. All'[articolo 51, terzo comma, della legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1~art51-com3), dopo la parola: 'tributi' sono inserite le seguenti: ', delle addizionali'.   
+875-sexies. All'[articolo 51, quarto comma, della legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1~art51-com4), la lettera b) e' sostituita dalle seguenti:   
+"b) nelle materie di propria competenza, istituire nuovi tributi locali, disciplinando, anche in deroga alla legge statale, tra l'altro, le modalita' di riscossione;   
+b-bis) disciplinare i tributi locali comunali di natura immobiliare istituiti con legge statale, anche in deroga alla medesima legge, definendone le modalita' di riscossione e consentire agli enti locali di modificare le aliquote e di introdurre esenzioni, detrazioni e deduzioni".   
+875-septies. A decorrere dall'anno 2022, le risorse di cui al [comma 9 dell'articolo 11-bis del decreto-legge 14 dicembre 2018, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135~art11bis-com9), convertito, con modificazioni, dalla [legge 11 febbraio 2019, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-02-11;12), sono destinate all'aggiornamento del quadro delle relazioni finanziarie tra lo Stato e la regione Friuli Venezia Giulia".   
+2. All'onere di cui al [comma 875-ter dell'articolo 1 della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com875ter), introdotto dal comma 1 del presente articolo, si provvede, quanto a 30 milioni di euro per l'anno 2019, a 86 milioni di euro per l'anno 2020 e a 120 milioni di euro per l'anno 2021, mediante corrispondente riduzione del fondo di cui al comma 748 del citato [articolo 1 della legge n. 145 del 2018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145~art1). Al restante onere, pari a 24 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'[articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-29;282~art10-com5), convertito, con modificazioni, dalla [legge 27 dicembre 2004, n. 307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-27;307).   
+3. All'onere di cui al [comma 875-quater dell'articolo 1 della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com875quater), introdotto dal comma 1 del presente articolo, si provvede mediante corrispondente riduzione del fondo di cui al comma 126 del citato [articolo 1 della legge n. 145 del 2018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145~art1).   
+4. All'[articolo 1, comma 126, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com126), le parole: "15 marzo 2019" sono sostituite dalle seguenti: "15 luglio 2019", le parole: "31 marzo 2019" sono sostituite dalle seguenti: "31 luglio 2019" e le parole: "15 aprile 2019" sono sostituite dalle seguenti: «31 agosto 2019".   
+5. All'[articolo 1, comma 875, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com875), sono apportate le seguenti modificazioni:   
+a) le parole: "15 marzo 2019" sono sostituite dalle seguenti: "15 luglio 2019";   
+b) il terzo e il quinto periodo sono soppressi;   
+c) il quarto periodo e' sostituito dal seguente: "Per la regione Sardegna, l'importo del concorso previsto dai periodi precedenti e' versato al bilancio dello Stato entro il 10 agosto 2019 per l'anno 2019 ed entro il 30 aprile di ciascun anno per gli anni successivi; in mancanza di tale versamento entro il predetto termine, il Ministero dell'economia e delle finanze e' autorizzato a recuperare gli importi a valere sulle quote di compartecipazione ai tributi erariali".   
+6. All'[articolo 1 della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1), dopo il comma 886 e' inserito il seguente:   
+«886-bis. Le somme di cui ai commi 877 e 881 sono versate all'erario, con imputazione sul capitolo 3465, articolo 1, capo X, dell'entrata del bilancio dello Stato, entro il 10 agosto 2019 per l'anno 2019 ed entro il 30 aprile di ciascun anno per gli anni successivi. In mancanza di tali versamenti entro il termine di cui al precedente periodo, il Ministero dell'economia e delle finanze e' autorizzato a trattenere gli importi corrispondenti a valere sulle somme a qualsiasi titolo spettanti alla regione, anche avvalendosi dell'Agenzia delle entrate per le somme introitate per il tramite della struttura di gestione».   
+- Si riporta, di seguito, il testo vigente dell'articolo 65 dello Statuto speciale della Regione Friuli-Venezia Giulia ([Legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1)):   
+«Art. 65. - Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione.».
+
+Art. 2
+------
+
+Metodo dell'accordo
+
+1. Lo Stato e la Regione, con il metodo dell'accordo, regolano i rapporti finanziari tra lo Stato e il sistema integrato e disciplinano l'applicazione al medesimo sistema delle norme statali in materia di contenimento della spesa.
+
+2. Nel rispetto del principio di leale collaborazione, le trattative dirette alla conclusione dell'accordo si svolgono in un tempo adeguato ad un confronto effettivo, mediante scambio di proposte e controproposte motivate e orientate al superiore interesse pubblico.
+
+3. Salvo diversa indicazione espressa da parte della Regione, le intese concluse nell'ambito della conferenza di cui all'[articolo 12 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art12), non sostituiscono, ai fini del comma 1, il metodo dell'accordo.
+
+4. Le disposizioni contenute negli accordi conclusi ai sensi del comma 1 sono recepite in apposite norme di attuazione statutaria.
+
+Note all'[art. 2:   
+- La legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art2), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri.» e' pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O.. Si riporta di seguito il testo vigente dell'articolo 12:   
+«Art. 12 (Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome). - 1. E' istituita, presso la Presidenza del Consiglio dei ministri, la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, con compiti di informazione, consultazione e raccordo, in relazione agli indirizzi di politica generale suscettibili di incidere nelle materie di competenza regionale, esclusi gli indirizzi generali relativi alla politica estera, alla difesa e alla sicurezza nazionale, alla giustizia.   
+2. La Conferenza e' convocata dal Presidente del Consiglio dei ministri almeno ogni sei mesi, ed in ogni altra circostanza in cui il Presidente lo ritenga opportuno, tenuto conto anche delle richieste dei presidenti delle regioni e delle province autonome. Il Presidente del Consiglio dei ministri presiede la Conferenza, salvo delega al ministro per gli affari regionali o, se tale incarico non e' attribuito, ad altro ministro. La Conferenza e' composta dai presidenti delle regioni a statuto speciale e ordinario e dai presidenti delle province autonome. Il Presidente del Consiglio dei ministri invita alle riunioni della Conferenza i ministri interessati agli argomenti iscritti all'ordine del giorno, nonche' rappresentanti di amministrazioni dello Stato o di enti pubblici.   
+3. La Conferenza dispone di una segreteria, disciplinata con decreto del Presidente del Consiglio dei ministri, di concerto con il ministro per gli affari regionali.   
+4. Il decreto di cui al comma 3 deve prevedere l'inclusione nel contingente della segreteria di personale delle regioni o delle province autonome, il cui trattamento economico resta a carico delle regioni o delle province di provenienza.   
+5. La Conferenza viene consultata:   
+a) sulle linee generali dell'attivita' normativa che interessa direttamente le regioni e sulla determinazione degli obiettivi di programmazione economica nazionale e della politica finanziaria e di bilancio, salve le ulteriori attribuzioni previste in base al comma 7 del presente articolo;   
+b) sui criteri generali relativi all'esercizio delle funzioni statali di indirizzo e di coordinamento inerenti ai rapporti tra lo Stato, le regioni, le province autonome e gli enti infraregionali, nonche' sugli indirizzi generali relativi alla elaborazione ed attuazione degli atti comunitari che riguardano le competenze regionali;   
+c) sugli altri argomenti per i quali il Presidente del Consiglio dei ministri ritenga opportuno acquisire il parere della Conferenza.   
+6. Il Presidente del Consiglio dei ministri, o il ministro appositamente delegato, riferisce periodicamente alla Commissione parlamentare per le questioni regionali sulle attivita' della Conferenza.   
+7. Il Governo e' delegato ad emanare, entro un anno dalla data di entrata in vigore della presente legge, previo parere della Commissione parlamentare per le questioni regionali che deve esprimerlo entro sessanta giorni dalla richiesta, norme aventi valore di legge ordinaria intese a provvedere al riordino ed alla eventuale soppressione degli altri organismi a composizione mista Stato-regioni previsti sia da leggi che da provvedimenti amministrativi in modo da trasferire alla Conferenza le attribuzioni delle commissioni, con esclusione di quelle che operano sulla base di competenze tecnico-scientifiche, e rivedere la pronuncia di pareri nelle questioni di carattere generale per le quali debbano anche essere sentite tutte le regioni e province autonome, determinando le modalita' per l'acquisizione di tali pareri, per la cui formazione possono votare solo i presidenti delle regioni e delle province autonome.».
+
+Art. 3
+------
+
+Principi generali in materia di concorso   
+alla finanza pubblica
+
+1. Il sistema integrato contribuisce all'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea e partecipa alla solidarieta' nazionale:
+
+a) mantenendo i bilanci dei soggetti che lo compongono in equilibrio ai sensi degli [articoli 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97) e [119 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art119) e nel rispetto dei principi indicati nella [sentenza della Corte costituzionale n. 247 dell'11 ottobre 2017](https://e-justice.europa.eu/ecli/ECLI::::);
+
+b) corrispondendo un contributo in termini di saldo netto da finanziare, di durata transitoria, previamente concordato tra lo Stato e la Regione con le modalita' di cui all'articolo 2 e pagato dalla Regione per conto del sistema integrato, oppure realizzando sul territorio regionale opere pubbliche aventi rilevanza nazionale, concordate con lo Stato e le cui risorse siano iscritte sui pertinenti stati di previsione del bilancio statale, con oneri a proprio carico.
+
+2. Lo Stato e la Regione verificano che le misure di concorso alla finanza pubblica siano compatibili con la necessita' del sistema integrato di finanziare adeguatamente le funzioni ad esso attribuite o delegate. Le misure si presumono compatibili qualora concordate nel rispetto dell'articolo 2.
+
+3. La Regione puo' prevedere che agli enti non territoriali del sistema integrato che adottano la contabilita' finanziaria si applichi la medesima disciplina prevista per l'equilibrio di bilancio degli enti territoriali.
+
+Note all'art. 3:   
+- Si riportano di seguito gli [articoli 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97) e [119 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art119):   
+«Art. 97. - Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilita' del debito pubblico.   
+I pubblici uffici sono organizzati secondo disposizioni di legge, in modo che siano assicurati il buon andamento e la imparzialita' dell'amministrazione.   
+Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilita' proprie dei funzionari.   
+Agli impieghi nelle Pubbliche Amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge.»   
+«Art. 119. - I Comuni, le Province, le Citta' metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa, nel rispetto dell'equilibrio dei relativi bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea.   
+I Comuni, le Province, le Citta' metropolitane e le Regioni hanno risorse autonome. Stabiliscono e applicano tributi ed entrate propri, in armonia con la Costituzione e secondo i principi di coordinamento della finanza pubblica e del sistema tributario. Dispongono di compartecipazioni al gettito di tributi erariali riferibile al loro territorio.   
+La legge dello Stato istituisce un fondo perequativo, senza vincoli di destinazione, per i territori con minore capacita' fiscale per abitante.   
+Le risorse derivanti dalle fonti di cui ai commi precedenti consentono ai Comuni, alle Province, alle Citta' metropolitane e alle Regioni di finanziare integralmente le funzioni pubbliche loro attribuite.   
+Per promuovere lo sviluppo economico, la coesione e la solidarieta' sociale, per rimuovere gli squilibri economici e sociali, per favorire l'effettivo esercizio dei diritti della persona, o per provvedere a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua interventi speciali in favore di determinati Comuni, Province, Citta' metropolitane e Regioni.   
+I Comuni, le Province, le Citta' metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i principi generali determinati dalla legge dello Stato.  
+Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. E' esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.».
+
+Art. 4
+------
+
+Misure di concorso alla finanza pubblica a decorrere dall'esercizio 2019
+
+1. In attuazione dell'Accordo sottoscritto il 25 febbraio 2019 tra il Ministro dell'economia e delle finanze e il Presidente della Regione, il sistema integrato concorre alla finanza pubblica con un contributo in termini di saldo netto da finanziare di 686 milioni di euro per l'anno 2019, di 726 milioni di euro per l'anno 2020 e di 716 milioni di euro per l'anno 2021.
+
+2. Per gli anni successivi al 2021 lo Stato e la Regione, con accordo da concludersi entro il 30 giugno 2021, aggiornano il quadro delle relazioni finanziarie tra lo Stato e il sistema integrato.
+
+3. Le somme di cui al comma 1 sono versate all'erario con imputazione sul capitolo 3465, articolo 1, capo X, del bilancio dello Stato entro il 30 aprile di ciascun anno. In mancanza di tali versamenti all'entrata del bilancio dello Stato entro il 30 aprile, il Ministero dell'economia e delle finanze, e' autorizzato a trattenere gli importi corrispondenti a valere sulle somme a qualsiasi titolo spettanti alla Regione, anche avvalendosi dell'Agenzia delle entrate per le somme introitate per il tramite della struttura di gestione.
+
+4. Per gli anni 2019, 2020 e 2021, gli obblighi derivanti dal presente Accordo sostituiscono le misure di concorso alla finanza pubblica del sistema integrato, comunque denominate, previste da intese o da disposizioni di leggi vigenti, ivi compresa quella di cui all'[articolo 13, comma 17, del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art13-com17), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214).
+
+5. Per gli anni 2019, 2020 e 2021 e' fatta salva la facolta' da parte dello Stato di modificare il contributo di cui al comma 1 per un periodo di tempo limitato, nella misura massima del 10 per cento dei contributi tempo per tempo vigenti, per far fronte ad eccezionali esigenze di finanza pubblica. Nel caso in cui siano necessarie manovre straordinarie volte ad assicurare il rispetto delle norme europee in materia di riequilibrio del bilancio pubblico, il predetto contributo puo' essere aumentato, per un periodo di tempo limitato, di una percentuale ulteriore rispetto a quella indicata al periodo precedente, non superiore al 10 per cento. Contributi di importi superiori sono concordati con la Regione.
+
+6. Le facolta' di cui al comma 5, possono essere esercitate fino a che il rapporto tra il contributo e le entrate correnti della Regione non superi la media dei rapporti tra i contributi e le entrate correnti della Regione autonoma Valle d'Aosta e della Regione siciliana. Ai fini del calcolo del rapporto di cui al periodo precedente si tiene conto dei contributi di cui all'[articolo 1, commi 877](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com877) e [881, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com881), aumentati ai sensi dell'articolo 1, commi 878 e 882, della medesima legge, e delle entrate di titolo primo e secondo accertate in conto competenza risultanti dagli ultimi rendiconti disponibili con riferimento al medesimo esercizio finanziario, al netto delle contabilizzazioni derivanti da compensazioni e rimborsi in conto fiscale.
+
+7. E' confermato il credito della Regione di cui all'[articolo 1, comma 151, lettera a), della legge 13 dicembre 2010, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220~art1-com151-leta), che puo' essere compensato annualmente con il contributo alla finanza pubblica.
+
+8. A decorrere dall'esercizio successivo a quello in cui sono adottate le norme di cui all'articolo 51, comma 4, lettera b-bis), dello Statuto speciale della Regione Friuli-Venezia Giulia, in materia di tributi locali comunali di natura immobiliare, il gettito della riserva di cui all'[articolo 1, comma 380, lettera f), della legge 24 dicembre 2012, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228~art1-com380-letf), e' attribuito ai comuni situati nel territorio della Regione. A decorrere dal medesimo termine, nelle more della modifica dell'articolo 49 dello Statuto speciale della Regione Friuli-Venezia Giulia, finalizzata a ripristinare la neutralita' finanziaria nei rapporti tra lo Stato e il sistema integrato, la Regione corrisponde allo Stato la somma di 92 milioni di euro annui con le modalita' di cui al comma 3.   
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 novembre 2019   
+  
+MATTARELLA   
+  
+Conte, Presidente del Consiglio dei   
+ministri   
+  
+Boccia, Ministro per gli affari   
+regionali e le autonomie   
+  
+Gualtieri, Ministro dell'economia e   
+delle finanze   
+  
+Visto, il Guardasigilli: Bonafede
+
+Note all'[art. 4:   
+- Il decreto legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art4), recante "Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici" pubblicato nella Gazzetta Ufficiale 6 dicembre 2011, n. 284, S.O., e' convertito con modificazioni in [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), pubblicata nella Gazzetta Ufficiale 27 dicembre 2011, n. 300, S.O.. Si riporta di seguito il testo vigente del comma 17 dell'articolo 13:   
+«Art. 13 (Anticipazione sperimentale dell'imposta municipale propria). - (Omissis).   
+17. Il fondo sperimentale di riequilibrio, come determinato ai sensi dell'[articolo 2 del decreto legislativo 14 marzo 2011, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-14;23~art2), e il fondo perequativo, come determinato ai sensi dell'articolo 13 del medesimo [decreto legislativo n. 23 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;23), ed i trasferimenti erariali dovuti ai comuni della Regione Siciliana e della Regione Sardegna variano in ragione delle differenze del gettito stimato ad aliquota di base derivanti dalle disposizioni di cui al presente articolo. In caso di incapienza ciascun comune versa all'entrata del bilancio dello Stato le somme residue. Con le procedure previste dall'[articolo 27 della legge 5 maggio 2009, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-05-05;42~art27), le regioni Friuli-Venezia Giulia e Valle d'Aosta, nonche' le Province autonome di Trento e di Bolzano, assicurano il recupero al bilancio statale del predetto maggior gettito stimato dei comuni ricadenti nel proprio territorio. Fino all'emanazione delle norme di attuazione di cui allo stesso articolo 27, a valere sulle quote di compartecipazione ai tributi erariali, e' accantonato un importo pari al maggior gettito stimato di cui al precedente periodo. L'importo complessivo della riduzione del recupero di cui al presente comma e' pari per l'anno 2012 a 1.627 milioni di euro, per l'anno 2013 a 1.762,4 milioni di euro e per l'anno 2014 a 2.162 milioni di euro.   
+(Omissis).».   
+- La [legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), recante "Bilancio di previsione dello Stato per l'anno finanziario 2019 e bilancio pluriennale per il triennio 2019-2021" e' pubblicata nella Gazzetta Ufficiale 31 dicembre 2018, n. 302, S.O.. Si riportano di seguito i commi 877, 878, 881 e 882 dell'articolo 1:   
+«Art. 1. - (Omissis).   
+877. Il contributo alla finanza pubblica della regione autonoma Valle d'Aosta e' stabilito nell'ammontare complessivo di 194,726 milioni di euro per l'anno 2018, 112,807 milioni di euro per l'anno 2019 e 102,807 milioni di euro annui a decorrere dal 2020. Con i predetti contributi sono attuate le [sentenze della Corte costituzionale n. 77 del 2015](https://e-justice.europa.eu/ecli/ECLI::::), [n. 154 del 2017](https://e-justice.europa.eu/ecli/ECLI::::) e [n. 103 del 2018](https://e-justice.europa.eu/ecli/ECLI::::).   
+878. E' fatta salva la facolta' da parte dello Stato di modificare per un periodo di tempo definito il contributo posto a carico della regione Valle d'Aosta, per far fronte ad eventuali eccezionali esigenze di finanza pubblica nella misura massima del 10 per cento del contributo stesso; contributi di importi superiori sono concordati con la regione. Nel caso in cui siano necessarie manovre straordinarie volte ad assicurare il rispetto delle norme europee in materia di riequilibrio del bilancio pubblico, il predetto contributo puo' essere incrementato per un periodo limitato di una percentuale ulteriore, rispetto a quella indicata al periodo precedente, non superiore al 10 per cento.   
+(Omissis).   
+881. Il contributo alla finanza pubblica della Regione siciliana e' stabilito nell'ammontare complessivo di 1.304,945 milioni di euro per l'anno 2018 e 1.001 milioni di euro annui a decorrere dall'anno 2019. Con i predetti contributi sono attuate le [sentenze della Corte costituzionale n. 77 del 2015](https://e-justice.europa.eu/ecli/ECLI::::), [n. 154 del 2017](https://e-justice.europa.eu/ecli/ECLI::::) e [n. 103 del 2018](https://e-justice.europa.eu/ecli/ECLI::::).   
+882. E' fatta salva la facolta' da parte dello Stato di modificare per un periodo di tempo definito il contributo posto a carico della Regione siciliana, per far fronte ad eventuali eccezionali esigenze di finanza pubblica nella misura massima del 10 per cento del contributo stesso; contributi di importi superiori sono concordati con la regione. Nel caso in cui siano necessarie manovre straordinarie volte ad assicurare il rispetto delle norme europee in materia di riequilibrio del bilancio pubblico, il predetto contributo puo' essere incrementato per un periodo limitato di una percentuale ulteriore, rispetto a quella indicata al periodo precedente, non superiore al 10 per cento.   
+(Omissis).».   
+- La [legge 13 dicembre 2010, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilita' 2011).» e' pubblicata nella Gazzetta Ufficiale 21 dicembre 2010, n. 297, S.O.. Si riporta, di seguito, il testo vigente del comma 151 dell'articolo 1:   
+«Art. 1 (Gestioni previdenziali. Rapporti con le regioni. Risultati differenziali. Fondi e tabelle.). - (Omissis).   
+151. Lo Stato riconosce alla regione autonoma Friuli-Venezia Giulia una compartecipazione sulle ritenute sui redditi da pensione di cui all'articolo 49, comma 2, lettera a), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), e successive modificazioni, cosi' determinata:   
+a) per le annualita' 2008 e 2009, nell'importo complessivo di 960 milioni di euro che, al netto delle somme gia' attribuite alla regione per la medesima finalita', pari a 50 milioni di euro, sono trasferiti in ragione di 220 milioni di euro nel 2011, 170 milioni di euro nel 2012, 120 milioni di euro nel 2013, 70 milioni di euro nel 2014, 20 milioni di euro nel 2015, 30 milioni di euro nel 2016 e 20 milioni di euro annui nelle successive annualita' fino al 2030;   
+b) a decorrere dall'annualita' 2010, nella misura prevista dall'articolo 49, primo comma, numero 1), dello Statuto speciale della regione Friuli-Venezia Giulia, di cui alla [legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e successive modificazioni, secondo le modalita' di trasferimento individuate all'[articolo 1 del decreto legislativo 31 luglio 2007, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-07-31;137~art1).   
+(Omissis).».   
+- Il testo vigente dell'articolo 51 dello Statuto speciale della regione Friuli-Venezia Giulia e' riportato integralmente nelle note alle premesse.   
+La [legge 24 dicembre 2012, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - Legge di stabilita' 2013)» e' pubblicata nella Gazzetta Ufficiale 29 dicembre 2012, n. 302, S.O.. Si riporta, di seguito, il testo vigente del comma 380 dell'articolo 1:   
+«Art. 1 (Omissis). - 380. Al fine di assicurare la spettanza ai Comuni del gettito dell'imposta municipale propria, di cui all'[articolo 13 del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art13), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214):   
+a) e' soppressa la riserva allo Stato di cui al comma 11 del citato [articolo 13 del decreto-legge n. 201 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011;201~art13);   
+b) e' istituito, nello stato di previsione del Ministero dell'interno, il Fondo di solidarieta' comunale che e' alimentato con una quota dell'imposta municipale propria, di spettanza dei comuni, di cui al citato [articolo 13 del decreto-legge n. 201 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011;201~art13), definita con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'interno, previo accordo da sancire presso la Conferenza Stato-Citta' ed autonomie locali, da emanare entro il 30 aprile 2013 per l'anno 2013. In caso di mancato accordo, il decreto del Presidente del Consiglio dei Ministri e' comunque emanato entro i 15 giorni successivi.  
+L'ammontare iniziale del predetto Fondo e' pari, per l'anno 2013, a 4.717,9 milioni di euro. Corrispondentemente, nei predetti esercizi e' versata all'entrata del bilancio statale una quota di pari importo dell'imposta municipale propria, di spettanza dei comuni. A seguito dell'emanazione del decreto di cui al primo periodo, e' rideterminato l'importo da versare all'entrata del bilancio dello Stato.  
+La eventuale differenza positiva tra tale nuovo importo e lo stanziamento iniziale e' versata al bilancio statale, per essere riassegnata al fondo medesimo. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.  
+Le modalita' di versamento al bilancio dello Stato sono determinate con il medesimo D.P.C.M.;   
+c) la dotazione del Fondo di solidarieta' comunale di cui alla lettera b) e' incrementata della somma di 1.833,5 milioni di euro per l'anno 2013; i predetti importi considerano quanto previsto dal comma 381;   
+d) con il medesimo D.P.C.M. di cui alla lettera b) sono stabiliti i criteri di formazione e di riparto del Fondo di solidarieta' comunale, tenendo anche conto per i singoli comuni:   
+1) degli effetti finanziari derivanti dalle disposizioni di cui alle lettere a) ed f);   
+2) della definizione dei costi e dei fabbisogni standard;   
+3) della dimensione demografica e territoriale;   
+4) della dimensione del gettito dell'imposta municipale propria ad aliquota base di spettanza comunale;   
+5) della diversa incidenza delle risorse soppresse di cui alla lettera e) sulle risorse complessive per l'anno 2012;   
+6) delle riduzioni di cui al [comma 6 dell'articolo 16 del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art16-com6) (4), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135);   
+7) dell'esigenza di limitare le variazioni, in aumento ed in diminuzione, delle risorse disponibili ad aliquota base, attraverso l'introduzione di un'appropriata clausola di salvaguardia;   
+e) sono soppressi il fondo sperimentale di riequilibrio di cui all'[articolo 2 del decreto legislativo 14 marzo 2011, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-14;23~art2), nonche' i trasferimenti erariali a favore dei comuni della Regione Siciliana e della Regione Sardegna, limitatamente alle tipologie di trasferimenti fiscalizzati di cui ai decreti del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, del 21 giugno 2011 e del 23 giugno 2012;   
+f) e' riservato allo Stato il gettito dell'imposta municipale propria di cui all'articolo 13 del citato [decreto-legge n. 201 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011;201), derivante dagli immobili ad uso produttivo classificati nel gruppo catastale D, calcolato ad aliquota standard dello 0,76 per cento, prevista dal comma 6, primo periodo, del citato articolo 13; tale riserva non si applica agli immobili ad uso produttivo classificati nel gruppo catastale D posseduti dai comuni e che insistono sul rispettivo territorio. Per l'accertamento, la riscossione, i rimborsi, le sanzioni, gli interessi e il contenzioso si applicano le disposizioni vigenti in materia di imposta municipale propria. Le attivita' di accertamento e riscossione relative agli immobili ad uso produttivo classificati nel gruppo catastale D sono svolte dai comuni ai quali spettano le maggiori somme derivanti dallo svolgimento delle suddette attivita' a titolo di imposta, interessi e sanzioni. Tale riserva non si applica altresi' ai fabbricati rurali ad uso strumentale ubicati nei comuni classificati montani o parzialmente montani di cui all'elenco dei comuni italiani predisposto dall'Istituto nazionale di statistica (ISTAT), assoggettati dalle province autonome di Trento e di Bolzano all'imposta municipale propria ai sensi dell'[articolo 9, comma 8, del decreto legislativo 14 marzo 2011, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-14;23~art9-com8), e successive modificazioni;   
+g) i comuni possono aumentare sino a 0,3 punti percentuali l'aliquota standard dello 0,76 per cento, prevista dal comma 6, primo periodo del citato [articolo 13 del decreto-legge n. 201 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011;201~art13) per gli immobili ad uso produttivo classificati nel gruppo catastale D;   
+h) sono abrogati il [comma 11 dell'articolo 13 del decreto-legge n. 201 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011;201~art13-com11) e i [commi da 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;23~art2-com1) [a 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;23~art2-com5) e [da 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;23~art2-com7) [a 9 dell'articolo 2 del decreto legislativo n. 23 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;23~art2-com9). Il [comma 17 dell'articolo 13 del decreto-legge n. 201 del 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011;201~art13-com17) continua ad applicarsi nei soli territori delle regioni Friuli-Venezia Giulia e Valle d'Aosta e delle province autonome di Trento e di Bolzano;   
+i) gli importi relativi alle lettere a), c), e) ed f) possono essere modificati a seguito della verifica del gettito dell'imposta municipale propria riscontrato per il 2012, da effettuarsi ai sensi del comma 3 dell'articolo 5 dell'Accordo del 1° marzo 2012 presso la Conferenza Stato citta' e autonomie locali. Il Ministro dell'economia e delle finanze e autorizzato ad apportare le conseguenti variazioni compensative di bilancio.   
+(Omissis).».   
+- Si riporta, di seguito, il testo vigente dell'articolo 49 dello Statuto speciale della Regione Friuli-Venezia Giulia ([Legge costituzionale 31 gennaio 1963, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1)):   
+«Art. 49. - 1. Spettano alla Regione le seguenti quote di gettito delle sottoindicate entrate tributarie erariali:   
+a) i 2,975 decimi del gettito dell'accisa sulla benzina e i 3,034 decimi del gettito dell'accisa sul gasolio erogati nella Regione per uso di autotrazione;   
+b) i 5,91 decimi del gettito dell'accisa sull'energia elettrica consumata nella Regione;   
+c) i 5,91 decimi del gettito dell'accisa sui tabacchi lavorati immessi in consumo nella Regione;   
+d) i 5,91 decimi del gettito dell'imposta sul valore aggiunto (IVA) afferente all'ambito territoriale, esclusa l'IVA applicata alle importazioni, da determinare sulla base dei consumi regionali delle famiglie rilevati annualmente dall'Istituto nazionale di statistica;   
+e) i 5,91 decimi del gettito di qualsiasi altro tributo erariale, comunque denominato, maturato nell'ambito del territorio regionale, ad eccezione: delle accise diverse da quelle indicate alle lettere a), b) e c); dell'imposta di consumo sugli oli lubrificanti, sui bitumi di petrolio e altri prodotti; delle entrate correlate alle accise; della tassa sulle emissioni di anidride solforosa e di ossidi di azoto; delle entrate derivanti dai giochi; delle tasse automobilistiche; dei canoni di abbonamento alle radioaudizioni e alla televisione. Per i tributi erariali per i quali non e' individuabile il gettito maturato, si fa riferimento al gettito riscosso nel territorio regionale.   
+2. La devoluzione alla Regione delle quote di gettito dei tributi erariali indicati nel presente articolo e' effettuata al netto delle quote devolute ad altri enti pubblici e territoriali.   
+3. La Regione compartecipa al gettito delle imposte sostitutive istituite dallo Stato nella misura in cui ad essa o agli enti locali del suo territorio e' attribuito il gettito delle imposte sostituite.».
+
+Art. 4-bis
+----------
+
+(( (Misure di concorso alla finanza pubblica per gli anni dal 2022 al 2026). ))
+
+((
+
+1. In attuazione dell'Accordo sottoscritto il 22 ottobre 2021 tra il Ministro dell'economia e delle finanze e il Presidente della Regione, ai sensi di quanto previsto dall'articolo 3, comma 1, lettera b) e dall'articolo 4, comma 2, il sistema integrato concorre alla finanza pubblica con un contributo di 432,7 milioni di euro per l'anno 2022, 436,7 milioni di euro per ciascuno degli anni dal 2023 al 2025 e 432,7 milioni di euro per l'anno 2026.
+
+2. Per gli anni dal 2022 al 2026 il contributo di cui al comma 1 assolve integralmente agli obblighi di cui all'articolo 3, comma 1, lettera b), e sostituisce le misure di concorso alla finanza pubblica del sistema integrato, comunque denominate, previste da intese o da disposizioni di legge, comprese quelle di cui all'[articolo 1, commi 850](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178~art1-com850), [851](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178~art1-com851) e [852, della legge 30 dicembre 2020, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178~art1-com852).
+
+3. Per gli anni successivi al 2026 lo Stato e la Regione, con accordo da concludersi entro il 30 giugno 2026, aggiornano il quadro delle relazioni finanziarie tra lo Stato e il sistema integrato.
+
+4. Le somme di cui al comma 1 sono versate all'erario con imputazione sul capitolo 3465, articolo 1, capo X, del bilancio dello Stato entro il 30 aprile di ciascun anno. In mancanza di tali versamenti all'entrata del bilancio dello Stato entro il 30 aprile, il Ministero dell'economia e delle finanze e' autorizzato a trattenere gli importi corrispondenti a valere sulle somme a qualsiasi titolo spettanti alla Regione, anche avvalendosi dell'Agenzia delle entrate per le somme introitate per il tramite della struttura di gestione.
+
+5. Per gli anni dal 2022 al 2026 e' fatta salva la facolta' da parte dello Stato di modificare il contributo di cui al comma 1 per un periodo di tempo limitato, nella misura massima del 10 per cento dei contributi tempo per tempo vigenti, per far fronte ad eccezionali esigenze di finanza pubblica. Nel caso in cui siano necessarie manovre straordinarie volte ad assicurare il rispetto delle norme europee in materia di riequilibrio del bilancio pubblico, il predetto contributo puo' essere aumentato, per un periodo di tempo limitato, di una percentuale ulteriore rispetto a quella indicata al primo periodo, non superiore al 10 per cento. Contributi di importi superiori sono concordati con la Regione.
+
+6. Le facolta' di cui al comma 5 possono essere esercitate fino a che il rapporto tra il contributo di cui al comma 1 e le entrate correnti della Regione non superi la media dei rapporti tra i contributi e le entrate correnti delle altre Autonomie speciali. Ai fini del calcolo del rapporto di cui al primo periodo si tiene conto delle entrate di titolo primo e secondo accertate in conto competenza risultanti dagli ultimi rendiconti disponibili.
+
+7. E' confermato il credito della Regione di cui all'[articolo 1, comma 151, lettera a), della legge 13 dicembre 2010, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220~art1-com151-leta), che puo' essere compensato annualmente con il contributo alla finanza pubblica.
+
+))

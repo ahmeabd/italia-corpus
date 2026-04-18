@@ -1,0 +1,214 @@
+DECRETO LEGISLATIVO 30 maggio 2005 n. 145
+
+
+DECRETO LEGISLATIVO 30 maggio 2005 n. 145
+=========================================
+
+Attuazione della direttiva 2002/73/CE in materia di parita' di trattamento tra gli uomini e le donne, per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionale e le condizioni di lavoro.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/8/2005
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+
+Vista la [direttiva 2002/73/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0073), che modifica la [direttiva 76/207/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0207), relativa all'attuazione del principio della parita' di trattamento tra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionali e le condizioni di lavoro;
+
+Visto l'[articolo 17 della legge 31 ottobre 2003, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306~art17), ed in particolare l'allegato B;
+
+Vista la [legge 20 maggio 1970, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), recante norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro e norme sul collocamento;
+
+Vista la [legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903), e successive modificazioni, recante parita' di trattamento tra uomini e donne in materia di lavoro;
+
+Vista la [legge 10 aprile 1991, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-10;125), e successive modificazioni, recante azioni positive per la realizzazione della parita' uomo-donna nel lavoro;
+
+Visto il [decreto legislativo 23 maggio 2000, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-23;196), recante disciplina dell'attivita' delle consigliere e dei consiglieri di parita' e disposizioni in materia di azioni positive, a norma dell'[articolo 47 della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art47);
+
+Visto il [decreto legislativo 26 marzo 2001, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;151), recante testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[articolo 15 della legge 8 marzo 2000, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53~art15);
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 marzo 2005;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adotta nella riunione del 27 maggio 2005;
+
+Sulla proposta del Ministro per le politiche comunitarie, del Ministro del lavoro e delle politiche sociali, del Ministro per la funzione pubblica e del Ministro per le pari opportunita', di concerto con il Ministro degli affari esteri, con il Ministro della giustizia e con il Ministro dell'economia e delle finanze;
+
+Emana
+-----
+
+il seguente decreto legislativo:
+
+Art. 1
+------
+
+Ambito di applicazione
+
+1. Il presente decreto integra le disposizioni gia' vigenti in materia di attuazione del principio della parita' di trattamento tra gli uomini e le donne e di promozione della parita' attraverso azioni positive, per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionali e le condizioni di lavoro.
+
+Avvertenza:  
+  
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).  
+  
+Note alle premesse:  
+  
+- L'[art. 76 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.  
+- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di' legge ed i regolamenti.  
+- La [direttiva 2002/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0073) e' pubblicata in GUCE n. L 269 del 5 ottobre 2002.  
+- La [direttiva 76/207/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0207) e' pubblicata in GUCE n. L 39 del 14 febbraio 1976.  
+- Si riporta il testo dell'art. 17 e dell'allegato B della [legge 31 ottobre 2003, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2003», e pubblicata nella Gazzetta Ufficiale 15 novembre 2003, n. 266, S.O.:  
+«Art. 17 (Delega al Governo per l'attuazione della [direttiva 2002/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0073) che modifica la [direttiva 76/207/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0207) relativa all'attuazione del principio della parita' di trattamento tra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionali e le condizioni di lavoro). - 1. Il Governo e' delegato ad adottare, entro il termine e con le modalita' di cui all'art. 1, commi 1, 2 e 3, uno o piu' decreti legislativi al fine di dare organica attuazione alla [direttiva 2002/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0073) che modifica la [direttiva 76/207/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0207), apportando le modifiche strettamente necessarie alle disposizioni vigenti in materia di parita' di trattamento tra gli uomini e le dorme per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionali e le condizioni di lavoro, facendo salve le disposizioni vigenti compatibili con la citata [direttiva 2002/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0073), nel rispetto dei seguenti principi e criteri direttivi:  
+a) garantire l'effettiva applicazione del principio di parita' di trattamento tra uomini e donne in materia di lavoro, assicurando che le differenze di genere non siano causa di discriminazione diretta o indiretta, in un'ottica che tenga conto delle condizioni relative allo stato matrimoniale o di famiglia, per quanto attiene alle seguenti aree: condizioni di accesso all'occupazione e al lavoro, sia dipendente che autonomo, compresi i criteri di selezione e le condizioni di assunzione, indipendentemente dal ramo di attivita' e a tutti i livelli della gerarchia professionale; svolgimento del rapporto di lavoro, comprese le condizioni di lavoro, la retribuzione, le promozioni e le condizioni del licenziamento; accesso a tutti i tipi e i livelli di orientamento e di formazione, di perfezionamento e di riqualificazione professionale, inclusi i tirocini; attivita' prestata presso le organizzazioni dei lavoratori o dei datori di lavoro e accesso alle prestazioni erogate da tali organizzazioni;  
+b) definire la nozione di discriminazione come «diretta» quando una persona e' trattata meno favorevolmente, in base al sesso, di quanto sia, sia stata o sarebbe trattata un'altra in una situazione analoga; definire la nozione di discriminazione «indiretta» quando una disposizione, un criterio o una prassi, apparentemente neutri, mettono o possono mettere in una situazione di particolare svantaggio le persone di un determinato sesso, rispetto a persone dell'altro sesso, salvo che, nel caso di attivita' di lavoro, caratteristiche specifiche di sesso costituiscano requisiti essenziali al loro svolgimento; definire la nozione di «molestie» quando viene posto in essere, per ragioni connesse al sesso, un comportamento indesiderato e persistente, avente lo scopo o l'effetto di violare la dignita' di una persona o di creare un clima intimidatorio, ostile e degradante, tenuto conto delle circostanze, anche ambientali; definire la nozione di «molestie sessuali» quando il suddetto comportamento abbia in maniera manifesta una connotazione sessuale; considerare le molestie e le molestie sessuali come discriminazioni;  
+c) prevedere l'applicazione del principio di parita' di trattamento senza distinzione di sesso in tutti i settori di lavoro, sia pubblici che privati, nel rispetto di quanto previsto dall'[art. 1, commi quarto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art1-com4) e [quinto, della legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art1-com5), assicurando che, ferma restando la normativa di settore, sia azionabile da parte di coloro che si ritengono lesi una tutela giurisdizionale o amministrativa, con la garanzia di una riparazione o di un equo indennizzo;  
+d) attuare quanto previsto dal [paragrafo 3 dell'art. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1976;207~art6-par3) e dagli [articoli 8-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1976;207~art8bis), [8-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1976;207~art8ter), [8-quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1976;207~art8quater) e [8-quinquies della direttiva 76/207/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0207), come modificata dalla [direttiva 2002/73/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0073), tenuto conto della normativa nazionale vigente, e, in particolare, di quanto previsto dagli [articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art15) e [16 della legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art16), dalla [legge 10 aprile 1991, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-10;125), e dalla disciplina relativa alla istituzione degli organismi di parita';  
+e) prevedere misure adeguate per incoraggiare il dialogo fra le parti sociali al fine di promuovere il principio della parita' di trattamento anche attraverso accordi nell'ambito della contrattazione collettiva, codici di comportamento, scambi di esperienze e pratiche nonche' il monitoraggio della prassi sui luoghi di lavoro.».  
+  
+«Allegato B (Art. 1, commi 1 e 3)   
+96/61/CE del Consiglio, del 24 settembre 1996, sulla prevenzione e la riduzione integrate dell'inquinamento.  
+1999/22/CE del Consiglio, del 29 marzo 1999, relativa alla custodia degli animali selvatici nei giardini zoologici.  
+1999/63/CE del Consiglio, del 21 giugno 1999, relativa all'accordo sull'organizzazione dell'orario di lavoro della gente di mare concluso dall'Associazione armatori della Comunita' europea (ECSA) e dalla Federazione dei sindacati dei trasportatori dell'Unione europea (FST).  
+2000/60/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2000, che istituisce un quadro per l'azione comunitaria in materia di acque.  
+2000/76/CE del Parlamento europeo e del Consiglio, del 4 dicembre 2000, sull'incenerimento dei rifiuti.  
+2000/79/CE del Consiglio, del 27 novembre 2000, relativa all'attuazione dell'accordo europeo sull'organizzazione dell'orario di lavoro del personale di volo nell'aviazione civile concluso da Association of European Airlines (AEA), European Transport Workers' Federation (ETF), European Cockpit Association (ECA), European Regions Airline Association (ERA) e International Air Carrier Association (IACA).  
+2001/16/CE del Parlamento europeo e del Consiglio, del 19 marzo 2001, relativa all'interoperabilita' del sistema ferroviario transeuropeo convenzionale.  
+2001/86/CE del Consiglio, dell'8 ottobre 2001, che completa lo statuto della Societa' europea per quanto riguarda il coinvolgimento dei lavoratori.  
+2002/30/CE del Parlamento europeo e del Consiglio, del 26 marzo 2002, che istituisce norme e procedure per l'introduzione di restrizioni operative ai fini del contenimento del rumore negli aeroporti della Comunita'.  
+2002/44/CE del Parlamento europeo e del Consiglio, del 25 giugno 2002, sulle prescrizioni minime di sicurezza e di salute relative all'esposizione dei lavoratori ai rischi derivanti dagli agenti fisici (vibrazioni) (sedicesima direttiva particolare ai sensi dell'[art. 16, paragrafo 1, della direttiva 89/391/CEE)](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989L0391).  
+2002/49/CE del Parlamento europeo e del Consiglio, del 25 giugno 2002, relativa alla determinazione e alla gestione del rumore ambientale.  
+2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002, relativa al trattamento dei dati personali e alla tutela della vita privata nel settore delle comunicazioni elettroniche (direttiva relativa alla vita privata e alle comunicazioni elettroniche).  
+2002/65/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002, concernente la commercializzazione a distanza di servizi finanziari ai consumatori e che modifica la [direttiva 90/619/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31990L0619) e le [direttive 97/7/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0007) e [98/27/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0027).  
+2002/73/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002, che modifica la [direttiva 76/207/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0207) relativa all'attuazione del principio della parita' di trattamento tra gli uomini e le donne per quanto riguarda l'accesso al lavoro, alla formazione e alla promozione professionali e le condizioni di lavoro.  
+2002/74/CE del Parlamento europeo e del Consiglio, del 23 settembre 2002, che modifica la [direttiva 80/987/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31980L0987) concernente il ravvicinamento delle legislazioni degli Stati membri relative alla tutela dei lavoratori subordinati in caso di insolvenza del datore di lavoro.  
+2002/84/CE del Parlamento europeo e del Consiglio, del 5 novembre 2002, che modifica le direttive in materia di sicurezza marittima e di prevenzione dell'inquinamento provocato dalle navi.  
+2002/87/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2002, relativa alla vigilanza supplementare sugli enti creditizi, sulle imprese di assicurazione e sulle imprese di investimento appartenenti ad un conglomerato finanziario e che modifica le [direttive 73/239/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31973L0239), [79/267/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31979L0267), [92/49/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0049), [92/96/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992L0096), [93/6/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0006) e [93/22/CEE del Consiglio e le direttive](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0022) [98/78/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0078) e [200/12/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0200).  
+2002/89/CE del Consiglio, del 28 novembre 2002, che modifica la [direttiva 2000/29/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32000L0029) concernente le misure di protezione contro l'introduzione nella Comunita' di organismi nocivi ai vegetali o ai prodotti vegetali e contro la loro diffusione nella Comunita'.  
+2002/90/CE del Consiglio, del 28 novembre 2002, volta a definire il favoreggiamento dell'ingresso, del transito e del soggiorno illegali.  
+2002/92/CE del Parlamento europeo e del Consiglio, del 9 dicembre 2002, sulla intermediazione assicurativa.  
+2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sulla restrizione dell'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche.  
+2002/96/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, sui rifiuti di apparecchiature elettriche ed elettroniche (RAEE).  
+2003/4/CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, sull'accesso del pubblico all'informazione ambientale e che abroga la [direttiva 90/313/CEE del Consiglio, del 7 giugno 1990](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31990L0313).  
+2003/6/CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, relativa all'abuso di informazioni privilegiate e alla manipolazione del mercato (abusi di mercato).  
+2003/17/CE del Parlamento europeo e del Consiglio, del 3 marzo 2003, che modifica la [direttiva 98/70/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0070) relativa alla qualita' della benzina e del combustibile diesel.  
+2003/24/CE del Parlamento europeo e del Consiglio, del 14 aprile 2003, che modifica la [direttiva 98/18/CE del Consiglio, del 17 marzo 1998](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0018), relativa alle disposizioni e norme di sicurezza per le navi da passeggeri.  
+2003/25/CE del Parlamento europeo e del Consiglio, del 14 aprile 2003, concernente requisiti specifici di stabilita' per le navi ro/ro da passeggeri.  
+2003/33/CE del Parlamento europeo e del Consiglio, del 26 maggio 2003, sul ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di pubblicita' e di sponsorizzazione a favore dei prodotti del tabacco.».  
+2003/43/CE del Consiglio, del 26 maggio 2003, recante modifica della [direttiva 88/407/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31988L0407) che stabilisce le esigenze di polizia sanitaria applicabili agli scambi intracomunitari e alle importazioni di sperma di animali della specie bovina.  
+2003/44/CE del Parlamento europeo e del Consiglio, del 16 giugno 2003, che modifica la [direttiva 94/25/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994L0025) sul ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri riguardanti le imbarcazioni da diporto.  
+2003/50/CE del Consiglio, dell'11 giugno 2003, che modifica la [direttiva 91/68/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0068) per quanto riguarda il rafforzamento dei controlli sui movimenti di ovini e caprini.».  
+- La [legge 20 maggio 1970, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), reca: «Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro e norme sul collocamento.».  
+- La [legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903), reca: «Parita' di trattamento tra uomini e donne in materia di lavoro.».  
+- La [legge 10 aprile 1991, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-10;125), reca: «Azioni positive per la realizzazione della parita' uomo-donna nel lavoro.».  
+- Il [decreto legislativo 26 marzo 2001, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;151), reca: «Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'[art. 15 della legge 8 marzo 2000, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53~art15).».  
+- Si riporta il testo dell'[art. 15, della legge 8 marzo 2000, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-08;53~art15), recante: «Disposizioni per il sostegno della maternita' e della paternita', per il diritto alla cura e alla formazione e per il coordinamento dei tempi delle citta», pubblicata nella Gazzetta Ufficiale 13 marzo 2000, n. 60:  
+«Art. 15 (Testo unico). - 1. Al fine di conferire organicita' e sistematicita' alle norme in materia di tutela e sostegno della maternita' e della paternita', entro dodici mesi dalla data di entrata in vigore della presente legge, il Governo e' delegato ad emanare un decreto legislativo recante il testo unico delle disposizioni legislative vigenti in materia, nel rispetto dei seguenti principi e criteri direttivi:  
+a) puntuale individuazione del testo vigente delle norme;  
+b) esplicita indicazione delle norme abrogate, anche implicitamente, da successive disposizioni;  
+c) coordinamento formale del testo delle disposizioni vigenti, apportando, nei limiti di detto coordinamento, le modifiche necessarie per garantire la coerenza logica e sistematica della normativa, anche al fine di adeguare e semplificare il linguaggio normativo;  
+d) esplicita indicazione delle disposizioni, non inserite nel testo unico, che restano comunque in vigore;  
+e) esplicita abrogazione di tutte le rimanenti disposizioni, non richiamate, con espressa indicazione delle stesse in apposito allegato al testo unico;  
+f) esplicita abrogazione delle norme secondarie incompatibili con le disposizioni legislative raccolte nel testo unico.  
+2. Lo schema del decreto legislativo di cui al comma 1 e' deliberato dal Consiglio dei Ministri ed e' trasmesso, con apposita relazione cui e' allegato il parere del Consiglio di Stato, alle competenti Commissioni parlamentari permanenti, che esprimono il parere entro quarantacinque giorni dall'assegnazione.  
+3. Entro due anni dalla data di entrata in vigore del decreto legislativo di cui al comma 1 possono essere emanate, nel rispetto dei principi e criteri direttivi di cui al medesimo comma 1 e con le modalita' di cui al comma 2, disposizioni correttive del testo unico.».
+
+Art. 2
+------
+
+Modifiche alla legge 10 aprile 1991, n. 125, in materia di azioni positive per la realizzazione della parita' uomo-donna nel lavoro
+
+1. All'[articolo 4 della legge 10 aprile 1991, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-10;125~art4), sono apportate le seguenti modificazioni:
+
+a) il comma 1 e' sostituito dal seguente:  
+«1. Costituisce discriminazione diretta, ai sensi della [legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903), e della presente legge, qualsiasi atto, patto o comportamento che produca un effetto pregiudizievole discriminando le lavoratrici o i lavoratori in ragione del loro sesso e comunque il trattamento meno favorevole rispetto a quello di un'altra lavoratrice o di un altro lavoratore in situazione analoga.»;
+
+b) il comma 2 e' sostituito dal seguente:  
+«2. Si ha discriminazione indiretta, ai sensi della [legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903), e della presente legge, quando una disposizione, un criterio, una prassi, un atto, un patto o un comportamento apparentemente neutri mettono o possono mettere i lavoratori di un determinato sesso in una posizione di particolare svantaggio rispetto a lavoratori dell'altro sesso, salvo che riguardino requisiti essenziali allo svolgimento dell'attivita' lavorativa, purche' l'obiettivo sia legittimo e i mezzi impiegati per il suo conseguimento siano appropriati e necessari.»;
+
+c) dopo il comma 2 sono inseriti i seguenti:  
+«2-bis. Sono considerate come discriminazioni anche le molestie, ovvero quei comportamenti indesiderati, posti in essere per ragioni connesse al sesso, aventi lo scopo o l'effetto di violare la dignita' di una lavoratrice o di un lavoratore e di creare un clima intimidatorio, ostile, degradante, umiliante o offensivo.  
+2-ter. Sono, altresi', considerate come discriminazioni le molestie sessuali, ovvero quei comportamenti indesiderati a connotazione sessuale, espressi in forma fisica, verbale o non verbale, aventi lo scopo o l'effetto di violare la dignita' di una lavoratrice o di un lavoratore e di creare un clima intimidatorio, ostile, degradante, umiliante o offensivo.  
+2-quater. Gli atti, i patti o i provvedimenti concernenti il rapporto di lavoro dei lavoratori o delle lavoratrici vittime dei comportamenti di cui ai commi 2-bis e 2-ter sono nulli se adottati in conseguenza del rifiuto o della sottomissione ai comportamenti medesimi. Sono considerati, altresi', discriminazioni quei trattamenti sfavorevoli da parte del datore di lavoro che costituiscono una reazione ad un reclamo o ad una azione volta ad ottenere il rispetto del principio di parita' di trattamento tra uomini e donne.»;
+
+d) al comma 9 dopo le parole: «comma 8,» sono inserite le seguenti: «oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale,»;
+
+e) al comma 10 dopo le parole: «immediatamente esecutivo», sono inserite le seguenti: «, oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, nei limiti della prova fornita,»;
+
+f) al comma 12, le parole: «dei commi 1 e 2» sono sostituite dalle seguenti: «del presente articolo».
+
+Nota all'[art. 2:  
+- Per la legge 10 aprile 1991, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-10;125~art2), vedi note alle premesse. Il testo dell'art. 4, cosi' come modificato dal decreto qui pubblicato, e' il seguente:  
+«Art. 4 (Azioni in giudizio). - 1. Costituisce discriminazione diretta, ai sensi della [legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903), e della presente legge, qualsiasi atto, patto o comportamento che produca un effetto pregiudizievole discriminando le lavoratrici o i lavoratori in ragione del loro sesso e comunque il trattamento meno favorevole rispetto a quello di un'altra lavoratrice o di un altro lavoratore in situazione analoga.  
+2. Si ha discriminazione indiretta, ai sensi della [legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903), e della presente legge, quando una disposizione, un criterio, una prassi, un atto, un patto o un comportamento apparentemente neutri mettono o possono mettere i lavoratori di un determinato sesso in una posizione di particolare svantaggio rispetto a lavoratori dell'altro sesso, salvo che riguardino requisiti essenziali allo svolgimento dell'attivita' lavorativa, purche' l'obiettivo sia legittimo e i mezzi impiegati per il suo conseguimento siano appropriati e necessari.  
+2-bis. Sono considerate come discriminazioni anche le molestie, ovvero quei comportamenti indesiderati, posti in essere per ragioni connesse al sesso, aventi lo scopo o l'effetto di violare la dignita' di una lavoratrice o di un lavoratore e di creare un clima intimidatorio, ostile, degradante, umiliante o offensivo.  
+2-ter. Sono, altresi', considerate come discriminazioni le molestie sessuali, ovvero quei comportamenti indesiderati a connotazione sessuale, espressi in forma fisica, verbale o non verbale, aventi lo scopo o l'effetto di violare la dignita' di una lavoratrice o di un lavoratore e di creare un clima intimidatorio ostile, degradante, umiliante o offensivo  
+2-quater. Gli atti, i patti o i provvedimenti concernenti il rapporto di lavoro dei lavoratori o delle lavoratrici vittime dei comportamenti di cui ai commi 2-bis e 2-ter sono nulli se adottati in conseguenza del rifiuto o della sottomissione ai comportamenti medesimi. Sono considerati, altresi', discriminazioni quei trattamenti sfavorevoli da parte del datore di lavoro che costituiscono una reazione ad un reclamo o ad una azione volta ad ottenere il rispetto del principio di parita' di trattamento tra uomini e donne.  
+3. Nei concorsi pubblici e nelle forme di selezione attuate, anche a mezzo di terzi, da datori di lavoro privati e pubbliche amministrazioni la prestazione richiesta dev'essere accompagnata dalle parole «dell'uno o dell'altro sesso», fatta eccezione per i casi in cui il riferimento al sesso costituisca requisito essenziale per la natura del lavoro o della prestazione.  
+4. Chi intende agire in giudizio per la dichiarazione delle discriminazioni ai sensi dei commi 1 e 2 e non ritiene di avvalersi delle procedure di conciliazione previste dai contratti collettivi, puo' promuovere il tentativo di conciliazione ai sensi dell'[art. 410 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art410) o, rispettivamente, dell'[art. 69-bis del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art69bis), anche tramite la consigliera o il consigliere di parita' provinciale o regionale territorialmente competente.  
+5. Le consigliere o i consiglieri di parita' provinciali e regionali competenti per territorio, ferme restando le azioni in giudizio di cui ai commi 8 e 10, hanno facolta' di ricorrere innanzi al tribunale in funzione di giudice del lavoro o, per i rapporti sottoposti alla sua giurisdizione, al tribunale amministrativo regionale territorialmente competenti, su delega della persona che vi ha interesse, ovvero di intervenire nei giudizi promossi dalla medesima.  
+6. Quando il ricorrente fornisce elementi di fatto, desunti anche da dati di carattere statistico relativi alle assunzioni, ai regimi retributivi, all'assegnazione di mansioni e qualifiche, ai trasferimenti, alla progressione in carriera ed ai licenziamenti, idonei a fondare, in termini precisi e concordanti, la presunzione dell'esistenza di atti, patti o comportamenti discriminatori in ragione del sesso, spetta al convenuto l'onere della prova sull'insussistenza della discriminazione.  
+7. Qualora le consigliere o i consiglieri di parita' regionali e, nei casi di rilevanza nazionale, il consigliere o la consigliera nazionale, rilevino l'esistenza di atti, patti o comportamenti discriminatori diretti o indiretti di carattere collettivo, anche quando non siano individuabili in modo immediato e diretto le lavoratrici o i lavoratori lesi dalle discriminazioni, prima di promuovere l'azione in giudizio ai sensi dei commi 8 e 10, possono chiedere all'autore della discriminazione di predisporre, un piano di rimozione delle discriminazioni accertate entro un termine non superiore a centoventi giorni, sentite, nel caso di discriminazione posta in essere da un datore di lavoro, le rappresentanze sindacali aziendali ovvero, in loro mancanza, le associazioni locali aderenti alle organizzazioni sindacali maggiormente rappresentative sul piano nazionale. Se il piano e' considerato idoneo alla rimozione delle discriminazioni, la consigliera o il consigliere di parita' promuove il tentativo di conciliazione ed il relativo verbale, in copia autenticata, acquista forza di titolo esecutivo con decreto del tribunale in funzione di giudice del lavoro.  
+8. Con riguardo alle discriminazioni di carattere collettivo di cui al comma 7 le consigliere o i consiglieri di parita', qualora non ritengano di avvalersi della procedura di conciliazione di cui al medesimo comma o in caso di esito negativo della stessa, possono proporre ricorso davanti al tribunale in funzione di giudice del lavoro o al tribunale amministrativo regionale territorialmente competenti.  
+9. Il giudice, nella sentenza che accerta le discriminazioni sulla base del ricorso presentato ai sensi del comma 8, oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale ordina all'autore della discriminazione di definire un piano di rimozione delle discriminazioni accertate, sentite, nel caso si tratti di datore di lavoro, le rappresentanze sindacali aziendali ovvero, in loro mancanza, gli organismi locali aderenti alle organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale, nonche' la consigliera o il consigliere di parita' regionale competente per territorio o il consigliere o la consigliera nazionale. Nella sentenza il giudice fissa i criteri, anche temporali, da osservarsi ai fini della definizione ed attuazione del piano.  
+10. Ferma restando l'azione di cui al comma 8, la consigliera o il consigliere regionale e nazionale di parita' possono proporre ricorso in via d'urgenza davanti al tribunale in funzione di giudice del lavoro o al tribunale amministrativo regionale territorialmente competenti. Il giudice adito, nei due giorni successivi, convocate le parti e assunte sommarie informazioni, ove ritenga sussistente la violazione di cui al ricorso con decreto motivato e immediatamente esecutivo oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, nei limiti della prova fornita, ordina all'autore della discriminazione la cessazione del comportamento pregiudizievole e adotta ogni altro provvedimento idoneo a rimuovere gli effetti delle discriminazioni accertate, ivi compreso l'ordine di definizione ed attuazione da parte del responsabile di un piano di rimozione delle medesime. Si applicano in tal caso le disposizioni del comma 9. Contro il decreto e' ammessa entro quindici giorni dalla comunicazione alle parti opposizione avanti alla medesima autorita' giudiziaria territorialmente competente, che decide con sentenza immediatamente esecutiva.  
+11. L'inottemperanza alla sentenza di cui al comma 9, al decreto di cui al comma 10 o alla sentenza pronunciata nel relativo giudizio di opposizione e' punita ai sensi dell'[art. 650 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art650) e comporta altresi' la revoca dei benefici di cui al comma 12 ed il pagamento di una somma di lire centomila per ogni giorno di ritardo da versarsi al Fondo di cui all'art. 9.  
+12. Ogni accertamento di atti, patti o comportamenti discriminatori ai sensi del presente articolo posti in essere da soggetti ai quali siano stati accordati benefici ai sensi delle vigenti leggi dello Stato, ovvero che abbiano stipulato contratti di appalto attinenti all'esecuzione di opere pubbliche, di servizi o forniture, viene comunicato immediatamente dalla direzione provinciale del lavoro territorialmente competente ai Ministri nelle cui amministrazioni sia stata disposta la concessione del beneficio o dell'appalto. Questi adottano le opportune determinazioni, ivi compresa, se necessario, la revoca del beneficio e, nei casi piu' gravi o nel caso di recidiva, possono decidere l'esclusione del responsabile per un periodo di tempo fino a due anni da qualsiasi ulteriore concessione di agevolazioni finanziarie o creditizie ovvero da qualsiasi appalto. Tale disposizione si applica anche quando si tratti di agevolazioni finanziarie o creditizie ovvero di appalti concessi da enti pubblici, ai quali la direzione provinciale del lavoro comunica direttamente la discriminazione accertata per l'adozione delle sanzioni previste. Le disposizioni del presente comma non si applicano nel caso sia raggiunta una conciliazione ai sensi dei commi 4 e 7.  
+13. Ferma restando l'azione ordinaria, le disposizioni dell'[art. 15 della legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art15), si applicano in tutti i casi di azione individuale in giudizio promossa dalla persona che vi abbia interesse o su sua delega da un'organizzazione sindacale o dalla consigliera o dal consigliere provinciale o regionale di parita'.  
+14. Qualora venga presentato un ricorso in via di urgenza ai sensi del comma 10 o ai sensi dell'[art. 15 della legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art15), come modificato dal comma 13, non trova applicazione l'[art. 410 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art410).».
+
+Art. 3
+------
+
+Modifiche alla legge 9 dicembre 1977, n. 903, in materia di parita' di trattamento tra uomini e donne in materia di lavoro
+
+1. All'[articolo 1 della legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art1), sono apportate le seguenti modificazioni:
+
+a) al primo comma dopo la parola: «lavoro» sono inserite le seguenti: «, in forma subordinata, autonoma o in qualsiasi altra forma,»;
+
+b) al terzo comma dopo la parola: «contenuti» sono aggiunte, in fine, le seguenti: «, nonche' all'affiliazione e all'attivita' in un'organizzazione di lavoratori o datori di lavoro, o in qualunque organizzazione i cui membri esercitino una particolare professione, e alle prestazioni erogate da tali organizzazioni».
+
+2. Al [primo comma dell'articolo 15 della legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art15-com1), dopo le parole: «di cui al ricorso,» sono inserite le seguenti: «oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, nei limiti della prova fornita,».
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 30 maggio 2005
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+La Malfa, Ministro per le politiche comunitarie
+
+Maroni, Ministro del lavoro e delle politiche sociali
+
+Baccini, Ministro per la funzione pubblica
+
+Prestigiacomo, Ministro per le pari opportunita'
+
+Fini, Ministro degli affari esteri
+
+Castelli, Ministro della giustizia
+
+Siniscalco, Ministro dell'economia e delle finanze
+
+Visto, il Guardasigilli: Castelli
+
+Nota all'[art. 3:  
+  
+- Per la legge 9 dicembre 1977, n. 903](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903~art3), vedi note alle premesse. Il testo degli articoli 1 e 15, cosi' come modificati dal decreto qui pubblicato, e' il seguente:  
+«Art. 1. - E' vietata qualsiasi discriminazione fondata sul sesso per quanto riguarda l'accesso al lavoro in forma subordinata, autonoma o in qualsiasi altra forma. indipendentemente dalle modalita' di assunzione e qualunque sia il settore o il ramo di attivita', a tutti i livelli della gerarchia professionale.  
+La discriminazione di cui al comma precedente e' vietata anche se attuata:  
+1) attraverso il riferimento allo stato matrimoniale o di famiglia o di gravidanza;  
+2) in modo indiretto, attraverso meccanismi di preselezione ovvero a mezzo stampa o con qualsiasi altra forma pubblicitaria che indichi come requisito professionale l'appartenenza all'uno o all'altro sesso.  
+Il divieto di cui ai commi precedenti si applica anche alle iniziative in materia di orientamento, formazione, perfezionamento e aggiornamento professionale, per quanto concerne sia l'accesso sia i contenuti, nonche' all'affiliazione e all'attivita' in un'organizzazione di lavoratori o datori di lavoro, o in qualunque organizzazione i cui membri esercitino una particolare professione, e alle prestazioni erogate da tali organizzazioni.  
+Eventuali deroghe alle disposizioni che precedono sono ammesse soltanto per mansioni di lavoro particolarmente pesanti individuate attraverso la contrattazione collettiva.  
+Non costituisce discriminazione condizionare all'appartenenza ad un determinato sesso l'assunzione in attivita' della moda, dell'arte e dello spettacolo, quando cio' sia essenziale alla natura del lavoro o della prestazione.».  
+«Art. 15. - Qualora vengano posti in essere comportamenti diretti a violare le disposizioni di cui agli articoli 1 e 5 della presente legge, su ricorso del lavoratore o per sua delega delle organizzazioni sindacali, il pretore del luogo ove e' avvenuto il comportamento denunziato, in funzione di giudice del lavoro, nei due giorni successivi, convocate le parti e assunte sommarie informazioni, se ritenga sussistente la violazione di cui al ricorso, oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, nei limiti della prova fornita, ordina all'autore del comportamento denunciato, con decreto motivato ed immediatamente esecutivo, la cessazione del comportamento illegittimo e la rimozione degli effetti.  
+L'efficacia esecutiva del decreto non puo' essere revocata fino alla sentenza con cui il pretore definisce il giudizio instaurato a norma del comma seguente.  
+Contro il decreto e' ammessa entro quindici giorni dalla comunicazione alle parti opposizione davanti al pretore che decide con sentenza immediatamente esecutiva.  
+Si osservano le disposizioni degli [articoli 413 e seguenti del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art413).  
+L'inottemperanza al decreto di cui al primo comma o alla sentenza pronunciata nel giudizio di opposizione e' punita ai sensi dell'[art. 650 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art650).  
+Ove le violazioni di cui al primo comma riguardino dipendenti pubblici si applicano le norme previste in materia di sospensione dell'atto dell'art. 21, ultimo comma, della [legge 6 dicembre 1971, n. 1034](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1034).».
