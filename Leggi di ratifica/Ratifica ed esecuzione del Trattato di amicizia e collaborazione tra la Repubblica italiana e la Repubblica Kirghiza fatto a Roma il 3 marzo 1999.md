@@ -1,0 +1,196 @@
+LEGGE 10 gennaio 2004 n. 14
+
+
+LEGGE 10 gennaio 2004 n. 14
+===========================
+
+Ratifica ed esecuzione del Trattato di amicizia e collaborazione tra la Repubblica italiana e la Repubblica Kirghiza, fatto a Roma il 3 marzo 1999.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/1/2004
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il Presidente della Repubblica e' autorizzato a ratificare il Trattato di amicizia e collaborazione tra la Repubblica italiana e la Repubblica Kirghiza, fatto a Roma il 3 marzo 1999.  
+
+Art. 2
+------
+
+1. Piena ed intera esecuzione e' data al Trattato di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 18 del Trattato stesso.  
+
+Art. 3
+------
+
+1. Per l'attuazione della presente legge e' autorizzata la spesa di 13.620 euro annui a decorrere dal
+
+2003. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.  
+2. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+Art. 4
+------
+
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 10 gennaio 2004
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Frattini, Ministro degli affari esteri
+
+Visto, il Guardasigilli: Castelli
+
+Trattato - art. 1
+
+ ALLEGATO   
+TRATTATO DI AMICIZIA E COLLABORAZIONE TRA   
+LA REPUBBLICA ITALIANA E LA REPUBBLICA KIRGHIZA   
+  
+La Repubblica Italiana e la Repubblica Kirghiza, che d'ora innanzi saranno chiamate le Alte Parti Contraenti,   
+desiderando rafforzare l'amicizia che unisce i due Paesi e i due popoli e approfondire la collaborazione nei campi politico, economico e culturale,   
+desiderose di sviluppare le loro relazioni sui valori universali di liberta', democrazia, pluralismo e rispetto dei diritti dell'uomo,   
+intenzionate a contribuire al consolidamento di un ordine internazionale basato sul diritto, sulla pace e sulla giustizia,   
+tenendo conto dei profondi mutamenti politici ed economici verificatisi nel continente eurasiatico,   
+confermando la loro fedelta' agli obblighi derivanti dall'appartenenza all'Organizzazione delle Nazioni Unite, consapevoli della fondamentale importanza dell'Atto Finale di Helsinki, della Carta di Parigi per una nuova Europa e degli altri documenti dell'Organizzazione per la Sicurezza e la Cooperazione in Europa e ribadendo gli impegni con essi assunti,   
+consapevoli dei ruolo dell'Unione Europea, della NATO, dell'OSCE e delle altre strutture europee nella costruzione della nuova Europa, nello spirito di sempre piu' stretti legami tra l'Unione Europea e la Repubblica Kirghiza, sanciti dall'Accordo di Partenariato e Cooperazione firmato il 9 febbraio 1995,   
+determinate a sviluppare i reciproci rapporti di amicizia e di collaborazione, hanno convenuto quanto segue:   
+Articolo 1   
+Le Alte Parti Contraenti svilupperanno le loro relazioni sulla base della fiducia, della collaborazione e del rispetto reciproco in conformita' con i principi di sovranita', parita' di diritti e rispetto dei diritti e delle liberta' fondamentali dell'individuo.   
+A tale scopo le Alte Parti Contraenti potranno stipulare, se del caso, accordi per tradurre in pratica le disposizioni del presente Trattato.   
+
+Trattato - art. 2
+
+ Articolo 2   
+Le Alte Parti Contraenti ribadiscono l'inaccettabilita' della minaccia o dell'uso della forza nelle relazioni tra gli Stati quale strumento per la soluzione delle controversie internazionali, che dovranno essere risolte con mezzi pacifici.   
+Le Alte Parti Contraenti opereranno congiuntamente per rafforzare il ruolo dell'Organizzazione delle Nazioni Unite, per assicurare il pieno rispetto delle disposizioni della Carta statutaria dell'ONU ed una piena valorizzazione delle sue potenzialita', per assicurare la supremazia del diritto internazionale e per garantire la sicurezza collettiva cosi' come quella di ogni Stato membro.   
+Le Alte Parti Contraenti si impegnano a contribuire alla creazione e all'efficace funzionamento dei meccanismi per la soluzione pacifica delle controversie e la prevenzione dei conflitti previste dalle strutture europee.   
+
+Trattato - art. 3
+
+ Articolo 3   
+Le Alte Parti Contraenti terranno consultazioni su temi bilaterali e multilaterali di comune interesse.   
+I Ministeri degli Esteri delle Alte Parti Contraenti avranno contatti regolari.   
+Le Alte Parti' Contraenti collaboreranno in seno alle Organizzazioni Internazionali di cui fanno o faranno parte.   
+Le Alte Parti Contraenti favoriranno inoltre lo sviluppo dei rapporti tra i rispettivi Parlamenti.   
+
+Trattato - art. 4
+
+ Articolo 4   
+Le Alte Parti Contraenti uniranno i loro sforzi per concorrere alla creazione nel continente eurasiatico di basi di sicurezza qualitativamente nuove, fondate sulla cooperazione e su livelli di armamenti sempre piu' bassi necessari al mantenimento della stabilita' e della sufficienza difensiva.   
+Le Alte Parti Contraenti, consapevoli dell'importanza degli Accordi del disarmo per la sicurezza europea e mondiale, contribuiranno attivamente ai negoziati sul disarmo. Esse auspicano la conclusione di nuovi Accordi sul disarmo e sul rafforzamento della fiducia e della sicurezza in Europa e nel continente asiatico.   
+Le Alte Parti Contraenti agiranno altresi' in maniera concertata negli appositi fori internazionali per prevenire la proliferazione delle armi di distruzione di massa, in particolare attraverso un rafforzamento del regime di non proliferazione nucleare, ed in favore di una crescente trasparenza e controllo nel campo del trasferintento degli armamenti convenzionali.   
+
+Trattato - art. 5
+
+ Articolo 5   
+Le Alte Parti Contraenti favoriranno in ogni modo il consolidamento dei principi dello stato di diritto, della democrazia, del pluralismo politico, nonche' la difesa dei diritti dell'uomo, avvalendosi tanto dei meccanismi regionali quanto di quelli contemplati dallo Statuto dell'ONU e dalle relative Convenzioni delle Nazioni Unite. In tale prospettiva le Alte Parti Contraenti sono fermamente decise a rafforzare, sulla base del pieno rispetto dell'Atto Finale di Helsinki, della Carta di Parigi per una nuova Europa e degli altri documenti dell'OSCE, la democrazia, la sicurezza e il rispetto dello stato di diritto; a promuovere attivamente lo sviluppo dei rapporti amichevoli tra tutti gli Stati; a sviluppare la dimensione umana e la collaborazione in ambito economico, culturale e ambientale.   
+
+Trattato - art. 6
+
+ Articolo 6   
+Le Alte Parti Contraenti opereranno per lo sviluppo della collaborazione nei campi dell'economia, dell'industria, dell'agricoltura, della scienza, della tecnica e dell'ecologia nell'interesse reciproco e della Comunita' Internazionale.   
+Le Alte Parti Contraenti sono consapevoli che una tale collaborazione avra' una grande importanza per la realizzazione del programma di riforme economiche nella Repubblica Kirghiza e per il pieno sviluppo delle potenzialita' di cooperazione anche in ambito regionale.   
+Le Alte Parti Contraenti svilupperanno la cooperazione nell'ambito delle organizzazioni economiche multilaterali di cui fanno parte.   
+
+Trattato - art. 7
+
+ Articolo 7   
+Le Alte Parti Contraenti, per il coordinamento e lo stimolo della collaborazione bilaterale in tutti i settori nonche' per favorire la soluzione dei problemi che dovessero sorgere nel quadro di tale collaborazione, costituiranno un Gruppo di Lavoro per gli Affari Economici e le Questioni Generali ed un Gruppo di Lavoro per gli scambi e la cooperazione economica e industriale.   
+Il Gruppo di Lavoro per gli Affari Economici e per le Questioni Generali sara' presieduto, per la Parte Italiana c'per la Parte kirghiza da esponenti del Ministero degli Affari Esteri delle Alte Parti Contraenti: esso sara' composto da rappresentanti dei Ministeri e degli Enti pubblici delle due Alte Parti Contraenti, con competenza per le questioni che saranno trattate dal Gruppo.   
+Il Gruppo di lavoro per gli Scambi e la Cooperazione Economica e Industriale sara' presieduto per Parte italiana da un rappresentante del Ministero del Commercio Estero e per Parte kirghiza da un rappresentante del Ministero dell'Industria e del Commercio con l'Estero e sara' composto, prevalentemente da esponenti di imprese e di associazioni industriali di categoria.   
+
+Trattato - art. 8
+
+ Articolo 8   
+Le Alte Parti Contraenti svilupperanno le forme di Cooperazione nei campi dell'economia e del diritto applicato alle attivita' economiche, nonche' in particolare nei settori dell'agricoltura, sanita', cultura, scienza, ricerca e tecnologia. Esse collaboreranno nel settore della formazione professionale e manageriale e nelle iniziative di consulenza nel campo dell'organizzazione e gestione delle attivita' imprenditoriali e creditizie, con particolare riferimento alle piccole e medie imprese.   
+
+Trattato - art. 9
+
+ Articolo 9   
+Le Alte Parti Contraenti attribuiscono importanza prioritaria alla collaborazione nel settore energetico, dei trasporti e delle telecomunicazioni. Esse si presteranno assistenza nella soluzione degli aspetti tecnici delle attivita' industriali in tali settori con particolare riguardo alle tematiche del settore idroenergetico, della modernizzazione delle infrastrutture e dei relativi collegamenti.   
+Le Alte Parti Contraenti, consapevoli dell'importanza della sicurezza e della stabilita' dei rifornimenti di energia elettrica, petrolio e gas naturali per lo sviluppo della cooperazione economica e per attrarre potenziali investitori, dedicheranno, nel rispetto delle norme e dei principi sanciti dal Trattato sulla Carta dell'Energia, particolare attenzione alla ricerca, allo sfruttamento e al trasporto degli idrocarburi, dei gas e dell'energia elettrica.   
+
+Trattato - art. 10
+
+ Articolo 10   
+Le Alte Parti Contraenti promuoveranno la collaborazione nei settori della scienza e delle tecnologie avanzate, anche attraverso un'intensificazione della cooperazione fra i competenti organismi dei due Paesi nell'ambito dei programmi europei di collaborazione tecnico-scientifica e tecnologica, in particolare nel quadro dell'International Association for the promotion of cooperation of scientists from the New Independent States of former Soviet Union (INTAS). L'Italia assecondera', nei limiti del possibile, la partecipazione della Repubblica Kirghiza a tali programmi.   
+
+Trattato - art. 11
+
+ Articolo 11   
+Consapevoli del carattere globale rivestito dai problemi della protezione ambientale, le Alte Parti Contraenti svilupperanno la cooperazione in tale settore, con particolare riferimento alla protezione ambientale dei sistemi montani, anche nell'ambito dell'Anno Internazionale di Montagna e del Mar Mediterraneo.   
+Le Alte Parti Contraenti svilupperanno altresi' la loro collaborazione nel campo della previsione e della prevenzione delle calamita' naturali, o di quelle causate da attivita' umane, nonche' nell'attenuazione ovvero eliminazione dei loro effetti.   
+
+Trattato - art. 12
+
+ Articolo 12   
+Le Alte Parti Contraenti auspicano che lo sviluppo della cooperazione tra gli Stati europei si accompagni al rafforzamento dei legami di solidarieta' con i paesi degli altri continenti.   
+
+Trattato - art. 13
+
+ Articolo 13   
+Le Alte Parti contraenti convengono di incoraggiare gli scambi culturali tra i due Paesi attraverso l'insegnamento e la diffusione nei rispettivi territori della letteratura, delle scienze, delle arti, della cultura e della civilta' dell'altro Paese nonche' attraverso la realizzazione di programmi di scambi giovanili.   
+Le Alte Parti Contraenti riconoscono anche l'interesse reciproco a sviluppare la cooperazione scientifica e tecnologica attraverso l'effettuazione di programmi congiunti di ricerca, lo scambio di esperti, missioni tecniche e documentazione scientifica, l'organizzazione di seminari di convegni scientifici nonche' di corsi di formazione e aggiornamento in discipline scientifiche e l'attuazione di interventi di tutela, conservazione e restauro del patrimonio culturale.   
+Allo scopo di facilitare la cooperazione bilaterale nei settori sopra indicati le Alte Parti Contraenti esamineranno la possibilita' di concludere al piu' presto un accordo quadro di cooperazione culturale, scientifica e tecnologica.   
+
+Trattato - art. 14
+
+ Articolo 14   
+Le Alte Parti Contraenti riconoscono l'interesse reciproco a favorire comuni attivita' di cooperazione scientifica e tecnica ed, a tal fine, promuoveranno l'effettuazione di congiunti programmi coordinati di ricerca, sviluppo e istruzione, lo scambio di esperti e missioni tecniche e di informazioni e documenti nonche' dei loro mezzi di diffusione.   
+
+Trattato - art. 15
+
+ Articolo 15   
+Le Alte Parti Contraenti svilupperanno la collaborazione nei campi giuridico e consolare, anche attraverso periodiche consultazioni.  
+Esse intendono, su base di reciprocita', agevolare per quanto possibile la concessione dei visti d'ingresso per i cittadini dell'altra Parte Contraente per visite ufficiali, di affari, a scopi culturali, turistici e privati.   
+
+Trattato - art. 16
+
+ Articolo 16   
+Le Alte Parti Contraenti collaboreranno nella prevenzione e nella lotta contro la criminalita' organizzata, il traffico illecito di stupefacenti e il contrabbando in tutte le sue forme. Le Alte Parti Contraenti collaboreranno altresi' nella lotta contro il terrorismo internazionale. Le Alte Parti Contraenti esamineranno la possibilita' di stipulare specifiche intese sulle citate problematiche.   
+
+Trattato - art. 17
+
+ Articolo 17   
+Gli impegni assunti dalle Alte Parti Contraenti nel presente Trattato rispettano gli obblighi di ogni Parte nell'ambito dell'Unione Europea e delle loro istituzioni.   
+Le disposizioni del presente Trattato non incidono in alcun modo sugli obblighi derivanti dai trattati e dagli accordi bilaterali e multilaterali anteriormente stipulati dalle Alte Parti Contraenti.   
+Il presente Trattato non intende recare pregiudizio ad alcuno Stato terzo.   
+
+Trattato - art. 18
+
+ Articolo 18   
+Il presente Trattato sara' ratificato in conformita' con i meccanismi costituzionali di ciascuna delle Alte Parti Contraenti ed entrera' in vigore dal momento dello scambio degli strumenti di ratifica.   
+II presente Trattato e' soggetto alla registrazione presso il Segretario Generale dell'ONU, in conformita' con l'articolo 102 dello Statuto dell'Organizzazione delle Nazioni Unite.   
+
+Trattato - art. 19
+
+ Articolo 19   
+Il presente Trattato viene concluso per la durata di quindici anni.   
+La sua validita' verra' prorogata automaticamente di volta in volta per nuovi periodi di cinque anni, a meno che una delle Alte Parti Contraenti non abbia notificato per iscritto all'altra Parte Contraente la sua decisione di denunciare il Trattato con un preavviso di almeno un anno prima di ogni scadenza.   
+In fede di che i sottoscritti rappresentanti, debitamnente autorizzati dai rispettivi Governi, hanno firmato il presente Trattato.   
+Fatto a Roma il 3 marzo 1999 in due originali, ciascuno nelle lingue italiana e kirghiza, entrambi i testi facenti egualmente fede.   
+  
+  
+  
+  
+PER LA REPUBBLICA PER LA REPUBBLICA  
+ITALIANA KIRGHIZA  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=004G003000100190110001&dgu=2004-01-27&art.dataPubblicazioneGazzetta=2004-01-27&art.codiceRedazionale=004G0030)
+  
