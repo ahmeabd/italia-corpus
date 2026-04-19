@@ -1,13 +1,13 @@
-DECRETO-LEGGE 07 gennaio 1994 n. 7
+DECRETO-LEGGE 09 settembre 1993 n. 348
 
 
-DECRETO-LEGGE 07 gennaio 1994 n. 7
-==================================
+DECRETO-LEGGE 09 settembre 1993 n. 348
+======================================
 
 Disposizioni urgenti sulla estinzione dell'obbligo di cessione di quota parte dei rischi delle imprese che esercitano l'assicurazione vita.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8/1/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 09/09/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

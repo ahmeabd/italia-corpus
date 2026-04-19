@@ -1,14 +1,14 @@
-DECRETO-LEGGE 18 settembre 1995 n. 386
+DECRETO-LEGGE 20 marzo 1995 n. 83
 
 
-DECRETO-LEGGE 18 settembre 1995 n. 386
-======================================
+DECRETO-LEGGE 20 marzo 1995 n. 83
+=================================
 
 Disposizioni urgenti per la parita' di accesso ai mezzi di 
 informazione durante le campagne elettorali e referendarie.
 -----------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-9-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/3/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -23,7 +23,8 @@ Art. 2
 Art. 3
 ------
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   
 
 Art. 4
 ------
@@ -121,6 +122,11 @@ Art. 22
  DECRETO DECADUTO  
 
 Art. 23
+-------
+
+ DECRETO DECADUTO  
+
+Art. 24
 -------
 
  DECRETO DECADUTO  

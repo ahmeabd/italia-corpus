@@ -1,13 +1,13 @@
-DECRETO-LEGGE 01 settembre 1993 n. 342
+DECRETO-LEGGE 29 ottobre 1993 n. 430
 
 
-DECRETO-LEGGE 01 settembre 1993 n. 342
-======================================
+DECRETO-LEGGE 29 ottobre 1993 n. 430
+====================================
 
 Misure urgenti per il controllo della spesa nel settore degli investimenti nei Paesi in via di sviluppo.
 --------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/9/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/10/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -50,6 +50,30 @@ DALLA [L. 17 FEBBRAIO 1994, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:ni
   
 
 Art. 6
+------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 17 FEBBRAIO 1994, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;121)
+  
+
+Art. 7
+------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 17 FEBBRAIO 1994, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;121)
+  
+
+Art. 8
+------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 17 FEBBRAIO 1994, N. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;121)
+  
+
+Art. 9
 ------
 
   

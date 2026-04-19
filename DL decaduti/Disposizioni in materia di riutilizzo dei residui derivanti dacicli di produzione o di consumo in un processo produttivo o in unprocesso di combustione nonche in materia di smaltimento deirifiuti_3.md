@@ -1,8 +1,8 @@
-DECRETO-LEGGE 08 novembre 1995 n. 463
+DECRETO-LEGGE 09 marzo 1995 n. 66
 
 
-DECRETO-LEGGE 08 novembre 1995 n. 463
-=====================================
+DECRETO-LEGGE 09 marzo 1995 n. 66
+=================================
 
 Disposizioni in materia di riutilizzo dei residui derivanti da 
 cicli di produzione o di consumo in un processo produttivo o in un 
@@ -10,7 +10,7 @@ processo di combustione, nonche' in materia di smaltimento dei
 rifiuti.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/11/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9-3-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -159,9 +159,9 @@ Art. 21
 [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
   
 
-Allegato 1
+Allegato A
 
- ALLEGATO 1   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
+ ALLEGATO A   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
   

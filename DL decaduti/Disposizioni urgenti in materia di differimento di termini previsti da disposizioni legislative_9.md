@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 giugno 1993 n. 212
+DECRETO-LEGGE 29 aprile 1994 n. 257
 
 
-DECRETO-LEGGE 30 giugno 1993 n. 212
+DECRETO-LEGGE 29 aprile 1994 n. 257
 ===================================
 
 Disposizioni urgenti in materia di differimento di termini previsti da disposizioni legislative.
 ------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/7/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/04/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -338,6 +338,318 @@ DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:
   
 
 Art. 42
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 43
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 44
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 45
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 46
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 47
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 48
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 49
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 50
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 51
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 52
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 53
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 54
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 55
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 56
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 57
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 58
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 59
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 60
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 61
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 62
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 63
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 64
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 65
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 66
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 67
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 68
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 69
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 70
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 71
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 72
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 73
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 74
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 75
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 76
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 77
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 78
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 79
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 80
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 81
 -------
 
   

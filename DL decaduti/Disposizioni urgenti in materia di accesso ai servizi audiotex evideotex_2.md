@@ -1,33 +1,26 @@
-DECRETO-LEGGE 29 dicembre 1995 n. 558
+DECRETO-LEGGE 26 aprile 1996 n. 222
 
 
-DECRETO-LEGGE 29 dicembre 1995 n. 558
-=====================================
+DECRETO-LEGGE 26 aprile 1996 n. 222
+===================================
 
 Disposizioni urgenti in materia di accesso ai servizi audiotex e 
 videotex.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+ DECRETO DECADUTO  
 
 Art. 2
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+ DECRETO DECADUTO  
 
 Art. 3
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650)
-  
+ DECRETO DECADUTO  

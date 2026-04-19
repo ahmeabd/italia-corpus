@@ -1,8 +1,8 @@
-DECRETO-LEGGE 13 settembre 1996 n. 477
+DECRETO-LEGGE 18 gennaio 1996 n. 22
 
 
-DECRETO-LEGGE 13 settembre 1996 n. 477
-======================================
+DECRETO-LEGGE 18 gennaio 1996 n. 22
+===================================
 
 Disposizioni urgenti in materia di politica dell'immigrazione e per 
 la regolamentazione dell'ingresso e soggiorno nel territorio 
@@ -10,7 +10,7 @@ nazionale dei cittadini dei Paesi non appartenenti all'Unione
 europea.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 16-9-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18/1/1996.Decreto-Legge decaduto per mancata conversione.
 
 CAPO I Capo I FLUSSI DI INGRESSO E LAVORO STAGIONALE
 ----------------------------------------------------
@@ -33,8 +33,8 @@ CAPO I Capo I FLUSSI DI INGRESSO E LAVORO STAGIONALE
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
-CAPO II Capo II MISURE PER LA PREVENZIONE E REPRESSIONE DELLE IMMIGRAZIONI ILLEGALI
------------------------------------------------------------------------------------
+CAPO II Capo II DISPOSIZIONI IN MATERIA DI INGRESSO E DI SOGGIORNO
+------------------------------------------------------------------
 
 ### Art. 4
 
@@ -54,14 +54,14 @@ CAPO II Capo II MISURE PER LA PREVENZIONE E REPRESSIONE DELLE IMMIGRAZIONI ILLEG
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
+CAPO III Capo III ESPULSIONI E DISPOSIZIONI PENALI
+--------------------------------------------------
+
 ### Art. 7
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
-
-CAPO III Capo III RICONGIUNGIMENTI E REGOLARIZZAZIONI
------------------------------------------------------
 
 ### Art. 8
 
@@ -75,14 +75,14 @@ CAPO III Capo III RICONGIUNGIMENTI E REGOLARIZZAZIONI
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
+CAPO IV Capo IV RICONGIUNGIMENTI E REGOLARIZZAZIONI
+---------------------------------------------------
+
 ### Art. 10
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
-
-CAPO IV Capo IV NORME FINALI
-----------------------------
 
 ### Art. 11
 
@@ -96,6 +96,9 @@ CAPO IV Capo IV NORME FINALI
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
+CAPO V Capo V NORME FINALI
+--------------------------
+
 ### Art. 13
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
@@ -103,6 +106,18 @@ CAPO IV Capo IV NORME FINALI
   
 
 ### Art. 14
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
+  
+
+### Art. 15
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
+  
+
+### Art. 16
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)

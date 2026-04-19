@@ -1,14 +1,14 @@
-DECRETO-LEGGE 20 novembre 1995 n. 492
+DECRETO-LEGGE 19 gennaio 1996 n. 27
 
 
-DECRETO-LEGGE 20 novembre 1995 n. 492
-=====================================
+DECRETO-LEGGE 19 gennaio 1996 n. 27
+===================================
 
 Disposizioni urgenti per il risanamento dei siti industriali 
 dell'area di Bagnoli.
 -----------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 22-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/1/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

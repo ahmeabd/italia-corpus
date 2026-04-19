@@ -1,19 +1,20 @@
-DECRETO-LEGGE 26 aprile 1996 n. 224
+DECRETO-LEGGE 30 ottobre 1995 n. 448
 
 
-DECRETO-LEGGE 26 aprile 1996 n. 224
-===================================
+DECRETO-LEGGE 30 ottobre 1995 n. 448
+====================================
 
 Disposizioni urgenti in materia di assistenza farmaceutica e di 
 sanita'.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4)
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4)
   
 
 Art. 2
@@ -87,13 +88,6 @@ Art. 11
   
 
 Art. 12
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 17 GENNAIO 1997, N. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-01-17;4)
-  
-
-Art. 13
 -------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

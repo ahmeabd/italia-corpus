@@ -1,18 +1,19 @@
-DECRETO-LEGGE 26 settembre 1981 n. 539
+DECRETO-LEGGE 29 luglio 1981 n. 401
 
 
-DECRETO-LEGGE 26 settembre 1981 n. 539
-======================================
+DECRETO-LEGGE 29 luglio 1981 n. 401
+===================================
 
 Contenimento della spesa del bilancio statale e di quelli regionali.
 --------------------------------------------------------------------
 
-Il Decreto-Legge non è stato convertito nel termine di sessanta giorni.
+Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 26 GENNAIO 1982, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;11)
   
 
@@ -41,7 +42,8 @@ Art. 4
 Art. 5
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 26 GENNAIO 1982, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;11)
   
 
@@ -81,6 +83,13 @@ Art. 10
   
 
 Art. 11
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 26 GENNAIO 1982, N. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;11)
+  
+
+Art. 12
 -------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

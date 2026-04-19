@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 luglio 1989 n. 260
+DECRETO-LEGGE 23 settembre 1989 n. 326
 
 
-DECRETO-LEGGE 26 luglio 1989 n. 260
-===================================
+DECRETO-LEGGE 23 settembre 1989 n. 326
+======================================
 
 Disposizioni urgenti in materia di pubblico impiego.
 ----------------------------------------------------
 
-Entrata in vigore del decreto: 27/7/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-9-1989.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -31,14 +31,16 @@ Art. 4
 ------
 
   
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
+SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
   
 
 Art. 5
 ------
 
   
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
+SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1991, N. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;265)
   
 
 Art. 6

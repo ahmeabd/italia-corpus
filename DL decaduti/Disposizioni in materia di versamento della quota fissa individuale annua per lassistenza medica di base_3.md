@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 novembre 1993 n. 464
+DECRETO-LEGGE 17 gennaio 1994 n. 34
 
 
-DECRETO-LEGGE 19 novembre 1993 n. 464
-=====================================
+DECRETO-LEGGE 17 gennaio 1994 n. 34
+===================================
 
 Disposizioni in materia di versamento della quota fissa individuale annua per l'assistenza medica di base.
 ----------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-11-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-1-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

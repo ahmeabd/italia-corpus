@@ -1,14 +1,14 @@
-DECRETO-LEGGE 08 agosto 1996 n. 438
+DECRETO-LEGGE 22 giugno 1996 n. 330
 
 
-DECRETO-LEGGE 08 agosto 1996 n. 438
+DECRETO-LEGGE 22 giugno 1996 n. 330
 ===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-8-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/6/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -80,12 +80,12 @@ Art. 14
 
  DECRETO DECADUTO  
 
-Allegato
+Tabella A
 
- Allegato   
+ TABELLA A   
 DECRETO DECADUTO   
 
 all. 2 - art. 1
 
- Allegato   
+ TABELLA B   
 DECRETO DECADUTO   

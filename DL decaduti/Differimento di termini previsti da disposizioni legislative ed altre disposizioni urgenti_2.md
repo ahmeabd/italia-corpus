@@ -1,13 +1,13 @@
-DECRETO-LEGGE 01 marzo 1992 n. 195
+DECRETO-LEGGE 30 aprile 1992 n. 274
 
 
-DECRETO-LEGGE 01 marzo 1992 n. 195
-==================================
+DECRETO-LEGGE 30 aprile 1992 n. 274
+===================================
 
 Differimento di termini previsti da disposizioni legislative ed altre disposizioni urgenti.
 -------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 03/03/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3/5/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -77,7 +77,7 @@ Art. 9
 ------
 
   
-[DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
 DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
   
 

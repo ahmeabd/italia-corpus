@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 maggio 1992 n. 298
+DECRETO-LEGGE 26 marzo 1992 n. 244
 
 
-DECRETO-LEGGE 26 maggio 1992 n. 298
-===================================
+DECRETO-LEGGE 26 marzo 1992 n. 244
+==================================
 
 Disposizioni concernenti l'estinzione dei crediti di imposta e la soppressione della ritenuta sugli interessi, premi ed altri frutti derivanti da depositi e conti correnti interbancari, agevolazioni tributarie per incentivare l'abbattimento delle emissioni inquinanti l'atmosfera, la gestione del gioco del lotto, nonche' altre disposizioni tributarie e finanziarie.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-5-1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/03/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

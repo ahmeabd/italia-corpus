@@ -1,13 +1,13 @@
-DECRETO-LEGGE 23 settembre 1994 n. 548
+DECRETO-LEGGE 25 maggio 1994 n. 314
 
 
-DECRETO-LEGGE 23 settembre 1994 n. 548
-======================================
+DECRETO-LEGGE 25 maggio 1994 n. 314
+===================================
 
 Istituzione dell'Ente per gli interventi nel mercato agricolo E.I.M.A.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 25/9/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26/5/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -100,24 +100,6 @@ Art. 15
 DECRETO DECADUTO   
 
 Art. 16
--------
-
-  
-DECRETO DECADUTO   
-
-Art. 17
--------
-
-  
-DECRETO DECADUTO   
-
-Art. 18
--------
-
-  
-DECRETO DECADUTO   
-
-Art. 19
 -------
 
   

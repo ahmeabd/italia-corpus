@@ -1,7 +1,7 @@
-DECRETO-LEGGE 28 agosto 1995 n. 356
+DECRETO-LEGGE 29 aprile 1995 n. 137
 
 
-DECRETO-LEGGE 28 agosto 1995 n. 356
+DECRETO-LEGGE 29 aprile 1995 n. 137
 ===================================
 
 Disposizioni urgenti in materia di bilanci per le imprese operanti 
@@ -10,7 +10,7 @@ prosecuzione dell'attivita' per le emittenti televisive e sonore
 autorizzate in ambito locale.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -58,11 +58,6 @@ Art. 9
  DECRETO DECADUTO  
 
 Art. 10
--------
-
- DECRETO DECADUTO  
-
-Art. 11
 -------
 
  DECRETO DECADUTO  

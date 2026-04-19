@@ -1,14 +1,14 @@
-DECRETO-LEGGE 25 febbraio 1995 n. 48
+DECRETO-LEGGE 27 dicembre 1994 n. 719
 
 
-DECRETO-LEGGE 25 febbraio 1995 n. 48
-====================================
+DECRETO-LEGGE 27 dicembre 1994 n. 719
+=====================================
 
 Differimento di taluni termini ed altre disposizioni in materia 
 tributaria.
 ----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/2/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29/12/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

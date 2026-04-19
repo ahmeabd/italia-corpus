@@ -1,14 +1,14 @@
-DECRETO-LEGGE 29 aprile 1995 n. 134
+DECRETO-LEGGE 27 ottobre 1995 n. 441
 
 
-DECRETO-LEGGE 29 aprile 1995 n. 134
-===================================
+DECRETO-LEGGE 27 ottobre 1995 n. 441
+====================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -72,5 +72,5 @@ Art. 12
 
 Tabella
 
- Tabella   
+ Art. 13.   
 DECRETO DECADUTO   

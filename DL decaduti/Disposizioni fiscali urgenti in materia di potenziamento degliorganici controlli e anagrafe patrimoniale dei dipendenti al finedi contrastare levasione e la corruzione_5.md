@@ -1,15 +1,15 @@
-DECRETO-LEGGE 19 maggio 1995 n. 178
+DECRETO-LEGGE 18 settembre 1995 n. 382
 
 
-DECRETO-LEGGE 19 maggio 1995 n. 178
-===================================
+DECRETO-LEGGE 18 settembre 1995 n. 382
+======================================
 
 Disposizioni fiscali urgenti in materia di potenziamento degli 
 organici, controlli e anagrafe patrimoniale dei dipendenti, al fine 
 di contrastare l'evasione e la corruzione.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20-5-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18/09/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -96,27 +96,6 @@ Art. 12
   
 
 Art. 13
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
-
-Art. 14
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
-
-Art. 15
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 24 OTTOBRE 1996, N. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-10-24;556)
-  
-
-Art. 16
 -------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

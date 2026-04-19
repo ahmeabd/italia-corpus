@@ -1,8 +1,8 @@
-DECRETO-LEGGE 14 marzo 1987 n. 86
+DECRETO-LEGGE 23 maggio 1987 n. 205
 
 
-DECRETO-LEGGE 14 marzo 1987 n. 86
-=================================
+DECRETO-LEGGE 23 maggio 1987 n. 205
+===================================
 
 Misure urgenti per la lotta contro l'afta epizootica ed altre 
 malattie epizootiche degli animali.
@@ -36,6 +36,11 @@ Art. 5
  DECRETO DECADUTO  
 
 Art. 6
+------
+
+ DECRETO DECADUTO  
+
+Art. 7
 ------
 
  DECRETO DECADUTO  

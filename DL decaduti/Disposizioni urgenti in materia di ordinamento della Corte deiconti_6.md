@@ -1,81 +1,61 @@
-DECRETO-LEGGE 28 giugno 1995 n. 248
+DECRETO-LEGGE 27 ottobre 1995 n. 439
 
 
-DECRETO-LEGGE 28 giugno 1995 n. 248
-===================================
+DECRETO-LEGGE 27 ottobre 1995 n. 439
+====================================
 
 Disposizioni urgenti in materia di ordinamento della Corte dei 
 conti.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 2
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 3
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 4
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 5
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 6
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 7
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 8
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 9
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  
 
 Art. 10
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
-  
+ DECRETO DECADUTO SENZA SALVEZZA DI EFFETTI  

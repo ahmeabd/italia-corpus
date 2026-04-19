@@ -1,14 +1,14 @@
-DECRETO-LEGGE 20 settembre 1995 n. 400
+DECRETO-LEGGE 26 luglio 1995 n. 310
 
 
-DECRETO-LEGGE 20 settembre 1995 n. 400
-======================================
+DECRETO-LEGGE 26 luglio 1995 n. 310
+===================================
 
 Misure urgenti per il rilancio economico ed occupazionale dei 
 lavori pubblici e dell'edilizia privata.
 -------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-9-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/07/1995.Decreto-Legge decaduto per mancata conversione.
 
 CAPO I Capo I REGOLARIZZAZIONE DI VIOLAZIONI EDILIZIE
 -----------------------------------------------------
@@ -63,7 +63,8 @@ DALLA [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 ### Art. 8
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
 DALLA [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
   
 

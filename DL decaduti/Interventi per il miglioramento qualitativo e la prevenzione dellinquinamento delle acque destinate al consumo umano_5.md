@@ -1,13 +1,13 @@
-DECRETO-LEGGE 20 maggio 1992 n. 291
+DECRETO-LEGGE 21 luglio 1992 n. 344
 
 
-DECRETO-LEGGE 20 maggio 1992 n. 291
+DECRETO-LEGGE 21 luglio 1992 n. 344
 ===================================
 
 Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano.
 ----------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/5/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21-7-1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -34,18 +34,6 @@ Art. 4
 DECRETO DECADUTO   
 
 Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 7
 ------
 
   

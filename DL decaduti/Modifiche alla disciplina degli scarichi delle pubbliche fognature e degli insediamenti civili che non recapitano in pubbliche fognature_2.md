@@ -1,13 +1,13 @@
-DECRETO-LEGGE 15 novembre 1993 n. 454
+DECRETO-LEGGE 14 gennaio 1994 n. 31
 
 
-DECRETO-LEGGE 15 novembre 1993 n. 454
-=====================================
+DECRETO-LEGGE 14 gennaio 1994 n. 31
+===================================
 
 Modifiche alla disciplina degli scarichi delle pubbliche fognature e degli insediamenti civili che non recapitano in pubbliche fognature.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 16/11/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18-1-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

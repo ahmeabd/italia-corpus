@@ -1,13 +1,13 @@
-DECRETO-LEGGE 22 novembre 1990 n. 338
+DECRETO-LEGGE 28 gennaio 1991 n. 28
 
 
-DECRETO-LEGGE 22 novembre 1990 n. 338
-=====================================
+DECRETO-LEGGE 28 gennaio 1991 n. 28
+===================================
 
 Disposizioni urgenti in materia previdenziale.
 ----------------------------------------------
 
-Entrata in vigore del decreto: 23/11/1990.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28/1/1991.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -45,7 +45,7 @@ Art. 5
 ------
 
   
-DECRETO DECADUTO; I SUOI EFFETTI   
+DECRETO DECADUTO; I SUOI EFFETTI PERALTRO   
 SONO STATI FATTI SALVI DALLA [L. 1 GIUGNO 1991, N. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;166)
   
 
@@ -106,6 +106,14 @@ SONO STATI FATTI SALVI DALLA [L. 1 GIUGNO 1991, N. 166](http://www.normattiva.it
   
 
 Art. 13
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI   
+SONO STATI FATTI SALVI DALLA [L. 1 GIUGNO 1991, N. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;166)
+  
+
+Art. 14
 -------
 
   

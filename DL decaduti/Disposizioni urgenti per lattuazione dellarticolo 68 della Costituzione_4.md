@@ -1,13 +1,13 @@
-DECRETO-LEGGE 15 luglio 1994 n. 447
+DECRETO-LEGGE 16 maggio 1994 n. 291
 
 
-DECRETO-LEGGE 15 luglio 1994 n. 447
+DECRETO-LEGGE 16 maggio 1994 n. 291
 ===================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della Costituzione.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 17-7-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 17-5-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

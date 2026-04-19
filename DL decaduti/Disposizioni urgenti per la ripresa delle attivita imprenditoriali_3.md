@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 luglio 1994 n. 478
+DECRETO-LEGGE 30 settembre 1994 n. 559
 
 
-DECRETO-LEGGE 30 luglio 1994 n. 478
-===================================
+DECRETO-LEGGE 30 settembre 1994 n. 559
+======================================
 
 Disposizioni urgenti per la ripresa delle attivita' imprenditoriali.
 --------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/8/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/10/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

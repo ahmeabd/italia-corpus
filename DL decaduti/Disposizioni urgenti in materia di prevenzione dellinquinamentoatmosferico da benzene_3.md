@@ -1,14 +1,14 @@
-DECRETO-LEGGE 24 settembre 1996 n. 498
+DECRETO-LEGGE 27 maggio 1996 n. 294
 
 
-DECRETO-LEGGE 24 settembre 1996 n. 498
-======================================
+DECRETO-LEGGE 27 maggio 1996 n. 294
+===================================
 
 Disposizioni urgenti in materia di prevenzione dell'inquinamento 
 atmosferico da benzene.
 -----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-9-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

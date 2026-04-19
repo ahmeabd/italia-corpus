@@ -1,7 +1,7 @@
-DECRETO-LEGGE 27 luglio 1979 n. 306
+DECRETO-LEGGE 26 maggio 1979 n. 155
 
 
-DECRETO-LEGGE 27 luglio 1979 n. 306
+DECRETO-LEGGE 26 maggio 1979 n. 155
 ===================================
 
 Misure finanziarie straordinarie per il potenziamento e 
@@ -28,8 +28,7 @@ Art. 2
 Art. 3
 ------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 24 DICEMBRE 1979, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-12-24;651)
   
 
@@ -57,6 +56,7 @@ Art. 6
 Art. 7
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 24 DICEMBRE 1979, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-12-24;651)
   

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 16 gennaio 1996 n. 19
+DECRETO-LEGGE 19 maggio 1995 n. 182
 
 
-DECRETO-LEGGE 16 gennaio 1996 n. 19
+DECRETO-LEGGE 19 maggio 1995 n. 182
 ===================================
 
 Disposizioni urgenti per la parita' di accesso ai mezzi di 
 informazione durante le campagne elettorali e referendarie.
 -----------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21-5-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

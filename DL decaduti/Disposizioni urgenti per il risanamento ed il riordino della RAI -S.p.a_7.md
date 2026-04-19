@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 febbraio 1996 n. 76
+DECRETO-LEGGE 23 dicembre 1995 n. 543
 
 
-DECRETO-LEGGE 26 febbraio 1996 n. 76
-====================================
+DECRETO-LEGGE 23 dicembre 1995 n. 543
+=====================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28/12/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -75,19 +75,7 @@ Art. 13
 
  DECRETO DECADUTO  
 
-Art. 14
--------
+Tabelle
 
- DECRETO DECADUTO  
-
-Tabella A
-
- TABELLA A   
-  
-DECRETO DECADUTO   
-
-Tabella B
-
- TABELLA B   
-  
+ Tabelle   
 DECRETO DECADUTO   

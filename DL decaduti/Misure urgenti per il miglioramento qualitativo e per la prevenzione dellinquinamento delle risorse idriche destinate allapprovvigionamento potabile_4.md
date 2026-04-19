@@ -1,13 +1,13 @@
-DECRETO-LEGGE 14 aprile 1989 n. 130
+DECRETO-LEGGE 04 agosto 1989 n. 278
 
 
-DECRETO-LEGGE 14 aprile 1989 n. 130
+DECRETO-LEGGE 04 agosto 1989 n. 278
 ===================================
 
 Misure urgenti per il miglioramento qualitativo e per la prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 16/04/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8/8/1989.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -61,8 +61,7 @@ Art. 7
 Art. 8
 ------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
@@ -118,7 +117,8 @@ Art. 15
 Art. 16
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
@@ -129,14 +129,15 @@ Art. 17
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
-Tabella A
+Art. 18
+-------
 
- Tabella A   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
-Tabella B
+Tabelle
 
- Tabella B   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   

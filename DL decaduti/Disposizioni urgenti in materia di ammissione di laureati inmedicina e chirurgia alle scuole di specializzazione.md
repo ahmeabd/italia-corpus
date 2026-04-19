@@ -1,14 +1,14 @@
-DECRETO-LEGGE 12 aprile 1996 n. 192
+DECRETO-LEGGE 10 febbraio 1996 n. 55
 
 
-DECRETO-LEGGE 12 aprile 1996 n. 192
-===================================
+DECRETO-LEGGE 10 febbraio 1996 n. 55
+====================================
 
 Disposizioni urgenti in materia di ammissione di laureati in 
 medicina e chirurgia alle scuole di specializzazione.
 -------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/4/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

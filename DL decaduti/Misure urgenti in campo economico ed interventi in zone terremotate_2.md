@@ -1,13 +1,13 @@
-DECRETO-LEGGE 20 maggio 1992 n. 293
+DECRETO-LEGGE 20 marzo 1992 n. 237
 
 
-DECRETO-LEGGE 20 maggio 1992 n. 293
-===================================
+DECRETO-LEGGE 20 marzo 1992 n. 237
+==================================
 
 Misure urgenti in campo economico ed interventi in zone terremotate.
 --------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/5/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/3/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -37,8 +37,7 @@ Art. 5
 ------
 
   
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
   
 
 Art. 6
@@ -57,8 +56,7 @@ Art. 8
 ------
 
   
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;292)
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;292)
   
 
 Art. 9

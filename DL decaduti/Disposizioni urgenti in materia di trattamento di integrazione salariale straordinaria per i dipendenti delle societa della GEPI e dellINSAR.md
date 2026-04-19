@@ -1,13 +1,13 @@
-DECRETO-LEGGE 24 giugno 1994 n. 405
+DECRETO-LEGGE 18 febbraio 1994 n. 112
 
 
-DECRETO-LEGGE 24 giugno 1994 n. 405
-===================================
+DECRETO-LEGGE 18 febbraio 1994 n. 112
+=====================================
 
 Disposizioni urgenti in materia di trattamento di integrazione salariale straordinaria per i dipendenti delle societa' della GEPI e dell'INSAR.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26/06/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

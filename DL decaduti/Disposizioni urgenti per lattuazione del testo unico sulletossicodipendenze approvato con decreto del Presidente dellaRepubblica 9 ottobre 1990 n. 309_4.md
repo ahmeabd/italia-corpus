@@ -1,15 +1,15 @@
-DECRETO-LEGGE 18 novembre 1995 n. 487
+DECRETO-LEGGE 19 maggio 1995 n. 181
 
 
-DECRETO-LEGGE 18 novembre 1995 n. 487
-=====================================
+DECRETO-LEGGE 19 maggio 1995 n. 181
+===================================
 
 Disposizioni urgenti per l'attuazione del testo unico sulle 
 tossicodipendenze, approvato con decreto del Presidente della 
 Repubblica 9 ottobre 1990, n. 309.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20-5-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -44,13 +44,13 @@ DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA
 Art. 6
 ------
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
-  
+ DECRETO DECADUTO  
 
 Art. 7
 ------
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 28 MARZO 1997, N. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-28;86)
+  
 
 Art. 8
 ------

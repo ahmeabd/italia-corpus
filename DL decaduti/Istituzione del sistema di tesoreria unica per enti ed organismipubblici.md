@@ -1,8 +1,8 @@
-DECRETO-LEGGE 24 marzo 1984 n. 37
+DECRETO-LEGGE 25 gennaio 1984 n. 5
 
 
-DECRETO-LEGGE 24 marzo 1984 n. 37
-=================================
+DECRETO-LEGGE 25 gennaio 1984 n. 5
+==================================
 
 Istituzione del sistema di tesoreria unica per enti ed organismi 
 pubblici.
@@ -18,7 +18,8 @@ Art. 1
 Art. 2
 ------
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   
 
 Art. 3
 ------
@@ -26,18 +27,12 @@ Art. 3
   
 DECRETO DECADUTO   
 
-Art. 4
-------
-
-  
-DECRETO DECADUTO   
-
 Tabella A
 
- Allegato   
+ Tabella A   
 DECRETO DECADUTO   
 
 Tabella B
 
- Allegato   
-DECRETO DECADUTO;   
+ Tabella B   
+DECRETO DECADUTO   

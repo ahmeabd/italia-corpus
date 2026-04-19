@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 dicembre 1993 n. 523
+DECRETO-LEGGE 14 febbraio 1994 n. 106
 
 
-DECRETO-LEGGE 16 dicembre 1993 n. 523
+DECRETO-LEGGE 14 febbraio 1994 n. 106
 =====================================
 
 Istituzione dell'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica.
 -------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19/12/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 17-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

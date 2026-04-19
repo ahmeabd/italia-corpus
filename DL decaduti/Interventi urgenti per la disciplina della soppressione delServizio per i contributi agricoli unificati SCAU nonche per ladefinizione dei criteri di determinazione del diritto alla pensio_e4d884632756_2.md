@@ -1,16 +1,16 @@
-DECRETO-LEGGE 29 giugno 1996 n. 339
+DECRETO-LEGGE 26 aprile 1996 n. 219
 
 
-DECRETO-LEGGE 29 giugno 1996 n. 339
+DECRETO-LEGGE 26 aprile 1996 n. 219
 ===================================
 
 Interventi urgenti per la disciplina della soppressione del 
 Servizio per i contributi agricoli unificati (SCAU), nonche' per la 
 definizione dei criteri di determinazione del diritto alla pensione 
-di anzianita' degli operai agricoli dipendenti
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+di anzianita' degli operai agricoli dipendenti.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/7/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

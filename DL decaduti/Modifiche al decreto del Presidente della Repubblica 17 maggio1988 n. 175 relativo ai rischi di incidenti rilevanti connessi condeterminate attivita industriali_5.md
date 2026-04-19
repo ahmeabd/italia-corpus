@@ -1,7 +1,7 @@
-DECRETO-LEGGE 03 maggio 1996 n. 245
+DECRETO-LEGGE 07 luglio 1995 n. 271
 
 
-DECRETO-LEGGE 03 maggio 1996 n. 245
+DECRETO-LEGGE 07 luglio 1995 n. 271
 ===================================
 
 Modifiche al decreto del Presidente della Repubblica 17 maggio 
@@ -9,7 +9,7 @@ Modifiche al decreto del Presidente della Repubblica 17 maggio
 determinate attivita' industriali.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 10/7/95.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -182,13 +182,14 @@ Art. 24
 Art. 25
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
 [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   
 
 Allegato A
 
  Allegato A   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   

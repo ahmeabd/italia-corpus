@@ -1,13 +1,13 @@
-DECRETO-LEGGE 07 giugno 1993 n. 181
+DECRETO-LEGGE 06 agosto 1993 n. 282
 
 
-DECRETO-LEGGE 07 giugno 1993 n. 181
+DECRETO-LEGGE 06 agosto 1993 n. 282
 ===================================
 
 Disposizioni per la determinazione dei canoni relativi a concessioni demaniali marittime.
 -----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/6/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 08-08-1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 27 dicembre 1994 n. 719
+DECRETO-LEGGE 29 aprile 1995 n. 132
 
 
-DECRETO-LEGGE 27 dicembre 1994 n. 719
-=====================================
+DECRETO-LEGGE 29 aprile 1995 n. 132
+===================================
 
 Differimento di taluni termini ed altre disposizioni in materia 
 tributaria.
 ----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29/12/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -74,6 +74,13 @@ Art. 9
   
 
 Art. 10
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 8 AGOSTO 1995, N. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;349)
+  
+
+Art. 11
 -------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

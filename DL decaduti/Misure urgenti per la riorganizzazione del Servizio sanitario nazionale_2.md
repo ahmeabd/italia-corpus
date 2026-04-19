@@ -1,13 +1,13 @@
-DECRETO-LEGGE 25 marzo 1989 n. 111
+DECRETO-LEGGE 29 maggio 1989 n. 199
 
 
-DECRETO-LEGGE 25 marzo 1989 n. 111
-==================================
+DECRETO-LEGGE 29 maggio 1989 n. 199
+===================================
 
 Misure urgenti per la riorganizzazione del Servizio sanitario nazionale.
 ------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31/03/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/5/1989.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -59,6 +59,13 @@ Art. 7
   
 
 Art. 8
+------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 25 GENNAIO 1990, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-01-25;8)
+  
+
+Art. 9
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  

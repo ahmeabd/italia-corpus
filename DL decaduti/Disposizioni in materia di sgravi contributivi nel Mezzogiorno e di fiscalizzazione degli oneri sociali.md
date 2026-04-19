@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 novembre 1992 n. 442
+DECRETO-LEGGE 18 settembre 1992 n. 383
 
 
-DECRETO-LEGGE 19 novembre 1992 n. 442
-=====================================
+DECRETO-LEGGE 18 settembre 1992 n. 383
+======================================
 
 Disposizioni in materia di sgravi contributivi nel Mezzogiorno e di fiscalizzazione degli oneri sociali.
 --------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19/11/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20/9/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

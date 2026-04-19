@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 aprile 1993 n. 111
+DECRETO-LEGGE 12 agosto 1993 n. 314
 
 
-DECRETO-LEGGE 19 aprile 1993 n. 111
+DECRETO-LEGGE 12 agosto 1993 n. 314
 ===================================
 
 Disposizioni urgenti in materia di lavoro portuale.
 ---------------------------------------------------
 
-Entrata in vigore del decreto: 20/4/93.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22-8-1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

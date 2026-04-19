@@ -1,13 +1,13 @@
-DECRETO-LEGGE 14 febbraio 1994 n. 106
+DECRETO-LEGGE 19 ottobre 1993 n. 416
 
 
-DECRETO-LEGGE 14 febbraio 1994 n. 106
-=====================================
+DECRETO-LEGGE 19 ottobre 1993 n. 416
+====================================
 
 Istituzione dell'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica.
 -------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 17-2-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/10/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

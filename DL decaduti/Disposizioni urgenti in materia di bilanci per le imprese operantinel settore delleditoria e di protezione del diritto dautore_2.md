@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 febbraio 1996 n. 77
+DECRETO-LEGGE 23 dicembre 1995 n. 544
 
 
-DECRETO-LEGGE 26 febbraio 1996 n. 77
-====================================
+DECRETO-LEGGE 23 dicembre 1995 n. 544
+=====================================
 
 Disposizioni urgenti in materia di bilanci per le imprese operanti 
 nel settore dell'editoria e di protezione del diritto d'autore.
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28/12/1995.Decreto-Legge decaduto per mancata conversione.
 
 CAPO I
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 marzo 1994 n. 177
+DECRETO-LEGGE 16 maggio 1994 n. 292
 
 
-DECRETO-LEGGE 17 marzo 1994 n. 177
-==================================
+DECRETO-LEGGE 16 maggio 1994 n. 292
+===================================
 
 Modifiche alla disciplina degli scarichi delle pubbliche fognature e degli insediamenti civili che non recapitano in pubbliche fognature.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-03-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18-5-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 27 dicembre 1994 n. 720
+DECRETO-LEGGE 29 aprile 1995 n. 133
 
 
-DECRETO-LEGGE 27 dicembre 1994 n. 720
-=====================================
+DECRETO-LEGGE 29 aprile 1995 n. 133
+===================================
 
 Disposizioni urgenti in materia di gestioni aeroportuali.
 ---------------------------------------------------------
 
-Entrata in vigore del decreto: 29/12/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

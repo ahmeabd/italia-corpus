@@ -1,96 +1,93 @@
-DECRETO-LEGGE 23 ottobre 1996 n. 540
+DECRETO-LEGGE 26 febbraio 1996 n. 76
 
 
-DECRETO-LEGGE 23 ottobre 1996 n. 540
+DECRETO-LEGGE 26 febbraio 1996 n. 76
 ====================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 23/10/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 2
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 3
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 4
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 5
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 6
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 7
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 8
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 9
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 10
 -------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 11
 -------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 12
 -------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 13
 -------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Art. 14
 -------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
-
-Art. 15
--------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+ DECRETO DECADUTO  
 
 Tabella A
 
  TABELLA A   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).   
+  
+DECRETO DECADUTO   
 
 Tabella B
 
  TABELLA B   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).   
+  
+DECRETO DECADUTO   

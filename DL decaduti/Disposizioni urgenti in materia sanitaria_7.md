@@ -1,91 +1,70 @@
-DECRETO-LEGGE 28 febbraio 1987 n. 53
+DECRETO-LEGGE 08 novembre 1993 n. 438
 
 
-DECRETO-LEGGE 28 febbraio 1987 n. 53
-====================================
+DECRETO-LEGGE 08 novembre 1993 n. 438
+=====================================
 
 Disposizioni urgenti in materia sanitaria.
 ------------------------------------------
 
-Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 09-11-1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
-  
+DECRETO DECADUTO   
 
 Art. 2
 ------
 
   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
-  
+DECRETO DECADUTO   
 
 Art. 3
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
   
+DECRETO DECADUTO   
 
 Art. 4
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
   
+DECRETO DECADUTO   
 
 Art. 5
 ------
 
   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
-  
+DECRETO DECADUTO   
 
 Art. 6
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
   
+DECRETO DECADUTO   
 
 Art. 7
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
   
+DECRETO DECADUTO   
 
 Art. 8
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
   
+DECRETO DECADUTO   
 
 Art. 9
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
   
+DECRETO DECADUTO   
 
 Art. 10
 -------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
   
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 29 DICEMBRE 1987, N. 531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;531)
-  
+DECRETO DECADUTO   

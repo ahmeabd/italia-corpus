@@ -1,15 +1,15 @@
-DECRETO-LEGGE 19 marzo 1996 n. 130
+DECRETO-LEGGE 17 maggio 1996 n. 267
 
 
-DECRETO-LEGGE 19 marzo 1996 n. 130
-==================================
+DECRETO-LEGGE 17 maggio 1996 n. 267
+===================================
 
 Disposizioni urgenti per l'attuazione del testo unico sulle 
 tossicodipendenze, approvato con decreto del Presidente della 
 Repubblica 9 ottobre 1990, n. 309.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 agosto 1993 n. 330
+DECRETO-LEGGE 30 giugno 1993 n. 212
 
 
-DECRETO-LEGGE 30 agosto 1993 n. 330
+DECRETO-LEGGE 30 giugno 1993 n. 212
 ===================================
 
 Disposizioni urgenti in materia di differimento di termini previsti da disposizioni legislative.
 ------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/08/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/7/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -338,62 +338,6 @@ DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:
   
 
 Art. 42
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
-  
-
-Art. 43
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
-  
-
-Art. 44
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
-  
-
-Art. 45
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
-  
-
-Art. 46
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
-  
-
-Art. 47
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
-  
-
-Art. 48
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
-  
-
-Art. 49
 -------
 
   

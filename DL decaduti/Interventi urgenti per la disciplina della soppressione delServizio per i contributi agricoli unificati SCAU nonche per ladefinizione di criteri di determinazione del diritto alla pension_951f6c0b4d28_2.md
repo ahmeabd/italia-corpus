@@ -1,8 +1,8 @@
-DECRETO-LEGGE 30 ottobre 1995 n. 449
+DECRETO-LEGGE 29 dicembre 1995 n. 554
 
 
-DECRETO-LEGGE 30 ottobre 1995 n. 449
-====================================
+DECRETO-LEGGE 29 dicembre 1995 n. 554
+=====================================
 
 Interventi urgenti per la disciplina della soppressione del 
 Servizio per i contributi agricoli unificati (SCAU), nonche' per la 
@@ -10,7 +10,7 @@ definizione di criteri di determinazione del diritto alla pensione di
 anzianita' degli operai agricoli dipendenti.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-10-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-12-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

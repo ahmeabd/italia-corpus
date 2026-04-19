@@ -1,13 +1,13 @@
-DECRETO-LEGGE 14 aprile 1994 n. 235
+DECRETO-LEGGE 14 febbraio 1994 n. 105
 
 
-DECRETO-LEGGE 14 aprile 1994 n. 235
-===================================
+DECRETO-LEGGE 14 febbraio 1994 n. 105
+=====================================
 
 Modificazioni delle leggi 21 novembre 1991, n. 374, istitutiva del giudice di pace, e 26 novembre 1990, n. 353, concernente provvedimenti urgenti per il processo civile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18/4/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 16-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

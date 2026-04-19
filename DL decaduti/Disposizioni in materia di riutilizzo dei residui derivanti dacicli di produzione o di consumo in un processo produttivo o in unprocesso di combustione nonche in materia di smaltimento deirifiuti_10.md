@@ -1,8 +1,8 @@
-DECRETO-LEGGE 08 gennaio 1996 n. 8
+DECRETO-LEGGE 03 maggio 1996 n. 246
 
 
-DECRETO-LEGGE 08 gennaio 1996 n. 8
-==================================
+DECRETO-LEGGE 03 maggio 1996 n. 246
+===================================
 
 Disposizioni in materia di riutilizzo dei residui derivanti da 
 cicli di produzione o di consumo in un processo produttivo o in un 
@@ -10,7 +10,7 @@ processo di combustione, nonche' in materia di smaltimento dei
 rifiuti.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -140,8 +140,7 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 19
 
 Allegato 1
 
- ALLEGATO 1   
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
+ Allegato 1   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI   
+SALVI DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
   

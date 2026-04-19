@@ -1,7 +1,7 @@
-DECRETO-LEGGE 29 agosto 1984 n. 519
+DECRETO-LEGGE 29 giugno 1984 n. 273
 
 
-DECRETO-LEGGE 29 agosto 1984 n. 519
+DECRETO-LEGGE 29 giugno 1984 n. 273
 ===================================
 
 Misure urgenti a sostegno e ad incremento dei livelli occupazionali.
@@ -13,55 +13,61 @@ Art. 1
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
 
 Art. 2
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
 
 Art. 3
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
 
 Art. 4
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
 
 Art. 5
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
 
 Art. 6
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
 
 Art. 7
 ------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
 
 Art. 8
 ------
 
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 19 DICEMBRE 1984 N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
+
+Art. 9
+------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 19 DICEMBRE 1984, N. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-19;863)
   

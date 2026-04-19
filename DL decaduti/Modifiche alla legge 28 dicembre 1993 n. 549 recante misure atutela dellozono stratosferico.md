@@ -1,14 +1,14 @@
-DECRETO-LEGGE 12 aprile 1996 n. 193
+DECRETO-LEGGE 10 febbraio 1996 n. 56
 
 
-DECRETO-LEGGE 12 aprile 1996 n. 193
-===================================
+DECRETO-LEGGE 10 febbraio 1996 n. 56
+====================================
 
 Modifiche alla legge 28 dicembre 1993, n. 549, recante misure a 
 tutela dell'ozono stratosferico.
 -------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/4/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

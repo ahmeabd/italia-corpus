@@ -1,8 +1,8 @@
-DECRETO-LEGGE 19 settembre 1987 n. 381
+DECRETO-LEGGE 18 maggio 1987 n. 196
 
 
-DECRETO-LEGGE 19 settembre 1987 n. 381
-======================================
+DECRETO-LEGGE 18 maggio 1987 n. 196
+===================================
 
 Misure urgenti per la disciplina e la decongestione del traffico 
 urbano e per la sicurezza stradale.
@@ -41,6 +41,11 @@ Art. 6
  DECRETO DECADUTO  
 
 Art. 7
+------
+
+ DECRETO DECADUTO  
+
+Art. 8
 ------
 
  DECRETO DECADUTO  

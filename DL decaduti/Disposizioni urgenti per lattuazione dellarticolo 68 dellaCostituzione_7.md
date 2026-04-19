@@ -1,14 +1,14 @@
-DECRETO-LEGGE 13 gennaio 1995 n. 7
+DECRETO-LEGGE 08 novembre 1995 n. 466
 
 
-DECRETO-LEGGE 13 gennaio 1995 n. 7
-==================================
+DECRETO-LEGGE 08 novembre 1995 n. 466
+=====================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della 
 Costituzione.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 14/1/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 11-11-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

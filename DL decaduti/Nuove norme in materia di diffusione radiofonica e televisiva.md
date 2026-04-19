@@ -1,8 +1,8 @@
-DECRETO-LEGGE 22 gennaio 1975 n. 3
+DECRETO-LEGGE 30 novembre 1974 n. 603
 
 
-DECRETO-LEGGE 22 gennaio 1975 n. 3
-==================================
+DECRETO-LEGGE 30 novembre 1974 n. 603
+=====================================
 
 Nuove norme in materia di diffusione radiofonica e televisiva.
 --------------------------------------------------------------
@@ -104,6 +104,9 @@ CAPO I Titolo I DEL SERVIZIO PUBBLICO DI DIFFUSIONE RADIOFONICA E TELEVISIVA
 
  DECRETO DECADUTO  
 
+CAPO II Titolo II DEGLI IMPIANTI DI DIFFUSIONE SONORA E TELEVISIVA VIA CAVO
+---------------------------------------------------------------------------
+
 ### Art. 24
 
  DECRETO DECADUTO  
@@ -112,12 +115,10 @@ CAPO I Titolo I DEL SERVIZIO PUBBLICO DI DIFFUSIONE RADIOFONICA E TELEVISIVA
 
  DECRETO DECADUTO  
 
-CAPO II Titolo II DEGLI IMPIANTI DI DIFFUSIONE SONORA E TELEVISIVA VIA CAVO
----------------------------------------------------------------------------
-
 ### Art. 26
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   
 
 ### Art. 27
 
@@ -167,16 +168,18 @@ CAPO II Titolo II DEGLI IMPIANTI DI DIFFUSIONE SONORA E TELEVISIVA VIA CAVO
 
  DECRETO DECADUTO  
 
-### Art. 39
-
- DECRETO DECADUTO  
-
 CAPO III Titolo III DEGLI IMPIANTI RIPETITORI VIA ETERE PRIVATI DI PROGRAMMI SONORI E TELEVISIVI ESTERI E NAZIONALI
 -------------------------------------------------------------------------------------------------------------------
 
+### Art. 39
+
+  
+DECRETO DECADUTO   
+
 ### Art. 40
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   
 
 ### Art. 41
 
@@ -188,7 +191,8 @@ CAPO III Titolo III DEGLI IMPIANTI RIPETITORI VIA ETERE PRIVATI DI PROGRAMMI SON
 
 ### Art. 43
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   
 
 ### Art. 44
 
@@ -198,23 +202,24 @@ CAPO III Titolo III DEGLI IMPIANTI RIPETITORI VIA ETERE PRIVATI DI PROGRAMMI SON
 
  DECRETO DECADUTO  
 
+CAPO IV Titolo IV MODIFICHE AGLI ARTICOLI 1, 183 E 195 DEL TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE IN MATERIA POSTALE, DI BANCOPOSTA E DI TELECOMUNICAZIONI, APPROVATO CON DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 MARZO 1973, N. 156.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Art. 46
-
- DECRETO DECADUTO  
-
-CAPO IV Titolo IV MODIFICHE AGLI ARTICOLI 1, 183 E 195 DEL TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE IN MATERIA POSTALE, DI BANCOPOSTA E DI TELECOMUNICAZIONI, APPROVATO CON DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 MARZO 1973, N. 156
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Art. 47
 
  DECRETO DECADUTO  
 
 CAPO V Titolo V DISPOSIZIONI TRANSITORIE E FINALI
 -------------------------------------------------
 
-### Art. 48
+### Art. 47
 
  DECRETO DECADUTO  
+
+### Art. 48
+
+  
+DECRETO DECADUTO   
 
 ### Art. 49
 
@@ -222,8 +227,5 @@ CAPO V Titolo V DISPOSIZIONI TRANSITORIE E FINALI
 
 ### Art. 50
 
- DECRETO DECADUTO  
-
-### Art. 51
-
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO   

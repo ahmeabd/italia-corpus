@@ -1,89 +1,130 @@
-DECRETO-LEGGE 01 aprile 1995 n. 100
+DECRETO-LEGGE 03 agosto 1995 n. 320
 
 
-DECRETO-LEGGE 01 aprile 1995 n. 100
+DECRETO-LEGGE 03 agosto 1995 n. 320
 ===================================
 
 Norme in materia di istituti e personale appartenenti al Servizio 
 sanitario nazionale.
 ---------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 4-4-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3/8/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 2
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 3
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 4
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 5
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 6
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 7
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 8
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 9
 ------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 10
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 11
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
 Art. 12
 -------
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
 
-Tabella A
+Art. 13
+-------
 
- Tabella A   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
+
+Art. 14
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
+
+Art. 15
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
+
+Art. 16
+-------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  
+
+Allegato
+
+ Allegato   
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).   
+DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
+  

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 gennaio 1994 n. 69
+DECRETO-LEGGE 30 luglio 1993 n. 262
 
 
-DECRETO-LEGGE 28 gennaio 1994 n. 69
+DECRETO-LEGGE 30 luglio 1993 n. 262
 ===================================
 
 Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi.
 ----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-1-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 01/08/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

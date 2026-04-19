@@ -1,13 +1,13 @@
-DECRETO-LEGGE 31 marzo 1994 n. 222
+DECRETO-LEGGE 04 febbraio 1994 n. 90
 
 
-DECRETO-LEGGE 31 marzo 1994 n. 222
-==================================
+DECRETO-LEGGE 04 febbraio 1994 n. 90
+====================================
 
 Semplificazione di talune disposizioni in materia tributaria.
 -------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-4-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 6/2/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 06 maggio 1994 n. 275
+DECRETO-LEGGE 08 luglio 1994 n. 436
 
 
-DECRETO-LEGGE 06 maggio 1994 n. 275
+DECRETO-LEGGE 08 luglio 1994 n. 436
 ===================================
 
 Disciplina operativa concernente partecipazioni e proventi del Tesoro, nonche' norme sugli organismi e sulle procedure attinenti ai mercati ed alla Tesoreria.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9-05-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/7/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

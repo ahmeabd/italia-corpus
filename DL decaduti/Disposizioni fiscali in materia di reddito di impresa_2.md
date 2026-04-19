@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 aprile 1994 n. 261
+DECRETO-LEGGE 28 febbraio 1994 n. 139
 
 
-DECRETO-LEGGE 29 aprile 1994 n. 261
-===================================
+DECRETO-LEGGE 28 febbraio 1994 n. 139
+=====================================
 
 Disposizioni fiscali in materia di reddito di impresa.
 ------------------------------------------------------
 
-Entrata in vigore del decreto: 1/5/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 01-03-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

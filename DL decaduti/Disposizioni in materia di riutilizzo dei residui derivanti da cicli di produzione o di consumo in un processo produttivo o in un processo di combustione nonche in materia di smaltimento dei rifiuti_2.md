@@ -1,13 +1,13 @@
-DECRETO-LEGGE 08 luglio 1994 n. 438
+DECRETO-LEGGE 07 settembre 1994 n. 530
 
 
-DECRETO-LEGGE 08 luglio 1994 n. 438
-===================================
+DECRETO-LEGGE 07 settembre 1994 n. 530
+======================================
 
 Disposizioni in materia di riutilizzo dei residui derivanti da cicli di produzione o di consumo in un processo produttivo o in un processo di combustione, nonche' in materia di smaltimento dei rifiuti.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10/7/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8/9/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -154,6 +154,30 @@ DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:ni
   
 
 Art. 19
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
+  
+
+Art. 20
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
+  
+
+Art. 21
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 11 NOVEMBRE 1996, N. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-11;575)
+  
+
+Art. 22
 -------
 
   

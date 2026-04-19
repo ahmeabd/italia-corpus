@@ -1,14 +1,14 @@
-DECRETO-LEGGE 22 giugno 1996 n. 330
+DECRETO-LEGGE 28 agosto 1995 n. 355
 
 
-DECRETO-LEGGE 22 giugno 1996 n. 330
+DECRETO-LEGGE 28 agosto 1995 n. 355
 ===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/6/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -70,22 +70,7 @@ Art. 12
 
  DECRETO DECADUTO  
 
-Art. 13
--------
+Allegato
 
- DECRETO DECADUTO  
-
-Art. 14
--------
-
- DECRETO DECADUTO  
-
-Tabella A
-
- TABELLA A   
-DECRETO DECADUTO   
-
-all. 2 - art. 1
-
- TABELLA B   
+ ALLEGATO   
 DECRETO DECADUTO   

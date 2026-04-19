@@ -1,8 +1,8 @@
-DECRETO-LEGGE 23 dicembre 1994 n. 728
+DECRETO-LEGGE 01 marzo 1995 n. 59
 
 
-DECRETO-LEGGE 23 dicembre 1994 n. 728
-=====================================
+DECRETO-LEGGE 01 marzo 1995 n. 59
+=================================
 
 Disposizioni urgenti in materia di bilanci per le imprese operanti 
 nel settore dell'editoria e della radiodiffusione, nonche' di 
@@ -10,7 +10,7 @@ prosecuzione dell'attivita' per le emittenti televisive e sonore
 autorizzate in ambito locale.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31/12/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/3/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

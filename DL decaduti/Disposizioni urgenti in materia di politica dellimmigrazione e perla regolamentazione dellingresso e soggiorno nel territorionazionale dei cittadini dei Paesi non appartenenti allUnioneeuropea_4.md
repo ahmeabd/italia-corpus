@@ -1,7 +1,7 @@
-DECRETO-LEGGE 18 gennaio 1996 n. 22
+DECRETO-LEGGE 17 maggio 1996 n. 269
 
 
-DECRETO-LEGGE 18 gennaio 1996 n. 22
+DECRETO-LEGGE 17 maggio 1996 n. 269
 ===================================
 
 Disposizioni urgenti in materia di politica dell'immigrazione e per 
@@ -10,26 +10,26 @@ nazionale dei cittadini dei Paesi non appartenenti all'Unione
 europea.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 CAPO I Capo I FLUSSI DI INGRESSO E LAVORO STAGIONALE
 ----------------------------------------------------
 
 ### Art. 1
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 2
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 3
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
@@ -38,19 +38,19 @@ CAPO II Capo II DISPOSIZIONI IN MATERIA DI INGRESSO E DI SOGGIORNO
 
 ### Art. 4
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 5
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 6
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
@@ -59,19 +59,19 @@ CAPO III Capo III ESPULSIONI E DISPOSIZIONI PENALI
 
 ### Art. 7
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 8
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 9
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
@@ -80,19 +80,19 @@ CAPO IV Capo IV RICONGIUNGIMENTI E REGOLARIZZAZIONI
 
 ### Art. 10
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 11
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 12
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
@@ -101,24 +101,24 @@ CAPO V Capo V NORME FINALI
 
 ### Art. 13
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 14
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 15
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   
 
 ### Art. 16
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+ DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 9 DICEMBRE 1996, N. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-09;617)
   

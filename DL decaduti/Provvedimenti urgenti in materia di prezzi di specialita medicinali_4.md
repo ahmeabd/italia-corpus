@@ -1,13 +1,13 @@
-DECRETO-LEGGE 22 luglio 1994 n. 461
+DECRETO-LEGGE 19 settembre 1994 n. 544
 
 
-DECRETO-LEGGE 22 luglio 1994 n. 461
-===================================
+DECRETO-LEGGE 19 settembre 1994 n. 544
+======================================
 
 Provvedimenti urgenti in materia di prezzi di specialita' medicinali.
 ---------------------------------------------------------------------
 
-Entrata in vigore del decreto: 24-7-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/9/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

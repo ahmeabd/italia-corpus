@@ -1,7 +1,7 @@
-DECRETO-LEGGE 22 giugno 1996 n. 334
+DECRETO-LEGGE 08 agosto 1996 n. 442
 
 
-DECRETO-LEGGE 22 giugno 1996 n. 334
+DECRETO-LEGGE 08 agosto 1996 n. 442
 ===================================
 
 Disposizioni urgenti per assicurare l'attivita' delle emittenti 
@@ -9,7 +9,7 @@ televisive e sonore, autorizzate in ambito locale, nonche' per
 disciplinare le trasmissioni televisive in forma codificata.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/6/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-8-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

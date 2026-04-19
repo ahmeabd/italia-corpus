@@ -1,7 +1,7 @@
-DECRETO-LEGGE 10 maggio 1995 n. 160
+DECRETO-LEGGE 03 maggio 1996 n. 245
 
 
-DECRETO-LEGGE 10 maggio 1995 n. 160
+DECRETO-LEGGE 03 maggio 1996 n. 245
 ===================================
 
 Modifiche al decreto del Presidente della Repubblica 17 maggio 
@@ -9,7 +9,7 @@ Modifiche al decreto del Presidente della Repubblica 17 maggio
 determinate attivita' industriali.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10/5/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -140,6 +140,7 @@ Art. 18
 Art. 19
 -------
 
+  
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO COMMI 1 E 2 SONO STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   
 
@@ -188,6 +189,6 @@ Art. 25
 Allegato A
 
  Allegato A   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   

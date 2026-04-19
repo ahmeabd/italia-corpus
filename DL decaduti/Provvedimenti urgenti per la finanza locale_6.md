@@ -1,8 +1,8 @@
-DECRETO-LEGGE 28 febbraio 1986 n. 47
+DECRETO-LEGGE 02 maggio 1987 n. 167
 
 
-DECRETO-LEGGE 28 febbraio 1986 n. 47
-====================================
+DECRETO-LEGGE 02 maggio 1987 n. 167
+===================================
 
 Provvedimenti urgenti per la finanza locale.
 --------------------------------------------
@@ -14,164 +14,193 @@ CAPO I Titolo I BILANCI, TRASFERIMENTI E MUTUI
 
 ### Art. 1
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 2
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 3
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 4
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 5
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 6
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 7
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 8
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 9
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 10
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 11
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 12
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
-CAPO II Titolo II TASSA PER I SERVIZI COMUNALI
+CAPO II Titolo II DISPOSIZIONI FISCALI E VARIE
 ----------------------------------------------
 
 ### Art. 13
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 14
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 15
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 16
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 17
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 18
 
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
-DECRETO DECADUTO   
 
 ### Art. 19
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 20
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 21
 
- DECRETO DECADUTO  
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 22
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  
 
 ### Art. 23
 
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
-DECRETO DECADUTO   
-
-CAPO III Titolo III ALTRE DISPOSIZIONI FISCALI
-----------------------------------------------
 
 ### Art. 24
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 25
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 26
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 27
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 28
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 29
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
 ### Art. 30
 
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1986, N. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;488)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
   
 
-Tabella A
+### Art. 31
 
- Tabella A   
-DECRETO DECADUTO   
-
-Tabella B
-
- Tabella B   
-DECRETO DECADUTO   
-
-Tabella C
-
- Tabella C   
-DECRETO DECADUTO   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;440)
+  

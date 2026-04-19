@@ -1,13 +1,13 @@
-DECRETO-LEGGE 21 gennaio 1992 n. 14
+DECRETO-LEGGE 20 maggio 1992 n. 293
 
 
-DECRETO-LEGGE 21 gennaio 1992 n. 14
+DECRETO-LEGGE 20 maggio 1992 n. 293
 ===================================
 
 Misure urgenti in campo economico ed interventi in zone terremotate.
 --------------------------------------------------------------------
 
-Entrata in vigore del decreto: 22/1/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/5/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -68,6 +68,36 @@ Art. 9
 DECRETO DECADUTO   
 
 Art. 10
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 11
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 12
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 13
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 14
+-------
+
+  
+DECRETO DECADUTO   
+
+Art. 15
 -------
 
   

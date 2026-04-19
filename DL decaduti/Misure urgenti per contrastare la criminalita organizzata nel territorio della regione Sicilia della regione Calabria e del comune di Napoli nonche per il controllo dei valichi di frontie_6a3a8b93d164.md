@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 febbraio 1994 n. 136
+DECRETO-LEGGE 30 dicembre 1993 n. 550
 
 
-DECRETO-LEGGE 28 febbraio 1994 n. 136
+DECRETO-LEGGE 30 dicembre 1993 n. 550
 =====================================
 
 Misure urgenti per contrastare la criminalita' organizzata nel territorio della regione Sicilia, della regione Calabria e del comune di Napoli, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 01-03-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-12-1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

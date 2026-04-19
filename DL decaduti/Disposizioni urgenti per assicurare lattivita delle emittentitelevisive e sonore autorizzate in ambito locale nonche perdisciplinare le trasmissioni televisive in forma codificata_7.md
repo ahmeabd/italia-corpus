@@ -1,52 +1,57 @@
-DECRETO-LEGGE 08 agosto 1996 n. 442
+DECRETO-LEGGE 23 ottobre 1996 n. 544
 
 
-DECRETO-LEGGE 08 agosto 1996 n. 442
-===================================
+DECRETO-LEGGE 23 ottobre 1996 n. 544
+====================================
 
 Disposizioni urgenti per assicurare l'attivita' delle emittenti 
 televisive e sonore, autorizzate in ambito locale, nonche' per 
 disciplinare le trasmissioni televisive in forma codificata.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-8-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 23/10/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
 
 Art. 2
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
 
 Art. 3
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
 
 Art. 4
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
 
 Art. 5
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
 
 Art. 6
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
 
 Art. 7
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
 
 Art. 8
 ------
 
- DECRETO DECADUTO  
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  
+
+Art. 9
+------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 650](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;650).  

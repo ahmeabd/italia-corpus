@@ -1,8 +1,8 @@
-DECRETO-LEGGE 21 settembre 1987 n. 389
+DECRETO-LEGGE 23 maggio 1987 n. 202
 
 
-DECRETO-LEGGE 21 settembre 1987 n. 389
-======================================
+DECRETO-LEGGE 23 maggio 1987 n. 202
+===================================
 
 Proroga di termini per l'attuazione di interventi nelle zone 
 terremotate della Campania, della Basilicata e della Puglia, nonche' 

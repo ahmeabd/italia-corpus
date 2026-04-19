@@ -1,13 +1,13 @@
-DECRETO-LEGGE 20 maggio 1993 n. 153
+DECRETO-LEGGE 19 settembre 1992 n. 385
 
 
-DECRETO-LEGGE 20 maggio 1993 n. 153
-===================================
+DECRETO-LEGGE 19 settembre 1992 n. 385
+======================================
 
 Disposizioni urgenti concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione.
 --------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 23-05-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/9/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -34,12 +34,6 @@ Art. 4
 DECRETO DECADUTO   
 
 Art. 5
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 6
 ------
 
   

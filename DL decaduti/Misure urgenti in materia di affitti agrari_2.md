@@ -1,13 +1,13 @@
-DECRETO-LEGGE 24 novembre 1992 n. 458
+DECRETO-LEGGE 23 gennaio 1993 n. 18
 
 
-DECRETO-LEGGE 24 novembre 1992 n. 458
-=====================================
+DECRETO-LEGGE 23 gennaio 1993 n. 18
+===================================
 
 Misure urgenti in materia di affitti agrari.
 --------------------------------------------
 
-Entrata in vigore del decreto: 26/11/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 25/1/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -40,12 +40,6 @@ Art. 5
 DECRETO DECADUTO   
 
 Art. 6
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 7
 ------
 
   

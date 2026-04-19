@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 settembre 1994 n. 539
+DECRETO-LEGGE 15 luglio 1994 n. 446
 
 
-DECRETO-LEGGE 19 settembre 1994 n. 539
-======================================
+DECRETO-LEGGE 15 luglio 1994 n. 446
+===================================
 
 Disposizioni urgenti per l'attuazione da parte del Dipartimento per gli affari sociali del testo unico sulle tossicodipendenze, approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-9-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 16-7-1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -54,12 +54,6 @@ Art. 6
 DECRETO DECADUTO   
 
 Art. 7
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 8
 ------
 
   

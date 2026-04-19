@@ -1,14 +1,14 @@
-DECRETO-LEGGE 25 marzo 1996 n. 154
+DECRETO-LEGGE 27 marzo 1995 n. 88
 
 
-DECRETO-LEGGE 25 marzo 1996 n. 154
-==================================
+DECRETO-LEGGE 27 marzo 1995 n. 88
+=================================
 
 Misure urgenti per il rilancio economico ed occupazionale dei 
 lavori pubblici e dell'edilizia privata.
 -------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28-3-1995.Decreto-Legge decaduto per mancata conversione.
 
 CAPO I Capo I REGOLARIZZAZIONE DI VIOLAZIONI EDILIZIE
 -----------------------------------------------------
@@ -52,14 +52,14 @@ CAPO II Capo II ALTRE DISPOSIZIONI IN MATERIA DI SANATORIA EDILIZIA E DISPOSIZIO
 [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
   
 
+CAPO III Capo III NORME IN MATERIA DI CONTROLLO, DI SEMPLIFICAZIONE DEI PROCEDIMENTI IN MATERIA URBANISTICO-EDILIZIA E DI INCENTIVAZIONE DELL'ATTIVITA' EDILIZIA.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Art. 7
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
   
-
-CAPO III Capo III NORME IN MATERIA DI CONTROLLO, DI SEMPLIFICAZIONE DEI PROCEDIMENTI IN MATERIA URBANISTICO-EDILIZIA E DI INCENTIVAZIONE DELL'ATTIVITA' EDILIZIA.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Art. 8
 
@@ -74,18 +74,6 @@ CAPO III Capo III NORME IN MATERIA DI CONTROLLO, DI SEMPLIFICAZIONE DEI PROCEDIM
   
 
 ### Art. 10
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
-  
-
-### Art. 11
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)
-  
-
-### Art. 12
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 23 DICEMBRE 1996, N. 662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662)

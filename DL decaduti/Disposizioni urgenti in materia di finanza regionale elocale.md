@@ -1,14 +1,14 @@
-DECRETO-LEGGE 27 settembre 1988 n. 416
+DECRETO-LEGGE 30 luglio 1988 n. 304
 
 
-DECRETO-LEGGE 27 settembre 1988 n. 416
-======================================
+DECRETO-LEGGE 30 luglio 1988 n. 304
+===================================
 
 Disposizioni urgenti in materia di finanza regionale e 
 locale.
 ---------------------------------------------------------------
 
-Entrata in vigore del decreto: 29/09/1988.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/07/1988.Decreto-Legge decaduto per mancata conversione.
 
 CAPO I Titolo I FINANZIAMENTI INTEGRATIVI PER IL SETTORE REGIONALE
 ------------------------------------------------------------------

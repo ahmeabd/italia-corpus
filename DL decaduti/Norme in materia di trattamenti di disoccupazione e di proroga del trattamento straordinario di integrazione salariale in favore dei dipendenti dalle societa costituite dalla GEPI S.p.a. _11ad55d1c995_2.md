@@ -1,13 +1,13 @@
-DECRETO-LEGGE 13 febbraio 1990 n. 20
+DECRETO-LEGGE 24 aprile 1990 n. 82
 
 
-DECRETO-LEGGE 13 febbraio 1990 n. 20
-====================================
+DECRETO-LEGGE 24 aprile 1990 n. 82
+==================================
 
 Norme in materia di trattamenti di disoccupazione e di proroga del trattamento straordinario di integrazione salariale in favore dei dipendenti dalle societa' costituite dalla GEPI S.p.a. e dei lavoratori edili nel Mezzogiorno, nonche' di pensionamento anticipato.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 14/02/90.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 25/4/90.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,50 +1,103 @@
-DECRETO-LEGGE 26 febbraio 1988 n. 46
+DECRETO-LEGGE 10 luglio 1987 n. 271
 
 
-DECRETO-LEGGE 26 febbraio 1988 n. 46
-====================================
+DECRETO-LEGGE 10 luglio 1987 n. 271
+===================================
 
 Provvedimenti urgenti in materia di pubblico impiego.
 -----------------------------------------------------
 
-Entrata in vigore del decreto: 01/03/1988.Decreto-Legge decaduto per mancata conversione.
+Decreto-Legge decaduto per mancata conversione.
 
-Art. 1
-------
+CAPO I Titolo I DISPOSIZIONI GENERALI
+-------------------------------------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 LUGLIO 1988 N. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254)
-  
+### Art. 1
 
-Art. 2
-------
+ DECRETO DECADUTO  
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 LUGLIO 1988 N. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254)
-  
+### Art. 2
 
-Art. 3
-------
+ DECRETO DECADUTO  
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 LUGLIO 1988 N. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254)
-  
+### Art. 3
 
-Art. 4
-------
+ DECRETO DECADUTO  
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 LUGLIO 1988 N. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254)
-  
+CAPO II Titolo II DISPOSIZIONI RELATIVE A SINGOLI COMPARTI
+----------------------------------------------------------
 
-Art. 5
-------
+### Art. 4
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 LUGLIO 1988 N. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254)
-  
+ DECRETO DECADUTO  
+
+### Art. 5
+
+ DECRETO DECADUTO  
+
+### Art. 6
+
+ DECRETO DECADUTO  
+
+### Art. 7
+
+ DECRETO DECADUTO  
+
+### Art. 8
+
+ DECRETO DECADUTO  
+
+### Art. 9
+
+ DECRETO DECADUTO  
+
+### Art. 10
+
+ DECRETO DECADUTO  
+
+### Art. 11
+
+ DECRETO DECADUTO  
+
+### Art. 12
+
+ DECRETO DECADUTO  
+
+### Art. 13
+
+ DECRETO DECADUTO  
+
+### Art. 14
+
+ DECRETO DECADUTO  
+
+### Art. 15
+
+ DECRETO DECADUTO  
+
+### Art. 16
+
+ DECRETO DECADUTO  
+
+CAPO III TITOLO III DISPOSIZIONI TRANSITORIE
+--------------------------------------------
+
+### Art. 17
+
+ DECRETO DECADUTO  
+
+### Art. 18
+
+ DECRETO DECADUTO  
+
+### Art. 19
+
+ DECRETO DECADUTO  
+
+### Art. 20
+
+ DECRETO DECADUTO  
+
+### Art. 21
+
+ DECRETO DECADUTO  

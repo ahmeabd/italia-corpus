@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 febbraio 1996 n. 85
+DECRETO-LEGGE 30 agosto 1996 n. 448
 
 
-DECRETO-LEGGE 26 febbraio 1996 n. 85
-====================================
+DECRETO-LEGGE 30 agosto 1996 n. 448
+===================================
 
 Interventi urgenti di carattere previdenziale per il personale del 
 Gruppo Alitalia.
 ------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-2-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 31/8/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 20 luglio 1992 n. 342
+DECRETO-LEGGE 17 marzo 1992 n. 233
 
 
-DECRETO-LEGGE 20 luglio 1992 n. 342
-===================================
+DECRETO-LEGGE 17 marzo 1992 n. 233
+==================================
 
 Disposizioni urgenti in materia di finanza locale per il 1992.
 --------------------------------------------------------------
 
-Entrata in vigore del decreto: 21-7-1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/3/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -266,6 +266,14 @@ DALLA [L. 19 MARZO 1993, N. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:st
   
 
 Art. 33
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 19 MARZO 1993, N. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;68)
+  
+
+Art. 34
 -------
 
   

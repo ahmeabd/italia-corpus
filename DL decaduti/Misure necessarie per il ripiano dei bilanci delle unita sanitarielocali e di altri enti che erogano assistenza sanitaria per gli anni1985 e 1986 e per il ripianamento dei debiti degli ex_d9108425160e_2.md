@@ -1,14 +1,14 @@
-DECRETO-LEGGE 21 marzo 1987 n. 97
+DECRETO-LEGGE 19 maggio 1987 n. 193
 
 
-DECRETO-LEGGE 21 marzo 1987 n. 97
-=================================
+DECRETO-LEGGE 19 maggio 1987 n. 193
+===================================
 
-Misure necessarie per il ripiano dei bilanci delle, unita' sanitarie 
+Misure necessarie per il ripiano dei bilanci delle unita' sanitarie 
 locali e di altri enti che erogano assistenza sanitaria per gli anni 
 1985 e 1986 e per il ripianamento dei debiti degli ex enti 
 ospedalieri.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Decreto-Legge decaduto per mancata conversione.
 
@@ -56,8 +56,7 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
 
 ### Art. 7
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 29 OTTOBRE 1987, N. 456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;456)
   
 
@@ -69,8 +68,7 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
 
 ### Art. 9
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 29 OTTOBRE 1987, N. 456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;456)
   
 
@@ -93,6 +91,12 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
   
 
 ### Art. 13
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 29 OTTOBRE 1987, N. 456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;456)
+  
+
+### Art. 14
 
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 29 OTTOBRE 1987, N. 456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;456)

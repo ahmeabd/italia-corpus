@@ -1,15 +1,15 @@
-DECRETO-LEGGE 07 luglio 1995 n. 271
+DECRETO-LEGGE 08 novembre 1995 n. 461
 
 
-DECRETO-LEGGE 07 luglio 1995 n. 271
-===================================
+DECRETO-LEGGE 08 novembre 1995 n. 461
+=====================================
 
 Modifiche al decreto del Presidente della Repubblica 17 maggio 
 1988, n. 175, relativo ai rischi di incidenti rilevanti connessi con 
 determinate attivita' industriali.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10/7/95.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/11/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -140,7 +140,6 @@ Art. 18
 Art. 19
 -------
 
-  
 DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO COMMI 1 E 2 SONO STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   
 
@@ -182,14 +181,13 @@ Art. 24
 Art. 25
 -------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   
 
 Allegato A
 
- Allegato A   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
+ ALLEGATO A   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 giugno 1995 n. 257
+DECRETO-LEGGE 29 aprile 1995 n. 141
 
 
-DECRETO-LEGGE 28 giugno 1995 n. 257
+DECRETO-LEGGE 29 aprile 1995 n. 141
 ===================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di ordinamenti finanziari e contabili.
 ---------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

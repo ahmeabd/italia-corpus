@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 febbraio 1996 n. 94
+DECRETO-LEGGE 29 aprile 1996 n. 231
 
 
-DECRETO-LEGGE 28 febbraio 1996 n. 94
-====================================
+DECRETO-LEGGE 29 aprile 1996 n. 231
+===================================
 
 Utilizzazione in conto residui di fondi stanziati per interventi in 
 campo sociale.
 -----------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-2-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/4/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -33,7 +33,8 @@ Art. 4
 Art. 5
 ------
 
-DECRETO DECADUTO; GLI EFFETTI DEL COMMA 1 DEL PRESENTE ARTICOLO SONO STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
+ DECRETO DECADUTO; GLI EFFETTI DEL COMMA 1 DEL PRESENTE ARTICOLO  
+SONO STATI FATTI SALVI DALLA [L. 19 MAGGIO 1997, N. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137)
   
 
 Art. 6
@@ -49,8 +50,7 @@ Art. 7
 Art. 8
 ------
 
-  
-DECRETO DECADUTO   
+ DECRETO DECADUTO  
 
 Art. 9
 ------

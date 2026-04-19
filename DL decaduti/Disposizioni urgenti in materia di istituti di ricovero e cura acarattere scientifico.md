@@ -1,14 +1,14 @@
-DECRETO-LEGGE 01 dicembre 1995 n. 510
+DECRETO-LEGGE 02 ottobre 1995 n. 410
 
 
-DECRETO-LEGGE 01 dicembre 1995 n. 510
-=====================================
+DECRETO-LEGGE 02 ottobre 1995 n. 410
+====================================
 
 Disposizioni urgenti in materia di istituti di ricovero e cura a 
 carattere scientifico.
 ----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

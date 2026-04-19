@@ -1,13 +1,13 @@
-DECRETO-LEGGE 07 febbraio 1994 n. 95
+DECRETO-LEGGE 09 agosto 1993 n. 285
 
 
-DECRETO-LEGGE 07 febbraio 1994 n. 95
-====================================
+DECRETO-LEGGE 09 agosto 1993 n. 285
+===================================
 
 Disposizioni urgenti per accelerare la concessione delle agevolazioni alle attivita' e per il personale della soppressa Agenzia per la promozione dello sviluppo del Mezzogiorno.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8/2/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 11/8/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -51,94 +51,6 @@ DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 Art. 6
 ------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 12
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 13
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 14
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 15
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 16
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
-  
-
-Art. 17
--------
 
   
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   

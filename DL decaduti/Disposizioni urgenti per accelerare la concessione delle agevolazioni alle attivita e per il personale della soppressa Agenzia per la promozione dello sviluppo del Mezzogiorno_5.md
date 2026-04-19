@@ -1,13 +1,13 @@
-DECRETO-LEGGE 09 ottobre 1993 n. 403
+DECRETO-LEGGE 09 aprile 1994 n. 228
 
 
-DECRETO-LEGGE 09 ottobre 1993 n. 403
-====================================
+DECRETO-LEGGE 09 aprile 1994 n. 228
+===================================
 
 Disposizioni urgenti per accelerare la concessione delle agevolazioni alle attivita' e per il personale della soppressa Agenzia per la promozione dello sviluppo del Mezzogiorno.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10-10-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 11/4/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -90,6 +90,54 @@ DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
   
 
 Art. 11
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
+  
+
+Art. 12
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
+  
+
+Art. 13
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
+  
+
+Art. 14
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
+  
+
+Art. 15
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
+  
+
+Art. 16
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 7 APRILE 1995, N. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-07;104)
+  
+
+Art. 17
 -------
 
   

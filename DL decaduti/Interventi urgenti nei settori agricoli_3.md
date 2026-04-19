@@ -1,13 +1,13 @@
-DECRETO-LEGGE 31 gennaio 1996 n. 41
+DECRETO-LEGGE 02 aprile 1996 n. 182
 
 
-DECRETO-LEGGE 31 gennaio 1996 n. 41
+DECRETO-LEGGE 02 aprile 1996 n. 182
 ===================================
 
 Interventi urgenti nei settori agricoli.
 ----------------------------------------
 
-Entrata in vigore del decreto: 5/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 4/4/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

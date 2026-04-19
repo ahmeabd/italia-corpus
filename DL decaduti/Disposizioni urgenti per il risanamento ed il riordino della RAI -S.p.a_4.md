@@ -1,14 +1,14 @@
-DECRETO-LEGGE 22 dicembre 1994 n. 721
+DECRETO-LEGGE 28 giugno 1995 n. 252
 
 
-DECRETO-LEGGE 22 dicembre 1994 n. 721
-=====================================
+DECRETO-LEGGE 28 giugno 1995 n. 252
+===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-12-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -72,5 +72,6 @@ Art. 12
 
 Tabella
 
- Tabella A   
+ Tabella   
+  
 DECRETO DECADUTO   

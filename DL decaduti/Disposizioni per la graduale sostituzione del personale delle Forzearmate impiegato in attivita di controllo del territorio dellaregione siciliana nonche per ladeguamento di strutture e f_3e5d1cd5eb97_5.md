@@ -1,8 +1,8 @@
-DECRETO-LEGGE 10 maggio 1996 n. 252
+DECRETO-LEGGE 06 settembre 1996 n. 465
 
 
-DECRETO-LEGGE 10 maggio 1996 n. 252
-===================================
+DECRETO-LEGGE 06 settembre 1996 n. 465
+======================================
 
 Disposizioni per la graduale sostituzione del personale delle Forze 
 armate impiegato in attivita' di controllo del territorio della 
@@ -10,52 +10,45 @@ regione siciliana, nonche' per l'adeguamento di strutture e funzioni
 connesse alla lotta contro la criminalita' organizzata.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 11-05-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9-9-1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ DECRETO DECADUTO  
 
 Art. 2
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ DECRETO DECADUTO  
 
 Art. 3
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ DECRETO DECADUTO  
 
 Art. 4
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ DECRETO DECADUTO  
 
 Art. 5
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ DECRETO DECADUTO  
 
 Art. 6
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ DECRETO DECADUTO  
 
 Art. 7
 ------
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ DECRETO DECADUTO  
 
 Allegato
 
- Allegato   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653)
-  
+ ALLEGATO   
+(previsto dall'art. 2, comma 4)   
+DECRETO DECADUTO   

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 05 agosto 1996 n. 412
+DECRETO-LEGGE 04 ottobre 1996 n. 521
 
 
-DECRETO-LEGGE 05 agosto 1996 n. 412
-===================================
+DECRETO-LEGGE 04 ottobre 1996 n. 521
+====================================
 
 Interventi urgenti in materia sociale ed umanitaria.
 ----------------------------------------------------
 
-Entrata in vigore del decreto: 8/8/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 7/10/1996.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

@@ -1,20 +1,20 @@
-DECRETO-LEGGE 05 dicembre 1992 n. 472
+DECRETO-LEGGE 01 febbraio 1993 n. 26
 
 
-DECRETO-LEGGE 05 dicembre 1992 n. 472
-=====================================
+DECRETO-LEGGE 01 febbraio 1993 n. 26
+====================================
 
 Interventi urgenti in materia di occupazione.
 ---------------------------------------------
 
-Entrata in vigore del decreto: 5/12/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 4-2-1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1993, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 19 LUGLIO 1993, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236)
 
 ((1))
 
@@ -28,8 +28,8 @@ Art. 2
 ------
 
   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1993, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236)
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 19 LUGLIO 1993, N. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236)
 
 ((1))
 

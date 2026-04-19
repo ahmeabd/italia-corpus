@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 marzo 1989 n. 112
+DECRETO-LEGGE 28 luglio 1989 n. 266
 
 
-DECRETO-LEGGE 28 marzo 1989 n. 112
-==================================
+DECRETO-LEGGE 28 luglio 1989 n. 266
+===================================
 
 Disposizioni per gli accertamenti dei redditi dei fabbricati e per la presentazione di dichiarazioni sostitutive, nonche' per la determinazione dei redditi dei terreni interessati da variazioni di colture non allibrate in catasto.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31/03/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/7/1989.Decreto-Legge decaduto per mancata conversione.
 
 CAPO I Capo I ACCERTAMENTI PARZIALI DEI REDDITI DI FABBRICATI E PRESENTAZIONE DI DICHIARAZIONI SOSTITUTIVE
 ----------------------------------------------------------------------------------------------------------
@@ -82,6 +82,12 @@ CAPO II Capo II DETERMINAZIONE DEL REDDITO DEI TERRENI A SEGUITO DI VARIAZIONI D
   
 
 ### Art. 12
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
+[L. 18 NOVEMBRE 1991, N. 363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-18;363)
+  
+
+### Art. 13
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 18 NOVEMBRE 1991, N. 363](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-18;363)

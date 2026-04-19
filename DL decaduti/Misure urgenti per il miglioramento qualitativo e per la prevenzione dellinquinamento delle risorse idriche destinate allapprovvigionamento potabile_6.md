@@ -1,13 +1,13 @@
-DECRETO-LEGGE 14 febbraio 1989 n. 49
+DECRETO-LEGGE 06 dicembre 1989 n. 388
 
 
-DECRETO-LEGGE 14 febbraio 1989 n. 49
-====================================
+DECRETO-LEGGE 06 dicembre 1989 n. 388
+=====================================
 
 Misure urgenti per il miglioramento qualitativo e per la prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore della legge: 14/02/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 7/12/1989.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -33,8 +33,7 @@ Art. 3
 Art. 4
 ------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
@@ -104,8 +103,7 @@ Art. 13
 Art. 14
 -------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
@@ -119,8 +117,7 @@ Art. 15
 Art. 16
 -------
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
 [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
@@ -133,14 +130,14 @@ Art. 17
 
 Tabella A
 
- Allegato   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
+ Tabella A   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   
 
-Tabella B
+all. 2 - art. 1
 
- Allegato   
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
+ Tabella B   
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
+DALLA [L. 5 APRILE 1990, N. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71)
   

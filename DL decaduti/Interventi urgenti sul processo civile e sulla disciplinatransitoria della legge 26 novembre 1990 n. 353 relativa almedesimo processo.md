@@ -1,7 +1,7 @@
-DECRETO-LEGGE 09 agosto 1995 n. 347
+DECRETO-LEGGE 21 giugno 1995 n. 238
 
 
-DECRETO-LEGGE 09 agosto 1995 n. 347
+DECRETO-LEGGE 21 giugno 1995 n. 238
 ===================================
 
 Interventi urgenti sul processo civile e sulla disciplina 
@@ -9,7 +9,7 @@ transitoria della legge 26 novembre 1990, n. 353, relativa al
 medesimo processo.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 22-8-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22-6-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

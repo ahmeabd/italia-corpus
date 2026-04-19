@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 giugno 1994 n. 418
+DECRETO-LEGGE 29 aprile 1994 n. 263
 
 
-DECRETO-LEGGE 30 giugno 1994 n. 418
+DECRETO-LEGGE 29 aprile 1994 n. 263
 ===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - S.p.a.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-6-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/5/1994.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -75,7 +75,7 @@ Art. 11
   
 DECRETO DECADUTO   
 
-all. 1 - art. 1
+Tabella
 
- ALLEGATO.   
+ Tabella.   
 DECRETO DECADUTO   

@@ -1,15 +1,15 @@
-DECRETO-LEGGE 23 dicembre 1994 n. 729
+DECRETO-LEGGE 25 febbraio 1995 n. 58
 
 
-DECRETO-LEGGE 23 dicembre 1994 n. 729
-=====================================
+DECRETO-LEGGE 25 febbraio 1995 n. 58
+====================================
 
 Disposizioni urgenti concernenti abolizione degli esami di 
 riparazione e di seconda sessione ed attivazione dei relativi 
 interventi di sostegno e di recupero.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31-12-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/3/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

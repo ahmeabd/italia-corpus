@@ -1,13 +1,13 @@
-DECRETO-LEGGE 02 marzo 1993 n. 48
+DECRETO-LEGGE 28 aprile 1993 n. 130
 
 
-DECRETO-LEGGE 02 marzo 1993 n. 48
-=================================
+DECRETO-LEGGE 28 aprile 1993 n. 130
+===================================
 
 Disposizioni urgenti in materia di differimento di termini previsti da disposizioni legislative.
 ------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/3/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2/5/1993.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -210,6 +210,22 @@ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
   
 
 Art. 26
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 27
+-------
+
+  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
+[L. 13 LUGLIO 1995, N. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;295)
+  
+
+Art. 28
 -------
 
   

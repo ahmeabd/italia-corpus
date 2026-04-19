@@ -1,14 +1,14 @@
-DECRETO-LEGGE 03 agosto 1995 n. 320
+DECRETO-LEGGE 02 giugno 1995 n. 219
 
 
-DECRETO-LEGGE 03 agosto 1995 n. 320
+DECRETO-LEGGE 02 giugno 1995 n. 219
 ===================================
 
 Norme in materia di istituti e personale appartenenti al Servizio 
 sanitario nazionale.
 ---------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3/8/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3/6/1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -80,51 +80,9 @@ Art. 10
 DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
   
 
-Art. 11
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
-  
-
-Art. 12
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
-  
-
-Art. 13
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
-  
-
-Art. 14
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
-  
-
-Art. 15
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
-  
-
-Art. 16
--------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
-  
-
 Allegato
 
- Allegato   
+ ALLEGATO   
 DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
 DALLA [L. 31 GENNAIO 1996, N. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34)
   

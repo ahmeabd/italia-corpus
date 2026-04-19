@@ -1,14 +1,14 @@
-DECRETO-LEGGE 23 dicembre 1994 n. 718
+DECRETO-LEGGE 28 agosto 1995 n. 353
 
 
-DECRETO-LEGGE 23 dicembre 1994 n. 718
-=====================================
+DECRETO-LEGGE 28 agosto 1995 n. 353
+===================================
 
 Disposizioni urgenti in materia di ordinamento della Corte dei 
 conti.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29/12/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
@@ -54,6 +54,27 @@ DALLA [L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 Art. 7
 ------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
+  
+
+Art. 8
+------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
+  
+
+Art. 9
+------
+
+ DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
+DALLA [L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)
+  
+
+Art. 10
+-------
 
  DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
 DALLA [L. 20 DICEMBRE 1996, N. 639](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;639)

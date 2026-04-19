@@ -1,13 +1,13 @@
-DECRETO-LEGGE 21 gennaio 1993 n. 14
+DECRETO-LEGGE 20 novembre 1992 n. 450
 
 
-DECRETO-LEGGE 21 gennaio 1993 n. 14
-===================================
+DECRETO-LEGGE 20 novembre 1992 n. 450
+=====================================
 
 Disposizioni urgenti concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione.
 --------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/1/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/11/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------

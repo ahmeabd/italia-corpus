@@ -1,19 +1,19 @@
-DECRETO-LEGGE 30 gennaio 1992 n. 42
+DECRETO-LEGGE 26 marzo 1992 n. 242
 
 
-DECRETO-LEGGE 30 gennaio 1992 n. 42
-===================================
+DECRETO-LEGGE 26 marzo 1992 n. 242
+==================================
 
 Copertura dei disavanzi nel settore dei trasporti pubblici locali.
 ------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/2/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/03/1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
   
-DECREDO DECADUTO   
+DECRETO DECADUTO   
 
 Art. 2
 ------

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 marzo 1992 n. 243
+DECRETO-LEGGE 31 gennaio 1992 n. 45
 
 
-DECRETO-LEGGE 26 marzo 1992 n. 243
-==================================
+DECRETO-LEGGE 31 gennaio 1992 n. 45
+===================================
 
 Norme in materia di trattamento economico e di potenziamento dei mezzi delle Forze armate, nonche' di spese connesse alla crisi del Golfo Persico.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/03/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2-2-1992.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
