@@ -1,7 +1,7 @@
-LEGGE 29 luglio 1957 n. 635
+LEGGE 02 gennaio 1952 n. 10
 
 
-LEGGE 29 luglio 1957 n. 635
+LEGGE 02 gennaio 1952 n. 10
 ===========================
 
 Disposizioni integrative della legge 10 agosto 1950, n. 647, per l'esecuzione di opere straordinarie di pubblico interesse nell'Italia settentrionale e centrale.
@@ -21,80 +21,63 @@ Art. 1
 ------
 
   
-Il [primo comma dell'art. 1 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art1-com1), gia' sostituito con l'[art. 1 della legge 15 luglio 1954, n. 543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-15;543~art1), e' sostituito dal seguente:  
-"A partire dall'esercizio finanziario 1950-1951 e fino all'esercizio 1964-65 incluso i Ministri per i lavori pubblici e per l'agricoltura e le foreste provvederanno, nell'ambito delle rispettive competenze e sostenendo gli oneri previsti a carico dello Stato dalla legislazione vigente, a fare eseguire opere straordinarie di pubblico interesse nelle localita' economicamente depresse delle Regioni e Province della Repubblica, diverse da quelle indicate nell'[art. 3 della legge 10 agosto 1950, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;646~art3), relativa all'istituzione della Cassa per opere straordinarie di pubblico interesse nell'Italia meridionale".  
+L'[art. 2 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art2), e' sostituito dal seguente:  
+"Per le opere riguardanti la viabilita' ordinaria non statale, da eseguirsi ai sensi dell'art. 1, lo Stato potra' assumere a totale o parziale suo carico la spesa di sistemazione di strade esistenti anche se per tali opere non sia prevista la concessione di contributi dello Stato.  
+"Potra' inoltre assumere a totale o parziale suo carico la costruzione di nuove strade per le quali non sia previsto alcun contributo.  
+"Per l'esecuzione dei lavori di viabilita' ordinaria non statale, per i quali e' previsto il concorso dello Stato, il Ministero dei lavori pubblici, in attesa del perfezionamento delle pratiche relative ai mutui, e' autorizzato ad anticipare sui fondi di cui al successivo art. 5 la quota di spesa a carico degli enti locali, previo riconoscimento di debito da parte degli stessi. In tal caso, il Ministero dei lavori pubblici dara' comunicazione dell'anticipazione a quello del tesoro, il quale potra' sostituirsi all'ente locale nell'adempimento delle pratiche necessarie all'ottenimento del mutuo da parte della Cassa depositi e prestiti.  
+"Il ricavo del mutuo affluira' alle Casse dello Stato a copertura dell'anticipazione fatta.  
+"Con decreto del Ministro per il tesoro si provvedera' al reintegro del corrispondente capitolo dello Stato di previsione della spesa del Ministero dei lavori pubblici.  
+"Per i lavori di cui al terzo comma del presente articolo da eseguirsi in Comuni montani con popolazione non superiore ai 3000 abitanti lo Stato puo' assumere a totale suo carico l'onere relativo quando la quota di ammortamento e di interessi del mutuo da contrarsi da parte del- l'Amministrazione interessata gravi sul bilancio comunale in misura non inferiore a un decimo delle entrate del bilancio stesso nell'anno anteriore al finanziamento dei lavori.  
+"Sono da considerarsi Comuni montani quelli censuari il cui territorio abbia un'altitudine minima, non inferiore a metri 600 sul livello del mare, ovvero un dislivello non inferiore a metri 600 tra l'altitudine minima e quella massima, sempre che il reddito imponibile medio per ettaro censito, risultante della somma del reddito dominicale e del reddito agrario determinati a norma del [regio decreto-legge 4 aprile 1939, n. 589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976), non sia maggiore di lire duecento.  
+"Per gli acquedotti anche promiscui e relative fognature da eseguirsi ai sensi dell'art. 1 lo Stato potra' assumere a totale suo carico la costruzione delle opere principali di raccolta e di adduzione, ivi compresi i serbatoi ed escluso comunque quanto attiene alla rete interna di distribuzione".  
 
 Art. 2
 ------
 
   
-L'[art. 3 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art3), gia' modificato con l'[art. 3 della legge 25 luglio 1952, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949~art3) e con l'[art. 2 della legge 15 luglio 1954, n. 543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-07-15;543~art2) e' sostituito dal seguente:  
-"I programmi delle opere da eseguirsi saranno predisposti e coordinati di concerto tra i vari Ministeri interessati e sottoposti alla approvazione di un Comitato di Ministri designato dal Consiglio dei Ministri.  
-Per l'attuazione di tale programma e' autorizzata la spesa di lire 408 miliardi.  
-Ai fini dei pagamenti da effettuarsi in dipendenza degli impegni da assumere in applicazione dell'autorizzazione di spesa di cui al precedente comma, sara' stanziata la somma di lire 20 miliardi in ciascuno degli esercizi dal 1950-51 al 1954-55, di lire 22 miliardi in ciascuno degli esercizi dal 1955-56 a" 1957-58, di lire 30 miliardi per gli esercizi 1958-59 e 1959 60, di lire 34 miliardi per gli esercizi 1960-01 e 1961-62 e di lire 38 miliardi in ciascuno degli esercizi dal 1962-63 ai 1964-65(. Detta autorizzazioni di spesa sara' ripartita fra il Ministero dei lavori pubblici e il Ministero dell'agricoltura e foreste, in relazione ai programmi relativi alle opere di cui all'art. 1.  
-Con decreti da emanarsi dal Ministro competente - dichiarata, a tutti gli effetti, la pubblica utilita' delle opere approvate.  
-Peraltro, nei limiti della competenza attribuita ai Provvedimenti regionali alle opere pubbliche dell'[art. 2 del decreto Presidenziale 30 giugno 1955, n. 1534](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;1534~art2), si applica il disposto dell'art. 8 del decreto medesimo.  
-Le opere stesse sono considerate indifferibili ed urgenti ai sensi e per gli effetti dell'[art. 71 della legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359~art71)".
+Spetta al Comitato dei Ministri previsto dall'[art. 3 della legge 10 agosto 1950, n. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;617~art3), deliberare l'assunzione a totale o parziale carico dello Stato delle opere contemplate dall'art. 2 della legge stessa.  
+La deliberazione del Comitato e' adottata su domanda diretta al Ministero dei lavori pubblici dagli enti locali interessati. Quando il Comitato decida l'assunzione a carico parziale dello Stato, la sua deliberazione fissa la quota percentuale del concorso dello Stato sull'importo preventivato dei lavori.  
 
 Art. 3
 ------
 
   
-All'[art. 2 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art2), modificato dall'[art. 1 della legge 2 gennaio 1952, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;10~art1), sono aggiunti i seguenti commi: "Lo Stato potra' assumere a proprio carico gli oneri ai quali i Comuni con popolazione non superiore ai 10.000 abitanti debbono far fronte per la costruzione o il completamento delle reti di distribuzione interne degli acquedotti e per la costruzione o il completamento degli impianti e reti di fognature, ove i Comuni stessi si trovino nella impossibilita' di garantire in tutto o in parte con la sovrimposta fondiari, i mutui occorrenti e i lavori siano stati ammessi al contributo statale ai sensi degli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-08-03;589~art3) e [11 della legge 3 agosto 1948, n. 589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-08-03;589~art11) e successive modificazioni.  
-La dichiarazione della mpossibilita' per i Comuni di garantire i mutui con la sovrimposta fondiaria e' fatta dal competente organo della Regione o, in difetto di questa, dal Prefetto.  
-In coordinazione con quanto disposto nei precedenti commi, il limite di impegno per contributi nella spesa per opere igieniche (di cui agli stessi commi) da autorizzare a termine dell'[art. 17 della legge 3 agosto 1948, n. 589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-08-03;589~art17), negli stati di previsione della spesa del Ministero dei lavori pubblici per ciascun esercizio dal 1957-58 sino al 1964-65 incluso, non potra' essere inferiore a lire 100 milioni.  
-L'assunzione da parte dello Stato degli oneri a carico dei Comuni, a' termini dei commi precedenti, comporta l'impegno da parte della Cassa depositi e prestiti a concedere il mutuo occorrente.  
-Il Ministero del tesoro, in applicazione delle norme citate nei precedenti commi, cura per conto dei Comuni tutti gli adempimenti necessari per la regolarizzazione del mutuo e provvede alla anticipazione dei fondi occorrenti per l'esecuzione dei lavori".  
+E' in facolta' del Ministero dei lavori pubblici e dei dipendenti Provveditorati regionali alle opere pubbliche, nei rispettivi limiti di competenza, consentire che le opere previste dall'[art. 1 della legge 10 agosto 1950, n. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;617~art1), di competenza del Ministero stesso, siano eseguite, in base ad apposite convenzioni, a cura delle Amministrazioni provinciali e comunali o dei consorzi tra detti enti interessati, che ne facciano richiesta e che possiedano una adeguata attrezzatura tecnico-ammini- strativa.  
+Le Amministrazioni provinciali possono assumere, colle modalita' di cui al comma precedente, l'esecuzione di lavori di interesse di piu' Comuni della provincia, o anche di singoli Comuni, purche', in questo caso, ne vengano richieste dall'Amministrazione comunale interessata.
 
 Art. 4
 ------
 
   
-Con le modalita' stabilite dalla [legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647), e sue successive modificazioni, e sui fondi indicati dall'art. 2 della presente legge, lo Stato potra' assumere a totale o parziale suo carico anche la costruzione di funivie che allaccino alla rete viabile capoluoghi di Comuni, o frazioni amministrative di almeno 300 abitanti, attualmente privi di ogni collegamento, e per i quali la costruzione di una strada di accesso risulti particolarmente difficile e onerosa.  
+Nei casi previsti dall'articolo precedente il pagamento da parte dello Stato delle somme dovute viene effettuato gradualmente in base a stati d'avanzamento vistati dal Genio civile.  
+In caso di assunzione dell'opera a parziale carico dello Stato, nel disporre i pagamenti si segue il rapporto percentuale determinato nella deliberazione prevista dal capoverso dell'art. 2.  
+A richiesta delle Amministrazioni comunali e provinciali puo' essere anticipato ai prefetti una parte della somma da corrispondersi dallo Stato per i lavori, in modo cime essi possano provvedere, con le modalita' e nei limiti stabiliti dall'[art. 8 del regio decreto 16 giugno 1904, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-16;415~art8), pagamento di acconti in proporzione all'avanzamento dei lavori.  
 
 Art. 5
 ------
 
   
-L'inclusione di opere nel programma di lavori previsto dall'[art. 1 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art1), ne implica l'assunzione a integrale carico dello Stato quando anche si tratti di opere che, ai sensi delle leggi in vigore, siano in parte a carico degli Enti locali, qualora il Comitato dei Ministri non decida l'assunzione di esse a carico soltanto parziale dello Stato, a' termini del [secondo comma dell'art. 2 della legge 2 gennaio 1952, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;10~art2-com2).  
-Nei Comuni classificati montani, ai sensi della [legge 25 luglio 1952, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991), che siano inferiori a 10.000 abitanti, le opere incluse nel programma sono sempre assunte a totale carico dello Stato. Il relativo decreto e' emesso dal Provveditore regionale alle opere pubbliche, previo parere del Comitato tecnico-amministrativo, ed e' sottoposto al controllo preventivo degli uffici speciali di ragioneria e degli uffici distaccati della Corte dei conti presso i Provveditorati alle opere pubbliche.  
-Sono abrogati i commi sesto e settimo dell'art. 2, modificato, della [legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647).  
-I [commi terzo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art1-com3) e [quarto dell'art. 1 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art1-com4), ed i commi terzo, quarto e quinto dell'art. 2 della legge stessa, modificati dall'[art. 1 della legge 2 gennaio 1952, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;10~art1), si applicano esclusivamente ai casi di opere di cui sia stata decisa l'assunzione a parziale carico dello Stato.  
+In deroga ad ogni altra norma vigente, per le opere da eseguirsi ai sensi dell'art. 3 della presente legge, ogni determinazione in merito alle convenzioni ivi previste spetta ai Provveditorati regionali alle opere pubbliche, nei limiti di valore stabiliti per la loro competenza.  
 
 Art. 6
 ------
 
   
-Quando il progetto di un'opera assunta a totale carico dello Stato, ai sensi del precedente articolo, sia stato redatto, previa autorizzazione dell'ufficio del Ministero dei lavori pubblici competente per territorio, dall'Ente locale interessato, la relativa spesa, per un importo non superiore al 2 per cento del costo previsto dell'opera viene parimenti assunta a carico dello Stato.  
+Fermi restando i maggiori benefici contenuti in leggi speciali, gli atti o contratti occorrenti per l'attuazione della presente legge, nonche' gli atti di cessione del contributo dello Stato sono soggetti al trattamento fiscale stabilito per gli atti stipulati dallo Stato.  
+Sono salvi gli emolumenti dovuti ai conservatori dei registri immobiliari e i diritti e compensi spettanti agli uffici finanziari.
 
 Art. 7
 ------
 
   
-Per l'esecuzione delle opere previste dalla [legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647), e sue successive modificazioni, al fine di anticipare l'esecuzione dei lavori puo' procedersi all'appalto degli stessi ripartendo su piu' esercizi l'onere della relativa spesa.  
-L'impiego dei ribassi d'asta per il finanziamento di perizie suppletive, necessarie per il completamento delle opere cui si riferisce l'appalto, e' disposto con decreto del Provveditore regionale alle opere pubbliche, previo parere del Comitato tecnico amministrativo.  
-
-Art. 8
-------
-
-  
-Nelle localita' economicamente depresse delle Regioni e Province della Repubblica diverse da quelle indicate nell'[art. 3 della legge 10 agosto 1950, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;646~art3), le nuove imprese artigiane e le nuove piccole industrie che vengano a costituirsi sul territorio di Comuni con popolazione inferiore ai 10.000 abitanti sono esenti, per dieci anni dalla data di inizio della loro attivita', rilevabile con atto della competente Camera di commercio, industria e agricoltura, da ogni tributo diretto sul reddito.  
-Il riconoscimento di localita' economicamente depressa, ai fini del comma precedente, e' fatto con deliberazione del Comitato dei Ministri previsto dall'[art. 3 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art3), il quale potra' estendere i benefici anche a Comuni con popolazione superiore che si trovino in zone di riforma agraria.  
-Sono riconosciute di diritto localita' economicamente depresse, senza la deliberazione prevista dal comma precedente, i territori classificati montani ai fini della [legge 25 luglio 1952, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;991).  
-Agli effetti del presente articolo si intendono piccole industrie quelle che impiegano normalmente non oltre cento operai.  
-
-Art. 9
-------
-
-  
-Gli enti consorziali, i consorzi, i consigli di valle possono sostituirsi ai singoli Comuni, previo loro consenso, nell'esercizio dei diritti loro concessi dalla presente legge in nome e per conto degli stessi onde provvedere a tutte le pratiche per la progettazione, richiesta di finanziamenti, acquisizioni, garanzie e a quanto altro necessario alla esecuzione dei lavori di cui alla presente legge.  
+I benefici previsti dalla [legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647), e della presente legge, si applicano anche ai Consorzi di comuni, di province e di comuni e province.  
   
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 29 luglio 1957
+### Data a Napoli, addi' 2 gennaio 1952
 
-GRONCHI ZOLI - PELLA - CAMPILLI - DEL BO - ZOTTA - TAMBRONI - GONELLA - ANDREOTTI - MEDICI - TAVIANI - MORO - TOGNI - COLOMBO - ANGELINI - MATTARELLA - GAVA - GUI - CARLI - CASSIANI - BO
+EINAUDI DE GASPERI - ALDISIO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZOLI

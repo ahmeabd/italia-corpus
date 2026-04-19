@@ -1,14 +1,14 @@
-DECRETO-LEGGE 23 dicembre 1995 n. 572
+DECRETO-LEGGE 30 ottobre 1995 n. 456
 
 
-DECRETO-LEGGE 23 dicembre 1995 n. 572
-=====================================
+DECRETO-LEGGE 30 ottobre 1995 n. 456
+====================================
 
 Provvedimenti urgenti per il personale dell'Amministrazione 
 penitenziaria e per il servizio di traduzione dei detenuti.
 ------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 4-11-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di aumentare l'organico del Corpo di polizia penitenziaria, di istituire mense ed asili nido per i dipendenti dell'Amministrazione penitenziaria e di stabilire modalita' per la graduale cessione del servizio di traduzione dei detenuti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia, di concerto con i Ministri dell'interno, della difesa e del bilancio e della programmazione economica;
 
@@ -56,7 +56,7 @@ penitenziaria e sulle modalita' di traduzione dei detenuti
 
 1. Nell'[articolo 8, comma 1, lettera d), del decreto legislativo 12 maggio 1995, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200~art8-com1-letd), le parole: "a norma dell'articolo 2," sono sostituite dalle seguenti: "a norma dell'articolo 7,".
 
-2. Le modalita' per la graduale cessione del servizio di traduzioni dei detenuti e degli internati dall'Arma dei carabinieri e dalla Polizia di Stato al Corpo della polizia penitenziaria, da attuarsi progressivamente a decorrere dal 1 aprile 1996, sono stabilite con decreto del Ministro di grazia e giustizia, previo concerto con i Ministri dell'interno e della difesa, da emanarsi entro il mese di dicembre 1995.
+2. Le modalita' per la graduale cessione del servizio di traduzioni dei detenuti e degli internati dall'Arma dei carabinieri e dalla Polizia di Stato al Corpo della polizia penitenziaria, da attuarsi progressivamente a decorrere dal 10 aprile 1996, sono stabilite con decreto del Ministro di grazia e giustizia, previo concerto con i Ministri dell'interno e della difesa, da emanarsi entro il mese di dicembre 1995.
 
 Art. 3
 ------
@@ -77,7 +77,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1995
+### Dato a Roma, addi' 30 ottobre 1995
 
 SCALFARO
 

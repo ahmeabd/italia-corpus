@@ -1,8 +1,8 @@
-DECRETO-LEGGE 06 febbraio 1996 n. 47
+DECRETO-LEGGE 03 giugno 1996 n. 305
 
 
-DECRETO-LEGGE 06 febbraio 1996 n. 47
-====================================
+DECRETO-LEGGE 03 giugno 1996 n. 305
+===================================
 
 Disposizioni urgenti concernenti l'incremento e il ripianamento di 
 organico dei ruoli del Corpo nazionale dei vigili del fuoco e misure 
@@ -10,7 +10,7 @@ di razionalizzazione per l'impiego del personale nei servizi
 d'istituto.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8-2-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3-6-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'adeguamento degli organici e il potenziamento delle strutture del Corpo nazionale dei vigili del fuoco, nonche' per razionalizzare l'impiego del relativo personale nei servizi d'istituto;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 febbraio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 maggio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dell'interno, di concerto con i Ministri delle finanze e, ad interim, del bilancio e della programmazione economica e della sanita';
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno, di concerto con i Ministri della sanita', per la funzione pubblica e gli affari regionali, del tesoro e del bilancio e della programmazione economica e del lavoro e della previdenza sociale;
 
 E M A N A il seguente decreto-legge:
 
@@ -54,7 +54,7 @@ di specifici servizi d'istituto
 
 1. Per l'espletamento dei servizi demandati al Corpo nazionale dei vigili del fuoco, in attuazione del [decreto legislativo 19 settembre 1994, n. 626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-09-19;626), e successive modificazioni ed integrazioni, l'organico nella qualifica di dirigente del ruolo tecnico e' aumentato di 12 unita'. I predetti dirigenti sono preposti agli uffici centrali e territoriali del servizio di prevenzione e protezione del Ministero dell'interno, da determinarsi con decreto del Ministro dell'interno, di concerto con il Ministro del lavoro e della previdenza sociale e con il Ministro della sanita', entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
-2. Al [comma primo dell'articolo 25 della legge 13 maggio 1961, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469~art25-com1), dopo le parole: "presso le Scuole centrali antincendi" sono aggiunte le seguenti: "o altre strutture didattiche centrali e periferiche del Corpo nazionale dei vigili del fuoco.".
+2. Al [primo comma dell'articolo 25 della legge 13 maggio 1961, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-05-13;469~art25-com1), dopo le parole: "presso le Scuole centrali antincendi" sono aggiunte le seguenti: "o altre strutture didattiche centrali e periferiche del Corpo nazionale dei vigili del fuoco.".
 
 Art. 3
 ------
@@ -69,57 +69,69 @@ attribuiti al Corpo nazionale dei vigili del fuoco
 Art. 4
 ------
 
-Copertura finanziaria
+Impiego del Corpo nazionale dei vigili del fuoco  
+nella campagna antincendi boschivi 1996
 
-1. All'onere derivante dall'applicazione del presente decreto, valutato in lire diciassettemila milioni per l'anno 1996, in lire ventiquattromilanovecento milioni per l'anno 1997 e in lire venticinquemila milioni per il 1998 e a regime, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro, per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
+1. Per le esigenze del Corpo nazionale dei vigili del fuoco connesse al concorso nella lotta agli incendi boschivi e relative al richiamo dei vigili del fuoco volontari, alle spese di missione, alle mense obbligatorie di servizio e all'erogazione di compensi per lavoro straordinario al personale di ruolo del Corpo nazionale, ivi compresi i dirigenti, anche in deroga ai limiti di somma stabiliti dalla normativa vigente, e' autorizzata, per l'anno 1996, la spesa di lire 23.000 milioni.
+
+2. All'onere di lire 23.000 milioni di cui al comma 1 si provvede, quanto a lire 8.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno, e, quanto a lire 15.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6878 dello stato di previsione del Ministero del tesoro per l'anno 1996.
+
+3. Il Ministro del tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
 Art. 5
 ------
 
+Copertura finanziaria
+
+1. All'onere derivante dall'applicazione degli articoli 1, 2 e 3, valutato in lire diciassettemila milioni per l'anno 1996, in lire ventiquattromilanovecento milioni per l'anno 1997 e in lire venticinquemila milioni per il 1998 e a regime, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
+
+Art. 6
+------
+
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 febbraio 1996
+### Dato a Roma, addi' 3 giugno 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+PRODI, Presidente del Consiglio dei Ministri
 
-CORONAS, Ministro dell'interno
+NAPOLITANO, Ministro dell'interno
 
-FANTOZZI, Ministro delle finanze e,
+BINDI, Ministro della sanita'
 
-ad interim, Ministro del bilancio e della programmazione economica
+BASSANINI, Ministro per la funzione pubblica e gli affari regionali
 
-GUZZANTI, Ministro della sanita'
+CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: DINI
+TREU, Ministro del lavoro e della previdenza sociale
 
-Allegato
+Visto, il Guardasigilli: FLICK
 
- ALLEGATO   
-TABELLA 1   
+Tabella 1
+
+ TABELLA 1   
 (prevista dall'art. 1, comma 1)   
 INCREMENTO DI ORGANICO   
 AREA OPERATIVA TECNICA   
 Profili Qualifica N. di unita'   
-- - -   
-Ispettore antincendi VII 28   
-Assistente tecnico antincendi VI 34   
-Capo reparto VI 41   
-Capo squadra VI 128   
-Vigile del fuoco V 273   
+-- -- --   
+Ispettore antincendi . . . . . . . . . VII 28   
+Assistente tecnico antincendi . . . .. VI 34   
+Capo reparto . . . . . . . . . . . . . VI 41   
+Capo squadra . . . . . . . . . . . . . VI 128   
+Vigile del fuoco . . . . . . . . . . . V 273   
 AREA DEL SUPPORTO AMMINISTRATIVO CONTABILE   
 Profili Qualifica N. di unita'   
-- - -   
-Responsabile amministrativo   
-contabile VII 8   
-Ragioniere VI 10   
-Responsabile amministrativo VII 10   
-Assistente amministrativo VI 20   
+-- -- --   
+Responsabile amministrativo contabile . VII 8   
+Ragioniere . . . . . . . . . . . . . . VI 10   
+Responsabile amministrativo . . . . .. VII 10   
+Assistente amministrativo . . . . . .. VI 20   
   
-Totale generale . .. 552   
+Totale generale 552   

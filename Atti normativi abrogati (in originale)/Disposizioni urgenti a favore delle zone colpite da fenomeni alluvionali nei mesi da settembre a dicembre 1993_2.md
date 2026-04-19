@@ -1,22 +1,22 @@
-DECRETO-LEGGE 31 marzo 1994 n. 223
+DECRETO-LEGGE 04 febbraio 1994 n. 91
 
 
-DECRETO-LEGGE 31 marzo 1994 n. 223
-==================================
+DECRETO-LEGGE 04 febbraio 1994 n. 91
+====================================
 
 Disposizioni urgenti a favore delle zone colpite da fenomeni alluvionali nei mesi da settembre a dicembre 1993.
 ---------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/4/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 6/2/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di intervenire per far fronte alla emergenza nelle regioni Liguria, Piemonte, Valle d'Aosta, Lombardia, Toscana, Lazio, Friuli-Venezia Giulia, Veneto, Sardegna, Puglia e Sicilia, verificatasi a seguito di eccezionali avversita' atmosferiche nei mesi di settembre, ottobre, novembre e dicembre 1993;
+Ritenuta la straordinaria necessita' ed urgenza di intervenire per far fronte alla emergenza, nelle regioni Liguria, Piemonte, Valle d'Aosta, Lombardia, Toscana, Lazio, Friuli-Venezia Giulia, Veneto, Sardegna, Puglia e Sicilia, verificatasi a seguito di eccezionali avversita' atmosferiche nei mesi di settembre, ottobre, novembre e dicembre 1993;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 marzo 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 febbraio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'industria, del commercio e dell'artigianato, dei lavori pubblici, delle risorse agricole, alimentari e forestali e dei trasporti e della navigazione, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
 
@@ -45,7 +45,7 @@ c) al ristoro dei danni subiti da beni mobili dei privati cittadini e da imprese
 
 2. Su richiesta degli enti di cui al comma 1 e' comunque consentito alle regioni disporre, con propria deliberazione e in casi specifici, che gli interventi di cui al medesimo comma siano realizzati a gestione diretta.
 
-3. Ai fini di una considerazione unitaria dei danni e delle relative risorse finanziarie per le regioni Liguria, Piemonte, Lombardia e Toscana, relativamente alla tipologia degli interventi indicati nel presente articolo, i contributi di cui all'articolo 1 costituiscono integrazione dei finanziamenti gia' disposti con i [decreti-legge 4 dicembre 1992, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-04;471), convertito dalla [legge 1 febbraio 1993, n. 25, e 4 novembre 1992, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-04;426), convertito, con modificazioni, dalla [legge 23 dicembre 1992, n. 497](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;497), e con la [legge 23 dicembre 1992, n. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505).
+3. Ai fini di una considerazione unitaria dei danni e delle rela- tive risorse finanziarie per le regioni Liguria, Piemonte, Lombardia e Toscana, relativamente alla tipologia degli interventi indicati nel presente articolo, i contributi di cui all'articolo 1 costituiscono integrazione dei finanziamenti gia' disposti con i [decreti-legge 4 dicembre 1992, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-12-04;471), convertito dalla [legge 1 febbraio 1993, n. 25, e 4 novembre 1992, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-04;426), convertito, con modificazioni, dalla [legge 23 dicembre 1992, n. 497](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;497), e con la [legge 23 dicembre 1992, n. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;505).
 
 4. Ai fini del contributo straordinario di cui all'articolo 1 sono considerate le quote, rispettivamente, di lire 32 miliardi per la regione Liguria, lire 32 miliardi per la regione Piemonte e lire 11 miliardi per la regione Valle d'Aosta, a valere sulle disponibilita' di cui all'[articolo 3, comma 4, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art3-com4), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), e per le medesime finalita', nonche' per la finalita' di sistemazione definitiva a carattere idraulico ed idrogeologico.
 
@@ -56,7 +56,7 @@ Art. 4
 
 2. I mutui possono essere assunti anche in eccedenza al limite di indebitamento stabilito dalla normativa vigente. Il relativo onere di ammortamento e' assistito da un concorso dello Stato in misura pari al 50 per cento dell'onere stesso.
 
-3. Le regioni provvedono a determinare con delibera della giunta, da trasmettere alla Presidenza del Consiglio dei Ministri entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, un piano provvisorio di interventi con la specificazione dell'ente locale, delle opere distrutte e danneggiate da ripristinare e del conseguente fabbisogno finanziario per singole opere. Gli interventi previsti nel piano per opere di consolidamento dei dissesti idrogeologici e di riassetto idraulico, anche finalizzati a prevenire il verificarsi di situazioni di pericolo, sono sottoposti al parere dell'autorita' di bacino, la quale si esprime entro trenta giorni dalla richiesta.
+3. Le regioni provvedono a determinare con delibera della giunta, da trasmettere alla Presidenza del Consiglio dei Ministri entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del presente decreto, un piano provvisorio di interventi con la specificazione dell'ente locale, delle opere distrutte e danneggiate da ripristinare e del conseguente fabbisogno finanziario per singole opere. Gli interventi previsti nel piano per opere di consolidamento dei dissesti idrogeologici e di riassetto idraulico, anche finalizzati a prevenire il verificarsi di situazioni di pericolo, sono sottoposti al parere dell'autorita' di bacino, la quale si esprime entro trenta giorni dalla richiesta.
 
 4. Sulla base dei piani regionali e del parere dell'autorita' di bacino si provvede, con decreto del Presidente del Consiglio dei Ministri, da adottare entro trenta giorni dalla trasmissione sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, a ripartire tra le regioni l'importo di cui al comma 1.
 
@@ -90,7 +90,7 @@ Art. 8
 
 3. A favore delle aziende agricole singole e associate, comprese le cooperative per la raccolta, trasformazione, commercializzazione e vendita, nonche' per il ripristino delle strutture, delle infrastrutture e delle opere di bonifica e di irrigazione, situate nei territori dei comuni danneggiati dagli eventi di cui agli articoli 1 e 2 e individuati dalle regioni ai sensi dell'[articolo 2 della legge 14 febbraio 1992, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-14;185~art2), si applicano le disposizioni e le procedure della stessa [legge n. 185 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;185). A tal fine il Fondo di solidarieta' nazionale in agricoltura e' integrato dalle somme di lire 100 miliardi per l'anno 1993 e di lire 25 miliardi per l'anno 1994.
 
-4. Per la realizzazione degli interventi urgenti conseguenti agli eventi alluvionali di cui agli articoli 1 e 2 del presente decreto, il prefetto competente per territorio, ai fini di una uniforme distribuzione delle forze-lavoro, inoltra alla commissione regionale per l'impiego le richieste relative all'utilizzazione di soggetti in Cassa integrazione guadagni o in mobilita' ai sensi dell'[art. 1-bis del decreto-legge 28 maggio 1981, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-05-28;244~art1bis), convertito, con modificazioni, dalla [legge 24 luglio 1981, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-24;390), e successive modificazioni ed integrazioni, e dell'[articolo 6 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art6).
+4. Per la realizzazione degli interventi urgenti conseguenti agli eventi alluvionali di cui agli articoli 1 e 2 del presente decreto, il prefetto competente per territorio, ai fini di una uniforme distribuzione delle forze-lavoro, inoltra alla commissione regionale per l'impiego le richieste relative all'utilizzazione di soggetti in Cassa integrazione guadagni o in mobilita' ai sensi dell'[art. 1- bis del decreto-legge 28 maggio 1981, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-05-28;244~art1bis), convertito, con modificazioni, dalla [legge 24 luglio 1981, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-24;390), e successive modificazioni ed integrazioni, e dell'[articolo 6 della legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223~art6).
 
 5. Per far fronte agli oneri relativi alla realizzazione degli interventi urgenti per il ripristino delle infrastrutture delle ferrovie Torino-Ceres, Canavesana e Domodossola-confine svizzero in concessione e della ferrovia Genova-Casella in gestione commissariale governativa, interessate dagli eventi alluvionali indicati al comma 1 dell'articolo 1, e' autorizzata la spesa di lire 10 miliardi per l'anno 1993.
 
@@ -123,29 +123,17 @@ Art. 12
 Art. 13
 -------
 
-1. Le disposizioni del presente decreto hanno effetto dal 7 aprile 1994. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 31 marzo 1994
-
-SCALFARO
-
-CIAMPI, Presidente del Consiglio dei Ministri
-
-SAVONA, Ministro dell'industria, del commercio e dell'artigianato
-
-MERLONI, Ministro dei lavori pubblici
-
-DIANA, Ministro delle risorse
-
-agricole, alimentari e forestali
-
-COSTA, Ministro dei trasporti e della navigazione
-
-SPAVENTA, Ministro del bilancio e della programmazione economica
-
-BARUCCI, Ministro del tesoro
-
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.   
+I presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 4 febbraio 1994   
+  
+SCALFARO  
+CIAMPI, Presidente del Consiglio dei Ministri  
+SAVONA, Ministro dell'industria, del commercio e dell'artigianato  
+MERLONI, Ministro dei lavori pubblici  
+DIANA, Ministro delle risorse agricole, alimentari e forestali  
+COSTA, Ministro dei trasporti e della navigazione  
+SPAVENTA, Ministro del bilancio e della programmazione economica  
+BARUCCI, Ministro del tesoro  
+  
 Visto, il Guardasigilli: CONSO

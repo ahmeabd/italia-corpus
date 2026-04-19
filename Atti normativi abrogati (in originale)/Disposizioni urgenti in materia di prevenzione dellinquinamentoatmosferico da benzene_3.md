@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 luglio 1996 n. 395
+DECRETO-LEGGE 27 maggio 1996 n. 294
 
 
-DECRETO-LEGGE 26 luglio 1996 n. 395
+DECRETO-LEGGE 27 maggio 1996 n. 294
 ===================================
 
 Disposizioni urgenti in materia di prevenzione dell'inquinamento 
 atmosferico da benzene.
 -----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-7-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -29,7 +29,7 @@ Visto l'[articolo 6 della direttiva 85/210/CEE](http://eur-lex.europa.eu/legal-c
 
 Ritenuta la straordinaria necessita' ed urgenza di limitare l'inquinamento atmosferico da traffico autoveicolare e l'urgenza di regolamentare il settore della distribuzione delle benzine, anche in anticipo rispetto ai tempi fissati dalla direttiva europea, al fine di ridurre l'esposizione dei lavoratori e l'immissione nell'ambiente dei vapori delle benzine che contengono sostanze cancerogene;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 luglio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 maggio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente, di di concerto con i Ministri del lavoro e della previdenza sociale e della sanita';
 
@@ -65,7 +65,7 @@ Art. 3
 
 5. Entro il 31 dicembre 1999 l'intera rete preesistente di distribuzione delle benzine dovra' essere attrezzata con dispositivi per il recupero dei vapori di benzina.
 
-6. I requisiti tecnici dei dispositivi per il recupero dei vapori di benzina nelle pompe di distribuzione dei carburanti sono quelli fissati dal decreto del Ministro dell'ambiente 16 maggio 1996 pubblicato nella Gazzetta Ufficiale del 5 luglio 1996, n. 156. Con decreto del Ministro dell'ambiente, di concerto con i Ministri dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, dell'interno, della sanita', dei trasporti e della navigazione e delle finanze sono apportate modifiche ed integrazioni al citato decreto 16 maggio 1996.
+6. Entro il 30 giugno 1996 il Ministro dell'ambiente, di concerto con i Ministri dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, dell'interno, della sanita', dei trasporti e della navigazione e delle finanze, stabilisce i requisiti tecnici dei dispositivi per il recupero dei vapori di benzina nelle pompe di distribuzione dei carburanti e dei dispositivi da adottare sulle auto nuove.
 
 7. Ferme restando le disposizioni penali di cui al [decreto legislativo 19 settembre 1994, n. 626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-09-19;626), la violazione delle disposizioni di cui ai commi 1, 2, 3, 4 e 5, e' punita con la sanzione amministrativa da lire trenta milioni a lire trecento milioni. In caso di recidiva sono sospese le autorizzazioni ai depositi ed all'esercizio delle attivita' di distribuzione dei carburanti.
 
@@ -77,7 +77,7 @@ Art. 4
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 luglio 1996
+### Dato a Roma, addi' 27 maggio 1996
 
 SCALFARO
 

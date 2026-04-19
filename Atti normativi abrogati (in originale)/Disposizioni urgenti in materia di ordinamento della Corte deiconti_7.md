@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 aprile 1996 n. 215
+DECRETO-LEGGE 27 ottobre 1995 n. 439
 
 
-DECRETO-LEGGE 26 aprile 1996 n. 215
-===================================
+DECRETO-LEGGE 27 ottobre 1995 n. 439
+====================================
 
 Disposizioni urgenti in materia di ordinamento della Corte dei 
 conti.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di ordinamento della Corte dei conti per garantire, con la necessaria immediatezza, l'esercizio delle funzioni giurisdizionali e di controllo, anche a seguito di talune esigenze emerse nella fase di prima attuazione delle disposizioni dettate dal [decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e dalla [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro;
 
@@ -58,15 +58,12 @@ Azione di responsabilita'
 a) il comma 2 e' sostituito dal seguente:  
 " 2. Il diritto al risarcimento del danno si prescrive in ogni caso in cinque anni, decorrenti dalla data in cui si e' verificato il fatto dannoso, ovvero, in caso di occultamento doloso del danno, dalla data della sua scoperta.";
 
-b) dopo il comma 2-bis, introdotto dall'[articolo 12 del decreto-legge 4 aprile 1996, n. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-04-04;188~art12), sono aggiunti i seguenti:  
+b) dopo il comma 2-bis, introdotto dall'[articolo 10 del decreto-legge 2 ottobre 1995, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-02;414~art10), sono aggiunti i seguenti:  
 "2-ter. Per i fatti verificatisi anteriormente alla data di entrata in vigore della presente legge e per i quali stia decorrendo un termine di prescrizione decennale, la prescrizione si compie entro il 31 dicembre 1998, ovvero nel piu' breve termine dato dal compiersi del decennio.  
 2-quater. La prescrizione e' interrotta dall'avviso di cui all'[articolo 5 del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art5), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), dalla notificazione dell'atto con il quale si inizia il giudizio, dalla sentenza di condanna e, per una sola volta, dagli accertamenti istruttori disposti ai sensi delle vigenti disposizioni.  
 2-quinquies. La prescrizione interrotta comincia nuovamente a decorrere dal giorno dell'interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi. In nessun caso il termine puo' essere protratto oltre i dieci anni dall'atto che ha dato inizio al giudizio, fatti salvi i casi di sospensione e interruzione necessaria del processo ai sensi delle vigenti disposizioni. Non si applicano le disposizioni dell'[articolo 2945, commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com2) e [terzo, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com3).  
 2-sexies. Per i giudizi in corso per i quali e' gia' scaduto il termine decennale di cui al comma 2-quinquies, il medesimo termine e' prorogato fino al 31 dicembre 1996.  
-2-septies. Costituisce illecito disciplinare l'aver lasciato prescrivere per colpa l'azione di responsabilita'.";
-
-c) il comma 4 e' sostituito dal seguente:  
-" 4. La Corte dei conti giudica sulla responsabilita' amministrativa degli amministratori e dipendenti pubblici anche quando il danno sia stato cagionato ad amministrazioni o enti diversi da quelli di appartenenza, per i fatti commessi successivamente alla data di entrata in vigore della presente legge, ferma restando la giurisdizione della Corte per i fatti comunque collegati ad un rapporto di servizio.".
+2-septies. Costituisce illecito disciplinare l'aver lasciato prescrivere per colpa l'azione di responsabilita'.".
 
 Art. 4
 ------
@@ -74,8 +71,6 @@ Art. 4
 Sezioni riunite in sede non giurisdizionale
 
 1. Il numero minimo dei votanti di cui all'articolo 4, comma 2, del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e' elevato a quindici per l'esercizio, da parte delle sezioni riunite della Corte dei conti, di tutte le funzioni, comprese quelle di cui all'articolo 40 del citato testo unico, approvato con [regio decreto 12 luglio 1934, n. 1214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e quelle di cui agli articoli 3, comma 6, e 4 della [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20), diverse dalle funzioni giurisdizionali. Le sezioni riunite sono presiedute dal presidente della Corte dei conti e sono composte per ciascuna delle dette funzioni da trentaquattro magistrati, designati all'inizio di ogni anno sulla base di predeterminati criteri di graduale rotazione dal consiglio di presidenza, in modo che siano rappresentati tutti i settori di attivita' e tutte le qualifiche dei magistrati. Ove il magistrato nominato relatore dal presidente della Corte dei conti non sia compreso tra quelli assegnati alle sezioni riunite, questi integra ad ogni effetto il collegio per la questione su cui riferisce.
-
-2. Le disposizioni di cui al comma 1 hanno efficacia sino al 30 giugno 1996.
 
 Art. 5
 ------
@@ -85,8 +80,6 @@ Sezione controllo Stato
 1. Il [comma 10 dell'articolo 3 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art3-com10), e' sostituito dai seguenti:  
 " 10. La sezione del controllo in adunanza generale e' composta dal presidente della Corte dei conti che la presiede, dai presidenti di sezione preposti al coordinamento e da tutti i magistrati assegnati agli uffici di controllo. La sezione e' ripartita annualmente in quattro collegi dei quali fanno parte, in ogni caso, il presidente della Corte dei conti e i presidenti di sezione preposti al coordinamento. I collegi hanno distinta competenza per tipologia di controllo e deliberano con un numero minimo di quindici votanti.  
 10-bis. La sezione del controllo in adunanza generale stabilisce annualmente i programmi di attivita' e le materie di competenza dei collegi, nonche' i criteri per la loro composizione da parte del presidente della Corte dei conti.".
-
-2. Le disposizioni di cui al comma 1 hanno efficacia sino al 30 giugno 1996.
 
 Art. 6
 ------
@@ -102,7 +95,9 @@ Referendari e primi referendari
 
 1. La disposizione dell'[articolo 11, comma 2, della legge 13 aprile 1988, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-04-13;117~art11-com2), continua ad applicarsi ai referendari e primi referendari della Corte dei conti in servizio alla data del 31 dicembre 1993 e non modifica l'ordine di anzianita' del medesimo personale.
 
-2. Alla copertura degli oneri derivanti dal comma 1, valutati in lire 160 milioni per l'anno 1995 e in lire 40 milioni annui a decorrere dal 1996, si provvede a carico del capitolo 1275 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1995 e corrispondenti capitoli per gli anni successivi.
+2. Alla copertura degli oneri derivanti dal comma 1, valutati in lire 160 milioni per l'anno 1995 e in lire 40 milioni annui a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-97, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, parzialmente utilizzando l'accantonamento relativo al Ministero della pubblica istruzione.
+
+3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 8
 ------
@@ -131,10 +126,10 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1996
+### Dato a Roma, addi' 27 ottobre 1995
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-Visto, il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: DINI

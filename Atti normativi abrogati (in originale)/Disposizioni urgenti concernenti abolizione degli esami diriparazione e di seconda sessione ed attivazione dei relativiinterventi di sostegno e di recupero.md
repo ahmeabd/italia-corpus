@@ -1,15 +1,15 @@
-DECRETO-LEGGE 23 dicembre 1994 n. 729
+DECRETO-LEGGE 29 aprile 1995 n. 136
 
 
-DECRETO-LEGGE 23 dicembre 1994 n. 729
-=====================================
+DECRETO-LEGGE 29 aprile 1995 n. 136
+===================================
 
 Disposizioni urgenti concernenti abolizione degli esami di 
 riparazione e di seconda sessione ed attivazione dei relativi 
 interventi di sostegno e di recupero.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31-12-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti abolizione degli esami di riparazione e di seconda sessione, nonche' l'attivazione dei relativi interventi di sostegno e di recupero;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 dicembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della pubblica istruzione, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della pubblica istruzione, di concerto con il Ministro del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -41,9 +41,9 @@ b) gli esami di seconda sessione per il conseguimento del titolo di abilitazione
 
 4. Nel testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297), sono abrogati:
 
-a) il comma 6 dell'art. 74;
+a) il comma 6 dell'articolo 74;
 
-b) l'ultimo periodo del comma 1 dell'art. 193;
+b) l'ultimo periodo del comma 1 dell'articolo 193;
 
 c) il comma 4 dell'articolo 193;
 
@@ -65,7 +65,7 @@ Art. 3
 
 Norma finanziaria
 
-1. All'onere derivante dall'attuazione del presente decreto, pari ad annue lire 205.580 milioni a decorrere dall'anno finanziario 1995 e a regime, si provvede mediante parziale utilizzo delle proiezioni, per gli anni 1995 e 1996, dell'accantonamento relativo al Ministero della pubblica istruzione, iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994.
+1. All'onere derivante dall'attuazione del presente decreto, pari ad annue lire 260.000 milioni a decorrere dall'anno finanziario 1995 ed a regime, si provvede, quanto a lire 205.580 milioni, a carico dello stanziamento iscritto al capitolo 1047 dello stato di previsione del Ministero della pubblica istruzione per l'anno finanziario 1995 e corrispondenti capitoli per gli anni successivi, e, quanto a lire 54.420 milioni, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, parzialmente utilizzando l'accantonamento relativo al Ministero della pubblica istruzione.
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -74,21 +74,19 @@ Art. 4
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Le disposizioni del presente decreto hanno effetto dal 1 maggio 1995. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1994
+### Dato a Roma, addi' 29 aprile 1995
 
 SCALFARO
 
-BERLUSCONI, Presidente del Consiglio del Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-D'ONOFRIO, Ministro della pubblica istruzione
+LOMBARDI, Ministro della pubblica istruzione
 
-PAGLIARINI, Ministro del bilancio e della programmazione economica
+MASERA, Ministro del bilancio e della programmazione economica
 
-DINI, Ministro del tesoro
-
-Visto, il Guardasigilli: BIONDI
+Visto, il Guardasigilli: MANCUSO

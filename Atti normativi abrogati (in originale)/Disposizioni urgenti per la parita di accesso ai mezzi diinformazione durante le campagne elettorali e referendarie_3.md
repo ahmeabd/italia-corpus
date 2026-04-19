@@ -1,25 +1,27 @@
-DECRETO-LEGGE 18 settembre 1995 n. 386
+DECRETO-LEGGE 18 luglio 1995 n. 289
 
 
-DECRETO-LEGGE 18 settembre 1995 n. 386
-======================================
+DECRETO-LEGGE 18 luglio 1995 n. 289
+===================================
 
 Disposizioni urgenti per la parita' di accesso ai mezzi di 
 informazione durante le campagne elettorali e referendarie.
 -----------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-9-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20-7-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per garantire la parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie;
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per garantire la parita' di accesso ai mezzi di informazione durante le imminenti campagne elettorali e referendarie;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 settembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 luglio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro di grazia
+
+e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -91,9 +93,10 @@ Art. 6
 Altre forme di propaganda elettorale
 
 1. Dalla data di convocazione dei comizi elettorali e fino alla chiusura delle operazioni di voto, e' vietata ogni forma di propaganda elettorale nei programmi della concessionaria pubblica e delle emittenti private diversi da quelli previsti dall'articolo 2.  
-E' vietato ai registi, ai conduttori ed agli ospiti dei programmi di fornire, nel contesto di questi, anche in forma indiretta, indicazioni di voto o di manifestare le proprie preferenze di voto. I registi ed i conduttori sono altresi' tenuti ad un comportamento corretto ed imparziale nella gestione del programma, cosi' da non esercitare, anche in forma surrettizia, influenza sulle libere scelte degli elettori. E' comunque vietato utilizzare la composizione della programmazione per orientare le scelte di voto.
+E' vietato ai registi, ai conduttori ed agli ospiti dei programmi di fornire, nel contesto di questi, anche in forma indiretta, indicazioni di voto o di manifestare le proprie preferenze di voto.  
+I registi ed i conduttori sono altresi' tenuti ad un comportamento corretto ed imparziale nella gestione del programma, cosi' da non esercitare, anche in forma surrettizia, influenza sulle libere scelte degli elettori. E' comunque vietato utilizzare la composizione della programmazione per orientare le scelte di voto.
 
-2. Per il periodo di cui al comma 1, le trasmissioni di intrattenimento su argomenti economici, sociali e politici, organizzate con la presenza di soggetti politici, ospiti ed eventuale pubblico, sono programmate e condotte nel rispetto dei principi di correttezza ed imparzialita' di cui al presente decreto. E' vietato che l'articolazione delle trasmissioni sia di per se' stessa lesiva della parita' di trattamento dei soggetti politici. Le trasmissioni predette sono ammesse negli ultimi cinque giorni della campagna elettorale soltanto a condizione che ad esse siano invitati, a condizioni paritarie, i rappresentanti della totalita' dei soggetti politici interessati.
+2. Per il periodo di cui al comma 1, le trasmissioni di intrattenimento su argomenti economici, sociali e politici, organizzate con la presenza di soggetti politici, ospiti ed eventuale pubblico, sono programmate e condotte nel rispetto dei principi di correttezza ed imparzialita' di cui al presente decreto. E' vietato che l'articolazione delle trasmissioni sia di per se stessa lesiva della parita' di trattamento dei soggetti politici. Le trasmissioni predette sono ammesse negli ultimi cinque giorni della campagna elettorale soltanto a condizione che ad esse siano invitati, a condizioni paritarie, i rappresentanti della totalita' dei soggetti politici interessati.
 
 3. Nelle trasmissioni di cui al comma 2, la selezione degli eventuali ospiti avviene nel rispetto del principio pluralistico ed e' finalizzata a conseguire una presenza equilibrata delle diverse posizioni dibattute. La selezione del pubblico, ove previsto, e' fatta, con i medesimi criteri, almeno ventiquattro ore prima della trasmissione. Durante la trasmissione il conduttore cura che il pubblico mantenga un contegno congruente con i principi del presente decreto e che eventuali interventi telefonici in diretta e non concordati con la concessionaria pubblica o con l'emittente privata non influenzino le libere scelte degli elettori.
 
@@ -152,8 +155,7 @@ Art. 10
 
 Definizione della parita' di trattamento fra i soggetti politici
 
-1. La parita' di trattamento fra i soggetti politici, di cui al  
-presente decreto, ai fini della propaganda, della pubblicita' e dell'informazione elettorali, e' determinata dalla Commissione parlamentare e dal Garante, previa consultazione tra loro e ciascuno nell'ambito della propria competenza. Per le elezioni alla Camera dei deputati e al Senato della Repubblica si terra' conto dei seguenti criteri:
+1. La parita' di trattamento fra i soggetti politici, di cui al presente decreto, ai fini della propaganda, della pubblicita' e dell'informazione elettorali, e' determinata dalla Commissione parlamentare e dal Garante, previa consultazione tra loro e ciascuno nell'ambito della propria competenza. Per le elezioni alla Camera dei deputati e al Senato della Repubblica si terra' conto dei seguenti criteri:
 
 a) per quanto concerne la quota di seggi attribuiti nei collegi uninominali: alla ripartizione di spazi e tempi partecipano tutti i raggruppamenti di candidati, con uno o piu' contrassegni identici in almeno quattordici circoscrizioni elettorali, che concorrano in almeno la meta' dei collegi istituiti nell'ambito di ciascuna circoscrizione; la ripartizione di spazi e tempi fra i raggruppamenti partecipanti e' effettuata tenuto anche conto della rispettiva quota di rappresentanza in Parlamento; all'interno di ciascun raggruppamento la ripartizione ulteriore e' determinata con una o piu' convenzioni tra i soggetti interessati; in mancanza di convenzione, la ripartizione e' effettuata in proporzione della rispettiva quota di rappresentanza in Parlamento; spazi e tempi minori sono garantiti ai soggetti politici che non hanno rappresentanza in Parlamento;
 
@@ -291,8 +293,7 @@ Norme organizzative
 Art. 18
 -------
 
-Organi ufficiali di partiti, comitati  
-e movimenti politici
+Organi ufficiali di partiti, comitati e movimenti politici
 
 1. Le disposizioni di cui agli articoli 2 e 3, commi 1 e 6, ed agli articoli 4, 5, 6, 7, 9 e 10 del presente decreto non si applicano agli organi ufficiali di stampa e radiofonici di partiti, comitati e movimenti politici ed alle stampe elettorali dei soggetti politici.
 
@@ -350,9 +351,11 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 settembre 1995
+### Dato a Roma, addi' 18 luglio 1995
 
-SCALFARO
+Il Presidente del Senato della Repubblica nell'esercizio delle
+
+funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 

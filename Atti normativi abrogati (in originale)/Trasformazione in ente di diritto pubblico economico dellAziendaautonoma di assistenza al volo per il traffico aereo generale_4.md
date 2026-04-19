@@ -1,14 +1,14 @@
-DECRETO-LEGGE 25 marzo 1996 n. 153
+DECRETO-LEGGE 25 novembre 1995 n. 497
 
 
-DECRETO-LEGGE 25 marzo 1996 n. 153
-==================================
+DECRETO-LEGGE 25 novembre 1995 n. 497
+=====================================
 
 Trasformazione in ente di diritto pubblico economico dell'Azienda 
 autonoma di assistenza al volo per il traffico aereo generale.
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26/11/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -27,16 +27,21 @@ Considerato che la trasformazione in societa' per azioni e' ritenuta la piu' ade
 
 Considerata, altresi', la natura strategica dell'attivita' posta in essere dall'Azienda, nell'ambito dei servizi pubblici essenziali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 novembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri delle finanze e del lavoro e della previdenza sociale;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri delle finanze, del lavoro e della previdenza sociale e per la funzione pubblica e gli affari regionali;
 
-E M A N A il seguente decreto-legge:
+E M A N A
 
-CAPO I CAPO I ENTE NAZIONALE DI ASSISTENZA AL VOLO
---------------------------------------------------
+il seguente decreto-legge:
 
-### Art. 1
+Capo
+----
+
+I ENTE NAZIONALE DI ASSISTENZA AL VOLO
+
+Art. 1
+------
 
 Trasformazione dell'Azienda autonoma di assistenza  
 al volo per il traffico aereo generale
@@ -149,8 +154,7 @@ Assunzioni
 
 1. In deroga a quanto disposto dall'[articolo 22 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art22), ed in attesa della definizione delle dotazioni organiche previa verifica dei carichi di lavoro, l'Azienda autonoma di assistenza al volo per il traffico aereo generale e' autorizzata ad assumere personale operativo.
 
-2. In deroga a quanto disposto dall'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com23), e dall'[articolo 25, comma 1, della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art25-com1), l'Azienda autonoma di assistenza al volo per il traffico aereo generale puo' instaurare, fino al 31 dicembre 1997 e nel limite di ottanta unita' da impiegare in via prioritaria per le attivita' di formazione, rapporti di lavoro a tempo determinato, la cui disciplina verra' definita al momento della loro accensione, per periodi non superiori ad un anno, rinnovabili una sola volta, con personale gia' dipendente dall'Azienda stessa e dall'Aeronautica militare e in possesso delle necessarie abilitazioni e dei requisiti di idoneita' psico-fisica, con eta' non superiore a cinquantasette anni all'atto dell'instaurarsi del predetto rapporto.  
-Il trattamento retributivo e' costituito dal trattamento di quiescenza gia' in godimento, compresa l'indennita' integrativa speciale, e da un compenso aggiuntivo fino al raggiungimento della retribuzione complessiva del personale in servizio di pari livello, anzianita' ed impiego, tenendo conto che il trattamento stesso non comporta la riliquidazione della pensione e non da' diritto alla corresponsione dell'indennita' di fine rapporto.
+2. In deroga a quanto disposto dall'[articolo 3, comma 23, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com23), e dall'[articolo 25, comma 1, della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art25-com1), l'Azienda autonoma di assistenza al volo per il traffico aereo generale puo' instaurare, fino al 31 dicembre 1997 e nel limite di 80 unita' da impiegare in via prioritaria per le attivita' di formazione, rapporti di lavoro a tempo determinato, la cui disciplina verra' definita al momento della loro accensione, per periodi non superiori ad un anno, rinnovabili una sola volta, con personale gia' dipendente dall'Azienda stessa e dall'Aeronautica militare e in possesso delle necessarie abilitazioni e dei requisiti di idoneita' psico-fisica, con eta' non superiore a 57 anni all'atto dell'instaurarsi del predetto rapporto. Il trattamento retributivo e' costituito dal trattamento di quiescenza gia' in godimento, compresa l'indennita' integrativa speciale, e da un compenso aggiuntivo fino al raggiungimento della retribuzione complessiva del personale in servizio di pari livello, anzianita' ed impiego, tenendo conto che il trattamento stesso non comporta la riliquidazione della pensione e non da' diritto alla corresponsione dell'indennita' di fine rapporto.
 
 ### Art. 11
 
@@ -178,12 +182,12 @@ Disposizioni finali
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 marzo 1996
+### Dato a Roma, addi' 25 novembre 1995
 
 SCALFARO
 
@@ -195,4 +199,6 @@ FANTOZZI, Ministro delle finanze
 
 TREU, Ministro del lavoro e della previdenza sociale
 
-Visto, il Guardasigilli: CAIANIELLO
+FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+
+Visto, il Guardasigilli: DINI

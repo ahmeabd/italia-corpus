@@ -1,8 +1,8 @@
-DECRETO-LEGGE 26 febbraio 1996 n. 84
+DECRETO-LEGGE 26 aprile 1996 n. 219
 
 
-DECRETO-LEGGE 26 febbraio 1996 n. 84
-====================================
+DECRETO-LEGGE 26 aprile 1996 n. 219
+===================================
 
 Interventi urgenti per la disciplina della soppressione del 
 Servizio per i contributi agricoli unificati (SCAU), nonche' per la 
@@ -10,7 +10,7 @@ definizione dei criteri di determinazione del diritto alla pensione
 di anzianita' degli operai agricoli dipendenti.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-2-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,7 +19,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per disciplinare gli effetti derivanti dalla soppressione del Servizio per i contributi agricoli unificati (SCAU), nonche' per definire criteri di determinazione del diritto alla pensione di anzianita' degli operai agricoli dipendenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro del lavoro e della previdenza sociale;
 
@@ -74,14 +74,6 @@ modificazioni, dalla legge 8 agosto 1995, n. 341.
 Art. 5
 ------
 
-Modifica all'articolo 9, comma 18  
-del decreto-legge 1 febbraio 1996, n. 39
-
-1. All'[articolo 2, comma 27, della legge 8 agosto 1995, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335~art2-com27), il termine del 31 gennaio 1996, gia' differito al 29 febbraio 1996 dall'[articolo 9, comma 18, del decreto-legge 1 febbraio 1996, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-02-01;39~art9-com18), e' ulteriormente differito al 31 marzo 1996.
-
-Art. 6
-------
-
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -89,7 +81,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1996
+### Dato a Roma, addi' 26 aprile 1996
 
 SCALFARO
 

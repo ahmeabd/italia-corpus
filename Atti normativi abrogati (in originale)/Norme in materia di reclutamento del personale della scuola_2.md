@@ -1,26 +1,26 @@
-DECRETO-LEGGE 10 luglio 1989 n. 249
+DECRETO-LEGGE 02 settembre 1989 n. 315
 
 
-DECRETO-LEGGE 10 luglio 1989 n. 249
-===================================
+DECRETO-LEGGE 02 settembre 1989 n. 315
+======================================
 
 Norme in materia di reclutamento del personale della scuola.
 ------------------------------------------------------------
 
-Entrata in vigore del decreto: 11/07/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 09/09/1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare norme in materia di reclutamento del personale della scuola, in relazione all'esigenza di provvedere, con la dovuta tempestivita', alla copertura dei posti vacanti con personale di ruolo, in modo da assicurare l'ordinato avvio e svolgimento del prossimo anno scolastico;
+Ritenuta la straordinaria necessita' ed urgenza di emanare norme in materia di reclutamento del personale della scuola, in relazione all'esigenza di provvedere, con la dovuta tempestivita', alla copertura dei posti vacanti con personale di ruolo, in modo da assicurare l'ordinato avvio e svolgimento dell'anno scolastico 1989-1990;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 giugno 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 agosto 1989;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della pubblica istruzione, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro e per la funzione pubblica;
 
-E M A N A il seguente decreto:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -82,7 +82,7 @@ b) un servizio di insegnamento negli istituti e scuole statali di ogni ordine e 
 
 20. La collocazione nella graduatoria dei concorsi per soli titoli non costituisce elemento valutabile nei corrispondenti concorsi per titoli ed esami e in quelli per soli titoli.
 
-21. Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323~art8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426).
+21. Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8- bis del decreto-legge 6 agosto 1988, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323~art8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426).
 
 22. La rinuncia alla nomina in ruolo comporta la decadenza dalla graduatoria per la quale la nomina stessa e' stata conferita.
 
@@ -158,10 +158,9 @@ Art. 6
 
 1. L'accesso ai ruoli di coordinatore amministrativo ha luogo mediante concorso per titoli ed esami e mediante concorso per soli titoli; a ciascun tipo di concorso e' assegnato annualmente il cinquanta per cento dei posti destinati alle procedure concorsuali.
 
-2. I predetti concorsi sono indetti con frequanza triennale anche quando non vi sia diponibilita' di posti. Nel caso in cui la graduatoria di un concorso per titoli ed esami sia esaurita e rimangano posti ad esso assegnati, questi vanno ad aggiungersi a quelli assegnati al parallelo concorso per titoli; analogamente si provvede nel caso inverso. Detti posti vanno reintegrati in occasione della procedura concorsuale successiva.
+2. I predetti concorsi sono indetti con frequenza triennale anche quando non vi sia diponibilita' di posti. Nel caso in cui la graduatoria di un concorso per titoli ed esami sia esaurita e rimangano posti ad esso assegnati, questi vanno ad aggiungersi a quelli assegnati al parallelo concorso per titoli; analogamente si provvede nel caso inverso. Detti posti vanno reintegrati in occasione della procedura concorsuale successiva.
 
-3. All'indizione dei concorsi si provvede con bando unico emanato dal Ministro della pubblica istruzione. Spetta ai provveditori agli studi determinare con loro decreti, all'inizio di ciascuno dei tre anni scolastici ai quali si riferiscono i concorsi, il numero dei posti da conferire  
-all'inizio di ciascun anno scolastico ai candidati utilmente collocati nelle graduatorie compilate a seguito dell'espletamento dei concorsi cosi' indetti. Rimane ferma la competenza degli stessi provveditori agli studi riguardo a tutti gli adempimenti attinenti allo svolgimento delle procedure dei concorsi medesimi, nonche' riguardo all'approvazione degli atti ed ai provvedimenti ed attivita' conseguenti.
+3. All'indizione dei concorsi si provvede con bando unico emanato dal Ministro della pubblica istruzione. Spetta ai provveditori agli studi determinare con loro decreti, all'inizio di ciascuno dei tre anni scolastici ai quali si riferiscono i concorsi, il numero dei posti da conferire all'inizio di ciascun anno scolastico ai candidati utilmente collocati nelle graduatorie compilate a seguito dell'espletamento dei concorsi cosi' indetti. Rimane ferma la competenza degli stessi provveditori agli studi riguardo a tutti gli adempimenti attinenti allo svolgimento delle procedure dei concorsi medesimi, nonche' riguardo all'approvazione degli atti ed ai provvedimenti ed attivita' conseguenti.
 
 4. Non si applica alcun limite di eta' per la partecipazione ai concorsi per soli titoli.
 
@@ -173,43 +172,39 @@ all'inizio di ciascun anno scolastico ai candidati utilmente collocati nelle gra
 
 a) il superamento delle prove di un precedente concorso per titoli ed esami o di precedenti esami a posti di segretario o coordinatore amministrativo;
 
-b) un servizio di segretario o coordinatore amministrativo negli istituti e scuole statali di ogni ordine e grado, ivi comprese le istituzioni scolastiche italiane all'estero, prestato, per almeno trecentosessanta giorni, anche non continuativi, nel triennio precedente.
+b) un servizio di segretario o coordinatore amministrativo negli istituti e scuole statali di ogni ordine e grado, prestato, per almeno trecentosessanta giorni, anche non continuativi, nel triennio precedente.
 
-8. Il servizio prestato nelle istituzioni scolastiche e culturali italiane all'estero e' utile se effettuato con atto di nomina dell'Amministrazione degli affari esteri.
+8. Al concorso medesimo sono ammessi altresi' coloro i quali appartengono alla qualifica immediatamente inferiore, vi abbiano prestato servizio di ruolo per almeno cinque anni ed abbiano superato le prove di un concorso ordinario o riservato a posti di segretario o coordinatore amministrativo.
 
-9. Al concorso medesimo sono ammessi altresi' coloro i quali appartengono alla qualifica immediatamente inferiore, vi abbiano prestato servizio di ruolo per almeno cinque anni ed abbiano superato le prove di un concorso ordinario o riservato a posti di segretario o coordinatore amministrativo.
+9. La partecipazione ai concorsi per soli titoli e' consentita per due province.
 
-10. La partecipazione ai concorsi per soli titoli e' consentita per due province.
+10. Le graduatorie relative ai concorsi per soli titoli hanno carattere permanente e sono soggette ad aggiornamento triennale. A tal fine, nei concorsi per soli titoli successivi al primo che verra' indetto secondo le norme del presente decreto i nuovi concorrenti sono inclusi nel posto spettante in base al punteggio complessivo, mentre i concorrenti gia' compresi in graduatoria ma non ancora nominati hanno diritto a permanere nella graduatoria e ad ottenere la modifica del punteggio mediante valutazione dei nuovi titoli purche' abbiano presentato apposita domanda di permanenza, corredata dei nuovi titoli nel termine di cui al bando di concorso.
 
-11. Le graduatorie relative ai concorsi per soli titoli hanno carattere permanente e sono soggette ad aggiornamento triennale. A tal fine, nei concorsi per soli titoli successivi al primo che verra' indetto secondo le norme del presente decreto i nuovi concorrenti sono inclusi nel posto spettante in base al punteggio complessivo, mentre i concorrenti gia' compresi in graduatoria ma non ancora nominati hanno diritto a permanere nella graduatoria e ad ottenere la modifica del punteggio mediante valutazione dei nuovi titoli purche' abbiano presentato apposita domanda di permanenza, corredata dei nuovi titoli nel termine di cui al bando di concorso.
+11. A parita' di punteggio e di ogni altra condizione che dia titolo a preferenza, precede nella graduatoria permanente chi abbia partecipato al concorso meno recente.
 
-12. A parita' di punteggio e di ogni altra condizione che dia titolo a preferenza, precede nella graduatoria permanente chi abbia partecipato al concorso meno recente.
+12. Le graduatorie relative ai concorsi per soli titoli sono compilate sulla base del punteggio complessivo ottenuto da ciascun concorrente.
 
-13. Le graduatorie relative ai concorsi per soli titoli sono compilate sulla base del punteggio complessivo ottenuto da ciascun concorrente.
+13. Con decreto del Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione, e' emanata la tabella di valutazione dei titoli.
 
-14. Con decreto del Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione, e' emanata la tabella di valutazione dei titoli.
+14. Il punteggio da attribuire al superamento di un precedente concorso per titoli ed esami, o di precedenti esami, non puo' superare quello spettante per tre anni di servizio.
 
-15. Il punteggio da attribuire al superamento di un precedente concorso per titoli ed esami, o di precedenti esami, non puo' superare quello spettante per tre anni di servizio.
+15. Le graduatorie dei concorsi per soli titoli, di cui al presente decreto, sono utilizzabili sino all'esaurimento, nell'ordine in cui i candidati vi risultino compresi.
 
-16. Le graduatorie dei concorsi per soli titoli, di cui al presente decreto, sono utilizzabili sino all'esaurimento, nell'ordine in cui i candidati vi risultino compresi.
+16. La collocazione nelle graduatorie del concorso per soli titoli non costituisce elemento valutabile nei corrispondenti concorsi per titoli ed esami ed in quelli per soli titoli.
 
-17. La collocazione nelle graduatorie del concorso per soli titoli non costituisce elemento valutabile nei corrispondenti concorsi per titoli ed esami ed in quelli per soli titoli.
+17. Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8- bis del decreto-legge 6 agosto 1988, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323~art8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426).
 
-18. Le graduatorie dei concorsi per soli titoli sono utilizzabili soltanto dopo l'esaurimento delle corrispondenti graduatorie compilate ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323~art8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426).
+18. La rinuncia alla nomina in ruolo comporta la decadenza dalla graduatoria per la quale la nomina stessa e' stata conferita.
 
-19. La rinuncia alla nomina in ruolo comporta la decadenza dalla graduatoria per la quale la nomina stessa e' stata conferita.
+19. Il personale scolastico di ruolo in servizio all'estero, il quale a seguito di un superamento di un concorso possa accedere ad altro ruolo, puo' chiedere la proroga dell'assunzione in servizio e dell'effettuazione del relativo periodo di prova, per un periodo non superiore a due anni. I relativi effetti giuridici ed economici decorrono dalla data di effettiva assunzione in servizio.
 
-20. Il personale scolastico di ruolo in servizio all'estero, il quale a seguito di un superamento di un concorso possa accedere ad altro ruolo, puo' chiedere la proroga dell'assunzione in servizio e dell'effettuazione del relativo periodo di prova, per un periodo non superiore a due anni. I relativi effetti giuridici ed economici decorrono dalla data di effettiva assunzione in servizio.
+20. Si applicano, per quanto non incompatibili con il presente articolo, le norme di cui agli articoli 9 e 11 del decreto de [Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1974-05-31;420).
 
-21. Si applicano, per quanto non incompatibili con il presente articolo, le norme di cui agli articoli 9 e 11 del decreto de [Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1974-05-31;420).
+21. Le disposizioni di cui al presente articolo si applicano anche ai coordinatori amministrativi dei conservatori di musica, delle Accademie di belle arti e delle Accademie nazionali di arte drammatica e di danza. I relativi concorsi possono essere svolti in forma decentrata a cura di uno dei provveditori agli studi o dei sovrintendenti scolastici.
 
-22. Le disposizioni di cui al presente articolo si applicano anche ai coordinatori amministrativi dei conservatori di musica, delle Accademie di belle arti e delle Accademie nazionali di arte drammatica e di danza. I relativi concorsi possono essere svolti in forma decentrata a cura di uno dei provveditori agli studi o dei sovrintendenti scolastici.
+22. Sono abrogate le disposizioni di cui agli [articoli 48 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art48), e 16 della [legge 16 luglio 1984, n. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-16;326). I posti disponibili per i concorsi riservati di cui all'[articolo 13 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;420~art13), sono determinati in base alle aliquote di cui all'[articolo 47 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art47).
 
-23. I concorsi per soli titoli di accesso ai ruoli del personale amministrativo e tecnico relativo ai profili professionali della terza e quarta qualifica funzionale della scuola, di cui all'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;420~art10), sono indetti con bandi emanati dal Ministro della pubblica istruzione.
-
-24. Sono abrogate le disposizioni di cui agli [articoli 48 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art48), e 16 della [legge 16 luglio 1984, n. 326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-16;326). I posti disponibili per i concorsi riservati di cui all'[articolo 13 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;420~art13), sono determinati in base alle aliquote di cui all'[articolo 47 della legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312~art47).
-
-25. I posti disponibili e vacanti per i concorsi di accesso ai ruoli dei coordinatori amministrativi, detratto il contingente dei posti da destinare ai corrispondenti concorsi riservati per il passaggio alla qualifica funzionale superiore di cui al comma 24, sono ripartiti, nella misura del 50 per cento, tra i concorsi di accesso per titoli ed esami e i concorsi di accesso per soli titoli.
+23. I posti disponibili e vacanti per i concorsi di accesso ai ruoli dei coordinatori amministrativi, detratto il contingente dei posti da destinare ai corrispondenti concorsi riservati per il passaggio alla qualifica funzionale superiore di cui al comma 24, sono ripartiti, nella misura del 50 per cento, tra i concorsi di accesso per titoli ed esami ed i concorsi di accesso per soli titoli.
 
 Art. 7
 ------
@@ -223,7 +218,7 @@ Art. 8
 
 1. Le graduatorie di cui all'articolo 2 e, limitatamente ai coordinatori amministrativi, all'[articolo 3 della legge 9 agosto 1978, n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-09;463~art3), da compilare dopo la data di entrata in vigore del presente decreto, hanno carattere permanente.
 
-2. Il Ministro della pubblica istruzione disporra' ogni triennio con propria ordinanza l'integrazione delle graduatorie di cui al comma 1, con l'inclusione di nuovi aspiranti e l'aggiornamento delle stesse con la valutazione dei nuovi titoli.
+2. Il Ministro della pubblica istruzione disporra' ogni triennio con propria ordinanza l'integrazione delle graduatorie di cui al comma 1, con l'inclusione dei nuovi aspiranti e l'aggiornamento delle stesse con la valutazione dei nuovi titoli.
 
 3. Coloro i quali sono inseriti nelle graduatorie dei concorsi per soli titoli hanno diritto alla precedenza assoluta nel conferimento delle supplenze annuali e temporanee nella provincia in cui hanno presentato le relative domande di supplenza.
 
@@ -231,14 +226,14 @@ Art. 8
 
 5. La precedenza assoluta di cui al comma 3 opera dopo quella prevista dal [comma 5 dell'articolo 17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17-com5), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246).
 
-6. Le supplenze di durata annuale per la copertura di un numero di ore settimanali non superiore a sei sono conferite dal capo d'istituto sulla base delle graduatorie compilate dall'istituto o scuola, sempre che si tratti di ore comunicate, preventivamente e in tempo utile, ai provveditori agli studi, ai fini degli accorpamenti per la costituzione dei posti-orario, dopo avere effettuato a livello provinciale tutti gli accorpamenti necessari per la costituzione dei medesimi posti-orario, per le ore rimaste comunque vacanti. Tali supplenze sono da considerarsi assimilate, a tutti gli effetti, a quelle conferite dal provveditore agli studi.
+6. Le supplenze di durata annuale per la copertura di un numero di ore settimanali non superiore a sei sono conferite dal capo d'istituto sulla base delle graduatorie compilate dall'istituto o scuola, sempre che si tratti di ore comunicate, preventivamente e in tempo utile, ai provveditori agli studi, ai fini degli accorpamenti per la costituzione dei posti-orario, dopo aver effettuato a livello provinciale tutti gli accorpamenti necessari per la costituzione dei medesimi posti-orario, per le ore rimaste comunque vacanti. Tali supplenze sono da considerarsi assimilate, a tutti gli effetti, a quelle conferite dal provveditore agli studi.
 
 Art. 9
 ------
 
 1. I docenti che, alla data di entrata in vigore del presente decreto, abbiano superato le prove di un concorso per titoli ed esami o di un precedente concorso per titoli integrato da un colloquio per l'accesso ai ruoli del personale direttivo hanno titolo, anche se vi sono stati ammessi con riserva, ad essere immessi nei predetti ruoli.
 
-2. Hanno titolo, altresi, ad essere immessi nei ruoli del personale direttivo degli istituti e scuole di istruzione secondaria, ivi compresi i licei artistici e gli istituti d'arte, i docenti che, alla data di entrata in vigore del presente decreto, abbiano svolto due anni d'incarico di presidenza negli istituti e nelle scuole medesimi, previo superamento di un esame sotto forma di colloquio, da indire entro sei mesi dalla data di entrata in vigore del presente decreto secondo criteri e modalita' che saranno stabiliti con decreto del Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione.
+2. Hanno titolo, altresi', ad essere immessi nei ruoli del personale direttivo degli istituti e scuole di istruzione secondaria, ivi compresi i licei artistici e gli istituti d'arte, i docenti che, alla data di entrata in vigore del presente decreto, abbiano svolto due anni d'incarico di presidenza negli istituti e nelle scuole medesimi, previo superamento di un esame sotto forma di colloquio, da indire entro sei mesi dalla data di entrata in vigore del presente decreto secondo criteri e modalita' che saranno stabiliti con decreto del Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione.
 
 3. Ai fini delle immissioni in ruolo di cui ai commi 1 e 2 sono compilate distinte graduatorie ad esaurimento.
 
@@ -270,11 +265,11 @@ Art. 11
 
 2. In prima applicazione delle disposizioni recate dal presente decreto, si prescinde dal requisito del superamento delle prove di un precedente concorso per titoli ed esami per l'ammissione ai concorsi per soli titoli a posti di insegnante tecnico pratico, di insegnante di arte applicata, di personale educativo dei convitti nazionali, degli educandati femminili dello Stato e delle altre istituzioni educative, di personale docente ed assistente, di assistente educatrice, di accompagnatore al pianoforte e di pianista accompagnatore dei conservatori di musica, delle Accademie di belle arti e delle Accademie nazionali di arte drammatica e di danza, nonche' a posti di sostegno nella scuola elementare, purche' il personale interessato sia in possesso del titolo di specializzazione di cui all'[articolo 8 del decreto del Presidente della Repubblica 31 ottobre 1975, n. 970](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-31;970~art8).
 
-3. I docenti non abilitati della scuola materna e della scuola secondaria, ivi compresi i licei artistici e gli istituti d'arte, con i requisiti di servizio di cui al comma 1, hanno titolo a partecipare ad una sessione riservata per il conseguimento dell'abilitazione all'insegnamento, da indire entro quarantacinque giorni dalla data di entrata in vigore del presente decreto, secondo le modalita' di cui all'[articolo 3 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art3), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246). L'abilitazione conseguita ai sensi del presente comma e' valida anche ai fini di cui al comma 10, lettera a), dell'articolo 2.
+3. I docenti non abilitati della scuola materna e della scuola secondaria, ivi compresi i licei artistici e gli istituti d'arte, con i requisiti di servizio di cui al comma 1, hanno titolo a partecipare ad una sessione riservata per il conseguimento dell'abilitazione all'insegnamento, da indire entro quarantacinque giorni dalla data di entrata in vigore del presente decreto, secondo le modalita' di cui all'[articolo 3 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art3), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246). L'abilitazione conseguita ai sensi del presente comma e' valida anche ai fini di cui al comma 10, lettera a), dell'articolo 2. Coloro i quali conseguono l'abilitazione nella sessione riservata prevista dal presente comma possono chiedere di essere immediatamente inseriti, sulla base dei punteggi spettanti, nelle graduatorie dei concorsi per soli titoli compilate in applicazione dell'articolo 12, dopo l'ultimo candidato in esse incluso.
 
 4. I coordinatori amministrativi che abbiano prestato un anno di servizio con nomina conferita dal provveditore agli studi nel periodo decorrente dall'anno scolastico 1983-84 e che non abbiano conseguito l'idoneita' in precedenti concorsi per titoli ed esami, sono ammessi ai concorsi per soli titoli, indetti in prima applicazione del presente decreto, previo superamento di un'apposita sessione degli esami di cui all'[articolo 50 della legge 20 maggio 1982, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270~art50), da indire con ordinanza del Ministro della pubblica istruzione, entro trenta giorni dalla data di entrata in vigore del presente decreto. I coordinatori amministrativi inseriti nelle graduatorie dei concorsi per soli titoli, che abbiano prestato almeno due anni di servizio con nomina conferita dal provveditore agli studi, hanno titolo alla nomina in ruolo con precedenza rispetto ad altri aspiranti inclusi nella medesima graduatoria.
 
-5. Alle nomine da disporre in base alle graduatorie relative al concorso per soli titoli da bandire in prima applicazione del presente decreto si provvede soltanto dopo l'esaurimento delle corrispondenti graduatorie da compilare ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8-bis del decreto-legge 6 agosto 1988, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323~art8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426). Si applicano le norme di cui ai commi 12 e 13 dell'articolo 6.
+5. Alle nomine da disporre in base alle graduatorie relative al concorso per soli titoli da bandire in prima applicazione del presente decreto si provvede soltanto dopo l'esaurimento delle corrispondenti graduatorie da compilare ai sensi dell'[articolo 17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), e trasformate in graduatorie nazionali dall'[articolo 8- bis del decreto-legge 6 agosto 1988, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-06;323~art8bis), convertito, con modificazioni, dalla [legge 6 ottobre 1988, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-06;426). Si applicano le norme di cui ai commi 12 e 13 dell'articolo 6.
 
 Art. 12
 -------
@@ -288,7 +283,7 @@ Art. 12
 Art. 13
 -------
 
-1. Nei riguardi del personale docente, amministrativo, tecnico ed ausiliario, degli assistenti, degli accompagnatori di pianoforte e dei pianisti accompagnatori delle Accademie di belle arti, dei conservatori di musica e delle Accademie nazionali di arte drammatica e di danza e' attribuita al direttore dell'accademia o del conservatorio la competenza a provvedere:
+1. Nei riguardi del personale docente, amministrativo, tecnico ed ausiliario, degli assistenti, degli accompagnatori delle Accademie di belle arti, dei conservatori di musica e delle Accademie nazionali di arte drammatica e di danza e' attribuita al direttore dell'accademia o del conservatorio la competenza a provvedere:
 
 a) alla concessione dei congedi straordinari e delle aspettative, per qualsiasi motivo essi siano richiesti;
 
@@ -298,7 +293,8 @@ b) all'irrogazione delle sanzioni disciplinari dell'avvertimento scritto e della
 
 a) alla nomina e conferma in ruolo;
 
-b) alla concessione dei congedi straordinari e delle aspettative ai direttori ed ai direttori amministrativi delle istituzioni di cui al comma 1, per qualsiasi motivo detti provvedimenti siano richiesti;
+b) alla concessione dei congedi straordinari e delle aspettative ai direttori ed ai direttori amministrativi delle  
+istituzioni di cui al comma 1, per qualsiasi motivo detti provvedimenti siano richiesti;
 
 c) alla concessione del prolungamento eccezionale delle aspettative;
 
@@ -338,26 +334,27 @@ Art. 16
 Art. 17
 -------
 
-1. Il personale amministrativo, tecnico ad ausiliario non di ruolo che abbia prestato almeno due anni di servizio, in tutto o in parte, in qualifiche superiori a quelle per le quali i concorsi sono stati indetti, ha titolo a partecipare ai concorsi per la carriera immediatamente inferiore, indetti ai sensi dell'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;420~art10).
+1. Il personale amministrativo, tecnico ed ausiliario non di ruolo che abbia prestato almeno due anni di servizio, in tutto o in parte, in qualifiche superiori a quelle per le quali i concorsi sono stati indetti, ha titolo a partecipare ai concorsi per la carriera immediatamente inferiore, indetti ai sensi dell'[articolo 10 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;420~art10).
 
 2. Il servizio svolto presso le istituzioni scolastiche statali per almeno tre anni scolastici dal personale ausiliario con le mansioni di conducente di autoveicoli e di aiuto-cuoco, e' considerato sostitutivo del titolo di studio e dell'attestato di qualifica richiesto ai fini della partecipazione ai concorsi riservati per l'accesso, rispettivamente, alla qualifica di collaboratore tecnico per il laboratorio di conduzione e manutenzione di autoveicoli e di cuoco. In prima applicazione, sui posti da destinare ai concorsi, l'80 per cento e' riservato al personale di cui al presente comma.
 
-3. Le deroghe apportate ai sensi dell'[articolo 6-bis del  
-decreto-legge 2 marzo 1987, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-02;57~art6bis), convertito, con modificazioni,  
-dalla [legge 22 aprile 1987, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-22;158), ai titoli di studio previsti dal [decreto del Presidente della Repubblica 7 marzo 1985, n. 588](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-03-07;588), sono  
-valide anche ai fini dei requisiti richiesti per i passaggi di ruolo da un profilo ad un altro della medesima qualifica funzionale.
+3. Le deroghe apportate ai sensi dell'[articolo 6-bis del decreto-legge 2 marzo 1987, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-02;57~art6bis), convertito, con modificazioni, dalla [legge 22 aprile 1987, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-22;158), ai titoli di studio previsti dal [decreto del Presidente della Repubblica 7 marzo 1985, n. 588](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-03-07;588), sono valide anche ai fini dei requisiti richiesti per i passaggi di ruolo da un profilo ad un altro della medesima qualifica funzionale.
 
 4. Il personale ATA che ha conseguito una idoneita' nei concorsi banditi ai sensi dell'[articolo 9 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;420~art9), e' incluso nelle graduatorie provinciali per il conferimento delle supplenze del personale ATA, ancorche' non in possesso dei titoli di studio specifici previsti dall'[articolo 3 dell'ordinanza ministeriale n. 306 del 31 ottobre 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:ordinanza:1988-10-31;306~art3).
 
 Art. 18
 -------
 
-1. I posti disponibili e vacanti per i concorsi ordinari a posti di coordinatore amministrativo successivamente al completamento delle operazioni di inquadramento in ruolo ai sensi degli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art14) e [17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), fino all'approvazione delle graduatorie relative ai concorsi indetti in base alle disposizioni del presente decreto sono conferiti agli idonei dei concorsi ordinari gia' espletati oppure in via di espletamento, in base alle relative graduatorie.
+1. I posti disponibili e vacanti per i concorsi ordinari a posti di coordinatore amministrativo successivamente al completamento delle operazioni di inquadramento in ruolo ai sensi degli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art14) e [17 del decreto-legge 3 maggio 1988, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-03;140~art17), convertito, con modificazioni, dalla [legge 4 luglio 1988, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-04;246), fino all'anno scolastico precedente il triennio indicato nel bando di concorso per esami e titoli, da emanare in prima applicazione, fatta salva la quota del 50 per cento dei posti destinata ai concorsi per soli titoli, sono conferiti agli idonei dei concorsi ordinari gia' espletati oppure in via di espletamento, in base alle relative graduatorie.
 
 Art. 19
 -------
 
-1. Le operazioni di utilizzazione sui posti di sostegno del personale docente di ruolo privo del prescritto titolo di specializzazione si svolgono con priorita' rispetto alle nomine del personale docente non di ruolo in possesso del predetto titolo e dopo aver accantonato un numero di posti pari a quello necessario per le suddette nomine da disporre ai sensi dell'[articolo 7, comma 13, della legge 22 dicembre 1984, n. 887](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887~art7-com13).
+1. Ai fini della copertura dei posti di sostegno nella scuola dell'obbligo, dopo le operazioni di utilizzazione del personale docente di ruolo fornito del prescritto titolo di specializzazione, dovra' procedersi all'accantonamento di un numero di posti pari a quello necessario per le nomine del personale docente non di ruolo fornito del prescritto titolo di specializzazione.
+
+2. Effettuato l'accantonamento dei posti di cui al comma 1, nell'ambito del numero dei posti residui saranno utilizzati i docenti di ruolo privi del prescritto titolo di specializzazione.
+
+3. Dopo le operazioni di cui al comma 2 si procedera' all'effettuazione delle nomine del personale docente non di ruolo per il quale e' stato disposto l'accantonamento di posti di cui al comma 1.
 
 Art. 20
 -------
@@ -393,11 +390,23 @@ Art. 24
 Art. 25
 -------
 
+1. Nell'ambito dell'applicazione dell'articolo 12, le procedure dei concorsi per soli titoli indetti con i decreti del Ministro della pubblica istruzione in data 12 luglio 1989, pubblicati nella Gazzetta Ufficiale della Repubblica italiana - 4a serie speciale - n. 55 del 21 luglio 1989, per l'accesso ai ruoli del personale docente della scuola materna, elementare e secondaria, dei licei artistici e degli istituti d'arte, possono essere completate entro il mese di settembre 1989, ai fini dell'effettuazione delle nomine sulla disponibilita' dei posti riferibili all'anno scolastico 1989-90. Tali nomine hanno decorrenza giuridica dal 1› settembre 1989 ed effetti economici dalla data di effettiva assunzione del servizio.
+
+2. Sempre nell'ambito dell'applicazione dell'articolo 12, le procedure degli analoghi concorsi per soli titoli indetti con i decreti del Ministro della pubblica istruzione in data 12 luglio 1989, pubblicati nella Gazzetta Ufficiale di cui al comma 1, per l'accesso ai ruoli del personale docente ed assistente, delle assistenti educatrici, degli accompagnatori al pianoforte e dei pianisti accompagnatori dei conservatori di musica, delle Accademie nazionali di arte drammatica e di danza possono essere completate entro il mese di ottobre 1989, ai fini dell'effettuazione delle nomine sulla disponibilita' dei posti riferibili all'anno scolastico 1989-90. Tali nomine hanno decorrenza giuridica dal 1› ottobre 1989 ed effetti economici dalla data di effettiva assunzione del servizio.
+
+Art. 26
+-------
+
+1. Per la corresponsione dei compensi al presidente ed ai componenti delle commissioni giudicatrici dei concorsi per titoli ed esami e dei concorsi per soli titoli di cui al presente decreto si applica il disposto del [secondo comma dell'articolo 5 della legge 20 maggio 1982, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270~art5-com2).
+
+Art. 27
+-------
+
 1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 26.000 milioni per l'anno 1989, in lire 26.000 milioni per l'anno 1990 ed in lire 31.800 milioni per l'anno 1991, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1989-91, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1989, all'uopo utilizzando, quanto a lire 6.000 milioni in ciascuno degli anni stessi, l'accantonamento "Norme in materia di reclutamento del personale della scuola" e, quanto a lire 20.000 milioni per ciascuno degli anni 1989, e 1990, ed a lire 25.800 milioni per l'anno 1991, parzialmente utilizzando l'accantonamento "Provvedimenti in favore della scuola".
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-Art. 26
+Art. 28
 -------
 
 1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -405,18 +414,18 @@ Art. 26
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 luglio 1989
+### Dato a Roma, addi' 2 settembre 1989
 
 COSSIGA
 
-DE MITA, Presidente del Consiglio dei Ministri
+ANDREOTTI, Presidente del Consiglio dei Ministri
 
-GALLONI, Ministro della pubblica istruzione
+MATTARELLA, Ministro della pubblica istruzione
 
-FANFANI, Ministro del bilancio e della programmazione economica
+CIRINO POMICINO, Ministro del bilancio e della programmazione economica
 
-AMATO, Ministro del tesoro
+CARLI, Ministro del tesoro
 
-CIRINO POMICINO, Ministro per la funzione pubblica
+GASPARI, Ministro per la funzione pubblica
 
 Visto, il Guardasigilli: VASSALLI

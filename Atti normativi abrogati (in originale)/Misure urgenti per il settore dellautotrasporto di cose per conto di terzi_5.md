@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 luglio 1993 n. 262
+DECRETO-LEGGE 29 novembre 1993 n. 481
 
 
-DECRETO-LEGGE 30 luglio 1993 n. 262
-===================================
+DECRETO-LEGGE 29 novembre 1993 n. 481
+=====================================
 
 Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi.
 ----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 01/08/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-11-1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni di sostegno in favore del settore dell'autotrasporto di cose per conto di terzi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 luglio 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 novembre 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti, di concerto con i Ministri delle finanze, del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -40,7 +40,7 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 luglio 1993
+### Dato a Roma, addi' 29 novembre 1993
 
 SCALFARO
 
@@ -48,10 +48,8 @@ CIAMPI, Presidente del Consiglio dei Ministri
 
 COSTA, Ministro dei trasporti
 
-GALLO, Ministro delle finanze
-
 BARUCCI, Ministro del tesoro
 
-SPAVENTA, Ministro del bilancio e della programmazione economica
+SPAVENTA, Ministro del bilan cio e della programmazione economica
 
 Visto, il Guardasigilli: CONSO

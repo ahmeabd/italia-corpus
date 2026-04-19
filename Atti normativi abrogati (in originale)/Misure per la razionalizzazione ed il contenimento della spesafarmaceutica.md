@@ -1,14 +1,14 @@
-DECRETO-LEGGE 02 aprile 1996 n. 183
+DECRETO-LEGGE 01 febbraio 1996 n. 42
 
 
-DECRETO-LEGGE 02 aprile 1996 n. 183
-===================================
+DECRETO-LEGGE 01 febbraio 1996 n. 42
+====================================
 
 Misure per la razionalizzazione ed il contenimento della spesa 
 farmaceutica.
 -----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 4/4/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 6/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,11 +17,14 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare misure per la razionalizzazione e il contenimento della spesa farmaceutica, assicurando, al contempo, la copertura finanziaria della maggiore spesa del corrente anno rispetto alle previsioni;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita';
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con il Ministro delle finanze e, ad interim, del bilancio e della programmazione
 
-E M A N A il seguente decreto-legge:
+economica
+---------
+
+e per il coordinamento delle politiche dell'Unione europea; E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -34,9 +37,9 @@ b) dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](http://www.
 
 2. Entro il 15 dicembre 1995 le imprese titolari di autorizzazione all'immissione in commercio di medicinali collocati nelle classi di cui alle lettere a), anche con limitazione all'uso ospedaliero, e b) dell'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com10), devono presentare domanda diretta a ottenere modifiche delle confezioni autorizzate o nuove confezioni conformi ai criteri dell'allegato di cui al comma 1. Entro lo stesso termine, le imprese interessate devono inviare al Ministero della sanita', per ogni medicinale che risulta in commercio in una confezione gia' conforme ai predetti criteri, sintetica comunicazione dimostrativa di tale conformita'. I prezzi delle nuove confezioni debbono essere proporzionalmente allineati a quelli delle confezioni da sostituire.
 
-3. Le domande e le comunicazioni, presentate ai sensi dei commi 1 e 2, sono sottoposte alle valutazioni della Commissione unica del farmaco. In caso di mancata pronuncia entro il 30 giugno 1996, le domande si intendono accolte e i prodotti oggetto delle comunicazioni di cui al secondo periodo del comma 2 si intendono conformi ai criteri dell'allegato di cui al comma 1.
+3. Le domande e le comunicazioni, presentate ai sensi dei commi 1 e 2, sono sottoposte alle valutazioni della Commissione unica del farmaco. In caso di mancata pronuncia entro il 30 aprile 1996, le domande si intendono accolte e i prodotti oggetto delle comunicazioni di cui al secondo periodo del comma 2 si intendono conformi ai criteri dell'allegato di cui al comma 1.
 
-4. Entro il 30 giugno 1996 il Ministero della sanita' pubblica nella Gazzetta Ufficiale il numero di codice delle confezioni conformi ai criteri dell'allegato di cui al comma 1, anche in base al disposto del comma 3.
+4. Entro il 30 aprile 1996 il Ministero della sanita' pubblica nella Gazzetta Ufficiale il numero di codice delle confezioni conformi ai criteri dell'allegato di cui al comma 1, anche in base al disposto del comma 3.
 
 5. Le confezioni di cui al comma 4 possono essere immesse in commercio e dispensate con oneri a carico del Servizio sanitario nazionale, alle condizioni previste dai provvedimenti di classificazione della Commissione unica del farmaco, a partire dal quindicesimo giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale ai sensi del comma 4. Le confezioni diverse da quelle di cui al comma 4 non sono piu' poste a carico del Servizio sanitario nazionale dal 1 settembre 1996.
 
@@ -61,22 +64,24 @@ Art. 3
 Art. 4
 ------
 
-1. Le disposizioni del presente decreto hanno effetto dal 6 aprile 1996. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi 2 aprile 1996
+### Dato a Roma, addi 1 febbraio 1996
 
-Il Presidente del Senato della Repubblica nell'esercizio
-
-delle funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
+SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 GUZZANTI, Ministro della sanita'
 
-Visto, il Guardasigilli: CAIANIELLO
+FANTOZZI, Ministro delle finanze e,
+
+ad interim, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
+
+Visto, il Guardasigilli: DINI
 
 Allegato
 

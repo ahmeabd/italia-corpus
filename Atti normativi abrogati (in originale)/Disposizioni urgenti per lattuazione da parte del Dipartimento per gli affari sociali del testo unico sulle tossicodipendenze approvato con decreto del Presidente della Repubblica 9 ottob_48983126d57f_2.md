@@ -1,13 +1,13 @@
-DECRETO-LEGGE 15 luglio 1994 n. 446
+DECRETO-LEGGE 19 settembre 1994 n. 539
 
 
-DECRETO-LEGGE 15 luglio 1994 n. 446
-===================================
+DECRETO-LEGGE 19 settembre 1994 n. 539
+======================================
 
 Disposizioni urgenti per l'attuazione da parte del Dipartimento per gli affari sociali del testo unico sulle tossicodipendenze, approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 16-7-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-9-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,19 +18,19 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assi
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni al fine di favorire interventi a favore degli stranieri extracomunitari immigrati;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 luglio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 settembre 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la famiglia e la solidarieta' sociale, di concerto con i Ministri dell'interno, delle finanze, del tesoro e della sanita';
+Sulla
+-----
 
-E M A N A il seguente decreto-legge:
+proposta del Presidente del Consiglio dei Ministri e del Ministro per la famiglia e la solidarieta' sociale, di concerto con i Ministri dell'interno, delle finanze, del tesoro e della sanita'; E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
 1. Ai fini di una piu' corretta predisposizione progettuale delle iniziative, nonche' della verifica dell'attuazione dei progetti finanziati ai sensi del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), di seguito denominato testo unico, e' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, un nucleo operativo composto da tredici esperti, di cui otto in rappresentanza, rispettivamente, delle Amministrazioni del tesoro, dell'interno, di grazia e giustizia, della difesa, della pubblica istruzione, della sanita', del lavoro e della previdenza sociale e dell'universita' e della ricerca scientifica e tecnologica, scelti prioritariamente tra il personale con qualifica dirigenziale, da quattro esperti particolarmente competenti nel settore della prevenzione e delle verifiche di efficienza e di efficacia e da un rappresentante delle associazioni delle famiglie. I membri del nucleo operativo sono rinnovati ogni anno per un terzo a decorrere dallo scadere del secondo anno. Non si puo' far parte del nucleo operativo per piu' di cinque anni. Il nucleo operativo riferisce periodicamente sull'attivita' svolta al Ministro per la famiglia e la solidarieta' sociale.
 
-2. I componenti del nucleo operativo in rappresentanza delle amministrazioni dello Stato sono nominati con decreto del Presidente del Consiglio dei Ministri, su proposta dei Ministri interessati, e sono collocati fuori ruolo ai sensi e per gli effetti degli articoli 58 e 59 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3).   
-I rimanenti componenti del nucleo operativo sono nominati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 31 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art31), ovvero collocati fuori ruolo se appartenenti all'Amministrazione dello Stato.
+2. I componenti del nucleo operativo in rappresentanza delle amministrazioni dello Stato sono nominati con decreto del Presidente del Consiglio dei Ministri, su proposta dei Ministri interessati, e sono collocati fuori ruolo ai sensi e per gli effetti degli articoli 58 e 59 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3). I rimanenti componenti del nucleo operativo sono nominati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 31 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art31), ovvero collocati fuori ruolo se appartenenti all'Amministrazione dello Stato.
 
 3. Il nucleo operativo, nell'espletamento dei propri compiti, collabora, se richiesto, alla predisposizione dei progetti esecutivi da sottoporre a finanziamento ai sensi dell'articolo 2 e, comunque, acquisisce le necessarie informazioni sulle attivita' svolte dalle amministrazioni statali, dalle regioni, dai comuni interessati e dai soggetti ammessi a contributo, che sono tenuti a fornirle. I componenti del nucleo operativo possono accedere ai luoghi di esecuzione dei progetti al fine di constatarne lo stato di realizzazione e di effettuare ogni altra rilevazione utile per la verifica e il monitoraggio dell'attuazione dei progetti e della loro efficacia, anche ai fini di un costante miglioramento della qualita' delle iniziative da realizzare nell'ambito della prevenzione e del recupero.
 
@@ -50,7 +50,7 @@ b) enti locali e unita' sanitarie locali maggiormente interessati dall'espansion
 
 c) enti, organizzazioni di volontariato, cooperative e privati, che operino senza scopi di lucro, iscritti agli albi di cui all'articolo 116 del testo unico, ovvero, in caso di mancata istituzione dell'albo e nelle more della registrazione temporanea, che si coordinino con la regione o con l'unita' sanitaria locale mediante apposite convenzioni, per progetti mirati a sostenere attivita' di recupero e reinserimento sociale e professionale dei tossicodipendenti;
 
-d) regioni per la formazione integrata degli operatori dei servizi pubblici e privati convenzionati per l'assistenza socio-sanitaria alle tossicodipendenze,anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi. Per il finanziamento di tali iniziative e' destinata una quota pari al 3 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
+d) regioni per la formazione integrata degli operatori dei servizi pubblici e privati convenzionati per l'assistenza socio-sanitaria alle tossicodipendenze, anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi. Per il finanziamento di tali iniziative e' destinata una quota pari al 3 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
 
 3. Le somme stanziate per il Fondo di cui al comma 1 e non impegnate alla chiusura di ciascun esercizio finanziario possono esserlo, per gli stessi fini, in quello successivo.
 
@@ -80,7 +80,8 @@ Art. 3
 1. All'articolo 1 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), sono apportate le seguenti modificazioni:
 
 a) l'alinea del comma 8 e' sostituito dal seguente:   
-"L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:";
+"L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche   
+poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:";
 
 b) nella lettera h) del comma 8 e' aggiunto il seguente periodo: "Le altre strutture pubbliche che provvedono all'acquisizione ed elaborazione di dati connessi al fenomeno delle tossicodipendenze in Italia comunicano periodicamente all'Osservatorio i dati in loro possesso.";
 
@@ -91,7 +92,10 @@ d) al comma 14 le parole: "31 gennaio" sono sostituite dalle seguenti: "31 marzo
 Art. 4
 ------
 
-1. All'articolo 129 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e' aggiunto, in fine, il seguente comma:   
+1. All'articolo 128 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e' aggiunto, in fine, il seguente comma:   
+"4-bis. La costruzione, l'ampliamento o il recupero di immobili destinati a comunita' terapeutiche di cui al comma 1, nonche' ogni altro intervento edificativo necessario per il conseguimento delle finalita', sia di recupero socio-sanitario che di reinserimento socio-lavorativo, delle suddette comunita', rientrano nella previsione di cui all'[articolo 9 della legge 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10~art9), a condizione che su detti immobili ed interventi edificativi sia posto un vincolo almeno cinquantennale di destinazione d'uso a comunita' terapeutiche.".
+
+2. All'articolo 129 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e' aggiunto, in fine, il seguente comma:   
 "3-bis. Gli enti che intendono avere in uso gli immobili di cui al comma 1 ne fanno domanda alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, che provvede a trasmettere la domanda al Ministero delle finanze - Dipartimento del territorio - Direzione centrale del demanio, entro sessanta giorni, corredandola con il proprio parere. Il Ministro delle finanze provvede sull'istanza entro centottanta giorni dalla data di ricezione.  
 Trascorso inutilmente tale termine, il Ministro per la famiglia e la solidarieta' sociale puo' chiedere che la questione sia iscritta all'ordine del giorno del Consiglio dei Ministri.".
 
@@ -116,12 +120,29 @@ Art. 6
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. La Commissione per la parita' e per le pari opportunita' tra uomo e donna si avvale di un coordinatore, particolarmente esperto nelle materie di specifica competenza, nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Presidente della Commissione.
+
+2. Le somme destinate alla realizzazione delle finalita' della Commissione, contenute, in ogni caso, nell'ambito degli ordinari stanziamenti di bilancio, potranno essere utilizzate anche per riconoscere ai componenti della Commissione e dei gruppi di lavoro istituiti nell'ambito della stessa, al coordinatore ed ai segretari, gettoni di presenza per l'attivita' svolta in seno al collegio, nella misura da determinarsi con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, nonche' per fronteggiare ogni altra spesa anche di rappresentanza.
+
+3. Le spese di cui al presente articolo non impegnate entro l'anno di competenza possono esserlo nell'anno successivo.
+
+4. All'[articolo 3, comma 1, della legge 22 giugno 1990, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-22;164~art3-com1), sono apportate le seguenti modificazioni:
+
+a) l'alinea e' sostituito dal seguente:   
+" 1. La Commissione dura in carica tre anni ed e' composta da trenta donne, nominate dal Presidente del Consiglio dei Ministri con proprio decreto:";
+
+b) la lettera c) e' sostituita dalla seguente:   
+" c) quattro, prescelte nell'ambito delle organizzazioni sindacali dei lavoratori maggiormente rappresentative sul piano nazionale;".
+
+Art. 8
+------
+
+1. Le disposizioni del presente decreto hanno effetto dal 15 settembre 1994. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1994
+### Dato a Roma, addi' 19 settembre 1994
 
 SCALFARO
 

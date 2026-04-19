@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 agosto 1995 n. 359
+DECRETO-LEGGE 28 giugno 1995 n. 257
 
 
-DECRETO-LEGGE 28 agosto 1995 n. 359
+DECRETO-LEGGE 28 giugno 1995 n. 257
 ===================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di ordinamenti finanziari e contabili.
 ---------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-8-1995.Decreto-Legge convertito con modificazioni dalla [L. 27 ottobre 1995, n. 436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-10-27;436) (in G.U. 28/10/1995, n.253).
+Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti il differimento di termini previsti da disposizioni legislative in materia di ordinamenti finanziari e contabili;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 agosto 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 giugno 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -56,13 +56,13 @@ n) Ministero del commercio con l'estero: capitoli 1105 e 1611 in conto competenz
 
 o) Ministero della sanita': capitolo 4209 in conto competenza e capitolo 7010 in conto residui;
 
-p) Ministero per i beni culturali e ambientali: capitoli 1083 e 1536 in conto competenza e capitolo 8301 in conto residui;
+p) Ministero per i beni culturali e ambientali: capitoli 1083 e 1536 in conto compentenza e capitolo 8301 in conto residui;
 
 q) Ministero dell'ambiente: capitoli 1552, 1556, 1558, 1704, 1706, 2556 e 4635 in conto competenza e in conto residui; capitoli 1562, 4631 e 4637 in conto competenza; capitoli 1557, 1561, 7001, 7104, 7301, 7302, 7303, 7304, 7352, 7405, 7410, 7411, 7601, 7605, 7704, 7705, 7707, 7708, 7712, 7901, 7951, 8001, 8360, 8501, 8504, 8600, 8630 e 8650 in conto residui;
 
 r) Ministero dell'universita' e della ricerca scientifica e tecnologica: capitoli 1147, 1151 e 1256 in conto competenza e in conto residui e capitoli 1131 e 1137 in conto competenza;
 
-s) Ministero delle risorse agricole, alimentari e forestali: capitoli 1129, 1530, 1533, 1541, 1547, 1573, 1574, 1580, 1582, 1594, 1597, 2030, 2040, 2575, 5057, 7200, 7227, 7253, 7290, 7302, 7465, 7746 e 8230 in conto competenza e in conto residui;
+s) Ministero delle risorse agricole, alimentari e forestali: 1129, 1530, 1533, 1541, 1547, 1573, 1574, 1580, 1582, 1594, 1597, 2030, 2040, 2575, 5057, 7200, 7227, 7253, 7290, 7302, 7465, 7746 e 8230 in conto competenza e in conto residui;
 
 t) Ministero degli affari esteri: capitoli 1116 e 1125 in conto competenza, capitolo 3583 in conto residui e capitolo 4620 in conto competenza e in conto residui.
 
@@ -82,7 +82,7 @@ b) Ministero dell'ambiente: capitoli 7101, 7103, 7301, 7351, 7406, 7702, 7703, 7
 
 7. Le somme iscritte ai capitoli 4532, per la parte relativa alla cooperazione allo sviluppo, e 9005 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1994, non utilizzate al termine dell'esercizio, sono conservate nel conto dei residui per essere utilizzate nell'anno 1995, anche mediante variazioni compensative nel conto dei residui passivi da adottarsi con decreti del Ministro del tesoro.
 
-8. Gli stanziamenti iscritti in bilancio in applicazione della [legge 30 settembre 1993, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-09-30;388), della [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212), della [legge 6 febbraio 1992, n. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-06;180), e della [legge 9 gennaio 1991, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;19), non utilizzati al termine dell'esercizio finanziario 1994, possono esserlo nell'esercizio 1995.
+8. Gli stanziamenti iscritti in bilancio in applicazione della [legge 30 settembre 1993, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-09-30;388), della [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212), della [legge 6 febbraio 1992, n. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-06;180) e della [legge 9 gennaio 1991, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;19), non utilizzati al termine dell'esercizio finanziario 1994, possono esserlo nell'esercizio 1995.
 
 9. Le somme iscritte in bilancio in conto competenza ed in conto residui ai sensi dell'articolo 127, comma 11, e dell'articolo 135, comma 4, del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), non impegnate entro l'anno 1994, possono esserlo nell'anno 1995.
 
@@ -97,7 +97,7 @@ Disposizioni varie
 
 1. In sede di prima applicazione, nell'anno 1994, della [legge 10 dicembre 1993, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515), e' autorizzato il rimborso all'Ente poste italiane dei maggiori oneri sostenuti per le spedizioni di cui agli articoli 17 e 20 della medesima legge. Per la predetta finalita' e' autorizzata la spesa di lire 20 miliardi al cui onere si provvede a carico dello stanziamento del capitolo 4494 dello stato di previsione del Ministero del tesoro per l'anno 1994.
 
-2. L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-20;367), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 1 gennaio 1996, relativamente alle disposizioni di cui agli articoli 3, 8, 10, 11 e 21, ed al 1 gennaio 1997, relativamente alle disposizioni di cui agli articoli 4, 5, 6, 13, 16, 17 e 18. Le rimanenti disposizioni del regolamento entrano in vigore il 1 novembre 1995.
+2. L'entrata in vigore del regolamento approvato con [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-20;367), prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 30 agosto 1995.
 
 Art. 3
 ------
@@ -109,9 +109,11 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1995
+### Dato a Roma, addi' 28 giugno 1995
 
-SCALFARO
+Il Presidente del Senato della Repubblica nell'esercizio delle
+
+funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 

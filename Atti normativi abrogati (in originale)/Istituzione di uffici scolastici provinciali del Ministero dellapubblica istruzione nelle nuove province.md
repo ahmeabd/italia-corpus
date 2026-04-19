@@ -1,32 +1,32 @@
-DECRETO-LEGGE 18 ottobre 1995 n. 428
+DECRETO-LEGGE 09 agosto 1995 n. 346
 
 
-DECRETO-LEGGE 18 ottobre 1995 n. 428
-====================================
+DECRETO-LEGGE 09 agosto 1995 n. 346
+===================================
 
 Istituzione di uffici scolastici provinciali del Ministero della 
 pubblica istruzione nelle nuove province.
 -----------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19/10/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per consentire il funzionamento degli uffici periferici del Ministero della pubblica istruzione nelle province di recente istituzione, anche al fine di attuare un piu' stretto collegamento fra amministrazioni ed istituzioni scolastiche nei rispettivi ambiti territoriali, nonche' di migliorare la qualita' del servizio del cittadino;
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per consentire il funzionamento degli uffici periferici del Ministero della pubblica istruzione nelle province di recente istituzione, anche al fine di attuare un piu' stretto collegamento fra amministrazioni ed istituzioni scolastiche nei rispettivi ambiti territoriali, nonche' di migliorare la qualita' del servizio al cittadino;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 ottobre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 agosto 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della pubblica istruzione, di concerto con i Ministri del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della pubblica istruzione, di concerto con il Ministro del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. Per le esigenze connesse all'esercizio delle funzioni attribuite agli organi periferici del Ministero della pubblica istruzione dalla vigente normativa, nelle province di Biella, Crotone, Lecco, Lodi, Prato, Rimini, Verbano-Cusio-Ossola e Vibo Valentia, sono istituiti provveditorati agli studi, ad ognuno dei quali e' preposto un dirigente amministrativo ed assegnato personale dei ruoli dell'amministrazione centrale e dell'amministrazione scolastica periferica della pubblica istruzione, nell'ambito delle disponibilita' di organico esistenti.
+1. Per le esigenze connesse all'esercizio delle funzioni attribuite agli organi periferici del Ministero della pubblica istruzione dalla vigente normativa, nelle province di Biella, Crotone, Lecco, Lodi, Prato, Rimini, Verbano-Cusio-Ossola e Vibo Valentia, sono istituiti provveditorati agli studi, ad ognuno dei quali e' preposto un dirigente amministrativo ed assegnato personale dei ruoli dell'amministrazione centrale e dell'amministrazione scolastica periferica della Pubblica istruzione, nell'ambito delle disponibilita' di organico esistenti.
 
 2. Il regolamento di cui all'articolo 6, comma 1, secondo periodo, del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), ed il decreto del Presidente del Consiglio dei Ministri di cui al comma 3 del medesimo articolo tengono conto, ai fini della determinazione delle dotazioni organiche, della istituzione degli uffici di cui al presente decreto.
 
@@ -40,12 +40,12 @@ Art. 2
 Art. 3
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1995
+### Dato a Roma, addi' 9 agosto 1995
 
 SCALFARO
 

@@ -1,26 +1,30 @@
-DECRETO-LEGGE 07 giugno 1993 n. 181
+DECRETO-LEGGE 06 agosto 1993 n. 282
 
 
-DECRETO-LEGGE 07 giugno 1993 n. 181
+DECRETO-LEGGE 06 agosto 1993 n. 282
 ===================================
 
 Disposizioni per la determinazione dei canoni relativi a concessioni demaniali marittime.
 -----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/6/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 08-08-1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Vista la [sentenza n. 1456/92 in data 12 giugno 1992 del TAR del Lazio - III sezione](https://e-justice.europa.eu/ecli/ECLI::::), pubblicata il 5 novembre 1992, che ha annullato il [decreto del Ministro della marina mercantile in data 18 ottobre 1990, pubblicato nella Gazzetta Ufficiale n. 31 del 6 febbraio 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-02-06&numeroGazzetta=31), attuativo delle disposizioni di cui al [decreto-legge 27 aprile 1990, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165);
+Vista la [sentenza n. 1456/92 in data 12 giugno 1992 del tribunale amministrativo regionale del Lazio - III sezione](https://e-justice.europa.eu/ecli/ECLI::::), pubblicata il 5 novembre 1992, che ha annullato il [decreto del Ministro della marina mercantile in data 18 ottobre 1990, pubblicato nella Gazzetta Ufficiale n. 31 del 6 febbraio 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-02-06&numeroGazzetta=31), attuativo delle disposizioni di cui al [decreto-legge 27 aprile 1990, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165);
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di canoni per le concessioni demaniali marittime;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 giugno 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 agosto 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della marina mercantile, di concerto con il Ministro delle finanze;
+Sulla proposta del Presidente del Consiglio dei Ministri e del
+
+Ministro della marina mercantile, di concerto con
+
+il Ministro delle finanze;
 
 E M A N A il seguente decreto-legge:
 
@@ -107,18 +111,18 @@ Art. 10
 Art. 11
 -------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore l'8 agosto 1993 e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1993
+### Dato a Roma, addi' 6 agosto 1993
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
 
-COSTA, Ministro della marina mercantile
+COSTA, Ministro dei trasporti
 
 GALLO, Ministro delle finanze
 

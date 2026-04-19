@@ -1,14 +1,14 @@
-DECRETO-LEGGE 01 settembre 1995 n. 367
+DECRETO-LEGGE 30 ottobre 1995 n. 452
 
 
-DECRETO-LEGGE 01 settembre 1995 n. 367
-======================================
+DECRETO-LEGGE 30 ottobre 1995 n. 452
+====================================
 
 Disposizioni urgenti per assicurare la funzionalita' delle 
 segreterie comunali e provinciali.
 ----------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-9-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2-11-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare la funzionalita' delle segreterie comunali e provinciali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 settembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dell'interno, di concerto con i Ministri del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
@@ -29,7 +29,7 @@ Art. 1
 Ammissione in carriera dei segretari comunali
 
 1. Il [primo comma dell'articolo 1 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-23;749~art1-com1), e' sostituito dal seguente:  
-"La nomina dei segretari comunali di qualifica iniziale e' effettuata mediante pubblico concorso per esami, indetto nel gennaio di ciascun anno con decreto del Ministro dell'interno, per i posti di segretario comunale di classe 4a vacanti alla data del 31 dicembre dell'anno precedente.".
+"La nomina dei segretari comunali di qualifica iniziale e' effettuata mediante pubblico concorso per esami, indetto nel gennaio di ciascun anno con decreto del Ministro dell'interno, per i posti di segretario comunale di classe 4a vacanti alla data del 31 dicembre dell'anno precedente".
 
 2. Le commissioni giudicatrici dei concorsi di cui al comma 1 sono costituite con decreto del Ministro dell'interno, ai sensi del disposto dell'[articolo 8, comma 1, lettera d), del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art8-com1-letd), e successive modificazioni ed integrazioni.
 
@@ -115,7 +115,7 @@ I posti di segretario generale di 1a classe dei comuni con popolazione superiore
 a) i segretari comunali generali di 1a classe che abbiano almeno tre anni di permanenza ininterrotta nella qualifica, con giudizi complessivi di 'ottimo';  
 b) i segretari provinciali, nonche' i vice segretari dei comuni aventi popolazione superiore a 250.000 abitanti ed i vice segretari delle province il cui capoluogo abbia una popolazione superiore a 250.000 abitanti. I segretari provinciali devono essere in possesso dei requisiti di cui alla lettera a) del presente comma. I vice segretari, per partecipare ai concorsi di cui al presente articolo, devono rivestire da almeno dodici anni tale qualifica e devono occupare nella pianta organica dell'ente il corrispondente posto, a seguito di apposito concorso. Tale personale deve svolgere servizio presso comuni o province diversi da quelli le cui segreterie sono messe a concorso e deve, inoltre, possedere i requisiti di cui all'articolo 1 del presente decreto, tranne quello dell'eta'.  
 I vice segretari per partecipare ai concorsi di cui al presente articolo non devono aver riportato nell'ultimo quinquennio valutazioni negative da parte dei competenti organi di valutazione.  
-L'[articolo 21 della legge 8 giugno 1962, n. 604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-08;604~art21), e gli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;107~art3) e [12 della legge 17 febbraio 1968, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;107~art12), sono abrogati.".
+L'[articolo 21 della legge 8 giugno 1962, n. 604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-08;604~art21), e gli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;107~art3) e [12 della legge 17 febbraio 1968, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;107~art12), sono abrogati".
 
 Art. 6
 ------
@@ -182,7 +182,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 settembre 1995
+### Dato a Roma, addi' 30 ottobre 1995
 
 SCALFARO
 
@@ -194,4 +194,4 @@ MASERA, Ministro del bilancio e della programmazione economica
 
 FRATTINI, Ministro per la funzione pubblica e gli affari regionali
 
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: DINI

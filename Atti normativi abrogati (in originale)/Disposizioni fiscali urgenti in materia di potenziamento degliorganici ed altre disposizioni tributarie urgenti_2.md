@@ -1,14 +1,14 @@
-DECRETO-LEGGE 16 gennaio 1996 n. 18
+DECRETO-LEGGE 15 marzo 1996 n. 127
 
 
-DECRETO-LEGGE 16 gennaio 1996 n. 18
-===================================
+DECRETO-LEGGE 15 marzo 1996 n. 127
+==================================
 
 Disposizioni fiscali urgenti in materia di potenziamento degli 
 organici ed altre disposizioni tributarie urgenti.
 ------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18-01-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/3/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni fiscali in materia di potenziamento degli organici ed altre disposizioni tributarie;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 gennaio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia e del Ministro delle finanze e, ad interim, del bilancio e della programmazione economica, di concerto con il Ministro per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze, di concerto con i Ministri di grazia e giustizia, del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -43,40 +43,25 @@ Concorsi speciali
 Art. 3
 ------
 
-Disposizioni in materia di personale  
-dell'Amministrazione finanziaria
-
-1. Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358~art10-com1), e' sostituito dai seguenti:  
-" 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentosedici unita', di cui quattro per il livello di funzione B, trentasei per il livello di funzione C, seicentoquattro per il livello di funzione D e millesettecentosettantadue per il livello di funzione E.  
-1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-04-26;105), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
-
-2. Ferma restando l'applicabilita' del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, nella tabella allegata alla [legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358), e successive modificazioni, sono aggiunti quattro posti di funzione di consigliere ministeriale o vice direttore generale in corrispondenza della qualifica di dirigente generale per il livello C. In corrispondenza di quest'ultima qualifica e', altresi', soppressa la voce "vice direttore generale e direttore centrale" unicamente ai tre relativi posti di funzione che sono portati in aumento a quelli di direttore centrale. Nella stessa tabella la dotazione organica della qualifica di primo dirigente del ruolo amministrativo e' ridotta a millecinquecentoventisette.
-
-3. All'articolo 4, comma, 1, [lettera a), della legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358~leta), il primo periodo e' sostituito dal seguente: "l'ufficio del coordinamento legislativo cui possono essere preposti un magistrato con la qualifica di magistrato di cassazione o equiparata, un avvocato dello Stato, o un funzionario parlamentare con non meno di nove anni di anzianita' nella carriera direttiva.".
-
-4. L'[articolo 5 della legge 29 luglio 1991, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-29;237~art5), e' abrogato.
-
-Art. 4
-------
-
 Compiti della Scuola centrale tributaria
 
 1. La Scuola centrale tributaria, oltre ai compiti indicati nell'[articolo 5 della legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358~art5), partecipa, su direttiva del Ministro delle finanze, alla elaborazione degli studi di settore previsti dall'[articolo 62-bis del decreto-legge 30 agosto 1993, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-30;331~art62bis), convertito, con modificazioni, dalla [legge 29 ottobre 1993, n. 427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-29;427). Per l'espletamento dei predetti compiti, con regolamento da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2), e' disciplinata la possibilita', nei limiti dello stanziamento di bilancio, di stipulare convenzioni, di associarsi e consorziarsi con universita', enti di ricerca ed istituti italiani ed esteri, pubblici e privati, di determinare compensi e forme di erogazione degli stessi, di effettuare pubblicazioni ed acquisti di libri di testo e di altro materiale didattico da distribuire ai partecipanti alle attivita' didattiche, di ricerca e di studio, senza obbligo di restituzione.
 
 2. All'elaborazione degli studi di settore di cui al comma 1 partecipa altresi', su direttiva del Ministro delle finanze, la Scuola di polizia tributaria della Guardia di finanza, fatti salvi i compiti previsti dalla [legge 29 ottobre 1965, n. 1218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-10-29;1218).
 
-Art. 5
+Art. 4
 ------
 
-Spese di funzionamento delle commissioni di studio per la riforma del sistema tributario
+Spese di funzionamento delle commissioni di studio  
+per la riforma del sistema tributario
 
 1. Le somme non impegnate sul capitolo 1110 dello stato di previsione del Ministero delle finanze per l'anno finanziario 1994, possono esserlo nell'anno successivo.
 
-2. Alle spese di funzionamento delle commissioni di studio per la riforma del sistema tributario, nominate dal Ministro delle finanze, valutate in complessive lire 300 milioni, si provvede mediante utilizzo delle disponibilita' in conto residui iscritte sul capitolo 1110 dello stato di previsione del Ministero delle finanze per l'anno finanziario 1995, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 3, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75~art3-com2) e [3, della legge 24 marzo 1993, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75~art3-com3). Dette disponibilita' saranno versate ad apposito capitolo dello stato di previsione dell'entrata per l'anno finanziario 1995, ai fini della loro iscrizione nello stato di previsione del Ministero delle finanze per l'anno medesimo.
+2. Alle spese di funzionamento delle commissioni di studio per la riforma del sistema tributario, nominate dal Ministro delle finanze, valutate in complessive lire 300 milioni, si provvede mediante utilizzo delle disponibilita' in conto residui iscritte sul capitolo 1110 dello stato di previsione del Ministero delle finanze per l'anno finanziario 1995, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 3, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75~art3-com2) e [3, della legge 24 marzo 1993, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75~art3-com3). Dette disponibilita' saranno versate ad apposito capitolo dello stato di previsione dell'entrata per l'anno finanziario 1995, ai fini della loro iscrizione nello stato di previsione del Ministero delle finanze.
 
 3. Il Ministro del tesoro e' autorizzato ad effettuare, con propri decreti, le occorrenti variazioni di bilancio.
 
-Art. 6
+Art. 5
 ------
 
 Disposizioni concernenti il riversamento dell'ICI  
@@ -92,45 +77,43 @@ e il versamento di altre imposte
 
 5. I concessionari della riscossione devono versare non oltre il 29 dicembre 1995 le somme di cui al comma 4, ricevute dalle aziende di credito il 27 dicembre 1995.
 
-Art. 7
+Art. 6
 ------
 
 Proroga termine scadenza cambiali agrarie
 
 1. All'[articolo 2, comma 17-bis, del decreto-legge 20 maggio 1993, n. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149~art2-com17bis), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;237), le parole: "31 dicembre 1994" sono sostituite dalle seguenti: "31 marzo 1995".
 
-Art. 8
+Art. 7
 ------
 
-Funzionamento dell'avvocatura distrettuale  
-dello Stato di Firenze
+Funzionamento dell'avvocatura distrettuale dello Stato  
+di Firenze
 
 1. Sono sospesi, dal 4 marzo 1995 fino al 2 aprile 1995, i procedimenti giudiziari nei quali sono parti soggetti patrocinati dall'avvocatura distrettuale dello Stato di Firenze. Sono altresi' sospesi, fino alla stessa data, i termini di decadenza per la proposizione di azioni o impugnazioni giudiziarie, da parte o nei confronti dei medesimi soggetti, scaduti o che scadano nel medesimo periodo.
 
-Art. 9
+Art. 8
 ------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 gennaio 1996
+### Dato a Roma, addi' 15 marzo 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-Ministri e Ministro del tesoro e,
+FANTOZZI, Ministro delle finanze
 
-ad interim, Ministro di grazia e giustizia
+CAIANIELLO, Ministro di grazia e giustizia
 
-FANTOZZI, Ministro delle finanze e,
-
-ad interim, Ministro del bilancio e della programmazione economica
+ARCELLI, Ministro del bilancio e della programmazione economica
 
 FRATTINI, Ministro per la funzione pubblica e gli affari regionali
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: CAIANIELLO

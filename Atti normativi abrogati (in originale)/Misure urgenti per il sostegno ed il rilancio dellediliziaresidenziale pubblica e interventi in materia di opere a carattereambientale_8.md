@@ -1,15 +1,15 @@
-DECRETO-LEGGE 25 marzo 1996 n. 155
+DECRETO-LEGGE 24 gennaio 1996 n. 31
 
 
-DECRETO-LEGGE 25 marzo 1996 n. 155
-==================================
+DECRETO-LEGGE 24 gennaio 1996 n. 31
+===================================
 
 Misure urgenti per il sostegno ed il rilancio dell'edilizia 
 residenziale pubblica e interventi in materia di opere a carattere 
 ambientale.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore: 25/1/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il sostegno ed il rilancio dell'edilizia residenziale pubblica, nonche' per l'attuazione di interventi di risanamento e tutela ambientale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 gennaio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con il Ministro del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con il Ministro delle finanze
+
+e, ad interim, del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -52,9 +54,9 @@ e) lire 17 miliardi per la finalita' di cui all'articolo 5.
 Accelerazione delle procedure finanziarie per i programmi  
 straordinari di edilizia residenziale pubblica
 
-1. I programmi straordinari di edilizia residenziale agevolata previsti dall'[articolo 4 del decreto-legge 23 gennaio 1982, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9~art4), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94, dall'articolo 3, comma 7-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;94~art3-com7bis), del [decreto-legge 7 febbraio 1985, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-07;12), convertito, con modificazioni, dalla [legge 5 aprile 1985, n. 118, e dall'articolo 22, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-05;118~art22-com3), della [legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), relativi all'annualita' 1989, i cui lavori non siano iniziati alla data di entrata in vigore del presente decreto per il mancato rilascio della concessione edilizia, devono pervenire alla fase di inizio dei lavori entro il 30 giugno 1996. Nel caso di mancato inizio dei lavori entro tale data, il segretariato generale del Comitato per l'edilizia residenziale (C.E.R.), nei trenta giorni successivi, trasmette alle regioni l'elenco dei programmi per i quali non e' stata rilasciata la concessione edilizia. Il presidente della giunta regionale, entro trenta giorni dal ricevimento della comunicazione, nomina un commissario ad acta, il quale provvede entro i successivi trenta giorni al rilascio della concessione medesima. I commissari ad acta, nei dieci giorni successivi alla scadenza di tale ultimo termine, trasmettono al segretariato generale del C.E.R. l'elenco dei programmi costruttivi per i quali e' stata rilasciata la concessione edilizia. Per i programmi che non hanno ottenuto il rilascio della concessione, il segretariato generale del C.E.R. procede alla revoca dei relativi finanziamenti.
+1. I programmi straordinari di edilizia residenziale agevolata previsti dall'[articolo 4 del decreto-legge 23 gennaio 1982, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9~art4), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94, dall'articolo 3, comma 7-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;94~art3-com7bis), del [decreto-legge 7 febbraio 1985, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-07;12), convertito, con modificazioni, dalla [legge 5 aprile 1985, n. 118, e dall'articolo 22, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-05;118~art22-com3), della [legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), relativi all'annualita' 1989, i cui lavori non siano iniziati alla data di entrata in vigore del presente decreto per il mancato rilascio della concessione edilizia, devono pervenire alla fase di inizio dei lavori entro il 31 marzo 1996. Nel caso di mancato inizio dei lavori entro tale data, il segretariato generale del Comitato per l'edilizia residenziale (C.E.R.), nei trenta giorni successivi, trasmette alle regioni l'elenco dei programmi per i quali non e' stata rilasciata la concessione edilizia. Il presidente della giunta regionale, entro trenta giorni dal ricevimento della comunicazione, nomina un commissario ad acta, il quale provvede entro i successivi trenta giorni al rilascio della concessione medesima. I commissari ad acta, nei dieci giorni successivi alla scadenza di tale ultimo termine, trasmettono al segretariato generale del C.E.R. l'elenco dei programmi costruttivi per i quali e' stata rilasciata la concessione edilizia. Per i programmi che non hanno ottenuto il rilascio della concessione, il segretariato generale del C.E.R. procede alla revoca dei relativi finanziamenti.
 
-2. I programmi sperimentali di edilizia residenziale sovvenzionata, previsti dall'[articolo 4 del decreto-legge 23 gennaio 1982, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9~art4), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;94), i cui lavori non siano ancora iniziati alla data di entrata in vigore del presente decreto, devono pervenire alla fase di inizio dei lavori entro il 30 giugno 1996. Nel caso di mancato inizio dei lavori entro tale data, il segretariato generale del C.E.R., previa diffida ad adempiere all'operatore affidatario del programma, procede alla revoca del finanziamento. In caso di mancato rilascio della concessione edilizia, si applica la procedura di cui al comma 1.
+2. I programmi sperimentali di edilizia residenziale sovvenzionata, previsti dall'[articolo 4 del decreto-legge 23 gennaio 1982, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9~art4), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;94), i cui lavori non siano ancora iniziati alla data di entrata in vigore del presente decreto, devono pervenire alla fase di inizio dei lavori entro il 31 marzo 1996. Nel caso di mancato inizio dei lavori entro tale data, il segretariato generale del C.E.R., previa diffida ad adempiere all'operatore affidatario del programma, procede alla revoca del finanziamento. In caso di mancato rilascio della concessione edilizia, si applica la procedura di cui al comma 1.
 
 3. Ai programmi di edilizia sovvenzionata di cui al comma 2, per i quali i lavori non siano iniziati alla data di entrata in vigore del presente decreto, ovvero, pur essendo iniziati, non siano stati completati, si applicano, in deroga alle procedure finanziarie gia' stabilite nelle convenzioni stipulate tra il segretariato generale del C.E.R. e gli operatori affidatari dei programmi suddetti, le disposizioni del [decreto del Ministro dei lavori pubblici 5 agosto 1994, pubblicato nella Gazzetta Ufficiale n. 194 del 20 agosto 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-08-20&numeroGazzetta=194).  
 Per la quota parte di lavori gia' eseguiti alla data di entrata in vigore del presente decreto, si applicano i massimali di costo di cui ai decreti ministeriali vigenti nel periodo di esecuzione dei lavori.  
@@ -62,7 +64,7 @@ Alla copertura finanziaria delle disposizioni di cui sopra si provvede con le di
 
 4. I finanziamenti per l'edilizia agevolata gia' assegnati in attuazione dei programmi straordinari previsti dall'[articolo 3, comma 7-bis, del decreto-legge 7 febbraio 1985, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-07;12~art3-com7bis), convertito, con modificazioni, dalla [legge 5 aprile 1985, n. 118, e dall'articolo 22, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-04-05;118~art22-com3), della [legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), resisi disponibili per effetto di provvedimenti di revoca, sono utilizzati per l'assegnazione definitiva di contributi che sono stati gia' deliberati ai sensi delle stesse leggi. Eventuali somme non utilizzate sono destinate alle finalita' di cui all'[articolo 2, comma primo, lettera f), della legge 5 agosto 1978, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457~art2-com1-letf), ivi compresi i fondi destinati dalla delibera CIPE 30 luglio 1991 al completamento del programma di cui al [decreto-legge 14 dicembre 1974, n. 658](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1974-12-14;658), convertito, con modificazioni, dalla [legge 15 febbraio 1975, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-02-15;7).
 
-5. Gli affidamenti degli interventi di sperimentazione nel settore dell'edilizia residenziale di cui all'[articolo 2, primo comma, lettera f), della legge 5 agosto 1978, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457~art2-com1-letf), per i quali e' stata data applicazione alle disposizioni di cui all'[articolo 8, comma 2, del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art8-com2), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), sono revocati qualora i lavori, relativi a detti interventi, non siano iniziati entro e non oltre il 30 giugno 1996.
+5. Gli affidamenti degli interventi di sperimentazione nel settore dell'edilizia residenziale di cui all'[articolo 2, primo comma, lettera f), della legge 5 agosto 1978, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457~art2-com1-letf), per i quali e' stata data applicazione alle disposizioni di cui all'[articolo 8, comma 2, del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art8-com2), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), sono revocati qualora i lavori, relativi a detti interventi, non siano iniziati entro e non oltre il 31 marzo 1996.
 
 6. Il termine del 31 dicembre 1995 di cui all'[articolo 22, comma 1, della legge 17 febbraio 1992, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179~art22-com1), e' prorogato al 31 dicembre 1996.
 
@@ -110,7 +112,7 @@ ad alta tensione abitativa
 
 ### Art. 8
 
-E s p e r t i
+Esperti
 
 1. Gli esperti di cui all'[articolo 8, primo comma, della legge 5 agosto 1978, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457~art8-com1), possono essere scelti anche tra gli iscritti all'albo previsto dall'[articolo 2 della legge 2 aprile 1968, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;507~art2).
 
@@ -119,7 +121,7 @@ E s p e r t i
 Tasso di interesse per l'alienazione degli alloggi  
 di edilizia residenziale pubblica
 
-1. Ai commi 12, lettera b), e 18 dell'[articolo 1 della legge 24 dicembre 1993, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;560~art1), le parole: "interesse pari al tasso legale," sono sostituite dalle seguenti: "interesse pari al rendimento medio lordo del campione di titoli pubblici soggetti ad imposta (Rendistato),".
+1. Ai commi 12, lettera b), e 18 dell'[articolo 1 della legge 24 dicembre 1993, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;560~art1), le parole: "interesse pari al tasso legale", sono sostituite dalle seguenti: "interesse pari al rendimento medio lordo del campione di titoli pubblici soggetti ad imposta (Rendistato),".
 
 ### Art. 10
 
@@ -144,13 +146,13 @@ Interpretazione autentica
 
 Interventi in materia di edilizia statale
 
-1. E' differita al 30 giugno 1996 l'entrata in vigore delle disposizioni degli articoli 4 e 5, limitatamente all'abrogazione delle norme della [legge 14 marzo 1968, n. 292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292), relativa agli interventi di restauro e manutenzione straordinaria di beni immobili statali, del [decreto del Presidente della Repubblica 22 aprile 1994, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-22;368).
+1. E' differita al 29 febbraio 1996 l'entrata in vigore delle disposizioni degli articoli 4 e 5, limitatamente all'abrogazione delle norme della [legge 14 marzo 1968, n. 292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-14;292), relativa agli interventi di restauro e manutenzione straordinaria di beni immobili statali, del [decreto del Presidente della Repubblica 22 aprile 1994, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-04-22;368).
 
 2. Il termine di cui all'[articolo 7, comma 3, della legge 5 marzo 1990, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-05;46~art7-com3), e' differito al 30 giugno 1998 esclusivamente per gli immobili demaniali e per gli edifici di proprieta' pubblica.
 
 3. La spesa di lire 500 milioni prevista dall'[articolo 3, comma 7, della legge 11 febbraio 1994, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109~art3-com7), e' da intendersi relativa anche agli anni 1995 e 1996. All'onere derivante dall'attuazione del presente articolo si provvede per l'anno 1995 a carico del capitolo 1159 dello stato di previsione del Ministero dei lavori pubblici e per l'anno 1996 mediante riduzione dello stanziamento iscritto al capitolo 1124 del medesimo stato di previsione per lo stesso anno 1996.
 
-4. All'[articolo 1, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-03;101~art1-com4) e [5, del decreto-legge 3 aprile 1995, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-03;101~art1-com5), convertito, con modificazioni, dalla [legge 2 giugno 1995, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-02;216), le parole: "sei mesi dalla stessa data" sono sostituite dalle seguenti: "il 30 giugno 1996".
+4. All'[articolo 1, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-03;101~art1-com4) e [5, del decreto-legge 3 aprile 1995, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-03;101~art1-com5), convertito, con modificazioni, dalla [legge 2 giugno 1995, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-02;216), le parole: "sei mesi dalla stessa data" sono sostituite dalle seguenti: "il 1 marzo 1996".
 
 ### Art. 14
 
@@ -167,14 +169,14 @@ b) espletare procedure concorsuali per l'affidamento degli incarichi di progetta
 
 3. L'approvazione dei progetti di massima ed esecutivi equivale a dichiarazione di pubblica utilita' e di urgenza ed indifferibilita' delle opere, ai sensi e per gli effetti dell'[articolo 1 della legge 3 gennaio 1978, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-03;1~art1).
 
-4. La richiesta di cui all'[articolo 7, comma 8, del decreto-legge 25 marzo 1996, n. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-03-25;154~art7-com8), in relazione alle procedure di affidamento o di esecuzione di opere di edilizia scolastica che risultino sospese secondo quanto previsto dal comma 1 del medesimo articolo, puo' essere avanzata, in caso di inerzia dell'ente locale competente, dal commissario ad acta, dal prefetto o dal provveditore agli studi.
+4. La richiesta di cui all'[articolo 7, comma 8, del decreto-legge 24 gennaio 1996, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-01-24;30~art7-com8), in relazione alle procedure di affidamento o di esecuzione di opere di edilizia scolastica che risultino sospese secondo quanto previsto dal comma 1 del medesimo articolo, puo' essere avanzata, in caso di inerzia dell'ente locale competente, dal commissario ad acta, dal prefetto o dal provveditore agli studi.
 
 5. In caso di mancata realizzazione delle opere, entro quattro anni dalla nomina del commissario ad acta, il Presidente del Consiglio dei Ministri, su proposta del Ministro della pubblica istruzione, sentita la regione interessata, previa deliberazione del Consiglio dei Ministri, puo' delegare al commissario i poteri previsti dall'[articolo 3, comma 6, della legge 8 agosto 1994, n. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-08;496~art3-com6), di conversione in legge, con modificazioni, del [decreto-legge 10 giugno 1994, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-10;370).
 
 6. Le somme derivanti dai mutui di cui all'[articolo 4, comma 1, del decreto-legge 23 giugno 1995, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244~art4-com1), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341), possono essere altresi' utilizzate, entro l'importo di 200 miliardi, per interventi di edilizia scolastica da realizzare nelle aree depresse del territorio nazionale, con requisiti di necessita' ed urgenza, di celere esecuzione o di completamento funzionale individuati con apposito programma predisposto dal Ministro della pubblica istruzione, sentite le regioni e gli enti locali interessati, e approvato dal CIPE. I pareri delle regioni e degli enti locali sono espressi entro venti giorni dalla richiesta; decorso inutilmente tale termine si intendono resi in senso favorevole.
 
 7. Allo scopo di consentire un piu' esaustivo utilizzo dei finanziamenti gia' disposti a sostegno delle iniziative in materia di edilizia scolastica, le quote dei finanziamenti autorizzati ai sensi dell'[articolo 1 della legge 23 dicembre 1991, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-23;430~art1), comunque disponibili alla data di entrata in vigore del presente decreto, possono essere riutilizzate nel termine del 30 giugno 1996, secondo le medesime modalita' indicate nella legge di riferimento; nello stesso termine, e con le medesime procedure, potra' essere disposta una diversa destinazione dei relativi mutui, ancorche' gia' concessi.  
-Il termine di cui all'[articolo 5, comma 1, del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art5-com1), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), e' differito al 30 giugno 1996.
+Il termine di cui all'[articolo 5, comma 1, del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art5-com1), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), e' differito al 30 giugno l996.
 
 8. Fermo restando quanto indicato nell'[articolo 4 della legge 8 agosto 1994, n. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-08;496~art4), i finanziamenti disposti ai sensi della [legge 23 dicembre 1991, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-23;430), possono essere revocati, con decreto del Ministro della pubblica istruzione, sentita la regione competente che dovra' formulare il proprio parere nei dieci giorni successivi, qualora, nel termine perentorio del 31 dicembre 1995, gli enti locali, beneficiari degli stessi, non abbiano ancora attivato le formali procedure di richiesta dei rispettivi mutui presso la Cassa depositi e prestiti o, comunque, ove, entro duecento giorni dalla data di entrata in vigore del presente decreto, essi non siano stati ancora concessi. Le risorse che si renderanno cosi' disponibili saranno riassegnate dal Ministro della pubblica istruzione, con proprio decreto, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, per l'attivazione di opere di edilizia scolastica caratterizzate da requisiti di necessita' ed urgenza, di celere esecuzione o di completamento funzionale, da realizzarsi in regioni anche diverse da quelle di originaria assegnazione dei fondi revocati. Una quota delle medesime risorse, non superiore a lire otto miliardi, puo' essere utilizzata dal Ministero della pubblica istruzione, per interventi di edilizia scolastica sperimentale, anche sulla base di convenzioni con istituti di ricerca od altri enti di comprovata qualificazione.
 
@@ -243,7 +245,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 marzo 1996
+### Dato a Roma, addi' 24 gennaio 1996
 
 SCALFARO
 
@@ -251,6 +253,8 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
-ARCELLI, Ministro del bilancio e della programmazione economica
+FANTOZZI, Ministro delle finanze e,
 
-Visto, il Guardasigilli: CAIANIELLO
+ad interim, Ministro del bilancio e della programmazione economica
+
+Visto, il Guardasigilli: DINI

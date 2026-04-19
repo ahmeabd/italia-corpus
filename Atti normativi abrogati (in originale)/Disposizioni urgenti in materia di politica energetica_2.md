@@ -1,13 +1,13 @@
-DECRETO-LEGGE 06 agosto 1988 n. 324
+DECRETO-LEGGE 06 ottobre 1988 n. 427
 
 
-DECRETO-LEGGE 06 agosto 1988 n. 324
-===================================
+DECRETO-LEGGE 06 ottobre 1988 n. 427
+====================================
 
 Disposizioni urgenti in materia di politica energetica.
 -------------------------------------------------------
 
-Entrata in vigore del decreto: 09/08/1988.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 08/10/1988.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,25 +20,28 @@ Viste le dichiarazioni programmatiche in materia di politica energetica rese dal
 
 Ritenuta la straordinaria necessita' ed urgenza di dare corso alla riconversione della centrale stessa da elettronucleare in policombustibile con potenza di 2500 MW, combinata con impianto di ripotenziamento mediante turbine a gas per 800 MW;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 agosto 1988;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 ottobre 1988;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'industria, del commercio e dell'artigianato, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro e dell'ambiente;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'industria, del commercio e dell'artigianato;
 
-E M A N A: il seguente decreto:
+EMANA
+-----
+
+il seguente decreto:
 
 Art. 1
 ------
 
 1. I lavori di costruzione della centrale elettronucleare dell'Alto Lazio, di cui all'[articolo 22 della legge 2 agosto 1975, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-08-02;393~art22), sono definitivamente interrotti.
 
-2. Nell'ambito dell'area gia' indicata nella deliberazione n. 4.431, in data 22 settembre 1976, della giunta regionale del Lazio per la localizzazione in via definitiva della centrale elettronucleare dell'Alto Lazio nel comune di Montalto di Castro, localita' Pian dei Gangani, e' autorizzata la costruzione da parte dell'ENEL di una centrale policombustibile con potenza di 2500 MW e di un impianto di ripotenziamento (repowering) mediante turbine a gas per ulteriori 800 MW di potenza.
+2. Nell'ambito dell'area gia' indicata nella deliberazione n. 4.431, in data 22 settembre 1976, della giunta regionale del Lazio per la localizzazione in via definitiva della centrale elettronucleare dell'Alto Lazio nel comune di Montalto di Castro, localita' Pian dei Gangani, e' autorizzata la costruzione da parte dell'ENEL di una centrale policombustibile con potenza di 2500 MW e di un impianto di ripotenziamento mediante turbine a gas per ulteriori 800 MW di potenza.
 
-3. La disposizione del comma 1 sostituisce le procedure amministrative vigenti per la localizzazione e la costruzione delle centrali termoelettriche e delle opere connesse. Sono fatte salve le autorizzazioni che saranno necessarie per l'attivazione degli impianti, ivi compresa l'autorizzazione all'esercizio, ai sensi dell'[articolo 17, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;203~art17-com2).
+3. La disposizione del comma 2 sostituisce le procedure amministrative vigenti per la localizzazione e la costruzione delle centrali termoelettriche e delle opere connesse. Sono fatte salve le autorizzazioni che saranno necessarie per l'attivazione degli impianti, ivi compresa l'autorizzazione all'esercizio, ai sensi dell'[articolo 17, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;203~art17-com2).
 
 Art. 2
 ------
 
-1. I limiti, minimi e massimi, delle emissioni della centrale policombustibile con potenza di 2.500 MW e dell'impianto di ripotenziamento (repowering) mediante turbine a gas per ulteriori 800 MW di potenza, di cui all'articolo 1, sono definiti con decreto interministeriale, da adottare ai sensi dell'[articolo 3, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;203~art3-com2).
+1. I limiti, minimi e massimi, delle emissioni della centrale policombustibile con potenza di 2500 MW e dell'impianto di ripotenziamento mediante turbine a gas per ulteriori 800 MW di potenza, di cui all'articolo 1, nonche' delle centrali site nel comune di Civitavecchia, sono definiti con decreto interministeriale, da adottare ai sensi dell'[articolo 3, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;203~art3-com2), e tenendo conto delle direttive in materia del Consiglio delle Comunita' europee e della corrispondente normativa italiana di recepimento.
 
 Art. 3
 ------
@@ -48,7 +51,7 @@ Art. 3
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 agosto 1988
+### Dato a Roma, addi' 6 ottobre 1988
 
 COSSIGA
 
@@ -56,14 +59,4 @@ DE MITA, Presidente del Consiglio dei Ministri
 
 BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
 
-FANFANI, Ministro del bilancio e della programmazione economica
-
-AMATO, Ministro del tesoro
-
-RUFFOLO, Ministro dell'ambiente
-
 Visto, il Guardasigilli: VASSALLI
-
-Registrato alla Corte dei conti, addi' 8 agosto 1988
-
-Atti di Governo, registro n. 75, foglio n. 33

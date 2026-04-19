@@ -1,13 +1,13 @@
-DECRETO-LEGGE 11 gennaio 1994 n. 17
+DECRETO-LEGGE 10 settembre 1993 n. 356
 
 
-DECRETO-LEGGE 11 gennaio 1994 n. 17
-===================================
+DECRETO-LEGGE 10 settembre 1993 n. 356
+======================================
 
 Proroga del comando del personale degli enti pubblici trasformati in societa' per azioni.
 -----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/1/1994.Decreto-Legge convertito dalla [L. 17 febbraio 1994, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;150) ([GU n. 54 del 7-3-1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-03-07&numeroGazzetta=54) ).
+Entrata in vigore del decreto: 13/9/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,7 +18,7 @@ Ritenuta la straordinaria necessita' ed urgenza di assicurare la continuita' del
 
 Visto l'[articolo 1 del decreto-legge 15 gennaio 1993, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-15;5~art1), convertito dalla [legge 17 marzo 1993, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-17;62);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 settembre 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'industria, del commercio e dell'artigianato, di concerto con i Ministri del lavoro e della previdenza sociale, dell'universita' e della ricerca scientifica e tecnologica e per la funzione pubblica;
 
@@ -27,19 +27,20 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-1. E' differito al 30 giugno 1994 il termine di sei mesi previsto dall'[articolo 1 del decreto-legge 15 gennaio 1993, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-15;5~art1), convertito dalla [legge 17 marzo 1993, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-17;62), per la proroga del comando del personale dipendente dagli enti pubblici trasformati in societa' di diritto privato ai sensi della [legge 30 luglio 1990, n. 218, e degli articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art15) e [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art18) del [decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), nonche' dalle societa' da essi controllate.
+1. Il termine di sei mesi indicato dall'[articolo 1 del decreto- legge 15 gennaio 1993, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-15;5~art1), convertito dalla [legge 17 marzo 1993, n.   
+62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-17;62), e' prorogato al 31 marzo 1994.
 
 2. Sono fatte salve le diverse disposizioni in materia dirette ad assicurare il funzionamento del Ministero dell'ambiente, di cui alla [legge 13 luglio 1993, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-13;221).
 
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 gennaio 1994
+### Dato a Roma, addi' 10 settembre 1993
 
 SCALFARO
 

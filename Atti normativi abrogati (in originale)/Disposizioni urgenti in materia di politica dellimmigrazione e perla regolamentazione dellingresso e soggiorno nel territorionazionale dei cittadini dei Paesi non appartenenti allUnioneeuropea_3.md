@@ -1,8 +1,8 @@
-DECRETO-LEGGE 19 marzo 1996 n. 132
+DECRETO-LEGGE 17 maggio 1996 n. 269
 
 
-DECRETO-LEGGE 19 marzo 1996 n. 132
-==================================
+DECRETO-LEGGE 17 maggio 1996 n. 269
+===================================
 
 Disposizioni urgenti in materia di politica dell'immigrazione e per 
 la regolamentazione dell'ingresso e soggiorno nel territorio 
@@ -10,7 +10,7 @@ nazionale dei cittadini dei Paesi non appartenenti all'Unione
 europea.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adeguare in termini piu' razionali la normativa in tema di immigrazione nel territorio dello Stato da parte di cittadini di Paesi non appartenenti all'Unione europea, al fine di rendere piu' efficace l'operativita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 maggio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri dell'interno e di grazia e giustizia, di concerto con i Ministri del lavoro e della previdenza sociale e della sanita';
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri dell'interno e di grazia e giustizia, di concerto con i Ministri degli affari esteri, del lavoro e della previdenza sociale, del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea e della sanita';
 
 E M A N A il seguente decreto-legge:
 
@@ -35,11 +35,11 @@ appartenenti all'Unione europea e di determinazione dei flussi.
 
 1. Nella programmazione annuale dei flussi di ingresso dei cittadini di Paesi non appartenenti all'Unione europea prevista dall'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono indicate anche le possibilita' di impiego per i lavoratori stagionali in considerazione delle disponibilita' accertate attraverso gli uffici provinciali del lavoro e della massima occupazione e delle previsioni annuali di fabbisogno di manodopera formulate dalle commissioni regionali per l'impiego, in collaborazione con i datori di lavoro e le organizzazioni sindacali, per i settori che si avvalgono di lavoro prevalentemente stagionale.
 
-2. In relazione a ricorrenti esigenze stagionali per ambiti territoriali e settori determinati e per le quali sia accertabile l'indisponibilita' di offerte di lavoro da parte delle imprese interessate attraverso le loro associazioni di categoria, le commissioni regionali per l'impiego (CRI) possono stipulare con le associazioni predette e le organizzazioni sindacali maggiormente rappresentative, con le regioni e gli enti locali apposite convenzioni dirette a favorire l'accesso dei lavoratori di Paesi non appartenenti all'Unione europea ai posti di lavoro individuati.
+2. In relazione a ricorrenti esigenze stagionali per ambiti territoriali e settori determinati e per le quali sia accertabile l'indisponibilita' di offerte di lavoro da parte delle imprese interessate attraverso le loro associazioni di categoria, le commissioni regionali per l'impiego possono stipulare con le associazioni predette e le organizzazioni sindacali maggiormente rappresentative, con le regioni e gli enti locali apposite convenzioni dirette a favorire l'accesso dei lavoratori di Paesi non appartenenti all'Unione europea ai posti di lavoro individuati.
 
 3. Le convenzioni di cui al comma 2 individuano il trattamento economico e normativo e le misure per assicurare idonee condizioni di lavoro della manodopera, nonche' gli eventuali incentivi diretti o indiretti, preordinati a favorire l'attivazione dei flussi e dei deflussi di manodopera e le misure complementari relative all'accoglienza dei lavoratori stranieri.
 
-4. Il Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, sentita la commissione centrale per l'impiego, puo' impartire direttive per la disciplina delle attivita' delle CRI e provvedere alla definizione di una convenzione tipo.
+4. Il Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, sentita la commissione centrale per l'impiego, puo' impartire direttive per la disciplina delle attivita' delle commissioni regionali per l'impiego e provvedere alla definizione di una convenzione tipo.
 
 5. I lavoratori avviabili sulla base delle convenzioni stipulate ai sensi del presente articolo possono essere individuati tra quelli gia' presenti legalmente sul territorio nazionale e che risultino iscritti nelle liste di collocamento o di prenotazione. Nel caso di accertata indisponibilita' di questi ultimi o di fabbisogni aggiuntivi, possono essere rilasciate autorizzazioni all'ingresso per lavoro stagionale a cittadini di Paesi non appartenenti all'Unione europea ancora residenti all'estero. Per favorire l'attuazione del presente decreto sono stipulate apposite intese bilaterali tra le corrispondenti autorita' nazionali responsabili delle politiche del mercato del lavoro, rispettivamente dei Paesi di partenza e di accoglienza. Per l'Italia, tali intese sono stipulate dal Ministro del lavoro e della previdenza sociale, di concerto con il Ministro degli affari esteri ed il Ministro dell'interno.
 
@@ -115,7 +115,8 @@ CAPO III Capo III ESPULSIONI E DISPOSIZIONI PENALI
 
 ### Art. 7
 
-Espulsione dal territorio dello Stato e norme sanzionatorie
+Espulsione dal territorio dello Stato  
+e norme sanzionatorie
 
 1. L'[articolo 7 del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' sostituito dal seguente:  
 "Art. 7 (Espulsione come misura di sicurezza). - 1. Lo straniero condannato, o nei confronti del quale e' applicata la pena su richiesta ai sensi degli [articoli 444 e seguenti del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art444), per uno dei delitti previsti dagli articoli 380 e 381 dello stesso codice, puo' essere espulso dal territorio dello Stato, sempre che risulti socialmente pericoloso.  
@@ -123,7 +124,7 @@ Espulsione dal territorio dello Stato e norme sanzionatorie
 
 2. L'[articolo 7-bis del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7bis), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' sostituito dal seguente:  
 "Art. 7-bis (Espulsione come misura di prevenzione). - 1. Gli stranieri appartenenti ad una delle categorie indicate nell'[articolo 1 della legge 27 dicembre 1956, n. 1423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423~art1), come sostituito dall'[articolo 2 della legge 3 agosto 1988, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-03;327~art2), sono segnalati dall'autorita' di pubblica sicurezza al pubblico ministero, il quale, nelle quarantotto ore successive, puo' proporre al pretore del luogo in cui la persona si trova, l'applicazione della misura di prevenzione dell'espulsione.  
-2. Il pretore provvede, in camera di consiglio, con decreto motivato, entro sette giorni dalla proposta, osservate, in quanto applicabili, le disposizioni dell'[articolo 666 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art666). Il termine per la notificazione o per la comunicazione dell'avviso dell'udienza e' ridotto a tre giorni, fermo quanto previsto dal comma 9 dell'articolo 7-sexies, per gli stranieri minori degli anni 18 provvede il tribunale per i minorenni.  
+2. Il pretore provvede, in camera di consiglio, con decreto motivato, entro sette giorni dalla proposta, osservate, in quanto applicabili, le disposizioni dell'[articolo 666 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art666). Il termine per la notificazione o per la comunicazione dell'avviso dell'udienza e' ridotto a tre giorni. Fermo quanto previsto dal comma 9 dell'articolo 7-sexies, per gli stranieri minori degli anni 18 provvede il tribunale per i minorenni.  
 3. L'espulsione e' disposta dal pretore quando sussistono concreti elementi per ritenere che lo straniero sia persona pericolosa per la sicurezza pubblica.".
 
 3. Dopo l'[articolo 7-bis del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7bis), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono inseriti i seguenti:  
@@ -273,7 +274,7 @@ Norme di coordinamento e abrogazioni
 
 Copertura finanziaria
 
-1. All'onere derivante dall'applicazione del presente decreto, valutato in lire 450 milioni per l'anno 1995, in lire 31.000 milioni per l'anno 1996 ed in lire 60.000 milioni a decorrere dall'anno 1997, si provvede, per l'anno 1995, a carico dello stanziamento iscritto al capitolo 2632 dello stato di previsione del Ministero dell'interno per il medesimo anno e, per gli anni 1996, 1997, e 1998, mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.
+1. All'onere derivante dall'applicazione del presente decreto, valutato in lire 450 milioni per l'anno 1995, in lire 31.000 milioni per l'anno 1996 ed in lire 60.000 milioni a decorrere dall'anno 1997, si provvede, per l'anno 1995, a carico dello stanziamento iscritto al capitolo 2632 dello stato di previsione del Ministero dell'interno per il medesimo anno e, per gli anni 1996, 1997 e 1998, mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -281,12 +282,12 @@ Copertura finanziaria
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 marzo 1996
+### Dato a Roma, addi' 17 maggio 1996
 
 SCALFARO
 
@@ -296,7 +297,11 @@ CORONAS, Ministro dell'interno
 
 CAIANIELLO, Ministro di grazia e giustizia
 
+AGNELLI, Ministro degli affari esteri
+
 TREU, Ministro del lavoro e della previdenza sociale
+
+ARCELLI, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
 
 GUZZANTI, Ministro della sanita'
 

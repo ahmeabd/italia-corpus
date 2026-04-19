@@ -1,15 +1,15 @@
-DECRETO-LEGGE 29 aprile 1995 n. 136
+DECRETO-LEGGE 25 febbraio 1995 n. 58
 
 
-DECRETO-LEGGE 29 aprile 1995 n. 136
-===================================
+DECRETO-LEGGE 25 febbraio 1995 n. 58
+====================================
 
 Disposizioni urgenti concernenti abolizione degli esami di 
 riparazione e di seconda sessione ed attivazione dei relativi 
 interventi di sostegno e di recupero.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/3/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,7 +18,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti abolizione degli esami di riparazione e di seconda sessione, nonche' l'attivazione dei relativi interventi di sostegno e di recupero;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1995;
+Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 24 febbraio 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della pubblica istruzione, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -39,7 +39,8 @@ b) gli esami di seconda sessione per il conseguimento del titolo di abilitazione
 
 3. Gli studenti che, al termine delle lezioni, a giudizio del consiglio di classe non possano essere valutati, per malattia o trasferimento della famiglia, sono ammessi a sostenere, entro il 30 giugno, prove suppletive che si concludono con un giudizio di ammissione o non ammissione alla classe successiva.
 
-4. Nel testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297), sono abrogati:
+4. Nel testo unico approvato con [decreto legislativo  
+16 aprile 1994, n. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-16;297), sono abrogati:
 
 a) il comma 6 dell'articolo 74;
 
@@ -74,12 +75,12 @@ Art. 4
 
 Entrata in vigore
 
-1. Le disposizioni del presente decreto hanno effetto dal 1 maggio 1995. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1995
+### Data a Roma, addi' 25 febbraio 1995
 
 SCALFARO
 

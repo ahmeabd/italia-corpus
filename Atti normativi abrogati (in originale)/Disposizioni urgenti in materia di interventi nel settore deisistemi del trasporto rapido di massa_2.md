@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 aprile 1996 n. 221
+DECRETO-LEGGE 26 febbraio 1996 n. 86
 
 
-DECRETO-LEGGE 26 aprile 1996 n. 221
-===================================
+DECRETO-LEGGE 26 febbraio 1996 n. 86
+====================================
 
 Disposizioni urgenti in materia di interventi nel settore dei 
 sistemi del trasporto rapido di massa.
 -----------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28-2-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,7 +19,7 @@ Ritenuta la straordinaria necessita' ed urgenza di definire il limite del concor
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di rideterminare il numero dei componenti della commissione di alta vigilanza di cui all'[articolo 4, comma 2, lettera d), del decreto-legge 1 aprile 1995, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98~art4-com2-letd), convertito, con modificazioni, dalla [legge 30 maggio 1995, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, del Ministro del bilancio e della programmazione economica e del Ministro dei trasporti e della navigazione;
 
@@ -43,7 +43,7 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1996
+### Dato a Roma, addi' 26 febbraio 1996
 
 SCALFARO
 

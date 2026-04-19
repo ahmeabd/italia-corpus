@@ -1,14 +1,14 @@
-DECRETO-LEGGE 19 maggio 1995 n. 180
+DECRETO-LEGGE 17 marzo 1995 n. 81
 
 
-DECRETO-LEGGE 19 maggio 1995 n. 180
-===================================
+DECRETO-LEGGE 17 marzo 1995 n. 81
+=================================
 
 Disposizioni urgenti relative allo svolgimento della missione in 
 Somalia.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20-5-1995.Decreto-Legge convertito dalla [L. 13 luglio 1995, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-13;285) (in G.U. 19/07/1995, n.167).
+Entrata in vigore del decreto: 19/3/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,11 +19,11 @@ Vista la risoluzione dell'ONU n. 954, con la quale e' stato deliberato che la mi
 
 Riconosciuta la necessita' della partecipazione dell'Italia all'operazione diretta dall'ONU per garantire il ritiro dalla Somalia dei contingenti dell'ONU, con un contingente dell'Esercito e della Marina militare;
 
-Ritenuta la straordinaria necessita' ed urgenza di disciplinare il trattamento economico ed assicurativo del personale facente parte della missione inviata in Somalia, nonche' di assicurare la copertura finanziaria degli oneri conseguenti;
+Ritenuta la straordinaria necessita' ed urgenza di disciplinare il trattamento economico ed assicurativo del personale facente parte della missione militare inviata in Somalia, nonche' di assicurare la copertura finanziaria degli oneri conseguenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 maggio 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 marzo 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri degli affari esteri e della difesa, di concerto con il Ministro di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della difesa, di concerto con i Ministri di grazia e giustizia e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -40,7 +40,7 @@ Art. 2
 Art. 3
 ------
 
-1. E' autorizzata la cessione in uso di mezzi e la cessione gratuita di materiali di consumo, supporto logistico e servizi che si rendessero necessari ai Paesi interessati alle operazioni dirette dall'ONU per il ritiro delle forze dell'ONU dalla Somalia, fatta eccezione per i sistemi d'arma.
+1. E' autorizzata la cessione in uso e la cessione gratuita di mezzi, materiali di consumo, supporto logistico e servizi che si rendessero necessari ai Paesi interessati alle operazioni dirette dall'ONU per il ritiro delle forze dell'ONU dalla Somalia, fatta eccezione per i sistemi d'arma.
 
 Art. 4
 ------
@@ -49,59 +49,28 @@ Art. 4
 
 a) quanto a lire 15.915 milioni, mediante riduzione dello stanziamento iscritto sul capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo utilizzando parte dell'accantonamento relativo al Ministero del tesoro;
 
-b) quanto a lire 64.800 milioni, per le spese di natura non obbligatoria, a carico degli stanziamenti iscritti sui sottoelencati pertinenti capitoli dello stato di previsione del Ministero della difesa per l'anno 1995:  
-Milioni  
-------  
-cpt. 1076 (assicurazioni) 1.329,439  
-cpt. 1086 (spese telefoniche) 673,578  
-cpt. 1091 (spese d'ufficio) 4,340  
-cpt. 1092 (spese generali) 549,430  
-cpt. 1105 (trasporti) 2.101,459  
-cpt. 1385 (straord. militari) 1.000,000  
-cpt. 1500 (addestramento) 2.230,000  
-cpt. 1602 (straord. civili) 100,000  
-cpt. 1802 (manutenz. armi e materiali campali TLC) 4.002,400  
-cpt. 1832 (manutenz. mezzi navali) 20.449,505  
-cpt. 1836 (manut. app. mezzi spec.) 510,000  
-cpt. 1838 (manut. armamenti navali) 550,000  
-cpt. 1841 (manut. mat. nav. di bordo) 410,000  
-cpt. 1872 (manutenzione aeromobili) 20.504,310  
-cpt. 1874 (manutenz. armi di bordo) 600,000  
-cpt. 1878 (manut. attrezzature avio) 350,000  
-cpt. 2002 (manutenz. materiali TLC) 86,790  
-cpt. 2102 (manutenzione automezzi) 1.096,369  
-cpt. 2103 (carbolubr. per aeromob.) 1.101,500  
-cpt. 2104 (carbolubr. per autotraz.) 4.060,910  
-cpt. 2501 (viveri) 1.028,120  
-cpt. 2502 (vestiario, equipaggiam.) 768,610  
-cpt. 2503 (casermaggio) 890,000  
-cpt. 2507 (igiene personale) 3,990  
-cpt. 2512 (fotoriproduzioni) 13,020  
-cpt. 2802 (lavori sul campo) 347,170  
-cpt. 3001 (spese sanitarie) 26,040  
-cpt. 3101 (mat.li ricreativi) 8,680  
-cpt. 3204 (benessere personale) 4,340
+b) quanto a lire 64.800 milioni, per le spese di natura non obbligatoria, a carico degli stanziamenti iscritti sui pertinenti capitoli dello stato di previsione del Ministero della difesa per l'anno 1995.
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 5
 ------
 
-1. Le disposizioni del presente decreto hanno effetto dal 18 maggio 1995. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1995
+### Dato a Roma, addi' 17 marzo 1995
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-AGNELLI, Ministro degli affari esteri
-
 CORCIONE, Ministro della difesa
 
 MANCUSO, Ministro di grazia e giustizia
+
+MASERA, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: MANCUSO

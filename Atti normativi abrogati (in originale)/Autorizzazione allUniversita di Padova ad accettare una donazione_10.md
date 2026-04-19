@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 16 febbraio 1947 n. 259
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1765
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 16 febbraio 1947 n. 259
-================================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1765
+=================================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-259. Decreto del Capo provvisorio dello Stato 16 febbraio 1947, col quale, sulla proposta dei Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 20.000 nominali, disposta in suo favore dalla signorina Mirella Tamassia, con atto pubblico in data 9 aprile 1946, perche' con il reddito annuo della somma cosi' donata in aggiunta alla somma di L. 5000 nominali donata in precedenza, con atto pubblico 20 dicembre 1932, sia costituito un nuovo premio di studio da sostituirsi al precedente, da intitolarsi ai nomi dei professori Arrigo e Nino Tamassia e da assegnarsi, ogni anno, alternativamente, a quel laureato in giurisprudenza o a quel laureato in medicina e chirurgia che abbia presentato la migliore tesi di storia del diritto italiano o di medicina legale.  
+1765. Decreto del Capo provvisorio dello Stato 31 dicembre 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 50.000, disposta in suo favore dai signori Ettore Munaron e prof. dott. Piero Perna, in proprio e in rappresentanza di altri offerenti, con alto pubblico in data 20 maggio 1946, per la istituzione di una borsa di studio biennale, da intitolarsi al nome del "Tenente Gianni Munaron" e da conferirsi ad uno studente dell'Universita' di Padova iscritto al biennio propedeutico d'ingegneria, il quale si distingua, per condotta, disciplina e profitto e appartenga a famiglia di disagiate condizioni economiche.  
   
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 15 aprile 1947
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 18 marzo 1948

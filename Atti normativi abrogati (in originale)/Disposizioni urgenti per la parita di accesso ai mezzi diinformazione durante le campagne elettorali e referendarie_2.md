@@ -1,14 +1,14 @@
-DECRETO-LEGGE 18 novembre 1995 n. 488
+DECRETO-LEGGE 19 maggio 1995 n. 182
 
 
-DECRETO-LEGGE 18 novembre 1995 n. 488
-=====================================
+DECRETO-LEGGE 19 maggio 1995 n. 182
+===================================
 
 Disposizioni urgenti per la parita' di accesso ai mezzi di 
 informazione durante le campagne elettorali e referendarie.
 -----------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21-5-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -21,9 +21,11 @@ informazione durante le imminenti campagne elettorali e referendarie;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella
 
-riunione del 16 novembre 1995;
+riunione del 18 maggio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia e del Ministro delle poste e delle telecomunicazioni;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro di grazia
+
+e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -69,7 +71,8 @@ Pubblicita' elettorale
 
 5. Le trasmissioni di pubblicita' elettorale non sono computate nel calcolo dei limiti di affollamento pubblicitario previsti dalla legge.
 
-6. A partire dal trentesimo giorno precedente la data delle elezioni e' vietata ogni forma di pubblicita' elettorale, anche se avente il contenuto di cui al comma 1 ed anche se relativa a successive consultazioni elettorali indette. In tale ultimo caso, il divieto puo' essere derogato, tenuto conto del numero degli elettori interessati e della rilevanza territoriale delle elezioni, con provvedimento del Garante. La presente disposizione non si applica alle consultazioni referendarie, per le quali e' ammessa la pubblicita' elettorale fino a tutto il penultimo giorno prima della data della consultazione referendaria.
+6. A partire dal trentesimo giorno precedente la data delle elezioni e' vietata ogni forma di pubblicita' elettorale, anche se avente il contenuto di cui al comma 1 ed anche se  
+relativa a successive consultazioni elettorali indette. In tale ultimo caso, il divieto puo' essere derogato, tenuto conto del numero degli elettori interessati e della rilevanza territoriale delle elezioni, con provvedimento del Garante. La presente disposizione non si applica alle consultazioni referendarie, per le quali e' ammessa la pubblicita' elettorale fino a tutto il penultimo giorno prima della data della consultazione referendaria.
 
 Art. 4
 ------
@@ -97,7 +100,7 @@ Altre forme di propaganda elettorale
 1. Dalla data di convocazione dei comizi elettorali e fino alla chiusura delle operazioni di voto, e' vietata ogni forma di propaganda elettorale nei programmi della concessionaria pubblica e delle emittenti private diversi da quelli previsti dall'articolo 2.  
 E' vietato ai registi, ai conduttori ed agli ospiti dei programmi di fornire, nel contesto di questi, anche in forma indiretta, indicazioni di voto o di manifestare le proprie preferenze di voto. I registi ed i conduttori sono altresi' tenuti ad un comportamento corretto ed imparziale nella gestione del programma, cosi' da non esercitare, anche in forma surrettizia, influenza sulle libere scelte degli elettori. E' comunque vietato utilizzare la composizione della programmazione per orientare le scelte di voto.
 
-2. Per il periodo di cui al comma 1, le trasmissioni di intrattenimento su argomenti economici, sociali e politici, organizzate con la presenza di soggetti politici, ospiti ed eventuale pubblico, sono programmate e condotte nel rispetto dei principi di correttezza ed imparzialita' di cui al presente decreto. E' vietato che l'articolazione delle trasmissioni sia di per se' stessa lesiva della parita' di trattamento dei soggetti politici. Le trasmissioni predette sono ammesse negli ultimi cinque giorni della campagna elettorale soltanto a condizione che ad esse siano invitati, a condizioni paritarie, i rappresentanti della totalita' dei soggetti politici interessati.
+2. Per il periodo di cui al comma 1, le trasmissioni di intrattenimento su argomenti economici, sociali e politici, organizzate con la presenza di soggetti politici, ospiti ed eventuale pubblico, sono programmate e condotte nel rispetto dei principi di correttezza ed imparzialita' di cui al presente decreto. E' vietato che l'articolazione delle trasmissioni sia di per se stessa lesiva della parita' di trattamento dei soggetti politici. Le trasmissioni predette sono ammesse negli ultimi cinque giorni della campagna elettorale, soltanto a condizione che ad esse siano invitati, a condizioni paritarie, i rappresentanti della totalita' dei soggetti politici interessati.
 
 3. Nelle trasmissioni di cui al comma 2, la selezione degli eventuali ospiti avviene nel rispetto del principio pluralistico ed e' finalizzata a conseguire una presenza equilibrata delle diverse posizioni dibattute. La selezione del pubblico, ove previsto, e' fatta, con i medesimi criteri, almeno ventiquattro ore prima della trasmissione. Durante la trasmissione il conduttore cura che il pubblico mantenga un contegno congruente con i principi del presente decreto e che eventuali interventi telefonici in diretta e non concordati con la concessionaria pubblica o con l'emittente privata non influenzino le libere scelte degli elettori.
 
@@ -147,7 +150,7 @@ Art. 9
 Doveri e responsabilita' dei giornalisti conduttori,  
 dei registi e dei direttori responsabili
 
-1. I giornalisti conduttori ed i registi dei programmi radiotelevisivi di propaganda ed informazione elettorale, ed i rispettivi direttori responsabili, nonche' i giornalisti autori della propaganda elettorale ed i direttori responsabili del quotidiano o periodico sul quale e' apparsa la propaganda elettorale, sono tenuti al rispetto del codice deontologico emanato dall'Ordine dei giorna listi. Quest'ultimo puo' istituire un apposito organo competente per l'accertamento delle violazioni al predetto codice deontologico. I magistrati eventualmente presenti in tale organo devono rivestire qualifica non inferiore a magistrato di Corte di cassazione, anche a riposo, o equiparata, e, se in servizio, devono essere autorizzati dal Consiglio superiore della magistratura o dagli altri organi competenti.
+1. I giornalisti conduttori ed i registi dei programmi radiotelevisivi di propaganda ed informazione elettorale, ed i rispettivi direttori responsabili, nonche' i giornalisti autori della propaganda elettorale ed i direttori responsabili del quotidiano o periodico sul quale e' apparsa la propaganda elettorale, sono tenuti al rispetto del codice deontologico emanato dall'Ordine dei giornalisti. Quest'ultimo puo' istituire un apposito organo competente per l'accertamento delle violazioni al predetto codice deontologico. I magistrati eventualmente presenti in tale organo devono rivestire qualifica non inferiore a magistrato di Corte di cassazione, anche a riposo, o equiparata, e, se in servizio, devono essere autorizzati dal Consiglio superiore della magistratura o dagli altri organi competenti.
 
 2. I conduttori ed i registi dei programmi radiotelevisivi di propaganda ed informazione elettorale, che non appartengano all'Ordine dei giornalisti, sono tenuti ad osservare lo stesso codice.
 
@@ -233,7 +236,7 @@ S a n z i o n i
 
 3. Nei casi piu' gravi di alterazione della parita' di trattamento tra soggetti politici, ovvero nel caso di violazione reiterata nel corso della medesima campagna elettorale, il Garante dispone l'inibizione della programmazione della concessionaria pubblica o dell'emittente privata, determinandone i tempi e le modalita', da un minimo di un'ora fino ad un massimo di quindici giorni, con l'obbligo di mantenere in video, per il tempo a tal fine determinato, un'immagine fissa con la dicitura "la trasmissione della presente emittente e' inibita dal Garante per violazione delle disposizioni sulla parita' di trattamento durante la campagna elettorale".
 
-4. In caso di violazione delle norme di cui all'articolo 8 commessa fino all'apertura dei seggi elettorali, il Garante applica la sanzione amministrativa pecuniaria da lire cento milioni a lire un miliardo. Qualora la violazione delle medesime norme sia commessa durante lo svolgimento delle votazioni si applica la pena detentiva prevista dall'articolo 100, comma primo, del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361), per le turbative elettorali; il giudice, con la sentenza di condanna, applica inoltre le sanzioni amministrative pecuniarie. In caso di mancanza totale o parziale delle indicazioni di cui al comma 2 dello stesso articolo 8, il Garante applica la sanzione pecuniaria da lire venti milioni a lire duecento milioni.
+4. In caso di violazione delle norme di cui all'articolo 8 commessa fino all'apertura dei seggi elettorali, il Garante applica la sanzione amministrativa pecuniaria da lire cento milioni a lire un miliardo. Qualora la violazione delle medesime norme sia commessa durante lo svolgimento delle votazioni si applica la pena detentiva prevista dall'articolo 100, comma 1, del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, approvato con [decreto del Presidente della Repubblica 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361), per le turbative elettorali; il giudice, con la sentenza di condanna, applica inoltre le sanzioni amministrative pecuniarie. In caso di mancanza totale o parziale delle indicazioni di cui al comma 2 dello stesso articolo 8, il Garante applica la sanzione pecuniaria da lire venti milioni a lire duecento milioni.
 
 5. Le medesime sanzioni amministrative pecuniarie sono irrogate anche nei confronti dei soggetti politici a favore dei quali sono state commesse le violazioni, qualora ne sia stata accertata la corresponsabilita'.
 
@@ -276,9 +279,9 @@ Norme organizzative
 
 3. L'assunzione del personale predetto avviene per pubblici concorsi per titoli ed esami, ad eccezione delle categorie per le quali sono previste assunzioni dirette in base alla normativa vigente.
 
-4. In sede di prima attuazione, si provvede alla copertura dei posti in organico, nel limite del 50 per cento del ruolo, mediante inquadramento, a domanda, con effetto economico non anteriore al 1 ottobre 1995, del personale comunque in servizio da almeno sei mesi presso l'Ufficio del Garante alla data di cui al comma 2, nel limite e con i criteri e le modalita' valutativi stabiliti dal decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, di cui allo stesso comma 2. In base ai provvedimenti di inquadramento del Garante, le amministrazioni di provenienza del personale inquadrato provvedono alle contestuali riduzioni di posti nelle proprie tabelle organiche.
+4. In sede di prima attuazione, si provvede alla copertura dei posti in organico, nel limite del 50% del ruolo, mediante inquadramento, a domanda, con effetto economico non anteriore al 1 ottobre 1995, del personale comunque in servizio da almeno sei mesi presso l'Ufficio del Garante alla data di cui al comma 2, nel limite e con i criteri e le modalita' valutativi stabiliti dal decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, di cui allo stesso comma 2. In base ai provvedimenti di inquadramento del Garante, le amministrazioni di provenienza del personale inquadrato provvedono alle contestuali riduzioni di posti nelle proprie tabelle organiche.
 
-5. Il Garante puo' avvalersi, per periodi limitati e per motivate esigenze, di dipendenti dello Stato e di altre amministrazioni pubbliche o di enti pubblici collocati fuori ruolo nelle forme previste dai rispettivi ordinamenti, ovvero in aspettativa ai sensi dell'[articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art13), in numero non superiore, complessivamente, a dieci unita' e per non oltre il 25 per cento delle qualifiche dirigenziali, lasciando non coperto un corrispondente numero di posti di ruolo. Al personale di cui al presente comma e' corrisposta l'indennita' prevista dall'[articolo 41 del decreto del Presidente della Repubblica 10 luglio 1991, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1991-07-10;231~art41).
+5. Il Garante puo' avvalersi, per periodi limitati e per motivate esigenze, di dipendenti dello Stato e di altre amministrazioni pubbliche o di enti pubblici collocati fuori ruolo nelle forme previste dai rispettivi ordinamenti, ovvero in aspettativa ai sensi dell'[articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art13), in numero non superiore, complessivamente, a dieci unita' e per non oltre il 25% delle qualifiche dirigenziali, lasciando non coperto un corrispondente numero di posti di ruolo. Al personale di cui al presente comma e' corrisposta l'indennita' prevista dall'[articolo 41 del decreto del Presidente della Repubblica 10 luglio 1991, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1991-07-10;231~art41).
 
 6. Sino alla copertura dei posti di ruolo disponibili dopo le operazioni di inquadramento, e comunque, salvo quanto previsto al comma 7, per non oltre tre anni dalla data del decreto del Presidente del Consiglio dei Ministri di cui al comma 2, il Garante puo' continuare ad avvalersi del personale di cui all'[articolo 6 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art6), anche oltre il limite numerico di dieci unita'.
 
@@ -295,8 +298,7 @@ Norme organizzative
 Art. 18
 -------
 
-Organi ufficiali di partiti, comitati  
-e movimenti politici
+Organi ufficiali di partiti, comitati e movimenti politici
 
 1. Le disposizioni di cui agli articoli 2 e 3, commi 1 e 6, ed agli articoli 4, 5, 6, 7, 9 e 10 del presente decreto non si applicano agli organi ufficiali di stampa e radiofonici di partiti, comitati e movimenti politici ed alle stampe elettorali dei soggetti politici.
 
@@ -354,16 +356,14 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 novembre 1995
+### Dato a Roma, addi' 19 maggio 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
-
-Ministri e Ministro del tesoro e,
-
-ad interim, Ministro di grazia e giustizia
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 GAMBINO, Ministro delle poste e delle telecomunicazioni
 
-Visto, il Guardasigilli: DINI
+MANCUSO, Ministro di grazia e giustizia
+
+Visto, il Guardasigilli: MANCUSO

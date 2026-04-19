@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 gennaio 1994 n. 74
+DECRETO-LEGGE 30 maggio 1994 n. 323
 
 
-DECRETO-LEGGE 29 gennaio 1994 n. 74
+DECRETO-LEGGE 30 maggio 1994 n. 323
 ===================================
 
 Disposizioni urgenti per la campagna lattiero-casearia 1994-1995.
 -----------------------------------------------------------------
 
-Entrata in vigore del decreto: 31-1-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1-6-1994.Decreto-Legge convertito dalla [L. 25 luglio 1994, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-25;470) (in G.U. 29/07/1994, n.176).
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per la campagna lattiero-casearia 1994-1995;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 maggio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle risorse agricole, alimentari e forestali;
 
@@ -25,9 +25,14 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-1. Il termine del 31 gennaio 1994 previsto dall'[articolo 4, comma 2, della legge 26 novembre 1992, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468~art4-com2), e' prorogato, limitatamente alla pubblicazione del bollettino valevole per la campagna lattiero- casearia 1994-1995, al 31 marzo 1994.
+1. Il termine del 31 gennaio 1994 previsto dall'[articolo 4, comma 2, della legge 26 novembre 1992, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468~art4-com2), resta differito, limitatamente alla pubblicazione del bollettino valevole per la campagna lattiero-casearia 1994-1995, al 30 aprile 1994.
 
 Art. 2
+------
+
+1. L'[articolo 2, comma 4, della legge 26 novembre 1992, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468~art2-com4), si interpreta nel senso che, limitatamente alla assegnazione del quantitativo di riferimento per la campagna lattiero-casearia 1993-1994, non si verifica la perdita della quota ove il produttore abbia commercializzato, ceduto anche temporaneamente o utilizzato mediante contratti associativi la quota stessa nel periodo di osservazione compreso tra il 1 dicembre 1992 ed il 30 novembre 1993, ovvero, in caso di forza maggiore o impossibilita' sopravvenuta, tra il 1 dicembre 1991 ed il 30 novembre 1993.
+
+Art. 3
 ------
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -35,14 +40,14 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 gennaio 1994
+### Dato a Roma, addi' 30 maggio 1994
 
 SCALFARO
 
-CIAMPI, Presidente del Consiglio dei Ministri
+BERLUSCONI, Presidente del Consiglio dei Ministri
 
-DIANA, Ministro delle risorse
+POLI BORTONE, Ministro delle
 
-agricole, alimentari e forestali
+risorse agricole, alimentari e forestali
 
-Visto, il Guardasigilli: CONSO
+Visto, il Guardasigilli: BIONDI

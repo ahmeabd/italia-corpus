@@ -1,13 +1,13 @@
-DECRETO-LEGGE 02 dicembre 1993 n. 488
+DECRETO-LEGGE 29 gennaio 1994 n. 76
 
 
-DECRETO-LEGGE 02 dicembre 1993 n. 488
-=====================================
+DECRETO-LEGGE 29 gennaio 1994 n. 76
+===================================
 
 Attuazione dell'embargo deliberato dal Consiglio di sicurezza delle Nazioni Unite nei confronti della Libia.
 ------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-12-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,7 +20,7 @@ Visti i regolamenti n. 3274 e n. 3275 approvati in data 29 novembre 1993 dal Con
 
 Ritenuta la straordinaria necessita' ed urgenza di dare esecuzione da parte italiana ai predetti atti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 dicembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 gennaio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro degli affari esteri, di concerto con i Ministri di grazia e giustizia, delle finanze, del tesoro, dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
 
@@ -79,7 +79,7 @@ Art. 5
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 dicembre 1993
+### Dato a Roma, addi' 29 gennaio 1994
 
 SCALFARO
 

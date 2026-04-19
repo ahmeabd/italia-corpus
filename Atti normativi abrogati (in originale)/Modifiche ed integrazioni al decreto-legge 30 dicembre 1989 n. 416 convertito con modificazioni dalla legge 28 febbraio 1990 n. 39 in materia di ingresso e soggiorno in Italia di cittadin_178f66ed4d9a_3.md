@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 aprile 1992 n. 272
+DECRETO-LEGGE 01 luglio 1992 n. 323
 
 
-DECRETO-LEGGE 30 aprile 1992 n. 272
+DECRETO-LEGGE 01 luglio 1992 n. 323
 ===================================
 
 Modifiche ed integrazioni al decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, in materia di ingresso e soggiorno in Italia di cittadini extracomunitari.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3/5/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2/7/1992.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di apportare modifiche ed integrazioni al [decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), in materia di ingresso e soggiorno in Italia di cittadini extracomunitari;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1992;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 giugno 1992;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri per gli italiani all'estero e l'immigrazione, di grazia e giustizia e dell'interno, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri di grazia e giustizia e dell'interno, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -77,25 +77,23 @@ Art. 6
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 aprile 1992
+### Dato a Roma, addi' 1 luglio 1992
 
-Il Presidente supplente della Repubblica SPADOLINI
+SCALFARO
 
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-BONIVER, Ministro per gli italiani all'estero e l'immigrazione
+AMATO, Presidente del Consiglio dei Ministri
 
 MARTELLI, Ministro di grazia e giustizia
 
-SCOTTI, Ministro dell'interno
+MANCINO, Ministro dell'interno
 
-CARLI, Ministro del tesoro
+BARUCCI, Ministro del tesoro
 
-CIRINO POMICINO, Ministro del bilancio e della programmazione economica
+REVIGLIO, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: MARTELLI

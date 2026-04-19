@@ -1,15 +1,15 @@
-DECRETO-LEGGE 07 luglio 1995 n. 272
+DECRETO-LEGGE 08 novembre 1995 n. 462
 
 
-DECRETO-LEGGE 07 luglio 1995 n. 272
-===================================
+DECRETO-LEGGE 08 novembre 1995 n. 462
+=====================================
 
 Disciplina operativa concernente partecipazioni e proventi del 
 Tesoro, nonche' norme sugli organismi e sulle procedure attinenti ai 
 mercati, alla Tesoreria e all'EAGAT.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10/7/95.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/11/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti la disciplina operativa delle partecipazioni e dei proventi del Tesoro, nonche' in ordine agli organismi ed alle procedure attinenti ai mercati, alla Tesoreria e all'EAGAT;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 luglio 1995;
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni concernenti il proseguimento della gestione finanziaria dell'ANAS;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con il Ministro delle finanze;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 novembre 1995;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con i Ministri delle finanze, dei lavori pubblici e dell'ambiente e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -30,7 +32,7 @@ Art. 1
 Fondo per l'ammortamento dei titoli di Stato
 
 1. Il [comma 1 dell'articolo 2 della legge 27 ottobre 1993, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432~art2-com1), e' sostituito dal seguente:  
-" 1. E' istituito presso la Banca d'Italia un conto denominato 'Fondo per l'ammortamento dei titoli di Stato', di seguito denominato 'Fondo'. Esso ha lo scopo di ridurre, secondo le modalita' previste dalla presente legge, la consistenza dei titoli di Stato in circolazione".
+" 1. E' istituito presso la Banca d'Italia un conto denominato 'Fondo per l'ammortamento dei titoli di Stato', di seguito denominato 'Fondo'. Esso ha lo scopo di ridurre, secondo le modalita' previste dalla presente legge, la consistenza dei titoli di Stato in circolazione.".
 
 2. Al [comma 2 dell'articolo 2 della legge 27 ottobre 1993, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432~art2-com2), l'alinea e' sostituito dal seguente:  
 " 2. L'amministrazione del Fondo di cui al comma 1 e' attribuita al Ministro del tesoro, coadiuvato da un Comitato consultivo composto:".
@@ -44,6 +46,7 @@ Fondo per l'ammortamento dei titoli di Stato
 5. L'[articolo 4 della legge 27 ottobre 1993, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432~art4), e' sostituito dal seguente:  
 "Art. 4 (Criteri e modalita' per l'acquisto dei titoli di Stato). - 1. I conferimenti di cui all'articolo 3 sono impiegati dal Fondo nell'acquisto dei titoli di Stato o nel rimborso dei titoli che vengono a scadere a decorrere dal 1 gennaio 1995.  
 2. Le operazioni di acquisto di cui al comma 1 sono effettuate per il tramite della Banca d'Italia o di altri intermediari abilitati.  
+Dette operazioni sono esenti dalla tassa di cui all'[articolo 1 del regio decreto 30 dicembre 1923, n. 3278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3278~art1), e successive modificazioni.  
 3. Sulle giacenze del Fondo la Banca d'Italia corrisponde semestralmente un tasso di interesse pari a quello medio dei buoni ordinari del Tesoro emessi nel semestre precedente.  
 4. Al Fondo si applicano le disposizioni di cui all'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483~art4-com5).".
 
@@ -69,7 +72,7 @@ Art. 4
 Impignorabilita' del conto di contabilita' speciale di cui  
 al decreto del Presidente della Repubblica 12 febbraio 1991, n. 69.
 
-1. Alla contabilita' speciale di cui all'articolo 30 del regolamento per la fabbricazione e l'emissione dei biglietti di banca, approvato con [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-09;811), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 12 febbraio 1991, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1991-02-12;69~art1), si applicano le disposizioni previste dall'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483~art4-com5).
+1. Alla contabilita' speciale, di cui all'articolo 30 del regolamento per la fabbricazione e l'emissione dei biglietti di banca, approvato con [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-09;811), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 12 febbraio 1991, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1991-02-12;69~art1), si applicano le disposizioni previste dall'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483~art4-com5).
 
 Art. 5
 ------
@@ -135,7 +138,7 @@ Art. 10
 -------
 
 Modalita' di finanziamento delle imprese  
-operanti nel settore della difesa
+operanti nel settore della Difesa
 
 1. Il [comma 5 dell'articolo 2 del decreto-legge 23 settembre 1994, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-23;547~art2-com5), convertito, con modificazioni, dalla [legge 22 novembre 1994, n. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644), e' sostituito dal seguente:  
 " 5. Per le finalita' di cui al comma 3, il Ministro del tesoro concede contributi in conto capitale in misura pari al 20 per cento del fabbisogno indicato nel programma degli investimenti e comunque nel limite delle risorse disponibili sulla base del presente comma.  
@@ -189,6 +192,16 @@ Ente "Colombo '92" in liquidazione
 Art. 16
 -------
 
+Disposizioni per assicurare il funzionamento dell'ANAS
+
+1. Con effetto dal 1 gennaio 1995 e fino all'entrata in vigore dei regolamenti di organizzazione, di amministrazione e di contabilita' di cui all'[articolo 6, comma 2, del decreto legislativo 26 febbraio 1994, n. 143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143~art6-com2), continuano ad applicarsi all'ANAS le disposizioni contabili gia' vigenti per l'Azienda nazionale autonoma per le strade statali. I regolamenti dovranno essere emanati entro il 1 marzo 1996.  
+Per lo stesso periodo restano ferme le competenze gia' rispettivamente esercitate nei confronti della medesima Azienda dal Sistema informativo Ragioneria generale dello Stato, dai servizi periferici del Ministero del tesoro e dal Servizio di tesoreria della Banca d'Italia. Il controllo della Corte dei conti viene svolto con le modalita' di cui all'[articolo 9, comma 3, del decreto legislativo 26 febbraio 1994, n. 143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143~art9-com3).
+
+2. Il personale dei ruoli della Ragioneria generale dello Stato, in servizio, alla data di trasformazione dell'Azienda nazionale autonoma per le strade statali, presso la Direzione centrale di ragioneria, di cui all'[articolo 48 della legge 7 febbraio 1961, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59~art48), ha diritto di essere trasferito, a domanda, da presentarsi entro il 31 dicembre 1995, nei ruoli dell'ANAS, conservando ai sensi del [comma 8 dell'articolo 11 del decreto legislativo 26 febbraio 1994, n. 143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143~art11-com8), il trattamento giuridico ed economico in possesso alla data di presentazione della domanda stessa. Il trasferimento ha effetto dal 1 marzo 1996.
+
+Art. 17
+-------
+
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -196,7 +209,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 luglio 1995
+### Dato a Roma, addi' 8 novembre 1995
 
 SCALFARO
 
@@ -204,4 +217,8 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 FANTOZZI, Ministro delle finanze
 
-Visto, il Guardasigilli: MANCUSO
+BARATTA, Ministro dei lavori pubblici e dell'ambiente
+
+FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+
+Visto, il Guardasigilli: DINI

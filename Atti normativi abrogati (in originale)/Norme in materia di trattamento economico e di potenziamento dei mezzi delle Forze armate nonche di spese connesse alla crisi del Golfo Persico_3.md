@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 marzo 1992 n. 243
+DECRETO-LEGGE 26 maggio 1992 n. 297
 
 
-DECRETO-LEGGE 26 marzo 1992 n. 243
-==================================
+DECRETO-LEGGE 26 maggio 1992 n. 297
+===================================
 
 Norme in materia di trattamento economico e di potenziamento dei mezzi delle Forze armate, nonche' di spese connesse alla crisi del Golfo Persico.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/03/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-5-1992.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Ritenuta la straordinaria necessita' ed urgenza di adeguare i livelli retributiv
 
 Considerata la sopravvenuta impossibilita' di approvare, nel testo emendato dalla commissione difesa della Camera dei deputati, il disegno di legge n. 5259, concernente ulteriori provvedimenti per il personale in missione nel Golfo Persico, e che l'autorizzazione di spesa ivi prevista ha assunto carattere di straordinaria necessita' ed urgenza;
 
-Ritenuta altresi' la straordinaria necessita' ed urgenza di integrare, in relazione alle esigenze di controllo e vigilanza dei bacini di crisi del Mediterraneo e limitrofi, la dotazione di naviglio della Marina militare, sollevando nel contempo l'industria nazionale dagli oneri connessi alle giacenze di mezzi e materiali d'armamento determinatesi a seguito delle restrizioni indotte dalla crisi del Golfo Persico;
+Ritenuta altresi' la straordinaria necessita' ed urgenza di integrare, in relazione alle esigenze di controllo e vigilanza dei bacini di crisi del Mediterraneo e limitrofi, la dotazione di naviglio della Marina militare, sollevando nel contempo l'industria nazionale dagli oneri connessi alle giacenze di mezzi e materiali di armamento determinatesi a seguito delle restrizioni indotte dalla crisi del Golfo Persico;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 marzo 1992;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 maggio 1992;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
 
@@ -29,20 +29,22 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-1. Al personale appartenente ai ruoli dei sottufficiali delle Forze   
-armate e' attribuito con la medesima   
-decorrenza prevista per il personale delle Forze di polizia dall'[articolo 3 del decreto-legge 7 gennaio 1992, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5~art3), il trattamento economico corrispondente ai seguenti livelli retributivi:   
-Sergente .. .. .. .. .. .. .. .. .. .. .. .. .. .. ... V   
-Sergente con + 4 anni di servizio .. .. .. .. .. .. ... VI   
-Sergente maggiore - 2 Capo .. .. .. .. .. .. .. .. ... VI   
-Maresciallo ordinario - Capo 3a classe .. .. .. .. ... VI   
-Maresciallo 3a classe .. .. .. .. .. .. .. .. .. .. ... VI   
-Maresciallo capo - Capo 2a classe .. .. .. .. .. .. ... VI-bis Maresciallo 2a classe .. .. .. .. .. .. .. .. .. .. ... VI-bis   
-Maresciallo maggiore - Capo 1a classe .. .. .. .. .. .. VII   
-Maresciallo 1a classe .. .. .. .. .. .. .. .. .. .. ... VII   
-Maresciallo maggiore " A" .. .. .. .. .. .. .. .. .. .. VII   
-Capo 1a classe "scelto" .. .. .. .. .. .. .. .. .. .... VII   
-Maresciallo 1a classe "scelto" .. .. .. .. .. .. .. .. VII
+1. Al personale appartenente ai ruoli dei sottufficiali delle Forze armate e' attribuito, con decorrenza 1' gennaio 1992, il trattamento economico corrispondente ai seguenti livelli retributivi:   
+Sergente V   
+Sergente con + 4 anni di servizio VI   
+Sergente maggiore - 2' Capo VI   
+Maresciallo ordinario - Capo 3a classe   
+VI   
+Maresciallo 3a classe   
+Maresciallo capo - Capo 2a classe   
+VI-bis   
+Maresciallo 2a classe   
+Maresciallo maggiore - Capo 1a classe   
+VII   
+Maresciallo 1a classe   
+Maresciallo maggiore " A"   
+Capo 1a classe "scelto" VII   
+Maresciallo 1a classe "scelto"
 
 Art. 2
 ------
@@ -70,16 +72,14 @@ Art. 4
 Art. 5
 ------
 
-1. Le disposizioni del presente decreto abrogano quelle del [decreto-legge 31 gennaio 1992, n. 45](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-31;45).
-
-2. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+2. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 26 marzo 1992
+### Dato a Roma, addi' 26 maggio 1992
 
-COSSIGA
+Il Presidente supplente della Repubblica SPADOLINI
 
 ANDREOTTI, Presidente del Consiglio dei Ministri
 

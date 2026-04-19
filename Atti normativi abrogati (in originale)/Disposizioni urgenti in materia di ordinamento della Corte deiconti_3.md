@@ -1,14 +1,14 @@
-DECRETO-LEGGE 23 dicembre 1995 n. 541
+DECRETO-LEGGE 22 giugno 1996 n. 333
 
 
-DECRETO-LEGGE 23 dicembre 1995 n. 541
-=====================================
+DECRETO-LEGGE 22 giugno 1996 n. 333
+===================================
 
 Disposizioni urgenti in materia di ordinamento della Corte dei 
 conti.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28/12/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/6/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di ordinamento della Corte dei conti per garantire, con la necessaria immediatezza, l'esercizio delle funzioni giurisdizionali e di controllo, anche a seguito di talune esigenze emerse nella fase di prima attuazione delle disposizioni dettate dal [decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e dalla [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 giugno 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro;
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -48,6 +48,8 @@ Termini per l'esercizio del controllo
 1. Il [comma 2 dell'articolo 3 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art3-com2), e' sostituito dal seguente:  
 " 2. I provvedimenti sottoposti al controllo preventivo divengono efficaci se il competente ufficio di controllo non ne rimetta l'esame alla sezione del controllo nel termine di trenta giorni dal ricevimento. Il termine e' interrotto se l'ufficio richiede chiarimenti o elementi integrativi di giudizio. Decorsi trenta giorni dal ricevimento delle controdeduzioni dell'amministrazione, il provvedimento diventa esecutivo se l'ufficio non ne rimetta l'esame alla sezione del controllo. La sezione del controllo si pronuncia sulla conformita' a legge entro trenta giorni dalla data di deferimento dei provvedimenti o dalla data di arrivo degli elementi richiesti con ordinanza istruttoria. Decorso questo termine i provvedimenti divengono esecutivi. Si applicano le disposizioni di cui all'[articolo 1 della legge 7 ottobre 1969, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-07;742~art1).".
 
+2. Per il controllo della Corte dei conti nell'autorizzazione del Governo alla sottoscrizione dei contratti collettivi, di cui all'[articolo 51, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art51-com1), e successive modificazioni ed integrazioni, resta fermo il disposto di cui all'articolo 51, comma 2, del medesimo decreto legislativo.
+
 Art. 3
 ------
 
@@ -55,15 +57,16 @@ Azione di responsabilita'
 
 1. All'[articolo 1 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art1), sono apportate le seguenti modificazioni:
 
-a) il comma 2 e' sostituito dal seguente:  
+a) il comma 1 e' sostituito dal seguente:  
+" 1. La responsabilita' dei soggetti sottoposti alla giurisdizione della Corte dei conti in materia di contabilita' pubblica e' personale e limitata ai fatti e alle omissioni commessi con dolo o colpa grave. Essa si estende agli eredi nei casi di illecito arricchimento del dante causa e di conseguente indebito arricchimento degli eredi stessi";
+
+b) il comma 2 e' sostituito dal seguente:  
 " 2. Il diritto al risarcimento del danno si prescrive in ogni caso in cinque anni, decorrenti dalla data in cui si e' verificato il fatto dannoso, ovvero, in caso di occultamento doloso del danno, dalla data della sua scoperta.";
 
-b) dopo il comma 2-bis, introdotto dall'[articolo 12 del decreto-legge 4 dicembre 1995, n. 514](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-12-04;514~art12), sono aggiunti i seguenti:  
-"2-ter. Per i fatti verificatisi anteriormente alla data di entrata in vigore della presente legge e per i quali stia decorrendo un termine di prescrizione decennale, la prescrizione si compie entro il 31 dicembre 1998, ovvero nel piu' breve termine dato dal compiersi del decennio.  
-2-quater. La prescrizione e' interrotta dall'avviso di cui all'[articolo 5 del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art5), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), dalla notificazione dell'atto con il quale si inizia il giudizio, dalla sentenza di condanna e, per una sola volta, dagli accertamenti istruttori disposti ai sensi delle vigenti disposizioni.  
-2-quinquies. La prescrizione interrotta comincia nuovamente a decorrere dal giorno dell'interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi. In nessun caso il termine puo' essere protratto oltre i dieci anni dall'atto che ha dato inizio al giudizio, fatti salvi i casi di sospensione e interruzione necessaria del processo ai sensi delle vigenti disposizioni. Non si applicano le disposizioni dell'[articolo 2945, commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com2) e [terzo, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com3).  
-2-sexies. Per i giudizi in corso per i quali e' gia' scaduto il termine decennale di cui al comma 2-quinquies, il medesimo termine e' prorogato fino al 31 dicembre 1996.  
-2-septies. Costituisce illecito disciplinare l'aver lasciato prescrivere per colpa l'azione di responsabilita'.".
+c) dopo il comma 2-bis, introdotto dall'[articolo 12 del decreto-legge 3 giugno 1996, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-03;309~art12), e' aggiunto il seguente:  
+"2-ter. Per i fatti verificatisi anteriormente alla data di entrata in vigore della presente legge e per i quali stia decorrendo un termine di prescrizione decennale, la prescrizione si compie entro il 31 dicembre 1998, ovvero nel piu' breve termine dato dal compiersi del decennio.".
+
+2. Le disposizioni di cui all'[articolo 1, comma 1, della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art1-com1), nel testo sostituito dal presente articolo, si applicano anche ai giudizi in corso.
 
 Art. 4
 ------
@@ -95,41 +98,32 @@ Referendari e primi referendari
 
 1. La disposizione dell'[articolo 11, comma 2, della legge 13 aprile 1988, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-04-13;117~art11-com2), continua ad applicarsi ai referendari e primi referendari della Corte dei conti in servizio alla data del 31 dicembre 1993 e non modifica l'ordine di anzianita' del medesimo personale.
 
-2. Alla copertura degli oneri derivanti dal comma 1, valutati in lire 160 milioni per l'anno 1995 e in lire 40 milioni annui a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-97, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, parzialmente utilizzando l'accantonamento relativo al Ministero della pubblica istruzione.
-
-3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+2. Alla copertura degli oneri derivanti dal comma 1, valutati in lire 160 milioni per l'anno 1995 e in lire 40 milioni annui a decorrere dal 1996, si provvede a carico del capitolo 1275 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1995 e corrispondenti capitoli per gli anni successivi.
 
 Art. 8
 ------
 
-Titolarita' dell'azione disciplinare - Incarichi
+Poteri del Segretario generale  
+della Presidenza del Consiglio dei Ministri
 
-1. L'azione disciplinare nei confronti dei magistrati contabili e' esercitata dal procuratore generale della Corte dei conti o dal Presidente del Consiglio dei Ministri.
-
-2. I magistrati della Corte dei conti possono essere nominati membri di collegi sindacali o dei revisori dei conti di enti pubblici o di societa' a prevalente capitale pubblico.
+1. Il Segretario generale della Presidenza del Consiglio dei Ministri e' responsabile, di fronte al Presidente del Consiglio dei Ministri, dell'esercizio delle funzioni di cui all'[articolo 19 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art19), non attribuite ad un Ministro senza portafoglio o delegate al Sottosegretario di Stato alla Presidenza del Consiglio dei Ministri, e adotta, anche delegando i relativi poteri, tutti i provvedimenti occorrenti, fatti salvi quelli che la legge stessa espressamente riserva al Presidente del Consiglio dei Ministri.
 
 Art. 9
 ------
 
-Solidarieta' passiva
-
-1. All'[articolo 1 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art1), dopo il comma 4 e' aggiunto il seguente:  
-"4-bis. Se il fatto dannoso e' imputabile a piu' persone, la responsabilita' solidale opera unicamente nei confronti dei concorrenti beneficiari di illecito arricchimento.".
-
-Art. 10
--------
-
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1995
+### Dato a Roma, addi' 22 giugno 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+PRODI, Presidente del Consiglio dei Ministri
 
-Visto, il Guardasigilli: DINI
+CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
+
+Visto, il Guardasigilli: FLICK

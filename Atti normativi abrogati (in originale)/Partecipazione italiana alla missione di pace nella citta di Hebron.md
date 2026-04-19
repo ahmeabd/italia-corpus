@@ -1,13 +1,13 @@
-DECRETO-LEGGE 20 giugno 1994 n. 397
+DECRETO-LEGGE 14 aprile 1994 n. 238
 
 
-DECRETO-LEGGE 20 giugno 1994 n. 397
+DECRETO-LEGGE 14 aprile 1994 n. 238
 ===================================
 
 Partecipazione italiana alla missione di pace nella citta' di Hebron.
 ---------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20/06/1994.Decreto-Legge convertito dalla [L. 03 agosto 1994, n. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;482) (in G.U. 06/08/1994, n.183).
+Entrata in vigore del decreto: 19/5/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di disporre l'invio ad Hebron di un corpo di osservatori italiani per operare, unitamente ad analoghe delegazioni danese e norvegese, per il ristabilimento di un clima di pace e di tranquillita' in quella citta', cosi' come previsto dall'accordo firmato a Il Cairo dal Governo israeliano e dai palestinesi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 giugno 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 aprile 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro degli affari esteri, di concerto con i Ministri della difesa, del bilancio e della programmazione economica e del tesoro;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro degli affari esteri, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
 
 E M A N A il seguente decreto-legge:
 
@@ -30,7 +30,7 @@ Art. 1
 Art. 2
 ------
 
-1. Ai fini indicati all'articolo 1 e' inviato ad Hebron, per la durata di tre mesi, e pertanto fino al 7 agosto 1994, un contingente di trentacinque unita', composto da militari e da esperti per la cooperazione allo sviluppo.
+1. Ai fini indicati nell'articolo 1 e' inviato ad Hebron, per la durata di tre mesi, un contingente di trentacinque unita', composto da militari e da esperti per la cooperazione allo sviluppo.
 
 Art. 3
 ------
@@ -39,7 +39,7 @@ Art. 3
 
 2. Al personale militare di cui all'articolo 2, qualora impossibilitato a prestare servizio perche' in stato di cattivita' o disperso, continua ad essere attribuito il trattamento economico ed assicurativo di cui al comma 1, nonche' lo stipendio e gli altri assegni a carattere fisso e continuativo. Il tempo trascorso in stato di cattivita' o di dispersione e' computato per intero ai fini del trattamento di pensione e non determina detrazioni di anzianita'.
 
-3. In caso di decesso del personale militare di cui all'articolo 2 per causa di servizio, connesso all'espletamento della missione di cui all'articolo 1, si applica l'[articolo 3 della legge 3 giugno 1981, n. 308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-06-03;308~art3). In caso di invalidita' dello stesso personale per la medesima causa, si applicano le norme in materia di pensione privilegiata ordinaria di cui al testo unico delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato, approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-12-29;1092). Tali trattamenti previsti per i casi di decesso e di invalidita' si cumulano con quello assicurativo di cui al comma 1, nonche' con la speciale elargizione e con l'indennizzo privilegiato aeronautico previsti, rispettivamente, dalla [legge 3 giugno 1981, n. 308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-06-03;308), e dal [regio decreto-legge 15 luglio 1926, n. 1345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1345), convertito dalla [legge 5 agosto 1927, n. 1835](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-08-05;1835), e successive modificazioni ed integrazioni, nei limiti stabiliti dall'ordinamento vigente.
+3. In caso di decesso del personale militare di cui all'articolo 2 per causa di servizio, connessa all'espletamento della missione di cui all'articolo 1, si applica l'[articolo 3 della legge 3 giugno 1981, n. 308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-06-03;308~art3). In caso di invalidita' dello stesso personale per la medesima causa, si applicano le norme in materia di pensione privilegiata ordinaria di cui al testo unico delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato, approvato con [decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-12-29;1092). Tali trattamenti previsti per i casi di decesso e di invalidita' si cumulano con quello assicurativo di cui al comma 1, nonche' con la speciale elargizione e con l'indennizzo privilegiato aeronautico previsti, rispettivamente, dalla [legge 3 giugno 1981, n. 308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-06-03;308), e dal [regio decreto-legge 15 luglio 1926, n. 1345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-15;1345), convertito dalla [legge 5 agosto 1927, n. 1835](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-08-05;1835), e successive modificazioni ed integrazioni, nei limiti stabiliti dall'ordinamento vigente.
 
 4. Al personale militare di cui all'articolo 2 si applica il [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398) militare di pace.
 
@@ -51,30 +51,28 @@ Art. 4
 Art. 5
 ------
 
-1. All'onere derivante dall'applicazione del presente decreto, pari a lire 2 miliardi per l'anno 1994, si provvede, quanto a lire 500 milioni, a carico del capitolo 3198 dello stato di previsione del Ministero degli affari esteri, e, quanto a lire 1.500 milioni, mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per il medesimo anno, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
+1. All'onere derivante dall'applicazione del presente decreto, pari a lire 2 miliardi per l'anno 1984, si provvede, quanto a lire 500 milioni, a carico del capitolo 3198 dello stato di previsione del Ministero degli affari esteri, e, quanto a lire 1.500 milioni, mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per il medesimo anno, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1994
+### Dato a Roma, addi' 14 aprile 1994
 
 SCALFARO
 
-BERLUSCONI, Presidente del Consiglio dei Ministri
+CIAMPI, Presidente del Consiglio dei Ministri
 
-MARTINO, Ministro degli affari esteri
+ANDREATTA, Ministro degli affari esteri
 
-PREVITI, Ministro della difesa
+SPAVENTA, Ministro del bilancio e della programmazione economica
 
-PAGLIARINI, Ministro del bilancio e della programmazione economica
+BARUCCI, Ministro del tesoro
 
-DINI, Ministro del tesoro
-
-Visto, il Guardasigilli: BIONDI
+Visto, il Guardasigilli: CONSO

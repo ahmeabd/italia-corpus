@@ -1,15 +1,15 @@
-DECRETO-LEGGE 17 marzo 1995 n. 78
+DECRETO-LEGGE 13 gennaio 1995 n. 8
 
 
-DECRETO-LEGGE 17 marzo 1995 n. 78
-=================================
+DECRETO-LEGGE 13 gennaio 1995 n. 8
+==================================
 
 Disposizioni fiscali urgenti in materia di potenziamento degli 
 organici, controlli e anagrafe patrimoniale dei dipendenti, al fine 
 di contrastare l'evasione e la corruzione.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18/3/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 17/01/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni fiscali in materia di potenziamento degli organici, controlli e anagrafe patrimoniale dei dipendenti, al fine di contrastare l'evasione e la corruzione;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 marzo 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 gennaio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze, di concerto con i Ministri di grazia e giustizia, del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle finanze, di concerto con i Ministri di grazia e giustizia, del tesoro, del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -47,7 +47,7 @@ f) puo' invitare qualsiasi altro soggetto a fornire notizie, informazioni o docu
 
 g) cura la tenuta e l'aggiornamento dell'anagrafe prevista dall'articolo 3.
 
-3. Le disposizioni di cui al comma 2 si applicano anche ai componenti togati e non togati delle commissioni tributarie, ai soggetti non appartenenti all'Amministrazione finanziaria, compresi i rappresentanti sindacali, che partecipano a comitati, organi consultivi, commissioni di studio e di esame e a qualsiasi altro organismo dell'Amministrazione finanziaria, nonche' ai soggetti dipendenti da imprese private che gestiscono una funzione propria dell'Amministrazione finanziaria.
+3. Le disposizioni di cui al comma 2 si applicano anche ai componenti togati e non togati delle commissioni tributarie, ai soggetti non appartenenti all'amministrazione finanziaria, compresi i rappresentanti sindacali, che partecipano a comitati, organi consultivi, commissioni di studio e di esame e a qualsiasi altro organismo dell'Amministrazione finanziaria, nonche' ai soggetti dipendenti da imprese private che gestiscono una funzione propria dell'Amministrazione finanziaria.
 
 4. Gli addetti al SIS, previa autorizzazione del Ministro delle finanze, possono accedere presso i soggetti indicati alla lettera d) del comma 2 allo scopo di rilevare direttamente i dati e le notizie richiesti secondo le modalita' di cui al decreto del Ministro delle finanze previsto dall'articolo 4, qualora non trasmessi nei termini richiesti, ovvero allorche' sussista motivo di ritenere che gli stessi siano infedeli o incompleti.
 
@@ -139,24 +139,24 @@ Art. 7
 
 Personale dirigenziale
 
-1. Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358~art10-com1), e' sostituito dai seguenti:  
-" 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentotredici unita', di cui quattro per il livello di funzione B, quarantadue per il livello di funzione C, cinquecentonovantotto per il livello di funzione D e millesettecentosessantanove per il livello di funzione E.  
+1. Il [comma 1 dell'articolo 10 della legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358~art10-com1), e' sostituito dai seguenti:   
+" 1. Il personale appartenente alle qualifiche dirigenziali del Ministero delle finanze, escluso quello del Dipartimento delle dogane e delle imposte indirette, e' inquadrato, secondo le modalita' stabilite dall'articolo 12, in un ruolo amministrativo e in un ruolo tecnico, aventi dotazioni organiche il cui numero complessivo non puo' superare le duemilaquattrocentotredici unita', di cui quattro per il livello di funzione B, quarantadue per il livello di funzione C, cinquecentonovantotto per il livello di funzione D e millesettecentosessanta per il livello di funzione E.   
 1-bis. Nella tabella A allegata al [decreto legislativo 26 aprile 1990, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-04-26;105), e' aggiunto un posto di funzione di consigliere ministeriale nella qualifica di dirigente generale di livello C.".
 
-2. Il [comma 5 dell'articolo 7 della legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358~art7-com5), e' sostituito dal seguente:  
+2. Il [comma 5 dell'articolo 7 della legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358~art7-com5), e' sostituito dal seguente:   
 " 5. Alle direzioni regionali delle entrate ed alle direzioni delle entrate devono essere preposti dirigenti generali di livello C.".
 
 3. Ferma restando l'applicabilita' del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, nella tabella allegata alla [legge 29 ottobre 1991, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358), e successive modificazioni, sono aggiunti quattro posti di funzione di consigliere ministeriale o vice direttore generale in corrispondenza della qualifica di dirigente generale per il livello C. In corrispondenza di quest'ultima qualifica e', altresi', soppressa la voce "vice direttore generale e direttore centrale" unitamente ai tre relativi posti di funzione che sono portati in aumento a quelli di direttore centrale. Nella medesima tabella, la voce "direttore regionale delle entrate nelle sedi piu' rilevanti" e' sostituita dalla voce "direttore regionale e direttore di direzione delle entrate" ed i corrispondenti posti di funzione sono elevati da quindici a ventuno.  
 Nella stessa tabella la dotazione organica delle qualifiche di dirigente superiore e di primo dirigente del ruolo amministrativo e' ridotta, rispettivamente, a cinquecentocinquanta ed a millecinquecentoventiquattro e le voci sottoelencate sono integrate come segue:
 
-a) nella qualifica di dirigente superiore del ruolo amministrativo:  
-1) prima della funzione "direttore di servizi amministrativi negli uffici centrali o nelle direzioni centrali e direttore dei servizi dell'ufficio del coordinamento legislativo" e' aggiunta quella di "vice direttore centrale";  
-2) dopo la funzione "ispettore generale centrale" e' aggiunta quella di "coordinatore nei servizi ispettivi centrali, regionali o compartimentali";  
+a) nella qualifica di dirigente superiore del ruolo amministrativo:   
+1) prima della funzione "direttore di servizi amministrativi negli uffici centrali o nelle direzioni centrali e direttore dei servizi dell'ufficio del coordinamento legislativo" e' aggiunta quella di "vice direttore centrale";   
+2) dopo la funzione "ispettore generale centrale" e' aggiunta quella di "coordinatore nei servizi ispettivi centrali, regionali o compartimentali";   
 3) la funzione "direttore regionale delle entrate nelle sedi meno rilevanti" e' soppressa, e dopo la funzione "direttore compartimentale" e' aggiunta quella di "vice direttore regionale o compartimentale";
 
-b) nella qualifica di dirigente superiore del ruolo tecnico:  
-1) prima della funzione "direttore di servizi tecnici negli uffici centrali e nelle direzioni centrali" e' aggiunta quella di "vice direttore centrale";  
-2) dopo la funzione "direttore compartimentale" e' aggiunta quella di "vice direttore compartimentale";  
+b) nella qualifica di dirigente superiore del ruolo tecnico:   
+1) prima della funzione "direttore di servizi tecnici negli uffici centrali e nelle direzioni centrali" e' aggiunta quella di "vice direttore centrale";   
+2) dopo la funzione "direttore compartimentale" e' aggiunta quella di "vice direttore compartimentale";   
 3) dopo la funzione "ispettore generale centrale e compartimentale" e' aggiunta quella di "coordinatore nei servizi ispettivi centrali o compartimentali".
 
 Art. 8
@@ -229,9 +229,9 @@ Art. 13
 Uso della denominazione "camera di commercio"
 
 1. Il [comma 1 dell'articolo 22 della legge 29 dicembre 1993, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580~art22-com1), e' sostituito dal seguente:  
-" 1. Oltre agli enti disciplinati dalla presente legge, possono assumere nel territorio nazionale la denominazione 'camera di commercio' le associazioni cui partecipino enti e imprese italiani e di altro Stato riconosciuto dallo Stato italiano, i cui amministratori cittadini italiani non abbiano riportato condanne per reati punibili con la reclusione e i cui amministratori cittadini stranieri siano in possesso di benestare della rappresentanza diplomatica dello Stato di appartenenza, e abbiano ottenuto il riconoscimento di cui alla [legge 1 luglio 1970, n. 518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-01;518), ovvero siano iscritte in un apposito albo, disciplinato con decreto del Ministro del commercio con l'estero, di concerto con il Ministro degli affari esteri, tenuto presso la sezione separata di cui all'articolo 1 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, approvato con [decreto del Presidente della Repubblica 31 dicembre 1985, n. 947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-31;947).".
+" 1. Oltre agli enti disciplinati dalla presente legge, possono assumere nel territorio nazionale la denominazione "camera di commercio" le associazioni cui partecipino enti e imprese italiani e di altro Stato riconosciuto dallo Stato italiano, i cui amministratori cittadini italiani non abbiano riportato condanne per reati punibili con la reclusione e i cui amministratori cittadini stranieri siano in possesso di benestare della rappresentanza diplomatica dello Stato di appartenenza, e abbiano ottenuto il riconoscimento di cui alla [legge 1 luglio 1970, n. 518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-07-01;518), ovvero siano iscritte in un apposito albo, disciplinato con decreto del Ministro del commercio con l'estero, di concerto con il Ministro degli affari esteri, tenuto presso la sezione separata di cui all'articolo 1 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, approvato con [decreto del Presidente della Repubblica 31 dicembre 1985, n. 947](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-31;947).".
 
-2. Il termine previsto dal [comma 2 dell'articolo 22 della legge 29 dicembre 1993, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580~art22-com2), e' prorogato al 31 dicembre 1995.
+2. Il termine previsto dal [comma 2 dell'articolo 22 della legge 29 dicembre 1993, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580~art22-com2), e' prorogato al 30 giugno 1995.
 
 Art. 14
 -------
@@ -243,33 +243,27 @@ Proroga termine scadenza cambiali agrarie
 Art. 15
 -------
 
-Funzionamento dell'avvocatura distrettuale  
-dello Stato di Firenze
-
-1. Sono sospesi, dal 4 marzo 1995 fino al quindicesimo giorno successivo alla data di entrata in vigore del presente decreto, i procedimenti giudiziari nei quali sono parti soggetti patrocinati dall'avvocatura distrettuale dello Stato di Firenze. Sono altresi' sospesi, fino alla stessa data, i termini di decadenza per la proposizione di azioni o impugnazioni giudiziarie, da parte o nei confronti dei medesimi soggetti, scaduti o che scadano nel medesimo periodo.
-
-Art. 16
--------
-
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 marzo 1995
+### Dato a Roma, addi' 13 gennaio 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+BERLUSCONI, Presidente del Consiglio dei Ministri
 
-FANTOZZI, Ministro delle finanze
+TREMONTI, Ministro delle finanze
 
-MANCUSO, Ministro di grazia e giustizia
+BIONDI, Ministro di grazia e giustizia
 
-MASERA, Ministro del bilancio e della programmazione economica
+DINI, Ministro del tesoro
 
-FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+PAGLIARINI, Ministro del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: MANCUSO
+URBANI, Ministro per la funzione pubblica e gli affari regionali
+
+Visto, il Guardasigilli: BIONDI

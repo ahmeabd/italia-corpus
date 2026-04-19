@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1764
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 19 novembre 1946 n. 758
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1764
-=================================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 19 novembre 1946 n. 758
+================================================================
 
 Autorizzazione al Politecnico di Milano ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1764. Decreto del Capo provvisorio dello Stato 31 dicembre 1947, col quale, sulla proposta del Ministro per la pubblica, istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 100.000 nominali, in titoli di rendita italiana 5%, disposta in suo favore dal prof. dottor arch. Piero Portaluppi, quale presidente del Comitato per le onoranze all'arch.  
-Pier Giulio Magistretti, con atto pubblico in data 25 marzo 1947, per l'istituzione di un premio di studio annuale da intitolarsi al nome dell'arch. Pier Giulio Magistretti e da conferirsi ad uno studente del primo anno di applicazione della Facolta' di architettura, di condizioni economiche disagiate.  
+758. Decreto del Capo provvisorio dello Stato 19 novembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 100.000, in titoli di Rendita italiana 5%, disposta in suo favore, con atto pubblico in data 18 aprile 1945, dal prof. dott. arch. Piero Portaluppi, per l'istituzione di un premio da intitolarsi al nome del "dott. ing. Tuccio Portaluppi" e da conferirsi ogni anno, a quel laureato della Facolta' di architettura, il quale oltre ad avere dimostrato attitudini nel comporre, abbia dato prova di speciale cultura e applicazione nel campo delle scienze e delle tecniche ausiliarie dell'architettura.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 18 marzo 1948
+Visto, il Guardasigilli: GULLO  
+Registrato alla Corte dei Conti, addi' 13 marzo 1947

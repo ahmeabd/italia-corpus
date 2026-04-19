@@ -1,7 +1,7 @@
-DECRETO-LEGGE 17 maggio 1996 n. 267
+DECRETO-LEGGE 18 gennaio 1996 n. 20
 
 
-DECRETO-LEGGE 17 maggio 1996 n. 267
+DECRETO-LEGGE 18 gennaio 1996 n. 20
 ===================================
 
 Disposizioni urgenti per l'attuazione del testo unico sulle 
@@ -9,7 +9,7 @@ tossicodipendenze, approvato con decreto del Presidente della
 Repubblica 9 ottobre 1990, n. 309.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-5-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18/1/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,7 +18,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare rapidi e tempestivi interventi a sostegno delle attivita' di prevenzione e recupero delle tossicodipendenze, nonche' di introdurre talune modifiche al testo unico sulle tossicodipendenze;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 gennaio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro per la famiglia e la solidarieta' sociale, di concerto con i Ministri delle finanze e della sanita';
 
@@ -43,7 +43,7 @@ e) alla formazione del personale nei settori di specifica competenza;
 
 f) alla realizzazione di programmi organici e specifici di educazione alla salute presso le scuole di ogni ordine e grado, da sviluppare lungo l'intero arco della carriera scolastica, anche con riferimento alla prevenzione della tossicodipendenza, prevedendo la partecipazione di esperti specialisti.
 
-3. Gli enti locali e le unita' sanitarie locali possono chiedere il finanziamento di progetti finalizzati alla prevenzione e al recupero dalla tossicodipendenza e della alcooldipendenza correlata, nonche' di progetti finalizzati alla riduzione dei danni correlati all'uso di sostanze stupefacenti, da realizzare sulla base dei bisogni del territorio rigorosamente rilevati e analizzati, con la previsione di una o piu' fasi di verifica e valutazione, anche a distanza, degli effetti degli interventi attivati. I medesimi soggetti, nonche' gli enti di cui al comma 4, possono altresi' chiedere il finanziamento di progetti volti ad attivare servizi sperimentali di prevenzione e recupero sul territorio finalizzati alla riduzione del danno, con particolare riferimento ai centri di accoglienza a bassa soglia ed alle unita' di strada. I progetti ed i servizi sperimentali finalizzati alla riduzione del danno di cui al presente comma non possono prevedere la somministrazione delle sostanze stupefacenti incluse nelle tabelle I e II di cui all'articolo 14 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e delle sostanze non inserite nella farmacopea ufficiale, fatto salvo l'uso del methadone secondo la vigente normativa.
+3. Gli enti locali e le unita' sanitarie locali possono chiedere il finanziamento di progetti finalizzati alla prevenzione e al recupero dalla tossicodipendenza e dalla alcooldipendenza correlata, nonche' di progetti finalizzati alla riduzione dei danni correlati all'uso di sostanze stupefacenti, da realizzare sulla base dei bisogni del territorio rigorosamente rilevati e analizzati, con la previsione di una o piu' fasi di verifica e valutazione, anche a distanza, degli effetti degli interventi attivati. I medesimi soggetti, nonche' gli enti di cui al comma 4, possono altresi' chiedere il finanziamento di progetti volti ad attivare servizi sperimentali di prevenzione e recupero sul territorio finalizzati alla riduzione del danno, con particolare riferimento ai centri di accoglienza a bassa soglia ed alle unita' di strada. I progetti ed i servizi sperimentali finalizzati alla riduzione del danno di cui al comma 3 non possono prevedere la somministrazione delle sostanze stupefacenti incluse nelle tabelle I e II di cui all'articolo 14 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e delle sostanze non inserite nella farmacopea ufficiale, fatto salvo l'uso del methadone secondo la vigente normativa.
 
 4. Gli enti, le organizzazioni di volontariato, le cooperative e i privati che operino senza scopi di lucro, iscritti agli albi di cui all'articolo 116 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), ovvero in caso di mancata istituzione dell'albo e nelle more della registrazione temporanea, che si coordinino con la regione o con l'unita' sanitaria locale mediante apposite convenzioni, possono chiedere il finanziamento di progetti, non altrimenti finanziati con contributi pubblici, finalizzati alla prevenzione, in raccordo con la programmazione dell'ente locale, della tossicodipendenza e della alcooldipendenza correlata nonche' al recupero e reinserimento sociale e professionale dei tossicodipendenti, ovvero di sostegno di attivita' di recupero e reinserimento sociale gia' avviate e dettagliatamente documentate. Possono altresi' chiedere il finanziamento di progetti di reinserimento professionale dei tossicodipendenti le cooperative sociali, e loro consorzi, di cui all'[articolo 1, comma 1, lettera b), della legge 8 novembre 1991, n. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;381~art1-com1-letb), iscritte all'albo regionale di cui all'articolo 9 della medesima legge, ovvero, nelle more della istituzione dell'albo regionale, iscritte nel registro prefettizio delle cooperative, sezione cooperazione sociale, ai sensi dell'[articolo 13 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1577~art13), ratificato, con modificazioni, dalla [legge 2 aprile 1951, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-04-02;302), e successive modificazioni, limitatamente a progetti concordati con l'agenzia per l'impiego o con il servizio per le tossicodipendenze delle unita' sanitarie locali (SERT) territorialmente competenti.
 
@@ -66,7 +66,7 @@ Tenuto conto della particolare natura dei progetti, in deroga alle vigenti norme
 
 6. I controlli sui rendiconti e sull'utilizzo delle somme erogate per il finanziamento dei progetti di cui al comma 3 sono effettuati dalle ragionerie provinciali dello Stato e dalle delegazioni regionali della Corte dei conti, secondo le modalita' stabilite dalla normativa vigente. Sono inoltre autorizzate le visite ispettive di cui all'[articolo 65 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art65), le cui risultanze vengono riassunte e coordinate da un dirigente generale della Ragioneria generale dello Stato, operante nell'ambito della Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, all'uopo nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, e collocato fuori ruolo ai sensi e per gli effetti degli articoli 58 e 59 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3).
 
-7. Le somme relative al Fondo nazionale d'intervento per la lotta alla droga erogate sullo stanziamento del capitolo 2966 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994, erroneamente riversate ai capitoli 3687 e 3690 dello stato di previsione dell'entrata del bilancio dello Stato nell'ultimo bimestre dell'anno 1994, ovvero nel corso dell'esercizio 1995, sono riassegnate, con decreti del Ministro del tesoro, al suddetto capitolo 2966 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1995 per essere riassegnate agli enti di provenienza mediante ordine di accreditamento intestato al funzionario delegato. La medesima procedura viene adottata per l'anno 1996 e successivi.
+7. Le somme relative al Fondo nazionale d'intervento per la lotta alla droga erogate sullo stanziamento del capitolo 2966 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1994, erroneamente riversate ai capitoli 3687 e 3690 dello stato di previsione delle entrate del bilancio dello Stato nell'ultimo bimestre dell'anno 1994, ovvero nel corso dell'esercizio 1995, sono riassegnate, con decreti del Ministro del tesoro, al suddetto capitolo 2966 dello stato di previsione della Presidenza del Consiglio dei Ministri per l'anno 1995 per essere riassegnate agli enti di provenienza mediante ordine di accreditamento intestato al funzionario delegato.
 
 8. Gli enti locali i cui progetti sono stati ammessi a finanziamento sul Fondo nazionale di intervento per la lotta alla droga per l'esercizio finanziario 1993, che hanno effettuato anticipazioni a valere sul proprio bilancio, sono autorizzati a ripianare il bilancio stesso mediante l'emissione da parte del funzionario delegato di un ordinativo a favore della cassa dell'ente locale, di importo pari alla somma effettivamente anticipata.
 
@@ -93,9 +93,9 @@ Art. 4
 1. A decorrere dal 1 gennaio 1996, sono trasferite alle regioni, in proporzione al numero degli abitanti ed alla diffusione delle tossicodipendenze, in base ai dati raccolti dall'Osservatorio permanente presso il Ministero dell'interno, le somme da destinare ai finanziamenti di progetti di cui all'articolo 1, commi 3, 4 e 5, nella misura del 75 per cento delle disponibilita' del "Fondo nazionale di intervento per la lotta alla droga". I finanziamenti per i progetti di cui all'articolo 1, comma 4, non debbono essere inferiori al 25 per cento del fondo assegnato. Le regioni provvedono ad erogare i finanziamenti nel quadro di una programmazione regionale, nel rispetto delle indicazioni del Comitato nazionale di coordinamento per l'azione antidroga, istituito presso la Presidenza del Consiglio dei Ministri, di cui all'articolo 1 del testo unico approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309). Le regioni provvedono ad erogare i finanziamenti nel termine di duecentoquaranta giorni dalla pubblicazione nella Gazzetta Ufficiale del decreto del Ministro per la famiglia e la solidarieta' sociale che dispone la ripartizione delle somme. In caso di inutile decorso del termine, il Ministro per la famiglia e la solidarieta' sociale esercita i poteri di cui all'[articolo 4, comma terzo, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616~art4-com3), e di cui all'[articolo 2 della legge 22 luglio 1975, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382~art2). Le regioni dispongono i controlli sulle destinazioni dei finanziamenti erogati.  
 Sono esclusi da ogni ulteriore finanziamento i soggetti di cui all'articolo 1, comma 4, che non risultino in grado di fornire il rendiconto delle attivita' finanziate, ovvero che forniscano un rendiconto non rispondente alle indicazioni previste nel progetto presentato al fine dell'erogazione del contributo.
 
-2. Nel corso dell'anno 1996 le regioni provvedono a predisporre i criteri e le modalita' per l'attribuzione dei finanziamenti, nonche' gli strumenti di verifica dell'efficacia degli interventi, anche avvalendosi, a tali fini, della cooperazione degli enti ausiliari, del volontariato, delle cooperative e dei privati che operano sul loro territorio.
+2. Nel corso dell'anno 1995 le regioni provvedono a predisporre i criteri e le modalita' per l'attribuzione dei finanziamenti, nonche' gli strumenti di verifica dell'efficacia degli interventi, anche avvalendosi, a tali fini, della cooperazione degli enti ausiliari, del volontariato, delle cooperative e dei privati che operano sul loro territorio.
 
-3. Ove una regione non sia in grado di attivare un efficiente sistema di finanziamento e di verifica e valutazione a decorrere dall'esercizio finanziario 1996, entro il 30 giugno 1996 potra' chiedere al Ministro per la famiglia e la solidarieta' sociale, che provvedera' con proprio decreto, di differire il trasferimento delle somme di un anno finanziario. In tal caso, alla ripartizione delle somme per l'anno 1996 e alle verifiche correlate provvedera' il Ministro per la famiglia e la solidarieta' sociale.
+3. Ove una regione non sia in grado di attivare un efficiente sistema di finanziamento e di verifica e valutazione a decorrere dall'esercizio finanziario 1996, entro il 30 novembre 1995 potra' chiedere al Ministro per la famiglia e la solidarieta' sociale, che provvedera' con proprio decreto, di differire il trasferimento delle somme di un anno finanziario. In tal caso, alla ripartizione delle somme per l'anno 1996 e alle verifiche correlate provvedera' il Ministro per la famiglia e la solidarieta' sociale.
 
 4. A chiusura di ciascun anno finanziario le regioni inviano alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, una relazione che evidenzi le necessita' del territorio, i finanziamenti concessi e l'efficacia degli interventi realizzati. Il Ministro per la famiglia e la solidarieta' sociale, sulla base dei dati forniti dalle regioni, formula proposte alla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano per l'elaborazione di criteri ed indirizzi comuni da recepirsi in un atto di intesa.
 
@@ -104,13 +104,13 @@ Art. 5
 
 1. Presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, e' istituito un nucleo operativo per la verifica sul territorio degli interventi nel settore della tossicodipendenza con i seguenti compiti:
 
-a) verifica delle modalita' di realizzazione dei progetti finanziari a valere sul Fondo nazionale di intervento per la lotta alla droga, anche al fine di accertare il rispetto del diritto all'autodeterminazione dei soggetti destinatari degli interventi. La verifica puo' avvenire anche su richiesta della commissione istruttoria di cui all'articolo 127, comma 6, del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309);
+a) verifica delle modalita' di realizzazione dei progetti finanziati a valere sul Fondo nazionale di intervento per la lotta alla droga, anche al fine di accertare il rispetto del diritto all'autodeterminazione dei soggetti destinatari degli interventi. La verifica puo' avvenire anche su richiesta della commissione istruttoria di cui all'articolo 127, comma 6, del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309);
 
 b) verifiche, su richiesta di altre amministrazioni dello Stato e delle regioni, relativamente ad interventi di competenza dell'amministrazione richiedente attinenti alle problematiche delle tossicodipendenze.
 
 2. Il nucleo di cui al comma 1 e' composto da cinque esperti, particolarmente competenti nel settore della tossicodipendenza e delle verifiche di efficienza e di efficacia. I membri del nucleo possono essere sostituiti ogni anno e comunque non possono far parte del nucleo per piu' di cinque anni.
 
-3. Il nucleo inizia ad operare dalla nomina del terzo componente. I componenti possono compiere le verifiche richieste singolarmente o collegialmente. Le amministrazioni e gli enti, pubblici e privati, destinatari di finanziamenti, sono tenuti ad offrire la massima collaborazione. Sono esclusi da ogni ulteriore finanziamento l'amministrazione o l'ente che rifiutino la propria collaborazione o impediscano le verifiche.
+3. Il nucleo inizia ad operare dalla nomina del terzo componente. I componenti possono compiere le verifiche richieste singolarmente o collegialmente. Le amministrazioni e gli enti, pubblici e privati, destinatari di finanziamenti, sono tenuti ad offrire la massima collaborazione. Sono esclusi per due anni da qualsiasi finanziamento l'amministrazione o l'ente che rifiutino la propria collaborazione o impediscano le verifiche.
 
 4. I componenti del nucleo sono nominati con decreto del Presidente del Consiglio dei Ministri ai sensi dell'[articolo 31 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art31); essi sono collocati in posizione di comando presso la Presidenza del Consiglio dei Ministri se appartenenti ad altre amministrazioni dello Stato.
 
@@ -126,11 +126,9 @@ Art. 6
 a) l'alinea del comma 8 e' sostituito dal seguente:  
 " 8. L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:";
 
-b) al comma 10 e' premesso il seguente periodo: "Le altre strutture pubbliche che provvedono all'acquisizione ed elaborazione di dati connessi al fenomeno delle tossicodipendenze in Italia  
-comunicano periodicamente all'Osservatorio i dati in loro possesso.";
+b) al comma 10 e' premesso il seguente periodo: "Le altre strutture pubbliche che provvedono all'acquisizione ed elaborazione di dati connessi al fenomeno delle tossicodipendenze in Italia comunicano periodicamente all'Osservatorio i dati in loro possesso.";
 
-c) al comma 13, dopo le parole: "pubbliche affissioni" sono  
-inserite le seguenti: "e servizi telefonici di informazione";
+c) al comma 13 e' aggiunto, in fine, il seguente periodo: "Una quota non superiore a due decimi della somma prevista puo' essere utilizzata, ferme restando le attuali dotazioni organiche, per l'istituzione, presso il Dipartimento per gli affari sociali della Presidenza del Consiglio dei Ministri, di un servizio telefonico di informazione sulle problematiche relative alle tossicodipendenze denominato 'Drogatel', organizzato d'intesa con il Ministero della sanita'.";
 
 d) al comma 14 le parole: "31 gennaio" sono sostituite dalle seguenti: "31 marzo".
 
@@ -151,12 +149,12 @@ Art. 8
 Art. 9
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1996
+### Dato a Roma, addi' 18 gennaio 1996
 
 SCALFARO
 
@@ -168,4 +166,4 @@ FANTOZZI, Ministro delle finanze
 
 GUZZANTI, Ministro della sanita'
 
-Visto, il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: DINI

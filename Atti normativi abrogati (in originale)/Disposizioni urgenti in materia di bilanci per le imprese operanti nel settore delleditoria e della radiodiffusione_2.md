@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 aprile 1994 n. 252
+DECRETO-LEGGE 23 febbraio 1994 n. 129
 
 
-DECRETO-LEGGE 26 aprile 1994 n. 252
-===================================
+DECRETO-LEGGE 23 febbraio 1994 n. 129
+=====================================
 
 Disposizioni urgenti in materia di bilanci per le imprese operanti nel settore dell'editoria e della radiodiffusione.
 ---------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-4-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,7 +18,7 @@ Ritenuta la straordinaria necessita' ed urgenza di conformare la disciplina in m
 
 Ritenuta, altresi', l'esigenza di assicurare al Garante per la radiodiffusione e l'editoria l'acquisizione di notizie e dati specifici necessari per l'esercizio delle funzioni istituzionali e di uniformare i flussi informativi provenienti dagli operatori del settore editoriale e da quelli del settore radiotelevisivo;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 aprile 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
@@ -27,10 +27,9 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-Informazioni dovute all'Ufficio del Garante  
-per la radiodiffusione e l'editoria
+Informazioni dovute all'Ufficio del Garante per la radiodiffusione e l'editoria
 
-1. Il Garante per la radiodiffusione e l'editoria determina con propri provvedimenti da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana stabilendo altresi' le modalita' e i termini di comunicazione, i dati contabili ed extra contabili, nonche' le notizie che i soggetti di cui agli articoli 11, commi secondo e quarto, 12, 18 e 19 della [legge 5 agosto 1981, n. 416, all'articolo 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11) della [legge 7 agosto 1990, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;250), e successive modificazioni e integrazioni, agli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art12) e [21 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art21), e all'[articolo 6, comma 3, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art6-com3), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), sono tenuti a trasmettere al suo Ufficio.
+1. Il Garante per la radiodiffusione e l'editoria determina con propri provvedimenti da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana stabilendo altresi' le modalita' e i termini di comunicazione, i dati contabili ed extra contabili, nonche' le notizie che i soggetti di cui agli articoli 11, commi secondo e quarto, 12, 18 e 19 della [legge 5 agosto 1981, n. 416, all'articolo 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11) della [legge 7 agosto 1990, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;250), e successive modificazioni e integrazioni, agli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art12) e [21 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art21), e all'[articolo 6, comma 3, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art6-com3), convertito, con modificazioni, dalla legge 27 ottobre 1993, 422, sono tenuti a trasmettere al suo Ufficio.
 
 2. Ferma restando la facolta' del Garante per la radiodiffusione e l'editoria di chiedere in ogni caso la trasmissione di ulteriori atti e documenti ai soggetti di cui al comma 1, fissando i relativi termini, i dati ivi previsti sono stabiliti dal Garante medesimo, anche avuto riguardo alle voci di stato patrimoniale e di conto economico di cui agli [articoli 2424 e seguenti del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2424), tenendo conto delle competenze allo stesso attribuite dalla legge.
 
@@ -47,7 +46,7 @@ Obbligo di pubblicazione del bilancio
 
 2. I soggetti di cui all'[articolo 11, comma secondo, numeri 1)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11-com2-num1) e [2), della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11-com2-num2), devono pubblicare su tutte le testate edite lo stato patrimoniale ed il conto economico del bilancio di esercizio, corredato da un prospetto di dettaglio delle voci di bilancio relative all'esercizio dell'attivita' editoriale secondo il modello stabilito con i provvedimenti di cui all'articolo 1, nonche', eventualmente, lo stato patrimoniale ed il conto economico del bilancio consolidato del gruppo di appartenenza, entro il 31 agosto di ogni anno.
 
-3. Il [comma secondo dell'articolo 12 della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art12-com2), e' sostituito dal seguente:  
+3. Il [comma secondo dell'articolo 12 della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art12-com2), e' sostituito dal seguente:   
 "I bilanci delle imprese concessionarie di pubblicita', integrati da un elenco che indichi le testate delle quali la concessionaria ha l'esclusiva della pubblicita', devono essere pubblicati, entro il 31 agosto di ogni anno, su tutte le testate servite dalla stessa impresa di pubblicita'.".
 
 Art. 3
@@ -66,7 +65,7 @@ Art. 4
 
 Utilizzazione della Guardia di finanza
 
-1. Il Garante per la radiodiffusione e l'editoria ai fini dell'espletamento delle sue funzioni puo' avvalersi dei militari della Guardia di finanza, i quali agiscono secondo le norme e con le facolta' di cui ai [decreti del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633), e [29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600), e successive modificazioni ed integrazioni.
+1. Il Garante per la radiodiffusione e l'editoria ai fini dell'espletamentodelle sue funzioni puo' avvalersi dei militari della Guardia di finanza, i quali agiscono secondo le norme e con le facolta' di cui ai [decreti del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633), e [29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600), e successive modificazioni ed integrazioni.
 
 Art. 5
 ------
@@ -105,12 +104,12 @@ Art. 7
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1994
+### Dato a Roma, addi 23 febbraio 1994
 
 SCALFARO
 

@@ -1,8 +1,8 @@
-DECRETO-LEGGE 23 ottobre 1996 n. 554
+DECRETO-LEGGE 06 settembre 1996 n. 465
 
 
-DECRETO-LEGGE 23 ottobre 1996 n. 554
-====================================
+DECRETO-LEGGE 06 settembre 1996 n. 465
+======================================
 
 Disposizioni per la graduale sostituzione del personale delle Forze 
 armate impiegato in attivita' di controllo del territorio della 
@@ -10,7 +10,7 @@ regione siciliana, nonche' per l'adeguamento di strutture e funzioni
 connesse alla lotta contro la criminalita' organizzata.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 23/10/1996. Decreto-Legge convertito con modificazioni dalla [L. 23 dicembre 1996, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;653) (in G.U. 23/12/1996, n.300).
+Entrata in vigore del decreto: 9-9-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -31,7 +31,7 @@ Ravvisata la straordinaria necessita' ed urgenza di disporre di piu' rapidi e ag
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni in favore dei soggetti interessati alla chiamata alle armi residenti nei comuni colpiti da alluvione nel 1994;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 ottobre 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 settembre 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e della difesa, di concerto con i Ministri di grazia e giustizia, delle finanze, del tesoro e del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
@@ -50,14 +50,14 @@ Art. 2
 ------
 
 1. All'[articolo 1 della legge 15 gennaio 1991, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-15;16~art1), dopo il comma 2 e' inserito il seguente:  
-"2-bis. Alla direzione centrale e' preposto, secondo un criterio di rotazione, con i rapporti di dipendenza operanti nell'ambito del Dipartimento della pubblica sicurezza in ragione della funzione esercitata, un dirigente generale della Polizia di Stato, un generale di divisione dell'Arma dei carabinieri o un generale di divisione della Guardia di finanza, che abbia maturato specifica esperienza nel settore.".
+"2-bis. Alla direzione centrale e' preposto, secondo un criterio di rotazione, con i rapporti di dipendenza operanti nell'ambito del Dipartimento della pubblica sicurezza in ragione della funzione esercitata, un dirigente generale della Polizia di Stato, un generale di divisione dell'Arma dei carabinieri o un generale di divisione della Guardia di finanza, che abbia maturato specifica esperienza nel settore".
 
 2. Al [decreto legislativo 12 maggio 1995, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), sono apportate le seguenti modificazioni:
 
 a) all'articolo 36, il numero 4) del comma 5, lettera a), e' soppresso;
 
 b) all'articolo 67, dopo il comma 1, e' inserito il seguente:  
-"1-bis. Alla stessa data del 31 agosto 1995 i marescialli capo e i brigadieri, gia' valutati, giudicati idonei ed iscritti in quadro, ma non promossi perche' non compresi nel primo terzo o nella prima meta' delle rispettive aliquote, sono inquadrati, a decorrere dal 1 settembre 1995, nel ruolo degli ispettori con il grado di, rispettivamente, maresciallo aiutante e maresciallo capo, secondo l'ordine del ruolo di provenienza, previo giudizio di idoneita' espresso dalla commissione permanente di avanzamento di cui all'[articolo 31 della legge 10 maggio 1983, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212~art31).".
+"1-bis. Alla stessa data del 31 agosto 1995 i marescialli capo e i brigadieri, gia' valutati, giudicati idonei ed iscritti in quadro, ma non promossi perche' non compresi nel primo terzo o nella prima meta' delle rispettive aliquote, sono inquadrati, a decorrere dal 1 settembre 1995, nel ruolo degli ispettori con il grado di, rispettivamente, maresciallo aiutante e maresciallo capo, secondo l'ordine del ruolo di provenienza, previo giudizio di idoneita' espresso dalla commissione permanente di avanzamento di cui all'[articolo 31 della legge 10 maggio 1983, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212~art31)".
 
 3. Per gli inquadramenti del personale dell'Arma dei carabinieri e della Guardia di finanza, oltre a quanto previsto nei [decreti legislativi 12 maggio 1995, n. 198 e n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199), non vanno computati gli anni per i quali gli interessati sono stati giudicati non idonei all'avanzamento, nonche' i periodi di detrazione di anzianita' subiti per effetto di condanne penali o di sospensioni dal servizio per motivi disciplinari o di aspettativa per motivi privati.
 
@@ -72,7 +72,7 @@ b) il numero 1) della lettera a) del comma 2 dell'articolo 15 e' sostituito dal 
 "1) siano idonei al servizio militare incondizionato. Coloro che temporaneamente non sono idonei sono ammessi al concorso con riserva fino alla visita medica prevista dalla lettera d) del comma 1 dell'articolo 17;";
 
 c) il numero 1) della lettera a) del comma 2 dell'articolo 16 e' sostituito dal seguente:  
-"1) siano idonei al servizio militare incondizionato. Coloro che temporaneamente non sono idonei, sono ammessi al concorso con riserva fino alla visita medica prevista dalla lettera c) del comma 2 dell'articolo 17;".
+"1) siano idonei al servizio militare incondizionato. Coloro che temporaneamente sono non idonei, sono ammessi al concorso con riserva fino alla visita medica prevista dalla lettera c) del comma 2 dell'articolo 17;".
 
 6. Sino al termine dell'attuale mandato, in deroga all'[articolo 13, comma 2, lettera b), del decreto del Presidente della Repubblica 4 novembre 1979, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-11-04;691~art13-com2-letb), non cessa anticipatamente dal mandato il militare, eletto quale rappresentante di un organo di rappresentanza militare, transitato ad altra categoria per effetto delle norme di cui ai [decreti legislativi 12 maggio 1995, numeri 196, 198 e 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199).  
 Parimenti non trovano applicazione le disposizioni di cui all'articolo 4, comma 4, all'articolo 5, comma 3, e all'articolo 6, comma 2, del predetto decreto n. 691 del 1979, nonche' alle tabelle, annessi 1, 2 e 3, del medesimo decreto, limitatamente alle variazioni dovute a transiti in altri ruoli per effetto dei predetti [decreti legislativi numeri 196, 198 e 199 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;199).
@@ -103,6 +103,8 @@ Art. 5
 
 1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 240.668 milioni per l'anno 1995 e in lire 185.429 milioni per l'anno 1996, si provvede, quanto all'anno 1995, a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa: capitolo 1086 per lire 1.948,1 milioni, capitolo 1091 per lire 1.042 milioni, capitolo 1092 per lire 1.948,1 milioni, capitolo 1105 per lire 25.035 milioni, capitolo 1375 per lire 8.554,5 milioni, capitolo 1378 per lire 77.870,5 milioni, capitolo 1385 per lire 27.135 milioni, capitolo 1405 per lire 1.709 milioni, capitolo 1802 per lire 6.150,6 milioni, capitolo 1872 per lire 4.509 milioni, capitolo 1878 per lire 4.509 milioni, capitolo 2000 per lire 2.033,5 milioni, capitolo 2002 per lire 2.000 milioni, capitolo 2102 per lire 26.987 milioni, capitolo 2103 per lire 991,7 milioni, capitolo 2503 per lire 5.650 milioni, capitolo 2802 per lire 19.869 milioni, capitolo 2804 per lire 14.272 milioni, capitolo 3001 per lire 7.324 milioni, capitolo 3204 per lire 1.130 milioni; quanto all'anno 1996, a carico dei pertinenti capitoli dello stesso stato di previsione del Ministero della difesa per il medesimo anno.
 
+2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
 Art. 6
 ------
 
@@ -111,17 +113,12 @@ Art. 6
 Art. 7
 ------
 
-1. Sono abrogate le disposizioni del [decreto-legge 6 settembre 1996, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-09-06;465).
-
-Art. 8
-------
-
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1996
+### Dato a Roma, addi' 6 settembre 1996
 
 SCALFARO
 
@@ -143,7 +140,191 @@ Visto, il Guardasigilli: FLICK
 
 Allegato
 
- Allegato   
+ ALLEGATO   
+(previsto dall'art. 2, comma 4)   
+TABELLA C/2   
+(art. 16, comma 1)   
+CONDIZIONI PARTICOLARI PER L'AVANZAMENTO DEI SGTTUFFICIALI IN   
+SERVIZIO PERMANENTE DELLA MARINA   
+RUOLO MARESCIALLI   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=096G058200100010110001&dgu=1996-10-23&art.dataPubblicazioneGazzetta=1996-10-23&art.codiceRedazionale=096G0582)
   
+  
++---------------+---------------------------------------------------+  
+| GRADO | PERIODI MINIMI DI IMBARCO (1) |  
++------+--------+-------------+--------+-----------+----------------+  
+| DA | A | Nocchieri |Tecnici |Specialisti| Nocchieri di |  
+| | | Specialisti |di armi | del | Porto |  
+| | | delle tele |Elettro-| servizio | |  
+| | |comunicazioni|tecnici |amministra-| |  
+| | | e scoperta | | tivo e | |  
+| | | Tecnici di | | logistico | |  
+| | | macchine | | | |  
+| | | | | | |  
++------+--------+-------------+--------+-----------+----------------+  
+| AIUTANTI | 1 anno | 1 anno | | 3 anni di tito-|  
+| | | | | lare di Ufficio|  
+| | | | | minore o Sezio-|  
+| | | | | ne Staccata |  
+| | | | | |  
++-------+-------+-------------+--------+-----------+----------------+  
+| | | | | | |  
+|Capi di|AIUTAN-| 8 anni | 7 anni | 4 anni | 3 anni |  
+|1 Clas-|TI | | | | (2) |  
+|se | | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+|Capi di|Capi di| 6 anni | 6 anni | 3 anni | |  
+|2 Clas-|1 Clas-| | | | |  
+|se |se | | | | |  
+| | | | | | |  
+| | | | | | |  
+|Capi di|Capi di| | | | |  
+|3 Clas-|2 Clas-| | | | |  
+|se |se | | | | |  
+| | | | | | |  
+| | | | | | |  
++-------+-------+-------------+--------+-----------+-------+--------+  
+| |Periodi minimi in re- | | | |  
+| GRADO |parti operativi (1) | NOTE | CORSI | ESAMI |  
+| | | | | |  
++------+--------+----------------------+-----------+-------+--------+  
+| DA | A | Incursori, Fucilieri | | | |  
+| | | di Marina Palombari, | | | |  
+| | | Specialisti di volo | | | |  
++------+--------+----------------------+-----------+-------+--------+  
+| | |I periodi a| | |  
+| AIUTANTI | 1 anno |fianco in- | | |  
+| | |dicati de- | | |  
+| | |vono essere| | |  
+| | |effettuati | | |  
+| | |nel grado | | |  
+| | | | | |  
+| | | | | |  
++-------+-------+----------------------+-----------+-------+--------+  
+|Capi di|AIUTAN-| 7 anni |I periodi | | |  
+|1 Clas-|TI | |indicati si| | |  
+|se | | |intendono | | |  
+| | | |comprensivi| | |  
+| | | |degli anni | | |  
+| | | |di imbarco | | |  
+| | | |reparti o- | | |  
+| | | |perativi | | |  
+| | | |effettuati | | |  
+| | | |nei gradi | | |  
+| | | |precedenti | | |  
+| | | |anche in | | |  
+| | | |ruoli di- | | |  
+| | | |versi e in | | |  
+| | | |F.B. | | |  
+| | | | | | |  
++-------+-------+----------------------+-----------+-------+--------+  
+|Capi di|Capi di| 6 anni |idem come | | |  
+|2 Clas-|1 Clas-| |sopra | | |  
+|se |se | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+|Capi di|Capi di| | | | |  
+|3 Clas-|2 Clas-| | | | |  
+|se |se | | | | |  
+| | | | | | |  
++-------+-------+----------------------+-----------+-------+--------+
+  
+  
+RUOLO SERGENTI
+  
++---------------+---------------------------------------------------+  
+| GRADO | PERIODI MINIMI DI IMBARCO (1) |  
++-------+-------+-------------+--------+-----------+----------------+  
+| DA | A | Nocchieri |Tecnici |Specialisti| Nocchieri di |  
+| | | Specialisti |di armi | del | Porto |  
+| | | delle tele |Elettro-| servizio | |  
+| | |comunicazioni|tecnici |amministra-| |  
+| | | e scoperta | | tivo e | |  
+| | | Tecnici di | | logistico | |  
+| | | macchine | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+|2 Capo |2 Capo | 10 anni | 8 anni | 5 anni | 6 anni |  
+| | | | | | |  
+| |Scelto | | | | (2) |  
+| | | | | | |  
+| | | | | | |  
+|Sergen-|2 Capo | 7 anni | 6 anni | 4 anni | 3 anni |  
+| te | | | | | (2) |  
++-------+-------+-------------+--------+-----------+----------------+
+  
+  
+RUOLO TRUPPA
+  
++-------+-------+-------------+--------+-----------+----------------+   
+|Sotto- |Sotto- | 8 anni | 7 anni | 4 anni | 3 anni |  
+| capo | capo | | | | |  
+| di 1 | di 1 | | | | |  
+|classe |classe | | | | |  
+| | | | | | |  
+| |Scelto | | | | |  
+| | | | | | |  
+|Sotto- |Sotto- i 6 anni | 6 anni | 3 anni | |  
+| capo | capo | | | | |  
+| di 2 | di 1 | | | | |  
+|classe |classe | | | | |  
+| | | | | | |  
++-------+-------+-------------+--------+-----------+----------------+  
++---------------+----------------------+------------+-------+-------+  
+| |Periodi minimi in re- | | | |  
+| GRADO |parti operativi (1) | NOTE | CORSI | ESAMI |  
++-------+-------+----------------------+------------+-------+-------+  
+| DA | A | Incursori, Fucilieri | | | |  
+| | | di Marina Palombari, | | | |  
+| | | Specialisti di volo | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | | | | |  
+| | | |I periodi | | |  
+| | | |indicati si | | |  
+| | | |intendono | | |  
+| | | |comprensivi | | |  
+| | | |degli anni | | |  
+| | | |di imbarco/ | | |  
+| | | |reparti ope-| | |  
+| | | |rativi ef- | | |  
+| | | |fettuati nei| | |  
+| | | |gradi prece-| | |  
+|2 Capo |2 Capo | 8 anni |denti anche | | |  
+| | | |ruoli diver-| | |  
+| |Scelto | |si e in F.B.| | |  
+| | | | | | |  
+| | | | | | |  
+|Sergen-|2 Capo | 6 anni | idem come | | |  
+| te | | | sopra | | |  
+| | | | | | |  
+|Sotto- |Sotto- i 7 anni | | | |  
+| capo | capo | | | | |  
+| di 1 | di 1 | | | | |  
+|classe |classe | | idem come | | |  
+| | | | sopra | | |  
+| |Scelto | | | | |  
+| | | | | | |  
+|Sotto- |Sotto- i 6 anni | | | |  
+| capo | capo | | idem come | | |  
+| di 2 | di 1 | | sopra | | |  
+|classe |classe | | | | |  
+| | | | | | |  
++-------+-------+----------------------+------------+-------+-------+
+  
+  
+  
+NOTE:   
+(1) a) i periodi di imbarco/reparti operativi previsti dalla presente tabella si applicano al personale reclutato con le norme a regime ai sensi degli artt. 8 e seguenti del D. L.vo 196/95. Per il restante personale compreso quello reclutato ai sensi delle disposizioni transitorie di cui agli artt. 34 e seguenti del D. L.vo 196/95, i periodi di imbarco/reparti operativi si considerano ridotti alla meta';   
+b) Restano ferme le disposizioni dell'[art. 5 e del secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art5-com2), [terzo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art5-com3) e [quarto comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art5-com4) dell'[art. 6 della Legge 26 Giugno 1965, n. 813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-26;813~art6), nonche', in quanto applicabili le disposizioni dell'art. 68 del Testo Unico sull'Ordinamento del CEMM approvato con [Regio decreto del 18 Giugno 1931, n. 914](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;914), e successive modificazioni.   
+c) sono esenti dal compiere il periodo minimo di imbarco i musicanti, i conduttori di automezzi e gli istruttori marinareschi educatori fisici.   
+(2) Per il personale NP le attribuzioni specifiche, possono essere soddisfatte, in tutto o in parte, con la permanenza presso componenti specialistiche del Corpo (nuclei aerei, sez. elicotteri MRCC/MRSC, stazioni LORAN, VTS/PAC, stazioni COSPAS/SARSAT, nuclei subacquei) pari al tempo necessario per il completamento del periodo richiesto. (3) Il Ministro della Difesa ha facolta' di istituire con proprio decreto corsi per acquisire le condizioni per l'avanzamento, tenendo conto delle esigenze formative dei Sottufficiali e delle particolari necessita' di servizio.   

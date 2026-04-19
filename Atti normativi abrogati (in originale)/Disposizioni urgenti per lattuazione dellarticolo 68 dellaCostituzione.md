@@ -1,14 +1,14 @@
-DECRETO-LEGGE 08 gennaio 1996 n. 9
+DECRETO-LEGGE 07 settembre 1995 n. 374
 
 
-DECRETO-LEGGE 08 gennaio 1996 n. 9
-==================================
+DECRETO-LEGGE 07 settembre 1995 n. 374
+======================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della 
 Costituzione.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 11/9/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 gennaio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 settembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -62,14 +62,12 @@ Art. 6
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 gennaio 1996
+### Dato a Roma, addi' 7 settembre 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-Ministri e Ministro del tesoro e,
+MANCUSO, Ministro di grazia e giustizia
 
-ad interim, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: MANCUSO

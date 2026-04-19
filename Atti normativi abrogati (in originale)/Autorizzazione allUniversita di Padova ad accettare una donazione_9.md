@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1765
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 19 novembre 1946 n. 696
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1765
-=================================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 19 novembre 1946 n. 696
+================================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1765. Decreto del Capo provvisorio dello Stato 31 dicembre 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 50.000, disposta in suo favore dai signori Ettore Munaron e prof. dott. Piero Perna, in proprio e in rappresentanza di altri offerenti, con alto pubblico in data 20 maggio 1946, per la istituzione di una borsa di studio biennale, da intitolarsi al nome del "Tenente Gianni Munaron" e da conferirsi ad uno studente dell'Universita' di Padova iscritto al biennio propedeutico d'ingegneria, il quale si distingua, per condotta, disciplina e profitto e appartenga a famiglia di disagiate condizioni economiche.  
+696. Decreto del Capo provvisorio dello Stato 19 novembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 107.500, disposta in suo favore, con atto pubblico in data 13 ottobre 1945, dal Sig. Ubaldo Camillotti, per l'istituzione di una borsa di studio annuale, da intitolarsi al nome del "dott. Francesco Camillotti" e da conferirsi a quello studente od a quel laureato nella Facolta' di medicina e chirurgia dell'Universita' di Padova, da non piu' di due anni, il quale intenda frequentare con la qualifica di allievo interno l'Istituto di farmacologia dell'Universita' medesima.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 18 marzo 1948
+Visto, il Guardasigilli: GULLO  
+Registrato alla Corte dei Conti, addi' 20 febbraio 1947

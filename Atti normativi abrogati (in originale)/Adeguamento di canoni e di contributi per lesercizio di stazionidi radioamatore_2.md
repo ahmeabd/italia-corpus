@@ -1,14 +1,14 @@
-DECRETO-LEGGE 03 maggio 1996 n. 240
+DECRETO-LEGGE 01 marzo 1996 n. 106
 
 
-DECRETO-LEGGE 03 maggio 1996 n. 240
-===================================
+DECRETO-LEGGE 01 marzo 1996 n. 106
+==================================
 
 Adeguamento di canoni e di contributi per l'esercizio di stazioni 
 di radioamatore.
 -----------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 4-5-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 4-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,7 +19,7 @@ Visto il testo unico delle disposizioni legislative in materia postale, della ba
 
 Ritenuta la straordinaria necessita' ed urgenza di adeguare i canoni ed i contributi dovuti per l'esercizio di stazioni di radioamatore e di apparecchi radioelettrici ricetrasmittenti di debole potenza;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 febbraio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni;
 
@@ -48,7 +48,7 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 maggio 1996
+### Dato a Roma, addi' 1 marzo 1996
 
 SCALFARO
 

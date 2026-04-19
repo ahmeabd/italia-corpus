@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 aprile 1994 n. 264
+DECRETO-LEGGE 28 febbraio 1994 n. 142
 
 
-DECRETO-LEGGE 29 aprile 1994 n. 264
-===================================
+DECRETO-LEGGE 28 febbraio 1994 n. 142
+=====================================
 
 Gestione di ammasso dei prodotti agricoli e campagne di commercializzazione del grano per gli anni 1962-1963 e 1963-1964.
 -------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/5/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 02-03-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di provvedere alla regolazione degli oneri a carico dello Stato derivanti dai disavanzi delle gestioni di ammasso dei prodotti agricoli, relative agli anni 1962-1964;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri delle risorse agricole, alimentari e forestali e del tesoro, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -25,7 +25,7 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-1. Per la regolazione del debito dello Stato, assunto in base ad atti formali, riveniente dai finanziamenti assistiti da privilegio, in dipendenza delle campagne di ammasso obbligatorio o di commercializzazione di prodotti agricoli, e comprensivo degli oneri per spese di bollo ed interessi passivi, e' autorizzato il rilascio alla Banca d'Italia di titoli di Stato con godimento 1 febbraio 1994, senza corresponsione di interesse, in sostituzione dei titoli di credito detenuti dallo stesso istituto di emissione.
+1. Per la regolazione del debito dello Stato, assunto in base ad atti formali, riveniente dai finanziamenti assistiti da privilegio, in dipendenza delle campagne di ammasso obbligatorio o di commercializzazione di prodotti agricoli, e comprensivo degli oneri per spese di bollo ed interessi passivi, e' autorizzato il rilascio alla Banca d'Italia di titoli di Stato con godimento 1 febbraio 1994, senza corresponsione di interesse, in sostituzione dei titoli di credito detenuti dallo stesso Istituto di emissione.
 
 2. Il rilascio dei titoli di Stato di cui al comma 1 e' subordinato all'intervenuta approvazione con provvedimenti definitivi ed esecutivi dei rendiconti delle gestioni alle quali essi si riferiscono, restando comunque impregiudicati i diritti dello Stato.
 
@@ -52,7 +52,7 @@ Art. 3
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1994
+### Dato a Roma, addi' 28 febbraio 1994
 
 SCALFARO
 

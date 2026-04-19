@@ -1,7 +1,7 @@
-LEGGE 02 gennaio 1952 n. 10
+LEGGE 15 luglio 1954 n. 543
 
 
-LEGGE 02 gennaio 1952 n. 10
+LEGGE 15 luglio 1954 n. 543
 ===========================
 
 Disposizioni integrative della legge 10 agosto 1950, n. 647, per l'esecuzione di opere straordinarie di pubblico interesse nell'Italia settentrionale e centrale.
@@ -21,63 +21,61 @@ Art. 1
 ------
 
   
-L'[art. 2 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art2), e' sostituito dal seguente:  
-"Per le opere riguardanti la viabilita' ordinaria non statale, da eseguirsi ai sensi dell'art. 1, lo Stato potra' assumere a totale o parziale suo carico la spesa di sistemazione di strade esistenti anche se per tali opere non sia prevista la concessione di contributi dello Stato.  
-"Potra' inoltre assumere a totale o parziale suo carico la costruzione di nuove strade per le quali non sia previsto alcun contributo.  
-"Per l'esecuzione dei lavori di viabilita' ordinaria non statale, per i quali e' previsto il concorso dello Stato, il Ministero dei lavori pubblici, in attesa del perfezionamento delle pratiche relative ai mutui, e' autorizzato ad anticipare sui fondi di cui al successivo art. 5 la quota di spesa a carico degli enti locali, previo riconoscimento di debito da parte degli stessi. In tal caso, il Ministero dei lavori pubblici dara' comunicazione dell'anticipazione a quello del tesoro, il quale potra' sostituirsi all'ente locale nell'adempimento delle pratiche necessarie all'ottenimento del mutuo da parte della Cassa depositi e prestiti.  
-"Il ricavo del mutuo affluira' alle Casse dello Stato a copertura dell'anticipazione fatta.  
-"Con decreto del Ministro per il tesoro si provvedera' al reintegro del corrispondente capitolo dello Stato di previsione della spesa del Ministero dei lavori pubblici.  
-"Per i lavori di cui al terzo comma del presente articolo da eseguirsi in Comuni montani con popolazione non superiore ai 3000 abitanti lo Stato puo' assumere a totale suo carico l'onere relativo quando la quota di ammortamento e di interessi del mutuo da contrarsi da parte del- l'Amministrazione interessata gravi sul bilancio comunale in misura non inferiore a un decimo delle entrate del bilancio stesso nell'anno anteriore al finanziamento dei lavori.  
-"Sono da considerarsi Comuni montani quelli censuari il cui territorio abbia un'altitudine minima, non inferiore a metri 600 sul livello del mare, ovvero un dislivello non inferiore a metri 600 tra l'altitudine minima e quella massima, sempre che il reddito imponibile medio per ettaro censito, risultante della somma del reddito dominicale e del reddito agrario determinati a norma del [regio decreto-legge 4 aprile 1939, n. 589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-04;589), convertito nella [legge 29 giugno 1939, n. 976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;976), non sia maggiore di lire duecento.  
-"Per gli acquedotti anche promiscui e relative fognature da eseguirsi ai sensi dell'art. 1 lo Stato potra' assumere a totale suo carico la costruzione delle opere principali di raccolta e di adduzione, ivi compresi i serbatoi ed escluso comunque quanto attiene alla rete interna di distribuzione".  
+Il [primo comma dell'art. 1 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art1-com1), e' sostituito dal seguente:  
+"A partire dall'esercizio finanziario 1950-51 e fino all'esercizio 1961-62 incluso, i Ministeri dei lavori pubblici e dell'agricoltura e delle foreste provvederanno, nell'ambito delle rispettive competenze e sostenendo gli oneri previsti a carico dello Stato dalla legislazione vigente, a fare eseguire opere straordinarie di pubblico interesse, nelle localita' economicamente depresse delle regioni e province della Repubblica, diverse da quelle indicate nell'[art. 3 della legge 10 agosto 1950, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;646~art3), relativa all'istituzione della Cassa per opere straordinarie di pubblico interesse nell'Italia meridionale".  
 
 Art. 2
 ------
 
   
-Spetta al Comitato dei Ministri previsto dall'[art. 3 della legge 10 agosto 1950, n. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;617~art3), deliberare l'assunzione a totale o parziale carico dello Stato delle opere contemplate dall'art. 2 della legge stessa.  
-La deliberazione del Comitato e' adottata su domanda diretta al Ministero dei lavori pubblici dagli enti locali interessati. Quando il Comitato decida l'assunzione a carico parziale dello Stato, la sua deliberazione fissa la quota percentuale del concorso dello Stato sull'importo preventivato dei lavori.  
+L'[art. 3 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art3), gia' modificato con l'[art. 3 della legge 25 luglio 1952, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;949~art3), e' sostituito dal seguente:  
+"I programmi delle opere da eseguirsi saranno predisposti e coordinati di concerto tra i vari Ministeri interessati e sottoposti all'approvazione di un Comitato dei Ministri designato dal Consiglio dei Ministri.  
+Per l'attuazione di tali programmi e' autorizzata la spesa di lire 250 miliardi.  
+Ai fini dei pagamenti da effettuare in dipendenza degli impegni da assumere in applicazione dell'autorizzazione di spesa di cui al precedente comma, sara' stanziata la somma di lire 20 miliardi in ciascuno degli esercizi dal 1950-51 al 1954-55, di lire 22 miliardi in ciascuno degli esercizi successivi, a partire da quello 1955-56, fino all'esercizio 1959-60 compreso, e di lire 20 miliardi in ciascuno degli esercizi 1960-61 e 1961-62.  
+Detta autorizzazione di spesa sara' ripartita fra il Ministero dei lavori pubblici ed il Ministero dell'agricoltura e delle foreste, in relazione ai programmi relativi alle opere di cui all'art. 1.  
+Con decreti da emanarsi dal Ministro competente e' dichiarata, a tutti gli effetti, la pubblica utilita' delle opere approvate.  
+Le opere stesse sono considerate indifferibili ed urgenti ai sensi e per gli effetti dell'[art. 71 della legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359~art71)".
 
 Art. 3
 ------
 
   
-E' in facolta' del Ministero dei lavori pubblici e dei dipendenti Provveditorati regionali alle opere pubbliche, nei rispettivi limiti di competenza, consentire che le opere previste dall'[art. 1 della legge 10 agosto 1950, n. 617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;617~art1), di competenza del Ministero stesso, siano eseguite, in base ad apposite convenzioni, a cura delle Amministrazioni provinciali e comunali o dei consorzi tra detti enti interessati, che ne facciano richiesta e che possiedano una adeguata attrezzatura tecnico-ammini- strativa.  
-Le Amministrazioni provinciali possono assumere, colle modalita' di cui al comma precedente, l'esecuzione di lavori di interesse di piu' Comuni della provincia, o anche di singoli Comuni, purche', in questo caso, ne vengano richieste dall'Amministrazione comunale interessata.
+Il Comitato dei Ministri, di cui all'[art. 3 della legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647~art3), modificato con l'art. 2 della presente legge, puo' autorizzare che una somma non superiore al 2 per cento delle assegnazioni da esso deliberate per la costruzione di acquedotti, sia utilizzata dal Ministero dei lavori pubblici per gli studi e le progettazioni relative.  
 
 Art. 4
 ------
 
   
-Nei casi previsti dall'articolo precedente il pagamento da parte dello Stato delle somme dovute viene effettuato gradualmente in base a stati d'avanzamento vistati dal Genio civile.  
-In caso di assunzione dell'opera a parziale carico dello Stato, nel disporre i pagamenti si segue il rapporto percentuale determinato nella deliberazione prevista dal capoverso dell'art. 2.  
-A richiesta delle Amministrazioni comunali e provinciali puo' essere anticipato ai prefetti una parte della somma da corrispondersi dallo Stato per i lavori, in modo cime essi possano provvedere, con le modalita' e nei limiti stabiliti dall'[art. 8 del regio decreto 16 giugno 1904, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-16;415~art8), pagamento di acconti in proporzione all'avanzamento dei lavori.  
+L'ultimo comma dell'[art. 24 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art24), e' sostituito dal seguente:  
+"Per gli esercizi finanziari dal 1951-52 al 1961-62 incluso sara' provveduto con prelievo sugli stanziamenti annui previsti dalla [legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647), per l'esecuzione di opere straordinarie di pubblico interesse nell'Italia centrale e settentrionale".  
 
 Art. 5
 ------
 
   
-In deroga ad ogni altra norma vigente, per le opere da eseguirsi ai sensi dell'art. 3 della presente legge, ogni determinazione in merito alle convenzioni ivi previste spetta ai Provveditorati regionali alle opere pubbliche, nei limiti di valore stabiliti per la loro competenza.  
+L'[art. 1 della legge 25 luglio 1952, n. 998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;998~art1), e' modificato come segue:  
+"Sul fondo annuale di cui all'[art. 24, comma quarto, della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art24-com4), a decorrere dall'esercizio 1952-53 e fino all'esercizio 1961-62, incluso, sono assegnate a favore degli Enti di riforma fondiaria che operano nelle localita' di cui alla [legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647), le seguenti somme:  
+a) all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino:  
+  
+Esercizio 1952-53. . . . . . . . . . . . . . . . . . L. 5.000.000.000 Esercizio 1953-54. . . . . . . . . . . . . . . . . . L. 5.000.000.000 Esercizio 1954-55. . . . . . . . . . . . . . . . . . L. 5.000.000.000 Esercizio 1955-56. . . . . . . . . . . . . . . . . . L. 5.900.000.000 Esercizio 1956-57. . . . . . . . . . . . . . . . . . L. 5.900.000.000 Esercizio 1957-58. . . . . . . . . . . . . . . . . . L. 5.900.000.000 Esercizio 1958-59. . . . . . . . . . . . . . . . . . L. 5.900.000.000 Esercizio 1959-60. . . . . . . . . . . . . . . . . . L. 5.900.000.000 Esercizio 1960-61. . . . . . . . . . . . . . . . . . L. 5.000.000.000 Esercizio 1961-62. . . . . . . . . . . . . . . . . . L. 4.000.000.000   
+b) all'Ente per la colonizzazione del Delta Padano:  
+  
+Esercizio 1952-53. . . . . . . . . . . . . . . . . . L. 2.000.000.000 Esercizio 1953-54. . . . . . . . . . . . . . . . . . L. 2.000.000.000 Esercizio 1954-55. . . . . . . . . . . . . . . . . . L. 2.000.000.000 Esercizio 1955-56. . . . . . . . . . . . . . . . . . L. 2.300.000.000 Esercizio 1956-57. . . . . . . . . . . . . . . . . . L. 2.300.000.000 Esercizio 1957-58. . . . . . . . . . . . . . . . . . L. 2.300.000.000 Esercizio 1958-59. . . . . . . . . . . . . . . . . . L. 2.300.000.000 Esercizio 1959-60. . . . . . . . . . . . . . . . . . L. 2.300.000.000 Esercizio 1960-61. . . . . . . . . . . . . . . . . . L. 3.000.000.000 Esercizio 1961-62 . . . . . . . . . . . . . . . . . L. 1.000.000.000.
 
 Art. 6
 ------
 
   
-Fermi restando i maggiori benefici contenuti in leggi speciali, gli atti o contratti occorrenti per l'attuazione della presente legge, nonche' gli atti di cessione del contributo dello Stato sono soggetti al trattamento fiscale stabilito per gli atti stipulati dallo Stato.  
-Sono salvi gli emolumenti dovuti ai conservatori dei registri immobiliari e i diritti e compensi spettanti agli uffici finanziari.
-
-Art. 7
-------
-
-  
-I benefici previsti dalla [legge 10 agosto 1950, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;647), e della presente legge, si applicano anche ai Consorzi di comuni, di province e di comuni e province.  
+L'[art. 2 della legge 25 luglio 1952, n. 998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-07-25;998~art2), e' sostituito dal seguente:  
+"Allo scopo di assicurarsi i fondi occorrenti per la esplicazione della propria attivita', secondo le necessita' dei diversi esercizi finanziari, gli Enti, di cui al precedente art. 1, possono chiedere al Ministero dell'agricoltura e delle foreste l'autorizzazione a cedere, di concerto col Ministero del tesoro, in tutto o in parte, le somme ad essi assegnate per gli esercizi successivi a quello in corso alla data della richiesta, ovvero ad emettere obbligazioni sulle assegnazioni per gli stessi esercizi.  
+Le operazioni di cui al precedente comma sono esenti da ogni imposta presente e futura".  
   
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Napoli, addi' 2 gennaio 1952
+### Data a Roma, addi' 15 luglio 1954
 
-EINAUDI DE GASPERI - ALDISIO
+EINAUDI SCELBA - SARAGAT - CAMPILLI - PICCIONI - DE PIETRO - VANONI - TREMELLONI - GAVA - TAVIANI - MARTINO - ROMITA - MEDICI - MATTARELLA - CASSIANI - VILLABRUNA - VIGORELLI - MARTINELLI - TAMBRONI - TUPINI - DE CARO - PONTI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: DE PIETRO

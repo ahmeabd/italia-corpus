@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 luglio 1996 n. 396
+DECRETO-LEGGE 24 settembre 1996 n. 499
 
 
-DECRETO-LEGGE 26 luglio 1996 n. 396
-===================================
+DECRETO-LEGGE 24 settembre 1996 n. 499
+======================================
 
 Norme in materia previdenziale.
 -------------------------------
 
-Entrata in vigore del decreto: 28-7-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-9-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia previdenziale, dirette a dare attuazione alle sentenze della Corte costituzionale, nonche' a disciplinare la tutela previdenziale dei lavoratori autonomi e parasubordinati;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 luglio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 settembre 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri delle finanze, del tesoro e del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
 
@@ -28,7 +28,7 @@ Art. 1
 Attuazione delle sentenze della Corte costituzionale  
 n. 495 del 1993 e n. 240 del 1994
 
-1. Il rimborso delle somme, maturate fino al 31 dicembre 1995, sui trattamenti pensionistici erogati dagli enti previdenziali interessati, in conseguenza dell'applicazione delle [sentenze della Corte costituzionale n. 495 del 1993](https://e-justice.europa.eu/ecli/ECLI::::) e [n. 240 del 1994](https://e-justice.europa.eu/ecli/ECLI::::), e' effettuato mediante assegnazione agli aventi diritto di titoli di Stato, sottoposti allo stesso regime tributario dei titoli di debito pubblico, aventi libera circolazione. Tale pagamento avviene in sei annualita', sulla base degli elenchi riepilogativi che gli enti provvederanno annualmente ad inviare al Ministero del tesoro. Con decreto del Ministro del tesoro sono stabilite le caratteristiche dei titoli di Stato, ivi compreso il taglio minimo, e le procedure e i criteri di assegnazione dei medesimi sulla base della vigente normativa agli aventi diritto, anche se residenti all'estero, da effettuare tramite l'ente previdenziale competente. Gli importi residuali eccedenti il predetto taglio minimo sono liquidati direttamente dai predetti enti. L'emissione dei titoli, per l'anno 1996, non puo' superare l'importo di lire 3.135 miliardi.
+1. Il pagamento delle somme, maturate fino al 31 dicembre 1995, sui trattamenti pensionistici erogati dagli enti previdenziali interessati, in conseguenza dell'applicazione delle [sentenze della Corte costituzionale n. 495 del 1993](https://e-justice.europa.eu/ecli/ECLI::::) e [n. 240 del 1994](https://e-justice.europa.eu/ecli/ECLI::::), e' effettuato mediante assegnazione agli aventi diritto di titoli di Stato, sottoposti allo stesso regime tributario dei titoli di debito pubblico, aventi libera circolazione. Tale pagamento avviene in sei annualita', sulla base degli elenchi riepilogativi che gli enti provvederanno annualmente ad inviare al Ministero del tesoro. Con decreto del Ministro del tesoro sono stabilite le caratteristiche dei titoli di Stato, ivi compreso il taglio minimo, e le procedure e i criteri di assegnazione dei medesimi sulla base della vigente normativa agli aventi diritto, anche se residenti all'estero, da effettuare tramite l'ente previdenziale competente. Gli importi residuali eccedenti il predetto taglio minimo sono liquidati direttamente dai predetti enti. L'emissione dei titoli, per l'anno 1996, non puo' superare l'importo di lire 3.135 miliardi.
 
 2. Il diritto al pagamento delle somme arretrate di cui al comma 1 spetta ai soli soggetti interessati e ai loro superstiti aventi titolo alla pensione di reversibilita' alla data del 30 marzo 1996.  
 La verifica annuale del requisito reddituale per il diritto all'integrazione del trattamento e' effettuata non solo in relazione ai redditi riferiti all'anno 1983, ma anche con riferimento ai redditi degli anni successivi. Nella determinazione dell'importo maturato al 31 dicembre 1995 non concorrono gli interessi e la rivalutazione monetaria. Per gli anni successivi, sulle somme ancora da rimborsarsi, sono dovuti gli interessi nella misura della variazione dell'indice dei prezzi al consumo per le famiglie di operai ed impiegati accertata dall'ISTAT per l'anno precedente. Gli enti ne terranno conto in sede di trasmissione degli elenchi di cui al comma 1.
@@ -45,7 +45,7 @@ n. 141 del 1989 e n. 78 del 1993
 
 1. I contributi versati dal 1 gennnaio 1952 al 31 dicembre 1995 nell'assicurazione facoltativa di cui al titolo IV del [regio decreto-legge 4 ottobre 1935, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827), convertito, con modificazioni, dalla [legge 6 aprile 1936, n. 1155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-06;1155), nonche' quelli versati dal 15 ottobre 1963 al 31 dicembre 1995 nell'assicurazione "Mutualita' pensioni" di cui alla [legge 5 marzo 1963, n. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-03-05;389), sono rivalutati, secondo l'anno di versamento, in base all'aumento percentuale del costo della vita calcolato dall'ISTAT ai fini della scala mobile delle retribuzioni dei lavoratori dell'industria oppure, ove non disponibile, in base al coefficiente di rivalutazione della lira e, dal 1 gennaio 1996, decorrono gli aumenti dei relativi trattamenti pensionistici.
 
-2. Dal 1 gennaio 1996 i contributi versati nelle assicurazioni di cui al comma 1 sono rivalutati annualmente con il criterio di cui al medesimo comma.
+2. Dal 1 gennaio 1996 i contributi versati nella assicurazione di cui al comma 1 sono rivalutati annualmente con il criterio di cui al medesimo comma.
 
 Art. 3
 ------
@@ -104,7 +104,7 @@ previste dai contratti di secondo livello
 
 5. Il regime contributivo di cui ai commi 1 e seguenti non si applica quando risulti che ai dipendenti siano stati attribuiti, nell'anno solare di riferimento, trattamenti economici e normativi inferiori a quelli previsti dal contratto collettivo nazionale di lavoro.
 
-6. Ai fini dell'applicazione del regime contributivo previsto dal presente articolo i contratti di cui al comma 1 sono depositati presso l'ufficio provinciale del lavoro e della massima occupazione entro 15 giorni dalla data della loro stipulazione a cura del datore di lavoro o dell'associazione alla quale egli aderisce; i contratti gia' stipulati alla data di entrata in vigore del presente decreto sono depositati entro il 30 giugno 1996.
+6. Ai fini dell'applicazione del regime contributivo previsto dal presente articolo i contratti di cui al comma 1 sono depositati presso l'ufficio provinciale del lavoro e della massima occupazione entro trenta giorni dalla data della loro stipulazione a cura del datore di lavoro o dell'associazione alla quale egli aderisce; i contratti stipulati anteriormente al 1 ottobre 1996 sono depositati entro il 31 ottobre 1996.
 
 7. Il datore di lavoro che ha indebitamente beneficiato del regime contributivo di cui al comma 1, oltre al versamento dei contributi evasi, e' tenuto al pagamento delle sanzioni civili ed amministrative previste dalle vigenti disposizioni di legge.
 
@@ -138,7 +138,7 @@ Clausola finanziaria
 
 a) quanto a lire 58 miliardi per l'anno 1996 e a lire 108 miliardi annui, per ciascuno degli anni 1997 e 1998, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e della previdenza sociale;
 
-b) quanto a lire 4 miliardi per l'anno 1997, a lire 70 miliardi per l'anno 1998, a lire 111 miliardi per l'anno 1999, a lire 164 miliardi a decorrere dall'anno 2000, mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 1, comma 4, del decreto-legge 3 giugno 1996, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-03;300~art1-com4);
+b) quanto a lire 4 miliardi per l'anno 1997, a lire 70 miliardi per l'anno 1998, a lire 111 miliardi per l'anno 1999, a lire 164 miliardi a decorrere dall'anno 2000, mediante corrispondente riduzione del Fondo di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 1, comma 4, del decreto-legge 2 agosto 1996, n. 404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-02;404~art1-com4);
 
 c) quanto a lire 9 miliardi per l'anno 1996, mediante utilizzo delle disponibilita' del Fondo di cui all'[articolo 25 della legge 21 dicembre 1978, n. 845](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;845~art25), che allo scopo vengono versate all'entrata del bilancio dello Stato per essere assegnate ai pertinenti capitoli dello stato di previsione del Ministero del lavoro e della previdenza sociale per il medesimo anno;
 
@@ -156,7 +156,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 luglio 1996
+### Dato a Roma, addi' 24 settembre 1996
 
 SCALFARO
 

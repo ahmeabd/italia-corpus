@@ -1,14 +1,14 @@
-DECRETO-LEGGE 29 aprile 1995 n. 135
+DECRETO-LEGGE 28 febbraio 1995 n. 57
 
 
-DECRETO-LEGGE 29 aprile 1995 n. 135
-===================================
+DECRETO-LEGGE 28 febbraio 1995 n. 57
+====================================
 
 Disposizioni urgenti in materia di assistenza farmaceutica e di 
 sanita'.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28/2/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di assistenza farmaceutica e di sanita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -75,7 +75,8 @@ hanno validita' limitata a tre mesi; esse devono essere ritirate dal farmacista 
 
 4. All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "i farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "i farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee".
 
-5. Il [comma 3 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com3), e' sostituito dal seguente:  
+5. Il [comma 3 dell'articolo 15 del decreto legislativo  
+29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com3), e' sostituito dal seguente:  
 " 3. In caso di vendita o di detenzione per la vendita di specialita' medicinali per le quali sono intervenuti provvedimenti del Ministero della sanita' di sospensione o di revoca, e' applicata la sanzione amministrativa da lire cinquecentomila a lire unmilionecinquecentomila.".
 
 6. Il [comma 4 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com4), e' sostituito dal seguente:  
@@ -115,7 +116,7 @@ Art. 7
 2. La durata dei singoli corsi e i requisiti di ammissione sono stabiliti con decreto del Ministro della sanita', sentita l'Agenzia per i servizi sanitari regionali, d'intesa con il Ministro per la funzione pubblica, da emanare entro il 31 marzo 1995.
 
 3. Il programma formativo e l'organizzazione dei corsi sono oggetto di specifiche convenzioni da stipulare entro il 30 aprile 1995 tra il Ministero della sanita', la Scuola superiore della pubblica amministrazione, l'Agenzia per i servizi sanitari regionali, le istituzioni universitarie o idonee istituzioni private. La Scuola superiore della pubblica amministrazione, l'Agenzia per i servizi sanitari regionali e le istituzioni universitarie possono utilizzare per l'organizzazione dei corsi, mediante specifiche convenzioni, istituzioni universitarie, di ricerca o di formazione superiore, pubbliche e private, anche tra loro consorziate o collegate.  
-L'idoneita' delle istituzioni private e' verificata da una apposita commissione scientifica nominata dal Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, della quale fanno parte esperti in discipline attinenti all'organizzazione dell'amministrazione sanitaria e alla metodologia didattica.
+L'idoneita' delle istituzioni private e' verificata da una apposita commissione scientifica nominata dal Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, della quale fanno parte esperti in discipline attinenti all'organizzazione dell'amministrazione sanitarie e alla metodologia didattica.
 
 4. Le province autonome di Trento e di Bolzano possono provvedere all'istituzione dei corsi di cui al comma 1 ai sensi del [terzo comma dell'articolo 5 del decreto del Presidente della Repubblica 1 novembre 1973, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-11-01;689~art5-com3), aggiunto dall'[articolo 3 del decreto legislativo 16 marzo 1992, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;267~art3). Nella provincia di Bolzano e nella regione Valle d'Aosta, fra i requisiti di cui al comma 2 e' compreso quello del bilinguismo rispettivamente ai sensi del titolo I del [decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e dell'articolo 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752~art38) della [legge costituzionale 26 febbraio 1948, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4).
 
@@ -129,18 +130,17 @@ Art. 8
 Art. 9
 ------
 
-1. A decorrere dal 1 gennaio 1995, le prestazioni di assistenza ospedaliera erogate nell'ambito del Servizio sanitario nazionale, sono remunerate sulla base di tariffe predeterminate dalle regioni secondo i criteri generali definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni.  
-Le regioni che alla data del 1 gennaio 1995 non abbiano adottato i provvedimenti di fissazione delle nuove tariffe applicano, in via transitoria, le tariffe fissate con [decreto del Ministro della sanita' 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300).
+1. A decorrere dal 1 gennaio 1995, le prestazioni di assistenza ospedaliera erogate nell'ambito del Servizio sanitario nazionale, sono remunerate sulla base di tariffe predeterminate dalle regioni e dalle province autonome secondo i criteri generali definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni. Le regioni e le province autonome che alla data del 1 gennaio 1995 non abbiano adottato i provvedimenti di fissazione delle nuove tariffe applicano, in via transitoria, le tariffe fissate con [decreto del Ministro della sanita' 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300).
 
-2. Le tariffe di cui al citato [decreto del Ministro della sanita' del 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300), rappresentano il livello massimo da corrispondere ai soggetti erogatori entro il quale le regioni possono stabilire con propria determinazione ed attraverso la negoziazione dei servizi e delle prestazioni, le corrispettive tariffe a fronte delle singole prestazioni rese agli assistiti, di cui all'[articolo 8, commi 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com5) e [7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com7), e successive modificazioni ed integrazioni.
+2. Le tariffe di cui al citato [decreto del Ministro della sanita' del 14 dicembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 300 del 24 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-24&numeroGazzetta=300), rappresentano il livello massimo da corrispondere ai soggetti erogatori entro il quale le regioni e le province autonome possono stabilire con propria determinazione ed attraverso la negoziazione dei servizi e delle prestazioni, le corrispettive tariffe a fronte delle singole prestazioni rese agli assistiti, di cui all'[articolo 8, commi 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com5) e [7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com7), e successive modificazioni ed integrazioni.
 
-3. Le regioni, con periodicita' almeno triennale, provvedono all'aggiornamento delle tariffe, tenendo conto delle innovazioni tecnologiche e delle variazioni dei costi delle prestazioni rilevate.
+3. Le regioni e le province autonome, con periodicita' almeno triennale, provvedono all'aggiornamento delle tariffe, tenendo conto delle innovazioni tecnologiche e delle variazioni dei costi delle prestazioni rilevate.
 
-4. Le regioni vigilano sulla corretta applicazione del sistema di remunerazione mediante tariffe predeterminate da parte delle unita' sanitarie locali e dei soggetti erogatori, pubblici e privati, secondo i criteri definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni.
+4. Le regioni e le province autonome vigilano sulla corretta applicazione del sistema di remunerazione mediante tariffe predeterminate da parte delle unita' sanitarie locali e dei soggetti erogatori, pubblici e privati, secondo i criteri definiti nel decreto del Ministro della sanita' attuativo dell'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com6), e successive modificazioni ed integrazioni.
 
-5. Al fine di consentire l'acquisizione delle informazioni necessarie alla programmazione sanitaria nazionale, le regioni provvedono ad inviare al Ministero della sanita' i provvedimenti regionali e provinciali di determinazione delle tariffe delle prestazioni, corredati dei relativi dati di riferimento sui costi, entro sessanta giorni dalla loro approvazione.
+5. Al fine di consentire l'acquisizione delle informazioni necessarie alla programmazione sanitaria nazionale, le regioni e le province autonome provvedono ad inviare al Ministero della sanita' i provvedimenti regionali e provinciali di determinazione delle tariffe delle prestazioni, corredati dei relativi dati di riferimento sui costi, entro sessanta giorni dalla loro approvazione.
 
-6. Le tariffe relative alle prestazioni erogate in forma indiretta sono definite dalle regioni in misura inferiore alle tariffe definite secondo i criteri di cui al presente articolo.
+6. Le tariffe relative alle prestazioni erogate in forma indiretta sono definite dalle regioni e dalle province autonome in misura inferiore alle tariffe definite secondo i criteri di cui al presente articolo.
 
 Art. 10
 -------
@@ -151,12 +151,12 @@ Art. 10
 Art. 11
 -------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1995
+### Dato a Roma, addi' 28 febbraio 1995
 
 SCALFARO
 

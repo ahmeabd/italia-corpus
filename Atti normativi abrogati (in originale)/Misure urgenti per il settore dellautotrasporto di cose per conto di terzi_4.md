@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 novembre 1993 n. 481
+DECRETO-LEGGE 28 gennaio 1994 n. 69
 
 
-DECRETO-LEGGE 29 novembre 1993 n. 481
-=====================================
+DECRETO-LEGGE 28 gennaio 1994 n. 69
+===================================
 
 Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi.
 ----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-11-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-1-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni di sostegno in favore del settore dell'autotrasporto di cose per conto di terzi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 novembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 gennaio 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro e delle finanze;
 
 E M A N A il seguente decreto-legge:
 
@@ -35,21 +35,21 @@ Art. 1
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 novembre 1993
+### Dato a Roma, addi' 28 gennaio 1994
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
 
-COSTA, Ministro dei trasporti
+COSTA, Ministro dei trasporti e della navigazione
 
 BARUCCI, Ministro del tesoro
 
-SPAVENTA, Ministro del bilan cio e della programmazione economica
+GALLO, Ministro delle finanze
 
 Visto, il Guardasigilli: CONSO

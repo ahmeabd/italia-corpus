@@ -1,13 +1,13 @@
-DECRETO-LEGGE 21 giugno 1994 n. 400
+DECRETO-LEGGE 08 agosto 1994 n. 508
 
 
-DECRETO-LEGGE 21 giugno 1994 n. 400
+DECRETO-LEGGE 08 agosto 1994 n. 508
 ===================================
 
 Interventi urgenti a favore del settore portuale e marittimo.
 -------------------------------------------------------------
 
-Entrata in vigore del decreto: 22-6-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/8/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni a completamento della complessiva riforma dell'ordinamento portuale;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 giugno 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 agosto 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti e della navigazione, di concerto con i Ministri del lavoro e della previdenza sociale, del tesoro e del bilancio e della programmazione economica;
 
@@ -27,11 +27,11 @@ Art. 1
 
 Interventi urgenti a favore del settore portuale e marittimo
 
-1. Il contingente di cui all'[articolo 3, comma 1, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com1), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), e' integrato di 1.000 unita' relativamente ai lavoratori ed ai dipendenti delle compagnie e gruppi portuali, ivi compresi quelli della compagnia carenanti del porto di Genova e del Fondo gestione istituti contrattuali lavoratori portuali in liquidazione, di cui all'articolo 1, comma 1, del citato [decreto-legge n. 6 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990;6), e di ulteriori 1.000 unita' relativamente ai dipendenti degli enti portuali e delle aziende dei mezzi meccanici, intendendosi il termine del 31 dicembre 1993 prorogato, rispettivamente, al 31 dicembre 1995 ed al 31 dicembre 1996.
+1. Il contingente di cui all'[articolo 3, comma 1, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com1), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), e' integrato di 1.000 unita' relativamente ai lavoratori ed ai dipendenti delle compagnie e gruppi portuali, ivi compresi quelli della compagnia carenanti del porto di Genova e del Fondo gestione istituti contrattuali lavoratori portuali in liquidazione di cui all'articolo 1, comma 1, del citato [decreto-legge n. 6 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990;6), e di ulteriori 1.000 unita' relativamente ai dipendenti degli enti portuali e delle aziende dei mezzi meccanici, intendendosi il termine del 31 dicembre 1993 prorogato, rispettivamente, al 31 dicembre 1995 ed al 31 dicembre 1996.
 
 2. Ai fini degli esodi di cui al comma 1, il Ministro dei trasporti e della navigazione, entro trenta giorni dalla data di entrata in vigore del presente decreto, individua termini, criteri e modalita', riconoscendo priorita', nell'ambito delle eccedenze di ciascuna dotazione organica delle compagnie e gruppi portuali, a coloro che hanno presentato la domanda e maturato i requisiti entro il 31 dicembre 1992. Con decreto determina le dotazioni organiche e relative eccedenze, suddivise per categorie e livelli professionali, sulla base di specifici progetti di riorganizzazione e dei piani di esodi predisposti da parte degli enti interessati, tenendo conto dell'andamento dei traffici dell'ultimo biennio ed in prospettiva. Ai lavoratori delle compagnie e gruppi portuali che non abbiano maturato i requisiti entro il 31 dicembre 1993 e' consentito il recupero volontario delle marche contributive relative al periodo di occasionalato, senza onere per lo Stato. E' fatto divieto di procedere ad assunzioni in presenza di eccedenze.
 
-3. Per le finalita' di cui ai commi 1 e 2 si applicano le disposizioni di cui all'[articolo 3, commi 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com1bis) e [8, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com8), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58, ed agli articoli 8- bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art8bis) e [9, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com1), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com6), [8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com8) e [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com9), del [decreto-legge 17 dicembre 1986, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-17;873), convertito, con modificazioni, dalla [legge 13 febbraio 1987, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-13;26).  
+3. Per le finalita' di cui ai commi 1 e 2 si applicano le disposizioni di cui all'[articolo 3, commi 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com1bis) e [8, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com8), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58, ed agli articoli 8-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art8bis) e [9, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com1), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com6), [8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com8) e [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58~art9-com9), del [decreto-legge 17 dicembre 1986, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-17;873), convertito, con modificazioni, dalla [legge 13 febbraio 1987, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-13;26).  
 Ai lavoratori e dipendenti, posti in pensionamento anticipato, e' concesso l'aumento dell'anzianita' contributiva per un periodo massimo di otto anni e comunque non superiore alla differenza tra la data di risoluzione del rapporto o di cancellazione dai ruoli e quella di raggiungimento del sessantesimo anno di eta', ovvero al periodo necessario al compimento di quaranta anni di contribuzione previdenziale. Ai trattamenti pensionistici di cui al presente articolo si applicano i vigenti regimi di incumulabilita' e di incompatibilita' previsti per i trattamenti pensionistici di anzianita'. Per i lavoratori titolari di pensioni o assegni di invalidita' a carico dell'INPS, per i quali sussistono i requisiti per il pensionamento anticipato, l'accoglimento della domanda comporta la corresponsione di un supplemento di pensione secondo i criteri e le condizioni di cui al presente comma. Il trattamento pensionistico del personale iscritto alla CPDEL terra' conto degli eventuali elementi retributivi sinora non compresi nel computo e di fatto corrisposti, previo versamento volontario dei relativi oneri contributivi da parte dei lavoratori posti in prepensionamento ai sensi del presente decreto.
 
 4. I trattamenti di pensionamento anticipato di cui all'[articolo 6, comma 17, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art6-com17), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), si applicano, per il medesimo periodo 1994-1996, anche ai dipendenti della societa' Sidermar di navigazione, Sidermar trasporti costieri, Sidermar servizi accessori, Almare, Interlogistica e Societa' finanziaria marittima (Finmare), nonche' delle societa' Italia e Lloyd Triestino, intendendosi il trattamento di pensione liquidato sulla base dell'anzianita' contributiva, aumentata di un periodo pari a quello compreso tra la data di risoluzione del rapporto di lavoro e quella del conseguimento del sessantesimo anno di eta', ovvero del minor periodo necessario al conseguimento di quaranta anni di contribuzione previdenziale.
@@ -95,11 +95,11 @@ b) i limiti minimi dei canoni che i concessionari sono tenuti a versare in rappo
 
 8. L'[articolo 20 della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art20), e' sostituito dal seguente:   
 "[Art. 20 (Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art20) di societa' e successione delle autorita' portuali alle organizzazioni portuali). - 1. Il Ministro dei trasporti e della navigazione, laddove gia' non esista una gestione commissariale, nomina, per ciascuna organizzazione portuale, commissari scelti fra persone aventi competenza nel settore, con particolare riguardo alle valenze economiche, sociali e strategiche delle realta' portuali considerate. I commissari sostituiscono i presidenti e gli organi deliberanti delle organizzazioni predette, che all'atto della loro nomina cessano dalle funzioni. I compensi dei commissari sono fissati con i decreti di nomina e posti a carico dei bilanci delle organizzazioni.   
-2. I commissari, entro il termine di sei mesi dal loro insediamento, prorogabile con decreto ministeriale previa verifica delle situazioni in atto nelle singole realta' portuali, dispongono la trasformazione delle organizzazioni portuali in societa' secondo i tipi previsti nel libro V, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) per l'esercizio, in condizioni di concorrenza di attivita' di impresa nei settori delle operazioni portuali, della manutenzione e dei servizi, dei servizi portuali, nonche' in altri settori del trasporto o industriali. A tal fine i presidenti provvedono:   
+2. I commissari, entro il termine di sei mesi dal loro insediamento, prorogabile con decreto ministeriale previa verifica delle situazioni in atto nelle singole realta' portuali, dispongono la trasformazione delle organizzazioni portuali in societa' secondo i tipi previsti nel libro V, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) per l'esercizio, in condizioni di concorrenza di attivita' di impresa nei settori delle operazioni portuali, della manutenzione e dei servizi, dei servizi portuali, nonche' in altri settori del trasporto o industriali. A tal fine i commissari provvedono:   
 a) alla collocazione presso terzi, ivi compresi i dipendenti delle organizzazioni medesime, del capitale della o delle societa' derivanti dalla trasformazione;   
 b) all'incorporazione in tali societa' delle societa' costituite o controllate dalle organizzazioni portuali alla data di entrata in vigore della presente legge, ovvero alla collocazione sul mercato delle partecipazioni nelle societa' costituite o controllate;   
 c) alla cessione a titolo oneroso, anche in leasing, ovvero all'affitto a tali societa' ovvero a imprese autorizzate o concessionarie ai sensi degli articoli 16 e 18 delle infrastrutture e dei beni mobili realizzati o posseduti dalle organizzazioni medesime.   
-3. Fino all'insediamento di cui al comma 4, i commissari provvedono con pienezza di poteri alla gestione delle organizzazioni portuali, nei limiti delle risorse ad esse affluenti e ai sensi delle disposizioni vigenti, comprese quelle della presente legge, in quanto applicabili anche sulla base di apposite direttive del Ministero dei trasporti e della navigazione. Fino alla data suddetta i commissari presiedono le commissioni consultive di cui all'articolo 15, comma 1, della presente legge. I commissari, fermo restando l'obbligo della presentazione dei bilanci entro i termini prescritti, trasmettono al Ministero dei trasporti e della navigazione ed al Ministero del tesoro entro quarantacinque giorni dalla loro nomina una situazione patrimoniale, economica e finanziaria delle organizzazioni portuali riferite al 31 dicembre dell'anno precedente a quello di entrata in vigore della presente legge, corredata della relazione del collegio dei revisori dei conti.   
+3. Fino all'insediamento di cui al comma 4, i commissari provvedono con pienezza di poteri alla gestione delle organizzazioni portuali, nei limiti delle risorse ad esse affluenti e ai sensi delle disposizioni vigenti, comprese quelle della presente legge, in quanto applicabili anche sulla base di apposite direttive del Ministero dei trasporti e della navigazione. Fino alla data suddetta i commissari presiedono le commissioni consultive di cui all'articolo 15, comma 1, della presente legge. I commissari, fermo restando l'obbligo della presentazione dei bilanci entro i termini prescritti, trasmettono al Ministero dei trasporti e della navigazione ed al Ministero del tesoro, entro quarantacinque giorni dalla loro nomina una situazione patrimoniale, economica e finanziaria delle organizzazioni portuali riferite al 31 dicembre dell'anno precedente a quello di entrata in vigore della presente legge, corredata della relazione del collegio dei revisori dei conti.   
 4. Le autorita' portuali si intendono costituite con l'insediamento degli organi previsti dagli articoli 8 e 9 della presente legge. Da quella data esse subentrano alle organizzazioni portuali nella titolarita' delle funzioni, nella proprieta' e nel possesso dei beni e in tutti i rapporti in corso, e ad esse e' trasferita l'amministrazione dei beni demaniali compresi nella circoscrizione territoriale di competenza.".
 
 9. L'[articolo 27, comma 8, della legge 28 gennaio 1994, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84~art27-com8), e' sostituito dal seguente:   
@@ -120,6 +120,19 @@ Aumento del contributo annuo in favore del Centro internazionale radio-medico
 Art. 5
 ------
 
+Assistenza alle popolazioni del Ruanda
+
+1. Il Ministro dei trasporti e della navigazione e' autorizzato ad organizzare una spedizione straordinaria per la fornitura di generi alimentari e di materiali di prima necessita' per l'assistenza alle popolazioni del Ruanda.
+
+2. Per le finalita' del comma 1 e' autorizzata, nell'anno 1994, la spesa di lire 6,500 miliardi, cui si provvede a carico delle disponibilita' in conto residui iscritte al capitolo 2064 dello stato di previsione della Presidenza del Consiglio dei Ministri, che vengono versate all'entrata del bilancio dello Stato per essere riassegnate ad appositi capitoli dello stato di previsione del Ministero dei trasporti e della navigazione per il medesimo anno.
+
+3. Le restanti disponibilita' in conto residui del medesimo capitolo 2064 vengono parimenti versate all'entrata del bilancio dello Stato per essere riassegnate al capitolo 7615 dello stato di previsione della Presidenza del Consiglio dei Ministri.
+
+4. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio anche nel conto dei residui.
+
+Art. 6
+------
+
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -127,7 +140,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1994
+### Dato a Roma, addi' 8 agosto 1994
 
 SCALFARO
 
@@ -139,6 +152,6 @@ MASTELLA, Ministro del lavoro e della previdenza sociale
 
 DINI, Ministro del tesoro
 
-PAGLIARINI, Ministro del bilancio e della programmazione economica
+PAGLIARINI, Ministro del bilancio e della programmazione economica della programmazione economica
 
 Visto, il Guardasigilli: BIONDI

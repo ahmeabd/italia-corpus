@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 luglio 1993 n. 232
+DECRETO-LEGGE 14 settembre 1993 n. 359
 
 
-DECRETO-LEGGE 17 luglio 1993 n. 232
-===================================
+DECRETO-LEGGE 14 settembre 1993 n. 359
+======================================
 
 Disposizioni in materia di legittimita' dell'azione amministrativa.
 -------------------------------------------------------------------
 
-Entrata in vigore del decreto: 17-07-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 16/9/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di rafforzare gli strumenti di garanzia della legittimita' dell'azione amministrativa;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 luglio 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 settembre 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -33,10 +33,10 @@ Sezioni regionali della Corte dei conti
 
 3. A tutte le sezioni si applicano le disposizioni di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-08;658~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-08;658~art3), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-08;658~art5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-08;658~art6), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-08;658~art9) e [11 della legge 8 ottobre 1984, n. 658](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-08;658~art11).
 
-4. Le sezioni regionali previste al comma 1 e al comma 2, ove non gia' costituite, vengono insediate entro nove mesi dalla data di entrata in vigore del presente decreto. Entro venti giorni dall'insediamento, sono trasmessi a ciascuna sezione regionale i fascicoli dei processi sui quali le singole sezioni sono chiamate a giudicare.
+4. Le sezioni regionali previste al comma 1 e al comma 2, ove non gia' costituite, vengono insediate entro sette mesi dalla data di entrata in vigore del presente decreto. Entro venti giorni dall'insediamento, sono trasmessi a ciascuna sezione regionale i fascicoli dei processi sui quali le singole sezioni sono chiamate a giudicare, fatta eccezione per i giudizi per i quali risulti gia' fissata l'udienza.
 
 5. Contro le sentenze delle sezioni giurisdizionali regionali in materia di contabilita' pubblica e' ammesso l'appello alle sezioni giurisdizionali centrali, che giudicano con cinque magistrati.  
-L'appello e' proponibile nel termine di trenta giorni decorrenti, per il procuratore generale e per il procuratore regionale competente per territorio, dalla pubblicazione e, per il convenuto, dalla notificazione della sentenza.
+L'appello e' proponibile nel termine di sessanta giorni decorrenti, per il procuratore generale e per il procuratore regionale competente per territorio, dalla pubblicazione e, per il convenuto, dalla notificazione della sentenza.
 
 6. Tutti i giudizi relativi ai residenti all'estero sono di competenza della sezione regionale del Lazio.
 
@@ -47,7 +47,7 @@ L'appello e' proponibile nel termine di trenta giorni decorrenti, per il procura
 9. Alle esigenze di magistrati per le sezioni giurisdizionali regionali e per gli uffici del procuratore regionale provvede il consiglio di presidenza della Corte dei conti a mezzo di assegnazione su domanda degli interessati. Altri magistrati potranno essere assegnati, anche senza il loro consenso, per un periodo non superiore a due anni. Nel primo impianto e per un periodo non inferiore a due anni, alle occorrenze delle sezioni e delle procure regionali si provvede provvisoriamente, con magistrati assegnati anche d'ufficio.
 
 10. L'[articolo 42 della legge 10 febbraio 1953, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62~art42), e' sostituito dal seguente:   
-"Art. 42. - I membri effettivi della commissione di controllo di cui alla lettera c) del precedente articolo sono esonerati da ogni obbligo di servizio presso l'amministrazione cui appartengono.".
+"Art. 42 (Posizione dei funzionari membri della commissione). - I membri effettivi della commissione di controllo di cui alla lettera c) del precedente articolo sono esonerati da ogni obbligo di servizio presso l'amministrazione cui appartengono.".
 
 11. Alle segreterie delle sezioni giurisdizionali regionali e delle procure regionali sono preposti funzionari di cui all'[articolo 17 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art17).
 
@@ -129,7 +129,7 @@ Giudizi in materia pensionistica
 
 3. In ogni altro caso il presidente della sezione fissa l'udienza per la trattazione, designando un magistrato relatore. La data dell'udienza viene comunicata, a cura della segreteria, con un preavviso di almeno sessanta giorni alle parti costituite, che possono produrre, con deposito in segreteria, memorie e documenti sino al decimo giorno precedente la data di udienza.
 
-4. L'amministrazione, ove non ritenga di avvalersi del patrocinio dell'Avvocatura dello Stato, puo' farsi rappresentare in giudizio da un proprio dirigente.
+4. L'amministrazione, ove non ritenga di avvalersi del patrocinio dell'Avvocatura dello Stato, puo' farsi rappresentare in giudizio da un proprio dirigente o da un funzionario appositamente delegato.
 
 5. I ricorsi possono essere proposti anche senza patrocinio legale, ma i ricorrenti non possono svolgere oralmente, in udienza, le proprie difese. L'assistenza legale dei ricorrenti puo' essere svolta da professionisti iscritti all'albo degli avvocati o dei procuratori.
 
@@ -162,7 +162,7 @@ f) autorizzazioni alla sottoscrizione dei contratti collettivi, secondo quanto p
 
 g) provvedimenti che disciplinano l'esercizio di funzioni pubbliche autoritative relative ai dipendenti delle pubbliche amministrazioni;
 
-h) decreti che approvano contratti attivi e passivi dello Stato di importo superiore al valore in ECU stabilito dalla normativa comunitaria per l'applicazione delle procedure di aggiudicazione degli appalti, ovvero al maggior valore stabilito con successivo regolamento governativo per singole categorie o tipologie di contratti;
+h) decreti che approvano contratti dei Ministeri, attivi, di qualunque importo, o passivi, se di importo superiore al valore in ECU stabilito dalla normativa comunitaria per l'applicazione delle procedure di aggiudicazione degli appalti d'opera, ovvero al maggior valore stabilito con successivo regolamento governativo, anche per singole categorie o tipologie di contratti;
 
 i) decreti ministeriali di variazione del bilancio, di accertamento dei residui e di assenso preventivo del Ministero del tesoro all'impegno di spese correnti a carico di esercizi successivi;
 
@@ -172,7 +172,7 @@ l) atti di notevole rilievo finanziario che il Presidente del Consiglio dei Mini
 
 3. Gli atti e i provvedimenti di cui al comma 1, ammessi a visto di legittimita' dalla Corte dei conti, sono pubblicati per estratto nella Gazzetta Ufficiale della Repubblica italiana, ove di essi non sia prevista la pubblicazione per esteso.
 
-4. Le sezioni riunite della Corte dei conti possono, con deliberazione motivata, stabilire che singoli atti di notevole rilievo finanziario, individuati per categorie ed amministrazioni statali, siano sottoposti al previo esame della Corte per un periodo determinato. La Corte puo' chiedere il riesame degli atti entro quindici giorni dalla loro ricezione, ferma rimanendone l'esecutivita'. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che, ove rilevi illegittimita', ne da' avviso al Ministro.
+4. Le sezioni riunite della Corte dei conti possono, con deliberazione motivata, stabilire che singoli atti di notevole rilievo finanziario, individuati per categorie ed amministrazioni statali, siano sottoposti all'esame della Corte per un periodo determinato. La Corte puo' chiedere il riesame degli atti entro quindici giorni dalla loro ricezione, ferma rimanendone l'esecutivita'. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che, ove rilevi illegittimita', ne da' avviso al Ministro.
 
 5. La Corte dei conti esercita il controllo successivo sulla gestione del bilancio e del patrimonio delle amministrazioni pubbliche, nonche' sulle gestioni fuori bilancio, verificando la legittimita' e la regolarita' dei conti, nonche' il funzionamento dei controlli interni a ciascuna amministrazione. Accerta, anche in base all'esito di altri controlli, la rispondenza dei risultati dell'attivita' amministrativa agli obiettivi stabiliti dalla legge, valutando comparativamente costi, modi e tempi dello svolgimento dell'azione amministrativa. La Corte definisce annualmente i criteri di riferimento del controllo.
 
@@ -182,14 +182,14 @@ l) atti di notevole rilievo finanziario che il Presidente del Consiglio dei Mini
 
 8. Restano ferme, relativamente agli enti locali, le disposizioni di cui al [decreto-legge 22 dicembre 1981, n. 786](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;786), convertito, con modificazioni, nella [legge 26 febbraio 1982, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-26;51), e successive modificazioni ed integrazioni, nonche', relativamente agli enti cui lo Stato contribuisce in via ordinaria, le disposizioni della [legge 21 marzo 1958, n. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;259). Le relazioni della Corte contengono anche valutazioni sul funzionamento dei controlli interni.
 
-9. Nell'esercizio delle attribuzioni di cui al presente articolo, la Corte dei conti puo' richiedere alle amministrazioni pubbliche ed agli organi di controllo interno qualsiasi atto o notizia e puo' effettuare e disporre ispezioni e accertamenti diretti. Puo' richiedere alle amministrazioni pubbliche non territoriali il riesame di atti ritenuti non conformi a legge. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che, ove rilevi illegittimita' ne da' avviso all'organo generale di direzione. E' fatta salva la disciplina in materia di controlli successivi previsti dai decreti delegati 3 febbraio 1993, n. 29, e 12 febbraio 1993, n. 39.
+9. Nell'esercizio delle attribuzioni di cui al presente articolo, la Corte dei conti puo' richiedere alle amministrazioni pubbliche ed agli organi di controllo interno qualsiasi atto o notizia e puo' effettuare e disporre ispezioni e accertamenti diretti. Puo' richiedere alle amministrazioni pubbliche non territoriali il riesame di atti ritenuti non conformi a legge. Le amministrazioni trasmettono gli atti adottati a seguito del riesame alla Corte dei conti, che, ove rilevi illegittimita' ne da' avviso all'organo generale di direzione. E' fatta salva la disciplina in materia di controlli successivi previsti dall'[articolo 65 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art65), e dal [decreto legislativo 12 febbraio 1993, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39).
 
-10. Le disposizioni del presente articolo non si applicano nei confronti degli enti che svolgono la loro attivita' nelle materie contemplate nell'[articolo 1 del decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-17;691~art1).
+10. Le disposizioni del presente articolo non si applicano agli atti ed ai provvedimenti emanati nelle materie monetaria, creditizia, mobiliare e valutaria.
 
 Art. 8
 ------
 
-Autonomia finanziaria
+Autonomia organizzativa e finanziaria
 
 1. La Corte dei conti delibera con regolamento le norme concernenti l'organizzazione, il funzionamento, la struttura dei bilanci e la gestione delle spese.
 
@@ -218,7 +218,7 @@ Art. 10
 
 Applicazione alle regioni a statuto speciale ed alle province autonome
 
-1. Le disposizioni del presente decreto costituiscono principi fondamentali ai sensi dell'articolo 117 della Costituzione. I principi da esse desumibili costituiscono altresi', per le regioni a statuto speciale e per le province autonome di Trento e di Bolzano norme fondamentali di riforma economico-sociale della Repubblica.
+1. Le disposizioni del presente decreto costituiscono principi fondamentali ai sensi dell'articolo 117 della Costituzione. I principi da esse desumibili costituiscono altresi', per le regioni a statuto speciale e per le province autonome di Trento e di Bolzano, norme fondamentali di riforma economico-sociale della Repubblica.
 
 Art. 11
 -------
@@ -227,7 +227,7 @@ Oneri finanziari
 
 1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 4.160 milioni a decorrere dall'anno 1993, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1993-1995, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1993, all'uopo parzialmente utilizzando l'accantonamento relativo alla Presidenza del Consiglio dei Ministri.
 
-2. Il numero dei posti di dirigente di livello E previsti dal quadro E della tabella I annessa al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748), come sostituito dal quadro annesso alla [legge 7 agosto 1985, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428), da ultimo integrato dall'[articolo 1 del decreto del Presidente della Repubblica in data 30 novembre 1990, pubblicato nella Gazzetta Ufficiale n. 18 del 22 gennaio 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-01-22&numeroGazzetta=18), e' aumentato di ventinove unita'. Nella dotazione organica del personale appartenente all'ottava qualifica funzionale, profilo professionale "funzionario amministrativo contabile", determinata con [decreto del Presidente del Consiglio dei Ministri in data 3 gennaio 1992, pubblicato nella Gazzetta Ufficiale n. 73 del 27 marzo 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-03-27&numeroGazzetta=73), sono soppresse 40 unita'.
+2. Il numero dei posti di dirigente di livello E previsti dal quadro E della tabella I annessa al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748), come sostituito dal quadro annesso alla [legge 7 agosto 1985, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-07;428), da ultimo integrato dall'[articolo 1 del decreto del Presidente della Repubblica in data 30 novembre 1990, pubblicato nella Gazzetta Ufficiale n. 18 del 22 gennaio 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-01-22&numeroGazzetta=18), e' aumentato di ventinove unita'. Nella dotazione organica del personale appartenente all'ottava qualifica funzionale, profilo professionale "funzionario amministrativo contabile", determinata con [decreto del Presidente del Consiglio dei Ministri in data 3 gennaio 1992, pubblicato nella Gazzetta Ufficiale n. 73 del 27 marzo 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-03-27&numeroGazzetta=73), sono soppresse quaranta unita'.
 
 3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -236,18 +236,20 @@ Art. 12
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 luglio 1993
+### Dato a Roma, addi' 14 settembre 1993
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
 
 MANCINO, Ministro dell'interno
+
+BARUCCI, Ministro del tesoro
 
 SPAVENTA, Ministro del bilancio e della programmazione economica
 

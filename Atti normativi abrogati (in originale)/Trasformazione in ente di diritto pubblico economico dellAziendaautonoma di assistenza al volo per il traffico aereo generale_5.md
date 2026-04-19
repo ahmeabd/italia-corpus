@@ -1,14 +1,14 @@
-DECRETO-LEGGE 25 novembre 1995 n. 497
+DECRETO-LEGGE 24 gennaio 1996 n. 29
 
 
-DECRETO-LEGGE 25 novembre 1995 n. 497
-=====================================
+DECRETO-LEGGE 24 gennaio 1996 n. 29
+===================================
 
 Trasformazione in ente di diritto pubblico economico dell'Azienda 
 autonoma di assistenza al volo per il traffico aereo generale.
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26/11/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore: 25/1/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -27,21 +27,16 @@ Considerato che la trasformazione in societa' per azioni e' ritenuta la piu' ade
 
 Considerata, altresi', la natura strategica dell'attivita' posta in essere dall'Azienda, nell'ambito dei servizi pubblici essenziali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 novembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 gennaio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri delle finanze, del lavoro e della previdenza sociale e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei trasporti e della navigazione, di concerto con i Ministri delle finanze e, ad interim, del bilancio e della programmazione economica, del lavoro e della previdenza sociale e per la funzione pubblica e gli affari regionali;
 
-E M A N A
+E M A N A il seguente decreto-legge:
 
-il seguente decreto-legge:
+CAPO I Capo I ENTE NAZIONALE DI ASSISTENZA AL VOLO
+--------------------------------------------------
 
-Capo
-----
-
-I ENTE NAZIONALE DI ASSISTENZA AL VOLO
-
-Art. 1
-------
+### Art. 1
 
 Trasformazione dell'Azienda autonoma di assistenza  
 al volo per il traffico aereo generale
@@ -51,9 +46,6 @@ al volo per il traffico aereo generale
 2. L'Ente nazionale di assistenza al volo, di seguito denominato Ente, e' trasformato in societa' per azioni il 1 gennaio 1999, con le modalita' indicate dall'[articolo 2, comma 1, del decreto-legge 28 giugno 1995, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;251~art2-com1), convertito, con modificazioni, dalla [legge 3 agosto 1995, n. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-03;351). Entro la predetta data sara' verificato il conseguimento degli obiettivi definiti a tal fine in un apposito piano triennale predisposto dal presidente dell'Ente entro il mese di febbraio 1996. Tale piano e' approvato dal Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, i quali effettuano anche la predetta verifica.
 
 3. Il Ministro dei trasporti e della navigazione esercita la vigilanza sull'Ente, inclusa quella sull'attuazione del piano di cui al comma 2.
-
-CAPO II Capo I ENTE NAZIONALE DI ASSISTENZA AL VOLO
----------------------------------------------------
 
 ### Art. 2
 
@@ -83,7 +75,7 @@ c) il collegio dei revisori dei conti.
 
 ### Art. 4
 
-S t a t u t o
+Statuto
 
 1. Lo statuto dell'Ente e' deliberato, su proposta del presidente, dal consiglio di amministrazione ed e' approvato con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro, della difesa e per la funzione pubblica. Esso definisce i servizi e le attivita' dell'Ente e le competenze degli organi in relazione alle esigenze di amministrazione dell'Ente; indica inoltre i principi relativi all'organizzazione ed al funzionamento dell'Ente, nonche' gli atti da trasmettere al Ministero dei trasporti e della navigazione e quelli da sottoporre ad approvazione ministeriale.
 
@@ -139,14 +131,16 @@ Contratto di programma
 
 a) regola le prestazioni e definisce gli investimenti e i servizi, anche di rilevanza sociale o comunque resi in condizione di non remunerazione dei costi, stabilendo i corrispettivi economici e le modalita' di erogazione;
 
-b) definisce gli obiettivi e gli standards, nonche' le modalita' e i tempi di adeguamento, relativi ai livelli di sicurezza e di qualita' dei servizi, alla produttivita' dei fattori impiegati, inclusi gli investimenti, ed ai rispettivi costi. L'adeguamento ai predetti obiettivi e standards e' correlato alla variazione delle tariffe e a eventuali trasferimenti statali destinati a investimenti;
+b) definisce gli obiettivi e gli standards, nonche' le modalita' e i tempi di adeguamento, relativi ai livelli di sicurezza e di qualita' dei servizi, alla produttivita' dei fattori impiegati, inclusi gli investimenti, ed ai rispettivi costi. L'adeguamento ai predetti obiettivi e standards e' correlato alla variazione delle  
+tariffe e a eventuali trasferimenti statali destinati a investimenti;
 
-c) prevede verifiche, obblighi di adeguamento e sanzioni per i casi di inadempienza.
+c) prevede verifiche, obblighi di adeguamento e sanzioni per i  
+casi di inadempienza.
 
 3. Il contratto di programma e' stipulato entro sei mesi dalla data di entrata in vigore del presente decreto e stabilisce le modalita' di raggiungimento degli obiettivi definiti nel piano di cui all'articolo 1, comma 2.
 
-CAPO III Capo II NORME TRANSITORIE
-----------------------------------
+CAPO II Capo II NORME TRANSITORIE
+---------------------------------
 
 ### Art. 10
 
@@ -182,12 +176,12 @@ Disposizioni finali
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 novembre 1995
+### Dato a Roma, addi' 24 gennaio 1996
 
 SCALFARO
 
@@ -195,7 +189,9 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 CARAVALE, Ministro dei trasporti e della navigazione
 
-FANTOZZI, Ministro delle finanze
+FANTOZZI, Ministro delle finanze e,
+
+ad interim, Ministro del bilancio e della programmazione economica
 
 TREU, Ministro del lavoro e della previdenza sociale
 

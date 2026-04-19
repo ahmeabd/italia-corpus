@@ -1,13 +1,13 @@
-DECRETO-LEGGE 27 gennaio 1989 n. 21
+DECRETO-LEGGE 30 marzo 1989 n. 114
 
 
-DECRETO-LEGGE 27 gennaio 1989 n. 21
-===================================
+DECRETO-LEGGE 30 marzo 1989 n. 114
+==================================
 
 Disposizioni in materia di aliquote dell'imposta sul valore aggiunto, dell'imposta di fabbricazione su taluni prodotti petroliferi e dell'imposta di consumo sul gas metano usato come combustibile, nonche' in materia di agevolazioni tributarie previste dall'articolo 11 del decreto-legge 19 settembre 1987, n. 384, convertito, con modificazioni, dalla legge 19 novembre 1987, n. 470.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29/01/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/03/1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di modificare l'aliquota ordinaria dell'imposta sul valore aggiunto, nonche' le aliquote dell'imposta di fabbricazione su taluni prodotti petroliferi e dell'imposta di consumo sul gas metano usato come combustibile, nonche' di confermare le agevolazioni tributarie per i comuni delle zone colpite dalle eccezionali avversita' atmosferiche dei mesi di luglio ed agosto 1987;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 gennaio 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 marzo 1989;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle finanze di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle finanze di concerto con il Ministro del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto:
 
@@ -29,20 +29,22 @@ Art. 1
 
 2. Le aliquote di base dell'imposta di consumo sui tabacchi lavorati di cui all'[articolo 5 della legge 7 marzo 1985, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-07;76~art5), sono cosi' modificate:
 
-a) sigarette . . . . . . . . . . . . . . . . . 56,28 per cento
+a) sigarette. . . . . . . . . . . . 56,28 per cento
 
-b) sigari e sigaretti naturali . . . . . . . . 23,28 "   
-c) sigari e sigaretti altri . . . . . . . . . . 47,28 "   
-d) tabacco da fumo . . . . . . . . . . . . . . 55,28 "   
-e) tabacco da masticare . . . . . . . . . . . . 26,28 "   
-f) tabacco da fiuto . . . . . . . . . . . . . . 26,28 "
+b) sigari e sigaretti naturali. . . 23,28 "  
+c) sigari e sigaretti altri . . . . 47,28 "  
+d) tabacco da fumo. . . . . . . . . 55,28 "  
+e) tabacco da masticare . . . . . . 26,28 "  
+f) tabacco da fiuto . . . . . . . . 26,28 "
 
 Art. 2
 ------
 
-1. L'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono aumentate come segue:
+1. L'imposta di fabbricazione e la corrispondente sovrimposta di  
+confine sui seguenti prodotti petroliferi sono aumentate come segue:
 
-a) oli da gas, da L. 33.400 a L. 37.150 per ettolitro, alla temperatura di 15 ›C;
+a) oli da gas, da L. 33.400 a L. 37.150 per ettolitro, alla  
+temperatura di 15›C;
 
 b) oli combustibili speciali ed oli combustibili diversi da quelli speciali, da L. 40.000 a L. 44.500 per cento kg;
 
@@ -60,12 +62,12 @@ Art. 3
 Art. 4
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana, E' stato obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 gennaio 1989
+### Dato a Roma, addi' 30 marzo 1989
 
 COSSIGA
 
@@ -73,10 +75,6 @@ DE MITA, Presidente del Consiglio dei Ministri
 
 COLOMBO, Ministro delle finanze
 
-AMATO, Ministro del tesoro
-
 FANFANI, Ministro del bilancio e della programmazione economica
-
-BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
 
 Visto, il Guardasigilli: VASSALLI

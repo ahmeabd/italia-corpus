@@ -1,24 +1,24 @@
-DECRETO-LEGGE 25 maggio 1990 n. 123
+DECRETO-LEGGE 24 luglio 1990 n. 200
 
 
-DECRETO-LEGGE 25 maggio 1990 n. 123
+DECRETO-LEGGE 24 luglio 1990 n. 200
 ===================================
 
 Corresponsione ai pubblici dipendenti di acconti sui miglioramenti economici relativi al periodo contrattuale 1988-1990, nonche' disposizioni urgenti in materia di pubblico impiego.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/5/1990.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26/7/1990.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di assicurare con carattere di immediatezza la corresponsione degli anticipi sui miglioramenti economici conseguenti ai rinnovi contrattuali per i pubblici dipendenti e per il personale delle Forze di polizia e degli anticipi sui miglioramenti economici a favore degli appartenenti alle Forze armate, di dover adeguare, entro limiti strettamente necessari, i trattamenti stipendiali dei dirigenti statali e delle categorie ad essi collegate ed equiparate, nonche' di definire le posizioni di talune categorie del personale dei Ministeri e degli enti pubblici non economici, in connessione con il quadro contrattuale gia' definito dai rispettivi accordi;
+Ritenuta la straordinaria necessita' ed urgenza di assicurare con carattere di immediatezza la corresponsione degli anticipi sui miglioramenti economici conseguenti ai rinnovi contrattuali per i pubblici dipendenti e per il personale delle Forze di polizia e degli anticipi sui miglioramenti economici a favore degli appartenenti alle Forze armate, di dover adeguare, entro limiti strettamente necessari, i trattamenti stipendiali dei dirigenti statali e delle categorie ad essi collegate ed equiparate, nonche' di definire le posizioni di talune categorie di personale dei Ministeri e degli enti pubblici non economici, in connessione con il quadro contrattuale gia' definito dai rispettivi accordi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 maggio 1990;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 luglio 1990;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del tesoro e per la funzione pubblica, di concerto con i Ministri dell'interno e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del tesoro e per la funzione pubblica, di concerto con i Ministri dell'interno, del bilancio e della programmazione economica, della difesa e di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -29,7 +29,7 @@ Art. 1
 
 2. Le disposizioni di cui al comma 1 costituiscono atto di indirizzo nei confronti delle regioni a statuto ordinario.
 
-3. Gli enti appartenenti ai comparti di contrattazione collettiva previsti dagli articoli 4 e 6 del citato decreto n. 68 del 1986 provvedono ad erogare gli acconti di cui al comma 1, utilizzando le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato o quelle affluite nei propri bilanci in relazione alle specifiche attivita' degli enti stessi.
+3. Gli enti appartenenti ai comparti di contrattazione collettiva previsti dagli articoli 4 e 6 del citato decreto n. 68 del 1986 provvedono ad erogare gli acconti di cui al comma 1 utilizzando le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato o quelle affluite nei propri bilanci in relazione alle specifiche attivita' degli enti stessi.
 
 4. Per gli enti sottoindicati i trasferimenti dello Stato previsti dalle disposizioni vigenti sono cosi' integrati:
 
@@ -46,41 +46,41 @@ Art. 2
 
 1. Agli appartenenti alla Polizia di Stato ed alle Forze di polizia di cui all'articolo 16 della legge 1' aprile 1981, n. 121, nonche' al personale equiparato, in attesa della definizione delle procedure prescritte dall'articolo 43, primo comma, della citata legge per la revisione dei trattamenti economici relativi al triennio 1988-1990, sono corrisposti, a titolo di acconto, i seguenti importi lordi, nelle misure indicate per ciascun gruppo di qualifiche e gradi corrispondenti:
 
-a) qualifiche del ruolo degli agenti ed assistenti e qualifiche e grado equiparati . . . . . . . . . . . . . . . . . . . L. 1.400.000
+a) qualifiche del ruolo degli agenti ed assistenti e qualifiche e gradi equiparati . . . . . . . . . . . . . . . . . . . L. 1.400.000
 
-b) qualifiche del ruolo dei sovrintendenti e qualifiche e gradi equiparati . . . . . . . . . . . . . . . . . . . . . . " 1.500.000   
-c) qualifiche del ruolo degli ispettori e qualifiche equiparate " 1.600.000   
-d) qualifiche del ruolo dei commissari e gradi e qualifiche equiparati . . . . . . . . . . . . . . . . . . . . . . " 1.700.000   
-e) sottotenenti in s.p.e. . . . . . . . . . . . . " 1.600.000
+b) qualifiche del ruolo dei sovrintendenti e qualifiche e gradi equiparati . . . . . . . . . . . . . . . . . . . . . . " 1.500.000 c) qualifiche del ruolo degli ispettori e qualifiche equiparate   
+" 1.600.000   
+d) qualifiche del ruolo dei commissari e gradi e qualifiche equiparati . . . . . . . . . . . . . . . . . . . . . . " 1.700.000 e) sottotenenti in s.p.e. . . . . . . . . . . . . " 1.600.000
 
-2. Al personale assunto successivamente al 30 giugno 1988 gli importi competono in ragione del numero dei mesi trascorsi dalla data di nomina in servizio al 31 marzo 1990.
+2. Al personale assunto successivamente al 30 giugno 1988 gli importi competono in ragione del numero dei mesi trascorsi dalla data di nomina in servizio fino al 31 marzo 1990.
 
 3. Gli importi indicati al comma 1 non competono al personale destinatario delle disposizioni di cui all'articolo 43, commi ventiduesimo e ventitreesimo, della legge 1' aprile 1981, n. 121.
 
 Art. 3
 ------
 
-1. Al personale militare dell'Esercito, esclusa l'Arma dei carabinieri, della Marina e dell'Aeronautica, sino al grado di tenente colonnello compreso, di cui all'[articolo 1, comma 1, del decreto-legge 16 settembre 1987, n. 379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379~art1-com1), convertito, con modificazioni, dalla [legge 14 novembre 1987, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468), in attesa della revisione dei trattamenti economici da attuarsi con successivo provvedimento legislativo, sono corrisposti, a titolo di acconto, i seguenti importi lordi, nelle misure indicate per ciascun gruppo di gradi:
+1. Al personale militare dell'Esercito, esclusa l'Arma dei carabinieri, della Marina e dell'Aeronautica, sino al grado di tenente colonnello compreso, di cui all'[articolo 1, comma 1, del decreto-legge 16 settembre 1987, n. 379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379~art1-com1), convertito, con modificazioni, dalla [legge 14 novembre 1987, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468), in attesa della revisione dei trattamenti economici da attuarsi con apposito provvedimento legislativo, sono corrisposti, a titolo di acconto, i seguenti importi lordi, nelle misure indicate per ciascun gruppo di gradi:
 
 a) sottufficiali . . . . . . . . . . . . . . . . . L. 1.500.000
 
-b) sottotenenti in s.p.e. . . . . . . . . . . . . " 1.600.000   
-c) ufficiali sino al grado di tenente colonnello compreso " 1.700.000
+b) sottotenente in s.p.e. . . . . . . . . . . . . " 1.600.000 c) ufficiali sino al grado di tenente colonnello compreso   
+" 1.700.000
 
-2. Al personale assunto successivamente al 30 giugno 1988 gli importi indicati al comma 1 competono in ragione del numero dei mesi trascorsi dalla data di nomina in servizio al 31 marzo 1990.
+2. Al personale assunto successivamente al 30 giugno 1988 gli importi indicati al comma 1 competono in ragione del numero dei mesi trascorsi dalla data di nomina in servizio fino al 31 marzo 1990.
 
 Art. 4
 ------
 
 1. A decorrere dal 1' gennaio 1990, per il personale della Polizia di Stato e delle Forze di polizia di cui all'articolo 16 della legge 1' aprile 1981, n. 121, nonche' per il personale militare delle Forze armate indicato all'articolo 3, le misure intere lorde giornaliere dell'indennita' di missione sono le seguenti:
 
-a) livello quinto, sesto, sesto- bis, settimo, ottavo e ottavo-bis . . . . . . . . . . . . . . . . . . . . . . L. 39.600
+a) livello quinto, sesto, sesto- bis,   
+settimo, ottavo e ottavo-bis . . . . . . . . . . . . . . L. 39.600
 
-b) livello quarto e inferiori . . . . . . . . . . . " 28.800
+b) livello quarto e inferiori . . . . . . . . . . . . " 28.800
 
-2. A decorrere dal 1' gennaio 1990, al personale di cui al comma 1, per incarichi di missioni di durata superiore a dodici ore, compete il rimborso delle spese documentate, mediante fattura o ricevuta fiscale, per il pernottamento in albergo della categoria consentita e per uno o due pasti giornalieri, nel limite di lire trentamila per il primo pasto e di complessive sessantamila per i due pasti. Per incarichi di durata non inferiore a otto ore compete il rimborso di un solo pasto.
+2. A decorrere dal 1' gennaio 1990, al personale di cui al comma 1, per incarichi di missioni di durata superiore a dodici ore compete il rimborso delle spese documentate, mediante fattura o ricevuta fiscale, per il pernottamento in albergo della categoria consentita e per uno o due pasti giornalieri, nel limite di lire trentamila per il primo pasto e di complessive sessantamila per i due pasti. Per incarichi di durata non inferiore a otto ore compete il rimborso di un solo pasto.
 
-3. Oltre a quanto previsto dal comma 2 compete un importo pari al trenta per cento delle vigenti misure delle indennita' orarie e giornaliere. Non e' ammessa in ogni caso opzione per l'indennita' di trasferta in misure, orarie o giornaliere, intere.
+3. Oltre a quanto previsto dal comma 2, compete un importo pari al trenta per cento delle vigenti misure delle indennita' orarie e giornaliere. Non e' ammessa in ogni caso opzione per l'indennita' di trasferta in misure, orarie o giornaliere, intere.
 
 4. Nei casi di missione continuativa nella medesima localita' di durata non inferiore a trenta giorni e' consentito il rimborso delle spese per il pernottamento in residenza turistico-alberghiera, di categoria corrispondente a quella ammessa per l'albergo, sempreche' risulti economicamente piu' conveniente rispetto al costo medio della categoria consentita nella medesima localita'.
 
@@ -99,26 +99,26 @@ Art. 5
 Art. 6
 ------
 
-1. Gli stipendi iniziali annui lordi dei dirigenti civili e militari dello Stato, delle categorie di personale ad essi equiparate nonche' dei dipendenti che godono dei trattamenti commisurati o rapportati a quelli dei dirigenti, risultanti dall'applicazione dell'[articolo 1, comma 2, del decreto-legge 27 dicembre 1989, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-27;413~art1-com2), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;37), sono incrementati del quindici per cento con decorrenza 1' luglio 1990.
+1. Gli stipendi iniziali annui lordi dei dirigenti civili e militari dello Stato, delle categorie di personale ad essi equiparate, nonche' dei dipendenti che godono dei trattamenti commisurati o rapportati a quelli dei dirigenti, risultanti dall'applicazione dell'[articolo 1, comma 2, del decreto-legge 27 dicembre 1989, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-27;413~art1-com2), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;37), sono incrementati del quindici per cento con decorrenza 1' luglio 1990.
 
 2. Alle categorie di personale destinatario dell'[articolo 1, comma 1, del decreto-legge 27 dicembre 1989, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-27;413~art1-com1), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;37), si applica l'[articolo 7 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-08-23;395~art7).
 
 Art. 7
 ------
 
-1. La disciplina prevista dalla [legge 24 febbraio 1986, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-24;37), in materia di indennita' integrativa speciale si applica sino al 31 dicembre 1993.
+1. La normativa prevista dalla [legge 24 febbraio 1986, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-24;37), in materia di indennita' integrativa speciale e' prorogata fino alla data del 31 dicembre 1991 per i dipendenti dello Stato e delle altre amministrazioni pubbliche, sottratti alla contrattazione collettiva prevista dalla [legge 29 marzo 1983, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93), e per il personale il cui trattamento giuridico e' disciplinato direttamente da disposizioni di legge.
 
 Art. 8
 ------
 
-1. Il personale appartenente al comparto Ministeri assunto in esito a concorsi ordinari, banditi anteriormente alla data di entrata in vigore della [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312), per le qualifiche dell'ex carriera direttiva di consigliere o equiparate e superiori, nonche' il personale che lo precede in ruolo, e' inquadrato nella nona qualifica funzionale, in conformita' a quanto previsto dall'[articolo 1 della legge 7 luglio 1988, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254~art1), con effetto dal 31 dicembre 1990.
+1. Il personale appartenente al comparto Ministeri assunto in esito a concorsi ordinari, banditi anteriormente alla data di entrata in vigore della [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312), per le qualifiche dell' ex carriera direttiva di consigliere o equiparate e superiori, nonche' il personale che lo precede in ruolo, e' inquadrato nella nona qualifica funzionale, in conformita' a quanto previsto dall'[articolo 1 della legge 7 luglio 1988, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254~art1), con effetto dal 31 dicembre 1990.
 
 Art. 9
 ------
 
 1. All'[articolo 11 del decreto del Presidente della Repubblica 13 gennaio 1990, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-01-13;43~art11), dopo il comma 2 sono inseriti i seguenti:   
 " 3. Nelle proposizioni annesse al decreto del Presidente della Repubblica 1' marzo 1988, n. 285, dopo il primo comma dell'articolo 8 e' aggiunto il seguente:   
-'Per i profili di collaboratore di amministrazione, collaboratore tecnico, ispettore di vigilanza, collaboratore di informatica, collaboratore socio-assistenziale e collaboratore professionale, assistente sanitario e operatore specializzato, i concorsi interni per il passaggio al profilo di qualifica immediatamente superiore sono espletati per titoli ed esami per un numero di posti complessivo pari al 25 per cento della dotazione organica complessiva dei citati profili di provenienza. A tali concorsi sono ammessi i dipendenti appartenenti agli anzidetti profili in possesso dei requisiti di cui agli articoli 1 e 7, comma secondo. Per l'ammissione al concorso riservato per il profilo di funzionario di amministrazione, in aggiunta ai requisiti di cui agli articoli 1, comma primo, e 7, comma secondo, e' richiesta l'appartenenza alla categoria di concetto alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 maggio 1976, n. 411](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-26;411). Contestualmente all'attribuzione dei nuovi profili ai vincitori dei concorsi interni, sono inquadrati nei medesimi profili dell'ottava qualifica i vincitori di concorsi per funzioni di collaborazione direttiva; sono altresi' inquadrati nel profilo per il quale e' prescritto il possesso del titolo abilitante all'iscrizione all'albo professionale i vincitori dei concorsi per i quali e' richiesto tale requisito.'.   
+'Per i profili di collaboratore di amministrazione, collaboratore tecnico, ispettore di vigilanza, collaboratore di informatica, collaboratore socio-assistenziale e collaboratore professionale, assistente sanitario e operatore specializzato, i concorsi interni per il passaggio al profilo di qualifica immediatamente superiore sono espletati per titoli ed esami per un numero di posti complessivo pari al 25 per cento della dotazione organica complessiva dei citati profili di provenienza. A tali concorsi sono ammessi i dipendenti appartenenti agli anzidetti profili in possesso dei requisiti di cui agli articoli 1 e 7, comma secondo. Per l'ammissione al concorso riservato per il profilo di funzionario di amministrazione, in aggiunta ai requisiti di cui agli articoli 1, comma primo, e 7, comma secondo, e' richiesta l'appartenenza alla categoria di concetto alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 maggio 1976, n. 411](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-26;411). Contestualmente all'attribuzione dei nuovi profili ai vincitori dei concorsi interni, sono inquadrati nei medesimi profili dell'ottava qualifica i vincitori di concorsi per funzioni di collaborazione direttiva; sono altresi' inquadrati nel profilo per il quale e' prescritto il possesso del titolo abilitante all'iscrizione all'albo professionale i vincitori dei concorsi per i quali e' richiesto tale requisito'.   
 4. Gli inquadramenti derivanti dall'applicazione del comma 3 hanno effetto dal 1' luglio 1990 e comunque devono essere realizzati entro la vigenza contrattuale.".
 
 Art. 10
@@ -133,7 +133,18 @@ Art. 10
 Art. 11
 -------
 
-1. All'onere derivante dall'applicazione del presente decreto, valutato in lire 5.092 miliardi per l'anno 1990 ed in lire 416.200 milioni a decorrere dall'anno 1991, si provvede per l'anno 1990 quanto a lire 2.214 miliardi mediante utilizzo delle somme conservate in conto residui, ai sensi dell'[articolo 3, comma 4, della legge 10 novembre 1989, n. 367](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-11-10;367~art3-com4), sul capitolo 6868 dello stato di previsione del Ministero del tesoro per lo stesso anno e quanto a lire 2.878 miliardi mediante riduzione dello stanziamento iscritto sul medesimo capitolo 6868 per l'anno medesimo; per gli anni 1991 e 1992 si provvede:
+1. All'espletamento delle funzioni previste dall'[articolo 301 del regio decreto 18 giugno 1931, n. 787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;787~art301), provvedono anche i funzionari inquadrati nel profilo professionale 14 (collaboratore amministrativo contabile) fino alla completa attuazione della [legge 11 luglio 1980, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312), e comunque non oltre il 31 dicembre 1990.
+
+2. Limitatamente al periodo di effettivo svolgimento delle funzioni indicate nel comma 1 e, comunque, non oltre il 31 dicembre 1990, al personale interessato compete, in aggiunta al trattamento in godimento, un compenso mensile non utile a pensione di lire 300.000 lorde.
+
+3. All'onere derivante dall'applicazione del presente articolo, valutato in lire 500 milioni per l'anno 1990, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno medesimo, all'uopo parzialmente utilizzando l'accantonamento "Interventi vari in favore della Giustizia".
+
+4. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+Art. 12
+-------
+
+1. All'onere derivante dall'applicazione del presente decreto, escluso quello di cui all'articolo 11, valutato in lire 5.092 miliardi per l'anno 1990 ed in lire 416.200 milioni a decorrere dall'anno 1991, si provvede per l'anno 1990 quanto a lire 2.214 miliardi mediante utilizzo delle somme conservate in conto residui, ai sensi dell'[articolo 3, comma 4, della legge 10 novembre 1989, n. 367](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-11-10;367~art3-com4), sul capitolo 6868 dello stato di previsione del Ministero del tesoro per lo stesso anno e quanto a lire 2.878 miliardi mediante riduzione dello stanziamento iscritto sul medesimo capitolo 6868 per l'anno medesimo; per gli anni 1991 e 1992 si provvede:
 
 a) quanto a lire 3.600 milioni all'uopo utilizzando parte delle proiezioni per gli stessi anni 1991 e 1992 dell'accantonamento "Soppressione dei ruoli ad esaurimento previsti dall'[articolo 60 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748~art60), e disposizioni in materia di pubblico impiego" iscritto, ai fini del bilancio triennale 1990-1992, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1990;
 
@@ -141,9 +152,9 @@ b) quanto a lire 412.600 milioni mediante corrispondente utilizzo delle proiezio
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-3. All'onere derivante dall'applicazione degli articoli 6, 9 e 10 provvedono gli enti pubblici interessati, all'uopo utilizzando le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato o quelle affluite nei propri bilanci in relazione alle specifiche attivita' degli enti stessi.
+3. All'onere derivante dall'applicazione degli articoli 6, 9 e 10, provvedono gli enti pubblici interessati, all'uopo utilizzando le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato o quelle affluite nei propri bilanci in relazione alle specifiche attivita' degli enti stessi.
 
-Art. 12
+Art. 13
 -------
 
 1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -151,7 +162,7 @@ Art. 12
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1990
+### Dato a Roma, addi' 24 luglio 1990
 
 COSSIGA
 
@@ -164,5 +175,9 @@ GASPARI, Ministro per la funzione pubblica
 GAVA, Ministro dell'interno
 
 CIRINO POMICINO, Ministro del bilancio e della programmazione economica
+
+MARTINAZZOLI, Ministro della difesa
+
+VASSALLI, Ministro di grazia e giustizia
 
 Visto, il Guardasigilli: VASSALLI

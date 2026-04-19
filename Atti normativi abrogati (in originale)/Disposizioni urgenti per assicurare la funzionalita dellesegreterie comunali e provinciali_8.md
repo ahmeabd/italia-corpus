@@ -1,14 +1,14 @@
-DECRETO-LEGGE 30 ottobre 1995 n. 452
+DECRETO-LEGGE 01 marzo 1996 n. 98
 
 
-DECRETO-LEGGE 30 ottobre 1995 n. 452
-====================================
+DECRETO-LEGGE 01 marzo 1996 n. 98
+=================================
 
 Disposizioni urgenti per assicurare la funzionalita' delle 
 segreterie comunali e provinciali.
 ----------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3/3/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare la funzionalita' delle segreterie comunali e provinciali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 febbraio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dell'interno, di concerto con i Ministri del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
@@ -59,8 +59,8 @@ Accesso alle segreterie comunali di classe 3a
 Art. 3
 ------
 
-Idoneita' a partecipare ai concorsi per titoli  
-per singole sedi di segreteria generale di 2a classe
+Idoneita' a partecipare ai concorsi per titoli per singole sedi  
+di segreteria generale di 2a classe
 
 1. Entro il mese di giugno di ogni anno, il Ministro dell'interno bandisce un concorso per esami per il conseguimento della idoneita' a partecipare ai concorsi per titoli per singole sedi di segreteria generale di classe 2a di cui all'articolo 4.
 
@@ -81,8 +81,7 @@ d) il concorso per il conseguimento dell'idoneita' e' per esami.
 Art. 4
 ------
 
-Accesso alle segreterie comunali generali  
-di classe 2a
+Accesso alle segreterie comunali generali di classe 2a
 
 1. Alle segreterie comunali generali di classe 2a si accede mediante concorso, per titoli, per singole sedi. I relativi bandi di concorso sono emanati, entro trenta giorni dalla data in cui si verifica la vacanza della sede, dai prefetti competenti per territorio, con proprio decreto da pubblicare sul Foglio annunzi legali della provincia.
 
@@ -99,20 +98,20 @@ di classe 2a
 Art. 5
 ------
 
-Accesso alle sedi di segreteria generale  
-comunali e provinciali, di classe 1a
+Accesso alle sedi di segreteria generale comunali  
+e provinciali, di classe 1a
 
 1. Sono fatte salve le disposizioni dettate dal [decreto del Presidente della Repubblica 23 giugno 1972, n. 749](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-23;749), concernenti lo svolgimento delle procedure concorsuali, ivi comprese quelle attinenti alla composizione delle commissioni giudicatrici. Il segretario comunale o provinciale chiamato a far parte delle commissioni e' designato direttamente dal Ministero dell'interno.
 
 2. L'[articolo 11 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-23;749~art11), e' sostituito dal seguente:  
 "Art. 11 (Concorsi per la nomina a segretario comunale generale di 1a classe). - I posti di segretario comunale generale di 1a classe sono conferiti, con decreto del Ministro dell'interno, a seguito di concorso per titoli da bandire per ciascuna sede vacante, al quale possono partecipare:  
 a) i segretari comunali di qualifica corrispondente a quella stabilita per la segreteria a concorso;  
-b) i segretari comunali della qualifica immediatamente inferiore, i quali abbiano almeno tre anni di permanenza ininterrotta nella qualifica stessa ed abbiano riportato, nell'ultimo triennio, per due anni il giudizio complessivo di 'ottimo' e per l'altro anno almeno quello di 'distinto';  
+b) i segretari comunali della qualifica immediatamente inferiore, i quali abbiano almeno tre anni di permanenza ininterrotta nella qualifica stessa ed abbiano riportato, nell'ultimo triennio, per due anni il giudizio complessivo di "ottimo" e per l'altro anno almeno quello di "distinto";  
 c) i segretari provinciali di qualifica corrispondente a quella stabilita per la classe della segreteria a concorso;  
 d) i vice segretari generali comunali e provinciali con almeno sei anni di anzianita' nella qualifica, che occupino nella pianta organica dell'ente il corrispondente posto, a seguito di apposito concorso, e prestino servizio in sedi di classe corrispondente a quella della segreteria messa a concorso. Tale personale deve essere, altresi', in possesso dei requisiti di cui all'articolo 1 del presente decreto tranne quello dell'eta' e non deve aver riportato, nell'ultimo quinquennio, valutazioni negative da parte dei competenti organi di valutazione.  
 Al concorso di cui al primo comma non sono ammessi a partecipare i vice segretari che prestano servizio presso il comune o la provincia le cui segreterie sono messe a concorso.  
-I posti di segretario generale di 1a classe dei comuni con popolazione superiore a 250.000 abitanti sono conferiti, con decreto dei Ministro dell'interno, a seguito di concorso per titoli, da bandire per ciascuna sede vacante, al quale possono partecipare:  
-a) i segretari comunali generali di 1a classe che abbiano almeno tre anni di permanenza ininterrotta nella qualifica, con giudizi complessivi di 'ottimo';  
+I posti di segretario generale di 1a classe dei comuni con popolazione superiore a 250.000 abitanti sono conferiti, con decreto del Ministro dell'interno, a seguito di concorso per titoli, da bandire per ciascuna sede vacante, al quale possono partecipare:  
+a) i segretari comunali generali di 1a classe che abbiano almeno tre anni di permanenza ininterrotta nella qualifica, con giudizi complessivi di "ottimo";  
 b) i segretari provinciali, nonche' i vice segretari dei comuni aventi popolazione superiore a 250.000 abitanti ed i vice segretari delle province il cui capoluogo abbia una popolazione superiore a 250.000 abitanti. I segretari provinciali devono essere in possesso dei requisiti di cui alla lettera a) del presente comma. I vice segretari, per partecipare ai concorsi di cui al presente articolo, devono rivestire da almeno dodici anni tale qualifica e devono occupare nella pianta organica dell'ente il corrispondente posto, a seguito di apposito concorso. Tale personale deve svolgere servizio presso comuni o province diversi da quelli le cui segreterie sono messe a concorso e deve, inoltre, possedere i requisiti di cui all'articolo 1 del presente decreto, tranne quello dell'eta'.  
 I vice segretari per partecipare ai concorsi di cui al presente articolo non devono aver riportato nell'ultimo quinquennio valutazioni negative da parte dei competenti organi di valutazione.  
 L'[articolo 21 della legge 8 giugno 1962, n. 604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-08;604~art21), e gli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;107~art3) e [12 della legge 17 febbraio 1968, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-17;107~art12), sono abrogati".
@@ -125,11 +124,11 @@ per il personale dei segretari comunali e provinciali
 
 1. I consigli centrali di amministrazione per il personale dei segretari comunali e provinciali, nelle composizioni previste dagli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-08-09;748~art5) e [15 della legge 9 agosto 1954, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-08-09;748~art15), e dall'[articolo 30 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-23;749~art30), sono integrati da due sindaci di comuni sedi di segreteria generale o da due presidenti di province e da un segretario generale, designati, rispettivamente, dall'ANCI, dall'UPI e dalle organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale.
 
-2. I consigli provinciali di amministrazione per il personale dei segretari comunali e provinciali, nella composizione prevista dall'[articolo 4 della legge 11 novembre 1975, n. 587](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-11-11;587~art4), sono integrati da un presidente di provincia e da un segretario generale, designati, rispettivamente, dall'UPI e dalle organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale.
+2. I consigli provinciali di amministrazione per il personale dei segretari comunali e provinciali, nella composizione prevista dall'[articolo 4 della legge 11 novembre 1975, n. 587](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-11-11;587~art4), sono integrati da un presidente di provincia e da un segretario generale, designati rispettivamente, dall'UPI e dalle organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale.
 
 3. Ferme restando le competenze previste dalle disposizioni di legge vigenti, al consiglio centrale di amministrazione spettano altresi':
 
-a) la definizione dei criteri generali per la valutazione dei titoli per i concorsi a singole sedi di segreteria comunale di classe 3a e di segreteria generale di 2a e 1a classe, secondo parametri che, tenendo conto dell'anzianita' di servizio, privilegino i titoli di studio e di professionalita';
+a) la definizione dei criteri generali per la valutazione di titoli per i concorsi a singole sedi di segreteria comunale di classe 3a e di segreteria generale di 2a e 1a classe, secondo parametri che, tenendo conto dell'anzianita' di servizio, privilegino i titoli di studio e di professionalita';
 
 b) la determinazione dei criteri per il conferimento degli incarichi di reggenza e supplenza cui devono attenersi nella definizione dei criteri di loro competenza i consigli provinciali di amministrazione;
 
@@ -170,19 +169,19 @@ e i diritti di segreteria
 
 4. All'onere di L. 36.007.000.000, derivante dal presente articolo per l'anno 1995, si provvede mediante utilizzo delle disponibilita' in conto residui iscritte al capitolo 1549 dello stato di previsione del Ministero dell'interno per l'anno medesimo, da versare all'entrata del bilancio dello Stato per essere riassegnate, quanto a L. 36.000.000.000 e quanto a L. 7.000.000, rispettivamente, agli stati di previsione dei Ministeri dell'interno e del tesoro. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-5. I versamenti trimestrali, di cui al [comma 1 dell'articolo 13 della legge 23 dicembre 1993, n. 559](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559~art13-com1), devono essere effettuati solo se di importo singolo superiore a lire cinquantamila. Negli altri casi i versamenti sono effettuati alla scadenza del trimestre in cui tale soglia minima e' raggiunta ed in ogni caso a chiusura di ciascun esercizio finanziario. Con decreto del Ministro dell'interno, da emanare entro trenta giorni dalla data di entrata in vigore del presente decreto, sentite l'Associazione nazionale dei comuni italiani (ANCI), l'Unione delle province d'Italia (UPI) e l'Unione nazionale comuni, comunita' ed enti montani (UNCEM), sono stabiliti i criteri e le modalita' relativi ai versamenti trimestrali, nonche' la documentazione riguardante la liquidazione, la riscossione ed il versamento dei diritti, che gli enti interessati sono tenuti ad inoltrare al Ministero dell'interno, ed i termini di detto adempimento.
+5. I versamenti trimestrali, di cui al [comma 1 dell'articolo 13 della legge 23 dicembre 1993, n. 559](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559~art13-com1), devono essere effettuati solo se di importo singolo superiore a lire cinquantamila. Negli altri casi i versamenti sono effettuati alla scadenza del trimestre in cui tale soglia minima e' raggiunta ed in ogni caso a chiusura di ciascun esercizio finanziario. Con decreto del Ministro dell'interno, da emanare entro trenta giorni dalla data di entrata in vigore del presente decreto, sentite l'Associazione nazionale dei comuni italiani (ANCI), l'Unione delle province dell'Italia (UPI) e l'Unione nazionale comuni, comunita' ed enti montani (UNCEM), sono stabiliti i criteri e le modalita' relativi ai versamenti trimestrali, nonche' la documentazione riguardante la liquidazione, la riscossione ed il versamento dei diritti, che gli enti interessati sono tenuti ad inoltrare al Ministero dell'interno, ed i termini di detto adempimento.
 
 Art. 9
 ------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1995
+### Dato a Roma, addi' 1 marzo 1996
 
 SCALFARO
 
@@ -190,8 +189,8 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 CORONAS, Ministro dell'interno
 
-MASERA, Ministro del bilancio e della programmazione economica
+ARCELLI, Ministro del bilancio e della programmazione economica
 
 FRATTINI, Ministro per la funzione pubblica e gli affari regionali
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: CAIANIELLO

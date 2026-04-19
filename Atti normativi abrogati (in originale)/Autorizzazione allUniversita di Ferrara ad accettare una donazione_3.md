@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 dicembre 1946 n. 717
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 09 gennaio 1947 n. 51
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 dicembre 1946 n. 717
-================================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 09 gennaio 1947 n. 51
+==============================================================
 
 Autorizzazione all'Universita' di Ferrara ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-717. Decreto del Capo provvisorio dello Stato 22 dicembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Ferrara viene autorizzata ad accettare la donazione della somma di L. 10.000 nominali, in titoli di Rendita 5%, disposta in suo favore, con atto pubblico in data 5 febbraio 1943, dall'avv. gr. uff. Alberto Verdi, nella sua qualita' di presidente del Sindacato avvocati e procuratori di Ferrara per l'istituzione di un premio di studio da intitolarsi al nome dell'"avv. Pier Luigi Casati" e da conferirsi, ogni anno, allo studente di Ferrara e provincia, iscritto all'Universita', il quale consegua le migliori classificazioni nell'esame di laurea in giurisprudenza e sia di disagiate condizioni economiche.  
+51. Decreto del Capo provvisorio dello Stato 9 gennaio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Ferrara viene autorizzata ad accettare la donazione della somma di L. 9000, in titoli del Debito pubblico italiano, disposta in suo favore dal Comitato promotore per le onoranze al prof. Emilio Cavazzani, per la istituzione di un premio da intitolarsi al suo nome e da conferirsi a studenti dell'Ateneo ferrarese.  
   
 Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 20 febbraio 1947
+Registrato alla Corte dei Conti, addi' 3 marzo 1947

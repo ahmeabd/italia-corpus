@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 agosto 1996 n. 455
+DECRETO-LEGGE 03 luglio 1996 n. 349
 
 
-DECRETO-LEGGE 30 agosto 1996 n. 455
+DECRETO-LEGGE 03 luglio 1996 n. 349
 ===================================
 
 Misure urgenti per il Grande Giubileo del 2000.
 -----------------------------------------------
 
-Entrata in vigore del decreto: 2/9/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 03/07/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni legislative per definire e disciplinare gli interventi per il Grande Giubileo del 2000;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 agosto 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 giugno 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dei lavori pubblici, del tesoro e del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dei lavori pubblici e del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -55,26 +55,21 @@ d) i tempi entro i quali le opere devono essere completate e rese pienamente fun
 
 10. La commissione stabilisce le modalita' per assicurare la trasparenza delle decisioni e degli atti concernenti l'attuazione del piano e l'informazione della pubblica opinione. La commissione riferisce semestralmente al Parlamento sullo stato di attuazione degli interventi.
 
-11. Con successivi provvedimenti legislativi riguardanti l'intero territorio nazionale saranno assunte le ulteriori iniziative per assicurare il pieno conseguimento delle finalita' di cui al comma 1.
+11. Con successivi provvedimenti legislativi riguardanti l'intero territorio nazionale saranno assunte le  
+ulteriori iniziative per assicurare il pieno conseguimento delle finalita' di cui al comma 1.
 
 12. Nell'ambito del piano di cui al comma 2 e' determinato il contributo da erogarsi annualmente per l'Agenzia romana per la preparazione del Giubileo S.p.a., per l'assolvimento dei compiti indicati ai commi 4 e 8.
-
-13. I finanziamenti relativi agli interventi di cui al comma 2, da realizzare su area di proprieta' della Santa Sede, sono subordinati alla definizione consensuale, mediante scambio di note, tra la Santa Sede e lo Stato italiano, delle modalita' di attuazione degli interventi con riferimento alle finalita' degli interventi stessi, alla destinazione dell'area, alle procedure di affidamento dei lavori, al monitoraggio, alla vigilanza e al controllo sugli stessi.
 
 Art. 2
 ------
 
 Disposizioni finanziarie
 
-1. Per il finanziamento degli interventi il Ministro del tesoro e' autorizzato a contrarre mutui di durata non superiore a quindici anni, fino all'importo di lire 3.500 miliardi, con onere a totale carico dello Stato, nei limiti delle risorse autorizzate ai sensi del comma 3.
+1. Per il finanziamento degli interventi il Ministro del tesoro e' autorizzato a contrarre mutui quindicennali, fino all'importo di lire 3.500 miliardi, con onere a totale carico dello Stato, nei limiti delle risorse autorizzate ai sensi del comma 3.
 
 2. Le somme derivanti dai mutui di cui al comma 1 sono versate all'entrata del bilancio dello Stato per essere assegnate, con decreti del Ministro del tesoro, ad appositi capitoli dello stato di previsione della Presidenza del Consiglio dei Ministri, anche di nuova istituzione.
 
 3. Per l'attuazione del presente articolo e' autorizzata la spesa di lire 100 miliardi per l'anno 1997 e di lire 540 miliardi annui a decorrere dal 1998. Al relativo onere per gli anni 1997 e 1998 si provvede mediante utilizzo delle proiezioni per gli stessi anni dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1996, parzialmente utilizzando l'accantonamento relativo alla Presidenza del Consiglio dei Ministri. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
-
-4. Le disponibilita' di cui al comma 3, non utilizzate nell'anno di riferimento, sono conservate nel conto dei residui per essere assegnate al pertinente capitolo di bilancio negli anni successivi.
-
-5. Le somme rivenienti dai mutui di cui al presente articolo, in attesa della erogazione agli enti beneficiari, nonche' le giacenze sul conto di disponibilita' del Tesoro per il servizio di tesoreria in essere presso la Banca d'Italia, possono essere impiegate con le modalita' stabilite con decreto del Ministro del tesoro.
 
 Art. 3
 ------
@@ -86,7 +81,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 agosto 1996
+### Dato a Roma, addi' 3 luglio 1996
 
 SCALFARO
 
@@ -95,7 +90,5 @@ PRODI, Presidente del Consiglio dei Ministri
 DI PIETRO, Ministro dei lavori pubblici
 
 CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
-
-BASSANINI, Ministro per la funzione pubblica e gli affari regionali
 
 Visto, il Guardasigilli: FLICK

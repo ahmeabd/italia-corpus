@@ -1,14 +1,14 @@
-DECRETO-LEGGE 02 ottobre 1995 n. 412
+DECRETO-LEGGE 01 dicembre 1995 n. 512
 
 
-DECRETO-LEGGE 02 ottobre 1995 n. 412
-====================================
+DECRETO-LEGGE 01 dicembre 1995 n. 512
+=====================================
 
 Disposizioni urgenti per l'ottimale funzionamento ed organizzazione 
 dei commissariati del Governo.
 ---------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3-10-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3-12-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare il pieno ed efficace funzionamento dei commissariati del Governo nell'espletamento delle numerose e delicate incombenze affidate ai predetti organi, nonche' di ridurre i contingenti di personale di altre amministrazioni in servizio presso la Presidenza del Consiglio dei Ministri;
 
-Ritenuta, altresi', la straordinaria necessita' ed urgenza di disciplinare in via definitiva lo stato giuridico del restante personale del disciolto Corpo delle guardie di pubblica sicurezza, tuttora inquadrato in separati ruoli ad esaurimento;
-
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 settembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 dicembre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro per la funzione pubblica e gli affari regionali, di concerto con il Ministro dell'interno;
 
@@ -56,19 +54,12 @@ Art. 2
 Art. 3
 ------
 
-1. Il personale inquadrato nei ruoli ad esaurimento dei dirigenti e nei ruoli ad esaurimento dei commissari di cui agli [articoli 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;336~art19) e [26 del decreto del Presidente della Repubblica 24 aprile 1982, n. 336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;336~art26), ovvero nei ruoli ad esaurimento di cui all'[articolo 21 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;338~art21), in servizio alla data del 4 agosto 1995, puo' chiedere, entro il 31 ottobre 1995, di essere inquadrato nella corrispondente qualifica dei ruoli di cui, rispettivamente, al [decreto del Presidente della Repubblica 24 aprile 1982, n. 335, ed agli articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;335~art1) e [29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;335~art29) del [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;338), collocandosi dopo l'ultimo funzionario avente la medesima anzianita' nella qualifica, conservando la posizione soprannumeraria ad esaurimento.
-
-2. Per il personale inquadrato a norma del comma 1 si applica, ai fini del collocamento a riposo, la disposizione dell'[articolo 45, primo comma, del decreto del Presidente della Repubblica 24 aprile 1982, n. 336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;336~art45-com1), e cessano di avere efficacia le disposizioni dell'articolo 43 dello stesso decreto n. 336 del 1982. Nei confronti del medesimo personale la promozione alla qualifica superiore si consegue con le modalita' di cui all'[articolo 2 del decreto del Presidente della Repubblica 24 luglio 1981, n. 551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-07-24;551~art2), in quanto applicabili.
-
-Art. 4
-------
-
-1. Il presente decreto entro in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1995
+### Dato a Roma, addi' 1 dicembre 1995
 
 SCALFARO
 
@@ -78,94 +69,13 @@ FRATTINI, Ministro per la funzione pubblica e gli affari regionali
 
 CORONAS, Ministro dell'interno
 
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: DINI
 
-Tabelle
+Tabella A
 
-Tabella A. - Organico dei consiglieri della Presidenza del Consiglio dei Ministri   
-(articoli 30, 31, 32 e 38)   
+Tabella A. - Organico dei consiglieri della presidenza del Consiglio dei Ministri   
+(artt. 30, 31, 32 e 38)   
   
   
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=095G055900100010110001&dgu=1995-12-02&art.dataPubblicazioneGazzetta=1995-12-02&art.codiceRedazionale=095G0559)
   
-  
-Esperti e  
-In Comandati e consiglieri a ruolo fuori ruolo tempo parziale   
-Dirigente Generale, livello B 5 |  
-> 18  
-livello C 37(\*) |  
-100  
-Dirigente 176 82  
-  
-Totale 218 100  
-  
-  
-  
-  
-  
-(\*) Di cui 4 riservati al personale dirigente dei Commissariati di Governo in servizio alla data di entrata in vigore della presente legge.   
-  
-  
-  
-=====================================================================  
-Tabella B - Organico del personale non dirigenziale della Presidenza del Consiglio dei Ministri (articoli 30, 32, 37 e 38)
-  
-=====================================================================  
-| | In | Comandati e | |  
-| | ruolo | fuori ruolo | Incaricati |  
-| | | | |  
-| | | | |  
-| Qualifiche ad esaurimento | 24 | | | |  
-| | | | | |  
-| IX qualifica funzionale | 96 | > 105 | |  
-| | | | | |  
-| VIII qualifica funzionale | 231 | | | |  
-| | | | |  
-| VII qualifica funzionale | 435 | | | |  
-| | | > 150 | 30 |  
-| VI qualifica funzionale | 346 | | | |  
-| | | | |  
-| V qualifica funzionale | 603 | | | |  
-| | | > 310 | |  
-| IV qualifica funzionale | 373 | | | |  
-| | | | |  
-| III qualifica funzionale | 147 | | | |  
-| | | > 65 | |  
-| II qualifica funzionale | 11 | | | |  
-| | | | |  
-| | | | |  
-| Totale | 2266 | 630 | |  
-|==============================|=========|=============|============|
-  
-  
-  
-  
-Tabella C - Organico del personale dei Commissariati del Governo nelle regioni (articoli 30, 38 e 39)   
-  
-  
-========================================================  
-| | In | Comandati e |  
-| | ruolo | fuori ruolo |  
-| | | |  
-| | | |  
-| Dirigente | 120 | 30 |  
-| | | |  
-| Qualifiche ad esaurimento | 1 | | |  
-| | | | |  
-| IX qualifica funzionale | 19 | > 40 |  
-| | | | |  
-| VIII qualifica funzionale | 38 | | |  
-| | | |  
-| VII qualifica funzionale | 58 | | |  
-| | | > 40 |  
-| VI qualifica funzionale | 36 | | |  
-| | | |  
-| V qualifica funzionale | 90 | | |  
-| | | > 60 |  
-| IV qualifica funzionale | 57 | | |  
-| | | |  
-| III qualifica funzionale | 59 | | |  
-| | | > 30 |  
-| II qualifica funzionale | 5 | | |  
-| | | |  
-| Totale | 483 | 200 |  
-|==============================|=========|=============|

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 giugno 1996 n. 342
+DECRETO-LEGGE 30 agosto 1996 n. 449
 
 
-DECRETO-LEGGE 29 giugno 1996 n. 342
+DECRETO-LEGGE 30 agosto 1996 n. 449
 ===================================
 
 Misure di completamento della manovra di finanza pubblica.
 ----------------------------------------------------------
 
-Entrata in vigore del decreto: 1/7/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 31/8/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per completare la manovra di finanza pubblica;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 giugno 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 agosto 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del tesoro e del bilancio e della programmazione economica e delle finanze;
 
@@ -27,7 +27,7 @@ CAPO I Capo I DISPOSIZIONI GENERALI
 
 ### Art. 1
 
-F i n a l i t a'
+Finalita'
 
 1. Ai fini del contenimento del limite massimo del saldo netto da finanziare e del ricorso al mercato per gli anni 1996, 1997 e 1998 stabiliti dalla legge finanziaria 1996, il presente decreto effettua una manovra sulla spesa pari a 2.961 miliardi di lire per il 1996, a 2.834 miliardi di lire per il 1997 e a 3.578 miliardi di lire per il 1998 in termini di competenza e, rispettivamente, a 1.485, 2.380 e 2.900 miliardi di lire in termini di cassa; quota parte della manovra, pari a 1.476 miliardi per il 1996, 1.159 miliardi per il 1997 e 1.853 miliardi per il 1998 in termini di competenza e, rispettivamente, a 700, 1.200 e 1.480 miliardi in termini di cassa, e' realizzata mediante mantenimento del fondo negativo iscritto nelle tabelle A e B allegate alla [legge 28 dicembre 1995, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;550) (legge finanziaria 1996). Il presente decreto dispone altresi' maggiori entrate in misura non inferiore, in termini sia di competenza sia di cassa, a 3.900 miliardi di lire per il 1996, a 2.393 miliardi per il 1997 e a lire 1.600 miliardi per il 1998.
 
@@ -38,10 +38,11 @@ CAPO II Capo II DISPOSIZIONI IN MATERIA DI SPESA
 
 ### Art. 2
 
-Riduzione stanziamenti
+Disposizioni in materia di riduzione di stanziamenti  
+e di Tesoreria statale
 
 1. Gli stanziamenti iniziali iscritti sui capitoli del bilancio di previsione dello Stato per l'anno finanziario 1996, e le relative proiezioni per gli anni 1997 e 1998, appartenenti alle categorie economiche di seguito elencate, con esclusione della quota parte destinata a spese di personale e delle dotazioni relative ad accordi internazionali e a intese con confessioni religiose, a regolazioni contabili, a garanzie assunte dallo Stato, ad annualita' relative a limiti di impegno e a rate di ammortamento di mutui, sono ridotti per importi corrispondenti alle seguenti percentuali, intendendosi correlativamente ridotte le relative autorizzazioni di spesa:  
-Categoria IV - con esclusione delle spese aventi natura obbligatoria e di quelle della rubrica 12 dello stato di previsione del Ministero della difesa: 5 per cento.  
+Categoria IV - con esclusione delle spese aventi natura obbligatoria e di quelle della rubrica 12 e della rubrica 14 dello stato di previsione del Ministero della difesa: 5 per cento.  
 Su proposta del Ministro interessato, di concerto con il Ministro del tesoro, la riduzione puo' essere operata su determinati capitoli di spese discrezionali della medesima categoria ovvero sugli accantonamenti di fondo speciale per provvedimenti legislativi in corso della medesima amministrazione.  
 Categoria V - con esclusione dei capitoli 6674, 6675 e 6676 dello stato di previsione della Presidenza del Consiglio dei Ministri e dei capitoli 4630, 4633, 4634, 5941 e 6771 dello stato di previsione del Ministero del tesoro, delle spese per assistenza gratuita diretta (codice economico 5.1.4.), dei trasferimenti alle province e ai comuni (codice economico 5.5.0.), agli enti previdenziali (codice economico 5.6.0.) e all'estero (codice economico 5.8.0.), delle pensioni di guerra (codice economico 5.1.1.) nonche' dei contributi di cui all'[articolo 1, comma 40, della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art1-com40): 1,1 per cento.  
 Categorie X e XI - con esclusione del capitolo 8405 dello stato di previsione del Ministero dei lavori pubblici e delle spese per danni bellici e pubbliche calamita' (codice economico 10.9.1.): 2 per cento.
@@ -53,6 +54,8 @@ Categorie X e XI - con esclusione del capitolo 8405 dello stato di previsione de
 4. L'autorizzazione di spesa prevista dall'[articolo 4, comma 6, della legge 28 dicembre 1995, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;550~art4-com6) (legge finanziaria 1996), e' ridotta di lire 370 miliardi per l'anno 1996, di lire 550 miliardi per l'anno 1997 e di lire 600 miliardi per l'anno 1998.
 
 5. Gli stanziamenti iscritti ai capitoli 4288, 4289 e 4290 dello stato di previsione del Ministero dell'interno e le relative proiezioni sono complessivamente ridotti, su proposta del Ministro dell'interno, di lire 150 miliardi per ciascuno degli anni 1996, 1997 e 1998.
+
+6. Le assegnazioni, i contributi e le somme comunque erogate a decorrere dal 30 luglio 1996 a carico del bilancio dello Stato a favore di societa' per azioni, il cui capitale sia di totale proprieta' dello Stato, o di enti pubblici non assoggettati al sistema di tesoreria unica ai sensi della [legge 29 ottobre 1984, n. 720](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), e successive modificazioni ed integrazioni, devono essere versati su appositi conti correnti infruttiferi gia' in essere, ovvero da aprirsi presso la Tesoreria centrale dello Stato.
 
 CAPO III Capo III DISPOSIZIONI IN MATERIA DI ENTRATE
 ----------------------------------------------------
@@ -88,7 +91,7 @@ Non rileva ai fini penali ed extra tributari, compreso il contributo per il serv
 Regolarizzazione delle scritture contabili  
 e norme sui parametri
 
-1. Gli esercenti attivita' d'impresa in regime di contabilita' ordinaria che per il periodo di imposta 1995 e per il precedente hanno dichiarato ricavi di cui all'articolo 53, comma 1, ad esclusione di quelli indicati nella lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), di ammontare non superiore a lire dieci miliardi e comunque non inferiore a quello risultante dall'applicazione dei parametri di cui al decreto del Presidente del Consiglio dei Ministri 29 gennaio 1996, pubblicato nel supplemento ordinario n. 15 alla [Gazzetta Ufficiale n. 25 del 31 gennaio 1996](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1996-01-31&numeroGazzetta=25), anche mediante la definizione di cui all'articolo 3 del presente decreto, possono procedere alla regolarizzazione della situazione patrimoniale iniziale relativa all'esercizio successivo. Gli elementi posti a base della regolarizzazione devono essere indicati in apposito modello approvato con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro il 30 giugno 1996, da presentare entro il 20 dicembre 1996 ai centri di servizio, ove istituiti, o agli uffici delle imposte competenti in ragione del domicilio fiscale posseduto alla predetta ultima data.
+1. Gli esercenti attivita' d'impresa in regime di contabilita' ordinaria che per il periodo di imposta 1995 e per il precedente hanno dichiarato ricavi di cui all'articolo 53, comma 1, ad esclusione di quelli indicati nella lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), di ammontare non superiore a lire dieci miliardi e comunque non inferiore a quello risultante dall'applicazione dei parametri di cui al decreto del Presidente del Consiglio dei Ministri 29 gennaio 1996, pubblicato nel supplemento ordinario n. 15 alla [Gazzetta Ufficiale n. 25 del 31 gennaio 1996](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1996-01-31&numeroGazzetta=25), anche mediante la definizione di cui all'articolo 3 del presente decreto, possono procedere alla regolarizzazione della situazione patrimoniale iniziale relativa all'esercizio successivo. Gli elementi posti a base della regolarizzazione devono essere indicati in apposito modello approvato con [decreto del Ministro delle finanze 28 giugno 1996, pubblicato nella Gazzetta Ufficiale n. 150 del 28 giugno 1996](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1996-06-28&numeroGazzetta=150), da presentare entro il 20 dicembre 1996 ai centri di servizio, ove istituiti, o agli uffici delle imposte competenti in ragione del domicilio fiscale posseduto alla predetta ultima data.
 
 2. La regolarizzazione puo' essere effettuata mediante l'eliminazione delle passivita' o delle attivita' fittizie, inesistenti o indicate per valori superiori a quelli effettivi nonche' mediante l'iscrizione di attivita' o di passivita', costituite da debiti verso fornitori, in precedenza omesse, assoggettando i maggiori e i minori valori iscritti ad imposta sostitutiva dell'imposta sul reddito delle persone fisiche, dell'imposta sul reddito delle persone giuridiche e dell'imposta locale sui redditi, in misura pari al dieci per cento. Il maggiore valore del patrimonio netto derivante dalle predette regolarizzazioni, al netto dell'imposta sostitutiva, deve essere accantonato in apposita riserva, designata con riferimento al presente decreto, che concorre alla formazione del reddito nel periodo di imposta e nella misura in cui la riserva viene attribuita ai soci o ai partecipanti o all'imprenditore; nell'esercizio in cui si verificano le predette ipotesi, le somme attribuite, aumentate dell'imposta sostitutiva ad esse corrispondente, concorrono a formare il reddito imponibile della societa' o dell'ente o dell'impresa, ai quali e' attribuito un credito di imposta ai fini dell'imposta sul reddito delle persone fisiche o dell'imposta sul reddito delle persone giuridiche pari all'ammontare dell'imposta sostitutiva pagata, nonche' il reddito imponibile dei soci o dei partecipanti.  
 Per i soggetti indicati nell'articolo 87, comma 1, lettere a) e b), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), l'ammontare su cui va calcolata l'imposta sul patrimonio netto delle imprese e' assunto al lordo dell'imposta sostitutiva.
@@ -166,6 +169,39 @@ speciale per il deposito in discarica dei rifiuti solidi.
 
 ### Art. 13
 
+Modificazioni alla disciplina recata dal decreto-legge 20 giugno  
+1996, n. 323, convertito, con modificazioni, dalla legge 8 agosto  
+1996, n. 425, in materia di tassazione di taluni redditi di  
+capitale.
+
+1. Al [quinto comma dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art26-com5), recante disposizioni comuni in materia di accertamento delle imposte sui redditi, come modificato dall'[articolo 7, comma 5, del decreto-legge 20 giugno 1996, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-20;323~art7-com5), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;425), recante disposizioni urgenti per il risanamento della finanza pubblica, l'ultimo periodo e' sostituito dal seguente: "La ritenuta si applica, a titolo d'imposta, anche sui proventi corrisposti a soggetti non residenti per il tramite di stabili organizzazioni estere di imprese residenti e, a titolo di acconto, su quelli corrisposti a stabili organizzazioni estere di imprese residenti non appartenenti all'impresa erogante i proventi.".
+
+### Art. 14
+
+Modifica del trattamento fiscale  
+delle obbligazioni e dei titoli similari
+
+1. Nell'articolo 41, comma 2, lettera c), del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), le parole: "con scadenza fissa non inferiore a diciotto mesi" sono soppresse.
+
+2. All'[articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art26), recante disposizioni comuni in materia di accertamento delle imposte sui redditi - ferma restando la disciplina prevista per i titoli di cui all'[articolo 1 del decreto-legge 19 settembre 1986, n. 556](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-09-19;556~art1), convertito, con modificazioni, dalla [legge 17 novembre 1986, n. 759](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-11-17;759), come modificata dal [decreto legislativo 1 aprile 1996, n. 239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239), riguardante la ritenuta sugli interessi dei titoli di Stato, per i quali l'aliquota si applica nella misura del 12,5 per cento, indipendentemente dalla scadenza dei titoli - sono apportate le seguenti modificazioni:
+
+a) al primo comma, il primo periodo e' sostituito dai seguenti: "Le societa' e gli enti che hanno emesso obbligazioni e titoli similari devono operare una ritenuta con obbligo di rivalsa, sugli interessi, sui premi e sugli altri frutti corrisposti ai possessori nella misura del 12,50 per cento quando la scadenza non e' inferiore a diciotto mesi e del 27 per cento quando la scadenza e' inferiore a diciotto mesi. Qualora il rimborso abbia luogo entro diciotto mesi dall'emissione, sugli interessi, sui premi e sugli altri frutti maturati fino al momento dell'anticipato rimborso e' dovuta dall'emittente una somma pari al 20 per cento.";
+
+b) al terzo comma, i primi tre periodi sono sostituiti dai seguenti: "Se gli interessi, i premi e gli altri frutti di cui ai precedenti commi sono dovuti da soggetti non residenti nel territorio dello Stato, la ritenuta deve essere operata, con obbligo di rivalsa, sui proventi di cui al primo e al secondo comma con le aliquote ivi rispettivamente previste. Qualora il rimborso abbia luogo entro diciotto mesi dall'emissione, sugli interessi, sui premi e sugli altri frutti maturati fino al momento dell'anticipato rimborso e' dovuta una somma pari al 20 per cento. Tra gli interessi, i premi e gli altri frutti va compresa anche la differenza tra la somma corrisposta ai possessori dei titoli alla scadenza e il prezzo di emissione. All'applicazione della ritenuta ed al versamento della somma dovuta per l'anticipato rimborso devono provvedere i soggetti indicati nel primo comma dell'articolo 23 che intervengono nella riscossione degli interessi, dei premi e degli altri frutti ovvero nel rimborso nei confronti di soggetti residenti.".
+
+3. Nell'[articolo 7, comma 9, del decreto-legge 20 giugno 1996, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-20;323~art7-com9), convertito, con modificazioni, dalla [legge 8 agosto 1996, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;425), recante disposizioni urgenti per il risanamento della finanza pubblica, le parole: "emesse dalle banche" sono sostituite dalle seguenti: "e dei titoli similari".
+
+4. Le disposizioni del presente articolo si applicano agli interessi, ai premi e agli altri frutti delle obbligazioni e dei titoli similari emessi a partire dalla data di entrata in vigore del presente decreto.
+
+### Art. 15
+
+Regolarizzazione di adempimenti formali previsti in materia di  
+imposta straordinaria su particolari beni ritenuti di lusso.
+
+1. La soprattassa di lire seicentomila, stabilita per l'omessa presentazione della dichiarazione relativa all'imposta straordinaria su particolari beni, dall'[articolo 8, comma 7, del decreto-legge 19 settembre 1992, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384~art8-com7), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438), e' soppressa. Non si applica l'[articolo 20 della legge 7 gennaio 1929, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-01-07;4~art20), relativo alla applicazione temporale delle norme sanzionatorie delle violazioni delle leggi finanziarie, e non si fa luogo a rimborso delle somme gia' corrisposte.
+
+### Art. 16
+
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -173,7 +209,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 giugno 1996
+### Dato a Roma, addi' 30 agosto 1996
 
 SCALFARO
 

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 23 dicembre 1994 n. 718
+DECRETO-LEGGE 25 febbraio 1995 n. 47
 
 
-DECRETO-LEGGE 23 dicembre 1994 n. 718
-=====================================
+DECRETO-LEGGE 25 febbraio 1995 n. 47
+====================================
 
 Disposizioni urgenti in materia di ordinamento della Corte dei 
 conti.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29/12/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/2/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di ordinamento della Corte dei conti per garantire, con la necessaria immediatezza, l'esercizio delle funzioni giurisdizionali e di controllo, anche a seguito di talune esigenze emerse nella fase di prima attuazione delle disposizioni dettate dal [decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e dalla [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 dicembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 febbraio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro;
 
 E M A N A il seguente decreto-legge:
 
@@ -38,8 +38,10 @@ I difensori delle parti e il procuratore generale devono essere sentiti in camer
 2. Le sezioni riunite di cui all'[articolo 1, comma 7, del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art1-com7), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), giudicano con sette magistrati.
 
 3. Dopo il [comma 8 dell'articolo 1 del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art1-com8), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e' inserito il seguente:  
-"8-bis. E' istituita un'altra sezione giurisdizionale centrale.  
-Alle sezioni giurisdizionali centrali ed a quelle regionali, il cui carico di lavoro sia ritenuto particolarmente consistente, puo' essere assegnato, con delibera del consiglio di presidenza, adottata su proposta motivata del presidente della Corte dei conti, un presidente aggiunto; il numero totale dei presidenti aggiunti non puo' essere superiore a dieci unita'.".
+"8-bis. E' istituita una terza sezione giurisdizionale centrale.  
+Per le esigenze delle funzioni giurisdizionali, di controllo e referenti al Parlamento, alle sezioni della Corte, il cui carico di lavoro sia ritenuto particolarmente consistente, possono essere assegnati, con delibera del consiglio di presidenza, adottata su proposta motivata del presidente della Corte dei conti, presidenti aggiunti o di coordinamento; il numero totale dei presidenti aggiunti e di coordinamento non puo' essere superiore a dieci unita'.".
+
+4. I componenti degli organi di amministrazione e di controllo, nonche' i funzionari ed i dipendenti degli enti pubblici economici e delle societa' sulle quali lo Stato esercita il controllo in ragione della partecipazione al capitale sociale, sono soggetti, per danni arrecati agli enti o alle societa' stesse, alla giurisdizione della Corte dei conti, secondo le norme regolanti la materia.
 
 Art. 2
 ------
@@ -62,37 +64,45 @@ Art. 4
 Sezione controllo Stato
 
 1. Il [comma 10 dell'articolo 3 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art3-com10), e' sostituito dai seguenti:  
-"10. La sezione del controllo in adunanza generale e' composta dal presidente della Corte dei conti che la presiede, dai presidenti di sezione preposti al coordinamento e da tutti i magistrati assegnati agli uffici di controllo. La sezione e' ripartita annualmente in quattro collegi dei quali fanno parte, in ogni caso, il presidente della Corte dei conti e i presidenti di sezione preposti al coordinamento. I collegi hanno distinta competenza per tipologia di controllo e deliberano con un numero minimo di quindici votanti.  
+" 10. La sezione del controllo in adunanza generale e' composta dal presidente della Corte dei conti che la presiede, dai presidenti di sezione preposti al coordinamento e da tutti i magistrati assegnati agli uffici di controllo. La sezione e' ripartita annualmente in quattro collegi dei quali fanno parte, in ogni caso, il presidente della Corte dei conti e i presidenti di sezione preposti al coordinamento. I collegi hanno distinta competenza per tipologia di controllo e deliberano con un numero minimo di quindici votanti.  
 10-bis. La sezione del controllo in adunanza generale stabilisce annualmente i programmi di attivita' e le materie di competenza dei collegi, nonche' i criteri per la loro composizione da parte del presidente della Corte dei conti.".
 
 Art. 5
+------
+
+Atti delle gestioni fuori bilancio
+
+1. All'[articolo 24 della legge 23 dicembre 1993, n. 559](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559~art24), e' aggiunto, in fine, il seguente comma:  
+"2-bis. Il termine di cui al comma 2 e' di sei mesi in relazione gli atti adottati nell'ambito delle gestioni fuori bilancio di cui agli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art21) e [32 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art32), e successive modificazioni. Fino al decorso di detto termine, tali atti conservano comunque la loro efficacia.".
+
+Art. 6
 ------
 
 Assegnazioni di ufficio
 
 1. Il periodo di tempo di cui all'articolo 1, comma 9, ultimo periodo, del [decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), termina alla data del 30 aprile 1996, successivamente alla quale si procede alle assegnazioni definitive. Le assegnazioni di ufficio non possono superare, in ogni caso, la durata di un anno.
 
-Art. 6
+Art. 7
 ------
 
 Referendari e primi referendari
 
 1. La disposizione dell'[articolo 11, comma 2, della legge 13 aprile 1988, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-04-13;117~art11-com2), continua ad applicarsi ai referendari e primi referendari della Corte dei conti in servizio alla data del 31 dicembre 1993 e non modifica l'ordine di anzianita' del medesimo personale.
 
-Art. 7
+Art. 8
 ------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1994
+### Dato a Roma, addi' 25 febbraio 1995
 
 SCALFARO
 
-BERLUSCONI, Presidente del Consiglio dei Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-Visto, il Guardasigilli: BIONDI
+Visto, il Guardasigilli: MANCUSO

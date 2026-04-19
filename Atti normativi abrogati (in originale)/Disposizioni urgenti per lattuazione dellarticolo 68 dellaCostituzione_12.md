@@ -1,14 +1,14 @@
-DECRETO-LEGGE 07 settembre 1995 n. 374
+DECRETO-LEGGE 07 luglio 1995 n. 276
 
 
-DECRETO-LEGGE 07 settembre 1995 n. 374
-======================================
+DECRETO-LEGGE 07 luglio 1995 n. 276
+===================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della 
 Costituzione.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 11/9/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13-7-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 settembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 luglio 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia;
 
@@ -31,7 +31,13 @@ Art. 1
 Art. 2
 ------
 
-1. Il [comma 4 dell'articolo 655 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art655-com4) e' abrogato.
+1. Il [comma 4 dell'articolo 655 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art655-com4) e' abrogato.   
+  
+  
+---------------   
+Nota redazionale   
+Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/7/1995, n. 162 durante il periodo di "vacatio legis".   
+E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 Art. 3
 ------
@@ -57,12 +63,12 @@ Art. 5
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 settembre 1995
+### Dato a Roma, addi' 7 luglio 1995
 
 SCALFARO
 

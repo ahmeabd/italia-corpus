@@ -1,8 +1,8 @@
-DECRETO-LEGGE 08 marzo 1996 n. 113
+DECRETO-LEGGE 03 maggio 1996 n. 246
 
 
-DECRETO-LEGGE 08 marzo 1996 n. 113
-==================================
+DECRETO-LEGGE 03 maggio 1996 n. 246
+===================================
 
 Disposizioni in materia di riutilizzo dei residui derivanti da 
 cicli di produzione o di consumo in un processo produttivo o in un 
@@ -10,7 +10,7 @@ processo di combustione, nonche' in materia di smaltimento dei
 rifiuti.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di riutilizzo in un ciclo di produzione o in un ciclo di combustione dei residui derivanti dai cicli di produzione e di consumo;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri di grazia e giustizia, della sanita', delle finanze, delle risorse agricole, alimentari e forestali, per la funzione pubblica e gli affari regionali e dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri di grazia e giustizia, della sanita', delle risorse agricole, alimentari e forestali, per la funzione pubblica e gli affari regionali e dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
 
 E M A N A il seguente decreto-legge:
 
@@ -30,7 +30,7 @@ Art. 1
 
 Campo di applicazione
 
-1. In attesa della completa attuazione delle [direttive 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156) e [91/689/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0689), ed in particolare in attesa che la Commissione dell'Unione europea stabilisca in maniera puntuale i criteri che caratterizzano la nozione di rifiuto quale definita all'articolo 2, comma 1, lettera a), il presente decreto disciplina le attivita' finalizzate al riutilizzo dei residui derivanti dai cicli di produzione o di consumo.
+1. In attesa della completa attuazione delle [direttive 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156) e [91/689/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0689), ed in particolare in attesa che la Commissione dell'Unione europea stabilisca in maniera puntuale i criteri che caratterizzano la nozione di rifiuto quale definita all'articolo 2, comma 1, lettera a) il presente decreto disciplina le attivita' finalizzate al riutilizzo dei residui derivanti dai cicli di produzione o di consumo.
 
 Art. 2
 ------
@@ -86,10 +86,7 @@ f) ai residui delle lavorazioni agricole in generale e derivati da processi di l
 
 g) ai residui e le eccedenze derivanti dalle preparazioni nelle cucine di qualsiasi tipo di cibi solidi, cotti e crudi, non entrati nel circuito distributivo di somministrazione, destinati alle strutture di ricovero di animali di affezione di cui alla [legge 14 agosto 1991, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281), e successive modificazioni, nel rispetto della vigente normativa.
 
-2. Sono escluse dal campo di applicazione del presente decreto le attivita' di riutilizzo di residui che danno origine ai fertilizzanti, individuati con riferimento alla tipologia e alle modalita' di impiego ai sensi della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), e successive modifiche ed integrazioni.  
-All'articolo 8, comma 2, secondo capoverso, della [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), come modificato dall'[articolo 6, comma 1, del decreto legislativo 16 febbraio 1993, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;161~art6-com1), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'ambiente e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'".  
-All'articolo 8, comma 3, ultimo capoverso, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'".  
-All'articolo 9, comma quinto, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". Per gli insediamenti che producono fertilizzanti anche con l'impiego di residui deve essere effettuata comunicazione alla regione competente.
+2. Sono escluse dal campo di applicazione del presente decreto le attivita' di riutilizzo di residui che danno origine ai fertilizzanti, individuati con riferimento alla tipologia e alle modalita' di impiego ai sensi della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), e successive modifiche ed integrazioni. All'articolo 8, comma 2, secondo capoverso, della [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), come modificato dall'[articolo 6, comma 1, del decreto legislativo 16 febbraio 1993, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;161~art6-com1), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'ambiente e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 8, comma 3, ultimo capoverso, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 9, comma quinto, della medesima [legge n. 748 del 1984](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". Per gli insediamenti che producono fertilizzanti anche con l'impiego di residui deve essere effettuata comunicazione alla regione competente.
 
 3. Sono altresi' esclusi dal campo di applicazione del presente decreto i materiali quotati con precise specifiche merceologiche in borse merci o in listini e mercuriali ufficiali istituiti presso le camere di commercio, industria, artigianato e agricoltura, sotto la vigilanza del Ministero dell'industria, del commercio e dell'artigianato, individuati nell'elenco di cui all'allegato 1 al [decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212).
 
@@ -114,7 +111,7 @@ a) nome ed indirizzo del produttore o detentore;
 
 b) origine, composizione e quantita' del residuo;
 
-c) destinazione con l'indicazione delle operazioni di trattamento, di stoccaggio e di riutilizzo cui e' soggetto il residuo;
+c) destinazione con l'indicazione delle operazioni, di trattamento, di stoccaggio e di riutilizzo cui e' soggetto il residuo;
 
 d) data e percorso del trasporto;
 
@@ -141,7 +138,7 @@ Attivita' di riutilizzo sottoposte a comunicazione
 
 1. Chiunque intende effettuare sul territorio nazionale il trattamento, lo stoccaggio o il riutilizzo dei residui di cui agli allegati 2 e 3 al decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario n. 126 alla [Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212), e di cui al decreto del Ministro dell'ambiente 16 gennaio 1995, pubblicato nel supplemento ordinario della Gazzetta Ufficiale del 30 gennaio 1995, n. 24, ad eccezione delle categorie di cui ai punti 21 e 22 dell'allegato 1 al medesimo decreto, e' tenuto a darne annualmente comunicazione, su carta libera, alla sezione regionale dell'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti ed alla regione, alla provincia autonoma o alla provincia delegata, territorialmente competente. La comunicazione e' corredata da una relazione, nella quale sono indicati provenienza, tipi, quantita' e caratteristiche dei residui da trattare, stabilimento e ciclo di trattamento, di produzione o di combustione nel quale i residui stessi sono destinati ad essere riutilizzati, nonche' le caratteristiche merceologiche dei prodotti derivanti dai predetti cicli di riutilizzo. La regione, la provincia autonoma o la provincia delegata puo' chiedere ulteriori dati ed informazioni per verificare il rispetto delle norme vigenti sulla tutela della salute e dell'ambiente e, qualora accerti la mancanza dei presupposti o dei requisiti dalle stesse richiesti, puo' vietare la prosecuzione dell'attivita' ed impone la rimozione degli effetti gia' prodotti. Con decreto del Ministro dell'ambiente, di concerto con i Ministri dell'industria, del commercio e dell'artigianato e della sanita', verranno stabilite le norme tecniche per la regolamentazione delle attivita' finalizzate al riutilizzo ai fini della produzione di energia dei residui bituminosi derivanti da processi di lavorazione del greggio (TAR) e dei residui allo stato solido derivanti dal processo di cokificazione di frazioni pesanti petrolifere (Coke di petrolio).
 
-2. Le sezioni regionali territorialmente competenti dell'Albo nazionale delle imprese esercenti servizi di smaltimenti dei rifiuti redigono l'elenco degli operatori che hanno effettuata la comunicazione ai sensi del presente articolo.
+2. Le sezioni regionali territorialmente competenti dell'Albo nazionale delle imprese esercenti servizi di smaltimenti dei rifiuti redigono l'elenco degli operatori che hanno effettuato la comunicazione ai sensi del presente articolo.
 
 3. Agli oneri per la tenuta degli elenchi di cui al comma 1 si provvede con le entrate derivanti dal diritto di iscrizione annuale, pari a lire cinquantamila a carico delle ditte esercenti le attivita'.
 
@@ -161,7 +158,7 @@ b) sia indicato per ogni tipo di residuo il valore limite di sostanze pericolose
 
 c) siano individuati i tipi di attivita' e le condizioni alle quali l'attivita' e' sottoposta alla disciplina del presente articolo;
 
-d) siano definite, in relazione ai tipi e alle quantita' di sostanze pericolose contenute nei residui ed ai metodi di riutilizzo, le prescrizioni necessarie per assicurare che i residui stessi siano riutilizzati senza pericolo per la salute dell'uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizi all'ambiente.
+d) siano definite, in relazione ai tipi e alle quantita' di sostanze pericolose contenute nei residui ed ai metodi di riutilizzo, le prescrizioni necessane per assicurare che i residui stessi siano riutilizzati senza pericolo per la salute dell'uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizi all'ambiente.
 
 Art. 6
 ------
@@ -215,7 +212,7 @@ Registri di carico e scarico
 
 a) la quantita' (peso o volume, se necessario correlati alla percentuale di umidita');
 
-b) la qualita' (principali caratteristiche chimichefisiche-merceologiche, con la precisazione se trattasi di residuo tossico e nocivo);
+b) la qualita' (principali caratteristiche chimiche-fisiche-merceologiche, con la precisazione se trattasi di residuo tossico e nocivo);
 
 c) la provenienza (identificazione dell'impianto e dell'attivita' produttiva specifica);
 
@@ -233,7 +230,7 @@ g) il modo di trattamento e di riutilizzo.
 
 a) registri di carico e scarico dei rifiuti di cui all'[articolo 3, comma 5, del decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art3-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475);
 
-b) registri IVA di acquisto e vendita;
+b) registri I.V.A. di acquisto e vendita;
 
 c) scrittura ausiliare di magazzino di cui all'[articolo 14 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art14), e successive modificazioni;
 
@@ -272,7 +269,7 @@ Sanzioni e causa di non punibilita'
 
 2. Chiunque, nello svolgimento delle operazioni previste nel presente decreto, relative a residui individuati non osserva le prescrizioni di cui all'articolo 6, commi 2, 3 e 4, ovvero quelle di cui all'allegato 3 al [decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212), e successive modifiche ed integrazioni, e' punito con l'arresto sino ad un anno o con l'ammenda da lire tre milioni a lire dieci milioni. Le predette sanzioni sono raddoppiate nel caso in cui la non osservanza delle prescrizioni riguardi residui pericolosi. In caso di superamento dei valori limite di emissione, ovvero dei valori limite di qualita' dell'aria, nonche' di riutilizzo in cicli di combustione di residui non conformi alle prescrizioni di cui al [decreto del Ministro dell'ambiente 29 settembre 1994, pubblicato nella Gazzetta Ufficiale n. 245 del 19 ottobre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-10-19&numeroGazzetta=245), e successive modifiche ed integrazioni, si applicano le sanzioni stabilite dal [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;203).
 
-3. Chiunque effettua operazioni di traffico illecito delle sostanze o dei materiali elencati negli allegati II, III e IV del [regolamento CEE n. 259/93](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0259), ai sensi dell'articolo 26 del regolamento medesimo, e' punito con l'ammenda da lire dieci milioni a lire trenta milioni. Se il fatto illecito riguarda il trasporto di materiali o sostanze non corrispondenti a quelle indicate nella notifica, si applica la pena dell'arresto da 3 mesi a 2 anni. Alla condanna consegue la confisca del mezzo di trasporto utilizzato.
+3. Chiunque effettua operazioni di traffico illecito delle sostanze o dei materiali elencati negli allegati Il, III e IV del [regolamento CEE n. 259/93](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0259), ai sensi dell'articolo 26 del regolamento medesimo, e' punito con l'ammenda da lire dieci milioni a lire trenta milioni. Se il fatto illecito riguarda il trasporto di materiali o sostanze non corrispondenti a quelle indicate nella notifica, si applica la pena dell'arresto da 3 mesi a 2 anni. Alla condanna consegue la confisca del mezzo di trasporto utilizzato.
 
 4. Non e' punibile chiunque, fino al 7 gennaio 1995, ha commesso un fatto previsto come reato dal [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915), e successive modifiche ed integrazioni, nell'esercizio di attivita' qualificate come operazioni di raccolta e trasporto, stoccaggio, trattamento o pretrattamento, recupero o riutilizzo di residui nei modi e nei casi previsti ed in conformita' alle disposizioni del [decreto del Ministro dell'ambiente in data 26 gennaio 1990, pubblicato nella Gazzetta Ufficiale n. 30 del 6 febbraio 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-02-06&numeroGazzetta=30), ovvero di norme regionali.
 
@@ -354,7 +351,7 @@ Modifiche di disposizioni autorizzative
 
 6. Il [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-05-09;407), non si applica alle domande di iscrizione all'Albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti.
 
-7. Con decreto del Ministro dell'ambiente, di concerto con i Ministri del tesoro, dell'industria, del commercio e dell'artigianato, dei trasporti e della navigazione, della sanita' e dell'interno, da emanarsi entro tre mesi dalla data di entrata in vigore del presente decreto, sono ridefinite le modalita' organizzative e di funzionamento dell'Albo nazionale previste dal [decreto del Ministro dell'ambiente 21 giugno 1991, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente:decreto:1991-06-21;324), e successive modificazioni.
+7. Con decreto del Ministro dell'ambiente, di concerto con i Ministri del tesoro, dell'industria, del commercio e dell'artigianato, dei trasporti e della navigazione, della sanita' e dell'interno, da emanarsi entro tre mesi dalla data di entrata in vigore del presente decreto, sono ridefinite le modalita' organizzative e di funzionamento dell'Albo nazionale previste dal decreto del Minisro dell'ambiente 21 giugno 1991, n. 324, e successive modificazioni.
 
 8. I diritti di cui agli articoli 4, 5 e 15 sono versati secondo le modalita' stabilite per il versamento dei diritti di iscrizione all'Albo.
 
@@ -410,7 +407,7 @@ Art. 20
 
 Disposizioni finali e finanziarie
 
-1. E' differito al 31 maggio 1996 il termine di cui all'[articolo 1 del decreto-legge 11 gennaio 1994, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-11;17~art1), convertito dalla [legge 17 febbraio 1994, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;150), per la proroga del comando del personale dipendente dagli enti pubblici trasformati in societa' di diritto privato, ai sensi della [legge 30 luglio 1990, n. 218, e degli articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art15) e [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art18) del [decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), nonche' dalle societa' da essi controllate, con oneri a totale carico degli enti o societa' di appartenenza.
+1. E' differito al 31 luglio 1996 il termine di cui all'[articolo 1 del decreto-legge 11 gennaio 1994, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-11;17~art1), convertito dalla [legge 17 febbraio 1994, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;150), per la proroga del comando del personale dipendente dagli enti pubblici trasformati in societa' di diritto privato, ai sensi della [legge 30 luglio 1990, n. 218, e degli articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art15) e [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art18) del [decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), nonche' dalle societa' da essi controllate, con oneri a totale carico degli enti o societa' di appartenenza.
 
 2. Entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto il Ministro dell'ambiente, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, definisce, con proprio decreto, i moduli da utilizzare per le comunicazioni di cui agli articoli 4, 5 e 15, ed ai successivi aggiornamenti, ai fini dell'acquisizione della rilevazione e della elaborazione dei dati trasmessi secondo criteri omogenei ed uniformi.
 
@@ -422,7 +419,7 @@ Disposizioni finali e finanziarie
 
 6. Nell'assegnazione delle risorse stanziate, ancora disponibili, dal [decreto-legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), e dal [decreto-legge 26 gennaio 1987, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;10), convertito, con modificazioni, dalla [legge 24 marzo 1987, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-24;119), si prescinde, rispettivamente, dalle specificazioni di cui agli articoli 1, 1-bis e 1-ter del citato [decreto-legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361), e dalle tipologie impiantistiche ivi indicate.
 
-7. Al [comma 3 dell'articolo 1 del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art1-com3), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), dopo le parole: "a comuni, province e comunita' montane" sono inserite le seguenti: "e consorzi tra i comuni".
+7. Al [comma 3, dell'articolo 1, del decreto-legge 5 ottobre 1993, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398~art1-com3), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;493), dopo le parole: "a comuni, province e comunita' montane" sono inserite le seguenti: "e consorzi tra i comuni".
 
 8. All'[articolo 8, comma 2, della legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art8-com2), dopo le parole: "Liri-Garigliano e Volturno" sono inserite le seguenti: ", nonche' per gli interventi urgenti nei bacini interregionali e regionali dei fiumi che versano nei mari Ionio e Tirreno".
 
@@ -436,7 +433,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 marzo 1996
+### Dato a Roma, addi' 3 maggio 1996
 
 SCALFARO
 
@@ -448,13 +445,11 @@ CAIANIELLO, Ministro di grazia e giustizia
 
 GUZZANTI, Ministro della sanita'
 
-FANTOZZI, Ministro delle finanze
-
 LUCHETTI, Ministro delle risorse
 
 agricole, alimentari e forestali
 
-FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+MOTZO, Ministro per la funzione pubblica e gli affari regionali
 
 CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero
 

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 06 maggio 1994 n. 274
+DECRETO-LEGGE 08 marzo 1994 n. 165
 
 
-DECRETO-LEGGE 06 maggio 1994 n. 274
-===================================
+DECRETO-LEGGE 08 marzo 1994 n. 165
+==================================
 
 Disposizioni urgenti per l'attuazione da parte del Dipartimento per gli affari sociali della legge 26 giugno 1990, n. 162, in materia di prevenzione e recupero delle tossicodipendenze.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9-05-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 10-3-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assi
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni al fine di favorire interventi a favore degli stranieri extracomunitari immigrati;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 maggio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 marzo 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli affari sociali, di concerto con i Ministri delle finanze, del tesoro e della sanita';
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli affari sociali, di concerto con i Ministri dell'interno, delle finanze, del tesoro e della sanita';
 
 E M A N A il seguente decreto-legge:
 
@@ -49,7 +49,7 @@ b) enti locali e unita' sanitarie locali maggiormente interessati dall'espansion
 
 c) enti, organizzazioni di volontariato, cooperative e privati che operino senza scopi di lucro, iscritti agli albi di cui all'articolo 116 del testo unico, ovvero, in caso di mancata istituzione dell'albo e nelle more della registrazione temporanea, che si coordinino con la regione o con l'unita' sanitaria locale mediante apposite convenzioni, per progetti mirati a sostenere attivita' di recupero e reinserimento sociale e professionale dei tossicodipendenti. Per il finanziamento di tali iniziative e' destinata una quota pari al 25 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga;
 
-d) regioni per la formazione integrata degli operatori dei servizi pubblici e privati convenzionati per l'assistenza socio-sanitaria alle tossicodipendenze, anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi. Per il finanziamento di tali iniziative e' destinata una quota pari al 3 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
+d) regioni per la formazione integrata degli operatori dei servizi pubblici e privati convenzionati per l'assistenza socio- sanitaria alle tossicodipendenze, anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi. Per il finanziamento di tali iniziative e' destinata una quota pari al 3 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
 
 3. Nel caso in cui il totale dei finanziamenti destinati a progetti approvati ai sensi di una delle lettere a), b), c) e d) del comma 2 non raggiunga l'ammontare della quota indicata nella lettera cui si riferisce, la disponibilita' residua di finanziamento e' utilizzata per i progetti eventualmente eccedenti altra quota. Comunque, le somme stanziate per il Fondo di cui al comma 1 e non impegnate alla chiusura di ciascun esercizio finanziario possono esserlo, per gli stessi fini, in quello successivo.
 
@@ -57,11 +57,11 @@ d) regioni per la formazione integrata degli operatori dei servizi pubblici e pr
 
 5. L'approvazione dei progetti di cui al comma 2 e' disposta con decreto del Ministro per gli affari sociali, sentito il Comitato nazionale di coordinamento per l'azione antidroga, di cui all'articolo 1 del testo unico.
 
-6. Al finanziamento dei progetti presentati, a decorrere dall'anno 1993, dai soggetti di cui alle lettere b) e c) del comma 2 si provvede mediante aperture di credito intestate, rispettivamente, al sindaco o al presidente dell'ente locale interessato ed al prefetto nella cui competenza territoriale ricadano gli interventi oggetto del finanziamento stesso, in qualita' di funzionari delegati.
+6. Al finanziamento dei progetti presentati, a decorrere dall'anno 1993, dai soggetti di cui alle lettere b) e c) del comma 2 si provvede mediante aperture di credito intestate, rispettivamente,al sindaco o al presidente dell'ente locale interessato ed al prefetto nella cui competenza territoriale ricadano gli interventi oggetto del finanziamento stesso, in qualita' di funzionari delegati.
 
 7. Il funzionario delegato puo' disporre una anticipazione fino al 50 per cento dell'importo del finanziamento assentito. I successivi pagamenti sono disposti sulla base degli stati di avanzamento dell'esecuzione dei singoli progetti regolarmente documentati.
 
-8. Il funzionario delegato, in deroga alle vigenti norme sulla contabilita' dello Stato, puo' mantenere in contabilita' speciale e gestire le somme accreditate, anche oltre i termini previsti per la rendicontazione e comunque non oltre l'anno successivo, previa autorizzazione del Dipartimento per gli affari sociali. La deroga si applica anche per le somme accreditate ai prefetti quali funzionari delegati al pagamento per i progetti finanziati ai sensi degli articoli 132 e 134 del testo unico, relativamente all'esercizio finanziario per l'anno 1993, residui 1992.
+8. Il funzionario delegato, in deroga alle vigenti norme sulla contabilita' dello Stato, puo' mantenere in contabilita' speciale le somme accreditate, anche oltre i termini previsti per la rendicontazione e comunque non oltre l'anno successivo, previa autorizzazione del Dipartimento per gli affari sociali. La deroga si applica anche per le somme accreditate ai prefetti quali funzionari delegati al pagamento per i progetti finanziati ai sensi degli articoli 132 e 134 del testo unico, relativamente all'esercizio finanziario per l'anno 1993, residui 1992.
 
 9. I controlli sui rendiconti e sull'utilizzo delle somme erogate per il finanziamento dei progetti di cui al comma 6 sono effettuati dalle ragionerie provinciali dello Stato e dalle delegazioni regionali della Corte dei conti, secondo le modalita' stabilite con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro e con il Ministro per gli affari sociali, da emanare entro trenta giorni dalla data di entrata in vigore del presente decreto. Sono inoltre autorizzate le visite ispettive di cui all'[articolo 65 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art65).
 
@@ -115,18 +115,20 @@ Art. 6
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 maggio 1994
+### Dato a Roma, addi' 8 marzo 1994
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
 
 CONTRI, Ministro per gli affari sociali
+
+MANCINO, Ministro dell'interno
 
 GALLO, Ministro delle finanze
 

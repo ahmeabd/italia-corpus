@@ -1,30 +1,30 @@
-DECRETO-LEGGE 16 dicembre 1993 n. 525
+DECRETO-LEGGE 19 dicembre 1992 n. 484
 
 
-DECRETO-LEGGE 16 dicembre 1993 n. 525
+DECRETO-LEGGE 19 dicembre 1992 n. 484
 =====================================
 
 Disposizioni urgenti in materia di lavoro portuale.
 ---------------------------------------------------
 
-Entrata in vigore del decreto: 20/12/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/12/1992.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Vista la sentenza della Corte di giustizia della Comunita' europea in data 10 dicembre 1991, che ha dichiarato la normativa italiana relativa al lavoro portuale incompatibile con l'articolo 90, in combinato disposto con gli articoli 30, 48 e 86, del trattato CE;
+Vista la sentenza della Corte di giustizia della Comunita' economica europea in data 10 dicembre 1991, che ha dichiarato la normativa italiana relativa al lavoro portuale incompatibile con l'articolo 90, in combinato disposto con gli articoli 30, 48 e 86, del trattato CEE;
 
-Considerato che la Commissione CE ha invitato il Governo italiano a comunicare, entro il 30 settembre 1992, le misure che intende adottare per conformare la normativa interna al diritto comunitario;
+Considerato che la Commissione CEE ha invitato il Governo italiano a comunicare, entro il 30 settembre 1992, le misure che intende adottare per conformare la normativa interna al diritto comunitario;
 
 Considerato, altresi', che la stessa Commissione si e' riservata di avviare il procedimento di infrazione qualora, sempre entro il 30 settembre 1992, le misure adottate non fossero sufficienti a rendere la normativa nazionale conforme al diritto comunitario;
 
-Ritenuta, pertanto, la straordinaria necessita' ed urgenza di emanare disposizioni in tema di libera concorrenza nel settore portuale, al fine di corrispondere all'invito della Commissione CE;
+Ritenuta, pertanto, la straordinaria necessita' ed urgenza di emanare disposizioni in tema di libera concorrenza nel settore portuale, al fine di corrispondere all'invito della Commissione CEE;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 dicembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 dicembre 1992;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della marina mercantile, di concerto con i Ministri delle finanze, del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della marina mercantile, di concerto con il Ministro delle finanze;
 
 E M A N A il seguente decreto-legge:
 
@@ -33,29 +33,29 @@ Art. 1
 
 Nuova disciplina delle attivita' portuali
 
-1. L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) sono abrogati. Sono parimenti abrogati, a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1) e 1172 del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), per le parti afferenti la navigazione marittima. E' altresi' abrogato l'[articolo 1279 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1279) a decorrere dal 1 gennaio 1996.
+1. L'articolo 110, ultimo comma, e l'articolo 111, ultimo comma, del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) sono abrogati. Sono altresi' abrogati, a partire dal centottantesimo giorno successivo alla data di entrata in vigore del presente decreto, gli articoli 108, 109, 110, commi primo, secondo, terzo e quarto, 111, commi primo, secondo e terzo, 112, 116, comma primo, n. 2), 1171, comma primo, n. 1), 1172 e 1279 del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), nonche' gli articoli contenuti nel libro I, titolo III, capo IV, del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), per le parti afferenti la navigazione marittima.
 
-2. La vigilanza sull'espletamento delle attivita' portuali di carico, scarico, trasbordo, deposito e movimento in genere delle merci e di ogni altro materiale nel porto e di quelle complementari ed accessorie, nonche' sull'applicazione della misura delle tariffe indicate da ciascuna impresa, e' esercitata dagli enti portuali e, laddove non istituiti, dalle autorita' marittime.
+2. La vigilanza sull'espletamento delle attivita' portuali di carico, scarico, trasporto, deposito e movimento in genere delle merci e di ogni altro materiale nel porto e di quelle complementari ed accessorie, nonche' sull'applicazione della misura delle tariffe indicate da ciascuna impresa, e' esercitata dagli enti portuali e, laddove non istituiti, dalle autorita' marittime.
 
 3. L'esercizio di attivita' portuali di cui al comma 2, espletate per conto proprio e/o per conto di terzi, e' soggetto ad autorizzazione dell'ente portuale e, laddove non istituito, del capo del compartimento marittimo.
 
 4. Ai fini del rilascio dell'autorizzazione di cui al comma 3 le imprese richiedenti devono risultare in possesso dei seguenti requisiti:
 
-a) iscrizione nel registro degli esercenti di commercio presso le camere di commercio e, se si tratta di imprese collettive, nel registro delle societa' presso il tribunale civile, o titolo equipollente per le imprese appartenenti agli Stati membri della Comunita' economica europea;
+a) iscrizione nel registro delle imprese;
 
 b) capacita' tecnico-organizzativa adeguata al volume ed alla tipologia delle operazioni portuali da svolgere;
 
-c) capacita' finanziaria e di capitale adeguata all'attivita' da espletare;
+c) capacita' finanziaria e di capitale adeguata alla attivita' da espletare;
 
-d) organico di lavoratori da assumere alle dirette dipendenze, rapportato alle esigenze dell'impresa.
+d) organico di lavoratori da assumere alla dirette dipendenze, rapportato alle esigenze dell'impresa.
 
 5. Le tariffe dei servizi e delle attivita' portuali sono pubbliche. Le imprese in possesso dell'autorizzazione di cui al comma 3 debbono comunicare, all'autorita' marittima o all'ente portuale, le tariffe che saranno praticate nei confronti degli utenti, nonche' ogni eventuale e successiva variazione.
 
 6. Qualora il personale dipendente non sia sufficiente a far fronte alle esigenze operative, l'impresa puo' avvalersi dei lavoratori di cui all'articolo 2, chiamati in mobilita' temporanea o distacco.
 
-7. L'impresa autorizzata all'esercizio di attivita' portuali, iscritta in apposito registro tenuto dall'ente portuale o, laddove non istituito, dall'autorita' marittima, deve versare un canone annuo ed una cauzione nella misura determinata dallo stesso ente portuale o dall'autorita' marittima, in relazione al volume degli investimenti e delle attivita' da espletare.
+7. L'impresa autorizzata all'esercizio di attivita' portuali, iscritta in apposito registro tenuto dall'ente portuale o dall'autorita' marittima, deve versare un canone annuo ed una cauzione nella misura determinata dallo stesso ente portuale o dall'autorita' marittima, in relazione al volume degli investimenti e delle attivita' da espletare.
 
-8. Ai fini del rilascio dell'autorizzazione, non sono ammesse forme di collaborazione contrattuali o istituzionali tra imprese finalizzate ad eludere la sussistenza dei requisiti di cui al comma 4.
+8. Ai fini del rilascio dell'autorizzazione, non sono ammesse forme di collaborazione contrattuali o istituzionali tra imprese, finalizzate ad eludere la sussistenza dei requisiti di cui al comma 4.
 
 9. Alla scadenza dell'autorizzazione, che ha durata annuale e che puo' essere rinnovata, l'ente portuale o l'autorita' marittima sono tenuti a verificare la realizzazione delle condizioni previste nel programma operativo e, in caso di ingiustificata mancata attuazione, non danno luogo al rinnovo.
 
@@ -63,21 +63,20 @@ d) organico di lavoratori da assumere alle dirette dipendenze, rapportato alle e
 
 11. Nel rilascio dell'autorizzazione di cui al presente articolo, l'ente portuale ovvero l'autorita' marittima sono tenuti a valutare il rapporto tra numero di imprese ed esigenze del traffico, garantendo comunque la concorrenza nel settore.
 
-12. L'ente portuale o l'autorita' marittima possono rilasciare autorizzazioni specifiche per l'esercizio di operazioni portuali, in occasione di arrivo o partenza, alle navi dotate di propri mezzi meccanici e di proprio personale adeguato alle operazioni da svolgere, previo versamento di apposita somma di denaro e di idonea cauzione, determinate dallo stesso ente portuale o dall'autorita' marittima in relazione alle attivita' da espletare.
-
 Art. 2
 ------
 
-Trasformazione in societa'  
-delle compagnie e dei gruppi portuali
+Trasformazione in societa' delle compagnie e dei gruppi portuali
 
-1. Le compagnie ed i gruppi portuali, entro novanta giorni dalla data di entrata in vigore del presente decreto, si trasformano secondo i tipi societari previsti nel libro V, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
+1. Le compagnie ed i gruppi portuali, entro centottanta giorni dalla data di entrata in vigore del presente decreto, si trasformano secondo i tipi societari previsti nel libro V, titoli V e VI, del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
 
-2. La societa' di cui al comma 1, che subentra alla compagnia o gruppo portuale a tutti gli effetti nei rapporti patrimoniali e finanziari attivi e passivi, puo' svolgere attivita' di impresa ai sensi dell'articolo 1, sempreche' sia in possesso dei requisiti ivi indicati, determinando il proprio organico ed individuando l'eventuale personale in esubero secondo criteri determinati dall'ente portuale o dall'autorita' marittima.
+2. Entro la data di cui al comma 1, le compagnie ed i gruppi portuali possono procedere, secondo la normativa prevista in materia, alla fusione con compagnie viciniori, anche al fine di costituire, nei porti di maggior traffico, un organismo societario in grado di svolgere attivita' di impresa.
 
-3. Qualora la societa' di cui al comma 1 non possa svolgere attivita' di impresa o abbia personale in esubero, non puo' procedere all'assunzione di altro personale e puo' limitarsi ad avviare in mobilita' temporanea o in distacco, nell'ambito delle eccedenze, il personale in esubero presso le imprese richiedenti in relazione alle loro esigenze organizzative ed operative.
+3. La societa' di cui al comma 1, che subentra alla compagnia o gruppo portuale a tutti gli effetti nei rapporti patrimoniali e finanziari attivi e passivi, puo' svolgere attivita' di impresa ai sensi dell'articolo 1, sempreche' sia in possesso dei requisiti ivi indicati, determinando il proprio organico ed individuando l'eventuale personale in esubero secondo criteri determinati dall'ente portuale o dall'autorita' marittima.
 
-4. Nell'assunzione di nuovo personale le imprese, a parita' di caratteristiche tecnico-professionali, debbono accordare precedenza ai lavoratori e dipendenti delle compagnie e gruppi portuali iscritti nei registri alla data di entrata in vigore del presente decreto, nonche' ai dipendenti degli enti portuali, ferme restando l'anzianita' di servizio e la qualifica rivestita.
+4. Qualora la societa' di cui al comma 1 non possa svolgere attivita' di impresa o abbia personale in esubero, non puo' procedere all'assunzione di altro personale e puo' limitarsi ad avviare in mobilita' temporanea o in distacco, nell'ambito delle eccedenze, il personale in esubero presso le imprese richiedenti in relazione alle loro esigenze organizzative ed operative.
+
+5. Nell'assunzione di nuovo personale le imprese, a parita' di caratteristiche tecnico-professionali, debbono accordare precedenza ai lavoratori e dipendenti delle compagnie e gruppi portuali iscritti nei registri alla data di entrata in vigore del presente decreto, nonche' ai dipendenti degli enti portuali, ferme restando l'anzianita' di servizio e la qualifica rivestita.
 
 Art. 3
 ------
@@ -93,15 +92,9 @@ Art. 4
 
 Norme in favore dei lavoratori portuali
 
-1. Il beneficio di cui all'[articolo 1, comma 1, del decreto-legge 7 settembre 1992, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-07;370~art1-com1), convertito dalla [legge 5 novembre 1992, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-05;428), e' differito al 31 dicembre 1993, nel limite di ulteriori 1.000 unita'.
+1. Ai lavoratori, soci o dipendenti, operanti in porto ai sensi degli articoli 1 e 2, continuano ad applicarsi le disposizioni di cui all'[articolo 3, comma 6, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com6), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), e successive modificazioni ed integrazioni.
 
-2. Detto beneficio, qualora non utilizzato pienamente negli anni 1992 e 1993 puo' essere utilizzato fino al 30 giugno 1994.
-
-3. Ai lavoratori, soci o dipendenti operanti in porto ai sensi degli articoli 1 e 2, alla scadenza del beneficio di cui ai commi 1 e 2, si applicano le disposizioni di cui all'[articolo 3, comma 6, del decreto-legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art3-com6), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), e successive modificazioni ed integrazioni.
-
-4. All'onere derivante dall'applicazione del comma 1, valutato in lire 22 miliardi, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro, per l'anno 1993, all'uopo utilizzando parzialmente l'accantonamento relativo al Ministero dei trasporti.
-
-5. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+2. Al personale di cui al comma 1, iscritto in appositi registri tenuti dall'ente portuale o dall'autorita' marittima, si applicano le disposizioni in materia di sicurezza e igiene del lavoro.
 
 Art. 5
 ------
@@ -114,16 +107,14 @@ Commissioni consultive
 
 3. Con decreto del Ministro della marina mercantile e' istituita la commissione consultiva centrale, presieduta dal direttore generale del lavoro marittimo e portuale e composta da tre rappresentanti delle associazioni nazionali imprenditoriali aderenti al comitato di coordinamento dell'utenza nazionale, da tre rappresentanti delle organizzazioni sindacali dei lavoratori maggiormente rappresentative a livello nazionale, da un dirigente del Ministero della marina mercantile e dal presidente dell'Associazione nazionale dei porti italiani.
 
-4. La commissione di cui al comma 3 ha compiti consultivi sulle questioni attinenti all'organizzazione portuale, ad essa sottoposte dal Ministro della marina mercantile.
+4. La commissione di cui al comma 3 ha compiti consultivi sulle questioni attinenti all'organizzazione portuale, ad essa sottoposti dal Ministro della marina mercantile.
 
 Art. 6
 ------
 
-Nuova disciplina della concessione  
-delle aree demaniali e delle banchine
+Nuova disciplina della concessione delle aree demaniali e delle banchine
 
-1. Le aree demaniali e le banchine nell'ambito portuale destinate ad attivita' di carico, scarico e deposito di merci, oltreche' ad attivita' relative a passeggeri o servizi di preminente interesse commerciale o industriale, possono essere date in concessione, qualora non sia possibile la loro utilizzazione ad uso governativo, alle imprese di cui all'articolo 1, previe idonee forme di pubblicita', stabilite dal Ministro della marina mercantile, con proprio decreto, al fine di assicurare la concorrenza nel settore  
-e la parita' di condizioni tra gli operatori.
+1. Le aree demaniali e le banchine nell'ambito portuale destinate ad attivita' di carico, scarico e deposito di merci, oltreche' ad attivita' relative a passeggeri o servizi di preminente interesse commerciale o industriale, possono essere date in concessione alle imprese di cui all'articolo 1, previe idonee forme di pubblicita', stabilite dal Ministro della marina mercantile con proprio decreto, al fine di assicurare la concorrenza nel settore e la parita' di condizioni tra gli operatori.
 
 2. Il rilascio della concessione di cui al comma 1 e' subordinato alla sussistenza, nei destinatari dell'atto concessorio, dei seguenti requisiti:
 
@@ -146,17 +137,6 @@ b) sussistenza di adeguate attrezzature tecniche ed organizzative, idonee a sodd
 Art. 7
 ------
 
-Interventi vari
-
-1. Qualora gli interventi di cui all'[articolo 1, comma 2, del decreto-legge 7 settembre 1992, n. 370](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-07;370~art1-com2), convertito dalla [legge 5 novembre 1992, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-05;428), risultino non conformi alla normativa comunitaria in materia, il Governo attiva le procedure per il recupero delle somme erogate alle compagnie e gruppi portuali, unitamente ai relativi interessi legali.
-
-2. Il commissario liquidatore di cui all'[articolo 4 del decreto- legge 22 gennaio 1990, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-22;6~art4), convertito, con modificazioni, dalla [legge 24 marzo 1990, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-24;58), ed il collegio sindacale restano in carica fino al completamento degli atti di liquidazione e comunque non oltre il 31 dicembre 1996.
-
-3. Nel rispetto del limite massimo di ottocento unita' di personale, tra i lavoratori ammessi a fruire del beneficio di cui all'[articolo 6, comma 15, del decreto-legge 20 maggio 1993, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148~art6-com15), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;236), e' ricompreso anche il personale addetto al servizio di rimorchio dei porti, di cui all'[articolo 101 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art101).
-
-Art. 8
-------
-
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -164,18 +144,14 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 dicembre 1993
+### Dato a Roma, addi' 19 dicembre 1992
 
 SCALFARO
 
-CIAMPI, Presidente del Consiglio dei Ministri
+AMATO, Presidente del Consiglio dei Ministri
 
-COSTA, Ministro della marina mercantile
+TESINI, Ministro della marina mercantile
 
-GALLO, Ministro delle finanze
+GORIA, Ministro delle finanze
 
-BARUCCI, Ministro del tesoro
-
-SPAVENTA, Ministro del bilancio e della programmazione economica
-
-Visto, il Guardasigilli: CONSO
+Visto, il Guardasigilli: MARTELLI

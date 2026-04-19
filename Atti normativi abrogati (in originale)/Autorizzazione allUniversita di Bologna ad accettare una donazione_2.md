@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 13 luglio 1947 n. 1289
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 29 novembre 1946 n. 730
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 13 luglio 1947 n. 1289
-===============================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 29 novembre 1946 n. 730
+================================================================
 
 Autorizzazione all'Universita' di Bologna ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1289. Decreto del Capo provvisorio dello Stato 13 luglio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 100.000 nominali, in buoni del Tesoro 5%, disposta in suo favore dal prof. Francesco Addarii, con atto pubblico in data 15 giugno 1946, per la istituzione di un premio di studio da intitolarsi al nome del "Prof. Felice Addarii" e da conferirsi, ogni anno, all'autore del miglior lavoro di cardiologia, laureato da non oltre sei anni in una universita' italiana e, a preferenza, a parita' di merito, nell'Universita' di Bologna.  
+730. Decreto del Capo provvisorio dello stato 29 novembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione; l'Universita' di Bologna viene autorizzata ad accettare la donazione di circa 250 volumi e di 4 apparecchi topografici disposta in suo favore dalla sig.ra Giuseppina Gallucci Tacchini.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei Conti, addi' 14 novembre 1947
+Visto, il Guardasigilli: GULLO  
+Registrato alla Corte dei Conti, addi' 3 marzo 1947

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 agosto 1995 n. 362
+DECRETO-LEGGE 30 ottobre 1995 n. 448
 
 
-DECRETO-LEGGE 28 agosto 1995 n. 362
-===================================
+DECRETO-LEGGE 30 ottobre 1995 n. 448
+====================================
 
 Disposizioni urgenti in materia di assistenza farmaceutica e di 
 sanita'.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30-08-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-10-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di assistenza farmaceutica e di sanita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 agosto 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -30,9 +30,9 @@ Art. 1
 
 2. La disposizione del comma 1 non si applica al consiglio di amministrazione dell'istituto "Giannina Gaslini" di Genova.
 
-3. Per i dipendenti pubblici e per quelli privati la nomina a commissario straordinario presso le unita' sanitarie locali, ovvero presso le aziende ospedaliere determina il collocamento in aspettativa senza assegni; il periodo di aspettativa e' utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianita' di servizio. Le amministrazioni di appartenenza o i datori di lavoro provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali e alle aziende ospedaliere, le quali procedono al recupero delle quote a carico dell'interessato.
+3. Per i dipendenti pubblici e per quelli privati la nomina a commissario straordinario presso le unita' sanitarie locali, ovvero presso le aziende ospedaliere determina il collocamento in aspettativa senza assegni; il periodo di aspettativa e' utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianita' di servizio. Le amministrazioni di appartenenza o i datori di lavoro provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali e alle aziende ospedaliere le quali procedono al recupero delle quote a carico dell'interessato.
 
-4. Al [comma 8 dell'articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com8), e' aggiunto, in fine, il seguente periodo: "I datori di lavoro provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali, calcolati sul trattamento stipendiale spettante al medesimo ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali interessate, le quali precedono al recupero delle quote a carico dell'interessato".
+4. Al [comma 8 dell'articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com8), e' aggiunto, in fine, il seguente periodo: "I datori di lavoro provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali, calcolati sul trattamento stipendiale spettante al medesimo ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali interessate, le quali procedono al recupero delle quote a carico dell'interessato".
 
 5. Le province autonome di Trento e di Bolzano provvedono alle finalita' del presente articolo ai sensi dello statuto di autonomia e delle relative norme di attuazione di cui al [decreto del Presidente della Repubblica 28 marzo 1975, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-03-28;474), come da ultimo modificato dal [decreto legislativo 16 marzo 1992, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-03-16;267).
 
@@ -40,7 +40,7 @@ Art. 2
 ------
 
 1. A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art5), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti, fatta salva la possibilita' di utilizzare gli eventuali avanzi di gestione per estinguere le situazioni debitorie preesistenti. La contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere relative agli anni precedenti al 1995 sono garantite direttamente dalle regioni, che ne assumono integralmente le relative obbligazioni.  
-Entro il 30 settembre 1995, con decreto del Ministro della sanita', adottato di concerto con i Ministri del bilancio e della programmazione economica e del tesoro e in accordo con la conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti le modalita' ed i criteri di ripianamento del debito eventualmente accertato fino alla data di costituzione in azienda delle unita' sanitarie locali e degli ospedali, secondo quanto previsto, rispettivamente, dagli articoli 3 e 4 del citato [decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502), e successive modificazioni e integrazioni.
+Entro il 30 settembre 1995, con decreto del Ministro della sanita', adottato di concerto con i Ministri del bilancio e della programmazione economica e del tesoro e in accordo con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti le modalita' ed i criteri di ripianamento del debito eventualmente accertato fino alla data di costituzione in azienda delle unita' sanitarie locali e degli ospedali, secondo quanto previsto, rispettivamente, dagli articoli 3 e 4 del citato [decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502), e successive modificazioni e integrazioni.
 
 2. Le disposizioni di cui al presente articolo si applicano anche agli istituti di ricovero e cura a carattere scientifico aventi personalita' giuridica di diritto pubblico.
 
@@ -71,8 +71,7 @@ a) il comma 3 e' sostituito dal seguente:
 In mancanza delle citate indicazioni la ripetibilita' della vendita e' consentita per non piu' di cinque volte in un periodo non superiore a tre mesi dalla data di compilazione della ricetta.";
 
 b) il comma 4 e' sostituito dal seguente:  
-" 4. Il farmacista che vende un medicinale di cui al comma 2 senza presentazione di ricetta medica e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centocinquantamila a lire novecentomila.  
-Tale sanzione non si applica nell'ipotesi in cui il medicinale sia stato dispensato in casi di necessita', di urgenza e di impossibilita' di reperire un medico e a condizione che sia presentata la ricetta medica entro quarantotto ore. Il farmacista che viola il disposto del comma 3 o non appone sulle ricette il timbro attestante la vendita del prodotto e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila.".
+" 4. Il farmacista che vende un medicinale di cui al comma 2 senza presentazione di ricetta medica e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centocinquantamila a lire novecentomila. Tale sanzione non si applica nell'ipotesi in cui il medicinale sia stato dispensato in casi di necessita', di urgenza e di impossibilita' di reperire un medico e a condizione che sia presentata la ricetta medica entro quarantotto ore. Il farmacista che viola il disposto del comma 3 o non appone sulle ricette il timbro attestante la vendita del prodotto e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centomila a lire seicentomila.".
 
 2. Il [comma 3 dell'articolo 5 del decreto legislativo 30 dicembre  
 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5-com3), e successive modificazioni, e' sostituito dal seguente:  
@@ -81,7 +80,7 @@ hanno validita' limitata a tre mesi; esse devono essere ritirate dal farmacista 
 
 3. All'[articolo 123, comma primo, lettera c), del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art123-com1-letc), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, le parole: "sia conservata copia di tutte le ricette e" sono soppresse.
 
-4. All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "i farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "i farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee non ripetibili".
+4. All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "I farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "I farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee non ripetibili".
 
 5. Il [comma 3 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com3), e' sostituito dal seguente:  
 " 3. In caso di vendita o di detenzione per la vendita di specialita' medicinali per le quali sono intervenuti provvedimenti del Ministero della sanita', di sospensione o di revoca, e' applicata la sanzione amministrativa da lire cinquecentomila a lire unmilionecinquecentomila.".
@@ -112,7 +111,7 @@ Art. 6
 1. L'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), e' sostituito dal seguente:  
 "Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno reversibile per quindici anni determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1984, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-02;111~art8).  
 L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepito ed e' rivalutato annualmente sulla base del tasso di inflazione programmato.  
-2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato, ed ha decorrenza dal primo giorno del mese successivo a quello di presentazione della domanda ai sensi dell'articolo 3.  
+2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato, ed ha decorrenza dal primo giorno del mese successivo a quello della presentazione della domanda ai sensi dell'articolo 3.  
 3. Qualora a causa delle vaccinazioni o delle patologie previste dalla presente legge sia derivata la morte, l'avente diritto puo' optare fra l'assegno reversibile di cui al comma 1 e un assegno una tantum di lire 150 milioni. Ai fini della presente legge, sono considerati aventi diritto nell'ordine: il coniuge, i figli a carico, il convivente more uxorio, i genitori, i fratelli minorenni, i fratelli maggiorenni inabili al lavoro. I benefici di cui al presente comma spettano anche nel caso in cui il reddito della persona deceduta non rappresenti l'unico sostentamento della famiglia.  
 4. Qualora la persona sia deceduta in eta' minore, l'indennizzo spetta ai genitori o a chi esercita la potesta' parentale.  
 5. I soggetti di cui all'articolo 1 sono esentati dalla partecipazione alla spesa sanitaria di cui ai [commi 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com14) e [15 dell'articolo 8 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com15), e successive modificazioni, nonche' dal pagamento della quota fissa per ricetta di cui al comma 16-ter del medesimo articolo 8 della citata [legge n. 537 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993;537), introdotto dall'[articolo 1 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art1), limitatamente alle prestazioni sanitarie necessarie per la diagnosi e la cura delle patologie previste dalla presente legge.  
@@ -121,7 +120,7 @@ L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepit
 
 2. In attesa di una nuova e piu' completa disciplina legislativa, le disposizioni di cui al comma 1 si applicano per gli anni 1995 e 1996.
 
-3. Ai maggiori oneri derivanti dall'attuazione dell'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), come sostituito dal comma 1 del presente articolo, pari a lire 90 miliardi per l'anno 1995, ed a lire 60,5 miliardi per l'anno 1996, si provvede:
+3. Ai maggiori oneri derivanti dall'attuazione dell'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), come sostituito dal comma 1 del presente articolo, pari a lire 90 miliardi per l'anno 1995 ed a lire 60,5 miliardi per l'anno 1996, si provvede:
 
 a) per l'anno 1995, quanto a lire 56 miliardi mediante corrispondente riduzione dello stanziamento iscritto per il medesimo anno al capitolo 6856 dello stato di previsione del Ministero del tesoro, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro, e quanto a lire 34 miliardi mediante contestuale riduzione dell'autorizzazione di spesa recata dal capitolo 6878 dello stato di previsione del Ministero del tesoro, intendendosi corrispondentemente utilizzata parte della quota di pertinenza dello Stato del fondo di cui all'[articolo 47 della legge 20 maggio 1985, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222~art47);
 
@@ -180,7 +179,7 @@ Art. 12
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1995
+### Dato a Roma, addi' 30 ottobre 1995
 
 SCALFARO
 
@@ -190,4 +189,4 @@ GUZZANTI, Ministro della sanita'
 
 MASERA, Ministro del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: DINI

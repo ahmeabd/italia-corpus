@@ -1,15 +1,15 @@
-DECRETO-LEGGE 10 maggio 1995 n. 161
+DECRETO-LEGGE 07 gennaio 1995 n. 1
 
 
-DECRETO-LEGGE 10 maggio 1995 n. 161
-===================================
+DECRETO-LEGGE 07 gennaio 1995 n. 1
+==================================
 
 Disciplina operativa concernente partecipazioni e proventi del 
 Tesoro, nonche' norme sugli organismi e sulle procedure attinenti ai 
 mercati, alla Tesoreria e all'EAGAT.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/5/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8/1/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti la disciplina operativa delle partecipazioni e dei proventi del Tesoro, nonche' in ordine agli organismi ed alle procedure attinenti ai mercati, alla Tesoreria e all'EAGAT;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 maggio 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 gennaio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con il Ministro delle finanze;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro;
 
 E M A N A il seguente decreto-legge:
 
@@ -38,7 +38,7 @@ Fondo per l'ammortamento dei titoli di Stato
 3. Al [comma 1 dell'articolo 3 della legge 27 ottobre 1993, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432~art3-com1), e' aggiunta, in fine, la seguente lettera:  
 "h-bis) l'importo fino a lire 30.000 miliardi a valere sull'autorizzazione di cui all'[articolo 3, comma 5, della legge 24 dicembre 1993, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;539~art3-com5).".
 
-4. Nell'[articolo 3 della legge 27 ottobre 1993, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432~art3), le lettere c) e d) del comma 1 sono soppresse ed il comma 2 e' sostituito dal seguente:  
+4. Il [comma 2 dell'articolo 3 della legge 27 ottobre 1993, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432~art3-com2), e' sostituito dal seguente:  
 " 2. Gli importi relativi ai conferimenti di cui al comma 1 affluiscono ad appositi capitoli dello stato di previsione dell'entrata per essere riassegnati allo stato di previsione del Ministero del tesoro ai fini della destinazione al Fondo.".
 
 5. L'[articolo 4 della legge 27 ottobre 1993, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;432~art4), e' sostituito dal seguente:  
@@ -50,10 +50,10 @@ Fondo per l'ammortamento dei titoli di Stato
 Art. 2
 ------
 
-Ammissibilita' del servizio di riproduzione in fac-simile  
+Ammissibilita' del servizio di riproduzione in facsimile  
 nella partecipazione alle aste dei titoli di Stato
 
-1. Nella partecipazione alle aste dei titoli di Stato effettuate con ricorso a mezzi telematici, e' consentita la presentazione di richieste mediante servizio pubblico o privato di riproduzione in fac-simile, nei casi e con le modalita' stabiliti con decreto del Ministero del tesoro.
+1. Nella partecipazione alle aste dei titoli di Stato effettuate con ricorso a mezzi telematici, e' consentita la presentazione di richieste mediante servizio pubblico o privato di riproduzione in facsimile, nei casi e con le modalita' stabiliti con decreto del Ministro del tesoro.
 
 Art. 3
 ------
@@ -66,8 +66,7 @@ ammessi alla trattazione sul mercato telematico
 Art. 4
 ------
 
-Impignorabilita' del conto di contabilita' speciale di cui  
-al decreto del Presidente della Repubblica 12 febbraio 1991, n. 69.
+Impignorabilita' del conto di contabilita' speciale di cui al decreto del Presidente della Repubblica 12 febbraio 1991, n. 69.
 
 1. Alla contabilita' speciale di cui all'articolo 30 del regolamento per la fabbricazione e l'emissione dei biglietti di banca, approvato con [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-09;811), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 12 febbraio 1991, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1991-02-12;69~art1), si applicano le disposizioni previste dall'[articolo 4, comma 5, della legge 26 novembre 1993, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-26;483~art4-com5).
 
@@ -92,15 +91,14 @@ Interessi su depositi e conti dello Stato
 Art. 7
 ------
 
-Disposizioni in materia di partecipazioni ex EAGAT
+Disposizioni in materia  
+di partecipazioni ex EAGAT
 
 1. Le partecipazioni azionarie, gia' appartenenti al soppresso Ente autonomo gestione aziende termali - EAGAT, sono trasferite al Ministero del tesoro - Direzione generale del tesoro.
 
-2. Il Ministero del tesoro - Direzione generale del tesoro, di concerto con il Ministero dell'industria, del commercio e dell'artigianato, avvalendosi delle disposizioni in materia di accelerazione delle procedure di dismissione delle partecipazioni possedute direttamente dallo Stato di cui al [decreto-legge 31 maggio 1994, n. 332](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-31;332), convertito, con modificazioni, dalla [legge 30 luglio 1994, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474), provvede alla dismissione delle partecipazioni di cui al comma 1, sulla base di criteri di valorizzazione delle finalita' istituzionali delle aziende interessate, tenuto conto dell'importanza delle stesse per l'economia generale, nonche' degli interessi turistici e locali, ovvero, anche previo scorpori aziendali, procede a cessioni immobiliari o di settori di attivita' sulla base di criteri di valorizzazione dell'attivita' sanitaria delle singole terme, in funzione dell'importanza territoriale delle stesse per gli enti locali interessati, nonche' delle prospettive turistiche connesse.
+2. Il Ministero del tesoro - Direzione generale del tesoro, di concerto con il Ministero dell'industria, del commercio e dell'artigianato, avvalendosi delle disposizioni in materia di accelerazione delle procedure di dismissione delle partecipazioni possedute direttamente dallo Stato di cui al [decreto-legge 31 maggio 1994, n. 332](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-31;332), convertito, con modificazioni, dalla [legge 30 luglio 1994, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474), provvede alla dismissione delle partecipazioni di cui al comma 1, sulla base di criteri di valorizzazione delle finalita' istituzionali delle aziende interessate, tenuto conto dell'importanza delle stesse per l'economia generale, nonche' degli interessi turistici e locali.
 
-3. Il comitato di liquidazione dell'Ente autonomo gestione aziende termali - EAGAT, di cui all'[articolo 1-quinquies del decreto-legge 18 agosto 1978, n. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-08-18;481~art1quinquies), convertito, con modificazioni, dalla [legge 21 ottobre 1978, n. 641](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-10-21;641), e alla [legge 4 maggio 1983, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;168), e' soppresso. I crediti vantati dallo stesso comitato verso le societa' controllate sono trasferiti al Ministero del tesoro - Direzione generale del tesoro. Il comitato medesimo consegna, entro trenta giorni, i libri contabili, gli inventari e rende il conto dell'intera gestione al Ministero del tesoro - Ragioneria generale dello Stato - Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti.
-
-4. Il personale in servizio presso il comitato di liquidazione EAGAT ha facolta' di presentare, entro trenta giorni dalla data di entrata in vigore del presente decreto, domanda per essere assunto, per le esigenze connesse alla liquidazione del comitato stesso, presso il Ministero del tesoro - Ragioneria generale dello Stato - Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti, con la procedura di cui all'[articolo 10 del decreto-legge 22 novembre 1994, n. 643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-22;643~art10), convertito, con modificazioni, dalla [legge 27 dicembre 1994, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738), ed anche in soprannumero salva la facolta' di presentare, entro il medesimo termine, domanda ai fini dell'applicazione delle disposizioni previste per gli enti in ristrutturazione dall'[articolo 13, comma 4, lettera f), della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art13-com4-letf).
+3. Il personale in servizio presso il comitato di liquidazione EAGAT ha facolta' di presentare, entro trenta giorni dalla data di entrata in vigore del presente decreto, domanda per essere assunto presso il Ministero del tesoro - Ragioneria generale dello Stato - Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti, con la procedura di cui all'[articolo 10 del decreto-legge 22 novembre 1994, n. 643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-22;643~art10), convertito, con modificazioni, dalla [legge 27 dicembre 1994, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738), salva la facolta' di presentare, entro il medesimo termine, domanda ai fini dell'applicazione delle disposizioni previste per gli enti in ristrutturazione dall'[articolo 13, comma 4, lettera f), della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art13-com4-letf).
 
 Art. 8
 ------
@@ -118,37 +116,11 @@ Operazioni di "Prestito titoli"
 Art. 9
 ------
 
-Monete commemorative o celebrative
+Sistema informativo della Ragioneria generale dello Stato
 
-1. A decorrere dalla data di entrata in vigore del presente decreto, la produzione delle monete a corso legale, di speciale scelta, da cedere, per finalita' commemorative o celebrative a privati, enti ed associazioni, la cui coniazione e' affidata alla sezione Zecca dell'Istituto Poligrafico e Zecca dello Stato, ai sensi del [comma secondo dell'articolo 1 della legge 20 aprile 1978, n. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-04-20;154~art1-com2), fa direttamente carico al bilancio dell'Istituto stesso, cui e' demandata anche la provvista dei relativi metalli, anche preziosi.
-
-2. Con i decreti del Ministro del tesoro che fissano le caratteristiche tecnico-artistiche delle singole emissioni di monete commemorative o celebrative e ne determinano i relativi contingenti di emissione, sono determinati i ricavi netti che l'Istituto Poligrafico e Zecca dello Stato versa ad apposito capitolo dello stato di previsione delle entrate statali per ciascuna delle suddette emissioni, commisurati al contingente per le stesse stabilito.
-
-3. Per effetto dei commi 1 e 2 lo stanziamento del capitolo 4443 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1995 e' ridotto, in termini di competenza e di cassa, di lire 10 miliardi. Analoga riduzione e' apportata alle proiezioni per gli anni 1996 e 1997 dello stanziamento del predetto capitolo.
-
-4. Nulla e' innovato per quanto attiene alle procedure e alle modalita' relative alla produzione delle monete di Stato di ordinaria circolazione.
+1. Al fine di realizzare una gestione integrata delle entrate e delle spese dello Stato mediante opportuni collegamenti dei sistemi informativi automatizzati, le attivita' di sviluppo, manutenzione e conduzione del sistema informativo della Ragioneria generale dello Stato, anche avuto riguardo al preminente interesse dello Stato alla sicurezza ed alla segretezza, nonche' alla strategicita' del supporto informatico per il conseguimento dei compiti istituzionali, possono essere assegnate in concessione dal Ministero del tesoro - R.G.S., con affidamento fiduciario, a societa' specializzata, avente comprovata esperienza pluriennale nella realizzazione e conduzione dei sistemi informativi complessi, anche in deroga alla legge di contabilita' dello Stato.
 
 Art. 10
--------
-
-Modalita' di finanziamento delle imprese  
-operanti nel settore della difesa
-
-1. Il [comma 5 dell'articolo 2 del decreto-legge 23 settembre 1994, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-23;547~art2-com5), convertito, con modificazioni, dalla [legge 22 novembre 1994, n. 644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-22;644), e' sostituito dal seguente:  
-" 5. Per le finalita' di cui al comma 3, il Ministro del tesoro concede contributi in conto capitale in misura pari al 20% del fabbisogno indicato nel programma degli investimenti. Ai relativi oneri il Ministero del tesoro provvede mediante la contrazione di mutui decennali con istituzioni creditizie; per il pagamento delle relative rate di ammortamento e' autorizzata la spesa annua di lire 20 miliardi con decorrenza dal 1994 e di lire 70 miliardi dal 1995.  
-Al conseguente onere, pari a lire 20 miliardi per l'anno 1994 ed a lire 90 miliardi a decorrere dal 1995, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.".
-
-Art. 11
--------
-
-Integrazione delle commissioni interministeriali  
-di cui alla legge 29 gennaio 1994, n. 98
-
-1. Le commissioni di cui all'[articolo 3, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;98~art3-com2) e [3, della legge 29 gennaio 1994, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;98~art3-com3), sono integrate con tre rappresentanti del Ministero del tesoro, con diritto di voto.
-
-2. Alla copertura dei maggiori oneri, derivanti dall'attuazione del comma 1, si provvede con gli ordinari stanziamenti di bilancio, iscritti al capitolo 4433 dello stato di previsione del Ministero del tesoro, per l'esercizio 1995 e per quelli successivi.
-
-Art. 12
 -------
 
 Gabinetti dei Ministri
@@ -157,48 +129,46 @@ Gabinetti dei Ministri
 
 2. Il personale degli enti ed istituti di cui al comma 1 puo' essere assegnato agli uffici di gabinetto del Ministro con il consenso dell'ente al quale appartiene. Al personale medesimo spetta, a carico dell'amministrazione, ente o istituto di provenienza, l'intero trattamento economico previsto dalla normativa che disciplina il relativo rapporto di impiego.
 
-Art. 13
+Art. 11
 -------
 
-Ritenute sui compensi ed altri redditi  
-corrisposti dalla Presidenza della Repubblica
+Ritenute sui compensi ed altri redditi corrisposti  
+dalla Presidenza della Repubblica
 
 1. All'[articolo 29, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art29-com4), dopo le parole: "Corte costituzionale" sono inserite le seguenti: ", nonche' della Presidenza della Repubblica".
 
 2. All'articolo 20, terzo comma, terzo periodo, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 605](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;605), come modificato dall'[articolo 20, comma 2, lettera f), della legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art20-com2-letf), dopo la parola: "Presidenze", sono aggiunte le seguenti: "e con il segretario generale della Presidenza della Repubblica per quanto concerne quest'ultima.".
 
-Art. 14
+Art. 12
 -------
 
-Fondi delle prefetture
+Nota integrativa del bilancio di esercizio  
+delle societa' per azioni
 
-1. I fondi di cui al capitolo 5032 dello stato di previsione della spesa del Ministero del tesoro, destinati alle prefetture, sono accreditati nella contabilita' speciale di cui all'[articolo 1 del decreto-legge 25 maggio 1994, n. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-25;313~art1), convertito, con modificazioni, dalla [legge 22 luglio 1994, n. 460](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-22;460).
+1. All'[articolo 2427 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2427) il numero 14) e' sostituito dal seguente:  
+"14) i motivi delle rettifiche di valore e degli accantonamenti operati esclusivamente in applicazione di norme tributarie ed i relativi importi, appositamente evidenziati rispetto all'ammontare complessivo delle rettifiche e degli accantonamenti risultanti sia dalle apposite voci del conto economico, sia dalle relative voci dello stato patrimoniale, e la fiscalita' latente;".
 
-2. All'[articolo 1, comma 1, del decreto-legge 25 maggio 1994, n. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-25;313~art1-com1), convertito, con modificazioni, dalla [legge 22 luglio 1994, n. 460](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-22;460), dopo le parole: "di sicurezza pubblica," sono inserite le seguenti: "al rimborso delle spese anticipate dai comuni per l'organizzazione delle consultazioni elettorali,".
+2. Dopo il [comma 4 dell'articolo 31 del decreto legislativo 9 aprile 1991, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-04-09;127~art31-com4), e' inserito il seguente:  
+"4-bis. Le rettifiche di valore e gli accantonamenti operati esclusivamente in applicazione di norme tributarie devono essere eliminati sia dal conto economico che dallo stato patrimoniale consolidati, tenendo anche conto, ove ne ricorrano i presupposti, dell'effetto fiscale latente.".
 
-Art. 15
--------
+3. La lettera o-bi[s del comma 1 dell'articolo 38 del decreto legislativo 9 aprile 1991, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-04-09;127~art38-com1-lets), introdotta dall'[articolo 2-bis, comma 4, lettera b), del decreto-legge 29 giugno 1994, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-29;416~art2bis-com4-letb), convertito, con modificazioni, dalla [legge 8 agosto 1994, n. 503](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-08;503), e' abrogata.
 
-Ente "Colombo '92" in liquidazione
-
-1. Tra i beni oggetto di cessione ai sensi dell'[articolo 6, comma 1, lettera i), della legge 31 dicembre 1993, n. 579](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-31;579~art6-com1-leti), si intendono ricompresi anche i relativi beni mobili e strumentali.
-
-Art. 16
+Art. 13
 -------
 
 Entrata in vigore
 
-1. Le disposizioni del presente decreto hanno effetto dal 9 maggio 1995. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 maggio 1995
+### Dato a Roma, addi' 7 gennaio 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+BERLUSCONI, Presidente del Consiglio dei Ministri
 
-FANTOZZI, Ministro delle finanze
+DINI, Ministro del tesoro
 
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: BIONDI

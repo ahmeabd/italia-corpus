@@ -1,8 +1,8 @@
-DECRETO-LEGGE 13 settembre 1996 n. 477
+DECRETO-LEGGE 16 luglio 1996 n. 376
 
 
-DECRETO-LEGGE 13 settembre 1996 n. 477
-======================================
+DECRETO-LEGGE 16 luglio 1996 n. 376
+===================================
 
 Disposizioni urgenti in materia di politica dell'immigrazione e per 
 la regolamentazione dell'ingresso e soggiorno nel territorio 
@@ -10,7 +10,7 @@ nazionale dei cittadini dei Paesi non appartenenti all'Unione
 europea.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 16-9-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18-7-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adeguare in termini piu' razionali la normativa in tema di immigrazione nel territorio dello Stato da parte di cittadini di Paesi non appartenenti all'Unione europea, al fine di rendere piu' efficace l'operativita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 settembre 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e di grazia e giustizia, di concerto con i Ministri degli affari esteri, della sanita', per la solidarieta'; sociale e del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e di grazia e giustizia, di concerto con i Ministri degli affari esteri, del lavoro e della previdenza sociale e del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -30,8 +30,7 @@ CAPO I Capo I FLUSSI DI INGRESSO E LAVORO STAGIONALE
 
 ### Art. 1
 
-Norme in materia di lavoro stagionale dei cittadini di Paesi non  
-appartenenti all'Unione europea e di determinazione dei flussi.
+Norme in materia di lavoro stagionale dei cittadini di Paesi non appartenenti all'Unione europea e di determinazione dei flussi.
 
 1. Nella programmazione annuale dei flussi di ingresso dei cittadini di Paesi non appartenenti all'Unione europea prevista dall'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono indicate anche le possibilita' di impiego per i lavoratori stagionali in considerazione delle disponibilita' accertate attraverso gli uffici provinciali del lavoro e della massima occupazione e delle previsioni annuali di fabbisogno di manodopera formulate dalle commissioni regionali per l'impiego, in collaborazione con i datori di lavoro e le organizzazioni sindacali, per i settori che si avvalgono di lavoro prevalentemente stagionale.
 
@@ -50,7 +49,7 @@ appartenenti all'Unione europea e di determinazione dei flussi.
 Soggiorno dei lavoratori stagionali  
 di Paesi non appartenenti all'Unione europea
 
-1. Il lavoratore stagionale di un Paese non appartenente all'Unione europea, in possesso del visto di ingresso e del permesso di soggiorno temporaneo per lavori a carattere stagionale previsto dall'[articolo 4, comma 4, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art4-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), puo' soggiornare nel territorio dello Stato per sei mesi per ciascun anno, salvo il piu' lungo termine, comunque non superiore a nove mesi, in uso nei contratti del settore turistico-alberghiero. Decorso tale termine, il lavoratore deve lasciare il territorio dello Stato.
+1. Il lavoratore stagionale di un Paese non appartenente all'Unione europea, in possesso del visto di ingresso e del permesso di soggiorno temporaneo per lavori a carattere stagionale previsto dall'[articolo 4, comma 4, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art4-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), puo' soggiornare nel territorio dello Stato per sei mesi per ciascun anno. Decorso tale termine, il lavoratore deve lasciare il territorio dello Stato.
 
 2. Il lavoratore stagionale di un Paese non appartenente all'Unione europea, ove sia documentalmente accertato il rispetto del termine di cui al comma 1, ha diritto di precedenza per il rientro in Italia nell'anno successivo, per ragioni di lavoro stagionale, rispetto ai suoi connazionali mai entrati in Italia per motivi di lavoro.
 
@@ -92,28 +91,19 @@ CAPO II Capo II MISURE PER LA PREVENZIONE E REPRESSIONE DELLE IMMIGRAZIONI ILLEG
 
 Procedure di controllo
 
-1. Il Ministro dell'interno ed il Ministro degli affari esteri adottano, entro sessanta giorni dalla data di entrata in vigore del presente decreto, il piano generale degli interventi per il perfezionamento e il completamento dell'automazione delle procedure di controllo degli stranieri di competenza dei Ministeri degli affari esteri e dell'interno, nell'ambito delle compatibilita' con il Sistema informativo previsto dall'accordo di Schengen del 14 giugno 1985 e dalla relativa convenzione di applicazione, ratificata e resa esecutiva per l'Italia con [legge 30 settembre 1993, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-09-30;388), e determinano le risorse occorrenti, per ciascun anno, per gli adempimenti di rispettiva competenza. Dell'adozione del piano generale, dei piani di esecuzione e dei relativi contratti e' informata l'Autorita' per l'informatica nella pubblica amministrazione.
+1. Il Ministro dell'interno ed il Ministro degli affari esteri adottano, entro sessanta giorni dalla data di entrata in vigore del presente decreto, il piano generale degli interventi per il perfezionamento e il completamento dell'automazione delle procedure di controllo degli stranieri di competenza dei Ministeri degli affari esteri e dell'interno, nell'ambito delle compatibilita' con il Sistema informativo previsto dall'accordo di Schengen del 14 giugno 1985 e dalla relativa convenzione di applicazione, ratificata e resa esecutiva per l'Italia con [legge 30 settembre 1993, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-09-30;388), e determinano le risorse occorrenti, per ciascun anno, per gli adempimenti di rispettiva competenza. Dell'adozione del piano generale, dei piani di esecuzione e dei relativi contratti, e' informata l'Autorita' per l'informatica nella pubblica amministrazione.
 
-2. All'[articolo 3, comma 1, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art3-com1), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono aggiunti, in fine, i seguenti periodi: "L'ingresso nel territorio dello Stato attraverso luoghi diversi dai valichi di frontiera controllati puo' essere autorizzato per gravi motivi, sempre che sussistano le altre condizioni previste dalle disposizioni in vigore. L'ufficio o il comando di polizia competente per territorio, ove non ricorrono le predette condizioni, esegue il respingimento con le modalita' indicate dalla competente direzione di polizia di frontiera.".
+2. All'[articolo 3, comma 1, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art3-com1), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono aggiunti, in fine, i seguenti periodi:  
+"L'ingresso nel territorio dello Stato attraverso luoghi diversi dai valichi di frontiera controllati puo' essere autorizzato per gravi motivi, sempre che sussistano le altre condizini previste dalle disposizioni in vigore. L'ufficio o comando di polizia competente per territorio, ove non ricorrono le predette condizioni, esegue il respingimento con le modalita' indicate dalla competente direzione di polizia di frontiera.".
 
 ### Art. 5
 
 Repressione di attivita' dirette a favorire  
 l'illecito ingresso di stranieri
 
-1. Il [comma 8 dell'articolo 3 del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art3-com8), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' sostituito dai seguenti:  
+1. L'[articolo 3, comma 8, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art3-com8), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' sostituito dai seguenti:  
 "8. Salvo che il fatto costituisca piu' grave reato, chiunque compie attivita' dirette a favorire l'ingresso nel territorio dello Stato dei cittadini di Paesi non appartenenti all'Unione europea, in violazione delle disposizioni del presente decreto, e' punito con la reclusione da uno a tre anni e con la multa sino a lire trenta milioni. Se il fatto e' commesso, a fine di lucro, da tre o piu' persone in concorso tra loro, ovvero riguarda l'ingresso di cinque o piu' persone, la pena e' della reclusione da quattro a dodici anni e della multa da lire trenta milioni a lire cento milioni. Se il fatto e' commesso al fine di reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione, ovvero riguarda l'ingresso di minori da impiegare in condizioni illegali al fine di favorirne lo sfruttamento, la pena e' della reclusione da cinque a quindici anni e della multa da lire cinquanta milioni a lire duecento milioni.  
-8-bis. Nei casi previsti dal comma 8 e' sempre disposta la confisca del mezzo di trasporto utilizzato, salvo che si tratti di mezzo destinato a pubblico servizio o appartenente a persona estranea al reato.".  
-8-ter. Qualora nel corso di un procedimento per uno dei reati di cui all'[articolo 3 della legge 20 febbraio 1958, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75~art3), o di quelli previsti dall'[articolo 380 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art380), il cittadino di un Paese non appartenente all'Unione europea risulti esposto a grave pericolo per effetto della collaborazione o delle dichiarazioni rese nel corso delle indagini preliminari o del giudizio, il questore puo' rilasciare uno speciale permesso di soggiorno nel territorio dello Stato, se sussistono le seguenti condizioni:
-
-a) l'eventuale ritorno nello Stato di appartenenza possa metterne in grave pericolo l'incolumita' personale;
-
-b) il contributo offerto sia di eccezionale rilevanza per l'individuazione e la cattura dei responsabili o per la disarticolazionedell'organizzazione criminale;
-
-c) non ricorrono le circostanze di cui all'articolo 7, comma 5.  
-8-quater. Ai fini dell'applicazione del comma 8-ter, il procuratore della Repubblica comunica alla competente autorita' di pubblica sicurezza gli elementi da cui risulti la rilevanza del contributo offerto e quelli concernenti la gravita' ed attualita' del pericolo.  
-8-quinquies. Il permesso di soggiorno di cui al comma 8-ter e' valido per l'esercizio delle attivita' consentite ed ha la durata di un anno salvo che permangano le esigenze processuali o di sicurezza.  
-Lo stesso e' revocato quando vengano meno le circostanze di cui al comma 8-ter o sono cessate le esigenze processuali e di sicurezza, ovvero quando la persona interessata osserva una condotta incompatibile con la sua permanenza nel territorio dello Stato.".
+8-bis. Nei casi previsti dal comma 8 e' sempre disposta la confisca del mezzo di trasporto utilizzato, salvo che si tratti di mezzo destinato a pubblico servizio o appartenente a persona estranea al reato.".
 
 ### Art. 6
 
@@ -130,9 +120,9 @@ Mancata esibizione o soppressione dei documenti
 1. L'[articolo 7-bis del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7bis), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' sostituito dal seguente:  
 "Art. 7-bis. - 1. Lo straniero che, su richiesta dell'autorita' di pubblica sicurezza, non esibisce, senza giustificato motivo, il passaporto o altro documento di identificazione e' punito con l'arresto fino a sei mesi e con l'ammenda fino a lire ottocentomila.  
 2. Se il fatto di cui al comma 1 e' commesso dallo straniero al quale e' stato notificato un provvedimento di espulsione o uno dei provvedimenti indicati dall'articolo 4, comma 12-quater, la pena e' della reclusione fino a tre anni.  
-3. Il cittadino di un Paese non appartenente all'Unione europea, che sopprime, distrugge o occulta il proprio documento di identificazione, e' punito ai sensi degli [articoli 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art477) e [482 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art482).  
+3. Il cittadino di un Paese non appartenente all'Unione europea che sopprime, distrugge o occulta il proprio documento di identificazione e' punito ai sensi degli [articoli 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art477) e [482 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art482).  
 4. Lo straniero che essendo stato espulso fa rientro nel territorio dello Stato o vi si trattiene senza autorizzazione e' punito con la reclusione da sei mesi a tre anni.  
-5. Nei casi previsti dai commi 2, 3 e 4, e' consentito l'arresto anche fuori del caso di flagranza. Nell'udienza di convalida, il giudice, se ne ricorrono i presupposti, dispone l'applicazione di una delle misure coercitive previste dalla legge anche al di fuori dei limiti di pena di cui agli [articoli 274, comma 1, lettera b)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art274-com1-letb), e [280, comma 1, del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art280-com1).".
+5. Nei casi previsti dai commi 2, 3 e 4 e' consentito l'arresto anche fuori del caso di flagranza. Nell'udienza di convalida, il giudice, se ne ricorrono i presupposti, dispone l'applicazione di una delle misure coercitive previste dalla legge, anche al di fuori dei limiti di pena di cui agli [articoli 274, comma 1, lettera b)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art274-com1-letb), e [280, comma 1, del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art280-com1).".
 
 CAPO III Capo III RICONGIUNGIMENTI E REGOLARIZZAZIONI
 -----------------------------------------------------
@@ -165,7 +155,7 @@ Regolarizzazione per offerta di lavoro
 
 1. Entro il 31 marzo 1996, gli stranieri presenti in Italia alla data del 19 novembre 1995, in possesso di passaporto o altro documento equipollente, ivi compresa l'attestazione di identita' rilasciata dalla rappresentanza diplomatica o consolare in Italia del Paese di appartenenza, ai quali un datore di lavoro rilasci dichiarazione scritta della propria disponibilita' all'immediata assunzione regolare, a tempo indeterminato o a tempo determinato non inferiore a sei mesi, oppure a titolo di lavoro stagionale, ovvero che dichiarino di effettuare prestazioni di lavoro subordinato a carattere continuativo alle dipendenze di datori di lavoro italiani o stranieri regolarmente soggiornanti in Italia, possono richiedere alla questura territorialmente competente un permesso di soggiorno per motivi di lavoro.
 
-2. Gli stranieri che dichiarano rapporti di lavoro subordinato in atto alla data del 19 novembre 1995, o anteriormente ad essa, a condizione che il rapporto, alle dipendenze dello stesso datore di lavoro, abbia avuto durata non inferiore a quattro mesi nel corso dei dodici mesi precedenti, possono richiedere alla questura territorialmente competente un permesso di soggiorno per l'iscrizione al collocamento.
+2. Gli stranieri che dichiarano rapporti di lavoro subordinato in atto alla data del 19 novembre 1995 o anteriormente ad essa, a condizione che il rapporto, alle dipendenze dello stesso datore di lavoro, abbia avuto durata non inferiore a quattro mesi nel corso dei dodici mesi precedenti, possono richiedere alla questura territorialmente competente un permesso di soggiorno per l'iscrizione al collocamento.
 
 3. Dell'avvenuta presentazione delle richieste di cui ai commi 1 e 2, gli uffici delle questure rilasciano all'interessato apposita ricevuta.
 
@@ -219,7 +209,13 @@ Disposizioni di carattere umanitario
 
 a) all'articolo 2, comma 3, sono aggiunte, in fine, le seguenti parole: "nonche' il piano degli interventi di assistenza in favore di cittadini di Paesi non appartenenti all'Unione europea ammessi a soggiornare temporaneamente in Italia per motivi di carattere umanitario.";
 
-b) all'articolo 7, comma 10, sono aggiunti, in fine, i seguenti periodi: "Neppure e' consentita l'espulsione, salvo che nei casi previsti dai commi 1 e 5, nei confronti: a) degli stranieri minori di anni sedici, salvo il diritto a seguire il genitore o l'affidatario espulsi; b) degli stranieri regolarmente soggiornanti in Italia da almeno cinque anni; c) degli stranieri conviventi con parenti entro il quarto grado di nazionalita' italiana o con il coniuge di nazionalita' italiana; d) delle donne in stato di gravidanza oltre il terzo mese. Nei confronti dei soggetti indicati alle lettere a), b), c) e d) non e' in ogni caso consentita l'espulsione per i motivi di cui all'[articolo 25 della legge 22 maggio 1975, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-22;152~art25).".
+b) all'articolo 7, comma 10, e' aggiunto, in fine, il seguente periodo:  
+"Neppure e' consentita l'espulsione, salvo che nei casi previsti dai commi 1 e 5, nei confronti:  
+a) degli stranieri minori di anni sedici, salvo il diritto a seguire il genitore o l'affidatario espulsi;  
+b) degli stranieri regolarmente soggiornanti in Italia da almeno cinque anni;  
+c) degli stranieri conviventi con parenti entro il quarto grado di nazionalita' italiana o con il coniuge di nazionalita' italiana;  
+d) delle donne in stato di gravidanza oltre il terzo mese.  
+Nei confronti dei soggetti indicati alle lettere a), b), c) e d) non e' in ogni caso consentita l'espulsione per i motivi di cui all'[articolo 25 della legge 22 maggio 1975, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-22;152~art25).".
 
 ### Art. 13
 
@@ -233,12 +229,12 @@ Copertura finanziaria
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 settembre 1996
+### Dato a Roma, addi' 16 luglio 1996
 
 SCALFARO
 
@@ -250,9 +246,7 @@ FLICK, Ministro di grazia e giustizia
 
 DINI, Ministro degli affari esteri
 
-BINDI, Ministro della sanita'
-
-TURCO, Ministro per la solidarieta' Sociale
+TREU, Ministro del lavoro e della previdenza sociale
 
 CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
 

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 946
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1089
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 946
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1089
+===============================================================
 
 Modificazioni all'ordinamento didattico universitario.
 ------------------------------------------------------
@@ -16,57 +16,34 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219);
+Riconosciuta l'opportunita' di procedere ad una modifica dell'ordinamento didattico universitario vigente per gli studi del corso di laurea in odontoiatria e protesi dentaria;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il parere del Consiglio universitario nazionale del 16 luglio 1981;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il parere del Consiglio universitario nazionale del 19 aprile 1983, relativo allo statuto proposto dai competenti organi accademici dell'Universita' di Salerno per la facolta' di ingegneria;
+Rilevata l'opportunita' di limitare la suddetta modifica all'abolizione degli asterischi apposti sia agli insegnamenti fondamentali sia agli insegnamenti complementari della tabella XVIII dell'ordinamento didattico universitario nonche' all'abolizione della norma che prevede la mutuazione di altri insegnamenti complementari del corso di laurea in medicina e chirurgia;
 
 Sulla
 -----
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-La tabella I, dell'ordinamento didattico universitario, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che all'elenco delle lauree e dei diplomi e' aggiunta la laurea in ingegneria delle tecnologie industriali.  
-
-Art. 2
-------
-
-  
-La tabella II, dell'ordinamento didattico universitario, annessa al [regio decreto 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di ingegneria puo' rilasciare anche la laurea in ingegneria delle tecnologie industriali.  
-
-Art. 3
-------
-
-  
-La tabella XXIX dell'ordinamento didattico universitario, annessa al [regio decreto 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata come segue.  
-Nell'art. 1 di detta tabella XXIX, all'elenco dei corsi di laurea della facolta' di ingegneria e' aggiunta la laurea in ingegneria delle tecnologie industriali.  
-Conseguentemente dopo la tabella II, annessa alla predetta tabella XXIX e' aggiunta la seguente tabella 12, relativa agli insegnamenti obbligatori sul piano nazionale per il corso di laurea in ingegneria delle tecnologie industriali.  
-  
-TABELLA 12  
-  
-TABELLA DEGLI INSEGNAMENTI OBBLIGATORI SUL PIANO NAZIONALE PER IL CORSO DI LAUREA IN INGEGNERIA DELLE TECNOLOGIE INDUSTRIALI.  
-1) Scienza delle costruzioni;  
-2) Fisica tecnica;  
-3) Elettrotecnica;  
-4) Programmazione dei calcolatori elettronici.  
+La tabella XVIII-bis dell'ordinamento didattico universitario, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' modificata nel senso che sono soppressi tutti gli asterischi apposti sia agli insegnamenti fondamentali, sia agli insegnamenti complementari.  
+Nella medesima tabella sono, inoltre, soppressi al sesto comma, la frase dopo l'elenco degli insegnamenti complementari: "altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia" ed il testo del comma settimo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 15 febbraio 1984
+Registrato alla Corte dei conti, addi' 15 marzo 1982
 
-Registro n. 8 Istruzione, foglio n. 93
+Registro n. 41 Istruzione, loglio n. 284

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 18 gennaio 1994 n. 39
+DECRETO-LEGGE 17 marzo 1994 n. 183
 
 
-DECRETO-LEGGE 18 gennaio 1994 n. 39
-===================================
+DECRETO-LEGGE 17 marzo 1994 n. 183
+==================================
 
 Disposizioni in materia di fiscalizzazione degli oneri sociali e di sgravi contributivi.
 ----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-1-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/3/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di fiscalizzazione degli oneri sociali e di sgravi contributivi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 marzo 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
@@ -25,10 +25,11 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-1. A decorrere dal 1 gennaio 1994 sono confermati gli esoneri contributivi di cui ai [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com3) e [4 dell'articolo 2 del decreto- legge 22 marzo 1993, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com4), convertito dalla [legge 20 maggio 1993, n.   
-151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;151), secondo condizioni, limiti e modalita' previsti dal predetto decreto.
+1. A decorrere dal 1 gennaio 1994 sono confermati gli esoneri contributivi di cui ai [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com3) e [4 dell'articolo 2 del decreto-legge 22 marzo 1993, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-22;71~art2-com4), convertito, con modificazioni, dalla [legge 20 maggio 1993, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-05-20;151), secondo condizioni, limiti e modalita' previsti dal predetto decreto.
 
-2. All'onere derivante dal comma 1, valutato in lire 2.050 miliardi per l'anno 1994, in lire 2.130 miliardi per l'anno 1995 ed in lire 2.200 miliardi a decorrere dall'anno 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e della previdenza sociale.
+2. L'obbligo contributivo per le imprese industriali operanti nel territorio della provincia di Gorizia nei confronti degli enti previdenziali ed assistenziali previsto dall'[articolo 4 della legge 29 gennaio 1986, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-29;26~art4), si considera regolarmente assolto con i versamenti delle predette imprese effettuati anteriormente alla data di entrata in vigore dell'[articolo 2, comma 17, del decreto-legge 9 ottobre 1989, n. 338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338~art2-com17), convertito, con modificazioni, dalla [legge 7 dicembre 1989, n. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-07;389).
+
+3. All'onere derivante dal presente articolo, valutato in lire 2.063 miliardi per l'anno 1994, in lire 2.130 miliardi per l'anno 1995 ed in lire 2.200 miliardi per l'anno 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e della previdenza sociale.
 
 Art. 2
 ------
@@ -53,13 +54,13 @@ Art. 3
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 gennaio 1994
+### Dato a Roma, addi' 17 marzo 1994
 
 SCALFARO
 
-CIAMPI, Presidente del Consiglio
+CIAMPI, Presidente del Consiglio dei Ministri
 
-dei Ministri GIUGNI, Ministro del lavoro e della previdenza sociale
+GIUGNI, Ministro del lavoro e della previdenza sociale
 
 BARUCCI, Ministro del tesoro
 

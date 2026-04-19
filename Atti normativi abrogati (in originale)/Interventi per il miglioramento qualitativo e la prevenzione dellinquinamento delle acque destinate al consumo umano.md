@@ -1,45 +1,34 @@
-DECRETO-LEGGE 17 marzo 1992 n. 235
+DECRETO-LEGGE 18 novembre 1991 n. 364
 
 
-DECRETO-LEGGE 17 marzo 1992 n. 235
-==================================
+DECRETO-LEGGE 18 novembre 1991 n. 364
+=====================================
 
 Interventi per il miglioramento qualitativo e la prevenzione dell'inquinamento delle acque destinate al consumo umano.
 ----------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/3/1992.Decreto-Legge decaduto per mancata conversione.
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
-
-Ritenuta la straordinaria necessita' ed urgenza di assicurare il finanziamento degli interventi finalizzati al miglioramento qualitativo ed alla prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile;
-
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 marzo 1992;
-
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'ambiente e della sanita', di concerto con i Ministri del tesoro, dei lavori pubblici, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato e della marina mercantile;
-
-E M A N A il seguente decreto-legge:
+Entrata in vigore del decreto: 18/11/1991.Decreto-Legge decaduto per mancata conversione.
 
 Art. 1
 ------
 
-1. Le regioni, interessate dall'emanazione dei decreti di deroga ai sensi degli articoli 16, 17, comma 3, e 18 del [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236), in conformita' agli indirizzi dell'autorita' di bacino, nel caso di bacini di rilievo nazionale, e sulla base delle proposte delle province, adottano, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con i contenuti e le procedure di cui all'articolo 2, un piano di intervento urgente. Il piano e' finanziato mediante fondi a carico del bilancio dello Stato, risorse proprie delle regioni e degli enti locali e con i proventi derivanti dall'applicazione delle tariffe dei servizi di acquedotto, fognatura e depurazione. Le regioni sono pertanto autorizzate:
-
-a) ad utilizzare, fino all'importo massimo di lire 20 miliardi per ciascuna regione, i fondi statali con destinazione vincolata, gia' trasferiti alle regioni, ed in particolare i fondi previsti dall'[articolo 9 del decreto-legge 5 febbraio 1990, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-02-05;16~art9), convertito, con modificazioni, dalla [legge 5 aprile 1990, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71), recante misure urgenti per il miglioramento qualitativo e per la prevenzione dell'inquinamento delle acque, che risultino disponibili in relazione a quanto previsto dall'articolo 9, comma 2-quater, del medesimo decreto, con esclusione del Fondo nazionale trasporti e del Fondo sanitario nazionale. Le predette autorizzazioni di spesa si intendono quindi contestualmente ridotte per l'ammontare dell'utilizzo del limite massimo;
-
-b) ad utilizzare le disponibilita' relative agli anni 1992 e 1993 per interventi di cui alla [legge 18 maggio 1989, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183), nel limite massimo del cinquanta per cento delle quote destinate, sulla base di quanto previsto dal decreto del Presidente del Consiglio dei Ministri 1' marzo 1991, relativo agli anni 1992 e 1993, [pubblicato nella Gazzetta Ufficiale n. 96 del 24 aprile 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-04-24&numeroGazzetta=96), alla realizzazione di interventi nei rispettivi bacini regionali e in quelli interregionali, previe relative intese tra le regioni interessate; nei bacini di rilievo nazionale, le autorita' di bacino, nel limite massimo predetto, individuano gli interventi da finanziare con le disponibilita' di cui al citato decreto del Presidente del Consiglio dei Ministri, che si intendono quindi contestualmente ridotte per l'ammontare dell'utilizzo del limite massimo;
-
-c) ad utilizzare, fino al limite massimo del cinquanta per cento, le risorse previste a favore di ciascuna regione, per gli anni 1991-1993, in relazione al programma triennale per la tutela ambientale, nei limiti delle disponibilita' derivanti dalla [legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305), e dal [decreto-legge 13 giugno 1989, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-13;227), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;283), e nel rispetto delle procedure previste dalla legge e dal decreto-legge citati. Le predette autorizzazioni di spesa si intendono quindi contestualmente ridotte per l'ammontare dell'utilizzo del limite massimo;
-
-d) a definire le quote di mutuo che gli enti locali ed i loro consorzi, nonche' gli enti gestori di servizi idrici, sono autorizzati a contrarre con istituti di credito speciale, sezioni autonome autorizzate, nonche' con la Banca europea degli investimenti. L'onere relativo all'ammortamento dei predetti mutui e' a carico degli enti interessati che a tal fine garantiscono idonea copertura vincolando i necessari proventi tariffari. Gli enti, o loro consorzi, titolari di impianti di acquedotto, fognatura e depurazione hanno autonoma facolta' di prestare garanzia verso gli istituti finanziatori per il periodo di realizzazione delle opere impiantistiche. La garanzia e' prestata previa approvazione di un pi- ano di rientro tariffario definito in relazione a ciascun progetto o gruppi di progetti e con la previsione del diritto di rivalsa sulle maggiorazioni di canoni e tariffe. A tali fini la tariffa per il servizio di depurazione e' dovuta, quale contributo per il conseguimento degli obiettivi di risanamento degli scarichi, dagli utenti del servizio di pubblica fognatura anche nel caso in cui la fognatura sia sprovvista di impianti centralizzati di depurazione o questi siano temporaneamente inattivi;
-
-e) a definire con norme di attuazione del piano degli interventi, forme e modi per il controllo sull'esecuzione e la gestione delle opere impiantistiche, verificando la congruita' delle tariffe in relazione alle prestazioni dei servizi.
-
-2. Per l'attuazione degli interventi di cui all'articolo 2, comma 1, lettera g), la regione Lombardia e' altresi' autorizzata, secondo le procedure previste dal piano approvato con [decreto del Presidente del Consiglio dei Ministri 29 luglio 1988, n. 363, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 199 del 25 agosto 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-08-25&numeroGazzetta=199), a ricorrere a finanziamenti e mutui, anche in valuta estera, fino al limite di lire 500 miliardi, per i quali e' estesa la garanzia primaria dello Stato, escluso il rischio di cambio, con diritto dell'erario di rivalsa sulle tariffe. La restituzione delle somme e' assicurata attraverso un piano finanziario definito, in relazione a ciascun progetto o gruppi di progetti, dalla regione d'intesa con i soggetti gestori dei servizi anche in attuazione delle disposizioni e criteri fissati nel presente articolo.
-
-3. I finanziamenti previsti, in qualsiasi forma, dal presente decreto non possono essere destinati allo studio, alla progettazione ed alla realizzazione di invasi di altezza superiore ai 10 metri.
+  
+IL PRESIDENTE DELLA REPUBBLICA   
+Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);   
+Ritenuta la straordinaria necessita' ed urgenza di assicurare il finanziamento degli interventi finalizzati al miglioramento qualitativo ed alla prevenzione dell'inquinamento delle risorse idriche destinate all'approvvigionamento potabile;   
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 novembre 1991;   
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'ambiente e della sanita', di concerto con i Ministri del tesoro, dei lavori pubblici, dell'industria, del commercio e dell'artigianato e della marina mercantile;   
+E M A N A   
+il seguente decreto-legge:   
+Art. 1.   
+1. Le regioni, interessate dall'emanazione dei decreti di deroga ai sensi degli articoli 16, 17, comma 3, e 18 del [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236), in conformita' agli indirizzi dell'autorita' di bacino, nel caso di bacini di rilievo nazionale, e sulla base delle proposte delle province, adottano, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con i contenuti e le procedure di cui all'articolo 2, un piano di intervento urgente. Il piano e' finanziato mediante fondi a carico del bilancio dello Stato, risorse proprie delle regioni e degli enti locali e con i proventi derivanti dall'applicazione delle tariffe dei servizi di acquedotto, fognatura e depurazione. Le regioni sono pertanto autorizzate:   
+a) ad utilizzare, fino all'importo massimo di lire 20 miliardi per ciascuna regione, i fondi statali con destinazione vincolata, gia' trasferiti alle regioni, ed in particolare i fondi previsti dall'[articolo 9 del decreto-legge 5 febbraio 1990, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-02-05;16~art9), convertito, con modificazioni, dalla [legge 5 aprile 1990, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-05;71), recante misure urgenti per il miglioramento qualitativo e per la prevenzione dell'inquinamento delle acque, che risultino disponibili in relazione a quanto previsto dall'articolo 9, comma 2-quater, del medesimo decreto, con esclusione del Fondo nazionale trasporti e del Fondo sanitario nazionale. Le predette autorizzazioni di spesa si intendono quindi contestualmente ridotte per l'ammontare dell'utilizzo del limite massimo;   
+b) ad utilizzare le disponibilita' relative agli anni 1992 e 1993 per interventi di cui alla [legge 18 maggio 1989, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183), nel limite massimo del cinquanta per cento delle quote destinate, sulla base di quanto previsto dal decreto del Presidente del Consiglio dei Ministri 1' marzo 1991, relativo agli anni 1992 e 1993, [pubblicato nella Gazzetta Ufficiale n. 96 del 24 aprile 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-04-24&numeroGazzetta=96), alla realizzazione di interventi nei rispettivi bacini regionali e in quelli interregionali, previe relative intese tra le regioni interessate; nei bacini di rilievo nazionale, le autorita' di bacino, nel limite massimo predetto, individuano gli interventi da finanziare con le disponibilita' di cui al citato decreto del Presidente del Consiglio dei Ministri, che si intendono quindi contestualmente ridotte per l'ammontare dell'utilizzo del limite massimo;   
+c) ad utilizzare, fino al limite massimo del cinquanta per cento, le risorse previste a favore di ciascuna regione, per gli anni 1991-1993, in relazione al programma triennale per la tutela ambientale, nei limiti delle disponibilita' derivanti dalla [legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305), e dal [decreto-legge 13 giugno 1989, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-13;227), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;283), e nel rispetto delle procedure previste dalla legge e dal decreto-legge citati. Le predette autorizzazioni di spesa si intendono quindi contestualmente ridotte per l'ammontare dell'utilizzo del limite massimo;   
+d) a definire le quote di mutuo che gli enti locali ed i loro consorzi, nonche' gli enti gestori di servizi idrici, sono autorizzati a contrarre con istituti di credito speciale, sezioni autonome autorizzate, nonche' con la Banca europea degli investimenti. L'onere relativo all'ammortamento dei predetti mutui e' a carico degli enti interessati che a tal fine garantiscono idonea copertura vincolando i necessari proventi tariffari. Gli enti, o loro consorzi, titolari di impianti di acquedotto, fognatura e depurazione hanno autonoma facolta' di prestare garanzia verso gli istituti finanziatori per il periodo di realizzazione delle opere impiantistiche. La garanzia e' prestata previa approvazione di un pi- ano di rientro tariffario definito in relazione a ciascun progetto o gruppi di progetti e con la previsione del diritto di rivalsa sulle maggiorazioni di canoni e tariffe. A tali fini la tariffa per il servizio di depurazione e' dovuta, quale contributo per il conseguimento degli obiettivi di risanamento degli scarichi, dagli utenti del servizio di pubblica fognatura anche nel caso in cui la fognatura sia sprovvista di impianti centralizzati di depurazione o questi siano temporaneamente inattivi;   
+e) a definire con norme di attuazione del piano degli interventi, forme e modi per il controllo sull'esecuzione e la gestione delle opere impiantistiche, verificando la congruita' delle tariffe in relazione alle prestazioni dei servizi.   
+2. Per l'attuazione degli interventi di cui all'articolo 2, comma 1, lettera g), la regione Lombardia e' altresi' autorizzata, secondo le procedure previste dal piano approvato con [decreto del Presidente del Consiglio dei Ministri 29 luglio 1988, n. 363, pubblicato nella Gazzetta Ufficiale n. 199 del 25 agosto 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-08-25&numeroGazzetta=199), a ricorrere a finanziamenti e mutui, anche in valuta estera, fino al limite di lire 500 miliardi, per i quali e' estesa la garanzia primaria dello Stato, escluso il rischio di cambio, con diritto dell'erario di rivalsa sulle tariffe. La restituzione delle somme e' assicurata attraverso un piano finanziario definito, in relazione a ciascun progetto o gruppi di progetti, dalla regione d'intesa con i soggetti gestori dei servizi anche in attuazione delle disposizioni e criteri fissati nel presente articolo.   
+3. I finanziamenti previsti, in qualsiasi forma, dal presente decreto non possono essere destinati allo studio, alla progettazione ed alla realizzazione di invasi di altezza superiore ai 10 metri.   
 
 Art. 2
 ------
@@ -66,7 +55,7 @@ g) l'attuazione degli interventi relativi alla tutela delle acque previsti nei p
 
 4. Il piano di intervento e' trasmesso, entro dieci giorni dall'adozione, al Ministro dell'ambiente.
 
-5. Il piano di intervento e' approvato con decreto del Ministro dell'ambiente, di intesa con i Ministri dei lavori pubblici, della sanita' e del tesoro, acquisito preventivamente il parere delle competenti Commissioni della Camera e del Senato che si esprimono entro il termine di trenta giorni; il decreto di approvazione determina gli adeguamenti tariffari, l'eventuale sovrapprezzo, le modalita' e gli ambiti territoriali di applicazione obbligatoria dei medesimi.
+5. Il piano di intervento e' approvato con decreto del Ministro dell'ambiente, di intesa con i Ministri dei lavori pubblici, della sanita' e del tesoro, acquisito preventivamente il parere delle competenti commissioni della Camera e del Senato che si esprimono entro il termine di trenta giorni; il decreto di approvazione determina gli adeguamenti tariffari, l'eventuale sovrapprezzo, le modalita' e gli ambiti territoriali di applicazione obbligatoria dei medesimi.
 
 6. L'individuazione di nuove risorse idriche per l'approvvigionamento dei nuovi sistemi acquedottistici comporta l'adozione contestuale di variante al Piano regolatore generale degli acquedotti.
 
@@ -79,62 +68,13 @@ g) l'attuazione degli interventi relativi alla tutela delle acque previsti nei p
 Art. 3
 ------
 
-1. Al fine di stabilire un livello generale di protezione dell'ambiente idrico dall'inquinamento diretto ed indiretto provocato in particolare da composti azotati, il Ministro dell'agricoltura e delle foreste, d'intesa con il Ministro dell'ambiente, adotta, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, entro dodici mesi dalla data di entrata in vigore della legge di conversione del presente decreto, un codice di buona pratica agricola riguardante:
-
-a) i periodi in cui non e' opportuno l'impiego di fertilizzanti ai terreni agricoli;
-
-b) l'impiego di fertilizzanti al terreno in pendenza ripida;
-
-c) l'impiego di fertilizzanti al terreno saturo di acqua, inondato, gelato o innevato;
-
-d) l'impiego di fertilizzanti ai terreni adiacenti ai corsi d'acqua;
-
-e) le tecniche di costruzione e di dimensionamento dei depositi per effluenti provenienti da allevamento zootecnico, ivi comprese le misure destinate a prevenire l'inquinamento idrico causato da scorrimento e infiltrazione nelle acque sotterranee e superficiali di effluenti da allevamento e da foraggio vegetale insilato; il dimensionamento dei depositi tiene conto delle necessita' di invaso nei periodi in cui e' proibita l'applicazione al terreno di effluenti in zone vulnerabili, salvo che siano comprovate forme di smaltimento idonee a non provocare danno all'ambiente;
-
-f) le procedure per l'impiego di concimi chimici azotati ed effluenti di allevamento, in modo da mantenere nel complesso le rela- tive dispersioni di nutrienti nell'acqua ad un livello sostenibile;
-
-g) le tecniche di gestione del terreno, compresa la pratica dei sistemi di rotazione delle colture ed i criteri per definire la proporzione tra terreni destinabili a colture permanenti ed a colture annuali;
-
-h) il mantenimento durante i prevedibili periodi piovosi di un quantitativo minimo di copertura vegetale destinata ad assorbire dal terreno l'azoto che altrimenti potrebbe inquinare l'ambiente idrico con i nitrati;
-
-i) la introduzione da parte delle aziende agricole di piani di fertilizzazione;
-
-l) la prevenzione dell'inquinamento dell'ambiente idrico, dovuto a errate tecniche irrigue.
-
-2. La diffusione del codice di buona pratica agricola e' promossa con apposito programma predisposto dal Ministro dell'agricoltura e delle foreste, d'intesa con il Ministro dell'ambiente.
-
-3. Le regioni interessate dal superamento della concentrazione massima ammissibile per il parametro nitrati prevedono, quale parte integrante del piano d'intervento urgente di cui all'articolo 1, azioni prioritarie volte ad assicurare l'equilibrio fra il fabbisogno prevedibile di azoto delle colture e l'apporto alle colture stesse di azoto proveniente dal terreno e dalla fertilizzazione, valutando:
-
-a) la quantita' di azoto presente nel terreno nel momento in cui la coltura comincia ad assorbirlo in misura significativa, tenuto conto quindi della quantita' rimanente alla fine dell'inverno;
-
-b) l'apporto di composti di azoto tramite la mineralizzazione netta delle riserve di azoto organico nel terreno;
-
-c) l'aggiunta di composti di azoto provenienti da effluenti di allevamento;
-
-d) l'aggiunta di composti di azoto provenienti da fertilizzanti chimici e da altri fertilizzanti.
-
-4. Le azioni di cui al comma 3 riguardano le aree di ricarica degli acquiferi interessati dalla contaminazione dei nitrati per valori superiore a 50 mg/l ovvero a 40 mg/l unitamente a una serie di rilevazioni effettuate ai sensi dell'allegato II del [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236), che indichino una tendenza al progressivo aumento nell'arco di un anno, e comprende gli interventi e le opere, nonche' le iniziative per sviluppare l'informazione, la formazione professionale e l'assistenza gratuita ad agricoltori ed allevatori ammessi ai finanziamenti di cui all'articolo 2.
-
-5. Le regioni interessate dal superamento della concentrazione massima ammissibile per il parametro nitrati, individuano, all'interno delle aree di cui al comma 4, specifici ambiti territoriali sui quali insistono le cause piu' significative che determinano il superamento del valore di 40 mg/l. In tali ambiti sono applicati i seguenti limiti:
-
-a) applicazioni al terreno di una quantita' di azoto di origine zootecnica non superiore a 170 kg per ettaro per gli ambiti interessati da superamenti della concentrazione di nitrati oltre 50 mg/l;
-
-b) applicazione al terreno di una quantita' di azoto di origine zootecnica non superiore a 210 kg per ettaro per gli ambiti interessati dalla concentrazione di nitrati oltre 40 mg/l e per i quali le rilevazioni effettuate ai sensi dell'allegato II del [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;236), indicano una tendenza al progressivo aumento nell'arco di un anno.
-
-6. Negli ambiti territoriali identificati ai sensi del comma 5, le regioni imprimono carattere obbligatorio alle misure fra quelle di cui al comma 1 che sono necessarie alla normalizzazione del livello dei nitrati nell'acqua.
-
-7. Con decreto del Ministro dell'ambiente, di concerto con i Ministri dell'agricoltura e delle foreste e della sanita', anche durante il periodo di realizzazione del piano urgente di intervento possono essere stabiliti quantitativi di azoto diversi da quelli indicati al comma 5, purche' non compromettano il raggiungimento delle finalita' del piano e siano improntate a criteri obiettivi.
-
-Art. 4
-------
-
 1. Il Ministro della sanita', di concerto con il Ministro dell'ambiente, sentito il Consiglio superiore di sanita', con regolamento da emanarsi entro dodici mesi dalla data di entrata in vigore della legge di conversione del presente decreto, adotta o aggiorna le norme tecniche relative ai metodi analitici di riferimento per l'esame della qualita' delle acque destinate o destinabili al consumo umano, e delle acque di balneazione.
 
 2. Il Ministro dell'ambiente, di concerto con i Ministri della sanita', dell'industria, del commercio e dell'artigianato, della marina mercantile e dell'agricoltura e delle foreste, avvalendosi dell'IRSA e dell'Istituto superiore di sanita', entro dodici mesi dalla data di entrata in vigore della legge di conversione del presente decreto, adotta o aggiorna con regolamento le norme tecniche relative ai metodi analitici di riferimento per l'esame delle acque sotterranee, delle acque destinate all'irrigazione, delle acque destinate alla vita dei pesci e alla molluschicoltura.
 
 3. Le tecniche e le modalita' di prelievo, di trasporto e conservazione dei campioni da sottoporre ad analisi sono stabilite dal regolamento.
 
-4. Il Ministro della sanita', d'intesa con il Ministro dell'ambiente, sentito il Consiglio superiore della sanita', avvalendosi dell'Istituto superiore di sanita', definisce le norme tecniche dei sistemi di potabilizzazione e per la salvaguardia delle aree di falde esistenti; individua i criteri di valutazione tossicologica e di impatto ambientale, considerando altresi' la presenza di piu' composti per quelle sostanze comprese in un unico parametro al fine di valutarne gli effetti sinergici.
+4. Il Ministro della sanita', d'intesa con il Ministro dell'ambiente, sentito il Consiglio superiore della sanita', avvalendosi dell'Istituto superiore di sanita', definisce le norme tecniche dei sistemi di potabilizzazione e per la salvaguardia delle aree di falde esistenti; individua i criteri di valutazione tossicologica ed impatto ambientale, considerando altresi' la presenza di piu' composti per quelle sostanze comprese in un unico parametro al fine di valutarne gli effetti sinergici.
 
 5. Fermo restando quanto disposto dall'[articolo 2, comma 3, della legge 18 maggio 1989, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183~art2-com3), le funzioni svolte dal Servizio geologico ai sensi della [legge 4 agosto 1984, n. 464](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-08-04;464), sono attribuite alle regioni ed alle province autonome competenti per territorio.
 
@@ -146,14 +86,14 @@ L'incremento di temperatura, calcolato come differenza tra i valori medi delle t
 Deve inoltre essere evitata la formazione di barriere termiche alle foci dei fiumi.   
 Ai fini della presente normativa si intende per strato superficiale quello compreso tra 0 e 3 metri di profondita'; mentre i valori medi delle misure eseguite in ogni singolo punto vanno ricavati da almeno tre determinazioni condotte sulla colonna liquida a 0,1 - 1,5 - 3 m.".
 
-Art. 5
+Art. 4
 ------
 
-1. Per l'attuazione dei progetti di protezione e risanamento ambientale, che non siano cantierati entro i termini stabiliti dalle relative norme di finanziamento, previa messa in mora, la regione si sostituisce agli enti titolari dell'esecuzione delle opere, con facolta' di avvalersi dei finanziamenti disposti a favore delle medesime in forza delle seguenti norme:
+1. Per l'attuazione dei progetti di protezione e risanament ambientale, che non siano cantierati entro i termini stabiliti dalle relative norme di finanziamento, previa messa in mora, la regione si sostituisce agli enti titolari dell'esecuzione delle opere, con facolta' di avvalersi dei finanziamenti disposti a favore delle medesime in forza delle seguenti norme:
 
-a) [articolo 12, quarto comma, della legge 22 dicembre 1984, n. 887](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887~art12-com4);
+a) [articolo 12, comma 4, della legge 22 dicembre 1984, n. 887](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887~art12-com4);
 
-b) [articolo 10 del decreto-legge 25 novembre 1985, n. 667](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-11-25;667~art10), convertito, con modificazioni, dalla [legge 24 gennaio 1986, n. 7, e comma 6 dell'articolo 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;7~art5-com6) della [legge 22 dicembre 1986, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910);
+b) [articolo 10 del decreto-legge 25 febbraio 1985, n. 667](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-25;667~art10), convertito, con modificazioni, dalla [legge 24 gennaio 1986, n. 7, e comma 6 dell'articolo 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-24;7~art5-com6) della [legge 22 dicembre 1986, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910);
 
 c) [comma 5, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41~com5-leta) e [b), dell'articolo 14 della legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41~art14-com5-letb);
 
@@ -189,36 +129,32 @@ m) [articolo 9 del decreto-legge 5 febbraio 1990, n. 16](http://www.normattiva.i
 
 9. Gli eventuali maggiori oneri derivanti dall'ammortamento dei mutui contratti ai sensi del comma 8 sono a carico dei soggetti titolari i quali, anche mediante specifica maggiorazione di canoni e tariffe, ne dispongono la necessaria copertura. Con gli stessi criteri e modalita' i soggetti titolari, ovvero i soggetti che ad essi si sostituiscono, provvedono all'ammortamento dei mutui contratti con gli istituti di credito speciale, le sezioni autonome autorizzate e la Banca europea degli investimenti, per l'eventuale completamento del piano finanziario ai fini della realizzazione di progetti di prevenzione e risanamento ambientale finanziati ai sensi del comma 1.
 
-10. In relazione alla eccezionalita' e complessita' dell'iniziativa, il Ministro dell'ambiente informa periodicamente le competenti Commissioni di Camera e Senato e ne acquisisce il preventivo parere, anche raggruppando i provvedimenti per ambiti settoriali o territoriali.
+10. In relazione alla eccezionalita' e complessita' dell'iniziativa, il Ministro dell'ambiente informa periodicamente le competenti commissioni di Camera e Senato e ne acquisisce il preventivo parere, anche raggruppando i provvedimenti per ambiti settoriali o territoriali.
 
 11. Il termine di impiego dei fondi iscritti al capitolo 1157 dello stato di previsione del Ministero dei lavori pubblici per l'anno 1991 e' prorogato di un anno.
 
-12. Il trasferimento dei fondi per studi, attivita' sperimentali e opere alle autorita' di bacino di rilievo nazionale, effettuato ai sensi della [legge 18 maggio 1989, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-18;183), e successive modificazioni ed integrazioni, assume, ai fini contabili, valore giuridico di impegno di spesa.
+12. Le somme di cui all'autorizzazione di spesa disposta ai sensi dell'[articolo 16 della legge 7 agosto 1990, n. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253~art16), possono essere utilizzate anche per la corresponsione al personale indicato dal comma 2 del medesimo articolo delle indennita' di missione, ove ne ricorrano le condizioni, e del trattamento economico per prestazioni di lavoro straordinario.
 
-13. Le somme di cui all'autorizzazione di spesa disposta ai sensi dell'[articolo 16 della legge 7 agosto 1990, n. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;253~art16), possono essere utilizzate anche per la corresponsione al personale indicato dal comma 2 del medesimo articolo delle indennita' di missione, ove ne ricorrano le condizioni, e del trattamento economico per prestazioni di lavoro straordinario.
+13. Le somme previste dall'[articolo 14, commi 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361~art14-com6) e [8, del decreto- legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361~art14-com8), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441, dall'articolo 17, commi 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441~art17-com20) e [40](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441~art17-com40), e dall'[articolo 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441~art18) della [legge 11 marzo 1988, n. 67, nonche' dall'articolo 7, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art7-com3), del [decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475, e dall'articolo 2- bis, comma 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475~art2bis-com4), del [decreto-legge 13 giugno 1989, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-13;227), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;283), ancora disponibili nello stato di previsione del Ministero dell'ambiente per l'anno finanziario 1990, non impegnate alla chiusura di detto anno, possono esserlo nell'esercizio finanziario 1991. Le somme previste dall'[articolo 1, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art1-com4) e [5, del decreto- legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art1-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), sono impegnate, entro l'esercizio finanziario 1992, nell'ambito del programma triennale dell'azione pubblica per la tutela dell'ambiente di cui alla [legge 28 agosto 1988, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-28;305), per gli anni 1991-1993 e sulla base di criteri e modalita' definiti nello stesso programma, mediante concessione di contributi in conto capitale a societa' di servizi ambientali promosse e partecipate in forma maggioritaria dalle associazioni degli artigiani e commercianti.
 
-14. Le somme previste dall'[articolo 14, commi 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361~art14-com6) e [8, del decreto- legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361~art14-com8), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441, dall'articolo 17, commi 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441~art17-com20) e [40](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441~art17-com40), e dall'[articolo 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441~art18) della [legge 11 marzo 1988, n. 67, nonche' dall'articolo 7, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67~art7-com3), del [decreto-legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475, e dall'articolo 2- bis, comma 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475~art2bis-com4), del [decreto-legge 13 giugno 1989, n. 227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-06-13;227), convertito, con modificazioni, dalla [legge 4 agosto 1989, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-04;283), ancora disponibili nello stato di previsione del Ministero dell'ambiente per l'anno finanziario 1990, non impegnate alla chiusura di detto anno, possono esserlo nell'esercizio finanziario 1991. Le somme previste dall'[articolo 1, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art1-com4) e [5, del decreto- legge 9 settembre 1988, n. 397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-09-09;397~art1-com5), convertito, con modificazioni, dalla [legge 9 novembre 1988, n. 475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-09;475), sono impegnate, entro l'esercizio finanziario 1992, nell'ambito del programma triennale dell'azione pubblica per la tutela dell'ambiente di cui alla [legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305), per gli anni 1991-1993 e sulla base di criteri e modalita' definiti nello stesso programma, mediante concessione di contributi in conto capitale a societa' di servizi ambientali promosse e partecipate in forma maggioritaria dalle associazioni degli artigiani e commercianti.
+14. Le disponibilita' di provenienza degli anni 1989 e 1990, iscritte nello stato di previsione del Ministero dell'ambiente e rel- ative alle somme previste per tali anni dagli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art12) e [13 della legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art13), ancora disponibili nell'anno finanziario 1991 e non impegnate alla chiusura di detto esercizio finanziario, possono esserlo nell'esercizio finanziario 1992.
 
-15. Le disponibilita' di provenienza degli anni 1989 e 1990, iscritte nello stato di previsione del Ministero dell'ambiente e rel- ative alle somme previste per tali anni dagli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art12) e [13 della legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art13), ancora disponibili nell'anno finanziario 1991 e non impegnate alla chiusura di detto esercizio finanziario, possono esserlo nell'esercizio finanziario 1992.
+Art. 5
+------
 
-16. Le economie verificatesi nella realizzazione delle opere di cui al presente articolo, ivi comprese quelle con ricorso a mutui con ammortamento a carico del bilancio dello Stato in base a specifiche disposizioni legislative, possono essere utilizzate per lavori o varianti suppletivi rispetto al progetto originario, secondo le medesime procedure e competenze previste dalle rispettive leggi di riferimento, entro un quinquennio dalla concessione del finanziamento o del mutuo.
+1. Per gli adempimenti connessi all'attuazione del present decreto, presso il Ministero dell'ambiente - Servizio per la tutela delle acque, la disciplina dei rifiuti, il risanamento del suolo e la prevenzione dell'inquinamento di natura fisica, di cui all'[articolo 1, comma 1, della legge 4 dicembre 1990, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-04;368~art1-com1), i posti di cui al quadro A (dirigenti amministrativi) e al quadro B (dirigenti tecnici) della tabella A allegata alla [legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), sono aumentati rispettivamente di un posto di dirigente superiore e di numero tre primi dirigenti; ai fini della copertura della relativa spesa sono contemporaneamente portati in riduzione n. 9 posti di IV livello funzionale di cui alla tabella B/2 (carriera esecutiva) della tabella B allegata alla stessa [legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349).
+
+2. Per gli adempimenti tecnici connessi all'attuazione del presente decreto, presso i laboratori di tossicologia applicata e di igiene ambientale dell'Istituto superiore di sanita', i posti di cui alle tabelle A e B allegate alla [legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519), e successive modificazioni, sono aumentati di numero quattro dirigenti di ricerca e otto ricercatori; ai fini della copertura della relativa spesa sono contemporaneamente portati in riduzione 21 posti della ex carriera esecutiva tecnica, IV livello funzionale.
 
 Art. 6
 ------
 
-1. Per gli adempimenti connessi all'attuazione del presente decreto, presso il Ministero dell'ambiente - Servizio per la tutela delle acque, la disciplina dei rifiuti, il risanamento del suolo e la prevenzione dell'inquinamento di natura fisica, di cui all'[articolo 1, comma 1, della legge 4 dicembre 1990, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-04;368~art1-com1), i posti di cui al quadro A (dirigenti amministrativi) e al quadro B (dirigenti tecnici) della tabella A allegata alla [legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), sono aumentati rispettivamente di un posto di dirigente superiore e di numero tre primi dirigenti; ai fini della copertura della relativa spesa sono contemporaneamente portati in riduzione numero nove posti di IV livello funzionale di cui alla tabella B/2 (carriera esecutiva) della tabella B allegata alla stessa [legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349).
-
-2. Per gli adempimenti tecnici connessi all'attuazione del presente decreto, presso i laboratori di tossicologia applicata e di igiene ambientale dell'Istituto superiore di sanita', i posti di cui alla tabella B allegata alla [legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519), e successive modificazioni, sono aumentati di numero quattro dirigenti di ricerca e di otto ricercatori; ai fini della copertura della relativa spesa sono contemporaneamente portati in riduzione ventuno posti della ex carriera esecutiva tecnica, IV livello funzionale.
-
-Art. 7
-------
-
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della su pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 marzo 1992
+### Dato a Roma, addi' 18 novembre 1991
 
 COSSIGA
 
@@ -231,8 +167,6 @@ DE LORENZO, Ministro della sanita'
 CARLI, Ministro del tesoro
 
 PRANDINI, Ministro dei lavori pubblici
-
-GORIA, Ministro dell'agricoltura e delle foreste
 
 BODRATO, Ministro dell'industria, del commercio e dell'artigianato
 

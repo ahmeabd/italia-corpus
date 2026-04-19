@@ -1,13 +1,13 @@
-DECRETO-LEGGE 13 luglio 1993 n. 224
+DECRETO-LEGGE 10 settembre 1993 n. 355
 
 
-DECRETO-LEGGE 13 luglio 1993 n. 224
-===================================
+DECRETO-LEGGE 10 settembre 1993 n. 355
+======================================
 
 Attuazione del fermo temporaneo obbligatorio delle unita' da pesca per il 1993.
 -------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 15-7-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13/9/1993.Decreto-Legge convertito con modificazioni dalla [L. 08 novembre 1993, n. 446](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-08;446) (in G.U. 12/11/1993, n.266).
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Visto il [regolamento CEE n. 4028/86 del Consiglio del 18 dicembre 1986](http://
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'attuazione del fermo biologico dell'attivita' di pesca per l'anno 1993;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 settembre 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della marina mercantile, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il coordinamento delle politiche agricole, alimentari e forestali, di concerto con i Ministri della marina mercantile, del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -31,7 +31,7 @@ Art. 1
 
 2. Le disposizioni del presente decreto non si applicano alle unita' esercitanti il traino con l'attrezzo "sciabica".
 
-3. Per il fermo delle navi indicate nel comma 1, il Ministro della marina mercantile e' autorizzato a concedere alle imprese di pesca un premio calcolato secondo i parametri indicati nella tabella A allegata al presente decreto.
+3. Per il fermo delle navi indicate nel comma 1, il Ministro per il coordinamento delle politiche agricole, alimentari e forestali e' autorizzato a concedere alle imprese di pesca un premio calcolato secondo i parametri indicati nella tabella A allegata al presente decreto.
 
 Art. 2
 ------
@@ -45,7 +45,7 @@ Art. 3
 
 2. Il premio di fermo temporaneo e l'indennita' giornaliera non sono cumulabili con indennita' o contributi analoghi erogati da altre amministrazioni dello Stato, dalle regioni o da altri enti pubblici.
 
-3. Il pagamento dei contributi previsti dal presente decreto e' corrisposto dai comandanti delle capitanerie di porto sugli accreditamenti disposti dal Ministero della marina mercantile, anche in deroga ai limiti d'importo stabiliti nel penultimo comma dell'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art56), e suc- cessive modificazioni.
+3. Il pagamento dei contributi previsti dal presente decreto e' corrisposto dai comandanti delle capitanerie di porto sugli accreditamenti disposti dal Ministero per il coordinamento delle politiche agricole, alimentari e forestali, anche in deroga ai limiti d'importo stabiliti nel penultimo comma dell'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art56), e successive modificazioni.
 
 Art. 4
 ------
@@ -59,16 +59,20 @@ Art. 4
 Art. 5
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 luglio 1993
+### Dato a Roma, addi' 10 settembre 1993
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
+
+DIANA, Ministro per il coordinamento delle politiche
+
+agricole, alimentari e forestali
 
 COSTA, Ministro della marina mercantile
 
@@ -80,40 +84,31 @@ Visto, il Guardasigilli: CONSO
 
 Tabella A
 
+ TABELLA A   
+(prevista dall'articolo 1, comma 3)   
   
-  
-TABELLA A  
-(prevista dall'art. 1, comma 3)  
-  
-TABELLA DEI PREMI DI FERMO TEMPORANEO  
-  
-  
-Premio Premio  
-giornliero giornaliero  
-per le navi per le navi  
-aventi meno aventi più  
-di 10 anni di 10 anni  
-  
-Navi inferiori a 12 metri tra le perpendicolari  
-  
-Meno di 70 t s l . . . . . . 135 000 110 000  
-  
-  
-Navi di lunghezza tra le perpendicolari uguale o  
-Superiore a 12 metri (regolamenti CEE  
-n 4028 86 e n 3944 90)  
-  
-meno di 70 t s l . . . . . . 417 400 313 050  
-da 70 a meno 100 t s l . . . . . . 626 100 521 750  
-da 100 a meno 200 t s l . . . . . 1 252 200 834 800  
-da 200 a meno 300 t s l . . . . . 1 982 650 1 460 900  
-da 300 a meno 500 t s l . . . . . 2 504 400 2 087 000  
-da 500 a meno 1 000 t s l . . . . . 3 130 500 2 608 750  
-da 1.000 a meno 1 500 t s l . . . . . 4 174 000 3.547 900  
-da 1 500 a meno 2 000 t s l . . . . . 5.008 800 4 382 700  
-da 2.000 a meno 2.500 t s l . . . . . 5 634 900 4 800 100  
-da 2 500 a meno 3 000 t s l . . . . . 6 469 700 5 426 200  
-da 3000 e più t.s.l. . . . . . 7 304.500 6 261 000  
+TABELLA DEI PREMI DI FERMO TEMPORANEO   
   
   
   
+Premio Premio   
+giornaliero giornaliero   
+per le navi per le navi   
+aventi meno aventi piu'   
+Classi di stazza lorda di 10 anni di 10 anni   
+- - -   
+  
+Navi inferiori a 12 metri tra le perpendicolari:   
+meno di 70 t.s.l. ....................... 174.670 142.320   
+Navi di lunghezza tra le perpendicolari   
+uguale o superiore a 12 metri ([regolamenti   
+CEE n. 4028/86](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31986R4028) e [n. 3944/90](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31990R3944)):   
+meno di 70 t.s.l. ....................... 417.400 313.050 da 70 a meno 100 t.s.l. ................. 626.100 521.750 da 100 a meno 200 t.s.l. ................ 1.252.200 834.800 da 200 a meno 300 t.s.l.  
+................ 1.982.650 1.460.900 da 300 a meno 500 t.s.l.  
+................ 2.504.400 2.087.000 da 500 a meno 1.000 t.s.l.  
+.............. 3.130.500 2.608.750 da 1.000 a meno 1.500 t.s.l.  
+............ 4.174.000 3.547.900 da 1.500 a meno 2.000 t.s.l.  
+............ 5.008.800 4.382.700 da 2.000 a meno 2.500 t.s.l.  
+............ 5.634.900 4.800.100 da 2.500 a meno 3.000 t.s.l.  
+............ 6.469.700 5.426.200   
+da 3.000 e piu' t.s.l. .................. 7.304.500 6.261.000   

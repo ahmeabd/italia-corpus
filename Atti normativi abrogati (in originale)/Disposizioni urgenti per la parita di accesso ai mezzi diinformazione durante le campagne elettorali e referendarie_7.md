@@ -1,14 +1,14 @@
-DECRETO-LEGGE 17 maggio 1996 n. 266
+DECRETO-LEGGE 19 marzo 1996 n. 129
 
 
-DECRETO-LEGGE 17 maggio 1996 n. 266
-===================================
+DECRETO-LEGGE 19 marzo 1996 n. 129
+==================================
 
 Disposizioni urgenti per la parita' di accesso ai mezzi di 
 informazione durante le campagne elettorali e referendarie.
 -----------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-5-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per garantire la parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro di grazia e giustizia;
 
@@ -35,23 +35,14 @@ Art. 2
 
 Propaganda elettorale
 
-1. Dalla data di convocazione dei comizi elettorali e fino a tutto il penultimo giorno prima della data delle elezioni, la propaganda elettorale e' consentita, nei limiti delle prescrizioni del presente decreto, nelle seguenti forme:
-
-a) tribune politiche;
-
-b) dibattiti;
-
-c) tavole rotonde;
-
-d) conferenze;
-
-e) discorsi;
-
-f) presentazione dei candidati e dei programmi dei soggetti politici;
-
-g) confronti;
-
-h) annunci relativi alla sola propaganda effettuata sulla stampa nella concessionaria pubblica o nelle emittenti private.
+1. Dalla data di convocazione dei comizi elettorali e fino a tutto il penultimo giorno prima della data delle elezioni, la propaganda elettorale e' consentita, nei limiti delle prescrizioni del presente decreto, nelle seguenti forme:  
+tribune politiche;  
+dibattiti;  
+tavole rotonde;  
+conferenze;  
+discorsi;  
+presentazione dei candidati e dei programmi dei soggetti politici; confronti;  
+annunci relativi alla sola propaganda effettuata sulla stampa nella concessionaria pubblica o nelle emittenti private.
 
 2. Gli spazi di propaganda elettorale sulla stampa, nella concessionaria pubblica e nelle emittenti private sono offerti gratuitamente, a condizioni di parita' di trattamento.
 
@@ -100,13 +91,11 @@ Art. 6
 Altre forme di propaganda elettorale
 
 1. Dalla data di convocazione dei comizi elettorali e fino alla chiusura delle operazioni di voto, e' vietata ogni forma di propaganda elettorale nei programmi della concessionaria pubblica e delle emittenti private diversi da quelli previsti dall'articolo 2.  
-E' vietato ai registi, ai conduttori ed agli ospiti dei programmi di fornire, nel contesto di questi, anche in forma indiretta, indicazioni di voto o di manifestare le proprie preferenze di voto.  
-I registi ed i conduttori sono altresi' tenuti ad un comportamento corretto ed imparziale nella gestione del programma, cosi' da non esercitare, anche in forma surrettizia, influenza sulle libere scelte degli elettori. E' comunque vietato utilizzare la composizione della programmazione per orientare le scelte di voto.
+E' vietato ai registi, ai conduttori ed agli ospiti dei programmi di fornire, nel contesto di questi, anche in forma indiretta, indicazioni di voto o di manifestare le proprie preferenze di voto. I registi ed i conduttori sono altresi' tenuti ad un comportamento corretto ed imparziale nella gestione del programma, cosi' da non esercitare, anche in forma surrettizia, influenza sulle libere scelte degli elettori. E' comunque vietato utilizzare la composizione della programmazione per orientare le scelte di voto.
 
-2. Per il periodo di cui al comma 1, le trasmissioni di intrattenimento su argomenti economici, sociali e politici, organizzate con la presenza di soggetti politici, ospiti ed eventuale pubblico, sono programmate e condotte nel rispetto dei principi di correttezza ed imparzialita' di cui al presente decreto. E' vietato che l'articolazione delle trasmissioni sia di per se stessa lesiva della parita' di trattamento dei soggetti politici. Le trasmissioni predette sono ammesse negli ultimi cinque giorni della campagna elettorale soltanto a condizione che ad esse siano invitati, a condizioni paritarie, i rappresentanti della totalita' dei soggetti politici interessati.
+2. Per il periodo di cui al comma 1, le trasmissioni di intrattenimento su argomenti economici, sociali e politici, organizzate con la presenza di soggetti politici, ospiti ed eventuale pubblico, sono programmate e condotte nel rispetto dei principi di correttezza ed imparzialita' di cui al presente decreto. E' vietato che l'articolazione delle trasmissioni sia di per se' stessa lesiva della parita' di trattamento dei soggetti politici. Le trasmissioni predette sono ammesse negli ultimi cinque giorni della campagna elettorale soltanto a condizione che ad esse siano invitati, a condizioni paritarie, i rappresentanti della totalita' dei soggetti politici interessati.
 
-3. Nelle trasmissioni di cui al comma 2, la selezione degli eventuali ospiti avviene nel rispetto del principio pluralistico ed e' finalizzata a conseguire una presenza equilibrata delle diverse posizioni dibattute. La selezione del pubblico, ove previsto, e' fatta, con i medesimi criteri, almeno ventiquattro ore prima della trasmissione.  
-Durante la trasmissione il conduttore cura che il pubblico mantenga un contegno congruente con i principi del presente decreto e che eventuali interventi telefonici in diretta e non concordati con la concessionaria pubblica o con l'emittente privata non influenzino le libere scelte degli elettori.
+3. Nelle trasmissioni di cui al comma 2, la selezione degli eventuali ospiti avviene nel rispetto del principio pluralistico ed e' finalizzata a conseguire una presenza equilibrata delle diverse posizioni dibattute. La selezione del pubblico, ove previsto, e' fatta, con i medesimi criteri, almeno ventiquattro ore prima della trasmissione. Durante la trasmissione il conduttore cura che il pubblico mantenga un contegno congruente con i principi del presente decreto e che eventuali interventi telefonici in diretta e non concordati con la concessionaria pubblica o con l'emittente privata non influenzino le libere scelte degli elettori.
 
 4. Per il periodo di cui al comma 1, nei programmi radiotelevisivi di informazione, anche non elettorale, riconducibili alla responsabilita' di una specifica testata giornalistica registrata nei modi previsti dall'[articolo 10, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art10-com1), la presenza di soggetti politici o loro esponenti e' ammessa esclusivamente nei limiti della esigenza di assicurare la completezza e l'imparzialita' dell'informazione, nel rispetto, in quanto compatibile, della parita' di trattamento. Nei programmi radiotelevisivi diversi da quelli di propaganda, pubblicita' ed informazione elettorali e da quelli di cui al comma 2, la presenza di soggetti politici o loro esponenti e' vietata. Non si considera presenza in trasmissione la ripresa di soggetti politici o loro esponenti nel corso di una telecronaca o di un programma di intrattenimento ove tale ripresa sia occasionale, non ripetuta e tecnicamente non evitabile senza pregiudizio dell'integrita' della trasmissione e comunque rimangano esclusi interventi personali o citazioni dei soggetti medesimi.
 
@@ -164,7 +153,7 @@ Art. 10
 Definizione della parita' di trattamento fra i soggetti politici
 
 1. La parita' di trattamento fra i soggetti politici, di cui al  
-presente decreto, ai fini della propaganda, della pubblicita' e dell'informazione elettorali, e' determinata dalla Commissione parlamentare e dal Garante, previa consultazione tra loro e ciascuno nell'ambito della propria competenza. Per le elezioni alla Camera dei deputati e al Senato della Repubblica si terra' conto dei seguenti criteri:
+presente decreto, ai fini della propaganda, della pubblicita' e dell'informazione elettorali, e' determinata dalla commissione parlamentare e dal Garante, previa consultazione tra loro e ciascuno nell'ambito della propria competenza. Per le elezioni alla Camera dei deputati e al Senato della Repubblica si terra' conto dei seguenti criteri:
 
 a) per quanto concerne la quota di seggi attribuiti nei collegi uninominali: alla ripartizione di spazi e tempi partecipano tutti i raggruppamenti di candidati, con uno o piu' contrassegni identici in almeno quattordici circoscrizioni elettorali, che concorrano in almeno la meta' dei collegi istituiti nell'ambito di ciascuna circoscrizione; la ripartizione di spazi e tempi fra i raggruppamenti partecipanti e' effettuata tenuto anche conto della rispettiva quota di rappresentanza in Parlamento; all'interno di ciascun raggruppamento la ripartizione ulteriore e' determinata con una o piu' convenzioni tra i soggetti interessati; in mancanza di convenzione, la ripartizione e' effettuata in proporzione della rispettiva quota di rappresentanza in Parlamento; spazi e tempi minori sono garantiti ai soggetti politici che non hanno rappresentanza in Parlamento;
 
@@ -177,7 +166,7 @@ Misure di controllo
 
 1. Dalla data di convocazione dei comizi elettorali e fino alla chiusura delle operazioni di voto, la concessionaria pubblica e le emittenti private devono registrare su supporto magnetico la totalita' dei programmi trasmessi.
 
-2. Il Garante stabilisce le modalita' con cui i Circostel, nell'ambito della propria competenza, registrano i programmi delle emittenti private. Essi segnalano al Garante o ai Corerat competenti o delegati le presunte violazioni di disposizioni dettate dal presente decreto, dalla Commissione parlamentare e dal Garante.
+2. Il Garante stabilisce le modalita' con cui i Circostel, nell'ambito della propria competenza, registrano i programmi delle emittenti private. Essi segnalano al Garante o ai Corerat competenti o delegati le presunte violazioni di disposizioni dettate dal presente decreto, dalla commissione parlamentare e dal Garante.
 
 3. Ai fini della vigilanza e del controllo della emittenza nazionale, per il periodo di applicazione del presente decreto, il Garante si avvale anche del Centro nazionale di controllo delle emissioni radioelettriche del Ministero delle poste e delle telecomunicazioni.
 
@@ -257,9 +246,9 @@ Compiti della Guardia di finanza
 
 2. La Guardia di finanza esegue tutte le comunicazioni e notificazioni d'ufficio o su richiesta del Garante previste dal presente decreto.
 
-3. E' istituito presso il Ministero delle poste e delle telecomunicazioni, a disposizione di questo e del Garante, il Nucleo speciale della Guardia di finanza per la radiodiffusione e l'editoria, alle dipendenze di un ufficiale con grado non inferiore a colonnello, nei limiti degli stanziamenti iscritti nello stato di previsione del Ministero delle finanze - rubrica Guardia di finanza - per l'anno 1995 ed esercizi finanziari successivi e dei contingenti previsti dagli organici.
+3. E' istituito presso il Ministero delle poste e delle telecomunicazioni, a disposizione di questo e del Garante, il Nucleo speciale della Guardia di finanza per la radiodiffusione e l'editoria, alle dipendenze di un ufficiale con grado non inferiore a colonnello, nei limiti degli stanziamenti iscritti nello stato di previsione del Ministero delle finanze - rubrica Guardia di finanza - per l'anno 1995 e dei contingenti previsti dagli organici.
 
-4. Di concerto con il Ministro delle poste e delle telecomunicazioni, il Ministro delle finanze definisce il contingente di personale da assegnare al Nucleo.
+4. Di concerto con il Ministro delle poste e delle telecomunicazioni, il Ministro delle finanze definisce il contingente di personale da assegnare al nucleo.
 
 Art. 16
 -------
@@ -329,7 +318,7 @@ Art. 21
 
 Copertura finanziaria
 
-1. All'onere derivante dall'attuazione del presente decreto, valutato in annue lire 2.500 milioni a partire dal 1995, si provvede a carico dei capitoli 1013, 1025 e 1803, rispettivamente per lire 600 milioni, per lire 200 milioni e per lire 1.700 milioni, dello stato di previsione del Ministero delle poste e delle telecomunicazioni per l'anno finanziario 1995 e corrispondenti capitoli per gli esercizi successivi.
+1. All'onere derivante dall'attuazione del presente decreto, valutato in annue lire 2.500 milioni a partire dal 1995, si provvede a carico dei capitoli 1013, 1025 e 1803, rispettivamente per lire 600 milioni, per lire 200 milioni e per lire 1700 milioni, dello stato di previsione del Ministero delle poste e delle telecomunicazioni per l'anno finanziario 1995 e corrispondenti capitoli per gli esercizi successivi.
 
 Art. 22
 -------
@@ -338,43 +327,30 @@ Norme finali e definizioni
 
 1. Sono abrogati gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515~art1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515~art2), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515~art5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515~art6), [15, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515~art15-com1) e [4, della legge 10 dicembre 1993, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-10;515~art15-com4), l'[articolo 29, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-25;81~art29-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-25;81~art29-com2), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-25;81~art29-com6) e [7, della legge 25 marzo 1993, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-25;81~art29-com7), nonche' tutte le disposizioni incompatibili con il presente decreto.
 
-2. Ai fini del presente decreto:
-
-a) per "Commissione parlamentare" si intende la Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi;
-
-b) per "Garante" si intende il Garante per la radiodiffusione e l'editoria;
-
-c) per "Circostel" si intendono gli uffici periferici del Ministero delle poste e delle telecomunicazioni;
-
-d) per "Corerat" si intendono i Comitati regionali per i servizi radiotelevisivi;
-
-e) per "soggetti politici" si intendono candidati, gruppi di candidati, partiti, comitati promotori di referendum, altri comitati e movimenti organizzati a fini politici;
-
-f) per "editori" si intendono gli editori di quotidiani e periodici;
-
-g) per "stampa" si intendono i quotidiani e i periodici;
-
-h) per "concessionaria pubblica" si intende la concessionaria del servizio radiotelevisivo pubblico;
-
-i) per "emittenti private" si intendono i titolari di concessione e di autorizzazione radiotelevisiva nell'ambito nazionale e locale, nonche' tutti coloro che esercitano in qualunque ambito attivita' di radiodiffusione sonora e televisiva;
-
-l) per "propaganda elettorale" si intende l'esposizione, sulla stampa e nelle trasmissioni radiotelevisive, delle caratteristiche oggettive e soggettive, delle linee e dei programmi generali e specifici dei soggetti politici;
-
-m) per "informazione elettorale" si intende ogni programma e servizio di informazione, o parti di essi, attinenti alla campagna elettorale ed ai relativi soggetti attivi, ivi compresi i telegiornali ed i giornali radio;
-
-n) per "pubblicita' elettorale" si intende l'insieme dei messaggi brevi diffusi attraverso inserzioni sulla stampa e spot radiotelevisivi, che abbiano il contenuto di cui all'articolo 3 e finalita' promozionali.
+2. Ai fini del presente decreto:  
+per "Commissione parlamentare" si intende la Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi;  
+per "Garante" si intende il Garante per la radiodiffusione e l'editoria;  
+per "Circostel" si intendono gli uffici periferici del Ministero delle poste e delle telecomunicazioni;  
+per "Corerat" si intendono i Comitati regionali per i servizi radiotelevisivi;  
+per "soggetti politici" si intendono candidati, gruppi di candidati, partiti, comitati promotori di referendum, altri comitati e movimenti organizzati a fini politici;  
+per "editori" si intendono gli editori di quotidiani e periodici; per "stampa" si intendono i quotidiani e i periodici;  
+per "concessionaria pubblica" si intende la concessionaria del servizio radiotelevisivo pubblico;  
+per "emittenti private" si intendono i titolari di concessione e di autorizzazione radiotelevisiva nell'ambito nazionale e locale, nonche' tutti coloro che esercitano in qualunque ambito attivita' di radiodiffusione sonora e televisiva;  
+per "propaganda elettorale" si intende l'esposizione, sulla stampa e nelle trasmissioni radiotelevisive, delle caratteristiche oggettive e soggettive, delle linee e dei programmi generali e specifici dei soggetti politici;  
+per "informazione elettorale" si intende ogni programma e servizio di informazione, o parti di essi, attinenti alla campagna elettorale ed ai relativi soggetti attivi, ivi compresi i telegiornali ed i giornali radio;  
+per "pubblicita' elettorale" si intende l'insieme dei messaggi brevi diffusi attraverso inserzioni sulla stampa e spot radiotelevisivi, che abbiano il contenuto di cui all'articolo 3 e finalita' promozionali.
 
 Art. 23
 -------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1996
+### Dato a Roma, addi' 19 marzo 1996
 
 SCALFARO
 

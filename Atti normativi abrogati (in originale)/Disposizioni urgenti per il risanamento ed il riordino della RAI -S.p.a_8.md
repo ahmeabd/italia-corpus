@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 aprile 1996 n. 212
+DECRETO-LEGGE 26 febbraio 1996 n. 76
 
 
-DECRETO-LEGGE 26 aprile 1996 n. 212
-===================================
+DECRETO-LEGGE 26 febbraio 1996 n. 76
+====================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di attuare il piano di risanamento e di riordino della RAI - Radiotelevisione italiana S.p.a.;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -66,7 +66,7 @@ Art. 5
 Art. 6
 ------
 
-1. Alla concessione del servizio pubblico radiotelevisivo alla RAI Radiotelevisione italiana S.p.a. di cui all'[articolo 2, comma 2, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art2-com2), e successive modificazioni ed integrazioni, si applica l'[articolo 14, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333~art14-com3) e [4, del decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333~art14-com4), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
+1. Alla concessione del servizio pubblico radiotelevisivo alla RAI - Radiotelevisione italiana S.p.a. di cui all'[articolo 2, comma 2, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art2-com2), e successive modificazioni ed integrazioni, si applica l'[articolo 14, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333~art14-com3) e [4, del decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333~art14-com4), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359).
 
 Art. 7
 ------
@@ -132,20 +132,20 @@ Art. 12
 DEL MINISTERO DELLE POSTE  
 E DELLE TELECOMUNICAZIONI  
 Qualifica o categoria Unita'  
--- --  
-Dirigente generale . . . . . . . . . . 8 (\*)  
-Dirigente . . . . . . . . . . 52 (\*\*)  
-9a categoria . . . . . . . . . . 165  
-8a categoria . . . . . . . . . . 186  
-7a categoria . . . . . . . . . . 285  
-6a categoria . . . . . . . . . . 750  
-5a categoria . . . . . . . . . . 223  
-4a categoria . . . . . . . . . . 276  
-3a categoria . . . . . . . . . . 105  
-2a categoria . . . . . . . . . . --  
-------  
-Totale. . . 2.050  
-----------  
+  
+Dirigente generale . . 8 (\*)  
+Dirigente . . . . . . 52 (\*\*)  
+9a categoria . . . . . 165  
+8a categoria . . . . . 186  
+7a categoria . . . . . 285  
+6a categoria . . . . . 750  
+5a categoria . . . . . 223  
+4a categoria . . . . . 276  
+3a categoria . . . . . 105  
+2a categoria . . . . . -  
+  
+Totale . . . 2.050  
+  
 (\*) Di cui uno di livello B con funzioni di segretario generale.  
 (\*\*) Di cui ventisei dirigenti amministrativi e ventisei dirigenti tecnici.".
 
@@ -167,12 +167,12 @@ Art. 13
 Art. 14
 -------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso dalla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1996
+### Dato a Roma, addi' 26 febbraio 1996
 
 SCALFARO
 
@@ -184,10 +184,10 @@ ARCELLI, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: CAIANIELLO
 
-Tabelle
+Tabella A
 
  TABELLA A   
-(prevista dall'art. 1 comma 3)   
+(prevista dall'art. 1, comma 3)   
 1) CANONE DI ABBONAMENTO ALLA TELEVISIONE PER USO PRIVATO   
 Tassa di concessione   
 Canone Sovrapprezzo governativa IVA Totale   
@@ -196,98 +196,100 @@ Canone Sovrapprezzo governativa IVA Totale
 2.1) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI   
 (RADIOFONIA E TELEVISIONE)   
 PER LA DETENZIONE DELL'APPARECCHIO FUORI DELL'AMBITO FAMILIARE   
-(Escluse tassa di concessione governativa o comunale e I.V.A.)   
-Canone supplementare (dovuto per ogni stanza o   
-Canone base locale escluso il primo)   
+(Escluse tassa di concessione governativa o comunale e IVA)   
+Canone supplementare   
+(dovuto per ogni stanza o locale Canone base escluso il primo)   
 Categorie Radio Televisione Radio Televisione   
 - - - - -   
-a) Alberghi con 5   
-stelle lusso, con 5,   
-4, 3 e 2 stelle; pen-   
-sioni con 3 e 2 stel-   
-le; residenze turis-   
-tico-alberghiere con   
-4, 3 e 2 stelle; vil-   
-laggi turistici e cam-   
-peggi con 4 e 3 stel-   
-le; esercizi pubblici   
-di lusso, di 1a, 2a e   
-3a categoria; navi di   
-lusso . . . . . . . . 34.100 432.000 7.600 73.600   
-b) Alberghi, pen-   
-sioni e locande con   
-1 stella; villaggi   
-turistici con 2 stel-   
-le; campeggi con 2 e   
-1 stelle; affitta ca-   
-mere, esercizi pubbli-   
-ci di 4a categoria;   
-altre navi; aerei in   
-servizio pubblico . 26.500 333.000 7.600 73.600   
-c) Ospedali, cli-   
-niche e case di cura;   
-circoli, associazioni,   
-sedi di partiti poli-   
-tici; istituti reli-   
-giosi; uffici; studi   
-professionali; bot-   
-teghe, negozi ed as-   
-similati; mense azien-   
-dali; scuole ed isti-   
-tuti scolastici non   
-esenti dal canone in   
-virtu' della [legge 2   
-dicembre 1951, n.   
-1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come modifica-   
-ta dalla [legge 28   
-dicembre 1989, n. 421 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;22).800 215.500 3.800 36.850   
+a) Alberghi con 5 stelle   
+lusso, con 5, 4, 3 e 2 stelle;   
+pensioni con 3 e 2 stelle;   
+residenze turistico-alberghiere   
+con 4, 3 e 2 stelle; villaggi   
+turistici e campeggi con 4 e 3   
+stelle; esercizi pubblici di   
+lusso, di 1a, 2a e 3a   
+categoria; navi di lusso 34.100 432.000 7.600 73.600   
+b) Alberghi, pensioni e   
+locande con 1 stella; villaggi   
+turistici con 2 stelle; campeggi   
+con 2 e 1 stelle; affittacamere,   
+esercizi pubblici di 4a   
+categoria; altre navi; aerei   
+in servizio pubblico 26.500 333.000 7.600 73.600   
+c) Ospedali, cliniche e case   
+di cura; circoli, associazioni,   
+sedi di partiti politici;   
+istituti religiosi; uffici;   
+studi professionali; botteghe,   
+negozi ed assimilati; mense   
+aziendali; scuole ed istituti   
+scolastici non esenti dal canone   
+in virtu' della [legge 2 dicembre   
+1951, n. 1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come modificata   
+dalla [legge 28 dicembre 1989,   
+n. 421 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;22).800 215.500 3.800 36.850   
 2.2) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI   
 (RADIOFONIA E TELEVISIONE)   
-PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI   
-CINEMA-TEATRI E IN LOCALI A QUESTI ASSIMILABILI   
-(Escluse tassa di concessione governativa o comunale e I.V.A.)   
+PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI CINEMA-TEATRI   
+E IN LOCALI A QUESTI ASSIMILABILI   
+(Escluse tassa di concessione governativa o comunale e IVA)   
 Canone supplementare   
-Canone base televisione Per uso Per spatta-   
-di schermo coli a paga-   
-gigante o mento   
-apparati esclusiva-   
-Fuori del- Nella sala assimilati mente di   
-la sala di proie- nella program-   
-di proie- zione sala di mi TV   
-zione e spetta- proiezione   
-o spetta- colo Magg. e spetta-   
-CATEGORIA colo per posto colo   
+Per uso di   
+Canone base televisione schermo   
+Fuori gigante, Per   
+della Nella Mag- o apparati spettacoli   
+sala di sala di giora- assimilati a pagamento   
+proiezione proiezione zione nella sala esclu-   
+e e per di proiezione sivamente di   
+Categorie spettacolo spettacolo posto e spettacolo programmi TV   
 - - - - - -   
-Cinema, ci- 432.000 432.000 960 6% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di categoria erariali e ti erariali   
-extra diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 432.000 432.000 720 5% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 1a cate- erariali e ti erariali   
-goria diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 432.000 432.000 480 4% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 2a cate- erariali e ti erariali   
-goria diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 432.000 432.000 240 3% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 3a cate- erariali e ti erariali   
-goria diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 333.000 333.000 120 2% dell'incas- 10% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 4a e 5a erariali e ti erariali   
-categoria; diritti e diritti   
-teatri-ten- d'autore d'autore   
-da; stadi e   
-piazze (solo   
-canone base   
-per visione   
-gratuita)   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+categoria extra 432.000 432.000 960 6% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+1a categoria 432.000 432.000 720 5% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+2a categoria 432.000 432.000 480 4% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+3a categoria 432.000 432.000 240 3% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+4a e 5a   
+categoria;   
+teatri-tenda;   
+stadi e piazze   
+(solo canone   
+base per visione   
+gratuita) 333.000 333.000 120 2% dell'in- 10% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
 3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A   
 BORDO DI AUTOMEZZI O AUTOSCAFI   
 3.1) Con potenza non superiore a 26 CV:   
@@ -301,8 +303,11 @@ Canone Sovrapprezzo governativa IVA Totale
 - - - - -   
 420 28.600 30.000 1.080 60.100   
 4) Per l'uso privato di televisori atti a ricevere le diffusioni televisive su autovetture ed autoscafi, gli importi sono quelli indicati al precedente punto 1) ad eccezione della tassa di concessione governativa prevista dal [decreto del Presidente del Consiglio dei Ministri 21 dicembre 1990, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-12-31&numeroGazzetta=303).   
-TABELLA B   
-(prevista dall'art. 1 comma 3)   
+
+Tabella B
+
+ TABELLA B   
+(prevista dall'art. 1, comma 3)   
 1) CANONE DI ABBONAMENTO ALLA TELEVISIONE PER USO PRIVATO   
 Tassa di concessione   
 Canone Sovrapprezzo governativa IVA Totale   
@@ -312,108 +317,106 @@ Canone Sovrapprezzo governativa IVA Totale
 (RADIOFONIA E TELEVISIONE)   
 PER LA DETENZIONE DELL'APPARECCHIO FUORI DELL'AMBITO FAMILIARE   
 (Escluse tassa di concessione governativa o comunale e I.V.A.)   
-Canone supplementare (dovuto per ogni stanza o   
-Canone base locale escluso il primo)   
+Canone supplementare   
+(dovuto per ogni stanza o locale Canone base escluso il primo)   
 Categorie Radio Televisione Radio Televisione   
 - - - - -   
-a) Alberghi con 5   
-stelle lusso, con 5,   
-4, 3 e 2 stelle; pen-   
-sioni con 3 e 2 stel-   
-le; residenze turis-   
-tico-alberghiere con   
-4, 3 e 2 stelle; vil-   
-laggi turistici e cam-   
-peggi con 4 e 3 stel-   
-le; esercizi pubblici   
-di lusso, di 1a, 2a e   
-3a categoria; navi di   
-lusso . . . . . . . . 34.900 441.950 7.750 75.300   
-b) Alberghi, pen-   
-sioni e locande con   
-1 stella; villaggi   
-turistici con 2 stel-   
-le; campeggi con 2 e   
-1 stelle; affitta ca-   
-mere, esercizi pubbli-   
-ci di 4a categoria;   
-altre navi; aerei in   
-servizio pubblico . 27.100 340.650 7.750 75.300   
-c) Ospedali, cli-   
-niche e case di cura;   
-circoli, associazioni,   
-sedi di partiti poli-   
-tici; istituti reli-   
-giosi; uffici; studi   
-professionali; bot-   
-teghe, negozi ed as-   
-similati; mense azien-   
-dali; scuole ed isti-   
-tuti scolastici non   
-esenti dal canone in   
-virtu' della [legge 2   
-dicembre 1951, n.   
-1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come modifica-   
-ta dalla [legge 28   
-dicembre 1989, n. 421 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;23).300 220.450 3.900 37.700   
+a) Alberghi con 5 stelle   
+lusso, con 5, 4, 3 e 2 stelle;   
+pensioni con 3 e 2 stelle;   
+residenze turistico-alberghiere   
+con 4, 3 e 2 stelle; villaggi   
+turistici e campeggi con 4 e 3   
+stelle; esercizi pubblici di   
+lusso, di 1a, 2a e 3a categoria;   
+navi di lusso 34.900 441.950 7.750 75.300   
+b) Alberghi, pensioni e   
+locande con 1 stella; villaggi   
+turistici con 2 stelle; campeggi   
+con 2 e 1 stelle; affittacamere,   
+esercizi pubblici di 4a   
+categoria; altre navi; aerei in   
+servizio pubblico 27.100 340.650 7.750 75.300   
+c) Ospedali, cliniche e case   
+di cura; circoli, associazioni,   
+sedi di partiti politici;   
+istituti religiosi; uffici;   
+studi professionali; botteghe,   
+negozi ed assimilati; mense   
+aziendali; scuole ed istituti   
+scolastici non esenti dal canone   
+in virtu' della [legge 2 dicembre   
+1951, n. 1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come modificata   
+dalla [legge 28 dicembre 1989,   
+n. 421 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;23).300 220.450 3.900 37.700   
 2.2) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI   
 (RADIOFONIA E TELEVISIONE)   
-PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI   
-CINEMA-TEATRI E IN LOCALI A QUESTI ASSIMILABILI   
-(Escluse tassa di concessione governativa o comunale e I.V.A.)   
+PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI CINEMA-TEATRI   
+E IN LOCALI A QUESTI ASSIMILABILI   
 Canone supplementare   
-Canone base televisione Per uso Per spatta-   
-di schermo coli a paga-   
-gigante o mento   
-apparati esclusiva-   
-Fuori del- Nella sala assimilati mente di   
-la sala di proie- nella program-   
-di proie- zione sala di mi TV   
-zione e spetta- proiezione   
-o spetta- colo Magg. e spetta-   
-CATEGORIA colo per posto colo   
+Per uso di   
+Canone base televisione schermo   
+Fuori gigante, Per   
+della Nella Mag- o apparati spettacoli   
+sala di sala di giora- assimilati a pagamento   
+proiezione proiezione zione nella sala esclu-   
+e e per di proiezione sivamente di   
+Categorie spettacolo spettacolo posto e spettacolo programmi TV   
 - - - - - -   
-Cinema, ci- 441.950 441.950 1.000 6% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di categoria erariali e ti erariali   
-extra diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 441.950 441.950 750 5% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 1a cate- erariali e ti erariali   
-goria diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 441.950 441.950 500 4% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 2a cate- erariali e ti erariali   
-goria diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 441.950 441.950 250 3% dell'incas- 20% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 3a cate- erariali e ti erariali   
-goria diritti e diritti   
-d'autore d'autore   
-Cinema, ci- 340.650 340.650 125 2% dell'incas- 10% dell'in-   
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
-di 4a e 5a erariali e ti erariali   
-categoria; diritti e diritti   
-teatri-ten- d'autore d'autore   
-da; stadi e   
-piazze (solo   
-canone base   
-per visione   
-gratuita)   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+categoria extra 441.950 441.950 1.000 6% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+1a categoria 441.950 441.950 750 5% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+2a categoria 441.950 441.950 500 4% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+3a categoria 441.950 441.950 250 3% dell'in- 20% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
+Cinema,   
+cinema-teatri,   
+discoteche, di   
+4a e 5a   
+categoria;   
+teatri-tenda;   
+stadi e piazze   
+(solo canone   
+base per visione   
+gratuita) 340.650 340.650 125 2% dell'in- 10% dell'in- casso al net- casso al   
+to dei dirit- netto dei   
+ti erariali e diritti era-   
+diritti d'au- riali e di- tore ritti d'au-   
+tore   
 3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A   
 BORDO DI AUTOMEZZI O AUTOSCAFI   
-3.1) Autovetture e autoscafi soggetti a tassa automobilistica con   
-potenza non superiore a 26 CV e altri autoveicoli:   
+3.1) Autovetture e autoscafi soggetti a tassa automobilistica con potenza non superiore a 26 CV e altri autoveicoli:   
 Tassa di concessione   
 Canone Sovrapprezzo governativa IVA Totale   
 - - - - -   
 420 29.275 2.700 1.105 33.500   
-3.2) Autovetture e autoscafi soggetti a tassa automobilistica con   
-potenza superiore a 26 CV e unita' da diporto (navi, imbarca-   
-zioni, natanti):   
+3.2) Autovetture e autoscafi soggetti a tassa automobilistica con potenza superiore a 26 CV e unita' da diporto (navi, imbarcazioni, natanti):   
 Tassa di concessione   
 Canone Sovrapprezzo governativa IVA Totale   
 - - - - -   

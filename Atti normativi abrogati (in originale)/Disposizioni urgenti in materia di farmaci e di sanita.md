@@ -1,13 +1,13 @@
-DECRETO-LEGGE 13 settembre 1996 n. 478
+DECRETO-LEGGE 16 luglio 1996 n. 377
 
 
-DECRETO-LEGGE 13 settembre 1996 n. 478
-======================================
+DECRETO-LEGGE 16 luglio 1996 n. 377
+===================================
 
 Disposizioni urgenti in materia di farmaci e di sanita'.
 --------------------------------------------------------
 
-Entrata in vigore del decreto: 16-9-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18-7-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di farmaci e di sanita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 settembre 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con i Ministri del tesoro e del bilancio e della programmazione economica, della difesa, della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con i Ministri del tesoro e del bilancio e della programmazione economica, della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -79,15 +79,40 @@ Modificazioni al decreto legislativo
 
 1. Al [decreto legislativo 30 giugno 1993, n. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269), sono apportate le seguenti modificazioni:
 
-a) all'articolo 2, comma 2, ed all'articolo 7, commi 1 e 7, dopo le parole: "province autonome" sono inserite le seguenti: "e la regione interessata";
+a) all'articolo 1, comma 3, dopo le parole: "degli istituti" sono inserite le seguenti: "in cui sono attivati dipartimenti di ricerca e di assistenza clinica necessari allo studio completo delle patologie di maggior rilievo nazionale o almeno sovraregionale";
 
-b) all'articolo 4, comma 1, le parole: "dalle disposizioni contenute" sono sostituite dalle seguenti: "in conformita' ai principi generali contenuti";
+b) all'articolo 2, comma 2, ed all'articolo 7, commi 1 e 7, dopo le parole: "province autonome" sono inserite le seguenti: "e la regione interessata";
 
-c) all'articolo 7, il comma 4 e' sostituito dal seguente;  
+c) all'articolo 4, comma 1, le parole: "dalle disposizioni" sono sostituite dalle seguenti: "in analogia con le disposizioni";
+
+d) il comma 2 dell'articolo 4 e' sostituito dal seguente:  
+" 2. Ai concorsi negli istituti si applica il regolamento previsto dall'[articolo 18, comma 1, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art18-com1), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), nel quale devono essere previste specifiche norme relative ai titoli specifici per la partecipazione ai concorsi medesimi ed ai criteri per la loro valutazione, al numero ed alla tipologia delle prove d'esame, alla nomina ed alla composizione delle commissioni esaminatrici";
+
+e) il comma 3 dell'articolo 4 e' abrogato;
+
+f) i commi 1 e 2 dell'articolo 5 sono sostituiti dal seguente:  
+" 1. Con decreto del Ministro della sanita', d'intesa con il Ministro del tesoro, da emanarsi ai sensi dell'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), entro il 30 settembre 1996, e' disciplinata la gestione economica, finanziaria e patrimoniale degli istituti";
+
+g) all'articolo 6 nella rubrica le parole: "di base" sono sostituite dalla seguente: "corrente";
+
+h) all'articolo 6, comma 1, dopo le parole: "degli istituti" sono inserite le seguenti: ", sia corrente che finalizzata,";
+
+i) all'articolo 6, comma 2, dopo le parole: "ricerca finalizzata" sono inserite le seguenti: ", sia clinica che di base,";
+
+l) all'articolo 6, comma 3, dopo le parole: "da altri organismi" sono aggiunte le seguenti: "sia pubblici che privati";
+
+m) all'articolo 6, dopo il comma 5, e' aggiunto il seguente:  
+"5-bis. Fino all'entrata in vigore del regolamento di cui all'articolo 2, comma 3, l'attivita' di ricerca degli istituti, in coerenza con le finalita' peculiari di ciascun istituto di cui all'articolo 1, commi 3 e 4, e' svolta secondo le indicazioni della Commissione per la ricerca scientifica biomedica in ordine:  
+a) al riparto del finanziamento di cui al comma 3 da destinare  
+alla ricerca corrente e alla ricerca finalizzata di ciascun istituto;  
+b) ai criteri per la determinazione del finanziamento della  
+ricerca corrente per quanto attiene ai costi del personale, a quelli per la strumentazione scientifica e dei relativi ammortamenti, a beni e servizi relativi alla produttivita' documentata anche per gli aspetti clinici ed alla pubblicazione, con apposito bollettino unitario, dei risultati della ricerca applicabili nel Servizio sanitario nazionale;  
+c) ai criteri di valutazione dei progetti di ricerca finalizzata anche a carattere pluriennale con oneri complessivi sulla disponibilita' del relativo esercizio finanziario.";
+
+n) all'articolo 7, il comma 4 e' sostituito dal seguente:  
 " 4. Restano ferme le funzioni del consiglio di amministrazione dell'istituto 'Gaslini' di Genova, la cui composizione, determinata ai sensi del vigente statuto, e' integrata da un rappresentante del Ministero della sanita' in sostituzione di quello della unita' sanitaria locale competente per territorio.".
 
-2. Al fine di completare il processo di aziendalizzazione degli istituti di ricovero e cura a carattere scientifico, con personalita' giuridica di diritto pubblico, e sino all'insediamento degli organi di amministrazione degli istituti stessi, i commissari straordinari preposti ai predetti istituti esercitano le relative attribuzioni con i poteri del direttore generale dell'azienda ospedaliera di cui all'[articolo 3, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com6), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517).  
-Ove essi cessino dall'incarico per dimissioni, revoca, morte o qualsiasi altro motivo, il Ministro della sanita' provvede alla nomina di nuovi commissari.
+2. Al fine di avviare il processo di aziendalizzazione degli istituti di ricovero e cura a carattere scientifico, con personalita' giuridica di diritto pubblico, i commissari straordinari preposti ai predetti istituti ai sensi dell'[articolo 1 del decreto-legge 26 aprile 1996, n. 224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-04-26;224~art1), esercitano, fino all'insediamento degli organi ordinari di amministrazione degli istituti stessi, le relative attribuzioni con i poteri del direttore generale dell'azienda ospedaliera di cui all'[articolo 3, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com6), modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517).
 
 CAPO III Capo III DISPOSIZIONI SUGLI ISTITUTI ZOOPROFILATTICI SPERIMENTALI E ALTRE DISPOSIZIONI IN MATERIA VETERINARIA
 ----------------------------------------------------------------------------------------------------------------------
@@ -124,7 +149,7 @@ d) dopo il comma 4 dell'articolo 17 e' inserito il seguente:
 Integrazione del decreto legislativo  
 30 gennaio 1993, n. 28
 
-1. Dopo l'[articolo 13 del decreto legislativo 30 gennaio 1993, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-01-30;28~art13), a inserito il seguente:  
+1. Dopo l'[articolo 13 del decreto legislativo 30 gennaio 1993, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-01-30;28~art13), e' inserito il seguente:  
 "Art. 13-bis . - 1. Chiunque effettua gli scambi di animali e prodotti di origine animale senza la preventiva registrazione di cui agli articoli 5 e 11 e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire tre milioni a lire quaranta milioni.  
 2. Chi essendovi obbligato in applicazione degli articoli 5 e 11 non provveda alla stipula della prevista convenzione e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire cinque milioni a lire cinquanta milioni.  
 3. L'operatore registrato o convenzionato che non ottempera gli obblighi contratti con la registrazione o con la convenzione e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da lire un milione a lire tre milioni per ogni singolo obbligo violato.".
@@ -135,30 +160,35 @@ Sostituzione dell'allegato A
 del decreto legislativo 30 gennaio 1993, n. 27
 
 1. L'allegato A del [decreto legislativo 30 gennaio 1993, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-01-30;27), e' sostituito dal seguente:  
-"ALLEGATO A UFFICI  
-VETERINARI DEL MINISTERO DELLA SANITA' PER GLI ADEMPIMENTI DEGLI OBBLIGHI COMUNITARI.  
-Uffici Competenza territoriale  
+  
+"ALLEGATO A   
+UFFICI VETERINARI DEL MINISTERO DELLA SANITA' PER GLI ADEMPIMENTI DEGLI OBBLIGHI COMUNITARI.  
+Uffici Competenza territori  
 -- --  
-1. Pollein uff. vet. dog. interna Regione Valle d'Aosta  
+1. Pollein uff. vet. dog. interna Regione Valle d'Aos  
+sta  
 2. Torino uff. vet. dog. interna Regione Piemonte  
 3. Milano uff. vet. dog. interna Regione Lombardia  
 4. Genova uff. vet. di porto Regione Liguria  
 5. Verona uff. vet. dog. interna Regione Veneto  
-6. Campo Trens uff. vet. dog. Regione Trentino-Alto Adige  
-interna  
-7. Gorizia uff. vet. dog. interna Regione Friuli-Venezia Giulia 8. Bologna uff. vet. dog. interna Regione Emilia-Romagna  
+6. Campo Trens uff. vet. dog. interna Regione Trentino-Alto  
+Adige  
+7. Gorizia uff. vet. dog. interna Regione Friuli-Venezia Giulia  
+8. Bologna uff. vet. dog. interna Regione Emilia-Ro  
+magna  
 9. Livorno uff. vet. di porto Regione Toscana  
-10. Ancona uff. vet. di porto Regione Marche e Umbria  
+10. Ancona uff. vet. di porto Regione Marche e  
+Umbria  
 11. Fiumicino uff. vet. di aeroporto Regione Lazio  
-12. Pescara uff. vet. di porto Regione Abruzzo e Molise  
-13. Napoli uff. vet. di porto Regione Campania e Basilicata 14.  
-Bari uff. vet. di porto Regione Puglia  
-15. Reggio Calabria uff. vet. di Regione Calabria  
-porto  
-16. Catania uff. vet. di porto e Regione Sicilia  
-aeroporto  
-17. Sassari uff. vet. di porto e Regione Sardegna.".  
-aeroporto
+12. Pescara uff. vet. di porto Regione Abruzzo e  
+Molise  
+13. Napoli uff. vet. di porto Regione Campania e  
+Basilicata  
+14. Bari uff. vet. di porto Regione Puglia  
+15. Reggio Calabria uff. vet. di porto Regione Calabria  
+  
+16. Catania uff. vet. di porto e aeroporto Regione Sicilia  
+17. Sassari uff. vet. di porto e aeroporto Regione Sardegna.".
 
 ### Art. 9
 
@@ -188,34 +218,28 @@ Guardia medica, servizi di emergenza e territoriali
 
 ### Art. 11
 
-Medici militari
-
-1. Ai medici militari e della polizia di Stato si applica l'[articolo 6, comma 1, del decreto-legge 14 giugno 1993, n. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-06-14;187~art6-com1), convertito, con modificazioni, dalla [legge 12 agosto 1993, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-12;296).  
-Sono fatte salve le attivita' comunque compiute in regime di convenzione con Servizio sanitario nazionale.
-
-### Art. 12
-
 Giudizi di idoneita' al primo livello dirigenziale  
 in soprannumero
 
 1. L'accesso ai giudizi di idoneita' previsti dal [comma 8 dell'articolo 8 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com8), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), e' consentito anche agli psicologi, ai biologi ed ai chimici di cui ai [decreti del Presidente della Repubblica 13 marzo 1992, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-03-13;261), [13 marzo 1992, n. 262](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-03-13;262), e [18 giugno 1988, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-06-18;255).
 
-### Art. 13
+### Art. 12
 
 Finanziamento della formazione specialistica dei medici  
 del Servizio sanitario nazionale
 
 1. Per le finalita' previste dal [decreto legislativo 8 agosto 1991, n. 257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-08-08;257), gli stanziamenti di cui all'[articolo 6, comma 2, della legge 29 dicembre 1990, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428~art6-com2), come modificati dall'[articolo 4, comma 14, della legge 30 dicembre 1991, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412~art4-com14), sono integrati di lire 75 miliardi per l'anno 1995, 150 miliardi per l'anno 1996, 225 miliardi per l'anno 1997 e successivi. All'onere di cui al presente articolo si provvede con quote del Fondo sanitario nazionale allo scopo vincolate.
 
-### Art. 14
+### Art. 13
 
 Formazione specialistica
 
 1. Il Ministero dell'universita' e della ricerca scientifica e tecnologica, d'intesa con i Ministeri degli affari esteri, della sanita' e del tesoro, previa verifica oggettiva da parte del Ministero dell'universita' e della ricerca scientifica e tecnologica e del Ministero della sanita' delle capacita' recettive delle strutture universitarie e di quelle convenzionate con le universita', puo' autorizzare le scuole di specializzazione in medicina e chirurgia ad ammettere, in soprannumero, medici stranieri laureati in Italia che siano destinatari, per l'intera durata del corso, di borse di studio dei Governi dei rispettivi Paesi o di istituzioni italiane o straniere, riconosciute idonee. Per l'ammissione in soprannumero i medici devono aver superato le prove di ammissione previste dall'ordinamento della scuola. Limitatamente all'anno accademico 1994-1995, qualora le prove siano state gia' effettuate e sia stata ottenuta l'idoneita', l'ammissione e' disposta direttamente.
 
-### Art. 15
+### Art. 14
 
-Nomina direttori sanitari e amministrativi delle UU.SS.LL. e delle aziende ospedaliere e regime convenzionale per i medici specialisti ambulatoriali.
+Nomina direttori sanitari e amministrativi  
+delle UU.SS.LL. e delle aziende ospedaliere
 
 1. L'incarico di direttore sanitario dell'unita' sanitaria locale e di direttore sanitario dell'azienda ospedaliera potra' essere conferito ad un direttore sanitario ospedaliero di ruolo, ad un dirigente apicale dell'area di igiene e sanita' pubblica di ruolo, in servizio alla data del 31 dicembre 1994.
 
@@ -225,12 +249,11 @@ Nomina direttori sanitari e amministrativi delle UU.SS.LL. e delle aziende osped
 
 4. Sono revocati i concorsi per la posizione funzionale apicale dei ruoli sanitario, professionale, tecnico e amministrativo, banditi ai sensi del [decreto del Ministro della sanita' 30 gennaio 1982, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 51 del 22 febbraio 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-02-22&numeroGazzetta=51), per i quali alla data di entrata in vigore del presente decreto non siano iniziate le prove di esame. I concorsi di cui siano state iniziate le prove devono essere espletati entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
 
-5. Il settimo periodo del [comma 7 dell'articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com7), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), e' sostituito dai seguenti: "Il direttore amministrativo e' un laureato in discipline giuridiche o economiche che non abbia compiuto il sessantacinquesimo anno di eta' e che abbia svolto per almeno cinque anni una qualificata attivita' di direzione tecnica o amministrativa in enti pubblici o privati o strutture sanitarie pubbliche o private di media o grande dimensione.  
-Comunque nella stessa struttura ospedaliera o unita' sanitaria locale non potranno coesistere un direttore generale ed un direttore amministrativo provenienti entrambi da strutture non a carattere sanitario; uno dei due deve provenire da enti o strutture a carattere sanitario.".
+5. Il settimo periodo del [comma 7 dell'articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com7), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), e' sostituito dal seguente: "Il direttore amministrativo e' un laureato in discipline giuridiche o economiche che non abbia compiuto il sessantacinquesimo anno di eta' e che abbia svolto per almeno cinque anni una qualificata attivita' di direzione tecnica o amministrativa in enti pubblici o privati o strutture sanitarie pubbliche o private di media o grande dimensione".
 
-6. All'[articolo 8, comma 1, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com1), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), dopo le parole: "medici di medicina generale" sono inserite le seguenti: ", gli specialisti ambulatoriali".
+6. Dopo il settimo periodo del [comma 7 dell'articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3-com7), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517), e' inserito il seguente: "Comunque nella stessa struttura ospedaliera o unita' sanitaria locale non potranno coesistere un direttore generale ed un direttore amministrativo provenienti entrambi da strutture non a carattere sanitario; uno dei due deve provenire da enti o strutture a carattere sanitario.".
 
-### Art. 16
+### Art. 15
 
 Finanziamenti per le procedure di copertura di posti vacanti  
 e per il potenziamento delle funzioni distrettuali
@@ -244,7 +267,7 @@ e per il potenziamento delle funzioni distrettuali
 CAPO V Capo V ALTRE DISPOSIZIONI IN MATERIA SANITARIA
 -----------------------------------------------------
 
-### Art. 17
+### Art. 16
 
 Asilo nido del Ministero della sanita'
 
@@ -252,16 +275,16 @@ Asilo nido del Ministero della sanita'
 
 2. All'onere derivante dal comma 1, valutato in lire 449 milioni per l'anno 1995, comprensivo di debiti pregressi ammontanti a lire 299 milioni, e in lire 160 milioni a decorrere dall'anno 1996, si provvede a carico dello stanziamento iscritto al capitolo 1121 dello stato di previsione del Ministero della sanita' per l'anno 1995 e corrispondenti capitoli per gli esercizi successivi.
 
-### Art. 18
+### Art. 17
 
 Disposizioni per le commissioni mediche periferiche  
 del Ministero del tesoro
 
 1. Il personale assunto a norma dell'[articolo 3-bis del decreto-legge 20 gennaio 1990, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-01-20;3~art3bis), convertito, con modificazioni, dalla [legge 21 marzo 1990, n. 52, e dell'articolo 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-21;52~art2) del decreto del Presidente del Consiglio dei Ministri 10 giugno 1991, tuttora in servizio ed in possesso dei relativi requisiti per la nomina, e' inquadrato, a domanda e previo giudizio di idoneita' da espletarsi con le modalita' fissate con decreto del Ministro del tesoro, nel ruolo speciale di cui all'[articolo 2 della legge 15 ottobre 1990, n. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-15;295~art2), e al decreto del Presidente del Consiglio dei Ministri 18 novembre 1994, in posizione non superiore a quella rivestita nel rapporto a tempo determinato. Detto personale e' assegnato alle segreterie delle commissioni mediche periferiche per le pensioni di guerra e di invalidita' civile con le modalita' previste dalle norme vigenti. La domanda e' presentata entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto; in mancanza il rapporto di lavoro cessa alla data di scadenza originariamente prevista. Fino al perfezionamento dell'inquadramento nel ruolo speciale sono prorogati i rapporti in corso.
 
-2. I posti che rimangono vacanti nel ruolo speciale, dopo la trasformazione dei rapporti di lavoro di cui al comma 1, sono coperti, ai sensi della vigente normativa, con la mobilita' del personale delle altre amministrazioni pubbliche in eccedenza.
+2. I posti che rimangono vacanti nel ruolo speciale dopo la trasformazione dei rapporti di lavoro di cui al comma 1, sono coperti, ai sensi della vigente normativa, con la mobilita' del personale delle altre amministrazioni pubbliche in eccedenza.
 
-### Art. 19
+### Art. 18
 
 Assistenza sanitaria agli stranieri extracomunitari
 
@@ -269,21 +292,13 @@ Assistenza sanitaria agli stranieri extracomunitari
 
 2. I soggetti di cui al comma 1, assicurati presso il Servizio sanitario nazionale, sono iscritti alla unita' sanitaria locale del comune ove abbiano effettiva dimora.
 
-### Art. 20
+### Art. 19
 
 Differimento di termini
 
-1. Il differimento di termini previsto dall'[articolo 1, comma 3, del decreto-legge 17 maggio 1996, n. 280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-17;280~art1-com3), convertito, con modificazioni, dalla [legge 18 luglio 1996, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-07-18;382), concernente l'approvazione dei progetti esecutivi delle opere finanziate con le risorse disponibili in attuazione di quanto previsto dalla [legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), si applica, altresi', agli interventi di cui all'[articolo 2 della legge 5 giugno 1990, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135~art2). Alla ridestinazione dei finanziamenti eventualmente disponibili si provvede con le modalita' stabilite dall'[articolo 3, comma 4, del decreto-legge 1 dicembre 1995, n. 509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-12-01;509~art3-com4), convertito, con modificazioni, dalla [legge 31 gennaio 1996, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;34).
+1. Il differimento di termini previsto dall'[articolo 1, comma 3, del decreto-legge 17 maggio 1996, n. 280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-17;280~art1-com3), concernente l'approvazione dei progetti esecutivi delle opere finanziate con le risorse disponibili in attuazione di quanto previsto dalla [legge 11 marzo 1988, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67), si applica, altresi', agli interventi di cui all'[articolo 2 della legge 5 giugno 1990, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135~art2).
 
-### Art. 21
-
-Coloranti per alimenti
-
-1. L'autorizzazione alla produzione, al commercio ed alla detenzione di coloranti per alimenti, di cui all'[articolo 57, comma 4, della legge 19 febbraio 1992, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142~art57-com4), e' rilasciata dalla regione o dall'autorita' da essa delegata.
-
-2. Restano validi gli atti istruttori gia' compiuti e le autorizzazioni rilasciate dalle regioni e dalle unita' sanitarie locali.
-
-### Art. 22
+### Art. 20
 
 Disposizioni sulla spesa farmaceutica
 
@@ -295,26 +310,25 @@ Disposizioni sulla spesa farmaceutica
 
 4. La somma prevista dal comma 3 e' ripartita fra le regioni in proporzione alla popolazione residente.
 
-### Art. 23
+### Art. 21
 
 Modificazioni al decreto legislativo  
 17 marzo 1995, n. 185
 
 1. L'[articolo 7 del decreto legislativo 17 marzo 1995, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;185~art7), e' sostituito dal seguente:  
-"Art. 7 (Disposizioni transitorie). - 1. Per i medicinali omeopatici prodotti in un Paese dell'Unione europea e presenti sul mercato italiano alla data del 6 giugno 1995,  
-l'autorizzazione ad essere mantenuti in commercio con la medesima presentazione scade il 6 giugno 2000, purche' il responsabile dell'immissione in commercio, entro il 31 dicembre 1996, documenti al Ministero della sanita' tale presenza.  
+"Art. 7 (Disposizioni transitorie). - 1. Per i medicinali omeopatici prodotti in un Paese dell'Unione europea e presenti sul mercato italiano alla data del 6 giugno 1995, l'autorizzazione ad essere mantenuti in commercio con la medesima presentazione scade il 6 giugno 2000, purche' il responsabile dell'immissione in commercio, entro il 31 dicembre 1996, documenti al Ministero della sanita' tale presenza.  
 2. Per i medicinali omeopatici di cui al comma 1, in sede di primo rinnovo dell'autorizzazione, si applica l'[articolo 9 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art9); ove sussistano i requisiti di cui all'articolo 3, comma 1, del presente decreto, si applica l'articolo 5, comma 2.  
 3. I quattro esperti in sperimentazioni tossicologiche, farmacologiche e cliniche ed i due esperti in produzione e controllo di qualita' dei medicinali omeopatici, di cui alla commissione prevista dall'articolo 6, sono individuati dal Ministro della sanita', il quale provvede anche alla nomina del presidente della commissione stessa.  
 4. Ai fini dello smaltimento delle scorte, i medicinali omeopatici immessi sul mercato successivamente al 31 dicembre 1992 sono mantenuti in commercio fino al 31 dicembre 1997, purche' siano in possesso dei requisiti di cui all'articolo 3, comma 1, lettere a) e b), ed abbiano un grado di diluizione tale da garantire l'innocuita'.".
 
-### Art. 24
+### Art. 22
 
 Adeguamento dei prezzi degli emoderivati salvavita  
 al prezzo medio europeo
 
 1. In deroga a quanto stabilito dall'[articolo 8, comma 12, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com12), l'adeguamento alla media comunitaria del prezzo degli emoderivati salvavita, identificati con decreto del Ministro della sanita', avviene nella misura del 50 per cento a partire dalla data di entrata in vigore del presente decreto e per il restante 50 per cento a partire dal 1 gennaio 1997.
 
-### Art. 25
+### Art. 23
 
 Funzionalita' dei SERT
 
@@ -330,34 +344,16 @@ Funzionalita' dei SERT
 
 6. Restano ferme le disposizioni limitative in materia di assunzioni contenute nella [legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724).
 
-### Art. 26
-
-Rinnovo delle domande di autorizzazione concernenti i medicinali ed i presidi medico-chirurgici, presentate anteriormente al 30 giugno 1995.
-
-1. Le aziende che hanno presentato, anteriormente al 30 giugno 1995, domande di autorizzazione all'immissione in commercio di medicinali e di presidi medico-chirurgici sulle quali, alla data di entrata in vigore del presente decreto, il Ministero della sanita' non ha espresso le proprie definitive determinazioni sono tenute a reiterare, qualora non vi abbiano provveduto nel semestre antecedente alla data di entrata in vigore del presente decreto, le domande stesse, in carta semplice entro quarantacinque giorni dalla data predetta, corredandole in calce, a pena di nullita', di dichiarazioni giurate di conformita' agli originali a suo tempo presentati, con firma autenticata a norma di legge dal legale rappresentante dell'azienda. Alle domande deve essere allegata copia della ricevuta del versamento relativa alla tariffa prevista dal decreto del Ministro della sanita' 19 luglio 1993, publicato nella [Gazzetta Ufficiale n. 172 del 24 luglio 1993](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1993-07-24&numeroGazzetta=172).
-
-2. La mancata reiterazione della domanda entro il termine e nei modi previsti dal comma 1 costituisce tacita rinuncia alla stessa.
-
-3. Il riassunto delle caratteristiche del prodotto, le relazioni degli esperti, le relazioni sulla biodisponibilita' o altre sintetiche relazioni ritenute utili dalle aziende a sostegno delle domande di cui al comma 1 relative ai medicinali, devono essere prodotti, in sede di reiterazione delle domande, in forma cartacea e, ove disponibili, sotto forma di supporti informatici rispondenti alle caratteristiche tecniche da stabilirsi con il decreto ministeriale previsto dall'[articolo 5, comma 3, del decreto legislativo 17 marzo 1995, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;185~art5-com3). Le documentazioni integrali a sostegno delle domande di cui al comma 1, sia relative a medicinali che a presidi medico-chirurgici, restano affidate in custodia alle stesse aziende, a disposizione del Ministero della sanita'.
-
-4. Le aziende hanno facolta' di chiedere, nell'ambito delle domande di autorizzazione di propria competenza, un esame prioritario da parte del Ministero della sanita' di quelle relative a medicinali che presentano un elevato interesse terapeutico, un elevato grado di innovazione o altri particolari aspetti di urgenza. Le motivazioni che giustificano la richiesta di modifica dell'ordine cronologico nell'esame delle domande devono risultare da una relazione tecnica sottoscritta da un esperto e dal legale rappresentante dell'azienda.
-
-5. Il Ministero della sanita' procede all'istruttoria delle domande secondo l'originario ordine cronologico di presentazione delle stesse, salvo i casi di accoglimento delle richieste di modifica della priorita' di esame, acquisito il parere della Commissione unica del farmaco.
-
-6. Il Ministero della sanita' effettua controlli a campione sulle domande reiterate e, qualora riscontri dichiarazioni non veritiere, ne riferisce all'autorita' giudiziaria. Fatte in ogni caso salve le sanzioni penali eventualmente applicabili in caso di dichiarazione infedele rilasciata in sede di reiterazione della domanda ai sensi del comma 1, il legale rappresentante dell'azienda e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da lire 10 milioni a lire 60 milioni. Ai fini dell'esame nell'ordine cronologico, la domanda a cui si riferisce la dichiarazione irregolare si considera presentata alla data in cui viene accertata la non veridicita' della dichiarazione stessa.
-
-7. Le disposizioni di cui al presente articolo non si applicano alle domande di autorizzazione al commercio individuate con [decreto del Ministro della sanita' 11 aprile 1996, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 93 del 20 aprile 1996](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1996-04-20&numeroGazzetta=93).
-
-### Art. 27
+### Art. 24
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 settembre 1996
+### Dato a Roma, addi' 16 luglio 1996
 
 SCALFARO
 
@@ -366,8 +362,6 @@ PRODI, Presidente del Consiglio dei Ministri
 BINDI, Ministro della sanita'
 
 CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
-
-ANDREATTA, Ministro della difesa
 
 BERLINGUER, Ministro della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica
 

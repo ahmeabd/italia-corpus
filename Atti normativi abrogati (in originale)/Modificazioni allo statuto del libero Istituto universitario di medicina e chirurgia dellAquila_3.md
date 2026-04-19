@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 578
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 954
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 578
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 954
+==============================================================
 
 Modificazioni allo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila.
 -------------------------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto del libero Istituto universitario di medicina e chiru
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del libero Istituto di medicina e chirurgia dell'Aquila, approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-06-25;425) e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-08-06;800), e successive modificazioni;
+Veduto lo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-06-25;425), e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-08-06;800), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,122 +18,361 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978; n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario di medicina e chirurgia dell'Aquila e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici del libero Istituto universitario di medicina e chirurgia dell'Aquila e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Decreta:
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Lo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+Dopo l'art. 16, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione delle seguenti scuole di specializzazione: chirurgia generale;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+medicina interna.
 
-Articolo unico
---------------
+Scuola di specializzazione in chirurgia generale
 
+Art. 17. - La scuola di specializzazione in chirurgia generale conferisce il diploma di specializzazione in chirurgia generale.
+
+La scuola ha sede presso la clinica chirurgica universitaria dell'Aquila.
+
+Gli anni necessari per il conferimento del diploma sono cinque.
+
+Non sono consentite abbreviazioni di corso.
+
+Art. 18. - Il numero massimo degli iscritti e' di trenta complessivamente (sei per ogni anno di corso).
+
+La selezione degli aspiranti all'ammissione alla scuola avviene in base a titoli ed esami.
+
+Sono ammessi i laureati in medicina e chirurgia.
+
+Art. 19. - I corsi sono corredati da esercitazioni pratiche.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica e la divisione chirurgica dell'ospedale S. Salvatore con permanenza costante nelle ore di attivita' e con presenza a turno negli ambulatori, reparti di degenza e sale operatorie.
+
+Dall'obbligo dell'internato possono essere esentati a giudizio del direttore della scuola gli allievi che prestino effettivo servizio, con funzioni di assistenti o di aiuti, presso reparti di chirurgia delle universita' o degli ospedali regionali o provinciali.
+
+La frequenza nelle sale operatorie inizia a turno fin dal 1° anno di corso per trasformarsi, dopo un congruo periodo di tirocinio, in partecipazione attiva agli interventi operatori.
+
+L'allievo, che non avra' ottemperato agli obblighi di frequenza, non sara' ammesso a sostenere gli esami annuali.
+
+Art. 20. - Le materie della scuola sono le seguenti, distribuite nei vari anni di corso:
+
+1° Anno:
+
+1) clinica chirurgica generale (I);
+
+2) patologia speciale chirurgica (I);
+
+3) semeiotica chirurgica (I);
+
+4) anatomia chirurgica e corso d'operazioni (I);
+
+5) chirurgia sperimentale;
+
+6) anestesia e rianimazione;
+
+7) ricerche di laboratorio.
+
+2° Anno:
+
+1) clinica chirurgica generale (II);
+
+2) patologia speciale chirurgica (II);
+
+3) semeiotica chirurgica (II);
+
+4) anatomia chirurgica e corso di operazioni (II);
+
+5) fisiopatologia chirurgica;
+
+6) trattamento pre e post-operatorio;
+
+7) anatomia ed istologia patologica (I).
+
+3° Anno:
+
+1) clinica chirurgica generale (III);
+
+2) patologia speciale chirurgica (III);
+
+3) semeiotica strumentale ed endoscopica;
+
+4) anatomia chirurgica e corso di operazioni (III);
+
+5) radiologia;
+
+6) anatomia ed istologia patologica (III).
+
+4° Anno:
+
+1) clinica chirurgica generale (IV);
+
+2) chirurgia ginecologica;
+
+3) chirurgia urologica;
+
+4) neurochirurgia;
+
+5) traumatologia e ortopedia;
+
+6) chirurgia pediatrica.
+
+5° Anno:
+
+1) clinica chirurgica generale (V);
+
+2) chirurgia toracica;
+
+3) chirurgia cardiovascolare;
+
+4) chirurgia riparativa e plastica;
+
+5) chirurgia d'urgenza;
+
+6) medicina legale.
+
+Scuola di specializzazione in medicina interna
+
+Art. 21. - La scuola di specializzazione in medicina interna conferisce il diploma di specializzazione in medicina interna.
+
+La scuola ha sede presso la clinica medica dell'Universita' dell'Aquila.
+
+Gli anni necessari per il conferimento del diploma sono cinque.
+
+Art. 22. - Il numero massimo degli iscritti e' di trenta complessivi (sei per ogni anno di corso).
+
+La selezione degli aspiranti all'ammissione alla scuola avviene in base a titoli ed esami.
+
+Sono ammessi i laureati in medicina e chirurgia.
+
+Art. 23. - I corsi sono corredati da esercitazioni pratiche.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la suddetta clinica medica universitaria, la patologia medica universitaria e la divisione medica dell'ospedale S. Salvatore, con permanenza costante nelle ore di attivita' e con presenza a turno negli ambulatori e reparti di degenza.
+
+Dall'obbligo dell'internato possono essere esentati a giudizio del direttore della scuola gli allievi che prestino effettivo servizio, con funzioni di assistenti o di aiuti, presso reparti universitari o ospedalieri.
+
+L'allievo, che non avra' ottemperato agli obblighi di frequenza, non sara' ammesso a sostenere gli esami annuali.
+
+Art. 24. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+malattie infettive, disreattive e del sangue;
+
+istituzioni di terapia;
+
+anatomia e istologia patologica (1° corso);
+
+clinica medica generale e terapia medica (1° corso).
+
+2° Anno:
+
+malattie dell'apparato cardiovascolare;
+
+microbiologia e sierologia;
+
+chimica clinica;
+
+anatomia e istologia patologica (2° corso);
+
+clinica medica generale e terapia medica (2° corso).
+
+3° Anno:
+
+malattie dell'apparato digerente;
+
+malattie renali;
+
+clinica medica generale e terapia medica (3° corso).
+
+4° Anno:
+
+malattie dell'apparato respiratorio;
+
+malattie del sistema nervoso;
+
+clinica medica generale e terapia medica (4° corso).
+
+5° Anno:
+
+malattie del ricambio;
+
+malattie delle ghiandole endocrine;
+
+clinica medica generale e terapia medica (5° corso).
+
+Il direttore della scuola ha la facolta' di inserire uno o piu' insegnamenti complementari nei vari anni di corso di specializzazione, scelti tra i seguenti:
+
+parassitologia medica;
+
+genetica medica;
+
+semeiotica dermatologica;
+
+radiologia;
+
+semeiotica oculistica;
+
+semeiotica ginecologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 dicembre 1976 Registro n. 105 Istruzione, foglio n. 311
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-06-25;425), e modificato con [decreto del Presidente della Repubblica 6 agosto 1970, n. 800](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-08-06;800), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario di medicina e chirurgia dell'Aquila e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 16, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in neurologia ed in medicina del lavoro.  
+Decreta:   
   
-Scuola di specializzazione in neurologia  
+Lo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 17. - La scuola di specializzazione in neurologia ha sede presso la cattedra di clinica neurologica dell'Istituto di medicina e chirurgia dell'Aquila.  
-Art. 18. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 19. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 20. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 21. - Il numero massimo degli allievi per l'intero corso di studi e' complessivamente di quindici.  
-Art. 22. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 23. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia ed istologia del sistema nervoso;  
-fisiologia del sistema nervoso;  
-biochimica del sistema nervoso;  
-elementi di genetica;  
-psicologia generale;  
-semeiotica psichiatrica;  
-psicopatologia.  
-2° Anno:  
-anatomia ed istologia patologica del sistema nervoso;  
-semeiotica neurologica;  
-patologia speciale e diagnostica neurologica (1°);  
-neuroradiologia;  
-endocrinologia e neurologia vegetativa.  
-3° Anno:  
-patologia speciale e diagnostica neurologica (2°);  
-clinica neurologica (1°);  
-elettroencefalografia;  
-elettromiografia, elettrodiagnostica ed elettroterapia;  
-neuro-oftalmologia;  
-neuro-otologia;  
-esami di laboratorio.  
-4° Anno:  
-clinica neurologica e terapia (2°);  
-neurochirurgia;  
-teoria e clinica della riabilitazione;  
-neuro-traumatologia anche sotto l'aspetto della medicina legale;  
-neurologia in rapporto alla patologia internistica.  
-Tutte le discipline devono essere svolte sotto forma di lezioni, dimostrazioni pratiche, illustrazioni di casi cinici.  
-Art. 24. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutti e quattro gli anni i corsi ed effettuare quotidianamente esercitazione pratica nei reparti dell'Istituto per tutti e quattro gli anni con diritto ad un mese di vacanza all'anno.  
-Per i medici che prestano regolare servizio in reparti neurologici ed altri ospedali, la frequenza nei reparti neurologici puo' essere ridotta a non meno di sei mesi all'anno.  
-Art. 25. Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi devono superare tutte le prove d'esame delle materie impartite durante l'anno accademico.  
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi e hanno superato tutte le materie di insegnamento previste per i quattro anni, sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di un argomento pertinente alla neurologia.  
-Scuola di specializzazione in medicina del lavoro  
-Art. 26. - La scuola di specializzazione in medicina del lavoro ha sede presso la cattedra di medicina del lavoro del libero Istituto universitario di medicina e chirurgia dell'Aquila e conferisce il diploma di specialista in medicina del lavoro.  
-Art. 27. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 28. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 29. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 30. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti iscritti per anno di corso di studi.  
-Art. 31. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 32. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-a) igiene del lavoro (1° corso);  
-b) fisiologia del lavoro ed ergonomia (1° corso);  
-c) tecnologia industriale;  
-d) statistica medica e biometria;  
-e) tecniche di laboratorio.  
-2° Anno:  
-a) patologia e clinica delle malattie del lavoro (1° corso);  
-b) igiene del lavoro (2° corso);  
-c) fisiologia del lavoro ed ergonomia (2° corso);  
-d) psicologia del lavoro;  
-e) tossicologia industriale.  
-3° Anno:  
-a) patologia e clinica delle malattie del lavoro (2° corso);  
-b) prevenzione degli infortuni e delle malattie del lavoro (1° corso);  
-c) epidemiologia delle malattie da lavoro;  
-d) radiobiologia e radioprotezione;  
-e) dermatologia professionale.  
-4° Anno:  
-a) patologia e clinica delle malattie da lavoro (3° corso);  
-b) prevenzione degli infortuni e delle malattie da lavoro (2° corso);  
-c) pronto soccorso;  
-d) medicina legale e delle assicurazioni;  
-e) organizzazione dei servizi di medicina e igiene del lavoro.  
-Gli esami delle discipline svolte in corsi pluriennali vengono sostenuti alla fine dell'ultimo corso.  
-Art. 33. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 34. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie biennali o triennali l'esame e' sostenuto alla fine del biennio o del triennio.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
+Dopo l'art. 16, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione delle seguenti scuole di specializzazione: chirurgia generale;   
+medicina interna.   
+  
+Scuola di specializzazione in chirurgia generale   
+  
+Art. 17. - La scuola di specializzazione in chirurgia generale conferisce il diploma di specializzazione in chirurgia generale.   
+La scuola ha sede presso la clinica chirurgica universitaria dell'Aquila.   
+Gli anni necessari per il conferimento del diploma sono cinque.   
+Non sono consentite abbreviazioni di corso.   
+  
+Art. 18. - Il numero massimo degli iscritti e' di trenta complessivamente (sei per ogni anno di corso).   
+La selezione degli aspiranti all'ammissione alla scuola avviene in base a titoli ed esami.   
+Sono ammessi i laureati in medicina e chirurgia.   
+  
+Art. 19. - I corsi sono corredati da esercitazioni pratiche.   
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica e la divisione chirurgica dell'ospedale S. Salvatore con permanenza costante nelle ore di attivita' e con presenza a turno negli ambulatori, reparti di degenza e sale operatorie.   
+Dall'obbligo dell'internato possono essere esentati a giudizio del direttore della scuola gli allievi che prestino effettivo servizio, con funzioni di assistenti o di aiuti, presso reparti di chirurgia delle universita' o degli ospedali regionali o provinciali.   
+La frequenza nelle sale operatorie inizia a turno fin dal 1° anno di corso per trasformarsi, dopo un congruo periodo di tirocinio, in partecipazione attiva agli interventi operatori.   
+L'allievo, che non avra' ottemperato agli obblighi di frequenza, non sara' ammesso a sostenere gli esami annuali.   
+  
+Art. 20. - Le materie della scuola sono le seguenti, distribuite nei vari anni di corso:   
+1° Anno:   
+1) clinica chirurgica generale (I);   
+2) patologia speciale chirurgica (I);   
+3) semeiotica chirurgica (I);   
+4) anatomia chirurgica e corso d'operazioni (I);   
+5) chirurgia sperimentale;   
+6) anestesia e rianimazione;   
+7) ricerche di laboratorio.   
+2° Anno:   
+1) clinica chirurgica generale (II);   
+2) patologia speciale chirurgica (II);   
+3) semeiotica chirurgica (II);   
+4) anatomia chirurgica e corso di operazioni (II);   
+5) fisiopatologia chirurgica;   
+6) trattamento pre e post-operatorio;   
+7) anatomia ed istologia patologica (I).   
+3° Anno:   
+1) clinica chirurgica generale (III);   
+2) patologia speciale chirurgica (III);   
+3) semeiotica strumentale ed endoscopica;   
+4) anatomia chirurgica e corso di operazioni (III);   
+5) radiologia;   
+6) anatomia ed istologia patologica (III).   
+4° Anno:   
+1) clinica chirurgica generale (IV);   
+2) chirurgia ginecologica;   
+3) chirurgia urologica;   
+4) neurochirurgia;   
+5) traumatologia e ortopedia;   
+6) chirurgia pediatrica.   
+5° Anno:   
+1) clinica chirurgica generale (V);   
+2) chirurgia toracica;   
+3) chirurgia cardiovascolare;   
+4) chirurgia riparativa e plastica;   
+5) chirurgia d'urgenza;   
+6) medicina legale.   
+  
+Scuola di specializzazione in medicina interna   
+  
+Art. 21. - La scuola di specializzazione in medicina interna conferisce il diploma di specializzazione in medicina interna.   
+La scuola ha sede presso la clinica medica dell'Universita' dell'Aquila.   
+Gli anni necessari per il conferimento del diploma sono cinque.   
+  
+Art. 22. - Il numero massimo degli iscritti e' di trenta complessivi (sei per ogni anno di corso).   
+La selezione degli aspiranti all'ammissione alla scuola avviene in base a titoli ed esami.   
+Sono ammessi i laureati in medicina e chirurgia.   
+  
+Art. 23. - I corsi sono corredati da esercitazioni pratiche.   
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la suddetta clinica medica universitaria, la patologia medica universitaria e la divisione medica dell'ospedale S. Salvatore, con permanenza costante nelle ore di attivita' e con presenza a turno negli ambulatori e reparti di degenza.   
+Dall'obbligo dell'internato possono essere esentati a giudizio del direttore della scuola gli allievi che prestino effettivo servizio, con funzioni di assistenti o di aiuti, presso reparti universitari o ospedalieri.   
+L'allievo, che non avra' ottemperato agli obblighi di frequenza, non sara' ammesso a sostenere gli esami annuali.   
+  
+Art. 24. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+malattie infettive, disreattive e del sangue;   
+istituzioni di terapia;   
+anatomia e istologia patologica (1° corso);   
+clinica medica generale e terapia medica (1° corso).   
+2° Anno:   
+malattie dell'apparato cardiovascolare;   
+microbiologia e sierologia;   
+chimica clinica;   
+anatomia e istologia patologica (2° corso);   
+clinica medica generale e terapia medica (2° corso).   
+3° Anno:   
+malattie dell'apparato digerente;   
+malattie renali;   
+clinica medica generale e terapia medica (3° corso).   
+4° Anno:   
+malattie dell'apparato respiratorio;   
+malattie del sistema nervoso;   
+clinica medica generale e terapia medica (4° corso).   
+5° Anno:   
+malattie del ricambio;   
+malattie delle ghiandole endocrine;   
+clinica medica generale e terapia medica (5° corso).   
+  
+Il direttore della scuola ha la facolta' di inserire uno o piu' insegnamenti complementari nei vari anni di corso di specializzazione, scelti tra i seguenti:   
+parassitologia medica;   
+genetica medica;   
+semeiotica dermatologica;   
+radiologia;   
+semeiotica oculistica;   
+semeiotica ginecologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1980
+### Dato a Roma, addi' 30 ottobre 1976
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 settembre 1980
+Registrato alla Corte dei conti, addi' 30 dicembre 1976
 
-Registro n. 87 Istruzione, foglio n. 26
+Registro n. 105 Istruzione, foglio n. 311

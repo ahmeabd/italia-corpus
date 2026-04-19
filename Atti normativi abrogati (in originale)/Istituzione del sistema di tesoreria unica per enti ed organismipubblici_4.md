@@ -1,7 +1,7 @@
-DECRETO-LEGGE 24 maggio 1984 n. 153
+DECRETO-LEGGE 25 luglio 1984 n. 372
 
 
-DECRETO-LEGGE 24 maggio 1984 n. 153
+DECRETO-LEGGE 25 luglio 1984 n. 372
 ===================================
 
 Istituzione del sistema di tesoreria unica per enti ed organismi 
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la necessita' e l'urgenza di provvedere alla istituzione del sistema di tesoreria unica per enti ed organismi pubblici, allo scopo di conseguire consistenti risparmi nella gestione del servizio in parola e di ridurre conseguentemente il fabbisogno finanziario dello Stato;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 maggio 1984;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 luglio 1984;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -46,7 +46,7 @@ Art. 2
 
 3. Restano altresi' in vigore le norme di cui al secondo e al [terzo comma dell'articolo 38 della legge 7 agosto 1982, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;526~art38-com3).
 
-4. Con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, si provvede alle occorrenti modifiche ed integrazioni alle annesse tabelle A e B.
+4. Con decreti del Presidente del Consiglio dei ministri, su proposta del Ministro del tesoro, si provvede alle occorrenti modifiche ed integrazioni alle annesse tabelle A e B.
 
 5. Sono abrogate le disposizioni incompatibili con quelle del presente decreto.
 
@@ -60,28 +60,28 @@ Art. 4
 ------
 
   
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 24 marzo 1984, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-03-24;37).  
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 24 maggio 1984, n. 153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-05-24;153).  
 
 Art. 5
 ------
 
   
   
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.   
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a San Rossore, addi' 24 maggio 1984
+### Dato a Roma, addi' 25 luglio 1984
 
-PERTINI CRAXI - GORIA - LONGO
+PERTINI CRAXI - GORIA
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 25 maggio 1984
+Registrato alla Corte dei conti, addi' 25 luglio 1984
 
-Atti di Governo, registro n. 50, foglio n. 11
+Atti di Governo, registro n. 50, foglio n. 39
 
 Tabella A
 
@@ -118,99 +118,107 @@ Tabella B
 
  TABELLA B   
   
-Regioni a statuto ordinario e speciale; province autonome di Trento e di Bolzano.   
-Aziende municipalizzate di trasporto.   
-INPS.   
-ENPAS.   
-INAIL.   
-Istituto postelegrafonici.   
-Opera di previdenza ed assistenza per i ferrovieri dello Stato.   
-Servizio per i contributi agricoli unificati (SCAL).   
-Sezione speciale fondo interbancario di garanzia.   
-Cassa conguaglio per il settore elettrico.   
-Cassa conguaglio per il settore telefonico.   
-Istituto nazionale di fisica nucleare.   
-Consiglio nazionale delle ricerche.   
-Comitato nazionale per le ricerche e per lo sviluppo dell'energia nucleare e delle energie alternative (ENEA).   
-Cassa conguaglio zucchero.   
-Ente nazionale risi.   
-Cassa per il Mezzogiorno.   
-Cassa per il credito alle imprese artigiane.   
-Fondo centrale garanzia per le autostrade e per le ferrovie metropolitane.   
-SACE - Sezione speciale per l'assicurazione del credito all'esportazione.   
-Mediocredito centrale.   
-Aereo club d'Italia.   
-Club alpino italiano.   
-Registro aeronautico italiano.   
-Universita' statali, istituti di istruzione universitaria ed opere universitarie statali.   
-Enti autonomi lirici ed istituzioni concertistiche assimilate.   
-Ente nazionale corse al trotto.   
-Ente nazionale italiano turismo.   
-Ente nazionale sementi elette.   
-Ente nazionale per la cellulosa e la carta.   
-Ente nazionale per il cavallo italiano.   
-Istituto elettrotecnico nazionale "Galileo Ferraris" - Torino.   
-Istituto nazionale di studi ed esperienze di architettura navale (Vasca navale).   
-Istituto nazionale della nutrizione.   
-Istituto nazionale economia agraria.   
-Istituto nazionale di geofisica.   
-Istituto nazionale di ottica.   
-Jockey club d'Italia.   
-Osservatori astronomici, astrofisici e vulcanologici.   
-Osservatorio geofisico sperimentale di Trieste.   
-Stazione zoologica "Antonio Dohrn" di Napoli.   
-Fondo bombole di metano - Roma.   
-SVIMEZ.   
-Societa' degli Steeple-chases d'Italia.   
-Lega navale italiana.   
-Consorzio interuniversitario lombardo per l'elaborazione automatica (CILEA).   
-Consorzio interuniversitario per la gestione del Centro di calcolo elettronico dell'Italia nord-orientale (CINECA).   
-Enti regionali di sviluppo agricolo.   
-Istituti zooprofilattici sperimentali.   
-Istituti sperimentali agrari.   
-Stazioni sperimentali per l'industria.   
-Aziende autonome di cura, soggiorno e turismo.   
-Enti provinciali per il turismo.   
-Automobile club d'Italia e delegazioni provinciali.   
-Consorzio canale Milano-Cremona-Po.   
-Ente acquedotti siciliani.   
-Ente autonomo acquedotto pugliese.   
-Ente autonomo del Flumendosa.   
-Ente autonomo per la bonifica, l'irrigazione e la valorizzazione fondiaria delle province di Arezzo, Perugia, Siena e Terni.   
-Ente ospedaliero "Policlinico San Matteo" - Pavia.   
-Ente ospedaliero "Vincenzo dell'Erba" - Castellana Grotte.   
-Istituto centrale per la ricerca scientifica e tecnologica applicata alla pesca marittima.   
-Istituto di biologia della selvaggina.   
-Istituti fisioterapici ospitalieri - Roma.   
-Istituto "Giannina Gaslini" - Genova.   
-Istituto nazionale per lo studio e la cura dei tumori - Milano.   
-Istituto scientifico per lo studio e la cura dei tumori - Genova.   
-Istituto nazionale di riposo e cura per anziani "Vittorio Emanuele II" - Ancona.   
-Istituto neurologico "Carlo Besta" - Milano.   
-Istituti ortopedici Rizzoli - Bologna.   
-Istituto per lo sviluppo della formazione professionale dei lavoratori.   
-Ospedale maggiore - Milano.   
-Unione nazionale incremento razze equine (UNIRE).   
-Istituti regionali di ricerca, sperimentazione e aggiornamento educativi (IRRSAE).   
-Centro europeo dell'educazione (CEDE).   
-Biblioteca di documentazione pedagogica (BDP).   
-Consorzio per la zona, agricola industriale di Verona.   
-Ente zona industriale di Trieste.   
-Istituto agronomico per l'Oltremare.   
-Fondo straordinario per il piano di rinascita regione sarda.   
-Istituto per gli studi di politica internazionale.   
-Commissariato anticoccidico di Catania.   
-Istituto nazionale per le conserve alimentari.   
-Istituto nazionale di alta matematica.   
-Ente siciliano di elettricita'.   
-Consorzio dell'Adda.   
-Consorzio del Ticino.   
-Consorzio dell'Oglio.   
-Consorzio idrovia Padova-Venezia.   
-Ospedale infantile "Pie fondazioni Burlo Garofalo e Alessandro ed Agroglia De Manussi" - Trieste.   
-Opera nazionale personale servizi antincendi e protezione civile.   
-Comitato olimpico nazionale italiano (CONI).   
-Federazioni sportive nazionali.   
   
-Visto, il Ministro del tesoro   
-GORIA   
+  
+Regioni a statuto ordinario e speciale; province autonome di Trento e di Bolzano.  
+Aziende municipalizzate di trasporto.  
+INPS.  
+ENPS.  
+INAIL.  
+Istituto postelegrafonici.  
+Opera di previdenza ed assistenza per i ferrovieri dello Stato Servizio per i contributi agricoli unificati (SCAU).  
+Sezione speciale fondo interbancario di garanzia.  
+Cassa conguaglio per il settore elettrico.  
+Cassa conguaglio per il settore telefonico.  
+Istituto nazionale di fisica nucleare.  
+Consiglio nazionale delle ricerche.  
+Comitato nazionale per le ricerche e per lo sviluppo dell'energia nucleare e delle energie alternative (ENEA).  
+Cassa conguaglio zucchero.  
+Ente nazionale risi.  
+Cassa per il Mezzogiorno.  
+Cassa per il credito alle imprese artigiane.  
+Fondo centrale garanzia per le autostrade e per le ferrovie metropolitane.  
+SACE - Sezione speciale per l'assicurazione del credito all'esportazione.  
+Mediocredito centrale.  
+Aereo club d'Italia.  
+Club alpino italiano.  
+Registro aeronautico italiano.  
+Universita' statali, istituti di istruzione universitaria ed  
+opere universitarie statali.  
+Enti autonomi lirici ed istituzioni concertistiche assimilate.  
+Ente nazionale corse al trotto.  
+Ente nazionale italiano turismo.  
+Ente nazionale sementi elette.  
+Ente nazionale per la cellulosa e la carta.  
+Ente nazionale per il cavallo italiano.  
+Istituto elettrotecnico nazionale "Galileo Ferraris" - Torino.  
+Istituto nazionale di studi ed esperienze di architettura navale (Vasca navale).  
+Istituto nazionale della nutrizione.  
+Istituto nazionale economia agraria.  
+Istituto nazionale di geofisica, Istituto nazionale di ottica.  
+Jockey club d'Italia.  
+Osservatori astronomici, astrofisici e vulcanologici.  
+Osservatorio geofisico sperimentale di Trieste.  
+Stazione zoologica "Antonio Dohrn" di Napoli.  
+Fondo bombole di metano - Roma.  
+SVIMEZ.  
+Societa' degli Steeple-chases d'Italia.  
+Lega navale italiana, Consorzio interuniversitario lombardo per  
+l'elaborazione automatica (CILEA).  
+Consorzio interuniversitario per la gestione del Centro di  
+calcolo elettronico dell'Italia nord-orientale (CINECA).  
+Enti regionali di sviluppo agricolo.  
+Istituti zooprofilattici sperimentali.  
+Istituti sperimentali agrari.  
+Stazioni sperimentali per l'industria.  
+Aziende autonome di cura, soggiorno e turismo.  
+Enti provinciali per il turismo.  
+Automobile club d'Italia e delegazioni provinciali.  
+Consorzio canale Milano-Cremona-Po.  
+Ente acquedotti siciliani.  
+Ente autonomo acquedotto pugliese.  
+Ente autonomo del Flumendosa.  
+Ente autonomo per la bonifica, l'irrigazione e la valorizzazione fondiaria delle province di Arezzo, Perugia, Siena e Terni.  
+Ente ospedaliero "Policlinico San Matteo" - Pavia.  
+Ente ospedaliero "Vincenzo dell'Erba" - Castellana Grotte.  
+Istituto centrale per la ricerca scientifica e tecnologica  
+applicata alla pesca marittima.  
+Istituto di biologia della selvaggina.  
+Istituti fisioterapici ospitalieri - Roma.  
+Istituto "Giannina Gaslini" - Genova.  
+Istituto nazionale per lo studio e la cura dei tumori - Milano.  
+Istituto scientifico per lo studio e la cura dei tumori Genova.  
+Istituto nazionale di riposo e cura per anziani "Vittorio  
+Emanuele II" - Ancona.  
+Istituto neurologico "Carlo Besta" - Milano.  
+Istituti ortopedici Rizzoli - Bologna.  
+Istituto per lo sviluppo della formazione professionale dei  
+lavoratori.  
+Ospedale maggiore - Milano.  
+Unione nazionale incremento razze equine (UNIRE).  
+Istituti regionali di ricerca, sperimentazione e aggiornamento  
+educativi (IRRSAE).  
+Centro europeo dell'educazione (CEDE).  
+Biblioteca di documentazione pedagogica (BDP).  
+Consorzio per la zona agricola industriale di Verona.  
+Ente zona industriale di Trieste.  
+Istituto agronomico per l'Oltremare.  
+Fondo straordinario per il piano di rinascita regione sarda.  
+Istituto per gli studi di politica internazionale.  
+Commissariato anticoccidico di Catania.  
+Istituto nazionale per le conserve alimentari.  
+Ente siciliano di elettricita'.  
+Consorzio dell'Adda.  
+Consorzio del Ticino.  
+Consorzio dell'Oglio.  
+Consorzio idrovia Padova-Venezia.  
+Ospedale infantile "Pie fondazioni Burlo Garofalo e Alessandro ed Agroglia De Manussi" - Trieste.  
+Opera nazionale personale servizi antincendi e protezione civile.  
+Comitato olimpico nazionale italiano (CONI).  
+Federazioni sportive nazionali.  
+  
+Visto, il Ministro del tesoro  
+GORIA  
+  
+  
+  

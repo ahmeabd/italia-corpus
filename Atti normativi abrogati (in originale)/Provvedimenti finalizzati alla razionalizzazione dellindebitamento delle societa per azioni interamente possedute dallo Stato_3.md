@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 dicembre 1993 n. 555
+DECRETO-LEGGE 28 febbraio 1994 n. 140
 
 
-DECRETO-LEGGE 30 dicembre 1993 n. 555
+DECRETO-LEGGE 28 febbraio 1994 n. 140
 =====================================
 
 Provvedimenti finalizzati alla razionalizzazione dell'indebitamento delle societa' per azioni interamente possedute dallo Stato.
 --------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31-12-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 01-03-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,11 +16,12 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare interventi finalizzati a razionalizzare l'indebitamento delle societa' per azioni interamente possedute dallo Stato, nel rispetto delle intese raggiunte con la Comunita' europea;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 dicembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, di concerto con i Ministri del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
+Sulla
+-----
 
-E M A N A il seguente decreto-legge:
+proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, di concerto con i Ministri del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato; E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -34,12 +35,12 @@ Art. 1
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 dicembre 1993
+### Dato a Roma, addi' 28 febbraio 1994
 
 SCALFARO
 

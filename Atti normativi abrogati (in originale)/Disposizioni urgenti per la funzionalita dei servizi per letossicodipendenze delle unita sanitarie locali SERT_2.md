@@ -1,14 +1,14 @@
-DECRETO-LEGGE 17 maggio 1996 n. 268
+DECRETO-LEGGE 19 marzo 1996 n. 131
 
 
-DECRETO-LEGGE 17 maggio 1996 n. 268
-===================================
+DECRETO-LEGGE 19 marzo 1996 n. 131
+==================================
 
 Disposizioni urgenti per la funzionalita' dei servizi per le 
 tossicodipendenze delle unita' sanitarie locali (SERT).
 ---------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-5-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assicurare la funzionalita' dei servizi per le tossicodipendenze delle unita' sanitarie locali (SERT);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con il Ministro per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita';
 
 E M A N A il seguente decreto-legge:
 
@@ -41,19 +41,17 @@ Art. 1
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1996
+### Dato a Roma, addi' 19 marzo 1996
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 GUZZANTI, Ministro della sanita'
-
-MOTZO, Ministro per la funzione pubblica e gli affari regionali
 
 Visto, il Guardasigilli: CAIANIELLO

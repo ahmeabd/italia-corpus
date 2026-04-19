@@ -1,14 +1,14 @@
-DECRETO-LEGGE 01 dicembre 1995 n. 510
+DECRETO-LEGGE 02 aprile 1996 n. 177
 
 
-DECRETO-LEGGE 01 dicembre 1995 n. 510
-=====================================
+DECRETO-LEGGE 02 aprile 1996 n. 177
+===================================
 
 Disposizioni urgenti in materia di istituti di ricovero e cura a 
 carattere scientifico.
 ----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3-12-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti l'attivita' degli istituti di ricovero e cura a carattere scientifico;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 dicembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 aprile 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica;
 
@@ -40,9 +40,11 @@ d) all'articolo 2, comma 3, alla lettera a), dopo le parole: "i criteri generali
 "g-bis) i criteri generali per la stipula di specifici protocolli di intesa tra gli istituti e le universita' per regolamentare i rapporti di ricerca, didattici e di assistenza tra le due istituzioni in armonia con i protocolli d'intesa di cui all'[articolo 6, comma 1, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art6-com1), e successive modificazioni"; alla lettera h), dopo le parole: "procedure per" sono inserite le seguenti: "il coordinamento e";
 
 e) all'articolo 2, dopo il comma 3, e' inserito il seguente:  
-"3-bis. Il Ministero della sanita', sentita la regione interessata, procede in via prioritaria, entro sei mesi dall'entrata in vigore del regolamento di cui al comma 3, alla verifica della sussistenza negli istituti gia' riconosciuti dei necessari requisiti strutturali e funzionali, nonche' del rispetto delle finalita' di ricerca, degli obiettivi della programmazione sanitaria e dei risultati conseguiti";
+"3-bis. Il Ministero della sanita', sentita la regione interessata, procede in via prioritaria, entro sei mesi dall'entrata in vigore del regolamento di cui al comma 3, alla verifica della sussistenza negli istituti gia' riconosciuti dei necessari requisiti strutturali e funzionali, nonche' del rispetto delle finalita' di ricerca, degli  
+obiettivi della programmazione sanitaria e dei risultati conseguiti";
 
-f) all'articolo 3, comma 1, i numeri 1), 2) e 3) sono sostituiti dai seguenti:  
+f) all'articolo 3, comma 1, i numeri 1), 2) e 3) sono sostituiti  
+dai seguenti:  
 "1) il consiglio di amministrazione, il cui presidente assume la legale rappresentanza dell'istituto, e' composto da: a) un esperto con documentata esperienza in materia di gestione di strutture sanitarie o di ricerca designato in qualita' di presidente dal Ministro della sanita'; b) quattro esperti con analoga esperienza nominati uno dal Ministro della sanita', uno dal Ministro dell'universita' e della ricerca scientifica e tecnologica e due dal presidente della regione ove ha sede legale l'istituto; c) due rappresentanti degli originari interessi previsti dallo statuto. Il consiglio di amministrazione e' nominato con decreto del Ministro della sanita', sentito il Ministero del tesoro ed il presidente della regione interessata, dura in carica cinque anni ed i suoi componenti possono essere confermati. Nel caso in cui trascorsi sessanta giorni dalla richiesta di designazione gli enti interessati non abbiano provveduto, il Ministro della sanita' nomina il consiglio di amministrazione. Il Ministro della sanita', puo' comunque procedere alla nomina del consiglio di amministrazione ove siano stati designati almeno quattro dei sette componenti. Il consiglio di amministrazione: a) adotta lo statuto dell'istituto e le relative modifiche e su proposta del direttore generale adotta i regolamenti;  
 b) approva il bilancio di previsione e le relative variazioni ed il conto consuntivo su proposta del direttore generale; c) definisce le linee programmatiche dell'attivita' dell'istituto in conformita' alle linee della programmazione nazionale e regionale; d) verifica l'andamento generale dell'attivita' dell'istituto tenendo periodicamente informato il Ministero della sanita' e la regione o provincia autonoma interessata. Il consiglio, convocato e presieduto dal presidente, si riunisce normalmente almeno ogni bimestre ed ogni qualvolta lo richiedano, indicando gli argomenti da trattare, almeno due componenti oppure il direttore generale. Alle sedute del consiglio partecipa con voto consultivo il direttore generale. Per la validita' delle sedute e' richiesta la maggioranza dei componenti in carica. Per la validita' delle sedute e delle deliberazioni concernenti le materie di cui al quinto periodo, lettere a), b) e c) del presente numero, e' richiesta la maggioranza qualificata dei tre quinti del consiglio. Le rimanenti modalita' di funzionamento del consiglio di amministrazione sono regolate dallo statuto dell'istituto. Il consiglio di amministrazione puo' essere sciolto con decreto del Ministro della sanita' sentita la regione o provincia autonoma interessata, nel caso di dimissioni della maggioranza dei componenti o di ripetute e gravi violazioni delle disposizioni normative o statutarie. Con lo stesso decreto viene nominato un commissario straordinario cui sono attribuite funzioni e competenze del disciolto consiglio di amministrazione. Il consiglio di amministrazione deve essere ricostituito nel termine dei sei mesi dalla data del decreto di scioglimento;  
 2) il direttore generale, che assume le funzioni di amministratore delegato del consiglio di amministrazione. Egli e' nominato dal Ministro della sanita', d'intesa con il presidente della regione competente per territorio, nell'ambito di una terna proposta dal consiglio di amministrazione, composta di candidati scelti tra soggetti in possesso del titolo di studio e dei requisiti necessari per la nomina a direttore generale delle unita' sanitarie locali e delle aziende ospedaliere. Il direttore generale nomina il direttore sanitario ed il direttore amministrativo. Per il direttore generale degli istituti si applicano le disposizioni di cui all'[articolo 3 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art3), e successive modificazioni. Al direttore generale spetta altresi' la nomina del direttore scientifico previa consultazione del comitato tecnico scientifico, sulla base di un elenco di candidati, interni ed esterni agli istituti, in possesso di documentate competenze nel settore scientifico, indicati da una commissione di indiscussa autorevolezza nel settore da lui stesso nominata. Il rapporto di lavoro del direttore scientifico e' regolato dalle stesse norme previste per il direttore generale, quello amministrativo e quello sanitario;  
@@ -75,8 +77,10 @@ s) all'articolo 6, comma 3, dopo le parole: "da altri organismi" sono aggiunte l
 
 t) all'articolo 6, dopo il comma 5, e' aggiunto il seguente:  
 "5-bis. Fino all'entrata in vigore del regolamento di cui all'articolo 2, comma 3, l'attivita' di ricerca degli istituti, in coerenza con le finalita' peculiari di ciascun istituto di cui all'articolo 1, commi 3 e 4, e' svolta secondo le indicazioni della Commissione per la ricerca scientifica biomedica in ordine:  
-a) al riparto del finanziamento di cui al comma 3 da destinare alla ricerca corrente e alla ricerca finalizzata di ciascun istituto;  
-b) ai criteri per la determinazione del finanziamento della ricerca corrente per quanto attiene ai costi del personale, a quelli per la strumentazione scientifica e dei relativi ammortamenti, a beni e servizi relativi alla produttivita' documentata anche per gli aspetti clinici ed alla pubblicazione, con apposito bollettino unitario, dei risultati della ricerca applicabili nel Servizio sanitario nazionale;  
+a) al riparto del finanziamento di cui al comma 3 da destinare  
+alla ricerca corrente e alla ricerca finalizzata di ciascun istituto;  
+b) ai criteri per la determinazione del finanziamento della  
+ricerca corrente per quanto attiene ai costi del personale, a quelli per la strumentazione scientifica e dei relativi ammortamenti, a beni e servizi relativi alla produttivita' documentata anche per gli aspetti clinici ed alla pubblicazione, con apposito bollettino unitario, dei risultati della ricerca applicabili nel Servizio sanitario nazionale;  
 c) ai criteri di valutazione dei progetti di ricerca finalizzata anche a carattere pluriennale con oneri complessivi sulla disponibilita' del relativo esercizio finanziario.";
 
 u) all'articolo 7, i commi 4 e 6 sono sostituiti dai seguenti:  
@@ -98,14 +102,16 @@ Art. 3
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 dicembre 1995
+### Dato a Roma, addi' 2 aprile 1996
 
-SCALFARO
+Il Presidente del Senato della Repubblica nell'esercizio delle
+
+funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
@@ -113,4 +119,4 @@ GUZZANTI, Ministro della sanita'
 
 SALVINI, Ministro dell'universita' e della ricerca scientifica e tecnologica
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: CAIANIELLO

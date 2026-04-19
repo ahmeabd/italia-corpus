@@ -1,13 +1,13 @@
-DECRETO-LEGGE 25 maggio 1996 n. 287
+DECRETO-LEGGE 24 luglio 1996 n. 390
 
 
-DECRETO-LEGGE 25 maggio 1996 n. 287
+DECRETO-LEGGE 24 luglio 1996 n. 390
 ===================================
 
 Disposizioni urgenti in materia di finanza locale per l'anno 1996.
 ------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26-5-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 25-7-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in mater
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare ulteriori disposizioni concernenti gli interventi straordinari da effettuare nelle citta' di Torino e Firenze per lo svolgimento della Conferenza intergovernativa dei Paesi dell'Unione europea e del Consiglio europeo;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 luglio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e del tesoro e del bilancio e della programmazione economica, di concerto con i Ministri delle finanze e della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e del tesoro e del bilancio e della programmazione economica, di concerto con i Ministri delle finanze, della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica e per la funzione pubblica e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
@@ -45,7 +45,7 @@ Trasferimenti erariali agli enti locali
 
 8. Il contributo per gli squilibri della fiscalita' locale e' attribuito per l'anno 1996 per lire 1.515.700 milioni in misura pari all'ammontare dei contributi corrisposti a tale titolo per l'anno 1995, salva la correzione di errori materiali, e per lire 292.200 milioni, di cui lire 64.000 milioni alle province e lire 228.200 milioni ai comuni, con le modalita' di cui all'[articolo 40 del decreto legislativo n. 504 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;504~art40), come modificato dal [decreto legislativo 1 dicembre 1993, n. 528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-01;528), e, successivamente, dall'[articolo 3, comma 4, del decreto-legge n. 41 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;41~art3-com4).
 
-9. Restano confermate per l'anno 1996 le somme attribuite agli enti locali per l'anno 1995 a titolo di contributo sul fondo nazionale ordinario per gli investimenti di cui all'[articolo 41 del decreto legislativo n. 504 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;504~art41).
+9. Per l'anno 1996 le somme attribuite agli enti locali a titolo di contributo sul fondo nazionale ordinario per gli investimenti di cui all'[articolo 41 del decreto legislativo n. 504 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;504~art41) sono quelle stabilite dall'[articolo 3, comma 9, del decreto-legge 20 giugno 1996, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-20;323~art3-com9).
 
 10. Per gli enti di nuova istituzione, eccezione fatta per la fusione, l'attribuzione dei contributi spettanti avviene con le modalita' di cui all'[articolo 3, commi 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art3-com17) e [18, del decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art3-com18), sulla base dei contributi definitivamente attribuiti agli enti originari per l'anno 1995.
 
@@ -79,6 +79,8 @@ Disposizioni tributarie
 " 2. Accertata la sussistenza di ragioni di convenienza e di pubblico interesse, il comune puo' procedere al rinnovo della concessione; a tal fine il concessionario deve presentare apposita istanza almeno sei mesi prima della scadenza della concessione indicando le condizioni per il rinnovo, che devono essere migliorative per il comune.".
 
 7. Il [comma 90 dell'articolo 1 della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art1-com90), e' abrogato.
+
+8. All'[articolo 3, comma 38, della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art3-com38), e' aggiunto in fine il seguente periodo: "Le disposizioni contenute nel secondo periodo, del comma 31, non si applicano qualora gli enti pubblici territoriali o gli organi degli stessi ancorche' dotati di personalita' giuridicata, ovvero i soggetti che esplicano attivita' di smaltimento in base a concessione o appalto pubblico non abbiano corrisposto il tributo al soggetto passivo e sempreche' quest'ultimo abbia versato detto tributo entro il 30 novembre 1996.".
 
 Art. 4
 ------
@@ -117,11 +119,13 @@ Proroga dei termini
 
 4. Il termine per l'emanazione del regolamento previsto dall'[articolo 114 del decreto legislativo n. 77 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;77~art114), per l'approvazione dei modelli relativi all'ordinamento finanziario e contabile, e' prorogato al 31 gennaio 1996.
 
-5. La disposizione di cui all'[articolo 3, comma 18-bis, del decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art3-com18bis) ha decorrenza dal 1 gennaio 1996.
+5. Allo scopo di consentire la tempestiva erogazione dei contributi erariali agli enti locali e lo svolgimento di altri servizi istituzionali, il Ministero dell'interno e' autorizzato a prorogare con effetto dal 1 gennaio 1996 e per il periodo massimo di dodici mesi il contratto per la locazione delle apparecchiature elettroniche del competente centro elaborazione dati, con imputazione dell'onere sul corrispondente capitolo di bilancio del proprio stato di previsione della spesa, in deroga all'[articolo 6 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art6), come sostituito dall'[articolo 44 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art44), nonche' all'[articolo 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come modificato dal [decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546).
 
-6. Allo scopo di consentire la tempestiva erogazione dei contributi erariali agli enti locali e lo svolgimento di altri servizi istituzionali, il Ministero dell'interno e' autorizzato a prorogare con effetto dal 1 gennaio 1996 e per il periodo massimo di dodici mesi il contratto per la locazione delle apparecchiature elettroniche del competente centro elaborazione dati, con imputazione dell'onere sul corrispondente capitolo di bilancio del proprio stato di previsione della spesa, in deroga all'[articolo 6, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art6), come sostituito dall'[articolo 44 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art44), nonche' all'[articolo 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come modificato dal [decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546).
+6. Il termine per l'adeguamento dei regolamenti di contabilita' degli enti locali previsto dall'[articolo 108 del decreto legislativo n. 77 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;77~art108), prorogato al 30 giugno 1996 dal [decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444), e' ulteriormente prorogato al 30 aprile 1997.
 
-7. Il termine previsto dal [comma 3 dell'articolo 10 del decreto-legge 27 ottobre 1995, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-27;444~art10-com3), convertito con modificazioni, dalla [legge 20 dicembre 1995, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539), e' prorogato al 30 giugno 1996; il termine per la definitivita' degli atti previsto dal primo periodo del comma 5 dell'articolo 10 del suddetto decreto-legge e' prorogato al 31 maggio 1996.
+7. Il termine previsto dal [comma 3 dell'articolo 10 del decreto-legge 27 ottobre 1995, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-27;444~art10-com3), convertito, con modificazioni, dalla [legge 20 dicembre 1995, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539), e' prorogato al 31 dicembre 1996; il termine per la definitivita' degli atti previsto dal primo periodo del comma 5 dell'articolo 10 del suddetto decreto-legge e' prorogato al 30 novembre 1996.
+
+8. I mutui di cui al [comma 2 dell'articolo 10 del decreto-legge 1 luglio 1986, n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-07-01;318~art10-com2), convertito, con modificazioni, dalla [legge 8 agosto 1986, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-08;488), per i comuni con popolazione fino a 5.000 abitanti a totale carico dello Stato, relativi all'esercizio 1992, possono essere impegnati fino al 31 dicembre 1996.
 
 Art. 7
 ------
@@ -129,7 +133,13 @@ Art. 7
 Destinazione dei proventi  
 della casa da gioco di Campione d'Italia
 
-1. All'[articolo 3, comma 18-bis, del decreto-legge 27 ottobre 1995, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-27;444~art3-com18bis), convertito, con modificazioni, dalla [legge 20 dicembre 1995, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539), l'ultimo periodo e' sostituito dal seguente: "Una quota dei proventi deve essere destinata alle province di Como e di Lecco e non puo' essere inferiore, rispettivamente, al 10 e al 5 per cento.".
+1. A decorrere dal 1 gennaio 1996, i proventi della casa da gioco di Campione d'Italia sono destinati in via prioritaria al canone dovuto al gestore, ai prelievi fiscali ed al finanziamento del bilancio del comune di Campione d'Italia, tenute presenti le particolari condizioni geopolitiche e le esigenze di sviluppo. La quota dei proventi da attribuire al comune e, nel caso di conduzione diretta, le spese di gestione della casa da gioco sono determinate con provvedimento amministrativo del Ministero dell'interno.
+
+2. Le somme esuberanti sono destinate per il 50 per cento allo Stato per il finanziamento del fondo nazionale speciale per gli investimenti, ai sensi dell'[articolo 42 del decreto legislativo 30 dicembre 1992, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504~art42), per il 34 per cento alla provincia di Como e per il 16 per cento alla provincia di Lecco.
+
+3. Le somme spettanti allo Stato sono versate in apposito capitolo di entrata e sono riassegnate con decreto del Ministro del tesoro ad apposito capitolo del Ministero dell'interno.
+
+4. La disposizione di cui all'[articolo 3, comma 18-bis, del decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art3-com18bis) e' soppressa.
 
 Art. 8
 ------
@@ -145,9 +155,11 @@ Servizio di mensa nelle scuole
 Art. 9
 ------
 
-Interventi per la Valtellina
+Disposizioni relative ad assunzioni di personale
 
 1. La durata dei contratti a tempo determinato relativi al personale assunto dalla provincia di Sondrio per l'attuazione, ai sensi dell'[articolo 9 della legge 2 maggio 1990, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-02;102~art9), e della [legge regionale 1 agosto 1992, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:regione.:legge:1992-08-01;23), della regione Lombardia, del piano di ricostruzione e sviluppo della Valtellina, approvato con decreti del Presidente del Consiglio dei Ministri 4 dicembre 1992 e 29 luglio 1993, al cui onere si provvede con le risorse previste dal piano stesso, puo' essere prorogata fino al 31 dicembre 1996.
+
+2. I vincitori dei corsi-concorso del progetto Ripam - riqualificazione della pubblica amministrazione - realizzato dal Formez possono essere assegnati anche in enti locali che abbiano deliberato di partecipare ai successivi corsi-concorso banditi nell'ambito del progetto medesimo.
 
 Art. 10
 -------
@@ -175,7 +187,7 @@ Ulteriori interventi per lo svolgimento della Conferenza intergovernativa dei Pa
 
 1. La deroga di cui all'[articolo 1, comma 4, del decreto-legge 12 gennaio 1996, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-01-12;13~art1-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1996, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-28;96), concernente la Conferenza intergovernativa dei Paesi dell'Unione europea e il Consiglio europeo, si intende riferita anche alle disposizioni della [legge 11 febbraio 1994, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), e successive modificazioni ed integrazioni; i commi 2 e seguenti del medesimo articolo 1 si applicano agli interventi da effettuare nell'ambito delle finalita' indicate dal comma 1 con spesa, anche parzialmente, a carico dei comuni e di altri amministrazioni ed enti pubblici nonche' di societa' e organismi privati.
 
-2. Per l'attuazione dei servizi necessari ad assicurare condizioni di sicurezza allo svolgimento delle manifestazioni di cui al comma 1 e per le connesse esigenze amministrative, tecniche e logistiche e' autorizzata, altresi', la spesa complessiva di lire 6.700 milioni da destinare ai pertinenti capitoli di bilancio del Ministero dell'interno per la successiva assegnazione dei fondi alle contabilita' speciali delle prefetture interessate, che, ove occorra, sono autorizzate a prelevare le somme necessarie dai fondi in genere delle medesime contabilita' speciali. All'onere derivante dal presente comma si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
+2. Per l'attuazione dei servizi necessari ad assicurare condizioni di sicurezza allo svolgimento delle manifestazioni di cui al comma 1 e per le connesse esigenze amministrative, tecniche e logistiche e' autorizzata, altresi', la spesa complessiva di lire 6.700 milioni da destinare ai pertinenti capitoli di bilancio del Ministero dell'interno per la successiva assegnazione dei fondi alle contabilita' speciali delle prefetture interessate, che, ove occorre, sono autorizzate a prelevare le somme necessarie dai fondi in genere delle medesime contabilita' speciali. All'onere derivante dal presente comma si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
 
 Art. 13
 -------
@@ -198,6 +210,24 @@ e) al comma 80 le parole: "dei commi da 75 a 81" sono sostituite dalle seguenti:
 Art. 14
 -------
 
+Trasformazione del diritto di superficie in diritto  
+di proprieta' per aree destinate ad insediamenti produttivi
+
+1. I comuni possono cedere in proprieta' le aree, gia' concesse in diritto di superficie, destinate ad insediamenti produttivi delimitate ai sensi dell'[articolo 27 della legge 22 ottobre 1971, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-22;865~art27); si applicano in quanto compatibili i [commi 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art3-com76), [77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art3-com77), [78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art3-com78), [79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art3-com79) e [81 dell'articolo 3 della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art3-com81), ed i relativi introiti sono utilizzati dai comuni in via prioritaria per l'acquisizione di aree da destinare ad insediamenti produttivi.
+
+Art. 15
+-------
+
+Fondo di solidarieta' per il personale  
+cui e' concessa l'aspettativa sindacale
+
+1. Ai sensi del [comma 2 dell'articolo 14 del decreto-legge 18 gennaio 1993, n. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8~art14-com2), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;68), e' assegnato ai comuni, alle province ed alle comunita' montane un contributo corrispondente alla spesa sostenuta, dal 1993 e per gli anni seguenti, dagli enti stessi per il personale cui e' stata concessa l'aspettativa per motivi sindacali.
+
+2. All'onere derivante dal presente articolo si provvede con la quota annuale dell'imposta comunale per l'esercizio di imprese, arti e professioni versata allo Stato dai comuni per il tramite delle amministrazioni provinciali, di cui all'[articolo 6 del decreto-legge 2 marzo 1989, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66~art6), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-24;144). Se la quota e' insufficiente il contributo e' ripartito in proporzione ai fondi disponibili. Nel caso in cui dopo il finanziamento dell'onere di cui al comma 1 rimanga invece disponibilita', la quota residua e' redistribuita ai comuni con le modalita' previste per la ripartizione con parametri obiettivi di cui all'[articolo 37 del decreto legislativo 30 dicembre 1992, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;504~art37), e successive modificazioni.
+
+Art. 16
+-------
+
 Entrata in vigore
 
 1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
@@ -205,7 +235,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1996
+### Dato a Roma, addi' 24 luglio 1996
 
 SCALFARO
 
@@ -218,5 +248,7 @@ CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
 VISCO, Ministro delle finanze
 
 BERLINGUER, Ministro della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica
+
+BASSANINI, Ministro per la funzione pubblica e gli affari regionali
 
 Visto, il Guardasigilli: FLICK

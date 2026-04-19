@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 settembre 1993 n. 370
+DECRETO-LEGGE 19 novembre 1993 n. 465
 
 
-DECRETO-LEGGE 17 settembre 1993 n. 370
-======================================
+DECRETO-LEGGE 19 novembre 1993 n. 465
+=====================================
 
 Proroga delle disposizioni in materia di sgravi contributivi.
 -------------------------------------------------------------
 
-Entrata in vigore del decreto: 20-09-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20-11-1993.Decreto-Legge convertito con modificazioni dalla [L. 14 gennaio 1994, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;21) (in G.U. 15/01/1994, n.11).
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di fiscalizzazione degli oneri sociali per le aree industriali svantaggiate;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 settembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 novembre 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
 
@@ -38,12 +38,12 @@ Art. 1
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 settembre 1993
+### Dato a Roma, addi' 19 novembre 1993
 
 SCALFARO
 

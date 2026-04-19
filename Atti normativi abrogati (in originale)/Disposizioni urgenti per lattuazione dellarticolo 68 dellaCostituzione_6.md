@@ -1,14 +1,14 @@
-DECRETO-LEGGE 08 novembre 1995 n. 466
+DECRETO-LEGGE 12 maggio 1995 n. 165
 
 
-DECRETO-LEGGE 08 novembre 1995 n. 466
-=====================================
+DECRETO-LEGGE 12 maggio 1995 n. 165
+===================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della 
 Costituzione.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 11-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 14/05/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 novembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 maggio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -43,7 +43,7 @@ Art. 3
 Art. 4
 ------
 
-1. Quando occorre eseguire nei confronti di un membro del Parlamento perquisizioni personali o domiciliari, ispezioni personali, intercettazioni,in qualsiasi forma, di conversazioni o comunicazioni, sequestri di corrispondenza, ovvero quando occorre procedere al fermo, all'esecuzione di una misura cautelare personale o all'esecuzione dell'accompagnamento coattivo, l'autorita' giudiziaria richiede direttamente l'autorizzazione della Camera alla quale il soggetto appartiene.
+1. Quando occorre eseguire nei confronti di un membro del Parlamento perquisizioni personali o domiciliari, ispezioni personali, intercettazioni, in qualsiasi forma, di conversazioni o comunicazioni, sequestri di corrispondenza, ovvero quando occorre procedere al fermo, all'esecuzione di una misura cautelare personale o all'esecuzione dell'accompagnamento coattivo, l'autorita' giudiziaria richiede direttamente l'autorizzazione della Camera alla quale il soggetto appartiene.
 
 2. L'autorizzazione non e' richiesta se il membro del Parlamento e' colto nell'atto di commettere un delitto per il quale e' previsto l'arresto obbligatorio in flagranza ovvero si tratta di eseguire una sentenza irrevocabile di condanna.
 
@@ -57,19 +57,17 @@ Art. 5
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 novembre 1995
+### Dato a Roma, addi' 12 maggio 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-Ministri e Ministro del tesoro e,
+MANCUSO, Ministro di grazia e giustizia
 
-ad interim, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: MANCUSO

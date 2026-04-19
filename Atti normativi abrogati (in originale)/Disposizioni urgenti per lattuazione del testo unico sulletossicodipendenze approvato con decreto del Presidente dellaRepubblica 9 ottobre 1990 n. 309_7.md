@@ -1,15 +1,15 @@
-DECRETO-LEGGE 18 novembre 1994 n. 633
+DECRETO-LEGGE 16 gennaio 1995 n. 19
 
 
-DECRETO-LEGGE 18 novembre 1994 n. 633
-=====================================
+DECRETO-LEGGE 16 gennaio 1995 n. 19
+===================================
 
 Disposizioni urgenti per l'attuazione del testo unico sulle 
 tossicodipendenze, approvato con decreto del Presidente della 
 Repubblica 9 ottobre 1990, n. 309.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-11-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/1/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,7 +20,7 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assi
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni al fine di favorire interventi a favore degli stranieri extracomunitari immigrati;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 novembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 gennaio 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la famiglia e la solidarieta' sociale, di concerto con i Ministri dell'interno, delle finanze, del tesoro e della sanita';
 
@@ -47,13 +47,13 @@ e) alla formazione del personale nei settori di specifica competenza.
 
 4. Gli enti, le organizzazioni di volontariato, le cooperative e i privati che operino senza scopi di lucro, iscritti agli albi di cui all'articolo 116 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), ovvero in caso di mancata istituzione dell'albo e nelle more della registrazione temporanea, che si coordinino con la regione o con l'unita' sanitaria locale mediante apposite convenzioni, possono chiedere il finanziamento di progetti di recupero e reinserimento sociale e professionale dei tossicodipendenti, ovvero di sostegno di attivita' di recupero e reinserimento sociale gia' avviate e dettagliatamente documentate.
 
-5. Le regioni possono chiedere il finanziamento di progetti o di attivita' di formazione integrata degli operatori dei servizi pubblici, privati convenzionati e del volontariato per l'assistenza socio-sanitaria alle tossicodipendenze, anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi, nonche' di progetti di formazione di operatori per l'elaborazione di sistemi di verifica e valutazione degli interventi.   
+5. Le regioni possono chiedere il finanziamento di progetti o di attivita' di formazione integrata degli operatori dei servizi pubblici, privati convenzionati e del volontariato per l'assistenza socio-sanitaria alle tossicodipendenze, anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi, nonche' di progetti di formazione di operatori per l'elaborazione di sistemi di verifica e valutazione degli interventi.  
 Al finanziamento di tale iniziativa e' destinata una quota del 3 per cento del Fondo; per gli anni 1994 e 1995 un'ulteriore quota del 3 per cento e' attribuita a progetti per la realizzazione di sistemi di verifica, anche a distanza di tempo, e di valutazione dell'efficacia degli interventi sul territorio.
 
 Art. 2
 ------
 
-1. Le somme stanziate per il fondo di cui all'articolo 1 e non impegnate alla chiusura di ciascun esercizio finanziario sono conservate in bilancio, per gli stessi fini, nei due anni successivi.   
+1. Le somme stanziate per il fondo di cui all'articolo 1 e non impegnate alla chiusura di ciascun esercizio finanziario sono conservate in bilancio, per gli stessi fini, nei due anni successivi.  
 Per l'anno 1995 sono conservate in bilancio le somme iscritte in conto competenza ed in conto residui non impegnate nell'anno 1994.
 
 2. Le somme stanziate per il Fondo, relative agli esercizi finanziari 1994 e 1995, sono ripartite tutte nell'esercizio finanziario 1995, su presentazione di progetti relativi, congiuntamente o disgiuntamente, ai due anni finanziari, con indicazione del finanziamento attribuito per ciascuno dei due anni.
@@ -62,11 +62,11 @@ Per l'anno 1995 sono conservate in bilancio le somme iscritte in conto competenz
 
 4. Il funzionario delegato puo' disporre una anticipazione fino al 50 per cento dell'importo del finanziamento assentito. I successivi pagamenti sono disposti sulla base degli stati di avanzamento dell'esecuzione dei singoli progetti regolarmente documentati.
 
-5. Alla gestione dei fondi mediante apertura di credito si applica il disposto di cui all'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art61bis), introdotto dall'[articolo 3 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;627~art3). In deroga alle vigenti norme sulla contabilita' dello Stato le somme accreditate in contabilita' speciale ai prefetti per il pagamento dei progetti finanziati ai sensi degli articoli 132 e 134 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), relativamente all'esercizio 1993, residui 1992, possono essere mantenute per il 1994.
+5. Alla gestione dei fondi mediante apertura di credito si applica il disposto di cui all'[articolo 61-bis del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art61bis), introdotto dall'[articolo 3 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;627~art3). In deroga alle vigenti norme sulla contabilita' dello Stato le somme accreditate in contabilita' speciale ai prefetti per il pagamento dei progetti finanziati ai sensi degli articoli 132 e 134 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), relativamente all'esercizio 1993, residui 1992, possono essere mantenute per il 1994 e per il 1995.
 
 6. I controlli sui rendiconti e sull'utilizzo delle somme erogate per il finanziamento dei progetti di cui al comma 3 sono effettuati dalle ragionerie provinciali dello Stato e dalle delegazioni regionali della Corte dei conti, secondo le modalita' stabilite dalla normativa vigente. Sono inoltre autorizzate le visite ispettive di cui all'[articolo 65 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art65), le cui risultanze vengono riassunte e coordinate da un dirigente generale della Ragioneria generale dello Stato, operante nell'ambito della Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, all'uopo nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, e collocato fuori ruolo ai sensi e per gli effetti degli articoli 58 e 59 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3).
 
-7. All'articolo 100, comma 5, del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), sono aggiunte, in fine, le seguenti parole: ", nonche' della Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, per gli interventi di prevenzione, recupero e reinserimento sociale dei tossicodipendenti.".
+7. All'articolo 100, comma 5, del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), sono aggiunte, in fine, le seguenti parole: ", nonche' della Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, per gli interventi di prevenzione, recupero e reinserimento sociale dei tossicodipendenti".
 
 8. Le regioni trasmettono alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, una relazione annuale sull'impiego dei fondi ad esse trasferiti per la finalita' di cui all'articolo 1, comma 5, e sugli specifici risultati conseguiti.
 
@@ -86,7 +86,7 @@ Art. 3
 Art. 4
 ------
 
-1. A decorrere dall'esercizio finanziario 1996, sono trasferite alle regioni, in proporzione del numero degli abitanti, le somme da destinare al finanziamento di enti, organizzazioni di volontariato, cooperative e privati, nella misura del 25% delle disponibilita' del Fondo. Le regioni provvedono ad erogare i finanziamenti nel termine di centoventi giorni dalla pubblicazione nella Gazzetta Ufficiale del decreto del Ministro per la famiglia e la solidarieta' sociale che dispone la ripartizione delle somme. In caso di inutile decorso del termine, il Ministro per la famiglia e la solidarieta' sociale esercita i poteri di cui all'[articolo 4, comma 3, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616~art4-com3), e di cui all'[articolo 2 della legge 22 luglio 1975, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382~art2).
+1. A decorrere dall'esercizio finanziario 1996, sono trasferite alle regioni, in proporzione del numero degli abitanti, le somme da destinare al finanziamento di enti, organizzazioni di volontariato, cooperative e privati, nella misura del 25 per cento delle disponibilita' del Fondo. Le regioni provvedono ad erogare i finanziamenti nel termine di centoventi giorni dalla pubblicazione nella Gazzetta Ufficiale del decreto del Ministro per la famiglia e la solidarieta' sociale che dispone la ripartizione delle somme. In caso di inutile decorso del termine, il Ministro per la famiglia e la solidarieta' sociale esercita i poteri di cui all'[articolo 4, comma terzo, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616~art4-com3), e di cui all'[articolo 2 della legge 22 luglio 1975, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382~art2).
 
 2. Nel corso dell'anno 1995 le regioni provvedono a predisporre i criteri e le modalita' per l'attribuzione dei finanziamenti, nonche' gli strumenti di verifica dell'efficacia degli interventi, anche avvalendosi, a tali fini, della cooperazione degli enti ausiliari, del volontariato, delle cooperative e dei privati che operano sul loro territorio.
 
@@ -114,8 +114,8 @@ Art. 6
 
 1. All'articolo 1 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), sono apportate le seguenti modificazioni:
 
-a) l'alinea del comma 8 e' sostituito dal seguente:   
-"L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:";
+a) l'alinea del comma 8 e' sostituito dal seguente:  
+" 8. L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, anche in base alle metodiche poste in essere dall'ISTAT, acquisisce periodicamente e sistematicamente dati:";
 
 b) nella lettera h) del comma 8 e' aggiunto il seguente periodo: "Le altre strutture pubbliche che provvedono all'acquisizione ed elaborazione di dati connessi al fenomeno delle tossicodipendenze in Italia comunicano periodicamente all'Osservatorio i dati in loro possesso.";
 
@@ -126,12 +126,9 @@ d) al comma 14 le parole: "31 gennaio" sono sostituite dalle seguenti: "31 marzo
 Art. 7
 ------
 
-1. All'articolo 128 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e' aggiunto, in fine, il seguente comma:   
-"4-bis. La costruzione, l'ampliamento o il recupero di immobili destinati a comunita' terapeutiche di cui al comma 1, nonche' ogni altro intervento edificativo necessario per il conseguimento delle finalita', sia di recupero socio-sanitario che di reinserimento socio-lavorativo, delle suddette comunita', rientrano nella previsione di cui all'[articolo 9 della legge 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10~art9), a condizione che su detti immobili ed interventi edificativi sia posto un vincolo almeno cinquantennale di destinazione d'uso a comunita' terapeutiche.".
-
-2. All'articolo 129 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e' aggiunto, in fine, il seguente comma:   
+1. All'articolo 129 del testo unico sulle tossicodipendenze, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), e' aggiunto, in fine, il seguente comma:  
 "3-bis. Gli enti che intendono avere in uso gli immobili di cui al comma 1 ne fanno domanda alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, che provvede a trasmettere la domanda al Ministero delle finanze - Dipartimento del territorio - Direzione centrale del demanio, entro sessanta giorni, corredandola con il proprio parere. Il Ministro delle finanze provvede sull'istanza entro centottanta giorni dalla data di ricezione.  
-Trascorso inutilmente tale termine, il Ministro per la famiglia e la solidarieta' sociale puo' chiedere che la questione sia iscritta all'ordine del giorno del Consiglio dei Ministri.".
+Trascorso inutilmente tale termine, il Ministro per la famiglia e la solidarieta' sociale puo' chiedere che la questione sia iscritta all'ordine del giorno del Consiglio dei Ministri".
 
 Art. 8
 ------
@@ -144,8 +141,6 @@ Art. 8
 
 4. Nei concorsi pubblici per il primo conferimento dei posti istituiti negli organici dei SERT in attuazione del [decreto del Ministro della sanita' 30 novembre 1990, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1990-11-30;444), fermo restando il punteggio massimo previsto per il curriculum formativo e professionale dalle vigenti disposizioni in materia, e' attribuito un punteggio ulteriore, di uguale entita' massima, per i titoli riguardanti l'attivita' svolta nel settore del trattamento e della riabilitazione degli stati di dipendenza da sostanze stupefacenti o psicotrope.
 
-5. Non si applica ai concorsi pubblici di cui al comma 4 la disposizione prevista dall'[articolo 8, comma 1, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com1).
-
 Art. 9
 ------
 
@@ -154,34 +149,17 @@ Art. 9
 Art. 10
 -------
 
-1. La Commissione per la parita' e per le pari opportunita' tra uomo e donna si avvale di un coordinatore, particolarmente esperto nelle materie di specifica competenza, nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Presidente della Commissione.
-
-2. Le somme destinate alla realizzazione delle finalita' della Commissione, contenute, in ogni caso, nell'ambito degli ordinari stanziamenti di bilancio, potranno essere utilizzate anche per riconoscere ai componenti della Commissione e dei gruppi di lavoro istituiti nell'ambito della stessa, al coordinatore ed ai segretari, gettoni di presenza per l'attivita' svolta in seno al collegio, nella misura da determinarsi con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, nonche' per fronteggiare ogni altra spesa anche di rappresentanza.
-
-3. Le spese di cui al presente articolo non impegnate entro l'anno di competenza possono esserlo nell'anno successivo.
-
-4. All'[articolo 3, comma 1, della legge 22 giugno 1990, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-22;164~art3-com1), sono apportate le seguenti modificazioni:
-
-a) l'alinea e' sostituito dal seguente:   
-" 1. La Commissione dura in carica tre anni ed e' composta da trenta donne, nominate dal Presidente del Consiglio dei Ministri con proprio decreto:";
-
-b) la lettera c) e' sostituita dalla seguente:   
-" c) quattro, prescelte nell'ambito delle organizzazioni sindacali dei lavoratori maggiormente rappresentative sul piano nazionale;".
+1. E' abrogata ogni disposizione in contrasto con il presente decreto.
 
 Art. 11
 -------
 
-1. E' abrogata ogni disposizione in contrasto con il presente decreto.
-
-Art. 12
--------
-
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 novembre 1994
+### Dato a Roma, addi' 16 gennaio 1995
 
 SCALFARO
 

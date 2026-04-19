@@ -1,14 +1,14 @@
-DECRETO-LEGGE 30 ottobre 1995 n. 456
+DECRETO-LEGGE 01 settembre 1995 n. 369
 
 
-DECRETO-LEGGE 30 ottobre 1995 n. 456
-====================================
+DECRETO-LEGGE 01 settembre 1995 n. 369
+======================================
 
 Provvedimenti urgenti per il personale dell'Amministrazione 
 penitenziaria e per il servizio di traduzione dei detenuti.
 ------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 4-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 4/9/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,16 +17,17 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di aumentare l'organico del Corpo di polizia penitenziaria, di istituire mense ed asili nido per i dipendenti dell'Amministrazione penitenziaria e di stabilire modalita' per la graduale cessione del servizio di traduzione dei detenuti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 ottobre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 settembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia, di concerto con i Ministri dell'interno, della difesa e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia, di concerto con i Ministri dell'interno, della difesa e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-Interventi concernenti il Corpo di polizia penitenziaria
+Interventi concernenti  
+il Corpo di polizia penitenziaria
 
 1. L'organico del Corpo di polizia penitenziaria stabilito dalla tabella A allegata al [decreto legislativo 12 maggio 1995, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200), e' aumentato nel ruolo degli agenti e degli assistenti di millequattrocento unita' di personale maschile.
 
@@ -38,7 +39,7 @@ Interventi concernenti il Corpo di polizia penitenziaria
 
 5. Alla copertura dei posti disponibili a norma del comma 4 si provvede mediante l'assunzione dei candidati risultati idonei in precedenti concorsi e, se permangono vacanze, mediante assunzione dei volontari delle Forze armate congedati senza demerito, e successivamente mediante assunzione degli ausiliari in congedo dell'Arma dei carabinieri e delle altre Forze di polizia. I periodi di tempo previsti dagli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443~art6) e [7 del decreto legislativo 30 ottobre 1992, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443~art7), sono ridotti ad un quarto fino al 31 dicembre 1997. Sono comunque fatte salve le procedure gia' avviate per il reclutamento di agenti ausiliari del Corpo di polizia penitenziaria, le procedure concorsuali gia' in atto, nonche' le procedure per le riammissioni in servizio ai sensi dell'[articolo 42 del decreto legislativo 30 ottobre 1992, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-10-30;443~art42).
 
-6. Ai fini delle assunzioni a norma dei commi 2, 3 e 5 sono formate distinte graduatorie secondo i criteri stabiliti da un decreto interministeriale da emanarsi entro il 30 gennaio 1996, d'intesa tra il Ministro di grazia e giustizia, il Ministro dell'interno e il Ministro della difesa. Con il medesimo decreto sono stabilite le modalita' e i termini di presentazione delle domande ed e' costituita presso il Dipartimento dell'amministrazione penitenziaria un'apposita commissione per gli accertamenti psicofisici.
+6. Ai fini delle assunzioni a norma dei commi 2, 3 e 5 sono formate distinte graduatorie secondo i criteri stabiliti da un decreto interministeriale da emanarsi, entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, d'intesa tra il Ministro di grazia e giustizia, il Ministro dell'interno e il Ministro della difesa. Con il medesimo decreto sono stabilite le modalita' e i termini di presentazione delle domande ed e' costituita presso il Dipartimento dell'amministrazione penitenziaria un'apposita commissione per gli accertamenti psicofisici.
 
 7. Il Ministro di grazia e giustizia, di concerto con il Ministro dell'interno e, rispettivamente, con il Ministro delle finanze o della difesa, puo' disporre, con proprio decreto, che i corsi di formazione previsti dal presente articolo si svolgano presso strutture e con personale delle altre Forze di polizia, compatibilmente con le esigenze funzionali di ciascuna amministrazione.
 
@@ -56,12 +57,12 @@ penitenziaria e sulle modalita' di traduzione dei detenuti
 
 1. Nell'[articolo 8, comma 1, lettera d), del decreto legislativo 12 maggio 1995, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;200~art8-com1-letd), le parole: "a norma dell'articolo 2," sono sostituite dalle seguenti: "a norma dell'articolo 7,".
 
-2. Le modalita' per la graduale cessione del servizio di traduzioni dei detenuti e degli internati dall'Arma dei carabinieri e dalla Polizia di Stato al Corpo della polizia penitenziaria, da attuarsi progressivamente a decorrere dal 10 aprile 1996, sono stabilite con decreto del Ministro di grazia e giustizia, previo concerto con i Ministri dell'interno e della difesa, da emanarsi entro il mese di dicembre 1995.
+2. Le modalita' per la graduale cessione del servizio di traduzioni dei detenuti e degli internati dall'Arma dei carabinieri e dalla Polizia di Stato al Corpo della polizia penitenziaria, da attuarsi progressivamente a decorrere dal 1 aprile 1996, sono stabilite con decreto del Ministro di grazia e giustizia, previo concerto con i Ministri dell'interno e della difesa, da emanarsi entro il mese di dicembre 1995.
 
 Art. 3
 ------
 
-Copertura finanziaria
+Copertura fianziaria
 
 1. All'onere finanziario derivante dall'attuazione dell'articolo 1, valutato in lire 21.391 milioni per l'anno 1995, in lire 55.333 milioni per l'anno finanziario 1996 e in lire 54.933 milioni annui a decorrere dal 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, sul capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1995, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero di grazia e giustizia.
 
@@ -72,20 +73,18 @@ Art. 4
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1995
+### Dato a Roma, addi' 1 settembre 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-Ministri e Ministro del tesoro e,
-
-ad interim, Ministro di grazia e giustizia
+MANCUSO, Ministro di grazia e giustizia
 
 CORONAS, Ministro dell'interno
 
@@ -93,4 +92,4 @@ CORCIONE, Ministro della difesa
 
 MASERA, Ministro del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: MANCUSO

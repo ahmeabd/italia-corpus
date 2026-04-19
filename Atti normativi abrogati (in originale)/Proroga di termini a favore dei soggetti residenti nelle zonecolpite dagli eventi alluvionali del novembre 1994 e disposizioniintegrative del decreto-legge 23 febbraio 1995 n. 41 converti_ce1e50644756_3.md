@@ -1,7 +1,7 @@
-DECRETO-LEGGE 10 giugno 1995 n. 226
+DECRETO-LEGGE 03 agosto 1995 n. 324
 
 
-DECRETO-LEGGE 10 giugno 1995 n. 226
+DECRETO-LEGGE 03 agosto 1995 n. 324
 ===================================
 
 Proroga di termini a favore dei soggetti residenti nelle zone 
@@ -10,7 +10,7 @@ integrative del decreto-legge 23 febbraio 1995, n. 41, convertito,
 con modificazioni, dalla legge 22 marzo 1995, n. 85.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 10/6/95.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 5/8/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti proroga di termini a favore dei soggetti residenti nelle zone colpite dagli eventi alluvionali del novembre 1994 e disposizioni integrative del [decreto-legge 23 febbraio 1995, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;85);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 giugno 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 agosto 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze, di concerto con i Ministri del bilancio e della programmazione economica e dell'interno;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze, di concerto con il Ministro dell'interno;
 
 E M A N A il seguente decreto-legge:
 
@@ -71,37 +71,68 @@ L'autorizzazione e' valida per gli esercizi 1995 e 1996.
 
 6. Dopo il [comma 9 dell'articolo 6 del decreto-legge 24 novembre 1994, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646~art6-com9), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-01-21;22), sono aggiunti i seguenti commi:  
 "9-bis. Per i casi in cui l'importo della rata dei contributi ordinari di cui al comma 9 non consenta il recupero integrale dell'anticipazione, i comuni interessati sono tenuti a versare, sulla base dei dati forniti dal Ministero dell'interno, l'importo differenziale ad apposito capitolo dell'entrata del bilancio dello Stato entro il 30 settembre 1995.  
-9-ter. Lo stanziamento del capitolo 1601 del Ministero dell'interno e' integrato, per l'anno 1995, dell'importo di lire 112.000 milioni, corrispondente all'ammontare delle anticipazioni che eccedono la seconda rata dei contributi ordinari 1995. All'onere derivante dal presente comma si provvede mediante utilizzo delle entrate di cui al comma 9-bis che restano acquisite al bilancio dello Stato. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.".
+9-ter. Lo stanziamento del capitolo 1601 del Ministero dell'interno e' integrato, per l'anno 1995, dell'importo di lire 112.000 milioni, corrispondente all'ammontare delle anticipazioni che eccedono la seconda rata dei contributi ordinari 1995. All'onere derivante dal presente comma si provvede mediante utilizzo delle entrate di cui al comma 9-bis che restano acquisite al bilancio dello Stato. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
 
 Art. 3
 ------
 
-Modificazioni alla disciplina IVA in materia di autoconsumo, di rettifica della detrazione e di aliquota per le radiodiffusioni.
+Interventi di coordinamento delle disposizioni di cui al  
+decreto-legge 3 maggio 1995, n. 154, convertito, con  
+modificazioni, dalla legge 30 giugno 1995, n. 265, con le  
+disposizioni di provvedimenti emanati a seguito dei recenti eventi  
+alluvionali.
+
+1. Al [comma 8 dell'articolo 2 del decreto-legge 19 dicembre 1994, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-19;691~art2-com8), convertito, con modificazioni, dalla [legge 16 febbraio 1995, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-16;35), sono soppressi il primo e il secondo periodo e nel terzo periodo le parole: "del massimale o delle percentuali" sono soppresse.
+
+2. L'ultimo periodo del [comma 3-ter dell'articolo 5 del decreto-legge 3 maggio 1995, n. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-03;154~art5-com3ter), convertito, con modificazioni, dalla [legge 30 giugno 1995, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-30;265), e' soppresso.
+
+3. Il primo periodo del [comma 7 dell'articolo 3 del decreto-legge 19 dicembre 1994, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-19;691~art3-com7), convertito, con modificazioni, dalla [legge 16 febbraio 1995, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-16;35), e' soppresso.
+
+4. La [lettera b-bis) del comma 3 dell'articolo 5 del decreto-legge 3 maggio 1995, n. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-03;154~art5-com3-letbbis), convertito, con modificazioni, dalla [legge 30 giugno 1995, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-30;265), e' soppressa.
+
+5. All'[articolo 3-bis del decreto-legge 19 dicembre 1994, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-19;691~art3bis), convertito, con modificazioni, dalla [legge 16 febbraio 1995, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-16;35), dopo il comma 1 e' inserito il seguente:  
+"1-bis. Le provvidenze previste dall'articolo 3 e dal presente articolo possono essere accordate dalla Cassa per il credito alle imprese artigiane S.p.a. - Artigiancassa, anche in relazione ai danni subiti da eventuali attivita' commerciali svolte dalle imprese artigiane nel rispetto di quanto previsto dalla [legge 8 agosto 1985, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;443).".
+
+6. Alla [lettera b) del comma 1 dell'articolo 1 del decreto-legge 19 dicembre 1994, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-19;691~art1-com1-letb), convertito, con modificazioni, dalla [legge 16 febbraio 1995, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-16;35), dopo le parole: "ad uso abitativo" sono inserite le seguenti: "e non abitativo".
+
+7. Il [comma 3 dell'articolo 2-bis del decreto-legge 19 dicembre 1994, n. 691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-19;691~art2bis-com3), convertito, con modificazioni, dalla [legge 16 febbraio 1995, n. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-02-16;35), e' soppresso.
+
+8. All'[articolo 3 del decreto-legge 3 maggio 1995, n. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-03;154~art3), convertito, con modificazioni, dalla [legge 30 giugno 1995, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-30;265), dopo il comma 1 e' aggiunto il seguente:  
+"1-bis. Per le procedure relative alla concessione dei mutui di cui al [comma 2 dell'articolo 1, del decreto-legge 24 novembre 1994, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646~art1-com2), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-01-21;22), si applicano le disposizioni di cui all'[articolo 10, commi 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646~art10-com11), [12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646~art10-com12) e [13, del decreto-legge 24 novembre 1994, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646~art10-com13), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-01-21;22). Le modalita' e le procedure da adottare per il riparto dell'importo disponibile sono analoghe a quelle deliberate dalla Conferenza per i rapporti tra lo Stato, le regioni e le province autonome per i mutui di cui all'articolo 1.".
+
+9. All'[articolo 6, comma 1, del decreto-legge 24 novembre 1994, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-24;646~art6-com1), convertito, con modificazioni, dalla [legge 21 gennaio 1995, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-01-21;22), dopo le parole: "comma 1," sono inserite le seguenti: "che hanno subito rilevanti danni attestati mediante certificazione resa con le modalita' di cui al comma 12", nello stesso comma le parole: "28 febbraio 1995" sono sostituite con le seguenti: "31 dicembre 1995" ed e' aggiunto, in fine, il seguente periodo: "L'efficacia degli atti o dei provvedimenti emanati nel periodo compreso tra il 28 febbraio 1995 e la data di entrata in vigore del presente decreto e' sospesa fino alla scadenza del termine del 31 dicembre 1995.".
+
+Art. 4
+------
+
+Modificazioni alla disciplina IVA in materia di autoconsumo, di  
+rettifica della detrazione e di aliquota per le radiodiffusioni.
 
 1. Al [decreto-legge 23 febbraio 1995, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;85), sono apportate le seguenti modificazioni:
 
 a) nell'articolo 10, comma 2, lettera b), numero 2-bis), dopo le parole "prosciutto cotto", sono aggiunte le seguenti: "(v.d. ex 16.02)";
 
-b) l'articolo 16-bis e' sostituito dal seguente: "Art. 16-bis (Modifiche in materia di autoconsumo e di rettifica della detrazione IVA). - 1. Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633), sono apportate le seguenti modificazioni:  
+b) l'articolo 16-bis e' sostituito dal seguente:  
+"Art. 16-bis (Modifiche in materia di autoconsumo e di rettifica della detrazione IVA). - 1. Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633), sono apportate le seguenti modificazioni:  
 a) nell'articolo 2, secondo comma, il numero 4) e' sostituito dal seguente: '4) le cessioni gratuite di beni ad esclusione di quelli la cui produzione o il cui commercio non rientra nell'attivita' propria dell'impresa se di costo unitario non superiore a lire cinquantamila e di quelli per i quali non sia stata operata, all'atto dell'acquisto o dell'importazione, la detrazione dell'imposta a norma dell'articolo 19, anche se per effetto dell'opzione di cui all'articolo 36-bis;';  
 b) nell'articolo 3, terzo comma, e' premesso il seguente periodo: 'Le prestazioni indicate nei commi primo e secondo sempreche' l'imposta afferente agli acquisti di beni e servizi relativi alla loro esecuzione sia detraibile, costituiscono per ogni operazione di valore superiore a lire cinquantamila prestazioni di servizi anche se effettuate per l'uso personale o familiare dell'imprenditore, ovvero a titolo gratuito per altre finalita' estranee all'esercizio dell'impresa, ad esclusione delle somministrazioni nelle mense aziendali e delle prestazioni di trasporto, didattiche, educative e ricreative, di assistenza sociale e sanitaria, a favore del personale dipendente.';  
 c) nell'articolo 6, terzo comma, e' aggiunto, in fine, il seguente periodo: 'Quelle indicate nell'articolo 3, terzo comma, primo periodo, si considerano effettuate al momento in cui sono rese, ovvero, se di carattere periodico o continuativo, nel mese successivo a quello in cui sono rese.';  
-d) nell'articolo 13, secondo comma, la lettera c) e' sostituita dalla seguente: ' c) per le cessioni indicate ai numeri 4), 5) e 6) dell'articolo 2, per le prestazioni e le assegnazioni di cui all'articolo 3, terzo comma, primo e secondo periodo, e per le cessioni di beni e per le prestazioni di servizi effettuate per estinguere precedenti obbligazioni, dal valore normale dei beni e delle prestazioni;';  
-e) nell'articolo 18, il terzo comma e' sostituito dal seguente: 'La rivalsa non e' obbligatoria per le cessioni di cui ai numeri 4) e 5) dell'articolo 2 e per le prestazioni di servizi di cui al terzo comma, primo periodo, dell'articolo 3.';  
+d) nell'articolo 13, secondo comma, la lettera c) e' sostituita dalla seguente: ' c) per le cessioni indicate ai numeri 4), 5) e 6) del secondo comma dell'articolo 2, per le prestazioni e le assegnazioni di cui all'articolo 3, terzo comma, primo e secondo periodo, e per le cessioni di beni e per le prestazioni di servizi effettuate per estinguere precedenti obbligazioni, dal valore normale dei beni e delle prestazioni;';  
+e) nell'articolo 18, il terzo comma e' sostituito dal seguente: 'La rivalsa non e' obbligatoria per le cessioni di cui ai numeri 4) e 5) del secondo comma dell'articolo 2 e per le prestazioni di servizi di cui al terzo comma, primo periodo, dell'articolo 3.';  
 f) nell'articolo 19-bis, sesto comma, dopo le parole 'Se i beni ammortizzabili' sono inserite le seguenti: 'o comunque gli immobili'.";
 
 c) all'articolo 34, comma 5, le parole "di cui all'ultimo periodo dei commi 2 e 3 per i casi ivi previsti" sono sostituite dalle seguenti: "di cui all'ultimo periodo del comma 2 e agli ultimi due periodi del comma 3 per i casi ivi previsti";
 
-d) nell'articolo 35, comma 1, al primo e al secondo periodo, le parole "31 maggio 1995" sono sostituite dalle seguenti: "30 giugno 1995"; al terzo periodo, le parole "all'ultimo periodo" sono sostituite dalle seguenti: "agli ultimi due periodi";
+d) nell'articolo 35, comma 1, al primo e al secondo periodo, le parole "31 maggio 1995" sono sostituite dalle seguenti: "31 ottobre 1995"; al terzo periodo, le parole "all'ultimo periodo" sono sostituite dalle seguenti: "agli ultimi due periodi";
 
 e) all'articolo 36, sono apportate le seguenti modificazioni:  
 1) al comma 5, lettera b), dopo le parole "prodotti editoriali." sono inserite le seguenti: "di antiquariato;"; nello stesso comma, dopo la lettera b), e' aggiunta la seguente: "b-bis) al 25 per cento del prezzo di vendita per le cessioni di prodotti editoriali diversi da quelli di antiquariato.";  
-2) al comma 6, le parole "Il margine di cui al comma 1 e' determinato globalmente" sono sostituite dalle seguenti: "Salva l'opzione per la determinazione del margine ai sensi del comma 1 da comunicare con le modalita' indicate al comma 8, il margine e' determinato globalmente"; nello stesso comma: le parole "lettera b)" sono sostituite dalle seguenti: "lettere b) e b-bis)"; le parole "di libri" sono sostituite dalle seguenti: "di prodotti editoriali di antiquariato"; sono aggiunte, in fine, le seguenti parole: "nell'ipotesi di applicazione del margine globale.";  
+2) al comma 6, le parole "Il margine di cui al comma 1 e' determinato globalmente" sono sostituite dalle seguenti: "Salva l'opzione per la determinazione del margine ai sensi del comma 1 da comunicare con le modalita' indicate al comma 8, il margine e' determinato globalmente"; nello stesso comma: le parole "lettera b)" sono sostituite dalle seguenti: "lettere b) e b-bis)"; le parole "di libri" sono sostituite dalle seguenti: "di prodotti editoriali di antiquariato"; sono aggiunte, in fine, le seguenti parole: "nell'ipotesi di applicazione del margine globale";  
 3) al comma 10, le parole "Agli effetti della presente sezione" sono sostituite dalle seguenti: "Negli scambi intracomunitari tra soggetti passivi di imposta che applicano il regime del margine"; nello stesso comma, secondo periodo, dopo le parole "mezzi di trasporto usati" sono inserite le seguenti: "da chiunque";
 
 f) all'articolo 40, comma 1, primo periodo, sono soppresse le parole: "acquistati o importati a decorrere dalla stessa data"; nello stesso comma, ultimo periodo, le parole "entro tre mesi" sono sostituite dalle seguenti: "entro cinque mesi";
 
-g) all'articolo 46, comma 1, capoverso 3-bis) le parole "entro il" sono sostituite dalle seguenti: "entro i venti giorni successivi al".
+g) all'articolo 46, comma 1, capoverso 3-bis), le parole "entro il" sono sostituite dalle seguenti: "entro i venti giorni successivi al".
 
 2. Nell'[articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art10), il [numero 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;15)) e' sostituito dal seguente: "15) le prestazioni di trasporto di malati o feriti con veicoli all'uopo equipaggiati, effettuate da imprese autorizzate;".
 
@@ -115,9 +146,9 @@ c) nel numero 36), dopo le parole "radiodiffusioni circolari" e' soppressa la pa
 
 4. Le disposizioni del comma 1, lettere a) e b), e quelle dei commi 2 e 3 si applicano dal 24 marzo 1995.
 
-5. Alle minori entrate derivanti dalla disposizione di cui al comma 3, lettera c), valutate in lire 30 miliardi per l'anno 1995 e in lire 35 miliardi a decorrere dall'anno 1996, si provvede con le maggiori entrate derivanti dalla disposizione di cui all'[articolo 16-bis, comma 1, lettera f), del decreto-legge 23 febbraio 1995, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41~art16bis-com1-letf), convertito, con modificazioni, della [legge 22 marzo 1995, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;85), come sostituito dal comma 1, lettera b), del presente articolo.
+5. Alle minori entrate derivanti dalla disposizione di cui al comma 3, lettera c), valutate in lire 30 miliardi per l'anno 1995 e in lire 35 miliardi a decorrere dall'anno 1996, si provvede con le maggiori entrate derivanti dalla disposizione di cui all'[articolo 16-bis, comma 1, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41~art16bis-com1-leta) e [f), del decreto-legge 23 febbraio 1995, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-23;41~art16bis-com1-letf), convertito, con modificazioni, dalla [legge 22 marzo 1995, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-22;85), come sostituito dal comma 1, lettera b), del presente articolo.
 
-Art. 4
+Art. 5
 ------
 
 Altre disposizioni fiscali urgenti  
@@ -138,15 +169,21 @@ c) nell'articolo 2, commi 2 e 6, le parole "decorrenti da esercizi precedenti" s
 
 3. L'[articolo 2, comma 2, del decreto-legge 30 settembre 1994, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-30;564~art2-com2), convertito, con modificazioni, dalla [legge 30 novembre 1994, n. 656](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-30;656), va interpretato nel senso che le riserve indivisibili vanno assunte, in ciascun esercizio, al netto della differenza tra il valore delle partecipazioni, determinato ai sensi dell'[articolo 1, comma 4, del decreto-legge 30 settembre 1992, n. 394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-30;394~art1-com4), convertito, con modificazioni, dalla [legge 26 novembre 1992, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;461), e il patrimonio assoggettato all'imposta ordinaria ai sensi del predetto comma 4, applicando su tale differenza l'imposta straordinaria nella misura dell'1 per mille.
 
-4. All'[articolo 2, comma 3, del decreto-legge 30 settembre 1994, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-30;564~art2-com3), convertito, con modificazioni, dalla [legge 30 novembre 1994, n. 656](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-30;656), dopo le parole "e loro consorzi" sono aggiunte le seguenti: "nonche' i consorzi di garanzia collettiva fidi, costituiti anche sotto forma di societa' cooperativa o consortile, di cui all'articolo 155, comma 4, del testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385). Non si fa luogo a rimborsi.  
-5. Il [comma 1 dell'articolo 29 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art29-com1), e' sostituito dal seguente: " 1. Il Ministro delle finanze e' autorizzato ad emanare, con proprio decreto, entro dodici mesi dalla data di entrata in vigore della presente legge, specifiche disposizioni per l'obbligo di installazione di lettori a scheda magnetica o qualsiasi altro dispositivo idoneo a certificare gli incassi sugli apparecchi di gioco elettromagnetici od elettronici, nonche' sui distributori automatici di cibo e bevande, installati in qualsiasi locale in cui abbia accesso il pubblico, nei luoghi di lavoro e nelle mense aziendali.".  
-6. I canoni per i beni patrimoniali e demaniali dello Stato di cui all'[articolo 32 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art32), concessi o locati a privati nel corso del 1994 o in data anteriore, sono corrisposti, per l'anno 1995, in due soluzioni. La prima rata, di ammontare corrispondente alla misura dovuta per il 1994, viene versata entro il 30 giugno 1995; la seconda, a saldo dell'ammontare complessivo determinato ai sensi del predetto [articolo 32 della legge n. 724 del 1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994;724~art32), entro il 31 ottobre 1995. L'ammontare complessivo non puo' comunque essere superiore alla media dei prezzi praticati in regime di mercato per immobili aventi caratteristiche analoghe.  
-7. Ai fini della determinazione dei prezzi praticati in regime di mercato, i soggetti assegnatari sono tenuti a presentare all'amministrazione finanziaria una perizia giurata, redatta da un tecnico abilitato ed iscritto all'albo professionale, che determini l'ammontare del canone annuo dovuto in base a tali prezzi.  
-8. Le disposizioni di cui all'[articolo 1, comma 1, della legge 11 luglio 1986, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-11;390~art1-com1), si intendono applicabili anche alle associazioni combattentistiche e d'arma e alle associazioni sportive dilettantistiche individuate con decreto del Ministro delle finanze.  
-9. Al [comma 1-bis dell'articolo 10 del decreto-legge 31 gennaio 1995, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26~art10-com1bis), convertito, con modificazioni, dalla [legge 29 marzo 1995, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95), le parole "28 aprile 1995" sono sostituite dalle seguenti: "30 settembre 1995".  
+4. All'[articolo 2, comma 3, del decreto-legge 30 settembre 1994, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-30;564~art2-com3), convertito, con modificazioni, dalla [legge 30 novembre 1994, n. 656](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-11-30;656), dopo le parole "e loro consorzi" sono aggiunte le seguenti: "nonche' i consorzi di garanzia collettiva fidi, costituiti anche sotto forma di societa' cooperativa o consortile, di cui all'articolo 155, comma 4, del testo unico delle leggi in materia bancaria e creditizia, approvato con [decreto legislativo 1 settembre 1993, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385). Non si fa luogo a rimborsi.".
+
+5. Il [comma 1 dell'articolo 29 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art29-com1), e' sostituito dal seguente: " 1. Il Ministro delle finanze e' autorizzato ad emanare, con proprio decreto, entro dodici mesi dalla data di entrata in vigore della presente legge, specifiche disposizioni per l'obbligo di installazione di lettori a scheda magnetica o qualsiasi altro dispositivo idoneo a certificare gli incassi sugli apparecchi di gioco elettromagnetici od elettronici, nonche' sui distributori automatici di cibo e bevande, installati in qualsiasi locale in cui abbia accesso il pubblico, nei luoghi di lavoro e nelle mense aziendali".
+
+6. I canoni per i beni patrimoniali e demaniali dello Stato di cui all'[articolo 32 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art32), concessi o locati a privati nel corso del 1994 o in data anteriore, sono corrisposti, per l'anno 1995, in due soluzioni. La prima rata, di ammontare corrispondente alla misura dovuta per il 1994, viene versata entro il 30 giugno 1995; la seconda, a saldo dell'ammontare complessivo determinato ai sensi del predetto [articolo 32 della legge n. 724 del 1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994;724~art32), entro il 31 ottobre 1995. L'ammontare complessivo non puo' comunque essere superiore alla media dei prezzi praticati in regime di mercato per immobili aventi caratteristiche analoghe.
+
+7. Ai fini della determinazione dei prezzi praticati in regime di mercato, i soggetti assegnatari sono tenuti a presentare all'amministrazione finanziaria una perizia giurata, redatta da un tecnico abilitato ed iscritto all'albo professionale, che determini l'ammontare del canone annuo dovuto in base a tali prezzi.
+
+8. Le disposizioni di cui all'[articolo 1, comma 1, della legge 11 luglio 1986, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-11;390~art1-com1), si intendono applicabili anche alle associazioni combattentistiche e d'arma e alle associazioni sportive dilettantistiche individuate con decreto del Ministro delle finanze.
+
+9. Al [comma 1-bis dell'articolo 10 del decreto-legge 31 gennaio 1995, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26~art10-com1bis), convertito, con modificazioni, dalla [legge 29 marzo 1995, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-29;95), le parole "28 aprile 1995" sono sostituite dalle seguenti: "30 settembre 1995".
+
 10. Il termine per l'applicabilita' dell'[articolo 72, comma 3, del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art72-com3), e' fissato al 1 gennaio 1995. Di conseguenza all'articolo 79 del citato decreto legislativo, come modificato dall'[articolo 17, comma 1, lettera a), del decreto-legge 10 maggio 1995, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-10;162~art17-com1-leta), le parole "72, commi 2, 3 e 4," sono sostituite dalle seguenti: "72, commi 2 e 4,".
 
-Art. 5
+Art. 6
 ------
 
 Modalita' di versamento di imposte  
@@ -158,25 +195,33 @@ da parte di particolari categorie di imprese
 
 3. I versamenti e gli adempimenti connessi con l'applicazione della sospensione del pagamento delle imposte di cui all'[articolo 1 del decreto-legge 23 dicembre 1993, n. 532](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-23;532~art1), convertito, con modificazioni, dalla [legge 17 febbraio 1994, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-17;111), si intendono regolarmente eseguiti purche' effettuati entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
 
-Art. 6
+Art. 7
+------
+
+Contribuenti residenti nei comuni della Sicilia  
+orientale interessati dal sisma del 1990
+
+1. I contribuenti residenti nei comuni della Sicilia orientale interessati dal sisma del 13 e 16 dicembre 1990 possono, entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, regolarizzare tutte le irregolarita' formali e la mancata allegazione di documenti e dichiarazioni connessi ad adempimenti tributari scaduti alla data del 31 dicembre 1994.
+
+2. Le sanzioni per ritardati versamenti, relativi a imposte dovute per gli esercizi dal 1993 al 1994 dai contribuenti di cui al comma 1, non si applicano se i versamenti sono stati comunque eseguiti entro il 31 dicembre 1994.
+
+Art. 8
 ------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Le disposizioni del presente decreto hanno effetto dal 10 agosto 1995. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 giugno 1995
+### Dato a Roma, addi' 3 agosto 1995
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 FANTOZZI, Ministro delle finanze
-
-MASERA, Ministro del bilancio e della programmazione economica
 
 CORONAS, Ministro dell'interno
 

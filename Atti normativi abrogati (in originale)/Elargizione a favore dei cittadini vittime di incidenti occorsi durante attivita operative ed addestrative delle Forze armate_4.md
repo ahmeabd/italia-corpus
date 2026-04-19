@@ -1,31 +1,31 @@
-DECRETO-LEGGE 27 agosto 1993 n. 325
+DECRETO-LEGGE 28 giugno 1993 n. 210
 
 
-DECRETO-LEGGE 27 agosto 1993 n. 325
+DECRETO-LEGGE 28 giugno 1993 n. 210
 ===================================
 
 Elargizione a favore dei cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate.
 -------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28/08/1993.Decreto-Legge convertito con modificazioni dalla [L. 27 ottobre 1993, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;424) (in G.U. 27/10/1993, n.253).
+Entrata in vigore del decreto: 29/6/93.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'elargizione a favore di cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate;
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'elargizione a favore dei cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 agosto 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 giugno 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con il Ministro del tesoro;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. Alle famiglie dei cittadini italiani, dei cittadini stranieri e degli apolidi che perdono la vita, per effetto di incidenti verificatisi nel corso o in conseguenza di attivita' operative ed addestrative svolte dalle Forze armate nell'adempimento di compiti assegnati, e' concessa una elargizione nella misura di lire 100 milioni.
+1. Alle famiglie dei cittadini italiani, dei cittadini stranieri e degli apolidi che perdono la vita, per effetto di incidenti verificatisi nel corso o in conseguenza di attivita' operative e addestrative svolte dalle Forze armate nell'adempimento di compiti assegnati, e' concessa una elargizione nella misura di lire 100 milioni.
 
 2. L'elargizione spetta solo nel caso in cui la vittima o i suoi aventi causa non abbiano in alcun modo concorso all'incidente con dolo o colpa grave.
 
@@ -34,7 +34,8 @@ Art. 1
 Art. 2
 ------
 
-1. L'elargizione di cui all'articolo 1 e' corrisposta secondo il seguente ordine:
+1. L'elargizione di cui all'articolo 1 e' corrisposta   
+secondo il seguente ordine:
 
 a) coniuge superstite e figli, se a carico;
 
@@ -59,14 +60,14 @@ Art. 4
 Art. 5
 ------
 
-1. I benefici di cui agli articoli 1 e 3 spettano ai soggetti aventi diritto per effetto di eventi verificatisi a partire dal 1› gennaio 1986.
+1. I benefici di cui agli articoli 1 e 3 spettano ai soggetti aventi diritto per effetto di eventi verificatisi a partire dal 1' gennaio 1986.
 
 Art. 6
 ------
 
 1. Agli invalidi di cui all'articolo 3, al coniuge superstite ed ai figli dei soggetti di cui all'articolo 1, se in possesso della cittadinanza italiana, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e successive modificazioni.
 
-2. Ai cittadini italiani infortunati a seguito di incidenti verificatisi nel corso o in conseguenza di attivita' operative ed addestrative svolte dalle Forze armate nell'adempimento di compiti assegnati, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e successive modificazioni, nei casi di una riconosciuta riduzione delle capacita' lavorative superiori all'11 per cento.
+2. Ai cittadini italiani infortunati a seguito di incidenti verificatisi nel corso o in conseguenza di attivita' operative ed addestrative svolte dalle Forze armate nell'adempimento di compiti assegnati, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e successive modificazioni, nei casi di una riconosciuta riduzione delle capacita' lavorative superiore all'11 per cento.
 
 Art. 7
 ------
@@ -76,12 +77,12 @@ Art. 7
 Art. 8
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 agosto 1993
+### Dato a Roma, addi' 28 giugno 1993
 
 SCALFARO
 
@@ -90,5 +91,7 @@ CIAMPI, Presidente del Consiglio dei Ministri
 FABBRI, Ministro della difesa
 
 BARUCCI, Ministro del tesoro
+
+SPAVENTA, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: CONSO

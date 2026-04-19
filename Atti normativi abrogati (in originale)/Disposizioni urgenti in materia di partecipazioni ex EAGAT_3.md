@@ -1,13 +1,13 @@
-DECRETO-LEGGE 08 marzo 1996 n. 112
+DECRETO-LEGGE 03 maggio 1996 n. 248
 
 
-DECRETO-LEGGE 08 marzo 1996 n. 112
-==================================
+DECRETO-LEGGE 03 maggio 1996 n. 248
+===================================
 
 Disposizioni urgenti in materia di partecipazioni ex EAGAT.
 -----------------------------------------------------------
 
-Entrata in vigore del decreto: 10-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in ordine alle procedure attinenti alla definitiva collocazione delle partecipazioni ex EAGAT ed alla conseguente soppressione del comitato di liquidazione dell'Ente autonomo gestione aziende termali (EAGAT);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con il Ministro per la funzione pubblica e gli affari regionali;
 
@@ -33,22 +33,22 @@ Art. 1
 
 4. Il personale in servizio presso il comitato di liquidazione EAGAT ha facolta' di presentare, entro trenta giorni dalla data di entrata in vigore del presente decreto, domanda per essere assunto, per le esigenze connesse alla liquidazione del comitato stesso, presso il Ministero del tesoro - Ragioneria generale dello Stato - Ispettorato generale per gli affari e per la gestione del patrimonio degli enti disciolti, con la procedura di cui all'[articolo 10 del decreto-legge 22 novembre 1994, n. 643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-11-22;643~art10), convertito, con modificazioni, dalla [legge 27 dicembre 1994, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738), ed anche in soprannumero salva la facolta' di presentare, entro il medesimo termine, domanda ai fini dell'applicazione delle disposizioni previste per gli enti in ristrutturazione dall'[articolo 13, comma 4, lettera f), della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art13-com4-letf).
 
-5. Alla copertura dei maggiori oneri, derivanti dall'applicazione del comma 4, si provvede con i risparmi di spesa derivanti dall'[articolo 8 del decreto-legge 8 gennaio 1996, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-01-08;6~art8).
+5. Alla copertura dei maggiori oneri, derivanti dall'applicazione del comma 4, si provvede con i risparmi di spesa derivanti dall'[articolo 8 del decreto-legge 8 gennaio 1996, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-01-08;6~art8), convertito, con modificazioni, dalla [legge 6 marzo 1996, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-06;110).
 
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 marzo 1996
+### Dato a Roma, addi' 3 maggio 1996
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+MOTZO, Ministro per la funzione pubblica e gli affari regionali
 
 Visto, il Guardasigilli: CAIANIELLO

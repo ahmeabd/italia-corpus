@@ -1,13 +1,13 @@
-DECRETO-LEGGE 26 luglio 1989 n. 260
+DECRETO-LEGGE 23 settembre 1989 n. 326
 
 
-DECRETO-LEGGE 26 luglio 1989 n. 260
-===================================
+DECRETO-LEGGE 23 settembre 1989 n. 326
+======================================
 
 Disposizioni urgenti in materia di pubblico impiego.
 ----------------------------------------------------
 
-Entrata in vigore del decreto: 27/7/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-9-1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,16 +16,16 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare una serie di interventi, necessari ed indilazionabili, intesi a ridurre ed a correggere taluni aspetti che determinano la crescita della spesa nel settore del pubblico impiego;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 luglio 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 settembre 1989;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri per la funzione pubblica e del tesoro, di concerto con il Ministro di grazia e giustizia;
 
-E M A N A il seguente decreto:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. Il personale che, esaurite le procedure previste dal [decreto del Presidente del Consiglio dei Ministri 5 agosto 1988, n. 325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1988-08-05;325), risulti soggetto a mobilita' di ufficio, secondo i criteri definiti ai sensi dell'[articolo 1, comma 11, della legge 29 dicembre 1988, n. 554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-29;554~art1-com11), e che non accetti la destinazione alla sede assegnata, ovvero che non assuma servizio in tale sede nel temine stabilito, e' collocato in disponibilita' ai sensi dell'articolo 72 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3). Al personale collocato in disponibilita' non si applicano gli articoli 74, 75, 76 e 77, ultimo comma, dello stesso testo unico.
+1. Il personale che, esaurite le procedure previste dal [decreto del Presidente del Consiglio dei Ministri 5 agosto 1988, n. 325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1988-08-05;325), risulti soggetto a mobilita' di ufficio, secondo i criteri definiti ai sensi dell'[articolo 1, comma 11, della legge 29 dicembre 1988, n. 554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-29;554~art1-com11), e che non accetti la destinazione alla sede assegnata, ovvero che non assuma servizio in tale sede nel termine stabilito, e' collocato in disponibilita' ai sensi dell'articolo 72 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3). Al personale collocato in disponibilita' non si applicano gli articoli 74, 75, 76 e 77, ultimo comma, dello stesso testo unico.
 
 Art. 2
 ------
@@ -83,7 +83,7 @@ Art. 6
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 luglio 1989
+### Dato a Roma, addi' 23 settembre 1989
 
 COSSIGA
 

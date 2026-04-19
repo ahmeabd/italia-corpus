@@ -1,14 +1,14 @@
-DECRETO-LEGGE 11 giugno 1996 n. 315
+DECRETO-LEGGE 12 aprile 1996 n. 193
 
 
-DECRETO-LEGGE 11 giugno 1996 n. 315
+DECRETO-LEGGE 12 aprile 1996 n. 193
 ===================================
 
 Modifiche alla legge 28 dicembre 1993, n. 549, recante misure a 
 tutela dell'ozono stratosferico.
 -------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13-6-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13/4/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di modificare la [legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549), in materia di tutela dell'ozono stratosferico e dell'ambiente, al fine di dare attuazione alla sopravvenuta normativa comunitaria;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 giugno 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 aprile 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente, di concerto con i Ministri di grazia e giustizia, dell'industria, del commercio e dell'artigianato e del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri di grazia e giustizia, dell'industria, del commercio e dell'artigianato e del commercio con l'estero e del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea;
 
 E M A N A il seguente decreto-legge:
 
@@ -29,13 +29,14 @@ Art. 1
 1. All'[articolo 1, comma 1, della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art1-com1), la lettera c) e' sostituita dalla seguente:  
 " c) al [regolamento (CE) n. 3093/1994 del Consiglio del 15 dicembre 1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093), sulle sostanze che riducono lo strato di ozono.".
 
-2. All'[articolo 3, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com1) e [2, della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com2), le parole: "citato [regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal citato [regolamento (CEE) n. 3952/1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952)" sono sostituite dalle seguenti: "[regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093)" e all'articolo 4, comma 1, le parole: "[regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594)" sono sostituite dalle seguenti: "[regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093)".
+2. All'[articolo 3, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com1) e [2, della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com2), le parole: "citato [regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594), come modificato ed integrato dal citato [regolamento (CEE) n. 3952/1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R3952)" sono sostituite dalle seguenti: "[regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093)" e all'articolo 4, comma 1, le parole: "[regolamento (CEE) n. 594/1991](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0594)" sono sostituite dalle seguenti: "[regolamento (CE)  
+n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093).".
 
 Art. 2
 ------
 
 1. I [commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com4) e [5 dell'articolo 3 della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com5), sono sostituiti dal seguente:  
-" 3. Con decreto del Ministro dell'ambiente, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sono stabiliti, in conformita' alle disposizioni ed ai tempi del programma di eliminazione progressiva del [regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093): la data fino alla quale e' consentito l'utilizzo di sostanze di cui alla tabella A allegata alla presente legge, per la manutenzione e la ricarica di apparecchi e di impianti gia' venduti ed installati alla data di entrata in vigore della presente legge ed i tempi e le modalita' per la cessazione dell'utilizzazione delle sostanze di cui alla tabella B allegata alla presente legge, e sono altresi' individuati gli usi essenziali delle sostanze di cui alla indicata tabella B, relativamente ai quali possono essere concesse deroghe a quanto previsto dal presente comma. La produzione, l'utilizzazione, la commercializzazione, l'importazione e l'esportazione delle sostanze di cui alle tabelle A e B allegate alla presente legge cessano comunque il 31 dicembre 2008, fatte salve le sostanze, le lavorazioni e le produzioni non comprese nel campo di applicazione del [regolamento (CE) n. 3093/94](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093), secondo le definizioni ivi previste.".
+" 3. Entro il 31 marzo 1996, con decreto del Ministro dell'ambiente, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sono stabiliti, in conformita' alle disposizioni ed ai tempi del programma di eliminazione progressiva del [regolamento (CE) n. 3093/1994](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994R3093): la data fino alla quale e' consentito l'utilizzo di sostanze di cui alla tabella A allegata alla presente legge, per la manutenzione e la ricarica di apparecchi e di impianti gia' venduti ed installati alla data di entrata in vigore della presente legge ed i tempi e le modalita' per la cessazione dell'utilizzazione delle sostanze di cui alla tabella B allegata alla presente legge, e sono altresi' individuati gli usi essenziali delle sostanze di cui alla indicata tabella B, relativamente ai quali possono essere concesse deroghe a quanto previsto dal presente comma.".
 
 2. Il [comma 6 dell'articolo 3 della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art3-com6), e' sostituito dal seguente:  
 " 4. Le imprese che intendono cessare la produzione e l'utilizzazione delle sostanze di cui alla tabella B, allegata alla presente legge, prima dei termini prescritti, possono concludere appositi accordi di programma con i Ministeri dell'industria, del commercio e dell'artigianato e dell'ambiente, al fine di usufruire degli incentivi di cui all'articolo 10, con priorita' correlata all'anticipo dei tempi di dismissione, secondo le modalita' che saranno fissate con decreto del Ministro dell'industria, del commercio e dell'artigianato, d'intesa con il Ministro dell'ambiente.".
@@ -55,7 +56,7 @@ Art. 4
 ------
 
 1. Il [comma 1 dell'articolo 12 della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art12-com1), e' sostituito dal seguente:  
-" 1. I prodotti e i beni, contenenti le sostanze lesive, prodotti nel territorio dello Stato o provenienti da Stati esteri, a decorrere dal sessantesimo giorno successivo alla data di entrata in vigore del regolamento di cui all'articolo 6, comma 8, lettera i-bis), devono recare sull'etichetta, ovvero sulla superficie esterna, una scritta chiaramente leggibile posta in un punto ben visibile con la seguente dicitura: 'Questo prodotto contiene sostanze che danneggiano l'ozono stratosferico; alla fine del suo utilizzo deve essere consegnato agli appositi centri di raccolta: chiedere informazioni ai Servizi di gestione della nettezza urbana nel vostro comune'.".
+" 1. I prodotti e i beni, contenenti le sostanze lesive, prodotti nel territorio dello Stato o provenienti da Stati esteri, a decorrrere dal sessantesimo giorno successivo alla data di entrata in vigore del regolamento di cui all'articolo 6, comma 8, lettera i-bis), devono recare sull'etichetta, ovvero sulla superficie esterna, una scritta chiaramente leggibile posta in un punto ben visibile con la seguente dicitura: 'Questo prodotto contiene sostanze che danneggiano l'ozono stratosferico; alla fine del suo utilizzo deve essere consegnato agli appositi centri di raccolta: chiedere informazioni ai Servizi di gestione della nettezza urbana nel vostro comune'.".
 
 2. Il [comma 4 dell'articolo 12 della legge 28 dicembre 1993, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;549~art12-com4), e' sostituito dal seguente:  
 " 4. Le medesime informazioni di cui ai commi 1 e 3 devono essere inserite:  
@@ -86,18 +87,18 @@ Art. 7
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1996
+### Dato a Roma, addi' 12 aprile 1996
 
 SCALFARO
 
-PRODI, Presidente del Consiglio dei Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-RONCHI, Ministro dell'ambiente
+BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
-FLICK, Ministro di grazia e giustizia
+CAIANIELLO, Ministro di grazia e giustizia
 
-BERSANI, Ministro dell'industria, del commercio e dell'artigianato
+CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero
 
-CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
+ARCELLI, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
 
-Visto, il Guardasigilli: FLICK
+Visto, il Guardasigilli: CAIANIELLO

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 febbraio 1996 n. 79
+DECRETO-LEGGE 26 aprile 1996 n. 215
 
 
-DECRETO-LEGGE 26 febbraio 1996 n. 79
-====================================
+DECRETO-LEGGE 26 aprile 1996 n. 215
+===================================
 
 Disposizioni urgenti in materia di ordinamento della Corte dei 
 conti.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28-4-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di ordinamento della Corte dei conti per garantire, con la necessaria immediatezza, l'esercizio delle funzioni giurisdizionali e di controllo, anche a seguito di talune esigenze emerse nella fase di prima attuazione delle disposizioni dettate dal [decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), e dalla [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro;
 
@@ -55,18 +55,18 @@ Azione di responsabilita'
 
 1. All'[articolo 1 della legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20~art1), sono apportate le seguenti modificazioni:
 
-a) il comma 2 e' sostituito dal seguente:   
+a) il comma 2 e' sostituito dal seguente:  
 " 2. Il diritto al risarcimento del danno si prescrive in ogni caso in cinque anni, decorrenti dalla data in cui si e' verificato il fatto dannoso, ovvero, in caso di occultamento doloso del danno, dalla data della sua scoperta.";
 
-b) dopo il comma 2-bis, introdotto dall'[articolo 12 del decreto-legge 31 gennaio 1996, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-01-31;38~art12), sono aggiunti i seguenti:   
-"2-ter. Per i fatti verificatisi anteriormente alla data di entrata in vigore della presente legge e per i quali stia decorrendo un termine di prescrizione decennale, la prescrizione si compie entro il 31 dicembre 1998, ovvero nel piu' breve termine dato dal compiersi del decennio.   
-2-quater. La prescrizione e' interrotta dall'avviso di cui all'[articolo 5 del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art5), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), dalla notificazione dell'atto con il quale si inizia il giudizio, dalla sentenza di condanna e, per una sola volta, dagli accertamenti istruttori disposti ai sensi delle vigenti disposizioni.   
-2-quinquies. La prescrizione interrotta comincia nuovamente a decorrere dal giorno dell'interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi. In nessun caso il termine puo' essere protratto oltre i dieci anni dall'atto che ha dato inizio al giudizio, fatti salvi i casi di sospensione e interruzione necessaria del processo ai sensi delle vigenti disposizioni. Non si applicano le disposizioni dell'[articolo 2945, commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com2) e [terzo, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com3).   
-2-sexies. Per i giudizi in corso per i quali e' gia' scaduto il termine decennale di cui al comma 2-quinquies, il medesimo termine e' prorogato fino al 31 dicembre 1996.   
+b) dopo il comma 2-bis, introdotto dall'[articolo 12 del decreto-legge 4 aprile 1996, n. 188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-04-04;188~art12), sono aggiunti i seguenti:  
+"2-ter. Per i fatti verificatisi anteriormente alla data di entrata in vigore della presente legge e per i quali stia decorrendo un termine di prescrizione decennale, la prescrizione si compie entro il 31 dicembre 1998, ovvero nel piu' breve termine dato dal compiersi del decennio.  
+2-quater. La prescrizione e' interrotta dall'avviso di cui all'[articolo 5 del decreto-legge 15 novembre 1993, n. 453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453~art5), convertito, con modificazioni, dalla [legge 14 gennaio 1994, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;19), dalla notificazione dell'atto con il quale si inizia il giudizio, dalla sentenza di condanna e, per una sola volta, dagli accertamenti istruttori disposti ai sensi delle vigenti disposizioni.  
+2-quinquies. La prescrizione interrotta comincia nuovamente a decorrere dal giorno dell'interruzione. Se piu' sono gli atti interruttivi, la prescrizione decorre dall'ultimo di essi. In nessun caso il termine puo' essere protratto oltre i dieci anni dall'atto che ha dato inizio al giudizio, fatti salvi i casi di sospensione e interruzione necessaria del processo ai sensi delle vigenti disposizioni. Non si applicano le disposizioni dell'[articolo 2945, commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com2) e [terzo, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2945-com3).  
+2-sexies. Per i giudizi in corso per i quali e' gia' scaduto il termine decennale di cui al comma 2-quinquies, il medesimo termine e' prorogato fino al 31 dicembre 1996.  
 2-septies. Costituisce illecito disciplinare l'aver lasciato prescrivere per colpa l'azione di responsabilita'.";
 
-c) il comma 4 e' sostituito dal seguente:   
-" 4. La Corte dei conti giudica sulla responsabilita' amministrativa degli amministratori e dipendenti pubblici anche quando il danno sia stato cagionato ad amministratori o enti diversi da quelli di appartenenza, per i fatti commessi successivamente alla data di entrata in vigore della presente legge.".
+c) il comma 4 e' sostituito dal seguente:  
+" 4. La Corte dei conti giudica sulla responsabilita' amministrativa degli amministratori e dipendenti pubblici anche quando il danno sia stato cagionato ad amministrazioni o enti diversi da quelli di appartenenza, per i fatti commessi successivamente alla data di entrata in vigore della presente legge, ferma restando la giurisdizione della Corte per i fatti comunque collegati ad un rapporto di servizio.".
 
 Art. 4
 ------
@@ -75,7 +75,7 @@ Sezioni riunite in sede non giurisdizionale
 
 1. Il numero minimo dei votanti di cui all'articolo 4, comma 2, del testo unico delle leggi sulla Corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e' elevato a quindici per l'esercizio, da parte delle sezioni riunite della Corte dei conti, di tutte le funzioni, comprese quelle di cui all'articolo 40 del citato testo unico, approvato con [regio decreto 12 luglio 1934, n. 1214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e quelle di cui agli articoli 3, comma 6, e 4 della [legge 14 gennaio 1994, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20), diverse dalle funzioni giurisdizionali. Le sezioni riunite sono presiedute dal presidente della Corte dei conti e sono composte per ciascuna delle dette funzioni da trentaquattro magistrati, designati all'inizio di ogni anno sulla base di predeterminati criteri di graduale rotazione dal consiglio di presidenza, in modo che siano rappresentati tutti i settori di attivita' e tutte le qualifiche dei magistrati. Ove il magistrato nominato relatore dal presidente della Corte dei conti non sia compreso tra quelli assegnati alle sezioni riunite, questi integra ad ogni effetto il collegio per la questione su cui riferisce.
 
-2. Le disposizioni di cui al comma 1 hanno efficacia sino al 31 maggio 1996.
+2. Le disposizioni di cui al comma 1 hanno efficacia sino al 30 giugno 1996.
 
 Art. 5
 ------
@@ -86,7 +86,7 @@ Sezione controllo Stato
 " 10. La sezione del controllo in adunanza generale e' composta dal presidente della Corte dei conti che la presiede, dai presidenti di sezione preposti al coordinamento e da tutti i magistrati assegnati agli uffici di controllo. La sezione e' ripartita annualmente in quattro collegi dei quali fanno parte, in ogni caso, il presidente della Corte dei conti e i presidenti di sezione preposti al coordinamento. I collegi hanno distinta competenza per tipologia di controllo e deliberano con un numero minimo di quindici votanti.  
 10-bis. La sezione del controllo in adunanza generale stabilisce annualmente i programmi di attivita' e le materie di competenza dei collegi, nonche' i criteri per la loro composizione da parte del presidente della Corte dei conti.".
 
-2. Le disposizioni di cui al comma 1 hanno efficacia sino al 31 maggio 1996.
+2. Le disposizioni di cui al comma 1 hanno efficacia sino al 30 giugno 1996.
 
 Art. 6
 ------
@@ -126,12 +126,12 @@ Art. 10
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1996
+### Dato a Roma, addi' 26 aprile 1996
 
 SCALFARO
 

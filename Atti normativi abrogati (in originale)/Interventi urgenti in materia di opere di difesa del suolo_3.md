@@ -1,7 +1,7 @@
-DECRETO-LEGGE 08 maggio 1987 n. 177
+DECRETO-LEGGE 09 luglio 1987 n. 263
 
 
-DECRETO-LEGGE 08 maggio 1987 n. 177
+DECRETO-LEGGE 09 luglio 1987 n. 263
 ===================================
 
 Interventi urgenti in materia di opere di difesa del suolo.
@@ -14,9 +14,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di assicurare la continuita' dell'attivita' esecutiva dello Stato, delle regioni e delle province autonome di Trento e Bolzano in materia di difesa del suolo ed in particolare nel settore delle opere idrauliche, allo scopo di evitare gravi situazioni di rischio per la pubblica incolumita', nonche' di procedere alla utilizzazione dei fondi accantonati per interventi di assoluta priorita' nel settore, anche al fine di non vanificare opere gia' attuate o in corso di attuazione;
+Ritenuta la straordinaria necessita' ed urgenza di assicurare la continuita' dell'attivita' esecutiva dello Stato, delle regioni e delle province autonome di Trento e di Bolzano in materia di difesa del suolo ed in particolare nel settore delle opere idrauliche, allo scopo di evitare gravi situazioni di rischio per la pubblica incolumita', nonche' di procedere alla utilizzazione dei fondi accantonati per interventi di assoluta priorita' nel settore, anche al fine di non vanificare opere gia' attuate o in corso di attuazione;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 maggio 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 luglio 1987;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei lavori pubblici, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e dell'ambiente;
 
@@ -67,7 +67,7 @@ Art. 2
 Art. 3
 ------
 
-1. Per far fronte alle eccezionali esigenze organizzative e funzionali dei servizi idrografico, mareografico, dighe e sismico, del Magistrato alle acque di Venezia, del Magistrato per il Po' di Parma, delle sezioni idrauliche dei provvedimenti alle opere pubbliche del Ministero dei lavori pubblici e della Direzione generale acque ed impianti elettrici, per l'attuazione degli interventi di cui all'articolo 1 ed in vista della legge organica per la difesa del suolo, i servizi, che sono costituiti come servizi nazionali della difesa del suolo, e la Direzione generale, che assume la denominazione di Direzione generale per la difesa del suolo e nei cui ambito sono istituiti il servizio studi ed il servizio piani e programmi, sono riorganizzati e potenziati secondo le disposizioni del presente articolo.
+1. Per far fronte alle eccezionali esigenze organizzative e funzionali dei servizi idrografico, mareografico, dighe e sismico, del magistrato alle acque di Venezia, del magistrato per il Po' di Parma, delle sezioni idrauliche dei provveditorati alle opere pubbliche del Ministero dei lavori pubblici e della direzione generale acque ed impianti elettrici, per l'attuazione degli interventi di cui all'articolo 1 ed in vista della legge organica per la difesa del suolo, i servizi, che sono costituiti come servizi nazionali della difesa del suolo, e la direzione generale, che assume la denominazione di Direzione generale per la difesa del suolo e nel cui ambito sono istituiti il servizio studi ed il servizio piani e programmi, sono riorganizzati e potenziati secondo le disposizioni del presente articolo.
 
 2. Il Ministro dei lavori pubblici provvede, previa verifica della congruita' dell'attuale distribuzione del personale del Ministero, alla organizzazione della Direzione generale per la difesa del suolo, da dotare delle strutture tecniche necessarie a costituire il supporto informativo, scientifico, progettuale e promozionale dell'attivita' dello Stato nel settore della difesa del suolo, ivi compreso il coordinamento degli studi della pianificazione di bacino e della programmazione nazionale della destinazione delle risorse idriche. Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dei lavori pubblici, sentito il comitato di cui al comma 3, si provvede alla riorganizzazione dei servizi nazionali per la difesa del suolo, cui e' attribuita autonomia funzionale nell'ambito del dicastero, garantendo che di essi possano avvalersi il Ministero dell'ambiente ed il Ministro per il coordinamento della protezione civile.
 
@@ -87,13 +87,13 @@ c) allo studio di questioni idrologiche che sorgano in seguito a domande od eser
 
 d) al coordinamento della partecipazione italiana in seno ad organizzazioni internazionali che si occupano di idrologia e idrografia.
 
-7. Il servizio mareografico si articola in un ufficio centrale ed in sezioni direttamente dipendenti, aventi sede presso gli uffici o sezioni autonome del genio civile delle opere marittime e provvede, tra l'altro, al rilevamento sistematico, alla elaborazione, alla archiviazione ed alla pubblicazione dei dati idro-oceanografici e meteorologici per gli studi inerenti al campo dell'oceanografia, della geofisica e della meteorologia, al fine di soddisfare in particolare le esigenze per la progettazione e la costruzione delle opere marittime e di quelle per la difesa dei litorali, nonche' al coordinamento della partecipazione italiana in seno alle organizzazioni internazionali che si occupano di oceanografia.
+7. Il servizio mareografico si articola in un ufficio centrale ed in sezioni direttamente dipendenti, aventi sede presso gli uffici o sezioni autonome del genio civile delle opere marittime e provvede, tra l'altro, al rilevamento sistematico, all'elaborazione, all'archiviazione ed alla pubblicazione dei dati idro-oceanografici e meteorologici per gli studi inerenti al campo dell'oceanografia, della geofisica e della meteorologia, al fine di soddisfare in particolare le esigenze per la progettazione e la costruzione delle opere marittime e di quelle per la difesa dei litorali, nonche' al coordinamento della partecipazione italiana in seno alle organizzazioni internazionali che si occupano di oceanografia.
 
 8. Il servizio dighe e' articolato in un ufficio centrale e sezioni istituite presso i provveditorati alle opere pubbliche e provvede tra l'altro:
 
 a) all'esame dei progetti di massima ed esecutivi dei serbatoi artificiali aventi capacita' superiore ai centomila metri cubi di invaso o che richiedono sbarramenti di altezza superiore a dieci metri;
 
-b) alla vigilanza sulla costruzione, mediante visite sopralluogo e specifico accertamento della idoneita' degli scavi di fondazione degli sbarramenti di cui alla lettera a);
+b) alla vigilanza sulla costruzione, mediante visite-sopralluogo e specifico accertamento della idoneita' degli scavi di fondazione degli sbarramenti di cui alla lettera a);
 
 c) al controllo durante il periodo degli invasi sperimentali e sino all'avvenuto collaudo tecnico delle opere di sbarramento nei limiti della predetta competenza;
 
@@ -112,24 +112,24 @@ Art. 4
 
 1. All'onere derivante dall'attuazione dell'articolo 1 del presente decreto, pari a lire 20 miliardi per l'anno 1987 e a lire 900 miliardi per l'anno 1988, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1987-1989, al capitolo 9001 dello stato di previsione della spesa del Ministero del tesoro, per l'anno finanziario 1987, all'uopo utilizzando parzialmente l'accantonamento "Difesa suolo".
 
-2. All'onere derivante dall'attuazione dell'articolo 3 del presente decreto, valutato in lire 5.000 milioni per l'anno 1987, in lire 11.800 milioni per l'anno 1988 e in lire 12.100 milioni per l'anno 1989, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1987-1989, al capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1987, all'uopo utilizzando parzialmente l'accantonamento "Potenziamento di servizi del Ministero dei lavori pubblici".
+2. All'onere derivante dall'attuazione dell'articolo 3 del presente decreto, valutato in lire 5.000 milioni per l'anno 1987, in lire 11.800 milioni per l'anno 1988 e in lire 12.100 milioni per l'anno 1989, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai Fini del bilancio triennale 1987-1989, al capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1987, all'uopo utilizzando parzialmente l'accantonamento "Potenziamento di servizi del Ministero dei lavori pubblici".
 
 3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 5
 ------
 
-1. Restano ferme, nell'applicazione del presente decreto, le disposizioni della [legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), istitutiva del Ministero dell'ambiente e, segnatamente, quelle di cui all'articolo 2 ai fini del concerto ed all'articolo 6 ai fini dell'impatto ambientale.
+1. Restano ferme, nell'applicazione del presente decreto, le disposizioni della [legge 8 luglio 1986, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), istitutiva del Ministero dell'ambiente e, segnatamente, quelle di cui all'articolo 2 ai fini del concerto ed all'articolo 6 ai Fini dell'impatto ambientale.
 
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 maggio 1987
+### Dato a Roma, addi' 9 luglio 1987
 
 COSSIGA
 
@@ -145,20 +145,20 @@ PAVAN, Ministro dell'ambiente
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 8 maggio 1987
+Registrato alla Corte dei conti, addi' 9 luglio 1987
 
-Atti di Governo, registro n. 65, foglio n. 17
+Atti di Governo, registro n. 67, foglio n. 7
 
 Tabella A
 
  TABELLA A   
 (prevista dall'articolo 3)   
-VARIAZIONE IN AUMENTO DEI RUOLI ORGANICI DEL MINISTERO DEI LAVORI PUBBLICI (SERVIZI TECNICI NAZIONALI DELLA DIFESA DEL SUOLO, DIREZIONE GENERALE DELLA DIFESA DEL SUOLO, MAGISTRATO ALLE ACQUE DI VENEZIA E MAGISTRATO PER IL PO' DI PARMA, SEZIONI IDRAULICHE E SISMICHE DEI PROVVEDITORATI ALLE OPERE PUBBLICHE)   
+  
+Variazione in aumento dei ruoli organici del Ministero dei lavori pubblici (servizi tecnici nazionali della difesa del suolo, direzione generale della difesa del suolo, magistrato alle acque di Venezia e magistrato per il Po' di Parma, sezioni idrauliche e sismiche dei provveditorati alle opere pubbliche).   
   
 Livello VII:   
 collaboratori amministrativi (ex consiglieri) . . . . . . . . . n. 50 ingegneri. . . . . . . . . . . . . . . . . . . . . . . . . . . n. 100 geologi . . . . . . . . . . . . . . . . . . . . . . . . . . . . n. 10 architetti . . . . . . . . . . . . . . . . . . . . . . . . . . . n. 5 Livello VI:   
-assistenti tecnici (ex geometri) . . . . . . . . . . . . . . . n. 245 assistenti amministrativi . . . . . . . . . . . . . . . . . . . n. 60 ragionieri. . . . . . . . . . . . . . . . . . . . . . . . . . . n. 50   
-Livello V   
+assistenti tecnici (ex geometri) . . . . . . . . . . . . . . . n. 245 assistenti amministrativi . . . . . . . . . . . . . . . . . . . n. 60 ragionieri. . . . . . . . . . . . . . . . . . . . . . . . . . . n. 50 Livello V:   
 registratori di dati - addetti ai terminali evoluti . . . . . . n. 40   
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . n. 560   
 
@@ -166,7 +166,8 @@ Tabella B
 
  TABELLA B   
 (prevista dall'articolo 3)   
-VARIAZIONE IN AUMENTO DELLE UNITA' PREVISTE DALLA TABELLA X ALLEGATA AL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 30 GIUGNO 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1972-06-30;748), E SUCCESSIVE MODIFICAZIONI   
+  
+Variazione in aumento delle unita' previste dalla tabella X allegata al [decreto del presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748), e successive modificazioni.   
   
 a) Direzione generale della difesa del suolo:   
 primo dirigente amministrativo . . . . . . . . . . . . . . . . . n. 1 primo dirigente tecnico. . . . . . . . . . . . . . . . . . . . . n. 1   

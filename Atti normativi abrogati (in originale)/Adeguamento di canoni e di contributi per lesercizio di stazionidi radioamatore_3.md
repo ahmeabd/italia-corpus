@@ -1,14 +1,14 @@
-DECRETO-LEGGE 02 gennaio 1996 n. 4
+DECRETO-LEGGE 03 maggio 1996 n. 240
 
 
-DECRETO-LEGGE 02 gennaio 1996 n. 4
-==================================
+DECRETO-LEGGE 03 maggio 1996 n. 240
+===================================
 
 Adeguamento di canoni e di contributi per l'esercizio di stazioni 
 di radioamatore.
 -----------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 4-1-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 4-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,7 +19,7 @@ Visto il testo unico delle disposizioni legislative in materia postale, della ba
 
 Ritenuta la straordinaria necessita' ed urgenza di adeguare i canoni ed i contributi dovuti per l'esercizio di stazioni di radioamatore e di apparecchi radioelettrici ricetrasmittenti di debole potenza;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 dicembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni;
 
@@ -43,17 +43,17 @@ e) i contributi per l'ammissione agli esami e per il rilascio di titoli senza es
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 gennaio 1996
+### Dato a Roma, addi' 3 maggio 1996
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-GAMBINO, Ministro elle poste e delle telecomunicazioni
+GAMBINO, Ministro delle poste e delle telecomunicazioni
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: CAIANIELLO

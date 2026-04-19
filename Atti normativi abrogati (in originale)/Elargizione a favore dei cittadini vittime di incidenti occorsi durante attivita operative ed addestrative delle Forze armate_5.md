@@ -1,24 +1,24 @@
-DECRETO-LEGGE 28 aprile 1993 n. 129
+DECRETO-LEGGE 27 agosto 1993 n. 325
 
 
-DECRETO-LEGGE 28 aprile 1993 n. 129
+DECRETO-LEGGE 27 agosto 1993 n. 325
 ===================================
 
 Elargizione a favore dei cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate.
 -------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/5/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28/08/1993.Decreto-Legge convertito con modificazioni dalla [L. 27 ottobre 1993, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;424) (in G.U. 27/10/1993, n.253).
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'elargizione a favore dei cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate;
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'elargizione a favore di cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 aprile 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 agosto 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con il Ministro del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con il Ministro del tesoro;
 
 E M A N A il seguente decreto-legge:
 
@@ -29,14 +29,14 @@ Art. 1
 
 2. L'elargizione spetta solo nel caso in cui la vittima o i suoi aventi causa non abbiano in alcun modo concorso all'incidente con dolo o colpa grave.
 
-3. L'elargizione e' esente da imposte e non e' cumulabile con altre provvidenze pubbliche. Nel caso in cui le famiglie di cui al comma 1 abbiano gia' ricevuto alla data di entrata in vigore del presente decreto altre pubbliche sovvenzioni, l'elargizione e' dovuta fino a conguaglio per la complessiva somma di lire 100 milioni.
+3. L'elargizione, che non esclude il risarcimento del danno eventualmente dovuto, e' esente da imposte e non e' cumulabile con altre provvidenze pubbliche. Nel caso in cui le famiglie di cui al comma 1 abbiano gia' ricevuto alla data di entrata in vigore del presente decreto altre pubbliche sovvenzioni, l'elargizione e' dovuta fino a conguaglio per la complessiva somma di lire 100 milioni.
 
 Art. 2
 ------
 
 1. L'elargizione di cui all'articolo 1 e' corrisposta secondo il seguente ordine:
 
-a) coniuge o convivente superstite e figli, se a carico;
+a) coniuge superstite e figli, se a carico;
 
 b) figli, in mancanza del coniuge superstite;
 
@@ -64,35 +64,31 @@ Art. 5
 Art. 6
 ------
 
-1. Agli invalidi di cui all'articolo 3, al coniuge superstite ed ai figli dei soggetti di cui all'articolo 1, se in possesso della cittadinanza italiana, si applicano le disposizioni delle [leggi 2 aprile 1968, n. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e 1› giugno 1977, n. 285, e successive modificazioni.
+1. Agli invalidi di cui all'articolo 3, al coniuge superstite ed ai figli dei soggetti di cui all'articolo 1, se in possesso della cittadinanza italiana, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e successive modificazioni.
+
+2. Ai cittadini italiani infortunati a seguito di incidenti verificatisi nel corso o in conseguenza di attivita' operative ed addestrative svolte dalle Forze armate nell'adempimento di compiti assegnati, si applicano le disposizioni della [legge 2 aprile 1968, n. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;482), e successive modificazioni, nei casi di una riconosciuta riduzione delle capacita' lavorative superiori all'11 per cento.
 
 Art. 7
 ------
 
-1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 2.000 milioni per l'anno 1992 e lire 100 milioni annui a decorrere dal 1993, si provvede:
-
-a) quanto a lire 2.000 milioni per l'anno 1992, mediante riduzione degli stanziamenti iscritti ai capitoli 1878, per lire 1.700 milioni, e 1874, per lire 300 milioni, dello stato di previsione del Ministero della difesa per l'anno finanziario medesimo;
-
-b) quanto a lire 100 milioni a decorrere dal 1993, mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1993-1995, al capitolo 6856 dello stato di previsione del Ministero del tesoro, per l'anno finanziario 1993, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.
-
-2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 2.000 milioni per l'anno 1992 e lire 100 milioni annui a decorrere dal 1993, si provvede a carico delle disponibilita' del capitolo 1178 dello stato di previsione del Ministero della difesa per l'anno finanziario 1993 e corrispondenti capitoli per gli esercizi successivi.
 
 Art. 8
 ------
 
-1. Il presente decreto entra in vigore il 2 maggio 1993 e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1993
+### Dato a Roma, addi' 27 agosto 1993
 
 SCALFARO
 
-AMATO, Presidente del Consiglio dei Ministri
+CIAMPI, Presidente del Consiglio dei Ministri
 
-ANDO', Ministro della difesa
+FABBRI, Ministro della difesa
 
-ANDREATTA, Ministro del bilancio e della programmazione economica
+BARUCCI, Ministro del tesoro
 
 Visto, il Guardasigilli: CONSO

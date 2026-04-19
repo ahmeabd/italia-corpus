@@ -1,13 +1,13 @@
-DECRETO-LEGGE 05 maggio 1989 n. 163
+DECRETO-LEGGE 13 luglio 1989 n. 252
 
 
-DECRETO-LEGGE 05 maggio 1989 n. 163
+DECRETO-LEGGE 13 luglio 1989 n. 252
 ===================================
 
 Proroga di talune norme della legge 19 maggio 1986, n. 224, concernenti l'avanzamento degli ufficiali delle Forze armate.
 -------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 09/05/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 16/7/1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -22,9 +22,9 @@ Considerato che la vigenza delle norme di avanzamento degli ufficiali delle Forz
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare disposizioni al fine di colmare la predetta lacuna legislativa verificatasi in materia di avanzamento degli ufficiali delle Forze armate;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 maggio 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1989;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con il Ministro del tesoro;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
 
 E M A N A il seguente decreto:
 
@@ -59,7 +59,7 @@ Avanzamento Aeronautica
 
 2. Per il periodo dal 1› gennaio 1989 al 31 dicembre 1989, ai fini delle nomine nei ruoli del servizio permanente degli ufficiali dell'Aeronautica militare, sono utili tutte le vacanze esistenti negli organici dei gradi da sottotenente a capitano compreso di ciascun ruolo.
 
-3. A partire dall'anno 1989, non e' richiesto il possesso del titolo di studio previsto dalla tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e succesive modificazioni e integrazioni, per l'avanzamento dei capitani dell'Arma aeronautica, ruolo servizi, del Corpo del genio aeronautico, ruolo assistenti tecnici, e del Corpo commissariato, ruolo amministrazione.
+3. A partire dall'anno 1989, non e' richiesto il possesso del titolo di studio previsto dalla tabella n. 3 annessa alla [legge 12 novembre 1955, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137), e successive modificazioni e integrazioni, per l'avanzamento dei capitani dell'Arma aeronautica, ruolo servizi, del Corpo del genio aeronautico, ruolo assistenti tecnici, e del Corpo commissariato, ruolo amministrazione.
 
 Art. 4
 ------
@@ -87,20 +87,20 @@ Copertura dell'onere
 Art. 7
 ------
 
-Entrata in vigore
-
 1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 maggio 1989
+### Dato a Roma, addi' 13 luglio 1989
 
 COSSIGA
 
 DE MITA, Presidente del Consiglio dei Ministri
 
 ZANONE, Ministro della difesa
+
+FANFANI, Ministro del bilancio e della programmazione economica
 
 AMATO, Ministro del tesoro
 
@@ -110,56 +110,10 @@ Tabella A
 
  TABELLA A   
 (prevista dall'art. 1)   
+ALIQUOTE DI VALUTAZIONE E NUMERO DELLE PROMOZIONI PER I TENENTI   
+COLONNELLI IN SERVIZIO PERMANENTE EFFETTIVO DELL'ESERCITO   
+DA VALUTARE PER L'ANNO 1989.   
   
   
-  
-  
-  
-====================================================================  
-Tenenti colonnelli  
-RUOLO da valutare Numero  
-per l'avanzamento promozione  
-  
-Ruolo normale Tenenti colonnelli con anzianita' 90  
-unico delle armi di grado eguale o anteriore  
-al 30 dicembre 1980  
-  
-Corpo tecnico Tenenti colonnelli con anzianita' 8  
-di grado eguale o anteriore  
-al 31 dicembre 1982  
-  
-Corpo automobilistico Tenenti colonnelli con anzianita' 10  
-di grado eguale o anteriore  
-al 1° gennaio 1981  
-  
-Corpo di amministrazione Tenenti colonnelli con anzianita' 8  
-di grado eguale o anteriore  
-al 1° gennaio 1981  
-  
-Corpo di commissariato Tenenti colonnelli con anzianita' 3  
-- Ruolo commissari di grado eguale o anteriore  
-al 31 dicembre 1981  
-  
-Corpo di commissariato Tenenti colonnelli con anzianita' 2  
-- Ruolo sussistenza di grado eguale o anteriore  
-al 31 dicembre 1981  
-  
-Corpo sanitario Tenenti colonnelli con anzianita' 2  
-- Ruolo medici di grado eguale o anteriore  
-al 31 dicembre 1978  
-  
-Corpo sanitario Ruolo Tenenti colonnelli con anzianita' 1  
-chimici-farmacisti di grado eguale o anteriore  
-al 1° gennaio 1981  
-  
-Corpo veterinario Tenenti colonnelli con anzianita'  
-di grado eguale o anteriore  
-al 31 dicembre 1980  
-  
-Ruolo speciale unico Tenenti colonnelli con anzianita' 15  
-delle armi nel servizio permanente effettivo  
-decorrente dal 1965 e anni  
-precedenti che abbiano un'anzianita'  
-di grado eguale o anteriore al  
-31 dicembre 1982  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=089G032800100010110001&dgu=1989-07-15&art.dataPubblicazioneGazzetta=1989-07-15&art.codiceRedazionale=089G0328)
   

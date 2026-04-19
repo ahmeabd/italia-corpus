@@ -1,13 +1,13 @@
-DECRETO-LEGGE 19 luglio 1993 n. 239
+DECRETO-LEGGE 20 maggio 1993 n. 150
 
 
-DECRETO-LEGGE 19 luglio 1993 n. 239
+DECRETO-LEGGE 20 maggio 1993 n. 150
 ===================================
 
 Disciplina della proroga degli organi amministrativi.
 -----------------------------------------------------
 
-Entrata in vigore del decreto: 20/7/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 20/5/93.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare, con principi generali uniformi, la proroga degli organi amministrativi temporanei oltre la scadenza per ciascuno di essi prevista, nonche' le conseguenze delle omesse ricostituzioni degli organi medesimi, al fine di assicurare con immediatezza la legalita', il buon andamento e l'imparzialita' dell'organizzazione amministrativa imposti dall'[articolo 97 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97); principi cui, allo stato, non corrispondono le molteplici, prolungate e non piu' sostenibili situazioni di proroga tuttora in atto;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 luglio 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 maggio 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
@@ -111,9 +111,9 @@ Art. 9
 
 Adeguamento della normativa regionale
 
-1. Le disposizioni di cui al presente decreto operano direttamente nei riguardi delle regioni a statuto ordinario fino a quando esse non avranno adeguato i rispettivi ordinamenti ai principi generali ivi contenuti.
+1. Le disposizioni di cui al presente decreto operano direttamente nei riguardi delle regioni a statuto ordinario fino a quando esse non avranno adeguato i rispettivi ordinamenti ai princi'pi generali ivi contenuti.
 
-2. Entro un anno dalla data di entrata in vigore della legge di conversione del presente decreto, le regioni a statuto speciale e le province autonome di Trento e di Bolzano provvedono ad adeguare i rispettivi ordinamenti ai principi fondamentali ivi stabiliti.
+2. Entro un anno dalla data di entrata in vigore della legge di conversione del presente decreto, le regioni a statuto speciale e le province autonome di Trento e di Bolzano provvedono ad adeguare i rispettivi ordinamenti ai princi'pi fondamentali ivi stabiliti.
 
 Art. 10
 -------
@@ -125,7 +125,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1993
+### Dato a Roma, addi' 20 maggio 1993
 
 SCALFARO
 

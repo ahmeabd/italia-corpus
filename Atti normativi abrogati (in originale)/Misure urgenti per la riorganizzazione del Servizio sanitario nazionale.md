@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 maggio 1989 n. 199
+DECRETO-LEGGE 28 luglio 1989 n. 265
 
 
-DECRETO-LEGGE 29 maggio 1989 n. 199
+DECRETO-LEGGE 28 luglio 1989 n. 265
 ===================================
 
 Misure urgenti per la riorganizzazione del Servizio sanitario nazionale.
 ------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 30/5/1989.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/7/1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare interventi finalizzati alla modifica di taluni aspetti strutturali del Servizio sanitario nazionale, nonche' di fissare nuove quote di partecipazione a carico degli assistiti per le spese di assistenza specialistica, ospedaliera e farmaceutica;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 maggio 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 luglio 1989;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con i Ministri dell'interno, delle finanze, del tesoro, dell'universita' e della ricerca scientifica e tecnologica, per la funzione pubblica e per gli affari regionali ed i problemi istituzionali;
 
@@ -172,7 +172,7 @@ Convenzioni con laboratori e con case di cura private
 Art. 6
 ------
 
-Misure in materia di assistenza specialistica  
+Misure in materia di assistenza specialistica   
 ospedaliera e farmaceutica
 
 1. Sulle prestazioni di diagnostica strumentale e di laboratorio, sulle visite specialistiche e sulle altre prestazioni specialistiche, erogate nell'ambito del Servizio sanitario nazionale in regime ambulatoriale presso strutture a gestione diretta o convenzionate, e' dovuta una partecipazione alla spesa da parte degli assistiti nelle seguenti misure:
@@ -185,11 +185,11 @@ b) per le prestazioni di diagnostica strumentale e di laboratorio, con esclusion
 
 3. Le richieste di prestazioni relative a branche specialistiche diverse devono essere formulate su prescrizioni distinte. Ogni prescrizione puo' contenere fino ad un massimo di dodici prestazioni della medesima branca.
 
-4. Sulle prestazioni erogate dal Servizio sanitario nazionale sia in regime di ricovero ospedaliero, anche a ciclo diurno, escluse comunque quelle effettuate nei servizi di pronto soccorso, sia presso strutture a gestione diretta o convenzionate, con esclusione delle istituzioni convenzionate ai sensi dell'[articolo 26 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art26), e' dovuta una quota di partecipazione alla spesa nella misura di L. 10.000 per ogni giornata di effettiva degenza, esclusa quella di dimissione, con il limite massimo di dieci giorni per ciclo di ricovero e con un limite massimo di L. 200.000 nell'anno solare in caso di pluralita' di ricoveri.
+4. Il pagamento delle quote di partecipazione di cui al comma 1 e' effettuato direttamente presso la struttura che eroga le prestazioni, secondo le modalita' di versamento dalla medesima stabilite. Per le strutture a gestione diretta i competenti organi dell'unita' sanitaria locale dispongono l'assegnazione del personale necessario, anche in deroga alle norme vigenti sulla mobilita' del personale.
 
-5. Il pagamento delle quote di partecipazione di cui ai commi 1 e 4 e' effettuato direttamente presso la struttura che eroga le prestazioni, secondo le modalita' di versamento dalla medesima stabilite. Per le prestazioni ospedaliere presso le strutture a gestione diretta il pagamento puo' essere effettuato, secondo quanto stabilito con provvedimento della regione o della provincia autonoma, al momento della dimissione dal ricovero o successivamente. Per le strutture a gestione diretta i competenti organi dell'unita' sanitaria locale dispongono l'assegnazione del personale necessario, anche in deroga alle norme vigenti sulla mobilita' del personale.
+5. La quota di partecipazione alla spesa farmaceutica di cui all'[articolo 1, comma 1, del decreto-legge 30 novembre 1988, n. 514](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-11-30;514~art1-com1), convertito, con modificazioni, dalla [legge 27 gennaio 1989, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-27;23), e' determinata nella misura del 30 per cento. La quota fissa per ricetta e' elevata a L. 3.000. Il limite massimo di partecipazione per ogni ricetta farmaceutica e' determinato il L. 30.000. Il termine del 30 giugno 1990 di cui all'articolo 1, comma 7, della legge 1› febbraio 1989, n. 37, e' anticipato al 31 dicembre 1989.
 
-6. La quota di partecipazione alla spesa farmaceutica di cui all'[articolo 1, comma 1, del decreto-legge 30 novembre 1988, n. 514](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-11-30;514~art1-com1), convertito, con modificazioni, dalla [legge 27 gennaio 1989, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-01-27;23), e' determinata nella misura del 30 per cento. La quota fissa per ricetta e' elevata a L. 3.000. Il limite massimo di partecipazione per ogni ricetta farmaceutica e' determinato in L. 20.000. Il termine del 30 giugno 1990 di cui all'articolo 1, comma 7, della legge 1› febbraio 1989, n. 37, e' anticipato al 31 dicembre 1989.
+6. Entro il 30 ottobre 1989 il Ministro della sanita', su parere della Commissione unica del farmaco, adotta un provvedimento di revisione anticipata del prontuario terapeutico anche in accordo con la direttiva della CEE, n. 75/319, ferma restando la scadenza stabilita dall'articolo 1, comma 3, della legge 1› febbraio 1989, n. 37, per la revisione definitiva del prontuario del Servizio sanitario nazionale.
 
 7. La quota di partecipazione alla spesa per le cure termali e' determinata nella misura del 30 per cento delle tariffe convenzionate, con arrotondamento alle 500 lire superiori, con il limite di L. 30.000 per ciclo di cura. Con il decreto ministeriale di cui al comma 2 sono indicate le tariffe e le relative quote di partecipazione alla spesa. Per i lavoratori dipendenti che effettuano le cure termali al di fuori del periodo di ferie o di congedo ordinario la prestazione deve iniziare entro trenta giorni dalla richiesta del medico curante. Le prestazioni termali di natura preventiva erogate dall'INPS non danno titolo all'indennita' economica di malattia.
 
@@ -210,44 +210,35 @@ d) i familiari a carico dei soggetti indicati nelle lettere a), b) e c).
 
 2. E' abrogata ogni altra esenzione dal pagamento delle quote di partecipazione alla spesa sanitaria, con esclusione delle esenzioni riferite a forme morbose determinate, ai protocolli per la tutela della maternita', alle categorie di invalidi ed assimilati di cui alla normativa vigente, ai donatori di organi e di sangue in connessione con gli atti di donazione.
 
-3. Le modalita' di attuazione delle disposizioni di cui al comma 1, nonche' le modalita' di accertamento dei requisiti soggettivi ivi indicati, sono quelle determinate con [decreto del Ministro dell'interno 20 maggio 1989, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1989-05-20;179), adottato di concerto con i Ministri della sanita' e delle finanze. I comuni interessati possono avvalersi, ai fini dei necessari controlli, dell'Arma dei carabinieri, della Polizia di Stato e della Guardia di finanza. Con decreto del Ministro delle finanze sono stabiliti tempi e modi per l'effettuazione di accertamenti fiscali nei confronti dei soggetti di cui al comma 1 che abbiano ottenuto l'esenzione. Chiunque, con qualsiasi mezzo, ottiene indebitamente l'esenzione dal pagamento delle quote di partecipazione alla spesa sanitaria, e' punito ai sensi dell'[articolo 640, secondo comma, n. 1, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art640-com2-num1).
-
-4. Fino alla data del 29 maggio 1989 le esenzioni previste per le prestazioni farmaceutiche si intendono estese ad ogni altra forma di partecipazione alla spesa sanitaria.
+3. Le modalita' di attuazione delle disposizioni di cui al comma 1, nonche' le modalita' di accertamento dei requisiti soggettivi ivi indicati, sono quelle determinate con [decreto del Ministro dell'interno 20 maggio 1989, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1989-05-20;179), adottato di concerto con i Ministri della sanita' e delle finanze. I comuni interessati possono avvalersi, ai fini dei necessari controlli, dell'Arma dei carabinieri, della Polizia di Stato e della Guardia di finanza. Con decreto del Ministro delle finanze sono stabiliti tempi e modi per l'effettuazione di accertamenti fiscali nei confronti dei soggetti di cui al comma 1 che abbiano ottenuto l'esenzione. Chiunque, con qualsiasi mezzo, ottiene indebitamente l'esenzione dal pagamento delle quote di partecipazione alla spesa sanitaria e' punito ai sensi dell'[articolo 640, secondo comma, n. 1, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art640-com2-num1).
 
 Art. 8
 ------
 
-Sostituzione
-
-1. Le disposizioni degli articoli 6 e 7 del presente decreto sostituiscono quelle degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-04-27;152~art1) e [2 del decreto-legge 27 aprile 1989, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-04-27;152~art2).
-
-Art. 9
-------
-
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1989
+### Dato a Roma, addi' 28 luglio 1989
 
 COSSIGA
 
-DE MITA, Presidente del Consiglio dei Ministri
+ANDREOTTI, Presidente del Consiglio dei Ministri
 
-DONAT CATTIN, Ministro della sanita'
+DE LORENZO, Ministro della sanita'
 
 GAVA, Ministro dell'interno
 
-COLOMBO, Ministro delle finanze
+FORMICA, Ministro delle finanze
 
-AMATO, Ministro del tesoro
+CARLI, Ministro del tesoro
 
 RUBERTI, Ministro dell'universita' e della ricerca scientifica e tecnologica
 
-CIRINO POMICINO, Ministro per la funzione pubblica
+GASPARI, Ministro per la funzione pubblica
 
 MACCANICO, Ministro per gli affari regionali e i problemi istituzionali
 

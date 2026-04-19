@@ -1,13 +1,13 @@
-DECRETO-LEGGE 14 aprile 1994 n. 235
+DECRETO-LEGGE 14 febbraio 1994 n. 105
 
 
-DECRETO-LEGGE 14 aprile 1994 n. 235
-===================================
+DECRETO-LEGGE 14 febbraio 1994 n. 105
+=====================================
 
 Modificazioni delle leggi 21 novembre 1991, n. 374, istitutiva del giudice di pace, e 26 novembre 1990, n. 353, concernente provvedimenti urgenti per il processo civile.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 18/4/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 16-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,17 +16,16 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare norme di modifica delle disposizioni delle [leggi 26 novembre 1990, n. 353, e 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), al fine di differire le date di avvio delle riforme concernenti il giudice di pace ed il processo civile, cosi' da consentire il completamento delle necessarie procedure;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 aprile 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
 
-proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia; E M A N A il seguente decreto-legge:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. Nell'[articolo 166 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art166), come modificato dall'[articolo 10 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art10), dopo le parole: "dell'articolo 163-bis" sono inserite le seguenti: "ovvero almeno venti giorni prima dell'udienza fissata a norma dell'articolo 168-bis, quinto comma".
+1. Nell'[articolo 166 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art166), come modificato dall'[articolo 10 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art10), dopo le parole: "dell'articolo 163- bis" sono inserite le seguenti: "ovvero almeno venti giorni prima dell'udienza fissata a norma dell'articolo 168-bis, quinto comma".
 
 Art. 2
 ------
@@ -70,7 +69,7 @@ Art. 8
 ------
 
 1. Dopo il [comma 5 dell'articolo 4 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art4-com5), e' aggiunto il seguente:   
-"5-bis. In sede di prima applicazione il magistrato onorario chiamato a ricoprire le funzioni di giudice di pace assume possesso dell'ufficio nel termine che verra' stabilito dal Ministro di grazia e giustizia".
+"5- bis. In sede di prima applicazione il magistrato onorario chiamato a ricoprire le funzioni di giudice di pace assume possesso dell'ufficio nel termine che verra' stabilito dal Ministro di grazia e giustizia".
 
 Art. 9
 ------
@@ -82,15 +81,14 @@ Art. 10
 -------
 
 1. All'[articolo 6 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art6), e' aggiunto, in fine, il seguente comma:   
-"5-bis. Intervenuta la delibera di nomina del Consiglio superiore della magistratura, i giudici di pace possono essere ammessi ai corsi anche prima dell'assunzione delle funzioni".
+"5- bis. Intervenuta la delibera di nomina del Consiglio superiore della magistratura, i giudici di pace possono essere ammessi ai corsi anche prima dell'assunzione delle funzioni".
 
 Art. 11
 -------
 
 1. Nel [comma 2 dell'articolo 8 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art8-com2), le parole: "nel distretto di corte d'appello" sono sostituite dalle seguenti: "nel circondario".
 
-2. Dopo l'[articolo 8 della legge 21 novembre 1991,   
-n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art8), e' inserito il seguente:   
+2. Dopo l'[articolo 8 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art8), e' inserito il seguente:   
 "Art. 8-bis (Limiti all'esercizio della professione forense) . - 1.  
 Gli avvocati e i procuratori legali che svolgono le funzioni di giudice di pace non possono esercitare la professione forense dinanzi al conciliatore, al giudice di pace, al pretore e al tribunale ricompresi nel circondario ove e' situato l'ufficio del giudice di pace al quale appartengono e non possono rappresentare, assistere o difendere le parti di procedimenti svolti dinanzi al medesimo ufficio, nei successivi gradi di giudizio".
 
@@ -128,7 +126,7 @@ Art. 15
 Art. 16
 -------
 
-1. Dopo il [comma 5-bis dell'articolo 6 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art6-com5bis), e' aggiunto, in fine, il seguente:   
+1. Dopo il [comma 5- bis dell'articolo 6 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art6-com5bis), e' aggiunto, in fine, il seguente:   
 "5-ter. Il Ministro di grazia e giustizia e il Consiglio superiore della magistratura organizzano corsi di specializzazione professionale, di durata non inferiore a due mesi, per i giudici di pace nominati in sede di prima applicazione della legge, nei limiti di disponibilita' di bilancio.".
 
 Art. 17
@@ -139,7 +137,7 @@ Art. 17
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 aprile 1994
+### Dato a Roma, addi' 14 febbraio 1994
 
 SCALFARO
 

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 01 settembre 1993 n. 342
+DECRETO-LEGGE 29 ottobre 1993 n. 430
 
 
-DECRETO-LEGGE 01 settembre 1993 n. 342
-======================================
+DECRETO-LEGGE 29 ottobre 1993 n. 430
+====================================
 
 Misure urgenti per il controllo della spesa nel settore degli investimenti nei Paesi in via di sviluppo.
 --------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/9/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/10/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,11 +16,14 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di attivare un efficace sistema per il controllo della spesa nel settore degli interventi a favore dei Paesi in via di sviluppo, anche in relazione al contenzioso pendente;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 agosto 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 ottobre 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro degli affari esteri, di concerto con il Ministro del tesoro;
 
-E M A N A il seguente decreto-legge:
+EMANA
+-----
+
+il seguente decreto-legge:
 
 Art. 1
 ------
@@ -35,7 +38,7 @@ b) a valutare i costi necessari al completamento degli interventi, verificandone
 
 c) ad esaminare la convenienza del completamento degli interventi, tenendo conto in particolare degli elementi di cui alla lettera b);
 
-d) a proporre le misure ritenute idonee per la definizione del contenzioso in atto, con particolare riferimento alla opportunita' di ipotesi transattive, tenendo conto della esigenza di tutelare l'interesse pubblico.
+d) a proporre le misure ritenute idonee per la definizione del contenzioso in atto, e, ove ritenuto opportuno, a promuovere trattative con le parti interessate in vista di soluzioni transattive, avvalendosi dell'opera di liberi professionisti all'uopo delegati.
 
 3. La commissione puo' altresi' essere chiamata dal Ministro degli affari esteri ad esprimere valutazioni in ordine a singoli contratti in corso di esecuzione.
 
@@ -48,7 +51,7 @@ d) a proporre le misure ritenute idonee per la definizione del contenzioso in at
 Art. 2
 ------
 
-1. Per gli interventi in corso di realizzazione o da avviare nel settore della cooperazione con i Paesi in via di sviluppo sono ammesse varianti solo qualora esse non comportino oneri finanziari aggiuntivi e siano giustificate da nuove disposizioni di legge o di regolamento, ovvero da esigenze migliorative o da sopravvenuti interessi pubblici. Le esigenze migliorative e gli interessi pubblici sopravvenuti sono dichiarati con apposito provvedimento del Ministro degli affari esteri.
+1. Per gli interventi in corso di realizzazione o da avviare nel settore della cooperazione con i Paesi in via di sviluppo sono ammesse varianti che non comportino oneri finanziari aggiuntivi, salvo casi di forza maggiore. I casi di forza maggiore sono dichiarati con apposito provvedimento del Ministro degli affari esteri.
 
 Art. 3
 ------
@@ -73,19 +76,42 @@ Art. 4
 Art. 5
 ------
 
-1. I compensi dei componenti delle commissioni di cui agli articoli 1 e 4 sono determinati con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro. Ai fini del trattamento economico per eventuali missioni si applicano le misure previste per i dirigenti generali di livello C.
+1. Il comando e il collocamento fuori ruolo del personale degli enti pubblici, con esclusione dei dipendenti delle regioni e delle unita' sanitarie locali, in servizio alla Direzione generale per la cooperazione allo sviluppo del Ministero degli affari esteri alla data del 31 agosto 1993, sono prorogati fino al 31 dicembre 1994.
 
-2. Alle esigenze organizzative e funzionali della commissione di cui al comma 1, ivi compresi i compensi dei relativi componenti, nonche' alle esigenze derivanti dall'articolo 3, comma 3, la Direzione generale per la cooperazione allo sviluppo provvede, nel complessivo limite di spesa di lire 9 miliardi per gli anni 1993-95, a valere sugli stanziamenti destinati alla realizzazione delle attivita' di cooperazione.
+2. I contratti a tempo determinato stipulati dalla Direzione generale per la cooperazione allo sviluppo del Ministero degli affari esteri ai sensi dell'[articolo 7 della legge 29 dicembre 1988, n. 554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-29;554~art7), in atto alla data di entrata in vigore del presente decreto, sono prorogati di diritto fino al 31 dicembre 1994.
 
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. I compensi dei componenti delle commissioni di cui agli articoli 1 e 4 sono determinati con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro. Ai fini del trattamento economico per eventuali missioni si applicano le misure previste per i dirigenti generali di livello C.
+
+2. Alle esigenze organizzative e funzionali delle commissioni di cui al comma 1, ivi compresi i compensi dei relativi componenti, nonche' alle esigenze derivanti dall'articolo 3, comma 3, e dall'articolo 8, la Direzione generale per la cooperazione allo sviluppo provvede, nel complessivo limite di spesa di lire 13 miliardi per gli anni 1993-95, a valere sugli stanziamenti destinati alla realizzazione delle attivita' di cooperazione. Della predetta spesa non si terra' conto ai fini della determinazione della quota di cui al [comma 4 dell'articolo 37 della legge 26 febbraio 1987, n. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49~art37-com4), cosi' come modificato dall'articolo 7.
+
+Art. 7
+------
+
+1. Al [comma 4 dell'articolo 37 della legge 26 febbraio 1987, n. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49~art37-com4), le parole: "; detta quota non potra' comunque superare il 5 per cento dello stanziamento in bilancio per ogni esercizio finanziario." sono sostituite dalle seguenti: ", tenendo conto che in nessun caso detta quota potra' superare la media delle spese di funzionamento riscontrate nel triennio precedente.".
+
+Art. 8
+------
+
+1. Per la realizzazione delle iniziative nei Paesi in via di sviluppo di cui all'[articolo 2 della legge 26 febbraio 1987, n. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49~art2), possono essere concessi finanziamenti diretti a governi, autorita' locali e enti pubblici degli stessi Paesi, a valere sul Fondo speciale per la cooperazione allo sviluppo.
+
+2. Con regolamento del Ministro degli affari esteri, sentito il Comitato interministeriale per la cooperazione allo sviluppo, sono emanate norme dirette a stabilire le condizioni alle quali i finanziamenti di cui al comma 1 e i crediti d'aiuto previsti dalla citata [legge n. 49 del 1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49) possono essere concessi, nonche' i controlli che la Direzione generale per la cooperazione allo sviluppo e' tenuta ad effettuare sia nella fase contrattuale, sia in quella di esecuzione delle iniziative.
+
+3. Le condizioni e i controlli di cui al comma 2 formeranno oggetto di accordi bilaterali con i Paesi destinatari dei finanziamenti e dei crediti d'aiuto.
+
+4. Per la valutazione ed il controllo delle iniziative finanziate ai sensi del comma 1 o mediante crediti d'aiuto, la Direzione generale per la cooperazione allo sviluppo puo' avvalersi di consulenti o di societa' di consulenza, anche non italiane, che abbiano svolto o svolgano attivita' analoghe per organizzazioni o banche internazionali operanti nel campo dello sviluppo, scelti d'intesa con le autorita' dei Paesi destinatari.
+
+Art. 9
+------
+
+1. Il presente decreto ha effetto dal 1 novembre 1993 e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1' settembre 1993
+### Dato a Roma, addi' 29 ottobre 1993
 
 SCALFARO
 

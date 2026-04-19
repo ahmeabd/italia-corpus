@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 aprile 1994 n. 259
+DECRETO-LEGGE 28 febbraio 1994 n. 137
 
 
-DECRETO-LEGGE 29 aprile 1994 n. 259
-===================================
+DECRETO-LEGGE 28 febbraio 1994 n. 137
+=====================================
 
 Disposizioni urgenti in materia di farmaci.
 -------------------------------------------
 
-Entrata in vigore del decreto: 1/5/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 01-03-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,12 +16,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di consentire una piu' agevole applicazione delle nuove norme in materia farmaceutica introdotte dalla [legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), collegata alla legge finanziaria 1994;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 1994;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita';
 
-proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita'; E M A N A il seguente decreto-legge:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -37,12 +36,12 @@ Art. 1
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1994
+### Dato a Roma, addi' 28 febbraio 1994
 
 SCALFARO
 

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 05 agosto 1996 n. 412
+DECRETO-LEGGE 04 ottobre 1996 n. 521
 
 
-DECRETO-LEGGE 05 agosto 1996 n. 412
-===================================
+DECRETO-LEGGE 04 ottobre 1996 n. 521
+====================================
 
 Interventi urgenti in materia sociale ed umanitaria.
 ----------------------------------------------------
 
-Entrata in vigore del decreto: 8/8/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 7/10/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -22,7 +22,7 @@ Considerata la straordinaria necessita' ed urgenza di garantire gli interventi d
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di garantire la prosecuzione, per un triennio, dell'attivita' della Commissione di indagine sulla poverta' e sull'emarginazione di cui alla [legge 22 novembre 1990, n. 354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-22;354), necessaria per ampliare le ricerche e le rilevazioni finora svolte a formulare ulteriori proposte operative;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 agosto 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 ottobre 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri per la solidarieta' sociale e dell'interno, di concerto con i Ministri degli affari esteri e del tesoro e del bilancio e della programmazione economica;
 
@@ -84,12 +84,12 @@ Art. 6
 
 Entrata in vigore
 
-1. Le disposizioni del presente decreto hanno effetto dal 15 agosto 1996. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 agosto 1996
+### Dato a Roma, addi' 4 ottobre 1996
 
 SCALFARO
 

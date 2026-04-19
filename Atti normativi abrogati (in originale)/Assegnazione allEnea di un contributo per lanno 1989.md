@@ -1,13 +1,13 @@
-DECRETO-LEGGE 24 giugno 1989 n. 239
+DECRETO-LEGGE 26 aprile 1989 n. 151
 
 
-DECRETO-LEGGE 24 giugno 1989 n. 239
+DECRETO-LEGGE 26 aprile 1989 n. 151
 ===================================
 
 Assegnazione all'Enea di un contributo per l'anno 1989.
 -------------------------------------------------------
 
-Entrata in vigore del decreto: 27/6/1989.Decreto-Legge convertito dalla [L. 28 luglio 1989, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-07-28;281) (in G.U. 08/08/1989, n.184).
+Entrata in vigore del decreto: 28/04/1989.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Ritenuta la straordinaria necessita' ed urgenza di assicurare il regolare funzio
 
 Considerata la necessita' di incrementare le attivita' dell'Enea nei settori delle fonti rinnovabili e risparmio energetico, della protezione ambientale, della fusione nucleare e dell'innovazione tecnologica, nonche' di proseguire la riconversione verso tali settori delle attivita' programmatiche dell'Ente nell'ambito dello sviluppo e della promozione industriale dei reattori nucleari provati, dei reattori veloci e del ciclo del combustibile;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 giugno 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 aprile 1989;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'industria, del commercio e dell'artigianato, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro e dell'universita' e della ricerca scientifica e tecnologica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'industria, del commercio e dell'artigianato, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro e per il coordinamento delle iniziative per la ricerca scientifica e tecnologica;
 
 E M A N A il seguente decreto:
 
@@ -41,7 +41,7 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 giugno 1989
+### Dato a Roma, addi' 26 aprile 1989
 
 COSSIGA
 
@@ -53,6 +53,6 @@ FANFANI, Ministro del bilancio e della programmazione economica
 
 AMATO, Ministro del tesoro
 
-RUBERTI, Ministro dell'universita' e della ricerca scientifica e tecnologica
+RUBERTI, Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica
 
 Visto, il Guardasigilli: VASSALLI

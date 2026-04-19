@@ -1,13 +1,13 @@
-DECRETO-LEGGE 30 agosto 1996 n. 452
+DECRETO-LEGGE 23 ottobre 1996 n. 550
 
 
-DECRETO-LEGGE 30 agosto 1996 n. 452
-===================================
+DECRETO-LEGGE 23 ottobre 1996 n. 550
+====================================
 
 Modalita' di funzionamento dei consigli degli enti locali.
 ----------------------------------------------------------
 
-Entrata in vigore del decreto: 1/9/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 23/10/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare la certezza dei rapporti tra gli organi dei comuni e delle province, al fine di garantire continuita' nella gestione dell'ente locale, nonche' di dettare norme intese ad individuare tassativamente le fattispecie di scioglimento degli organi stessi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 agosto 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 ottobre 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno, di concerto con il Ministro per la funzione pubblica e gli affari regionali;
 
@@ -37,14 +37,21 @@ di consigli comunali e provinciali
 Art. 2
 ------
 
+Abrogazione
+
+1. Sono abrogate le disposizioni del [decreto-legge 30 agosto 1996, n. 452](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-08-30;452).
+
+Art. 3
+------
+
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 agosto 1996
+### Dato a Roma, addi' 23 ottobre 1996
 
 SCALFARO
 

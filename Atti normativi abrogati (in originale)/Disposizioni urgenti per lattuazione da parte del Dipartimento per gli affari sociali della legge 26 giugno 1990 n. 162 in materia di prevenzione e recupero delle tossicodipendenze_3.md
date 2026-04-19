@@ -1,13 +1,13 @@
-DECRETO-LEGGE 07 gennaio 1994 n. 9
+DECRETO-LEGGE 06 maggio 1994 n. 274
 
 
-DECRETO-LEGGE 07 gennaio 1994 n. 9
-==================================
+DECRETO-LEGGE 06 maggio 1994 n. 274
+===================================
 
 Disposizioni urgenti per l'attuazione da parte del Dipartimento per gli affari sociali della legge 26 giugno 1990, n. 162, in materia di prevenzione e recupero delle tossicodipendenze.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 8/1/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9-05-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per assi
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni al fine di favorire interventi a favore degli stranieri extracomunitari immigrati;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 maggio 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli affari sociali, di concerto con i Ministri dell'interno, delle finanze, del tesoro e della sanita';
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli affari sociali, di concerto con i Ministri delle finanze, del tesoro e della sanita';
 
 E M A N A il seguente decreto-legge:
 
@@ -49,7 +49,7 @@ b) enti locali e unita' sanitarie locali maggiormente interessati dall'espansion
 
 c) enti, organizzazioni di volontariato, cooperative e privati che operino senza scopi di lucro, iscritti agli albi di cui all'articolo 116 del testo unico, ovvero, in caso di mancata istituzione dell'albo e nelle more della registrazione temporanea, che si coordinino con la regione o con l'unita' sanitaria locale mediante apposite convenzioni, per progetti mirati a sostenere attivita' di recupero e reinserimento sociale e professionale dei tossicodipendenti. Per il finanziamento di tali iniziative e' destinata una quota pari al 25 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga;
 
-d) regioni per la formazione integrata degli operatori dei servizi pubblici e privati convenzionati per l'assistenza socio- sanitaria alle tossicodipendenze, anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi. Per il finanziamento di tali iniziative e' destinata una quota pari al 3 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
+d) regioni per la formazione integrata degli operatori dei servizi pubblici e privati convenzionati per l'assistenza socio-sanitaria alle tossicodipendenze, anche con riguardo alle problematiche derivanti dal trattamento di tossicodipendenti sieropositivi. Per il finanziamento di tali iniziative e' destinata una quota pari al 3 per cento del totale degli stanziamenti previsti per il Fondo nazionale di intervento per la lotta alla droga.
 
 3. Nel caso in cui il totale dei finanziamenti destinati a progetti approvati ai sensi di una delle lettere a), b), c) e d) del comma 2 non raggiunga l'ammontare della quota indicata nella lettera cui si riferisce, la disponibilita' residua di finanziamento e' utilizzata per i progetti eventualmente eccedenti altra quota. Comunque, le somme stanziate per il Fondo di cui al comma 1 e non impegnate alla chiusura di ciascun esercizio finanziario possono esserlo, per gli stessi fini, in quello successivo.
 
@@ -59,17 +59,19 @@ d) regioni per la formazione integrata degli operatori dei servizi pubblici e pr
 
 6. Al finanziamento dei progetti presentati, a decorrere dall'anno 1993, dai soggetti di cui alle lettere b) e c) del comma 2 si provvede mediante aperture di credito intestate, rispettivamente, al sindaco o al presidente dell'ente locale interessato ed al prefetto nella cui competenza territoriale ricadano gli interventi oggetto del finanziamento stesso, in qualita' di funzionari delegati.
 
-7. Il funzionario delegato puo' disporre una anticipazione fino al 20 per cento dell'importo del finanziamento assentito. I successivi pagamenti sono disposti sulla base degli stati di avanzamento dell'esecuzione dei singoli progetti regolarmente documentati.
+7. Il funzionario delegato puo' disporre una anticipazione fino al 50 per cento dell'importo del finanziamento assentito. I successivi pagamenti sono disposti sulla base degli stati di avanzamento dell'esecuzione dei singoli progetti regolarmente documentati.
 
-8. I controlli sui rendiconti e sull'utilizzo delle somme erogate per il finanziamento dei progetti di cui al comma 6 sono effettuati dalle ragionerie provinciali dello Stato e dalle delegazioni regionali della Corte dei conti, secondo le modalita' stabilite con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro e con il Ministro per gli affari sociali, da emanare entro trenta giorni dalla data di entrata in vigore del presente decreto. Sono inoltre autorizzate le visite ispettive di cui all'[articolo 65 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art65).
+8. Il funzionario delegato, in deroga alle vigenti norme sulla contabilita' dello Stato, puo' mantenere in contabilita' speciale e gestire le somme accreditate, anche oltre i termini previsti per la rendicontazione e comunque non oltre l'anno successivo, previa autorizzazione del Dipartimento per gli affari sociali. La deroga si applica anche per le somme accreditate ai prefetti quali funzionari delegati al pagamento per i progetti finanziati ai sensi degli articoli 132 e 134 del testo unico, relativamente all'esercizio finanziario per l'anno 1993, residui 1992.
 
-9. All'articolo 100, comma 5, del testo unico sono aggiunte, in fine, le seguenti parole: ", nonche' della Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, per gli interventi di prevenzione, recupero e reinserimento sociale dei tossicodipendenti.".
+9. I controlli sui rendiconti e sull'utilizzo delle somme erogate per il finanziamento dei progetti di cui al comma 6 sono effettuati dalle ragionerie provinciali dello Stato e dalle delegazioni regionali della Corte dei conti, secondo le modalita' stabilite con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro e con il Ministro per gli affari sociali, da emanare entro trenta giorni dalla data di entrata in vigore del presente decreto. Sono inoltre autorizzate le visite ispettive di cui all'[articolo 65 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art65).
 
-10. Ferme restando le disposizioni di cui all'articolo 1, e' fatto obbligo alle regioni di trasmettere alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, una relazione annuale sull'impiego dei fondi ad esse trasferiti per la finalita' di cui al comma 2, lettera d), e sugli specifici risultati conseguiti.
+10. All'articolo 100, comma 5, del testo unico sono aggiunte, in fine, le seguenti parole: ", nonche' della Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, per gli interventi di prevenzione, recupero e reinserimento sociale dei tossicodipendenti.".
 
-11. La relazione annuale, presentata al Parlamento dal Ministro per gli affari sociali, deve contenere una dettagliata analisi delle attivita' relative all'erogazione dei contributi indicati nel presente articolo.
+11. Ferme restando le disposizioni di cui all'articolo 1, e' fatto obbligo alle regioni di trasmettere alla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, una relazione annuale sull'impiego dei fondi ad esse trasferiti per la finalita' di cui al comma 2, lettera d), e sugli specifici risultati conseguiti.
 
-12. E' abrogata ogni altra disposizione in contrasto con il presente articolo.
+12. La relazione annuale, presentata al Parlamento dal Ministro per gli affari sociali, deve contenere una dettagliata analisi delle attivita' relative all'erogazione dei contributi indicati nel presente articolo.
+
+13. E' abrogata ogni altra disposizione in contrasto con il presente articolo.
 
 Art. 3
 ------
@@ -108,7 +110,7 @@ Art. 5
 Art. 6
 ------
 
-1. Le somme rese disponibili per effetto della revoca del contributo di cui all'[articolo 11, comma 5, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art11-com5), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono versate dalle regioni interessate ad apposito capitolo dello stato di previsione dell'entrata del bilancio statale per essere riassegnate, con decreto del Ministro del tesoro, al capitolo 1222 dello stato di previsione della Presidenza del Consiglio dei Ministri.
+1. Le somme rese disponibili per effetto della revoca del contributo di cui all'[articolo 11, comma 5, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art11-com5), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono versate dalle regioni interessate ad apposito capitolo dello stato di previsione dell'entrata del bilancio statale per essere riassegnate, con decreto del Ministro del tesoro, ad apposito capitolo dello stato di previsione della Presidenza del Consiglio dei Ministri.
 
 Art. 7
 ------
@@ -118,15 +120,13 @@ Art. 7
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 gennaio 1994
+### Dato a Roma, addi' 6 maggio 1994
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
 
 CONTRI, Ministro per gli affari sociali
-
-MANCINO, Ministro dell'interno
 
 GALLO, Ministro delle finanze
 

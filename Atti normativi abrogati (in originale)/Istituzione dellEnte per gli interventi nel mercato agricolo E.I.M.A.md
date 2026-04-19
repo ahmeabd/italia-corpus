@@ -1,13 +1,13 @@
-DECRETO-LEGGE 23 settembre 1994 n. 548
+DECRETO-LEGGE 25 maggio 1994 n. 314
 
 
-DECRETO-LEGGE 23 settembre 1994 n. 548
-======================================
+DECRETO-LEGGE 25 maggio 1994 n. 314
+===================================
 
 Istituzione dell'Ente per gli interventi nel mercato agricolo E.I.M.A.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 25/9/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26/5/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,12 +16,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare una nuova disciplina normativa per l'Azienda di Stato per gli interventi nel mercato agricolo, trasformandola in Ente autonomo di diritto pubblico e provvedendo altresi' al temporaneo commissariamento dell'Ente medesimo;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 settembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 1994;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri delle finanze, del tesoro e per la funzione pubblica e gli affari regionali;
 
-proposta del Presidente del Consiglio dei Ministri e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri delle finanze, del tesoro, per la funzione pubblica e gli affari regionali e del bilancio e della programmazione economica; E M A N A il seguente decreto-legge:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -37,7 +36,7 @@ Istituzione dell'Ente per gli interventi nel mercato agricolo
 
 4. Il Ministro detta gli indirizzi programmatici, indica gli obiettivi e controlla che l'Ente si adegui ai medesimi.
 
-5. L'Ente rimane titolare di tutti i rapporti attivi e passivi che fanno capo all'Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.) e in particolare di quelli relativi al patrimonio e al personale.
+5. L'Ente rimane titolare di tutti i rapporti attivi e passivi che fanno capo all'Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.) e in particolare in quelli relativi al patrimonio e al personale.
 
 Art. 2
 ------
@@ -50,11 +49,11 @@ a) svolge i compiti di organismo di intervento dello Stato italiano, fatta eccez
 
 b) cura, garantendo la massima celerita' delle relative procedure, l'erogazione delle provvidenze finanziarie, quali aiuti, aiuti al reddito, compensazioni finanziarie, integrazioni di prezzo e simili, anche avvalendosi della collaborazione delle regioni, stipulando con esse apposite convenzioni;
 
-c) esercita tutti gli altri compiti affidatigli dalla legge e dai regolamenti della Unione Europea. A tal fine, nel quadro della prevenzione delle violazioni in danno dei fondi nazionali e comunitari, l'Ente ed il Ministero delle finanze operano di concerto nei casi in cui prodotti agroalimentari sono destinati ad essere assoggettati ad un regime doganale.
+c) esercita tutti gli altri compiti affidatigli dalla legge e dai regolamenti della Unione Europea.
 
 2. Per l'attuazione degli indirizzi e degli obiettivi stabiliti dalla politica agricola nazionale, l'Ente:
 
-a) provvede alla gestione, nella fase dell'istruzione, del finanziamento e del controllo, di tutti i piani di sostegno tendenti a sostenere comparti agricoli sia in situazioni di crisi contingenti, sia per l'attuazione di piani strutturali di miglioramento qualitativo dei prodotti;
+a) provvede alla gestione, nella fase dell'istruzione, del finanziamento e del controllo di tutti i piani di sostegno tendenti a sostenere comparti agricoli sia in situazioni di crisi contingenti, sia per l'attuazione di piani strutturali di miglioramento qualitativo dei prodotti;
 
 b) gestisce l'intervento nazionale sul mercato e provvede alla vendita successiva del prodotto immagazzinato;
 
@@ -162,30 +161,24 @@ Art. 10
 
 Il collegio dei revisori
 
-1. Il collegio dei revisori e' composto da cinque membri effettivi, iscritti o in possesso dei requisiti per l'iscrizione nel registro di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;88~art1), designati:
+1. Il collegio dei revisori e' composto da tre componenti iscritti nel Registro dei revisori contabili, designati:
 
-a) uno dal Presidente del Consiglio dei Ministri tra i magistrati amministrativi o contabili o gli avvocati dello Stato, con funzioni di presidente;
+a) uno dal Presidente del Consiglio dei Ministri, scelto tra gli appartenenti alla magistratura amministrativa o contabile o tra gli avvocati dello Stato, che ne assume la presidenza;
 
-b) due dal Ministro del tesoro;
+b) due dal Ministro del tesoro, scelti tra i dirigenti generali amministrativi in servizio, esperti in materia di revisione aziendale, appartenenti ai ruoli della Ragioneria generale dello Stato, i quali, per la durata dell'incarico, sono collocati in posizione di fuori ruolo.
 
-c) uno dal Ministro del bilancio e della programmazione economica;
+2. Sono altresi' nominati due componenti supplenti, designati dal Ministro del tesoro e scelti tra i dirigenti della Ragioneria generale dello Stato.
 
-d) uno dal Ministro delle risorse agricole, alimentari e forestali.
+3. Il collegio dei revisori e' nominato con decreto del Ministro e dura in carica cinque anni.
 
-2. I membri di cui alle lettere b), c) e d) del comma 1 possono essere nominati anche fra estranei alla pubblica amministrazione e, se dipendenti pubblici, devono rivestire la qualifica di dirigente generale ed essere collocati fuori ruolo per tutta la durata del mandato.
+4. Il collegio dei revisori verifica la regolarita' delle scritture contabili, l'economicita', l'efficenza e l'efficacia della gestione ed analizza i processi decisionali ed esecutivi degli organi e degli uffici dell'Ente.
 
-3. Sono nominati anche due componenti supplenti designati, rispettivamente, dal Ministro del tesoro e dal Ministro del bilancio e della programmazione economica.
+5. I revisori hanno diritto di assistere alle sedute del consiglio.
 
-4. Il collegio dei revisori e' nominato con decreto del Ministro e dura in carica cinque anni.
-
-5. Il collegio dei revisori verifica la regolarita' delle scritture contabili, l'economicita', l'efficienza e l'efficacia della gestione ed analizza i processi decisionali ed esecutivi degli organi e degli uffici dell'Ente.
-
-6. I revisori hanno diritto di assistere alle sedute del consiglio.
-
-7. Il collegio dei revisori riferisce al consiglio i risultati delle verificazioni effettuate e propone gli eventuali correttivi.  
+6. Il collegio dei revisori riferisce al consiglio i risultati delle verificazioni effettuate e propone gli eventuali correttivi.  
 Nel caso vengano accertate gravi irregolarita' amministrative o contabili, il collegio riferisce direttamente al Ministro.
 
-8. Sino alla costituzione del collegio dei revisori ai sensi del presente articolo, resta in carica il collegio nominato ai sensi dell'[articolo 4 della legge 14 agosto 1982, n. 610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610~art4).
+7. Sino alla costituzione del collegio dei revisori ai sensi del presente articolo, resta in carica il collegio nominato ai sensi dell'[articolo 4 della legge 14 agosto 1982, n. 610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610~art4).
 
 Art. 11
 -------
@@ -200,15 +193,12 @@ Ordinamento contabile
 
 4. In attuazione dell'[articolo 9, comma 2, della legge 4 dicembre 1993, n. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491~art9-com2), il bilancio dell'Ente e' sottoposto a certificazione ai sensi della [legge 7 giugno 1974, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-07;216), e del [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-03-31;136). La mancata certificazione o il rifiuto dei certificatori di rilasciare dichiarazione di conformita' del bilancio ai principi contabili cui essi fanno riferimento importa la decadenza dall'incarico dell'amministratore e del direttore generale che hanno proposto il bilancio nella formulazione sottoposta alla denegata certificazione.
 
-5. Per prevenire, accertare e reprimere le violazioni in danno dei fondi nazionali e comunitari, il sistema informativo e' direttamente collegato con l'anagrafe tributaria e con i sistemi informativi ad essa connessi, anche ai fini del procedimento di fermo amministrativo; la Guardia di finanza ha libero ed autonomo accesso a schedari, archivi e documentazione comunque a disposizione dell'Ente.
+5. Per prevenire, accertare e reprimere le violazioni in danno dei fondi nazionali e comunitari, il sistema informativo e' direttamente collegato con l'anagrafe tributaria e con i sistemi informativi ad essa connessi, anche ai fini del procedimento di fermo amministrativo; la Guardia di finanza ha libero ed autonomo accesso a schedari, archivi e documentazione comunque a disposizione dell'Ente.   
+Restano ferme le disposizioni di cui agli [articoli 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491~art8) e [9 della legge 4 dicembre 1993, n. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491~art9).
 
 6. Con apposita convenzione le amministrazioni di cui al comma 5 definiscono i termini e le modalita' tecniche per lo scambio dei dati, prevedendo altresi' il rimborso dei costi diretti sostenuti.
 
 7. Non costituisce violazione del segreto d'ufficio lo scambio di informazioni tra i sistemi informativi di cui al comma 5.
-
-8. Restano ferme le disposizioni di cui agli [articoli 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491~art8) e [9 della legge 4 dicembre 1993, n. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;491~art9).
-
-9. Ai fini di quanto previsto dai commi 5, 6 e 7, restano ferme le norme sul segreto delle indagini preliminari e sul trattamento dei dati personali.
 
 Art. 12
 -------
@@ -217,15 +207,13 @@ Il personale
 
 1. Al personale dell'Ente continuano ad applicarsi le disposizioni del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni ed integrazioni. Lo stesso personale rimane iscritto nel comparto delle "Aziende e amministrazioni autonome dello Stato" di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1993-12-30;593~art2) e [6 del decreto del Presidente del Consiglio dei Ministri 30 dicembre 1993, n. 593](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1993-12-30;593~art6).
 
-2. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro, di concerto con i Ministri del tesoro e per la funzione pubblica, previa verifica dei carichi di lavoro, e' determinato il fabbisogno di personale dell'Ente, ai sensi della [legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537).
+2. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro, di concerto con i Ministri del tesoro e per la funzione pubblica, previa verifica dei carichi di lavoro, e' determinato il fabbisogno di personale dell'Ente ai sensi della [legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537).
 
 3. Il personale che, in seguito alla ricognizione di cui al comma 2, risulti in eccedenza, e' posto in mobilita' ai sensi dell'[articolo 35 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art35).
 
 4. A seguito della ricognizione di cui al comma 2, il consiglio adotta, su proposta dell'amministratore, il regolamento dei servizi dell'Ente.
 
-5. Il personale appartenente alle qualifiche funzionali non inferiori alla settima e non inferiori alla quinta, adibito con decreto del Ministro al servizio ispettivo, svolge, nei limiti e secondo le attribuzioni ad esso conferite dalle leggi e dai regolamenti, le funzioni previste rispettivamente dai [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-15;1304~art18-com1) e [2 dell'articolo 18 della legge 15 dicembre 1961, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-15;1304~art18-com2). Resta fermo quanto previsto dall'[articolo 57, comma 3, del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art57-com3).
-
-6. Per assicurare l'efficiente attuazione delle finalita' di cui all'articolo 2, l'E.I.M.A. e' autorizzato ad assumere, con contratto di diritto privato di durata quinquennale, previa selezione per titoli e colloquio, secondo criteri e modalita' stabilite dal Ministro delle risorse agricole, alimentari e forestali, tre unita' di personale particolarmente qualificato nel settore, per lo svolgimento di funzioni dirigenziali, anche vicarie del direttore generale.
+5. Il personale appartenente alle qualifiche funzionali non inferiori alla settima e non inferiori alla quinta, adibito con decreto del Ministro al servizio ispettivo, svolge, nei limiti e secondo le attribuzioni ad esso conferite dalle leggi e dai regolamenti, le funzioni previste rispettivamente dai [commi primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-15;1304~art18-com1) e [secondo dell'articolo 18 della legge 15 dicembre 1961, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-15;1304~art18-com2).
 
 Art. 13
 -------
@@ -250,48 +238,13 @@ Norme transitorie
 
 2. Sino alla costituzione del consiglio, il Ministro esercita i poteri e le attribuzioni gia' spettanti al consiglio di amministrazione dell'A.I.M.A. ai sensi della [legge n. 610 del 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;610) e del [decreto del Presidente della Repubblica n. 30 del 1985](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985;30), anche attribuendoli, in tutto o in parte, ad un proprio delegato.
 
-3. In attesa della adozione del regolamento dei servizi, il Ministro provvede alla riorganizzazione degli uffici e del personale dell'Ente, anche in deroga alle norme di cui alla [legge n. 610 del 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;610) ed al [decreto del Presidente della Repubblica n. 30 del 1985](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985;30).
+3. In attesa della adozione del regolamento dei servizi, il Ministro provvede alla riorganizzazione degli uffici e del personale dell'Ente, anche in deroga alle norme di cui alla [legge n. 610 del 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;610) e del [decreto del Presidente della Repubblica n. 30 del 1985](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985;30).
 
-4. Sino alla nomina dell'amministratore, il direttore generale dell'A.I.M.A. svolge nell'Ente i compiti e le funzioni previsti dalla [legge n. 610 del 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;610) e dal [decreto del Presidente della Repubblica n. 30 del 1985](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985;30), nonche' quelli delegabili ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29).
+4. Sino alla nomina dell'amministratore, il direttore generale dell'A.I.M.A. svolge nell'Ente i compiti e le funzioni previste dalla [legge n. 610 del 1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;610) e dal [decreto del Presidente della Repubblica n. 30 del 1985](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985;30), nonche' quelli delegabili ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29).
 
 5. Tutte le operazioni connesse con la trasformazione di cui al presente decreto sono esenti da imposte e tasse.
 
 Art. 16
--------
-
-Controlli comunitari
-
-1. Per l'effettuazione dei controlli di propria competenza previsti dai [regolamenti (CEE) n. 4045/89 del Consiglio del 21 dicembre 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989R4045), [n. 307/91](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0307) del Consiglio del 4 febbraio 1991, n. 2075/92 del Consiglio del 30 giugno 1992, e loro successive integrazioni e modificazioni, il Ministero delle risorse agricole, alimentari e forestali e' autorizzato a costituire, previa intesa con il Ministero del tesoro, una o piu' agenzie aventi forma di societa' per azioni, compatibilmente con i vincoli derivanti dalla richiamata normativa comunitaria, prevedendo forme di coordinamento di strutture e funzioni tra tutti i soggetti addetti al controllo, ivi compresa l'Agecontrol S.p.a., per conseguire economicita' di gestione ed efficiente impiego delle risorse disponibili. Il capitale sociale e' sottoscritto, oltre che dal Ministero delle risorse agricole, alimentari e forestali, esclusivamente da soggetti pubblici; la pubblicazione del presente decreto tiene luogo di tutti gli adempimenti in materia di costituzione delle societa' previsti dalla normativa vigente.
-
-2. Nell'esercizio dell'attivita' di controllo, alle agenzie di cui al comma 1 ed al loro personale, preposto a tali attivita', si applicano le norme di cui all'articolo 1, commi 2, 3 e 5, in quanto applicabili, ed all'[articolo 2 del decreto-legge 27 ottobre 1986, n. 701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701~art2), convertito, con modificazioni, dalla [legge 23 dicembre 1986, n. 898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898).
-
-3. Le agenzie di cui al comma 1 per la predisposizione e l'esecuzione delle verifiche tecnico-analitiche si avvalgono, mediante convenzione, dei laboratori dell'Ispettorato centrale repressione frodi o con questo convenzionati.
-
-4. Le agenzie di cui al comma 1 assumono in via prioritaria, previa selezione, il personale posto in mobilita' a seguito della riorganizzazione dell'Ente per gli interventi nel mercato agricolo - EIMA e quello posto in mobilita' o in cassa integrazione a causa della crisi delle societa' cooperative, nonche' delle imprese a queste collegate, di cui all'[articolo 1 del decreto legislativo 7 maggio 1948, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1235~art1).
-
-5. Il personale addetto ai controlli dovra' essere in possesso di idoneo diploma di laurea o del diploma di perito agrario.
-
-6. Per l'aggiornamento del personale selezionato il Ministero delle risorse agricole, alimentari e forestali disporra' di corsi di riqualificazione, con esami finali, avvalendosi della Scuola superiore della pubblica amministrazione.
-
-Art. 17
--------
-
-Norme di copertura
-
-1. All'onere derivante dall'attuazione dell'articolo 16, determinato in lire 6.000 milioni per l'anno 1994, lire 24.000 milioni per l'anno 1995 e lire 30.000 milioni annui a decorrere dal 1996, si provvede, quanto a lire 6.000 milioni per l'anno 1994, a carico del bilancio dell'EIMA, che provvede mediante versamenti di pari importo all'entrata del bilancio dello Stato al fine della riassegnazione, con decreto del Ministro del tesoro, ad uno o piu' capitoli dello stato di previsione del Ministero delle risorse agricole, alimentari e forestali; quanto a lire 24.000 milioni per l'anno 1995 e a lire 30.000 milioni per l'anno 1996, mediante utilizzo delle proiezioni per i medesimi anni dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1994, parzialmente utilizzando l'accantonamento relativo al Ministero delle risorse agricole, alimentari e forestali.
-
-2. Il Ministero del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
-
-Art. 18
--------
-
-Interpretazione dell'articolo 23 del decreto del Presidente della Repubblica 28 settembre 1987, n. 568
-
-1. Il giudizio di idoneita' per il conseguimento della seconda fascia differenziata di professionalita' del profilo di ricercatore di cui all'[articolo 23 del decreto del Presidente della Repubblica 28 settembre 1987, n. 568](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-09-28;568~art23), relativamente agli sperimentatori dipendenti di ruolo del Ministero delle risorse agricole, alimentari e forestali ed in servizio presso gli istituti di ricerca e sperimentazione agraria di cui al [decreto del Presidente della Repubblica 23 novembre 1967, n. 1318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-11-23;1318), ed alla [legge 6 giugno 1973, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-06-06;306), puo' essere indetto indipendentemente dell'emanazione dei regolamenti organici.
-
-2. Sono fatti salvi gli effetti giuridici ed economici nei confronti dei ricercatori che abbiano superato il giudizio di idoneita' svolto in attuazione dell'[articolo 23 del decreto del Presidente della Repubblica 28 settembre 1987, n. 568](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-09-28;568~art23).
-
-Art. 19
 -------
 
 Entrata in vigore
@@ -301,7 +254,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 settembre 1994
+### Dato a Roma, addi' 25 maggio 1994
 
 SCALFARO
 
@@ -316,7 +269,5 @@ TREMONTI, Ministro delle finanze
 DINI, Ministro del tesoro
 
 URBANI, Ministro per la funzione pubblica e gli affari regionali
-
-PAGLIARINI, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: BIONDI

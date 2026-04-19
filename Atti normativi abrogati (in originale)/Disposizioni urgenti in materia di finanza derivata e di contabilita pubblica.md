@@ -1,13 +1,13 @@
-DECRETO-LEGGE 18 settembre 1992 n. 382
+DECRETO-LEGGE 19 novembre 1992 n. 440
 
 
-DECRETO-LEGGE 18 settembre 1992 n. 382
-======================================
+DECRETO-LEGGE 19 novembre 1992 n. 440
+=====================================
 
 Disposizioni urgenti in materia di finanza derivata e di contabilita' pubblica.
 -------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20/9/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19/11/1992.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di finanza derivata e di contabilita' pubblica;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 settembre 1992;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 novembre 1992;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno, del tesoro e della sanita', di concerto con i Ministri del bilancio e della programmazione economica, delle finanze e dell'industria, del commercio e dell'artigianato;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e del tesoro, di concerto con i Ministri della sanita', delle finanze e dell'industria, del commercio e dell'artigianato;
 
 E M A N A il seguente decreto-legge:
 
@@ -75,7 +75,7 @@ Fondo perequativo per le amministrazioni provinciali e per i comuni
 
 2. Il contributo perequativo finanziato con quota del provento dell'addizionale energetica di cui al citato [articolo 6, comma 7, del decreto-legge n. 511 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988;511~art6-com7), valutato in lire 102.200 milioni, e' attribuito alle amministrazioni provinciali dopo che le relative somme sono state acquisite al bilancio dello Stato, per il settantacinque per cento con i criteri indicati all'[articolo 7, comma 1, lettera b), del decreto-legge 28 dicembre 1989, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-28;415~art7-com1-letb), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;38), e per il venticinque per cento con i criteri indicati all'articolo 7, comma 1, lettera c), del citato [decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415).
 
-3. La quota del fondo perequativo spettante alle amministrazioni provinciali, pari all'incremento del 4,5 per cento attribuito sulla base del contributo perequativo riconosciuto nel 1991, e' corrisposta nel 1992 a titolo provvisorio in attesa che l'ente abbia dimostrato di aver ottemperato alle disposizioni riguardanti la copertura minima obbligatoria dei costi dei servizi, di cui all'articolo 14. In caso di mancata osservanza, l'ente e' tenuto alla restituzione delle somme relative all'anno 1992, mediante trattenuta sui fondi perequativi degli anni successivi.
+3. La quota del fondo perequativo spettante alle amministrazioni provinciali, pari all'incremento del 4,5 per cento attribuito sulla base del contributo perequativo riconosciuto nel 1991, e' corrisposta nel 1992 a titolo provvisorio in attesa che l'ente abbia dimostrato di aver ottemperato alle disposizioni riguardanti la copertura minima obbligatoria dei costi dei servizi, di cui all'articolo 8. In caso di mancata osservanza, l'ente e' tenuto alla restituzione delle somme relative all'anno 1992, mediante trattenuta sui fondi perequativi degli anni successivi.
 
 4. A valere sul fondo perequativo di lire 6.444.600 milioni di cui all'articolo 1, comma 1, lettera b), il Ministero dell'interno e' autorizzato a corrispondere per l'anno 1992:
 
@@ -95,12 +95,13 @@ d) quanto a lire 16.000 milioni ai comuni capoluogo di provincia appartenenti al
 
 e) per la restante parte, valutata in lire 174.300 milioni a tutti i comuni, con i criteri indicati alla lettera d).
 
-6. La quota del fondo perequativo spettante ai comuni, pari all'incremento del 4,5 per cento attribuito sulla base del contributo perequativo riconosciuto nel 1991, e' corrisposta nel 1992 a titolo provvisorio in attesa che l'ente abbia dimostrato di aver ottemperato alle disposizioni riguardanti la copertura minima obbligatoria dei costi dei servizi, di cui all'articolo 18. In caso di mancata osservanza l'ente e' tenuto alla restituzione delle somme relative all'anno 1992, mediante trattenuta sui fondi perequativi degli anni successivi.
+6. La quota del fondo perequativo spettante ai comuni, pari all'incremento del 4,5 per cento attribuito sulla base del contributo perequativo riconosciuto nel 1991, e' corrisposta nel 1992 a titolo provvisorio in attesa che l'ente abbia dimostrato di aver ottemperato alle disposizioni riguardanti la copertura minima obbligatoria dei costi dei servizi, di cui all'articolo 8. In caso di mancata osservanza l'ente e' tenuto alla restituzione delle somme relative all'anno 1992, mediante trattenuta sui fondi perequativi degli anni successivi.
 
 Art. 4
 ------
 
-Fondo per lo sviluppo degli investimenti delle amministrazioni provinciali, dei comuni e delle comunita' montane, mutui, contributi in conto capitale agli enti locali ed investimenti degli enti locali.
+Fondo per lo sviluppo degli investimenti delle amministrazioni   
+provinciali, dei comuni e delle comunita' montane, mutui, contributi in conto capitale agli enti locali ed investimenti degli enti locali.
 
 1. A valere sul fondo di cui all'articolo 1, comma 1, lettera c), il Ministero dell'interno e' autorizzato a corrispondere contributi per le rate di ammortamento dei mutui contratti per investimento, calcolati come segue:
 
@@ -117,7 +118,7 @@ d) alle comunita' montane, per i mutui contratti nell'anno 1992, entro il limite
 
 3. Le amministrazioni provinciali, i comuni e le comunita' montane possono impiegare nel corso dell'esercizio 1992 anche le quote, non ancora utilizzate, dei contributi statali sulle rate di ammortamento dei mutui da contrarre con riferimento agli esercizi 1988, 1989 e 1990, di cui all'[articolo 12, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art12-com1) e [2, del decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art12-com2) ed all'[articolo 5, comma 2-bis, del decreto-legge 31 ottobre 1990, n. 310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-31;310~art5-com2bis), convertito, con modificazioni, dalla [legge 22 dicembre 1990, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;403).
 
-4. I contributi sono corrisposti per il solo periodo di ammortamento di ciascun mutuo e sono attivabili, per quelli di cui al comma 1, lettere b), c) e d), quelli di cui al comma 3, nonche' quelli di cui all'[articolo 5, comma 2- bis, del decreto-legge n. 310 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990;310~art5-com2bis), con la presentazione, entro il termine perentorio, a pena di decadenza, del 31 marzo 1993, di apposita certificazione firmata dal legale rappresentante dell'ente, dal segretario e dal ragioniere, ove esista, secondo le modalita' stabilite, entro il mese di ottobre 1992, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro. Fermo restando il limite del 25 per cento di cui all'[articolo 4, comma 10, del decreto-legge 2 marzo 1989, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;65~art4-com10), convertito, con modificazioni, dalla [legge 26 aprile 1989, n. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-26;155), i contributi per i mutui contratti nel 1992 sono determinati, a modifica delle procedure e dei criteri definiti dallo stesso [articolo 4 del decreto-legge n. 65 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;65~art4), calcolando una rata di ammortamento costante annua posticipata, con interesse del 7 o 6 per cento, rispettivamente per gli enti con popolazione inferiore a 5.000 abitanti, o per quelli con popolazione uguale o superiore.
+4. I contributi sono corrisposti per il solo periodo di ammortamento di ciascun mutuo e sono attivabili, per quelli di cui al comma 1, lettere b), c) e d), quelli di cui al comma 3, nonche' quelli di cui all'[articolo 5, comma 2- bis, del decreto-legge n. 310 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990;310~art5-com2bis), con la presentazione, entro il termine perentorio, a pena di decadenza, del 31 marzo 1993, di apposita certificazione firmata dal legale rappresentante dell'ente, dal segretario e dal ragioniere, ove esista, secondo le modalita' stabilite, entro il mese di novembre 1992, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro. Fermo restando il limite del 25 per cento di cui all'[articolo 4, comma 10, del decreto-legge 2 marzo 1989, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;65~art4-com10), convertito, con modificazioni, dalla [legge 26 aprile 1989, n. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-26;155), i contributi per i mutui contratti nel 1992 sono determinati, a modifica delle procedure e dei criteri definiti dallo stesso [articolo 4 del decreto-legge n. 65 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;65~art4), calcolando una rata di ammortamento costante annua posticipata, con interesse del 7 o 6 per cento, rispettivamente per gli enti con popolazione inferiore a 5.000 abitanti, o per quelli con popolazione uguale o superiore.
 
 5. Il termine del 28 febbraio 1992, fissato dal [comma 4 dell'articolo 5 del decreto-legge n. 6 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;6~art5-com4), per la presentazione dei certificati relativi ai mutui contratti dagli enti locali nel 1991, e' stabilito al 31 marzo 1992.
 
@@ -158,9 +159,9 @@ Art. 6
 
 Finanziamento degli espropri
 
-1. Le disposizioni dell'[articolo 6 del decreto-legge n. 6 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;6~art6), si applicano alle definizioni intervenute sino alla data di entrata in vigore del presente decreto. Le relative domande dovranno pervenire alla Cassa depositi e prestiti entro novanta giorni dalla stessa data.
+1. Le disposizioni dell'[articolo 6 del decreto-legge n. 6 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;6~art6) si applicano alle definizioni intervenute sino alla data di entrata in vigore del presente decreto. Le relative domande dovranno pervenire alla Cassa depositi e prestiti entro novanta giorni dalla stessa data.
 
-2. Le concessioni di mutui con ammortamento a totale carico dello Stato per i maggiori oneri di esproprio di cui alla [legge 27 ottobre 1988, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;458), riguardano esclusivamente le acquisizioni di aree effettuate entro il 31 dicembre 1991, i cui oneri siano stati predeterminati in sede amministrativa ai sensi delle [leggi 22 ottobre 1971, n. 865, e 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10), nonche' quelli riconosciuti da province e comuni ai sensi dell'articolo 12- bis del citato [decreto-legge n. 6 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;6), per le maggiori somme comunque derivanti da:
+2. Le concessioni di mutui con ammortamento a totale carico dello Stato per i maggiori oneri di esproprio di cui alla [legge 27 ottobre 1988, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;458), riguardano esclusivamente le acquisizioni di aree effettuate entro il 31 dicembre 1991, i cui oneri siano stati predeterminati in sede amministrativa ai sensi delle [leggi 22 ottobre 1971, n. 865, e 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10), nonche' quelli riconosciuti da province e comuni ai sensi dell'articolo 12-bis del citato [decreto-legge n. 6 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;6), per le maggiori somme comunque derivanti da:
 
 a) sentenze passate in giudicato;
 
@@ -180,9 +181,9 @@ Art. 8
 
 Copertura tariffaria del costo di taluni servizi
 
-1. Le amministrazioni provinciali, i comuni, le comunita' montane ed i consorzi di enti locali, sono tenuti a trasmettere entro il termine perentorio del 31 marzo 1993 apposita certificazione, a carattere definitivo, firmata dal legale rappresentante, dal segretario, dal ragioniere, ove esista, e dal presidente del collegio dei revisori dei conti o dal revisore dei conti, per i comuni con popolazione inferiore a 5.000 abitanti, che attesti il rispetto per l'anno 1992 delle disposizioni di cui all'articolo 14, commi 1, 2, 3 e 4, del citato [decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415). Le modalita' della certificazione sono stabilite entro il 31 ottobre 1992 con decreto del Ministro dell'interno, di concerto col Ministro del tesoro, sentite l'Associazione nazionale dei comuni italiani (ANCI) e l'Unione delle province d'Italia (UPI).
+1. Le amministrazioni provinciali, i comuni, le comunita' montane ed i consorzi di enti locali, sono tenuti a trasmettere entro il termine perentorio del 31 marzo 1993 apposita certificazione, a carattere definitivo, firmata dal legale rappresentante, dal segretario, dal ragioniere, ove esista, e dal presidente del collegio dei revisori dei conti o dal revisore dei conti, per i comuni con popolazione inferiore a 5.000 abitanti, che attesti il rispetto per l'anno 1992 delle disposizioni di cui all'articolo 14, commi 1, 2, 3 e 4, del citato [decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415). Le modalita' della certificazione sono stabilite con il decreto del Ministro dell'interno, di concerto col [Ministro del tesoro, in data 23 ottobre 1992, pubblicato nella Gazzetta Ufficiale n. 261 del 5 novembre 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-11-05&numeroGazzetta=261).
 
-2. Ai fini del rispetto dell'obbligo di copertura minima del costo complessivo di gestione dei servizi, previsti dall'[articolo 14, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art14-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art14-com2) e [3, del decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art14-com3), gli enti locali ed i loro consorzi sono autorizzati, anche in corso d'anno, comunque non oltre il 30 novembre, a rideliberare in aumento le tariffe con effetto immediato, ovvero con effetto dall'anno in corso per la tassa di smaltimento dei rifiuti solidi urbani, nel caso in cui il controllo della gestione evidenzi uno squilibrio nel rapporto tra spese impegnate ed entrate accertate che non consenta il rispetto delle percentuali minime obbligatorie di copertura.
+2. Anche ai fini del rispetto dell'obbligo di copertura minima del costo complessivo di gestione dei servizi, previsti dall'[articolo 14, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art14-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art14-com2) e [3, del decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art14-com3), gli enti locali ed i loro consorzi sono autorizzati, anche in corso d'anno, comunque non oltre il 30 novembre, a rideliberare in aumento le tariffe con effetto immediato, ovvero con effetto dall'anno in corso per la tassa di smaltimento dei rifiuti solidi urbani, nel caso in cui il controllo della gestione evidenzi uno squilibrio nel rapporto tra spese impegnate ed entrate accertate.
 
 3. I comuni possono determinare le tariffe del servizio di trasporto funebre di cui all'[articolo 16 del decreto del Presidente della Repubblica 10 settembre 1990, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-09-10;285~art16), in misura non superiore al 100 per cento del costo complessivo di gestione, in deroga all'[articolo 17, comma 1, della legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41~art17-com1).
 
@@ -241,7 +242,8 @@ Esecuzione forzata a danno degli enti locali
 Art. 11
 -------
 
-Interventi a favore delle aziende di soggiorno, delle regioni a statuto ordinario e delle camere di commercio, nonche' interpretazione autentica in materia di applicazione del testo unico sulle assicurazioni private.
+Interventi a favore delle aziende di soggiorno, delle regioni a   
+statuto ordinario e delle camere di commercio, nonche' interpretazione autentica in materia di applicazione del testo unico sulle assicurazioni private.
 
 1. Per l'anno 1992, le somme di cui all'[articolo 7 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;638~art7), da corrispondere alle aziende autonome di soggiorno, cura e turismo, in sostituzione di tributi soppressi, sono attribuite dall'amministrazione finanziaria in misura pari a quelle spettanti per l'anno 1991 aumentate del 4,5 per cento. In caso di estinzione delle aziende per effetto delle leggi regionali di attuazione della [legge 17 maggio 1983, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-17;217), le predette somme sono attribuite alle rispettive regioni.
 
@@ -295,11 +297,13 @@ Proroga dei termini
 
 1. Le disposizioni di cui al [comma 2 dell'articolo 15- ter del decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art15ter-com2), sono prorogate per l'anno 1992 e finanziate nell'ambito di uno stanziamento complessivo di lire 400 milioni; al relativo onere si provvede con l'importo da assegnare al capitolo 1018 dello stato di previsione del Ministero dell'interno per l'anno finanziario 1992 mediante prelevamento dal fondo di cui al capitolo 6682 dello stato di previsione del Ministero del tesoro per il medesimo anno.
 
-2. Limitatamente alle province, ai comuni ed alle comunita' montane, le disposizioni di cui all'[articolo 9, comma 8, del decreto del Presidente della Repubblica 3 agosto 1990, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-08-03;333~art9-com8), si applicano a decorrere dall'anno 1993. Ai fini della gestione del fondo annuale di solidarieta' per la redistribuzione tra comuni, province e comunita' montane degli oneri finanziari corrispondenti alla spesa sostenuta dagli enti stessi per il personale cui e' concessa l'aspettativa per motivi sindacali e' costituito, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, da emanarsi entro il 30 settembre 1992, un apposito comitato di garanzia. Il comitato e' composto da sette membri, tre dei quali in rappresentanza dell'ANCI ed uno in rappresentanza dell'UPI, dell'UNCEM, del Ministero dell'interno, del Ministero del tesoro. Con successivo decreto interministeriale, da emanarsi entro il 30 ottobre 1992, sentite l'ANCI, l'UPI e l'UNCEM, saranno fissate le modalita' per la quantificazione del fondo, nonche' i criteri per il suo riparto. La partecipazione al comitato non comporta il diritto a percepire alcun tipo di indennita' od emolumento.
+2. Limitatamente alle province, ai comuni ed alle comunita' montane, le disposizioni di cui all'[articolo 9, comma 8, del decreto del Presidente della Repubblica 3 agosto 1990, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-08-03;333~art9-com8), si applicano a decorrere dall'anno 1993. Ai fini della gestione del fondo annuale di solidarieta' per la redistribuzione tra comuni, province e comunita' montane degli oneri finanziari corrispondenti alla spesa sostenuta dagli enti stessi per il personale cui e' concessa l'aspettativa per motivi sindacali e' costituito, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, da emanarsi entro il 30 novembre 1992, un apposito comitato di garanzia. Il comitato e' composto da sette membri, tre dei quali in rappresentanza dell'ANCI ed uno in rappresentanza dell'UPI, dell'UNCEM, del Ministero dell'interno, del Ministero del tesoro. Con successivo decreto interministeriale, da emanarsi entro il 30 dicembre 1992, sentite l'ANCI, l'UPI e l'UNCEM, saranno fissate le modalita' per la quantificazione del fondo, nonche' i criteri per il suo riparto. La partecipazione al comitato non comporta il diritto a percepire alcun tipo di indennita' od emolumento.
 
 3. La regolarizzazione dei mutui assunti da consorzi tra enti locali, di cui al [comma 1- bis dell'articolo 12 del decreto-legge n. 415 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;415~art12-com1bis), e' prorogata al 31 dicembre 1992 per i mutui contratti negli anni 1989, 1990 e 1991, con certificazione da presentare contestualmente a quella dei mutui contratti nel 1992.
 
 4. Per l'esercizio 1993 il termine di deliberazione dei bilanci di previsione degli enti locali, di cui all'[articolo 55 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art55), e' prorogato al 30 novembre 1992.
+
+5. Gli stanziamenti iscritti in bilancio in applicazione della [legge 31 dicembre 1991, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;431), della [legge 31 dicembre 1991, n. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;433), della [legge 5 febbraio 1992, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104), della [legge 7 febbraio 1992, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;140), del [decreto-legge 7 gennaio 1992, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216), del [decreto-legge 18 gennaio 1992, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-18;9), convertito, con modificazioni, dalla [legge 28 febbraio 1992, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-28;217), della [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212), del [decreto-legge 8 giugno 1992, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-06-08;306), convertito, con modificazioni, dalla [legge 7 agosto 1992, n. 356](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-07;356), non utilizzati al termine dell'esercizio 1992, possono esserlo nell'esercizio successivo.
 
 Art. 13
 -------
@@ -361,7 +365,7 @@ All'assegnazione si provvede con decreto del Presidente del Consiglio dei Minist
 
 6. L'inosservanza del termine per la formulazione dell'ipotesi di bilancio di previsione stabilmente riequilibrato o del termine per la risposta ai rilievi ed alle richieste della predetta Commissione di ricerca, che non puo' superare i sessanta giorni dalla notifica, integra l'ipotesi di cui all'[articolo 39, comma 1, lettera a), della legge n. 142 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;142~art39-com1-leta).
 
-7. Le disposizioni dell'[articolo 25 del decreto-legge n. 66 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;66~art25) si applicano in quanto compatibili con quelle del presente articolo. Con decreto del Ministro dell'interno sono stabilite le modalita' per l'applicazione del presente articolo.
+7. Le disposizioni dell'[articolo 25 del decreto-legge n. 66 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;66~art25) si applicano in quanto compatibili con quelle del presente articolo. Con decreto del Ministro dell'interno, da pubblicarsi nella Gazzetta Ufficale, sono stabilite le modalita' per l'applicazione del presente articolo.
 
 8. Le norme del presente articolo si applicano anche a tutti gli enti locali per i quali non sia stato ancora approvato il piano di risanamento e, limitatamente al trasferimento del personale eccedente, agli enti locali per i quali sia stato approvato il piano di risanamento, ma ai quali non sia stata concessa l'autorizzazione alla contrazione del mutuo a ripiano dell'indebitamento pregresso; per questi ultimi continuano ad applicarsi le norme di cui al citato [articolo 25 del decreto-legge n. 66 del 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989;66~art25), per quanto riguarda il finanziamento dell'indebitamento pregresso. Sono fatti salvi i trasferimenti gia' avvenuti ai sensi della precedente normativa e, con priorita', le graduatorie del personale in mobilita' gia' compilate e trasmesse in base alle norme precedenti. Per i comuni per i quali non sia stato ancora approvato il piano di risanamento, valgono le ipotesi di bilancio di previsione stabilmente riequilibrato a suo tempo deliberate.
 
@@ -370,62 +374,68 @@ All'assegnazione si provvede con decreto del Presidente del Consiglio dei Minist
 Art. 17
 -------
 
+Concorso per trasferimento dei segretari comunali alle sedi della classe terza
+
+1. Il Ministro dell'interno nei mesi di gennaio e luglio di ciascun anno bandisce un concorso cumulativo per soli titoli per le sedi appartenenti alla classe terza vacanti nel territorio nazionale alle date 1' gennaio e 1' luglio.
+
+2. A detti concorsi possono partecipare i segretari capi e i segretari comunali, in servizio di ruolo. I segretari comunali per partecipare agli anzidetti concorsi devono possedere l'anzianita' nella qualifica di ruolo da almeno due anni alla data di scadenza del termine per la presentazione della domanda.
+
+3. La graduatoria di merito dei candidati ai concorsi per trasferimento a sedi di classe terza e' formata da una commissione composta da: prefetto direttore generale dell'amministrzione civile, che la presiede; prefetto direttore centrale dei segretari comunali e provinciali e dipendenti enti locali; professore univesitario di materie giuridiche ed economiche; esperto in discipline amministrative; sindaco designato dall'A.N.C.I.; segretario generale;   
+nonche' da un funzionario della carriera direttiva dell'Amministrazione civile dell'interno avente qualifica non inferiore a direttore di sezione che esercita le funzioni di segretario della commissione.
+
+4. La validita' della graduatoria cessa dopo quarantacinque giorni dalla data della sua approvazione.
+
+5. I candidati dichiarati vincitori ed assegnati alla sede richiesta in rigoroso ordine di preferenza hanno l'obbligo di assumervi servizio; in caso contrario, per la durata di tre anni, e' fatto ad essi divieto di partecipare ad analoghi concorsi per sedi della classe terza.
+
+6. Il personale di cui al comma 5 non potra' in ogni caso essere trasferito o incaricato temporaneamente se non abbia prestato almeno un biennio di effettivo servizio nella sede.
+
+7. L'[articolo 7 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-23;749~art7), e' abrogato.
+
+8. La presente norma cessa i suoi effetti al momento di entrata in vigore del nuovo ordinamento dei segretari comunali e provinciali previsto dall'articolo 52 della citata [legge n. 142 del 1990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;142).
+
+Art. 18
+-------
+
+Assegnazione alle province di un segretario generale di qualifica pari a quello assegnato ai comuni capoluogo
+
+1. Ferma restando la tabella B allegata al [decreto del Presidente della Repubblica 23 giugno 1972, n. 749](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-23;749), alle province di classe 1- B i cui comuni capoluogo siano stati o siano elevati alla classe 1- A ai sensi dell'[articolo 1, terzo comma, della legge 8 giugno 1962, n. 604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-08;604~art1-com3), sono assegnati segretari generali di classe 1- A. Si applicano le disposizioni di cui all'articolo 6 della citata [legge n. 604 del 1962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962;604).
+
+2. Restano salvi gli effetti del provvedimento di riclassificazione delle province, gia' adottati ai sensi dei [decreti-legge 20 gennaio 1992, n. 11, 17 marzo 1992, n. 233, 20 maggio 1992, n. 289, e 20 luglio 1992, n. 342](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-20;342).
+
+Art. 19
+-------
+
 Gestioni fuori bilancio
 
 1. Il termine di cui all'[articolo 8, comma 4, del decreto-legge 2 marzo 1989, n. 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;65~art8-com4), convertito, con modificazioni, dalla [legge 26 aprile 1989, n. 155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-26;155), gia' differito al 28 febbraio 1992 dall'articolo 3, comma 1, del decreto-legge 1' ottobre 1991, n. 307, convertito, con modificazioni, dalla [legge 29 novembre 1991, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-29;377), e' ulteriormente differito fino all'entrata in vigore della legge di riordino delle gestioni fuori bilancio e comunque non oltre il 28 febbraio 1993.
 
 2. Sono altresi' differite non oltre il termine di cui al comma 1 le gestioni fuori bilancio inerenti alle attivita' di protezione sociale svolgentisi presso i Ministeri delle finanze, dell'interno e della difesa, di cui agli [articoli 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;409~art4), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;409~art9) e [13 della legge 27 dicembre 1989, n. 409](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;409~art13).
 
-3. Fino all'emanazione dei provvedimenti previsti dall'[articolo 19 della legge 24 febbraio 1992, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225~art19), istitutiva del Servizio nazionale della protezione civile, e comunque non oltre il 31 dicembre 1992, e' autorizzata la gestione fuori bilancio del Fondo della protezione civile di cui al [decreto-legge 10 luglio 1982, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;428), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547).
+3. Fino all'emanazione dei provvedimenti previsti dall'[articolo 19 della legge 24 febbraio 1992, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225~art19), istitutiva del Servizio nazionale della protezione civile, e comunque non oltre il 28 febbraio 1993, e' autorizzata la gestione fuori bilancio del Fondo della protezione civile di cui al [decreto-legge 10 luglio 1982, n. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;428), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;547).
 
 4. Le disposizioni di cui al presente articolo hanno efficacia dal 29 febbraio 1992.
-
-Art. 18
--------
-
-Misure urgenti in materia sanitaria
-
-1. Per far fronte alle maggiori occorrenze finanziarie del Servizio sanitario nazionale per l'anno 1991, determinate in lire 5.600 miliardi, le regioni e le province autonome sono autorizzate ad assumere mutui quindicennali alle condizioni, con le modalita' e con gli istituti di credito stabiliti con decreto del Ministro del tesoro nel limite massimo degli importi indicati nell'allegata tabella A, con onere a carico dello Stato; per le stesse finalita' e medesime modalita', l'Associazione della Croce rossa italiana e' autorizzata ad assumere un mutuo per un importo non superiore a lire 10 miliardi.
-
-2. L'onere per l'ammortamento dei mutui e' valutato in complessive lire 978 miliardi annui ed alla relativa copertura si provvede mediante utilizzo della quota all'uopo vincolata del Fondo sanitario nazionale iscritto nello stato di previsione del Ministero del tesoro.
-
-3. Le disposizioni di cui al [secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art36-com2), e successive modificazioni e integrazioni, relative alle spese in conto capitale, si estendono alle disponibilita' del capitolo 4403 dello stato di previsione del Ministero della sanita'.
-
-4. Le disponibilita' finanziarie esistenti in conto residui sui capitoli 7001 e 7010 dello stato di previsione del Ministero della sanita' per l'anno 1991, non impegnate nel predetto anno, sono conservate per essere utilizzate nell'esercizio successivo.
-
-5. Le somme dovute a qualsiasi titolo dalle unita' sanitarie locali e dagli istituti di ricovero e cura a carattere scientifico non sono sottoposte ad esecuzione forzata nei limiti degli importi corrispondenti agli stipendi e alle competenze comunque spettanti al personale dipendente o convenzionato, nonche' nella misura dei fondi a destinazione vincolata essenziali ai fini dell'erogazione dei servizi sanitari.
-
-6. Il contributo previsto dall'[articolo 63 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art63), e successive modificazioni, dovuto per gli anni 1984 e 1985 al Servizio sanitario nazionale dai cittadini assicurati presso lo stesso servizio che secondo le leggi vigenti non erano tenuti all'iscrizione ad un istituto mutualistico di natura pubblica, resta determinato tenendo conto delle variazioni previste nel costo medio pro-capite dell'anno precedente per ciascuno dei predetti anni in un importo pari al 5,50 per cento del reddito imponibile ai fini dell'imposta sul reddito delle persone fisiche (IRPEF) per gli anni medesimi.
-
-7. Nelle pubbliche selezioni per titoli, di cui all'[articolo 4 della legge 5 giugno 1990, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135~art4), fermo restando il punteggio massimo previsto per il curriculum formativo e professionale dalle vigenti disposizioni in materia, e' attribuito un punteggio ulteriore, di uguale entita' massima, per i titoli riguardanti le attivita' svolte nel settore delle infezioni da HIV.
-
-8. Nell'ambito degli interventi previsti dall'[articolo 1, comma 1, lettera c), della legge 5 giugno 1990, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135~art1-com1-letc), le universita' provvedono all'assunzione del personale ivi contemplato nelle qualifiche iniziali di tecnico specializzato nell'area tecnico- scientifica e socio-sanitaria.
-
-9. Le disposizioni di cui agli [articoli 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-11-28;384~art78), [116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-11-28;384~art116) e [117 del decreto del Presidente della Repubblica 28 novembre 1990, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-11-28;384~art117), sono applicate nel rispetto delle funzioni di direzione e di organizzazione della struttura, proprie del dirigente di livello apicale, da attuarsi anche mediante direttive a tutto il personale operante nella stessa e l'adozione dei provvedimenti relativi, necessari per il corretto espletamento del servizio. Per quanto riguarda l'attivita' sanitaria, spettano in particolare al dirigente di livello apicale gli indirizzi e, in caso di necessita', le decisioni sulle scelte da adottare nei riguardi degli interventi clinici, diagnostici e terapeutici.
-
-Art. 19
--------
-
-Fondi per la gestione dell'EFIM
-
-1. Per far fronte alle piu' urgenti necessita' di amministrazione dell'Ente partecipazioni e finanziamento industria manifatturiera - EFIM, soppresso con [decreto-legge 14 agosto 1992, n. 362](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-08-14;362), e per sopperire alle necessita' inerenti la produzione e l'occupazione delle societa' controllate dall'Ente medesimo, la Cassa depositi e prestiti e' autorizzata a concedere al commissario liquidatore, con determinazione del direttore generale della Cassa medesima, un'anticipazione di lire 200 miliardi al tasso vigente per i mutui, rimborsabile dal Tesoro dello Stato a decorrere dal 1993 in dieci annualita'.
-
-2. All'onere derivante dall'applicazione del comma 1, valutato in lire 32 miliardi annui, a decorrere dal 1993, si provvede mediante utilizzo delle proiezioni per gli anni 1993 e 1994 dell'accantonamento "Collocamento obbligatorio" iscritto, ai fini del bilancio triennale 1992-94, sul capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1992.
-
-3. Le disposizioni del presente articolo sostituiscono quelle dell'[articolo 4, comma 5, del decreto-legge 14 agosto 1992, n. 362](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-08-14;362~art4-com5).
 
 Art. 20
 -------
 
+Fondi per la gestione dell'EFIM
+
+1. Per far fronte alle piu' urgenti necessita' di amministrazione dell'Ente partecipazioni e finanziamento industria manifatturiera - EFIM, soppresso con [decreto-legge 20 ottobre 1992, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-10-20;414), e per sopperire alle necessita' inerenti la produzione e l'occupazione delle societa' controllate dall'Ente medesimo, la Cassa depositi e prestiti e' autorizzata a concedere al commissario liquidatore, con determinazione del direttore generale della Cassa medesima, un'anticipazione di lire 300 miliardi al tasso vigente per i mutui, rimborsabile dal Tesoro dello Stato a decorrere dal 1993 in dieci annualita'.
+
+2. All'onere derivante dall'applicazione del comma 1, valutato in lire 50 miliardi annui, a decorrere dal 1993, si provvede mediante utilizzo delle proiezioni per gli anni 1993 e 1994 dell'accantonamento "Collocamento obbligatorio" iscritto, ai fini del bilancio triennale 1992-94, sul capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1992.
+
+Art. 21
+-------
+
 Copertura finanziaria
 
-1. All'onere derivante dall'applicazione del presente decreto, con esclusione di quello derivante dagli articoli 1, comma 4, 12, comma 1, 18 e 19, valutato in lire 25.386.000 milioni per l'anno 1992 e lire 300.000 milioni per ciascuno degli anni 1993 e 1994, si provvede:
+1. All'onere derivante dall'applicazione del presente decreto, con esclusione di quello derivante dagli articoli 1, comma 4, 12, comma 1, e 20, valutato in lire 25.386.000 milioni per l'anno 1992 e lire 300.000 milioni per ciascuno degli anni 1993 e 1994, si provvede:
 
-a) quanto a lire 1.600.000 milioni, per l'anno l992, mediante utilizzo delle entrate indicate all'[articolo 4 del decreto-legge 30 settembre 1989, n. 332](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-09-30;332~art4), convertito, con modificazioni, dalla [legge 27 novembre 1989, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-11-27;384), come modificato dall'[articolo 11 del decreto- legge 27 aprile 1990, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90~art11), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165), e, da ultimo, dall'[articolo 6 del decreto-legge 13 maggio 1991, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151~art6), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;202);
+a) quanto a lire 1.600.000 milioni, per l'anno l992, mediante utilizzo delle entrate indicate all'[articolo 4 del decreto-legge 30 settembre 1989, n. 332](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-09-30;332~art4), convertito, con modificazioni, dalla [legge 27 novembre 1989, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-11-27;384), come modificato dall'[articolo 11 del decreto- legge 27 aprile 1990, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90~art11), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-26;165) e, da ultimo, dall'[articolo 6 del decreto-legge 13 maggio 1991, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151~art6), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;202);
 
 b) quanto a lire 23.321.000 milioni, per l'anno 1992, mediante parziale riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo utilizzando l'accantonamento "Disposizioni finanziarie per le province, per i comuni e le comunita' montane";
 
-c) quanto a lire 325.000 milioni, per l'anno 1992, mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo utilizzando l'accantonamento: "Somme da corrispondere alle regioni e ad altri enti in dipendenza dei tributi soppressi nonche' per l'acquisizione allo Stato del gettito ILOR e contributi alle camere di commercio";
+c) quanto a lire 325.000 milioni, per l'anno 1992, mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo utilizzando l'accantonamento "Somme da corrispondere alle regioni e ad altri enti in dipendenza dei tributi soppressi nonche' per l'acquisizione allo Stato del gettito ILOR e contributi alle camere di commercio";
 
 d) quanto a lire 140.000 milioni - di cui lire 60.000 milioni per la dotazione del contributo ordinario alle comunita' montane di cui all'articolo 1, comma 1, lettera a) - mediante corrispondente riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo utilizzando l'accantonamento "Contributi in favore delle comunita' montane";
 
@@ -433,17 +443,17 @@ e) quanto a lire 300.000 milioni, per ciascuno degli anni 1993 e 1994, mediante 
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-Art. 21
+Art. 22
 -------
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 settembre 1992
+### Dato a Roma, addi' 19 novembre 1992
 
 SCALFARO
 
@@ -455,30 +465,8 @@ BARUCCI, Ministro del tesoro
 
 DE LORENZO, Ministro della sanita'
 
-REVIGLIO, Ministro del bilancio e della programmazione economica
-
 GORIA, Ministro delle finanze
 
 GUARINO, Ministro dell'industria, del commercio e dell'artigianato
 
 Visto, il Guardasigilli: MARTELLI
-
-Tabella A
-
- TABELLA A   
-(prevista dall'articolo 18, comma 1)   
-  
-=====================================================================  
-  
-| Importi  
-  
-Regioni | mutuabili  
-  
-| (in milioni)  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-  
-Piemonte. . . . . . . . . . . . . . . . . . . . . . 440.310 Valle d'Aosta. . . . . . . . . . . . . . . . . . . 8.650 Lombardia. . . . . . . . . . . . . . . . . . . . . 880.030 Bolzano. . . . . . . . . . . . . . . . . . . . . . 34.150 Trento. . . . . . . . . . . . . . . . . . . . . . . 36.880 Veneto. . . . . . . . . . . . . . . . . . . . . . . 438.590 Friuli-Venezia Giulia. . . . . . . . . . . . . . . 122.920 Liguria. . . . . . . . . . . . . . . . . . . . . . 196.260 Emilia-Romagna. . . . . . . . . . . . . . . . . . . 428.350 Toscana. . . . . . . . . . . . . . . . . . . . . . 373.170 Umbria. . . . . . . . . . . . . . . . . . . . . . . 86.470 Marche. . . . . . . . . . . . . . . . . . . . . . . 144.490 Lazio. . . . . . . . . . . . . . . . . . . . . . . 539.280 Abruzzo. . . . . . . . . . . . . . . . . . . . . . 123.450 Molise. . . . . . . . . . . . . . . . . . . . . . . 33.570 Campania. . . . . . . . . . . . . . . . . . . . . . 523.930 Puglia. . . . . . . . . . . . . . . . . . . . . . . 371.470 Basilicata. . . . . . . . . . . . . . . . . . . . . 54.610 Calabria. . . . . . . . . . . . . . . . . . . . . . 189.430 Sicilia. . . . . . . . . . . . . . . . . . . . . . 429.140 Sardegna. . . . . . . . . . . . . . . . . . . . . . 144.850   
-\_\_\_\_\_\_\_\_  
-  
-Totale. . . . . . . . . . . . . . 5.600.000   
-  

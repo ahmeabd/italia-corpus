@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 386
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1159
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 386
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1982 n. 1159
+================================================================
 
 Modificazioni allo statuto della Scuola normale superiore di Pisa.
 ------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [decreto del Presidente della Repubblica 31 marzo 1969, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-03-31;281), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,160 +22,112 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche della Scuola anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della Scuola normale superiore di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della Scuola normale superiore di Pisa e convalidati dal consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Considerata l'opportunita' di derogare al parere del consesso in quanto la richiesta della Scuola ha carattere di urgenza e necessita' ed e' diretta ad adeguare lo statuto alla vigente legislazione universitaria ed in particolare al [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382), ed in quanto il parere e' stato formulato anche su argomenti non sottoposti all'avviso del consesso medesimo;
+sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
 Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Il quarto, ottavo, tredicesimo, quattordicesimo, quindicesimo comma dell'art. 5 sono soppressi e cosi' modificati:  
+Il primo comma dell'art. 2 e' soppresso e sostituito dal seguente:  
   
-Quarto comma. - Tutte le elezioni avvengono a scrutinio segreto.  
-L'elezione dei rappresentanti di cui alle lettere f), g), h) ed i) avviene nell'ambito di ciascuna classe.  
-Ottavo comma. - Le elezioni di tutte le componenti vengono indette nel mese di maggio dell'anno di scadenza del mandato ad esclusione delle elezioni per la nomina dei rappresentanti degli allievi, che vengono indette nel mese di dicembre.  
-Tredicesimo comma. - I predetti hanno voto deliberante solo per le questioni attinenti all'amministrazione della Scuola.  
-Quattordicesimo comma. - 2) Per quanto attiene alle delibere relative alla richiesta di professori ordinari, alla copertura di detti posti ed ai provvedimenti relativi ai professori ordinari e straordinari, il consiglio delibera secondo quanto previsto dall'art. 18 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674), e successiva normativa vigente.  
-Quindicesimo comma. - 3) per quanto attiene alle delibere relative ai provvedimenti a professore associato, nonche' per quelle relative ai professori a contratto ed ai docenti a qualsiasi titolo, il consiglio direttivo delibera con la sola partecipazione di tutti i professori ordinari, straordinari, fuori ruolo e associati.  
-
-Art. 2
-------
-
+La Scuola normale superiore, in conformita' a quanto previsto dall'art. 233 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' istituto di Istruzione superiore con ordinamento speciale ed ha personalita' giuridica ed autonomia amministrativa, didattica e disciplinare, sotto la vigilanza dello Stato esercitata dal Ministro della pubblica istruzione.  
+Nell'art. 4, il testo della lettera e) e' soppresso e sostituito dal seguente testo:  
+e) esercita tutte le altre attribuzioni che gli sono demandate dalle norme generali e speciali concernenti lo ordinamento universitario, dal presente statuto e dal regolamento interno.  
+L'art. 5 e' soppresso e sostituito dal seguente:  
+Il consiglio direttivo e' composto:  
+a) del direttore della Scuola, che lo presiede;  
+b) del rettore dell'Universita' di Pisa;  
+c) dei presidi della facolta' di lettere e filosofia e della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pisa;  
+d) del vicedirettore della Scuola;  
+e) dei presidi della classe di lettere e filosofia e della classe di scienze matematiche, fisiche e naturali della Scuola;  
+f) di una rappresentanza di professori ordinari e straordinari e fuori ruolo in numero di quattro per ciascuna classe;  
+g) di una rappresentanza di professori associati in numero di tre per ciascuna classe;  
+h) di due rappresentanti dei ricercatori, uno per ciascuna classe;  
+i) di due rappresentanti degli allievi o perfezionandi, uno per ciascuna classe;  
+l) di due rappresentanti del personale non docente;  
+m) del direttore amministrativo.  
+Il consiglio direttivo e' costituito con decreto del Ministro della pubblica istruzione e dura in carica un biennio accademico.  
+I rappresentanti di cui alla lettera i) sono eletti ogni anno.  
+L'elezione dei rappresentanti di cui alle lettere f), g), h), i) ed l) avviene a scrutinio segreto nell'ambito di ciascuna classe.  
+I rappresentanti che per qualunque motivo vengono a cessare nel corso dell'anno verranno automaticamente sostituiti dal primo dei non eletti della rispettiva categoria.  
+Tutti i membri eletti rimangono in carica fino all'avvenuta approvazione ministeriale delle elezioni successive.  
+La mancata partecipazione di una o piu' categorie non inficia la validita' dell'organo.  
+Le elezioni di tutte le componenti vengono indette nel mese di maggio dell'anno precedente alla scadenza del mandato ad esclusione delle elezioni per la nomina dei rappresentanti degli allievi che vengono indette nel mese di dicembre.  
+Vicepresidente del consiglio direttivo e' il vicedirettore della Scuola.  
+Le funzioni di segretario del consiglio sono esercitate dal direttore amministrativo.  
+1) Gli enti che concorrono eventualmente al mantenimento dell'Istituto con un contributo annuo non inferiore ad 1/10 del contributo corrisposto dallo Stato, hanno diritto a designare un proprio rappresentante in seno al consiglio direttivo.  
+I privati sotto le stesse condizioni, hanno diritto a parteciparvi di persona.  
+Unitamente ai rappresentanti del personale non docente, i predetti hanno voto deliberante solo per le questioni attinenti all'amministrazione della Scuola.  
+2) Per quanto attiene alle delibere relative alla richiesta di professori di ruolo, alla copertura di detti posti, ed ai provvedimenti relativi ai professori ordinari e straordinari, il consiglio delibera secondo quanto previsto dall'art. 18 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674), e successiva normativa vigente.  
+3) Per quanto attiene alle delibere relative ai provvedimenti a professore associato, nonche' per quelle relative ai professori a contratto, il consiglio direttivo delibera con la partecipazione di tutti i professori ordinari, straordinari, fuori ruolo e associati, con esclusione dei partecipanti di cui alle lettere h), i) ed l).  
+4) Per quanto attiene alle delibere relative all'attivita' didattica e scientifica, ivi comprese le ripartizioni di contributi per attivita' di ricerca, hanno voto deliberante tutte le rappresentanze con esclusione di quella prevista alla lettera l).  
+Pur non partecipando alle votazioni per gli argomenti di cui ai punti 2), 3) e 4) del presente articolo, partecipa alla seduta il direttore amministrativo in qualita' di segretario verbalizzante.  
+Nell'art. 6, alla lettera f), e' aggiunta la seguente frase:  
+"..., nonche' dalle norme generali e speciali concernenti l'ordinamento universitario".  
+Nell'art. 7, il primo comma e' soppresso e sostituito dal seguente:  
   
-Il terzo comma dell'art. 7 e' soppresso e sostituito dal seguente:  
+Il direttore e' eletto dal consiglio direttivo, a cui partecipano tutti i professori, ordinari, straordinari, fuori ruolo ed associati della Scuola, tra i professori ordinari e straordinari delle Universita' ed istituti di istruzione superiore italiani ed e' nominato dal Ministro della pubblica istruzione.  
+Nell'art. 8, il primo comma e' soppresso e sostituito dal seguente:  
   
-Terzo comma. - Dura in carica un quadriennio accademico e puo' essere riconfermato.  
-
-Art. 3
-------
-
+Il vicedirettore e' nominato dal Ministro della pubblica istruzione, su proposta del direttore, sentito il parere del consiglio direttivo, fra i professori ordinari e straordinari della Scuola o fra i professori ordinari e straordinari delle facolta' di lettere e filosofia o di scienze matematiche, fisiche e naturali dell'Universita' di Pisa, egli deve, di norma, appartenere a classe o facolta' diversa da quella del direttore.  
+L'art. 10, relativo alla composizione dei consigli di classe, e' soppresso e sostituito dal seguente:  
+I consigli di classe sono composti:  
+a) dei professori ordinari, straordinari, fuori ruolo ed associati della scuola di materie afferenti alle classi;  
+b) del preside della facolta' corrispondente presso l'Universita' di Pisa;  
+c) di tre rappresentanti dei ricercatori e degli assistenti (del ruolo ad esaurimento) fino al perdurare della presenza di detta categoria;  
+d) di cinque rappresentanti degli allievi del corso ordinario e del corso di perfezionamento.  
+I rappresentanti di cui alle lettere c) e d) sono scelti ogni anno mediante elezioni a scrutinio segreto dalle rispettive categorie. Almeno uno dei rappresentanti di cui alla lettera d) deve essere perfezionando.  
+Il preside del consiglio di classe e' eletto a maggioranza di voti dal consiglio medesimo tra i professori ordinari e straordinari e fuori ruolo della Scuola.  
+Dura in carica un triennio accademico a puo' essere riconfermato, immediatamente, per un altro triennio.  
+Il consiglio di classe e' convocato dal preside ogni qualvolta ne ravvisi la necessita' o su richiesta motivata di almeno un terzo dei suoi componenti.  
+L'art. 11 e' soppresso con conseguente scorrimento della numerazione dei successivi articoli.  
+Nell'art. 16 (ex art. 17) il primo comma e' soppresso e sostituito dal seguente:  
   
-Il quarto comma dell'art. 10 e' soppresso e sostituito dal seguente:  
+I corsi di perfezionamento hanno la durata di tre anni accademici.  
+L'ammissione agli anni successivi al primo e' subordinata al giudizio favorevole dei docenti sotto la cui guida il perfezionando lavori, e ad eventuali prove di esame, approvati dal consiglio direttivo.  
+A giudizio del consiglio direttivo, sentito il parere dei docenti sotto la cui guida il perfezionando lavora, il perfezionamento puo' essere prorogato di un anno.  
+L'art. 17 e' soppresso e sostituito dal seguente:  
   
-Quarto comma. - Dura in carica un triennio accademico e puo' essere riconfermato.  
-
-Art. 4
-------
-
+Qualora la Scuola intenda istituire posti di perfezionamento con borse e assegni ministeriali, o di altri enti pubblici o privati, emanera' i relativi bandi in conformita' alle disposizioni di legge.  
+Nell'art. 22 il primo, secondo e ultimo comma sono soppressi e sostituiti dai seguenti:  
   
-L'art. 21 e' soppresso e sostituito dal seguente:  
-Le entrate della Scuola sono costituite:  
-a) dal contributo annuo corrisposto dallo Stato a norma delle disposizioni di legge in vigore;  
-b) da eventuali altri contributi annui di enti o di privati;  
-c) dal reddito derivante da donazioni o lasciti disposti a favore della Scuola.  
-
-Art. 5
-------
-
+L'anno finanziario della Scuola coincide l'anno solare.  
+Il consiglio direttivo delibera sul bilancio preventivo entro il mese di novembre.  
+Il rendiconto consuntivo e' approvato dal consiglio direttivo entro il mese di aprile.  
+Il secondo comma dell'art. 26 e' soppresso e sostituito del seguente:  
   
-Il quinto e sesto comma dell'art. 28 sono soppressi e cosi' sostituiti:  
+I docenti della Scuola possono avere l'alloggio nei limiti delle disponibilita' delle camere nella Scuola stessa, pagando, a titolo di rimborso spese, una quota fissata dal consiglio direttivo. Essi e il personale non docente in servizio presso la Scuola possono usufruire altresi' della mensa, pagando, a titolo di rimborso spese, una quota fissata dal consiglio direttivo.  
+L'ultimo comma dell'art. 28 e' soppresso e sostituito dal seguente:  
   
-Quinto comma. - Sono ammessi al concorso per i posti di perfezionamento coloro che abbiano conseguito la laurea nelle discipline umanistiche o in quelle scientifiche.  
-Sesto comma. - Non potra' essere ammesso al concorso per il corso ordinario chi alla data di scadenza del bando di concorso abbia compiuto 26 anni, salvo casi del tutto eccezionali da valutarsi con giudizio inappellabile dal consiglio direttivo.  
-
-Art. 6
-------
-
+Non potra' essere ammesso al concorso chi nell'anno solare in corso abbia compiuto i 26 anni, salvo casi del tutto eccezionali da valutarsi con giudizio inappellabile del consiglio direttivo.  
+Nell'art. 31 e' aggiunto il seguente comma:  
   
-Il secondo comma dell'art. 31 e' soppresso e sostituito dal seguente:  
-  
-Secondo comma. - Sono ammessi al concorso per il corso di perfezionamento coloro che abbiano conseguito il titolo di studio utile per l'ammissione da non oltre due anni alla data di scadenza del bando di concorso, e che comunque non abbiano superato i trent'anni alla data di scadenza del bando di concorso, salvo casi del tutto eccezionali da valutarsi con giudizio inappellabile del consiglio direttivo.  
-
-Art. 7
-------
-
-  
-Il primo comma dell'art. 35 e' soppresso e sostituito dal seguente:  
-  
-La Scuola puo' sottoporre i vincitori ed i confermati nel posto di studio ad indagine sanitaria onde accertare l'immunita' da infermita' comunicabili o che non consentano vita in comunita'.  
-
-Art. 8
-------
-
-  
-Il primo comma dell'art. 37 e' soppresso e sostituito dal seguente:  
-  
-Gli alunni dei corsi ordinari seguono le lezioni e le esercitazioni delle facolta' rispettive e i corsi interni della Scuola, secondo un piano che viene sottoposto all'esame del consiglio di classe. Tale piano di studi, per quanto riguarda i corsi universitari, e' sottoposto alla approvazione della facolta' corrispondente.  
-
-Art. 9
-------
-
-  
-Il secondo comma dell'art. 38 e' soppresso e sostituito dal seguente:  
-  
-Secondo comma. - Gli alunni del corso di perfezionamento devono attendere agli studi previsti dal consiglio di classe ed approvati dal consiglio direttivo, nonche' alla preparazione della dissertazione di cui al terzo comma dell'art. 42 presentando alla direzione nel primo anno di perfezionamento una breve relazione scritta sul lavoro intrapreso e sui corsi frequentati, corredata di un parere scritto dei professori con i quali lavorano, ai fini dell'ammissione al secondo anno di perfezionamento, ai sensi dell'art. 16.  
-
-Art. 10
--------
-
-  
-Il primo e secondo comma dell'art. 40 sono soppressi e sostituiti dai seguenti:  
-  
-Nei colloqui che vengono tenuti nel mese di marzo gli alunni dei primi tre anni del corso ordinario rendono conto degli studi gradualmente fatti nella prima parte dell'anno accademico.  
-Le commissioni giudicatrici per i colloqui sono nominate dal direttore. Sono composte di cinque membri, scelti tra i professori ufficiali della Scuola, dell'Universita' di Pisa e delle Universita' italiane e straniere.  
-
-Art. 11
--------
-
-  
-Il primo comma dell'art. 41 e' soppresso e sostituito dal seguente:  
-  
-Alla chiusura dei corsi annuali della Scuola gli alunni debbono sostenere prove sui corsi seguiti. Il giudizio sulle prove e' pronunciato da commissioni giudicatrici, composte di tre membri, nominate dal direttore, ed e' espresso in trentesimi.  
-
-Art. 12
--------
-
-  
-Il primo comma dell'art. 42 e' soppresso e cosi' sostituito:  
-  
-Le commissioni giudicatrici per gli esami di diploma di perfezionamento sono composte di sette commissari.  
-Esse sono nominate dal direttore ed almeno uno dei commissari deve essere scelto fra i professori ufficiali di altre Universita' italiane e straniere.  
-
-Art. 13
--------
-
-  
-Il primo e il terzo comma dell'art. 44 vengono soppressi e cosi' sostituiti:  
-  
-Gli alunni del corso ordinario debbono, anno per anno, ottenere il giudizio di idoneita' e superare gli esami interni di cui all'art. 41 e dare negli appelli delle sessioni estiva ed autunnale gli esami universitari a cui sono obbligati dai rispettivi piani di studio.  
-Nel caso che gli alunni non adempiano agli obblighi sopra detti perdono il posto. Essi conservano i diritti derivanti dalla loro qualita' di allievi fino al termine dell'anno accademico in corso.  
-
-Art. 14
--------
-
-  
-L'art. 46 e' soppresso e sostituito dal seguente:  
-  
-Gli alunni del corso ordinario hanno diritto dal 1 settembre fino al 15 luglio ad alloggio e vitto gratuito dalla parte della Scuola, all'uso della biblioteca ed a un "contributo didattico" il cui ammontare e' fissato di anno in anno dal consiglio direttivo. Detto contributo e' corrisposto ogni mese dell'anno, salvo norme particolari previste dal presente statuto e dal regolamento.  
-Il consiglio direttivo puo', inoltre, deliberare l'erogazione di contributi assistenziali, anche per cure mediche, nel rispetto delle disposizioni di legge e secondo il regolamento interno.  
-I perfezionandi godono dei diritti di cui sopra a decorrere dalla data di ammissione alla Scuola.  
-
-Art. 15
--------
-
-  
-Il primo comma dell'art. 50 viene soppresso e sostituito come segue:  
-  
-Nel rispetto della legislazione vigente, ai professori componenti le commissioni giudicatrici di esami e' corrisposta una indennita' che viene stabilita dal consiglio direttivo anno per anno, in relazione al numero di candidati ed al carattere delle prove.  
+Non potra' essere ammesso al concorso chi nell'anno solare in corso abbia compiuto i 30 anni, salvo casi del tutto eccezionali da valutarsi con giudizio inappellabile del consiglio direttivo.  
+E' aggiunto, infine l'art. 55 relativo alle norme transitorie:  
+Art. 55 - Norme transitorie. - Fino all'esaurimento del ruolo fanno parte del consiglio direttivo anche due rappresentanti degli assistenti ordinari e dei professori incaricati esterni eletti - uno per ciascuna classe - nell'ambito della categoria di appartenenza.  
+Fanno inoltre parte dei consigli di classe i professori incaricati di materie attinenti alle classi medesime.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Roma, addi' 22 dicembre 1982
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti addi' 9 luglio 1984
+Visto, il Guardasigilli: DARIDA
 
-Registro n. 44 Istruzione, foglio n. 37
+Registrato alla Corte dei conti, addi' 22 marzo 1983
+
+Registro n. 20 Istruzione, foglio n. 148

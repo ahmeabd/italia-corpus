@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1739
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 15 ottobre 1946 n. 426
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 31 dicembre 1947 n. 1739
-=================================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 15 ottobre 1946 n. 426
+===============================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1739. Decreto del Capo provvisorio dello Stato 31 dicembre 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 100.000 nominali, in titoli di Rendita italiana 5%, e di L. 10.000, in contanti, disposta in suo favore dal dott.  
-ing. Alfredo Klinkmann, con atto pubblico in data 23 settembre 1942, per l'istituzione di una borsa per studi di perfezionamento nella lingua e letteratura tedesca, con la rendita delle L. 100.000 nominali, e per l'acquisto, con le L. 10.000 in contanti di opere di letteratura tedesca, destinate alla biblioteca della Facolta' di lettere e filosofia dell'Universita' medesima.  
+426. Decreto del Capo provvisorio dello Stato, 15 ottobre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli di Rendita italiana 5% disposta in suo favore con atto pubblico 11 novembre 1943, per l'istituzione di, un premio da intitolarsi al nome del "prof.  
+Antonio Pirocchi" e da conferirsi, ogni anno, a quel laureato in scienze agrarie o in medicina veterinaria presso l'Universita' di Milano, il quale abbia riportato una media di almeno 27/30, con non meno di 24/30, negli esami delle discipline zootecniche (ezoognosia, zootecnia, generale, zootecnia speciale) ed almeno i pieni voti legali nella tesi di laurea, svolta su argomento attinente alla zootecnia o su questioni zootecniche.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 18 febbraio 1948
+Visto, il Guardasigilli: GULLO  
+Registrato alla Corte dei conti, addi' 16 dicembre 1946

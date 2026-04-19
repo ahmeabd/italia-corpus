@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 giugno 1995 n. 260
+DECRETO-LEGGE 29 aprile 1995 n. 144
 
 
-DECRETO-LEGGE 28 giugno 1995 n. 260
+DECRETO-LEGGE 29 aprile 1995 n. 144
 ===================================
 
 Differimento di termini previsti da disposizioni legislative in 
 materia di interventi concernenti la pubblica amministrazione.
 -------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il differimento di termini previsti da disposizioni legislative in materia di interventi concernenti la pubblica amministrazione;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 giugno 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri per la funzione pubblica e gli affari regionali e dell'interno, di concerto con i Ministri della difesa, del bilancio e della programmazione economica, della pubblica istruzione e di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri per la funzione pubblica e dell'interno, di concerto con i Ministri della difesa, del bilancio e della programmazione economica e della pubblica istruzione;
 
 E M A N A il seguente decreto-legge:
 
@@ -34,12 +34,12 @@ in materia di incarichi ed altre disposizioni
 2. Per garantire la piu' sollecita e corretta realizzazione dei progetti di cui alla normativa richiamata al comma 1, e' consentito che l'importo singolo massimo relativo alle aperture di credito a favore del funzionario delegato superi i limiti di cui all'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art56), e successive modificazioni, e sia fissato in misura massima di lire 2.500 milioni.  
 A carico di tali ordini di accreditamento possono essere imputate, per intero, spese dipendenti da contratti.
 
-3. Il termine di cui all'[articolo 58, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art58-com3), gia' prorogato dall'[articolo 2, comma 1, del decreto-legge 14 settembre 1993, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-09-14;358~art2-com1), convertito dalla [legge 12 novembre 1993, n. 448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448), e' ulteriormente prorogato fino al 30 agosto 1995.
+3. Il termine di cui all'[articolo 58, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art58-com3), gia' prorogato dall'[articolo 2, comma 1, del decreto-legge 14 settembre 1993, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-09-14;358~art2-com1), convertito dalla [legge 12 novembre 1993, n. 448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448), e' ulteriormente prorogato fino al 30 giugno 1995.
 
 4. Ai fini di cui all'[articolo 3, comma 62, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com62), le attivita' non connesse con i compiti istituzionali dei magistrati, anche collocati fuori ruolo, e del personale ad essi equiparato sono individuate con regolamento, da emanarsi ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2), entro novanta giorni dalla data di entrata in vigore del presente decreto.  
 Gli effetti delle disposizioni di cui all'[articolo 3, comma 62, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com62), decorrono dalla data di entrata in vigore del regolamento previsto dal presente comma.
 
-5. Il termine del 30 giugno 1994 indicato al [comma 6 dell'articolo 57 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art57-com6), e successive modificazioni, e' sostituito dal termine del 30 agosto 1995.
+5. Il termine del 30 giugno 1994 indicato al [comma 6 dell'articolo 57 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art57-com6), e successive modificazioni, e' sostituito dal termine del 30 giugno 1995.
 
 6. L'applicazione degli articoli 7, commi 1 e 3, e 7-bis, della [legge 24 marzo 1958, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-24;195), come modificata dagli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-12;74~art2) e [3 della legge 12 aprile 1990, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-04-12;74~art3), nella parte in cui rispettivamente prevedono che la segreteria e l'ufficio studi e documentazione del Consiglio superiore della magistratura sono costituiti da funzionari da selezionare mediante concorsi pubblici, e' differita alla data di entrata in vigore del nuovo ordinamento giudiziario. Fino a tale data, si applicano le disposizioni di cui all'[articolo 7 della legge 24 marzo 1958, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-24;195~art7), come modificato dall'[articolo 1 della legge 9 dicembre 1977, n. 908](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;908~art1). La disposizione dell'[articolo 210 del regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art210), continua ad applicarsi per la destinazione dei magistrati all'ufficio studi e documentazione del Consiglio superiore della magistratura.
 
@@ -80,7 +80,7 @@ Personale delle Forze di polizia e delle Forze armate
 
 2. Il termine di cui all'[articolo 11-quater del decreto-legge 21 settembre 1987, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-21;387~art11quater), convertito, con modificazioni, dalla [legge 20 novembre 1987, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-20;472), e' ulteriormente prorogato di un triennio.
 
-3. Limitatamente alle strutture informatiche dell'Amministrazione dell'interno e delle Forze di polizia, il termine di cui all'[articolo 16, comma 1, del decreto legislativo 12 febbraio 1993, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39~art16-com1), e' prorogato al 30 agosto 1995.
+3. Limitatamente alle strutture informatiche dell'Amministrazione dell'interno e delle Forze di polizia, il termine di cui all'[articolo 16, comma 1, del decreto legislativo 12 febbraio 1993, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39~art16-com1), e' prorogato al 30 giugno 1995.
 
 4. All'[articolo 6, comma 10, del decreto-legge 20 maggio 1993, n. 149](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;149~art6-com10), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-07-19;237), il riferimento all'anno 1993 e' sostituito con quello all'anno 1995.
 
@@ -129,11 +129,10 @@ Per gli anni 1993 e 1994 l'ammontare dell'erogazione e' pari a quella spettante 
 9. All'[articolo 25 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art25), il comma 4 e' sostituito dal seguente:  
 " 4. Salvo quanto previsto dalla convenzione e dallo statuto per i consorzi, ai quali partecipano a mezzo dei rispettivi rappresentanti legali anche enti diversi da comuni e province, l'assemblea del consorzio e' composta dai rappresentanti degli enti associati nella persona del sindaco, del presidente o di un loro delegato, ciascuno con responsabilita' pari alla quota di partecipazione fissata dalla convenzione e dallo statuto.".
 
-10. All'[articolo 60, comma 1, della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art60-com1), le parole: "due anni dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 30 agosto 1995".
+10. All'[articolo 60, comma 1, della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art60-com1), le parole: "due anni dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 30 aprile 1995".
 
 11. All'[articolo 60 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art60), dopo il comma 1, e' inserito il seguente:  
-"1-bis. Decorso il termine di cui al comma 1, il prefetto diffida gli enti consortili a provvedere entro il termine di tre mesi durante il quale il consorzio puo' compiere soltanto atti di ordinaria amministrazione. Qualora allo scadere del termine assegnato tutti gli enti aderenti non abbiano deliberato la revisione del consorzio, il prefetto ne da' comunicazione al comitato regionale di controllo per l'adozione dei conseguenti provvedimenti di competenza nei confronti degli enti inadempienti e nomina un commissario per la temporanea gestione del consorzio.  
-Il commissario resta in carica per la liquidazione del consorzio nel caso della soppressione, ovvero fino alla eventuale ricostituzione degli organi ordinari in caso di trasformazione nelle forme di cui al comma 1".
+"1-bis. Decorso il termine di cui al comma 1, il prefetto diffida gli enti consortili a provvedere entro il termine di tre mesi durante il quale il consorzio puo' compiere soltanto atti di ordinaria amministrazione. Qualora allo scadere del termine assegnato tutti gli enti aderenti non abbiano deliberato la revisione del consorzio, il prefetto ne da' comunicazione al comitato regionale di controllo per l'adozione dei conseguenti provvedimenti di competenza nei confronti degli enti inadempienti e nomina un commissario per la temporanea gestione del consorzio. Il commissario resta in carica per la liquidazione del consorzio nel caso della soppressione, ovvero fino alla eventuale ricostituzione degli organi ordinari in caso di trasformazione nelle forme di cui al comma 1".
 
 Art. 6
 ------
@@ -150,29 +149,25 @@ Art. 7
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1995
+### Dato a Roma, addi' 29 aprile 1995
 
-Il Presidente del Senato della Repubblica nell'esercizio delle
-
-funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
+SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+FRATTINI, Ministro per la funzione pubblica
 
-CORONAS, Ministro dell'interno
+BRANCACCIO, Ministro dell'interno
 
 CORCIONE, Ministro della difesa
 
 MASERA, Ministro del bilancio e della programmazione economica
 
 LOMBARDI, Ministro della pubblica istruzione
-
-MANCUSO, Ministro di grazia e giustizia
 
 Visto, il Guardasigilli: MANCUSO

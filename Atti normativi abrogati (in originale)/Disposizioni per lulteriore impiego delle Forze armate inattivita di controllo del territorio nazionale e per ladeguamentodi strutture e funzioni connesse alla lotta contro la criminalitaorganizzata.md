@@ -1,8 +1,8 @@
-DECRETO-LEGGE 29 dicembre 1994 n. 730
+DECRETO-LEGGE 01 marzo 1995 n. 60
 
 
-DECRETO-LEGGE 29 dicembre 1994 n. 730
-=====================================
+DECRETO-LEGGE 01 marzo 1995 n. 60
+=================================
 
 Disposizioni per l'ulteriore impiego delle Forze armate in 
 attivita' di controllo del territorio nazionale e per l'adeguamento 
@@ -10,7 +10,7 @@ di strutture e funzioni connesse alla lotta contro la criminalita'
 organizzata.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31/12/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/3/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -23,13 +23,13 @@ Visto il [decreto-legge 30 dicembre 1993, n. 551](http://www.normattiva.it/uri-r
 
 Visto il [decreto-legge 29 agosto 1994, n. 521](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-29;521), convertito dalla [legge 27 ottobre 1994, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-27;599);
 
-Ritenuta la straordinaria necessita' ed urgenza di utilizzare contingenti di Forze armate in operazioni di polizia per contrastare la criminalita' organizzata nel territorio della regione Sicilia e della regione Calabria e nel territorio del comune e della provincia di Napoli per la tutela di specifici obiettivi di lotta alla criminalita' organizzata, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia, al fine di conseguire un piu' diffuso controllo dell'ordine pubblico e di garantire la sicurezza dei cittadini;
+Ritenuta la straordinaria necessita' ed urgenza di utilizzare contingenti di Forze armate in operazioni di polizia per contrastare la criminalita' organizzata nel territorio della regione Sicilia e della regione Calabria e nel territorio del comune e della provincia di Napoli per la tutela di specifici obiettivi di lotta alla criminalita' organizzata, al fine di conseguire un piu' diffuso controllo dell'ordine pubblico e di garantire la sicurezza dei cittadini;
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di rafforzare talune strutture e funzioni, al fine di intensificare la lotta contro la criminalita' organizzata nei settori del controllo del traffico degli stupefacenti e della salvaguardia della trasparenza e buon andamento delle amministrazioni locali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 dicembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e della difesa, di concerto con i Ministri delle finanze, del tesoro, del bilancio e della programmazione economica e di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri dell'interno e della difesa, di concerto con i Ministri delle finanze, del bilancio e della programmazione economica e di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -38,7 +38,9 @@ Art. 1
 
 1. Le disposizioni previste dall'[articolo 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art1) e dall'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art3-com1), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Sicilia a decorrere dal 1 gennaio 1995.
 
-2. A decorrere dalla stessa data le disposizioni citate si applicano, con l'osservanza delle modalita' ivi stabilite, nelle province della Calabria e nei territori della provincia e del comune di Napoli, per la tutela di specifici obiettivi di lotta alla criminalita' organizzata, nonche' nelle province della regione Friuli-Venezia Giulia per il controllo dei valichi di frontiera.
+2. A decorrere dalla stessa data le disposizioni citate si applicano, con l'osservanza delle modalita' ivi stabilite, nelle province della Calabria e nei territori della provincia e del comune di Napoli, per la tutela di specifici obiettivi di lotta alla criminalita' organizzata.
+
+3. Entro il 30 giugno 1995 il Governo presenta al Parlamento per l'esame da parte delle competenti commissioni parlamentari un programma di graduale sostituzione delle Forze armate impegnate in compiti di ordine pubblico in Sicilia, in Calabria e nella provincia di Napoli, nonche' di potenziamento in uomini e mezzi delle Forze dell'ordine al fine di accrescere la capacita' di contrasto della criminalita' e di rassicurare i cittadini sull'impegno dello Stato per il controllo del territorio.
 
 Art. 2
 ------
@@ -51,44 +53,37 @@ Art. 3
 ------
 
 1. All'[articolo 1 della legge 15 gennaio 1991, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-15;16~art1), dopo il comma 2, e' inserito il seguente:  
-"2-bis. Alla direzione centrale puo' essere preposto, con i rapporti di dipendenza operanti nell'ambito del Dipartimento della pubblica sicurezza in ragione della funzione esercitata, un dirigente generale della Polizia di Stato, un generale di divisione dell'Arma dei carabinieri o un generale di divisione della Guardia di finanza, che abbia maturato specifica esperienza nel settore.".
-
-2. Oltre a quanto stabilito dall'articolo 237 del testo unico delle disposizioni concernenti lo statuto degli impiegati civile dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3), e in deroga al limite numerico fissato da detto articolo, i prefetti e gli altri dirigenti dei ruoli dell'Amministrazione civile dell'interno, che si avvalgono della facolta' prevista dall'[articolo 3, comma 1, lettera b), della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art3-com1-letb), e dall'[articolo 16 del decreto legislativo 30 dicembre 1992, n. 503](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503~art16), possono essere collocati, per il periodo in cui continuano a permanere in servizio, a disposizione del Ministero dell'interno per l'epletamento di particolari incarichi. Per i prefetti e i funzionari con qualifica di dirigente generale al collocamento a disposizione si provvede con le modalita' e procedure stabilite dal primo comma dell'articolo 237 citato; per gli altri dirigenti provvede il Ministro dell'interno, con proprio decreto.  
-Corrispondentemente al numero di personale collocato a disposizione, sono lasciati indisponibili altrettanti posti di organico nella qualifica iniziale delle rispettive carriere di appartenenza.
+"2-bis. Alla direzione centrale e' preposto, secondo un criterio di rotazione, con i rapporti di dipendenza operanti nell'ambito del Dipartimento della pubblica sicurezza in ragione della funzione esercitata, un dirigente generale della Polizia di Stato, un generale di divisione dell'Arma dei carabinieri o un generale di divisione della Guardia di finanza, che abbia maturato specifica esperienza nel settore.".
 
 Art. 4
 ------
 
-1. All'onere derivante dall'attuazione degli articoli 1 e 2, valutato in lire 127.000 milioni per l'anno finanziario 1995, si provvede: quanto a lire 64.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno medesimo, utilizzando parzialmente l'accantonamento relativo al Ministero del tesoro, e, quanto a lire 63.000 milioni, a carico dei pertinenti capitoli dello stato di previsione del Ministero della difesa per l'anno finanziario 1995.
+1. All'onere derivante dall'attuazione degli articoli 1 e 2, valutato in lire 124.000 milioni per l'anno finanziario 1995, si provvede: quanto a lire 61.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno medesimo, utilizzando parzialmente l'accantonamento relativo al Ministero del tesoro, e, quanto a lire 63.000 milioni, a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa per l'anno finanziario 1995: capitolo 1086, per lire 1.000 milioni; capitolo 1091, per lire 500 milioni; capitolo 1092, per lire 1.000 milioni; capitolo 1105, per lire 14.000 milioni; capitolo 1802, per lire 3.100 milioni; capitolo 1872, per lire 2.100 milioni; capitolo 1878, per lire 2.100 milioni; capitolo 2000, per lire 1.000 milioni; capitolo 2002, per lire 1.500 milioni; capitolo 2102, per lire 14.500 milioni; capitolo 2103, per lire 500 milioni; capitolo 2802, per lire 10.200 milioni; capitolo 2804, per lire 7.500 milioni; capitolo 3001, per lire 3.500 milioni; capitolo 3204, per lire 500 milioni.
 
-2. All'onere derivante dall'articolo 3, valutato in lire 226 milioni per l'anno 1995, in lire 556 milioni per l'anno 1996 ed in lire 777 milioni per l'anno 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1995, con parziale utilizzo dell'accantonamento relativo al Ministero del tesoro.
-
-3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 5
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1994
+### Dato a Roma, addi' 1 marzo 1995
 
 SCALFARO
 
-BERLUSCONI, Presidente del Consiglio dei Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-MARONI, Ministro dell'interno
+BRANCACCIO, Ministro dell'interno
 
-PREVITI, Ministro della difesa
+CORCIONE, Ministro della difesa
 
-TREMONTI, Ministro delle finanze
+FANTOZZI, Ministro delle finanze
 
-DINI, Ministro del tesoro
+MASERA, Ministro del bilancio e della programmazione economica
 
-PAGLIARINI, Ministro del bilancio e della programmazione economica
+MANCUSO, Ministro di grazia e giustizia
 
-BIONDI, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: BIONDI
+Visto, il Guardasigilli: MANCUSO

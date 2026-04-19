@@ -1,14 +1,14 @@
-DECRETO-LEGGE 19 gennaio 1996 n. 27
+DECRETO-LEGGE 19 marzo 1996 n. 134
 
 
-DECRETO-LEGGE 19 gennaio 1996 n. 27
-===================================
+DECRETO-LEGGE 19 marzo 1996 n. 134
+==================================
 
 Disposizioni urgenti per il risanamento dei siti industriali 
 dell'area di Bagnoli.
 -----------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/1/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/3/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il r
 
 Considerato che con la cessazione dell'attivita' gia' svolta dall'ETERNIT, in attuazione delle [decisioni CECA 89/218](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989D0218) e [94/259](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994D0259), il predetto intervento riveste carattere di priorita' per l'elevato rischio ambientale e la grave crisi produttiva ed occupazionale della citata aerea, come rilevato nei protocolli di intesa del 5 novembre 1993 e 9 marzo 1994 sottoscritti dai Ministri interessati, dal presidente della regione Campania, dal comune di Napoli e dall'IRI;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 gennaio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze e, ad interim, del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea, di concerto con il Ministro dei lavori pubblici e dell'ambiente;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea, di concerto con il Ministro dei lavori pubblici e dell'ambiente;
 
 E M A N A il seguente decreto-legge:
 
@@ -36,7 +36,9 @@ Art. 1
 
 a) lire 171.540 milioni a carico dei fondi di cui all'[articolo 4 della legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80~art4), gia' trasferiti alla regione Campania;
 
-b) lire 90.000 milioni mediante riduzione degli stanziamenti iscritti sui capitoli 7705 e 8501 dello stato di previsione del Ministero dell'ambiente, rispettivamente, per lire 62.000 milioni e per lire 23.000 milioni per l'anno 1995 e per lire 5.000 milioni sul medesimo capitolo 7705 per l'anno 1996, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 6 della legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art6).
+b) lire 85.000 milioni a carico dello stanziamento iscritto sul capitolo 7099 dello stato di previsione del Ministero del bilancio e della programmazione economica per l'anno 1995;
+
+c) lire 5.000 milioni mediante riduzione dello stanziamento iscritto sul capitolo 7705 dello stato di previsione del Ministero dell'ambiente per l'anno 1996, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui all'[articolo 6 della legge 28 agosto 1989, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-08-28;305~art6).
 
 4. Nel termine di cinquanta giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro del bilancio e della programmazione economica, di concerto con il Ministro del tesoro ed il Ministro dell'ambiente, e' costituito un Comitato di coordinamento e di alta vigilanza delle attivita' di cui al comma 1, composto da sette funzionari responsabili del settore, designati uno dal Ministro del bilancio e della programmazione economica con funzioni di presidente, uno dal Ministro dell'ambiente, uno dal Ministro del tesoro, uno dal Ministro della sanita', uno dal presidente della regione Campania, uno dal presidente della provincia di Napoli, uno dal sindaco di Napoli. Compete al Comitato la nomina di una commissione di esperti per il controllo ed il monitoraggio delle attivita' di cui al comma 1 e dei relativi stati di avanzamento. Il Comitato di coordinamento e di alta vigilanza svolge, ove occorra opportunamente integrato, anche funzioni di conferenza dei servizi ai sensi e per gli effetti delle disposizioni di cui al capo IV della [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), deliberando con la presenza dei rappresentanti delle amministrazioni interessate agli specifici argomenti da trattare.
 
@@ -54,16 +56,14 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1996
+### Dato a Roma, addi' 19 marzo 1996
 
 SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-FANTOZZI, Ministro delle finanze e,
-
-ad interim, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
+ARCELLI, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
 
 BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: CAIANIELLO

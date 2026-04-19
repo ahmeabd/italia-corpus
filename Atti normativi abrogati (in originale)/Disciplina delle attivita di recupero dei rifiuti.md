@@ -1,13 +1,13 @@
-DECRETO-LEGGE 06 settembre 1996 n. 462
+DECRETO-LEGGE 08 luglio 1996 n. 352
 
 
-DECRETO-LEGGE 06 settembre 1996 n. 462
-======================================
+DECRETO-LEGGE 08 luglio 1996 n. 352
+===================================
 
 Disciplina delle attivita' di recupero dei rifiuti.
 ---------------------------------------------------
 
-Entrata in vigore del decreto: 7/9/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8-7-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per disciplinare le attivita' di recupero dei rifiuti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 settembre 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 luglio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente, di concerto con i Ministri di grazia e giustizia, delle finanze, delle risorse agricole, alimentari e forestali, del tesoro e del bilancio e della programmazione economica, dell'industria, del commercio e dell'artigianato e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente, di concerto con i Ministri di grazia e giustizia, delle finanze, del tesoro e del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
 
 E M A N A il seguente decreto-legge:
 
@@ -27,7 +27,7 @@ Art. 1
 
 Campo di applicazione ed esclusione
 
-1. Il presente decreto disciplina le attivita' finalizzate al recupero dei rifiuti in attesa del recepimento delle [direttive 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156) e [91/689/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0689), e comunque non oltre il 30 novembre 1996.
+1. Il presente decreto disciplina le attivita' finalizzate al recupero dei rifiuti in attesa del recepimento delle [direttive 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156) e [91/689](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0689)/C/EE, e comunque non oltre il 30 novembre 1996.
 
 2. Entro il termine di cui al comma 1, i materiali compresi nell'allegato I alla [direttiva 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156) ed individuati nell'allegato 1 al decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario n. 126 alla [Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212) che, nel rispetto della vigente normativa in materia ambientale e sanitaria, sono effettivamente destinati al riutilizzo in cicli di produzione, restano esclusi dal campo di applicazione del regime dei rifiuti di cui al [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915), e successive modificazioni.
 
@@ -63,16 +63,16 @@ e) i residui delle lavorazioni agricole in generale e derivati da processi di la
 
 f) i residui e le eccedenze derivanti dalle preparazioni nelle cucine di qualsiasi tipo di cibi solidi, cotti e crudi, non entrati nel circuito distributivo di somministrazione, destinati alla struttura di ricovero di animali di affezione di cui alla [legge 14 agosto 1991, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;281), e successive modificazioni, nel rispetto della vigente normativa;
 
-g) le attivita' di riutilizzo di residui che danno origine ai fertilizzanti, individuati con riferimento alla tipologia e alle modalita' di impiego ai sensi della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), e successive modifiche ed integrazioni. All'articolo 8, comma 2, secondo capoverso, della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), come modificato dall'[articolo 6, comma 1, del decreto legislativo 16 febbraio 1993, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;161~art6-com1), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'ambiente e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 8, comma 3, ultimo capoverso, della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 9, comma 5, della medesima [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". Per gli insediamenti che producono fertilizzanti anche con l'impiego di residui deve essere effettuata comunicazione alla regione competente.
+g) le attivita' di riutilizzo di residui che danno origine ai fertilizzanti, individuati con riferimento alla tipologia e alle modalita' di impiego ai sensi della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), e successive modifiche ed integrazioni. All'articolo 8, comma 2, secondo capoverso della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), come modificato dall'[articolo 6, comma 1, del decreto legislativo 16 febbraio 1993, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;161~art6-com1), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'ambiente e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 8, comma 3, ultimo capoverso, della [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". All'articolo 9, comma 5, della medesima [legge 19 ottobre 1984, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), le parole: "di concerto con il Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro delle partecipazioni statali e il Ministro della sanita'" sono sostituite dalle seguenti: "di concerto con i Ministri dell'industria, del commercio e dell'artigianato, dell'ambiente e della sanita'". Per gli insediamenti che producono fertilizzanti anche con l'impiego di residui deve essere effettuata comunicazione alla regione competente.
 
 Art. 2
 ------
 
 Procedure semplificate
 
-1. Entro e non oltre il termine di cui all'articolo 1, le attivita' di raccolta e trasporto di rifiuti individuati come residui negli allegati 2 e 3 al decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario n. 126 alla [Gazzetta Ufficiale n. 212 del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212), e nel decreto del Ministro dell'ambiente 16 gennaio 1995, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 gennaio 1995, n. 24, ad eccezione delle categorie di cui ai punti 21 e 22 dell'allegato 1 al medesimo decreto, che sono effettivamente destinati al riutilizzo, nonche' le operazioni di recupero dei medesimi di cui all'allegato II B della [direttiva 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156), possono essere intraprese decorsi trenta giorni dalla comunicazione di inizio di attivita' alla regione o alla provincia autonoma nella cui circoscrizione territoriale ha sede legale l'impresa o la societa' che svolge attivita' di raccolta o trasporto ovvero sono effettuate le operazioni di trattamento e di recupero dei rifiuti. Sono valide le comunicazioni gia' presentate al Comitato nazionale dell'albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti, di cui all'[articolo 10 del decreto-legge 31 agosto 1987, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361~art10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), alle regioni e alle province autonome alla data di entrata in vigore del presente decreto che contengano tutti gli elementi richiesti dal decreto stesso.
+1. Entro e non oltre il termine di cui all'articolo 1, le attivita' di raccolta e trasporto di rifiuti individuati come residui negli allegati II e III al decreto del Ministro dell'ambiente 5 settembre 1994, pubblicato nel supplemento ordinario n. 126 alla [Gazzetta Ufficiale n. 212, del 10 settembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-09-10&numeroGazzetta=212), e nel decreto del Ministro dell'ambiente 16 gennaio 1995, pubblicato nel supplemento ordinario della Gazzetta Ufficiale del 30 gennaio 1995, n. 24, ad eccezione delle categorie di cui ai punti 21 e 22 dell'allegato 1 al medesimo decreto, che sono effettivamente destinati al riutilizzo, nonche' le operazioni di recupero dei medesimi di cui all'allegato II B della [direttiva 91/156/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991L0156), possono essere intraprese decorsi trenta giorni dalla comunicazione di inizio di attivita' alla regione o alla provincia autonoma nella cui circoscrizione territoriale ha sede legale l'impresa o la societa' che svolge attivita' di raccolta o trasporto ovvero sono effettuate le operazioni di trattamento e di recupero dei rifiuti. Sono valide le comunicazioni gia' presentate al Comitato nazionale dell'albo nazionale delle imprese esercenti servizi di smaltimento dei rifiuti, di cui all'[articolo 10 del decreto-legge 31 agosto 1997, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-08-31;361~art10), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-29;441), alle regioni e alle province autonome alla data di entrata in vigore del presente decreto che contengano tutti gli elementi richiesti dal decreto stesso.
 
-2. La comunicazione di cui al comma 1 e' redatta in carta semplice e deve essere corredata da una relazione dalla quale deve risultare il rispetto delle norme tecniche e delle condizioni di cui agli allegati II e III al decreto del Ministro dell'ambiente 5 settembre 1994 e di cui al decreto del Ministro dell'ambiente 16 gennaio 1995, ed in particolare:
+2. La comunicazione di cui al comma 1 e' redatta in carta semplice e deve essere corredata da una relazione dalla quale deve risultare il rispetto delle norme tecniche e delle condizioni di cui agli allegati II e III al decreto del Ministro dell'ambiente 5 settembre 1994, ed in particolare:
 
 a) per la raccolta ed il trasporto:  
 1) quantita', natura, origine, destinazione, frequenza media della raccolta;  
@@ -94,7 +94,7 @@ Art. 3
 
 Trasporti transfrontalieri
 
-1. Ai sensi e per gli effetti del [regolamento (CE) n. 259/93 del Consiglio del 1 febbraio 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0259), le autorita' competenti di spedizione e di destinazione dei trasporti transfrontalieri sono individuate nelle regioni o province autonome in cui sono stoccati o dove sono diretti le sostanze o i materiali di cui agli allegati II, III e IV del regolamento medesimo. L'autorita' di transito e' individuata nel Ministero dell'ambiente.
+1. Ai sensi e per gli effetti del [regolamento (CE) n. 259/93 del Consiglio del 1 febbraio 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0259), le autorita' competenti di spedizione e di destinazione dei trasporti transfrontalieri sono individuate nelle regioni o province autonome in cui sono stoccati o dove sono individuate diretti le sostanze o i materiali di cui agli allegati II, III e IV del regolamento medesimo. L'autorita' di transito e' individuata nel Ministero dell'ambiente.
 
 2. Chiunque effettua operazioni di traffico illecito delle sostanze o dei materiali elencati negli allegati II, III e IV del [regolamento (CE) n. 259/93](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0259), ai sensi dell'articolo 26 del regolamento medesimo, e' punito con l'ammenda da lire dieci milioni a lire trenta milioni.  
 Se il fatto illecito riguarda il trasporto di materiali o sostanze non corrispondenti a quelle indicate nella notifica, si applica la pena dell'arresto da tre mesi a due anni. Alla condanna consegue la confisca del mezzo di trasporto utilizzato.
@@ -116,7 +116,7 @@ c) il comma 5 e' sostituito dal seguente:
 " 5. Ai fini della determinazione del costo di esercizio di cui all'articolo 61, commi 1 e 2, per ciascuno degli anni 1994 e 1995 e' dedotto dal costo complessivo dei servizi di nettezza urbana gestiti in regime di privativa comunale un importo non inferiore al cinque per cento a titolo di costo dello spazzamento dei rifiuti solidi urbani di cui all'[articolo 2, terzo comma, n. 3, del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-10;915~art2-com3-num3). L'eventuale eccedenza di gettito derivante dalla predetta deduzione e' computata in diminuzione del tributo iscritto a ruolo per l'anno successivo.";
 
 d) il comma 6 e' sostituito dal seguente:  
-" 6. In sede di prima applicazione della nuova disciplina, le denunce originarie e di variazione, di cui all'articolo 70, sono presentate per gli anni 1994, 1995 e 1996, rispettivamente, entro il 30 settembre 1994, il 20 gennaio 1995 e il 20 gennaio 1996 senza l'indicazione delle aree scoperte che costituiscono pertinenza od accessorio dei locali ed aree assoggettabili a tassa, nonche' delle parti comuni del condominio di cui all'[articolo 1117 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117) e dei locali in multiproprieta' di uso comune. Le denunce integrative o modificative, anche di quelle gia' prodotte in base al precedente ordinamento del tributo, nonche' l'elenco di cui al comma 4 dell'articolo 63, sono presentati entro il 20 gennaio 1997 ed hanno effetto, quanto alla modifica degli elementi imponibili, a decorrere dall'anno 1997. Le richieste di riduzione di cui all'articolo 66, commi 3, 4, 5 e 6, sono presentate per l'anno 1995 entro il 15 ottobre e le relative riduzioni, ove previste dal regolamento della tassa, hanno effetto dal 1 gennaio.".
+" 6. In sede di prima applicazione della nuova disciplina, le denunce originarie e di variazione, di cui all'articolo 70, sono presentate per gli anni 1994, 1995 e 1996, rispettivamente, entro il 30 settembre 1994, il 20 gennaio 1995 e il 20 gennaio 1996 senza l'indicazione delle aree scoperte che costituiscono pertinenza od accessorio dei locali ed aree assoggettabili a tassa, nonche' delle parti comuni del condominio di cui all'[articolo 1117 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art1117) e dei locali in multiproprieta' di uso comune. Le denunce integrative o modificative, anche di quelle gia' prodotte in base al precedente ordinamento del tributo, nonche' l'elenco di cui al comma 4 dell'articolo 63, sono presentati entro il 30 settembre 1996 ed hanno effetto, quanto alla modifica degli elementi imponibili, a decorrere dall'anno 1997. Le richieste di riduzione di cui all'articolo 66, commi 3, 4, 5 e 6, sono presentate per l'anno 1995 entro il 15 ottobre e le relative riduzioni, ove previste dal regolamento della tassa, hanno effetto dal 1 gennaio.".
 
 2. I comuni che deliberano le riduzioni di cui all'[articolo 66, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com5) e [6, del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art66-com6), devono assicurare, limitatamente all'anno 1995, un tasso di copertura del costo del servizio non inferiore a quello previsto per l'anno 1994, senza apportare aumenti, compensativi delle riduzioni, che eccedano il venti per cento rispetto alla tassa dovuta.
 
@@ -205,7 +205,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 settembre 1996
+### Dato a Roma, addi' 8 luglio 1996
 
 SCALFARO
 
@@ -217,14 +217,8 @@ FLICK, Ministro di grazia e giustizia
 
 VISCO, Ministro delle finanze
 
-PINTO, Ministro delle risorse
-
-agricole, alimentari e forestali
-
 CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
 
 BERSANI, Ministro dell'industria, del commercio e dell'artigianato
-
-BASSANINI, Ministro per la funzione pubblica e gli affari regionali
 
 Visto, il Guardasigilli: FLICK

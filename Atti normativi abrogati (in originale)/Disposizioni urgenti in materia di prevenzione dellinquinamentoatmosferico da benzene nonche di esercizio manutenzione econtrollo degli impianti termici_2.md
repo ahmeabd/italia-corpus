@@ -1,15 +1,15 @@
-DECRETO-LEGGE 27 settembre 1995 n. 407
+DECRETO-LEGGE 30 novembre 1995 n. 508
 
 
-DECRETO-LEGGE 27 settembre 1995 n. 407
-======================================
+DECRETO-LEGGE 30 novembre 1995 n. 508
+=====================================
 
 Disposizioni urgenti in materia di prevenzione dell'inquinamento 
 atmosferico da benzene, nonche' di esercizio, manutenzione e 
 controllo degli impianti termici.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1-10-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/11/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -28,13 +28,15 @@ protocollo delle Nazioni Unite per la riduzione delle emissioni di composti orga
 
 Vista la [direttiva 94/63/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994L0063) che stabilisce norme per il controllo delle emissioni di composti organici volatili dai depositi della benzina e dalla sua distribuzione dai terminali alle stazioni di servizio;
 
+Visto l'[articolo 6 della direttiva 85/210/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985L0210) relativa al tenore di piombo nella benzina che consente agli Stati membri di prendere le misure necessarie per evitare un aumento significativo della quantita' e qualita' degli inquinanti di origine veicolare;
+
 Ritenuta la straordinaria necessita' ed urgenza di limitare l'inquinamento atmosferico da traffico autoveicolare e l'urgenza di regolamentare il settore della distribuzione delle benzine, anche in anticipo rispetto ai tempi fissati dalla direttiva europea, al fine di ridurre l'esposizione dei lavoratori e l'immissione nell'ambiente dei vapori delle benzine che contengono sostanze cancerogene;
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di differenziare, in relazione alle rispettive potenze, gli impianti termici, al fine di consentire il controllo sull'esercizio e la manutenzione degli stessi da parte di personale munito di certificato di qualita' ed iscritto in appositi albi nazionali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 settembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 novembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente e del Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero, di concerto con i Ministri del lavoro e della previdenza sociale e della sanita';
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri dei lavori pubblici e dell'ambiente e dell'industria, del commercio e dell'artigianato e del commercio con l'estero, di concerto con il Ministro del lavoro e della previdenza sociale;
 
 E M A N A il seguente decreto-legge:
 
@@ -51,7 +53,7 @@ Art. 2
 2. A partire dal 1 luglio 1999 il tenore massimo consentito di benzene nelle benzine e' fissato nell'1 per cento in volume.
 
 3. Il controllo del tenore di benzene nelle benzine e' effettuato dai laboratori chimici delle dogane e delle imposte indirette sui carburanti prodotti dalle raffinerie italiane e su quelli importati.  
-I laboratori provvederanno a classificare le due tipologie di benzine di cui ai commi 1 e 2 utilizzando i metodi di cui all'allegato al [decreto del Ministro per il coordinamento delle politiche comunitarie 28 maggio 1988, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.coordinamento.politiche.comunitarie:decreto:1988-05-28;214), con le modifiche di cui al metodo Unichim n. 1135 (ed. maggio 1995).
+I laboratori provvederanno a classificare le due tipologie di benzine di cui ai commi 1 e 2 utilizzando i metodi di cui all'allegato al [decreto del Ministro per il coordinamento delle politiche comunitarie 28 maggio 1988, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.coordinamento.politiche.comunitarie:decreto:1988-05-28;214), con le modifiche di cui al metodo UNICHIM n. 1135 (ed. maggio 1995).
 
 4. L'immissione in consumo di benzine non rispondenti a quanto stabilito nei commi 1 e 2, e' punita con la sanzione amministrativa da lire trenta milioni a lire trecento milioni.
 
@@ -60,15 +62,15 @@ Art. 3
 
 1. Dalla data di entrata in vigore del presente decreto si applicano, fatte salve le normative vigenti in materia di emissioni dagli impianti industriali, le disposizioni previste dalla [direttiva 94/63/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31994L0063) relative al controllo delle emissioni di composti organici volatili negli impianti di deposito delle benzine presso i terminali, nelle operazioni di caricamento e scaricamento di cisterne mobili presso i terminali, nelle cisterne mobili, nel caricamento degli impianti di deposito presso le stazioni di servizio, secondo le modalita' e il calendario fissati dalla stessa direttiva.
 
-2. A partire dal 1 gennaio 1996, tutti gli impianti nuovi di distribuzione di benzine dovranno essere dotati di dispositivi per il recupero dei vapori di benzina.
+2. A partire dal 1 marzo 1996, tutti gli impianti nuovi di distribuzione di benzine dovranno essere dotati di dispositivi per il recupero dei vapori di benzina.
 
 3. Entro il 31 dicembre 1997 le pompe di distribuzione di benzine presso le stazioni di servizio preesistenti, situate in comuni con oltre 150.000 abitanti e con una movimentazione superiore a 500 metri cubi/anno, o in ambienti confinati, dovranno essere attrezzate con dispositivi per il recupero dei vapori di benzina.
 
 4. Entro il 31 dicembre 1998 le pompe di distribuzione di benzine presso le stazioni di servizio preesistenti, con un volume di movimentazione superiore a 1000 m cubi/anno, dovranno essere attrezzate con dispositivi per il recupero dei vapori di benzina.
 
-5. Entro il 31 dicembre 1999 l'intera rete preesistente di distribuzione delle benzine dovra' essere attrezzata con dispositivi di recupero dei vapori di benzina.
+5. Entro il 31 dicembre 1999 l'intera rete preesistente di distribuzione delle benzine dovra' essere attrezzata con dispositivi per il recupero dei vapori di benzina.
 
-6. Entro il 30 ottobre 1995 il Ministero dell'ambiente, di concerto con i Ministeri dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, dell'interno, della sanita', dei trasporti e della navigazione e delle finanze, stabilisce i requisiti tecnici dei dispositivi di recupero dei vapori di benzine nelle pompe di distribuzione dei carburanti e dei dispositivi da adottare sulle auto nuove.
+6. Entro il 30 dicembre 1995 il Ministero dell'ambiente, di concerto con i Ministeri dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, dell'interno, della sanita', dei trasporti e della navigazione e delle finanze, stabilisce i requisiti tecnici dei dispositivi per il recupero dei vapori di benzina nelle pompe di distribuzione dei carburanti e dei dispositivi da adottare sulle auto nuove.
 
 7. Ferme restando le disposizioni penali di cui al [decreto legislativo 19 settembre 1994, n. 626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-09-19;626), la violazione delle disposizioni di cui ai commi 1, 2, 3, 4 e 5, e' punita con la sanzione amministrativa da lire trenta milioni a lire trecento milioni. In caso di recidiva sono sospese le autorizzazioni ai depositi ed all'esercizio delle attivita' di distribuzione dei carburanti.
 
@@ -80,12 +82,12 @@ Art. 4
 Art. 5
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1995
+### Dato a Roma, addi' 30 novembre 1995
 
 SCALFARO
 
@@ -97,6 +99,4 @@ CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio 
 
 TREU, Ministro del lavoro e della previdenza sociale
 
-GUZZANTI, Ministro della sanita'
-
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: DINI

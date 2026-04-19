@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 29 maggio 1947 n. 654
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 28 marzo 1947 n. 360
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 29 maggio 1947 n. 654
-==============================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 28 marzo 1947 n. 360
+=============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-654. Decreto del Capo provvisorio della Stato 29 maggio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 50.000 nominali, in buoni novennali del Tesoro, e di L. 15.000 in contanti, disposta in suo favore dall'avv. Celso Fabbro, con atto pubblico in data 22 gennaio 1945, per la istituzione di una borsa di studio annuale da intitolarsi al nome del "Dottor Giuseppe Fabbro" e da conferirsi ad un laureato in medicina e chirurgia, che intenda conseguire il diploma di specializzazione in radiologia medica presso la scuola di specializzazione annessa alla Facolta' di medicina e chirurgia dell'Universita' di Padova.  
+360. Decreto del Capo provvisorio dello Stato 28 marzo 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 73.000, disposta in suo favore dalla signora Duilia Tedeschi ved. Godina e dal dott. prof. Antonio Godina, in proprio ed in rappresentanza di altri offerenti, con atto pubblico in data 9 settembre 1946, per l'istituzione di un premio annuale da intitolarsi al nome di "Alessandro Godina" e da conferirsi ad uno studente della Facolta' di medicina e chirurgia, che abbia superato l'esame di anatomia umana normale col maggiore risultato.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei Conti, addi' 14 luglio 1947
+Visto, il Guardasigilli: GULLO  
+Registrato alla corte dei Conti, addi' 16 maggio 1947

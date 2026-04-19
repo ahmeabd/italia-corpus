@@ -1,13 +1,13 @@
-DECRETO-LEGGE 02 marzo 1993 n. 46
+DECRETO-LEGGE 28 aprile 1993 n. 129
 
 
-DECRETO-LEGGE 02 marzo 1993 n. 46
-=================================
+DECRETO-LEGGE 28 aprile 1993 n. 129
+===================================
 
 Elargizione a favore dei cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate.
 -------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 2/3/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2/5/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'elargizione a favore dei cittadini vittime di incidenti occorsi durante attivita' operative ed addestrative delle Forze armate;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 febbraio 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 aprile 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con il Ministro del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -34,8 +34,7 @@ Art. 1
 Art. 2
 ------
 
-1. L'elargizione di cui all'articolo 1 e' corrisposta   
-secondo il seguente ordine:
+1. L'elargizione di cui all'articolo 1 e' corrisposta secondo il seguente ordine:
 
 a) coniuge o convivente superstite e figli, se a carico;
 
@@ -81,20 +80,18 @@ b) quanto a lire 100 milioni a decorrere dal 1993, mediante riduzione dello stan
 Art. 8
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il 2 maggio 1993 e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1993
+### Dato a Roma, addi' 28 aprile 1993
 
 SCALFARO
 
 AMATO, Presidente del Consiglio dei Ministri
 
 ANDO', Ministro della difesa
-
-BARUCCI, Ministro del tesoro
 
 ANDREATTA, Ministro del bilancio e della programmazione economica
 

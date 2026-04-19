@@ -1,8 +1,8 @@
-DECRETO-LEGGE 18 novembre 1995 n. 489
+DECRETO-LEGGE 19 marzo 1996 n. 132
 
 
-DECRETO-LEGGE 18 novembre 1995 n. 489
-=====================================
+DECRETO-LEGGE 19 marzo 1996 n. 132
+==================================
 
 Disposizioni urgenti in materia di politica dell'immigrazione e per 
 la regolamentazione dell'ingresso e soggiorno nel territorio 
@@ -10,7 +10,7 @@ nazionale dei cittadini dei Paesi non appartenenti all'Unione
 europea.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19-11-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 19-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,18 +19,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adeguare in termini piu' razionali la normativa in tema di immigrazione nel territorio dello Stato da parte di cittadini di Paesi non appartenenti all'Unione europea, al fine di rendere piu' efficace l'operativita';
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 novembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e, ad interim, Ministro di grazia e giustizia e del Ministro dell'interno, di concerto con il Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e dei Ministri dell'interno e di grazia e giustizia, di concerto con i Ministri del lavoro e della previdenza sociale e della sanita';
 
-E M A N A
-
-il seguente decreto-legge:
-
-Capo
-----
-
-I FLUSSI DI INGRESSO E LAVORO STAGIONALE
+E M A N A il seguente decreto-legge:
 
 CAPO I Capo I FLUSSI DI INGRESSO E LAVORO STAGIONALE
 ----------------------------------------------------
@@ -40,19 +33,19 @@ CAPO I Capo I FLUSSI DI INGRESSO E LAVORO STAGIONALE
 Norme in materia di lavoro stagionale dei cittadini di Paesi non  
 appartenenti all'Unione europea e di determinazione dei flussi.
 
-1. Nella programmazione annuale dei flussi di ingresso dei cittadini di Paesi non appartenenti all'Unione europea prevista dall'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono indicate anche le possibilita' di impiego per i lavoratori stagionali in considerazione delle disponibilita' accertate attraverso gli uffici provinciali del lavoro e della massima occupazione e previsioni annuali di fabbisogno di manodopera formulate dalle commissioni regionali per l'impiego, in collaborazione con i datori di lavoro e le organizzazioni sindacali, per i settori che si avvalgono di lavoro prevalentemente stagionale.
+1. Nella programmazione annuale dei flussi di ingresso dei cittadini di Paesi non appartenenti all'Unione europea prevista dall'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono indicate anche le possibilita' di impiego per i lavoratori stagionali in considerazione delle disponibilita' accertate attraverso gli uffici provinciali del lavoro e della massima occupazione e delle previsioni annuali di fabbisogno di manodopera formulate dalle commissioni regionali per l'impiego, in collaborazione con i datori di lavoro e le organizzazioni sindacali, per i settori che si avvalgono di lavoro prevalentemente stagionale.
 
-2. In relazione a ricorrenti esigenze stagionali per ambiti territoriali e settori determinati e per le quali sia accertabile l'indisponibilita' di offerte di lavoro da parte delle imprese interessate attraverso le loro associazioni di categoria, le commissioni regionali per l'impiego (C.R.I.) possono stipulare con le associazioni predette e le organizzazioni sindacali maggiormente rappresentative, con le regioni e gli enti locali apposite convenzioni dirette a favorire l'accesso dei lavoratori di Paesi non appartenenti all'Unione europea ai posti di lavoro individuati.
+2. In relazione a ricorrenti esigenze stagionali per ambiti territoriali e settori determinati e per le quali sia accertabile l'indisponibilita' di offerte di lavoro da parte delle imprese interessate attraverso le loro associazioni di categoria, le commissioni regionali per l'impiego (CRI) possono stipulare con le associazioni predette e le organizzazioni sindacali maggiormente rappresentative, con le regioni e gli enti locali apposite convenzioni dirette a favorire l'accesso dei lavoratori di Paesi non appartenenti all'Unione europea ai posti di lavoro individuati.
 
 3. Le convenzioni di cui al comma 2 individuano il trattamento economico e normativo e le misure per assicurare idonee condizioni di lavoro della manodopera, nonche' gli eventuali incentivi diretti o indiretti, preordinati a favorire l'attivazione dei flussi e dei deflussi di manodopera e le misure complementari relative all'accoglienza dei lavoratori stranieri.
 
-4. Il Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, sentita la commissione centrale per l'impiego, puo' impartire direttive per la disciplina delle attivita' delle C.R.I. e provvedere alla definizione di una convenzione tipo.
+4. Il Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, sentita la commissione centrale per l'impiego, puo' impartire direttive per la disciplina delle attivita' delle CRI e provvedere alla definizione di una convenzione tipo.
 
 5. I lavoratori avviabili sulla base delle convenzioni stipulate ai sensi del presente articolo possono essere individuati tra quelli gia' presenti legalmente sul territorio nazionale e che risultino iscritti nelle liste di collocamento o di prenotazione. Nel caso di accertata indisponibilita' di questi ultimi o di fabbisogni aggiuntivi, possono essere rilasciate autorizzazioni all'ingresso per lavoro stagionale a cittadini di Paesi non appartenenti all'Unione europea ancora residenti all'estero. Per favorire l'attuazione del presente decreto sono stipulate apposite intese bilaterali tra le corrispondenti autorita' nazionali responsabili delle politiche del mercato del lavoro, rispettivamente dei Paesi di partenza e di accoglienza. Per l'Italia, tali intese sono stipulate dal Ministro del lavoro e della previdenza sociale, di concerto con il Ministro degli affari esteri ed il Ministro dell'interno.
 
-6. Gli uffici regionali del lavoro predispongono gli elenchi nominativi dei lavoratori stagionali provenienti dai Paesi non appartenenti all'Unione europea nonche' dai Paesi con i quali sono state stipulate le intese di cui al comma 5. Gli uffici regionali del lavoro trasmettono i medesimi elenchi al Ministero degli affari esteri, per il rilascio dei visti di ingresso da parte delle competenti autorita' diplomatiche e consolari, nonche' al Ministero dell'interno, ai fini del rilascio del permesso di soggiorno da parte delle questure competenti. Gli uffici regionali del lavoro verificano, altresi', l'effettivo avviamento al lavoro.
+6. Gli uffici regionali del lavoro predispongono gli elenchi nominativi dei lavoratori stagionali provenienti dai Paesi non appartenenti all'Unione europea, nonche' dai Paesi con i quali sono state stipulate le intese di cui al comma 5. Gli uffici regionali del lavoro trasmettono i medesimi elenchi al Ministero degli affari esteri, per il rilascio dei visti di ingresso da parte delle competenti autorita' diplomatiche e consolari, nonche' al Ministero dell'interno, ai fini del rilascio del permesso di soggiorno da parte delle questure competenti. Gli uffici regionali del lavoro verificano, altresi', l'effettivo avviamento al lavoro.
 
-7. All'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono aggiunte, in fine, le seguenti parole: ", nonche' il piano degli interventi di assistenza in favore di cittadini di Paesi non appartenenti all'Unione europea ammessi a soggiornare temporaneamente in Italia per motivi di carattere umanitario.".
+7. All'[articolo 2, comma 3, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art2-com3), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono aggiunte, in fine, le seguenti parole: "nonche' il piano degli interventi di assistenza in favore di cittadini di Paesi non appartenenti all'Unione europea ammessi a soggiornare temporaneamente in Italia per motivi di carattere umanitario.".
 
 ### Art. 2
 
@@ -63,7 +56,7 @@ di Paesi non appartenenti all'Unione europea
 
 2. Il lavoratore stagionale di un Paese non appartenente all'Unione europea, ove sia documentalmente accertato il rispetto del termine di cui al comma 1, ha diritto di precedenza per il rientro in Italia nell'anno successivo, per ragioni di lavoro stagionale, rispetto ai suoi connazionali mai entrati in Italia per motivi di lavoro.
 
-3. Nel primo anno di applicazione a partire dalla data di entrata in vigore del presente decreto, hanno diritto di precedenza i cittadini di un Paese non appartenente all'Unione europea che dimostrino di essere usciti dal territorio dello Stato e di essere rientrati in patria nei sessanta giorni successivi alla data di entrata in vigore del presente decreto. A tal fine gli interessati, al momento dell'uscita dal territorio dello Stato, richiedono al competente ufficio di polizia di frontiera il rilascio di apposita attestazione.
+3. Nel primo anno di applicazione a partire dalla data di entrata in vigore del presente decreto, hanno diritto di precedenza i cittadini di un Paese non appartenente all'Unione europea che dimostrino di essere usciti dal territorio dello Stato e di essere rientrati in patria entro il 31 marzo 1996. A tal fine gli interessati, al momento dell'uscita dal territorio dello Stato, richiedono al competente ufficio di polizia di frontiera il rilascio di apposita attestazione.
 
 4. Il lavoratore stagionale di un Paese non appartenente all'Unione europea che soggiorni in Italia con un permesso di soggiorno temporaneo per motivi di lavoro stagionale puo' ottenere, in presenza di una documentata offerta di lavoro a tempo indeterminato, previo rilascio del nulla-osta degli uffici provinciali del lavoro e della massima occupazione, ai sensi dell'[articolo 8 della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art8), un permesso di soggiorno della durata di due anni, rinnovabile.
 
@@ -101,9 +94,9 @@ CAPO II Capo II DISPOSIZIONI IN MATERIA DI INGRESSO E DI SOGGIORNO
 
 Visto di ingresso
 
-1. Fermo restando quanto previsto dall'accordo di Schengen e dalla relativa convenzione di applicazione, il visto non puo' essere rilasciato allo straniero che sia stato condannato in Italia o all'estero per uno dei reati che costituiscono motivo di espulsione dallo Stato a norma dell'[articolo 7 del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7), convertito, con modificazioni, dalla [legge 28 febbraio 1989, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-28;39), come sostituito dall'articolo 7 del presente decreto.
+1. Fermo restando quanto previsto dall'accordo di Schengen e dalla relativa convenzione di applicazione, il visto non puo' essere rilasciato allo straniero che sia stato condannato in Italia o all'estero per uno dei reati che costituiscono motivo di espulsione dallo Stato a norma dell'[articolo 7 del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), come sostituito dall'articolo 7 del presente decreto.
 
-2. Nell'[articolo 3, comma 1, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art3-com1), convertito, con modificazioni, dalla [legge 28 febbraio 1989, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-28;39), e' aggiunto, in fine, il seguente periodo: "Ai fini dell'ingresso, i cittadini dei Paesi non appartenenti all'Unione europea esibiscono ai controlli di frontiera idonea certificazione comprovante l'assenza di patologie pregiudizievoli per la salute pubblica.".
+2. Ferma restando la normativa vigente in materia di profilassi internazionale, gli stranieri provenienti da uno Stato che, in ragione di particolari condizioni epidemiologiche, sia inserito in apposito decreto del Ministro della sanita' esibiscono ai controlli di frontiera, oltre ai documenti previsti dalla predetta normativa, un certificato rilasciato, nei dieci giorni precedenti la partenza, dall'autorita' sanitaria del Paese di provenienza, vidimato dal consolato d'Italia, comprovante l'assenza di malattie infettive in atto, aventi carattere di ampia diffusibilita' per via aerea od oro-fecale.
 
 ### Art. 5
 
@@ -122,8 +115,7 @@ CAPO III Capo III ESPULSIONI E DISPOSIZIONI PENALI
 
 ### Art. 7
 
-Espulsione dal territorio dello Stato  
-e norme sanzionatorie
+Espulsione dal territorio dello Stato e norme sanzionatorie
 
 1. L'[articolo 7 del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' sostituito dal seguente:  
 "Art. 7 (Espulsione come misura di sicurezza). - 1. Lo straniero condannato, o nei confronti del quale e' applicata la pena su richiesta ai sensi degli [articoli 444 e seguenti del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art444), per uno dei delitti previsti dagli articoli 380 e 381 dello stesso codice, puo' essere espulso dal territorio dello Stato, sempre che risulti socialmente pericoloso.  
@@ -131,10 +123,10 @@ e norme sanzionatorie
 
 2. L'[articolo 7-bis del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7bis), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' sostituito dal seguente:  
 "Art. 7-bis (Espulsione come misura di prevenzione). - 1. Gli stranieri appartenenti ad una delle categorie indicate nell'[articolo 1 della legge 27 dicembre 1956, n. 1423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423~art1), come sostituito dall'[articolo 2 della legge 3 agosto 1988, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-03;327~art2), sono segnalati dall'autorita' di pubblica sicurezza al pubblico ministero, il quale, nelle quarantotto ore successive, puo' proporre al pretore del luogo in cui la persona si trova, l'applicazione della misura di prevenzione dell'espulsione.  
-2. Il pretore provvede, in camera di consiglio, con decreto motivato, entro sette giorni dalla proposta, osservate, in quanto applicabili, le disposizioni dell'[articolo 666 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art666). Il termine per la notificazione o per la comunicazione dell'avviso dell'udienza e' ridotto a tre giorni.  
+2. Il pretore provvede, in camera di consiglio, con decreto motivato, entro sette giorni dalla proposta, osservate, in quanto applicabili, le disposizioni dell'[articolo 666 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art666). Il termine per la notificazione o per la comunicazione dell'avviso dell'udienza e' ridotto a tre giorni, fermo quanto previsto dal comma 9 dell'articolo 7-sexies, per gli stranieri minori degli anni 18 provvede il tribunale per i minorenni.  
 3. L'espulsione e' disposta dal pretore quando sussistono concreti elementi per ritenere che lo straniero sia persona pericolosa per la sicurezza pubblica.".
 
-3. Dopo l'[articolo 7-bis del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7bis), convertito, con modificazioni, dalla [legge 28 febbraio 1989, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-28;39), sono inseriti i seguenti:  
+3. Dopo l'[articolo 7-bis del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art7bis), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), sono inseriti i seguenti:  
 "Art. 7-ter (Espulsione a richiesta di parte). - 1. Nei confronti degli stranieri arrestati in flagranza o sottoposti a custodia cautelare per uno o piu' delitti, consumati o tentati, diversi da quelli indicati dall'[articolo 407, comma 2, lettera a), numeri da 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art407-com2-leta-num1) [a 6, del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art407-com2-leta-num6) e' disposta l'espulsione sempre che le esigenze cautelari per le quali e' stata applicata la custodia possano essere soddisfatte da tale misura e non sussistano inderogabili esigenze processuali.  
 2. L'espulsione e' altresi' disposta nei confronti degli stranieri condannati con sentenza passata in giudicato, per reati non colposi, ad una pena che, anche se costituente parte residua di maggior pena, non superi i tre anni di reclusione.  
 3. L'espulsione e' disposta, su richiesta dell'interessato o del suo difensore, previo parere del pubblico ministero o su richiesta dello stesso pubblico ministero dal giudice indicato dall'[articolo 279 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art279), nel caso previsto dal comma 1, e dal giudice dell'esecuzione nel caso previsto dal comma 2.  
@@ -163,7 +155,7 @@ Avverso il provvedimento e' ammesso il riesame a norma dell'[articolo 309 del co
 9. Salvo che nel caso di cui all'articolo 7-quater, non possono essere sottoposti ad espulsione:  
 a) gli stranieri minori di anni sedici;  
 b) gli stranieri regolarmente residenti in Italia da almeno cinque anni;  
-c) gli stranieri che vivono con parenti entro il quarto grado di nazionalita' italiana;  
+c) gli stranieri che vivono con parenti entro il quarto grado di nazionalita' italiana o con il coniuge di nazionalita' italiana;  
 d) le donne in stato di gravidanza oltre il terzo mese.  
 10. Restano ferme le norme generali e speciali in materia di diritto d'asilo, anche umanitario.  
 11. Lo straniero espulso sottoposto a procedimento penale o di prevenzione e' autorizzato a rientrare in Italia per il tempo strettamente necessario per l'esercizio del diritto di difesa, al solo fine di partecipare al giudizio o al compimento di atti per i quali e' necessaria la sua presenza. A tal fine, il questore competente rilascia, a richiesta dell'espulso o del suo difensore, apposita autorizzazione.  
@@ -188,7 +180,7 @@ Impiego illecito di manodopera straniera
 
 1. Nell'[articolo 12, comma 1, della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art12-com1), le parole: "e' punito con la reclusione da uno a cinque anni e, per ogni lavoratore reclutato, con la multa da lire 2 milioni a lire 10 milioni." sono sostituite dalle seguenti: "e' punito con la reclusione da due a sei anni e, per ogni lavoratore reclutato, con la multa da lire dieci milioni a lire cinquanta milioni.".
 
-2. Nell'[articolo 12, comma 2, della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art12-com2), le parole: "e' punito con un ammenda da lire 500 mila a lire 2 milioni e, nei casi piu' gravi, con l'arresto da tre mesi ad un anno." sono sostituite dalle seguenti: "e' punito con un'ammenda da lire due milioni a lire dieci milioni e, nei casi piu' gravi, con l'arresto da sei mesi a due anni.".
+2. Nell'[articolo 12, comma 2, della legge 30 dicembre 1986, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-30;943~art12-com2), le parole: "e' punito con un'ammenda da lire 500 mila a lire 2 milioni e, nei casi piu' gravi, con l'arresto da tre mesi ad un anno." sono sostituite dalle seguenti: "e' punito con un'ammenda da lire due milioni a lire dieci milioni e, nei casi piu' gravi, con l'arresto da sei mesi a due anni.".
 
 CAPO IV Capo IV RICONGIUNGIMENTI E REGOLARIZZAZIONI
 ---------------------------------------------------
@@ -197,7 +189,7 @@ CAPO IV Capo IV RICONGIUNGIMENTI E REGOLARIZZAZIONI
 
 Regolarizzazione per ricongiungimenti familiari
 
-1. Entro sessanta giorni dalla data di entrata in vigore del presente decreto, gli stranieri presenti in Italia alla medesima data, in possesso di passaporto o altro documento equipollente o attestazione di identita' rilasciata dalla rappresentanza diplomatica o consolare in Italia del Paese di appartenenza, per i quali ricorrono le condizioni per il ricongiungimento familiare previste dall'articolo 11, possono richiedere un permesso di soggiorno presso le questure competenti per territorio.
+1. Entro il 31 marzo 1996, gli stranieri presenti in Italia alla data del 19 novembre 1995, in possesso di passaporto o altro documento equipollente o attestazione di identita' rilasciata dalla rappresentanza diplomatica o consolare in Italia del Paese di appartenenza, per i quali ricorrono le condizioni per il ricongiungimento familiare previste dall'articolo 11, possono richiedere un permesso di soggiorno presso le questure competenti per territorio.
 
 2. Agli stranieri di cui al comma 1, e' rilasciato il permesso di soggiorno per ricongiungimento familiare della durata di due anni, rinnovabile.
 
@@ -209,7 +201,7 @@ Regolarizzazione per ricongiungimenti familiari
 
 Ricongiungimenti
 
-1. Il cittadino di Paese non appartenente all'Unione europea, in possesso di un permesso di soggiorno di almeno due anni, che non sia residente in Italia con un prossimo congiunto, decorso un anno dal suo regolare ingresso nel territorio dello Stato, puo' richiedere alla questura territorialmente competente il ricongiungimento familiare per il coniuge e per i figli considerati minori dalla legge italiana. Il questore rilascia idoneo nullaosta, sulla base degli accertamenti relativi alla disponibilita' di un alloggio idoneo, effettuati dal sindaco del comune di residenza, o dimora, e accertata la disponibilita', da parte del richiedente, di un reddito netto mensile pari a due volte l'importo dell'assegno sociale calcolato su base mensile, per il ricongiungimento del solo coniuge e fino ad una coppia di figli, ed aumentando di una volta per ogni ulteriore coppia di figli.
+1. Il cittadino di Paese non appartenente all'Unione europea, in possesso di un permesso di soggiorno di almeno due anni, che non sia residente in Italia con un prossimo congiunto, decorso un anno dal suo regolare ingresso nel territorio dello Stato, puo' richiedere alla questura territorialmente competente il ricongiungimento familiare per il coniuge e per i figli considerati minori dalla legge italiana. Il questore rilascia idoneo nulla osta, sulla base degli accertamenti relativi alla disponibilita' di un alloggio idoneo, effettuati dal sindaco del comune di residenza, o dimora, e accertata la disponibilita', da parte del richiedente, di un reddito netto mensile pari a due volte l'importo dell'assegno sociale calcolato su base mensile, per il ricongiungimento del solo coniuge e fino ad una coppia di figli, ed aumentando di una volta per ogni ulteriore coppia di figli.
 
 2. Ai fini della determinazione del reddito minimo di cui al comma 1, si puo' tenere conto anche del reddito del coniuge derivante dalla stipula di un contratto di lavoro della durata di almeno due anni.
 
@@ -219,9 +211,9 @@ Ricongiungimenti
 
 Regolarizzazione per offerta di lavoro
 
-1. Entro centoventi giorni dalla data di entrata in vigore del presente decreto, gli stranieri presenti in Italia alla medesima data, in possesso di passaporto o altro documento equipollente, ivi compresa l'attestazione di identita' rilasciata dalla rappresentanza diplomatica o consolare in Italia del Paese di appartenenza, ai quali un datore di lavoro rilasci dichiarazione scritta della propria disponibilita' all'immediata assunzione regolare, a tempo indeterminato o a tempo determinato non inferiore a sei mesi, oppure a titolo di lavoro stagionale, ovvero che dichiarino di effettuare prestazioni di lavoro subordinato a carattere continuativo alle dipendenze di cittadini italiani regolarmente soggiornanti in Italia, possono richiedere alla questura territorialmente competente un permesso di soggiorno per motivi di lavoro.
+1. Entro il 31 marzo 1996, gli stranieri presenti in Italia alla data del 19 novembre 1995, in possesso di passaporto o altro documento equipollente, ivi compresa l'attestazione di identita' rilasciata dalla rappresentanza diplomatica o consolare in Italia del Paese di appartenenza, ai quali un datore di lavoro rilasci dichiarazione scritta della propria disponibilita' all'immediata assunzione regolare, a tempo indeterminato o a tempo determinato non inferiore a sei mesi, oppure a titolo di lavoro stagionale, ovvero che dichiarino di effettuare prestazioni di lavoro subordinato a carattere continuativo alle dipendenze di cittadini italiani regolarmente soggiornanti in Italia, possono richiedere alla questura territorialmente competente un permesso di soggiorno per motivi di lavoro.
 
-2. Gli stranieri che dichiarano rapporti di lavoro subordinato in atto alla data di entrata in vigore del presente decreto, a condizione che il rapporto, alle dipendenze dello stesso datore di lavoro, abbia avuto durata non inferiore a 4 mesi nel corso dei 12 mesi precedenti, possono richiedere alla questura territorialmente competente un permesso di soggiorno per l'iscrizione al collocamento.
+2. Gli stranieri che dichiarano rapporti di lavoro subordinato in atto alla data del 19 novembre 1995, a condizione che il rapporto, alle dipendenze dello stesso datore di lavoro, abbia avuto durata non inferiore a 4 mesi nel corso dei 12 mesi precedenti, possono richiedere alla questura territorialmente competente un permesso di soggiorno per l'iscrizione al collocamento.
 
 3. Dell'avvenuta presentazione delle richieste di cui ai commi 1 e 2, gli uffici delle questure rilasciano all'interessato apposita ricevuta.
 
@@ -249,11 +241,11 @@ b) la somma corrispondente a quattro mesi di contributi a titolo di anticipo nel
 
 9. Gli stranieri che ottengono la regolarizzazione ai sensi del presente articolo, non sono punibili per le violazioni pregresse delle norme vigenti in materia di ingresso e soggiorno degli stranieri e sono privi di effetti i provvedimenti amministrativi assunti a loro carico in seguito a tali violazioni.
 
-10. I datori di lavoro che provvedono alla regolarizzazione, secondo le disposizioni del presente articolo, dei rapporti di lavoro irregolari pregressi, non sono punibili per le violazioni delle norme di soggiorno e di lavoro compiute in relazione all'occupazione di lavoratori stranieri. I datori di lavoro che, entro centoventi giorni dalla data di entrata in vigore della presente disposizione, regolarizzino i rapporti di lavoro di cui alla presente norma possono sanare anche la loro posizione debitoria nei confronti degli enti previdenziali e assistenziali, attraverso il versamento entro la predetta data di quanto dovuto a titolo di contributi e premi maggiorati del 5% annuo.
+10. I datori di lavoro che provvedono alla regolarizzazione, secondo le disposizioni del presente articolo, dei rapporti di lavoro irregolari pregressi, non sono punibili per le violazioni delle norme di soggiorno e di lavoro compiute in relazione all'occupazione di lavoratori stranieri. I datori di lavoro che, entro centoventi giorni dalla data di entrata in vigore del presente decreto, regolarizzino i rapporti di lavoro di cui alla presente norma possono sanare anche la loro posizione debitoria nei confronti degli enti previdenziali e assistenziali, attraverso il versamento entro la predetta data di quanto dovuto a titolo di contributi e premi maggiorati del 5 per cento annuo.
 
 11. La regolarizzazione estingue i reati previsti da leggi speciali in materia di versamento di contributi e di premi e le obbligazioni per sanzioni amministrative e per ogni altro onere accessorio, connessi con le violazioni delle norme sul collocamento, nonche' con la denuncia e con il versamento dei contributi o dei premi medesimi, ivi compresi quelli di cui all'articolo 51 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-30;1124).
 
-12. Il termine per la regolarizzazione di cui all'[articolo 3, comma 13, della legge 8 agosto 1995, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335~art3-com13), e' prorogato di centoventi giorni dalla data di entrata in vigore del presente decreto.
+12. Il termine per la regolarizzazione di cui all'[articolo 3, comma 13, della legge 8 agosto 1995, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335~art3-com13), e' prorogato fino al 31 marzo 1996.
 
 13. Non e' soggetto a sanzioni penali o amministrative chiunque abbia violato disposizioni in materia di ospitalita' ai cittadini stranieri se, entro novanta giorni dalla data di entrata in vigore del presente decreto, adempie agli obblighi delle disposizioni medesime.
 
@@ -281,7 +273,7 @@ Norme di coordinamento e abrogazioni
 
 Copertura finanziaria
 
-1. All'onere derivante dall'applicazione del presente decreto, valutato in lire 450 milioni per l'anno 1995, in lire 31.000 milioni per l'anno 1996 ed in lire 60.000 milioni a decorrere dall'anno 1997, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.
+1. All'onere derivante dall'applicazione del presente decreto, valutato in lire 450 milioni per l'anno 1995, in lire 31.000 milioni per l'anno 1996 ed in lire 60.000 milioni a decorrere dall'anno 1997, si provvede, per l'anno 1995, a carico dello stanziamento iscritto al capitolo 2632 dello stato di previsione del Ministero dell'interno per il medesimo anno e, per gli anni 1996, 1997, e 1998, mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -289,23 +281,23 @@ Copertura finanziaria
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 novembre 1995
+### Dato a Roma, addi' 19 marzo 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei
-
-Ministri e Ministro del tesoro e,
-
-ad interim, Ministro di grazia e giustizia
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 CORONAS, Ministro dell'interno
 
-MASERA, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
+CAIANIELLO, Ministro di grazia e giustizia
 
-Visto, il Guardasigilli: DINI
+TREU, Ministro del lavoro e della previdenza sociale
+
+GUZZANTI, Ministro della sanita'
+
+Visto, il Guardasigilli: CAIANIELLO

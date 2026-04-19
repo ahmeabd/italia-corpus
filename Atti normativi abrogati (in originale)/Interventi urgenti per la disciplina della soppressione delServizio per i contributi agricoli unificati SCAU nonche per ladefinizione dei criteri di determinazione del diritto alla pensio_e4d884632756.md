@@ -1,16 +1,16 @@
-DECRETO-LEGGE 26 aprile 1996 n. 219
+DECRETO-LEGGE 29 giugno 1996 n. 339
 
 
-DECRETO-LEGGE 26 aprile 1996 n. 219
+DECRETO-LEGGE 29 giugno 1996 n. 339
 ===================================
 
 Interventi urgenti per la disciplina della soppressione del 
 Servizio per i contributi agricoli unificati (SCAU), nonche' per la 
 definizione dei criteri di determinazione del diritto alla pensione 
-di anzianita' degli operai agricoli dipendenti.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+di anzianita' degli operai agricoli dipendenti
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 1/7/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -19,9 +19,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per disciplinare gli effetti derivanti dalla soppressione del Servizio per i contributi agricoli unificati (SCAU), nonche' per definire criteri di determinazione del diritto alla pensione di anzianita' degli operai agricoli dipendenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 giugno 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro del lavoro e della previdenza sociale;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale;
 
 E M A N A il seguente decreto-legge:
 
@@ -81,12 +81,12 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1996
+### Dato a Roma, addi' 29 giugno 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+PRODI, Presidente del Consiglio dei Ministri
 
 TREU, Ministro del lavoro e della previdenza sociale
 
-Visto, il Guardasigilli: CAIANIELLO
+Visto, il Guardasigilli: FLICK

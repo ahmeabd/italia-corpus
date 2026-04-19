@@ -1,14 +1,14 @@
-DECRETO-LEGGE 25 novembre 1995 n. 498
+DECRETO-LEGGE 26 maggio 1995 n. 193
 
 
-DECRETO-LEGGE 25 novembre 1995 n. 498
-=====================================
+DECRETO-LEGGE 26 maggio 1995 n. 193
+===================================
 
 Misure urgenti per il rilancio economico ed occupazionale dei 
 lavori pubblici e dell'edilizia privata.
 -------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26/11/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 28-5-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,18 +17,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni al fine di rilanciare le attivita' economiche e favorire la ripresa delle attivita' imprenditoriali, nonche' per la semplificazione dei procedimenti in materia urbanistico-edilizia;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 novembre 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 maggio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri della difesa, delle finanze, per i beni culturali e ambientali e per la famiglia e la solidarieta' sociale;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con il Ministro per la famiglia e la solidarieta' sociale;
 
-E M A N A
-
-il seguente decreto-legge:
-
-Capo
-----
-
-I REGOLARIZZAZIONE DI VIOLAZIONI EDILIZIE
+E M A N A il seguente decreto-legge:
 
 CAPO I Capo I REGOLARIZZAZIONE DI VIOLAZIONI EDILIZIE
 -----------------------------------------------------
@@ -83,7 +76,7 @@ Commissari ad acta
 Norme in materia di pianificazione urbanistica
 
 1. All'[articolo 39, comma 1, della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art39-com1), e' aggiunta, in fine, la seguente lettera:  
-" c-bis) nelle ipotesi in cui gli enti territoriali siano sprovvisti dei relativi strumenti urbanistici generali vigenti e non adottino tali strumenti entro diciotto mesi dalla data di elezione degli organi. In questo caso, il decreto di scioglimento del consiglio e' adottato di concerto con il Ministro dei lavori pubblici, previa deliberazione del Consiglio dei Ministri. Le disposizioni di cui alla presente lettera si applicano anche nei confronti degli organi delle comunita' montane e delle aree metropolitane tenuti all'adozione di strumenti urbanistici.".
+"c-bis) nelle ipotesi in cui gli enti territoriali siano sprovvisti dei relativi strumenti urbanistici generali vigenti e non adottino tali strumenti entro diciotto mesi dalla data di elezione degli organi. In questo caso, il decreto di scioglimento del consiglio e' adottato di concerto con il Ministro dei lavori pubblici, previa deliberazione del Consiglio dei Ministri. Le disposizioni di cui alla presente lettera si applicano anche nei confronti degli organi delle comunita' montane e delle aree metropolitane tenuti all'adozione di strumenti urbanistici.".
 
 2. All'[articolo 39 della legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142~art39), dopo il comma 2 e' aggiunto il seguente:  
 "2-bis. Nell'ipotesi di cui alla lettera c-bis) del comma 1, trascorso il termine entro il quale gli strumenti urbanistici devono essere adottati, l'organo regionale di controllo assegna agli enti che non abbiano provveduto un ulteriore termine di sei mesi, alla scadenza del quale, con lettera notificata ai singoli consiglieri, diffida il consiglio ad adempiere nei successivi sessanta giorni.  
@@ -158,11 +151,10 @@ Decorso tale termine, qualora non siano notificati i provvedimenti definitivi di
 8. All'articolo 18 e' aggiunto, in fine, il seguente comma:  
 "Gli atti di cui al secondo comma del presente articolo, ai quali non sono stati allegati i certificati di destinazione urbanistica, possono essere confermati anche da una sola delle parti, o dai loro aventi causa, mediante atto redatto nella stessa forma del precedente, al quale sia allegato un certificato contenente prescrizioni urbanistiche riguardanti le aree attinenti al giorno in cui e' stato stipulato l'atto da confermare.".
 
-9. All'articolo 22, comma primo, sono aggiunte, in fine, le seguenti parole: ", nonche' i ricorsi giurisdizionali, di cui al secondo comma".
+9. All'articolo 22, comma primo, sono aggiunte, in fine, le seguenti parole: ", nonche' i ricorsi giurisdizionali, di cui al secondo comma.".
 
 10. All'articolo 23, dopo il comma secondo e' inserito il seguente: "Il Ministero delle finanze - Dipartimento del territorio ed i  
-comuni, anche consorziati, mettono a reciproca disposizione i rilievi aerofotogrammetrici da loro eseguiti.  
-I suddetti rilievi sono eseguiti in conformita' ai criteri ed alle specifiche previste dall'[articolo 9, comma 2, del decreto-legge 30 dicembre 1993, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557~art9-com2), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-26;133).".
+comuni, anche consorziati, mettono a reciproca disposizione i rilievi aerofotogrammetrici da loro eseguiti. I suddetti rilievi sono eseguiti in conformita' ai criteri ed alle specifiche previste dall'[articolo 9, comma 2, del decreto-legge 30 dicembre 1993, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557~art9-com2), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-26;133).".
 
 11. All'articolo 31 e' aggiunto, in fine, il seguente comma:  
 "Alle aree di pertinenza dell'immobile sanato si applica la medesima disciplina sulla sanatoria del bene principale.".
@@ -174,12 +166,10 @@ I suddetti rilievi sono eseguiti in conformita' ai criteri ed alle specifiche pr
 
 14. Fatto salvo quanto previsto dall'articolo 9, terzo comma, ultimo periodo, della [legge 28 febbraio 1985, n. 47, il comma 2 dell'articolo 1-sexies](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47~art1sexies-com2) del [decreto-legge 27 giugno 1985, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), e le sanzioni amministrative di cui all'[articolo 15, primo comma, della legge 29 giugno 1939, n. 1497](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;1497~art15-com1), non si applicano nei casi di sanatoria previsti dal presente decreto.
 
-15. Gli atti di cui all'[articolo 1-bis, comma 2, del decreto-legge 27 giugno 1985, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312~art1bis-com2), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), sono adottati con decreto del Ministro per i beni culturali e ambientali, sentito il Consiglio nazionale per i beni culturali e ambientali.
-
 ### Art. 8
 
-Semplificazione dei procedimenti in materia  
-urbanistico-edilizia
+Semplificazione dei procedimenti  
+in materia urbanistico-edilizia
 
 1. L'[articolo 13 della legge 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10~art13), e' sospeso fino al 15 marzo 1996.
 
@@ -194,7 +184,7 @@ urbanistico-edilizia
 4. La concessione edilizia e' rilasciata entro quindici giorni dalla scadenza del termine di cui al comma 2, qualora il progetto presentato non sia in contrasto con le prescrizioni degli strumenti urbanistici ed edilizi e con le altre norme che regolano lo svolgimento dell'attivita' edilizia.  
 5. Decorso inutilmente il termine per l'emanazione del provvedimento conclusivo, l'interessato puo', con atto notificato o trasmesso in plico raccomandato con avviso di ricevimento, richiedere all'autorita' competente di adempiere entro quindici giorni dal ricevimento della richiesta.  
 6. Decorso inutilmente anche il termine di cui al comma 5, l'interessato puo' inoltrare istanza al presidente della giunta regionale competente il quale, nell'esercizio di poteri sostitutivi, nomina entro i quindici giorni successivi un commissario ad acta che, nel termine di trenta giorni, adotta il provvedimento che ha i medesimi effetti della concessione edilizia. Il commissario ad acta non puo' richiedere il parere della commissione edilizia. Gli oneri finanziari relativi all'attivita' del commissario di cui al presente comma sono a carico del comune interessato.  
-7. I seguenti interventi se non in contrasto con gli strumenti urbanistici adottati o approvati e con i regolamenti edilizi vigenti, e ferma restando la necessita' delle autorizzazioni previste dalle [leggi 1 giugno 1939, n. 1089, 29 giugno 1939, n. 1497](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;1497), dal [decreto-legge 27 giugno 1985, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), e dalla [legge 6 dicembre 1991, n. 394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394), sono subordinati alla denuncia di inizio dell'attivita' ai sensi e per gli effetti dell'[articolo 19 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art19), come modificato dall'[articolo 2, comma 10, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art2-com10):  
+7. I seguenti interventi se non in contrasto con gli strumenti urbanistici adottati o approvati e con i regolamenti edilizi vigenti, e ferma restanto la necessita' delle autorizzazioni previste dalle [leggi 1 giugno 1939, n. 1089, 29 giugno 1939, n. 1497](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-29;1497), dal [decreto-legge 27 giugno 1985, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-06-27;312), convertito, con modificazioni, dalla [legge 8 agosto 1985, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431), e dalla [legge 6 dicembre 1991, n. 394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394), sono subordinati alla denuncia di inizio dell'attivita' ai sensi e per gli effetti dell'[articolo 19 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art19), come modificato dall'[articolo 2, comma 10, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art2-com10):  
 a) opere di manutenzione straordinaria, restauro e risanamento conservativo;  
 b) opere di demolizione, reinterri e scavi, che non riguardino la coltivazione di cave e torbiere;  
 c) occupazioni di suolo mediante deposito di materiali ed esposizioni di merci a cielo libero;  
@@ -211,7 +201,7 @@ m) parcheggi nel sottosuolo dei fabbricati.
 10. Agli effetti del comma 9 il progettista assume la qualita' di persona incaricata di un pubblico servizio ai sensi della legge penale. In caso di dichiarazioni non veritiere nella relazione di cui al comma 9 l'amministrazione ne da' comunicazione al competente ordine professionale per l'irrogazione delle sanzioni disciplinari.  
 11. L'esecuzione di opere in assenza della o in difformita' dalla denuncia di cui al comma 9 o in difformita' dagli strumenti urbanistici adottati o approvati e dai regolamenti edilizi vigenti, nonche' dalla restante normativa sullo svolgimento dell'attivita' edilizia, comporta la sanzione pecuniaria pari al doppio dell'aumento del valore venale dell'immobile conseguente alla realizzazione delle opere stesse e comunque in misura non inferiore a lire un milione. In caso di denuncia di inizio di attivita' effettuata quando le opere sono gia' in corso di esecuzione la sanzione si applica nella misura minima. La mancata denuncia di inizio dell'attivita' non comporta l'applicazione delle sanzioni previste dall'[articolo 20 della legge 28 febbraio 1985, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47~art20).  
 12. L'ultimo comma dell'[articolo 25 della legge 28 febbraio 1985, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47~art25), e' sostituito dal seguente:  
-"Le regioni, entro centottanta giorni dalla data di entrata in vigore della legge di conversione del [decreto-legge 25 novembre 1995, n. 498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-11-25;498), con proprie leggi dettano norme relative al mutamento della destinazione d'uso degli immobili.".  
+'Le regioni, entro centottanta giorni dalla data di entrata in vigore della legge di conversione del [decreto-legge 26 maggio 1995, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-26;193), con proprie leggi dettano norme relative al mutamento della destinazione d'uso degli immobili.'.  
 13. Non sono soggette a concessione edilizia ne' a denuncia di inizio dell'attivita' le opere pubbliche comunali. I relativi progetti dovranno peraltro essere corredati da una relazione a firma di un progettista abilitato che attesti la conformita' del progetto alle prescrizioni urbanistiche ed edilizie, nonche' l'esistenza dei nulla-osta di conformita' alle norme di sicurezza sanitarie, ambientali e paesistiche.  
 14. Le norme di cui al presente articolo prevalgono sulle disposizioni degli strumenti urbanistici generali e dei regolamenti edilizi comunali in materia di procedimento.  
 15. Le regioni e le province autonome di Trento e di Bolzano adeguano le proprie normazioni ai principi contenuti nel presente articolo in tema di procedimento.  
@@ -219,19 +209,34 @@ m) parcheggi nel sottosuolo dei fabbricati.
 
 ### Art. 9
 
-Norme edilizie per le comunita' terapeutiche  
-e gli enti morali
+Misure urgenti per il funzionamento dell'ANAS
 
-1. All'articolo 128 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), sono aggiunti i seguenti commi:  
+1. L'Ente nazionale per le strade, ente pubblico economico istituito con [decreto legislativo 26 febbraio 1994, n. 143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143), mantiene la denominazione di ANAS.
+
+2. Sino al termine di cui all'[articolo 11, comma 8, del decreto legislativo 26 febbraio 1994, n. 143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143~art11-com8), l'ANAS ha facolta' di assumere, attraverso pubblica selezione con procedura abbreviata fino a venticinque unita' con qualifica di dirigente tecnico, fino a quindici unita' con qualifica di dirigente amministrativo, fino a venti unita' con qualifica di funzionario tecnico e fino a dieci unita' con qualifica di funzionario amministrativo. Ai fini della copertura finanziaria delle assunzioni di cui al presente comma, con decreto del Ministro del tesoro, possono essere apportate variazioni compensative nel bilancio dell'ANAS.
+
+3. L'amministratore straordinario dell'ANAS adotta un bilancio di previsione per l'esercizio 1995, che sara' sottoposto all'approvazione del consiglio di amministrazione al momento della sua istituzione nella prima seduta utile successiva alla sua costituzione. Gli importi iscritti sugli appositi capitoli dello stato di previsione della spesa del Ministero dei lavori pubblici per l'anno finanziario 1995, a titolo di trasferimenti a favore dell'Ente nazionale per le strade in relazione all'[articolo 3, comma 1, del decreto legislativo 26 febbraio 1994, n. 143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-02-26;143~art3-com1), ed alle altre leggi speciali, continuano ad essere erogati all'ANAS cui vengono attribuiti altresi' i residui passivi accertati al 31 dicembre 1994 nel bilancio dell'Azienda nazionale autonoma delle strade.
+
+4. Le somme a disposizione dell'ANAS, iscritte in capitoli di bilancio o in contabilita' speciali e destinate a servizi e finalita' di istituto, nonche' al pagamento di emolumenti e pensioni a qualsiasi titolo dovuti al personale amministrato, non possono essere sottratte alla loro destinazione se non nei modi stabiliti dalle leggi che le riguardano, ai sensi dell'[articolo 828 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art828). Gli atti di sequestro o di pignoramento eventualmente eseguiti sono nulli ed inefficaci di pieno diritto e non determinano obbligo di accantonamento da parte del terzo ne' sospendono l'accreditamento delle somme nelle contabilita' intestate all'ANAS.
+
+5. Il pignoramento ed i sequestri delle somme dell'ANAS sono eseguiti esclusivamente sul conto corrente infruttifero di tesoreria presso la Tesoreria centrale dello Stato.
+
+6. Rimangono salve le disposizioni del testo unico delle leggi concernenti il sequestro, il pignoramento e le cessioni degli stipendi, salari e pensioni dei dipendenti delle pubbliche amministrazioni, approvato con [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-05;180).
+
+7. Le competenze relative alle funzioni amministrative concernenti l'affidamento in concessione per la realizzazione di infrastrutture autostradali sono attribuite all'Ispettorato generale per la circolazione e la sicurezza stradale, che assume la denominazione di "Direzione generale della viabilita' e mobilita' urbana ed extraurbana". A tale direzione generale, costituita da sessanta unita', ivi comprese tre unita' di livello dirigenziale, e' preposto un dirigente generale. Il quadro A della tabella allegata al [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-30;748), e' incrementato di un posto nella qualifica di dirigente generale e di un posto nella qualifica di dirigente amministrativo; il quadro B della stessa tabella e' incrementato di due posti nella qualifica di dirigente tecnico. Con successivo regolamento sono disciplinati l'organizzazione ed il funzionamento della suddetta direzione generale. La dotazione organica per la nuova direzione generale e' individuata nell'ambito della dotazione complessiva del Ministero dei lavori pubblici quale risultera' dalla rideterminazione a seguito delle verifiche sui carichi di lavoro ai sensi dell'[articolo 3 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3). Alle relative esigenze di personale si provvede mediante procedure di mobilita' interna ed esterna.
+
+### Art. 10
+
+Norme edilizie per le comunita' terapeutiche
+
+1. All'articolo 128 del testo unico delle leggi in materia di disciplina degli stupefacenti o sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con [decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309), sono aggiunti i seguenti commi:  
 "4-bis. La costruzione, l'ampliamento o il recupero di immobili destinati a sedi di comunita' terapeutiche di cui al comma 1, nonche' ogni altro intervento edificativo delle suddette comunita', necessario per il reinserimento socio sanitario e socio lavorativo, sono equiparati ai soli fini della deroga alle prescrizioni dei piani urbanistici, alle opere dichiarate indifferibili ed urgenti ai sensi delle leggi sulle opere pubbliche. Ai suddetti interventi si applicano le disposizioni di cui all'[articolo 9 della legge 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10~art9). Le norme del presente comma si applicano anche alle opere gia' realizzate, per le quali sia gia' stata presentata una richiesta di concessione o di autorizzazione in sanatoria.  
 4-ter. L'applicabilita' delle norme di cui al comma 4-bis e' subordinata alla sussistenza delle seguenti condizioni:  
 a) che il vincolo di destinazione d'uso di ogni singolo intervento edificativo per attivita' connesse alle finalita' della comunita' terapeutica sia almeno cinquantennale. Durante detto periodo il vincolo e' immodificabile anche in deroga alle disposizioni vigenti;  
 b) che lo statuto della comunita' terapeutica che attua l'intervento preveda espressamente la totale assenza di finalita' di lucro e l'attivita' della stessa sia sviluppata con modalita' residenziali.  
 4-quater. Qualora la comunita' terapeutica che attui l'intervento edificativo abbia o intenda realizzare immobili per una capacita' ricettiva superiore alle duecento unita', questa deve procedere a pena di decadenza dai benefici previsti dal comma 4-bis, in proprio alla realizzazione delle opere di urbanizzazione primarie, ivi comprese quelle necessarie per il trattamento delle acque reflue provenienti dai propri insediamenti residenziali.".
 
-2. Lo scorporo delle aliquote previsto dall'articolo 39, comma 9, terzo periodo, della [legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724), si estende, per le istituzioni legalmente riconosciute aventi come scopo il recupero dei minori, anche alle opere di urbanizzazione secondaria.
-
-### Art. 10
+### Art. 11
 
 Entrata in vigore
 
@@ -240,7 +245,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 novembre 1995
+### Dato a Roma, addi' 26 maggio 1995
 
 SCALFARO
 
@@ -248,12 +253,6 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
-CORCIONE, Ministro della difesa
-
-FANTOZZI, Ministro delle finanze
-
-PAOLUCCI, Ministro per i beni culturali e ambientali
-
 OSSICINI, Ministro per la famiglia e la solidarieta' sociale
 
-Visto, il Guardasigilli: DINI
+Visto, il Guardasigilli: MANCUSO

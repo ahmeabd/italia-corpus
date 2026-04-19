@@ -1,8 +1,8 @@
-DECRETO-LEGGE 19 settembre 1987 n. 381
+DECRETO-LEGGE 18 maggio 1987 n. 196
 
 
-DECRETO-LEGGE 19 settembre 1987 n. 381
-======================================
+DECRETO-LEGGE 18 maggio 1987 n. 196
+===================================
 
 Misure urgenti per la disciplina e la decongestione del traffico 
 urbano e per la sicurezza stradale.
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di provvedere immediatamente alle modifiche di talune disposizioni del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393), per un maggior controllo dell'andamento della circolazione stradale urbana congestionata dal traffico ed extraurbana, ai fini della sicurezza stradale, della tutela della pubblica salute e della conservazione dell'ambiente;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 settembre 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 maggio 1987;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei lavori pubblici, di concerto con i Ministri dell'interno, dei trasporti e dell'ambiente;
 
@@ -29,13 +29,13 @@ il seguente decreto:
 Art. 1
 ------
 
-1. Le sanzioni amministrative pecuniarie per violazione delle norme di cui all'articolo 4, escluse quelle concernenti la sosta ed il parcheggio, all'articolo 16, all'articolo 17 ed all'articolo 115 del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393), e successive modificazioni, sono triplicate se applicate a conducente di veicolo a motore ed aumentate del cinquanta per cento negli altri casi. Per le violazioni alle disposizioni del succitato articolo 4, concernenti la sosta e il parcheggio, se commesse da conducente di veicolo a motore, le sanzioni sono raddoppiate.
+1. Le sanzioni amministrative pecuniarie per violazione alle norme di cui all'articolo 4, escluse quelle concernenti la sosta ed il parcheggio, all'articolo 16, all'articolo 17 ed all'articolo 115 del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393), e successive modificazioni, sono triplicate se applicate a conducente di veicolo a motore ed aumentate del cinquanta per cento negli altri casi. Per le violazioni alle disposizioni del succitato articolo 4, concernenti la sosta e il parcheggio, se commesse da conducente di veicolo a motore, le sanzioni sono raddoppiate.
 
 2. Nelle zone delimitate ai sensi dell'articolo 2, le sanzioni, quali risultanti dall'applicazione del comma 1, sono aumentate, con delibera del consiglio comunale immediatamente esecutiva, fino al doppio per le violazioni alla disciplina della sosta, del parcheggio e dell'uso delle corsie riservate a determinati veicoli e fino al triplo per violazione alla disciplina dell'accesso regolamentato. Con apposita delibera le amministrazioni comunali possono esonerare dall'aumento le sanzioni applicate ai conducenti dei veicoli non a motore ed ai pedoni.
 
 3. Il [comma quarto dell'articolo 11 della legge 14 febbraio 1974, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-02-14;62~art11-com4), e' abrogato.
 
-4. Il comma primo dell'articolo 138 del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393), e successive modificazioni, e' sostituito dal seguente:  
+4. Il comma primo dell'articolo 138 del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-06-15;393), e' successive modificazioni, e' sostituito dal seguente:  
 "Per le violazioni alle presenti norme per le quali e' stabilita la sola sanzione amministrativa pecuniaria il trasgressore e' ammesso a pagare immediatamente a chi accerta l'infrazione una somma pari ad un quarto del massimo stabilito".
 
 Art. 2
@@ -80,39 +80,61 @@ Art. 5
 4. Nelle aree aeroportuali e' sempre ammessa la rimozione forzata dei veicoli in sosta irregolare, fermo l'obbligo per la direzione della circoscrizione di comunicare agli organi di pubblica sicurezza gli estremi di ogni operazione effettuata.
 
 5. Alla [legge 7 aprile 1976, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-07;125), come modificata dalla [legge 26 luglio 1984, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-26;415), e' aggiunto il seguente articolo:  
-"Art. 3-bis. - 1. La rimozione, il trasporto e la custodia dei veicoli sono svolti dalla societa' o ente di gestione aeroportuale per gli aeroporti affidati in concessione e a cura della circoscrizione aeroportuale competente per gli aeroporti gestiti dallo Stato. Il veicolo rimosso e' trasportato in aree all'uopo destinate e sara' restituito al legittimo proprietario previo pagamento delle relative sanzioni e di quanto dovuto a titolo di trasporto e custodia.  
+"Art. 3-bis. - 1. La rimozione, il trasporto e la custodia dei veicoli e' svolta dalla societa' o ente di gestione aeroportuale per gli aeroporti affidati in concessione e a cura della circoscrizione aeroportuale competente per gli aeroporti gestiti dallo Stato. Il veicolo rimosso e' trasportato in aree all'uopo destinate e sara' restituito al legittimo proprietario previo pagamento delle relative sanzioni e di quanto dovuto a titolo di trasporto e custodia.  
 2. Le spese per il trasporto e custodia saranno determinate dalla direzione circoscrizionale dell'aeroporto in relazione ai relativi costi ed alle tariffe applicate nel comune o nei comuni nel cui ambito territoriale l'aeroporto ricade.  
 3. Qualora il veicolo non venga ritirato dal legittimo proprietario entro centottanta giorni dalla data di notifica dall'avvenuta rimozione, la direzione di circoscrizione aeroportuale o i predetti enti o societa' di gestione sono autorizzati a procedere alla vendita, per asta pubblica, del veicolo".
 
 Art. 6
 ------
 
-1. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 14 marzo 1987, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-14;85), fino alla data dell'8 maggio 1987, e dei [decreti-legge 18 maggio 1987, n. 196, e 20 luglio 1987, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-07-20;285).
+1. I comuni, sulla base di una preventiva valutazione del fabbisogno, formulano il programma urbano dei parcheggi. Tale programma deve tra l'altro contenere le priorita' di intervento privilegiando le realizzazioni piu' a breve termine, meno onerose, adiacenti alle fermate dei sistemi di trasporto collettivo a grande capacita' e altresi' contenere le disposizioni necessarie per la restrizione della circolazione dei veicoli urbani ai fini dell'equilibrio fra domanda e offerta di sosta e parcheggio. Il programma e' corredato dalle previsioni economiche e finanziarie.  
+L'amministrazione comunale e' tenuta a trasmettere copia del programma alla regione.
+
+2. L'approvazione da parte delle amministrazioni comunali del programma di cui al comma 1, corredato dagli elaborati grafici di supporto, equivale a variante allo strumento urbanistico generale; il programma e' sottoposto al solo controllo di legittimita' ai sensi delle vigenti disposizioni. L'approvazione della variante equivale a dichiarazione di pubblica utilita' e di urgente indifferibilita' delle opere previste.
+
+3. Il Ministro dei lavori pubblici e' autorizzato a determinare con proprio decreto, da emanare entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, norme intese a:
+
+a) stabilire i contenuti del programma urbano dei parcheggi con particolare riferimento alle diverse tipologie;
+
+b) determinare i criteri di valutazione per il calcolo dei fabbisogni di parcheggi;
+
+c) aggiornare gli standards urbanistici relativamente alle quantita' minime da destinare a spazi per parcheggi di cui all'[articolo 18 della legge 6 agosto 1967, n. 765](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-06;765~art18), ed agli [articoli 3](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97), [4](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97), [5](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97) e [6 del decreto ministeriale 2 aprile 1968, pubblicato nella Gazzetta Ufficiale n. 97 del 16 aprile 1968](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97);
+
+d) definire l'elenco dei comuni obbligati alla redazione del programma urbano dei parcheggi, da realizzarsi coi proventi di cui all'articolo 4.
+
+4. Le pertinenze di cui al [comma quarto dell'articolo 26 della legge 28 febbraio 1985, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47~art26-com4), devono essere adibite all'uso previsto dall'[articolo 18 della legge 6 agosto 1967, n. 765](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-06;765~art18). Chiunque contravviene a tale obbligo e' punito con la stessa sanzione prevista per l'abusivo mutamento della destinazione d'uso di immobile.
+
+5. Le aree private inedificate, non attribuite a pertinenza di alloggio, che risultano vincolate inedificabili al servizio dell'edificio, con atto trascritto nei registri immobiliari al fine del rilascio del titolo edilizio, sono sempre di godimento collettivo dei residenti, ivi compreso il parcheggio dei loro veicoli. La disposizione si applica secondo le norme sul condominio degli edifici ed anche per quelle aree originariamente destinate al distacco ed al rispetto.
 
 Art. 7
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Restano validi gli atti, i pagamenti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 14 marzo 1987, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-03-14;85), fino alla data dell'8 maggio 1987.
+
+Art. 8
+------
+
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 settembre 1987
+### Dato a Roma, addi' 18 maggio 1987
 
 COSSIGA
 
-GORIA, Presidente del Consiglio dei Ministri
+FANFANI, Presidente del Consiglio dei Ministri
 
-DE ROSE, Ministro dei lavori pubblici
+ZAMBERLETTI, Ministro dei lavori pubblici
 
-FANFANI, Ministro dell'interno
+SCALFARO, Ministro dell'interno
 
-MANNINO, Ministro dei trasporti
+TRAVAGLINI, Ministro dei trasporti
 
-RUFFOLO, Ministro dell'ambiente
+PAVAN, Ministro dell'ambiente
 
-Visto, il Guardasigilli: VASSALLI
+Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 19 settembre 1987
+Registrato alla Corte dei conti, addi' 20 maggio 1987
 
-Atti di Governo, registro n. 69, foglio n. 25
+Atti di Governo, registro n. 65, foglio n. 24

@@ -1,207 +1,206 @@
-DECRETO-LEGGE 29 aprile 1987 n. 166
+DECRETO-LEGGE 06 maggio 1994 n. 273
 
 
-DECRETO-LEGGE 29 aprile 1987 n. 166
+DECRETO-LEGGE 06 maggio 1994 n. 273
 ===================================
 
-Disposizioni urgenti in materia sanitaria.
-------------------------------------------
+Disposizioni urgenti in materia sanitaria
+-----------------------------------------
 
-Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 9-05-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di adottare disposizioni in materia sanitaria;
+Ritenuta la straordinaria necessita' ed urgenza di emanare norme di modifica ed adattamento della disciplina di alcuni settori della materia sanitaria alle riforme legislative di carattere generale intervenute recentemente anche a seguito dell'approvazione della legge finanziaria 1994 e del provvedimento collegato alla medesima;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 aprile 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 maggio 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
-
-EMANA
+Sulla
 -----
 
-il seguente decreto:
+proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con il Ministro del tesoro; E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. A decorrere dal 1 gennaio 1987 e' soppressa la partecipazione alla spesa da parte degli assistiti sulle prestazioni di diagnostica strumentale e di laboratorio disposta dall'[articolo 12 della legge 26 aprile 1982, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181~art12).
+1. Il Ministro della sanita' e' autorizzato a corrispondere agli aventi diritto le somme occorrenti per assicurare il funzionamento dell'asilo nido del Ministero della sanita'.
 
-2. E, altresi', abrogato il [comma 3 dell'articolo 28 della legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41~art28-com3), per la parte in cui fissa la partecipazione alla spesa da parte degli assistiti sulle prestazioni specialistiche di cui al [decreto-legge 25 gennaio 1982, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-25;16), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-03-25;98), nella misura del 25 per cento delle tariffe stabilite per convenzioni stipulate a sensi della [legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833).
+2. All'onere derivante dal comma 1, valutato in lire 722.000.000 per l'anno 1994, comprensivo di debiti pregressi ammontanti rispettivamente a lire 128.321.737 per l'anno 1990, a lire 150.915.779 per l'anno 1991, a lire 148.112.516 per l'anno 1992, a lire 143.840.516 per l'anno 1993, nonche' valutato in lire 150.000.000 a decorrere dal 1995, si provvede mediante corrispondente riduzione degli stanziamenti iscritti al capitolo 1104 dello stato di previsione del Ministero della sanita' per l'anno 1994 e corrispondenti capitoli per gli esercizi successivi.
 
-3. Ai fini della prevenzione e della cura di forme morbose di particolare rilevanza sociale o di peculiare interesse per la tutela della salute pubblica, il Ministro della sanita', sentito il Consiglio superiore di sanita', stabilisce, con proprio decreto, da emanarsi in sede di prima attuazione, entro novanta giorni dalla data di entrata in vigore del presente decreto, norme per la individuazione dei soggetti esentati dal pagamento delle quote di partecipazione alla spesa sulle prestazioni previste dalla vigente legislazione.
+3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 2
 ------
 
-1. L'impiego dei ricettari per la prescrizione o la proposta di prestazioni erogabili dal Servizio sanitario nazionale e' riservato ai medici dipendenti dal servizio medesimo o con lo stesso convenzionati nell'ambito dei rispettivi compiti istituzionali.
-
-2. La prescrizione o la proposta di prestazioni erogabili dalle strutture a gestione diretta o convenzionate ed il certificato e l'attestazione di cui all'[articolo 2 del decreto-legge 30 dicembre 1979, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;633~art2), convertito, con modificazioni, dalla [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), e successive modificazioni e integrazioni, sono effettuati sui modulari standardizzati ed a lettura automatica definiti con decreto del Ministro della sanita', di concerto con il Ministro del lavoro e della previdenza sociale, da emanarsi entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. Con il medesimo decreto sono fissare le modalita' di intervento dell'Istituto Poligrafico e Zecca dello Stato nell'approvvigionamento del ricettario standardizzato del Servizio sanitario nazionale da parte delle regioni.
-
-3. La prescrizione di specialita' medicinali e di prodotti galenici erogati dal Servizio sanitario nazionale e' limitata al numero massimo di due pezzi per ricetta, fatta eccezione per le specialita' medicinali a base di antibiotici in confezione monodose, per le quali la prescrizione e' limitata ad un numero massimo di sei pezzi per ricetta. La ricetta non puo' contenere contestualmente la prescrizione di una specialita' medicinale o di un galenico e di prodotti relativi alle forme di assistenza integrativa regolate da disposizioni nazionali e regionali.
-
-4. Le quote di partecipazione dell'assistito alla spesa per le prestazioni farmaceutiche previste dalle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463~art10-leta) e [b) dell'articolo 10, comma 3, del decreto-legge 12 settembre 1983, n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463~art10-com3-letb), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), e successive modificazioni, sono cosi' determinate:
-
-a) una quota Fissa di L. 1.000 per ricetta;
-
-b) una quota fissa di L. 1.500 per ciascun farmaco con prezzo superiore a L. 5.000 e fino a L. 25.000;
-
-c) una quota fissa di L. 3.000 per ciascun farmaco con prezzo superiore a L. 25.000;
-
-d) una quota complessiva di L. 1.500 per gli antibiotici in confezione monodose qualora l'importo globale della ricetta non superi le L. 25.000 e di L. 3.000 qualora detto importo superi la predetta cifra.
-
-5. A decorrere dal 1 luglio 1987 le confezioni delle specialita' medicinali erogabili dal Servizio sanitario nazionale e dei galenici sono dotate di bollini o fustellati aventi il requisito dell'autoadesivita'. Con decreto del Ministro della sanita', da emanarsi entro trenta giorni dalla data di entrata in vigore del presente decreto, sono dettate disposizioni in ordine alle caratteristiche tecniche dei fustellati cartografici autoadesivi e alle modalita' di adozione dei predetti bollini o fustellati.
-
-6. L'autorizzazione all'acquisto diretto dalle imprese produttrici di preparazioni farmaceutiche in dose e forma di medicamento e dei galenici preconfezionati in confezione ospedaliera e' estesa agli enti ed alle istituzioni pubbliche di assistenza e beneficenza con finalita' assistenziali di ricovero e di riabilitazione, riconosciuti dalla regione, limitatamente all'impiego di detti medicamenti all'interno delle predette istituzioni.
-
-7. E' fatto divieto alle unita' sanitarie locali di stipulare contratti di comodato con ditte fornitrici di prodotti farmaceutici, di materiale per analisi di laboratorio o di apparecchiature o parte di esse per indagini sanitarie o per uso chirurgico, fatto salvo l'impiego per finalita' di ricerca o di sperimentazione clinica. Gli anzidetti contratti, ove stipulati anteriormente alla data di entrata in vigore della legge di conversione del presente decreto, sono risolti entro sei mesi dall'anzidetta data.
-
-8. All'onere derivante dall'attuazione del presente articolo e dall'articolo 1, stimato in lire 385 miliardi per il 1987, in lire 400 miliardi per il 1988 e in lire 412 miliardi per il 1989, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1987-1989, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1987, all'uopo utilizzando lo specifico accantonamento "Revisione tickets in materia sanitaria".
-
-9. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+1. All'[articolo 7, comma primo, della legge 24 luglio 1985, n. 409](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-07-24;409~art7-com1), dopo le parole: "allegato B," sono inserite le seguenti: "a seguito di formazione acquisita in un Paese comunitario e conforme a quanto previsto dalla [direttiva n. 78/687/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31978L0687),".
 
 Art. 3
 ------
 
-1. Le specialita' medicinali, al momento dell'autorizzazione all'immissione in commercio rilasciata con decreto del Ministro della sanita', trascorsi sessanta giorni dalla data di entrata in vigore del presente del decreto, sono collocate nelle seguenti classi:
-
-a) farmaci prescrivibili dal Servizio sanitario nazionale;
-
-b) farmaci che, per la loro particolare natura e per le modalita' d'uso, sono utilizzabili esclusivamente o nell'ambito ospedaliero o direttamente in sede ambulatoriale, da parte dello specialista;
-
-c) farmaci di automedicazione;
-
-d) altri farmaci non prescrivibili a carico del Servizio sanitario nazionale.
-
-2. Il prontuario terapeutico e' costituito dai farmaci di cui alla lettera a) del comma 1; al prontuario e' allegato l'elenco dei farmaci di cui alla lettera b). Il prontuario deve conformarsi ai principi stabiliti dall'[articolo 30, terzo comma, della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art30-com3), e successive modificazioni ed integrazioni.
-
-3. Il decreto del Ministro della sanita' di cui al comma 1, che concerne l'autorizzazione all'immissione in commercio delle specialita' medicinali, deve contenere, fra l'altro, per ogni specialita' l'indicazione della classe di appartenenza nonche' del prezzo di vendita, il quale, salvo per l'ipotesi di cui alla lettera c) del comma 1, nonche' per gli altri prodotti non assoggettati dal CIPE al regime del prezzo amministrato, deve essere determinato dal Comitato interministeriale prezzi entro sessanta giorni dalla richiesta da parte del Ministro della sanita'.
-
-4. Entro trenta giorni dalla data di entrata in vigore del presente decreto e' costituita presso il Ministero della sanita' la commissione consultiva unica del farmaco composta da:
-
-a) il Ministro della sanita' che la presiede;
-
-b) cinque membri del Ministero della sanita';
-
-c) cinque membri dell'Istituto superiore di sanita';
-
-d) due membri designati dal Consiglio nazionale delle ricerche;
-
-e) venti esperti in chimica e tecnica farmaceutica, in   
-farmacologia, in clinica medica, in discipline specialistiche biologiche, in discipline specialistiche cliniche, in scienze statistiche ed economiche, otto dei quali designati dal Consiglio sanitario nazionale sulla base delle indicazioni provenienti dalle regioni.
-
-5. La commissione di cui al comma 4, e' nominata con decreto del Ministro della sanita' ed e' rinnovata ogni tre anni; gli incarichi degli esperti non sono immediatamente rinnovabili.
-
-6. I compiti della commissione sono:
-
-a) valutare la rispondenza delle specialita' medicinali ai requisiti richiesti dalle disposizioni di legge e dalle direttive in materia emanate dalla CEE;
-
-b) collocare le specialita' medicinali in una delle classi di cui al comma 1, al momento della loro autorizzazione alla immissione in commercio, ovvero procedere alle modifiche di classe di appartenenza quando nuove acquisizioni scientifiche lo rendano necessario;
-
-c) effettuare la revisione di ogni specialita' medicinale dopo cinque anni dalla registrazione ed annualmente quella dei farmaci di uso ospedaliero ai fini dell'eventuale estensione alla pratica medica extra-ospedaliera.
-
-7. Il Ministro della sanita', sulla base di un programma di lavoro propostogli dalla commissione di cui al comma 4, in relazione ai principi di cui all'[articolo 30, terzo comma, della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art30-com3), e tenuto conto del disposto dell'[articolo 32, terzo comma, della legge 27 dicembre 1983, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730~art32-com3), provvede entro il termine di centottanta giorni dalla data di entrata in vigore del presente decreto, alla revisione del prontuario terapeutico. Fino all'attuazione di detta revisione ha efficacia il prontuario terapeutico vigente.
-
-8. Entro novanta giorni dalla data di entrata in vigore del presente decreto, a norma del [decreto-legge 12 settembre 1983, n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638), il CIP fissa il prezzo dei farmaci galenici inclusi nel prontuario.
-
-9. La commissione di cui al comma 4, sulla base di un proprio programma di lavoro e tenuto conto delle indicazioni del piano di settore, di cui all'[articolo 32, terzo comma, della legge 27 dicembre 1983, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730~art32-com3), con particolare riferimento alle proiezioni temporali programmatiche ivi previste, procede alla valutazione di tutte le specialita' medicinali gia' registrate ai fini di proporre la loro collocazione nelle classi di cui al comma 1 entro il termine del 31 dicembre 1988, nonche' ai fini della revisione delle autorizzazioni, in ottemperanza alla [direttiva n. 75/319/CEE del 20 maggio 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0319), entro il termine del 30 giugno 1990. Con decreto del Ministro della sanita' sono adottati gli atti conseguenti.
-
-10. La mancata immissione in commercio dei farmaci entro i diciotto mesi successivi alla emanazione del provvedimento di autorizzazione comporta la decadenza dell'autorizzazione medesima. Per i farmaci gia' autorizzati, il termine di diciotto mesi decorre dalla data di entrata in vigore del presente decreto.
+1. All'[articolo 8 del decreto legislativo 15 gennaio 1992, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-15;51~art8), dopo il comma 1 e' aggiunto il seguente:   
+"1-bis. Fino alla data del 31 dicembre 1994 resta in vigore il tasso di conversione pubblicato nella Gazzetta Ufficiale delle Comunita' europee il 1 settembre 1992.".
 
 Art. 4
 ------
 
-1. In deroga a quanto disposto dal terzo comma, punto 7), dell'[articolo 48 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art48), l'accordo collettivo nazionale e la relativa convenzione concernente la medicina generale di cui alla disposizione dell'articolo 48, primo comma, possono prevedere, invia sperimentale, nelle unita' sanitarie locali di tre province, una ubicata nel centro Italia, una nel Nord ed una nel Sud, che il pagamento ai medici convenzionati sia effettuato con modalita' diverse da quella vigente.
+1. Il [comma 4 dell'articolo 23 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art23-com4), e' abrogato.
 
-2. Al fine di unificare e razionalizzare i sistemi di rilevazione e di controllo sulle prescrizioni farmaceutiche, le regioni e le province autonome di Trento e di Bolzano, entro il 31 luglio 1987, disciplinano con propria legge le modalita' per la gestione unitaria a livello regionale o provinciale dei rapporti economici con le farmacie per l'erogazione dell'assistenza farmaceutica di cui all'[articolo 28 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art28), fermi restando l'esercizio della funzione di controllo da parte delle unita' sanitarie locali sulle spese farmaceutiche, e l'assunzione delle stesse nei bilanci delle unita' sanitarie locali medesime.
+2. Il [comma 3 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com3), e' sostituito dal seguente:   
+" 3. Al farmacista che pone in vendita o detiene per la vendita una specialita' medicinale soggetta ai provvedimenti dell'autorita' amministrativa di cui al comma 1 e' applicata la sanzione amministrativa da lire cinquecentomila a lire unmilionecinquecentomila.".
+
+3. Il [comma 4 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com4), e' sostituito dal seguente:   
+" 4. Qualora nell'arco di un anno si ripetano, per piu' di due volte, presso la stessa farmacia, i fatti previsti dal comma 1 il farmacista e' soggetto alla sanzione amministrativa da lire unmilione a lire tremilioni.".
+
+4. Il secondo periodo del comma 6 dell'articolo 5 e il secondo periodo del [comma 3 dell'articolo 8 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art8-com3), sono abrogati.
+
+5. Le sanzioni amministrative di cui all'[articolo 4, comma 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art4-com4), e all'[articolo 5, commi 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5-com6) e [7, del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5-com7), sono ridotte del 50 per cento.
+
+6. Le irregolarita' commesse nella fase di compilazione delle ricette, rispetto alle norme riguardanti l'esenzione dal pagamento delle quote di partecipazione a carico degli assistiti, sono considerate irregolarita' di carattere amministrativo e vanno perseguite in prima istanza tramite le commissioni di disciplina previste dalle convenzioni per i medici di medicina generale ed i pediatri di libera scelta.
+
+7. Qualora le commissioni evidenzino reiterate irregolarita' che possano configurare ipotesi di reato, ne danno comunicazione all'autorita' giudiziaria.
+
+8. Il [comma 4 dell'articolo 38 del decreto legislativo 27 gennaio 1992, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;119~art38-com4), e successive modificazioni, e' sostituito dal seguente:   
+" 4. Si applica la sanzione amministrativa pecuniaria da lire unmilione a lire seimilioni al medico veterinario il quale non osservi gli obblighi stabiliti dall'articolo 3, commi 5 e 6, l'obbligo di custodia di cui all'articolo 34, comma 1, ovvero si munisca di scorte di medicinali veterinari in misura eccedente il limite di cui all'articolo 35. Si applica la sanzione amministrativa pecuniaria da lire cinquecentomila a lire tremilioni al farmacista il quale violi gli obblighi di cui agli articoli 3, comma 4, e 32, commi 1, 3 e 4.".
+
+9. Il [comma 6 dell'articolo 38 del decreto legislativo 27 gennaio 1992, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;119~art38-com6), e successive modificazioni, e' sostituito dal seguente:   
+" 6. Si applica la sanzione amministrativa pecuniaria da lire unmilione a lire seimilioni ai medici veterinari ed altri professionisti interessati che non ottemperino al disposto dell'articolo 23.".
 
 Art. 5
 ------
 
-1. A modifica dell'[articolo 17, primo comma, della legge 22 dicembre 1984, n. 887](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;887~art17-com1), limitatamente all'esercizio 1987, la quota riservata alle attivita' a destinazione vincolata e ai piani straordinari, di cui alla lettera a), e' rideterminata in complessive lire 500 miliardi.
+1. All'[articolo 7, comma 1, del decreto legislativo 30 dicembre 1992, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;538~art7-com1), le parole: "Il titolare dell'autorizzazione alla distribuzione all'ingrosso" sono sostituite dalle seguenti: "Fatta eccezione per chi importa medicinali e per chi distribuisce esclusivamente materie prime farmacologicamente attive o medicinali disciplinati dagli [articoli 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art9) e [10 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art10), o medicinali di cui detiene l'autorizzazione all'immissione in commercio, o la concessione di vendita, il titolare dell'autorizzazione alla distribuzione all'ingrosso".
 
-2. E' autorizzata la spesa di lire 19.200 milioni per il quinquennio 1987-1991, da ripartire in ragione di lire 3.200 milioni per l'anno 1987 e lire 4.000 milioni per ciascuno degli anni dal 1988 al 1991, per l'attuazione, nell'ambito delle ricerche sperimentali e cliniche sulle neoplasie, di un programma cooperativo italo-americano sulla terapia dei tumori.
+2. Al [comma 7 dell'articolo 13 del decreto legislativo 30 dicembre 1992, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;538~art13-com7), dopo le parole: "hanno presentato" sono inserite le seguenti: "o presentino entro il 30 aprile 1994".
 
-3. Il coordinamento del programma e' affidato al Ministro della sanita' che si avvale, per la gestione dei fondi di cui al comma 2, delle modalita' previste dall'[articolo 2 della legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519~art2); il Ministro della sanita' tiene conto delle iniziative esistenti in materia e si avvale dell'Istituto superiore di sanita' e della collaborazione dell'istituto "Regina Elena" per lo studio e la cura dei tumori, dell'Istituto nazionale per lo studio e la cura dei tumori di Milano, di altri istituti di ricovero e cura a carattere scientifico di diritto pubblico, degli istituti universitari e di ricerca italiani, del National Cancer Institute, dei National Institutes of Health di Bethesda negli Stati Uniti d'America, nonche' del Consiglio nazionale delle ricerche.
-
-4. A carico dei fondi di cui al comma 2 grava ogni spesa occorrente per l'attuazione del programma ivi comprese quelle relative all'acquisto di apparecchiature e materiali di consumo, alla collaborazione di personale estraneo agli istituti addetti alle ricerche, all'effettuazione di missioni in Italia e all'estero anche del personale di ruolo di detti istituti.
-
-5. All'onere derivante dall'attuazione del programma, pari a lire 3.200 milioni per l'anno 1987 ed a lire 4.000 milioni per ciascuno degli anni 1988 e 1989, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1987-1989, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1987, all'uopo utilizzando lo specifico accantonamento "Programma cooperativo italo-americano sulla terapia dei tumori". Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
-
-6. I fondi destinati all'Istituto superiore di sanita' per la lotta alla sindrome da immuno-deficienza acquisita e per altre iniziative di studio e di ricerca disposte dal Ministro della sanita', con riferimento a problemi socio-sanitari di interesse generale e di particolare rilevanza, sono gestiti dall'Istituto medesimo con le modalita' previste dall'[articolo 2 della legge 7 agosto 1973, n. 519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519~art2).  
-I relativi programmi di attivita' sono predisposti da apposite commissioni di tecnici e di esperti, nominati con decreto del Ministro della sanita'. Parimenti con decreto del Ministro della sanita' sono approvati gli anzidetti programmi.
-
-7. Le unita' sanitarie locali assicurano l'esecuzione del test sierologico per la diagnosi dell'infezione HTLV/IIILAV su ogni unita' di sangue raccolta, destinando alla trasfusione diretta o alla produzione di emoderivati e di plasmaderivati le unita' risultate sierologicamente negative. Le stesse disposizioni si applicano per l'uso di unita' di sangue e suoi derivati, anche di origine placentare, importate dall'estero.
-
-8. La riduzione prevista dall'[articolo 26 della legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41~art26), non si applica alla retribuzione corrisposta, ai sensi dell'[articolo 2 della legge 13 luglio 1967, n. 584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-13;584~art2), a chiunque ceda il proprio sangue per trasfusioni dirette e indirette o per l'elaborazione dei derivati del sangue ad uso terapeutico.
-
-9. A modifica dell'[articolo 25, secondo comma, della legge 27 dicembre 1983, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-12-27;730~art25-com2), limitatamente all'esercizio 1987, tutte le somme, a qualsiasi titolo introitate dalle unita' sanitarie locali o alle stesse trasferite ai sensi della [lettera b) del primo comma dell'articolo 69 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art69-com1-letb), possono essere utilizzate per il 50 per cento per spese di investimento e per il 50 per cento per spese di parte corrente.
+3. Al [comma 2 dell'articolo 16 del decreto legislativo 30 dicembre 1992, n. 538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;538~art16-com2), sono aggiunte, in fine, le parole seguenti: "e si adeguino, entro i 18 mesi successivi a tale termine, ai requisiti previsti dagli articoli 3 e seguenti.".
 
 Art. 6
 ------
 
-1. Al personale in servizio presso gli uffici di sanita' marittima, aerea e di frontiera, e presso gli uffici veterinari di confine, porto, aeroporto e dogana interna, di cui alle tabelle allegate al [decreto del Presidente della Repubblica 31 luglio 1980, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;614), come modificate dal [decreto ministeriale in data 23 dicembre 1985, pubblicato nella Gazzetta Ufficiale n. 32 dell'8 febbraio 1986](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1986-02-08&numeroGazzetta=32), sono estese le disposizioni di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302~art2) e [3 della legge 13 luglio 1984, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;302~art3).
+1. A decorrere dalla data di entrata in vigore del presente decreto, il divieto di attribuire proprieta' atte a prevenire, curare, o guarire malattie, nonche' di accennare a tali proprieta', di cui al [comma 1 dell'articolo 6 del decreto legislativo 27 gennaio 1992, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;111~art6-com1), si riferisce anche alla pubblicita' degli integratori alimentari e dei prodotti di erboristeria.
 
-2. Al personale in servizio presso gli uffici indicati nel comma 1, posti in localita' isolate oppure presso uffici compresi in piccoli centri abitati nei quali non vi sia disponibilita' di alloggi di tipo economico o popolare, secondo la individuazione effettuata dal Ministero delle finanze, ai sensi del [secondo comma dell'articolo 4 della legge 21 dicembre 1978, n. 852](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;852~art4-com2), e' esteso il trattamento previsto dallo stesso articolo 4.
+2. La pubblicita' al pubblico dei prodotti di cui al comma 1, qualora ne suggerisca l'idoneita' all'uso nell'ambito di diete finalizzate al dimagramento o alla riduzione del peso, e' sottoposta alla disciplina prevista dall'[articolo 201, terzo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art201-com3), [quarto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art201-com4) e [quinto comma, del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art201-com5), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), come sostituito dall'[articolo 7 della legge 1 maggio 1941, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-05-01;422~art7), secondo le modalita' di cui al [decreto del Ministro della sanita' 6 ottobre 1993, pubblicato nella Gazzetta Ufficiale n. 237 dell'8 ottobre 1993](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1993-10-08&numeroGazzetta=237), i cui effetti sono differiti a novanta giorni dopo la data di entrata in vigore della legge di conversione del presente decreto.
 
-3. All'onere derivante dall'attuazione del presente articolo valutato in lire 1.300 milioni annui da iscriversi nello stato di previsione del Ministero della sanita', si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1987-1989, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1987, all'uopo parzialmente utilizzando l'accantonamento "Norme per il personale tecnico-amministrativo delle Universita'".
+3. Non trova applicazione la disciplina di cui al comma 2 per la pubblicita' al pubblico degli integratori alimentari e dei prodotti di erboristeria che si limiti a riprodurre i marchi, le indicazioni, le controindicazioni e le avvertenze descritte in etichetta o nel foglio illustrativo, nonche' la confezione del prodotto.
 
-4. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+4. In caso di violazione della disciplina di cui al presente articolo si applicano le sanzioni previste dall'[articolo 6, comma 9, del decreto legislativo 30 dicembre 1992, n. 541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;541~art6-com9).
+
+5. La composizione e la durata della commissione di cui all'[articolo 6, comma 3, del decreto legislativo 30 dicembre 1992, n.   
+541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;541~art6-com3), sono determinate con decreto del Ministro della sanita', tenendo conto dei nuovi compiti introdotti con il presente decreto. Qualora il Ministero della sanita' non si pronunci entro trenta giorni dalla presentazione della domanda diretta ad ottenere il rilascio dell'autorizzazione per la pubblicita' dei prodotti di cui al comma 1, la stessa si intende accolta.
+
+6. Le disposizioni di cui ai commi 2, 3, 4 e 5 entrano in vigore il quarantacinquesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto.
 
 Art. 7
 ------
 
-1. Il limite di eta' per l'accesso ai concorsi banditi dal Servizio sanitario nazionale e' elevato, per il personale laureato che partecipi a concorsi del ruolo sanitario, a 38 anni per un periodo di tre anni a decorrere dalla data di entrata in vigore del presente decreto.
+1. Le disposizioni di cui al [secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art36-com2), e successive modificazioni ed integrazioni, si applicano alle disponibilita' del capitolo 2599 dello stato di previsione del Ministero della sanita' per l'esercizio 1993.
 
 Art. 8
 ------
 
-1. L'accesso ai rapporti convenzionali di cui all'[articolo 48 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art48), non e' consentito al personale con rapporto di lavoro dipendente, pubblico o privato. Il divieto si applica anche ai titolari di rapporti convenzionali che comportino un impegno settimanale per un numero di ore pari o superiore all'orario vigente, per il personale dipendente del Servizio sanitario nazionale, ai sensi dell'[articolo 32, primo comma, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-12-20;761~art32-com1), e degli accordi nazionali ivi previsti.
+1. A decorrere dal 1 gennaio 1995, le strutture sanitarie esistenti presso il Ministero degli affari esteri, previste dall'[articolo 3, secondo comma, del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;618~art3-com2), sono direttamente gestite dal Ministero della sanita'.
 
-2. L'accesso alle convenzioni, eccezione fatta per quelle di medicina generale e pediatrica di libera scelta, e' peraltro consentito ai medici tenuti, in base ad un rapporto di lavoro dipendente presso strutture private, all'osservanza di un orario di lavoro inferiore a quello previsto per il personale medico dipendente dal Servizio sanitario nazionale con rapporto di lavoro a tempo definito.
+2. Per il funzionamento delle suddette strutture sanitarie viene stipulata apposita convenzione tra il Ministero della sanita' ed il Ministero degli affari esteri.
 
-3. Non e' consentita la contemporanea titolarita' dei rapporti convenzionali nell'ambito delle seguenti attivita':  
-medico generico di libera scelta, medico specialista pediatra di libera scelta, medico specialista o biologo titolare di incarico ambulatoriale a rapporto orario, medico specialista o biologo convenzionato nel proprio gabinetto privato.
+3. Gli oneri derivanti dalla convenzione di cui al comma 2 sono contenuti nei limiti dello stanziamento iscritto al capitolo 4303 dello stato di previsione del Ministero della sanita' per l'anno 1994.
 
-4. In nessuno dei casi contemplati nei precedenti commi puo', complessivamente, essere superato il numero di ore previsto dall'[articolo 32 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-12-20;761~art32), e degli accordi nazionali ivi richiamati.
-
-5. L'accesso alle convenzioni e' incompatibile con qualsiasi forma di interesse diretto o per interposta persona o per atti simulati del sanitario o del coniuge non separato o dei parenti ed affini siano al primo grado, in istituzioni sanitarie private convenzionate, fatta eccezione per quelle di cui all'[articolo 28 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art28), o in industrie farmaceutiche. L'incompatibilita' sussiste anche per coloro che, a qualsiasi titolo, svolgano attivita' di collaborazione con industrie farmaceutiche o con istituzioni sanitarie convenzionate con il Servizio sanitario nazionale, fatta eccezione per quelle di cui all'[articolo 28 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art28).
-
-6. Nel caso in cui sia accertato un interesse in applicazione del comma 5, il rapporto con il sanitario e' risolto con effetto immediato ed e' nulla la convenzione con l'istituzione sanitaria privata interessata.
-
-7. Gli accordi collettivi nazionali, stipulati ai sensi dell'[articolo 48 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art48), possono prevedere modalita' e limiti inferiori a quelli previsti nel presente decreto della contemporanea titolarita' di rapporti convenzionali.
-
-8. Le posizioni in contrasto con i commi 1 e 2 devono essere regolarizzate entro quattro mesi dalla data di entrata in vigore del presente decreto mediante opzione degli interessati. In mancanza di opzione espressa, si intende che il personale interessato abbia optato per la conservazione del rapporto di dipendenza.
-
-9. Entro quattro mesi dalla data di entrata in vigore del presente decreto devono essere regolarizzate le posizioni in contrasto con il comma 3. In mancanza di opzione espressa, si intende che il personale abbia optato per la conservazione del primo incarico acquisito.
-
-10. Le disposizioni del comma 1 non si applicano fino al 31 dicembre 1988 agli ufficiali medici delle Forze armate e al personale dei ruoli professionali dei sanitari della Polizia di Stato di cui al [decreto del Presidente della Repubblica 24 aprile 1982, n. 338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-24;338), nonche' ai medici del Corpo nazionale dei vigili del fuoco.
+4. Il [comma terzo dell'articolo 3 del decreto del Presidente della Repubblica 31 luglio 1980, n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;618~art3-com3), e' abrogato.
 
 Art. 9
 ------
+
+1. A decorrere dalla data di entrata in vigore del presente decreto, l'esecuzione delle vaccinazioni obbligatorie su minori non puo' essere coercitivamente imposta con l'intervento della forza pubblica.
+
+2. Resta ferma l'operativita' delle sanzioni previste a carico di coloro che esercitano la potesta' parentale o la tutela sul minore, nonche' dei direttori degli istituti di assistenza pubblica o privata in cui il minore e' ricoverato o delle persone affidatarie di minori ai sensi della [legge 4 maggio 1983, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-04;184).
+
+3. I soggetti indicati al comma 2 sono personalmente responsabili di ogni effetto dannoso subito dal minore o da terzi, conseguente all'inosservanza delle disposizioni di legge sulle vaccinazioni obbligatorie.
+
+4. Ai fini dell'esonero dalla obbligatorieta' delle vaccinazioni il certificato del medico curante o del medico specialista, presentato dall'interessato, e' vincolante per l'unita' sanitaria locale.
+
+Art. 10
+-------
+
+1. L'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), e' sostituito dal seguente:   
+"Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno non reversibile determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1984, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-02;111~art8).   
+2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato ed ha decorrenza dal primo giorno del mese successivo a quello della presentazione della domanda.   
+3. Qualora a causa delle vaccinazioni o delle patologie previste dalla presente legge sia derivata o derivi la morte, spetta un assegno una tantum nella misura di lire 50 milioni da erogare ai soggetti nel seguente ordine: coniuge, figli minori, figli maggiorenni inabili al lavoro, genitori, fratelli minori, fratelli maggiorenni inabili al lavoro.   
+4. Qualora la persona sia deceduta in eta' minore, l'indennizzo spetta ai genitori o a chi esercita la potesta' parentale.".
+
+Art. 11
+-------
+
+1. Il Ministero della sanita' per la formulazione dei pareri medico-legali, ha facolta' di sottoporre gli interessati a visita di controllo al fine di acquisire tutti gli elementi per un giudizio diagnostico ed una sicura applicazione delle tabelle A e B di cui al [decreto del Presidente della Repubblica 30 dicembre 1981, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-12-30;834). Le visite di controllo, che possono essere richieste anche da pubbliche amministrazioni e dagli interessati, sono effettuate, nei casi in cui sia ritenuto necessario, da un collegio medico costituito dal direttore dell'ufficio medico legale, che lo presiede, da un medico del predetto servizio, relatore, e da un esperto scelto tra i docenti universitari e dirigenti del Servizio sanitario nazionale.
+
+Art. 12
+-------
+
+1. E' attribuito ai comuni, per l'anno 1994, un contributo, a carico del Fondo sanitario nazionale di parte corrente, di lire 100 miliardi da destinare al finanziamento delle spese di loro competenza per l'assistenza sanitaria degli indigenti. La predetta somma e' ripartita ai comuni tenendo conto del reddito medio pro capite, secondo modalita' e procedure da stabilirsi con decreto del Ministro dell'interno, di concerto con il Ministro della sanita', sentite l'Associazione nazionale dei comuni italiani (ANCI) e l'Unione nazionale comuni, comunita' ed enti montani (UNCEM).
+
+2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le necessarie variazioni di bilancio.
+
+Art. 13
+-------
+
+1. L'[articolo 1 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;613~art1), e' abrogato.
+
+Art. 14
+-------
+
+1. Il [comma 2 dell'articolo 19 della legge 4 maggio 1990, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107~art19-com2), e' sostituito dal seguente:   
+" 2. I centri trasfusionali della Croce rossa italiana, ivi compreso il Centro nazionale trasfusione sangue, con i relativi servizi, restano attribuiti alla Croce rossa italiana.".
+
+2. Il [comma 3 dell'articolo 19 della legge 4 maggio 1990, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107~art19-com3), e' sostituito dal seguente:   
+" 3. Il trasferimento dei beni di cui al comma 1 e' effettuato con provvedimento del presidente della giunta regionale in conformita' con le disposizioni di cui agli [articoli 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art65) e [66 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art66).".
+
+Art. 15
+-------
+
+1. A decorrere dal 1 gennaio 1994, l'utilizzo di cittadini extracomunitari o apolidi per l'esercizio delle professioni sanitarie ausiliarie, delle arti ausiliarie delle professioni sanitarie e delle professioni sanitarie tecniche e' consentito ai presi'di sanitari privati nell'ambito di un rapporto di lavoro dipendente e nei limiti dei contingenti fissati con decreto del Ministro della sanita', di concerto con il Ministro del tesoro e con il Ministro del lavoro e della previdenza sociale, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. L'utilizzo da parte dei presi'di sanitari pubblici, in deroga al requisito della cittadinanza, puo' essere autorizzato dal Ministero della sanita' su richiesta della regione per periodi predeterminati ed esigenze di carattere straordinario; gli incarichi, di norma di durata annuale e rinnovabili, cessano di diritto allo scadere del periodo massimo previsto dall'autorizzazione ministeriale.
+
+2. Le disposizioni di cui alla [legge 8 novembre 1984, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;752), concernente il riconoscimento dei titoli abilitanti conseguiti all'estero, sono estese ai cittadini extracomunitari e agli apolidi residenti legalmente in Italia o autorizzati a soggiornare temporaneamente in Italia per esercitare una professione o un'arte sanitaria di cui al comma 1.
+
+3. Il Ministero della sanita' cura la tenuta dell'elenco dei cittadini stranieri che hanno ottenuto il riconoscimento di titoli abilitanti. Il riconoscimento del titolo consente, previa iscrizione all'albo professionale, ove esistente, l'esercizio professionale. I collegi professionali provvedono, previo accertamento della conoscenza della lingua italiana, all'iscrizione temporanea all'albo in deroga alle disposizioni che prevedono il possesso della cittadinanza italiana.
+
+4. I presi'di sanitari pubblici e privati sono tenuti a comunicare al Ministero della sanita' il nominativo del cittadino extracomunitario o apolide assunto, con l'indicazione del titolo abilitante posseduto, entro tre giorni dalla data dell'assunzione.
+
+5. L'utilizzo di cittadini stranieri con i contratti biennali di diritto privato stipulati ai sensi dell'[articolo 9, comma 4, del decreto-legge 30 dicembre 1989, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416~art9-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-28;39), e' consentito fino al 31 dicembre 1994.
+
+Art. 16
+-------
+
+1. L'autorizzazione alla produzione, al commercio e alla detenzione dei coloranti per alimenti, di cui all'[articolo 57, comma 4, della legge 19 febbraio 1992, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142~art57-com4), e' rilasciata dall'autorita' sanitaria locale competente per territorio.
+
+Art. 17
+-------
+
+1. Nei giudizi dinanzi alla Corte dei conti relativi al risarcimento dei danni derivanti da fatti verificatisi prima della data di entrata in vigore del presente decreto, che abbiano comportato o comportino illecito arricchimento del pubblico amministratore o il conseguente indebito arricchimento dei suoi eredi, si applica il termine decennale di prescrizione, che, tuttavia, per la parte residua, non puo' avere durata superiore a cinque anni dalla data medesima.
+
+Art. 18
+-------
+
+1. Fino alla riorganizzazione delle funzioni assistenziali dei policlinici universitari mediante la ridefinizione delle piante organiche, previa determinazione dei carichi di lavoro, e comunque non oltre il 30 novembre 1994, le universita' possono, previa intesa con la regione, confermare, con delibera del consiglio di amministrazione, il rapporto convenzionale con il personale medico laureato che da almeno nove anni svolga collaborazioni straordinarie e continuative retribuite presso i policlinici universitari a gestione diretta, purche' in possesso dei requisiti prescritti per la copertura dei posti del livello iniziale del corrispondente personale del Servizio sanitario nazionale alla data di inizio del rapporto convenzionale e purche', al momento della conferma, non sia legato da altro rapporto di lavoro subordinato od autonomo con altri enti od organismi pubblici o privati. La conferma avviene con giudizio di idoneita', le cui modalita' e procedure sono definite con decreto del rettore entro sessanta giorni dalla data di entrata in vigore del presente decreto, previa delibera del consiglio di facolta', sulla base dei criteri generali stabiliti dal Ministero dell'universita' e della ricerca scientifica e tecnologica. Il trattamento economico del personale di cui al presente comma puo' essere rideterminato, con decorrenza dal momento della conferma, in misura non superiore al compenso forfettario per ora di incarico corrisposto ai medici specialisti ambulatoriali convenzionati ai sensi dell'[articolo 48 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art48). I relativi oneri gravano sul finanziamento dell'attivita' assistenziale dedotto nella convenzione universita'-regione.
+
+2. Nei concorsi pubblici, aperti a tutti, per la copertura dei posti che risultino vacanti a seguito della ridefinizione delle piante organiche di cui al comma 1, il servizio reso dal personale confermato e' valutato tra i titoli di carriera come servizio reso nella posizione funzionale iniziale con un incremento pari al venticinque per cento del punteggio complessivamente attribuibile. Il personale confermato ai sensi del comma 1 deve dichiarare di non versare nelle condizioni di incompatibilita' indicate dall'[articolo 4 della legge 30 dicembre 1991, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412~art4), e che nei suoi confronti non trova applicazione l'[articolo 8, commi 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com1bis) e [8, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8-com8), come modificato dal [decreto legislativo 7 dicembre 1993, n. 517](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-07;517).
+
+Art. 19
+-------
 
 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1987
+### Dato a Roma, addi' 6 maggio 1994
 
-COSSIGA
+SCALFARO
 
-FANFANI, Presidente del Consiglio dei Ministri
+CIAMPI, Presidente del Consiglio dei Ministri
 
-DONAT CATTIN, Ministro della sanita'
+GARAVAGLIA, Ministro della sanita'
 
-GORIA, Ministro del tesoro e, ad
+BARUCCI, Ministro del tesoro
 
-interim, del bilancio e della programmazione economica
-
-Visto, il Guardasigilli: ROGNONI
-
-Registrato alla Corte dei conti, addi' 30 aprile 1987
-
-Atti di Governo, registro n. 65, foglio n. 9
+Visto, il Guardasigilli: CONSO

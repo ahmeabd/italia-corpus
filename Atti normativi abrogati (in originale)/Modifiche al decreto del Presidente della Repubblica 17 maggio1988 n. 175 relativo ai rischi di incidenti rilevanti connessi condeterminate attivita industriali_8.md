@@ -1,15 +1,15 @@
-DECRETO-LEGGE 03 maggio 1996 n. 245
+DECRETO-LEGGE 08 marzo 1996 n. 111
 
 
-DECRETO-LEGGE 03 maggio 1996 n. 245
-===================================
+DECRETO-LEGGE 08 marzo 1996 n. 111
+==================================
 
 Modifiche al decreto del Presidente della Repubblica 17 maggio 
 1988, n. 175, relativo ai rischi di incidenti rilevanti connessi con 
 determinate attivita' industriali.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/5/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 10-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -26,9 +26,9 @@ Ritenuta la straordinaria necessita' ed urgenza di provvedere ad
 
 una sollecita applicazione delle disposizioni relative alla prevenzione di incidenti rilevanti degli impianti industriali ad alto rischio ed alla limitazione delle conseguenze per la popolazione e per l'ambiente di eventuali incidenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 marzo 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri dell'interno, di grazia e giustizia, della sanita' e dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dei lavori pubblici e dell'ambiente, di concerto con i Ministri dell'interno, di grazia e giustizia, del bilancio e della programmazione economica, della sanita' e dell'industria, del commercio e dell'artigianato e del commercio con l'estero;
 
 E M A N A il seguente decreto-legge:
 
@@ -254,7 +254,8 @@ Ai sensi e per gli effetti del comma 3, limitatamente alle prescrizioni indicate
 
 3. Al [comma 4 dell'articolo 21 del decreto del Presidente della Repubblica 17 maggio 1988, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-17;175~art21-com4), le parole: "da due a cinque milioni" sono sostituite dalle seguenti: "da cinque a quindici milioni".
 
-4. Al [comma 1 dell'articolo 21 del decreto del Presidente della Repubblica 17 maggio 1988, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-17;175~art21-com1), sono aggiunti, in fine, i seguenti periodi: "Contestualmente alla denuncia per l'omissione di notifica, e' disposta la verifica della rispondenza degli impianti alle norme di sicurezza. Qualora sia accertato che gli impianti non rispondono alle misure di sicurezza in modo tale da comportare rischi di rilevanti incidenti industriali e' disposta la chiusura degli impianti interessati fino al ripristino delle condizioni di sicurezza.".
+4. Al [comma 1 dell'articolo 21 del decreto del Presidente della Repubblica 17 maggio 1988, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-17;175~art21-com1), sono aggiunti, in fine, i seguenti periodi: "Contestualmente alla denuncia per l'omissione di notifica, e' disposta la verifica della rispondenza degli impianti alle norme di sicurezza.  
+Qualora sia accertato che gli impianti non rispondono alle misure di sicurezza in modo tale da comportare rischi di rilevanti incidenti industriali e' disposta la chiusura degli impianti interessati fino al ripristino delle condizioni di sicurezza.".
 
 5. Al [comma 2 dell'articolo 21 del decreto del Presidente della Repubblica 17 maggio 1988, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-17;175~art21-com2), sono aggiunti, in fine, i seguenti periodi: "Contestualmente alla denuncia per l'omissione di dichiarazione e' disposta la verifica della rispondenza degli impianti alle norme di sicurezza. Qualora sia accertato che gli impianti non rispondono alle misure di sicurezza in modo tale da comportare rischi di rilevanti incidenti industriali e' disposta la chiusura degli impianti interessati fino al ripristino delle condizioni di sicurezza.".
 
@@ -268,7 +269,8 @@ Art. 18
 Art. 19
 -------
 
-1. Per far fronte ai compiti di cui al presente decreto, il Ministero dell'interno e' autorizzato ad assumere, ripartendo fra i comitati tecnici regionali o interregionali secondo le necessita', ventisei unita' di personale da inquadrare nel profilo di ispettore antincendio. L'organico di tale profilo risultante dall'applicazione dell'[articolo 9, comma 1, della legge 5 dicembre 1988, n. 521](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521~art9-com1), e' pertanto incrementato dalle predette unita'.
+1. Per far fronte ai compiti di cui al presente decreto,  
+il Ministero dell'interno e' autorizzato ad assumere, ripartendo fra i comitati tecnici regionali o interregionali secondo le necessita', ventisei unita' di personale da inquadrare nel profilo di ispettore antincendio. L'organico di tale profilo risultante dall'applicazione dell'[articolo 9, comma 1, della legge 5 dicembre 1988, n. 521](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521~art9-com1), e' pertanto incrementato dalle predette unita'.
 
 2. Per far fronte ai compiti di cui al presente decreto, saranno assegnate al Ministero dell'interno, nell'ambito delle dotazioni organiche, ventisei unita' da inquadrare nel profilo di dattilografo e ventisei unita' da inquadrare nel profilo di coadiutore, mediante la procedura di mobilita' ai sensi della vigente normativa. Per le stesse esigenze possono essere utilizzate, fino al 31 agosto 1994, le graduatorie degli idonei dei concorsi gia' espletati per la copertura di posti a vigile del fuoco del Corpo nazionale dei vigili del fuoco, in vigore alla data del 31 dicembre 1993.
 
@@ -353,7 +355,7 @@ Art. 25
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 maggio 1996
+### Dato a Roma, addi' 8 marzo 1996
 
 SCALFARO
 
@@ -365,6 +367,8 @@ CORONAS, Ministro dell'interno
 
 CAIANIELLO, Ministro di grazia e giustizia
 
+ARCELLI, Ministro del bilancio e della programmazione economica
+
 GUZZANTI, Ministro della sanita'
 
 CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero
@@ -373,9 +377,7 @@ Visto, il Guardasigilli: CAIANIELLO
 
 Allegato A
 
- ALLEGATO A   
-(previsto dal comma 2 dell'articolo 6)   
-SCHEDA DI INFORMAZIONE   
+ ALLEGATO A (previsto dal comma 2 dell'articolo 6) SCHEDA DI INFORMAZIONE   
 SUI RISCHI DI INCIDENTE RILEVANTE   
 Informazioni:   
 da fornire ai cittadini ed ai lavoratori in attuazione del [decreto del Presidente della Repubblica n. 175 del 1988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988;175), del decreto del Presidente del Consiglio dei Ministri 31 marzo 1989 e del Decreto del Ministro dell'Ambiente, di concerto con il Ministro della Sanita', 20.5.1991;   

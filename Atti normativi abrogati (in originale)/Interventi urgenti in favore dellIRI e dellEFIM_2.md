@@ -1,13 +1,13 @@
-DECRETO-LEGGE 01 luglio 1992 n. 322
+DECRETO-LEGGE 28 febbraio 1992 n. 192
 
 
-DECRETO-LEGGE 01 luglio 1992 n. 322
-===================================
+DECRETO-LEGGE 28 febbraio 1992 n. 192
+=====================================
 
 Interventi urgenti in favore dell'IRI e dell'EFIM.
 --------------------------------------------------
 
-Entrata in vigore del decreto: 2/7/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 03/03/1992.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di disporre un conferimento ai fondi di dotazione dell'IRI e dell'EFIM per le piu' immediate esigenze finanziarie relative ai programmi degli enti stessi, tenuto conto in particolare di quelle riguardanti la RAI - Radiotelevisione italiana S.p.a.;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 giugno 1992;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1992;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle partecipazioni statali, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro;
 
@@ -27,9 +27,9 @@ Art. 1
 
 1. Ad integrazione dell'[articolo 2 della legge 7 febbraio 1991, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-02-07;42~art2), sono disposti i seguenti stanziamenti:
 
-a) per l'anno 1991 e' disposto un conferimento di lire 210 miliardi al Fondo di dotazione dell'IRI - Istituto per la ricostruzione industriale, di cui lire 100 miliardi da destinare alla RAI - Radiotelevisione italiana S.p.a., in conto esercizio per l'anno 1992;
+a) per l'anno 1991 e' disposto un conferimento di lire 210 miliardi al Fondo di dotazione dell'IRI - Istituto per la ricostruzione industriale, di cui lire 100 miliardi da destinare alla Rai - Radiotelevisione italiana S.p.a.
 
-b) per lo stesso anno, lire 190 miliardi al Fondo di dotazione dell'Ente partecipazioni e finanziamento industrie manifatturiere - EFIM.
+b) per lo stesso anno, lire 190 miliardi al fondo di dotazione dell'Ente partecipazioni e finanziamento industrie manifatture - EFIM.
 
 2. All'onere derivante dal presente articolo, pari a lire 400 miliardi per l'anno 1991, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario medesimo, all'uopo utilizzando parte dell'accantonamento "Interventi a favore degli enti di gestione delle partecipazioni statali e dell'EAMO".
 
@@ -45,16 +45,14 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 luglio 1992
+### Dato a Roma, addi' 28 febbraio 1992
 
-SCALFARO
+COSSIGA
 
-AMATO, Presidente del Consiglio dei Ministri
+ANDREOTTI, Presidente del Consiglio dei Ministri
 
-GUARINO, Ministro, ad interim, delle partecipazioni statali
+CIRINO POMICINO, Ministro del bilancio e della programmazione economica
 
-REVIGLIO, Ministro del bilancio e della programmazione economica
-
-BARUCCI, Ministro del tesoro
+CARLI, Ministro del tesoro
 
 Visto, il Guardasigilli: MARTELLI

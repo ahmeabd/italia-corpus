@@ -1,13 +1,13 @@
-DECRETO-LEGGE 13 luglio 1993 n. 223
+DECRETO-LEGGE 11 gennaio 1994 n. 16
 
 
-DECRETO-LEGGE 13 luglio 1993 n. 223
+DECRETO-LEGGE 11 gennaio 1994 n. 16
 ===================================
 
 Disposizioni urgenti relative allo svolgimento della missione umanitaria in Somalia e in Mozambico.
 ---------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 15-7-1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13/1/1994.Decreto-Legge convertito con modificazioni dalla [L.22 febbraio 1994, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;151) ([GU n. 54 del 7-3-1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-03-07&numeroGazzetta=54) ).
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,7 +20,7 @@ Viste la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare il trattamento economico ed assicurativo del personale facente parte della missione militare inviata in Somalia e Mozambico, al fine di assicurare i soccorsi umanitari alle popolazioni e garantire condizioni di pace sui territori di detti Paesi, nonche' di assicurare la copertura finanziaria degli oneri conseguenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 gennaio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri degli affari esteri e della difesa, di concerto con i Ministri di grazia e giustizia, del tesoro e del bilancio e della programmazione economica;
 
@@ -29,14 +29,14 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-1. Per garantire la custodia, il trasporto e la distribuzione degli aiuti umanitari, nonche' il soccorso sanitario alle popolazioni della Somalia e del Mozambico, e' autorizzata per l'anno 1993 la spesa di lire 200 miliardi da iscrivere nello stato di previsione del Ministero della difesa.
+1. Per garantire la custodia, il trasporto e la distribuzione degli aiuti umanitari, nonche' il soccorso sanitario alle popolazioni della Somalia e del Mozambico, e' autorizzata, per l'anno 1993, la spesa di lire 200 miliardi da iscrivere nello stato di previsione del Ministero della difesa.
 
-2. Al relativo onere, per l'anno 1993, si provvede mediante riduzione dello stanziamento iscritto al capitolo 4620 dello stato di previsione del Ministero degli affari esteri per l'anno medesimo, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1987, n. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), come determinata con la tabella C della [legge 23 dicembre 1992, n. 500](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;500).
+2. Al relativo onere si provvede a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa, per l'anno finanziario 1993: 1076, 1105, 1802, 2501 e 2802.
 
 Art. 2
 ------
 
-1. Con effetto dall'inizio delle operazioni, al personale facente parte delle missioni in Somalia e in Mozambico affidate alle Forze armate, al fine di assicurare i soccorsi umanitari alle popolazioni e garantire condizioni di pace sui territori di detti Paesi, e' attribuito, con decorrenza dal giorno di uscita dalle acque del Mediterraneo o dallo spazio aereo corrispondente e sino al rientro in territorio o acque territoriali italiane e comunque non oltre il 31 ottobre 1993 per la missione in Mozambico e il 31 dicembre 1993 per la missione in Somalia, il trattamento di cui agli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art1) e [3 della legge 8 luglio 1961, n. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art3), prendendo a base la diaria spettante al personale in Somalia. A tal fine l'indennita' speciale di cui all'articolo 3 della citata legge viene fissata nella misura del 75 per cento dell'assegno di lungo servizio all'estero attualmente in vigore. Al medesimo personale e' altresi' attribuito il trattamento assicurativo di cui alla [legge 18 maggio 1982, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-18;301), ragguagliandosi il massimale assicurativo minimo al trattamento economico del grado di sergente maggiore e gradi corrispondenti.
+1. Con effetto dall'inizio delle operazioni, al personale facente parte delle missioni in Somalia e in Mozambico affidate alle Forze armate, al fine di assicurare i soccorsi umanitari alle popolazioni e garantire condizioni di pace sui territori di detti Paesi, e' attribuito, con decorrenza dal giorno di uscita dalle acque del Mediterraneo o dallo spazio aereo corrispondente e sino al rientro in territorio o acque territoriali italiane e comunque non oltre il 31 dicembre 1993, il trattamento di cui agli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art1) e [3 della legge 8 luglio 1961, n. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art3), prendendo a base la diaria spettante al personale in Somalia. A tal fine l'indennita' speciale di cui all'articolo 3 della citata legge viene fissata nella misura del 75 per cento dell'assegno di lungo servizio all'estero attualmente in vigore. Al medesimo personale e' altresi' attribuito il trattamento assicurativo di cui alla [legge 18 maggio 1982, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-18;301), ragguagliandosi il massimale assicurativo minimo al trattamento economico del grado di sergente maggiore e gradi corrispondenti.
 
 2. Il trattamento economico di cui al comma 1 e' corrisposto per il 30 per cento a titolo di anticipazione in valuta straniera e, per il restante, in valuta nazionale all'atto del rientro in Patria o, mensilmente, direttamente a persone fisiche o giuridiche all'uopo delegate.
 
@@ -56,9 +56,15 @@ Art. 3
 Art. 4
 ------
 
-1. All'onere derivante dall'attuazione dell'articolo 2 e dalle altre spese connesse alla missione in Somalia e in Mozambico, valutato in lire 711.484,7 milioni, si provvede, quanto a lire 159.484,7, a carico dei pertinenti capitoli dello stato di previsione del Ministero della difesa per l'anno finanziario 1993, quanto a lire 75.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo utilizzando parte dell'accantonamento relativo al Ministero del tesoro, quanto a lire 278.000 milioni, con quota parte delle maggiori entrate derivanti dall'articolo 3 e, quanto a lire 199.000 milioni, con utilizzo parziale delle disponibilita' in conto residui iscritte sul capitolo 2042 dello stato di previsione del Ministero degli affari esteri per il medesimo anno, che sono versate all'entrata del bilancio dello Stato per essere assegnate ai pertinenti capitoli di spesa dello stato di previsione del Ministero della difesa, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212).
+1. All'onere derivante dall'attuazione dell'articolo 2 e dalle altre spese connesse alla missione in Somalia e in Mozambico, valutato in lire 750.000 milioni, si provvede:
 
-2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio.
+a) quanto a lire 537.000 milioni, a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa, per l'anno finanziario 1993: 1076, 1086, 1091, 1092, 1375, 1376, 1377, 1378, 1379, 1380, 1385, 1406, 1415, 1802, 1832, 1872, 1874, 1878, 2000, 2002, 2102, 2103, 2104, 2502, 2503, 2512, 2804, 3001, 3101, 4598, 4600 e 4604;
+
+b) quanto a lire 14.000 milioni, a carico dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo utilizzando parte dell'accantonamento relativo al Ministero del tesoro;
+
+c) quanto a lire 199.000 milioni, con utilizzo parziale delle disponibilita' in conto residui iscritte sul capitolo 2042 dello stato di previsione del Ministero degli affari esteri, che sono versate all'entrata del bilancio dello Stato per essere assegnate ai pertinenti capitoli di spesa dello stato di previsione del Ministero della difesa, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212).
+
+2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 5
 ------
@@ -68,7 +74,7 @@ Art. 5
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 luglio 1993
+### Dato a Roma, addi' 11 gennaio 1994
 
 SCALFARO
 

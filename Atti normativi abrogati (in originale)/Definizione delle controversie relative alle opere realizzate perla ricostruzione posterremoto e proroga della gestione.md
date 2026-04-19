@@ -1,25 +1,25 @@
-DECRETO-LEGGE 02 agosto 1996 n. 407
+DECRETO-LEGGE 01 ottobre 1996 n. 513
 
 
-DECRETO-LEGGE 02 agosto 1996 n. 407
-===================================
+DECRETO-LEGGE 01 ottobre 1996 n. 513
+====================================
 
 Definizione delle controversie relative alle opere realizzate per 
 la ricostruzione posterremoto e proroga della gestione.
 --------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 3/8/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 3-10-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per la concessione di una breve proroga alla gestione esercitata dal funzionario incaricato dal CIPE per gli interventi di cui al titolo VIII della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), concernenti il completamento delle procedure connesse al trasferimento delle opere agli enti destinatari e di prevedere una specifica disciplina per la definizione del contenzioso;
+Ritenuta la straordinaria necessita' ed urgenza di disporre una breve proroga della gestione esercitata dal funzionario incaricato dal CIPE per gli interventi posterremoto di cui al titolo VIII della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), concernenti il completamento delle procedure connesse al trasferimento delle opere agli enti destinatari nonche' di prevedere una specifica disciplina per la definizione del contenzioso;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 agosto 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 settembre 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro e del bilancio e della programmazione economica, di concerto con il Ministro del lavoro e della previdenza sociale;
 
 E M A N A il seguente decreto-legge:
 
@@ -37,7 +37,7 @@ Art. 2
 
 2. Per gli atti per i quali occorre il parere delle commissioni di cui all'articolo 19 del testo unico approvato con [decreto legislativo 30 marzo 1990, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-03-30;76), in luogo di queste, ove occorra, a richiesta del sindaco del comune interessato, e' nominato dal prefetto competente per territorio un commissario ad acta per la verifica della congruita' e della sussistenza dei requisiti formali e sostanziali in ordine alla concessione dei provvedimenti di assegnazione dei contributi, e per esprimere il prescritto parere.
 
-3. Entro il 31 gennaio 1998 il Governo presenta una relazione al Parlamento sul completamento del programma di edilizia residenziale pubblica, sulle opere di urbanizzazione primaria e di edilizia scolastica, sul ripristino delle opere vandalizzate, sulla concessione ed erogazione dei contributi, sulla definizione dei contenziosi e, piu' in generale, sulla utilizzazione ed efficacia della spesa nonche' sullo stato e sui problemi della ricostruzione.
+3. Entro il 31 gennaio 1998 il Governo presenta una relazione al Parlamento sul completamento del programma di edilizia residenziale pubblica, sulle opere di urbanizzazione primaria e di edilizia scolastica, sul ripristino delle opere vandalizzate, sulla concessione ed erogazione dei contributi, sulla definizione dei contenziosi e, piu' in generale, sulla utilizzazione ed efficacia della spesa, nonche' sullo stato e sui problemi della ricostruzione.
 
 Art. 3
 ------
@@ -60,7 +60,7 @@ Art. 5
 
 3. Non puo' procedersi a definizione in via amministrativa quando la controversia derivi da interventi in relazione ai quali sia in corso un procedimento per irregolarita' nell'affidamento o nell'esecuzione dei lavori.
 
-4. Il commissario straordinario si avvale del personale in servizio presso la struttura del funzionario incaricato dal CIPE per la gestione degli interventi di cui al titolo VIII della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni ed integrazioni, che puo' essere trattenuto in servizio anche oltre il limite di cui all'articolo 1, comma 2, fino alla definizione del contenzioso e comunque entro e non oltre il 31 dicembre 1997; si avvale altresi', nel limite massimo di 20 unita' e fino alla stessa data, di personale della regione, del comune di Napoli o di altri enti pubblici gia' in servizio presso la struttura del funzionario incaricato dal CIPE alla data del 31 dicembre 1994. Tale personale e' collocato in posizione di comando presso il commissario straordinario previa intesa con la regione, il comune di Napoli o l'ente di provenienza.
+4. Il commissario straordinario si avvale del personale in servizio presso la struttura del funzionario incaricato dal CIPE per la gestione degli interventi di cui al titolo VIII della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni ed integrazioni, che puo' essere trattenuto in servizio anche oltre il limite di cui all'articolo 1, comma 2, fino alla definizione del contenzioso e comunque entro e non oltre il 31 dicembre 1997; si avvale altresi', nel limite massimo di 20 unita' e fino alla stessa data, di personale della regione, del comune di Napoli o di altri enti pubblici gia' in servizio presso la struttura del funzionario incaricato dal CIPE alla data del 31 dicembre 1994. Tale personale e' collocato in posizione di comando presso il commissario straordinario, previa intesa con la regione, il comune di Napoli o l'ente di provenienza.
 
 Art. 6
 ------
@@ -71,7 +71,7 @@ Art. 6
 
 3. Nell'ipotesi di cui all'articolo 5, comma 3, la sospensione dura fino all'archiviazione dell'indagine penale ovvero al passaggio in giudicato della sentenza di proscioglimento.
 
-4. Le controversie derivanti dai rapporti posti in essere ai sensi del titolo VIII della [legge 14 maggio 1981 n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni ed integrazioni, aventi titolo in atti e fatti anteriori al 24 giugno 1995, fanno capo al commissario straordinario di cui all'articolo 5, comma 1. Salvo quanto disposto dai precedenti commi 1 e 2, ogni atto o domanda arbitrale e giudiziale deve essere notificata al commissario straordinario nel suo domicilio ex lege presso l'avvocatura distrettuale dello Stato di Napoli.
+4. Le controversie derivanti dai rapporti posti in essere ai sensi del titolo VIII della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni ed integrazioni, aventi titolo in atti e fatti anteriori al 24 giugno 1995, fanno capo al commissario straordinario di cui all'articolo 5, comma 1. Salvo quanto disposto dai precedenti commi 1 e 2, ogni atto o domanda arbitrale e giudiziale deve essere notificato al commissario straordinario nel suo domicilio ex lege presso l'avvocatura distrettuale dello Stato di Napoli.
 
 5. Sempre salvo quanto disposto ai commi 1 e 2, la facolta' di declinatoria della competenza arbitrale puo' essere esercitata disgiuntamente dal commissario straordinario o dall'avvocatura distrettuale dello Stato di Napoli.
 
@@ -80,7 +80,7 @@ Art. 6
 Art. 7
 ------
 
-1. Ai fini del completamento del programma di edilizia residenziale pubblica di cui al titolo VIII della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni ed integrazioni, gli enti proprietari individuati dal decreto del Ministro del bilancio e della programmazione ecomomica in data 4 novembre 1994 [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 305 del 31 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-31&numeroGazzetta=305), cosi' come modificato dal [decreto-legge 23 giugno1995 n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341), si avvalgono delle procedure e dei poteri gia' attribuiti al funzionario incaricato dal CIPE.
+1. Ai fini del completamento del programma di edilizia residenziale pubblica di cui al titolo VIII della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni ed integrazioni, gli enti proprietari individuati dal [decreto del Ministro del bilancio e della programmazione economica in data 4 novembre 1994, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 305 del 31 dicembre 1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-12-31&numeroGazzetta=305), cosi' come modificato dal [decreto-legge 23 giugno 1995, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), convertito, con modificazioni, dalla [legge 8 agosto 1995, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341), si avvalgono delle procedure e dei poteri gia' attribuiti al funzionario incaricato dal CIPE.
 
 2. Sempre al fine del completamento delle operazioni in corso, ivi compresa l'ultimazione dei lavori, il collaudo e il ripristino delle opere vandalizzate, gli enti di cui al primo comma possono avvalersi, previa intesa, del personale del provveditorato alle opere pubbliche per la Campania, nonche' a partire dal 1 gennaio 1998, del personale in servizio alla data del 30 giugno 1996 presso il funzionario incaricato dal CIPE.
 
@@ -96,17 +96,24 @@ Art. 8
 Art. 9
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Nell'ambito del programma di risanamento della Sicilcassa S.p.a., in amministrazione straordinaria, e in considerazione dei suoi effetti sull'occupazione, i dipendenti della predetta societa', i quali alla data di entrata in vigore del presente decreto abbiano maturato almeno 25 anni di anzianita' di servizio, indipendentemente dall'eta' anagrafica, ovvero almeno 60 anni di eta' se uomini e 55 se donne e 17 anni di anzianita' assicurativa, conseguono il diritto al trattamento pensionistico a carico del fondo integrativo aziendale ex-esonerativo a condizione che l'estinzione dei rapporti di lavoro consegua ad accordi collettivi, concernenti la riduzione dei dipendenti in esubero, tra la banca e le organizzazioni sindacali dei lavoratori. In mancanza degli accordi o in caso di insufficienza degli esodi volontari rispetto a quanto indicato negli accordi stessi, i commissari straordinari attivano la procedura di riduzione del personale prevista dalla [legge 23 luglio 1991, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223). Gli accordi predetti o il ricorso alla procedura prevista dalla [legge n. 233 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;233), assorbono e sostituiscono le procedure di analoga natura contemplate nei contratti collettivi, con esclusione di oneri a carico della banca, fatta eccezione per il trattamento di fine rapporto. La procedura della citata [legge n. 223 del 1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;223) si applica anche al personale direttivo. Ai soli fini della individuazione dei dipendenti interessati dalla medesima procedura, prevale il criterio della maggiore anzianita' ai fini pensionistici.
+
+Art. 10
+-------
+
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 agosto 1996
+### Dato a Roma, addi' 1 ottobre 1996
 
 SCALFARO
 
 PRODI, Presidente del Consiglio dei Ministri
 
 CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
+
+TREU, Ministro del lavoro e della previdenza sociale
 
 Visto, il Guardasigilli: FLICK

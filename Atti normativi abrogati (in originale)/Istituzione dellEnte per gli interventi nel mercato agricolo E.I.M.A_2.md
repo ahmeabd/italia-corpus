@@ -1,13 +1,13 @@
-DECRETO-LEGGE 25 maggio 1994 n. 314
+DECRETO-LEGGE 25 luglio 1994 n. 464
 
 
-DECRETO-LEGGE 25 maggio 1994 n. 314
+DECRETO-LEGGE 25 luglio 1994 n. 464
 ===================================
 
 Istituzione dell'Ente per gli interventi nel mercato agricolo E.I.M.A.
 ----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 26/5/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-7-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare una nuova disciplina normativa per l'Azienda di Stato per gli interventi nel mercato agricolo, trasformandola in Ente autonomo di diritto pubblico e provvedendo altresi' al temporaneo commissariamento dell'Ente medesimo;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 luglio 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri delle finanze, del tesoro e per la funzione pubblica e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri delle finanze, del tesoro, per la funzione pubblica e gli affari regionali e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -161,24 +161,30 @@ Art. 10
 
 Il collegio dei revisori
 
-1. Il collegio dei revisori e' composto da tre componenti iscritti nel Registro dei revisori contabili, designati:
+1. Il collegio dei revisori e' composto da cinque membri effettivi, iscritti o in possesso dei requisiti per l'iscrizione nel registro di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;88~art1), designati:
 
-a) uno dal Presidente del Consiglio dei Ministri, scelto tra gli appartenenti alla magistratura amministrativa o contabile o tra gli avvocati dello Stato, che ne assume la presidenza;
+a) uno dal Presidente del Consiglio dei Ministri tra i magistrati amministrativi o contabili o gli avvocati dello Stato, con funzioni di presidente;
 
-b) due dal Ministro del tesoro, scelti tra i dirigenti generali amministrativi in servizio, esperti in materia di revisione aziendale, appartenenti ai ruoli della Ragioneria generale dello Stato, i quali, per la durata dell'incarico, sono collocati in posizione di fuori ruolo.
+b) due dal Ministro del tesoro;
 
-2. Sono altresi' nominati due componenti supplenti, designati dal Ministro del tesoro e scelti tra i dirigenti della Ragioneria generale dello Stato.
+c) uno dal Ministro del bilancio e della programmazione economica;
 
-3. Il collegio dei revisori e' nominato con decreto del Ministro e dura in carica cinque anni.
+d) uno dal Ministro delle risorse agricole, alimentari e forestali.
 
-4. Il collegio dei revisori verifica la regolarita' delle scritture contabili, l'economicita', l'efficenza e l'efficacia della gestione ed analizza i processi decisionali ed esecutivi degli organi e degli uffici dell'Ente.
+2. I membri di cui alle lettere b), c) e d) del comma 1 possono essere nominati anche fra estranei alla pubblica amministrazione e, se dipendenti pubblici, devono rivestire la qualifica di dirigente generale ed essere collocati fuori ruolo per tutta la durata del mandato.
 
-5. I revisori hanno diritto di assistere alle sedute del consiglio.
+3. Sono nominati anche due componenti supplenti designati, rispettivamente, dal Ministro del tesoro e dal Ministro del bilancio e della programmazione economica.
 
-6. Il collegio dei revisori riferisce al consiglio i risultati delle verificazioni effettuate e propone gli eventuali correttivi.  
+4. Il collegio dei revisori e' nominato con decreto del Ministro e dura in carica cinque anni.
+
+5. Il collegio dei revisori verifica la regolarita' delle scritture contabili, l'economicita', l'efficenza e l'efficacia della gestione ed analizza i processi decisionali ed esecutivi degli organi e degli uffici dell'Ente.
+
+6. I revisori hanno diritto di assistere alle sedute del consiglio.
+
+7. Il collegio dei revisori riferisce al consiglio i risultati delle verificazioni effettuate e propone gli eventuali correttivi.  
 Nel caso vengano accertate gravi irregolarita' amministrative o contabili, il collegio riferisce direttamente al Ministro.
 
-7. Sino alla costituzione del collegio dei revisori ai sensi del presente articolo, resta in carica il collegio nominato ai sensi dell'[articolo 4 della legge 14 agosto 1982, n. 610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610~art4).
+8. Sino alla costituzione del collegio dei revisori ai sensi del presente articolo, resta in carica il collegio nominato ai sensi dell'[articolo 4 della legge 14 agosto 1982, n. 610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;610~art4).
 
 Art. 11
 -------
@@ -247,14 +253,47 @@ Norme transitorie
 Art. 16
 -------
 
+Controlli comunitari
+
+1. Per l'effettuazione dei controlli di propria competenza previsti dai [regolamenti (CEE) n. 4045/89 del Consiglio del 21 dicembre 1989](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31989R4045), [n. 307/91](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31991R0307) del Consiglio del 4 febbraio 1991, n. 2075/92 del Consiglio del 30 giugno 1992, e loro successive integrazioni e modificazioni, il Ministero delle risorse agricole, alimentari e forestali e' autorizzato a costituire, previa intesa con il Ministero del tesoro, una o piu' agenzie aventi forma di societa' per azioni, compatibilmente con i vincoli derivanti dalla richiamata normativa comunitaria, prevedendo forme di coordinamento di strutture e funzioni tra tutti i soggetti addetti al controllo, ivi compresa l'Agecontrol S.p.a. per conseguire economicita' di gestione ed efficiente impiego delle risorse disponibili. Il capitale sociale e' sottoscritto, oltre che dal Ministero delle risorse agricole, alimentari e forestali, esclusivamente da soggetti pubblici; la pubblicazione del presente decreto tiene luogo di tutti gli adempimenti in materia di costituzione delle societa' previste dalla normativa vigente.
+
+2. Nell'esercizio dell'attivita' di controllo, alle agenzie di cui al comma 1 ed al loro personale, preposto a tali attivita', si applicano le norme di cui all'articolo 1, commi 2, 3 e 5, in quanto applicabili, ed all'[articolo 2 del decreto-legge 27 ottobre 1986, n. 701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701~art2), convertito, con modificazioni, dalla [legge 23 dicembre 1986, n. 898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898).
+
+3. Le agenzie di cui al comma 1 per la predisposizione e l'esecuzione delle verifiche tecnico-analitiche si avvalgono, mediante convenzione, dei laboratori dell'Ispettorato centrale repressione frodi o con questo convenzionati.
+
+4. Le agenzie di cui al comma 1 assumono in via prioritaria, previa selezione, il personale posto in mobilita' a seguito della riorganizzazione dell'Ente per gli interventi nel mercato agricolo - EIMA e quello posto in mobilita' o in cassa integrazione a causa della crisi delle societa' cooperative, nonche' delle imprese a queste collegate, di cui all'[articolo 1 del decreto legislativo 7 maggio 1948, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1235~art1).
+
+5. Il personale addetto ai controlli dovra' essere in possesso di idoneo diploma di laurea.
+
+6. Per l'aggiornamento del personale selezionato il Ministero delle risorse agricole, alimentari e forestali disporra' di corsi di riqualificazione, con esami finali, avvalendosi della Scuola superiore della pubblica amministrazione.
+
+Art. 17
+-------
+
+Norme di copertura
+
+1. All'onere derivante dell'attuazione dell'articolo 16, determinato in lire 6.000 milioni per l'anno 1994, lire 24.000 milioni per l'anno 1995 e lire 30.000 milioni annui a decorrere dal 1996, si provvede, quanto a lire 6.000 milioni per l'anno 1994, a carico del bilancio dell'EIMA, che provvede mediante versamenti di pari importo all'entrata del bilancio dello Stato al fine della riassegnazione, con decreto del Ministro del tesoro, ad uno o piu' capitoli dello stato di previsione del Ministero delle risorse agricole, alimentari e forestali; quanto a lire 24.000 milioni per l'anno 1995 e a lire 30.000 milioni per l'anno 1996, mediante utilizzo delle proiezioni per i medesimi anni dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1994, parzialmente utilizzando l'accantonamento relativo al Ministero delle risorse agricole, alimentari e forestali.
+
+2. Il Ministero del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+Art. 18
+-------
+
+Condono previdenziale
+
+1. I termini del 31 luglio 1994 previsti dall'[articolo 21 del decreto-legge 27 giugno 1994, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-27;414~art21), sono differiti al 31 agosto 1994 per la regolarizzazione del condono dei contributi agricoli unificati.
+
+Art. 19
+-------
+
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1994
+### Dato a Roma, addi' 25 luglio 1994
 
 SCALFARO
 
@@ -269,5 +308,7 @@ TREMONTI, Ministro delle finanze
 DINI, Ministro del tesoro
 
 URBANI, Ministro per la funzione pubblica e gli affari regionali
+
+PAGLIARINI, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: BIONDI

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 20 novembre 1992 n. 450
+DECRETO-LEGGE 20 luglio 1993 n. 244
 
 
-DECRETO-LEGGE 20 novembre 1992 n. 450
-=====================================
+DECRETO-LEGGE 20 luglio 1993 n. 244
+===================================
 
 Disposizioni urgenti concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione.
 --------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 21/11/1992.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22/07/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti misure patrimoniali e interdittive in tema di delitti contro la pubblica amministrazione;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 novembre 1992;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 luglio 1993;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
 
@@ -29,11 +29,11 @@ Misure patrimoniali
 
 1. Quando e' disposto il giudizio o comunque si procede al giudizio in ordine a taluno dei delitti previsti dagli articoli 314, primo comma, 317, 318, primo comma, 319, 319-ter, 320, 321, 323, secondo comma, e 326, terzo comma, prima parte, del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398), su richiesta del pubblico ministero il giudice dispone, con decreto motivato, il sequestro di beni dell'imputato, nei limiti del valore pari all'effettivo vantaggio patrimoniale o al concreto profitto derivati dal reato ovvero, per i delitti di concussione o corruzione, pari a quanto dato o ricevuto.
 
-2. Il pubblico ministero puo' procedere ad indagini sulle disponibilita' patrimoniali e finanziarie della persona nei cui confronti si procede al fine di individuare beni che possono essere sottoposti a sequestro ai sensi del comma 1, osservate, in quanto compatibili, le disposizioni dell'[articolo 2-bis, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com3) e [6, della legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com6).
+2. Il pubblico ministero puo' procedere ad indagini sulle disponibilita' patrimoniali e finanziarie della persona nei cui confronti si procede al fine di individuare beni che possono essere sottoposti a sequestro ai sensi del comma 1, osservate, in quanto compatibili, le disposizioni dell'[articolo 2- bis, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com3) e [6, della legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575~art2bis-com6).
 
 3. Il provvedimento di sequestro indicato nel comma 1 e' adottato dal giudice competente in ordine alle misure cautelari, a norma degli [articoli 279 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art279) e 91 del [decreto legislativo 28 luglio 1989, n. 271](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-07-28;271), recante le norme di attuazione, di coordinamento e transitorie dello stesso codice; prima della trasmissione degli atti al giudice competente per il giudizio, provvede il giudice per le indagini preliminari.
 
-4. Il sequestro indicato nel comma 1 e' regolato dalle disposizioni del [codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) concernenti il sequestro preventivo, ad eccezione di quelle di cui ai commi 3-bis e 3-ter dell'articolo 321 dello stesso codice.
+4. Il sequestro indicato nel comma 1 e' regolato dalle disposizioni del [codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) concernenti il sequestro preventivo, ad eccezione di quelle di cui ai commi 3- bis e 3- ter dell'articolo 321 dello stesso codice.
 
 5. L'interessato puo' chiedere che, in luogo del sequestro, sia ammessa la prestazione di cauzione o di altra idonea garanzia reale.  
 Il giudice, se accoglie la richiesta, stabilisce le modalita' di prestazione della garanzia; se questa non viene prestata nel termine e secondo le modalita' stabilite, dispone il sequestro.
@@ -60,8 +60,8 @@ Misure interdittive
 
 2. La disposizione del comma 1 non si applica in caso di condanna pronunciata con la sentenza prevista dall'[articolo 444, comma 2, del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art444-com2), ovvero con la sentenza prevista dall'articolo 442 dello stesso codice.
 
-3. L'[articolo 32-quater del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art32quater), introdotto dall'[articolo 120 della legge 24 novembre 1991, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-24;689~art120), e sostituito dall'[articolo 21 della legge 19 marzo 1990, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55~art21), e' ulteriormente sostituito dal seguente:   
-"Art. 32-quater (Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione). - Ogni condanna per i delitti previsti dagli articoli 316-bis, 317, 318, 319, 319-bis, 320, 321, 322, 353, 355, 356, 416, 416- bis, 437, 501, 501-bis, 640, numero 1) del secondo comma, 640- bis, commessi in danno o in vantaggio di un'attivita' imprenditoriale o comunque in relazione ad essa, importa l'incapacita' di contrattare con la pubblica amministrazione.".
+3. L'[articolo 32-quater del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art32quater), introdotto dall'[articolo 120 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art120), e sostituito dall'[articolo 21 della legge 19 marzo 1990, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55~art21), e' ulteriormente sostituito dal seguente:   
+"Art. 32-quater (Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione). - Ogni condanna per i delitti previsti dagli articoli 316- bis, 317, 318, 319, 319- bis, 320, 321, 322, 353, 355, 356, 416, 416- bis, 437, 501, 501- bis, 640, numero 1) del secondo comma, 640- bis, commessi in danno o in vantaggio di un'attivita' imprenditoriale o comunque in relazione ad essa, importa l'incapacita' di contrattare con la pubblica amministrazione".
 
 Art. 4
 ------
@@ -88,17 +88,17 @@ Art. 6
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 novembre 1992
+### Dato a Roma, addi' 20 luglio 1993
 
 SCALFARO
 
-AMATO, Presidente del Consiglio dei Ministri
+CIAMPI, Presidente del Consiglio dei Ministri
 
-MARTELLI, Ministro di grazia e giustizia
+CONSO, Ministro di grazia e giustizia
 
-Visto, il Guardasigilli: MARTELLI
+Visto, il Guardasigilli: CONSO

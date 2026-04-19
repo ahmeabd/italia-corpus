@@ -1,14 +1,14 @@
-DECRETO-LEGGE 26 aprile 1996 n. 213
+DECRETO-LEGGE 26 febbraio 1996 n. 77
 
 
-DECRETO-LEGGE 26 aprile 1996 n. 213
-===================================
+DECRETO-LEGGE 26 febbraio 1996 n. 77
+====================================
 
 Disposizioni urgenti in materia di bilanci per le imprese operanti 
 nel settore dell'editoria e di protezione del diritto d'autore.
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 28-4-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 27/2/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -21,7 +21,7 @@ Ritenuta la straordinaria necessita' ed urgenza di assegnare contributi straordi
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di intervenire sulla disciplina di protezione del diritto d'autore;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 aprile 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 febbraio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con il Ministro delle poste e delle telecomunicazioni;
 
@@ -32,7 +32,7 @@ CAPO I
 
 ### Art. 1
 
-Informazioni dovute all'Ufficio del Garante  
+Informazioni dovute all'Ufficio del Garante   
 per la radiodiffusione e l'editoria
 
 1. Il Garante per la radiodiffusione e l'editoria determina con propri provvedimenti da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana, stabilendo altresi' le modalita' e i termini di comunicazione, e con un anticipo di almeno novanta giorni rispetto ai termini fissati, i dati contabili ed extra contabili, nonche' le notizie che i soggetti di cui agli articoli 11, commi secondo e quarto, 12, 18, [commi primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art19-com1), [secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art19-com2) e [terzo, e 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art19-com3), [comma primo, della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~com1), all'[articolo 11 della legge 7 agosto 1990, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;250~art11), e successive modificazioni e integrazioni, agli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art12) e [21 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art21), e all'[articolo 6, comma 3, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art6-com3), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), sono tenuti a trasmettere al suo Ufficio, nonche' i dati che devono formare oggetto di comunicazione da parte dei soggetti di cui agli [articoli 5 della legge 25 febbraio 1987, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-25;67~art5), e 11-bis del [decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422). Le fondazioni, gli enti morali, le associazioni, i gruppi di volontariato, i sindacati, le cooperative non aventi scopo di lucro, le imprese individuali, che siano editrici di un solo periodico che pubblichi meno di dodici numeri all'anno, ovvero di un solo periodico distribuito in un'unica area geografica provinciale, ovvero di piu' periodici tutti a carattere scientifico, sempre che i ricavi della raccolta pubblicitaria non rappresentino piu' del 20 per cento dei ricavi derivanti dalle vendite, o che siano titolari di una sola concessione per la radiodiffusione in ambito locale, sonora o televisiva, sono tenuti ad inviare annualmente al Garante per la radiodiffusione e l'editoria una comunicazione unica, su carta semplice, recante i seguenti dati:
@@ -64,7 +64,7 @@ Obbligo di pubblicazione del bilancio
 2. I soggetti di cui all'[articolo 11, comma secondo, numeri 1)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11-com2-num1) e [2), della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11-com2-num2), devono pubblicare su tutte le testate edite lo stato patrimoniale e il conto economico del bilancio di esercizio, corredato da un prospetto di dettaglio delle voci di bilancio relative all'esercizio dell'attivita' editoriale secondo il modello stabilito con i provvedimenti di cui all'articolo 1, nonche', eventualmente, lo stato patrimoniale e il conto economico del bilancio consolidato del gruppo di appartenenza, entro il 31 agosto di ogni anno.
 
 3. Il [comma secondo dell'articolo 12 della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art12-com2), e' sostituito dal seguente:  
-"Lo stato patrimoniale e il conto economico del bilancio di esercizio delle imprese concessionarie di pubblicita', integrati da un elenco che indichi le testate delle quali la concessionaria ha l'esclusiva della pubblicita', devono essere pubblicati, entro il 31 agosto di ogni anno, su tutte le testate servite dalla stessa impresa di pubblicita'.".
+"Lo stato patrimoniale e il conto economico del bilancio di esercizio delle imprese concessionarie di pubblicita', integrati da un elenco che indichi le testate delle quali la concessionaria ha l'esclusiva della pubblicita', devono essere pubblicati, entro il 31 agosto di ogni anno, su tutte le testate servite dalla stessa impresa di pubblicita'".
 
 4. L'alinea del [comma 10 dell'articolo 3 della legge 7 agosto 1990, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;250~art3-com10), gia' sostituito dall'[articolo 1, comma 2, della legge 14 agosto 1991, n. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-14;278~art1-com2), e' sostituito dal seguente:  
 "Alle imprese editrici di quotidiani o periodici che, oltre che attraverso esplicita menzione riportata in testata, risultino essere organi o giornali di forze politiche che abbiano un proprio rappresentante in almeno un ramo del Parlamento e nel Parlamento europeo, ovvero piu' di un rappresentante in almeno un ramo del Parlamento, nell'anno di riferimento dei contributi, a decorrere dal 1 gennaio 1995, e' corrisposto:".
@@ -166,12 +166,12 @@ Durata della protezione del diritto d'autore
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1996
+### Dato a Roma, addi' 26 febbraio 1996
 
 SCALFARO
 

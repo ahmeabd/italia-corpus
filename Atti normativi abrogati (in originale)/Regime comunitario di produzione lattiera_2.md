@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 maggio 1996 n. 260
+DECRETO-LEGGE 15 marzo 1996 n. 124
 
 
-DECRETO-LEGGE 16 maggio 1996 n. 260
-===================================
+DECRETO-LEGGE 15 marzo 1996 n. 124
+==================================
 
 Regime comunitario di produzione lattiera.
 ------------------------------------------
 
-Entrata in vigore del decreto: 16/5/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 17-3-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di apportare alcune modifiche alle disposizioni nazionali di applicazione della normativa comunitaria sulle quote latte, al fine di evitare che una inidonea attuazione delle disposizioni comunitarie comporti un ingente onere finanziario nei confronti dell'Unione europea;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle risorse agricole, alimentari e forestali;
 
@@ -41,20 +41,20 @@ Art. 2
 a) in favore dei produttori titolari di quota A e di quota B nei confronti dei quali e' stata disposta la riduzione della quota B, nei limiti del quantitativo ridotto;  
 b) in favore dei produttori titolari esclusivamente della quota A che hanno superato la propria quota, nei limiti del 5 per cento della quota medesima;  
 c) in favore dei produttori delle zone di montagna e delle zone svantaggiate di cui alla [direttiva 75/268/CEE del Consiglio del 28 aprile 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31975L0268);  
-d) in favore di tutti gli altri produttori".
+d) in favore di tutti gli altri produttori.".
 
 2. Dopo il [comma 12 dell'articolo 5 della legge 26 novembre 1992, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468~art5-com12), e' inserito il seguente:  
-"12-bis. Al fine di consentire, ove dovuta, la restituzione ai produttori delle somme trattenute dagli acquirenti, l'AIMA effettua la compensazione nazionale di cui al comma 12, entro il 31 agosto di ciascun anno, sulla base delle dichiarazioni di cui al comma 1, che gli acquirenti sono tenuti a trasmettere, in conformita' al [regolamento (CEE) n. 536/1993 della Commissione del 9 marzo 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0536), entro il 15 maggio di ciascun anno".
+"12-bis. Al fine di consentire, ove dovuta, la restituzione ai produttori delle somme trattenute dagli acquirenti, l'AIMA effettua la compensazione nazionale di cui al comma 12, entro il 31 agosto di ciascun anno, sulla base delle dichiarazioni di cui al comma 1, che gli acquirenti sono tenuti a trasmettere, in conformita' al [regolamento (CEE) n. 536/1993 della Commissione del 9 marzo 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0536), entro il 15 maggio di ciascun anno.".
 
 Art. 3
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 maggio 1996
+### Dato a Roma, addi' 15 marzo 1996
 
 SCALFARO
 
@@ -62,6 +62,6 @@ DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
 LUCHETTI, Ministro delle risorse
 
-AGRICOLE, ALIMENTARI E FORESTALI
+agricole, alimentari e forestali
 
 Visto, il Guardasigilli: CAIANIELLO

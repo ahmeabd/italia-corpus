@@ -1,14 +1,14 @@
-DECRETO-LEGGE 15 marzo 1996 n. 127
+DECRETO-LEGGE 17 maggio 1996 n. 264
 
 
-DECRETO-LEGGE 15 marzo 1996 n. 127
-==================================
+DECRETO-LEGGE 17 maggio 1996 n. 264
+===================================
 
 Disposizioni fiscali urgenti in materia di potenziamento degli 
 organici ed altre disposizioni tributarie urgenti.
 ------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19/3/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 18-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni fiscali in materia di potenziamento degli organici ed altre disposizioni tributarie;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 maggio 1996;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze, di concerto con i Ministri di grazia e giustizia, del bilancio e della programmazione economica e per la funzione pubblica e gli affari regionali;
 
@@ -97,12 +97,12 @@ Art. 8
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 marzo 1996
+### Dato a Roma, addi' 17 maggio 1996
 
 SCALFARO
 
@@ -114,6 +114,6 @@ CAIANIELLO, Ministro di grazia e giustizia
 
 ARCELLI, Ministro del bilancio e della programmazione economica
 
-FRATTINI, Ministro per la funzione pubblica e gli affari regionali
+MOTZO, Ministro per la funzione pubblica e gli affari regionali
 
 Visto, il Guardasigilli: CAIANIELLO

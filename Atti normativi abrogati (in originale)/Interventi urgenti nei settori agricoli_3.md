@@ -1,13 +1,13 @@
-DECRETO-LEGGE 03 giugno 1996 n. 302
+DECRETO-LEGGE 02 aprile 1996 n. 182
 
 
-DECRETO-LEGGE 03 giugno 1996 n. 302
+DECRETO-LEGGE 02 aprile 1996 n. 182
 ===================================
 
 Interventi urgenti nei settori agricoli.
 ----------------------------------------
 
-Entrata in vigore del decreto: 3-6-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 4/4/1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di prorogare l'attivita' del Fondo per lo sviluppo della meccanizzazione in agricoltura, al fine di consentire la prosecuzione delle attivita' per il miglioramento genetico del bestiame, per l'approvvigionamento idrico, nonche' di intervenire nella regolamentazione del regime di produzione lattiera;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 maggio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 aprile 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri dei lavori pubblici e del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle risorse agricole, alimentari e forestali, di concerto con il Ministro dei lavori pubblici e dell'ambiente;
 
 E M A N A il seguente decreto-legge:
 
@@ -35,10 +35,9 @@ Art. 2
 
 Interventi finanziari straordinari
 
-1. Per assicurare la continuita' delle attivita' necessarie all'esercizio delle grandi dighe, gia' ultimate e in gestione o in corso di ultimazione con la costruzione delle relative adduzioni e distribuzione primaria dell'acqua a fini prevalentemente irrigui, nelle more di un definitivo riordino delle loro funzioni e finalita', sono attribuiti contributi straordinari per l'anno 1995, rispettivamente, nell'importo di lire 30 miliardi all'Ente per lo sviluppo dell'irrigazione in Puglia, Lucania ed Irpinia, e nell'importo di lire 14 miliardi all'Ente irriguo umbro-toscano.
+1. Per assicurare la continuita' delle attivita' necessarie all'esercizio delle grandi dighe, gia' ultimate e in gestione o in corso di ultimazione con la costruzione delle relative adduzioni e distribuzione primaria dell'acqua a fini prevalentemente irrigui, nelle more di un definitivo riordino delle loro funzioni e finalita', sono attribuiti contributi straordinari per l'anno 1995, rispettivamente, nell'importo di lire 30 miliardi all'Ente per lo sviluppo dell'irrigazione in Puglia, Lucania ed Irpinia e nell'importo di lire 14 miliardi all'Ente irriguo umbro-toscano.
 
-2. Per consentire il conseguimento di una maggiore economia nel settore degli allevamenti, anche attraverso il miglioramento genetico del bestiame, e per far fronte alle connesse esigenze finanziarie, e' autorizzata la spesa di lire 46 miliardi, di cui 500 milioni a titolo di contributo per programmi di miglioramento del lupo italiano, per  
-l'anno 1995.
+2. Per consentire il conseguimento di una maggiore economia nel settore degli allevamenti, anche attraverso il miglioramento genetico del bestiame, e per far fronte alle connesse esigenze finanziarie, e' autorizzata la spesa di lire 46 miliardi, di cui 500 milioni a titolo di contributo per programmi di miglioramento del lupo italiano, per l'anno 1995.
 
 Art. 3
 ------
@@ -62,23 +61,23 @@ Art. 5
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Le disposizioni del presente decreto hanno effetto dal 6 aprile 1996. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 giugno 1996
+### Dato a Roma, addi' 2 aprile 1996
 
-SCALFARO
+Il Presidente del Senato della Repubblica nell'esercizio
 
-PRODI, Presidente del Consiglio dei Ministri
+delle funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
 
-PINTO, Ministro delle risorse
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+
+LUCHETTI, Ministro delle risorse
 
 agricole, alimentari e forestali
 
-DI PIETRO, Ministro dei lavori pubblici
+BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
-CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
-
-Visto, il Guardasigilli: FLICK
+Visto, il Guardasigilli: CAIANIELLO

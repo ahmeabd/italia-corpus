@@ -1,7 +1,7 @@
-DECRETO-LEGGE 08 maggio 1987 n. 180
+DECRETO-LEGGE 10 luglio 1987 n. 274
 
 
-DECRETO-LEGGE 08 maggio 1987 n. 180
+DECRETO-LEGGE 10 luglio 1987 n. 274
 ===================================
 
 Interventi urgenti di adeguamento strutturale e funzionale di 
@@ -18,7 +18,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di adottare interventi intesi ad assicurare l'adeguamento strutturale e funzionale degli immobili destinati a musei, archivi e biblioteche, al fine di garantire la massima sicurezza e la piena funzionalita', nonche' di partecipare alle celebrazioni del XXX anniversario del Festival dei Due Mondi di Spoleto;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 maggio 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 luglio 1987;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per i beni culturali e ambientali, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
@@ -32,7 +32,7 @@ Art. 1
 
 1. E' autorizzata la spesa di lire 350 miliardi nell'anno 1987, di cui non meno del 50 per cento da localizzare nel Mezzogiorno, per la realizzazione di un programma di interventi urgenti volto a garantire:
 
-a) l'adeguamento strutturale e funzionale degli immobili statali e di enti pubblici destinati a musei, archivi e biblioteche dello Stato, delle aree archeologiche e delle altre sedi del Ministero per i beni culturali e ambientali, che puo' comprendere, ove necessario, l'installazione e l'adeguamento di impianti tecnologici e di sicurezza;
+a) l'adeguamento strutturale e funzionale degli immobili statali e di enti pubblici destinati a musei, archivi e biblioteche dello Stato, delle aree archeologiche e delle altre sedi del Ministero per i beni culturali e ambientali, che puo' comprendere, ove necessario, la installazione e l'adeguamento di impianti tecnologici e di sicurezza;
 
 b) il restauro degli edifici in particolari condizioni di precarieta' statica e funzionale di interesse artistico e storico dello Stato e di enti pubblici, nonche' dei beni mobili connessi e del patrimonio archivistico e librario;
 
@@ -70,7 +70,7 @@ Art. 4
 Art. 5
 ------
 
-1. All'onere di lire 350 miliardi derivante dall'applicazione dell'articolo 1 si provvede mediante corrispondente riduzione del capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1987, parzialmente utilizzando l'accantonamento "Iniziative per la tutela, la valorizzazione e il restauro dei beni culturali, compreso il rifinanziamento dell'[art. 15 della legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41~art15)".
+1. All'onere di lire 350 miliardi derivante dall'applicazione dell'articolo 1 si provvede mediante corrispondente riduzione del capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1987, parzialmente utilizzando l'accantonamento "Iniziative per la tutela, la valorizzazione e il restauro dei beni culturali, compreso il rifinanziamento dell'[articolo 15 della legge 28 febbraio 1986, n. 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41~art15)".
 
 2. All'onere di cui all'articolo 4, stimato in lire 2.500 milioni per l'anno 1987, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario medesimo, all'uopo parzialmente utilizzando l'accantonamento "Provvedimenti organici per il sostegno e lo sviluppo delle attivita' culturali".
 
@@ -79,12 +79,12 @@ Art. 5
 Art. 6
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 maggio 1987
+### Dato a Roma, addi' 10 luglio 1987
 
 COSSIGA
 
@@ -92,12 +92,12 @@ FANFANI, Presidente del Consiglio dei Ministri
 
 GULLOTTI, Ministro per i beni culturali e ambientali
 
-GORIA, Ministro del tesoro e ad
+GORIA, Ministro del tesoro e, ad
 
 interim, del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 11 maggio 1987
+Registrato alla Corte dei conti, addi' 11 luglio 1987
 
-Atti di Governo, registro n. 65, foglio n. 19
+Atti di Governo, registro n. 68, foglio n. 5

@@ -1,14 +1,14 @@
-DECRETO-LEGGE 10 luglio 1996 n. 357
+DECRETO-LEGGE 10 maggio 1996 n. 253
 
 
-DECRETO-LEGGE 10 luglio 1996 n. 357
+DECRETO-LEGGE 10 maggio 1996 n. 253
 ===================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della 
 Costituzione.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 11-7-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 12-05-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 luglio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 maggio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -90,12 +90,12 @@ Art. 7
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 luglio 1996
+### Dato a Roma, addi' 10 maggio 1996
 
 SCALFARO
 
-PRODI, Presidente del Consiglio dei Ministri
+DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
-FLICK, Ministro di grazia e giustizia
+CAIANIELLO, Ministro di grazia e giustizia
 
-Visto, il Guardasigilli: FLICK
+Visto, il Guardasigilli: CAIANIELLO

@@ -1,8 +1,8 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 05 ottobre 1946 n. 329
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 04 febbraio 1947 n. 175
 
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 05 ottobre 1946 n. 329
-===============================================================
+DECRETO DEL CAPO PROVVISORIO DELLO STATO 04 febbraio 1947 n. 175
+================================================================
 
 Autorizzazione all'Universita' di Milano ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-329. Decreto del Capo provvisorio dello Stato 5 ottobre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 150.000 nominali in buoni del Tesoro 5%, disposta in suo favore dal dott. Alfredo Albertini, in nome proprio e dei colleghi medici, degli amici ed estimatori del dott. Emilio Alberto Ragazzi e della sua famiglia, per l'istituzione di una borsa di studio da intitolarsi al nome del "dott. Emilio Alberto Ragazzi" e da conferirsi, ogni due anni, alternativamente, ad uno studente del secondo biennio della Facolta' di giurisprudenza o del terzo biennio della Facolta' di medicina e chirurgia, con preferenza a chi comprovi, con scritti e memorie, di dedicarsi allo studio di problemi giuridici e coloniali o di patologia tropicale.  
+175. Decreto del Capo provvisorio dello Stato 4 febbraio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Milano viene autorizzata ad accettare la donazione della somma di L. 300.000 nominali in titoli di Stato 5%, disposta in suo favore, con atto pubblico in data 23 febbraio 1945, dai dottori Giuseppe e Carlo Pasini e dal prof. Angelo Bellini, per incrementare la biblioteca annessa alla Clinica dermosifilopatica dell'Universita' medesima e per premiare, annualmente, alcuni lavori originali di dermatologia, pubblicati sul giornale italiano di dermatologia e sifilografia.  
   
 Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei conti, addi' 16 novembre 1946
+Registrato alla Corte dei Conti, addi' 26 marzo 1947

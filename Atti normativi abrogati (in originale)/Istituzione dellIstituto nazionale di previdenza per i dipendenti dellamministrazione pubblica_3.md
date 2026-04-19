@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 dicembre 1993 n. 523
+DECRETO-LEGGE 14 febbraio 1994 n. 106
 
 
-DECRETO-LEGGE 16 dicembre 1993 n. 523
+DECRETO-LEGGE 14 febbraio 1994 n. 106
 =====================================
 
 Istituzione dell'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica.
 -------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 19/12/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 17-2-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni concernenti la soppressione di taluni enti e casse previdenziali, al fine di razionalizzare il settore unificando le rispettive attribuzioni in un unico Istituto;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 dicembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 febbraio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro;
 
@@ -104,7 +104,7 @@ Art. 3
 
 8. Il personale dei ruoli della Ragioneria generale dello Stato, in servizio continuativo presso la Ragioneria centrale istituita con l'[articolo 5 della legge 16 agosto 1962, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-16;1291~art5), puo' esercitare l'opzione prevista dal comma 6 secondo i criteri e le modalita' ivi stabiliti. Tali opzioni non determinano modifiche alle dotazioni organiche complessive della Ragioneria generale dello Stato.
 
-9. Al personale dell'INPDAP si applicano le disposizioni del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29). Il personale dell'INPDAP e' iscritto per il trattamento di previdenza, quiescenza e di fine servizio e per la previdenza integrativa, a decorrere dal 1' gennaio 1994, al medesimo INPDAP, fermo restando, per il personale in servizio alla stessa data, il diritto di optare, entro i sei mesi successivi, per il mantenimento dei trattamenti in vigore presso le rispettive amministrazioni di appartenenza. Per l'eventuale ricongiunzione dei periodi di servizio ai fini del trattamento di pensione si applicano le disposizioni di cui alla [legge 22 giugno 1954, n. 523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-22;523). Per il personale iscritto all'INPDAP le amministrazioni versano la relativa contribuzione al medesimo Istituto a decorrere dal 1' gennaio 1994; per i periodi precedenti le corrispondenti risorse a copertura degli oneri relativi saranno versate dall'ente al quale il personale era iscritto, all'atto della erogazione delle prestazioni.
+9. Al personale dell'INPDAP si applicano le disposizioni del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29). Il personale dell'INPDAP e' iscritto per il trattamento di previdenza, quiescenza e di fine servizio e per la previdenza integrativa, a decorrere dal 1 gennaio 1994, al medesimo INPDAP, fermo restando, per il personale in servizio alla stessa data, il diritto di optare, entro i sei mesi successivi, per il mantenimento dei trattamenti in vigore presso le rispettive amministrazioni di appartenenza. Per l'eventuale ricongiunzione dei periodi di servizio ai fini del trattamento di pensione si applicano le disposizioni di cui alla [legge 22 giugno 1954, n. 523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-06-22;523). Per il personale iscritto all'INPDAP le amministrazioni versano la relativa contribuzione al medesimo Istituto a decorrere dal 1 gennaio 1994; per i periodi precedenti le corrispondenti risorse a copertura degli oneri relativi saranno versate dall'ente al quale il personale era iscritto, all'atto della erogazione delle prestazioni.
 
 10. Per l'eventuale eccedenza di personale rispetto alla dotazione organica approvata ai sensi del comma 2, lettera c), dell'articolo 2, si applicano le disposizioni vigenti in materia di mobilita' del personale delle amministrazioni pubbliche.
 
@@ -119,7 +119,7 @@ Art. 4
 
 1. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, sono nominati presso l'INPDAP un commissario straordinario ed un vice commissario al fine di assicurarne la gestione fino alla costituzione degli organi ordinari e di favorire le condizioni per la piena operativita' del presente decreto. Con lo stesso decreto e' stabilito il compenso dei commissari, posto a carico del bilancio dell'INPDAP.
 
-2. Il commissario straordinario esercita i poteri spettanti ai presidenti ed agli organi amministrativi degli enti, Istituto e casse ed al consiglio di amministrazione della soppressa Direzione generale degli istituti di previdenza di cui all'articolo 1 e stabilisce, con propria determinazione i poteri del vice commissario.
+2. Il commissario straordinario esercita i poteri spettanti ai presidenti ed agli organi amministrativi degli enti, Istituto e casse ed al consiglio di amministrazione della soppressa Direzione generale degli istituti di previdenza di cui all'articolo 1 e stabilisce, con propria determinazione, i poteri del vice commissario.
 
 3. Il commissario straordinario assume iniziative intese alla razionale utilizzazione del personale comunque in servizio presso l'INPDAP e dei beni strumentali amministrati dall'INPDAP, al fine di assicurare economicita', efficienza ed efficacia alla gestione complessiva dell'Istituto. Le determinazioni del commissario straordinario in materia di organizzazione degli uffici e di preposizione alle gestioni di cui all'articolo 1, comma 5, sono soggette all'approvazione dei Ministeri vigilanti.
 
@@ -139,7 +139,7 @@ Art. 5
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 dicembre 1993
+### Dato a Roma, addi' 14 febbraio 1994
 
 SCALFARO
 

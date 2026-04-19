@@ -1,13 +1,13 @@
-DECRETO-LEGGE 04 agosto 1993 n. 272
+DECRETO-LEGGE 02 ottobre 1993 n. 393
 
 
-DECRETO-LEGGE 04 agosto 1993 n. 272
-===================================
+DECRETO-LEGGE 02 ottobre 1993 n. 393
+====================================
 
 Riordinamento delle competenze regionali e statali in materia agricola e forestale e istituzione del Ministero per il coordinamento delle politiche agricole, alimentari e forestali.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 5/8/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 05/10/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,16 +18,17 @@ Considerato che, in esito al referendum popolare, e' stata abrogata la legge ist
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per il riordinamento delle competenze regionali e statali in materia agricola e forestale, nonche' per l'istituzione del Ministero per il coordinamento delle politiche agricole, alimentari e forestali;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 agosto 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 settembre 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'agricoltura e delle foreste, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica, dell'industria, del commercio e dell'artigianato, della sanita' e per il coordinamento delle politiche comunitarie e gli affari regionali;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per il coordinamento delle politiche agricole, alimentari e forestali, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica, dell'industria, del commercio e dell'artigianato, della sanita' e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
 E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-Attribuzione delle funzioni del soppresso Ministero dell'agricoltura e delle foreste
+Attribuzione delle funzioni del soppresso Ministero  
+dell'agricoltura e delle foreste
 
 1. Sono di competenza delle regioni le funzioni del soppresso Ministero dell'agricoltura e delle foreste, con l'esclusione di quelle di cui agli articoli 2 e 3.
 
@@ -36,7 +37,8 @@ Attribuzione delle funzioni del soppresso Ministero dell'agricoltura e delle for
 Art. 2
 ------
 
-Istituzione del Ministero per il coordinamento delle politiche agricole, alimentari e forestali
+Istituzione del Ministero per il coordinamento  
+delle politiche agricole, alimentari e forestali
 
 1. E' istituito il Ministero per il coordinamento delle politiche agricole, alimentari e forestali, di seguito denominato "Ministero".
 
@@ -73,7 +75,8 @@ c) in materia di opere irrigue di rilevanza nazionale e di valorizzazione della 
 Art. 3
 ------
 
-Organizzazione del Ministero e riordino degli enti vigilati
+Organizzazione del Ministero  
+e riordino degli enti vigilati
 
 1. Con uno o piu' regolamenti governativi, da emanarsi, entro 90 giorni dalla data di entrata in vigore della legge di conversione del presente decreto, ai sensi del [decreto legislativo 3 febbraio 1993, n. 29, e dell'articolo 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art17) della [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), si pro- cede a definire l'organizzazione degli uffici e dei relativi contingenti di personale del Ministero e riordinare o sopprimere gli enti dipendenti dal Ministero.
 
@@ -83,12 +86,11 @@ a) l'organizzazione degli uffici del Ministero deve essere tale da garantire lo 
 
 b) soppressione del Consiglio superiore dell'agricoltura e delle foreste ed istituzione del Comitato tecnico delle risorse agricole e alimentari, composto da non piu' di dieci esperti e scienziati nelle materie attinenti alle funzioni esercitate dal Ministero;
 
-c) riordino in un unico ente per la ricerca agroalimentare e forestale degli istituti di ricerca e sperimentazione agraria di cui al [regio decreto 29 maggio 1941, n. 489](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-29;489), alla [legge 27 ottobre 1966, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910), e successive modificazioni, al [decreto del Presidente della Repubblica 23 novembre 1967, n. 1318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-11-23;1318), ed alla [legge 6 giugno 1973, n.   
-306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-06-06;306);
+c) riordino in un unico ente per la ricerca agroalimentare e forestale degli istituti di ricerca e sperimentazione agraria di cui al [regio decreto 29 maggio 1941, n. 489](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-29;489), alla [legge 27 ottobre 1966, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910), e successive modificazioni, al [decreto del Presidente della Repubblica 23 novembre 1967, n. 1318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-11-23;1318), ed alla [legge 6 giugno 1973, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-06-06;306);
 
 d) riordino, secondo criteri di economicita' e funzionalita', tenendo conto delle competenze di cui all'articolo 2, commi 3 e 4, degli altri istituti ed enti di ricerca in campo agricolo, forestali e alimentare e degli altri enti vigilati dal soppresso Ministero dell'agricoltura e delle foreste, sopprimendo gli enti le cui funzioni siano state attribuite alle regioni, accorpando gli enti titolari con funzioni analoghe o affini, prevedendo indirizzi unitari per il loro funzionamento.
 
-3. Presso il Ministero opera un servizio ispettivo, nell'ambito del personale esistente, con lo scopo di verificare, anche indipendentementedai controlli di competenza di altri organi, la legittimita' e la regolarita' degli interventi di mercato e della erogazione delle provvidenze e compensazioni finanziarie a qualsiasi titolo disposte dall'Azienda di Stato per gli interventi nel mercato agricolo - AIMA.
+3. Presso il Ministero opera un servizio ispettivo, nell'ambito del personale esistente, con lo scopo di verificare, anche indipendentemente dai controlli di competenza di altri organi, la legittimita' e la regolarita' degli interventi di mercato e della erogazione delle provvidenze e compensazioni finanziarie a qualsiasi titolo disposte dall'Azienda di Stato per gli interventi nel mercato agricolo - AIMA.
 
 4. Per la tutela dell'ambiente il Ministero ed il Ministero dell'ambiente possono stipulare apposita convenzione per la utilizzazione funzionale del Corpo forestale dello Stato da parte del Ministero dell'ambiente.
 
@@ -109,7 +111,7 @@ Norme in materia di personale e transitorie
 
 4. Con decreti del Presidente del Consiglio dei Ministri, di concerto con il Ministro per gli affari regionali, emanati ai sensi dell'[articolo 35, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art35-com4), e previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, e' determinato il contingente di personale da trasferire alle regioni, in attuazione dell'articolo 3, comma 1, lettera a), del presente decreto.
 
-5. Sino alla emanazione di apposite leggi di riforma continuano ad applicarsi le norme in vigore concernenti il Corpo forestale dello Stato e l'Ispettorato centrale repressione frodi e l'Azienda di Stato per gli interventi nel mercato agricolo - AIMA.
+5. Sino alla emanazione di apposite leggi di riforma continuano ad applicarsi le norme in vigore concernenti il Corpo forestale dello Stato, l'Ispettorato centrale repressione frodi e l'Azienda di Stato per gli interventi nel mercato agricolo - AIMA.
 
 Art. 5
 ------
@@ -118,11 +120,9 @@ Disposizioni finanziarie e finali
 
 1. A partire dall'anno 1994, gli stanziamenti complessivi destinati agli interventi strutturali per l'agricoltura iscritti nel bilancio dello Stato sono attribuiti alle regioni per una quota non inferiore all'80 per cento.
 
-2. I capitoli dello stato di previsione del soppresso Ministero dell'agricoltura e delle foreste relativi alle funzioni trasferite alle regioni ed alle province autonome, compresi quelli destinati ad essere ripartiti tra le medesime per le finalita' previste dalle leggi che li hanno istituiti, sono corrispondentemente ridotti o soppressi. Alla individuazione dei capitoli interessati provvede, con proprio decreto, entro 90 giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro del tesoro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, di concerto con il Ministro. Gli stanziamenti corrispondenti ai capitoli interessati di parte corrente confluiscono nel fondo comune di cui all'[articolo 8 della legge 16 maggio 1970, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281~art8), come modificato dall'[articolo 2 della legge 14 giugno 1990, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-14;158~art2), anche per le finalita' di cui all'articolo 2, comma 7. Gli oneri annuali di gestione e di funzionamento del Ministero si intendono ridotti in modo corrispondente e la misura dei relativi stanziamenti e' quella che risulta disponibile alla data di entrata in vigore dei regolamenti di cui all'articolo
+2. I capitoli dello stato di previsione del soppresso Ministero dell'agricoltura e delle foreste relativi alle funzioni trasferite alle regioni ed alle province autonome, compresi quelli destinati ad essere ripartiti tra le medesime per le finalita' previste dalle leggi che li hanno istituiti, sono corrispondentemente ridotti o soppressi. Alla individuazione dei capitoli interessati provvede, con proprio decreto, entro 90 giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro del tesoro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, di concerto con il Ministro. Gli stanziamenti corrispondenti ai capitoli interessati di parte corrente confluiscono nel fondo comune di cui all'[articolo 8 della legge 16 maggio 1970, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281~art8), come modificato dall'[articolo 2 della legge 14 giugno 1990, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-14;158~art2), anche per le finalita' di cui all'articolo 2, comma 7. Gli oneri annuali di gestione e di funzionamento del Ministero si intendono ridotti in modo corrispondente e la misura dei relativi stanziamenti e' quella che risulta disponibile alla data di entrata in vigore dei regolamenti di cui all'articolo 3.
 
-3. 
-  
-3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio occorrenti per l'attuazione del presente decreto.
+3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio occorrenti per l'attuazione del presente decreto. Fino all'adozione dei predetti decreti, e in ogni caso non oltre il 31 dicembre 1993, le somme relative agli interventi di cui all'articolo 2, comma 4, lettera a), continuano ad essere gestite sugli esistenti capitoli di bilancio.
 
 Art. 6
 ------
@@ -134,13 +134,15 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1993
+### Dato a Roma, addi' 2 ottobre 1993
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
 
-DIANA, Ministro dell'agricoltura e delle foreste
+DIANA, Ministro per il coordinamento delle politiche
+
+agricole, alimentari e forestali
 
 BARUCCI, Ministro del tesoro
 

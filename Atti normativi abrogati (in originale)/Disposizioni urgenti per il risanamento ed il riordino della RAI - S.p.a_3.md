@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 aprile 1994 n. 263
+DECRETO-LEGGE 30 giugno 1994 n. 418
 
 
-DECRETO-LEGGE 29 aprile 1994 n. 263
+DECRETO-LEGGE 30 giugno 1994 n. 418
 ===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - S.p.a.
 -------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/5/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30-6-1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di avviare il piano di risanamento e di riordino della RAI - Radiotelevisione italiana S.p.a.;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1994;
+Viste le deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 29 e del 30 giugno 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del tesoro e delle poste e delle telecomunicazioni, di concerto con i Ministri del bilancio e della programmazione economica e delle finanze;
 
@@ -25,7 +25,7 @@ E M A N A il seguente decreto-legge:
 Art. 1
 ------
 
-1. Ai fini del risanamento economico dell'azienda, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo, entro tre mesi dalla data di entrata in vigore del presente decreto, trasmette al Ministro delle poste e delle telecomunicazioni, che lo approva con decreto adottato di concerto con il Ministro del tesoro, un piano triennale di ristrutturazione aziendale che deve definire in dettaglio gli obiettivi di razionalizzazione attinenti al personale e agli assetti industriali e finanziari.
+1. Ai fini del risanamento economico dell'azienda, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo, entro tre mesi dalla data di entrata in vigore del presente decreto, trasmette al Ministro delle poste e delle telecomunicazioni, che lo approva con decreto adottato di concerto con il Ministro del tesoro, un piano triennale di ristrutturazione aziendale che deve definire in dettaglio gli obiettivi di razionalizzazione attinenti al personale e agli assetti industriali e finanziari. In caso di mancata approvazione del piano triennale, il decreto motivato di reiezione e' comunicato dal Governo ai Presidenti del Senato della Repubblica e della Camera dei deputati per le determinazioni di loro competenza, ivi compresa ai sensi dell'[articolo 2, comma 2, della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com2), la nomina dei nuovi componenti del consiglio di amministrazione.
 
 2. L'[articolo 4 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art4), e' sostituito dal seguente:   
 "Art. 4 (Convenzione) . - 1. Entro il 31 marzo 1994 e' stipulata una convenzione tra la societa' concessionaria del servizio pubblico radiotelevisivo ed il Ministero delle poste e delle telecomunicazioni, anche al fine di adeguare la convenzione stessa alle prescrizioni della [legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223).   
@@ -54,7 +54,7 @@ Art. 4
 
 2. Successivamente alla rideterminazione di cui all'articolo 2, comma 1, il Ministro del tesoro autorizza la Cassa depositi e prestiti a convertire i crediti alla medesima ceduti ai sensi del comma 1, aumentati degli interessi maturati al saggio vigente per i finanziamenti della Cassa medesima, in capitale della societa' concessionaria del servizio pubblico radiotelevisivo, previa individuazione dei parametri di conversione da determinarsi, sulla base dell'effettivo valore dell'azienda, ad opera di un collegio di tre periti nominati dal presidente del tribunale di Roma. Il Ministro del tesoro rilascia l'autorizzazione sulla base di un rapporto redatto dal direttore generale della Cassa depositi e prestiti sullo stato patrimoniale e sulle prospettive di riequilibrio economico e finanziario della RAI. Il direttore generale della Cassa depositi e prestiti richiede al consiglio di amministrazione della RAI tutte le informazioni utili ai fini della relazione del predetto rapporto. La conversione nel capitale della RAI dei crediti ceduti alla Cassa depositi e prestiti deve essere effettuata entro un mese dal rilascio dell'autorizzazione da parte del Ministro del tesoro e comunque non oltre il 31 dicembre 1994.
 
-3. L'assemblea della societa' concessionaria del servizio pubblico radioteleviso adotta le conseguenti modifiche statutarie.
+3. L'assemblea della societa' concessionaria del servizio pubblico radiotelevisivo adotta le conseguenti modifiche statutarie.
 
 Art. 5
 ------
@@ -69,15 +69,13 @@ Art. 6
 Art. 7
 ------
 
-1. I [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com1) e [2 dell'articolo 2 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com2), sono sostituiti dai seguenti:   
-" 1. Fino all'entrata in vigore di una nuova disciplina del servizio pubblico radiotelevisivo, nel quadro di una ridefinizione del sistema radiotelevisivo e dell'editoria nel suo complesso, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo e' composto di cinque membri, nominati con determinazione adottata d'intesa dai Presidenti della Camera dei deputati e del Senato della Repubblica, scelti tra persone di riconosciuto prestigio professionale e di notoria indipendenza di comportamenti che si siano distinti in attivita' economiche, scientifiche, giuridiche, della cultura umanistica o della comunicazione sociale, maturandovi significative esperienze manageriali. Essi durano in carica per non piu' di due interi esercizi sociali. La carica di membro del consiglio di amministrazione da essi rivestita e' incompatibile con l'appartenenza al Parlamento europeo, al Parlamento nazionale, ai consigli regionali, provinciali e dei comuni con popolazione superiore a ventimila abitanti, nonche' con la titolarita' di rapporti di interesse o di lavoro con imprese e societa' pubbliche e private interessate all'esercizio della radiodiffusione sonora e televisiva e concorrenti della concessionaria. Successivamente alla conversione dei crediti in capitale di cui all'articolo 4, comma 2, alle riunioni convocate per la verifica mensile sullo stato di avanzamento del piano triennale di ristrutturazione aziendale e per l'esame dell'andamento economico e finanziario della gestione partecipa il direttore generale della Cassa depositi e prestiti che informa, con apposita relazione, i Presidenti delle Camere e il Presidente del Consiglio dei Ministri.   
-2. Restano a far parte del consiglio di amministrazione di cui al comma 1, non oltre il 31 dicembre 1995, i cinque membri attualmente in carica".
+1. I [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com1) e [2 dell'articolo 2 della legge 25 giugno 1993, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;206~art2-com2), sono sostituiti dal seguente:   
+" 1. Fino all'entrata in vigore di una nuova disciplina del servizio pubblico radiotelevisivo, nel quadro di una ridefinizione del sistema radiotelevisivo e dell'editoria nel suo complesso, il consiglio di amministrazione della societa' concessionaria del servizio pubblico radiotelevisivo e' composto di cinque membri, nominati con determinazione adottata d'intesa dai Presidenti della Camera dei deputati e del Senato della Repubblica, scelti tra persone di riconosciuto prestigio professionale e di notoria indipendenza di comportamenti che si siano distinti in attivita' economiche, scientifiche, giuridiche, della cultura umanistica o della comunicazione sociale, maturandovi significative esperienze manageriali. Essi durano in carica per non piu' di due esercizi sociali. La carica di membro del consiglio di amministrazione da essi rivestita e' incompatibile con l'appartenenza al Parlamento europeo, al Parlamento nazionale, ai consigli regionali, provinciali e dei comuni con popolazione superiore a ventimila abitanti, nonche' con la titolarita' di rapporti di interesse o di lavoro con imprese e societa' pubbliche e private interessate all'esercizio della radiodiffusione sonora e televisiva e concorrenti della concessionaria. Successivamente alla conversione dei crediti in capitale, alle riunioni convocate per la verifica mensile sullo stato di avanzamento del piano triennale di ristrutturazione aziendale e per l'esame dell'andamento economico e finanziario della gestione partecipa il direttore generale della Cassa depositi e prestiti che informa, con apposita relazione, i Presidenti delle Camere e il Presidente del Consiglio dei Ministri.".
 
 Art. 8
 ------
 
-1. Il controllo della gestione sociale e' effettuato, a norma degli [articoli 2403 e seguenti del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2403), da un collegio sindacale composto da tre sindaci effettivi e due supplenti. Il presidente del collegio sindacale e' il direttore generale dell'IRI o un suo delegato; un sindaco effettivo e uno supplente sono designati dal Ministro del tesoro; un sindaco effettivo e uno supplente sono designati dal Ministro delle poste e delle telecomunicazioni.  
-L'assemblea dei soci deve essere convocata per la nomina dei componenti del collegio sindacale entro quindici giorni dalla data di entrata in vigore del presente decreto.
+1. Il controllo della gestione sociale e' effettuato, a norma degli [articoli 2403 e seguenti del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2403), da un collegio sindacale composto da tre sindaci effettivi e due supplenti, scelti tra soggetti in possesso dei requisiti di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;88~art1). Il presidente del collegio sindacale e' il direttore generale dell'IRI o un suo delegato; un sindaco effettivo e uno supplente sono designati dal Ministro del tesoro; un sindaco effettivo e uno supplente sono designati dal Ministro delle poste e delle telecomunicazioni. L'assemblea dei soci deve essere convocata per la nomina dei componenti del collegio sindacale entro quindici giorni dalla data di entrata in vigore del presente decreto.
 
 2. Le incompatibilita' previste dall'articolo 7, comma 1, per i membri del consiglio di amministrazione valgono anche per i componenti del collegio sindacale.
 
@@ -118,165 +116,114 @@ Art. 10
 Art. 11
 -------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1994
+### Dato a Roma, addi' 30 giugno 1994
 
 SCALFARO
 
-CIAMPI, Presidente del Consiglio dei Ministri
+BERLUSCONI, Presidente del Consiglio dei Ministri
 
-BARUCCI, Ministro del tesoro
+DINI, Ministro del tesoro
 
-PAGANI, Ministro delle poste e delle telecomunicazioni
+TATARELLA, Ministro delle poste e delle telecomunicazioni
 
-SPAVENTA, Ministro del bilancio e della programmazione economica
+PAGLIARINI, Ministro del bilancio e della programmazione economica
 
-GALLO, Ministro delle finanze
+TREMONTI, Ministro delle finanze
 
-Visto, il Guardasigilli: CONSO
+Visto, il Guardasigilli: BIONDI
 
-Tabella
+all. 1 - art. 1
 
   
   
-TABELLA   
-(prevista dall'[art. 4 della legge 25 giugno 1993, n. 206)   
-1)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;1~art4) CANONE DI ABBONAMENTO ALLA TELEVISIONE PER USO PRIVATO   
-Tassa   
-di concessione   
-Canone Sovrapprezzo governativa IVA Totale   
---- --- --- --- ---   
-420 142.270 8.000 5.310 156.000   
-2.1) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI (RADIOFONIA E TELEVISIONE) PER LA DETENZIONE DELL'APPARECCHIO FUORI   
-DELL'AMBITO FAMILIARE   
-(Escluse tassa di concessione governativa o comunale e I.V.A.)   
-Canone supplementare   
-(dovuto per ogni Canone base stanza o locale   
-escluso il primo) Categorie Radio Televisione Radio Televisione --- --- --- --- ---   
-a) Alberghi con 5   
-stelle lusso, con 5, 4, 3   
-e 2 stelle; pensioni con   
-3 e 2 stelle; residenze   
-turistico-alberghiere con   
-4, 3 e 2 stelle; villaggi   
-turistici e campeggi con   
-4 e 3 stelle; esercizi   
-pubblici di lusso, di 1a,   
-2a e 3a categoria; navi   
-di lusso   
-33.700 427.000 7.500 72.700   
-b) Alberghi, pensioni   
-e locande con 1 stella;   
-villaggi turistici con 2   
-stelle; campeggi con 2 e   
-1 stelle; affitta camere,   
-esercizi pubblici di 4a   
-categoria; altre navi;   
-aerei in servizio   
-pubblico   
-26.200 329.000 7.500 72.700   
-c) Ospedali, cliniche   
-e case di cura; circoli,   
-associazioni, sedi di   
-partiti politici;   
-istituti religiosi;   
-uffici; studi   
-professionali; botteghe,   
-negozi ed assimilati;   
-mense aziendali; scuole   
-ed istituti scolastici   
-non esenti dal canone in   
-virtu' della [legge 2   
-dicembre 1951, n. 1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571),   
-come modificata dalla   
-[legge 28 dicembre 1989,   
-n. 421   
-22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;22).500 213.000 3.750 36.400   
-2.2) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI (RADIOFONIA E TELEVISIONE) PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI CINEMA-TEATRI E IN LOCALI A QUESTI ASSIMILABILI   
-(Escluse tassa di concessione governativa o comunale e IVA)   
-Canone   
-Canone supplementare   
-base Per uso di   
-televi- schermo   
-sione gigante o Per spetta-   
-Fuori Nella apparati coli a pa-   
-della sala assimilati gamento   
-sala di nella sala esclusiva-   
-di proie- Magg. di proiezio- mente di   
-proie- zione per ne e spetta- programmi   
-Categorie zione e posto colo TV   
-o spet-   
-spet- tacolo   
-tacolo   
---- --- --- --- --- ---   
-Cinema,   
-cinema-teatri,   
-discoteche, di   
-categoria extra   
-427.000 427.000 960 5% dell'incasso 20% dell'in-   
-al netto dei casso al net-   
-diritti eraria- to dei dirit-   
-li e diritti ti d'autore   
-d'autore   
-Cinema,   
-cinema-teatri,   
-discoteche, di   
-1a categoria   
-427.000 427.000 720 5% dell'incasso 20% dell'in-   
-al netto dei casso al net-   
-diritti eraria- to dei dirit-   
-li e diritti ti d'autore   
-d'autore   
-Cinema,   
-cinema-teatri,   
-discoteche, di   
-2a categoria   
-427.000 427.000 480 4% dell'incasso 20% dell'in-   
-al netto dei casso al net-   
-diritti eraria- to dei dirit-   
-li e diritti ti d'autore   
-d'autore   
-Cinema,   
-cinema-teatri,   
-discoteche, di   
-3a categoria   
-427.000 427.000 240 3% dell'incasso 20% dell'in-   
-al netto dei casso al net-   
-diritti eraria- to dei dirit-   
-li e diritti ti d'autore   
-d'autore   
-Cinema,   
-cinema-teatri,   
-discoteche, di   
-4a e 5a   
-categoria;   
-teatri-tenda;   
-stadi e piazze   
-(solo canone   
-base per   
-visione   
-gratuita)   
-329.000 329.000 120 2% dell'incasso 10% dell'in-   
-al netto dei casso al net-   
-diritti eraria- to dei dirit-   
-li e diritti ti d'autore   
-d'autore   
-3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A   
-BORDO DI AUTOMEZZI O AUTOSCAFI   
-3.1) Con potenza non superiore a 26 CV:   
-Tassa   
-di concessione   
-Canone Sovrapprezzo governativa IVA Totale   
---- --- --- --- ---   
-420 28.215 2.700 1.065 32.400   
-3.2) Con potenza superiore a 26 CV:   
-Tassa   
-di concessione   
-Canone Sovrapprezzo governativa IVA Totale   
---- --- --- --- ---   
-420 28.215 30.000 1.065 59.700   
-4) Per l'uso privato di televisori atti a ricevere le diffusioni televisive su autovetture ed autoscafi, gli importi sono quelli indicati al precedente punto 1) ad eccezione della tassa di concessione governativa prevista dal [decreto del Presidente del Consiglio dei Ministri 21 dicembre 1990, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-12-31&numeroGazzetta=303).   
+ALLEGATO TABELLA (prevista dall'[art. 4 della legge 25 giugno 1993, n. 206) 1)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-06-25;1~art4) CANONE DI ABBONAMENTO ALLA TELEVISIONE PER USO PRIVATO  
+Tassa di concessione  
+Canone Sovrapprezzo governativa IVA Totale  
+- - - - -  
+420 142.270 8.000 5.310 156.000  
+2.1) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI (RADIOFONIA E TELEVISIONE) PER LA DETENZIONE DELL'APPARECCHIO FUORI DELL'AMBITO FAMILIARE  
+(Escluse tassa di concessione governativa o comunale e I.V.A.)  
+Canone supplementare  
+(dovuto per ogni stanza o Canone base locale escluso il primo) Categorie Radio Televisione Radio Televisione  
+- - - - -  
+a) Alberghi con 5 stelle  
+lusso, con 5, 4, 3 e 2 stel-  
+le; pensioni con 3 e 2 stel-  
+le; residenze turistico-al-  
+berghiere con 4, 3 e 2 stel-  
+le; villaggi turistici e  
+campeggi con 4 e 3 stelle;  
+esercizi pubblici di lusso,  
+di 1a, 2a e 3a categoria;  
+navi di lusso . . . . . . . 33.700 427.000 7.500 72.700  
+b) Alberghi, pensioni  
+e locande con 1 stella;  
+villaggi turistici con 2  
+stelle; campeggi con 2 e  
+1 stelle; affitta camere,  
+esercizi pubblici di 4a  
+categoria; altre navi;  
+aerei in servizio pub-  
+blico . . . . . . . . . . . 26.200 329.000 7.500 72.700  
+c) Ospedali, cliniche  
+e case di cura; circoli,  
+associazioni, sedi di  
+partiti politici; isti-  
+tuti religiosi; uffici;  
+studi professionali;  
+botteghe, negozi ed as-  
+similati; mense azien-  
+dali; scuole ed istituti  
+scolastici non esenti  
+dal canone in virtu'  
+della [legge 2 dicembre  
+1951, n. 1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come mo-  
+dificata dalla [legge  
+28 dicembre 1989, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;421). . 22.500 213.000 3.750 36.400  
+2.2) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI (RADIOFONIA E TELEVISIONE) PER LA DETENZIONE DI APPARECCHI NEI CINEMA,  
+NEI CINEMA-TEATRI E IN LOCALI A QUESTI ASSIMILABILI  
+(Escluse tassa di concessione governativa o comunale e IVA)  
+Canone supplementare  
+Per uso di  
+schermo Per spet-  
+Canone base televisione gigante o tacoli  
+apparati a paga-  
+Fuori del- Nella sala Maggio- assimilati mento  
+la sala di proie- razione nella sala esclusiva-  
+di proie- zione per di proie- mente  
+zione e spetta- posto zione e di program-  
+Categorie o spetta- colo spettacolo mi TV  
+colo  
+- - - - - -  
+Cinema, 427.000 427.000 960 6% dell'incasso 20% dell'incasso cinema-tea- al netto dei al netto dei tri, disco- diritti era- diritti era- teche, di riali e di- riali e di- categoria ritti d'au- ritti d'au- extra tore tore  
+Cinema, 427.000 427.000 720 5% dell'incasso 20% dell'incasso cinema-tea- al netto dei al netto dei tri, disco- diritti era- diritti era- teche, di riali e di- riali e di- 1a cate- ritti d'au- ritti d'au- goria tore tore  
+Cinema, 427.000 427.000 480 4% dell'incasso 20% dell'incasso cinema-tea- al netto dei al netto dei tri, disco- diritti era- diritti era- teche, di riali e di- riali e di- 2a cate- ritti d'au- ritti d'au- goria tore tore  
+Cinema, 427.000 427.000 240 3% dell'incasso 20% dell'incasso cinema-tea- al netto dei al netto dei tri, disco- diritti era- diritti era- teche, di riali e di- riali e di- 3a cate- ritti d'au- ritti d'au- goria tore tore  
+Cinema, 329.000 329.000 120 2% dell'incasso 10% dell'incasso cinema-tea- al netto dei al netto dei tri, disco- diritti era- diritti era- teche, di riali e di- riali e di- 4a e 5a ca- ritti d'au- ritti d'au- tegoria tea- tore tore  
+tri-tenda;  
+stadi e  
+piazze (so-  
+lo canone  
+base per  
+visione  
+gratuita)  
+3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A BORDO DI AUTOMEZZI O AUTOSCAFI  
+3.1) Con potenza non superiore a 26 CV:  
+Tassa di concessione  
+Canone Sovrapprezzo governativa IVA Totale  
+- - - - -  
+420 28.215 2.700 1.065 32.400  
+3.2) Con potenza superiore a 26 CV:  
+Tassa di concessione  
+Canone Sovrapprezzo governativa IVA Totale  
+- - - - -  
+420 28.215 30.000 1.065 59.700  
+4) Per l'uso privato di televisori atti a ricevere le diffusioni televisive su autovetture ed autoscafi, gli importi sono quelli indicati al precedente punto 1) ad eccezione della tassa di concessione governativa prevista dal [decreto del Presidente del Consiglio dei Ministri 21 dicembre 1990, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-12-31&numeroGazzetta=303).  
+  
+  
+  

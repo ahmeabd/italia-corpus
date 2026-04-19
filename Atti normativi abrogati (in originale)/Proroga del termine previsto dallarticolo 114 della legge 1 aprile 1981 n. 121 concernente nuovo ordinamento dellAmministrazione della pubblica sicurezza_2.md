@@ -1,13 +1,13 @@
-DECRETO-LEGGE 29 dicembre 1990 n. 412
+DECRETO-LEGGE 01 marzo 1991 n. 61
 
 
-DECRETO-LEGGE 29 dicembre 1990 n. 412
-=====================================
+DECRETO-LEGGE 01 marzo 1991 n. 61
+=================================
 
-Proroga del termine previsto dall'articolo 114 della legge 1 aprile 1981, n. 121, concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Proroga del termine previsto dall'articolo 114 della legge 1' aprile 1981, n. 121, concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 31/12/1990.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 2-3-1991.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di prorogare il termine previsto dall'articolo 114 della legge 1' aprile 1981, n. 121, concernente il divieto di iscrizione ai partiti politici per gli appartenenti alle Forze di polizia, nonche' di disporre di ulteriori risorse per il potenziamento tecnico-logistico delle medesime Forze di polizia;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1990;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1' marzo 1991;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
 
@@ -30,9 +30,9 @@ Art. 1
 Art. 2
 ------
 
-1. Per le necessita' prioritarie di potenziamento tecnico-logistico delle forze di polizia, e' autorizzata nell'anno finanziario 1990 la spesa di lire 37 miliardi, da utilizzare, da parte del Ministero dell'interno, con le modalita' previste dal capo I della [legge 5 dicembre 1988, n. 521](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521).
+1. Per le necessita' prioritarie di potenziamento tecnico-logistico delle Forze di polizia, e' autorizzata nell'anno finanziario 1991 la spesa di lire 37 miliardi, da utilizzare, da parte del Ministero dell'interno, con le modalita' previste dal capo I della [legge 5 dicembre 1988, n. 521](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521).
 
-2. All'onere di cui al comma 1 si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 4295 dello stato di previsione del Ministero dell'interno per l'anno 1990.
+2. All'onere di cui al comma 1 si provvede per l'anno 1991 a carico delle disponibilita' iscritte in conto residui al capitolo 2779 dello stato di previsione del Ministero dell'interno per l'anno medesimo.
 
 3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -44,7 +44,7 @@ Art. 3
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1990
+### Dato a Roma, addi' 1' marzo 1991
 
 COSSIGA
 
@@ -56,4 +56,4 @@ CARLI, Ministro del tesoro
 
 CIRINO POMICINO, Ministro del bilancio e della programmazione economica
 
-Visto, il Guardasigilli: VASSALLI
+Visto, il Guardasigilli: MARTELLI

@@ -1,13 +1,13 @@
-DECRETO-LEGGE 11 gennaio 1994 n. 16
+DECRETO-LEGGE 12 novembre 1993 n. 450
 
 
-DECRETO-LEGGE 11 gennaio 1994 n. 16
-===================================
+DECRETO-LEGGE 12 novembre 1993 n. 450
+=====================================
 
 Disposizioni urgenti relative allo svolgimento della missione umanitaria in Somalia e in Mozambico.
 ---------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/1/1994.Decreto-Legge convertito con modificazioni dalla [L.22 febbraio 1994, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;151) ([GU n. 54 del 7-3-1994](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1994-03-07&numeroGazzetta=54) ).
+Entrata in vigore del decreto: 13/11/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,18 +20,18 @@ Viste la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare il trattamento economico ed assicurativo del personale facente parte della missione militare inviata in Somalia e Mozambico, al fine di assicurare i soccorsi umanitari alle popolazioni e garantire condizioni di pace sui territori di detti Paesi, nonche' di assicurare la copertura finanziaria degli oneri conseguenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 novembre 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri degli affari esteri e della difesa, di concerto con i Ministri di grazia e giustizia, del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri degli affari esteri e della difesa, di concerto con i Ministri di grazia e giustizia e del tesoro;
 
 E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
 
-1. Per garantire la custodia, il trasporto e la distribuzione degli aiuti umanitari, nonche' il soccorso sanitario alle popolazioni della Somalia e del Mozambico, e' autorizzata, per l'anno 1993, la spesa di lire 200 miliardi da iscrivere nello stato di previsione del Ministero della difesa.
+1. Per garantire la custodia, il trasporto e la distribuzione degli aiuti umanitari, nonche' il soccorso sanitario alle popolazioni della Somalia e del Mozambico, e' autorizzata per l'anno 1993 la spesa di lire 200 miliardi da iscrivere nello stato di previsione del Ministero della difesa.
 
-2. Al relativo onere si provvede a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa, per l'anno finanziario 1993: 1076, 1105, 1802, 2501 e 2802.
+2. Al relativo onere, per l'anno 1993, si provvede mediante riduzione dello stanziamento iscritto al capitolo 4620 dello stato di previsione del Ministero degli affari esteri per l'anno medesimo, all'uopo intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1987, n. 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), come determinata con la tabella C della [legge 23 dicembre 1992, n. 500](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;500).
 
 Art. 2
 ------
@@ -58,23 +58,25 @@ Art. 4
 
 1. All'onere derivante dall'attuazione dell'articolo 2 e dalle altre spese connesse alla missione in Somalia e in Mozambico, valutato in lire 750.000 milioni, si provvede:
 
-a) quanto a lire 537.000 milioni, a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa, per l'anno finanziario 1993: 1076, 1086, 1091, 1092, 1375, 1376, 1377, 1378, 1379, 1380, 1385, 1406, 1415, 1802, 1832, 1872, 1874, 1878, 2000, 2002, 2102, 2103, 2104, 2502, 2503, 2512, 2804, 3001, 3101, 4598, 4600 e 4604;
+a) quanto a lire 184.000 milioni, a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa per l'anno finanziario 1993: 1802, 1872, 1874, 1878, 2102, 2103, 2104, 2502, 2503, 3001;
 
-b) quanto a lire 14.000 milioni, a carico dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo utilizzando parte dell'accantonamento relativo al Ministero del tesoro;
+b) quanto a lire 89.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo utilizzando parte dell'accantonamento relativo al Ministero del tesoro;
 
-c) quanto a lire 199.000 milioni, con utilizzo parziale delle disponibilita' in conto residui iscritte sul capitolo 2042 dello stato di previsione del Ministero degli affari esteri, che sono versate all'entrata del bilancio dello Stato per essere assegnate ai pertinenti capitoli di spesa dello stato di previsione del Ministero della difesa, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212).
+c) quanto a lire 278.000 milioni, con quota parte delle maggiori entrate derivanti dall'articolo 3;
+
+d) quanto a lire 199.000 milioni, con utilizzo parziale delle disponibilita' in conto residui iscritte sul capitolo 2042 dello stato di previsione del Ministero degli affari esteri per il medesimo anno, che sono versate all'entrata del bilancio dello Stato per essere assegnate ai pertinenti capitoli di spesa dello stato di previsione del Ministero della difesa, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212).
 
 2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Art. 5
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 gennaio 1994
+### Dato a Roma, addi' 12 ottobre 1993
 
 SCALFARO
 
@@ -87,7 +89,5 @@ FABBRI, Ministro della difesa
 CONSO, Ministro di grazia e giustizia
 
 BARUCCI, Ministro del tesoro
-
-SPAVENTA, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: CONSO

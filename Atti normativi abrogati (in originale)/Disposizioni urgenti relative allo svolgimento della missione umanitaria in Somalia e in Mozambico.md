@@ -1,13 +1,13 @@
-DECRETO-LEGGE 12 novembre 1993 n. 450
+DECRETO-LEGGE 13 luglio 1993 n. 223
 
 
-DECRETO-LEGGE 12 novembre 1993 n. 450
-=====================================
+DECRETO-LEGGE 13 luglio 1993 n. 223
+===================================
 
 Disposizioni urgenti relative allo svolgimento della missione umanitaria in Somalia e in Mozambico.
 ---------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/11/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 15-7-1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -20,9 +20,9 @@ Viste la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9
 
 Ritenuta la straordinaria necessita' ed urgenza di disciplinare il trattamento economico ed assicurativo del personale facente parte della missione militare inviata in Somalia e Mozambico, al fine di assicurare i soccorsi umanitari alle popolazioni e garantire condizioni di pace sui territori di detti Paesi, nonche' di assicurare la copertura finanziaria degli oneri conseguenti;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 novembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri degli affari esteri e della difesa, di concerto con i Ministri di grazia e giustizia e del tesoro;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri degli affari esteri e della difesa, di concerto con i Ministri di grazia e giustizia, del tesoro e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -36,7 +36,7 @@ Art. 1
 Art. 2
 ------
 
-1. Con effetto dall'inizio delle operazioni, al personale facente parte delle missioni in Somalia e in Mozambico affidate alle Forze armate, al fine di assicurare i soccorsi umanitari alle popolazioni e garantire condizioni di pace sui territori di detti Paesi, e' attribuito, con decorrenza dal giorno di uscita dalle acque del Mediterraneo o dallo spazio aereo corrispondente e sino al rientro in territorio o acque territoriali italiane e comunque non oltre il 31 dicembre 1993, il trattamento di cui agli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art1) e [3 della legge 8 luglio 1961, n. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art3), prendendo a base la diaria spettante al personale in Somalia. A tal fine l'indennita' speciale di cui all'articolo 3 della citata legge viene fissata nella misura del 75 per cento dell'assegno di lungo servizio all'estero attualmente in vigore. Al medesimo personale e' altresi' attribuito il trattamento assicurativo di cui alla [legge 18 maggio 1982, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-18;301), ragguagliandosi il massimale assicurativo minimo al trattamento economico del grado di sergente maggiore e gradi corrispondenti.
+1. Con effetto dall'inizio delle operazioni, al personale facente parte delle missioni in Somalia e in Mozambico affidate alle Forze armate, al fine di assicurare i soccorsi umanitari alle popolazioni e garantire condizioni di pace sui territori di detti Paesi, e' attribuito, con decorrenza dal giorno di uscita dalle acque del Mediterraneo o dallo spazio aereo corrispondente e sino al rientro in territorio o acque territoriali italiane e comunque non oltre il 31 ottobre 1993 per la missione in Mozambico e il 31 dicembre 1993 per la missione in Somalia, il trattamento di cui agli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art1) e [3 della legge 8 luglio 1961, n. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-08;642~art3), prendendo a base la diaria spettante al personale in Somalia. A tal fine l'indennita' speciale di cui all'articolo 3 della citata legge viene fissata nella misura del 75 per cento dell'assegno di lungo servizio all'estero attualmente in vigore. Al medesimo personale e' altresi' attribuito il trattamento assicurativo di cui alla [legge 18 maggio 1982, n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-18;301), ragguagliandosi il massimale assicurativo minimo al trattamento economico del grado di sergente maggiore e gradi corrispondenti.
 
 2. Il trattamento economico di cui al comma 1 e' corrisposto per il 30 per cento a titolo di anticipazione in valuta straniera e, per il restante, in valuta nazionale all'atto del rientro in Patria o, mensilmente, direttamente a persone fisiche o giuridiche all'uopo delegate.
 
@@ -56,27 +56,19 @@ Art. 3
 Art. 4
 ------
 
-1. All'onere derivante dall'attuazione dell'articolo 2 e dalle altre spese connesse alla missione in Somalia e in Mozambico, valutato in lire 750.000 milioni, si provvede:
+1. All'onere derivante dall'attuazione dell'articolo 2 e dalle altre spese connesse alla missione in Somalia e in Mozambico, valutato in lire 711.484,7 milioni, si provvede, quanto a lire 159.484,7, a carico dei pertinenti capitoli dello stato di previsione del Ministero della difesa per l'anno finanziario 1993, quanto a lire 75.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo utilizzando parte dell'accantonamento relativo al Ministero del tesoro, quanto a lire 278.000 milioni, con quota parte delle maggiori entrate derivanti dall'articolo 3 e, quanto a lire 199.000 milioni, con utilizzo parziale delle disponibilita' in conto residui iscritte sul capitolo 2042 dello stato di previsione del Ministero degli affari esteri per il medesimo anno, che sono versate all'entrata del bilancio dello Stato per essere assegnate ai pertinenti capitoli di spesa dello stato di previsione del Ministero della difesa, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212).
 
-a) quanto a lire 184.000 milioni, a carico dei seguenti capitoli dello stato di previsione del Ministero della difesa per l'anno finanziario 1993: 1802, 1872, 1874, 1878, 2102, 2103, 2104, 2502, 2503, 3001;
-
-b) quanto a lire 89.000 milioni, mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1993, all'uopo utilizzando parte dell'accantonamento relativo al Ministero del tesoro;
-
-c) quanto a lire 278.000 milioni, con quota parte delle maggiori entrate derivanti dall'articolo 3;
-
-d) quanto a lire 199.000 milioni, con utilizzo parziale delle disponibilita' in conto residui iscritte sul capitolo 2042 dello stato di previsione del Ministero degli affari esteri per il medesimo anno, che sono versate all'entrata del bilancio dello Stato per essere assegnate ai pertinenti capitoli di spesa dello stato di previsione del Ministero della difesa, intendendosi corrispondentemente ridotta l'autorizzazione di spesa di cui alla [legge 26 febbraio 1992, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-26;212).
-
-2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio.
 
 Art. 5
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 ottobre 1993
+### Dato a Roma, addi' 13 luglio 1993
 
 SCALFARO
 
@@ -89,5 +81,7 @@ FABBRI, Ministro della difesa
 CONSO, Ministro di grazia e giustizia
 
 BARUCCI, Ministro del tesoro
+
+SPAVENTA, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: CONSO

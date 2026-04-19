@@ -1,13 +1,13 @@
-DECRETO-LEGGE 17 marzo 1994 n. 176
+DECRETO-LEGGE 14 gennaio 1994 n. 23
 
 
-DECRETO-LEGGE 17 marzo 1994 n. 176
-==================================
+DECRETO-LEGGE 14 gennaio 1994 n. 23
+===================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della Costituzione.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 17/3/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 15/1/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,7 +16,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 marzo 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 gennaio 1994;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
 
@@ -30,7 +30,7 @@ Art. 1
 Art. 2
 ------
 
-1. Il [comma 4 dell'articolo 655 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art655-com4) e' abrogato.
+1. Il [comma 4 dell'articolo 655 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art655-com4) e' soppresso.
 
 Art. 3
 ------
@@ -61,7 +61,7 @@ Art. 6
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 marzo 1994
+### Dato a Roma, addi' 14 gennaio 1994
 
 SCALFARO
 

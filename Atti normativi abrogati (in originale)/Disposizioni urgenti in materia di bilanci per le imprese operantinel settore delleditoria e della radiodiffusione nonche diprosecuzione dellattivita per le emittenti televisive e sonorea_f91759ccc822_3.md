@@ -1,8 +1,8 @@
-DECRETO-LEGGE 01 marzo 1995 n. 59
+DECRETO-LEGGE 29 aprile 1995 n. 137
 
 
-DECRETO-LEGGE 01 marzo 1995 n. 59
-=================================
+DECRETO-LEGGE 29 aprile 1995 n. 137
+===================================
 
 Disposizioni urgenti in materia di bilanci per le imprese operanti 
 nel settore dell'editoria e della radiodiffusione, nonche' di 
@@ -10,7 +10,7 @@ prosecuzione dell'attivita' per le emittenti televisive e sonore
 autorizzate in ambito locale.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/3/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/4/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -21,7 +21,7 @@ Ritenuta la straordinaria necessita' ed urgenza di conformare la disciplina in m
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di garantire l'ulteriore prosecuzione dell'esercizio degli impianti televisivi e sonori, in ambito locale, da parte delle emittenti autorizzate;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 febbraio 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 aprile 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, di concerto con il Ministro delle poste e delle telecomunicazioni;
 
@@ -62,9 +62,8 @@ Obbligo di pubblicazione del bilancio
 
 2. I soggetti di cui all'[articolo 11, comma secondo, numeri 1)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11-com2-num1) e [2), della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art11-com2-num2), devono pubblicare su tutte le testate edite lo stato patrimoniale e il conto economico del bilancio di esercizio, corredato da un prospetto di dettaglio delle voci di bilancio relative all'esercizio dell'attivita' editoriale secondo il modello stabilito con i provvedimenti di cui all'articolo 1, nonche', eventualmente, lo stato patrimoniale e il conto economico del bilancio consolidato del gruppo di appartenenza, entro il 31 agosto di ogni anno.
 
-3. Il [comma secondo dell'articolo 12 della legge  
-5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art12-com2), e' sostituito dal seguente:  
-"Lo stato patrimoniale e il conto economico del bilancio di esercizio delle imprese concessionarie di pubblicita', integrati da un elenco che indichi le testate delle quali la concessionaria ha l'esclusiva della pubblicita', devono essere pubblicati, entro il 31 agosto di ogni anno, su tutte le testate servite dalla stessa impresa di pubblicita'.".
+3. Il [comma secondo dell'articolo 12 della legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416~art12-com2), e' sostituito dal seguente:  
+"Lo stato patrimoniale e il conto economico del bilancio di esercizio delle imprese concessionarie di pubblicita', integrati da un elenco che indichi le testate delle quali la concessionaria ha l'esclusiva della pubblicita', devono essere pubblicati, entro il 31 agosto di ogni anno, su tutte le testate servite dalla stessa impresa di pubblicita'".
 
 Art. 3
 ------
@@ -126,12 +125,12 @@ Art. 7
 Emittenti locali
 
 1. L'[articolo 2, comma 1, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art2-com1), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' sostituito dal seguente:  
-" 1. Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione televisiva in ambito locale e dei connessi collegamenti di telecomunicazione di cui all'[articolo 32, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art32-com1), e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda.".
+" 1. Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione televisiva in ambito locale e dei connessi collegamenti di telecomunicazione di cui all'[articolo 32, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art32-com1), e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda".
 
 2. L'[articolo 4, comma 1, del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art4-com1), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' sostituito dal seguente:  
-" 1. Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione sonora e dei connessi collegamenti di telecomunicazione, di cui all'[articolo 32, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art32-com1), e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda.".
+" 1. Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione sonora e dei connessi collegamenti di telecomunicazione, di cui all'[articolo 32, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art32-com1), e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda".
 
-3. Il rilascio della concessione o la reiezione della domanda di cui ai commi 1 e 2 dovra' avvenire entro il 30 aprile 1995.
+3. Il rilascio della concessione o la reiezione della domanda di cui ai commi 1 e 2 dovra' avvenire entro il 30 giugno 1995.
 
 4. Il [comma 1 dell'articolo 9 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art9-com1), come modificato dall'[articolo 11-bis del decreto-legge 27 agosto 1993, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323~art11bis), convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;422), e' sostituito dal seguente:  
 " 1. Le amministrazioni statali, gli enti pubblici territoriali, gli altri enti pubblici, compresi quelli economici, questi ultimi limitatamente alla pubblicita' diffusa sul territorio nazionale, sono tenuti a destinare alla pubblicita' su emittenti televisive locali operanti nei territori dei Paesi dell'Unione europea, nonche' su emittenti radiofoniche nazionali e locali operanti nei territori dei medesimi Paesi, almeno il 15 per cento delle somme stanziate in bilancio per le campagne pubblicitarie e di promozione delle proprie attivita'. Gli enti pubblici territoriali, gli altri enti pubblici a rilevanza regionale e locale, compresi quelli economici, sono tenuti a destinare, relativamente alla pubblicita' non diffusa in ambito nazionale, almeno il 25 per cento delle somme stanziate in bilancio, per le campagne pubblicitarie e di promozione delle proprie attivita', su emittenti televisive e radiofoniche locali operanti nei territori dei Paesi dell'Unione europea.".
@@ -162,12 +161,12 @@ Art. 10
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Le disposizioni del presente decreto hanno effetto dal 1 maggio 1995. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 marzo 1995
+### Dato a Roma, addi' 29 aprile 1995
 
 SCALFARO
 

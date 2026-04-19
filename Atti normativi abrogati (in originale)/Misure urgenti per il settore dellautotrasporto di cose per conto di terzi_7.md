@@ -1,13 +1,13 @@
-DECRETO-LEGGE 28 gennaio 1994 n. 69
+DECRETO-LEGGE 27 settembre 1993 n. 383
 
 
-DECRETO-LEGGE 28 gennaio 1994 n. 69
-===================================
+DECRETO-LEGGE 27 settembre 1993 n. 383
+======================================
 
 Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi.
 ----------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-1-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 30/9/1993.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni di sostegno in favore del settore dell'autotrasporto di cose per conto di terzi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 settembre 1993;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro e delle finanze;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dei trasporti, di concerto con i Ministri delle finanze e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -40,16 +40,16 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1994
+### Dato a Roma, addi' 27 settembre 1993
 
 SCALFARO
 
 CIAMPI, Presidente del Consiglio dei Ministri
 
-COSTA, Ministro dei trasporti e della navigazione
-
-BARUCCI, Ministro del tesoro
+COSTA, Ministro dei trasporti
 
 GALLO, Ministro delle finanze
+
+SPAVENTA, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: CONSO

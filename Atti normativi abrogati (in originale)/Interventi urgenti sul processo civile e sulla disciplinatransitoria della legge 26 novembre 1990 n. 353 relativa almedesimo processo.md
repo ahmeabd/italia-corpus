@@ -1,7 +1,7 @@
-DECRETO-LEGGE 21 giugno 1995 n. 238
+DECRETO-LEGGE 09 agosto 1995 n. 347
 
 
-DECRETO-LEGGE 21 giugno 1995 n. 238
+DECRETO-LEGGE 09 agosto 1995 n. 347
 ===================================
 
 Interventi urgenti sul processo civile e sulla disciplina 
@@ -9,7 +9,7 @@ transitoria della legge 26 novembre 1990, n. 353, relativa al
 medesimo processo.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 22-6-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 22-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,7 +18,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di intervenire su taluni aspetti della competenza civile e della fase introduttiva del giudizio di primo grado, nonche' sulla disciplina transitoria della [legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353), relativa al processo civile;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 giugno 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 agosto 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia;
 
@@ -50,11 +50,12 @@ Comparsa di risposta
 Art. 4
 ------
 
-Udienza di prima comparizione  
-e forma della trattazione
+Udienza di prima comparizione e forma della trattazione
 
-1. La rubrica ed il [primo comma dell'articolo 180 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art180-com1) sono sostituiti dai seguenti:  
+1. La rubrica ed il [primo comma dell'articolo 180 del codice di  
+procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art180-com1) sono sostituiti dai seguenti:  
 "Art. 180 (Udienza di prima comparizione e forma della trattazione). - All'udienza fissata per la prima comparizione delle parti il giudice istruttore verifica d'ufficio la regolarita' del contraddittorio e, quando occorre, pronuncia i provvedimenti previsti dall'articolo 102, secondo comma, dall'articolo 164, dall'articolo 167, dall'articolo 182 e dall'articolo 291, primo comma.  
+La trattazione della causa davanti al giudice istruttore e' orale.  
 Se richiesto, il giudice istruttore puo' autorizzare comunicazioni di comparse a norma dell'ultimo comma dell'articolo 170. In ogni caso fissa a data successiva la prima udienza di trattazione, assegnando al convenuto un termine perentorio non inferiore a venti giorni prima di tale udienza per proporre le eccezioni processuali e di merito che non siano rilevabili d'ufficio.".
 
 Art. 5
@@ -89,16 +90,13 @@ La parte intimata puo' dichiarare di rinunciare alla pronuncia della sentenza, c
 Art. 8
 ------
 
-Termini nel procedimento d'ingiunzione  
-e di convalida
+Termini nel procedimento d'ingiunzione e di convalida
 
 1. Nel [primo comma dell'articolo 641 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art641-com1) le parole: "venti giorni," sono sostituite dalle seguenti: "quaranta giorni,".
 
-2. Il primo periodo del [secondo comma dell'articolo 641 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art641-com2) e' sostituito dal seguente:  
-"Quando concorrono giusti motivi, il termine puo' essere ridotto sino a dieci giorni oppure aumentato a sessanta.".
+2. Il primo periodo del [secondo comma dell'articolo 641 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art641-com2) e' sostituito dal seguente: "Quando concorrono giusti motivi, il termine puo' essere ridotto sino a dieci giorni oppure aumentato a sessanta.".
 
-3. Nel [primo comma dell'articolo 660 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art660-com1) e' aggiunto, in fine, il seguente periodo:  
-"I termini a comparire sono ridotti di due terzi.".
+3. Nel [primo comma dell'articolo 660 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art660-com1) e' aggiunto, in fine, il seguente periodo: "I termini a comparire sono ridotti di due terzi.".
 
 Art. 9
 ------
@@ -134,7 +132,7 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1995
+### Dato a Roma, addi' 9 agosto 1995
 
 SCALFARO
 

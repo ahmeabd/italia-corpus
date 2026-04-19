@@ -1,13 +1,13 @@
-DECRETO-LEGGE 25 marzo 1996 n. 156
+DECRETO-LEGGE 25 maggio 1996 n. 287
 
 
-DECRETO-LEGGE 25 marzo 1996 n. 156
-==================================
+DECRETO-LEGGE 25 maggio 1996 n. 287
+===================================
 
 Disposizioni urgenti in materia di finanza locale per l'anno 1996.
 ------------------------------------------------------------------
 
-Entrata in vigore del decreto: 27-3-1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 26-5-1996.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in mater
 
 Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare ulteriori disposizioni concernenti gli interventi straordinari da effettuare nelle citta' di Torino e Firenze per lo svolgimento della Conferenza intergovernativa dei Paesi dell'Unione europea e del Consiglio europeo;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 marzo 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 maggio 1996;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro dell'interno, di concerto con i Ministri delle finanze e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri dell'interno e del tesoro e del bilancio e della programmazione economica, di concerto con i Ministri delle finanze e della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica;
 
 E M A N A il seguente decreto-legge:
 
@@ -73,7 +73,7 @@ Disposizioni tributarie
 
 4. Il termine del 31 ottobre 1995 di cui all'[articolo 79, comma 2, del decreto legislativo n. 507 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;507~art79-com2), da ultimo differito al 31 gennaio 1996 con l'[articolo 9, comma 2, del decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art9-com2), e' ulteriormente differito al 31 ottobre 1996; la relativa delibera ha effetto dal 1997.
 
-5. Per l'anno 1996, i termini previsti, rispettivamente, dall'[articolo 8, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;507~art8-com3), e dall'[articolo 50 del decreto legislativo n. 507 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;507~art50), per il versamento dell'imposta comunale sulla pubblicita' e del diritto sulle pubbliche affissioni e della tassa per l'occupazione permanente e temporanea di spazi ed aree pubbliche, aventi scadenza entro il 31 gennaio 1996, sono prorogati al 31 marzo 1996. E' conseguentemene prorogato di trenta giorni il termine entro il quale il concessionario del servizio deve versare al comune l'ammontare delle riscossioni e la quota del minimo garantito.
+5. Per l'anno 1996, i termini previsti, rispettivamente, dall'[articolo 8, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;507~art8-com3), e dall'[articolo 50 del decreto legislativo n. 507 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;507~art50), per il versamento dell'imposta comunale sulla pubblicita' e del diritto sulle pubbliche affissioni e della tassa per l'occupazione permanente e temporanea di spazi ed aree pubbliche, aventi scadenza entro il 31 gennaio 1996, sono prorogati al 31 marzo 1996. E' conseguentemente prorogato di trenta giorni il termine entro il quale il concessionario del servizio deve versare al comune l'ammontare delle riscossioni e la quota del minimo garantito.
 
 6. Il [comma 2 dell'articolo 27 del decreto legislativo 15 novembre 1993, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-11-15;507~art27-com2), e' sostituito dal seguente:  
 " 2. Accertata la sussistenza di ragioni di convenienza e di pubblico interesse, il comune puo' procedere al rinnovo della concessione; a tal fine il concessionario deve presentare apposita istanza almeno sei mesi prima della scadenza della concessione indicando le condizioni per il rinnovo, che devono essere migliorative per il comune.".
@@ -109,7 +109,7 @@ Art. 6
 
 Proroga dei termini
 
-1. Il termine per la deliberazione del bilancio di previsione 1996 degli enti locali previsto dall'[articolo 9 del decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art9) e' prorogato al 29 febbraio 1996. E' altresi' differito al 29 febbraio 1996 il termine previsto per deliberare le tariffe, le aliquote d'imposta e le variazioni dei limiti di reddito per i tributi locali e per i servizi locali relativamente all'anno 1996.
+1. Il termine per la deliberazione del bilancio di previsione 1996 degli enti locali previsto dall'[articolo 9 del decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art9) e' prorogato al 29 febbraio 1996. E' altresi' differito al 31 maggio 1996 il termine previsto per deliberare le tariffe, le aliquote d'imposta e le variazioni dei limiti di reddito per i tributi locali e per i servizi locali relativamente all'anno 1996.
 
 2. In deroga a quanto disposto dall'[articolo 5, comma 2, del decreto legislativo n. 77 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;77~art5-com2), sino all'approvazione del bilancio di previsione per l'anno 1996, e comunque non oltre il 29 febbraio 1996, gli enti locali possono effettuare mensilmente spese, per ciascun capitolo, in misura non superiore ad un dodicesimo delle somme previste nell'ultimo bilancio approvato, con esclusione delle spese tassativamente regolate dalla legge o non suscettibili di pagamento frazionato in dodicesimi.
 
@@ -119,7 +119,7 @@ Proroga dei termini
 
 5. La disposizione di cui all'[articolo 3, comma 18-bis, del decreto-legge n. 444 del 1995](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;444~art3-com18bis) ha decorrenza dal 1 gennaio 1996.
 
-6. Allo scopo di consentire la tempestiva erogazione dei contributi erariali agli enti locali e lo svolgimento di altri servizi istituzionali, il Ministero dell'interno e' autorizzato a prorogare con effetto dal 1 gennaio 1996 e per il periodo massimo di dodici mesi il contratto per la locazione delle apparecchiature elettroniche del competente centro elaborazione dati, con imputazione dell'onere sul corrispondente capitolo di bilancio del proprio stato di previsione della spesa, in deroga all'[articolo 6, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art6), come sostituito dall'[articolo 44 della legge 23 dicembre 1994, n. 725](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;725~art44), nonche' all'[articolo 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come modificato dal [decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546).
+6. Allo scopo di consentire la tempestiva erogazione dei contributi erariali agli enti locali e lo svolgimento di altri servizi istituzionali, il Ministero dell'interno e' autorizzato a prorogare con effetto dal 1 gennaio 1996 e per il periodo massimo di dodici mesi il contratto per la locazione delle apparecchiature elettroniche del competente centro elaborazione dati, con imputazione dell'onere sul corrispondente capitolo di bilancio del proprio stato di previsione della spesa, in deroga all'[articolo 6, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art6), come sostituito dall'[articolo 44 della legge 23 dicembre 1994, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724~art44), nonche' all'[articolo 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come modificato dal [decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546).
 
 7. Il termine previsto dal [comma 3 dell'articolo 10 del decreto-legge 27 ottobre 1995, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-10-27;444~art10-com3), convertito con modificazioni, dalla [legge 20 dicembre 1995, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-20;539), e' prorogato al 30 giugno 1996; il termine per la definitivita' degli atti previsto dal primo periodo del comma 5 dell'articolo 10 del suddetto decreto-legge e' prorogato al 31 maggio 1996.
 
@@ -175,7 +175,7 @@ Ulteriori interventi per lo svolgimento della Conferenza intergovernativa dei Pa
 
 1. La deroga di cui all'[articolo 1, comma 4, del decreto-legge 12 gennaio 1996, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-01-12;13~art1-com4), convertito, con modificazioni, dalla [legge 28 febbraio 1996, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-28;96), concernente la Conferenza intergovernativa dei Paesi dell'Unione europea e il Consiglio europeo, si intende riferita anche alle disposizioni della [legge 11 febbraio 1994, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-11;109), e successive modificazioni ed integrazioni; i commi 2 e seguenti del medesimo articolo 1 si applicano agli interventi da effettuare nell'ambito delle finalita' indicate dal comma 1 con spesa, anche parzialmente, a carico dei comuni e di altri amministrazioni ed enti pubblici nonche' di societa' e organismi privati.
 
-2. Per l'attuazione dei servizi necessari ad assicurare condizioni di sicurezza allo svolgimento delle manifestazioni di cui al comma 1 e per le connesse esigenze amministrative, tecniche e logistiche e' autorizzata, altresi', la spesa complessiva di lire 6.700 milioni da destinare ai pertinenti capitoli di bilancio del Ministero dell'interno per la successiva assegnazione dei fondi alle contabilita' speciali delle prefetture interessate, che, ove occorre, sono autorizzate a prelevare le somme necessarie dai fondi in genere delle medesime contabilita' speciali. All'onere derivante dal presente comma si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
+2. Per l'attuazione dei servizi necessari ad assicurare condizioni di sicurezza allo svolgimento delle manifestazioni di cui al comma 1 e per le connesse esigenze amministrative, tecniche e logistiche e' autorizzata, altresi', la spesa complessiva di lire 6.700 milioni da destinare ai pertinenti capitoli di bilancio del Ministero dell'interno per la successiva assegnazione dei fondi alle contabilita' speciali delle prefetture interessate, che, ove occorra, sono autorizzate a prelevare le somme necessarie dai fondi in genere delle medesime contabilita' speciali. All'onere derivante dal presente comma si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
 
 Art. 13
 -------
@@ -205,16 +205,18 @@ Entrata in vigore
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 marzo 1996
+### Dato a Roma, addi' 25 maggio 1996
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+PRODI, Presidente del Consiglio dei Ministri
 
-CORONAS, Ministro dell'interno
+NAPOLITANO, Ministro dell'interno
 
-FANTOZZI, Ministro delle finanze
+CIAMPI, Ministro del tesoro e del bilancio e della programmazione economica
 
-ARCELLI, Ministro del bilancio e della programmazione economica
+VISCO, Ministro delle finanze
 
-Visto, il Guardasigilli: CAIANIELLO
+BERLINGUER, Ministro della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica
+
+Visto, il Guardasigilli: FLICK

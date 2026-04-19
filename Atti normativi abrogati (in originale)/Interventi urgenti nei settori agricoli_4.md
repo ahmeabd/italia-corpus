@@ -1,13 +1,13 @@
-DECRETO-LEGGE 31 gennaio 1996 n. 41
+DECRETO-LEGGE 04 dicembre 1995 n. 518
 
 
-DECRETO-LEGGE 31 gennaio 1996 n. 41
-===================================
+DECRETO-LEGGE 04 dicembre 1995 n. 518
+=====================================
 
 Interventi urgenti nei settori agricoli.
 ----------------------------------------
 
-Entrata in vigore del decreto: 5/2/1996.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 7-12-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,9 +16,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di prorogare l'attivita' del Fondo per lo sviluppo della meccanizzazione in agricoltura, al fine di consentire la prosecuzione delle attivita' per il miglioramento genetico del bestiame, per l'approvvigionamento idrico, nonche' di intervenire nella regolamentazione del regime di produzione lattiera;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 dicembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri dei lavori pubblici e dell'ambiente e delle finanze, ad interim, del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri dei lavori pubblici e dell'ambiente e del bilancio e della programmazione economica;
 
 E M A N A il seguente decreto-legge:
 
@@ -35,7 +35,7 @@ Art. 2
 
 Interventi finanziari straordinari
 
-1. Per assicurare la continuita' delle attivita' necessarie all'esercizio delle grandi dighe, gia' ultimate e in gestione o in corso di ultimazione con la costruzione delle relative adduzioni e distribuzione primaria dell'acqua a fini prevalentemente irrigui, nelle more di un definitivo riordino delle loro funzioni e finalita', sono attribuiti contributi straordinari per l'anno 1995, rispettivamente, nell'importo di lire 30 miliardi all'Ente per lo sviluppo dell'irrigazione in Puglia, Lucania ed Irpinia e nell'importo di lire 14 miliardi all'Ente irriguo umbro-toscano.
+1. Per assicurare la continuita' delle attivita' necessarie all'esercizio delle grandi dighe, gia' ultimate e in gestione o in corso di ultimazione con la costruzione delle relative adduzioni e distribuzione primaria dell'acqua a fini prevalentemente irrigui, sono attribuiti contributi straordinari per l'anno 1995, rispettivamente, nell'importo di lire 30 miliardi all'Ente per lo sviluppo dell'irrigazione in Puglia, Lucania ed Irpinia, e nell'importo di lire 14 miliardi all'Ente irriguo umbro-toscano.
 
 2. Per consentire il conseguimento di una maggiore economia nel settore degli allevamenti, anche attraverso il miglioramento genetico del bestiame, e per far fronte alle connesse esigenze finanziarie, e' autorizzata la spesa di lire 46 miliardi, di cui 500 milioni a titolo di contributo per programmi di miglioramento del lupo italiano, per l'anno 1995.
 
@@ -45,8 +45,6 @@ Art. 3
 Copertura finanziaria
 
 1. All'onere derivante dall'applicazione dell'articolo 2 si provvede mediante utilizzo per lire 90.000 milioni delle disponibilita' del Fondo per lo sviluppo della meccanizzazione in agricoltura, con corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 12 della legge 27 ottobre 1966, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910~art12), e successive integrazioni. Tale importo viene versato all'entrata del bilancio dello Stato per essere assegnato ad appositi capitoli dello stato di previsione dell'amministrazione competente.
-
-2. Il Ministro del tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
 Art. 4
 ------
@@ -61,12 +59,12 @@ Art. 5
 
 Entrata in vigore
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 gennaio 1996
+### Dato a Roma, addi 4 dicembre 1995
 
 SCALFARO
 
@@ -78,8 +76,6 @@ agricole, alimentari e forestali
 
 BARATTA, Ministro dei lavori pubblici e dell'ambiente
 
-FANTOZZI, Ministro delle
-
-finanze e, ad interim, Ministro del bilancio e della programmazione economica
+MASERA, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: DINI

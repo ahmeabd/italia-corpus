@@ -1,14 +1,14 @@
-DECRETO-LEGGE 07 novembre 1994 n. 620
+DECRETO-LEGGE 07 gennaio 1995 n. 4
 
 
-DECRETO-LEGGE 07 novembre 1994 n. 620
-=====================================
+DECRETO-LEGGE 07 gennaio 1995 n. 4
+==================================
 
 Disposizioni urgenti concernenti il Consiglio universitario 
 nazionale.
 -----------------------------------------------------------------------
 
-Entrata in vigore del decreto: 9/11/1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 8/1/1995.Decreto-Legge convertito con modificazioni dalla [L. 8 marzo 1995, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-03-08;63) (in G.U. 08/03/1995, n.56).
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare la funzionalita' del Consiglio universitario nazionale in ordine ai suoi compiti istituzionali, in relazione all'imminente avvio dell'anno accademico 1994-1995;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 novembre 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 gennaio 1995.
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'universita' e della ricerca scientifica e tecnologica;
 
@@ -28,6 +28,8 @@ Art. 1
 
 1. Fino al rinnovo del Consiglio universitario nazionale (CUN), secondo le modalita' di cui all'[articolo 10 della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art10), e del relativo regolamento di attuazione, e comunque non oltre il 30 giugno 1995, il CUN, la corte di disciplina ed i comitati consultivi sono prorogati nell'attuale composizione. Sono fatti salvi gli atti e le deliberazioni adottati dai predetti organi prima della data di entrata in vigore del presente decreto.
 
+2. In sede di prima elezione del CUN, in applicazione della [legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341), non sono rieleggibili coloro che abbiano fatto parte del Consiglio nella composizione precedente a quella attuale.
+
 Art. 2
 ------
 
@@ -36,7 +38,7 @@ Art. 2
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 novembre 1994
+### Dato a Roma, addi' 7 gennaio 1995
 
 SCALFARO
 

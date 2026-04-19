@@ -1,77 +1,75 @@
-LEGGE 10 dicembre 1954 n. 1164
+DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO 30 maggio 1947 n. 604
 
 
-LEGGE 10 dicembre 1954 n. 1164
-==============================
+DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO 30 maggio 1947 n. 604
+==========================================================================
 
 Provvedimenti in materia di tasse sulle concessioni governative.
 ----------------------------------------------------------------
 
-La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+IL CAPO PROVVISORIO DELLO STATO
+-------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Visto il [regio decreto 30 dicembre 1923, n. 3279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3279), che approva il testo della legge sulle concessioni governative, modificato dal [regio decreto 26 marzo 1936, numero 1418](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-26;1418);
 
-PROMULGA
---------
+Visto il [regio decreto-legge 26 settembre 1935, numero 1749](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-09-26;1749), allegato F, portante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 28 maggio 1936, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-05-28;1027);
 
-la seguente legge;
+Visto il [regio decreto-legge 21 giugno 1942, n. 696](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1942-06-21;696), riguardante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 18 ottobre 1942, n. 1288](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-10-18;1288), con modifiche;
+
+Vista la [legge 3 dicembre 1942, n. 1700](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-12-03;1700), sulla legalizzazione di firme;
+
+Visto il [regio decreto legislativo 7 giugno 1946, n. 581](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-06-07;581), portante provvedimenti in materia di tasse sulle concessioni governative;
+
+Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
+
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+
+Visto il [decreto legislativo Presidenziale 19 giugno 1946, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1);
+
+Ritenute la necessita' e l'urgenza di aggiornare le aliquote di tasse sulle concessioni governative;
+
+Vista la deliberazione del Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro Segretario di Stato per le finanze e per il tesoro; HA SANZIONATO E PROMULGA:
 
 Art. 1
 ------
 
-  
-I numeri 8, 9, 10, 22, 23, 31, 32, 33, 35, 38, 41, 43, 44, 49, 50, 51, 52, 58, 59, 62, 66, 67, 68, 69, 70, 91, 107, 111, 112, 113, 114, 121, 125, 129, 131, 183, 186, 196, 200 e 217 della tabella allegato A. al testo unico delle leggi vigenti in materia di tasse sulle concessioni governative, approvato con [decreto Presidenziale 20 marzo 1953, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-20;112), sono sostituiti dai seguenti:  
-  
-----> Parte di provvedimento in formato grafico <----  
+null
 
 Art. 2
 ------
 
   
-Alla tabella allegato A al testo unico delle leggi vigenti in materia di tasse sulle concessioni governative, approvato con [decreto Presidenziale 20 marzo 1953, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-20;112), sono aggiunte le seguenti voci:   
-----> Parte di provvedimento in formato grafico <----  
+La tabella, allegato A, con le note in essa contenute, firmata dal Ministro per le finanze e per il tesoro, fa parte integrante del presente decreto.  
 
 Art. 3
 ------
 
   
-Le voci di cui ai numeri 19, 20 e 203 della tabella allegato A al testo unico delle leggi vigenti in materia di tasse sulle concessioni governative, approvato con [decreto Presidenziale 20 marzo 1953, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-20;112), sono soppresse.  
-
-Art. 4
-------
-
-  
-Gli articoli 7, 10 e 13 del testo unico delle leggi vigenti in materia di tasse sulle concessioni governative, approvato con [decreto Presidenziale 20 marzo 1953, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-20;112), sono sostituiti rispettivamente dai seguenti articoli:  
-  
-Art. 7. - Ferme restando le esenzioni soggettive ed oggettive previste dalle tabelle o da speciali norme di legge, sono esenti da tassa tanto le societa' commerciali costituite quanto quelle che si costituiranno allo scopo di esercitare nuove miniere di zolfo.  
-Cosi' pure le societa' estere costituite per attuare in Italia il medesimo scopo godono, per tutta la durata del loro esercizio, di uguale esenzione relativamente agli atti necessari per il proprio riconoscimento nello Stato e per stabilirvi un'agenzia generale o una rappresentanza.  
-  
-Art. 10. Colui che compie atti o esercita diritti senza il pagamento delle tasse stabilite dalle annesse tabelle e' soggetto alla pena pecuniaria dal minimo pari al doppio della tassa fino al sestuplo della tassa medesima, ed in ogni caso non inferiore a lire 250, salvo che dalla legge non sia stabilita una particolare sanazione.  
-E' soggetto alla pena pecuniaria da lire 250 a lire 5000, oltre il pagamento della tassa dovuta, salvo per questa il regresso verso il debitore, il pubblico ufficiale il quale rilascia concessioni o autorizzazioni od emette provvedimenti od atti, ovvero riceve dichiarazioni di cui all'art. 1 del presente testo unico, senza il pagamento della tassa dovuta, quando tale pagamento debba essere effettuato anteriormente o contemporaneamente all'emanazione dell'atto.  
-Agli effetti della legge penale le marche ed i valori relativi alle tasse sulle concessioni governative sono parificati alle marche ed ai valori contemplati dalla legge sul bollo.  
-Ferme restando le norme di cui agli articoli 137, 138 e 139 della tabella allegato A, nel caso di mancato pagamento delle tasse annuali nei termini stabiliti, si incorre, in luogo della pena pecuniaria di cui al primo comma del presente articolo, in una sopratassa del 10 per cento della tassa dovuta, purche' la tassa medesima sia corrisposta non oltre 30 giorni dalla scadenza.  
-  
-Art. 13.- Sul provento delle pene pecuniarie per infrazione alle leggi sulle tasse di concessione governativa spetta agli accertatori delle infrazioni stesse una quota di compartecipazione, da liquidarsi nella misura e nei modi previsti dalla [legge 7 febbraio 1951, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-07;168).
-
-Art. 5
-------
-
-  
-Con decreto del Ministro per le finanze potra' essere variato il modo di pagamento delle tasse di concessione governativa stabilite dalla presente legge e dalla tabella allegato A al testo unico delle leggi vigenti in materia di tasse sulle concessioni governative, approvato con [decreto Presidenziale 20 marzo 1953, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-20;112).  
-
-Art. 6
-------
-
-  
-La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+Sono abrogate le disposizioni contrarie al presente decreto.  
   
 
-La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 10 dicembre 1954
+### Dato a Roma, addi' 30 maggio 1947
 
-EINAUDI SCELBA - TREMELLONI
+DE NICOLA DE GASPERI - CAMPILLI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 1° luglio 1947
+
+Atti del Governo, registro n. 10, foglio n. 6. - FRASCA
+
+Allegato A
+
+ ALLEGATO A.   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=047U060400100010110001&dgu=1947-07-11&art.dataPubblicazioneGazzetta=1947-07-11&art.codiceRedazionale=047U0604)
+  

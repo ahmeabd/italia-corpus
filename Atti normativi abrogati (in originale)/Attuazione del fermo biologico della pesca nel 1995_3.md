@@ -1,13 +1,13 @@
-DECRETO-LEGGE 16 gennaio 1996 n. 16
+DECRETO-LEGGE 18 novembre 1995 n. 485
 
 
-DECRETO-LEGGE 16 gennaio 1996 n. 16
-===================================
+DECRETO-LEGGE 18 novembre 1995 n. 485
+=====================================
 
 Attuazione del fermo biologico della pesca nel 1995.
 ----------------------------------------------------
 
-Entrata in vigore del decreto: 18/1/1996. Decreto-Legge convertito con modificazioni dalla [L. 28 febbraio 1996, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-28;107) (in G.U. 05/03/1996, n.54).
+Entrata in vigore del decreto: 18-11-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Visto il [regolamento CE n. 3699/93 del Consiglio del 21 dicembre 1993](http://e
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per l'attuazione del fermo biologico della pesca per l'anno 1995, secondo quanto disposto dal citato regolamento;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 gennaio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 novembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle risorse agricole, alimentari e forestali, di concerto con il Ministro delle finanze e, ad interim, del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle risorse agricole, alimentari e forestali, di concerto con i Ministri del bilancio e della programmazione economica e delle finanze;
 
 E M A N A il seguente decreto-legge:
 
@@ -62,7 +62,7 @@ Art. 3
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 gennaio 1996
+### Dato a Roma, addi' 18 novembre 1995
 
 SCALFARO
 
@@ -72,8 +72,8 @@ LUCHETTI, Ministro delle risorse
 
 agricole, alimentari e forestali
 
-FANTOZZI, Ministro delle finanze
+MASERA, Ministro del bilancio e della programmazione economica
 
-e, ad interim, Ministro del bilancio e della programmazione economica
+FANTOZZI, Ministro delle finanze
 
 Visto, il Guardasigilli: DINI

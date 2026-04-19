@@ -1,13 +1,13 @@
-DECRETO-LEGGE 10 settembre 1993 n. 353
+DECRETO-LEGGE 11 gennaio 1994 n. 15
 
 
-DECRETO-LEGGE 10 settembre 1993 n. 353
-======================================
+DECRETO-LEGGE 11 gennaio 1994 n. 15
+===================================
 
 Proroga dei termini in materia di avanzamento degli ufficiali e di ferma volontaria dei sergenti, nonche' norme per la corresponsione di emolumenti a talune categorie di Forze di polizia.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/9/1993.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 13/1/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,9 +18,9 @@ Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in mater
 
 Ritenuta la necessita' di apportare modifiche alle modalita' di corresponsione degli emolumenti arretrati al personale di cui al [decreto-legge 7 gennaio 1992, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 settembre 1993;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 gennaio 1994;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con i Ministri dell'interno, del tesoro, del bilancio e della programmazione economica, delle finanze, di grazia e giustizia e per il coordinamento delle politiche agricole, alimentari e forestali;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della difesa, di concerto con i Ministri dell'interno, del tesoro, delle finanze e di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -29,7 +29,7 @@ Art. 1
 
 1. Le disposizioni di cui ai [commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404~art1-com2) e [3 dell'articolo 1 della legge 27 dicembre 1990, n. 404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-27;404~art1-com3), sono ulteriormente prorogate fino al 31 dicembre 1994.
 
-2. In attesa della ristrutturazione dei ruoli dei sottufficiali prevista dall'[articolo 3 del decreto-legge 7 gennaio 1992, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5~art3), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216), ai fini dell'applicazione del [secondo comma dell'articolo 20 della legge 10 maggio 1983, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212~art20-com2), i termini temporali delle ferme volontarie contratte ai sensi dell'articolo 4 della citata normativa ed in atto alla data di entrata in vigore del presente decreto sono prorogate sino al 31 dicembre 1994 per i sergenti dell'Esercito, della Marina e dell'Aeronautica, giudicati idonei al concorso per il transito nei ruoli del servizio permanente ma non dichiarati vincitori. I predetti sergenti sono trattenuti in servizio in via temporanea, senza che cio' costituisca titolo alla stabilizzazione del rapporto, nel rispetto della forza organica prevista annualmente dalla legge di bilancio, da fissare in misura comunque non superiore ai valori stabiliti per il 1993 e possono partecipare a due successivi concorsi straordinari per il transito nei ruoli del servizio permanente. La percentuale delle vacanze organiche da attribuire mediante i predetti concorsi viene stabilita con decreto del Ministro della difesa, d'intesa con il Ministro per la funzione pubblica e con il Ministro del tesoro.
+2. In attesa della ristrutturazione dei ruoli dei sottufficiali prevista dall'[articolo 3 del decreto-legge 7 gennaio 1992, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5~art3), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216), ai fini dell'applicazione del [secondo comma dell'articolo 20 della legge 10 maggio 1983, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-10;212~art20-com2), i termini delle ferme volontarie contratte ai sensi dell'articolo 4 della citata normativa ed in atto alla data di entrata in vigore del presente decreto sono prorogati sino al 31 dicembre 1994 per i sergenti dell'Esercito, della Marina e dell'Aeronautica, giudicati idonei al concorso per il transito nei ruoli del servizio permanente ma non dichiarati vincitori. I predetti sergenti sono trattenuti in servizio in via temporanea, senza che cio' costituisca titolo alla stabilizzazione del rapporto, nel rispetto della forza organica prevista annualmente dalla legge di bilancio, da fissare in misura comunque non superiore ai valori stabiliti per il 1993 e possono partecipare a due successivi concorsi straordinari per il transito nei ruoli del servizio permanente. La percentuale delle vacanze organiche da attribuire mediante i predetti concorsi viene stabilita con decreto del Ministro della difesa, d'intesa con il Ministro per la funzione pubblica e con il Ministro del tesoro.
 
 Art. 2
 ------
@@ -46,12 +46,17 @@ Art. 3
 Art. 4
 ------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. L'autorizzazione di spesa di cui all'[articolo 1 del decreto- legge 7 gennaio 1992, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5~art1), convertito, con modificazioni, dalla [legge 6 marzo 1992, n. 216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-06;216), deve intendersi, nell'ambito degli stanziamenti ivi previsti, riferita a tutti i sottufficiali dell'Arma dei carabinieri e del Corpo della guardia di finanza, anche per quanto attiene le competenze arretrate e le modalita' di pagamento di cui all'articolo 2, comma 2, del decreto stesso.
+
+Art. 5
+------
+
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1993
+### Dato a Roma, addi' 11 gennaio 1994
 
 SCALFARO
 
@@ -63,14 +68,8 @@ MANCINO, Ministro dell'interno
 
 BARUCCI, Ministro del tesoro
 
-SPAVENTA, Ministro del bilancio e della programmazione economica
-
 GALLO, Ministro delle finanze
 
 CONSO, Ministro di grazia e giustizia
-
-DIANA, Ministro per il coordinamento delle politiche
-
-agricole, alimentari e forestali
 
 Visto, il Guardasigilli: CONSO

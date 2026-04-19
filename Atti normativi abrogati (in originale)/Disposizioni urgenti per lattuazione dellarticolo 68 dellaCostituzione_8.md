@@ -1,14 +1,14 @@
-DECRETO-LEGGE 13 marzo 1995 n. 69
+DECRETO-LEGGE 13 gennaio 1995 n. 7
 
 
-DECRETO-LEGGE 13 marzo 1995 n. 69
-=================================
+DECRETO-LEGGE 13 gennaio 1995 n. 7
+==================================
 
 Disposizioni urgenti per l'attuazione dell'articolo 68 della 
 Costituzione.
 ---------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 15/3/1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 14/1/1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,9 +17,9 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni attuative dell'[articolo 68 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68);
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 7 marzo 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 gennaio 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro di grazia e giustizia;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia;
 
 E M A N A il seguente decreto-legge:
 
@@ -38,7 +38,7 @@ Art. 3
 
 1. Quando risulti evidente l'applicabilita' dell'[articolo 68, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68-com1), il giudice la dichiara di ufficio in ogni stato e grado del procedimento.
 
-2. Il giudice, se non ritiene di dover provvedere a norma del comma 1 e sempreche' sia rilevata la questione relativa all'applicabilita' dell'[articolo 68, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68-com1), pronuncia, sentite le parti, ordinanza non impugnabile. Con tale provvedimento, qualora non ritenga che la questione sia manifestamente infondata, il giudice trasmette direttamente gli atti alla Camera competente perche' questa deliberi se il fatto per il quale e' in corso il procedimento concerna o meno opinioni espresse o voti dati da un membro del Parlamento nell'esercizio delle sue funzioni e dispone la sospensione del procedimento sino alla deliberazione della Camera competente e, comunque, per un tempo non superiore a novanta giorni. Prima della deliberazione della Camera competente o della scadenza del termine predetto, possono essere compiuti soltanto gli atti urgenti. Nel caso di procedimenti riuniti, il giudice, anche di ufficio, puo' disporre la relativa separazione. Quando dichiara la questione manifestamente infondata, il giudice informa immediatamente la Camera competente trasmettendo copia dell'ordinanza; in tal caso la Camera puo' richiedere copia degli atti del procedimento e il giudice puo' disporre la sospensione del procedimento, alla quale si applicano le disposizioni del presente comma in materia di termini e di compimento degli atti urgenti.
+2. Il giudice, se non ritiene di dover provvedere a norma del comma 1 e sempreche' sia rilevata la questione relativa all'applicabilita' dell'[articolo 68, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art68-com1), pronuncia, sentite le parti, ordinanza non impugnabile. Con tale provvedimento, qualora non ritenga che la questione sia manifestamente infondata, il giudice trasmette direttamente gli atti alla Camera competente perche' questa deliberi se il fatto per il quale e' in corso il procedimento concerna o meno opinioni espresse o voti dati da un membro del Parlamento nell'esercizio delle sue funzioni e dispone la sospensione del procedimento sino alla deliberazione della Camera competente e, comunque, per un tempo non superiore a novanta giorni. Prima della deliberazione della Camera competente o della scadenza del termine predetto, possono essere compiuti soltanto gli atti urgenti. Nel caso di procedimenti riuniti, il giudice, anche di ufficio, puo' disporre la relativa separazione. Quando dichiara la questione manifestamente infondata, il giudice informa immediatamente la Camera competente trasmettendo copia dell'ordinanza.
 
 Art. 4
 ------
@@ -62,12 +62,12 @@ Art. 6
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1995
+### Dato a Roma, addi' 13 gennaio 1995
 
 SCALFARO
 
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
+BERLUSCONI, Presidente del Consiglio dei Ministri
 
-MANCUSO, Ministro di grazia e giustizia
+BIONDI, Ministro di grazia e giustizia
 
-Visto, il Guardasigilli: MANCUSO
+Visto, il Guardasigilli: BIONDI

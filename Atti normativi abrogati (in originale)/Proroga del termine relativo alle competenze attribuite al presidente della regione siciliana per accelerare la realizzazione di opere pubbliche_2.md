@@ -1,13 +1,13 @@
-DECRETO-LEGGE 18 gennaio 1994 n. 38
+DECRETO-LEGGE 17 marzo 1994 n. 182
 
 
-DECRETO-LEGGE 18 gennaio 1994 n. 38
-===================================
+DECRETO-LEGGE 17 marzo 1994 n. 182
+==================================
 
 Proroga del termine relativo alle competenze attribuite al presidente della regione siciliana per accelerare la realizzazione di opere pubbliche.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 20-1-1994.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 21/3/1994.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -16,12 +16,11 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di prorogare il termine relativo alle competenze attribuite al presidente della regione siciliana per accelerare la realizzazione di opere pubbliche;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 gennaio 1994;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 marzo 1994;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri;
 
-proposta del Presidente del Consiglio dei Ministri; E M A N A il seguente decreto-legge:
+E M A N A il seguente decreto-legge:
 
 Art. 1
 ------
@@ -33,12 +32,12 @@ Art. 1
 Art. 2
 ------
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 gennaio 1994
+### Dato a Roma, addi' 17 marzo 1994
 
 SCALFARO
 

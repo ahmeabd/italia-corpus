@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 433
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 433
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "G. 
@@ -34,19 +34,19 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 17, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "istituzioni di patologia generale".  
+Nell'art. 41, relativo agli insegnamenti della facolta' di lettere e filosofia, e' aggiunto l'insegnamento complementare di "istituzioni di filosofia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1986
+### Dato a Roma, addi' 9 aprile 1986
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 agosto 1986
+Registrato alla Corte dei conti, addi' 17 luglio 1986
 
-Registro n. 63 Istruzione, foglio n. 338
+Registro n. 57 Istruzione, foglio n. 100

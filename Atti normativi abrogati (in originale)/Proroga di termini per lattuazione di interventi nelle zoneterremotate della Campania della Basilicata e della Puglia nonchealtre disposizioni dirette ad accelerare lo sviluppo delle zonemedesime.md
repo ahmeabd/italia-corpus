@@ -1,8 +1,8 @@
-DECRETO-LEGGE 23 maggio 1987 n. 202
+DECRETO-LEGGE 24 marzo 1987 n. 111
 
 
-DECRETO-LEGGE 23 maggio 1987 n. 202
-===================================
+DECRETO-LEGGE 24 marzo 1987 n. 111
+==================================
 
 Proroga di termini per l'attuazione di interventi nelle zone 
 terremotate della Campania, della Basilicata e della Puglia, nonche' 
@@ -17,11 +17,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Ritenuta la straordinaria necessita' ed urgenza di provvedere alla proroga di termini relativi a interventi diretti alla ricostruzione e alla rinascita delle zone terremotate della Campania, della Basilicata e della Puglia;
+Ritenuta la straordinaria necessita' ed urgenza di provvedere alla proroga di termini di imminente scadenza relativi a interventi diretti alla ricostruzione e alla rinascita delle zone terremotate della Campania, della Basilicata e della Puglia;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 maggio 1987;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1987;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli interventi straordinari nel Mezzogiorno, di concerto con i Ministri delle finanze, del tesoro, del bilancio e della programmazione economica e dei lavori pubblici;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli interventi straordinari nel Mezzogiorno, di concerto con i Ministri delle finanze, del tesoro, dei lavori pubblici e dell'interno;
 
 EMANA
 -----
@@ -45,11 +45,8 @@ e) quello indicato nell'articolo 1, comma 1, n. 1, in materia di imposta sul val
 
 2. E' prorogato al 31 dicembre 1987 il termine indicato nell'articolo 1, comma 1, n. 3, dello stesso [decreto-legge 28 febbraio 1986, n. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-02-28;48), limitatamente alle occupazioni temporanee e ai procedimenti espropriativi ivi previsti.
 
-3. E' prorogato al 31 dicembre 1987 il termine indicato nell'[articolo 1, comma 4-quater, del decreto-legge 30 giugno 1986, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-30;309~art1-com4quater), convertito, con modificazioni, dalla [legge 9 agosto 1986, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;472), concernente l'adozione da parte dei comuni disastrati o gravemente danneggiati del piano regolatore generale o dei piani esecutivi, con onere posto a carico dei fondi assegnati ai sensi dell'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni. Decorso inutilmente tale termine, ai comuni inadempienti sara' sospesa, a partire dal 1 gennaio 1988, l'erogazione dei fondi previsti dall'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3).
-
-4. Il termine del 30 giugno 1987 indicato nell'[articolo 12, comma 7, della legge 28 ottobre 1986, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-28;730~art12-com7), limitatamente al personale che abbia chiesto l'immissione nei ruoli ad esaurimento, e' prorogato al 30 settembre 1987.
-
-5. Al fine di accelerare l'esecuzione degli interventi previsti dall'[articolo 9 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art9), ai progetti esecutivi presentati alla data di entrata in vigore del presente decreto si applicano le disposizioni di cui al [comma 5-bis dell'articolo 3 del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art3-com5bis), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), intendendosi ivi soppresse le parole "per due terzi".
+3. E' prorogato al 31 dicembre 1987 il termine indicato nell'[articolo 1, comma 4-quater, del decreto-legge 30 giugno 1986, n.   
+309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-30;309~art1-com4quater), convertito, con modificazioni, dalla [legge 9 agosto 1986, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-09;472), concernente l'adozione da parte dei comuni disastrati o gravemente danneggiati del piano regolatore generale o dei piani esecutivi, con onere posto a carico dei fondi assegnati ai sensi dell'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni. Decorso inutilmente tale termine, ai comuni inadempienti sara' sospesa, a partire dal 1° gennaio 1988, l'erogazione dei fondi previsti dall'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3).
 
 Art. 2
 ------
@@ -66,11 +63,10 @@ Art. 3
 
 1. All'[articolo 2, comma 2, lettera c), del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art2-com2-letc), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), dopo la parola "medesimo" sono aggiunte le parole "maggiorato del 70 per cento".
 
-2. I comuni possono acquisire con il consenso dei proprietari e mediante le disponibilita' finanziarie previste dall'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni, gli immobili vincolati ai sensi della [legge 1 giugno 1939, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089), nonche' gli immobili per i quali sia stata avviata dalle competenti soprintendenze la procedura di apposizione di vincolo storico-artistico, e comunque compresi nei piani di recupero, per la destinazione dei medesimi a finalita' di pubblico interesse.  
-Il corrispettivo dell'acquisto e' stabilito dall'ufficio tecnico erariale entro trenta giorni dalla richiesta da parte dei comuni. Il proprietario, ove non condivida la valutazione del predetto ufficio e non intenda procedere ai lavori di riparazione, conserva il titolo ai contributi spettantigli ai sensi della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni, ma e' tenuto all'acquisto o alla realizzazione di unita' immobiliari nello stesso comune, sulla base del costo di intervento di cui all'[articolo 2, comma 1, del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art2-com1), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), e relative maggiorazioni. In tal caso l'immobile vincolato e' acquisito a titolo gratuito dal comune.
+2. I comuni possono acquisire con il consenso dei proprietari e mediante le disponibilita' finanziarie previste dall'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni, gli immobili vincolati ai sensi della [legge 1° giugno 1939, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;1089), nonche' gli immobili per i quali sia stata avviata dalle competenti soprintendenze la procedura di apposizione di vincolo storico-artistico, e comunque compresi nei piani di recupero, per la destinazione dei medesimi a finalita' di pubblico interesse. Il corrispettivo dell'acquisto e' stabilito dall'ufficio tecnico erariale entro trenta giorni dalla richiesta da parte dei comuni. Il proprietario, ove non condivida la valutazione del predetto ufficio e non intenda procedere ai lavori di riparazione, conserva il titolo ai contributi spettantigli ai sensi della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni, ma e' tenuto all'acquisto o alla realizzazione di unita' immobiliari nello stesso comune, sulla base del costo di intervento di cui all'[articolo 2, comma 1, del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art2-com1), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), e relative maggiorazioni. In tal caso l'immobile vincolato e' acquisito a titolo gratuito dal comune.
 
-3. All'[articolo 6 del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art6), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), dopo la lettera e) sono aggiunte le seguenti:  
-"f) del 10 per cento per gli interventi su unita' immobiliari da ricostruire o riparare nelle zone delimitate dagli strumenti urbanistici ai sensi dell'[articolo 2, lettera a), del decreto del Ministro dei lavori pubblici 2 aprile 1968, pubblicato nella Gazzetta Ufficiale n. 97 del 16 aprile 1968](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97);  
+3. All'[articolo 6 del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art6), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), dopo la lettera e) sono aggiunte le seguenti:   
+"f) del 10 per cento per gli interventi su unita' immobiliari da ricostruire o riparare nelle zone delimitate dagli strumenti urbanistici ai sensi dell'[articolo 2, lettera a), del decreto del Ministro dei lavori pubblici 2 aprile 1968, pubblicato nella Gazzetta Ufficiale n. 97 del 16 aprile 1968](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97);   
 g) fino al 10 per cento del contributo base nel caso di demolizione, anche parziale".
 
 4. In sede di ripartizione del fondo previsto dall'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni, il CIPE individua le quote di risorse da attribuire ai comuni per il finanziamento degli interventi sugli immobili di cui all'[articolo 2, comma 2, lettera c), del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art2-com2-letc), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), come modificato dal comma 1.
@@ -93,23 +89,19 @@ Art. 5
 
 3. I contratti in corso sono prorogati di sedici anni a far data dalla ultimazione dei lavori.
 
-4. Le disposizioni di cui ai commi 2 e 3 non si applicano ove il proprietario, entro sessanta giorni dalla data di entrata in vigore del presente decreto, comunichi al sindaco e ai detentori delle unita' immobiliari di voler ripristinare le stesse, accollandosi i relativi oneri anche se eccedenti i contributi.
+4. Le disposizioni di cui ai commi 2 e 3 non si applicano ove il proprietario, entro sessanta giorni dalla data di entrata in vigore del presente decreto, comunichi al sindaco e ai detentori delle unita' immobiliari di volar ripristinare le stesse, accollandosi i relativi oneri anche se eccedenti i contributi.
 
-5. Per le unita' immobiliari di cui ai commi 1, 2 e 4 il termine per la presentazione della domanda e dei relativi elaborati previsti dall'articolo 3, comma i, del [decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), e' stabilito al 31 dicembre 1987.
-
-6. L'onere derivante dall'applicazione del presente articolo e' a carico del fondo di cui all'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni.
+5. Per le unita' immobiliari di cui ai commi 1, 2 e 4 il termine per la presentazione della domanda e dei relativi elaborati previsti dall'[articolo 3, comma 1, del decreto-legge 28 febbraio 1984, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-02-28;19~art3-com1), convertito, con modificazioni, dalla [legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80), e' stabilito al 31 dicembre 1987.
 
 Art. 6
 ------
 
-1. I proprietari delle unita' immobiliari abusive, distrutte o danneggiate dal sisma, sono ammessi ai contributi previsti dalla [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni, ove conseguano le sanatorie previste dalla [legge 28 febbraio 1985, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni.
+1. I proprietari delle unita' immobiliari abusive, distrutte o danneggiate dal sisma, sono ammessi ai contributi previsti dalla [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni, ove abbiano assolto o assolvano gli oneri di cui alla [legge 28 febbraio 1985, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni.
 
 Art. 7
 ------
 
 1. I proprietari delle unita' immobiliari danneggiate dall'evento sismico del 1962 individuati nei piani di recupero previsti nell'[articolo 28, secondo comma, della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art28-com2), e successive modificazioni, accedono ai benefici previsti nella citata legge con le condizioni stabilite nell'[articolo 3 della legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80~art3).
-
-2. L'onere e' a carico delle disponibilita' del fondo di cui all'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni.
 
 Art. 8
 ------
@@ -119,16 +111,14 @@ Art. 8
 Art. 9
 ------
 
-1. L'esecuzione di lavori di importo complessivo non superiore a 300 milioni, connessi ad opere di ricostruzione o di riparazione di immobili privati ai sensi della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni, puo' essere affidata ad imprese, anche se artigiane, che dimostrino il possesso dei requisiti soggettivi per l'iscrizione all'albo nazionale dei costruttori, nonche' di aver richiesto l'iscrizione al predetto albo.
+1. L'esecuzione di lavori di importo complessivo non superiore a 300 milioni, connessi ad opere di ricostruzione o di riparazione di immobili privati ai sensi della [legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219), e successive modificazioni, puo' essere affidata ad imprese, anche se artigiane, che dimostrino il possesso dei requisiti soggettivi per l'iscrizione all'albo nazionale, dei costruttori, nonche' di aver richiesto l'iscrizione al predetto albo.
 
-2. Le imprese artigiane iscritte a detto albo conservano, altresi', l'iscrizione nei registri della camera di commercio, industria, artigianato e agricoltura, al settore artigiani, sempreche' mantengano i relativi requisiti.
-
-3. La disposizione di cui al comma 1 si applica fino al 31 dicembre 1987.
+2. La disposizione di cui al comma 1 si applica fino al 31 dicembre 1987.
 
 Art. 10
 -------
 
-1. All'[articolo 8, comma 9, della legge 28 ottobre 1986, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-28;730~art8-com9), le parole "e che abbiano presentato domanda entro il 31 dicembre 1982" sono sostituite dalle seguenti "e che presentino domanda nei termini previsti per i contributi dallo stesso articolo 22. Entro lo stesso termine le imprese ubicate nei comuni disastrati aventi un numero di addetti superiore a trenta unita' e da delocalizzare nell'ambito dello stesso comune o dei comuni confinanti accedono ai contributi pari a quelli previsti dall'[articolo 32 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art32), e successive modificazioni".
+1. All'[articolo 8, comma 9, della legge 28 ottobre 1986, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-28;730~art8-com9), le parole "e che abbiano presentato domanda entro il 31 dicembre 1982" sono sostituite dalle seguenti "e che presentino domanda nei termini previsti per i contributi dallo stesso articolo 22. Entro lo stesso termine le imprese ubicate nei comuni disastrati aventi un numero di addetti superiore a trenta unita' e da delocalizzare accedono ai contributi pari a quelli previsti dall'[articolo 32 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art32), e successive modificazioni".
 
 Art. 11
 -------
@@ -138,15 +128,15 @@ Art. 11
 Art. 12
 -------
 
-1. Gli oneri per i contributi previsti dall'[articolo 8, comma 5, della legge 28 ottobre 1986, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-28;730~art8-com5), sono a carico del fondo di cui all'[articolo 5 della legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80~art5), per le attivita' artigianali, e a carico della [legge 1 marzo 1986, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-01;64), per le attivita' industriali.
+1. Gli oneri per i contributi previsti dall'[articolo 8, comma 5, della legge 28 ottobre 1986, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-28;730~art8-com5), sono a carico del fondo di cui all'[articolo 5 della legge 18 aprile 1984, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-18;80~art5), per le attivita' artigianali, e a carico della [legge 1° marzo 1986, n. 64](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-01;64), per le attivita' industriali.
 
 2. La concessione dei contributi di cui all'[articolo 22 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art22), e successive modificazioni, limitatamente agli interventi di riparazione o ricostruzione di immobili aventi destinazioni sia ad uso abitativo che produttivo, e' disposta dal sindaco previo parere della commissione di cui all'articolo 14 della citata [legge n. 219 del 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;219).
 
-3. Nell'ipotesi di cui al comma 2 e' altresi' concesso dal sindaco, su parere della commissione di cui all'[articolo 22 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art22), e successive modificazioni, il contributo previsto per la riparazione delle attrezzature ed il rinnovo degli arredi. La commissione stessa emana il proprio parere entro sessanta giorni dalla presentazione della richiesta.
+3. Nell'ipotesi di cui al comma 2 e' altresi' concesso dal sindaco, su parere della commissione di cui all'[articolo 22 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art22), e successive, modificazioni, il contributo previsto per la riparazione delle attrezzature ed il rinnovo degli arredi. La commissione stessa emana il proprio parere entro sessanta giorni dalla presentazione della richiesta.
 
 4. Il CIPE, in sede di ripartizione del fondo previsto dall'[articolo 3 della legge 14 maggio 1981, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-14;219~art3), e successive modificazioni, individua le quote di risorse da attribuire ai comuni per il finanziamento degli interventi di cui ai commi 2 e 3, nonche' quelle occorrenti per la realizzazione degli interventi di cui al [comma 4 dell'articolo 8 della legge 28 ottobre 1986, n. 730](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-28;730~art8-com4).
 
-5. In tutti gli altri casi previsti dall'articolo 22 della citata [legge n. 219 del 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;219), e successive modificazioni, ivi compresi gli ampliamenti e gli adeguamenti funzionali, i contributi sono definiti, entro novanta giorni dalla presentazione dei progetti e della relativa documentazione, dal presidente della regione, anche in assenza del parere dell'apposita commissione, ove questo non sia emanato entro sessanta giorni dalla presentazione stessa.
+5. In tutti gli altri casi previsti dall'articolo 22 della citata [legge n. 219 del 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;219), e successive modificazioni, ivi compresi gli ampliamenti e gli adeguamenti funzionali, i contributi sono definiti, entro novanta giorni dalla presentazione dei progetti e della relativa documentazione, dal presidente della regione, anche in assenza del parere della apposita commissione, ove questo non sia emanato entro sessanta giorni dalla presentazione stessa.
 
 Art. 13
 -------
@@ -163,29 +153,29 @@ Art. 14
 Art. 15
 -------
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 maggio 1987
+### Dato a Roma, addi' 24 marzo 1987
 
 COSSIGA
 
-FANFANI, Presidente del Consiglio dei Ministri
+CRAXI, Presidente del Consiglio dei Ministri
 
 DE VITO, Ministro per gli interventi straordinari nel Mezzogiorno
 
-GUARINO, Ministro delle finanze
+VISENTINI, Ministro delle finanze
 
-GORIA, Ministro del tesoro e, ad
+GORIA, Ministro del tesoro.
 
-interim, del bilancio e della programmazione economica
+NICOLAZZI, Ministro dei lavori pubblici
 
-ZAMBERLETTI, Ministro dei lavori pubblici
+SCALFARO, Ministro dell'interno
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 25 maggio 1987
+Registrato alla Corte dei conti, addi' 25 marzo 1987
 
-Atti di Governo, registro n. 65, foglio n. 27
+Atti di Governo, registro n. 64, foglio n. 9

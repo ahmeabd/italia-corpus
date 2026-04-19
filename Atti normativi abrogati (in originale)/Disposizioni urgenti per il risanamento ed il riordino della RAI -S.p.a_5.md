@@ -1,14 +1,14 @@
-DECRETO-LEGGE 28 giugno 1995 n. 252
+DECRETO-LEGGE 28 agosto 1995 n. 355
 
 
-DECRETO-LEGGE 28 giugno 1995 n. 252
+DECRETO-LEGGE 28 agosto 1995 n. 355
 ===================================
 
 Disposizioni urgenti per il risanamento ed il riordino della RAI - 
 S.p.a.
 --------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
+Entrata in vigore del decreto: 29-8-1995.Decreto-Legge decaduto per mancata conversione.
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -17,7 +17,7 @@ Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Ritenuta la straordinaria necessita' ed urgenza di attuare il piano di risanamento e di riordino della RAI - Radiotelevisione italiana S.p.a.;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 giugno 1995;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 agosto 1995;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del bilancio e della programmazione economica;
 
@@ -91,7 +91,7 @@ Art. 9
 
 1. Allo scopo di assicurare il servizio di trasmissione radiofonica delle sedute parlamentari di cui all'[articolo 24 della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art24), il Ministero delle poste e delle telecomunicazioni stipula una convenzione di durata triennale per gli anni 1994, 1995 e 1996 con un concessionario per la radiodiffusione sonora in ambito nazionale in grado di garantire con gli impianti gia' disponibili la copertura della maggior parte del territorio nazionale.
 
-2. La convenzione di cui al comma 1 deve prevedere l'impegno da parte della concessionaria a trasmettere per ogni impianto, nell'orario tra le ore 8.00 e le ore 21.00, almeno il sessanta per cento del numero annuo complessivo di ore dedicate dalle Camere alle sedute d'aula. Tali trasmissioni non possono essere interrotte, precedute e seguite, per un tempo di trenta minuti dal loro inizio e dalla loro fine, da annunci pubblicitari o politici. La convenzione e' rinnovabile fino alla completa realizzazione da parte della concessionaria pubblica della rete radiofonica riservata esclusivamente alla trasmissione dei lavori parlamentari di cui all'[articolo 24, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art24-com1).
+2. La convenzione di cui al comma 1 deve prevedere l'impegno da parte della concessionaria a trasmettere per ogni impianto, nell'orario tra le ore 8 e le ore 21, almeno il sessanta per cento del numero annuo complessivo di ore dedicate dalle Camere alle sedute d'aula. Tali trasmissioni non possono essere interrotte, precedute e seguite, per un tempo di trenta minuti dal loro inizio e dalla loro fine, da annunci pubblicitari o politici. La convenzione e' rinnovabile fino alla completa realizzazione da parte della concessionaria pubblica della rete radiofonica riservata esclusivamente alla trasmissione dei lavori parlamentari di cui all'[articolo 24, comma 1, della legge 6 agosto 1990, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223~art24-com1).
 
 3. La scelta del concessionario avviene mediante gara, tenuto conto dei seguenti criteri:
 
@@ -121,8 +121,7 @@ Art. 10
 Art. 11
 -------
 
-1. Le imprese che ricevono le richieste e le convalide delle garanzie relative agli apparecchi di radiodiffusione sono tenute a comunicare all'Ufficio del registro abbonamenti radio TV (URAR-TV) le generalita' e il domicilio di coloro che usufruiscono delle garanzie medesime nei termini e con le modalita' da stabilirsi con decreto del Ministro delle finanze. Il predetto obbligo di comunicazione grava direttamente sui commercianti,  
-rappresentanti e agenti di vendita in genere di apparecchi radiotelevisivi nell'ipotesi in cui, a seguito di accordi con l'impresa che fornisce l'assistenza in garanzia, la garanzia medesima sia subordinata all'esibizione del solo scontrino fiscale di acquisto dell'apparecchio televisivo.
+1. Le imprese che ricevono le richieste e le convalide delle garanzie relative agli apparecchi di radiodiffusione sono tenute a comunicare all'Ufficio del registro abbonamenti radio TV (URAR-TV) le generalita' e il domicilio di coloro che usufruiscono delle garanzie medesime nei termini e con le modalita' da stabilirsi con decreto del Ministro delle finanze. Il predetto obbligo di comunicazione grava direttamente sui commercianti, rappresentanti e agenti di vendita in genere di apparecchi radiotelevisivi nell'ipotesi in cui, a seguito di accordi con l'impresa che fornisce l'assistenza in garanzia, la garanzia medesima sia subordinata all'esibizione del solo scontrino fiscale di acquisto dell'apparecchio televisivo.
 
 2. Per ogni omessa o irregolare comunicazione di cui al comma 1, si applicano le sanzioni di cui all'[articolo 9 della legge 12 novembre 1949, n. 996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-12;996~art9), e successive integrazioni.
 
@@ -134,11 +133,9 @@ Art. 12
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1995
+### Dato a Roma, addi' 28 agosto 1995
 
-Il Presidente del Senato della Repubblica nell'esercizio delle
-
-funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione SCOGNAMIGLIO PASINI
+SCALFARO
 
 DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
 
@@ -148,114 +145,121 @@ MASERA, Ministro del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: MANCUSO
 
-Tabella
+Allegato
 
- TABELLA   
-(prevista dall'art. 1 comma 3)   
-  
-  
-1) CANONE DI ABBONAMENTO ALLA TELEVISIONE PER USO PRIVATO  
-Tassa di concessione  
-Canone Sovrapprezzo governativa IVA Totale  
-- - - - -  
-420 144.195 8.000 5.385 158.000  
-2.1) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI  
-(RADIOFONIA E TELEVISIONE)  
-PER LA DETENZIONE DELL'APPARECCHIO FUORI DELL'AMBITO FAMILIARE  
-(Escluse tassa di concessione governativa o comunale e I.V.A.)  
-Canone supplementare  
-(dovuto per ogni stanza o Canone base locale escluso il primo) Categorie Radio Televisione Radio Televisione - - - - -  
-a) Alberghi con 5  
-stelle lusso, con 5,  
-4, 3 e 2 stelle; pen-  
-sioni con 3 e 2 stel-  
-le; residenze turis-  
-tico-alberghiere con  
-4, 3 e 2 stelle; vil-  
-laggi turistici e cam-  
-peggi con 4 e 3 stel-  
-le; esercizi pubblici  
-di lusso, di 1a, 2a e  
-3a categoria; navi di  
-lusso . . . . . . . . 34.100 432.000 7.600 73.600 b) Alberghi, pen-  
-sioni e locande con  
-1 stella; villaggi  
-turistici con 2 stel-  
-le; campeggi con 2 e  
-1 stelle; affitta ca-  
-mere, esercizi pubbli-  
-ci di 4a categoria;  
-altre navi; aerei in  
-servizio pubblico . 26.500 333.000 7.600 73.600 c) Ospedali, cli-  
-niche e case di cura;  
-circoli, associazioni,  
-sedi di partiti poli-  
-tici; istituti reli-  
-giosi; uffici; studi  
-professionali; bot-  
-teghe, negozi ed as-  
-similati; mense azien-  
-dali; scuole ed isti-  
-tuti scolastici non  
-esenti dal canone in  
-virtu' della [legge 2  
-dicembre 1951, n.  
-1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come modifica-  
-ta dalla [legge 28  
-dicembre 1989, n. 421 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;22).800 215.500 3.800 36.850 2.2) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI  
-(RADIOFONIA E TELEVISIONE)  
-PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI  
-CINEMA-TEATRI E IN LOCALI A QUESTI ASSIMILABILI  
-(Escluse tassa di concessione governativa o comunale e I.V.A.)  
-CANONE SUPPLEMENTARE  
-CANONE BASE TELEVISIONE Per uso Per spatta-  
-di schermo coli a paga- gigante o mento  
-apparati esclusiva-  
-Fuori del- Nella sala assimilati mente di  
-la sala di proie- nella program-  
-di proie- zione sala di mi TV  
-zione e spetta- proiezione  
-o spetta- colo Magg. e spetta-  
-CATEGORIA colo per posto colo  
-- - - - - -  
-Cinema, ci- 432.000 432.000 960 6% dell'incas- 20% dell'in-  
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit- di categoria erariali e ti erariali  
-extra diritti e diritti  
-d'autore d'autore  
-Cinema, ci- 432.000 432.000 720 5% dell'incas- 20% dell'in-  
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit- di 1a cate- erariali e ti erariali  
-goria diritti e diritti  
-d'autore d'autore  
-Cinema, ci- 432.000 432.000 480 4% dell'incas- 20% dell'in-  
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit- di 2a cate- erariali e ti erariali  
-goria diritti e diritti  
-d'autore d'autore  
-Cinema, ci- 432.000 432.000 240 3% dell'incas- 20% dell'in-  
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit- di 3a cate- erariali e ti erariali  
-goria diritti e diritti  
-d'autore d'autore  
-Cinema, ci- 333.000 333.000 120 2% dell'incas- 10% dell'in-  
-nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit- di 4a e 5a erariali e ti erariali  
-categoria; diritti e diritti  
-teatri-ten- d'autore d'autore  
-da; stadi e  
-piazze (solo  
-canone base  
-per visione  
-gratuita)  
-3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A  
-BORDO DI AUTOMEZZI O AUTOSCAFI  
-3.1) Con potenza non superiore a 26 CV:  
-Tassa di concessione  
-Canone Sovrapprezzo governativa IVA Totale  
-- - - - -  
-420 28.600 2.700 1.080 32.800  
-3.2) Con potenza superiore a 26 CV:  
-Tassa di concessione  
-Canone Sovrapprezzo governativa IVA Totale  
-- - - - -  
-420 28.600 30.000 1.080 60.100  
-4) Per l'uso privato di televisori atti a ricevere le diffusioni televisive su autovetture ed autoscafi, gli importi sono quelli indicati al precedente punto 1) ad eccezione della tassa di concessione governativa prevista dal [decreto del Presidente del Consiglio dei Ministri 21 dicembre 1990, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-12-31&numeroGazzetta=303).  
-  
-  
-  
+ ALLEGATO TABELLA   
+(prevista dall'art. 1, comma 3)   
+1) CANONE DI ABBONAMENTO ALLA TELEVISIONE PER USO PRIVATO   
+Tassa di concessione   
+Canone Sovrapprezzo governativa IVA Totale   
+- - - - -   
+420 144.195 8.000 5.385 158.000   
+2.1) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI   
+(RADIOFONIA E TELEVISIONE)   
+PER LA DETENZIONE DELL'APPARECCHIO FUORI DELL'AMBITO FAMILIARE   
+(Escluse tassa di concessione governativa o comunale e I.V.A.)   
+Canone supplementare (dovuto per ogni stanza o   
+Canone base locale escluso il primo)   
+Categorie Radio Televisione Radio Televisione   
+- - - - -   
+a) Alberghi con 5   
+stelle lusso, con 5,   
+4, 3 e 2 stelle; pen-   
+sioni con 3 e 2 stel-   
+le; residenze turis-   
+tico-alberghiere con   
+4, 3 e 2 stelle; vil-   
+laggi turistici e cam-   
+peggi con 4 e 3 stel-   
+le; esercizi pubblici   
+di lusso, di 1a, 2a e   
+3a categoria; navi di   
+lusso . . . . . . . . 34.100 432.000 7.600 73.600   
+b) Alberghi, pen-   
+sioni e locande con   
+1 stella; villaggi   
+turistici con 2 stel-   
+le; campeggi con 2 e   
+1 stelle; affitta ca-   
+mere, esercizi pubbli-   
+ci di 4a categoria;   
+altre navi; aerei in   
+servizio pubblico . . 26.500 333.000 7.600 73.600   
+c) Ospedali, cli-   
+niche e case di cura;   
+circoli, associazioni,   
+sedi di partiti poli-   
+tici; istituti reli-   
+giosi; uffici; studi   
+professionali; bot-   
+teghe, negozi ed as-   
+similati; mense azien-   
+dali; scuole ed isti-   
+tuti scolastici non   
+esenti dal canone in   
+virtu' della [legge 2   
+dicembre 1951, n.   
+1571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-02;1571), come modifica-   
+ta dalla [legge 28   
+dicembre 1989, n. 421 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-28;22).800 215.500 3.800 36.850   
+2.2) CANONI DI ABBONAMENTO SPECIALE ALLE RADIODIFFUSIONI   
+(RADIOFONIA E TELEVISIONE)   
+PER LA DETENZIONE DI APPARECCHI NEI CINEMA, NEI   
+CINEMA-TEATRI E IN LOCALI A QUESTI ASSIMILABILI   
+(Escluse tassa di concessione governativa o comunale e I.V.A.)   
+Canone supplementare   
+Canone base televisione Per uso Per spetta-   
+di schermo coli a paga-   
+gigante o mento   
+apparati esclusiva-   
+Fuori del- Nella sala assimilati mente di   
+la sala di proie- nella program-   
+di proie- zione sala di mi TV   
+zione e spetta- proiezione   
+o spetta- colo Magg. e spetta-   
+Categoria colo per posto colo   
+- - - - - -   
+Cinema, ci- 432.000 432.000 960 6% dell'incas- 20% dell'in-   
+nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
+di categoria erariali e ti erariali   
+extra diritti e diritti   
+d'autore d'autore   
+Cinema, ci- 432.000 432.000 720 5% dell'incas- 20% dell'in-   
+nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
+di 1a cate- erariali e ti erariali   
+goria diritti e diritti   
+d'autore d'autore   
+Cinema, ci- 432.000 432.000 480 4% dell'incas- 20% dell'in-   
+nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
+di 2a cate- erariali e ti erariali   
+goria diritti e diritti   
+d'autore d'autore   
+Cinema, ci- 432.000 432.000 240 3% dell'incas- 20% dell'in-   
+nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
+di 3a cate- erariali e ti erariali   
+goria diritti e diritti   
+d'autore d'autore   
+Cinema, ci- 333.000 333.000 120 2% dell'incas- 10% dell'in-   
+nema-teatri, so al netto casso al net- discoteche, dei diritti to dei dirit-   
+di 4a e 5a erariali e ti erariali   
+categoria; diritti e diritti   
+teatri-ten- d'autore d'autore   
+da; stadi e   
+piazze (solo   
+canone base   
+per visione   
+gratuita)   
+3) CANONI DI ABBONAMENTO PER APPARECCHI RADIOFONICI INSTALLATI A   
+BORDO DI AUTOMEZZI O AUTOSCAFI   
+3.1) Con potenza non superiore a 26 CV:   
+Tassa di concessione   
+Canone Sovrapprezzo governativa IVA Totale   
+- - - - -   
+420 28.600 2.700 1.080 32.800   
+3.2) Con potenza superiore a 26 CV:   
+Tassa di concessione   
+Canone Sovrapprezzo governativa IVA Totale   
+- - - - -   
+420 28.600 30.000 1.080 60.100   
+4) Per l'uso privato di televisori atti a ricevere le diffusioni   
+televisive su autovetture ed autoscafi, gli importi sono quelli indicati al precedente punto 1) ad eccezione della tassa di concessione governativa prevista dal [decreto del Presidente del Consiglio dei Ministri 21 dicembre 1990, pubblicato nella Gazzetta Ufficiale n. 303 del 31 dicembre 1990](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1990-12-31&numeroGazzetta=303).   
