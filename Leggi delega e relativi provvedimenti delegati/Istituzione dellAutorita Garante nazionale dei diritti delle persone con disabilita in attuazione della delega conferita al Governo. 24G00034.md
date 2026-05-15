@@ -226,15 +226,11 @@ Ufficio del Garante
 3. La relativa dotazione organica, con decorrenza non anteriore al 1° gennaio 2026, e' costituita da una unita' dirigenziale di livello generale e una unita' dirigenziale di livello non generale e 20 unita' di personale non dirigenziale di cui 10 unita' di categoria A e 10 unita' di categoria B, in possesso delle competenze e dei requisiti di professionalita' necessari in relazione alle funzioni e alle caratteristiche di indipendenza e imparzialita' del Garante.  
 L'assunzione del personale avviene per pubblico concorso.
 
-4. L'Ufficio del Garante, nei limiti della dotazione organica di cui al comma 3, puo' avvalersi anche di personale appartenente ai ruoli delle amministrazioni pubbliche, in posizione di comando secondo la disciplina vigente per il personale chiamato a prestare servizio presso la Presidenza del Consiglio dei ministri, nonche' in posizione di aspettativa o collocati fuori ruolo o altra analoga posizione prevista dagli ordinamenti di appartenenza,
+4. L'Ufficio del Garante, nei limiti della dotazione organica di cui al comma 3, puo' avvalersi anche di personale appartenente ai ruoli delle amministrazioni pubbliche, in posizione di comando secondo la disciplina vigente per il personale chiamato a prestare servizio presso la Presidenza del Consiglio dei ministri, nonche' in posizione di aspettativa o collocati fuori ruolo o altra analoga posizione prevista dagli ordinamenti di appartenenza, e puo' avvalersi anche del personale
 
-((e puo' avvalersi anche del personale della forze armate, delle forze di polizia e del corpo nazionale dei vigili del fuoco nel limite complessivo di una unita',))
+((delle Forze armate, delle Forze di polizia e del Corpo))
 
-con esclusione del personale docente, educativo, amministrativo, tecnico e ausiliario delle istituzioni scolastiche
-
-((...))
-
-. Per la durata del collocamento fuori ruolo e' reso indisponibile nella dotazione organica dell'amministrazione di provenienza, un numero di posti equivalente dal punto di vista finanziario.
+nazionale dei vigili del fuoco nel limite complessivo di una unita', con esclusione del personale docente, educativo, amministrativo, tecnico e ausiliario delle istituzioni scolastiche. Per la durata del collocamento fuori ruolo e' reso indisponibile nella dotazione organica dell'amministrazione di provenienza, un numero di posti equivalente dal punto di vista finanziario.
 
 5. L'Ufficio del Garante puo' avvalersi di esperti, fino ad un massimo di otto, di elevata competenza in ambito giuridico, amministrativo, contabile o di comprovata esperienza in materia di disabilita'. Gli esperti possono prestare la propria opera professionale a titolo gratuito. Il Garante, nei limiti delle risorse disponibili, puo' prevedere un compenso, fino a un importo massimo di euro 25.000 lordi annui per singolo incarico, entro il limite di spesa complessivo non superiore a 200.000 euro lordi annui.
 

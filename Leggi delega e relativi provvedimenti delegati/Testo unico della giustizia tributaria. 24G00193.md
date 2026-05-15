@@ -116,19 +116,21 @@ Allegato-art. 3
 
  Art. 3.   
   
-La composizione delle corti di giustizia tributaria   
-di primo e secondo grado   
+La composizione delle corti di giustizia tributaria di primo e secondo grado   
   
 ([articolo 2 del decreto legislativo n. 545 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545~art2))   
   
-1. A ciascuna delle corti di giustizia tributaria di primo e secondo grado e' preposto un presidente che presiede anche la prima sezione. L'incarico ha durata quadriennale a decorrere dalla data di esercizio effettivo delle funzioni ed e' rinnovabile per una sola volta e per un uguale periodo, previa valutazione positiva da parte del Consiglio di presidenza della giustizia tributaria dell'attivita' svolta nel primo triennio del quadriennio iniziale. Il Consiglio di presidenza della giustizia tributaria stabilisce con proprio regolamento il procedimento e le modalita' di tale valutazione, garantendo la previa interlocuzione con l'interessato. Il Presidente non puo' essere nominato tra soggetti che raggiungeranno l'eta' pensionabile entro i quattro anni successivi alla nomina.   
+1. A ciascuna delle corti di giustizia tributaria di primo e secondo grado e' preposto un presidente che presiede anche la prima sezione. L'incarico ha durata quadriennale a decorrere dalla data di esercizio effettivo delle funzioni ed e' rinnovabile per una sola volta e per un uguale periodo, previa valutazione positiva da parte del Consiglio di presidenza della giustizia tributaria dell'attivita' svolta nel primo triennio del quadriennio iniziale. Il Consiglio di presidenza della giustizia tributaria stabilisce con proprio regolamento il procedimento e le modalita' di tale valutazione, garantendo la previa interlocuzione con l'interessato. Il Presidente non puo' essere nominato tra soggetti che raggiungeranno l'eta' pensionabile entro i quattro anni successivi
+
+((alla data di scadenza del termine per la presentazione della domanda di partecipazione all'interpello per ricoprire la funzione di presidente))
+
+.   
 2. A seguito di valutazione negativa da parte del Consiglio di presidenza della giustizia tributaria e comunque all'esito dell'ottavo anno di esercizio delle funzioni di cui al comma 1, il giudice tributario e' riassegnato a sua richiesta, salvo tramutamento all'esercizio di funzioni analoghe o diverse all'incarico di presidente di sezione nella corte di giustizia tributaria di primo e secondo grado a cui era preposto ovvero in quella di precedente provenienza.   
 3. Il presidente della corte di giustizia tributaria, in caso di assenza o di impedimento, e' sostituito nelle funzioni non giurisdizionali dal presidente di sezione con maggiore anzianita' nell'incarico subordinatamente d'eta'.   
 4. Il presidente della corte di giustizia tributaria con oltre quindici sezioni puo' delegare sue attribuzioni non giurisdizionali ad uno o piu' presidenti di sezione con i criteri di cui al comma 3.   
 5. A ciascuna sezione e' assegnato un presidente, un vice-presidente e non meno di due magistrati o giudici tributari.   
 6. Ogni corte in composizione collegiale e' presieduta dal presidente della sezione o dal vicepresidente e giudica con numero invariabile di tre votanti.   
 7. Se in una sezione mancano i componenti necessari per costituire il collegio giudicante, il presidente della corte di giustizia tributaria designa i componenti di altre sezioni.   
-  
 
 Allegato-art. 4
 
@@ -149,13 +151,16 @@ Allegato-art. 5
 
  Art. 5.   
   
-I magistrati delle corti di giustizia tributaria   
-di primo grado   
+I magistrati delle corti di giustizia tributaria di primo grado   
   
 ([articolo 4 del decreto legislativo n. 545 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545~art4))   
   
 1. La nomina a magistrato tributario si consegue mediante un concorso per esami bandito in relazione ai posti vacanti e a quelli che si renderanno vacanti nel quadriennio successivo, per i quali puo' essere attivata la procedura di reclutamento.   
-2. Il concorso per esami consiste in una prova scritta, effettuata con le procedure di cui all'[articolo 8 del regio decreto 15 ottobre 1925, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art8), e in una prova orale.   
+2. Il concorso per esami consiste in una prova scritta, effettuata con le procedure di cui all'[articolo 8 del regio decreto 15 ottobre 1925, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art8), e in una prova orale.
+
+((Con decreto del Ministro dell'economia e delle finanze possono essere disciplinate le modalita' di svolgimento della prova scritta mediante strumenti informatici.))
+
+  
 3. La prova scritta ha la prevalente funzione di verificare la capacita' di inquadramento logico sistematico del candidato e consiste nello svolgimento di due elaborati teorici rispettivamente vertenti sul diritto tributario e sul diritto civile o commerciale, nonche' in una prova teorico-pratica consistente nella redazione di una sentenza in materia tributaria.   
 4. La prova orale verte su:   
 a) diritto tributario e diritto processuale tributario;   
@@ -170,7 +175,6 @@ i) colloquio in una lingua straniera, indicata dal candidato all'atto della doma
 5. Sono ammessi alla prova orale i candidati che ottengono un punteggio non inferiore a dodici ventesimi in ciascun elaborato della prova scritta. Conseguono l'idoneita' i candidati che ottengono un punteggio non inferiore a sei decimi in ciascuna delle materie della prova orale di cui al comma 4, lettere da a) a h), e un giudizio di sufficienza nel colloquio nella lingua straniera prescelta e comunque una votazione complessiva nelle due prove non inferiore a novanta punti. Non sono ammesse frazioni di punto. Agli effetti di cui all'[articolo 3 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art3), il giudizio in ciascuna delle prove scritte e orali e' motivato con l'indicazione del solo punteggio numerico e il giudizio di insufficienza e' motivato con la sola formula «non idoneo».   
 6. Con decreto del Ministro dell'economia e delle finanze, previa deliberazione conforme del Consiglio di presidenza della giustizia tributaria, terminata la valutazione degli elaborati scritti, sono nominati componenti della commissione esaminatrice docenti universitari delle lingue indicate dai candidati ammessi alla prova orale. I commissari cosi' nominati partecipano in soprannumero ai lavori della commissione, ovvero delle sottocommissioni, qualora formate, limitatamente alle prove orali relative alla lingua straniera della quale sono docenti.   
 7. Per la copertura dei posti di magistrato tributario nella provincia di Bolzano si applicano gli specifici requisiti previsti dal [decreto del Presidente della Repubblica 26 luglio 1976, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-07-26;752), fermo restando, comunque, che il colloquio di cui al comma 4, lettera i), deve svolgersi in una lingua diversa rispetto a quella obbligatoria per il conseguimento dell'impiego.   
-  
 
 Allegato-art. 6
 
@@ -213,18 +217,18 @@ Commissione di concorso
 ([articolo 4-quater del decreto legislativo n. 545 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545~art4quater))   
   
 1. La commissione di concorso e' nominata, entro il quindicesimo giorno antecedente l'inizio della prova scritta, con decreto del Ministro dell'economia e delle finanze, adottato previa delibera del Consiglio di presidenza della giustizia tributaria.   
-2. La commissione di concorso e' composta dal presidente di una corte di giustizia tributaria di secondo grado, che la presiede, da venti magistrati scelti tra magistrati tributari, ordinari, amministrativi, contabili e militari con almeno quindici anni di anzianita', da quattro professori universitari di ruolo, di cui due titolari dell'insegnamento di diritto tributario, gli altri titolari di uno degli insegnamenti delle altre materie oggetto di esame, nonche' da due avvocati iscritti all'albo speciale dei patrocinanti dinanzi alle magistrature superiori, nominati su proposta del Consiglio nazionale forense e da due dottori commercialisti con almeno quindici anni di anzianita', nominati su proposta del Consiglio nazionale dei dottori commercialisti e degli esperti contabili. Ai professori universitari componenti della commissione si applicano, a loro richiesta, le disposizioni di cui all'[articolo 13, secondo comma, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art13-com2). Al presidente e ai magistrati componenti della commissione si applica la disciplina dell'esonero dalle funzioni giudiziarie o giurisdizionali, ai sensi del comma 9 del presente articolo. Non possono essere nominati componenti della commissione coloro che, nei dieci anni precedenti, hanno prestato, a qualsiasi titolo e modo, attivita' di docenza nelle scuole di preparazione al concorso per magistrato tributario, ordinario, amministrativo e contabile. Con il decreto di cui al comma 1 possono essere nominati i commissari supplenti destinati a sostituire i titolari in caso di assenza o di impedimento.   
+2. La commissione di concorso e' composta dal presidente di una corte di giustizia tributaria di secondo grado
+
+((o dal presidente di una corte di giustizia tributaria di primo grado, che la presiedono))
+
+, da venti magistrati scelti tra magistrati tributari, ordinari, amministrativi, contabili e militari con almeno quindici anni di anzianita', da quattro professori universitari di ruolo, di cui due titolari dell'insegnamento di diritto tributario, gli altri titolari di uno degli insegnamenti delle altre materie oggetto di esame, nonche' da due avvocati iscritti all'albo speciale dei patrocinanti dinanzi alle magistrature superiori, nominati su proposta del Consiglio nazionale forense e da due dottori commercialisti con almeno quindici anni di anzianita', nominati su proposta del Consiglio nazionale dei dottori commercialisti e degli esperti contabili. Ai professori universitari componenti della commissione si applicano, a loro richiesta, le disposizioni di cui all'[articolo 13, secondo comma, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art13-com2). Al presidente e ai magistrati componenti della commissione si applica la disciplina dell'esonero dalle funzioni giudiziarie o giurisdizionali, ai sensi del comma 9 del presente articolo. Non possono essere nominati componenti della commissione coloro che, nei dieci anni precedenti, hanno prestato, a qualsiasi titolo e modo, attivita' di docenza nelle scuole di preparazione al concorso per magistrato tributario, ordinario, amministrativo e contabile. Con il decreto di cui al comma 1 possono essere nominati i commissari supplenti destinati a sostituire i titolari in caso di assenza o di impedimento.   
 3. Nel caso in cui non sia possibile completare la composizione della commissione ai sensi del comma 2, il Consiglio di presidenza della giustizia tributaria nomina d'ufficio, come componenti, magistrati che non hanno prestato il loro consenso all'esonero dalle funzioni. Non possono essere nominati i magistrati che abbiano fatto parte della commissione in uno dei tre concorsi precedenti.   
 4. Nella seduta di cui all'[articolo 8, sesto comma, del regio decreto 15 ottobre 1925, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art8-com6), la commissione definisce i criteri per la valutazione omogenea degli elaborati scritti. I criteri per la valutazione delle prove orali sono definiti prima dell'inizio delle stesse. Alle sedute per la definizione dei suddetti criteri devono partecipare tutti i componenti della commissione, salvi i casi di forza maggiore e di legittimo impedimento, la cui valutazione e' rimessa al Consiglio di presidenza della giustizia tributaria. In caso di mancata partecipazione, senza adeguata giustificazione, a una di tali sedute o comunque a due sedute di seguito, il Consiglio di presidenza puo' deliberare la revoca del componente e la sua sostituzione con le modalita' previste dal comma 1.   
 5. Il presidente della commissione e gli altri componenti possono essere nominati anche tra i magistrati a riposo da non piu' di due anni e tra i professori universitari a riposo da non piu' di due anni che, all'atto della cessazione dal servizio, erano in possesso dei requisiti per la nomina.   
 6. In caso di assenza o impedimento del presidente della commissione, le relative funzioni sono svolte dal magistrato con maggiore anzianita' di servizio presente in ciascuna seduta.   
 7. Se i candidati che hanno portato a termine la prova scritta sono piu' di trecento, il presidente, dopo aver provveduto alla valutazione di almeno venti candidati in seduta plenaria con la partecipazione di tutti i componenti della commissione, forma per ogni seduta due sottocommissioni, a ciascuna delle quali assegna, secondo criteri obiettivi, la meta' dei candidati da esaminare. Le sottocommissioni sono rispettivamente presiedute dal presidente o dal magistrato piu' anziano presenti, a loro volta sostituiti, in caso di assenza o impedimento, dai magistrati piu' anziani presenti, e assistite ciascuna da un segretario. La commissione delibera su ogni oggetto eccedente la competenza delle sottocommissioni. Per la valutazione degli elaborati scritti il presidente suddivide ciascuna sottocommissione in tre collegi, composti ciascuno di almeno tre componenti, presieduti dal presidente o dal magistrato piu' anziano.  
 In caso di parita' di voti, prevale quello di chi presiede. Ciascun collegio della medesima sottocommissione esamina gli elaborati di una delle materie oggetto della prova relativamente ad ogni candidato.   
-8. Per i requisiti di ammissione, le procedure di concorso e i lavori della commissione e delle sottocommissioni se istituite si applicano, in quanto compatibili e per quanto non espressamente previsto nel presente testo unico, le disposizioni degli articoli
-
-((7,))
-
-12, 13, 14, 15 e 16 del [regio decreto 15 ottobre 1925, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860), e del [decreto legislativo 5 aprile 2006, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-05;160).   
+8. Per i requisiti di ammissione, le procedure di concorso e i lavori della commissione e delle sottocommissioni se istituite si applicano, in quanto compatibili e per quanto non espressamente previsto nel presente testo unico, le disposizioni degli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art7), [12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art12), [13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art13), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art14), [15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art15) e [16 del regio decreto 15 ottobre 1925, n. 1860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860~art16), e del [decreto legislativo 5 aprile 2006, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-05;160).   
 9. L'esonero dalle funzioni giudiziarie o giurisdizionali, deliberato dal Consiglio di presidenza della giustizia tributaria e dagli altri organi di autogoverno contestualmente alla nomina a componente della commissione, ha effetto dall'insediamento del magistrato sino alla formazione della graduatoria finale dei candidati.   
 10. Le attivita' di segreteria della commissione e delle sottocommissioni sono esercitate da personale amministrativo dell'Area funzionari in servizio presso il Ministero dell'economia e delle finanze, come definita dal contratto collettivo nazionale di lavoro del comparto Funzioni centrali, e sono coordinate dal titolare del competente ufficio del Dipartimento della giustizia tributaria del Ministero dell'economia e delle finanze.   
 
@@ -234,26 +238,29 @@ Allegato-art. 9
   
 Nomina e tirocinio del magistrato tributario   
   
-([articolo 4-quinquies del decreto legislativo n. 545   
-del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545~art4quinquies))   
+([articolo 4-quinquies del decreto legislativo n. 545 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545~art4quinquies))   
   
 1. I concorrenti dichiarati idonei all'esito del concorso per esami sono classificati secondo il punteggio complessivo conseguito e, nello stesso ordine, sono nominati, con decreto del Ministro dell'economia e delle finanze, magistrato tributario, nei limiti dei posti messi a concorso. I documenti comprovanti il possesso di titoli di preferenza, a parita' di punteggio, ai fini della nomina, sono presentati, a pena di decadenza, entro il giorno di svolgimento della prova orale.   
-2. I magistrati tributari nominati a seguito del superamento del concorso di cui all'articolo 5 svolgono un tirocinio formativo articolato in due sessioni consecutive della durata di tre mesi ciascuna presso le corti di giustizia tributaria con la partecipazione all'attivita' giurisdizionale relativa alle controversie rientranti nella rispettiva competenza in composizione collegiale. Nella seconda sessione trimestrale di cui al primo periodo e nell'ipotesi di cui al comma 3, al magistrato tributario in tirocinio e' assegnato un carico di lavoro fissato con delibera del Consiglio di presidenza della giustizia tributaria. Con delibera del Consiglio di presidenza sono individuati i magistrati tributari affidatari presso i quali i magistrati tributari svolgono il tirocinio, le modalita' di affidamento e i criteri per il conseguimento del giudizio di idoneita' al conferimento delle funzioni giurisdizionali.   
+2. I magistrati tributari nominati a seguito del superamento del concorso di cui all'articolo 5 svolgono un tirocinio formativo articolato in due sessioni consecutive della durata di tre mesi ciascuna presso le corti di giustizia tributaria con la partecipazione all'attivita' giurisdizionale relativa alle controversie rientranti nella rispettiva competenza in composizione collegiale. Nella seconda sessione trimestrale di cui al primo periodo e nell'ipotesi di cui al comma 3, al magistrato tributario in tirocinio e' assegnato un carico di lavoro fissato con delibera del Consiglio di presidenza della giustizia tributaria. Con delibera del Consiglio di presidenza sono individuati
+
+((i presidenti delle corti di giustizia tributaria e di sezione di cui all'articolo 4, presso i quali i magistrati tributari nominati svolgono il tirocinio))
+
+, le modalita' di affidamento e i criteri per il conseguimento del giudizio di idoneita' al conferimento delle funzioni giurisdizionali.   
 3. Il magistrato tributario in tirocinio valutato negativamente e' ammesso ad un nuovo periodo di tirocinio della durata di sei mesi.  
 Al termine del secondo tirocinio e all'esito della relativa scheda valutativa redatta dal magistrato tributario affidatario, il Consiglio di presidenza della giustizia tributaria delibera nuovamente; la seconda deliberazione negativa determina la cessazione del rapporto di impiego del magistrato tributario in tirocinio.   
-  
 
 Allegato-art. 10
 
  Art. 10.   
   
-I componenti delle corti di giustizia tributaria   
-di secondo grado   
-  
+I componenti delle corti di giustizia tributaria di secondo grado   
 ([articolo 5 del decreto legislativo n. 545 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545~art5))   
   
-1. I componenti delle corti di giustizia tributaria di secondo grado sono nominati tra i magistrati tributari di cui all'articolo 2, comma 4, e i giudici tributari presenti nel ruolo unico di cui all'articolo 2, comma 2.   
-  
+1.
+
+((I giudici delle corti di giustizia tributaria di secondo grado sono nominati tra i magistrati tributari di cui all'articolo 2, comma 3, che abbiano conseguito un'anzianita' nelle corti di primo grado non inferiore a tre anni, e tra i giudici tributari presenti nel ruolo unico di cui al medesimo articolo 2, comma 2))
+
+.   
 
 Allegato-art. 11
 
@@ -861,11 +868,13 @@ Competenza del giudice monocratico
   
 ([articolo 4-bis del decreto legislativo n. 546 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;546~art4bis))   
   
-1. Le corti di giustizia tributaria di primo grado decidono in composizione monocratica le controversie di valore fino a 5.000 euro.  
-Sono escluse le controversie di valore indeterminabile.   
+1. Le corti di giustizia tributaria di primo grado decidono in composizione monocratica le controversie di valore fino a
+
+((10.000 euro))
+
+. Sono escluse le controversie di valore indeterminabile.   
 2. Per valore della lite si intende quello determinato ai sensi dell'articolo 57, comma 2. Si tiene conto anche dell'imposta virtuale calcolata a seguito delle rettifiche di perdita.   
 3. Nel procedimento davanti alla corte di giustizia tributaria di primo grado in composizione monocratica si osservano, in quanto applicabili e ove non derogate dal presente testo unico, le disposizioni ivi contenute relative ai giudizi in composizione collegiale.   
-  
 
 Allegato-art. 50
 

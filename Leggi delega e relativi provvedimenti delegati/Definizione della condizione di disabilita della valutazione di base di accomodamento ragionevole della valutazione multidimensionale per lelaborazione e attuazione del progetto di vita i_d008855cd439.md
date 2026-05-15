@@ -468,28 +468,21 @@ Procedura valutativa di base, soggetto unico, svolgimento, composizione e funzio
 
 3. L'[articolo 4 della legge 5 febbraio 1992, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104~art4), e' sostituito dal seguente:   
 «Art. 4 (Riconoscimento della condizione di disabilita' attraverso la valutazione di base). - 1. Il riconoscimento della condizione di disabilita' di cui all'articolo 3 e' effettuato dall'INPS mediante le unita' di valutazione di base.   
-2. Le unita' di valutazione di base di cui al comma 1 si compongono di due medici nominati dall'INPS, di un componente individuato ai sensi del comma 4 e di una sola figura professionale appartenente alle aree psicologiche e sociali. Le commissioni sono presiedute da un medico dell'INPS specializzato in medicina legale
+2. Le unita' di valutazione di base di cui al comma 1 si compongono di due medici nominati dall'INPS, di un componente individuato ai sensi del comma 4 e di una sola figura professionale appartenente alle aree psicologiche e sociali. Le commissioni sono presiedute da un medico dell'INPS specializzato in medicina legale o in medicina del lavoro o in altre specializzazioni equipollenti o affini. Nel caso non sia disponibile un medico con le specializzazioni indicate al secondo periodo, l'INPS nomina, come presidente, un medico che abbia svolto attivita' per almeno un anno in organi di accertamento in materia assistenziale o previdenziale.  
+PERIODO SOPPRESSO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19).   
+3. Nel caso di minori, le unita' di valutazione di base di cui al comma 2 si compongono di due medici nominati dall'INPS, del componente individuato ai sensi del comma 4 e di una sola figura professionale appartenente alle aree psicologiche e sociali. Le commissioni sono presiedute da un medico dell'INPS specializzato in medicina legale o in medicina del lavoro o in altre specializzazioni equipollenti o affini. Nel caso in cui non sia disponibile un medico con le specializzazioni indicate al secondo periodo, l'INPS nomina, come presidente, un medico che abbia svolto attivita' per almeno un anno in organi di accertamento in materia assistenziale o previdenziale. In ogni caso, almeno uno dei medici della commissione e' in possesso di specializzazione in pediatria, in neuropsichiatria infantile
 
-((o in medicina del lavoro o in altre specializzazioni equipollenti o affini))
+((, equipollenti o affini))
 
-.
+o di specializzazione
 
-((Nel caso non sia disponibile un medico con le specializzazioni indicate al secondo periodo, l'INPS nomina, come presidente, un medico che abbia svolto attivita' per almeno un anno in organi di accertamento in materia assistenziale o previdenziale.))
+((nella disciplina attinente alla patologia))
 
-((PERIODO SOPPRESSO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19)))
+che connota la condizione di salute della persona
 
-.   
-3. Nel caso di minori, le unita' di valutazione di base di cui al comma 2 si compongono di due medici nominati dall'INPS, del componente individuato ai sensi del comma 4 e di una sola figura professionale appartenente alle aree psicologiche e sociali. Le commissioni sono presiedute da un medico dell'INPS specializzato in medicina legale
+((. Il medico di cui al quarto periodo puo' partecipare ai lavori dell'unita'))
 
-((o in medicina del lavoro o in altre specializzazioni equipollenti o affini))
-
-.
-
-((Nel caso in cui non sia disponibile un medico con le specializzazioni indicate al secondo periodo, l'INPS nomina, come presidente, un medico che abbia svolto attivita' per almeno un anno in organi di accertamento in materia assistenziale o previdenziale.))
-
-((In ogni caso, almeno uno dei medici della commissione e' in possesso di specializzazione in pediatria, in neuropsichiatria infantile o equipollenti, affini o di specializzazione nella patologia che connota la condizione di salute della persona e per tali fattispecie il medico puo' partecipare alle unita' di valutazione di base anche attraverso partecipazione a distanza mediante video-collegamento.))
-
-  
+di valutazione di base anche attraverso partecipazione a distanza mediante video-collegamento.   
 4. Le unita' di valutazione di base di cui ai commi 2 e 3 sono integrate con un professionista sanitario in rappresentanza, rispettivamente, dell'Associazione nazionale dei mutilati ed invalidi civili (ANMIC), dell'Unione italiana ciechi e degli ipovedenti (UICI), dell'Ente nazionale per la protezione e l'assistenza ai sordomuti (ENS) e dell'Associazione nazionale delle famiglie e delle persone con disabilita' intellettiva e disturbi del neurosviluppo (ANFFAS), individuato in relazione alle specifiche condizioni di disabilita' oggetto della valutazione.   
 5. La valutazione di base e' definita con la partecipazione di almeno tre componenti, al cui numero puo' concorrere anche il professionista sanitario di cui al comma 4, se presente. In caso di parita' di voti, il voto del presidente di commissione vale doppio.   
 6. Nel corso della valutazione di base, la persona interessata puo' farsi assistere dal proprio medico o psicologo di fiducia, senza diritto di voto.   
@@ -604,28 +597,17 @@ sopravvenuti alla valutazione di base
 
 Obblighi di informazione alla persona con disabilita'
 
-1. L'unita' di valutazione di base, al termine della visita relativa alla valutazione di base, informa la persona con disabilita' e, se presente, l'esercente la responsabilita' genitoriale in caso di minore, il tutore o l'amministratore di sostegno, se dotato di poteri, che, fermi restanti gli interventi, i sostegni e i benefici che direttamente spettano all'interessato a seguito della certificazione della condizione di disabilita', sussiste il diritto ad elaborare ed attivare un progetto di vita individuale, personalizzato e partecipato, quale ulteriore strumento di capacitazione.
+1. L'unita' di valutazione di base, al termine della visita relativa alla valutazione di base, informa la persona con disabilita' e, se presente, l'esercente la responsabilita' genitoriale in caso di minore, il tutore o l'amministratore di sostegno, se dotato di poteri, che, fermi restanti gli interventi, i sostegni e i benefici che direttamente spettano all'interessato a seguito della certificazione della condizione di disabilita', sussiste il diritto ad elaborare ed attivare un progetto di vita individuale, personalizzato e partecipato, quale ulteriore strumento di capacitazione. La commissione informa, altresi', i soggetti di cui al primo periodo della possibilita' di presentare
 
-((La commissione informa, altresi', i soggetti di cui al primo periodo della possibilita' di presentare istanza per l'elaborazione del progetto di vita agli enti di cui all'articolo 23, comma 2, attraverso l'invio telematico del certificato della condizione di disabilita' da parte dell'INPS. Ai fini dell'invio telematico, l'INPS mette a disposizione uno specifico servizio che si interfaccia con eventuali piattaforme regionali e che opera secondo le modalita' stabilite con apposito provvedimento dell'INPS.  
-Nell'ambito del suddetto servizio il cittadino puo' inoltre accedere agli ulteriori servizi messi a disposizione dall'INPS al fine di garantire la piena fruizione dei diritti connessi con la condizione di disabilita'.))
+((all'INPS un'istanza di invio telematico del certificato della condizione di disabilita' agli enti di cui all'articolo 23, comma 2, per l'elaborazione del progetto di vita))
 
-2. 
+. Ai fini dell'invio telematico, l'INPS mette a disposizione uno specifico servizio che si interfaccia con eventuali piattaforme regionali e che opera secondo le modalita' stabilite con apposito provvedimento dell'INPS. Nell'ambito del suddetto servizio il cittadino puo' inoltre accedere agli ulteriori servizi messi a disposizione dall'INPS al fine di garantire la piena fruizione dei diritti connessi con la condizione di disabilita'.
 
-((COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19)))
+2. COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19), CONVERTITO CON MODIFICAZIONI DALLA [L. 20 APRILE 2026, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-20;50).
 
-.
+3. COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19), CONVERTITO CON MODIFICAZIONI DALLA [L. 20 APRILE 2026, N. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-20;50).
 
-3. 
-
-((COMMA ABROGATO DAL [D.L. 19 FEBBRAIO 2026, N. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19)))
-
-.
-
-4. Fermo restando quanto previsto
-
-((al comma 1))
-
-, i punti unici di accesso, nonche' i servizi sociali, sociosanitari e sanitari territoriali, che entrano in contatto a qualsiasi titolo con la persona con disabilita' la informano del diritto ad attivare un procedimento volto all'elaborazione del progetto di vita, individuale, personalizzato e partecipato. E' fatto obbligo di prestare le medesime informazioni in capo a chi opera dimissioni protette e ai servizi sanitari specialistici. Le modalita' con cui dare attuazione a quanto previsto dal presente comma sono individuate nell'ambito della programmazione regionale e locale.
+4. Fermo restando quanto previsto al comma 1, i punti unici di accesso, nonche' i servizi sociali, sociosanitari e sanitari territoriali, che entrano in contatto a qualsiasi titolo con la persona con disabilita' la informano del diritto ad attivare un procedimento volto all'elaborazione del progetto di vita, individuale, personalizzato e partecipato. E' fatto obbligo di prestare le medesime informazioni in capo a chi opera dimissioni protette e ai servizi sanitari specialistici. Le modalita' con cui dare attuazione a quanto previsto dal presente comma sono individuate nell'ambito della programmazione regionale e locale.
 
 ### Art. 16
 

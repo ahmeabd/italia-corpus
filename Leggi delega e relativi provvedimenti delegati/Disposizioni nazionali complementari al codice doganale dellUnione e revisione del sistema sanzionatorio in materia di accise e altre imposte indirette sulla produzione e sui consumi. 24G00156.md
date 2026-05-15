@@ -739,12 +739,26 @@ Conduzione di strutture affidata alla Guardia di finanza
 Allegato 1-art. 7
 
  Art. 7.   
-Edifici in prossimita' della linea di vigilanza doganale   
-e nel mare territoriale   
+(Edifici in prossimita' della linea di vigilanza doganale e nel mare territoriale).   
   
-1. E' vietato eseguire costruzioni e altre opere di ogni specie, provvisorie o permanenti, o stabilire manufatti galleggianti in prossimita' della linea di vigilanza doganale e nel mare territoriale, nonche' spostare o modificare le opere esistenti, senza l'autorizzazione dell'ufficio dell'Agenzia competente per territorio.   
-2. La predetta autorizzazione e' presupposto di legittimita' di ogni altra autorizzazione relativa all'esecuzione delle attivita' di cui al comma 1.   
-  
+1. La realizzazione di costruzioni e altre opere permanenti di ogni specie, anche galleggianti, in prossimita' della linea di vigilanza doganale e nel mare
+
+((territoriale nonche'))
+
+le modifiche o lo spostamento di opere esistenti
+
+((sono soggetti))
+
+alla preventiva autorizzazione dell'ufficio dell'Agenzia
+
+((...))
+
+competente per territorio
+
+((,))
+
+che si esprime entro trenta giorni dalla ricezione della relativa istanza, nell'ambito del procedimento di cui all'[articolo 5, comma 3, del testo unico delle disposizioni legislative e regolamentari in materia edilizia](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-06-06;380~art5-com3), di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-06-06;380). In caso di inosservanza del termine di cui al primo periodo, l'autorizzazione si intende rilasciata ai sensi dell'[articolo 20 della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art20).   
+2. L'autorizzazione di cui al comma 1 costituisce presupposto di legittimita' di ogni altra autorizzazione relativa all'esecuzione delle attivita' di cui al medesimo comma 1 e non e' necessaria per la realizzazione di opere interne a edifici o fabbricati gia' esistenti.   
 
 Allegato 1-art. 8
 

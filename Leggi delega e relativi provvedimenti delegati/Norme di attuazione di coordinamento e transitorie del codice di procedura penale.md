@@ -1353,17 +1353,19 @@ Norme-art. 103
 Norme-art. 104
 
  Art. 104   
-
-(( (Esecuzione del sequestro preventivo).   
+(Esecuzione del sequestro preventivo).   
 1. Il sequestro preventivo e' eseguito:   
 a) sui mobili e sui crediti, secondo le forme prescritte dal [codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) per il pignoramento presso il debitore o presso il terzo in quanto applicabili;   
 b) sugli immobili o mobili registrati, con la trascrizione del provvedimento presso i competenti uffici;   
 c) sui beni aziendali organizzati per l'esercizio di un'impresa, oltre che con le modalita' previste per i singoli beni sequestrati, con l'immissione in possesso dell'amministratore, con l'iscrizione del provvedimento nel registro delle imprese presso il quale e' iscritta l'impresa;   
 d) sulle azioni e sulle quote sociali, con l'annotazione nei libri sociali e con l'iscrizione nel registro delle imprese;   
 e) sugli strumenti finanziari dematerializzati, ivi compresi i titoli del debito pubblico, con la registrazione nell'apposito conto tenuto dall'intermediario ai sensi dell'[articolo 34 del decreto legislativo 24 giugno 1998, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-24;213~art34). Si applica l'[articolo 10, comma 3, del decreto legislativo 21 maggio 2004, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;170~art10-com3).   
-2. Si applica altresi' la disposizione dell'articolo 92))
+e-bis)
+
+((sui contenuti online del profilo personale e sui relativi dati, mediante ordine ai prestatori di servizi di hosting, ai fornitori di piattaforme online o di motori di ricerca o ai prestatori di servizi intermediari della societa' dell'informazione quali definiti all'[articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015L1535), di rimuovere i contenuti e i dati o disabilitare l'accesso al profilo, garantendo comunque, ove tecnicamente possibile, la fruizione dei contenuti estranei alle condotte illecite))
 
 .   
+2. Si applica altresi' la disposizione dell'articolo 92.   
 
 Norme-art. 104 bis
 

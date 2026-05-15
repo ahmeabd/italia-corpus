@@ -112,11 +112,11 @@ La Corte Costituzionale con sentenza 10 febbraio - 3 marzo 2016, n. 44 (in G.U. 
 
 1. Le corti di giustizia tributaria di primo grado decidono in composizione monocratica le controversie di valore fino a
 
-((5.000 euro))
+((10.000 euro))
 
-. Sono escluse le controversie di valore indeterminabile.
+. Sono escluse le controversie di valore indeterminabile. (51)
 
-((51))
+((59))
 
 2. Per valore della lite si intende quello determinato ai sensi dell'articolo 12, comma 2. Si tiene conto anche dell'imposta virtuale calcolata a seguito delle rettifiche di perdita.
 
@@ -135,6 +135,12 @@ La [L. 31 agosto 2022, n. 130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 AGGIORNAMENTO (51)
 
 Il [D.L. 24 febbraio 2023, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13), ha disposto (con l'art. 40, comma 2) che "La disposizione del primo periodo si applica ai ricorsi notificati a decorrere dal 1° luglio 2023".
+
+---------------
+
+AGGIORNAMENTO (59)
+
+Il [D.L. 19 febbraio 2026, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19) ha disposto (con l'art. 16, comma 6) che la presente modifica si applica ai ricorsi notificati a decorrere dal 2 maggio 2026.
 
 ### Art. 5
 
@@ -331,7 +337,11 @@ g) i dipendenti delle associazioni delle categorie rappresentate nel Consiglio n
 
 h) i dipendenti dei centri di assistenza fiscale (CAF) di cui all'[articolo 32 del decreto legislativo 9 luglio 1997, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241~art32), e delle relative societa' di servizi, purche' in possesso di diploma di laurea magistrale in giurisprudenza o in economia ed equipollenti, o di diploma di ragioneria e della relativa abilitazione professionale, limitatamente alle controversie dei propri assistiti originate da adempimenti per i quali il CAF ha prestato loro assistenza.
 
-4. L'elenco dei soggetti di cui al comma 3, lettere d), e), f), g) ed h), e' tenuto dal Dipartimento delle finanze del Ministero dell'economia e delle finanze che vi provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente senza nuovi o maggiori oneri a carico del bilancio dello Stato. Con decreto del Ministro dell'economia e delle finanze, sentito il Ministero della giustizia, emesso ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), sono disciplinate le modalita' di tenuta dell'elenco, nonche' i casi di incompatibilita', diniego, sospensione e revoca della iscrizione anche sulla base dei principi contenuti nel codice deontologico forense. L'elenco e' pubblicato nel sito internet del Ministero dell'economia e delle finanze.
+4. L'elenco dei soggetti di cui al comma 3, lettere d), e), f), g) ed h), e' tenuto dal
+
+((Dipartimento della giustizia tributaria))
+
+del Ministero dell'economia e delle finanze che vi provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente senza nuovi o maggiori oneri a carico del bilancio dello Stato. Con decreto del Ministro dell'economia e delle finanze, sentito il Ministero della giustizia, emesso ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), sono disciplinate le modalita' di tenuta dell'elenco, nonche' i casi di incompatibilita', diniego, sospensione e revoca della iscrizione anche sulla base dei principi contenuti nel codice deontologico forense. L'elenco e' pubblicato nel sito internet del Ministero dell'economia e delle finanze.
 
 5. Per le controversie di cui all'articolo 2, comma 2, primo periodo, sono anche abilitati all'assistenza tecnica, se iscritti nei relativi albi professionali:
 
@@ -351,20 +361,9 @@ g) i periti agrari.
 
 6. Per le controversie relative ai tributi doganali sono anche abilitati all'assistenza tecnica gli spedizionieri doganali iscritti nell'apposito albo.
 
-7. Ai difensori di cui ai commi da 1 a 6 deve essere conferito l'incarico con atto pubblico o con scrittura privata autenticata od anche in calce o a margine di un atto del processo, nel qual caso la sottoscrizione autografa e' certificata dallo stesso incaricato
+7. Ai difensori di cui ai commi da 1 a 6 deve essere conferito l'incarico con atto pubblico o con scrittura privata autenticata od anche in calce o a margine di un atto del processo, nel qual caso la sottoscrizione autografa e' certificata dallo stesso incaricato salvo che il conferente apponga la propria firma digitale. All'udienza pubblica l'incarico puo' essere conferito oralmente e se ne da' atto a verbale. Il difensore, quando la procura e' conferita su supporto cartaceo, ne deposita telematicamente la copia per immagine su supporto informatico, attestandone la conformita' ai sensi dell'[articolo 22, comma 2, del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art22-com2), con l'inserimento della relativa dichiarazione. (52)
 
-((salvo che il conferente apponga la propria firma digitale))
-
-.  
-All'udienza pubblica l'incarico puo' essere conferito oralmente e se ne da' atto a verbale.
-
-((Il difensore, quando la procura e' conferita su supporto cartaceo, ne deposita telematicamente la copia per immagine su supporto informatico, attestandone la conformita' ai sensi dell'[articolo 22, comma 2, del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art22-com2), con l'inserimento della relativa dichiarazione.))
-
-((52))
-
-((7-bis. La procura alle liti si considera apposta in calce all'atto cui si riferisce quando e' rilasciata su un separato documento informatico depositato telematicamente insieme all'atto cui la stessa si riferisce ovvero quando e' rilasciata su foglio separato del quale e' effettuata copia informatica, anche per immagine, depositata telematicamente insieme all'atto cui la stessa si riferisce.))
-
-((52))
+7-bis. La procura alle liti si considera apposta in calce all'atto cui si riferisce quando e' rilasciata su un separato documento informatico depositato telematicamente insieme all'atto cui la stessa si riferisce ovvero quando e' rilasciata su foglio separato del quale e' effettuata copia informatica, anche per immagine, depositata telematicamente insieme all'atto cui la stessa si riferisce. (52)
 
 8. Le Agenzie delle entrate, delle dogane e dei monopoli di cui al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), possono essere assistite dall'Avvocatura dello Stato.
 

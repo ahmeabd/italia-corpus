@@ -92,54 +92,55 @@ c) alle infrastrutture ferroviarie private adibite unicamente alle operazioni me
 
 6. Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro delle infrastrutture e dei trasporti emana, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito l'organismo di regolazione di cui all'articolo 3, comma 1, lettera t), un decreto ministeriale, con il quale sono individuate le reti ferroviarie di cui al comma 4. Nelle more dell'emanazione del decreto di cui al primo periodo, si applica il decreto del Ministro delle infrastrutture e dei trasporti del 5 agosto 2005. Il Ministro delle infrastrutture e dei trasporti provvede, altresi', con cadenza periodica, almeno quinquennale, ad apportare le necessarie modifiche al decreto di cui al primo periodo, per tener conto dell'evoluzione del mercato di settore. Le esclusioni di infrastrutture ferroviarie locali che non rivestono importanza strategica per il funzionamento del mercato ferroviario sono preventivamente notificate alla Commissione europea secondo le modalita' di cui all'[articolo 2, paragrafo 4 della direttiva 2012/34/UE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034), nell'ambito dell'attivita' istruttoria di aggiornamento del decreto ministeriale.
 
-7. 
+7. Il Ministero delle infrastrutture e dei trasporti trasmette contestualmente alle competenti Commissioni parlamentari, alla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), nonche' all'Autorita' di regolazione dei trasporti di cui all'articolo 37 del
 
-((Il Ministero delle infrastrutture e dei trasporti trasmette contestualmente alle competenti Commissioni parlamentari, alla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), nonche' all'Autorita' di regolazione dei trasporti di cui all'[articolo 37 del decreto-legge del 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art37), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), entro il 31 marzo dell'anno di scadenza del contratto di programma di cui all'articolo 15, un documento strategico, con durata almeno decennale, denominato Documento strategico pluriennale della mobilita' (DSPM). Il DSPM definisce gli indirizzi strategici di lungo termine per lo sviluppo della rete, la mobilita' di passeggeri e merci per ferrovia, la promozione del trasporto multimodale e la piena integrazione delle esigenze del settore industriale e dei poli logistici nella pianificazione infrastrutturale, contenente:   
-a) ((l'illustrazione delle esigenze in materia di mobilita' di passeggeri e merci per ferrovia;))
+((decreto-legge 6 dicembre))
 
-b)
+2011, n. 201, convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), entro il 31 marzo dell'anno di scadenza del contratto di programma di cui all'articolo 15, un documento strategico, con durata almeno decennale, denominato Documento strategico pluriennale della mobilita' (DSPM). Il DSPM definisce gli indirizzi strategici di lungo termine per lo sviluppo della rete, la mobilita' di passeggeri e merci per ferrovia, la promozione del trasporto multimodale e la piena integrazione delle esigenze del settore industriale e dei poli logistici nella pianificazione infrastrutturale
 
-((le attivita' per la gestione e il rafforzamento del livello di presidio manutentivo della rete;))
+((e contiene))
 
-c)
+:
 
-((l'individuazione dei criteri di valutazione della sostenibilita' ambientale, economica e sociale degli interventi e i necessari standard di sicurezza e di resilienza dell'infrastruttura ferroviaria nazionale anche con riferimento agli effetti dei cambiamenti climatici;))
+a) l'illustrazione delle esigenze in materia di mobilita' di passeggeri e merci per ferrovia;
 
-d)
+b) le attivita' per la gestione e il rafforzamento del livello di presidio manutentivo della rete;
 
-((la descrizione degli assi strategici in materia di mobilita' ferroviaria, con particolare riferimento a:   
-1) programmi di sicurezza e di resilienza delle infrastrutture, anche in ottemperanza di specifici obblighi di legge;   
+c) l'individuazione dei criteri di valutazione della sostenibilita' ambientale, economica e sociale degli interventi e i necessari standard di sicurezza e di resilienza dell'infrastruttura ferroviaria nazionale anche con riferimento agli effetti dei cambiamenti climatici;
+
+d) la descrizione degli assi strategici in materia di mobilita' ferroviaria, con particolare riferimento a:   
+1) programmi di sicurezza e di resilienza delle infrastrutture, anche
+
+((in ottemperanza a))
+
+specifici obblighi di legge;   
 2) programmi di sviluppo tecnologico per aumentare la capacita' e migliorare le prestazioni con riferimento alla rete del Sistema nazionale integrato dei trasporti (SNIT) di primo e secondo livello;   
 3) interventi prioritari sulle direttrici, nonche' interventi prioritari da sottoporre a revisione progettuale;   
 4) attivita' relative al fondo per la progettazione degli interventi e le relative indicazioni di priorita' strategica;   
 5) individuazione delle priorita' strategiche relative ai collegamenti di ultimo miglio dei porti e degli aeroporti;   
-6) localizzazione degli interventi, con la specifica indicazione di quelli da realizzarsi nelle regioni del Mezzogiorno in conformita' agli obbiettivi di cui all'[articolo 7-bis, comma 2, del decreto-legge 29 dicembre 2016, n. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-29;243~art7bis-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2017, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-02-27;18);))
+6) localizzazione degli interventi, con la specifica indicazione di quelli da realizzarsi nelle regioni del Mezzogiorno in conformita'
 
-e)
+((agli obiettivi))
 
-((le linee strategiche delle sperimentazioni relative alle innovazioni tecnologiche e ambientali;))
+di cui all'[articolo 7-bis, comma 2, del decreto-legge 29 dicembre 2016, n. 243](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-29;243~art7bis-com2), convertito, con modificazioni, dalla [legge 27 febbraio 2017, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-02-27;18);
 
-f)
+e) le linee strategiche delle sperimentazioni relative alle innovazioni tecnologiche e ambientali;
 
-((la ricognizione dei fabbisogni per la manutenzione e i servizi per l'infrastruttura ferroviaria;))
+f) la ricognizione dei fabbisogni per la manutenzione e i servizi per l'infrastruttura ferroviaria;
 
-g)
+g) le metodologie di valutazione degli investimenti, con particolare riferimento alla sostenibilita' ambientale e sociale e all'accessibilita' per le persone con disabilita';
 
-((le metodologie di valutazione degli investimenti, con particolare riferimento alla sostenibilita' ambientale e sociale e all'accessibilita' per le persone con disabilita';))
+h) la definizione della strategia nazionale pluriennale di pianificazione degli investimenti infrastrutturali, recante delle priorita' di investimento per la promozione del trasporto multimodale, anche finalizzato alla connessione delle principali aree industriali e dei nodi logistici alla rete di trasporto.
 
-h)
+7-bis. Le Commissioni parlamentari e la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), nonche' l'Autorita' di regolazione dei trasporti di cui all'articolo 37 del
 
-((la definizione della strategia nazionale pluriennale di pianificazione degli investimenti infrastrutturali, recante delle priorita' di investimento per la promozione del trasporto multimodale, anche finalizzato alla connessione delle principali aree industriali e dei nodi logistici alla rete di trasporto.))
+((decreto-legge 6 dicembre))
 
-7-bis. Le Commissioni parlamentari e la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8),
+2011, n. 201, convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), quest'ultima in relazione alla coerenza degli investimenti previsti con le esigenze del mercato raccolte mediante i meccanismi di coordinamento di cui all'[articolo 7-sexies della direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034)
 
-((nonche' l'Autorita' di regolazione dei trasporti di cui all'[articolo 37 del decreto-legge del 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art37), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), quest'ultima in relazione alla coerenza degli investimenti previsti con le esigenze del mercato raccolte mediante i meccanismi di coordinamento di cui all'[articolo 7-sexies della direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034), si esprimono sul DSPM di cui al comma 7 nel termine di trenta giorni dalla sua ricezione))
+((del Parlamento europeo e del Consiglio, del 21 novembre 2012))
 
-, decorso il quale il
-
-((Ministero delle infrastrutture e dei trasporti))
-
-procede all'approvazione di detto documento con proprio decreto. Il documento strategico e' sottoposto ad aggiornamento dopo tre anni o comunque in caso di mutamento degli scenari di carattere eccezionale, secondo le modalita' indicate nel comma 7 e nel presente comma.
+, si esprimono sul DSPM di cui al comma 7 nel termine di trenta giorni dalla sua ricezione, decorso il quale il Ministero delle infrastrutture e dei trasporti procede all'approvazione di detto documento con proprio decreto. Il documento strategico e' sottoposto ad aggiornamento dopo tre anni o comunque in caso di mutamento degli scenari di carattere eccezionale, secondo le modalita' indicate nel comma 7 e nel presente comma.
 
 8. Le disposizioni del presente decreto non pregiudicano la [direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014L0025), sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la [direttiva 2004/17/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004L0017), recepita dal [codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163) di cui al [decreto legislativo 18 aprile 2016, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50).
 
@@ -794,17 +795,17 @@ Rapporti tra il gestore dell'infrastruttura ferroviaria nazionale e lo Stato
 
 1. I rapporti tra il gestore dell'infrastruttura ferroviaria nazionale e lo Stato sono disciplinati da un atto di concessione e da uno o piu' contratti di programma. I contratti di programma sono stipulati per un periodo minimo di cinque anni,
 
-((e sono redatti in linea con gli obiettivi del DSPM di cui all'articolo 1, comma 7, assicurando la piena conformita' alla [direttiva 2012/34/UE del Parlamento europeo e del Consiglio, del 21 novembre 2012](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034),))
+((sono redatti in coerenza))
 
-e per definire altresi' la programmazione degli investimenti, anche previsti da specifiche disposizioni di legge, relativi alla manutenzione, al rinnovo e alla sicurezza dell'infrastruttura ferroviaria, nel rispetto dei principi e parametri fondamentali di cui all'allegato II del presente decreto.
+con gli obiettivi del DSPM di cui all'articolo 1, comma 7, assicurando la piena conformita' alla [direttiva 2012/34/UE del Parlamento europeo e del Consiglio, del 21 novembre 2012](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034),
 
-((Il contratto di programma contiene altresi' gli obiettivi intermedi e finali e i traguardi intermedi e finali, espressi in termini quantitativi o qualitativi, da conseguire entro le scadenze temporali stabilite e gli indicatori di performance, nonche' i criteri di qualita', stabiliti in conformita' con quanto previsto dall'allegato V alla [direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034).))
+((e definiscono))
 
-Le condizioni dei contratti di programma e la struttura dei pagamenti ai fini dell'erogazione di fondi al gestore dell'infrastruttura sono concordate in anticipo e coprono l'intera durata del contratto.
+altresi' la programmazione degli investimenti, anche previsti da specifiche disposizioni di legge, relativi alla manutenzione, al rinnovo e alla sicurezza dell'infrastruttura ferroviaria, nel rispetto dei principi e parametri fondamentali di cui all'allegato II del presente decreto. Il contratto di programma contiene altresi' gli obiettivi intermedi e finali e i traguardi intermedi e finali, espressi in termini quantitativi o qualitativi, da conseguire entro le scadenze temporali stabilite
 
-((Per le finalita' di cui al terzo periodo, nonche' ai fini della programmazione della spesa degli investimenti ferroviari previsti dal contratto di programma, il gestore trasmette il cronoprogramma di spesa e procedurale degli interventi al Ministero delle infrastrutture e dei trasporti e al Ministero dell'economia e delle finanze.))
+((, e gli indicatori di performance))
 
-Nelle more della stipula dei nuovi contratti di programma per il periodo 2016-2020 e sino all'efficacia degli stessi, il contratto di programma parte servizi 2012-2014, stipulato dal Ministero delle infrastrutture e dei trasporti con Rete Ferroviaria Italiana S.p.A., e' prorogato, ai medesimi patti e condizioni gia' previsti, per il periodo necessario alla stipula del nuovo contratto e comunque non oltre il 31 dicembre 2016 con l'aggiornamento delle relative Tabelle.
+nonche' i criteri di qualita', stabiliti in conformita' con quanto previsto dall'allegato V alla [direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034). Le condizioni dei contratti di programma e la struttura dei pagamenti ai fini dell'erogazione di fondi al gestore dell'infrastruttura sono concordate in anticipo e coprono l'intera durata del contratto. Per le finalita' di cui al terzo periodo, nonche' ai fini della programmazione della spesa degli investimenti ferroviari previsti dal contratto di programma, il gestore trasmette il cronoprogramma di spesa e procedurale degli interventi al Ministero delle infrastrutture e dei trasporti e al Ministero dell'economia e delle finanze. Nelle more della stipula dei nuovi contratti di programma per il periodo 2016-2020 e sino all'efficacia degli stessi, il contratto di programma parte servizi 2012-2014, stipulato dal Ministero delle infrastrutture e dei trasporti con Rete Ferroviaria Italiana S.p.A., e' prorogato, ai medesimi patti e condizioni gia' previsti, per il periodo necessario alla stipula del nuovo contratto e comunque non oltre il 31 dicembre 2016 con l'aggiornamento delle relative Tabelle.
 
 2. Il Ministro delle infrastrutture e della mobilita' sostenibili, di concerto con il Ministro dell'economia e delle finanze, per quanto attiene ai profili finanziari, entro il mese di giugno dell'anno precedente all'inizio di ciascun quinquennio programmatorio sottopone lo schema di contratto all'approvazione del Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), che adotta la relativa delibera entro trenta giorni. Il Ministero delle infrastrutture e della mobilita' sostenibili informa l'organismo di regolazione, che si esprime entro quindici giorni relativamente ai profili di competenza, e, mediante il gestore dell'infrastruttura, i richiedenti e, su loro richiesta, i richiedenti potenziali, sul contenuto dello schema di contratto di programma, al fine di consentire agli stessi di esprimersi al riguardo prima che esso sia sottoposto all'approvazione del CIPESS.  
 La delibera del CIPESS e' sottoposta al controllo di legittimita' da parte della Corte dei conti ai sensi dell'[articolo 41, comma 5, del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art41-com5), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214). Al fine di permettere una piu' celere realizzazione degli interventi ferroviari, e' ammessa la registrazione anche parziale della delibera del CIPESS, che diviene efficace limitatamente a quanto oggetto di registrazione. In tal caso, il CIPESS puo' adottare, su richiesta del Ministro delle infrastrutture e della mobilita' sostenibili, d'intesa con il Ministro dell'economia e delle finanze, una delibera integrativa o modificativa delle parti non registrate. Lo schema di contratto di programma e' sottoscritto tra il Ministero delle infrastrutture e della mobilita' sostenibili e il gestore dell'infrastruttura entro quindici giorni dalla registrazione da parte della Corte dei conti della delibera di approvazione del medesimo schema da parte del CIPESS. Il contratto di programma e' trasmesso, entro cinque giorni dalla sottoscrizione, dal Ministero delle infrastrutture e della mobilita' sostenibili alle Camere, al Ministero dell'economia e delle finanze e al CIPESS, con apposita informativa. Gli investimenti ferroviari autorizzati e finanziati da specifiche disposizioni di legge sono inseriti di diritto nel contratto di programma in corso alla data di entrata in vigore di dette disposizioni e ne costituiscono parte integrante. Gli aggiornamenti di cui al comma 2-bis danno evidenza di tali investimenti e dei relativi finanziamenti che vi rimangono vincolati ai sensi delle disposizioni di legge.
@@ -818,32 +819,39 @@ Il finanziamento puo' essere assicurato con mezzi diversi dai contributi statali
 
 4. Nei contratti di programma di cui al comma 1, tenendo in debito conto la necessita' di garantire il conseguimento di elevati livelli di sicurezza, l'effettuazione delle operazioni di manutenzione, nonche' il miglioramento della qualita' dell'infrastruttura e dei servizi ad essa connessi, sono previsti incentivi al gestore per ridurre i costi di fornitura dell'infrastruttura e l'entita' dei diritti di accesso, fermo restando il rispetto dell'equilibrio economico e finanziario di cui all'articolo 16.
 
-4-bis. 
+4-bis. Il gestore dell'infrastruttura assicura che i sistemi di incentivazione della parte variabile della remunerazione del proprio management, in conformita' all'[articolo 7, paragrafo 4, della direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034), tengano obbligatoriamente conto del raggiungimento degli obiettivi intermedi e finali e dei traguardi intermedi e finali, nonche' dei risultati ottenuti rispetto agli indicatori di performance definiti nel contratto di programma ai sensi del comma 1. Al fine di garantire la trasparenza, il gestore da' evidenza dei criteri e delle modalita' di applicazione dei predetti sistemi di incentivazione nell'ambito del proprio bilancio di esercizio.
 
-((Il gestore dell'infrastruttura assicura che i sistemi di incentivazione della parte variabile della remunerazione del proprio management, in conformita' all'[articolo 7, paragrafo 4, della direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034), tengano obbligatoriamente conto del raggiungimento degli obiettivi intermedi e finali e dei traguardi intermedi e finali, nonche' dei risultati ottenuti rispetto agli indicatori di performance definiti nel contratto di programma ai sensi del comma 1. Al fine di garantire la trasparenza, il gestore da' evidenza dei criteri e delle modalita' di applicazione dei predetti sistemi di incentivazione nell'ambito del proprio bilancio di esercizio.))
+5. Nell'ambito della politica generale di Governo e tenendo conto del finanziamento erogato di cui al comma 1, il gestore dell'infrastruttura ferroviaria e' tenuto all'elaborazione ed all'aggiornamento di un piano commerciale comprendente i programmi di finanziamento e di investimento, da trasmettere al Ministero delle infrastrutture e dei trasporti ed all'organismo di regolazione. Il piano e' redatto
 
-5. Nell'ambito della politica generale di Governo e tenendo conto
+((in coerenza))
 
-((...))
+con il DSPM di cui all'articolo 1, comma 7, assicura la piena conformita' alla [direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034) e ha lo scopo di garantire l'uso, la fornitura e lo sviluppo ottimali ed efficienti dell'infrastruttura, assicurando al tempo stesso l'equilibrio economico e finanziario e prevedendo i mezzi per conseguire tali obiettivi.
 
-del finanziamento erogato di cui al comma 1, il gestore dell'infrastruttura ferroviaria e' tenuto all'elaborazione ed all'aggiornamento di un piano commerciale comprendente i programmi di finanziamento e di investimento, da trasmettere al Ministero delle infrastrutture e dei trasporti ed all'organismo di regolazione. Il piano
+5-bis. L'Autorita' di regolazione dei trasporti individua, d'intesa con il Ministero delle infrastrutture e dei trasporti e, per i profili finanziari, sentito il Ministero dell'economia e delle finanze, gli indicatori di performance e i criteri di qualita' di cui al comma 1. La medesima Autorita' monitora il conseguimento degli obiettivi intermedi e finali
 
-((e' redatto in linea con il DSPM di cui all'articolo 1, comma 7, assicura la piena conformita' alla [direttiva 2012/34/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012L0034) e))
+((e dei traguardi))
 
-ha lo scopo di garantire l'uso, la fornitura e lo sviluppo ottimali ed efficienti dell'infrastruttura, assicurando al tempo stesso l'equilibrio economico e finanziario e prevedendo i mezzi per conseguire tali obiettivi.
+intermedi e finali, nonche' l'adempimento degli indicatori di performance e dei criteri di qualita' contenuti nel contratto di programma.
 
-5-bis. 
+5-ter. Con decreto del Ministro delle infrastrutture e dei trasporti
 
-((L'Autorita' di regolazione dei trasporti individua, d'intesa con il Ministero delle infrastrutture e dei trasporti e, per i profili finanziari, sentito il Ministero dell'economia e delle finanze, gli indicatori di performance e i criteri di qualita' di cui al comma 1. La medesima Autorita' monitora il conseguimento degli obiettivi intermedi e finali e i traguardi intermedi e finali, nonche' l'adempimento degli indicatori di performance e dei criteri di qualita' contenuti nel contratto di programma.))
+((, di concerto, per i profili finanziari, con il Ministro dell'economia e delle finanze))
 
-  
-5-ter.
+, sono definite le modalita' di rendicontazione e verifica del raggiungimento degli obiettivi e la conseguente attivazione del circuito finanziario
 
-((Con decreto del Ministro delle infrastrutture e dei trasporti e, per i profili finanziari, di concerto con il Ministro dell'economia e delle finanze, sono definite le modalita' di rendicontazione e verifica del raggiungimento degli obiettivi e la conseguente attivazione del circuito finanziario, ovvero le penalita' per il gestore conseguenti al mancato conseguimento degli stessi.))
+((nonche' le penalita' da applicare a carico del gestore in caso di mancato conseguimento))
 
-5-quater.
+degli stessi.
 
-((I progetti di fattibilita' tecnica ed economica relativi agli interventi infrastrutturali di sviluppo ferroviario, di importo pari o superiore a 50 milioni di euro, da inserire nel contratto di programma, sono integrati da un'analisi costi-benefici la cui valutazione e' svolta dall'Unita' di missione per il Piano nazionale di ripresa e resilienza del Ministero delle infrastrutture e dei trasporti, in conformita' con le principali linee guida europee e con i parametri internazionali di confronto per le diverse categorie di investimenti infrastrutturali ferroviari. Prima dell'adozione del contratto di programma, i progetti di cui al primo periodo, corredati dalla relativa analisi costi-benefici, sono pubblicati sul sito internet istituzionale del Ministero delle infrastrutture e dei trasporti ai fini dell'acquisizione di eventuali contributi o segnalazioni, da trasmettere entro trenta giorni dalla data di pubblicazione.))
+5-quater. I progetti di fattibilita' tecnica ed economica relativi agli interventi infrastrutturali di sviluppo ferroviario, di importo pari o superiore a 50 milioni di euro, da inserire nel contratto di programma, sono integrati da un'analisi costi-benefici la cui valutazione e' svolta dall'Unita' di missione per il Piano nazionale di ripresa e resilienza del Ministero delle infrastrutture e dei trasporti, in conformita' con le principali linee guida europee e con i parametri internazionali di confronto per le diverse categorie di investimenti infrastrutturali ferroviari. Prima dell'adozione del contratto di programma, i progetti di cui al primo periodo,
+
+((corredati della))
+
+relativa analisi costi-benefici, sono pubblicati
+
+((nel sito))
+
+internet istituzionale del Ministero delle infrastrutture e dei trasporti ai fini dell'acquisizione di eventuali contributi o segnalazioni, da trasmettere entro trenta giorni dalla data di pubblicazione.
 
 6. Il gestore dell'infrastruttura assicura che i richiedenti noti e, su loro richiesta, i richiedenti potenziali, abbiano accesso alle informazioni pertinenti e la possibilita' di esprimersi sul contenuto del piano commerciale riguardo alle condizioni di accesso e di uso e alla natura, fornitura e sviluppo dell'infrastruttura prima della sua approvazione da parte del gestore dell'infrastruttura. A tal fine il gestore dell'infrastruttura pubblica, sul proprio sito internet, il piano commerciale tre mesi prima della sua adozione, concedendo ai richiedenti trenta giorni per esprimere un parere non vincolante sulle tematiche suddette.
 
