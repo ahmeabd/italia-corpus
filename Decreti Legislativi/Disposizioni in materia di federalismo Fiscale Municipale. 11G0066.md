@@ -388,9 +388,37 @@ Art. 4
 
 Imposta di soggiorno
 
-1. I comuni capoluogo di provincia, le unioni di comuni nonche' i comuni inclusi negli elenchi regionali delle localita' turistiche o citta' d'arte possono istituire, con deliberazione del consiglio, un'imposta di soggiorno a carico di coloro che alloggiano nelle strutture ricettive situate sul proprio territorio, da applicare, secondo criteri di gradualita' in proporzione al prezzo, sino a 5 euro per notte di soggiorno. Il relativo gettito e' destinato a finanziare interventi in materia di turismo, ivi compresi quelli a sostegno delle strutture ricettive, nonche' interventi di manutenzione, fruizione e recupero dei beni culturali ed ambientali locali e dei relativi servizi pubblici locali, nonche' i costi relativi al servizio di raccolta e smaltimento dei rifiuti.
+1. I comuni capoluogo di provincia, le unioni di comuni nonche' i comuni inclusi negli elenchi regionali delle localita' turistiche o citta' d'arte possono istituire, con deliberazione del consiglio, un'imposta di soggiorno a carico di coloro che alloggiano nelle strutture ricettive situate sul proprio territorio, da applicare, secondo criteri di gradualita' in proporzione al prezzo, sino a 5 euro per notte di soggiorno. Il relativo gettito e' destinato a finanziare interventi in materia di turismo, ivi compresi quelli a sostegno delle strutture ricettive, nonche' interventi di manutenzione, fruizione e recupero dei beni culturali ed ambientali locali e dei relativi servizi pubblici locali, nonche' i costi relativi al servizio di raccolta e smaltimento dei rifiuti. Il predetto gettito puo' essere destinato a finanziare anche iniziative in materia di sicurezza urbana da parte dei comuni,
 
-((Il predetto gettito puo' essere destinato a finanziare anche iniziative in materia di sicurezza urbana da parte dei comuni, compresa l'assunzione a tempo determinato di personale della polizia locale e la corresponsione dei compensi relativi alle prestazioni di lavoro straordinario svolte dal medesimo personale anche in deroga alle limitazioni stabilite dalla legge e dai contratti collettivi e al vincolo di finanza pubblica di cui all'[art. 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-25;75~art23-com2), nonche' ai limiti di cui all'[articolo 1, commi 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com557), [557 quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com557quater) e [562, della legge 27 dicembre 2006, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com562). Le assunzioni a tempo determinato sono effettuate in deroga ai limiti di spesa di cui all'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78~art9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122), e, previa autorizzazione, limitatamente agli enti di cui agli [articoli 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art242), [243-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art243bis) e [244 del decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art244), della Commissione per la stabilita' finanziaria degli enti locali prevista dall'articolo 155 comma 1, lett. a), del medesimo [decreto legislativo 267 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;267), in deroga ai limiti di cui all'[articolo 259, comma 6, del decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267~art259-com6)))
+((comprese))
+
+l'assunzione a tempo determinato di personale della polizia locale e la corresponsione dei compensi relativi alle prestazioni di lavoro straordinario svolte dal medesimo personale anche in deroga alle limitazioni stabilite dalla legge e dai contratti collettivi e al vincolo di finanza pubblica di cui all'
+
+((articolo 23))
+
+, [comma 2, del decreto legislativo 25 maggio 2017, n. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-25;75~com2), nonche' ai limiti di cui all'articolo 1, commi 557,
+
+((557-quater))
+
+e 562, della [legge 27 dicembre 2006, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296). Le assunzioni a tempo determinato sono effettuate in deroga ai limiti di spesa di cui all'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78~art9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122), e,
+
+((...))
+
+limitatamente agli enti di cui agli articoli 242, 243-bis e 244 del
+
+((testo unico di cui al))
+
+[decreto legislativo 18 agosto 2000, n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267),
+
+((previa autorizzazione))
+
+della Commissione per la stabilita' finanziaria degli enti locali prevista dall'articolo 155
+
+((, comma 1, lettera a), del medesimo testo unico))
+
+, in deroga ai limiti di cui all'articolo 259,
+
+((comma 6, del suddetto testo unico))
 
 .
 

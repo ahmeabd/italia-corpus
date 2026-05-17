@@ -386,7 +386,7 @@ Regolamentazione della circolazione nei centri abitati
 
 a) adottare i provvedimenti indicati nell'art. 6, commi 1, 2 e 4;
 
-((b) limitare la circolazione di tutte o di alcune categorie di veicoli nei casi in cui risulti necessario, congiuntamente, nel rispetto dei criteri di proporzionalita' e adeguatezza, ridurre le emissioni derivanti dal traffico veicolare in relazione ai livelli delle sostanze inquinanti nell'aria nonche' tutelare il patrimonio culturale, tenuto conto, comunque, delle esigenze di mobilita' e di tutela della produzione. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della sicurezza energetica e con il Ministro della cultura, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), sono individuati le tipologie dei comuni che possono avvalersi della facolta' di cui alla presente lettera, le categorie dei veicoli non soggetti alle predette limitazioni, i parametri di qualita' dell'aria ai quali e' subordinata l'attivazione delle limitazioni consentite dalla presente disposizione nonche' i livelli minimi di servizio pubblico da assicurare comunque nelle aree oggetto delle citate limitazioni))
+b) limitare la circolazione di tutte o di alcune categorie di veicoli nei casi in cui risulti necessario, congiuntamente, nel rispetto dei criteri di proporzionalita' e adeguatezza, ridurre le emissioni derivanti dal traffico veicolare in relazione ai livelli delle sostanze inquinanti nell'aria nonche' tutelare il patrimonio culturale, tenuto conto, comunque, delle esigenze di mobilita' e di tutela della produzione. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della sicurezza energetica e con il Ministro della cultura, previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), sono individuati le tipologie dei comuni che possono avvalersi della facolta' di cui alla presente lettera, le categorie dei veicoli non soggetti alle predette limitazioni, i parametri di qualita' dell'aria ai quali e' subordinata l'attivazione delle limitazioni consentite dalla presente disposizione nonche' i livelli minimi di servizio pubblico da assicurare comunque nelle aree oggetto delle citate limitazioni;
 
 c) stabilire la precedenza su determinate strade o tratti di strade, ovvero in una determinata intersezione, in relazione alla classificazione di cui all'art. 2, e, quando la intensita' o la sicurezza del traffico lo richiedano, prescrivere ai conducenti, prima di immettersi su una determinata strada, l'obbligo di arrestarsi all'intersezione e di dare la precedenza a chi circola su quest'ultima;
 
@@ -394,46 +394,31 @@ d) riservare limitati spazi alla sosta, a carattere permanente o temporaneo, ovv
 1) dei veicoli degli organi di polizia stradale di cui all'articolo 12, dei vigili del fuoco e dei servizi di soccorso;   
 2) dei veicoli adibiti al servizio di persone con disabilita', munite del contrassegno di cui all'articolo 381, comma 2, del regolamento;   
 3) dei veicoli al servizio delle donne in stato di gravidanza o di genitori con un bambino di eta' non superiore a due anni, munite di contrassegno speciale, denominato «permesso rosa»;   
-4) dei veicoli elettrici
-
-((o alla ricarica di tali veicoli))
-
-;   
-5)
-
-((dei veicoli, per la salita e la discesa dei passeggeri o per il carico e lo scarico delle cose, in prossimita' di stazioni ferroviarie, aeroporti, porti, capilinea del trasporto pubblico e altri luoghi di interscambio o di attrazione di flussi rilevanti))
-
-;   
+4) dei veicoli elettrici o alla ricarica di tali veicoli;   
+5) dei veicoli, per la salita e la discesa dei passeggeri o per il carico e lo scarico delle cose, in prossimita' di stazioni ferroviarie, aeroporti, porti, capilinea del trasporto pubblico e altri luoghi di interscambio o di attrazione di flussi rilevanti;   
 6) dei veicoli adibiti a servizi di linea per lo stazionamento ai capilinea;   
-7) dei veicoli adibiti al trasporto scolastico nelle ore stabilite;
+7) dei veicoli adibiti al trasporto scolastico nelle ore stabilite;   
+7-bis)
 
-e) stabilire aree nelle quali e' autorizzato il parcheggio dei veicoli;
-
-((f) stabilire, previa deliberazione della giunta, fasce di sosta laterale e parcheggi nei quali la sosta dei veicoli e' subordinata al pagamento di una somma di denaro; con decreto del Ministro delle infrastrutture e dei trasporti sono individuati le modalita' di riscossione del pagamento e, in particolare, le caratteristiche, le modalita' costruttive e i criteri di installazione e di manutenzione dei dispositivi di controllo della durata della sosta, le categorie dei veicoli esentati nonche', previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), i limiti massimi delle tariffe))
-
-g) prescrivere orari e riservare spazi per i veicoli di categoria N, ai sensi della lettera c) del comma 2 dell'articolo 47, utilizzati per il carico e lo scarico di
-
-((merci))
-
-;
-
-h) istituire le aree attrezzate riservate alla sosta e al parcheggio delle autocaravan di cui all'art. 185;
-
-i) riservare strade
-
-((o singole corsie))
-
-alla circolazione dei veicoli adibiti a servizi pubblici di trasporto, al fine di favorire la mobilita' urbana.
-
-((i-bis) consentire su determinate strade a senso unico di marcia, ove il limite massimo di velocita' sia inferiore o uguale a 30 km/h, la circolazione dei velocipedi in senso opposto, attraverso la realizzazione di corsie ciclabili per doppio senso ciclabile, nei soli casi in cui non sia possibile l'inserimento di piste ciclabili))
-
-i-ter)
-
-((LETTERA ABROGATA DALLA [L. 25 NOVEMBRE 2024, N. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177)))
+((dei veicoli adibiti al trasporto valori, in prossimita' di banche, uffici postali o altri obiettivi sensibili))
 
 .
 
-((i-quater) istituire la zona di attestamento ciclabile, in determinate intersezioni semaforizzate su strade con una corsia per senso di marcia e con velocita' consentita inferiore o uguale a 50 km/h e nelle quali e' presente una pista ciclabile laterale, di norma a destra, o una corsia ciclabile))
+e) stabilire aree nelle quali e' autorizzato il parcheggio dei veicoli;
+
+f) stabilire, previa deliberazione della giunta, fasce di sosta laterale e parcheggi nei quali la sosta dei veicoli e' subordinata al pagamento di una somma di denaro; con decreto del Ministro delle infrastrutture e dei trasporti sono individuati le modalita' di riscossione del pagamento e, in particolare, le caratteristiche, le modalita' costruttive e i criteri di installazione e di manutenzione dei dispositivi di controllo della durata della sosta, le categorie dei veicoli esentati nonche', previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), i limiti massimi delle tariffe;
+
+g) prescrivere orari e riservare spazi per i veicoli di categoria N, ai sensi della lettera c) del comma 2 dell'articolo 47, utilizzati per il carico e lo scarico di merci;
+
+h) istituire le aree attrezzate riservate alla sosta e al parcheggio delle autocaravan di cui all'art. 185;
+
+i) riservare strade o singole corsie alla circolazione dei veicoli adibiti a servizi pubblici di trasporto, al fine di favorire la mobilita' urbana.
+
+i-bis) consentire su determinate strade a senso unico di marcia, ove il limite massimo di velocita' sia inferiore o uguale a 30 km/h, la circolazione dei velocipedi in senso opposto, attraverso la realizzazione di corsie ciclabili per doppio senso ciclabile, nei soli casi in cui non sia possibile l'inserimento di piste ciclabili;
+
+i-ter) LETTERA ABROGATA DALLA [L. 25 NOVEMBRE 2024, N. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177).
+
+i-quater) istituire la zona di attestamento ciclabile, in determinate intersezioni semaforizzate su strade con una corsia per senso di marcia e con velocita' consentita inferiore o uguale a 50 km/h e nelle quali e' presente una pista ciclabile laterale, di norma a destra, o una corsia ciclabile.
 
 2. I divieti di sosta si intendono imposti dalle ore 8 alle ore 20, salvo che sia diversamente indicato nel relativo segnale.
 
@@ -441,25 +426,13 @@ i-ter)
 
 4. Nel caso di sospensione della circolazione per motivi di sicurezza pubblica o di sicurezza della circolazione o per esigenze di carattere militare, ovvero laddove siano stati stabiliti obblighi, divieti o limitazioni di carattere temporaneo o permanente, possono essere accordati, per accertate necessita', permessi subordinati a speciali condizioni e cautele. Nei casi in cui sia stata vietata o limitata la sosta, possono essere accordati permessi subordinati a speciali condizioni e cautele ai veicoli riservati a servizi di polizia e a quelli utilizzati dagli esercenti la professione sanitaria, nell'espletamento delle proprie mansioni, nonche' dalle persone con limitata o impedita capacita' motoria, muniti del contrassegno speciale.
 
-5. 
+5. COMMA ABROGATO DALLA [L. 25 NOVEMBRE 2024, N. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177).
 
-((COMMA ABROGATO DALLA [L. 25 NOVEMBRE 2024, N. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-11-25;177)))
-
-.
-
-6. Le aree destinate al parcheggio devono essere ubicate fuori della carreggiata e comunque in modo che i veicoli parcheggiati non ostacolino lo scorrimento del traffico.
-
-((Tali aree sono considerate ad uso pubblico nel caso in cui l'accesso sia indiscriminato, ancorche' subordinato al pagamento di una tariffa o regolato da barriere o altri dispositivi mobili))
-
-.
+6. Le aree destinate al parcheggio devono essere ubicate fuori della carreggiata e comunque in modo che i veicoli parcheggiati non ostacolino lo scorrimento del traffico. Tali aree sono considerate ad uso pubblico nel caso in cui l'accesso sia indiscriminato, ancorche' subordinato al pagamento di una tariffa o regolato da barriere o altri dispositivi mobili.
 
 7. I proventi dei parcheggi a pagamento, in quanto spettanti agli enti proprietari della strada, sono destinati alla installazione, costruzione e gestione di parcheggi in superficie, sopraelevati o sotterranei, e al loro miglioramento nonche' a interventi per il finanziamento del trasporto pubblico locale e per migliorare la mobilita' urbana.
 
-8. Qualora il comune assuma l'esercizio diretto del parcheggio con custodia o lo dia in concessione ovvero disponga l'installazione dei dispositivi di controllo di durata della sosta di cui al comma 1, lettera f), su parte della stessa area o su altra parte nelle immediate vicinanze, deve riservare una adeguata area destinata a parcheggio rispettivamente senza custodia o senza dispositivi di controllo di durata della sosta.
-
-((Il comune individua con motivata determinazione la quota di aree destinate al parcheggio senza custodia o senza dispositivi di controllo, tenuto conto dell'esigenza di garantire adeguato numero di stalli non assoggettati al pagamento, anche con limitazione temporale della durata del parcheggio))
-
-. Tale obbligo non sussiste per le zone definite a norma dell'art. 3 "area pedonale" e "zona a traffico limitato", nonche' per quelle definite " A" dall'[art. 2 del decreto del Ministro dei lavori pubblici 2 aprile 1968, n. 1444 , pubblicato nella Gazzetta Ufficiale n. 97 del 16 aprile 1968](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97), e in altre zone di particolare rilevanza urbanistica, opportunamente individuate e delimitate dalla giunta nelle quali sussistano esigenze e condizioni particolari di traffico.
+8. Qualora il comune assuma l'esercizio diretto del parcheggio con custodia o lo dia in concessione ovvero disponga l'installazione dei dispositivi di controllo di durata della sosta di cui al comma 1, lettera f), su parte della stessa area o su altra parte nelle immediate vicinanze, deve riservare una adeguata area destinata a parcheggio rispettivamente senza custodia o senza dispositivi di controllo di durata della sosta. Il comune individua con motivata determinazione la quota di aree destinate al parcheggio senza custodia o senza dispositivi di controllo, tenuto conto dell'esigenza di garantire adeguato numero di stalli non assoggettati al pagamento, anche con limitazione temporale della durata del parcheggio. Tale obbligo non sussiste per le zone definite a norma dell'art. 3 "area pedonale" e "zona a traffico limitato", nonche' per quelle definite " A" dall'[art. 2 del decreto del Ministro dei lavori pubblici 2 aprile 1968, n. 1444 , pubblicato nella Gazzetta Ufficiale n. 97 del 16 aprile 1968](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1968-04-16&numeroGazzetta=97), e in altre zone di particolare rilevanza urbanistica, opportunamente individuate e delimitate dalla giunta nelle quali sussistano esigenze e condizioni particolari di traffico.
 
 9. I comuni, con deliberazione della giunta, provvedono a delimitare le aree pedonali e le zone a traffico limitato tenendo conto degli effetti del traffico sulla sicurezza della circolazione, sulla salute, sull'ordine pubblico, sul patrimonio ambientale e culturale e sul territorio. In caso di urgenza il provvedimento potra' essere adottato con ordinanza del sindaco, ancorche' di modifica o integrazione della deliberazione della giunta.  
 Analogamente i comuni provvedono a delimitare altre zone di rilevanza urbanistica nelle quali sussistono esigenze particolari di traffico, di cui al secondo periodo del comma 8. I comuni possono subordinare l'ingresso o la circolazione dei veicoli a motore, all'interno delle zone a traffico limitato, anche al pagamento di una somma. Con decreto del Ministro delle infrastrutture e della mobilita' sostenibili sono individuate le tipologie dei comuni che possono avvalersi di tale facolta', le modalita' di riscossione del pagamento, le categorie dei veicoli esentati, nonche', previa intesa in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), i massimali delle tariffe, da definire tenendo conto delle emissioni inquinanti dei veicoli e delle tipologie dei permessi.
@@ -470,14 +443,14 @@ Analogamente i comuni provvedono a delimitare altre zone di rilevanza urbanistic
 
 10. Le zone di cui ai commi 8 e 9 sono indicate mediante appositi segnali.
 
-((10-bis. In deroga a quanto previsto dal comma 10, i comuni, qualora si renda necessario disporre divieti o limitazioni alla circolazione con carattere di urgenza, anche in riferimento alla facolta' di cui al comma 1, lettera b), in determinati ambiti stradali coincidenti con zone gia' istituite o con l'intero centro abitato, comunicano l'entrata in vigore del divieto o della limitazione con almeno ventiquattro ore di preavviso attraverso i mezzi di informazione disponibili))
+10-bis. In deroga a quanto previsto dal comma 10, i comuni, qualora si renda necessario disporre divieti o limitazioni alla circolazione con carattere di urgenza, anche in riferimento alla facolta' di cui al comma 1, lettera b), in determinati ambiti stradali coincidenti con zone gia' istituite o con l'intero centro abitato, comunicano l'entrata in vigore del divieto o della limitazione con almeno ventiquattro ore di preavviso attraverso i mezzi di informazione disponibili.
 
 11. Nell'ambito delle zone di cui ai commi 8 e 9 e delle altre zone di particolare rilevanza urbanistica nelle quali sussistono condizioni ed esigenze analoghe a quelle previste nei medesimi commi, i comuni hanno facolta' di riservare, con ordinanza del sindaco, superfici o spazi di sosta per veicoli privati dei soli residenti nella zona, a titolo gratuito od oneroso.
 
 11-bis. Nelle zone scolastiche urbane puo' essere limitata o esclusa la circolazione, la sosta o la fermata di tutte o di alcune categorie di veicoli, in orari e con modalita' definiti con ordinanza del sindaco. I divieti di circolazione, di sosta o di fermata non si applicano agli scuolabus, agli autobus destinati al trasporto degli alunni frequentanti istituti scolastici, nonche' ai titolari di contrassegno di cui all'articolo 381, comma 2, del regolamento di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1992-12-16;495).  
 Chiunque viola gli obblighi, le limitazioni o i divieti previsti al presente comma e' soggetto alla sanzione amministrativa di cui al comma 13-bis.
 
-((11-ter. I comuni provvedono a delimitare le zone ciclabili, in cui puo' essere limitata o esclusa la circolazione di alcune categorie di veicoli, sono realizzate misure di moderazione del traffico e non e' consentito superare il limite di velocita' di 30 km/h))
+11-ter. I comuni provvedono a delimitare le zone ciclabili, in cui puo' essere limitata o esclusa la circolazione di alcune categorie di veicoli, sono realizzate misure di moderazione del traffico e non e' consentito superare il limite di velocita' di 30 km/h.
 
 12. Per le citta' metropolitane le competenze della giunta e del sindaco previste dal presente articolo sono esercitate rispettivamente dalla giunta metropolitana e dal sindaco metropolitano.
 
@@ -485,13 +458,7 @@ Chiunque viola gli obblighi, le limitazioni o i divieti previsti al presente com
 
 13-bis. Chiunque, in violazione delle limitazioni previste ai sensi della lettera b) del comma 1, circola con veicoli appartenenti, relativamente alle emissioni inquinanti, a categorie inferiori a quelle prescritte, e' soggetto alla sanzione amministrativa del pagamento di una somma da € 168 a € 678 e, nel caso di reiterazione della violazione nel biennio, alla sanzione amministrativa accessoria della sospensione della patente di guida da quindici a trenta giorni ai sensi delle norme di cui al capo I, sezione II, del titolo VI. (114) (124) (133) (145) (163)
 
-14. Chiunque viola gli altri obblighi, divieti o limitazioni previsti nel presente articolo, e' soggetto alla sanzione amministrativa del pagamento di una somma da € 42 a € 173. La violazione del divieto di circolazione nelle corsie riservate ai mezzi pubblici di trasporto, nelle aree pedonali e nelle zone a traffico limitato e' soggetta alla sanzione amministrativa del pagamento di una somma da € 83 a € 332.
-
-((Nei casi di sosta vietata, in cui la violazione si prolunghi oltre ventiquattro ore, la sanzione amministrativa pecuniaria indicata nel primo periodo e' applicata per ogni periodo di ventiquattro ore, per il quale si protrae la violazione. Nel caso di violazione per superamento dei limiti temporali di sosta consentiti ai sensi dell'articolo 157, comma 6, la sanzione amministrativa e' del pagamento di una somma da euro 26 a euro 102. Qualora la violazione di cui al quarto periodo si protragga nel tempo, la sanzione e' calcolata moltiplicando gli importi stabiliti dal quarto periodo per il numero intero dei periodi di tempo massimo consentito compresi nel tempo intercorso dall'inizio della violazione fino al momento dell'accertamento, comunque fino a un importo massimo pari al quadruplo degli importi stabiliti dal quarto periodo))
-
-. (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (145) (163)
-
-((
+14. Chiunque viola gli altri obblighi, divieti o limitazioni previsti nel presente articolo, e' soggetto alla sanzione amministrativa del pagamento di una somma da € 42 a € 173. La violazione del divieto di circolazione nelle corsie riservate ai mezzi pubblici di trasporto, nelle aree pedonali e nelle zone a traffico limitato e' soggetta alla sanzione amministrativa del pagamento di una somma da € 83 a € 332. Nei casi di sosta vietata, in cui la violazione si prolunghi oltre ventiquattro ore, la sanzione amministrativa pecuniaria indicata nel primo periodo e' applicata per ogni periodo di ventiquattro ore, per il quale si protrae la violazione. Nel caso di violazione per superamento dei limiti temporali di sosta consentiti ai sensi dell'articolo 157, comma 6, la sanzione amministrativa e' del pagamento di una somma da euro 26 a euro 102. Qualora la violazione di cui al quarto periodo si protragga nel tempo, la sanzione e' calcolata moltiplicando gli importi stabiliti dal quarto periodo per il numero intero dei periodi di tempo massimo consentito compresi nel tempo intercorso dall'inizio della violazione fino al momento dell'accertamento, comunque fino a un importo massimo pari al quadruplo degli importi stabiliti dal quarto periodo. (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (145) (163)
 
 14-bis. La sanzione di cui al comma 14, secondo periodo, si applica anche in caso di violazione della limitazione della circolazione nella zona tariffata di cui al comma 9, consistente nel mancato pagamento dell'intera somma prevista. Al fine di consentire il recupero della tariffa non corrisposta, in tali casi, la sanzione di cui al comma 14, secondo periodo, e' maggiorata di una somma corrispondente alla tariffa dell'intero periodo tariffato per il giorno di calendario in cui avviene l'accertamento. La sanzione e la relativa maggiorazione per il recupero della tariffa si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione.
 
@@ -503,19 +470,22 @@ b) nel caso in cui l'accertamento della violazione avvenga oltre il 10 per cento
 
 c) nel caso in cui l'accertamento della violazione avvenga oltre il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, secondo periodo.
 
-14-quater. Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati al comma 14-ter, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente alla tariffa non corrisposta. Le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione))
+14-quater. Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati al comma 14-ter, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente alla tariffa non corrisposta. Le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione.
 
-((15. Le sanzioni di cui al comma 14, primo periodo, si applicano anche in caso di violazione della sosta tariffata di cui al comma 1, lettera f). In tali casi, al fine di consentire il recupero della tariffa non corrisposta, quando la violazione consiste nel mancato pagamento dell'intera somma prevista, la sanzione di cui al comma 14, primo periodo, e' maggiorata di un importo pari alla tariffa corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Fuori dei casi di cui al primo e al secondo periodo, quando la violazione della sosta tariffata consiste nel pagamento insufficiente, si applica la seguente disciplina:
+15. Le sanzioni di cui al comma 14, primo periodo, si applicano anche in caso di violazione della sosta tariffata di cui al comma 1, lettera f). In tali casi, al fine di consentire il recupero della tariffa non corrisposta, quando la violazione consiste nel mancato pagamento dell'intera somma prevista, la sanzione di cui al comma 14, primo periodo, e' maggiorata di un importo pari alla tariffa corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Fuori dei casi di cui al primo e al secondo periodo, quando la violazione della sosta tariffata consiste nel pagamento insufficiente, si applica la seguente disciplina:
 
 a) nel caso in cui l'accertamento della violazione avvenga entro il 10 per cento del tempo per cui e' stata corrisposta la tariffa, non si applica alcuna sanzione;
 
 b) nel caso in cui l'accertamento della violazione avvenga oltre il 10 per cento ed entro il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo, ridotta nella misura del 50 per cento;
 
-c) nel caso in cui l'accertamento della violazione avvenga oltre il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo))
+c) nel caso in cui l'accertamento della violazione avvenga oltre il 50 per cento del tempo per cui e' stata corrisposta la tariffa, si applica la sanzione di cui al comma 14, primo periodo.   
+15.1. Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati dal comma 15, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Quando la sosta senza pagamento o con pagamento insufficiente si protragga oltre le ore 24 del giorno dell'accertamento, le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione. Nei casi in cui la sosta tariffata sia anche limitata nella durata massima, si applicano le sanzioni di cui al comma 14, quarto periodo, secondo le disposizioni e nei modi indicati nel quinto periodo del medesimo comma.
 
-((15.1. Allo scopo di consentire il recupero della tariffa non corrisposta, nei casi indicati dal comma 15, lettere b) e c), le sanzioni previste sono maggiorate di un importo corrispondente all'intero periodo tariffato nel giorno di calendario in cui avviene l'accertamento. Quando la sosta senza pagamento o con pagamento insufficiente si protragga oltre le ore 24 del giorno dell'accertamento, le sanzioni e le relative maggiorazioni si applicano per ogni periodo di ventiquattro ore in cui si protrae la violazione. Nei casi in cui la sosta tariffata sia anche limitata nella durata massima, si applicano le sanzioni di cui al comma 14, quarto periodo, secondo le disposizioni e nei modi indicati nel quinto periodo del medesimo comma))
+15-bis. 
 
-15-bis. Salvo che il fatto costituisca reato, coloro che esercitano senza autorizzazione, anche avvalendosi di altre persone, ovvero determinano altri ad esercitare senza autorizzazione l'attivita' di parcheggiatore o guardiamacchine sono puniti con la sanzione amministrativa del pagamento di una somma da € 769 ad € 3.095. Se nell'attivita' sono impiegati minori, o se il soggetto e' gia' stato sanzionato per la medesima violazione con provvedimento definitivo, si applica la pena dell'arresto da sei mesi a un anno e dell'ammenda da 2.000 a 7.000 euro. E' sempre disposta la confisca delle somme percepite, secondo le modalita' indicate al titolo VI, capo I, sezione II. (163)
+((Salvo che il fatto costituisca reato, coloro che esercitano senza autorizzazione, anche avvalendosi di altre persone, ovvero determinano altri ad esercitare senza autorizzazione l'attivita' di parcheggiatore o guardiamacchine sono puniti con la sanzione amministrativa del pagamento di una somma da euro 769 ad euro 3.095. Se il soggetto e' gia' stato sanzionato per la medesima violazione con provvedimento definitivo, la sanzione amministrativa pecuniaria e' raddoppiata. Salvo che il fatto costituisca piu' grave reato, se nell'attivita' sono impiegati minori ovvero se il soggetto gia' sanzionato con provvedimento definitivo ai sensi del secondo periodo pone ulteriormente in essere le medesime condotte, si applica la pena dell'arresto da otto mesi a un anno e sei mesi e dell'ammenda da 3.000 a 8.000 euro. E' sempre disposta la confisca delle somme percepite, secondo le modalita' indicate al titolo VI, capo I, sezione II))
+
+.
 
 ---------------
 
@@ -11052,6 +11022,8 @@ Il Decreto 19 dicembre 2012 (in G.U. 31/12/2012 n. 303) ha disposto (con l'art. 
 
 ### Art. 125
 
+(Gradualita' ed equivalenze delle patenti di guida).
+
 1. Il rilascio della patente di guida e' subordinato alle seguenti condizioni:
 
 a) la patente per le categorie C1, C, D1 o D puo' essere rilasciata unicamente ai conducenti gia' in possesso di patente di categoria B;
@@ -14016,15 +13988,21 @@ o) limitatamente alle ore di esercizio, in corrispondenza dei distributori di ca
 
 o-bis) nelle aree riservate ai veicoli per il carico e lo scarico di merci, nelle ore stabilite.
 
+o-ter)
+
+((nelle aree riservate per il carico e lo scarico dei veicoli adibiti al trasporto valori))
+
+.
+
 3. Nei centri abitati e' vietata la sosta dei rimorchi quando siano staccati dal veicolo trainante, salvo diversa segnalazione.
 
 4. Durante la sosta e la fermata il conducente deve adottare le opportune cautele atte a evitare incidenti ed impedire l'uso del veicolo senza il suo consenso.
 
-((4-bis. Chiunque viola le disposizioni del comma 2, lettera g), e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 165 a euro 660 per i ciclomotori e i motoveicoli a due ruote e da euro 330 a euro 990 per i restanti veicoli))
+4-bis. Chiunque viola le disposizioni del comma 2, lettera g), e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 165 a euro 660 per i ciclomotori e i motoveicoli a due ruote e da euro 330 a euro 990 per i restanti veicoli.
 
-((5. Chiunque viola le disposizioni del comma 1, lettere a), b), c), d), e), g), h), h-bis) e h-ter), e del comma 2, lettera i), e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 41 a euro 168 per i ciclomotori e i motoveicoli a due ruote e da euro 87 a euro 344 per i restanti veicoli))
+5. Chiunque viola le disposizioni del comma 1, lettere a), b), c), d), e), g), h), h-bis) e h-ter), e del comma 2, lettera i), e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 41 a euro 168 per i ciclomotori e i motoveicoli a due ruote e da euro 87 a euro 344 per i restanti veicoli.
 
-((5-bis. Chiunque viola le disposizioni del comma 1, lettera f), e del comma 2, lettere d) e h), e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 87 a euro 328 per i ciclomotori e i motoveicoli a due ruote e da euro 165 a euro 660 per i restanti veicoli))
+5-bis. Chiunque viola le disposizioni del comma 1, lettera f), e del comma 2, lettere d) e h), e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 87 a euro 328 per i ciclomotori e i motoveicoli a due ruote e da euro 165 a euro 660 per i restanti veicoli.
 
 6. Chiunque viola le altre disposizioni del presente articolo e' soggetto alla sanzione amministrativa del pagamento di una somma da € 25 a € 100 per i ciclomotori e i motoveicoli a due ruote e da € 42 a € 173 per i restanti veicoli. (19) (29) (43) (52) (64) (80) (89) (101) (114) (124) (145)
 
@@ -17755,9 +17733,15 @@ Obblighi verso funzionari, ufficiali e agenti
 
 7. Chiunque viola le disposizioni di cui al comma 4, ove il fatto non costituisca reato, e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 1.500 a euro 6.000. All'accertamento della violazione consegue la sanzione amministrativa accessoria della sospensione della patente di guida da tre mesi ad un anno.
 
-7-bis. 
+7-bis. Chiunque, in violazione degli obblighi di cui ai commi 1 o 4, si dia alla fuga con modalita' tali da mettere in pericolo l'altrui incolumita', e' punito con la reclusione da sei mesi a cinque anni. Si applicano la sanzione amministrativa accessoria della sospensione della patente di guida da uno a due anni e la sanzione amministrativa accessoria della confisca del veicolo,
 
-((Chiunque, in violazione degli obblighi di cui ai commi 1 o 4, si dia alla fuga con modalita' tali da mettere in pericolo l'altrui incolumita', e' punito con la reclusione da sei mesi a cinque anni. Si applicano la sanzione amministrativa accessoria della sospensione della patente di guida da uno a due anni e la sanzione amministrativa accessoria della confisca del veicolo, salvo che non appartenga a persona estranea al reato. Si applicano le disposizioni di cui al Titolo VI, Capo II, Sezione II del [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285).))
+((salvo che appartenga))
+
+a persona estranea al reato. Si applicano le disposizioni di cui al Titolo VI, Capo II, Sezione II
+
+((...))
+
+.
 
 ### Art. 193
 
