@@ -2132,13 +2132,16 @@ Codice della navigazione-art. 172 bis
   
 3. L'autorizzazione di cui al comma 1 puo' essere concessa anche:   
 a) per i marittimi arruolati, a norma di contratto nazionale o con contratto cosiddetto alla parte e con il patto di cui al secondo comma dell'articolo 327, su navi o galleggianti appartenenti al medesimo armatore e adibiti alla pesca costiera locale o ravvicinata o agli impianti di acquacoltura;   
-b) per i proprietari armatori imbarcati su navi e galleggianti adibiti alla pesca costiera locale o ravvicinata o agli impianti di acquacoltura.   
+b) per i proprietari armatori imbarcati su navi e galleggianti adibiti alla pesca costiera locale o ravvicinata o agli impianti di acquacoltura.
+
+((104))
+
+  
   
 4. Nei casi previsti dal comma 3 la comunicazione di cui al comma 2 deve essere effettuata settimanalmente con apposita nota riepilogativa, previa comunicazione giornaliera scritta, anche in formato digitale, all'autorita' marittima che ha rilasciato l'autorizzazione, dell'effettiva composizione dell'equipaggio di ciascuna nave o galleggiante. (102)   
   
 5. L'armatore puo' essere autorizzato dall'istituto assicuratore a tenere un'unica posizione contributiva per tutte le navi ovvero piu' posizioni contributive per gruppi di navi interessate alla procedura di cui al presente articolo e comunica settimanalmente all'autorita' marittima che ha rilasciato l'autorizzazione l'orario di lavoro effettivamente compiuto dai marittimi di cui al comma 1. (102)   
-
-((105))
+  
 
 ------------
 
@@ -2148,9 +2151,9 @@ La [L. 2 dicembre 2025, n. 182](http://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 ------------
 
-AGGIORNAMENTO (105)
+AGGIORNAMENTO (104)
 
-Il [D.L. 19 febbraio 2026, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19), ha disposto (con l'art. 10, comma 5) che "L'[articolo 172-bis del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art172bis), di cui al [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), si interpreta nel senso che il trasbordo del personale imbarcato tra unita' dello stesso armatore, entrambe regolarmente armate, non comporta la messa in disarmo dell'unita' di provenienza, purche' essa rimanga ormeggiata e non impiegata nella navigazione e vengano osservati gli obblighi di custodia eventualmente disposti ai sensi dell'[articolo 74 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art74)".
+Il [D.L. 19 febbraio 2026, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-19;19), convertito con modificazioni dalla [L. 20 aprile 2026, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-20;50), ha disposto (con l'art. 10, comma 5) che "Il [comma 3 dell'articolo 172-bis del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art172bis-com3) si interpreta nel senso che il trasbordo, anche completo, del personale imbarcato tra unita' dello stesso armatore non comporta la messa in disarmo dell'unita' di provenienza, purche' essa rimanga ormeggiata".
 
 Codice della navigazione-art. 173
 

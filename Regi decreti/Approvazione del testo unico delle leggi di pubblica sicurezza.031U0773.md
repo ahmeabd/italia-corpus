@@ -457,15 +457,41 @@ I promotori di una riunione in luogo pubblico o aperto al pubblico devono darne 
   
 E' considerata pubblica anche una riunione, che, sebbene indetta in forma privata, tuttavia per il luogo in cui sara' tenuta, o per il numero delle persone che dovranno intervenirvi, o per lo scopo o l'oggetto di essa, ha carattere di riunione non privata.   
   
-I contravventori sono puniti con l'arresto fino a sei mesi e con l'ammenda da lire mille a quattromila. Con le stesse pene sono puniti coloro che nelle riunioni predette prendono la parola. (39)
+I contravventori sono soggetti alla sanzione amministrativa pecuniaria da
 
-((45))
+((euro 1.000))
 
-  
+a euro 10.000. La sanzione di cui al presente comma si applica anche a coloro i quali, senza darne preavviso all'Autorita', sono promotori, ai sensi del primo comma, di una riunione in luogo pubblico tramite reti, piattaforme e servizi di comunicazione elettronica ad uso pubblico o privato, ovvero tramite gruppi chiusi di utenti.
+
+((Con la medesima sanzione))
+
+sono puniti coloro che nelle riunioni predette prendono la parola. (39) (45) (150)   
   
 Il questore, nel caso di omesso avviso ovvero per ragioni di ordine pubblico, di moralita' o di sanita' pubblica, puo' impedire che la riunione abbia luogo e puo', per le stesse ragioni, prescrivere modalita' di tempo e di luogo alla riunione.   
   
-I contravventori al divieto o alle prescrizioni dell'Autorita' sono puniti con l'arresto fino a un anno e con l'ammenda da lire duemila a quattromila. Con le stesse pene sono puniti coloro che nelle predette riunioni prendono la parola.   
+I contravventori al divieto o alle prescrizioni dell'Autorita'
+
+((sono soggetti alla sanzione amministrativa pecuniaria da euro 1.000 a euro 12.000))
+
+.
+
+((Con la medesima sanzione))
+
+sono puniti coloro che nelle predette riunioni prendono la parola. (150).   
+  
+Nei casi di mancato rispetto, in occasione di una riunione in luogo pubblico, delle limitazioni poste alla circolazione o dell'itinerario previsto per la predetta riunione, da cui possa derivare un pericolo per la sicurezza o l'incolumita' pubblica, si applica la sanzione amministrativa pecuniaria da euro 1.000 a euro 10.000.   
+  
+La sanzione di cui al sesto comma si applica, altresi', a chi, nel corso di una riunione in luogo pubblico, intralcia od ostacola il regolare funzionamento dei servizi di soccorso pubblico urgente, salvo che il fatto costituisca reato.   
+  
+Chiunque turba il pacifico svolgimento di una riunione in luogo pubblico o il regolare espletamento del relativo servizio di ordine e sicurezza pubblica e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa pecuniaria da euro 500 a euro 3.000.La sanzione e' da euro 2.000 a euro 10.000 se la turbativa e' posta in essere da soggetti che rendono difficoltoso il riconoscimento della loro persona mediante l'uso dei mezzi di cui all'[articolo 5 della legge 22 maggio 1975, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-22;152~art5) o che sono in possesso degli strumenti o degli oggetti di cui all'articolo 5-bis della
+
+((medesima legge))
+
+.   
+  
+Nell'ipotesi di reiterazione nel biennio di una delle violazioni di cui al presente articolo, ovvero di contestazione di tre violazioni, anche diverse, nell'arco di un quinquennio, le sanzioni sono ulteriormente aumentate da un terzo alla meta'.   
+  
+La competenza ad irrogare le sanzioni di cui al presente articolo, per le quali non e' ammesso il pagamento in misura ridotta, spetta al prefetto. Si applicano, in quanto compatibili, le disposizioni di cui alla [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). Le entrate derivanti dall'applicazione delle sanzioni pecuniarie previste dal presente articolo affluiscono ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnate, nel medesimo esercizio finanziario, allo stato di previsione del Ministero dell'interno per essere utilizzate, nel medesimo esercizio finanziario, per la remunerazione delle prestazioni di lavoro straordinario rese dal personale contrattualizzato non dirigenziale dell'Amministrazione civile.   
   
 Non e' punibile chi, prima dell'ingiunzione dell'Autorita' o per obbedire ad essa, si ritira dalla riunione.   
   
@@ -489,6 +515,12 @@ La Corte Costituzionale con sentenza 3 - 10 giugno 1970, n. 90 (in G.U. 1ª s.s.
 AGGIORNAMENTO (45)
 
 La Corte Costituzionale con sentenza 4 - 10 maggio 1979, n. 11 (in G.U. 1ª s.s. 16/05/1979, n. 133) ha dichiarato "l'illegittimita' costituzionale dell'art. 18, comma terzo (secondo periodo) [r.d. 18 giugno 1931, n. 773](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), nella parte in cui prevede la incriminazione contravvenzionale di coloro che prendono la parola in riunione in luogo pubblico essendo a conoscenza della omissione di preavviso previsto nel primo comma".
+
+---------------
+
+AGGIORNAMENTO (150)
+
+Il [D.L. 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), ha disposto (con l'art. 9, comma 1, lettera a)) che "al terzo comma, le parole: «sono puniti con l'arresto fino a sei mesi e con l'ammenda da euro 103 a euro 413» sono sostituite dalle seguenti: «sono soggetti alla sanzione amministrativa pecuniaria da euro 1000 a euro 10.000»" e che "al quinto comma, le parole: «sono puniti con l'arresto fino a un anno e con l'ammenda da euro 206 a euro 413» sono sostituite dalle seguenti: «sono soggetti alla sanzione amministrativa pecuniaria da euro 1.000 a euro 12.000»".
 
 Testo unico delle leggi di pubblica sicurezza-art. 19
 
@@ -551,8 +583,17 @@ Qualora rimangano senza effetto anche le tre intimazioni ovvero queste non possa
   
 All'esecuzione di tale ordine provvedono la forza pubblica e la forza armata sotto il comando dei rispettivi capi.   
   
-Le persone che si rifiutano di obbedire all'ordine di discioglimento sono punite con l'arresto da un mese a un anno e con l'ammenda da lire trecento a quattromila.   
-  
+Le persone che si rifiutano di obbedire all'ordine di discioglimento
+
+((sono soggette alla sanzione amministrativa pecuniaria da euro 2.000 a euro 20.000. Non e' ammesso il pagamento in misura ridotta))
+
+. (150)   
+
+---------------
+
+AGGIORNAMENTO (150)
+
+Il D.L. 20 febbario 2026, n. 23, ha disposto (con l'art. 9, comma 1, lettera b)) che "all'articolo 24, terzo comma, le parole da «sono punite» fino a «euro 413» sono sostituite dalle seguenti: «sono soggette alla sanzione amministrativa pecuniaria da euro 2.000 a euro 20.000. Non e' ammesso il pagamento in misura ridotta»".
 
 Testo unico delle leggi di pubblica sicurezza-art. 25
 
