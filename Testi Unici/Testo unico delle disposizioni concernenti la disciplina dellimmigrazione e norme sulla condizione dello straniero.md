@@ -668,15 +668,13 @@ Respingimento
 (Legge 6 marzo 1998, n. 40, art. 8)
 
 1. La polizia di frontiera respinge gli stranieri che si presentano ai valichi di frontiera senza avere i requisiti richiesti dal codice frontiere Schengen di cui al [regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0399), e dal presente testo unico per l'ingresso nel territorio dello Stato.   
-1.1.
+1.1. L'ufficio di polizia di frontiera ovvero il Questore, laddove siano conferite alla Questura le attribuzioni di polizia di frontiera, cura le attivita' relative al trasferimento di persone rintracciate nelle zone di frontiera
 
-((L'ufficio di polizia di frontiera ovvero il Questore, laddove siano conferite alla Questura le attribuzioni di polizia di frontiera, cura le attivita' relative al trasferimento di persone rintracciate nelle zone di frontiera interna, ai sensi dell'articolo 23-bis del citato [regolamento (UE) 2016/399](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;399), e lo straniero e' trasferito immediatamente secondo la procedura di cui all'Allegato XII del medesimo regolamento.))
+((interne, ai sensi dell'articolo 23 bis))
 
-1-bis. Contro i provvedimenti di respingimento alla frontiera di applicazione immediata adottati
+del citato [regolamento (UE) 2016/399](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;399), e lo straniero e' trasferito immediatamente secondo la procedura di cui all'Allegato XII del medesimo regolamento.
 
-((ai sensi dei commi 1 e 1.1.))
-
-e' ammesso ricorso al tribunale amministrativo regionale nella cui circoscrizione ha sede l'ufficio di polizia di frontiera che ha disposto il respingimento. La procura al difensore puo' essere rilasciata innanzi all'autorita' consolare italiana competente per territorio.
+1-bis. Contro i provvedimenti di respingimento alla frontiera di applicazione immediata adottati ai sensi dei commi 1 e 1.1. e' ammesso ricorso al tribunale amministrativo regionale nella cui circoscrizione ha sede l'ufficio di polizia di frontiera che ha disposto il respingimento. La procura al difensore puo' essere rilasciata innanzi all'autorita' consolare italiana competente per territorio.
 
 2. Il respingimento con accompagnamento alla frontiera e' altresi' disposto dal questore nei confronti degli stranieri:
 
@@ -1141,9 +1139,9 @@ Il contravventore anche solo ad una delle predette misure e' punito con la multa
 5-ter. La violazione dell'ordine di cui al comma 5-bis e' punita, salvo che sussista il giustificato motivo, con la multa da 10.000 a 20.000 euro, in caso di respingimento o espulsione disposta ai sensi dell'articolo 13, comma 4, o se lo straniero, ammesso ai programmi di rimpatrio volontario ed assistito, di cui all'articolo 14-ter, vi si sia sottratto. Si applica la multa da 6.000 a 15.000 euro se l'espulsione e' stata disposta in base all'articolo 13, comma 5.  
 Valutato il singolo caso e tenuto conto dell'articolo 13, commi 4 e 5, salvo che lo straniero si trovi in stato di detenzione in carcere, si procede all'adozione di un nuovo provvedimento di espulsione per violazione all'ordine di allontanamento adottato dal questore ai sensi del comma 5-bis del presente articolo. Qualora non sia possibile procedere all'accompagnamento alla frontiera, si applicano le disposizioni di cui ai commi 1 e 5-bis del presente articolo, nonche', ricorrendone i presupposti, quelle di cui all'articolo 13, comma 3.
 
-5-quater. La violazione dell'ordine disposto ai sensi del comma 5-ter, terzo periodo, e' punita, salvo giustificato motivo, con la multa da 15.000 a 30.000 euro.
+5-quater. La violazione dell'ordine disposto ai sensi del comma 5-ter, terzo periodo, e' punita, salvo giustificato motivo, con la multa da 15.000 a 30.000 euro. Salvo il caso in cui sopraggiungono situazioni personali diverse, non si procede all'adozione di un nuovo provvedimento di espulsione per violazione all'ordine di allontanamento adottato dal questore ai sensi del primo periodo e si applicano le disposizioni di cui al comma 5-ter, quarto periodo
 
-((Salvo il caso in cui sopraggiungono situazioni personali diverse, non si procede all'adozione di un nuovo provvedimento di espulsione per violazione all'ordine di allontanamento adottato dal questore ai sensi del primo periodo e si applicano le disposizioni di cui al comma 5-ter, quarto periodo.))
+((...))
 
   
 5-quater.1. Nella valutazione della condotta tenuta dallo straniero destinatario dell'ordine del questore, di cui ai commi 5-ter e 5-quater, il giudice accerta anche l'eventuale consegna all'interessato della documentazione di cui al comma 5-bis, la cooperazione resa dallo stesso ai fini dell'esecuzione del provvedimento di allontanamento, in particolare attraverso l'esibizione d'idonea documentazione.
@@ -1209,15 +1207,23 @@ La Corte Costituzionale con sentenza 24 marzo - 10 aprile 2025, n. 39 (in G.U. 1
 
 (Programmi di rimpatrio assistito).
 
-1. Il Ministero dell'interno, nei limiti delle risorse di cui al comma 7, attua, anche in collaborazione con le organizzazioni internazionali o intergovernative esperte nel settore dei rimpatri, con gli enti locali e con associazioni attive nell'assistenza agli immigrati, programmi di rimpatrio volontario ed assistito verso il Paese di origine o di provenienza di cittadini di Paesi terzi, salvo quanto previsto al comma 3.
+1. Il Ministero dell'interno, nei limiti delle risorse di cui al comma 7, attua, anche in collaborazione con le organizzazioni internazionali o intergovernative esperte nel settore dei rimpatri,
 
-2. Con decreto del Ministro dell'interno sono definite le linee guida per la realizzazione dei programmi di rimpatrio volontario ed assistito, fissando criteri di priorita' che tengano conto innanzitutto delle condizioni di vulnerabilita' dello straniero di cui all'articolo 19, comma 2-bis,
+((...))
 
-((e della provenienza da Stati o territori con i quali non sono in vigore accordi di riammissione))
+con gli enti locali e con associazioni attive nell'assistenza agli immigrati, programmi di rimpatrio volontario ed assistito verso il Paese di origine o di provenienza di cittadini di Paesi terzi, salvo quanto previsto al comma 3.
 
-nonche' i criteri per l'individuazione delle organizzazioni, degli enti e delle associazioni di cui al comma 1 del presente articolo.
+2. Con decreto del Ministro dell'interno sono definite le linee guida per la realizzazione dei programmi di rimpatrio volontario ed assistito, fissando criteri di priorita' che tengano conto innanzitutto delle condizioni di vulnerabilita' dello straniero di cui all'articolo 19, comma 2-bis, e della provenienza da Stati o territori con i quali non sono in vigore accordi di riammissione nonche' i criteri per l'individuazione delle organizzazioni, degli enti e delle associazioni di cui al comma 1 del presente articolo
+
+((, per l'individuazione dei rappresentanti di cui al comma 3-bis e per la corresponsione ai medesimi dei compensi ad essi spettanti))
+
+.
 
 3. Nel caso in cui lo straniero irregolarmente presente nel territorio e' ammesso ai programmi di rimpatrio di cui al comma 1, la prefettura del luogo ove egli si trova ne da' comunicazione, senza ritardo, alla competente questura, anche in via telematica. Fatto salvo quanto previsto al comma 6, e' sospesa l'esecuzione dei provvedimenti emessi ai sensi degli articoli 10, comma 2, 13, comma 2 e 14, comma 5-bis. E' sospesa l'efficacia delle misure eventualmente adottate dal questore ai sensi degli articoli 13, comma 5.2, e 14, comma 1-bis. La questura, dopo avere ricevuto dalla prefettura la comunicazione, anche in via telematica, dell'avvenuto rimpatrio dello straniero, avvisa l'autorita' giudiziaria competente per l'accertamento del reato previsto dall'articolo 10-bis, ai fini di cui al comma 5 del medesimo articolo.
+
+3-bis. 
+
+((Al rappresentante munito di mandato, che ha fornito assistenza allo straniero nella presentazione della richiesta di partecipazione a un programma di rimpatrio volontario assistito, e nel relativo procedimento, e' riconosciuto, a conclusione del procedimento medesimo, un compenso pari alla misura del contributo economico per le prime esigenze previsto ai sensi del decreto del Ministro dell'interno di cui al comma 2, per il triennio 2026-2028, in coerenza con la programmazione dei pertinenti fondi europei.))
 
 4. Nei confronti dello straniero che si sottrae al programma di rimpatrio, i provvedimenti di cui al comma 3 sono eseguiti dal questore con l'accompagnamento immediato alla frontiera, ai sensi dell'articolo 13, comma 4, anche con le modalita' previste dall'articolo 14.
 
@@ -1225,7 +1231,7 @@ nonche' i criteri per l'individuazione delle organizzazioni, degli enti e delle 
 
 a) hanno gia' beneficiato dei programmi di cui al comma 1;
 
-((b) si trovano nelle condizioni di cui all'articolo 13, comma 4, lettere a) e f), ovvero non hanno ottemperato a uno dei provvedimenti emessi dalla competente autorita' in applicazione del medesimo articolo 13, comma 13))
+b) si trovano nelle condizioni di cui all'articolo 13, comma 4, lettere a) e f), ovvero non hanno ottemperato a uno dei provvedimenti emessi dalla competente autorita' in applicazione del medesimo articolo 13, comma 13;
 
 c) siano destinatari di un provvedimento di espulsione come sanzione penale o come conseguenza di una sanzione penale ovvero di un provvedimento di estradizione o di un mandato di arresto europeo o di un mandato di arresto da parte della Corte penale intenazionale.
 
@@ -1248,9 +1254,15 @@ Il [D.L. 23 giugno 2011, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 Espulsione a titolo di misura di sicurezza e disposizioni per l'esecuzione dell'espulsione
 
-1. Fuori dei casi previsti dal [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398), il giudice ordina l'espulsione dello straniero che sia condannato per taluno dei delitti previsti dagli [articoli 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art380) e [381 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art381), sempre che risulti socialmente pericoloso.
+1. Fuori dei casi previsti dal [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398), il giudice ordina l'espulsione dello straniero che sia condannato per taluno dei delitti previsti dagli [articoli 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art380) e [381 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art381), sempre che risulti socialmente pericoloso. Ai fini della valutazione di pericolosita' si tiene conto anche del mancato rispetto
 
-((Ai fini della valutazione di pericolosita' si tiene conto anche del mancato rispetto dell'obbligo di collaborazione di cui all'articolo 32, ultimo periodo, della [legge 26 luglio 1975, n. 354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354).))
+((dell'obbligo di cooperare))
+
+di cui all'articolo 32,
+
+((sesto comma))
+
+, della [legge 26 luglio 1975, n. 354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354).
 
 1-bis. Della emissione del provvedimento di custodia cautelare o della definitiva sentenza di condanna ad una pena detentiva nei confronti di uno straniero proveniente da Paesi extracomunitari viene data tempestiva comunicazione al questore ed alla competente autorita' consolare al fine di avviare la procedura di identificazione dello straniero e consentire, in presenza dei requisiti di legge, l'esecuzione della espulsione subito dopo la cessazione del periodo di custodia cautelare o di detenzione.
 
@@ -1274,7 +1286,11 @@ Espulsione a titolo di misura di sicurezza e disposizioni per l'esecuzione dell'
 
 5-ter. Le informazioni sulla identita' e nazionalita' del detenuto straniero sono inserite nella cartella personale dello stesso prevista dall'[articolo 26 del decreto del Presidente della Repubblica 30 giugno 2000, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-06-30;230~art26).
 
-6. Salvo che il questore comunichi che non e' stato possibile procedere all'identificazione dello straniero, la direzione dell'istituto penitenziario trasmette gli atti utili per l'adozione del provvedimento di espulsione al magistrato di sorveglianza competente in relazione al luogo di detenzione del condannato. Il magistrato decide con decreto motivato, senza formalita'. Il decreto e' comunicato al pubblico ministero, allo straniero e al suo difensore, i quali, entro il termine di dieci giorni, possono proporre opposizione dinanzi al tribunale di sorveglianza. Se lo straniero non e' assistito da un difensore di fiducia, il magistrato provvede alla nomina di un difensore d'ufficio. Il tribunale decide nel termine di 20 giorni.
+6. Salvo che il questore comunichi che non e' stato possibile procedere all'identificazione dello straniero, la direzione dell'istituto penitenziario trasmette gli atti utili per l'adozione del provvedimento di espulsione al magistrato di sorveglianza competente in relazione al luogo di detenzione del condannato. Il magistrato decide con decreto motivato, senza formalita'
+
+((, nel termine di quindici giorni, con precedenza rispetto ad altre istanze proposte o pendenti relative al detenuto))
+
+. Il decreto e' comunicato al pubblico ministero, allo straniero e al suo difensore, i quali, entro il termine di dieci giorni, possono proporre opposizione dinanzi al tribunale di sorveglianza. Se lo straniero non e' assistito da un difensore di fiducia, il magistrato provvede alla nomina di un difensore d'ufficio. Il tribunale decide nel termine di 20 giorni.
 
 7. L'esecuzione del decreto di espulsione di cui al comma 6 e' sospesa fino alla decorrenza dei termini di impugnazione o della decisione del tribunale di sorveglianza e, comunque, lo stato di detenzione permane fino a quando non siano stati acquisiti i necessari documenti di viaggio. L'espulsione e' eseguita dal questore competente per il luogo di detenzione dello straniero con la modalita' dell'accompagnamento alla frontiera a mezzo della forza pubblica.
 
@@ -1282,11 +1298,7 @@ Espulsione a titolo di misura di sicurezza e disposizioni per l'esecuzione dell'
 
 9. L'espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione non si applica ai casi di cui all'articolo 19.
 
-((
-
 9-bis. Nei casi di cui ai commi 1 e 5, quando non e' possibile effettuare il rimpatrio dello straniero per cause di forza maggiore, l'autorita' giudiziaria dispone il ripristino dello stato di detenzione per il tempo strettamente necessario all'esecuzione del provvedimento di espulsione.
-
-))
 
 ### Art. 17
 

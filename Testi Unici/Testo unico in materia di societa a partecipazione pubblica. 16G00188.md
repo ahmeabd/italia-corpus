@@ -653,7 +653,15 @@ d) l'aggregato di spesa complessiva del personale soggetto ai vincoli di conteni
 
 9. Le disposizioni di cui all'[articolo 1, commi da 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147~art1-com565) [a 568 della legge 27 dicembre 2013, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147~art1-com568), continuano ad applicarsi fino alla data di pubblicazione del decreto di cui all'articolo 25, comma 1, e comunque non oltre il 31 dicembre 2017.
 
-((9-bis. Al personale di cui al presente articolo e al personale dipendente di enti pubblici non economici, anche per esigenze strettamente collegate all'attuazione del Piano nazionale di ripresa e resilienza si applicano, in quanto compatibili, le disposizioni di cui agli [articoli 30 del decreto legislativo 10 settembre 2003, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-09-10;276~art30), e 56 del testo unico di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3). Restano fermi, per le amministrazioni riceventi, i limiti quantitativi stabiliti dall'[articolo 30, comma 1-quinquies, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art30-com1quinquies). I comandi o distacchi di cui al presente articolo non possono eccedere la durata di un anno e, comunque, non possono essere utilizzati oltre il 31 dicembre 2026))
+9-bis. Al personale di cui al presente articolo e al personale dipendente di enti pubblici non economici, anche per esigenze strettamente collegate all'attuazione del Piano nazionale di ripresa e resilienza si applicano, in quanto compatibili, le disposizioni di cui agli [articoli 30 del decreto legislativo 10 settembre 2003, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-09-10;276~art30), e 56 del testo unico di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-01-10;3). Restano fermi, per le amministrazioni riceventi, i limiti quantitativi stabiliti dall'[articolo 30, comma 1-quinquies, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art30-com1quinquies). I comandi o distacchi di cui al presente articolo non possono eccedere la durata di un anno
+
+((, sono rinnovabili))
+
+e, comunque, non possono essere utilizzati oltre il
+
+((31 dicembre 2027))
+
+.
 
 --------------
 
@@ -1264,12 +1272,10 @@ b) (abrogata)».
 
 Allegato A
 
+ Allegato A   
+Societa'   
   
-Allegato A   
   
-  
-
-((Societa'
 
 |  |
 | --- |
@@ -1281,8 +1287,9 @@ Allegato A
 
   
   
+Gruppo   
   
-Gruppo
+  
 
 |  |
 | --- |
@@ -1297,6 +1304,7 @@ Gruppo
 | Gruppo Fincalabra |
 | Gruppo Sviluppo Campania |
 | Gruppo Friulia |
+| ((Gruppo FVG Plus)) |
 | Gruppo Lazio Innova |
 | Gruppo Filse |
 | Gruppo Finlombarda |
@@ -1316,5 +1324,3 @@ Gruppo
 | Gruppo Friuli Veneto Sviluppo SGR |
 | Gruppo Sviluppumbria |
 | Gruppo Sviluppo Imprese Centro Italia - SICI SGR |
-
-))
