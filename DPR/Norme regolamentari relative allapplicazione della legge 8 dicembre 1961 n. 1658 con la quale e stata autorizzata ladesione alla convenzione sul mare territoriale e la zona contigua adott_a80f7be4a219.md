@@ -7,121 +7,29 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1977 n. 816
 Norme regolamentari relative all'applicazione della legge 8 dicembre 1961, n. 1658, con la quale e' stata autorizzata l'adesione alla convenzione sul mare territoriale e la zona contigua, adottata a Ginevra il 29 aprile 1958, ed e' stata data esecuzione alla medesima.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
-
-Visto l'[art. 2 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art2);
-
-Vista la [legge 8 dicembre 1961, n. 1658](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-08;1658), con la quale e' stata autorizzata l'adesione alla convenzione sul mare territoriale e la zona contigua, adottata a Ginevra il 29 aprile 1958, ed e' stata data esecuzione alla medesima;
-
-Ritenuto che, in applicazione della suddetta convenzione e in conformita' alle disposizioni contenute nella parte 1a, sezione II, della stessa, occorre provvedere a determinare e a indicare su carte marittime in grande scala, ufficialmente riconosciute dallo Stato, le linee di base che servono a misurare la larghezza del mare territoriale italiano, nonche' le linee di demarcazione di cui all'art. 12 della convenzione;
-
-Udito il parere del Consiglio di Stato;
-
-Sentito il Consiglio dei Ministri;
-
-Sulla
------
-
-proposta del Ministro per la grazia e giustizia, del Ministro per gli affari esteri e del Ministro per la marina mercantile, di concerto con i Ministri per la difesa, per l'interno, per le finanze e per l'industria, il commercio e l'artigianato; Decreta:
-
 Art. 1
 ------
 
-  
-  
-Le linee di base diritte e le linee di chiusura delle baie naturali e storiche, per la determinazione delle linee di base a partire dalle quali e' misurata la larghezza del mare territoriale italiano, sono tracciate cosi' come indicato di seguito:   
-  
-Mare Adriatico:   
-Da Punta Sottile (45° 36',30 - 13° 43',15) a Faro di Punta Sdobba (45° 43',30 - 13° 34',35) a Faro banco Mula di Muggia (45° 39',35 - 13° 26',30) a Punta Tagliamento (45° 38',00 - 13° 05',90);   
-Da Faro di Punta Piave Vecchia (45° 28',65 - 12° 35',05) a Punta della Maestra (44° 57',50 - 12° 32',80);   
-Da Riva sinistra ramo Sud Po di Gnocca (44° 47',55 - 12° 24',60) a Foce Fiume Reno - riva destra (44° 37',45 - 12° 16',80);   
-Da Punta Penna - testata molo (42° 10',60 - 14° 42',80) a Fanale piu' orientale molo Tennoli (42° 00',30 - 15° 00',35) a punto N.N.W.  
-Isola Caprara (42° 08',35 - 15° 30',80);   
-Da punto piu' orientale Isola Caprara (42° 08',25 - 15° 31',40) a punto piu' orientale isola S. Nicola (42° 07',60 - 15° 31',10) a Torre M. Pucci (41° 56',65 - 15° 59',45);   
-Da Promontorio ad Est di T. Molinello (41° 54',40 - 16° 09',20) a Scoglio S. Eufemia (41° 53',25 - 16° 11',20) a Isola Campi (41° 48',85 - 16° 12',10) a Torre Proposti (41° 46',90 - 16° 11',65) a Fanale rosso entrata Porto Barletta (41° 19',95 - 16° 17',70);   
-Da Torre Guaceto (40° 42',95 - 17° 48',05) a Punta Penne (40° 41',10 - 17° 56',20) a Isola Pedagna Grande (40° 39',25 - 18° 00',20) a Capo Torre Cavallo (40° 38',45 - 18° 01',40) a Punto ex Colonia S.  
-Teresa (40° 27',80 - 18° 12',80);   
-Da I Posti - scoglio piu' a Nord (40° 17',30 - 18° 25',75) a Scoglio due Sorelle (il piu' settentrionale (40° 16',40 - 18° 26',50) a Punta Faci (40° 08',05 - 18° 31,05) a Capo d'Otranto (40° 06',40 - 18° 31',20) a punto (39° 49',00 - 18° 23',45).   
-  
-Mare Ionio:   
-Da S. Maria di Leuca (39° 47',55 - 18° 22',10) a Punta Alice (39° 23',90 - 17° 09',50) (Baia storica) a Foce Fiume Neto (39° 12',50 - 17° 09',00) a Capo Colonna nord (39° 01',60 - 17° 12',50);   
-Da Capo Colonna sud (39° 01',20 - 17° 12',40) a Capo Cimiti (38° 57',40 - 17° 10',40);   
-Da Capo Rizzuto (38° 53',50 - 17° 05',80) a Foce Fiumara Stilaro (riva destra) (38° 25',45 - 16° 34',40);   
-Da Foce Fiumiara Allaro (38° 20',60 - 16° 28',45) a punto (37° 56',75 - 16° 05',45).   
-  
-Mare Tirreno:   
-Da Scilla Faro (38° 15',30 - 15° 43',00) a Scoglio Foraneo C.  
-Vaticano (38° 37',10 - 15° 49',50) a Capo Vaticano (38° 37',30 - 15° 49',70);   
-Da Capo Cozzo (38° 42',80 - 15° 58',50) a Foce Fiume Savuto (riva nord) (39° 01',90 - 16° 06',00);.   
-Da Capo Scalea (sud-est) (39° 49',15 - 15° 46',75) a Punta Iscoletti (39° 59',35 - 15° 25',30) a Isola di Camerota (39° 59',70 - 15° 21',75) a Capo Palinuro (40° 01',45 - 15° 16',25) a Acciaroli (40° 10',60 - 15° 01',50) a Punta dell'Ogliastro (40° 13',60 - 14° 56',35);   
-Da Capo Licosa - Isolotto (40° 15',15 - 14° 54',00) a Isola Capri Punta Carena (40° 32',15 - 14° 11',80) a Punta S. Angelo-Ischia (40° 41',50 - 13° 53',60) a Isola Ventotene-Punta dell'Arco (40° 47'00 - 13° 24',60) a Scoglio della Botte (40° 50',40 - 13° 06',25) a Punta della Guardia - Isola di Ponza (40° 52',60 - 12° 57',20) a Scoglio a sud-ovest di Palmarola (40° 55',15 - 12° 50',80) a Scoglio a nord-ovest di Palmarola (40° 56',80 - 12° 51',10) a Capo d'Anzio (41° 26',80 - 12° 37',20);   
-Da Fiumara Grande-molo (41° 44',60 - 12° 13',40) a Capo Linaro (42° 01',70 - 11° 50',20);   
-Da Civitavecchia-Fanale (42° 05',75 - 11° 46',65) a Isola Giannutri - Punta del Capel Rosso (42° 14',20 - 11° 06',60) a Isola Giannutri - Punta W. (42° 14',30 - 11° 06',20) a Isola Giglio - Punta Di Capel Rosso (42° 18',95 - 10° 55',25) a Isola Montecristo - Punta Sud (42° 18',75 - 10° 19',10) a Isola Montecristo - Punta alle grotte (42° 18',90 - 10° 17',90) a Scoglio Africa (42° 21',45 - 10° 03',85) a Isola Pianosa (W.) (42° 34',90 -10° 02',70) a Isola d'Elba (Punta Nera) (42° 46',00 - 10° 06',10) a Isola Capraia (Punta a W di Punta Zenobito) (43° 00',35 - 9° 48',10);   
-Da Punta del Trattoio (Isola Capraia) (43° 01',40 - 9° 47',55) a Isola Gorgona (W) (43° 25',60 - 9° 53',40);   
-Da Punta Zirri - Isola Gorgona (43° 26',15 - 9° 53',75) a Secche della Meloria (Faro nord) (43° 35',45 - 10° 12',75) a Fanale Foce Fiume Amo (43° 40',65 - 10° 16', 15) a Marina di Carrara (44° 01',70 - 10° 02',45) a Scoglio Tinetto (44° 01',30 - 9° 51',15) a Scoglietto W Punta del Mesco (44° 08',00 - 9° 38',05) a Punta Manara (44° 15',05 - 9° 24',35) a Punta di Portofino (44° 17',80 - 9° 13',15);   
-Da Punta Chiappa (44° 19',30 - 9° 08',70) a Fanale prolungamento Molo Galliera (44° 23',30 - 8° 56',30) a Capo Arenzano (S.W.) (44° 23',50 - 8° 40',70) a Punta dell'Olmo (44° 20',70 - 8° 33',85) a Porto di Vado-fanale (44° 15',70 - 8° 27',40) a Isolotto Bergeggi (44° 14',00 - 8° 26,85) a Capo Noli (44° 11',70 - 8° 25',50) a Isola Gallinara (44° 01',45 - 8° 13',80) a Capo Mele (43° 57',25 - 8° 10,50) a Capo Berta (43° 53',55 - 8° 04',60); Da Capo dell'Arma (43° 48',95 - 7° 49',95) a Capo S. Ampelio (43° 46',60 - 7° 40',45) a Capo Mortola (43° 46',75 - 7° 33',40).   
-  
-Sicilia:   
-Da Capo S. Andrea (37° 51',05 - 150 18',50) a Torre Archirafi (37° 42',50 - 15° 13',20);   
-Da Capo Molini (37° 34',50 - 15° 10',75) a Capo S. Croce (scoglio) (37° 14',45 - 15° 15',60) a Capo S. Panagia (37° 06',30 - 15° 17',90);   
-Da Punto (37° 04',75 - 15° 18',20) a punto (37° 02',05 - 15° 19',05);   
-Da Capo Murro di Porco (37° 00',05 - 15° 20',30) a Isola di Capo Passero - Punta a Sud del Faro (36° 41',00 - 15° 09',20) a Capo ad Est baia di Porto Palo - Punta Est (36° 39',95 - 15° 08',05);   
-Da Capo ad est di baia di Porto Palo - Punto W (36° 39',85 - 15° 07',90) a Isola delle Correnti (36° 38',55 - 15° 04',70) a Punta del Corro (36° 43',00 - 14° 42',20) a Capo Scalambri (36° 47',05 - 14° 29',85) a punto W. di Licata (37° 06',00 - 13° 52',60) a Punta Tenna (37° 08',85 - 13° 45',10) a Scoglio Pietra Patella (37° 11',20 - 13° 39',50) a Capo Rossello (37° 17',50 - 13° 27',00);   
-Da Torre Capo (37° 21',70 - 13° 19',40) a Capo S. Marco (37° 29',65 - 13° 01',25) a Capo Granitola (37° 33',50 - 12° 40',50) a Capo Granitola-faro (37° 33',85 -12° 39',80) a Capo Feto (37° 39',55 - 12° 31',20);   
-Da Capo Litibeo (37° 48',05 - 12° 25',50) a Punta Libeccio - Isola Marettimo (37° 57',40 - 12° 02',60);   
-Da Punta Mugnone (37° 59',45 - 12° 01',85) a Capo Grosso - Isola Levanzo (38° 01',15 - 12° 20',20) a Scoglio Porcelli (38° 02',55 - 12° 26',35) a Scoglio Asinelli (38° 03',80 - 12° 31',90) a Capo S.  
-Vito - Ovest (38° 11',30 - 12° 43',80);   
-Da Capo S. Vito - Est (38° 11',30 - 12° 44',20) a Punta di Solanto (38° 10',70 - 12° 46',20) a Punta Raisi (38° 11',45 - 13° 06',50) a Isola delle Femmine (38° 12',70 - 13° 14',20) a Capo Gallo (38° 13',40 - 13° 19',05) a Capo Zafferano (38° 06',70 - 13° 32',40) a Capo Cefalu' (38° 02',40 - 14° 01',40) a Capo d'Orlando (38° 09',85 - 14° 44',95) a Capo Calara' (38° 11',50 - 14° 55',10) a Capo Milazzo W. (38° 16',15 - 15° 13',55);   
-Da Capo Milazzo - Est (38° 16',15 - 15° 14',45) a Capo Rasocolmo (38° 18',00 - 15° 32',60).   
-  
-Sardegna:   
-Da Capo Cavallo (40° 50',60 - 9° 43',70) a Scogli Pediami (40° 41',10 - 9° 46',00) a Capo Comino (40° 31',65 - 9° 49',75);   
-Da Punta Ginepro (40° 26',45 - 9° 47',80) a Capo di Monte Santo (40° 05',10 - 9° 44',20) a Capo Bellavista (39° 55',65 - 9° 43',00) a Punta Mastixi (39° 51',25 - 9° 41',90) a Capo Sferracavallo (39° 42',75 - 9° 40',65) a Scoglio di Quirra (39° 31',40 - 9° 39',60) a Capo Ferrato (39° 17',90 - 9° 38',05) a Isola Serpentara (39° 08',55 - 9° 36,55);   
-Da Isola Serpentara - Punta della Guardia (39° 07',95 - 9° 36',35) a Isola dei Cavoli - Isolotti ad Est (39° 04',95 - 9° 32',45) a Isola dei Cavoli - Isolotti a Sud (39° 04',85 - 9° 32',15) a Isolotto S. Macario (39° 00',10 - 9° 01',95) a punto (39° 00',10 - 9° 01',65);   
-Da Capo Spartivento (38° 52',50 - 8° 51',35) a Capo Teulada (38° 51',80 - 8° 38',75) a Isola del Toro (38° 51',50 - 8° 24',50) a Isolotto del Corno (39° 08',80 - 8° 12',50) a Cala Domestica (39° 22',45 - 8° 22',45) a Capo Pecora - Isolotto (39° 27',25 - 8° 22',60) a Punta Fontanas (39° 45',50 - 8° 26',70) a Scoglio Il Catalano (39° 52',85 - 8° 16',50) a Isolotto Mal di Ventre - Scogli a Sud (39° 58',15 - 8° 16',80) a Capo Marargiu' (scogli) (40° 20',15 - 80 22',95) a Isola Foradaca (40° 34',10 - 8° 09',05) a Isola Piana (40° 36',10 - 8° 08',30) a Capo Argentiera (40° 43',85 - 8° 08',00) a Scogli a Nord-Ovest Punta Scoglietti (40° 56',35 - 8° 10',35) a Punta Tumbarino (41° 02',40 - 8° 13',25) a Punta Grabara (41° 06',20 - 8° 16',50);   
-Da Punta Sabina (41° 05',25 - 8° 21',00) a Isola Rossa (41° 00',90 - 8° 51',55) a Cala Falsa (41° 00',90 - 8° 52',25);   
-Da Punta di li Francesi (41° 08',25 - 9° 02',80) a Capo Testa (41° 14',65 - 9° 08',50);   
-Da Punta a Nord di Capo Testa (41° 14',80 - 9° 08',75) a Punta Falcone (41° 15',55 - 9° 13',55) a Isola Razzoli - Scoglio a Nord (41° 18',55 - 9° 20',20) a Isolotto La Presa (41° 18',70 - 9° 22',65) a Isola Corcelli (41° 18',10 - 9° 24',05) a Isola Caprera (410 14',30 - 9° 28',90) a Isolotto Monaci (41° 13', 10 - 9° 31',15) a Isola delle Biscie (41° 09',70 - 9° 31',65) a Isola I Nibani (41° 07',65 - 9° 34',40) a Isola Mortoriotto (fanale) (41° 05',15 - 9° 37',20) a Capo Figari (40° 59',75 - 9° 39',95) a Punta Timone (Isola Tavolara) (400 55',65 - 9° 44',30) a Isola Molarotto (40° 52',50 - 9° 46°',75) a Punta Coda Cavallo (40° 50',60 - 9° 43',70).   
+((PROVVEDIMENTO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
 
 Art. 2
 ------
 
-  
-Le linee di base per la misurazione della larghezza del mare territoriale italiano sono indicate nella carta marina che, vistata dai Ministri proponenti ed annessa al presente decreto, quale parte integrante di esso, e ufficialmente riconosciuta dallo Stato.  
+((PROVVEDIMENTO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
 
 Art. 3
 ------
 
-  
-Carte marine indicanti le linee di base del mare territoriale italiano, unitamente alla lista delle coordinate geografiche dei punti per i quali passano le dette linee, saranno affisse a cura delle autorita' marittime in tutti i porti ed approdi della Repubblica.  
+((PROVVEDIMENTO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
 
 Art. 4
 ------
 
-  
-Il presente decreto entrera' in vigore novanta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale della Repubblica.  
-  
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 26 aprile 1977
-
-LEONE ANDREOTTI BONIFACIO - FORLANI - RUFFINI - LATTANZIO - COSSIGA - PANDOLFI - DONAT-CATTIN
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato alla Corte dei conti, addi' 31 ottobre 1977
-
-Atti di Governo, registro n. 15, foglio n. 17
+((PROVVEDIMENTO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
 
 Allegato
 
  Allegato   
   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U081600100010110001&dgu=1977-11-09&art.dataPubblicazioneGazzetta=1977-11-09&art.codiceRedazionale=077U0816)
-  
+
+((PROVVEDIMENTO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
