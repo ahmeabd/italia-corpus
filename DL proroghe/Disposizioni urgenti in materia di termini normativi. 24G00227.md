@@ -533,19 +533,15 @@ c) al comma 2-ter, le parole: "al 31 dicembre 2024" sono sostituite dalle seguen
 
 4-quater. Con decreto del Ministro dell'interno, di concerto con il Ministro dell'istruzione e del merito e il Ministro dell'universita' e della ricerca, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo del 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono definite le misure gestionali di mitigazione del rischio, previste sino al completamento dei lavori di adeguamento, nonche' le scadenze differenziate per il completamento dei lavori di adeguamento a fasi successive.
 
-4-quinquies. Il termine previsto per l'adozione del decreto del Ministro dell'istruzione e del merito, di concerto con il Ministro del lavoro e delle politiche sociali, sentita la Conferenza Stato-citta' ed autonomie locali, che definisce le modalita' di valutazione congiunta dei rischi connessi agli edifici scolastici di cui all'articolo 18, comma 3.2, del [decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81), e' prorogato al 31 dicembre 2025.
+4-quinquies. Il termine previsto per l'adozione del decreto del Ministro dell'istruzione e del merito, di concerto con il Ministro del lavoro e delle politiche sociali, sentita la Conferenza Stato-citta' ed autonomie locali, che definisce le modalita' di valutazione congiunta dei rischi connessi agli edifici scolastici di cui all'articolo 18, comma 3.2, del [decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81), e' prorogato al
+
+((31 dicembre 2026))
+
+.
 
 4-sexies. Sono prorogate anche per l'anno accademico 2025/2026 le disposizioni di cui all'[articolo 18-bis, comma 6-bis, del decreto legislativo 13 aprile 2017, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-04-13;59~art18bis-com6bis).
 
-4-septies. Sono prorogate
-
-((fino all'anno scolastico 2026/2027))
-
-le disposizioni di cui all'[articolo 10, comma 3-bis, del decreto-legge 31 maggio 2024, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-05-31;71~art10-com3bis), convertito, con modificazioni, dalla [legge 29 luglio 2024, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-07-29;106). Conseguentemente, il decreto di cui all'[articolo 10, comma 3-ter, del decreto-legge n. 71 del 2024](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024;71~art10-com3ter) e' adottato entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto e le assegnazioni di cui al comma 3-quater del medesimo articolo 10 sono effettuate
-
-((con decorrenza dal 1° settembre 2026))
-
-.
+4-septies. Sono prorogate fino all'anno scolastico 2026/2027 le disposizioni di cui all'[articolo 10, comma 3-bis, del decreto-legge 31 maggio 2024, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-05-31;71~art10-com3bis), convertito, con modificazioni, dalla [legge 29 luglio 2024, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-07-29;106). Conseguentemente, il decreto di cui all'[articolo 10, comma 3-ter, del decreto-legge n. 71 del 2024](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024;71~art10-com3ter) e' adottato entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto e le assegnazioni di cui al comma 3-quater del medesimo articolo 10 sono effettuate con decorrenza dal 1° settembre 2026.
 
 Art. 5-bis
 ----------
@@ -649,13 +645,21 @@ c) al comma 2-bis, le parole: "entro il 30 ottobre 2024" sono sostituite dalle s
 
 4-decies. Al fine di garantire continuita' al servizio di assistenza ai bagnanti per la stagione balneare 2025, i brevetti di cui all'articolo 2, comma 1, lettere d), e) e f), del regolamento di cui al [decreto del Ministro delle infrastrutture e dei trasporti 29 maggio 2024, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2024-05-29;85), in corso di validita' alla data del 30 settembre 2024, con termine di scadenza compreso tra il 1° ottobre 2024 e il 29 settembre 2025, restano validi fino al 30 settembre 2025. I titolari dei suddetti brevetti, per poter esercitare l'attivita' di assistente bagnanti, devono essere in possesso del certificato di idoneita' fisica allo svolgimento dell'attivita' sportiva non agonistica, di cui all'[articolo 3 del decreto del Ministro della salute 24 aprile 2013, pubblicato nella Gazzetta Ufficiale n. 169 del 20 luglio 2013](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2013-07-20&numeroGazzetta=169), in corso di validita'.
 
-4-undecies. Al fine di garantire la continuita' del servizio di assistenza ai bagnanti per la stagione 2025, l'efficacia del requisito della maggiore eta' di cui al decreto adottato ai sensi dell'[articolo 10, comma 3-quinquies, del decreto-legge 30 dicembre 2021, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228~art10-com3quinquies), convertito, con modificazioni, dalla [legge 25 febbraio 2022, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-02-25;15), per lo svolgimento dell'attivita' di assistente bagnanti, e' sospesa dalla data di entrata in vigore della legge di conversione del presente decreto fino al 30 settembre 2025.
+4-undecies. Al fine di garantire la continuita' del servizio di assistenza ai bagnanti per la stagione 2025, l'efficacia del requisito della maggiore eta' di cui al decreto adottato ai sensi dell'[articolo 10, comma 3-quinquies, del decreto-legge 30 dicembre 2021, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228~art10-com3quinquies), convertito, con modificazioni, dalla [legge 25 febbraio 2022, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-02-25;15), per lo svolgimento dell'attivita' di assistente bagnanti, e' sospesa dalla data di entrata in vigore della legge di conversione del presente decreto fino al 30 settembre 2025. (6)
 
-4-duodecies. Entro quindici giorni dalla data di entrata in vigore della legge di conversione del presente decreto, i soggetti beneficiari dei finanziamenti di cui all'[articolo 1, comma 891, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com891), trasmettono al Ministero delle infrastrutture e dei trasporti apposita manifestazione di interesse alla proroga dei termini di accesso al finanziamento assegnato, corredata della documentazione attestante lo stato di avanzamento degli interventi, il quadro economico aggiornato, incluso il dettaglio delle risorse necessarie a garantire l'integrale realizzazione dell'opera, nonche' il termine finale per l'aggiudicazione dei lavori. Sulla base delle manifestazioni di interesse di cui al primo periodo, previa ricognizione dello stato di avanzamento dell'iter approvativo dell'opera e delle relative procedure di affidamento, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, da adottare entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del presente decreto, e' definito, secondo l'originaria graduatoria, l'elenco degli interventi che possono accedere all'erogazione delle ulteriori rate dei finanziamenti del fondo di cui all'[articolo 1, comma 891, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com891), nei limiti delle risorse stanziate a legislazione vigente, a condizione che l'aggiudicazione del relativo appalto di lavori avvenga
+4-duodecies. Entro quindici giorni dalla data di entrata in vigore della legge di conversione del presente decreto, i soggetti beneficiari dei finanziamenti di cui all'[articolo 1, comma 891, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com891), trasmettono al Ministero delle infrastrutture e dei trasporti apposita manifestazione di interesse alla proroga dei termini di accesso al finanziamento assegnato, corredata della documentazione attestante lo stato di avanzamento degli interventi, il quadro economico aggiornato, incluso il dettaglio delle risorse necessarie a garantire l'integrale realizzazione dell'opera, nonche' il termine finale per l'aggiudicazione dei lavori. Sulla base delle manifestazioni di interesse di cui al primo periodo, previa ricognizione dello stato di avanzamento dell'iter approvativo dell'opera e delle relative procedure di affidamento, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, da adottare entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del presente decreto, e' definito, secondo l'originaria graduatoria, l'elenco degli interventi che possono accedere all'erogazione delle ulteriori rate dei finanziamenti del fondo di cui all'[articolo 1, comma 891, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com891), nei limiti delle risorse stanziate a legislazione vigente, a condizione che l'aggiudicazione del relativo appalto di lavori avvenga entro il
 
-((entro e non oltre il 30 giugno 2026. Il mancato rispetto del predetto termine comporta la revoca automatica delle risorse di provenienza statale che sono versate all'entrata del bilancio per restare acquisite all'erario.))
+((30 settembre 2026))
 
-. Eventuali risorse inutilizzate all'esito della ricognizione possono essere ripartite tra gli interventi individuati ai sensi del secondo periodo, secondo l'originaria graduatoria, tenuto conto di eventuali fabbisogni integrativi di finanziamento dell'intervento conseguenti a esigenze di revisione dei prezzi dell'intervento ovvero a varianti. Il medesimo decreto disciplina le modalita' di monitoraggio degli interventi e dei relativi cronoprogrammi, attraverso i sistemi informativi del Dipartimento della Ragioneria generale dello Stato, nonche' le modalita' di revoca delle risorse anche in caso di mancato aggiornamento dei dati contenuti nei predetti sistemi informativi.
+. Il mancato rispetto del predetto termine comporta la revoca automatica delle risorse di provenienza statale, che sono versate all'entrata del bilancio per restare acquisite all'erario.  
+Eventuali risorse inutilizzate all'esito della ricognizione possono essere ripartite tra gli interventi individuati ai sensi del secondo periodo, secondo l'originaria graduatoria, tenuto conto di eventuali fabbisogni integrativi di finanziamento dell'intervento conseguenti a esigenze di revisione dei prezzi dell'intervento ovvero a varianti.  
+Il medesimo decreto disciplina le modalita' di monitoraggio degli interventi e dei relativi cronoprogrammi, attraverso i sistemi informativi del Dipartimento della Ragioneria generale dello Stato, nonche' le modalita' di revoca delle risorse anche in caso di mancato aggiornamento dei dati contenuti nei predetti sistemi informativi.
+
+------------
+
+AGGIORNAMENTO (6)
+
+Il [D.L. 31 dicembre 2025, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-12-31;200), convertito con modificazioni dalla [L. 27 febbraio 2026, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-02-27;26) ha disposto (con l'art. 9, comma 3-sexies) che "Al fine di garantire la continuita' del servizio di assistenza ai bagnanti per l'anno 2026, la sospensione dell'efficacia del requisito della maggiore eta' per lo svolgimento dell'attivita' di assistente ai bagnanti, di cui al [comma 4-undecies dell'articolo 7 del decreto-legge 27 dicembre 2024, n. 202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-27;202~art7-com4undecies), convertito, con modificazioni, dalla [legge 21 febbraio 2025, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-02-21;15), e' prorogata sino alla fine della stagione balneare 2026, come definita ai sensi dell'[articolo 6, comma 2, del decreto-legge 21 maggio 2025, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-05-21;73~art6-com2), convertito, con modificazioni, dalla [legge 18 luglio 2025, n. 105](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-07-18;105), comunque non oltre il 1° ottobre 2026".
 
 Art. 8
 ------
@@ -807,41 +811,25 @@ Disposizioni concernenti termini in materie di competenza del Ministero dell'amb
 
 1. All'[articolo 27, comma 1, del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art27-com1), relativo all'obbligo di incremento della quota di energia rinnovabile termica nelle forniture di energia, le parole: «1° gennaio 2024» sono sostituite dalle seguenti: «1° gennaio 2025».
 
-2. All'[articolo 17-bis, comma 1, del decreto-legge 6 novembre 2021, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152~art17bis-com1), convertito, con modificazioni, dalla [legge 29 dicembre 2021, n. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-29;233), relativo alla riperimetrazione dei siti contaminati di interesse nazionale, le parole «da adottare entro tre anni dalla data di entrata in vigore della legge di conversione del presente decreto
-
-((,))
-
-» sono soppresse.
+2. All'[articolo 17-bis, comma 1, del decreto-legge 6 novembre 2021, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-11-06;152~art17bis-com1), convertito, con modificazioni, dalla [legge 29 dicembre 2021, n. 233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-29;233), relativo alla riperimetrazione dei siti contaminati di interesse nazionale, le parole «da adottare entro tre anni dalla data di entrata in vigore della legge di conversione del presente decreto,» sono soppresse.
 
 2-bis. 
 
-((Ai fini dell'operativita' del Registro elettronico nazionale per la tracciabilita' dei rifiuti, di cui all'[articolo 188-bis del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art188bis), con decreto del Ministro dell'ambiente e della sicurezza energetica, da adottare entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il termine di sessanta giorni previsto dall'articolo 13, comma 1, lettera a), del regolamento di cui al decreto del Ministro dell'ambiente e della sicurezza energetica 4 aprile 2023, n. 59, e' aumentato a centoventi giorni.))
-
-2-ter. 
-
-((Il termine del 1° gennaio 2025 di cui all'[articolo 40, comma 1, lettera c), del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art40-com1-letc), e' prorogato, limitatamente ai fasci di frutti di olio di palma vuoti e agli acidi grassi derivanti dal trattamento dei frutti di palma da olio (PFAD), al 1° gennaio 2026.))
-
-2-quater. 
-
-((Gli obblighi di immissione in consumo di cui all'[articolo 39 del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art39), per i fornitori di metano e di biometano ovvero di biogas per trasporti immessi in consumo per il trasporto stradale e ferroviario si applicano a decorrere dal 1° gennaio 2026.))
-
-2-quinquies. 
-
-((All'[articolo 40-ter del decreto-legge 21 giugno 2022, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73~art40ter), convertito, con modificazioni, dalla [legge 4 agosto 2022, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-04;122), le parole: "si applica fino al 31 dicembre 2024 e" sono soppresse.))
-
-2-sexies. 
-
-((Le modalita' di attestazione del rispetto dei criteri di sostenibilita' di cui all'[articolo 42, commi da 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art42-com6) [a 11, del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art42-com11), da parte dei produttori di energia elettrica e calore da combustibili da biomassa, escluso il biometano, ai sensi dell'articolo 21 del decreto del Ministro dell'ambiente e della sicurezza energetica 7 agosto 2024, [pubblicato nella Gazzetta Ufficiale n. 199 del 26 agosto 2024](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2024-08-26&numeroGazzetta=199), sono prorogate sino al 31 dicembre 2025 per i produttori che entro il 31 maggio 2025 abbiano accettato il preventivo per la certificazione della sostenibilita' da parte di un organismo accreditato secondo il Sistema nazionale di certificazione della sostenibilita' oppure operante presso un sistema volontario di certificazione riconosciuto dalla Commissione dell'Unione europea, fatta salva la possibilita' di concludere l'iter della certificazione, per il solo comparto delle biomasse solide, entro il 30 giugno 2026. A tal fine gli organismi di certificazione informano il Ministero dell'ambiente e della sicurezza energetica delle richieste ricevute.))
-
-2-septies. 
-
-((All'[articolo 4, comma 5-bis, del decreto-legge 1° marzo 2022, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-03-01;17~art4-com5bis), convertito, con modificazioni, dalla [legge 27 aprile 2022, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-04-27;34), le parole: "31 dicembre 2024" sono sostituite dalle seguenti: "31 dicembre 2025".))
-
-2-octies. 
-
-((All'[articolo 16, comma 5, lettera b), del decreto-legge 1° marzo 2022, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-03-01;17~art16-com5-letb), convertito, con modificazioni, dalla [legge 27 aprile 2022, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-04-27;34), e' aggiunto, in fine, il seguente periodo: "A decorrere dal 1° gennaio 2025, il punto di cessione del gas prodotto di cui al primo periodo e' individuato nel mercato del gas (MGAS) gestito dal Gestore dei mercati energetici - GME S.p.A.))
+((COMMA ABROGATO DAL [D.L. 31 DICEMBRE 2025, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-12-31;200), CONVERTITO CON MODIFICAZIONI DALLA [L. 27 FEBBRAIO 2026, N. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-02-27;26)))
 
 .
+
+2-ter. Il termine del 1° gennaio 2025 di cui all'[articolo 40, comma 1, lettera c), del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art40-com1-letc), e' prorogato, limitatamente ai fasci di frutti di olio di palma vuoti e agli acidi grassi derivanti dal trattamento dei frutti di palma da olio (PFAD), al 1° gennaio 2026.
+
+2-quater. Gli obblighi di immissione in consumo di cui all'[articolo 39 del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art39), per i fornitori di metano e di biometano ovvero di biogas per trasporti immessi in consumo per il trasporto stradale e ferroviario si applicano a decorrere dal 1° gennaio 2026.
+
+2-quinquies. All'[articolo 40-ter del decreto-legge 21 giugno 2022, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73~art40ter), convertito, con modificazioni, dalla [legge 4 agosto 2022, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-04;122), le parole: "si applica fino al 31 dicembre 2024 e" sono soppresse.
+
+2-sexies. Le modalita' di attestazione del rispetto dei criteri di sostenibilita' di cui all'[articolo 42, commi da 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art42-com6) [a 11, del decreto legislativo 8 novembre 2021, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-11-08;199~art42-com11), da parte dei produttori di energia elettrica e calore da combustibili da biomassa, escluso il biometano, ai sensi dell'articolo 21 del decreto del Ministro dell'ambiente e della sicurezza energetica 7 agosto 2024, [pubblicato nella Gazzetta Ufficiale n. 199 del 26 agosto 2024](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2024-08-26&numeroGazzetta=199), sono prorogate sino al 31 dicembre 2025 per i produttori che entro il 31 maggio 2025 abbiano accettato il preventivo per la certificazione della sostenibilita' da parte di un organismo accreditato secondo il Sistema nazionale di certificazione della sostenibilita' oppure operante presso un sistema volontario di certificazione riconosciuto dalla Commissione dell'Unione europea, fatta salva la possibilita' di concludere l'iter della certificazione, per il solo comparto delle biomasse solide, entro il 30 giugno 2026. A tal fine gli organismi di certificazione informano il Ministero dell'ambiente e della sicurezza energetica delle richieste ricevute.
+
+2-septies. All'[articolo 4, comma 5-bis, del decreto-legge 1° marzo 2022, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-03-01;17~art4-com5bis), convertito, con modificazioni, dalla [legge 27 aprile 2022, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-04-27;34), le parole: "31 dicembre 2024" sono sostituite dalle seguenti: "31 dicembre 2025".
+
+2-octies. All'[articolo 16, comma 5, lettera b), del decreto-legge 1° marzo 2022, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-03-01;17~art16-com5-letb), convertito, con modificazioni, dalla [legge 27 aprile 2022, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-04-27;34), e' aggiunto, in fine, il seguente periodo: "A decorrere dal 1° gennaio 2025, il punto di cessione del gas prodotto di cui al primo periodo e' individuato nel mercato del gas (MGAS) gestito dal Gestore dei mercati energetici - GME S.p.A..
 
 Art. 12
 -------
@@ -1248,11 +1236,13 @@ b) al comma 2, i periodi dal quarto all'ultimo sono soppressi.))
 Art. 21-bis
 -----------
 
-(( (Disposizioni in materia di eleggibilita' a presidente della provincia).))
+(Disposizioni in materia di eleggibilita' a presidente della provincia)
 
-1. 
+1. Il termine di cui all'[articolo 1, comma 60, della legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56~art1-com60), non si applica per gli anni 2025
 
-((Il termine di cui all'[articolo 1, comma 60, della legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56~art1-com60), non si applica per gli anni 2025 e 2026))
+((, 2026 e 2027))
+
+.
 
 Art. 22
 -------
