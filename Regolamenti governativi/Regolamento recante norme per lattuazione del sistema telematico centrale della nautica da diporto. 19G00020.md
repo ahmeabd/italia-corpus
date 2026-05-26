@@ -229,8 +229,7 @@ Note all'art. 2:
 Art. 3
 ------
 
-Archivio telematico centrale delle unita'   
-da diporto «ATCN»
+Archivio telematico centrale delle unita' da diporto «ATCN»
 
 1. Per ogni unita' da diporto sono trascritti o annotati nell'Archivio telematico centrale delle unita' da diporto (ATCN):
 
@@ -274,6 +273,12 @@ u) i dati relativi ai documenti di navigazione di cui all'[articolo 15-ter, comm
 
 v) l'indicazione dell'eventuale destinazione a fini commerciali, con specificazione del tipo di utilizzazione ai sensi dell'[articolo 2 del decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art2);
 
+v-bis)
+
+((l'indicazione dell'eventuale destinazione esclusiva all'attivita' agonistica, ai sensi dell'[articolo 30 del decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art30)) ))
+
+;
+
 z) le informazioni inerenti i controlli di sicurezza della navigazione di cui all'[articolo 9, comma 1, della legge 8 luglio 2003, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172~art9-com1) e all'[articolo 26-bis, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art26bis-com1) e [2, del decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art26bis-com2), effettuati sulle unita' da diporto dalle autorita' di polizia;
 
 aa) tutti gli atti soggetti a pubblicita' ai sensi dell'[articolo 17 del decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art17).
@@ -293,102 +298,6 @@ b) ai soggetti privati di cui all'[articolo 3, comma 1, lettera b), del decreto 
 c) agli ufficiali e agenti di polizia giudiziaria appartenenti alle Forze di polizia di cui all'[articolo 16 della legge 1° aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art16), agli ufficiali di pubblica sicurezza, per il tramite del centro elaborazione dati di cui all'articolo 8 della medesima legge, nonche' agli ufficiali e agenti di polizia giudiziaria di cui all'[articolo 1235 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1235) appartenenti al Corpo delle Capitanerie di porto.
 
 4. Per la realizzazione dei controlli di sicurezza della navigazione di cui all'[articolo 9 della legge 8 luglio 2003, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172~art9) e all'[articolo 26-bis, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art26bis-com1) e [2, del decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art26bis-com2), il Ministero puo' stipulare appositi protocolli di intesa con il Dipartimento della pubblica sicurezza per la Polizia di Stato e con i rispettivi Comandi generali dell'Arma dei carabinieri e del Corpo della Guardia di finanza, per definire le specifiche procedure e modalita' operative relative alla acquisizione, esclusivamente in sede locale, anche telematica, delle informazioni di cui al comma 1, lettera z).
-
-Note all'art. 3:   
-  
-- Si riporta l'allegato VIII del citato [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171):   
-  
-«Allegato VIII   
-  
-Dichiarazione di conformita' UE N. xxxxx   
-  
-1. N. xxxxx (Prodotto: prodotto, lotto, tipo o numero di serie):   
-2. Nome e indirizzo del fabbricante o del suo rappresentante autorizzato [il rappresentante autorizzato deve indicare anche la ragione sociale e l'indirizzo del fabbricante] o dell'importatore privato.   
-3. La presente dichiarazione di conformita' e' rilasciata sotto l'esclusiva responsabilita' del fabbricante o dell'importatore privato, o di chiunque immette sul mercato o metta in servizio un motore di propulsione o un'unita' da diporto dopo una modifica o conversione rilevante dello stesso o della stessa, di chiunque modifichi la destinazione d'uso di un'unita' da diporto non contemplata nel campo di applicazione della [direttiva 2013/53/UE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013L0053) in modo da farla rientrare nel suo ambito di applicazione applicando le procedure previste prima dell'immissione sul mercato o della sua messa in servizio, o chiunque immetta sul mercato un'unita' da diporto costruita per uso personale prima della scadenza del periodo di cinque anni decorrente dalla messa in servizio dell'unita' da diporto.   
-4. Oggetto della dichiarazione (identificazione del prodotto che ne consenta la rintracciabilita'. Essa puo' comprendere una fotografia, se opportuno).   
-5. L'oggetto della dichiarazione di cui al punto 4 e' conforme alla pertinente normativa di armonizzazione dell'Unione.   
-6. Riferimento alle pertinenti norme armonizzate utilizzate o riferimenti alle altre specifiche tecniche in relazione alle quali e' dichiarata la conformita'.   
-7. Se del caso, l'organismo notificato ... (nome, numero) ha effettuato ... (descrizione dell'intervento) e rilasciato il certificato.   
-8. Identificazione del firmatario abilitato a impegnare il fabbricante o il suo rappresentante autorizzato   
-9. Indicazioni complementari:   
-La dichiarazione di conformita' UE include una dichiarazione del fabbricante del motore di propulsione e della persona che adatta un motore conformemente all'[art. 5, comma 4, lettere b)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-01-11;5~art5-com4-letb) e [c), del decreto legislativo 11 gennaio 2016, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-01-11;5~art5-com4-letc), secondo cui:   
-a) se installato in un'unita' da diporto secondo le istruzioni di installazione che accompagnano il motore, quest'ultimo soddisfera':   
-1) i requisiti relativi alle emissioni di scarico previsti dal presente decreto;   
-2) i valori limite di cui alla [direttiva 97/68/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0068) per quanto riguarda i motori omologati conformemente alla [direttiva 97/68/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0068) che sono conformi ai limiti di emissione della fase III A, della fase III B o della fase IV per i motori ad accensione spontanea utilizzati in applicazioni diverse dalla propulsione di navi della navigazione interna, di locomotive e di automotrici ferroviarie, come previsto all'allegato I, punto 4.1.2, di tale direttiva; o 3) i valori limite di cui al [regolamento (CE) n. 595/2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R0595) per quanto riguarda i motori omologati conformemente a tale regolamento.   
-Il motore non deve essere messo in servizio finche' l'unita' da diporto in cui deve essere installato sia stata dichiarata conforme, se previsto, con la pertinente disposizione del presente decreto.   
-Se il motore e' stato immesso sul mercato durante l'ulteriore periodo transitorio di cui all'art. 46, comma 2, la dichiarazione di conformita' UE ne fa menzione.   
-Firmato a nome e per conto di:   
-(Luogo e data di rilascio)   
-(nome, funzione) (firma)».   
-- Si riporta l'art. 28, comma 2, del citato [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171):   
-«Art. 28 (Potenza dei motori). - Omissis.   
-2. Per ogni singolo motore il fabbricante o il rappresentante autorizzato o l'importatore di cui all'[art. 3, comma 1, lettera v), del decreto legislativo 11 gennaio 2016, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-01-11;5~art3-com1-letv), rilascia la dichiarazione di potenza su modulo conforme al modello approvato dal Ministero delle infrastrutture e dei trasporti.   
-Omissis.».   
-- Si riporta l'art. 26 del citato [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171):   
-«Art. 26 (Certificato di sicurezza e certificato di idoneita' al noleggio). - 1. Il certificato di sicurezza per le navi e per le imbarcazioni da diporto attesta lo stato di navigabilita' dell'unita' e fa parte dei documenti di bordo. Il rilascio, il rinnovo e la convalida del certificato di sicurezza sono disciplinati dal regolamento di attuazione del presente codice.   
-1-bis. Il certificato di idoneita' al noleggio attesta lo stato di idoneita' dell'unita' al noleggio ed e' rilasciato dagli uffici circondariali marittimi e dagli uffici della motorizzazione civile. Il rilascio, il rinnovo e la convalida sono disciplinati dal regolamento di attuazione del presente codice.».   
-- Si riporta l'art. 31, commi 1 e 2, del citato [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171):   
-«Art. 31 (Navigazione temporanea). - 1. Per navigazione temporanea si intende quella effettuata alla scopo di:   
-a) verificare l'efficienza degli scafi o dei motori;   
-b) presentare unita' da diporto al pubblico o ai singoli interessati all'acquisto;   
-c) trasferire unita' da diporto da un luogo all'altro anche per la partecipazione a fiere, saloni e altri eventi espositivi, anche all'estero.   
-2. Lo Sportello telematico del diportista (STED) rilascia ai cantieri navali, ai costruttori di motori marini, ai mediatori del diporto, alle aziende di assemblaggio e di allestimento di unita' di diporto e alle aziende di vendita le autorizzazioni alla navigazione temporanea per le unita' da diporto, non abilitate e non munite dei prescritti documenti ovvero abilitate e provviste di documenti di bordo ed a loro affidate in conto vendita o per riparazioni ed assistenza.   
-Omissis.».   
-- Si riporta l'art. 15-ter, commi 3 e 5, del citato [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171) ([Codice della nautica da diporto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171) ed attuazione della [direttiva 2003/44/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003L0044), a norma dell'[art. 6 della legge 8 luglio 2003, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172~art6)):   
-«Art. 15-ter (Iscrizione delle navi destinate esclusivamente al noleggio per finalita' turistiche). - Omissis.   
-3. I documenti di navigazione per le navi di cui al comma 1 sono:   
-a) la licenza di navigazione di cui all'art. 22, che abilita la nave alla navigazione marittima internazionale;   
-b) il ruolino di equipaggio, di cui all'art. 38;   
-c) il libro unico di bordo.   
-Omissis.   
-5. E' fatta salva, per le navi di cui al comma 1, la facolta' di sostituire la licenza di navigazione con l'atto di nazionalita' di cui all'[art. 150 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art150), e il ruolino di equipaggio con il ruolo di equipaggio, di cui all'art. 170 del medesimo codice.».   
-- Si riporta l'art. 2 del citato [decreto legislativo 18 luglio 2005, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;17):   
-«Art. 2 (Unita' da diporto utilizzata a fini commerciali). - 1. L'unita' da diporto e' utilizzata a fini commerciali quando:   
-a) e' oggetto di contratti di locazione e di noleggio;   
-b) e' utilizzata per l'insegnamento professionale della navigazione da diporto;   
-c) e' utilizzata da centri di immersione e di addestramento subacqueo come unita' di appoggio per i praticanti immersioni subacquee a scopo sportivo o ricreativo;   
-c-bis) e' utilizzata per assistenza all'ormeggio delle unita' di cui all'art. 3 nell'ambito delle strutture dedicate alla nautica da diporto;   
-c-ter) e' utilizzata per l'attivita' di assistenza e di traino delle unita' di cui all'art. 3.   
-2. L'utilizzazione a fini commerciali delle imbarcazioni e navi da diporto e' annotata nell'Archivio telematico centrale delle unita' da diporto (ATCN), con l'indicazione delle attivita' svolte e dei proprietari o armatori delle unita', imprese individuali o societa', esercenti le suddette attivita' commerciali e degli estremi della loro iscrizione, nel registro delle imprese della competente camera di commercio, industria, artigianato ed agricoltura. Gli estremi dell'annotazione sono riportati sulla licenza di navigazione.   
-2-bis. Nel caso di natanti l'utilizzazione a fini commerciali e' annotata secondo le modalita' indicate nel regolamento di attuazione del presente codice.   
-3. Qualora le attivita' di cui al comma 1 siano svolte stabilmente in Italia con unita' da diporto battenti bandiera di uno dei Paesi dell'Unione europea o extraeuropei, l'esercente presenta allo Sportello telematico del diportista (STED) una dichiarazione contenente le caratteristiche dell'unita', il titolo che attribuisce la disponibilita' della stessa, nonche' gli estremi della polizza assicurativa a garanzia delle persone imbarcate e di responsabilita' civile verso terzi e della certificazione di sicurezza in possesso. Copia della dichiarazione, validata dall'Ufficio di conservatoria centrale delle unita' da diporto (UCON) per il tramite dello Sportello telematico del diportista (STED), deve essere mantenuta a bordo.   
-4. Le unita' da diporto di cui al comma 1, lettera a), possono essere utilizzate esclusivamente per le attivita' a cui sono adibite.».   
-- Si riporta l'[art. 9, comma 1, della legge 8 luglio 2003, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172~art9-com1) (Disposizioni per il riordino e il rilancio della nautica da diporto e del turismo nautico.):   
-«Art. 9 (Disposizioni inerenti i controlli di sicurezza della navigazione). - 1. I controlli relativi alla sicurezza della navigazione rientrano nella preminente competenza del Corpo delle capitanerie di porto-guardia costiera.   
-Omissis.».   
-- Si riporta l'art. 26-bis, commi 1 e 2, del citato [decreto legislativo 18 luglio 2005, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;17):   
-«Art. 26-bis (Controlli di sicurezza della navigazione da diporto in mare). - 1. Il Ministro delle infrastrutture e dei trasporti, conspecifiche direttive emanate entro il 31 marzo di ciascun anno, determina le modalita' di svolgimento dei controlli in materia di sicurezza della navigazione da diporto, anche a fini commerciali, al fine di evitare duplicazioni di accertamenti a carico delle unita' da diporto, con particolar riguardo alla stagione balneare. Il Ministro delle infrastrutture e dei trasporti verifica annualmente l'attuazione delle predette direttive.   
-2. Al fine del raggiungimento degli obiettivi delle direttive di cui al comma 1, e' istituito un sistema di controlli di natura preventiva che, a seguito di un accertamento favorevole sulla regolarita' della documentazione di bordo, delle dotazioni di sicurezza e dei titoli abilitativi al comando delle unita' da diporto, consente di evitare durante la stagione balneare la reiterazione di tali controlli, restando fermi quelli di diversa natura rientranti nelle attribuzioni e nei compiti di istituto propri di ciascuna Forza di polizia.   
-Omissis.».   
-- Si riporta l'art. 17 del citato [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171):   
-«Art. 17 (Disposizioni per la pubblicita' degli atti relativi alle unita' da diporto). - 1. Per gli effetti previsti dal [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), gli atti costitutivi, traslativi o estintivi della proprieta' o di altri diritti reali su unita' da diporto soggette ad iscrizione ai sensi del presente decreto legislativo sono resi pubblici, su richiesta avanzata dall'interessato, entro sessanta giorni o, se l'interessato e' residente all'estero, entro centoventi giorni dalla data dell'atto, mediante trascrizione nell'Archivio telematico centrale delle unita' da diporto (ATCN) ed annotazione sulla licenza di navigazione.   
-2. La ricevuta dell'avvenuta presentazione dei documenti per la pubblicita', rilasciata dallo Sportello telematico del diportista (STED), sostituisce la licenza di navigazione per la durata massima di venti giorni.   
-3. Accertata una violazione in materia di pubblicita' di cui al comma 1, ne e' data immediata notizia all'Ufficio di conservatoria centrale delle unita' da diporto (UCON) che, previa presentazione allo Sportello telematico del diportista (STED) da parte dell'interessato della nota di trascrizione e degli altri documenti prescritti dalla legge, nel termine di dieci giorni dalla data dell'accertamento regolarizza la trascrizione. Ove l'interessato non vi provveda nel termine indicato l'Ufficio di conservatoria centrale delle unita' da diporto (UCON) dispone il ritiro della licenza di navigazione.   
-4. Per gli atti costitutivi, traslativi o estintivi della proprieta' o di altri diritti reali di cui al comma 1, posti in essere fino alla data di entrata in vigore del presente decreto legislativo si procede, su richiesta dell'interessato avanzata entro novanta giorni dall'entrata in vigore del presente decreto legislativo e senza l'applicazione di sanzioni, alle necessarie regolarizzazioni.   
-4-bis. Non si applica il termine di cui al comma 1 per la dichiarazione e la revoca di armatore.».   
-- Si riportano gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-09-28;634~art1) e [3 del decreto del Presidente della Repubblica 28 settembre 1994, n. 634](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1994-09-28;634~art3) (Regolamento per l'ammissione all'utenza del servizio di informatica del centro di elaborazione dati della Direzione generale della motorizzazione civile e dei trasporti in concessione.):   
-«Art. 1. - 1. Le pubbliche amministrazioni e le persone fisiche e giuridiche private possono essere ammesse ad usufruire delle informazioni contenute nella banca dati della Direzione generale della motorizzazione civile e dei trasporti in concessione.».   
-«Art. 3. - 1. L'utenza del servizio e' concessa, valutati in ogni caso i motivi di interesse pubblico e tenuto conto delle disponibilita' di collegamenti al momento della concessione, nel seguente ordine di preferenza per categoria:   
-a) categoria A: aziende di Stato aventi autonomia di bilancio e di gestione; amministrazioni regionali, provinciali, comunali; universita' ed istituti pubblici di istruzione e di ricerca; societa' a prevalente partecipazione statale; societa' concessionarie di pubblici servizi;   
-b) categoria B: persone fisiche e giuridiche, associazioni ed enti non compresi nella categoria A.».   
-- Si riportano gli [articoli 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art8) e [16 della legge 1 aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art16) (Nuovo ordinamento dell'Amministrazione della pubblica sicurezza.):   
-«Art. 8 (Istituzione del Centro elaborazione dati). - E' istituito presso il Ministero dell'interno, nell'ambito dell'ufficio di cui alla lettera c) del primo comma dell'art. 5, il Centro elaborazione dati, per la raccolta delle informazioni e dei dati di cui all'art. 6, lettera a), e all'art. 7.   
-Il Centro provvede alla raccolta, elaborazione, classificazione e conservazione negli archivi magnetici delle informazioni e dei dati nonche' alla loro comunicazione ai soggetti autorizzati, indicati nell'art. 9, secondo i criteri e le norme tecniche fissati ai sensi del comma seguente.   
-Con decreto del Ministro dell'interno e' costituita una commissione tecnica, presieduta dal funzionario preposto all'ufficio di cui alla lettera c) del primo comma dell'art. 5, per la fissazione dei criteri e delle norme tecniche per l'espletamento da parte del Centro delle operazioni di cui al comma precedente e per il controllo tecnico sull'osservanza di tali criteri e norme da parte del personale operante presso il Centro stesso. I criteri e le norme tecniche predetti divengono esecutivi con l'approvazione del Ministro dell'interno.».   
-«Art. 16 (Forze di polizia). - Ai fini della tutela dell'ordine e della sicurezza pubblica, oltre alla polizia di Stato sono forze di polizia, fermi restando i rispettivi ordinamenti e dipendenze:   
-a) l'Arma dei carabinieri, quale forza armata in servizio permanente di pubblica sicurezza;   
-b) il Corpo della guardia di finanza, per il concorso al mantenimento dell'ordine e della sicurezza pubblica.   
-Fatte salve le rispettive attribuzioni e le normative dei vigenti ordinamenti, sono altresi' forze di polizia e possono essere chiamati a concorrere nell'espletamento di servizi di ordine e sicurezza pubblica il Corpo degli agenti di custodia e il Corpo forestale dello Stato.   
-Le forze di polizia possono essere utilizzate anche per il servizio di pubblico soccorso.».   
-- Si riporta l'[art. 1235 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art1235):   
-«Art. 1235 (Ufficiali ed agenti di polizia giudiziaria). - Agli effetti dell'[art. 221 del codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art221) sono ufficiali di polizia giudiziaria:   
-1. i comandanti, gli ufficiali del corpo delle capitanerie di porto, gli ufficiali del corpo equipaggi militari marittimi appartenenti al ruolo servizi portuali, i sottufficiali del corpo equipaggi militari marittimi appartenenti alla categoria servizi portuali, i direttori e i delegati di aeroporto, i delegati di campo di fortuna, riguardo ai reati previsti dal presente codice, nonche' riguardo ai reati comuni commessi nel porto o nell'aeroporto, se in tali luoghi mancano uffici di pubblica sicurezza. Negli aeroporti in cui non ha sede un direttore di aeroporto o non risiede alcun delegato, le funzioni di ufficiale di polizia giudiziaria sono attribuite al direttore di aeroporto nella cui circoscrizione l'aeroporto e' compreso;   
-2. i comandanti delle navi o degli aeromobili, riguardo ai reati commessi a bordo in corso di navigazione, nonche' riguardo agli atti di polizia giudiziaria ordinati e alle delegazioni disposte dall'autorita' giudiziaria;   
-3. i consoli, riguardo ai reati previsti da questo codice commessi all'estero, oltre che negli altri casi contemplati dalla legge consolare;   
-4. i comandanti delle navi da guerra nazionali per gli atti che compiono su richiesta dell'autorita' consolare o, in caso di urgenza, di propria iniziativa. I comandanti stessi vigilano sia in alto mare sia nelle acque territoriali di altro Stato sulla polizia giudiziaria esercitata dai comandanti delle navi nazionali.   
-Sono agenti di polizia giudiziaria, riguardo ai reati previsti dal presente codice, nonche' riguardo ai reati comuni commessi nel porto, se in tale luogo mancano uffici di pubblica sicurezza, i sottocapi e comuni del corpo equipaggi militari marittimi appartenenti alla categoria servizi portuali.   
-Assumono le funzioni di agenti di polizia giudiziaria i sottocapi e comuni di altre categorie del corpo equipaggi militari marittimi destinati presso le capitanerie di porto e uffici marittimi minori, i funzionari e gli agenti dell'amministrazione della navigazione interna, i funzionari e gli agenti degli aeroporti statali e privati, in seguito alla richiesta di cooperazione da parte degli ufficiali di polizia giudiziaria.   
-Sono, inoltre, agenti di polizia giudiziaria gli agenti degli uffici di porto ovvero di aeroporto statale o privato in servizio di ronda.».
 
 Art. 4
 ------

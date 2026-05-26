@@ -3065,10 +3065,17 @@ Le annotazioni devono indicare il luogo e la data dell'imbarco; la qualilica con
 Regolamento per l'esecuzione del codice della navigazione- art. 224
 
  Art. 224.   
-(Modalita' delle annotazioni)   
   
-  
-Le annotazioni sui libretti di navigazione sono eseguite dall'ufficiale o da altro funzionario dell'ufficio marittimo o consolare a cio' delegato, che le firma apponendovi il timbro d'ufficio e la menzione della propria, qualifica.   
+
+((ARTICOLO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
+
+((40))
+
+---------------
+
+AGGIORNAMENTO (40)
+
+La [L. 7 maggio 2026, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70), ha disposto (con l'art. 22, comma 2, lettera a)) che "I riferimenti agli articoli 224, 315, 363 e 365 del regolamento di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), contenuti in altre disposizioni, si intendono operati ai seguenti articoli del [codice della navigazione: a) l'articolo 224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art224) del regolamento deve intendersi riferito all'[articolo 122-bis del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art122bis), introdotto dall'articolo 21, comma 1, lettera c), della presente legge".
 
 Regolamento per l'esecuzione del codice della navigazione- art. 225
 
@@ -3085,10 +3092,9 @@ Il nuovo libretto di navigazione deve contenere le annotazioni del precedente li
 Regolamento per l'esecuzione del codice della navigazione- art. 226
 
  Art. 226.   
-(Comunicazione dei movimenti di imbarco e sbarco)   
   
-  
-I movimenti di imbarco e sbarco dei marittimi devono essere comunicati entro quindici giorni all'ufficio marittimi d'iscrizione. 
+
+((ARTICOLO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
 
 Regolamento per l'esecuzione del codice della navigazione- art. 227
 
@@ -3172,12 +3178,9 @@ I periodi della navigazione effettuata sono riportati in complesso.
 Regolamento per l'esecuzione del codice della navigazione- art. 236
 
  Art. 236.   
-(Imbarco su nave nazionale all'estero)   
   
-  
-Il marittimo che si reca all'estero per prendere imbarco su nave nazionale deve ottenere il nulla osta dell'autorita' marittima e deve stipulare nel territorio dello Stato contratto di arruolamento.   
-Del rilascio del nulla osta e della stipulazione del contratto e' fatta annotazione sul libretto di navigazione.   
-Quando sia richiesto, il libretto deve essere vistato dall'autorita' consolare dello Stato al quale il marittimo e' diretto o che deve attraversare.   
+
+((ARTICOLO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
 
 Regolamento per l'esecuzione del codice della navigazione- art. 237
 
@@ -3400,11 +3403,7 @@ b) abbiano superato apposito esame secondo gli speciali programmi stabiliti con 
 Regolamento per l'esecuzione del codice della navigazione- art. 254-bis
 
  Art. 254-bis.   
-
-(( (Padrone marittimo di seconda classe per la pesca)   
-  
-  
-  
+(Padrone marittimo di seconda classe per la pesca)   
   
   
 Per conseguire il titolo di padrone marittimo di seconda classe per la pesca occorrono i seguenti requisiti:   
@@ -3417,10 +3416,14 @@ Per conseguire il titolo di padrone marittimo di seconda classe per la pesca occ
 Il padrone marittimo di seconda classe per la pesca puo':   
 1) imbarcare come ufficiale su navi di stazza lorda non superiore a 3000 tonnellate, adibite alla pesca;   
 2) assumere il comando di navi adibite alla pesca:   
-a) di stazza lorda non superiore alle 150 tonnellate;   
+a)
+
+((LETTERA ABROGATA DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
+
+;   
 b) di stazza lorda non superiore a 1000 tonnellate nel Mediterraneo purche' abbia effettuato, successivamente al conseguimento del titolo, almeno un anno di navigazione in servizio di coperta in qualita' di ufficiale;   
 c) di stazza lorda non superiore a 1000 tonnellate altre lo stretto di Gibilterra fino a Huelva e sino a capo Palmas, comprese le isole a non piu' di trecento miglia dalla costa, oltre il canale di Suez, nel mar Rosso, lungo le coste dell'Arabia, dell'India, compreso il golfo Persico, fino a Bombay, e della Africa fino a capo Guardafui, purche' abbia effettuato, successivamente al conseguimento del titolo, almeno tre anni di navigazione in servizio di coperta in qualita' di primo ufficiale, di cui almeno due su navi adibite alla pesca oltre gli Stretti.   
-Gli ufficiali del Corpo equipaggi militari marittimi dei servizi nautici (nocchieri) e capi nocchieri di prima, seconda e terza classe, entro 5 anni dalla cessazione dal servizio permanente, possono conseguire senza esami il titolo di cui al presente articolo, sempreche' abbiano compiuto almeno 4 anni di imbarco, dei quali non meno di 1 al comando di unita' navale.))
+Gli ufficiali del Corpo equipaggi militari marittimi dei servizi nautici (nocchieri) e capi nocchieri di prima, seconda e terza classe, entro 5 anni dalla cessazione dal servizio permanente, possono conseguire senza esami il titolo di cui al presente articolo, sempreche' abbiano compiuto almeno 4 anni di imbarco, dei quali non meno di 1 al comando di unita' navale.   
 
 Regolamento per l'esecuzione del codice della navigazione- art. 255
 
@@ -3442,12 +3445,7 @@ Regolamento per l'esecuzione del codice della navigazione- art. 256
 Regolamento per l'esecuzione del codice della navigazione- art. 257
 
  Art. 257.   
-
-(( (Marinaio autorizzato alla pesca)   
-  
-  
-  
-  
+(Marinaio autorizzato alla pesca)   
   
 Per conseguire il titolo di marinaio autorizzato alla pesca occorrono i seguenti requisiti:   
 1) essere iscritto nella prima categoria della gente di mare;   
@@ -3459,8 +3457,12 @@ Il marinaio autorizzato alla pesca puo':
 1) imbarcare:   
 a) come primo ufficiale su navi di stazza lorda non superiore alle 1000 tonnellate adibite alla pesca nel Mediterraneo, nel mar Nero, nel mar d'Azov, nel mar Rosso, lungo le coste dell'Arabia e dell'india, compreso il golfo Persico e fino a Bombay, lungo le coste africane, comprese le isole a non piu' di trecento miglia dalla costa, purche' abbia effettuato almeno 3 anni di imbarco in qualita' di secondo ufficiale su navi adibite alla pesca oltre gli Stretti;   
 b) come secondo ufficiale su navi di stazza lorda non superiore alle 3000 tonnellate adibite alla pesca entro i limiti di cui alla precedente lettera a), purche' abbia effettuato almeno 2 anni di navigazione in servizio di coperta su navi adibite alla pesca oltre gli Stretti e almeno 2 anni al comando di navi addette alla pesca mediterranea;   
-2) assumere il comando di navi di stazza lorda non superiore alle 200 tonnellate addette alla pesca mediterranea nella zona compresa fra il 6° e il 20° meridiano.   
-I secondi capi e i sergenti nocchieri provenienti dal servizio permanente o volontario della marina militare, entro 5 anni dalla cessazione dal servizio, possono conseguire senza esami il titolo di cui al presente articolo, purche' abbiano compiuto almeno 4 anni di imbarco.))
+2)
+
+((assumere il comando di navi di stazza lorda non superiore alle 200 tonnellate adibite alla pesca nel Mediterraneo, nel Mar Nero, nel Mar d'Azov, nel Mar Rosso, lungo le coste dell'Arabia e dell'India, compreso il Golfo Persico e fino a Mumbai, lungo le coste africane, comprese le isole a non piu' di trecento miglia dalla costa))
+
+.   
+I secondi capi e i sergenti nocchieri provenienti dal servizio permanente o volontario della marina militare, entro 5 anni dalla cessazione dal servizio, possono conseguire senza esami il titolo di cui al presente articolo, purche' abbiano compiuto almeno 4 anni di imbarco.   
 
 Regolamento per l'esecuzione del codice della navigazione- art. 258
 
@@ -4255,21 +4257,19 @@ Nelle matricole, nei registri e in tutti gli altri documenti, ufficiali le navi 
 Regolamento per l'esecuzione del codice della navigazione- art. 315
 
  Art. 315.   
-(Documenti per l'iscrizione)   
   
-  
-Per ottenere l'iscrizione di una nave o di un galleggiante nelle matricole o nei registri, oltre quanto e' disposto dall'articolo 303, il proprietario deve presentare all'ufficio presso il quale chiede l'iscrizione i seguenti documenti:   
-1) il titolo di proprieta' in originale o in copia autentica o, quando la nave e' stata costruita per conto del costruttore, l'estratto del registro delle navi in costruzione;   
-2) il certificato di stazza.   
-Per l'iscrizione nelle matricole o nei registri degli uffici dello Stato di navi costruite all'estero o provenienti da bandiera estera, l'autorita' consolare deve trasmettere al ministro della marina mercantile:   
-1) il titolo di proprieta' in originale o in copia autentica;   
-2) la copia autentica del passavanti provvisorio o della licenza provvisoria rilasciati a termini dell'articolo 149 del codice;   
-3) il certificato di stazza, se la stazzatura e' stata eseguita all'estero a norma dell'articolo 139 del codice;   
-4) il certificato di cancellazione dal registro straniero nel caso di navi gia' di nazionalita' estera, ove sia richiesto dalle convenzioni internazionali;   
-5) una somma sufficiente a garantire il pagamento dei diritti erariali dovuti dalla nave.   
-Per le navi provenienti da bandiera estera la cui vendita sia stata effettuata durante la sosta in un porto italiano il proprietario deve versare la somma e presentare i documenti indicati nel comma precedente, ad eccezione di quelli di cui ai numeri 2 e 3.   
-Oltre ai documenti suddetti devono essere presentati i certificati di cittadinanza e di domicilio del proprietario o dei caratisti e nei casi previsti dagli articoli 143 e 144 del codice il certificato d'iscrizione nell'apposito elenco o il decreto ministeriale di equiparazione, di cui agli articoli stessi.   
-L'iscrizione di navi maggiori non puo' essere effettuata se il proprietario non ha inoltre ottenuto l'approvazione del nome ai sensi dell'articolo 140 del codice.   
+
+((ARTICOLO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
+
+((40))
+
+---------------
+
+AGGIORNAMENTO (40)
+
+La [L. 7 maggio 2026, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70), ha disposto (con l'art. 22, comma 2, lettera b)) che "I riferimenti agli articoli 224, 315, 363 e 365 del regolamento di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), contenuti in altre disposizioni, si intendono operati ai seguenti articoli del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327):   
+[...]   
+l'articolo 315 del regolamento deve intendersi riferito all'[articolo 146-bis del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art146bis), introdotto dall'articolo 21, comma 1, lettera d), della presente legge".
 
 Regolamento per l'esecuzione del codice della navigazione- art. 316
 
@@ -4709,10 +4709,19 @@ Nella prima pagina di ciascun libro deve essere inserita dichiarazione firmata d
 Regolamento per l'esecuzione del codice della navigazione- art. 363
 
  Art. 363.   
-(Tenuta)   
   
-  
-I libri di bordo devono essere tenuti per ordine di data, di seguito, senza spazi in bianco, senza interlinee e senza trasporti in margine. Non vi si possono fare abrasioni e, ove sia necessaria qualche cancellazione, questa deve eseguirsi in modo che le parole cancellate siano leggibili. Gli spazi vuoti devono essere riempiti con linee a penna.   
+
+((ARTICOLO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
+
+((40))
+
+---------------
+
+AGGIORNAMENTO (40)
+
+La [L. 7 maggio 2026, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70), ha disposto (con l'art. 22, comma 2, lettera b)) che "I riferimenti agli articoli 224, 315, 363 e 365 del regolamento di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), contenuti in altre disposizioni, si intendono operati ai seguenti articoli del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327):   
+[...]   
+c) gli articoli 363 e 365 del regolamento devono intendersi riferiti rispettivamente ai [commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art177-com2), [terzo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art177-com3) e [quarto dell'articolo 177 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art177-com4), introdotti dall'articolo 21, comma 1, lettera m), della presente legge".
 
 Regolamento per l'esecuzione del codice della navigazione- art. 364
 
@@ -4725,11 +4734,19 @@ I libri di bordo devono essere presentati ad ogni richiesta dell'autorita' marit
 Regolamento per l'esecuzione del codice della navigazione- art. 365
 
  Art. 365.   
-(Ritiro e custodia)   
   
-  
-Quando si procede alla cancellazione della nave dal registro d'iscrizione, a norma dell'articolo 163 del codice, l'autorita' marittima mercantile o quella consolare del luogo in cui si trova la nave ritira e trasmette i libri di bordo, per la custodia, all'ufficio d'iscrizione della nave.   
-Quando i libri siano esauriti o resi inservibili l'autorita' del luogo, previo rilascio dei nuovi libri con le modalita' di cui all'articolo 362, li ritira e li trasmette per la custodia all'ufficio d'iscrizione della nave.   
+
+((ARTICOLO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
+
+((40))
+
+---------------
+
+AGGIORNAMENTO (40)
+
+La [L. 7 maggio 2026, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70), ha disposto (con l'art. 22, comma 2, lettera b)) che "I riferimenti agli articoli 224, 315, 363 e 365 del regolamento di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328), contenuti in altre disposizioni, si intendono operati ai seguenti articoli del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327):   
+[...]   
+c) gli articoli 363 e 365 del regolamento devono intendersi riferiti rispettivamente ai [commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art177-com2), [terzo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art177-com3) e [quarto dell'articolo 177 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art177-com4), introdotti dall'articolo 21, comma 1, lettera m), della presente legge".
 
 Regolamento per l'esecuzione del codice della navigazione- art. 366
 
@@ -4837,11 +4854,9 @@ Ogni rapporto del direttore di macchina, deve essere datato e sottoscritto, nonc
 Regolamento per l'esecuzione del codice della navigazione- art. 374
 
  Art. 374.   
-(Giornale radiotelegrafico)   
   
-  
-Il giornale radiotelegrafico e scritto dal marconista ed e' vistato dal comandante.   
-In esso devono essere annotati i nomi degli operatori e degli ascoltatori, qualora siano presenti a bordo, nonche' qualsiasi avvenimento o incidente che riguardi il servizio radiotelegrafico o che interessi la sicurezza della vita umana in mare e, in particolare, tutti i dispacci scambiati o intercettati.   
+
+((ARTICOLO ABROGATO DALLA [L. 7 MAGGIO 2026, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-07;70)))
 
 Regolamento per l'esecuzione del codice della navigazione- art. 375
 
