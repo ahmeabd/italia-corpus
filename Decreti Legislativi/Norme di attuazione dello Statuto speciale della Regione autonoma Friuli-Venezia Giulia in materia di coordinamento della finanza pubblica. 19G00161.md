@@ -246,3 +246,37 @@ Art. 4-bis
 7. E' confermato il credito della Regione di cui all'[articolo 1, comma 151, lettera a), della legge 13 dicembre 2010, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220~art1-com151-leta), che puo' essere compensato annualmente con il contributo alla finanza pubblica.
 
 ))
+
+Art. 4-ter
+----------
+
+(( (Misure di concorso alla finanza pubblica per gli anni dal 2027 al 2033 e disposizioni inerenti alla nuova governance economica europea). ))
+
+1. 
+
+((In attuazione dell'accordo sottoscritto tra il Ministro dell'economia e delle finanze e la Regione il 19 ottobre 2024, ai sensi di quanto previsto dall'articolo 3, comma 1, lettera b) e dall'articolo 4-bis, comma 3, il sistema integrato concorre alla finanza pubblica con un contributo annuo di 432,7 milioni di euro per ciascuno degli anni dal 2027 al 2033, fermo restando il versamento al bilancio dello Stato di 92 milioni di euro annui, ai sensi dell'articolo 4, comma 8.))
+
+2. 
+
+((Le somme di cui al comma 1 sono versate all'erario con imputazione sul capitolo 3465, articolo 1, capo X, del bilancio dello Stato entro il 30 aprile di ciascun anno. In mancanza di tali versamenti all'entrata del bilancio dello Stato entro il 30 aprile, il Ministero dell'economia e delle finanze e' autorizzato a trattenere gli importi corrispondenti a valere sulle somme a qualsiasi titolo spettanti alla Regione, anche avvalendosi dell'Agenzia delle Entrate per le somme introitate per il tramite della Struttura di Gestione.))
+
+3. 
+
+((E' fatta salva la facolta' da parte dello Stato di modificare il contributo di cui al punto 1 per un periodo di tempo limitato, nella misura massima del 10 per cento dei contributi tempo per tempo vigenti, per far fronte ad eccezionali esigenze di finanza pubblica.  
+Nel caso in cui siano necessarie manovre straordinarie volte ad assicurare il rispetto delle norme europee in materia di riequilibrio del bilancio pubblico, il predetto contributo puo' essere aumentato, per un periodo di tempo limitato, di una percentuale ulteriore rispetto a quella indicata al periodo precedente, non superiore al 10 per cento. Contributi di importi superiori sono concordati con la Regione.))
+
+4. 
+
+((Le facolta' di cui al comma 3 possono essere esercitate fino a che il rapporto tra il contributo e le entrate correnti della Regione non superi la media dei rapporti tra i contributi e le entrate correnti delle altre Autonomie speciali. Ai fini del calcolo del rapporto di cui al periodo precedente si tiene conto delle entrate di titolo primo e secondo accertate in conto competenza risultanti dagli ultimi rendiconti disponibili.))
+
+5. 
+
+((E' confermato il credito della Regione di cui all'[articolo 1, comma 151, lett. a), della legge 13 dicembre 2010, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220~art1-com151-leta). Lo stesso puo' essere compensato annualmente con il contributo alla finanza pubblica.))
+
+6. 
+
+((In deroga a quanto previsto dall'articolo 3, in attuazione della nuova governance economica europea ed in spirito di leale collaborazione, la Regione accantona un importo pari a 22 milioni di euro per l'anno 2025, 62 milioni di euro per ciascuno degli anni dal 2026 al 2028 e 96 milioni di euro per l'anno 2029, determinato considerando anche gli enti locali situati sul suo territorio. A tal fine, la Regione, per conto del sistema integrato, si impegna a iscrivere nella missione 20 della parte corrente di ciascuno degli esercizi del bilancio di previsione un fondo con stanziamento pari agli importi di cui al periodo precedente. La costituzione del fondo e' finanziata attraverso le risorse di parte corrente. Su tale fondo non e' possibile disporre impegni. Il fondo e' destinato al ripiano anticipato del disavanzo di amministrazione in aggiunta a quello previsto nel bilancio di previsione, se in disavanzo, ovvero, se in avanzo di amministrazione, e' vincolato agli investimenti, anche indiretti, per l'utilizzo nell'esercizio successivo in via prioritaria rispetto alla formazione di nuovo debito. Nel caso di mancato accantonamento del fondo di cui ai periodi precedenti e/o mancato rispetto, da parte della Regione, dell'equilibrio di bilancio di cui all'[articolo 1, comma 821, della legge 30 dicembre 2018, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145~art1-com821) (saldo non negativo tra le entrate e le spese di competenza finanziaria del bilancio, comprensivo dell'utilizzo dell'avanzo di amministrazione e del recupero del disavanzo di amministrazione e degli utilizzi del fondo pluriennale vincolato, al netto delle entrate vincolate e accantonate non utilizzate nel corso dell'esercizio), nell'esercizio successivo la quota accantonata e' incrementata della sommatoria in valore assoluto del minore accantonamento e del saldo negativo registrato nell'esercizio precedente. Nel caso di mancato invio entro il 31 maggio alla Banca dati delle amministrazioni pubbliche dei dati di consuntivo o preconsuntivo della Regione relativi all'esercizio precedente l'accantonamento e' incrementato del 10 per cento.))
+
+7. 
+
+((Fermo restando quanto disposto dall'articolo 4-bis, comma 2, gli obblighi previsti dal presente articolo per le annualita' di riferimento contribuiscono all'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea, assolvono integralmente al dovere di solidarieta' nazionale di cui all'articolo 3 e sostituiscono le misure di concorso alla finanza pubblica del sistema integrato, comunque denominate, previste da intese o disposizioni di legge.))
