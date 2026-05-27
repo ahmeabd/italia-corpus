@@ -7808,24 +7808,33 @@ b) nelle ipotesi di cui all'articolo 104, comma 1, lettera c), numero 2.1.) del 
 2) ad euro 300,00 in caso di collegamenti da oltre 2 km fino a 20 km e di utilizzo da 6 fino a 15 tipologie di apparati;   
 3) ad euro 600,00 in caso di collegamenti da oltre 20 km fino a 40 km e di utilizzo da 16 fino a 30 tipologie di apparati;   
 4) nel caso di distanze superiori ai 40 km e di impiego di tipologie di apparati superiori a 30 sono dovute quote aggiuntive di 20,00 euro per ogni km eccedente e di 20,00 euro per ogni 3 tipologie di apparati;   
-c) nelle ipotesi di cui all'articolo 104, comma 1, lettera c), numeri da 2.2) a 2.8) del Codice:   
-1) a euro 20,00 per ogni domanda e fino a 5 apparati
+c) nelle ipotesi di cui all'articolo 104, comma 1, lettera c), numeri da 2.2) a
 
-((...))
+((2.8-bis),))
 
-;   
-2) a euro 40,00 per ogni domanda e fino a 15 apparati
+del Codice:
 
-((...))
+((61))
 
-;   
-3) a euro 100,00 per ogni domanda con apparati
+  
+1) a euro 20,00 per ogni domanda e fino a 5 apparati;   
+2) a euro 40,00 per ogni domanda e fino a 15 apparati;   
+3) a euro 100,00 per ogni domanda con apparati superiori a 15.   
 
-((...))
+((d) nelle ipotesi di cui all'art. 104, comma 1, lettera c), numero 2.8-bis del codice: 1) a euro 100,00 per ogni dichiarazione di utilizzo fino a quindici apparati concentratori ubicati nello stesso ambito provinciale; 2) a euro 200,00 per ogni dichiarazione di utilizzo da sedici fino a quaranta apparati concentratori ubicati nello stesso ambito provinciale; 3) a euro 300,00 per ogni dichiarazione di utilizzo da quarantuno fino a cento apparati concentratori ubicati nello stesso ambito provinciale; 4) a euro 400,00 per ogni dichiarazione di utilizzo da centouno fino a trecento apparati concentratori ubicati nello stesso ambito provinciale; 5) a euro 500,00 con oltre trecento apparati concentratori ubicati nello stesso ambito provinciale.))
 
-superiori a 15.   
+((61))
+
+  
 2. I soggetti, che godono delle esenzioni di cui all'articolo 32, non sono tenuti al versamento del contributo previsto dal presente articolo con il rispetto delle modalita' di cui all'articolo 32, comma 11.   
 3. Nei casi di richiesta di autorizzazione generale per servizi mobili o portatili terrestri, si applica, ai soli fini del calcolo della distanza massima del collegamento di cui al comma 1, lettera b), il comma 1 dell'articolo 17.   
+  
+
+-------------
+
+AGGIORNAMENTO (61)
+
+Il Decreto 16 aprile 2026 (in G.U. 12/05/2026, n. 108) ha disposto (con l'art. 2, comma 1) che "Le modifiche di cui all'art. 1 producono i loro effetti a far data dal 1° giugno 2026".
 
 Allegato n. 25 Contributi-art. 34
 
