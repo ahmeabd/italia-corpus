@@ -984,10 +984,13 @@ ULTERIORI DEFINIZIONI
 30. occupante e' chiunque, pur non essendone proprietario, ha la disponibilita', a qualsiasi titolo, di un edificio e dei relativi impianti tecnologici;   
 31. parete fittizia e' la parete schematizzata in figura;   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v005G02190010001011000110&dgu=2005-09-23&art.dataPubblicazioneGazzetta=2005-09-23&art.codiceRedazionale=005G0219)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v005G02190010001011000111&dgu=2005-09-23&art.dataPubblicazioneGazzetta=2005-09-23&art.codiceRedazionale=005G0219)
   
   
-32. ponte termico e' la discontinuita' di isolamento termico che si puo' verificare in corrispondenza agli innesti di elementi strutturali (solai e pareti verticali o pareti verticali tra loro);   
+
+((32. ponte termico: zona piu' o meno estesa dell'involucro edilizio caratterizzata da dispersione termica dovuta a discontinuita' di tipo costruttivo, strutturale o geometrico e all'utilizzo di materiali con diversi valori di conduttivita' termica, in conformita' a quanto definito dalla norma UNI EN ISO 10211))
+
+.   
 33. ponte termico corretto e' quando la trasmittanza termica della parete fittizia (il tratto di parete esterna in corrispondenza del ponte termico) non supera per piu' del 15% la trasmittanza termica della parete corrente;   
 34. potenza termica convenzionale di un generatore di calore e' la potenza termica del focolare diminuita della potenza termica persa al camino in regime di funzionamento continuo; l'unita' di misura utilizzata e' il kW;   
 35. potenza termica del focolare di un generatore di calore e' il prodotto del potere calorifico inferiore del combustibile impiegato e della portata di combustibile bruciato; l'unita' di misura utilizzata e' il kW;   
@@ -1007,10 +1010,7 @@ a) climatizzazione invernale: fornitura di energia termica utile agli ambienti d
 b) produzione di acqua calda sanitaria: fornitura, per usi igienico sanitari, di acqua calda a temperatura prefissata ai terminali di erogazione degli edifici;   
 c) climatizzazione estiva: compensazione degli apporti di energia termica sensibile e latente per mantenere all'interno degli ambienti condizioni di temperatura a bulbo secco e umidita' relativa idonee ad assicurare condizioni di benessere per gli occupanti;   
 d) illuminazione: fornitura di luce artificiale quando l'illuminazione naturale risulti insufficiente per gli ambienti interni e per gli spazi esterni di pertinenza dell'edificio;   
-
-((e) sono ricompresi nei servizi energetici degli edifici anche i sistemi di ventilazione e i sistemi di automazione e controllo;))
-
-  
+e) sono ricompresi nei servizi energetici degli edifici anche i sistemi di ventilazione e i sistemi di automazione e controllo;   
 48. sostituzione di un generatore di calore e' la rimozione di un vecchio generatore e l'installazione di un altro nuovo, di potenza termica non superiore di piu' del 10% della potenza del generatore sostituito, destinato a erogare energia termica alle medesime utenze;   
 49. sottosistema di generazione: apparecchio o insieme di piu' apparecchi o dispositivi che permette di trasferire, al fluido termovettore o direttamente all'aria dell'ambiente interno climatizzato o all'acqua sanitaria, il calore derivante da una o piu' delle seguenti modalita':   
 a) prodotto dalla combustione;   
