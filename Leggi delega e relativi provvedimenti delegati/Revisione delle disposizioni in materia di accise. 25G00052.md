@@ -729,9 +729,9 @@ b) gasolio usato come carburante: euro 672,90 per mille litri.
 
 3. Per il gasolio utilizzato negli impieghi indicati ai numeri 5 e 9 della tabella A allegata al testo unico di cui al [decreto legislativo 26 ottobre 1995, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504), non trovano applicazione la variazione, in aumento, dell'aliquota di accisa sul gasolio usato come carburante stabilita dal decreto del Ministro dell'ambiente e della sicurezza energetica e del [Ministro dell'economia e delle finanze 14 maggio 2025, pubblicato nella Gazzetta Ufficiale n. 110 del 14 maggio 2025](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2025-05-14&numeroGazzetta=110), e la variazione, in aumento, della medesima aliquota stabilita dal comma 1, lettera b), del presente articolo.
 
-4. Allo scopo di incentivare l'impiego di carburanti maggiormente sostenibili sotto il profilo ambientale a cui e' applicata, in base al criterio di tassazione per equivalenza, l'aliquota di accisa sul gasolio impiegato come carburante, al biodiesel e ai gasoli paraffinici ottenuti da sintesi o da idrotrattamento (HVO), immessi in consumo tal quali per essere impiegati come carburanti, si applica, ai sensi dell'[articolo 16 della direttiva 2003/96/CE del Consiglio del 27 ottobre 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003L0096), un'aliquota di accisa ridotta pari a euro 617,40 per mille litri; la medesima aliquota trova applicazione per un periodo quinquennale decorrente dalla data di entrata in vigore del citato decreto 14 maggio 2025, [pubblicato nella Gazzetta Ufficiale n. 110 del 14 maggio 2025](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2025-05-14&numeroGazzetta=110). I biocarburanti di cui al presente comma soddisfano, ai fini dell'applicazione della predetta aliquota ridotta, le condizioni previste dall'[articolo 44, paragrafo 5, del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0651). (4)
+4. Allo scopo di incentivare l'impiego di carburanti maggiormente sostenibili sotto il profilo ambientale a cui e' applicata, in base al criterio di tassazione per equivalenza, l'aliquota di accisa sul gasolio impiegato come carburante, al biodiesel e ai gasoli paraffinici ottenuti da sintesi o da idrotrattamento (HVO), immessi in consumo tal quali per essere impiegati come carburanti, si applica, ai sensi dell'[articolo 16 della direttiva 2003/96/CE del Consiglio del 27 ottobre 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003L0096), un'aliquota di accisa ridotta pari a euro 617,40 per mille litri; la medesima aliquota trova applicazione per un periodo quinquennale decorrente dalla data di entrata in vigore del citato decreto 14 maggio 2025, [pubblicato nella Gazzetta Ufficiale n. 110 del 14 maggio 2025](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2025-05-14&numeroGazzetta=110). I biocarburanti di cui al presente comma soddisfano, ai fini dell'applicazione della predetta aliquota ridotta, le condizioni previste dall'[articolo 44, paragrafo 5, del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0651). (5) (6)
 
-((5))
+((4))
 
 5. Le disposizioni di cui al comma 4 si applicano nel rispetto dei limiti e delle condizioni previsti dal [regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0651), che dichiara alcune categorie di aiuti compatibili con il mercato interno in applicazione degli articoli 107 e [108 del Trattato sul funzionamento dell'Unione europea](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:12008E/TXT), e in particolare dall'articolo 44, paragrafo 5, del medesimo regolamento. Agli adempimenti in materia di aiuti di Stato provvede il Ministro dell'ambiente e della sicurezza energetica.
 
@@ -739,15 +739,21 @@ b) gasolio usato come carburante: euro 672,90 per mille litri.
 
 ---------------
 
-AGGIORNAMENTO (4)
+AGGIORNAMENTO (5)
 
 Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), come modificato dal [D.L. 3 aprile 2026, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-04-03;42), ha disposto (con l'art. 8-bis, comma 2) che per il periodo dall'8 aprile 2026 al 1° maggio 2026 "l'aliquota di accisa di cui all'[articolo 3, comma 4, del decreto legislativo 28 marzo 2025, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-03-28;43~art3-com4), applicata ai gasoli paraffinici ottenuti da sintesi o da idrotrattamento (HVO) e al biodiesel, immessi in consumo tal quali per essere impiegati come carburanti, che soddisfano le condizioni previste dall'[articolo 44, paragrafo 5, del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0651), e' rideterminata nella misura di 472,90 euro per mille litri".
 
 ---------------
 
-AGGIORNAMENTO (5)
+AGGIORNAMENTO (6)
 
 Il [D.L. 30 aprile 2026, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-04-30;63), ha disposto (con l'art. 1, comma 2) che "Per il medesimo periodo di cui al comma 1, l'aliquota di accisa di cui all'[articolo 3, comma 4, del decreto legislativo 28 marzo 2025, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-03-28;43~art3-com4), applicata ai gasoli paraffinici ottenuti da sintesi o da idrotrattamento (HVO) e al biodiesel, immessi in consumo tal quali per essere impiegati come carburanti, che soddisfano le condizioni previste dall'[articolo 44, paragrafo 5, del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0651), e' rideterminata nella misura di 472,90 euro per mille litri".
+
+---------------
+
+AGGIORNAMENTO (4)
+
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 8-bis, comma 2) che dall'8 aprile 2026 e fino al 1° maggio 2026 l'aliquota di accisa di cui all'[articolo 3, comma 4, del decreto legislativo 28 marzo 2025, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-03-28;43~art3-com4), applicata ai gasoli paraffinici ottenuti da sintesi o da idrotrattamento (HVO) e al biodiesel, immessi in consumo tal quali per essere impiegati come carburanti, che soddisfano le condizioni previste dall'[articolo 44, paragrafo 5, del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0651), e' rideterminata nella misura di 472,90 euro per mille litri.
 
 Art. 4
 ------

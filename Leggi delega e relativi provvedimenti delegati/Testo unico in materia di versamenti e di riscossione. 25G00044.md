@@ -612,19 +612,11 @@ Ritenuta sulle provvigioni inerenti a rapporti di commissione, di agenzia, di me
 2. La ritenuta e' commisurata al 50 per cento dell'ammontare delle provvigioni indicate nel primo comma. Se i percipienti dichiarano ai loro committenti, preponenti o mandanti che nell'esercizio della loro attivita' si avvalgono in via continuativa dell'opera di dipendenti o di terzi, la ritenuta e' commisurata al 20 per cento dell'ammontare delle stesse provvigioni.   
 3. La ritenuta di cui ai commi 1 e 2 e' scomputata dall'imposta relativa al periodo di imposta di competenza, purche' gia' operata al momento della presentazione della dichiarazione annuale, o, alternativamente, dall'imposta relativa al periodo di imposta nel quale e' stata operata. Qualora la ritenuta sia operata successivamente, la stessa e' scomputata dall'imposta relativa al periodo d'imposta in cui e' stata effettuata.   
 4. Se le provvigioni, per disposizioni normative o accordi contrattuali, sono direttamente trattenute sull'ammontare delle somme riscosse, i percipienti sono tenuti a rimettere ai committenti, preponenti o mandanti l'importo corrispondente alla ritenuta. Ai fini del computo dei termini per il relativo versamento da parte dei committenti, preponenti o mandanti, la ritenuta si considera operata nel mese successivo a quello in cui le provvigioni sono state trattenute dai percipienti. I committenti, preponenti o mandanti possono tener conto di eventuali errori nella determinazione dell'importo della ritenuta anche in occasione di successivi versamenti, non oltre il terzo mese dell'anno successivo a quello in cui le provvigioni sono state trattenute dai percipienti.   
-5. Le disposizioni dei commi da 1 a 4 non si applicano alle provvigioni percepite
+5. Le disposizioni dei commi da 1 a 4 non si applicano alle provvigioni percepite dai rivenditori autorizzati di documenti di viaggio relativi ai trasporti di persone,
 
-((...))
+((nonche' dalle agenzie di viaggio e turismo, limitatamente ai compensi comunque denominati percepiti per la vendita, l'emissione, la prenotazione o l'intermediazione dei medesimi documenti di viaggio,))
 
-dai rivenditori autorizzati di documenti di viaggio relativi ai trasporti di persone, dai soggetti che esercitano attivita' di distribuzione di pellicole cinematografiche; dalle aziende e istituti di credito e dalle societa' finanziarie e di locazione finanziaria per le prestazioni rese nell'esercizio delle attivita' di collocamento e di compravendita di titoli e valute nonche' di raccolta e di finanziamento,
-
-((...))
-
-dai mediatori e rappresentanti di produttori agricoli e ittici e di imprese esercenti la pesca marittima, dai commissionari che operano nei mercati ortoflorofrutticoli, ittici e di bestiame, nonche' dai consorzi e cooperative tra imprese agricole, commerciali e artigiane non aventi finalita' di lucro.
-
-((2))
-
-  
+dai soggetti che esercitano attivita' di distribuzione di pellicole cinematografiche; dalle aziende e istituti di credito e dalle societa' finanziarie e di locazione finanziaria per le prestazioni rese nell'esercizio delle attivita' di collocamento e di compravendita di titoli e valute nonche' di raccolta e di finanziamento, dai mediatori e rappresentanti di produttori agricoli e ittici e di imprese esercenti la pesca marittima, dai commissionari che operano nei mercati ortoflorofrutticoli, ittici e di bestiame, nonche' dai consorzi e cooperative tra imprese agricole, commerciali e artigiane non aventi finalita' di lucro. (2) (5)   
 6. Per le prestazioni rese dagli incaricati alle vendite a domicilio di cui all'[articolo 19 del decreto legislativo 31 marzo 1998, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;114~art19), la ritenuta e' applicata a titolo d'imposta ed e' commisurata all'ammontare delle provvigioni percepite ridotto del 22 per cento a titolo di deduzione forfetaria delle spese di produzione del reddito.  
 Per le prestazioni derivanti da mandato di agenzia si applicano le disposizioni indicate nei commi da 1 a 5.   
 7. Con decreto del Ministro dell'economia e delle finanze sono determinati i criteri, i termini e le modalita' per la presentazione della dichiarazione indicata nel comma 2. Tali modalita' devono prevedere la trasmissione anche tramite posta elettronica certificata della predetta dichiarazione. La dichiarazione non potra' avere limiti di tempo e sara' valida fino a revoca ovvero fino alla perdita dei requisiti da parte del contribuente. L'omissione della comunicazione relativa alle variazioni che comportano il venir meno delle predette condizioni comporta l'applicazione delle sanzioni previste dall'articolo 36 del testo unico sanzioni tributarie amministrative e penali di cui al [decreto legislativo 5 novembre 2024, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-11-05;173).   
@@ -636,6 +628,12 @@ Per le prestazioni derivanti da mandato di agenzia si applicano le disposizioni 
 AGGIORNAMENTO (2)
 
 La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 142) che le presenti modifiche si applicano alle provvigioni corrisposte a decorrere dal 1° marzo 2026.
+
+---------------
+
+AGGIORNAMENTO (5)
+
+La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), come modificata dal [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), ha disposto (con l'art. 1, comma 142) che "Le disposizioni di cui ai commi 140 e 141 si applicano alle provvigioni corrisposte a decorrere dal 1° maggio 2026".
 
 Allegato-art. 40
 

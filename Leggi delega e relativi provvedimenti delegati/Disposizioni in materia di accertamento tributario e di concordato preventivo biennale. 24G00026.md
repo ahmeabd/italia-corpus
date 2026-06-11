@@ -518,8 +518,7 @@ Si applicano, in quanto compatibili, i commi 3, 4 e 5.».
 
 ### Art. 4
 
-Prevenzione e contrasto dei fenomeni evasivi e fraudolenti   
-in ambito IVA
+Prevenzione e contrasto dei fenomeni evasivi e fraudolenti in ambito IVA
 
 1. Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633), sono apportate le seguenti modificazioni:
 
@@ -734,46 +733,32 @@ di ciascun anno, mette a disposizione dei contribuenti o dei loro intermediari, 
 
 Elaborazione e adesione alla proposta di concordato
 
-1. La proposta di concordato e' elaborata dall'Agenzia delle entrate, in coerenza con i dati dichiarati dal contribuente e comunque nel rispetto della sua capacita' contributiva, sulla base di una metodologia che valorizza, anche attraverso processi decisionali completamente automatizzati di cui all'[articolo 22 del regolamento (UE) 2016/679, del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679), le informazioni gia' nella disponibilita' dell'Amministrazione finanziaria, limitando l'introduzione di nuovi oneri dichiarativi. La predetta metodologia, predisposta per i contribuenti di cui agli articoli 10, comma 1, e 23, comma 1, con riferimento a specifiche attivita' economiche tiene conto degli andamenti economici e dei mercati, delle redditivita' individuali e settoriali desumibili dagli indici sintetici di affidabilita' fiscale di cui all'[articolo 9-bis del decreto-legge 24 aprile 2017, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50~art9bis), convertito, con modificazioni, dalla [legge 21 giugno 2017, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96), e delle risultanze della loro applicazione, nonche' degli specifici limiti imposti dalla normativa in materia di tutela dei dati personali. La metodologia e' approvata con decreto del Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali.
-
-((Il parere del Garante per la protezione dei dati personali e' richiesto solo nei casi in cui il decreto introduca modifiche al percorso metodologico di calcolo.))
+1. La proposta di concordato e' elaborata dall'Agenzia delle entrate, in coerenza con i dati dichiarati dal contribuente e comunque nel rispetto della sua capacita' contributiva, sulla base di una metodologia che valorizza, anche attraverso processi decisionali completamente automatizzati di cui all'[articolo 22 del regolamento (UE) 2016/679, del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679), le informazioni gia' nella disponibilita' dell'Amministrazione finanziaria, limitando l'introduzione di nuovi oneri dichiarativi. La predetta metodologia, predisposta per i contribuenti di cui agli articoli 10, comma 1, e 23, comma 1, con riferimento a specifiche attivita' economiche tiene conto degli andamenti economici e dei mercati, delle redditivita' individuali e settoriali desumibili dagli indici sintetici di affidabilita' fiscale di cui all'[articolo 9-bis del decreto-legge 24 aprile 2017, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50~art9bis), convertito, con modificazioni, dalla [legge 21 giugno 2017, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96), e delle risultanze della loro applicazione, nonche' degli specifici limiti imposti dalla normativa in materia di tutela dei dati personali. La metodologia e' approvata con decreto del Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali. Il parere del Garante per la protezione dei dati personali e' richiesto solo nei casi in cui il decreto introduca modifiche al percorso metodologico di calcolo.
 
 2. Ai fini dell'elaborazione della predetta proposta, l'Agenzia delle entrate, oltre ai dati di cui al comma 1, ne acquisisce ulteriori dalle banche dati nella disponibilita' dell'Amministrazione finanziaria e di altri soggetti pubblici, escluse quelle soggette alla disciplina di cui al [decreto legislativo 18 maggio 2018, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;51).  
 Con il decreto di cui al comma 1 sono individuate le specifiche cautele e le garanzie per i diritti e le liberta' dei contribuenti di cui all'[articolo 22, paragrafo 3, del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679), nonche' le eventuali tipologie di dati esclusi dal trattamento. L'Agenzia delle entrate elabora e comunica la proposta attraverso i programmi informatici di cui all'articolo 8.
 
-3. Il contribuente puo' aderire alla proposta di concordato
+3. Il contribuente puo' aderire alla proposta di concordato entro il 30 settembre, ovvero entro l'ultimo giorno del nono mese successivo a quello di chiusura del periodo d'imposta per i soggetti con periodo d'imposta non coincidente con l'anno solare. Per il primo anno di applicazione dell'istituto, il contribuente puo' aderire alla proposta di concordato entro il termine di presentazione della dichiarazione annuale dei redditi previsto dall'[articolo 11 del decreto legislativo 8 gennaio 2024, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-01-08;1~art11).
 
-((entro il 30 settembre))
+((6))
 
-, ovvero entro l'ultimo giorno
+3-bis. La proposta di reddito concordato di cui al comma 1 non puo' eccedere il corrispondente reddito dichiarato nel periodo d'imposta antecedente a quelli cui si riferisce la proposta, rettificato secondo quanto disposto dagli articoli 15 e 16, della misura:
 
-((del nono mese))
+a) del 10 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari a 10;
 
-successivo a quello di chiusura del periodo d'imposta per i soggetti con periodo d'imposta non coincidente con l'anno solare. Per il primo anno di applicazione dell'istituto, il contribuente puo' aderire alla proposta di concordato entro il termine di presentazione della dichiarazione annuale dei redditi previsto dall'[articolo 11 del decreto legislativo 8 gennaio 2024, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-01-08;1~art11).
+b) del 15 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 9 ma inferiore a 10;
 
-3-bis. 
+c) del 25 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 8 ma inferiore a 9.
 
-((La proposta di reddito concordato di cui al comma 1 non puo' eccedere il corrispondente reddito dichiarato nel periodo d'imposta antecedente a quelli cui si riferisce la proposta, rettificato secondo quanto disposto dagli articoli 15 e 16, della misura:))
+3-ter. Laddove la proposta, tenuto conto di quanto disposto al comma 3-bis, risulti inferiore rispetto ai valori di riferimento settoriali individuati nella metodologia di cui al comma 1, la limitazione di cui al comma 3-bis non trova applicazione.
 
-a)
+3-quater. La disposizione di cui al comma 3-bis si applica anche per la determinazione della proposta di valore della produzione netta rilevante ai fini della imposta regionale sulle attivita' produttive di cui all'articolo 17.
 
-((del 10 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari a 10;))
+---------------
 
-b)
+AGGIORNAMENTO (6)
 
-((del 15 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 9 ma inferiore a 10;))
-
-c)
-
-((del 25 per cento, se nel periodo d'imposta antecedente a quelli cui si riferisce la proposta i contribuenti presentano un livello di affidabilita' fiscale pari o superiore a 8 ma inferiore a 9.))
-
-3-ter. 
-
-((Laddove la proposta, tenuto conto di quanto disposto al comma 3-bis, risulti inferiore rispetto ai valori di riferimento settoriali individuati nella metodologia di cui al comma 1, la limitazione di cui al comma 3-bis non trova applicazione.))
-
-3-quater. 
-
-((La disposizione di cui al comma 3-bis si applica anche per la determinazione della proposta di valore della produzione netta rilevante ai fini della imposta regionale sulle attivita' produttive di cui all'articolo 17.))
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 7-bis, comma 3) che "Per il biennio 2026-2027 il termine per aderire alla proposta di concordato, di cui all'[articolo 9, comma 3, del decreto legislativo 12 febbraio 2024, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13~art9-com3), e' differito al 31 ottobre 2026 ovvero all'ultimo giorno del decimo mese successivo a quello di chiusura del periodo d'imposta per i soggetti con periodo d'imposta non coincidente con l'anno solare".
 
 CAPO III Capo II Contribuenti per i quali si applicano gli Indici sintetici di affidabilita' fiscale
 ----------------------------------------------------------------------------------------------------

@@ -149,15 +149,19 @@ Disposizioni finanziarie
 
 1. Agli oneri derivanti dall'attuazione dell'articolo 2, comma 1, lettera c), pari a 56.240 euro per l'anno 2024 e a 168.720 euro annui a decorrere dall'anno 2025, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma « Fondi di riserva e speciali » della missione « Fondi da ripartire » dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.
 
-2. Salvo quanto previsto dal comma 1, dall'attuazione delle deleghe recate dalla presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. A tale fine, le amministrazioni competenti provvedono ai relativi adempimenti con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente. Gli schemi dei decreti legislativi di cui all'articolo 1 sono corredati di una relazione tecnica che dia conto della neutralita' finanziaria dei medesimi ovvero dei nuovi o maggiori oneri da essi derivanti e dei corrispondenti mezzi di copertura. In conformita' all'[articolo 17, comma 2, della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art17-com2), qualora i decreti legislativi adottati in attuazione dell'articolo 2, comma 1, lettere f) e i), della presente legge determinino nuovi o maggiori oneri che non trovino compensazione al loro interno, i medesimi decreti legislativi sono emanati solo successivamente o contestualmente all'entrata in vigore dei provvedimenti legislativi che stanziano le occorrenti risorse finanziarie.
+((1))
 
-Note all'art. 4:   
-- Si riporta il testo dell'[articolo 17, comma 2, della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art17-com2) recante «Legge di contabilita' e finanza pubblica» [pubblicata nella Gazzetta Ufficiale n. 303 del 31 dicembre 2009](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2009-12-31&numeroGazzetta=303) - Suppl. Ordinario n. 245:   
-«Art. 17 (Copertura finanziaria delle leggi). - (omissis).   
-2. Le leggi di delega comportanti oneri recano i mezzi di copertura necessari per l'adozione dei relativi decreti legislativi.   
-Qualora, in sede di conferimento della delega, per la complessita' della materia trattata, non sia possibile procedere alla determinazione degli effetti finanziari derivanti dai decreti legislativi, la quantificazione degli stessi e' effettuata al momento dell'adozione dei singoli decreti legislativi. I decreti legislativi dai quali derivano nuovi o maggiori oneri sono emanati solo successivamente all'entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie.  
-A ciascuno schema di decreto legislativo e' allegata una relazione tecnica, predisposta ai sensi del comma 3, che da' conto della neutralita' finanziaria del medesimo decreto ovvero dei nuovi o maggiori oneri da esso derivanti e dei corrispondenti mezzi di copertura.   
-(omissis)».
+2. Salvo quanto previsto dal comma 1, dall'attuazione delle deleghe recate dalla presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. A tale fine, le amministrazioni competenti provvedono ai relativi adempimenti con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente. Gli schemi dei decreti legislativi di cui all'articolo 1 sono corredati di una relazione tecnica che dia conto della neutralita' finanziaria dei medesimi ovvero dei nuovi o maggiori oneri da essi derivanti e dei corrispondenti mezzi di copertura. In conformita' all'[articolo 17, comma 2, della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art17-com2), qualora i decreti legislativi adottati in attuazione dell'articolo 2, comma 1, lettere f) e i), della presente legge determinino nuovi o maggiori oneri che non trovino compensazione al loro interno
+
+((o mediante utilizzo, nel limite massimo di 5,5 milioni di euro per l'anno 2027 e 2,5 milioni di euro per ciascuno degli anni 2028 e 2029, degli accantonamenti relativi al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste dei fondi speciali di cui all'[articolo 1, comma 756, della legge 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199~art1-com756)))
+
+, i medesimi decreti legislativi sono emanati solo successivamente o contestualmente all'entrata in vigore dei provvedimenti legislativi che stanziano le occorrenti risorse finanziarie.
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 14-ter, comma 1) che "Per dare attuazione al criterio di delega di cui all'[articolo 2, comma 1, lettera c), della legge 4 luglio 2024, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-07-04;102~art2-com1-letc), i relativi oneri, quantificati all'articolo 4, comma 1, della medesima legge, sono incrementati di 21.513 euro annui a decorrere dall'anno 2027".
 
 Art. 5
 ------
