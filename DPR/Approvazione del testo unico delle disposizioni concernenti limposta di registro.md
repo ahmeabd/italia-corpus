@@ -977,9 +977,7 @@ Rendite e pensioni
 
 2. Il valore della rendita o pensione e' costituito:
 
-a) da quaranta volte dell'annualita' se si tratta di rendita perpetua o a tempo indeterminato; (49) (51) (55a) (58a) (62) (69) (71) (73) (75) (79) (82) (87) (91) (93)(96)
-
-((102))
+a) da quaranta volte dell'annualita' se si tratta di rendita perpetua o a tempo indeterminato; (49) (51) (55a) (58a) (62) (69) (71) (73) (75) (79) (82) (87) (91) (93)(96)(102)
 
 b) dal valore attuale dell'annualita', calcolato al saggio legale di interesse, se si tratta di rendita o pensione a tempo determinato; (49) (51) (55a) (58a) (62) (69) (71) (73)(75) (79) (82) (87) (91) (93)
 
@@ -993,7 +991,9 @@ c) dall'ammontare che si ottiene moltiplicando l'annualita' per il coefficiente 
 
 5-bis. Il prospetto dei coefficienti allegato al presente testo unico e il valore del multiplo dell'annualita' indicato al comma 2, lettera a), sono variati in ragione della modificazione della misura del saggio legale degli interessi, con decreto del Ministero dell'economia e delle finanze, da pubblicare nella Gazzetta Ufficiale non oltre il 31 dicembre dell'anno in cui detta modifica e' intervenuta. Le variazioni di cui al primo periodo si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' pubblicato il decreto di variazione. (93)
 
-5-ter. Ai fini della determinazione dei valori di cui ai commi 2 e 5-bis, non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento. (93)
+5-ter. Ai fini della determinazione dei valori di cui ai commi 2 e 5-bis, non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento. (93)   
+
+((103))
 
 ---------------
 
@@ -1105,6 +1105,12 @@ AGGIORNAMENTO (102)
 
 Il Decreto 24 dicembre 2025 (in G.U. 31/12/2025, n. 302) ha disposto (con l'art. 1, comma 1) che "Il valore del multiplo indicato nell'art. 46, comma 2, lettera a) del testo unico delle disposizioni concernenti l'imposta di registro, approvato con [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-04-26;131), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'".   
 Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni aperte e alle donazioni fatte a decorrere dalla data del 1° gennaio 2026".
+
+---------------
+
+AGGIORNAMENTO (103)
+
+La Corte Costituzionale, con sentenza 23 marzo - 28 maggio 2026, n. 89 (in G.U. 1a s.s. 3/6/2026, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'[art. 46 del d.P.R. 26 aprile 1986, n. 131](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-04-26;131~art46) (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), nella parte in cui non prevede che, ai fini della determinazione del valore di cui al comma 2, lettera c), del medesimo articolo, non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento".
 
 ### Art. 47
 

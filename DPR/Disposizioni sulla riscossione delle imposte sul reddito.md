@@ -1580,19 +1580,15 @@ le visure ipotecarie e catastali relative agli immobili dei debitori iscritti a 
 
 1-bis. Limitatamente alle somme dovute a titolo di stipendio, di salario o di altre indennita' relative al rapporto di lavoro o di impiego, comprese quelle dovute a causa di licenziamento, le disposizioni di cui al comma 1 si applicano anche al pagamento di importi superiori a duemilacinquecento euro; in tal caso, i soggetti di cui al medesimo comma 1 verificano se il beneficiario e' inadempiente all'obbligo di versamento derivante dalla notifica di una o piu' cartelle di pagamento per un ammontare complessivo pari almeno a cinquemila euro. (133)
 
-1-ter. 
+1-ter. Relativamente alle somme di cui all'articolo 54 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), dovute agli esercenti arti e professioni per l'attivita' professionale dai medesimi svolta, anche in favore di persone ammesse al patrocinio a spese dello Stato, le disposizioni di cui al comma 1 del presente articolo si applicano, a decorrere dal 15 giugno 2026, anche al pagamento di importi fino a 5.000 euro; in tal caso, i soggetti di cui allo stesso comma 1 verificano se il beneficiario e' inadempiente all'obbligo di versamento derivante dalla notifica di una o piu' cartelle di pagamento
 
-((Relativamente alle somme di cui all'articolo 54 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), dovute agli esercenti arti e professioni per l'attivita' professionale dai medesimi svolta, anche in favore di persone ammesse al patrocinio a spese dello Stato, le disposizioni di cui al comma 1 del presente articolo si applicano, a decorrere dal 15 giugno 2026, anche al pagamento di importi fino a 5.000 euro; in tal caso, i soggetti di cui allo stesso comma 1 verificano se il beneficiario e' inadempiente all'obbligo di versamento derivante dalla notifica di una o piu' cartelle di pagamento di qualunque ammontare e, in caso affermativo, sono tenuti a procedere, direttamente in base all'esito della verifica, al pagamento in favore:))
+((per un ammontare complessivo pari almeno a cinquemila euro))
 
-a)
+e, in caso affermativo, sono tenuti a procedere, direttamente in base all'esito della verifica, al pagamento in favore:
 
-((dell'agente della riscossione, fino a concorrenza del debito risultante dalla verifica;))
+a) dell'agente della riscossione, fino a concorrenza del debito risultante dalla verifica;
 
-b)
-
-((del beneficiario, nei limiti delle somme eventualmente eccedenti l'ammontare del predetto debito))
-
-.
+b) del beneficiario, nei limiti delle somme eventualmente eccedenti l'ammontare del predetto debito.
 
 2. Con regolamento del Ministro dell'economia e delle finanze, da adottare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 1.
 
@@ -1615,7 +1611,7 @@ Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (133)
 
-La [L. 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207), ha disposto (con l'art. 1, cooma 84) che "Le disposizioni di cui al comma 84 si applicano con riferimento ai pagamenti da effettuare a titolo di stipendio, di salario o di altre indennita' relative al rapporto di lavoro o di impiego, comprese quelle dovute a causa di licenziamento, a decorrere dal 1° gennaio 2026".
+La [L. 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207), ha disposto (con l'art. 1, comma 85) che "Le disposizioni di cui al comma 84 si applicano con riferimento ai pagamenti da effettuare a titolo di stipendio, di salario o di altre indennita' relative al rapporto di lavoro o di impiego, comprese quelle dovute a causa di licenziamento, a decorrere dal 1° gennaio 2026".
 
 CAPO IV ((Capo II EPROPRIAZIONE FORZATA Sezione I DISPOSIZIONI GENERALI))
 -------------------------------------------------------------------------

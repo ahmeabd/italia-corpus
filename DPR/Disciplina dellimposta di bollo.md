@@ -2847,8 +2847,8 @@ imposta | |por-| |
 | | | |medio di giacenza |  
 |b) se il cliente| | |risultante |  
 |e' soggetto | | |dagli estratti e |  
-|diverso da |((euro)) | |dai libretti e' |  
-|persona fisica |((118,00))| |complessivamente |  
+|diverso da |euro | |dai libretti e' |  
+|persona fisica |118,00 | |complessivamente |  
 | | | |non superiore a |  
 | | | |euro 5.000. |  
 | | | | |  
@@ -3095,7 +3095,7 @@ Il [D.L. 2 marzo 2012, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stat
 
 AGGIORNAMENTO (91)
 
-Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), ha disposto (con l'art. 12, comma 2) che "La disposizione di cui al comma 1 si applica agli estratti conto e ai rendiconti emessi a decorrere dalla data di entrata in vigore del presente articolo".
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 12, comma 2) che "La disposizione di cui al comma 1 si applica agli estratti conto e ai rendiconti emessi a decorrere dalla data di entrata in vigore del presente decreto".
 
 Allegato A-art. 14
 

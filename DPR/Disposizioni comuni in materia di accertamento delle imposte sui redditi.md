@@ -660,35 +660,34 @@ I soggetti indicati nel primo comma dell'articolo 23, escluse le imprese agricol
 La ritenuta e' commisurata al cinquanta per cento dell'ammontare delle provvigioni indicate nel primo comma. Se i percipienti dichiarano ai loro committenti, preponenti o mandanti che nell'esercizio della loro attivita' si avvalgono in via continuativa dell'opera di dipendenti o di terzi, la ritenuta e' commisurata al venti per cento dell'ammontare delle stesse provvigioni.   
 La ritenuta di cui ai commi precedenti e' scomputata dall'imposta relativa al periodo di imposta di competenza, purche' gia' operata al momento della presentazione della dichiarazione annuale, o, alternativamente, dall'imposta relativa al periodo di imposta nel quale e' stata operata. Qualora la ritenuta sia operata successivamente, la stessa e' scomputata dall'imposta relativa al periodo di imposta in cui e' stata effettuata.   
 Se le provvigioni, per disposizioni normative o accordi contrattuali, sono direttamente trattenute sull'ammontare delle somme riscosse, i percipienti sono tenuti a rimettere ai committenti, preponenti o mandanti l'importo corrispondente alla ritenuta. Ai fini del computo dei termini per il relativo versamento da parte dei committenti, preponenti o mandanti, la ritenuta si considera operata nel mese successivo a quello in cui le provvigioni sono state trattenute dai percipienti. I committenti, preponenti o mandanti possono tener conto di eventuali errori nella determinazione dell'importo della ritenuta anche in occasione di successivi versamenti, non oltre il terzo mese dell'anno successivo a quello in cui le provvigioni sono state trattenute dai percipienti.   
-Le disposizioni dei precedenti commi non si applicano alle provvigioni percepite
+Le disposizioni dei precedenti commi non si applicano alle provvigioni percepite dai rivenditori autorizzati di documenti di viaggio relativi ai trasporti di persone, dai soggetti che esercitano attivita' di distribuzione di pellicole cinematografiche, dalle aziende ed istituti di credito e dalle societa' finanziarie e di locazione finanziaria per le prestazioni rese nell'esercizio delle attivita' di collocamento e di compravendita di titoli e valute nonche' di raccolta e di finanziamento, dai mediatori e rappresentanti di produttori agricoli ed ittici e di imprese esercenti la pesca marittima, dai commissionari che operano nei mercati ortoflorofrutticoli, ittici e di bestiame, nonche' dai consorzi e cooperative tra imprese agricole, commerciali ed artigiane non aventi finalita' di lucro. (176) (190)
 
-((...))
-
-dai rivenditori autorizzati di documenti di viaggio relativi ai trasporti di persone, dai soggetti che esercitano attivita' di distribuzione di pellicole cinematografiche, dalle aziende ed istituti di credito e dalle societa' finanziarie e di locazione finanziaria per le prestazioni rese nell'esercizio delle attivita' di collocamento e di compravendita di titoli e valute nonche' di raccolta e di finanziamento,
-
-((...))
-
-dai mediatori e rappresentanti di produttori agricoli ed ittici e di imprese esercenti la pesca marittima, dai commissionari che operano nei mercati ortoflorofrutticoli, ittici e di bestiame, nonche' dai consorzi e cooperative tra imprese agricole, commerciali ed artigiane non aventi finalita' di lucro. (176)
-
-((190))
+((191))
 
   
 Per le prestazioni rese dagli incaricati alle vendite a domicilio di cui all'[articolo 19 del decreto legislativo 31 marzo 1998, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;114~art19), la ritenuta e' applicata a titolo d'imposta ed e' commisurata all'ammontare delle provvigioni percepite ridotto del 22 per cento a titolo di deduzione forfetaria delle spese di produzione del reddito.  
 Per le prestazioni derivanti da mandato di agenzia si applicano le disposizioni indicate nei commi che precedono.   
 Con decreto del Ministro dell'economia e delle finanze sono determinati i criteri, i termini e le modalita' per la presentazione della dichiarazione indicata nel secondo comma. Tali modalita' devono prevedere la trasmissione anche tramite posta elettronica certificata della predetta dichiarazione. La dichiarazione non potra' avere limiti di tempo e sara' valida fino a revoca ovvero fino alla perdita dei requisiti da parte del contribuente. L'omissione della comunicazione relativa alle variazioni che comportano il venir meno delle predette condizioni comporta l'applicazione delle sanzioni previste dall'[articolo 11, del decreto legislativo 18 dicembre 1997, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;471~art11), e successive modificazioni.   
 Le disposizioni dei precedenti commi si applicano anche alle provvigioni corrisposte a stabili organizzazioni nel territorio dello Stato di soggetti non residenti.   
+  
 
-------------------
+--------------
 
 AGGIORNAMENTO (176)
 
 La [L. 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213) ha disposto (con l'art. 1, comma 90) che la presente modifica si applica a decorrere dal 1° aprile 2024.
 
-------------------
+--------------
 
 AGGIORNAMENTO (190)
 
 La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 142) che "Le disposizioni di cui ai commi 140 e 141 si applicano alle provvigioni corrisposte a decorrere dal 1° marzo 2026".
+
+--------------
+
+AGGIORNAMENTO (191)
+
+La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), come modificata dal [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), ha disposto (con l'art. 1, comma 142) che "Le disposizioni di cui ai commi 140 e 141 si applicano alle provvigioni corrisposte a decorrere dal 1° maggio 2026".
 
 ### Art. 25-ter
 
@@ -1006,11 +1005,11 @@ Il [D.L. 13 agosto 2011, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 3-bis. I soggetti cui si applica l'articolo 98 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), sono tenuti ad operare, con obbligo di rivalsa, la ritenuta di cui ai commi 3 e 3-ter sulla remunerazione di finanziamenti eccedenti prevista dal citato articolo 98 direttamente erogati dal socio o da una sua parte correlata, non residenti nel territorio dello Stato. A fini della determinazione della ritenuta di cui sopra, si computa in diminuzione la eventuale ritenuta operata ai sensi dell'articolo 26 riferibile alla medesima remunerazione. La presente disposizione non si applica alla remunerazione di finanziamenti eccedenti direttamente erogati dalle stabili organizzazioni nel territorio dello Stato di soggetti non residenti.
 
-3-ter. 
+3-ter. La ritenuta e' operata a titolo di imposta e con l'aliquota dell'1,20 per cento sugli utili corrisposti alle societa' e agli enti soggetti ad un'imposta sul reddito delle societa' negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui ai decreti emanati in attuazione dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239~art11-com4-letc), ed ivi residenti, in relazione alle partecipazioni, agli strumenti finanziari di cui all'articolo 44, comma 2, lettera a), del predetto testo unico
 
-((La ritenuta e' operata a titolo di imposta e con l'aliquota dell'1,20 per cento sugli utili corrisposti alle societa' e agli enti soggetti ad un'imposta sul reddito delle societa' negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui ai decreti emanati in attuazione dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239~art11-com4-letc), ed ivi residenti, in relazione alle partecipazioni, agli strumenti finanziari di cui all'articolo 44, comma 2, lettera a), del predetto testo unico e ai contratti di associazione in partecipazione di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico, non relativi a stabili organizzazioni nel territorio dello Stato.))
+((di cui al [decreto del Presidente della Repubblica n. 917 del 1986](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986;917)))
 
-((191))
+e ai contratti di associazione in partecipazione di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico, non relativi a stabili organizzazioni nel territorio dello Stato. (191)
 
 4. Sulle remunerazioni corrisposte a persone fisiche residenti relative a partecipazioni al capitale o al patrimonio, titoli e strumenti finanziari di cui all'articolo 44, comma 2, lettera a), ultimo periodo, del testo unico delle imposte sui redditi e a contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico, in cui l'associante e' soggetto non residente, qualificati e non qualificati ai sensi delle lettere c) e c-bis) del comma 1 dell'articolo 67 del testo unico e non relativi all'impresa ai sensi dell'articolo 65 dello stesso testo unico, e' operata una ritenuta del 12,50 per cento a titolo d'imposta dai soggetti di cui al primo comma dell'articolo 23 che intervengono nella loro riscossione. La ritenuta e' operata a titolo d'acconto:
 
@@ -1084,7 +1083,7 @@ La [L. 30 dicembre 2020, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (191)
 
-Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), ha disposto (con l'art. 11, comma 5) che "Le disposizioni di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026".
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 11, comma 5) che "Le disposizioni di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026".
 
 ### Art. 27-bis
 

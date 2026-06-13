@@ -1436,9 +1436,14 @@ b) per i passaggi di beni dal committente al commissionario o dal commissionario
 
 c) per le cessioni indicate ai numeri 4), 5) e 6) del secondo comma dell'articolo 2, dal prezzo di acquisto o, in mancanza, dal prezzo di costo dei beni o di beni simili, determinati nel momento in cui si effettuano tali operazioni; per le prestazioni di servizi di cui al primo e al secondo periodo del terzo comma dell'articolo 3 nonche' per quelle di cui al terzo periodo del sesto comma dell'articolo 6, dalle spese sostenute dal soggetto passivo per l'esecuzione dei servizi medesimi; (139)
 
-d) per le cessioni e le prestazioni di servizi di cui all'articolo 11, dal valore dei beni e dei servizi che formano oggetto di ciascuna di esse, determinato dall'ammontare complessivo di tutti i costi riferibili a tali cessioni o prestazioni; (256)
+d)
 
-((257))
+((per le cessioni e le prestazioni di servizi di cui all'articolo 11, dal valore monetario dei beni e dei servizi che formano oggetto di ciascuna di esse, come determinato dal contratto.  
+In ogni caso, tale valore non puo' essere inferiore all'ammontare complessivo dei costi riferibili alle cessioni effettuate e alle prestazioni rese da ciascuna delle parti, determinato nel momento in cui si effettuano dette operazioni))
+
+. (256) (257)
+
+((260))
 
 e) per le cessioni di beni vincolati al regime della temporanea importazione, dal corrispettivo della cessione diminuito del valore accertato dall'ufficio doganale all'atto della temporanea importazione.
 
@@ -1499,6 +1504,13 @@ La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 AGGIORNAMENTO (257)
 
 La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), come modificata dal [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), ha disposto (con l'art. 1, comma 139) che "Le disposizioni di cui al comma 138 si applicano alle operazioni effettuate in esecuzione di contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026".
+
+---------------
+
+AGGIORNAMENTO (260)
+
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 1, comma 2) che "La disposizione di cui al comma 1 si applica alle operazioni effettuate in esecuzione di contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026. Sono fatti salvi i comportamenti adottati in conformita' all'[articolo 1, comma 138, della legge 30 dicembre 2025, n. 199, dal 1° gennaio 2026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-01-01;199~art1-com138) alla data di entrata in vigore della legge di conversione del presente decreto. Per le operazioni effettuate in esecuzione di contratti stipulati prima del 1° gennaio 2026 sono fatti salvi i comportamenti adottati in conformita' alla disciplina vigente alla data del 31 dicembre 2025 fino alla data di entrata in vigore della legge di conversione del presente decreto.  
+Non si fa luogo, in ogni caso, a rimborsi d'imposta o a variazioni rispetto all'imposta precedentemente liquidata".
 
 ### Art. 14
 
