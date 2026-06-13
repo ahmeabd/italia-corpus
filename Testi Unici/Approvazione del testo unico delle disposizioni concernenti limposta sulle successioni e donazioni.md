@@ -521,16 +521,13 @@ Testo Unico delle disposizioni concernenti l'imposta sulle successioni e donazio
 Rendite e pensioni   
   
 1. La base imponibile, relativamente alle rendite e pensioni comprese nell'attivo ereditario, e' determinata assumendo:   
-a) il valore pari a quaranta volte l'annualita', se si tratta di rendita perpetua o a tempo indeterminato; (27) (28) (30) (31) (32) (38) (39) (41) (42) (43) (44) (46) (47) (50) (52)
-
-((55))
-
-  
+a) il valore pari a quaranta volte l'annualita', se si tratta di rendita perpetua o a tempo indeterminato; (27) (28) (30) (31) (32) (38) (39) (41) (42) (43) (44) (46) (47) (50) (52) (55)   
 b) il valore attuale dell'annualita', calcolato al saggio legale di interesse se si tratta di rendita o pensione a tempo determinato; se e' prevista la cessazione per effetto della morte del beneficiario o di persona diversa, il valore non puo' superare quello determinato a norma della lettera c) con riferimento alla durata massima; (27) (28) (30) (31) (32) (38) (39) (41) (42) (43) (44) (46) (47) (50)   
 c) il valore che si ottiene moltiplicando l'annualita' per il coefficiente indicato nel prospetto allegato al presente testo unico, in relazione all'eta' della persona alla cui morte essa deve cessare, se si tratta di rendita o pensione vitalizia; in caso di rendita o pensione costituita congiuntamente a favore di piu' persone si tiene conto dell'eta' del meno giovane dei beneficiari se e' prevista la cessazione con la morte di uno qualsiasi di essi, dell'eta' del piu' giovane se vi e' diritto di accrescimento fra loro; se e' prevista la cessazione per effetto della morte di persona diversa dai beneficiari si tiene conto dell'eta' di questa. (50)   
 1-bis.Il prospetto dei coefficienti allegato al presente testo unico e il valore del multiplo dell'annualita' indicato al comma 1, lettera a), sono variati in ragione della modificazione della misura del saggio legale degli interessi, con decreto del Ministero dell'economia e delle finanze, da pubblicare nella Gazzetta Ufficiale non oltre il 31 dicembre dell'anno in cui detta modifica e' intervenuta. Le variazioni di cui al primo periodo hanno efficacia per le successioni aperte e le donazioni fatte a decorrere dal 1° gennaio dell'anno successivo a quello in cui e' pubblicato il decreto di variazione. (50)   
 1-ter. Ai fini della determinazione dei valori di cui ai commi 1 e 1-bis non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento. (50)   
-  
+
+((56))
 
 ---------------
 
@@ -642,6 +639,12 @@ AGGIORNAMENTO (55)
 
 Il Decreto 24 dicembre 2025 (in G.U. 31/12/2025, n. 302) ha disposto (con l'art. 1, comma 2) che "Il valore del multiplo indicato nell'art. 17, comma 1, lettera a) del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con [decreto legislativo 31 ottobre 1990, n. 346](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;346), e successive modificazioni, relativo alla determinazione della base imponibile per la costituzione di rendite o pensioni, e' fissato in quaranta volte l'annualita'".   
 Ha inoltre disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente decreto si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate e a quelle non autenticate presentate per la registrazione, alle successioni aperte e alle donazioni fatte a decorrere dalla data del 1° gennaio 2026".
+
+---------------
+
+AGGIORNAMENTO (56)
+
+La Corte Costituzionale, con sentenza 23 marzo - 28 maggio 2026, n. 89 (in G.U. 1a s.s. 3/6/2026, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'[art. 17 del decreto legislativo 31 ottobre 1990, n. 346](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;346~art17) (Approvazione del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni), nel testo applicabile prima della modifica di cui all'[art. 1, comma 1, lettera r), del decreto legislativo 18 settembre 2024, n. 139](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-18;139~art1-com1-letr) (Disposizioni per la razionalizzazione dell'imposta di registro, dell'imposta sulle successioni e donazioni, dell'imposta di bollo e degli altri tributi indiretti diversi dall'IVA), nella parte in cui non prevede che, ai fini della determinazione del valore di cui al comma 1, lettera c), del medesimo articolo, non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento".
 
 Testo Unico delle disposizioni concernenti l'imposta sulle successioni e donazioni - Art. 18
 

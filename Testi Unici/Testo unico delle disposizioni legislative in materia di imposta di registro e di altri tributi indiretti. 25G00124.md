@@ -2756,7 +2756,7 @@ Parte I
   
 Atti, documenti e registri soggetti all'imposta di bollo fin dall'origine   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v25G001240040001011000104&dgu=2025-08-12&art.dataPubblicazioneGazzetta=2025-08-12&art.codiceRedazionale=25G00124)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v25G001240040001011000105&dgu=2025-08-12&art.dataPubblicazioneGazzetta=2025-08-12&art.codiceRedazionale=25G00124)
   
 (1) (2)
 
@@ -2791,8 +2791,8 @@ Ha inoltre disposto (con l'art. 1, comma 146) che "Le disposizioni di cui al com
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), ha disposto (con l'art. 12, comma 1) che all'articolo 9, comma 3, lettera b), della tariffa, parte I, di cui all'Allegato 3 del presente D.Lgs., le parole «euro 100,00» sono sostituite dalle seguenti «euro 118,00».   
-Ha inoltre disposto (con l'art. 12, comma 2) che "La disposizione di cui al comma 1 si applica agli estratti conto e ai rendiconti emessi a decorrere dalla data di entrata in vigore del presente articolo".
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 12, comma 1) che all'articolo 9, comma 3, lettera b), della tariffa, parte I, di cui all'Allegato 3 del presente D.Lgs., le parole «euro 100,00» sono sostituite dalle seguenti «euro 118,00».   
+Ha inoltre disposto (con l'art. 12, comma 2) che "La disposizione di cui al comma 1 si applica agli estratti conto e ai rendiconti emessi a decorrere dalla data di entrata in vigore del presente decreto".
 
 Allegato 3-art. 2
 
