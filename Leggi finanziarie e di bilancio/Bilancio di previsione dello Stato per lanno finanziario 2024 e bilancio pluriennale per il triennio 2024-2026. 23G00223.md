@@ -1030,11 +1030,7 @@ b) destinazione a obiettivi di edilizia residenziale pubblica o sociale delle un
 
 c) realizzazione di progetti di edilizia residenziale pubblica e di edilizia sociale tramite operazioni di partenariato pubblico-privato disciplinato dal libro IV del [codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163), di cui al [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36), finalizzate al recupero o alla riconversione del patrimonio immobiliare esistente ai sensi della lettera a) ovvero alla realizzazione di nuovi edifici su aree gia' individuate come edificabili nell'ambito dei piani regolatori generali.
 
-283. 
-
-((COMMA ABROGATO DAL [D.L. 7 MAGGIO 2026, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-05-07;66)))
-
-.
+283. COMMA ABROGATO DAL [D.L. 7 MAGGIO 2026, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-05-07;66).
 
 284. Per le finalita' di cui ai commi 282 e 283, e' autorizzata la spesa di 50 milioni di euro per l'anno 2027 e di 50 milioni di euro per l'anno 2028. Tali risorse contribuiscono alle medesime finalita' di cui all'[articolo 1, comma 403, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com403).
 
@@ -1773,7 +1769,9 @@ c) indice di vulnerabilita' sociale e materiale superiore alla media nazionale.
 
 518. Il Fondo per interventi strutturali di politica economica, di cui all'[articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-29;282~art10-com5), convertito, con modificazioni, dalla [legge 27 dicembre 2004, n. 307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-27;307), e' ridotto di 11,6 milioni di euro per l'anno 2025 e di 5,8 milioni di euro a decorrere dall'anno 2026.
 
-519. Il fondo per la sistemazione contabile delle partite iscritte al conto sospeso, iscritto nello stato di previsione del Ministero dell'economia e delle finanze, e' rifinanziato di 2 miliardi di euro per ciascuno degli anni 2024, 2025 e 2026. Il Ministro dell'economia e delle finanze e' autorizzato a ripartire le risorse del predetto fondo tra gli stati di previsione dei Ministeri interessati, ovvero, al fine di accelerare l'estinzione delle suddette partite, ad assegnare direttamente le medesime risorse, anche in conto residui, all'istituto cui e' affidato il servizio di tesoreria dello Stato, il quale provvede alla relativa sistemazione, fornendo al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato e alla competente Amministrazione ogni elemento informativo utile delle operazioni effettuate di individuazione e regolazione di ciascuna partita, secondo lo schema trasmesso dal Dipartimento della Ragioneria generale dello Stato. Le risorse del suddetto fondo non utilizzate entro il 31 dicembre di ciascun anno sono conservate in bilancio per essere utilizzate nell'esercizio successivo. (42)
+519. Il fondo per la sistemazione contabile delle partite iscritte al conto sospeso, iscritto nello stato di previsione del Ministero dell'economia e delle finanze, e' rifinanziato di 2 miliardi di euro per ciascuno degli anni 2024, 2025 e 2026. Il Ministro dell'economia e delle finanze e' autorizzato a ripartire le risorse del predetto fondo tra gli stati di previsione dei Ministeri interessati, ovvero, al fine di accelerare l'estinzione delle suddette partite, ad assegnare direttamente le medesime risorse, anche in conto residui, all'istituto cui e' affidato il servizio di tesoreria dello Stato, il quale provvede alla relativa sistemazione, fornendo al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato e alla competente Amministrazione ogni elemento informativo utile delle operazioni effettuate di individuazione e regolazione di ciascuna partita, secondo lo schema trasmesso dal Dipartimento della Ragioneria generale dello Stato. Le risorse del suddetto fondo non utilizzate entro il 31 dicembre di ciascun anno sono conservate in bilancio per essere utilizzate nell'esercizio successivo.
+
+((43))
 
 520. E' istituita, presso il Ministero dell'economia e delle finanze, una Commissione composta da esperti nominati dal Ministro dell'economia e delle finanze e dal Ministro del lavoro e delle politiche sociali al fine di procedere a valutare i parametri e i criteri da utilizzare, a decorrere dal 1° gennaio 2027 e senza nuovi o maggiori oneri per la finanza pubblica, per la rivalutazione delle prestazioni di carattere previdenziale e sociale per le quali e' prevista, a legislazione vigente, la suddetta rivalutazione sulla base dell'indice del costo della vita, anche considerando a tali fini il deflatore del prodotto interno lordo (PIL). All'attuazione del presente comma si procede, anche sentiti il Consiglio nazionale dell'economia e del lavoro e il Ministro del lavoro e delle politiche sociali, nel rispetto degli equilibri di finanza pubblica. Ai componenti della Commissione di cui al presente comma non sono dovuti, per le attivita' svolte, compensi, indennita', gettoni, emolumenti, rimborsi di spese ne' altre utilita' comunque denominate.
 
@@ -1970,9 +1968,9 @@ Il [D.L. 11 marzo 2026, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 ---------------
 
-AGGIORNAMENTO (42)
+AGGIORNAMENTO (43)
 
-Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), come modificato dal [D.L. 3 aprile 2026, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-04-03;42), ha disposto (con l'art. 18, comma 1) che "Il fondo di cui all'[articolo 1, comma 519, della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com519), e' incrementato di 773 milioni di euro per l'anno 2026".
+Il [D.L. 27 marzo 2026, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), convertito con modificazioni dalla [L. 22 maggio 2026, n. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88), ha disposto (con l'art. 18, comma 1) che "Il fondo di cui all'[articolo 1, comma 519, della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com519), e' incrementato di 773 milioni di euro per l'anno 2026".
 
 CAPO II SEZIONE II APPROVAZIONE DEGLI STATI DI PREVISIONE
 ---------------------------------------------------------
