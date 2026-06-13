@@ -1071,6 +1071,14 @@ Disposizioni finali e abrogazioni
 
 4. Per le rendite costituite anteriormente alla data di entrata in vigore del presente decreto nonche' per le successioni aperte e le donazioni fatte anteriormente a tale data, ai fini della determinazione della base imponibile delle rendite vitalizie di cui all'articolo 46, comma 2, lettera c), del testo unico delle disposizioni concernenti l'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131 e all'articolo 17, comma 1, lettera c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-04-26;131~art17-com1-letc), del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni di cui al [decreto legislativo 31 ottobre 1990, n. 346](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-10-31;346), relativamente alle quali i relativi rapporti non sono esauriti alla data di entrata in vigore del presente decreto, laddove il tasso di interesse legale risulta uguale o inferiore allo 0,1 per cento, si assumono i coefficienti risultanti dal prospetto allegato al [decreto del Ministero dell'economia e delle finanze 21 dicembre 2015, pubblicato nella Gazzetta Ufficiale n. 302 del 30 dicembre 2015](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2015-12-30&numeroGazzetta=302).
 
+((4))
+
+------------
+
+AGGIORNAMENTO (4)
+
+La Corte Costituzionale, con sentenza 23 marzo - 28 maggio 2026, n. 89 (in G.U. 1a s.s. 3/6/2026, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'[art. 9, comma 4, del d.lgs. n. 139 del 2024](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024;139~art9-com4)".
+
 Art. 10
 -------
 
