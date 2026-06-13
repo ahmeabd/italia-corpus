@@ -278,7 +278,17 @@ d) svolgimento di un'attivita' continuativa nell'anno precedente;
 
 e) non avere i suoi rappresentanti legali subito alcuna condanna, passata in giudicato, in relazione all'attivita' dell'associazione medesima, e non rivestire i medesimi rappresentanti la qualifica di imprenditori o di amministratori di imprese di produzione e servizi in qualsiasi forma costituite, per gli stessi settori in cui opera l'associazione.
 
-3. La Presidenza del Consiglio dei Ministri - Dipartimento per le pari opportunita' provvede annualmente all'aggiornamento del registro.
+3. 
+
+((A decorrere dal 1° gennaio 2027, il registro di cui al comma 1 e' trasferito all'Organismo per la parita' istituito in recepimento della [direttiva (UE) 2024/1499 del Consiglio, del 7 maggio 2024](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024L1499), che ne cura l'aggiornamento ogni due anni.))
+
+((5))
+
+--------------
+
+AGGIORNAMENTO (5)
+
+il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91), ha disposto (con l'art. 7, comma 3) che la modifica del comma 3 del presente articolo decorre dal 1 gennaio 2027.
 
 Art. 7
 ------

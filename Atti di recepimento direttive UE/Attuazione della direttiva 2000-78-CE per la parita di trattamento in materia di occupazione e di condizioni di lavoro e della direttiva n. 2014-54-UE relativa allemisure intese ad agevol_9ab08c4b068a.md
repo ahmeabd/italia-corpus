@@ -230,11 +230,17 @@ Legittimazione ad agire
 Art. 5-bis
 ----------
 
-(( (Ulteriori compiti dell'Ufficio nazionale antidiscriminazioni razziali). ))
+((Ulteriori compiti dell'Organismo per la parita'))
 
-((
+((6))
 
-1. All'ufficio di cui all'[articolo 7, comma 1, del decreto legislativo 9 luglio 2003, n. 215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-07-09;215~art7-com1), e' assegnato, altresi', il compito di svolgere, in modo autonomo e imparziale, attivita' di promozione della parita' e di rimozione di qualsiasi forma di discriminazione nei confronti dei lavoratori che esercitano il diritto alla libera circolazione all'interno dell'Unione europea.
+1. All'
+
+((Organismo per la parita' istituito in recepimento della [direttiva (UE) 2024/1499 del Consiglio, del 7 maggio 2024](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024L1499)))
+
+, e' assegnato, altresi', il compito di svolgere, in modo autonomo e imparziale, attivita' di promozione della parita' e di rimozione di qualsiasi forma di discriminazione nei confronti dei lavoratori che esercitano il diritto alla libera circolazione all'interno dell'Unione europea.
+
+((6))
 
 2. I compiti dell'ufficio di cui al comma 1, con particolare riferimento alle discriminazioni nei confronti dei lavoratori fondate sulla nazionalita', sono i seguenti:
 
@@ -246,7 +252,13 @@ c) realizzare o commissionare indagini e analisi indipendenti riguardo a restriz
 
 d) assicurare la pubblicazione di relazioni indipendenti e formulare raccomandazioni su ogni questione connessa alle restrizioni, agli ostacoli o alla discriminazione di cui alla lettera c);
 
-e) pubblicare informazioni pertinenti sull'applicazione a livello nazionale delle norme dell'Unione europea sulla libera circolazione dei lavoratori))
+e) pubblicare informazioni pertinenti sull'applicazione a livello nazionale delle norme dell'Unione europea sulla libera circolazione dei lavoratori.
+
+--------------
+
+AGGIORNAMENTO (6)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91), ha disposto (con l'art. 7, comma 4) che le presenti modifiche decorono dal 1 gennaio 2027.
 
 Art. 6
 ------
