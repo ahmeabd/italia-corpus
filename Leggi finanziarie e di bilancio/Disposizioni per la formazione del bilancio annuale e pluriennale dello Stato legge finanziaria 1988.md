@@ -935,7 +935,7 @@ Il [D.L. 16 maggio 1994, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
  
 AGGIORNAMENTO (31) 
- Il [D. Lgs. 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md) ha disposto (con l'art. 9, comma 4, numero 6)) che "A decorrere dalla data di entrata in vigore del primo decreto di cui all'articolo 6, comma 2: 
+ Il [D. Lgs. 27 luglio 1999, n. 297](../Decreti%20Legislativi/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md) ha disposto (con l'art. 9, comma 4, numero 6)) che "A decorrere dalla data di entrata in vigore del primo decreto di cui all'articolo 6, comma 2: 
  a) sono abrogate le seguenti disposizioni: 
 [..] 
  6) [articolo 15, commi 3](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) e [4, della legge 11 marzo 1988, n. 67](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md);" 
@@ -1229,7 +1229,7 @@ Gli specialisti e le strutture convenzionate per le prestazioni di cui al comma 
 
 4.
 
-I medicinali per uso umano, al momento dell'autorizzazione all'immissione in commercio, rilasciata ai sensi del [decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), sono classificati come medicinali prescrivibili dal Servizio sanitario nazionale o come medicinali non prescrivibili dal Servizio sanitario nazionale. Il provvedimento che autorizza l'immissione in commercio di un medicinale per uso umano specifica, altresi', la classificazione ai fini del decreto legislativo di recepimento della direttiva del Consiglio delle Comunita' europee n. 92/26 CEE ed eventuali modificazioni.
+I medicinali per uso umano, al momento dell'autorizzazione all'immissione in commercio, rilasciata ai sensi del [decreto legislativo 29 maggio 1991, n. 178](../Decreti%20Legislativi/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), sono classificati come medicinali prescrivibili dal Servizio sanitario nazionale o come medicinali non prescrivibili dal Servizio sanitario nazionale. Il provvedimento che autorizza l'immissione in commercio di un medicinale per uso umano specifica, altresi', la classificazione ai fini del decreto legislativo di recepimento della direttiva del Consiglio delle Comunita' europee n. 92/26 CEE ed eventuali modificazioni.
 
 5.
 
@@ -1265,7 +1265,7 @@ La Commissione di cui al comma 7, sulla base di un proprio programma di lavoro e
 
 11.
 
-COMMA ABROGATO DAL [D. LGS. 29 MAGGIO 1991, N. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
+COMMA ABROGATO DAL [D. LGS. 29 MAGGIO 1991, N. 178](../Decreti%20Legislativi/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
 
 12.
 
