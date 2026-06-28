@@ -22,7 +22,7 @@ Visto il testo unico delle norme legislative sulle scuole italiane all'estero, a
 
 Vista la [legge 1° giugno 1942, n. 675](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20degli%20insegnanti%20dellordine%20elementare%20nel%20gruppo%20B%20dellordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20042U0675.md);
 
-Visto il decreto-legge Luogotenenziale 25 giugno Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il decreto-legge Luogotenenziale 25 giugno Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [R. decreto legislativo 10 maggio 1946, n. 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md) Vista la deliberazione del Consiglio dei Ministri;
 

@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni ed aggiunte, recante provvidenze per agevolare il riassetto della vita civile e la ripresa economica della Nazione;
+Visto il [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni ed aggiunte, recante provvidenze per agevolare il riassetto della vita civile e la ripresa economica della Nazione;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 ## Art. 1.
 
-E' elevato a venti miliardi l'ammontare delle anticipazioni autorizzate con il [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni ed aggiunte, a favore di imprese industriali da parte di istituti di credito pubblico e di enti di diritto pubblico esercenti il credito mobiliare.
+E' elevato a venti miliardi l'ammontare delle anticipazioni autorizzate con il [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni ed aggiunte, a favore di imprese industriali da parte di istituti di credito pubblico e di enti di diritto pubblico esercenti il credito mobiliare.
  Restano ferme le quote gia' riservate a favore delle imprese industriali della provincia di Napoli, ed a quelle della Sicilia e della Sardegna.
 
 ## Art. 2.

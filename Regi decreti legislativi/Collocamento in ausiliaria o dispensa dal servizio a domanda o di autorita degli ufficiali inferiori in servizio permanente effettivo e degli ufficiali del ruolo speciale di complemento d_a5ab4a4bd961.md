@@ -18,7 +18,7 @@ Vista la [legge 6 giugno 1935, n. 1098](../Atti%20normativi%20abrogati%20%28in%2
 
 Visto l'[articolo 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -44,7 +44,7 @@ Gli ufficiali indicati nell'art. 1, ai fini del collocamento in ausiliaria o del
 ## Art. 4.
 
 Gli ufficiali inferiori in servizio permanente effettivo che hanno almeno quindici anni di servizio utile per la pensione, dei quali dodici di servizio effettivo, sono collocati in ausiliaria ed hanno diritto, in relazione al grado rivestito all'atto di detto collocamento:
- a) al trattamento economico previsto dal [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 734](../Decreti%20legislativi%20luogotenenziali/Estensione%20agli%20ufficiali%20della%20Regia%20marina%20del%20trattamento%20previsto%20per%20gli%20ufficiali%20del%20Regio%20esercito%20allatto%20della%20cessazione%20dal%20servizio%20permanente%20effettivo.%20045U0734.md), per gli ufficiali collocati in ausiliaria per eta';
+ a) al trattamento economico previsto dal [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 734](../Atti%20normativi%20abrogati%20%28in%20originale%29/Estensione%20agli%20ufficiali%20della%20Regia%20marina%20del%20trattamento%20previsto%20per%20gli%20ufficiali%20del%20Regio%20esercito%20allatto%20della%20cessazione%20dal%20servizio%20permanente%20effettivo.%20045U0734.md), per gli ufficiali collocati in ausiliaria per eta';
  b) al computo, ai fini della liquidazione della pensione, di un periodo di cinque anni in aggiunta al servizio effettivamente prestato;
  c) ad un assegno mensile che, aggiunto al trattamento di cui alle precedenti lettere a) e b), faccia corrispondere, per un periodo sino al raggiungimento del limite di eta' prescritto per il grado con cui lasciarono il servizio permanente e comunque per non oltre due anni, il trattamento stesso a quello loro spettante a titolo di stipendio, indennita' militare e indennita' di caro vita, e che per il rimanente periodo, fino a tre anni dopo il raggiungimento del limite di eta' suddetto, faccia corrispondere il trattamento medesimo ai quattro quinti di quello innanzi specificato. A tal fine lo stipendio e l'indennita' militare si considerano nella misura in vigore all'atto del collocamento in ausiliaria, mentre per l'indennita' di caro vita si terra' conto delle successive variazioni dipendenti dal costo della vita. (3) (4) ((5))
 

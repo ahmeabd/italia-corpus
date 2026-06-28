@@ -20,7 +20,7 @@ Visto l'[art. 13 del decreto legislativo Luogotenenziale 21 novembre 1945, n. 72
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [decreto legislativo Luogotenenziale 10 agosto 1945, n. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-10;474), il quale all'art. 2 dispone che sono devoluti alla competenza del Ministero del lavoro e della previdenza sociale, tra l'altro i servizi relativi alla materia concernente gli Uffici del lavoro;
 
@@ -81,7 +81,7 @@ La conferma delle qualifiche di cui il personale risulta provvisto alla data di 
 
 ## Art. 10.
 
-Entro due mesi dall'entrata in vigore del presente decreto, i due terzi dei posti disponibili e di quelli che si renderanno vacanti per licenziamenti di cui all'articolo successivo, saranno attribuiti in misura non inferiore al 5% dei posti complessivamente stabiliti dall'annessa tabella A, alle persone aventi le qualifiche previste dall'[art. 3 del decreto legislativo Luogotenenziale 26 marzo 1946, n. 138](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20per%20la%20riassunzione%20e%20lassunzione%20obbligatoria%20dei%20reduci%20nelle%20pubbliche%20Amministrazioni.md).
+Entro due mesi dall'entrata in vigore del presente decreto, i due terzi dei posti disponibili e di quelli che si renderanno vacanti per licenziamenti di cui all'articolo successivo, saranno attribuiti in misura non inferiore al 5% dei posti complessivamente stabiliti dall'annessa tabella A, alle persone aventi le qualifiche previste dall'[art. 3 del decreto legislativo Luogotenenziale 26 marzo 1946, n. 138](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20per%20la%20riassunzione%20e%20lassunzione%20obbligatoria%20dei%20reduci%20nelle%20pubbliche%20Amministrazioni.md).
  Nel caso che per effetto delle vacanze e dei licenziamenti di cui al precedente comma non risulti disponibile un numero di posti pari al 5%, le assunzioni saranno disposte in soprannumero.
  I posti in soprannumero saranno soppressi in occasione delle successive vacanze.
  Nel computo della percentuale del 5% si terra' conto del personale che abbia le qualifiche di cui al primo comma e che sia stato assunto dal 1° gennaio 1946.
@@ -93,7 +93,7 @@ Entro un mese dalla data di entrata in vigore del presente decreto il Ministro p
 
 ## Art. 12.
 
-La Commissione di cui al precedente articolo, e' nominata con decreto del Ministro per il lavoro e la previdenza sociale, ed e' composta dal capo dell'Ufficio del personale del Ministero del lavoro e della previdenza sociale, di due funzionari di gruppo A del Ministero stesso e di un dipendente dagli Uffici del lavoro appartenente, se possibile, ad una delle categorie indicate nell'[art. 1 del decreto legislativo Luogotenenziale 4 agosto 1945, n. 453](../Decreti%20legislativi%20luogotenenziali/Assunzione%20obbligatoria%20dei%20reduci%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20imprese%20private.%20045U0453.md).
+La Commissione di cui al precedente articolo, e' nominata con decreto del Ministro per il lavoro e la previdenza sociale, ed e' composta dal capo dell'Ufficio del personale del Ministero del lavoro e della previdenza sociale, di due funzionari di gruppo A del Ministero stesso e di un dipendente dagli Uffici del lavoro appartenente, se possibile, ad una delle categorie indicate nell'[art. 1 del decreto legislativo Luogotenenziale 4 agosto 1945, n. 453](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assunzione%20obbligatoria%20dei%20reduci%20di%20guerra%20nelle%20pubbliche%20Amministrazioni%20e%20nelle%20imprese%20private.%20045U0453.md).
  Ai lavori della Commissione sara' chiamato a partecipare, in veste consultiva, un rappresentante dei reduci di guerra, designato dal Ministero dell'assistenza post-bellica.
 
 ## Art. 13.

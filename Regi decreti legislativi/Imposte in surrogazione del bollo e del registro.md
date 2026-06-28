@@ -30,11 +30,11 @@ unico delle disposizioni in materia di imposta sul plusvalore e di sovrimposta d
 
 Visto il [R. decreto-legge 19 agosto 1943, n. 738](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovi%20provvedimenti%20tributari%20la%20materia%20di%20negoziazione%20di%20titoli%20azionari.%20043U0738.md), concernente provvedimenti tributari in materia di negoziazione di titoli azionari;
 
-Visto il [decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), concernente nuovi provvedimenti in materia di imposta in surrogazione del bollo e del registro;
+Visto il [decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), concernente nuovi provvedimenti in materia di imposta in surrogazione del bollo e del registro;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -56,7 +56,7 @@ L'Ufficio del registro trasmette una copia di ciascuno di tali documenti al Comi
 
 ### Art. 3.
 
-L'Amministrazione delle finanze ha facolta' di consentire che le controversie devolute alla competenza delle speciali sezioni delle Commissioni provinciali delle imposte dirette, ai termini dell'art. I del [decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), relative alla valutazione di titoli azionari non quotati in borsa, ai fui dell'imposta di negoziazione per gli anni anteriori al 1946, siano definite, mediante un abbuono non superiore al 30 per cento del valore presunto dall'Ufficio del registro. In nessun caso peraltro il valore risultante dall'abbuono puo'. Essere inferiore a quello indicato dal Comitato direttivo degli agenti di cambio.
+L'Amministrazione delle finanze ha facolta' di consentire che le controversie devolute alla competenza delle speciali sezioni delle Commissioni provinciali delle imposte dirette, ai termini dell'art. I del [decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), relative alla valutazione di titoli azionari non quotati in borsa, ai fui dell'imposta di negoziazione per gli anni anteriori al 1946, siano definite, mediante un abbuono non superiore al 30 per cento del valore presunto dall'Ufficio del registro. In nessun caso peraltro il valore risultante dall'abbuono puo'. Essere inferiore a quello indicato dal Comitato direttivo degli agenti di cambio.
  Il termine per la domanda di, definizione delle vertenze nel modo suespresso e stabilito, in sessanta giorni dalla notifica del ricorso dell'Ufficio del registro, ai sensi dell'art. 4 del citato [R. decreto-legge 15 dicembre 1938, n. 1975](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20vigente%20regime%20dellimposta%20di%20negoziazione%20sui%20titoli%20delle%20societa.%20038U1975.md). Per le vertenze non definite alla data di entrata in vigore del presente decreto, il detto termine e' stabilito in tre mesi dalla data stessa.
 
 ### Art. 4.
@@ -92,7 +92,7 @@ Le compagnie, societa' ed imprese di assicurazioni nazionali, ed estere che fann
 
 ### Art. 9.
 
-Il termine concesso con l'[art. 10 del decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), alle predette societa' compagnie ed impresa nazionali od estere che si trovino nello condizioni ivi previste per la presentazione, con esonero da sopratassa, delle denuncie principali omesse, o delle denuncie integrative delle riscossioni dei premi ed accessori effettuate fino al 31 dicembre 1945, e' prorogato fino a tre mesi successivi all'entrata in vigore del presente decreto.
+Il termine concesso con l'[art. 10 del decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), alle predette societa' compagnie ed impresa nazionali od estere che si trovino nello condizioni ivi previste per la presentazione, con esonero da sopratassa, delle denuncie principali omesse, o delle denuncie integrative delle riscossioni dei premi ed accessori effettuate fino al 31 dicembre 1945, e' prorogato fino a tre mesi successivi all'entrata in vigore del presente decreto.
  Il pagamento delle imposte relative dovra' essere effettuato entro quindici giorni successivi.
 
 ### Art. 10.
@@ -103,7 +103,7 @@ La sovrimposta di negoziazione, regolata dall'articolo 17 del testo unico approv
 ### Art. 11.
 
 E' abrogato l'[art. 14 del R. decreto-legge 19 agosto 1943, n. 738](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovi%20provvedimenti%20tributari%20la%20materia%20di%20negoziazione%20di%20titoli%20azionari.%20043U0738.md). 
- La tabella delle tasse di bollo sui contratti di borsa, annessa al [decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), e' sostituita dalla tabella allegata al presente decreto, vista, d'ordine Nostro, dal Ministro per le finanze.
+ La tabella delle tasse di bollo sui contratti di borsa, annessa al [decreto legislativo Luogotenenziale 25 maggio 1945, n. 301](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20Imposte%20in%20surrogazione%20del%20bollo%20e%20registro.%20045U0301.md), e' sostituita dalla tabella allegata al presente decreto, vista, d'ordine Nostro, dal Ministro per le finanze.
 
 ### Art. 12.
 
