@@ -730,7 +730,7 @@ L'attuazione della [direttiva del Consiglio 92/73/CEE](https://www.normattiva.it
                             b)
                                 vietare qualsiasi forma di pubblicita' presso il pubblico dei medicinali omeopatici sottoposti a procedura semplificata di registrazione;
                             c)
-                                prevedere che gli originali delle documentazioni di cui all'[articolo 8 del decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e di quelle presentate ai fini della procedura semplificata di registrazione dei medicinali omeopatici possano, dopo verifica della loro regolarita' e completezza, essere restituiti alle imprese farmaceutiche, con obbligo di custodia; le predette imprese forniranno al Ministero della sanita' supporti informatici contenenti gli stessi elementi documentali, rispondenti alle caratteristiche tecniche che saranno stabilite con decreto del Ministro della sanita';
+                                prevedere che gli originali delle documentazioni di cui all'[articolo 8 del decreto legislativo 29 maggio 1991, n. 178](../Decreti%20Legislativi/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e di quelle presentate ai fini della procedura semplificata di registrazione dei medicinali omeopatici possano, dopo verifica della loro regolarita' e completezza, essere restituiti alle imprese farmaceutiche, con obbligo di custodia; le predette imprese forniranno al Ministero della sanita' supporti informatici contenenti gli stessi elementi documentali, rispondenti alle caratteristiche tecniche che saranno stabilite con decreto del Ministro della sanita';
                             d)
                                 presso il Ministero della sanita' e' istituita una Commissione avente lo scopo di definire norme specifiche per l'autorizzazione e l'etichettatura dei medicinali omeopatici non contemplati dall'articolo 7, paragrafo 1, della direttiva. Tali norme devono essere conformi alle caratteristiche della tradizione omeopatica o antroposofica italiana;
                             e)
@@ -1144,7 +1144,7 @@ Note all'art. 38:
 
 3.
 
-Al [decreto legislativo 15 novembre 1993, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 15 novembre 1993, n. 507](../Decreti%20Legislativi/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 58, comma 1, le parole: "ed equiparati ad ogni effetto ai sensi dell'articolo 60" sono soppresse;
                             b)

@@ -235,7 +235,7 @@ L'attuazione della [direttiva 92/27/CEE del Consiglio, del 31 marzo 1992](https:
                         b)
                             sara' previsto che le confezioni contenenti etichetta e fogli illustrativi conformi alla previgente disciplina possano essere mantenute in commercio, ove non ostino specifici motivi di carattere sanitario, fino alla scadenza dei prodotti;
                         c)
-                            sara' confermata la possibilita' di apportare modifiche alla disciplina sull'etichettatura e sul foglio illustrativo con le modalita' previste dall'[articolo 16 del decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
+                            sara' confermata la possibilita' di apportare modifiche alla disciplina sull'etichettatura e sul foglio illustrativo con le modalita' previste dall'[articolo 16 del decreto legislativo 29 maggio 1991, n. 178](../Decreti%20Legislativi/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
 
 ## Art. 16. — Pubblicita' dei medicinali per uso umano: criteri di delega
 
