@@ -46,7 +46,7 @@ Dopo l'[articolo 5 della legge 13 dicembre 1989, n. 401](https://www.normattiva.
 
 1.
 
-Dopo l'[articolo 25-terdecies del decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), e' inserito il seguente: 
+Dopo l'[articolo 25-terdecies del decreto legislativo 8 giugno 2001, n. 231](../Decreti%20Legislativi/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), e' inserito il seguente: 
  «Art. 25-quaterdecies (Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati). - 1. In relazione alla commissione dei reati di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-13;401#art_1) e [4 della legge 13 dicembre 1989, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-13;401#art_4), si applicano all'ente le seguenti sanzioni pecuniarie: 
  a) per i delitti, la sanzione pecuniaria fino a cinquecento quote; 
  b) per le contravvenzioni, la sanzione pecuniaria fino a duecentosessanta quote. 

@@ -32,7 +32,7 @@ Il Ministero degli affari esteri, ai fini della realizzazione delle iniziative p
 
 2.
 
-Il Ministero del commercio con l'estero, il Ministero dell'industria, del commercio e dell'artigianato, il Ministero dell'universita' e della ricerca scientifica e tecnologica ed il Ministero per i beni e le attivita' culturali, quest'ultimo in base al disposto dell'[articolo 10 del decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), possono partecipare alla Fondazione di cui al comma 1 quali promotori.
+Il Ministero del commercio con l'estero, il Ministero dell'industria, del commercio e dell'artigianato, il Ministero dell'universita' e della ricerca scientifica e tecnologica ed il Ministero per i beni e le attivita' culturali, quest'ultimo in base al disposto dell'[articolo 10 del decreto legislativo 20 ottobre 1998, n. 368](../Decreti%20Legislativi/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), possono partecipare alla Fondazione di cui al comma 1 quali promotori.
 
 3.
 

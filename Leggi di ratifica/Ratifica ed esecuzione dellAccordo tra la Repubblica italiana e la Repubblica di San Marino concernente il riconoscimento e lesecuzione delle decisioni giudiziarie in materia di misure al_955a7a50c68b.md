@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data all'Accordo, a decorrere dalla data della sua
 
 1.
 
-Salvo quanto previsto dal comma 2, ai fini dell'attuazione dell'Accordo, quando le disposizioni dell'Accordo medesimo mancano o non dispongono diversamente, si osservano, in quanto compatibili, le disposizioni del [decreto legislativo 15 febbraio 2016, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20conformare%20il%20diritto%20interno%20alla%20decisione%20quadro%202008-947-GAI%20del%20Consiglio%20del%2027%20novembre%202008%20relativa%20allapplicazione%20del%20principio%20del%20reciproco%20riconoscimento%20al_6c6ad821a9ea.md).
+Salvo quanto previsto dal comma 2, ai fini dell'attuazione dell'Accordo, quando le disposizioni dell'Accordo medesimo mancano o non dispongono diversamente, si osservano, in quanto compatibili, le disposizioni del [decreto legislativo 15 febbraio 2016, n. 38](../Decreti%20Legislativi/Disposizioni%20per%20conformare%20il%20diritto%20interno%20alla%20decisione%20quadro%202008-947-GAI%20del%20Consiglio%20del%2027%20novembre%202008%20relativa%20allapplicazione%20del%20principio%20del%20reciproco%20riconoscimento%20al_6c6ad821a9ea.md).
 
 2.
 

@@ -115,11 +115,11 @@ Ai fini dell'accertamento e dell'irrogazione delle sanzioni previste dalla prese
 
 2.
 
-Quando una violazione delle disposizioni previste dall'articolo 5 della presente legge e' commessa utilizzando un veicolo immatricolato all'estero, si applicano le disposizioni dell'[articolo 207 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni.
+Quando una violazione delle disposizioni previste dall'articolo 5 della presente legge e' commessa utilizzando un veicolo immatricolato all'estero, si applicano le disposizioni dell'[articolo 207 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni.
 
 3.
 
-Il veicolo sottoposto a fermo amministrativo ai sensi dell'[articolo 207 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' affidato in custodia, a spese del responsabile della violazione, ad uno dei soggetti indicati nell'articolo 214-bis del medesimo codice, di cui al [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), e successive modificazioni. Gli animali sono ricoverati, a spese del responsabile della violazione, in un luogo che garantisca la tutela del loro benessere nel rispetto delle norme vigenti in materia.
+Il veicolo sottoposto a fermo amministrativo ai sensi dell'[articolo 207 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni, e' affidato in custodia, a spese del responsabile della violazione, ad uno dei soggetti indicati nell'articolo 214-bis del medesimo codice, di cui al [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), e successive modificazioni. Gli animali sono ricoverati, a spese del responsabile della violazione, in un luogo che garantisca la tutela del loro benessere nel rispetto delle norme vigenti in materia.
 
 4.
 

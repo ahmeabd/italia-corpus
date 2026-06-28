@@ -19,10 +19,10 @@ PROMULGA la seguente legge:
 I seguenti decreti legislativi sono ratificati, salvi gli effetti degli atti legislativi di modifica o di abrogazione dei decreti stessi:
  21 giugno 1946, n. 6 - Modificazioni agli ordinamenti professionali.
  24 giugno 1946, n. 10 Condono di sanzioni disciplinari, amministrative e di polizia.
- 26 giugno 1946, n. 18 Proroga dell'efficacia del [decreto legislativo luogotenenziale 1 febbraio 1946, n. 89](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), che dispone l'alimento delle indennita' di testimonianza in materia civile e penale.
+ 26 giugno 1946, n. 18 Proroga dell'efficacia del [decreto legislativo luogotenenziale 1 febbraio 1946, n. 89](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), che dispone l'alimento delle indennita' di testimonianza in materia civile e penale.
  27 giugno 1946, n. 29 - Variazioni ed aggiunte alla tariffa degli onorari per le prestazioni professionali dell'ingegnere e dell'architetto.
  28 giugno 1946, n. 52 - Estensione del concorso a posti di consigliere di Corte d'appello per il 1944, sulla quota dei posti spettante per l'anno 1945.
- 2 agosto 1946, n. 64 - Modificazioni al [decreto legislativo luogotenenziale 10 maggio 1945, n. 234](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20penali%20di%20carattere%20straordinario.%20045U0234.md), contenente disposizioni penali di carattere straordinario.
+ 2 agosto 1946, n. 64 - Modificazioni al [decreto legislativo luogotenenziale 10 maggio 1945, n. 234](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20penali%20di%20carattere%20straordinario.%20045U0234.md), contenente disposizioni penali di carattere straordinario.
  2 agosto 1946, n. 72 - Denominazione dei capi degli uffici del pubblico ministero.
  6 settembre 1946, n. 96 - Divieto di emissione di mandati ed ordini di cattura o di arresto nei confronti dei partigiani o patrioti per l'attivita' svolta nella lotta contro il nazi-fascismo. 23 agosto 1946, n. 153 - Norme circa la soppressione del ruolo
  degli amministratori giudiziari e la liquidazione del fondo speciale.
@@ -46,7 +46,7 @@ all'Erario per la partecipazione agli esami forensi per la nomina a revisori dei
  11 dicembre 1946, n. 653 - Proroga della efficacia della [legge 27 giugno 1942, n. 827](../Atti%20normativi%20abrogati%20%28in%20originale%29/Estensione%20della%20liberazione%20condizionale%20ai%20condannati%20a%20pena%20non%20superiore%20ai%20cinque%20anni.%20042U0827.md), che estende la liberazione condizionale ai condannati a pena non superiore ai cinque anni.
  4 dicembre 1946, n. 671 - Temporanea sospensione dell'esercizio del diritto di affrancazione dei canoni enfiteutici, censi ed altre prestazioni perpetue nei riguardi di comuni, province, istituzioni pubbliche di assistenza e beneficenza ed enti ecclesiastici beneficiari.
  23 novembre 1946, n. 672 - Norme per il concorso previsto dagli articoli 142, 143 e 144 dell'ordinamento giudiziario.
- 11 gennaio 1947, n. 6 - Proroga del termine per il conferimento di funzioni giudiziarie, previsto dal [decreto legislativo luogotenenziale 30 aprile 1946, n. 352](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sul%20personale%20della%20Magistratura.md).
+ 11 gennaio 1947, n. 6 - Proroga del termine per il conferimento di funzioni giudiziarie, previsto dal [decreto legislativo luogotenenziale 30 aprile 1946, n. 352](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20personale%20della%20Magistratura.md).
  24 gennaio 1947, n. 33 - Disposizioni sulla forma degli atti notarili.
  27 febbraio 1947, n. 39 - Modificazioni alla disciplina delle locazioni degli immobili urbani.
  4 gennaio 1947, n. 64 - Determinazione della circoscrizione territoriale e della data di inizio del funzionamento dei tribunali di Chiavari, Mistretta, Sala Consilina e Vallo della Lucania, e delle preture di Ceglie Messapico e Santa Margherita di Belice e modificazioni alle piante organiche del personale di alcuni uffici giudiziari.
@@ -96,7 +96,7 @@ all'Erario per la partecipazione agli esami forensi per la nomina a revisori dei
  12 luglio 1947, n. 1141 - Efficacia dei provvedimenti concernenti lo spostamento delle sedi degli uffici giudiziari.
  21 ottobre 1947, n. 1250 - Aumento delle sanzioni pecuniarie in materia penale.
  26 ottobre 1947, n. 1252 - Disposizioni speciali in materia penale.
- 1 ottobre 1947, n. 1277 - Proroga al 1 luglio 1948 del [decreto legislativo luogotenenziale 1 febbraio 1946, n. 89](../Decreti%20legislativi%20luogotenenziali/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), concernente l'indennita' dei testimoni in materia civile e penale.
+ 1 ottobre 1947, n. 1277 - Proroga al 1 luglio 1948 del [decreto legislativo luogotenenziale 1 febbraio 1946, n. 89](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20delle%20indennita%20ai%20testimoni%20in%20materia%20civile%20e%20penale.md), concernente l'indennita' dei testimoni in materia civile e penale.
  1 ottobre 1947, n. 1278 - Proroga al 1 luglio 1948 della efficacia del [decreto legislativo 1 novembre 1946, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-11-01;468), concernente l'adeguamento degli onorari e rimborso delle spese di viaggio spettanti ai consulenti tecnici, interpreti e traduttori per le operazioni ordinate, in materia civile, dall'autorita' giudiziaria.
  4 ottobre 1947, n. 1319 - Modificazioni alla circoscrizione giudiziaria del distretto della Corte d'appello di Trieste.
  20 novembre 1947, n. 1338 - Esecuzione degli sfratti nei Comuni nei quali esista una eccezionale deficienza di alloggi.
@@ -113,7 +113,7 @@ all'Erario per la partecipazione agli esami forensi per la nomina a revisori dei
  28 dicembre 1947, n. 1594 - Disposizioni per i magistrati trattenuti o richiamati in servizio.
  23 dicembre 1947, n. 1601 - Modificazioni ai [decreti legislativi 30 aprile 1946, n. 352 e 11 gennaio 1947, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-01-11;6), relativi al conferimento di funzioni giudiziarie.
  28 dicembre 1947, n. 1615 - Trattenimento in servizio dei funzionari delle cancellerie e segreterie giudiziarie raggiunti dai limiti di eta' e di servizio stabiliti per il collocamento a riposo di ufficio.
- 22 novembre 1947, n. 1631 - Estinzione del diritto dell'Erario al recupero delle spese di giustizia in confronto dei condannati e dei responsabili civili amnistiati in caso di condanna per antifascismo. 21 dicembre 1947, n. 1632 - Protrazione, fino al 1 luglio 1948, dell'efficacia del [decreto legislativo luogotenenziale 18 gennaio 1945, n. 22](../Decreti%20legislativi%20luogotenenziali/Aumento%20dei%20proventi%20spettanti%20alle%20cancellerie%20e%20segreterie%20giudiziarie.%20045U0022.md), concernente l'aumento dei proventi di cancelleria e le modalita' per la loro ripartizione.
+ 22 novembre 1947, n. 1631 - Estinzione del diritto dell'Erario al recupero delle spese di giustizia in confronto dei condannati e dei responsabili civili amnistiati in caso di condanna per antifascismo. 21 dicembre 1947, n. 1632 - Protrazione, fino al 1 luglio 1948, dell'efficacia del [decreto legislativo luogotenenziale 18 gennaio 1945, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20dei%20proventi%20spettanti%20alle%20cancellerie%20e%20segreterie%20giudiziarie.%20045U0022.md), concernente l'aumento dei proventi di cancelleria e le modalita' per la loro ripartizione.
  21 dicembre 1947, n. 1633 - Elevazione a sede di Corte di appello della sezione di Corte di appello di Lecce.
  21 dicembre 1947, n. 1634 - Elevazione a sede di Corte di appello della sezione di Corte di appello di Trento.
  21 dicembre 1947, n. 1641 - Definitiva istituzione della sede di tribunale nei comuni di Orvieto e Vasto.
@@ -129,7 +129,7 @@ all'Erario per la partecipazione agli esami forensi per la nomina a revisori dei
  26 febbraio 1948, n. 174 - Norme sulle elezioni dei Consigli degli Ordini forensi.
  6 marzo 1948, n. 206 - Modificazioni al [decreto legislativo 23 dicembre 1947, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-12-23;1461), sulla proroga degli sfratti.
  9 febbraio 1948, n. 219 - Proroga di provvedimenti a favore degli ufficiali giudiziari.
- 22 febbraio 1948, n. 313 - Estensione dell'applicazione dell'[art. 5 del decreto legislativo luogotenenziale 30 aprile 1946, n. 352](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20sul%20personale%20della%20Magistratura.md), recante disposizioni sul personale della Magistratura.
+ 22 febbraio 1948, n. 313 - Estensione dell'applicazione dell'[art. 5 del decreto legislativo luogotenenziale 30 aprile 1946, n. 352](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20personale%20della%20Magistratura.md), recante disposizioni sul personale della Magistratura.
  22 febbraio 1948, n. 332 - Temporanea istituzione di una Commissione centrale aggiunta di scrutinio per il personale delle cancellerie e segreterie giudiziarie.
  26 febbraio 1948, n. 358 - Compensi spettanti ai componenti del Consiglio nazionale forense.
  1 aprile 1948, n. 390 - Aumento della indennita' giornaliera spettante ai giudici popolari.
