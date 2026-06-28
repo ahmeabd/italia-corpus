@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), ed in particolare l'art. 3, il quale prevede che, con decreto del Presidente della Repubblica, sono emanate norme regolamentari per l'esecuzione e l'attuazione del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Vista la [legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), ed in particolare l'art. 3, il quale prevede che, con decreto del Presidente della Repubblica, sono emanate norme regolamentari per l'esecuzione e l'attuazione del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -51,16 +51,16 @@ Tale trasmissione e' effettuata entro un mese dalla definizione del collaudo del
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
- Per nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) intendesi [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
+ Per nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) intendesi [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md).
  NOTE AL DECRETO
  Nota al titolo:
- - Le disposizioni del regolamento per l'esecuzione e l'attuazione delle disposizioni del [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) ([D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md)) sono pubblicate nel supp.
+ - Le disposizioni del regolamento per l'esecuzione e l'attuazione delle disposizioni del [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) ([D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md)) sono pubblicate nel supp.
  ord. alla Gazzetta Ufficiale - serie generale - n. 303 del 28 dicembre 1992.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - Il testo dell'[art. 3 della legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md) (Delega al Governo per la revisione delle norme concernenti la disciplina della circolazione stradale) e' il seguente:
- "Art. 3. - 1. Entro il termine di cui all'art. 1 il Governo, ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), adotta norme regolamentari per l'esecuzione e l'attuazione delle disposizioni del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), con contestuale abrogazione del regolamento approvato con [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), e delle altre norme regolamentari incompatibili, e adeguando le disposizioni regolamentari concernenti la segnalazione stradale alle norme contenute nelle direttive comunitarie e agli accordi internazionali in materia, fissando altresi' i criteri dell'uniforme pianificazione cui debbono attenersi gli enti cui spetta l'apposizione della segnaletica stradale e tenendo comunque conto di quanto gia' disposto in attuazione dell'art. 19-bis del testo unico approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), introdotto dall'[art. 18 della legge 18 marzo 1988, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20istituzione%20della%20patente%20di%20guida%20comunitaria%20e%20nuove%20disposizioni%20per%20il%20conseguimento%20delle%20patenti%20di%20guida%20e%20per%20la%20prevenzione%20e%20la%20sicurezza%20stradale.md).
- 2. Entro lo stesso termine di cui all'art. 1 i Ministri competenti per materia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), adottano, con proprio decreto, norme regolamentari per l'esecuzione l'attuazione delle disposizioni del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) che investano la loro esclusiva competenza, nonche' norme regolamentari per la riorganizzazione di uffici od organi, compresi quelli delle aziende od amministrazioni autonome, dei rispettivi dicasteri, in funzione delle nuove o diverse competenze ad essi affidate. Potra' all'occorrenza essere prevista l'istituzione di organismi consultivi e di studio necessari per l'attuazione del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+ - Il testo dell'[art. 3 della legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md) (Delega al Governo per la revisione delle norme concernenti la disciplina della circolazione stradale) e' il seguente:
+ "Art. 3. - 1. Entro il termine di cui all'art. 1 il Governo, ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), adotta norme regolamentari per l'esecuzione e l'attuazione delle disposizioni del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), con contestuale abrogazione del regolamento approvato con [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), e delle altre norme regolamentari incompatibili, e adeguando le disposizioni regolamentari concernenti la segnalazione stradale alle norme contenute nelle direttive comunitarie e agli accordi internazionali in materia, fissando altresi' i criteri dell'uniforme pianificazione cui debbono attenersi gli enti cui spetta l'apposizione della segnaletica stradale e tenendo comunque conto di quanto gia' disposto in attuazione dell'art. 19-bis del testo unico approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), introdotto dall'[art. 18 della legge 18 marzo 1988, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20istituzione%20della%20patente%20di%20guida%20comunitaria%20e%20nuove%20disposizioni%20per%20il%20conseguimento%20delle%20patenti%20di%20guida%20e%20per%20la%20prevenzione%20e%20la%20sicurezza%20stradale.md).
+ 2. Entro lo stesso termine di cui all'art. 1 i Ministri competenti per materia, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), adottano, con proprio decreto, norme regolamentari per l'esecuzione l'attuazione delle disposizioni del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) che investano la loro esclusiva competenza, nonche' norme regolamentari per la riorganizzazione di uffici od organi, compresi quelli delle aziende od amministrazioni autonome, dei rispettivi dicasteri, in funzione delle nuove o diverse competenze ad essi affidate. Potra' all'occorrenza essere prevista l'istituzione di organismi consultivi e di studio necessari per l'attuazione del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
  3. I regolamenti di cui ai commi 1 e 2 dovranno ispirarsi ai criteri della efficienza e produttivita' dell'amministrazione e della semplificazione e snellimento delle procedure, riducendo al massimo, anche in funzione della prevalente natura degli istituti e dei provvedimenti l'intervento di piu' uffici nel procedimento ed eliminando in ogni caso duplicazioni di competenze e di controlli".
  - Il testo dell'[art. 17, comma 1 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente:
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunciarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
@@ -72,7 +72,7 @@ AVVERTENZA:
  NOTE AL REGOLAMENTO
  Note all'[art. 1:
  - La legge 21 aprile 1962, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-21;181#art_1), reca: "Modifiche alla [legge 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59), concernente il riordinamento strutturale e la revisione dei ruoli organici dell'Azienda nazionale autonoma delle strade (ANAS)".
- - Si riportano i commi 5, 6, 7 e 8 dell'art. 2 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si riportano i commi 5, 6, 7 e 8 dell'art. 2 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  (Omissis).
  "5. Per le esigenze di carattere amministrativo e con riferimento all'uso e alle tipologie dei collegamenti svolti, le strade, come classificate ai sensi del comma 2 si distinguono in strade "statali", "regionali", "provinciali" "comunali", secondo le indicazioni che seguono. Enti proprietari delle dette strade sono rispettivamente lo Stato, la Regione, la Provincia, il Comune. Per le strade destinate esclusivamente al traffico militare e denominante "strade militari", ente proprietario e' considerato il Comando della Regione militare territoriale.
  6. Le strade extraurbane di cui al comma 2, lettere B, C ed F, si distinguono in:
@@ -82,7 +82,7 @@ AVVERTENZA:
  D - Comunali, quando congiungono il capoluogo del comune con le sue frazioni o le frazioni fra loro, ovvero che congiungono il capoluogo con la stazione ferroviaria, tranviaria o automobilistica, con un aeroporto o porto marittimo, lacuale o fluviale, con interporti o nodi di scambio intermodale o con le localita' che sono sede essenziali di servizi interessanti la collettivita' comunale. Ai fini del presente codice, le strade "vicinali" sono assimilate alle strade comunali.
  7. Le strade urbane di cui al comma 2, lettere D, E e E, sono sempre comunali, quando siano situate nell'interno dei centri abitati, eccettuati i tratti interni di strade statali, regionali o provinciali che attraversano centri abitati con popolazione non superiore a diecimila abitanti.
  8. Il Ministero dei lavori pubblici, nel termine indicato dall'art. 13, comma 5, procede alla classificazione delle strade statali ai sensi del comma 5, seguendo i criteri di cui ai commi 5, 6 e 7, sentiti il Consiglio superiore dei lavori pubblici, il Consiglio di amministrazione dell'Azienda nazionale autonoma per le strade statali, le Regioni interessate, nei casi e con le modalita' indicate dal regolamento. Le Regioni, nel termine e con gli stessi criteri indicati, procedono, sentiti gli enti locali, alle classificazioni delle rimanenti strade ai sensi del comma 5. Le strade cosi' classificate sono iscritte nell'Archivio nazionale delle strade previsto dall'art. 226".
- - Il testo dell'art. 226 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 226 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "Art. 226 (Organizzazione degli archivi e dell'anagrafe nazionale). - 1. Presso il Ministero dei lavori pubblici, e' istituito l'archivio nazionale delle strade che comprende tutte le strade distinte per categorie, come indicato nell'art. 2.
  2. Nell'archivio nazionale, per ogni strada, devono essere indicati i dati relativi allo stato tecnico e giuridico della strada, al traffico veicolare, agli incidenti e allo stato di percorribilita' anche da parte dei veicoli classificati mezzi d'opera ai sensi dell'art. 54, comma 1, lettera n), che eccedono i limiti di massa stabiliti nell'art. 62 e nel rispetto di limiti di massa stabiliti nell'art. 10, comma 8.
  3. La raccolta dei dati avviene attraverso gli enti proprietari della strada, che sono tenuti a trasmettere all'Ispettorato generale per la circolazione e la sicurezza stradale tutti i dati relativi allo stato tecnico e giuridico delle singole strade; allo stato di percorribilita' da parte dei veicoli classificati mezzi d'opera ai sensi dell'art. 54, comma 1, lettera n), nonche' i dati risultanti dal censimento del traffico veicolare, e attraverso la Direzione generale della M.C.T.C. che e' tenuta a trasmettere al suindicato Ispettorato tutti i dati relativi agli incidenti registrati nell'anagrafe di cui al comma 10.
@@ -110,10 +110,10 @@ Il testo dell'[articolo 3 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%
 6. Per le strade militari si applicano le procedure di declassificazione previste per le strade statali, mediante emanazione di decreto da parte del Ministro della difesa su proposta del Comando Regione Militare territoriale, previo parere dell'organo tecnico militare competente."
 
 Note all'art. 2:
- - Il testo dell'art. 2 comma 4 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 2 comma 4 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  (Omissis).
  "4. E' denominata strada di servizio la strada affiancata ad una strada principale (autostrada strada extraurbana principale strada urbana di scorrimento) avente la funzione di consentire la sosta ed il raggruppamento degli accessi dalle proprieta' laterali alla strada principale e viceversa nonche' il movimento e la manovra dei veicoli non ammessi sulla strada principale stessa".
- - Si riporta il testo dell'art. 2, comma 9, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si riporta il testo dell'art. 2, comma 9, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  "9. Quando le strade non corrispondono piu' all'uso e alle tipologie di collegamento previste sono declassificate dal Ministero dei lavori pubblici e dalle regioni, secondo le rispettive competenze, acquisiti i pareri indicati nel comma 8. I casi e le procedure per tale declassificazione sono indicati dal Regolamento".
 
 ## Art. 3.
@@ -136,8 +136,8 @@ All'[articolo 4 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzio
                             Il preesistente comma 6 e' soppresso.
 
 Note all'art. 3:
- - Il testo dell'art. 2 commi 6 e 7, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 1.
- - Il testo dell'art. 226 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 1.
+ - Il testo dell'art. 2 commi 6 e 7, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 1.
+ - Il testo dell'art. 226 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 1.
 
 ## Art. 4.
 
@@ -161,14 +161,14 @@ comunali> di cui al comma 1.
 7. Nei casi in cui la delimitazione del centro abitato interessi strade non comunali, la deliberazione della giunta municipale, prevista dall'articolo 4, comma 1, del codice, con la relativa cartografia allegata, e' inviata all'ente proprietario della strada interessata, prima della pubblicazione all'albo pretorio, indicando la data di inizio di quest'ultima. Entro il termine di pubblicazione l'ente stesso puo' inviare al comune osservazioni o proposte in merito. Su esse si esprime definitivamente la giunta municipale con deliberazione che e' pubblicata all'albo pretorio per dieci giorni consecutivi e comunicata all'ente interessato entro questo stesso termine. Contro tale provvedimento e' ammesso ricorso ai sensi dell'articolo 37, comma 3, del codice.".
 
 Note all'art. 4:
- - Si trascrive il testo dell'art. 3, comma 1, punto 8 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si trascrive il testo dell'art. 3, comma 1, punto 8 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  "1 (Definizioni stradale e di traffico). - Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati:
  (Omissis).
  8) Centro abitato: Insieme di edifici, delimitato lungo le vie di accesso dagli appositi segnali di inizio e fine.
  Per insieme di edifici si intende un raggruppamento continuo, ancorche' intervallato da strade, piazze, giardini o simili, costituito da non meno di venticinque fabbricati e da aree di uso pubblico con accessi veicolari o pedonali sulla strada".
- - Si trascrive il testo dell'art. 4, comma 1 del Nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si trascrive il testo dell'art. 4, comma 1 del Nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  "Art. 4 (Delimitazione del centro abitato). - 1. Ai fini dell'attuazione della disciplina della circolazione stradale, il comune, entro centottanta giorni dalla data di entrata in vigore del presente codice, provvede con deliberazione della giunta alla delimitazione del centro abitato".
- - Si trascrive il testo dell'art. 37, comma 3 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si trascrive il testo dell'art. 37, comma 3 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  "3. Contro i provvedimenti e le ordinanze che dispongono o autorizzano la collocazione della segnaletica e' ammesso ricorso, entro sessanta giorni e con le formalita' stabilite nel regolamento, al Ministero dei lavori pubblici, che decide in merito".
 
 ## Art. 5.
@@ -208,7 +208,7 @@ All'[articolo 9 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzio
 "3. Le caratteristiche costruttive e funzionali dei veicoli eccezionali e di quelli adibiti al trasporto eccezionale, eccedenti i soli limiti previsti dall'articolo 61 del codice, sono quelle indicate nell'appendice II al presente titolo.".
 
 Note all'art. 7:
- - Il testo degli articoli 61 e 62 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo degli articoli 61 e 62 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "Art. 61 (Sagoma limite). - 1. Fatto salvo quanto disposto nell'art. 10 e nei commi successivi del presente articolo, ogni veicolo compreso il suo carico deve avere:
  a) larghezza massima non eccedente 2,50 m; nel computo di tale larghezza non sono comprese le sporgenze dovute ai retrovisori, purche' mobili;
  b) altezza massima non eccedente 4 m; per gli autobus e i filobus destinati a servizi pubblici di linea urbani e suburbani circolanti su itinerari prestabiliti e' consentito che tale altezza sia di 4,30 m;
@@ -238,10 +238,10 @@ Il testo dell'[articolo 10 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di
  2. Le norme di cui al comma 1 possono essere modificate od integrate dal Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C., in relazione a specifiche esigenze determinate dall'evoluzione della tecnica di realizzazione dei veicoli mezzi d'opera.".
 
 Note all'art. 8:
- - Si riporta il testo di cui all'art. 10, comma 16, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si riporta il testo di cui all'art. 10, comma 16, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  (Omissis).
  "16. Nel regolamento sono stabilite le caratteristiche costruttive e funzionali dei veicoli eccezionali e di quelli adibiti al trasporto eccezionale, nonche' dei mezzi d'opera".
- - Si riporta il testo di cui all'art. 54, comma 1, lettera n), del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si riporta il testo di cui all'art. 54, comma 1, lettera n), del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  "1. Gli autoveicoli sono veicoli a motore con almeno quattro ruote, esclusi i moto-veicoli, e si distinguono in: (Omissis).
  n) mezzi d'opera: veicoli o complessi di veicoli dotati di particolare attrezzatura per il carico e il trasporto di materiali di impiego o di risulta dell'attivita' edilizia, stradale, di escavazione mineraria e materiali assimilati ovvero che completano, durante la marcia, il ciclo produttivo di specifici materiali per la costruzione edilizia; tali veicoli o complessi di veicoli possono essere adibiti a trasporti in eccedenza ai limiti di massa stabiliti nell'art. 62 e non superiori a quelli di cui all'art. 10, comma 8, e comunque nel rispetto dei limiti dimensionali fissati nell'art. 61. I mezzi d'opera devono essere altresi' idonei allo specifico impiego nei cantieri o utilizzabili a uso misto su strada e fuori strada".
 
@@ -260,7 +260,7 @@ b) di dispositivi posteriori di segnalazione visiva posizionati o ripetuti in co
 6. Con provvedimento del Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C. sono determinati i tipi, le modalita' di applicazione, le dimensioni e le caratteristiche tecniche dei pannelli retroriflettenti, nonche' i veicoli eccezionali o adibiti a trasporti eccezionali, sui quali tali pannelli devono essere applicati.".
 
 Note all'art. 9:
- - L'art. 152 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - L'art. 152 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "Art. 152. (segnalazione visiva e illuminazione dei veicoli). - 1. L'uso dei dispositivi di segnalazione visiva e di illuminazione dei veicoli e' obbligatoria da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere ed anche di giorno nelle gallerie, in caso di nebbia, di caduta di neve, di forte pioggia e in ogni altro caso di scarsa visibilita'.
  2. Ad eccezione dei velocipedi e dei ciclomotori a due ruote e dei motocicli l'uso dei dispositivi di segnalazione visiva e' obbligatorio anche durante la fermata o la sosta, a meno che il veicolo sia reso pienamente visibile dall'illuminazione pubblica o venga collocato fuori dalla carreggiata. Tale obbligo sussiste anche se il veicolo si trova sulle corsie di emergenza.
  3. Chiunque viola le disposizioni del presente articolo e' soggetto alla sanzione amministrativa del pagamento di una somma da lire cinquantaquattromila a lire duecentosedicimila".
@@ -283,12 +283,12 @@ Il testo dell'[articolo 12 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di
 3. Le caratteristiche indicate al comma 1 possono essere modificate od integrate dal Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C. in relazione a specifiche esigenze determinate dall'evoluzione della tecnica di realizzazione dei veicoli o correlate all'efficienza del servizio di soccorso o rimozione di veicoli.".
 
 Note all'art. 10:
- - Il testo dell'art. 10, comma 12 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 10, comma 12 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "12. Non costituisce trasporto eccezionale, e pertanto non e' soggetto alla relativa autorizzazione, il traino di veicoli in avaria non eccedenti i limiti dimensionali e di massa stabiliti dagli articoli 61 e 62, quando tale traino sia effettuato con veicoli rispondenti alle caratteristiche costruttive e funzionali indicate nel regolamento e sia limitato al solo itinerario necessario a raggiungere la piu' vicina officina".
- - Il testo dell'art. 159, comma 2 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 159, comma 2 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  (Omissis).
  "2. Gli enti proprietari della strada sono autorizzati a concedere il servizio della rimozione dei veicoli stabilendone le modalita' in rispetto alle norme regolamentari. I veicoli adibiti alla rimozione devono avere le caratteristiche prescritte nel regolamento. Con decreto del Ministro dei trasporti puo' provvedersi all'aggiornamento delle caratteristiche costruttive funzionali dei veicoli adibiti alla rimozione, in relazione ad esigenze determinate dall'evoluzione della tecnica di realizzazione dei veicoli o di sicurezza della circolazione".
- - Per il testo degli articoli 61 e 62 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 7.
+ - Per il testo degli articoli 61 e 62 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 7.
  - La direttiva del Consiglio delle Comunita' europee n. 71/127/CEE detta la normativa in materia di retrovisore dei veicoli a motore (decreto ministeriale 21 maggio 1974, pubblicato nella Gazzetta Ufficiale n. 168 del 27 giugno 1974).
 
 ## Art. 11.
@@ -332,8 +332,8 @@ Nell'autorizzazione e' riportata solo l'indicazione dei limiti dimensionali supe
                             Al comma 8 dopo le parole: "di un veicolo" e' aggiunta la seguente: "o".
 
 Note all'art. 11: 
- - Per il testo degli articoli 61 e 62 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 7. 
- - Il testo dell'art. 2 comma 2 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente: 
+ - Per il testo degli articoli 61 e 62 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 7. 
+ - Il testo dell'art. 2 comma 2 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente: 
  (Omissis). 
  "2. Le strade sono classificate riguardo alle loro caratteristiche costruttive tecniche e funzionali nei seguenti tipi: 
  A - autostrade; 
@@ -380,12 +380,12 @@ B) al punto B):
 "13. La fotocopia del documento di circolazione o del documento sostitutivo di cui ai commi 8 e 9, deve essere presentata in forma autenticata in data non anteriore a tre mesi, o in forma semplice; in quest'ultimo caso deve essere esibito, contestualmente, l'originale del documento stesso. L'ente rilasciante l'autorizzazione attesta sulla fotocopia la presa visione del documento originale. I soggetti che presentano piu' domande di autorizzazione presso lo stesso ente e per lo stesso veicolo possono fornire per tutte le domande successive alla prima, nell'arco temporale di un anno, fotocopia in carta semplice di quella presentata in allegato alla prima richiesta, citando gli estremi della medesima e dichiarando che, dalla data della prima presentazione, il documento di circolazione o il documento sostitutivo non hanno subito modifiche ed hanno mantenuto validita' per la circolazione.".
 
 Note all'art. 12: 
- - Si riporta il testo dell'art. 10, comma 6, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). 
+ - Si riporta il testo dell'art. 10, comma 6, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md). 
  (Omissis). 
  "6. I trasporti ed i veicoli eccezionali sono soggetti a specifica autorizzazione alla circolazione, rilasciata dall'ente proprietario o concessionario per le autostrade, strade statali e militari e dalle regioni per la rimanente rete viaria. Non sono soggetti ed autorizzazione i veicoli: 
  a) di cui al comma 3, lettera d), quando, ancorche' per effetto del carico non eccedono in altezza di 4,20 m e non eccedano in lunghezza di oltre il 12%, con il limite massimo di 13,44 m per gli autoveicoli isolati, 20,16 m per gli autotreni e 17,36 m per gli autoarticolati; tale eccedenza puo' essere anteriore o posteriore, oppure soltanto posteriore per i veicoli isolati o costituenti autotreno, e soltanto posteriore per gli autoarticolati, a condizione che chi esegue il trasporto verifichi che nel percorso siano comprese esclusivamente strade o tratti di strada aventi le caratteristiche indicate nell'art. 167, comma 4; 
  b) di cui al comma 3, lettera e) e lettera g) quando non eccedano l'altezza di 4,30 m con il carico e le altre dimensioni stabilite dall'art. 61 o le masse stabilite dall'art. 62, a condizione che chi esegue il trasporto verifichi che nel percorso siano comprese esclusivamente strade o tratti di strada aventi le caratteristiche indicate nell'art. 167, comma 4". 
- - Per il testo dell'art. 61 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 7.
+ - Per il testo dell'art. 61 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 7.
 
 ## Art. 13.
 
@@ -439,10 +439,10 @@ B) sono aggiunti in fine i seguenti periodi: "Fino a quando non siano attuati tu
 "massa".
 
 Note all'art. 14: 
- - Il testo dell'art. 28 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente: 
+ - Il testo dell'art. 28 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente: 
  "Art. 28 (Obblighi dei concessionari di determinati servizi). - 1. I concessionari di ferrovie, di tramvie, di filovie, di funivie, di teleferiche, di linee elettriche-telefoniche, sia aeree che sotterranee, quelli di servizi di oleodotti, di metanodotti, di distribuzione di acqua potabile o di gas, nonche' quelli di servizi di fognature e quelli dei servizi che interessano comunque le strade, hanno l'obbligo di osservare le condizioni e le prescrizioni imposte dall'ente proprietario per la conservazione della strada e per la sicurezza della circolazione. Quando si tratta di impianti inerenti a servizi di trasporto, i relativi provvedimenti sono comunicati al Ministero dei trasporti o alla regione competente. Nel regolamento sono indicate le modalita' di rilascio delle concessioni ed autorizzazioni alla esecuzione dei lavori ed i casi di deroga. 
  2. Qualora per comprovate esigenze della viabilita' si renda necessario modificare o spostare, su apposite sedi messe a disposizione dell'ente proprietario della strada, le opere e gli impianti eserciti dai soggetti indicati nel comma 1, l'onere relativo e' a carico del gestore del pubblico servizio; i termini e le modalita' per l'esecuzione dei lavori sono previamente concordati tra le parti, contemperando i rispettivi interessi pubblici perseguiti. In caso di ritardo ingiustificato, il gestore del pubblico servizio e' tenuto a risarcire i danni e a corrispondere le eventuali penali fissate nelle specifiche convenzioni". 
- - Per il testo dell'art. 61 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 7.
+ - Per il testo dell'art. 61 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 7.
 
 ## Art. 15.
 
@@ -494,7 +494,7 @@ c) veicoli e trasporti di cui all'articolo 13, comma 2, punto B), lettera c):
 "4. Il personale militare di cui all'articolo 12, comma 4, del codice, anche in esecuzione dell'articolo 192, commi 5 e 6, dello stesso codice, segnala agli organi di cui all'articolo 12, comma 1, del codice le infrazioni di chiunque non abbia ottemperato alle segnalazioni volte ad assicurare la marcia delle colonne militari.".
 
 Note all'art. 19:
- - Il testo dell'art. 12, commi 1 e 4, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 12, commi 1 e 4, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "1. L'espletamento dei servizi di polizia stradale previsti dal presente Codice spetta:
  a) in via principale alla specialita' polizia stradale della Polizia di Stato;
  b) alla Polizia di Stato;
@@ -504,7 +504,7 @@ Note all'art. 19:
  f) ai funzionari del Ministero dell'interno addetti al servizio di polizia stradale".
  (Omissis).
  "4. La scorta e l'attuazione dei servizi diretti ad assicurare la marcia delle colonne militari spetta, inoltre, agli ufficiali, sottofficiali e militari di truppa delle Forze armate, appositamente qualificati con specifico attestato rilasciato dall'autorita' militare competente".
- - Il testo dell'art. 192, commi 5 e 6, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 192, commi 5 e 6, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  (Omissis).
  "5. I conducenti devono ottemperare alle segnalazioni che il personale militare, anche non coadiuvato dal personale di Polizia stradale di cui all'art. 12, comma 1, impartisce per consentire la progressione del convoglio militare.
  6. Chiunque viola gli obblighi di cui ai commi 1, 2, 3 e 5 e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centottomila a lire quattrocentotrentaduemila".
@@ -528,7 +528,7 @@ L'[articolo 24 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzion
  c) indicazione dell'amministrazione di appartenenza dell'agente, nella parte superiore della corona circolare in lettere nere alte 1,4 cm; eventuale specificazione della direzione generale, corpo, servizio, ecc. nella parte inferiore della corona circolare, in lettera nere alte 1 cm se disposta su una sola riga, e, se disposta su due righe, in lettere alte 0,5 cm per la riga superiore e 1 cm per quella inferiore; 
  d) manico di metallo o di materiale sintetico di colore bianco lungo 30 cm, sullo stesso e' inciso un numero o matricola che identifica chi detiene il segnale. 
 2. Il segnale distintivo e' usato esclusivamente per intimare l'alt agli utenti della strada in movimento e, in situazioni di emergenza, per le segnalazioni manuali dirette a regolare il traffico. L'uso del segnale distintivo fuori dai casi consentiti e' perseguibile anche disciplinarmente dall'amministrazione da cui dipendono i soggetti di cui al comma 1. 
-3. Gli organi di polizia stradale di cui all'articolo 12 del codice, quando non sono in uniforme, per l'intimazione dell'ALT a coloro che circolano sulle aree soggette alla disciplina del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) esibiscono in modo chiaramente visibile, il segnale distintivo di cui al comma 1 e successivamente, prima di qualsiasi accertamento o contestazione, esibiscono la speciale tessera rilasciata dalla competente amministrazione. 
+3. Gli organi di polizia stradale di cui all'articolo 12 del codice, quando non sono in uniforme, per l'intimazione dell'ALT a coloro che circolano sulle aree soggette alla disciplina del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) esibiscono in modo chiaramente visibile, il segnale distintivo di cui al comma 1 e successivamente, prima di qualsiasi accertamento o contestazione, esibiscono la speciale tessera rilasciata dalla competente amministrazione. 
 4. Gli organi di polizia stradale in uniforme possono intimare l'ALT, oltre che con il distintivo, anche facendo uso di fischietto o con segnale manuale o luminoso. 
 5. L'intimazione dell'ALT ad opera di organi di polizia stradale non in uniforme ed a bordo di veicoli di servizio o privati e' eseguita sorpassando il veicolo da fermare ed esibendo dal finestrino il segnale distintivo di cui al comma 1.".
 
@@ -538,10 +538,10 @@ L'[articolo 24 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzion
 
 Il paragrafo 1 del Titolo II del [D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' sostituito dal seguente: 
  "1. Attivita' di tutela delle strade e fasce di rispetto 
- ([Artt. 14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) - [18 Codice della Strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md))"
+ ([Artt. 14](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) - [18 Codice della Strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md))"
 
 Note all'art. 22: 
- - Il testo degli articoli 14, 15, 16, 17 e 18 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' il seguente: 
+ - Il testo degli articoli 14, 15, 16, 17 e 18 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e' il seguente: 
  "Art. 14 (Poteri e compiti degli enti proprietari delle strade). - 1. Gli enti proprietari delle strade, allo scopo di garantire la sicurezza e la fluidita' della circolazione provvedono: 
  a) alla manutenzione, gestione e pulizia delle strade, delle loro pertinenze e arredo, nonche' delle attrezzature impianti e servizi; 
  b) al controllo tecnico dell'efficienza delle strade e relative pertinenze; 
@@ -594,7 +594,7 @@ Note all'art. 22:
 3. Qualora la violazione non sia stata contestata all'atto dell'accertamento, l'organo di polizia stradale destinatario della segnalazione di cui al comma 2, provvede alla verbalizzazione ed alla notifica, con indicazione dell'agente che ha effettuato l'accertamento.".
 
 Nota all'art. 23:
- - Il testo dell'art. 12, comma 3 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 12, comma 3 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  (Omissis).
  "3. La prevenzione e l'accertamento delle violazioni in materia di circolazione stradale e la tutela e il controllo sull'uso delle strade possono, inoltre, essere effettuati, previo superamento di un esame di qualificazione secondo quanto stabilito dal regolamento di esecuzione:
  a) dal personale dell'Ispettorato generale per la circolazione e la sicurezza stradale, dell'Amministrazione centrale e periferica del Ministero dei lavori pubblici, della Direzione generale della motorizzazione civile e dei trasporti in concessione appartenente al Ministero dei trasporti, e dal personale dell'A.N.A.S.;
@@ -628,11 +628,11 @@ b) 3 m per le strade di tipo C, F.
 9. Le prescrizioni contenute nei commi 1 ed 8 non si applicano alle opere e colture preesistenti.
 
 Note all'art. 24:
- - Si riporta il testo dell'art. 3, comma 1, n. 52 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md):
+ - Si riporta il testo dell'art. 3, comma 1, n. 52 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  "1. Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati:
  (Omissis).
  n. 52) Strada vicinale (o poderale o di bonifica): strada privata fuori dei centri abitati ad uso pubblico".
- - Il testo dell'art. 4 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 4 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "Art. 4 (Deliminazione del centro abitato). - 1. Ai fini dell'attuazione della disciplina della circolazione stradale, il comune, entro centottanta giorni dalla data di entrata in vigore del presente codice, provvede con deliberazione della Giunta alla delimitazione del centro abitato.
  2. La deliberazione di delimitazione del centro abitato come definito dall'art. 3 e' pubblicata all'albo pretorio per trenta giorni consecutivi; ad essa viene allegata idonea cartografia nella quale sono evidenziati i confini sulle strade di accesso".
 
@@ -752,7 +752,7 @@ sostituito da <punto>;
 C) la lettera d) e' soppressa;
                         b)
                             E' inserito il seguente comma: 
-"3. Nel caso in cui i passi carrabili, come definiti dall'articolo 3, comma 1, punto 37), del codice, rientrino nella definizione dell'[articolo 44, comma 4, del decreto legislativo 15 novembre 1993, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), nella zona antistante gli stessi vige il divieto di sosta, segnalato con l'apposito segnale di cui alla figura II.78. In caso contrario, il divieto di sosta nella zona antistante il passo medesimo ed il posizionamento del relativo segnale, sono subordinati alla richiesta di occupazione del suolo pubblico che, altrimenti, sarebbe destinato alla sosta dei veicoli, in conformita' a quanto previsto dall'articolo 44, comma 8, del citato [decreto legislativo 507/93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;507).";
+"3. Nel caso in cui i passi carrabili, come definiti dall'articolo 3, comma 1, punto 37), del codice, rientrino nella definizione dell'[articolo 44, comma 4, del decreto legislativo 15 novembre 1993, n. 507](../Decreti%20Legislativi/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), nella zona antistante gli stessi vige il divieto di sosta, segnalato con l'apposito segnale di cui alla figura II.78. In caso contrario, il divieto di sosta nella zona antistante il passo medesimo ed il posizionamento del relativo segnale, sono subordinati alla richiesta di occupazione del suolo pubblico che, altrimenti, sarebbe destinato alla sosta dei veicoli, in conformita' a quanto previsto dall'articolo 44, comma 8, del citato [decreto legislativo 507/93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;507).";
                         c)
                             Il preesistente comma 3 diventa comma 4 con le seguenti modificazioni: 
 A) le parole: "nel comma precedente" sono sostituite dalle seguenti: "nel comma 2"; 
@@ -765,14 +765,14 @@ C) sono aggiunti in fine i seguenti periodi: "Nel caso in cui, per obbiettive im
 "6. I comuni hanno la facolta' di autorizzare distanze inferiori a quelle fissate al comma 2, lettera a), per i passi carrabili gia' esistenti alla data di entrata in vigore del presente regolamento, nel caso in cui sia tecnicamente impossibile procedere all'adeguamento di cui all'articolo 22, comma 2, del codice.".
 
 Note all'art. 36: 
- - Il testo dell'art. 3, comma 1, punto 37 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente: 
+ - Il testo dell'art. 3, comma 1, punto 37 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente: 
  "1. Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati: 
  (Omissis). 
  n. 37) Passo carrabile: accesso ad un'area laterale idonea allo stazionamento di uno o piu' veicoli". 
- - Il testo dell'art. 22, comma 2, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente: 
+ - Il testo dell'art. 22, comma 2, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente: 
  (Omissis). 
  "2 gli accessi o le diramazioni gia' esistenti, ove provvisti di autorizzazione, devono essere regolarizzati in conformita' alle prescrizioni di cui al presente titolo". 
- - Il testo dell'[art. 44, commi 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md) e [8 del decreto legislativo 15 novembre 1993, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md) (revisione ed armonizzazione dell'imposta comunale sulla pubblicita' e del diritto sulle pubbliche affissioni, della tassa per l'occupazione di spazi ed aree pubbliche dei comuni e delle provincie nonche' della tassa per lo smaltimento dei rifiuti solidi urbani a norma dell'[art. 4 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), concernente il riordino della finanza territoriale) e' il seguente: 
+ - Il testo dell'[art. 44, commi 4](../Decreti%20Legislativi/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md) e [8 del decreto legislativo 15 novembre 1993, n. 507](../Decreti%20Legislativi/Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md) (revisione ed armonizzazione dell'imposta comunale sulla pubblicita' e del diritto sulle pubbliche affissioni, della tassa per l'occupazione di spazi ed aree pubbliche dei comuni e delle provincie nonche' della tassa per lo smaltimento dei rifiuti solidi urbani a norma dell'[art. 4 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), concernente il riordino della finanza territoriale) e' il seguente: 
  (Omissis). 
  "4. Sono considerati passi carrabili quei manufatti costituiti generalmente da listoni di pietra od altro materiale o da appositi intervalli lasciati nei marciapiedi o, comunque, da una modifica del piano stradale intesa a facilitare l'accesso dei veicoli alla proprieta' privata".  (Omissis). 
  "8. I comuni e le province, su espressa richiesta dei proprietari degli accessi di cui al comma 7 e tenuto conto delle esigenze di viabilita', possono, previo rilascio di apposito cartello segnaletico, vietare la sosta indiscriminata sull'area antistante gli accessi medesimi.
@@ -810,7 +810,7 @@ I cartelli, le insegne di esercizio e gli altri mezzi pubblicitari installati en
 Le preinsegne hanno forma rettangolare e dimensioni contenute entro i limiti inferiori di 1 m x 0,20 m e superiori di 1,50 m x 0,30 m. E' ammesso l'abbinamento sulla stessa struttura di sostegno di un numero massimo di sei preinsegne per ogni senso di marcia a condizione che le stesse abbiano le stesse dimensioni e costituiscano oggetto di un'unica autorizzazione.".
 
 Nota all'art. 38: 
- - Il testo dell'art. 23 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente: 
+ - Il testo dell'art. 23 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente: 
  "Art. 23. (Pubblicita' sulle strade e sui veicoli). - 1.
  Lungo le strade o in vista di esse e' vietato collocare insegne, cartelli, manifesti, impianti di pubblicita' o propaganda, segni orizzontali reclamistici, sorgenti luminose, visibili dai veicoli transitanti sulle strade, che per dimensioni, forma, colori, disegno e ubicazione possano ingenerare confusione con la segnaletica stradale, ovvero possano renderne difficile la comprensione o ridurne la visibilita' o l'efficacia, ovvero arrecare disturbo visivo agli utenti della strada o distrarne l'attenzione con conseguente pericolo per la sicurezza della circolazione; in ogni caso, detti impianti non devono costituire ostacolo o, comunque, impedimento alla circolazione delle persone invalide. Sono altresi' vietati i cartelli e gli altri mezzi pubblicitari rifrangenti, nonche' le sorgenti e le pubblicita' luminose che possono produrre abbagliamento. Sulle isole di traffico delle intersezioni canalizzate e' vietata la posa di qualunque installazione diversa dalla prescritta segnaletica. 
  2. E' vietata l'apposizione di scritte o insegne pubblicitarie luminose sui veicoli. E' consentita quella di scritte o insegne pubblicitarie rifrangenti nei limiti e alle condizioni stabiliti dal regolamento purche' sia escluso ogni rischio di abbagliamento o di distrazione dell'attenzione nella guida per i conducenti degli altri veicoli. 
@@ -897,11 +897,11 @@ Per gli striscioni, le locandine e gli stendardi, le distanze dagli altri cartel
 15. La collocazione di insegne di esercizio nell'ambito e in prossimita' dei luoghi di cui all'articolo 23, comma 3, del codice, e' subordinata, oltre che all'autorizzazione di cui all'articolo 23, comma 4, del codice, al nulla osta rilasciato dal competente organo di tutela.".
 
 Note all'art. 41: 
- - Si riporta il testo dell'art. 3, comma 1, punto 20 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
+ - Si riporta il testo dell'art. 3, comma 1, punto 20 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): 
  "1. Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati: 
  (Omissis). 
  n 20) Curva: raccordo longitudinale fra due tratti di strada rettilinei, aventi assi intersecanti, tale da determinare condizioni di limitata visibilita'". 
- - Per il testo dell'art. 23 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 38.
+ - Per il testo dell'art. 23 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 38.
 
 ## Art. 42.
 
@@ -984,8 +984,8 @@ e) che non sia realizzata mediante messaggi variabili.
 7. Le disposizioni di cui ai commi precedenti non si applicano ai veicoli al seguito delle competizioni sportive autorizzate ai sensi dell'articolo 9 del codice.".
 
 Note all'art. 47: 
- - Per il testo dell'art. 61 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 7. 
- - Si riporta il testo dell'art. 9 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
+ - Per il testo dell'art. 61 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) si veda in nota all'art. 7. 
+ - Si riporta il testo dell'art. 9 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): 
  "9. (Competizioni sportive su strada). - 1. Sulle strade ed aree pubbliche sono vietate le competizioni sportive con veicoli o animali e quelle atletiche, salvo autorizzazione. 
  L'autorizzazione e' rilasciata dal sindaco del comune in cui devono avere luogo le gare atletiche e ciclistiche e quelle con animali o con veicoli a trazione animale. Essa e' rilasciata dal prefetto per le gare con veicoli a motore, sentite le federazioni nazionali sportive competenti, nonche' per le gare atletiche, ciclistiche e per le gare con animali o con veicoli a trazione animale che interessano piu' comuni. Nelle autorizzazioni sono precisate le prescrizioni alle quali le gare sono subordinate. 
  2. Le autorizzazioni di cui al comma 1 devono essere richieste dai promotori almeno quindici giorni prima della manifestazione per quelle di competenza del sindaco e almeno trenta giorni prima per quelle di competenza del prefetto e possono essere concesse previo nulla osta dell'ente proprietario della strada. 
@@ -1086,7 +1086,7 @@ d) I commi 6, 7 e 8 sono sostituiti dai seguenti:
 e) I commi 9 e 10 sono soppressi.
 
 Nota all'art. 54:
- - Per il testo dell'art. 28 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 14.
+ - Per il testo dell'art. 28 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 14.
 
 ## Art. 55.
 
@@ -1106,7 +1106,7 @@ C) sono aggiunti in fine i seguenti periodi:
 seguenti parole: "che e' limitato alla verifica della rispondenza tra le prescrizioni dell'atto di concessione e la realizzazione effettiva delle opere. Detta verifica deve essere eseguita dall'ente proprietario della strada entro trenta giorni dalla comunicazione di ultimazione dei lavori, effettuata dal concessionario.".
 
 Note all'art. 55: 
- - Si riporta l'art. 27 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
+ - Si riporta l'art. 27 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): 
  "Art. 27 (Formalita' per il rilascio delle autorizzazioni e concessioni). - 1. Le domande dirette a conseguire le concessioni e le autorizzazioni di cui al presente titolo, se interessano strade o autostrade statali, sono presentate al competente ufficio dell'A.N.A.S. e, in caso di strade in concessione, all'ente concessionario che provvede a trasmetterle con il proprio parere al competente ufficio dell'A.N.A.S., ove le convenzioni di concessione non consentono al concessionario di adottare il relativo provvedimento. 
  2. Le domande rivolte a conseguire i provvedimenti di cui al comma 1 del presente articolo interessanti strade non statali sono presentate all'ente proprietario della strada. 
  3. Le domande sono corredate dalla relativa documentazione tecnica e dall'impegno del richiedente a sostenere tutte le spese di sopralluogo e di istruttoria, previo deposito di eventuali cauzioni. 
@@ -1119,7 +1119,7 @@ Note all'art. 55:
  10. Chiunque intraprende lavori, effettua occupazioni o esegue depositi interessanti le strade o autostrade e le relative pertinenze per le quali siano prescritti provvedimenti autorizzatori deve tenere, nel luogo dei lavori, dell'occupazione o del deposito, il relativo atto autorizzatorio o copia conforme che e' tenuto a presentare ad ogni richiesta dei funzionari, ufficiali o agenti indicati nell'art. 12. 
  11. Per la mancata presentazione del titolo di cui al comma 10 il responsabile e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centottomila a lire quattrocentotrentaduemila. 
  12. La violazione del comma 10 importa la sanzione amministrativa accessoria della sospensione dei lavori, secondo le norme del Capo I, Sezione II, del Titolo VI. In ogni caso di rifiuto della presentazione del titolo o accertata mancanza dello stesso, da effettuare senza indugio, la sospensione e' definitiva e ne consegue la sanzione amministrativa accessoria dell'obbligo, a carico dell'autore della violazione, del ripristino a sue spese dei luoghi secondo le norme del Capo I, Sezione II, del Titolo VI". 
- - Per il testo dell'art. 28 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 14.
+ - Per il testo dell'art. 28 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda in nota all'art. 14.
 
 ## Art. 56.
 
@@ -2512,7 +2512,7 @@ Nota all'art. 193:
  "d-bis) due rappresentanti designati dall'Automobile Club d'Italia, di cui uno con funzioni di supplente".
  4. Nei locali sede degli uffici dell'Automobile Club d'Italia (ACI) e degli automobile club possono essere svolte esclusivamente le attivita' dirette al conseguimento dei fini istituzionali dell'ACI stesso. Nei locali sede degli uffici delle societa' e delle imprese che esercitano l'attivita' di cui all'art. 1 della citata [legge n. 264 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;264) possono essere svolti esclusivamente servizi relativi alla circolazione dei mezzi di trasporto.
  Art. 3. - 1. All'[art. 7, comma 2, della legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_7-com2), le parole: "quindici giorni" sono sostituite dalle seguenti: "trenta giorni".
- 2. All'[art. 92, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), le parole: "quindici giorni" sono sostituite dalle seguenti: "trenta giorni".
+ 2. All'[art. 92, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), le parole: "quindici giorni" sono sostituite dalle seguenti: "trenta giorni".
  3. Il comma 3 dell'art. 92 del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285) e sostituito dal seguente:
  "3. Chiunque abusivamente rilascia la ricevuta e' punito con la sanzione amministrativa del pagamento di una somma da lire cinquecentomila a lire due milioni. Alla contestazione di tre violazioni nell'arco di un triennio consegue la revoca dell'autorizzazione di cui all'[art. 3 della legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_3). Ogni altra irregolarita' nel rilascio della ricevuta e' punita con la sanzione amministrativa del pagamento di una somma da lire centomila a lire quattrocentomila".
  4. Il comma 4 dell'art. 7 della citata [legge n. 264 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;264) e' abrogato.
@@ -2635,7 +2635,7 @@ a) Le parole: "commi 2, 3 e 4" sono sostituite dalle seguenti: "commi 2 e 4" e l
 
 Note all'[art. 205:
  - La Legge 12 agosto 1962, n. 1839](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20europeo%20relativo%20al%20trasporto%20internazionale%20di%20merci%20pericolose%20su%20strada%20con%20annessi%20Protocollo%20ed%20Allegati%20adottato%20a%20Ginevra%20il%2030%20settembre%201957.md), reca: "Ratifica ed esecuzione dell'accordo europeo relativo al trasporto internazionale, di merci pericolose su strada, con annessi protocollo ed allegati, adottato a Ginevra il 30 settembre 1957".
- - La [Legge 10 luglio 1970, n. 579](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasporto%20su%20strada%20di%20merci%20pericolose.md) (Trasporto su strada di merci pericolose) e' abrogata, a decorrere dal 1 gennaio 1993, dall'[art. 231 del d.lgs. 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+ - La [Legge 10 luglio 1970, n. 579](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasporto%20su%20strada%20di%20merci%20pericolose.md) (Trasporto su strada di merci pericolose) e' abrogata, a decorrere dal 1 gennaio 1993, dall'[art. 231 del d.lgs. 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
  Si elencano di seguito i decreti ministeriali emanati ai sensi dell'[art. 2 della legge n. 579 del 1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970;579#art_2) e le relative materie in essi disciplinate:
  Con decreti ministeriali 8 agosto e 9 agosto 1980 (Gazzetta Ufficiale n. 260 del 22 settembre 1980, supplemento ordinario) sono state emanate norme di progettazione, costruzione ed approvazione delle cisterne e particolari caratteristiche ed accessori dei veicoli cisterna da adibire al trasporto su strada rispettivamente di materie pericolose che presentano pericolo di incendio, di materie tossiche e corrosive.
  Con decreto ministeriale 11 agosto 1980 (Gazzetta Ufficiale n. 260 del 22 settembre 1980, supplemento ordinario) e' stato approvato il tipo di cisterna, le specifiche per giunzioni saldate, i materiali, il modello del libretto, il modello della dichiarazione di conformita' del veicolo cisterna, il modello della dichiarazione di conformita' della cisterna.
@@ -2695,7 +2695,7 @@ i) i veicoli delle Forze armate negli interventi di emergenza e in occasione di 
 
 Nota all'[art. 209: 
  - Il R.D. 14 aprile 1910, n. 639](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20delle%20disposizioni%20di%20legge%20relative%20alla%20riscossione%20delle%20entrate%20patrimoniali%20dello%20Stato%20010U0639.md), reca: "Approvazione del testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato". 
- - Il [D.P.R. 16 dicembre 1993, n. 575](../DPR/Modificazione%20allart.%20373%20del%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495.md), recante: "Modificazioni all'art. 373 del regolamento di esecuzione e di attuazione del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), approvato con [decreto del Presidente della Repubblica 16 dicembre 1992, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;459)", e' stato pubblicato nella Gazzetta Ufficiale n. 4 del 7 gennaio 1994.
+ - Il [D.P.R. 16 dicembre 1993, n. 575](../DPR/Modificazione%20allart.%20373%20del%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495.md), recante: "Modificazioni all'art. 373 del regolamento di esecuzione e di attuazione del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), approvato con [decreto del Presidente della Repubblica 16 dicembre 1992, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;459)", e' stato pubblicato nella Gazzetta Ufficiale n. 4 del 7 gennaio 1994.
 
 ## Art. 210.
 
@@ -2704,7 +2704,7 @@ Nota all'[art. 209:
 Il paragrafo 7 del titolo V del [D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' sostituito dal seguente: 
  "§- VEICOLI SENZA CRONOTACHIGRAFO E CON 
  CRONOTACHIGRAFO - POSSESSO DEI DOCUMENTI DI GUIDA" 
- ([Artt. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) - [180 Codice della Strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md))
+ ([Artt. 178](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) - [180 Codice della Strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md))
 
 ## Art. 211.
 
@@ -2719,7 +2719,7 @@ La certificazione e' fatta pervenire, a cura del titolare della licenza, all'org
 Note all'art. 211:
  - Il regolamento n. 3820/85/CEE del 20 dicembre 1985, relativo all'armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada, e' stato pubblicato nella Gazzetta Ufficiale delle comunita' europee L. 370 del 31 dicembre 1985.
  - La [legge 13 novembre 1978, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-11-13;727), recante: "Attuazione del regolamento (CEE) n. 1463/70 del 20 luglio 1970, e successive modificazioni e integrazioni, relativo alla istituzione di uno speciale apparecchio di misura destinato al controllo degli impieghi temporali nel settore dei trasporti su strada" e' stata pubblicata nella Gazzetta Ufficiale 23 novembre 1978, n. 328.
- - Il testo degli artt. 178 e 179 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo degli artt. 178 e 179 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "Art. 178 (Documenti di viaggio per trasporti professionali con veicoli non muniti di cronotachigrafo). - 1. I libretti individuali, gli estratti del registro di servizio e le copie dell'orario di servizio di cui al regolamento devono essere esibiti, per il controllo, agli organi di Polizia Stradale di cui all'art. 12.
  2. I libretti individuali conservati dall'impresa e i registri di servizio di cui al regolamento devono essere esibiti, per il controllo, ai funzionari della Direzione generale della M.C.T.C. e dell'Ispettorato del lavoro.
  3. Il conducente che supera i periodi di guida prescritti o non osserva i periodi di pausa entro i limiti stabiliti dal regolamento ovvero non osserva i periodi di riposo prescritti ovvero e' sprovvisto del libretto individuale di controllo o dell'estratto del registro di servizio o della copia dell'orario di servizio di cui al regolamento e' soggetto alla sanzione amministrativa del pagamento di una somma da lire centottomila a lire quattrocentotrentaduemila. La stessa sanzione si applica agli altri membri dell'equipaggio che non osservano le dette prescrizioni.
@@ -2744,7 +2744,7 @@ Note all'art. 211:
 2. Copia del verbale di cui al comma 1 e' consegnata alla persona che ha fornito le informazioni o ha esibito i documenti.
 3. Il verbale di cui al comma 1 e' conforme al modello seguente:
 COMANDO ..................
-OGGETTO: Verbale di violazione all'[art. 180 C.d.S.](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) contestato
+OGGETTO: Verbale di violazione all'[art. 180 C.d.S.](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) contestato
 dall'Ufficio o Comando di ..........................
 L'anno ............ il giorno ....... del mese di .......... alle
 ore ...... nell'Ufficio o Comando ............. si e' presentato il
@@ -2776,7 +2776,7 @@ dell'art. 376 del Regolamento di esecuzione del C.d.S.
 * Da inviare all'Ufficio o Comando che ha contestato la violazione.".
 
 Nota all'art. 212:
- - L'art. 180, comma 8 del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) cosi' recita:
+ - L'art. 180, comma 8 del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) cosi' recita:
  (Omissis).
  "8. Chiunque senza giustificato motivo non ottempera all'invito dell'autorita' di presentarsi, entro il termine stabilito nell'invito medesimo, ad uffici di Polizia per fornire informazioni o esibire documenti ai fini dell'accertamento delle violazioni amministrative previste dal presente codice, e' soggetto alla sanzione amministrativa del pagamento di una somma da lire cinquecentoquarantamila a lire duemilionicentosessantamila".
 
@@ -2791,7 +2791,7 @@ b) posteriormente al conducente, per il trasporto di bambini di qualunque massa,
 Prima del montaggio della attrezzatura e' necessario procedere ad una verifica della solidita' e stabilita' delle parti del velocipede interessate al montaggio stesso.".
 
 Nota all'art. 213:
- - Il testo dell'art. 68, comma 5, del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 68, comma 5, del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  (Omissis).
  "5. I velocipedi possono essere equipaggiati per il trasporto di un bambino, con idonee attrezzature, le cui caratteristiche sono stabilite nel Regolamento".
 
@@ -2848,7 +2848,7 @@ a) Il terzo periodo e' sostituito dal seguente:
 "In caso di esito negativo il prefetto ne da' immediata comunicazione ai competenti uffici provinciali della M.C.T.C. per il tramite del collegamento informatico integrato gia' esistente tra i sistemi informatici della Direzione generale della M.C.T.C. e della Direzione generale dell'Amministrazione degli Affari generali e del Personale del Ministero dell'interno, affinche' i suddetti uffici provinciali della M.C.T.C. procedano alla revoca della patente ai sensi dell'articolo 130, comma 1, lettera a), del codice.".
 
 Nota all'art. 216:
- - Il testo dell'art. 130, comma 1, lettera a), del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 130, comma 1, lettera a), del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "1. La patente di guida e' revocata dai competenti uffici provinciali della Direzione generale della M.C.T.C.:
  a) quando il titolare non sia in possesso, con carattere permanente, dei requisiti fisici e psichici prescritti;".
  Il decreto ministeriale 27 dicembre 1982 (Gazzetta Ufficiale n. 266 del 28 settembre 1983) modificato del decreto ministeriale 3 aprile 1984 (Gazzetta Ufficiale 19 aprile 1984, n. 110), ha dettato norme sul trasporto alternato in cisterne di materie pericolose appartenenti a classi diverse e norme integrative sui materiali, sulle saldature e sui tipi di giunto saldato nella costruzione e sulla riparazione di cisterne, nuove norme concernenti le cisterne adibite al trasporto merci pericolose.
@@ -2953,8 +2953,8 @@ c) Al comma 4 le parole: "(modello V.2)" sono soppresse.
 ## Art. 225.
 
 1. All'[articolo 399 del D.P.R. 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono apportate le seguenti modificazioni:
-a) Il riferimento tra parentesi agli articoli del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e la rubrica sono modificati come segue: "(Artt. 216 e 217 Cod. Str.) (Ritiro dei documenti di circolazione, della targa o della patente di guida - Sospensione della carta di circolazione)";
-b) Al comma 2, nello schema di annotazione, le parole: "il certificato di circolazione n." sono sostituite dalle seguenti: "il certificato di idoneita' tecnica n." e le parole: "il certificato di proprieta' del veicolo .... per violazione all'articolo ..... del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)." sono soppresse.
+a) Il riferimento tra parentesi agli articoli del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e la rubrica sono modificati come segue: "(Artt. 216 e 217 Cod. Str.) (Ritiro dei documenti di circolazione, della targa o della patente di guida - Sospensione della carta di circolazione)";
+b) Al comma 2, nello schema di annotazione, le parole: "il certificato di circolazione n." sono sostituite dalle seguenti: "il certificato di idoneita' tecnica n." e le parole: "il certificato di proprieta' del veicolo .... per violazione all'articolo ..... del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)." sono soppresse.
 
 ## Art. 226.
 
@@ -2969,7 +2969,7 @@ Note all'[art. 226:
  - Per la legge n. 241 del 1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_226) si veda in nota all'art. 73.
  - Il [D.P.R. 13 marzo 1986, n. 156](../DPR/Regolamento%20per%20lammissione%20allutenza%20del%20servizio%20di%20informatica%20del%20centro%20elaborazione%20dati%20della%20Direzione%20generale%20della%20motorizzazione%20civile%20e%20dei%20trasporti%20in%20concessione.md), reca: "Regolamento per l'ammissione all'utenza del servizio di informatica del centro elaborazione dati della Direzione generale della motorizzazione civile e dei trasporti in concessione".
  La tabella 1 allegata alla citata [legge n. 870 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;870) (si veda in nota all'art. 234) e' stata pubblicata nel supplemento ordinario dalla Gazzetta Ufficiale n. 291 del 16 dicembre 1986.
- - Per il testo dell'[art. 3, comma 2, della legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), si veda in nota alle premesse.
+ - Per il testo dell'[art. 3, comma 2, della legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), si veda in nota alle premesse.
 
 ## Art. 227.
 
@@ -3003,7 +3003,7 @@ a) Il comma 4 e' sostituito dal seguente:
 "4. Le direttive comunitarie, nelle materie disciplinate dal presente regolamento, sono applicate nella versione integrata o modificata in vigore al momento dell'applicazione delle direttive medesime e sono recepite con le modalita' ed i tempi di cui all'articolo 229 del codice.".
 
 Note all'art. 228:
- - L'art. 229 (Attuazione di direttive comunitarie) del nuovo [Codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - L'art. 229 (Attuazione di direttive comunitarie) del nuovo [Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  "Art. 229. - 1. Salvo i casi di attuazione disposti dalla legge comunitaria ai sensi dell'[art. 4 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le direttive comunitarie, nelle materie disciplinate dal presente codice, sono recepite con decreti dei Ministri della Repubblica, secondo le competenze loro attribuite, da emanarsi entro i termini dalle stesse indicati o, comunque, non oltre dodici mesi dalla loro pubblicazione nella Gazzetta Ufficiale della Comunita' europea".
  - L'art. 4 della legge 9 marzo 1989 (Norme generali sulla partecipazione dell'Italia al processo normativo comunitario e sulle procedure di esecuzione degli obblighi comunitari) cosi' recita:
  "Art. 4 (Attuazione in via regolamentare. - 1. Nelle materie gia' disciplinate con legge, ma non riservate alla legge, le direttive possono essere attuate mediante regolamento se cosi' dispone la legge comunitaria.
@@ -3527,20 +3527,20 @@ DIPENDENTI DELLA DIREZIONE GENERALE M.C.T.C. ABILITATI AD EFFETTUARE ESAMI DI ID
 |Esami per insegnanti|DIRIGENTI|                 |Diploma di Laurea |
 |e istruttori di     |TECNICI  |                 |in Ingegneria ed  |
 |scuola guida (Art.  |         |                 |abilitazione      |
-|123 [Cds. Comma 7](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)),  |         |                 |all'esercizio     |
+|123 [Cds. Comma 7](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)),  |         |                 |all'esercizio     |
 |esami per la patente|         |                 |della professione |
 |di guida dei veicoli|         |                 |------------------|
 |a motore delle      |         |                 |                  |
 |categorie A, B, C,  |         |                 |Diploma di Laurea |
-|D, E, ([Art. 116 CdS](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md),|         |                 |in Architettura   |
+|D, E, ([Art. 116 CdS](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md),|         |                 |in Architettura   |
 |comma 3) e per le   |         |                 |ed abilitazione   |
 |patenti speciali    |         |                 |all'esercizio     |
 |delle categorie A,  |         |                 |della professione |
 |B, C, D, (Art. 116  |         |                 |                  |
-|[CdS, Comma 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)); esami|         |                 |                  |
+|[CdS, Comma 5](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)); esami|         |                 |                  |
 |di revisione della  |         |                 |                  |
 |patente di guida    -----------------------------------------------|
-|([Art. 128 CdS](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)).     |         |                 |                  |
+|([Art. 128 CdS](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)).     |         |                 |                  |
 |Esami per il        |         |Ingegnere        |Diploma di Laurea |
 |rilascio del        |         |Direttore        |in Ingegneria ed  |
 |certificato di      |         |Coordinatore     |abilitazione      |
@@ -3553,22 +3553,22 @@ DIPENDENTI DELLA DIREZIONE GENERALE M.C.T.C. ABILITATI AD EFFETTUARE ESAMI DI ID
 |determinati         |         |Coordinatore     |ed abilitazione   |
 |trasporti           |         |                 |all'esercizio     |
 |professionali (Art. |         |                 |della professione |
-|116 [CdS, Comma 9](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)),  |----------------------------------------------|
+|116 [CdS, Comma 9](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)),  |----------------------------------------------|
 |per il rilascio del |         |                 |                  |
 |certificato di      |         |Ingegnere        |Diploma di Laurea |
 |abilitazione        |         |Direttore        |in Ingegneria ed  |
 |professionale (Art. |         |                 |abilitazione      |
-|116 [CdS, Comma 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)),  |         |                 |all'esercizio     |
+|116 [CdS, Comma 8](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)),  |         |                 |all'esercizio     |
 |per il rilascio del |         |                 |della professione |
 |certificato di      |  VIII   |------------------------------------|
 |idoneita' alla guida|         |                 |                  |
 |di filoveicoli (Art.|         |Architetto       |Diploma di Laurea |
-|118 [CdS, Comma 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)),  |         |Direttore        |in Architettura   |
+|118 [CdS, Comma 1](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)),  |         |Direttore        |in Architettura   |
 |per il rilascio del |         |                 |ed abilitazione   |
 |certificato di      |         |                 |all'esercizio     |
 |abilitazione al cari|         |                 |della professione |
 |co ed allo scarico  |----------------------------------------------|
-|se ([Art. 168 CdS](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md),   |         |                 |                  |
+|se ([Art. 168 CdS](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md),   |         |                 |                  |
 |Comma 2).           |         |Ingegnere        |Diploma di Laurea |
 |                    |         |                 |in Ingegneria ed  |
 |                    |         |                 |abilitazione      |
@@ -3586,7 +3586,7 @@ DIPENDENTI DELLA DIREZIONE GENERALE M.C.T.C. ABILITATI AD EFFETTUARE ESAMI DI ID
 |Esami per la patente|DIRIGENTI|                 |o di istruzione   |
 |di guida delle      |AMM.VI   |                 |Secondaria di     |
 |categorie A e B     |         |                 |secondo grado.    |
-|([Art. 116 CdS](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), Comma|         |                 |Abilitazione agli |
+|([Art. 116 CdS](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), Comma|         |                 |Abilitazione agli |
 |3) e relativi esami |         |                 |esami di idoneita'|
 |di revisione (Art.  |         |                 |rilasciata dalla  |
 |128 CdS).           |         |                 |Direzione Generale|
@@ -3618,7 +3618,7 @@ DIPENDENTI DELLA DIREZIONE GENERALE M.C.T.C. ABILITATI AD EFFETTUARE ESAMI DI ID
 |Esami per la patente|         |Tecnico          |istruzione        |
 |di guida delle      |         |Assistente Amm.vo|Secondaria di     |
 |categorie A e B     |         |Ragioniere       |secondo grado.    |
-|([Art. 116 CdS](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), Comma|         |Assistente       |Abilitazione agli |
+|([Art. 116 CdS](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), Comma|         |Assistente       |Abilitazione agli |
 |3).                 |         |Statistico       |esami di idoneita'|
 |                    |  VI     |Assistente       |rilasciata dalla  |
 |                    |         |Linguistico      |Direzione Generale|

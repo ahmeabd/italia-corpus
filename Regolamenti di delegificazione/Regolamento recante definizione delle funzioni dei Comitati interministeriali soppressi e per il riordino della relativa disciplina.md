@@ -650,7 +650,7 @@ Le banche dati sui prezzi di specifici prodotti o categorie di prodotti sono col
 
 5.
 
-I comitati provinciali dei prezzi di cui all'[art. 3 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), sono soppressi e le residue funzioni sono attribuite agli uffici provinciali dell'industria, del commercio e dell'artigianato. La Commissione centrale prezzi di cui all'[art. 2 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), e' soppressa.
+I comitati provinciali dei prezzi di cui all'[art. 3 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), sono soppressi e le residue funzioni sono attribuite agli uffici provinciali dell'industria, del commercio e dell'artigianato. La Commissione centrale prezzi di cui all'[art. 2 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md), e' soppressa.
 
 6.
 
@@ -895,7 +895,7 @@ Ferme restando le attribuzioni di competenza del CIPE come disciplinate dalle le
 
 2.
 
-Sono, altresi, devolute al Ministro con competenza prevalente, che le esercita anche mediante il ricorso a conferenze di servizi con le altre amministrazioni interessate e nel rispetto dei principi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, tutte le funzioni di settore.
+Sono, altresi, devolute al Ministro con competenza prevalente, che le esercita anche mediante il ricorso a conferenze di servizi con le altre amministrazioni interessate e nel rispetto dei principi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, tutte le funzioni di settore.
 
 3.
 

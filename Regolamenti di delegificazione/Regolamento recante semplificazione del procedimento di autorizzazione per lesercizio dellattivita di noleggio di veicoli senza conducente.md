@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 
 Vista la direttiva del Presidente del Consiglio dei Ministri in data 27 marzo 2000: "Analisi tecnico-normativa e analisi d'impatto della regolamentazione" pubblicata nella Gazzetta Ufficiale n. 118 del 23 maggio 2000, come integrata dalla direttiva del Presidente del Consiglio dei Ministri in data 21 settembre 2001: "Direttiva sulla sperimentazione dell'analisi d'impatto della regolamentazione sui cittadini, sulle imprese e sulle pubbliche amministrazioni" pubblicata nella Gazzetta Ufficiale n. 249 del 25 ottobre 2001;
 
@@ -64,7 +64,7 @@ NOTE
  b) riduzione dei termini per la conclusione dei procedimenti e uniformazione dei tempi di conclusione previsti per procedimenti tra loro analoghi;
  c) regolazione uniforme dei procedimenti dello stesso tipo che si svolgono presso diverse amministrazioni o presso diversi uffici della medesima amministrazione;
  d) riduzione del numero di procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita', anche riunendo in una unica fonte regolamentare, ove cio' corrisponda ad esigenze di semplificazione e conoscibilita' normativa, disposizioni provenienti da fonti di rango diverso, ovvero che pretendono particolari procedure, fermo restando l'obbligo di porre in essere le procedure stesse;
- e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione ed estensione alle fasi di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[art. 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
+ e) semplificazione e accelerazione delle procedure di spesa e contabili, anche mediante adozione ed estensione alle fasi di integrazione dell'efficacia degli atti, di disposizioni analoghe a quelle di cui all'[art. 51, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
  f) trasferimento ad organi monocratici o ai dirigenti amministrativi di funzioni anche decisionali, che non richiedano, in ragione della loro specificita', l'esercizio in forma collegiale, e sostituzione degli organi collegiali con conferenze di servizi o con interventi, nei relativi procedimenti, dei soggetti portatori di interessi diffusi;
  g) individuazione delle responsabilita' e delle procedure di verifica e controllo;
  g-bis) soppressione dei procedimenti che risultino non piu' rispondenti alle finalita' e agli obiettivi fondamentali definiti dalla legislazione di settore o che risultino in contrasto con i principi generali dell'ordinamento giuridico nazionale o comunitario;
@@ -91,7 +91,7 @@ NOTE
  - Il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), pubblicato nel supplemento alla Gazzetta Ufficiale 26 giugno 1940, n. 149, reca: "Regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773).".
  - Il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), pubblicato nella Gazzetta Ufficiale 20 agosto 1977, n. 234, reca: "Attuazione della delega di cui all'[art. 1 della legge 27 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-27;382#art_1).".
  - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192, reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.".
- - Il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.".
+ - Il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.".
  - La direttiva del Presidente del Consiglio dei Ministri del 27 marzo 2000, pubblicata nella Gazzetta Ufficiale del 23 maggio 2000, n. 118, reca "Analisi tecnico-normativa e analisi d'impatto della regolamentazione.".
  - La direttiva del Presidente del Consiglio dei Ministri del 21 settembre 2001, pubblicata nella Gazzetta Ufficiale del 25 ottobre 2001 n. 249, reca "Direttiva sulla sperimentazione dell'analisi d'impatto della regolamentazione sui cittadini, sulle imprese e sulle pubbliche amministrazioni.".
  Nota all'art. 1:
@@ -120,11 +120,11 @@ E' abrogato l'[articolo 158 del regio decreto 6 maggio 1940, n. 635](https://www
 
 2.
 
-La disposizione di cui al [comma 5, dell'articolo 84 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si intende riferita alla denuncia di inizio attivita' di cui al presente regolamento anziche' alla licenza.
+La disposizione di cui al [comma 5, dell'articolo 84 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si intende riferita alla denuncia di inizio attivita' di cui al presente regolamento anziche' alla licenza.
 
 Note all'[art. 3:
  - Il regio decreto 6 maggio 1941, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-05-06;635#art_3) reca: "Regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773)".
- - Si riporta il [comma 5 dell'art. 84 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi:
+ - Si riporta il [comma 5 dell'art. 84 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi:
  "5. La carta di circolazione di tali veicoli e' rilasciata sulla base della prescritta licenza.".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

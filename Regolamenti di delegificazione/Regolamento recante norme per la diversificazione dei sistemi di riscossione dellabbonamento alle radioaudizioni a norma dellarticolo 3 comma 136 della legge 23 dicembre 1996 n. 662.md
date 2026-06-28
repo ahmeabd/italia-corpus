@@ -40,7 +40,7 @@ Tenuto conto delle esigenze generali dei contribuenti e delle esigenze organizza
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Acquisito il parere della Commissione consultiva per la riscossione di cui all'[articolo 6 del decreto legislativo 13 aprile 1999, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), reso nell'adunanza del 26 ottobre 1999;
+Acquisito il parere della Commissione consultiva per la riscossione di cui all'[articolo 6 del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), reso nell'adunanza del 26 ottobre 1999;
 
 Acquisito il parere del Garante per la protezione dei dati personali, espresso con nota n. 9091 del 21 dicembre 1999;
 

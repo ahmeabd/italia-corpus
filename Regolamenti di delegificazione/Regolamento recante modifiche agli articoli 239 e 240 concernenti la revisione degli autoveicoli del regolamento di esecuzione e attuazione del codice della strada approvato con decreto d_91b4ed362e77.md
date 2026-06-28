@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 13 giugno 1991, n. 190](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), ed in particolare l'articolo 3, il quale prevede che, con decreto del Presidente della Repubblica, sono emanate norme regolamentari per l'esecuzione e l'attuazione del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Vista la [legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), ed in particolare l'articolo 3, il quale prevede che, con decreto del Presidente della Repubblica, sono emanate norme regolamentari per l'esecuzione e l'attuazione del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 

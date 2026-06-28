@@ -20,7 +20,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisito il parere del Garante per la protezione dei dati personali, di cui all'[articolo 31, comma 2, della legge 31 dicembre 1996, n. 675, reso in data 17 settembre 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-09-17;675#art_31-com2);
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 24 ottobre 2002;
+Acquisito il parere della Conferenza unificata di cui all'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 24 ottobre 2002;
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 20 dicembre 2002;
 
