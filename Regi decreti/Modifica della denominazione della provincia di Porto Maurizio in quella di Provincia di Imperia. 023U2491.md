@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- In virtu' della delegazione di poteri conferita al Governo del Re con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md); 
+ In virtu' della delegazione di poteri conferita al Governo del Re con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md); 
  
  Veduto il [R. decreto 21 ottobre 1923, n. 2360](Fusione%20nellunico%20comune%20di%20Imperia%20dei%20comuni%20di%20Porto%20Maurizio%20Oneglia%20ed%20altri.%20023U2360.md), con il quale i comuni di Porto Maurizio, Oneglia, Piani, Caramagna Ligure, Castelvecchio di S. Maria Maggiore, Borgo Sant'Agata, Costa d'Oneglia, Poggi, Torrazza, Moltedo Superiore e Montegrazie sono stati riuniti in un unico Comune con la denominazione di Imperia; 
  

@@ -144,14 +144,14 @@ Chiunque vanti diritti ereditari puo', mediante ricorso con sottoscrizione auten
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 162, comma 1) che "Negli articoli 13, primo, secondo e terzo comma, 16, primo e secondo comma, 17, primo comma, 19, primo comma, 20, primo comma, 22, [primo](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md) e [terzo comma, e 23](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), [primo](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md) e [secondo comma, del regio decreto 28 marzo 1929, n. 499](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), la parola "pretore" e' sostituita dalle parole "tribunale in composizione monocratica"". 
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 162, comma 1) che "Negli articoli 13, primo, secondo e terzo comma, 16, primo e secondo comma, 17, primo comma, 19, primo comma, 20, primo comma, 22, [primo](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md) e [terzo comma, e 23](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), [primo](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md) e [secondo comma, del regio decreto 28 marzo 1929, n. 499](Disposizioni%20relative%20ai%20libri%20fondiari%20dei%20territori%20delle%20Nuove%20Provincie.%20029U0499.md), la parola "pretore" e' sostituita dalle parole "tribunale in composizione monocratica"". 
  Ha inoltre disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ### Art. 13-bis.
 
@@ -185,13 +185,13 @@ Il tribunale in composizione monocratica assume d'ufficio le prove che ritiene o
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ### Art. 17.
 
@@ -205,13 +205,13 @@ Il tribunale in composizione monocratica, valutate le prove secondo il suo liber
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ### Art. 18.
 
@@ -227,13 +227,13 @@ Se risulta che l'erede e' stato istituito sotto condizione o con onere modale, o
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ### Art. 20.
 
@@ -245,13 +245,13 @@ Se risulta successivamente l'inesistenza totale o parziale del diritto a succede
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ### Art. 21.
 
@@ -273,13 +273,13 @@ Il legatario di una cosa o di un diritto determinato, esistente nel patrimonio d
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ### Art. 23.
 
@@ -291,13 +291,13 @@ Il procedimento dinanzi al tribunale in composizione monocratica e' regolato dal
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ---------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), come modificato dalla [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188), ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
 ### Art. 24.
 

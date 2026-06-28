@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-In virtu' dei poteri conferiti al Nostro Governo con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+In virtu' dei poteri conferiti al Nostro Governo con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Veduta la [legge 14 luglio 1912, n. 854](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20provvede%20al%20riordinamento%20dellistruzione%20professionale.%20012U0854.md), sull'istruzione professionale ed il relativo regolamento sull'istruzione media commerciale, approvato con [R. decreto 13 novembre 1919, n. 2431](Che%20approva%20e%20rende%20esecutivo%20lannesso%20regolamento%20sulla%20istruzione%20media%20commerciale.%20019U2431.md);
 

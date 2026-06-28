@@ -16,9 +16,9 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la [legge 24 dicembre 1925, n. 2260](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md), che delega al Governo del Re Imperatore la facolta' di modificare le leggi sull'ordinamento giudiziario e le altre leggi concernenti l'ordinamento del Ministero di grazia e giustizia, degli uffici giudiziari e del personale giudiziario di ogni ordine;
+Vista la [legge 24 dicembre 1925, n. 2260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md), che delega al Governo del Re Imperatore la facolta' di modificare le leggi sull'ordinamento giudiziario e le altre leggi concernenti l'ordinamento del Ministero di grazia e giustizia, degli uffici giudiziari e del personale giudiziario di ogni ordine;
 
-Sentito il parere della Commissione delle Assemblee legislative, a termini dell'[art. 2 della legge 24 dicembre 1925, n. 2260](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md);
+Sentito il parere della Commissione delle Assemblee legislative, a termini dell'[art. 2 della legge 24 dicembre 1925, n. 2260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md);
 
 Udito il Consiglio dei Ministri;
 
@@ -32,7 +32,7 @@ E' approvato l'unito testo dell'«Ordinamento giudiziario», allegato al present
 
 ## Art. 2.
 
-Con successivi provvedimenti saranno disciplinate le altre materie alle quali si riferisce la delegazione contenuta nella [legge 24 dicembre 1925, n. 2260](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md). 
+Con successivi provvedimenti saranno disciplinate le altre materie alle quali si riferisce la delegazione contenuta nella [legge 24 dicembre 1925, n. 2260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Veduta la [legge 29 gennaio 1934, n. 333](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), concernente delegazione al Governo di riformare le disposizioni legislative sulla assicurazione obbligatoria contro gli infortuni degli operai sul lavoro nelle industrie;
+Veduta la [legge 29 gennaio 1934, n. 333](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), concernente delegazione al Governo di riformare le disposizioni legislative sulla assicurazione obbligatoria contro gli infortuni degli operai sul lavoro nelle industrie;
 
 Veduti il R. decreto 17 agosto 1935-XIII, n. 1765, per la assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali e le norme integrative approvate con R, decreto 15 dicembre 1936-XV, n. 2276;
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 24 dicembre 1925, n. 2260](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md), che delega al Governo del Re la facolta' di emendare il [codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Vista la [legge 24 dicembre 1925, n. 2260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md), che delega al Governo del Re la facolta' di emendare il [codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Visto il [R. decreto 19 ottobre 1930, n. 1398](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), che approva il testo definitivo del [codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
@@ -141,7 +141,7 @@ Quando dalle leggi, dai decreti e dalle convenzioni internazionali e' stabilito 
 
 ### Art. 18-bis.
 
-Nei casi di cui all'[articolo 165 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il giudice dispone che il condannato svolga attivita' non retribuita a favore della collettivita' osservando, in quanto compatibili, le disposizioni degli articoli 44, 54, commi 2, 3, 4 e 6, e 59 del [decreto legislativo 28 agosto 2000, n. 274](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md). 
+Nei casi di cui all'[articolo 165 del codice penale](Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) il giudice dispone che il condannato svolga attivita' non retribuita a favore della collettivita' osservando, in quanto compatibili, le disposizioni degli articoli 44, 54, commi 2, 3, 4 e 6, e 59 del [decreto legislativo 28 agosto 2000, n. 274](../Decreti%20Legislativi/Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md). 
  
  ((Nei casi di cui all'articolo 165, quinto comma, del codice penale, la cancelleria del giudice che ha emesso la sentenza la trasmette, al passaggio in giudicato, all'ufficio di esecuzione penale esterna, che accerta l'effettiva partecipazione del condannato al percorso di recupero e ne comunica l'esito al pubblico ministero presso il giudice che ha emesso la sentenza. Gli enti o le associazioni presso cui il condannato svolge il percorso di recupero danno immediata comunicazione di qualsiasi violazione ingiustificata degli obblighi connessi allo svolgimento del percorso di recupero all'ufficio di esecuzione penale esterna, che ne da' a sua volta immediata comunicazione al pubblico ministero, ai fini della revoca della sospensione ai sensi dell'articolo 168, primo comma, numero 1), del codice penale)).
 

@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In forza dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+In forza dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Vista la [legge 24 marzo 1907, n. 116](../Atti%20normativi%20abrogati%20%28in%20originale%29/Graduale%20avocazione%20allo%20Stato%20delle%20spese%20di%20cui%20allart.%20272%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale%20approvato%20con%20R.%20decreto%2010%20febbraio%201889%20n.%205921%20e%20integrazione%20provvisor_1ef6036a66c6.md);
 
