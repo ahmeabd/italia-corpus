@@ -242,7 +242,7 @@ Capo II
 
 1.
 
-All'articolo 129 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), di cui al [decreto legislativo 28 luglio 1989, n. 271](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+All'articolo 129 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), di cui al [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 nella rubrica, le parole: «sull'azione» sono sostituite dalle seguenti: «sul procedimento»;
                             b)

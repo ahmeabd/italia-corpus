@@ -40,7 +40,7 @@ In relazione alle disposizioni previste dall'articolo 37, paragrafo 2, della Con
 
 2.
 
-Le attivita' di registrazione e di conservazione dei dati di cui al comma 1 sono svolte in conformita' al Trattato concluso il 27 maggio 2005 tra il Regno del Belgio, la Repubblica federale di Germania, il Regno di Spagna, la Repubblica francese, il Granducato di Lussemburgo, il Regno dei Paesi Bassi e la Repubblica d'Austria, relativo all'approfondimento della cooperazione transfrontaliera, in particolare allo scopo di contrastare il terrorismo, la criminalita' transfrontaliera e la migrazione illegale (Trattato di Prüm), reso esecutivo dalla [legge 30 giugno 2009, n. 85](../Leggi%20contenenti%20deleghe/Adesione%20della%20Repubblica%20italiana%20al%20Trattato%20concluso%20il%2027%20maggio%202005%20tra%20il%20Regno%20del%20Belgio%20la%20Repubblica%20federale%20di%20Germania%20il%20Regno%20di%20Spagna%20la%20Repubblica%20francese%20il%20Granducat_592dfd7eba11.md), e alle relative disposizioni di attuazione.
+Le attivita' di registrazione e di conservazione dei dati di cui al comma 1 sono svolte in conformita' al Trattato concluso il 27 maggio 2005 tra il Regno del Belgio, la Repubblica federale di Germania, il Regno di Spagna, la Repubblica francese, il Granducato di Lussemburgo, il Regno dei Paesi Bassi e la Repubblica d'Austria, relativo all'approfondimento della cooperazione transfrontaliera, in particolare allo scopo di contrastare il terrorismo, la criminalita' transfrontaliera e la migrazione illegale (Trattato di Prüm), reso esecutivo dalla [legge 30 giugno 2009, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adesione%20della%20Repubblica%20italiana%20al%20Trattato%20concluso%20il%2027%20maggio%202005%20tra%20il%20Regno%20del%20Belgio%20la%20Repubblica%20federale%20di%20Germania%20il%20Regno%20di%20Spagna%20la%20Repubblica%20francese%20il%20Granducat_592dfd7eba11.md), e alle relative disposizioni di attuazione.
 
 ## Disposizioni di adeguamento dell'ordinamento interno
 
@@ -188,7 +188,7 @@ Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:p
 
 1.
 
-Al comma 5 dell'articolo 8 del codice delle leggi antimafia e delle misure di prevenzione, di cui al [decreto legislativo 6 settembre 2011, n. 159](../Decreti%20Legislativi/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), sono aggiunte, in fine, le seguenti parole: «, ovvero, con riferimento ai soggetti di cui all'articolo 1, lettera c), il divieto di avvicinarsi a determinati luoghi, frequentati abitualmente da minori».
+Al comma 5 dell'articolo 8 del codice delle leggi antimafia e delle misure di prevenzione, di cui al [decreto legislativo 6 settembre 2011, n. 159](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), sono aggiunte, in fine, le seguenti parole: «, ovvero, con riferimento ai soggetti di cui all'articolo 1, lettera c), il divieto di avvicinarsi a determinati luoghi, frequentati abitualmente da minori».
 
 ### Art. 7.
 

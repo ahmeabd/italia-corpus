@@ -41,7 +41,7 @@ CAPO II
 
 1.
 
-Dopo l'[articolo 25-ter del decreto legislativo 8 giugno 2001, n. 231](../Decreti%20Legislativi/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), e' inserito il seguente:
+Dopo l'[articolo 25-ter del decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md), e' inserito il seguente:
  "ART. 25-quater. - (Delitti con finalita' di terrorismo o di eversione dell'ordine democratico). - 1. In relazione alla commissione dei delitti aventi finalita' di terrorismo o di eversione dell'ordine democratico, previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi speciali, si applicano all'ente le seguenti sanzioni pecuniarie:
  a) se il delitto e' punito con la pena della reclusione inferiore a dieci anni, la sanzione pecuniaria da duecento a settecento quote;
  b) se il delitto e' punito con la pena della reclusione non inferiore a dieci anni o con l'ergastolo, la sanzione pecuniaria da quattrocento a mille quote.
