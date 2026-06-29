@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' della delegazione di poteri conferita al Governo con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+In virtu' della delegazione di poteri conferita al Governo con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Visto l'[art. 2 del D. L. 3 luglio 1921, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-07-03;848#art_2), nella parte riguardante l'abolizione del monopolio di vendita dei fiammiferi istituito col [D. L. 31 agosto 1916, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1916-08-31;1090), allegato E, e la sua sostituzione con una imposta di fabbricazione;
 
@@ -356,7 +356,7 @@ I prezzi di vendita al pubblico dei fiammiferi di qualsiasi tipo e qualita' sara
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. Luogotenenziale 18 giugno 1945, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dei%20prezzi%20di%20vendita%20al%20pubblico%20dei%20fiammiferi.%20045U0393.md) ha disposto (con l'art. 1, comma 1) che "Fino alla scadenza delle convenzioni stipulate fra lo Stato ed il Consorzio industrie fiammiferi, la revisione di cui all'[art. 6 del R. decreto 11 marzo 1923, n. 560](Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), potra' essere fatta per periodi minori di quelli indicati dallo stesso articolo, quando il costo medio delle materie prime e della mano d'opera occorrenti per la lavorazione dei fiammiferi abbia subito, dall'ultima variazione effettuata, una diminuzione o un aumento non inferiore al 10 %".
+Il [D.Lgs. Luogotenenziale 18 giugno 1945, n. 393](../Decreti%20legislativi%20luogotenenziali/Revisione%20dei%20prezzi%20di%20vendita%20al%20pubblico%20dei%20fiammiferi.%20045U0393.md) ha disposto (con l'art. 1, comma 1) che "Fino alla scadenza delle convenzioni stipulate fra lo Stato ed il Consorzio industrie fiammiferi, la revisione di cui all'[art. 6 del R. decreto 11 marzo 1923, n. 560](Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), potra' essere fatta per periodi minori di quelli indicati dallo stesso articolo, quando il costo medio delle materie prime e della mano d'opera occorrenti per la lavorazione dei fiammiferi abbia subito, dall'ultima variazione effettuata, una diminuzione o un aumento non inferiore al 10 %".
 
 ## Art. 7.
 

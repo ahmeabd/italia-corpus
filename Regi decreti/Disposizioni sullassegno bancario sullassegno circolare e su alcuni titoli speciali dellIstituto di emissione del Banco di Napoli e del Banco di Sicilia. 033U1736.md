@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 24 agosto 1933, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-08-24;1077), col quale vennero rese esecutive le convenzioni sull'assegno bancario stipulate a Ginevra il 19 marzo 1931;
 
-Visti l'[art. 2 della legge 30 dicembre 1923, n. 2814](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20della%20facolta%20di%20arrecare%20opportuni%20emendamenti%20al%20Codice%20civile%20e%20di%20pubblicare%20nuovi%20Codici%20di%20procedura%20civile%20di%20commercio%20e%20per%20la%20marina%20mercantile%20in%20occasione%20de_5c9ef259ae61.md), e l'articolo unico della [legge 4 giugno 1931, n. 659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20al%20Governo%20del%20Re%20a%20pubblicare%20il%20nuovo%20Codice%20di%20commercio%20a%20libri%20o%20titoli%20separati.%20031U0659.md);
+Visti l'[art. 2 della legge 30 dicembre 1923, n. 2814](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20della%20facolta%20di%20arrecare%20opportuni%20emendamenti%20al%20Codice%20civile%20e%20di%20pubblicare%20nuovi%20Codici%20di%20procedura%20civile%20di%20commercio%20e%20per%20la%20marina%20mercantile%20in%20occasione%20de_5c9ef259ae61.md), e l'articolo unico della [legge 4 giugno 1931, n. 659](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20al%20Governo%20del%20Re%20a%20pubblicare%20il%20nuovo%20Codice%20di%20commercio%20a%20libri%20o%20titoli%20separati.%20031U0659.md);
 
 Sentito il parere della Commissione parlamentare a termini del predetto art. 2;
 

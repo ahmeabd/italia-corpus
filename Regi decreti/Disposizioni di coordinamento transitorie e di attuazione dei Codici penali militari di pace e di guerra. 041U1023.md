@@ -257,7 +257,7 @@ Per la concessione del beneficio della non menzione della condanna, a' sensi del
 
 ### Art. 41. — (Applicazione delle disposizioni della legge comune)
 
-Per quanto non e' disposto diversamente da questo capo, e in quanto e' possibile, si applicano le [disposizioni di attuazione del codice di procedura penale](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) contenute nel titolo I del Regio decreto 28 maggio 1931-IX, n. 602, e le disposizioni regolamentari per la esecuzione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), contenute nel Regio decreto 28 maggio 1931-IX, n. 603.
+Per quanto non e' disposto diversamente da questo capo, e in quanto e' possibile, si applicano le [disposizioni di attuazione del codice di procedura penale](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) contenute nel titolo I del Regio decreto 28 maggio 1931-IX, n. 602, e le disposizioni regolamentari per la esecuzione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), contenute nel Regio decreto 28 maggio 1931-IX, n. 603.
 
 ## Disposizioni di coordinamento.
 
