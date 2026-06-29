@@ -87,7 +87,7 @@ Avvertenza:
  - Si riporta il testo dell'[art. 1 del regio decreto n. 12 del 1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941;12#art_1):
  "Art. 1. - 1. E' approvato l'unito testo dell'"ordinamento giudiziario", allegato al presente decreto e visto d'ordine nostro dal Ministro guardasigilli e dal Ministro delle finanze.
  Il testo anzidetto avra' esecuzione a cominciare dal 21 aprile 1941.
- Art. 2. - 1. Con successivi provvedimenti saranno disciplinate le altre materie alle quali si riferisce la delegazione contenuta nella [legge 24 dicembre 1925, n. 2260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md).".
+ Art. 2. - 1. Con successivi provvedimenti saranno disciplinate le altre materie alle quali si riferisce la delegazione contenuta nella [legge 24 dicembre 1925, n. 2260](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20del%20Re%20della%20facolta%20di%20emendare%20il%20Codice%20penale%20il%20Codice%20di%20procedura%20penale%20le%20leggi%20sullordinamento%20giudiziario%20e%20di%20apportare%20nuove%20modificazioni%20e%20aggiunte%20al%20Cod_b6a05f3aecc9.md).".
 
 ### Art. 2.
 

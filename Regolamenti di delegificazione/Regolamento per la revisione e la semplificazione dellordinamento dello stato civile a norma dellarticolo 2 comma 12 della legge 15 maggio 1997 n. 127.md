@@ -20,7 +20,7 @@ Visto il [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 30 aprile 1999 e del 7 luglio 2000;
 
-Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Consultato il Garante per la protezione dei dati personali;
 
@@ -1820,14 +1820,14 @@ L'interessato puo' comunque richiedere il riconoscimento del diritto al mantenim
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 96. — (Procedimento)
 
@@ -1897,14 +1897,14 @@ Avverso i provvedimenti di cui al presente articolo, il procuratore della Repubb
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 99. — Correzione e ricostituzione degli atti dell'autorita' diplomatica o consolare
 
@@ -1920,14 +1920,14 @@ Le disposizioni di cui all'articolo 98 si applicano, altresi', per gli atti di c
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 100. — (Competenza)
 

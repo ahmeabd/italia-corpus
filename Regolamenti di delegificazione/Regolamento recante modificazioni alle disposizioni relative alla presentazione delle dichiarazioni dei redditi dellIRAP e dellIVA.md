@@ -350,7 +350,7 @@ Il [D.P.R. 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20a
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 8 gennaio 2024, n. 1](../Decreti%20Legislativi/Razionalizzazione%20e%20semplificazione%20delle%20norme%20in%20materia%20di%20adempimenti%20tributari.%2024G00007.md) ha disposto (con l'art. 9, comma 3) che le presenti modifiche si applicano a decorrere dalle somme dovute con riferimento alle liquidazioni periodiche relative all'anno d'imposta 2024.
+Il [D.Lgs. 8 gennaio 2024, n. 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20e%20semplificazione%20delle%20norme%20in%20materia%20di%20adempimenti%20tributari.%2024G00007.md) ha disposto (con l'art. 9, comma 3) che le presenti modifiche si applicano a decorrere dalle somme dovute con riferimento alle liquidazioni periodiche relative all'anno d'imposta 2024.
 
 ### Art. 8. — Rimborsi e compensazioni di eccedenze di crediti IVA
 
