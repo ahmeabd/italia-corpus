@@ -153,7 +153,7 @@ La [L. 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art. 74, comma
+Il [D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) ha disposto (con l'art. 74, comma
 1) l'abrogazione del comma 9 del presente articolo "limitatamente alla disciplina sui contratti di lavoro riguardanti i dipendenti delle amministrazioni, aziende ed enti del servizio sanitario nazionale".
 ------------------
 
@@ -430,7 +430,7 @@ Al personale di cui al [decreto del Presidente della Repubblica 26 ottobre 1972,
 
  
 AGGIORNAMENTO (11) 
- La [L. 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448) ha disposto (con l'art. 45, comma 6) che "Le disposizioni di cui all'[articolo 16, comma 6, della legge 30 dicembre 1991, n. 412](Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), si interpretano nel senso che tra le prestazioni erogate dagli enti gestori di forme di previdenza obbligatoria sono da ricomprendere anche le pensioni erogate ai dipendenti delle amministrazioni pubbliche di cui all'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nonche' le pensioni di invalidita' erogate dallo Stato."
+ La [L. 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448) ha disposto (con l'art. 45, comma 6) che "Le disposizioni di cui all'[articolo 16, comma 6, della legge 30 dicembre 1991, n. 412](Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), si interpretano nel senso che tra le prestazioni erogate dagli enti gestori di forme di previdenza obbligatoria sono da ricomprendere anche le pensioni erogate ai dipendenti delle amministrazioni pubbliche di cui all'[articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nonche' le pensioni di invalidita' erogate dallo Stato."
 
 ## DISPOSIZIONI VARIE
 

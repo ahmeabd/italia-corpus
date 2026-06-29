@@ -43,7 +43,7 @@ A partire dal 1 gennaio 1979 le province ed i comuni possono
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) come modificato dal [D.Lgs. 11 giugno 1996, n. 336](../Decreti%20Legislativi/Disposizioni%20correttive%20del%20decreto%20legislativo%2025%20febbraio%201995%20n.%2077%20in%20materia%20di%20ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art. 123,comma 1 lettera e).
+Il [D.Lgs 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) come modificato dal [D.Lgs. 11 giugno 1996, n. 336](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20del%20decreto%20legislativo%2025%20febbraio%201995%20n.%2077%20in%20materia%20di%20ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) non prevede piu' l'abrogazione dell'intero provvedimento (con l'art. 123,comma 1 lettera e).
 
 ### Art. 4.
 
