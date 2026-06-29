@@ -14,9 +14,9 @@ RE D'ITALIA
 
 Visto il [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economici approvato con [R. decreto 26 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-26;1165);
 
-Visto l'[art. 38 del decreto legislativo Luogotenenziale 12 ottobre 1945, n. 669](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), concernente la disciplina della locazione degli immobili urbani;
+Visto l'[art. 38 del decreto legislativo Luogotenenziale 12 ottobre 1945, n. 669](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20locazioni%20degli%20immobili%20urbani.%20045U0669.md), concernente la disciplina della locazione degli immobili urbani;
 
-Visto il [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 677](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20I.N.C.I.S.%20e%20per%20gli%20Istituti%20autonomi%20per%20le%20case%20popolari.%20045U0677.md), recante disposizioni a favore dell'Istituto nazionale per le case degli impiegati dello State e degli Istituti autonomi per le case popolari;
+Visto il [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 677](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20I.N.C.I.S.%20e%20per%20gli%20Istituti%20autonomi%20per%20le%20case%20popolari.%20045U0677.md), recante disposizioni a favore dell'Istituto nazionale per le case degli impiegati dello State e degli Istituti autonomi per le case popolari;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -26,7 +26,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri per il t
 
 ## Art. 1.
 
-Le disposizioni degli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20I.N.C.I.S.%20e%20per%20gli%20Istituti%20autonomi%20per%20le%20case%20popolari.%20045U0677.md) e [3 del decreto legislativo Luogotenenziale 5 ottobre 1945, n. 677](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20I.N.C.I.S.%20e%20per%20gli%20Istituti%20autonomi%20per%20le%20case%20popolari.%20045U0677.md), riguardanti l'adeguamento e la perequazione delle pigioni delle case e degli alloggi gestiti dall'Istituto nazionale per le case degli impiegati dello Stato e dagli Istituti autonomi per le case popolari, sono estese all'Ente edilizio di Reggio Calabria.
+Le disposizioni degli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20I.N.C.I.S.%20e%20per%20gli%20Istituti%20autonomi%20per%20le%20case%20popolari.%20045U0677.md) e [3 del decreto legislativo Luogotenenziale 5 ottobre 1945, n. 677](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20a%20favore%20dellIstituto%20nazionale%20per%20le%20case%20degli%20impiegati%20dello%20Stato%20I.N.C.I.S.%20e%20per%20gli%20Istituti%20autonomi%20per%20le%20case%20popolari.%20045U0677.md), riguardanti l'adeguamento e la perequazione delle pigioni delle case e degli alloggi gestiti dall'Istituto nazionale per le case degli impiegati dello Stato e dagli Istituti autonomi per le case popolari, sono estese all'Ente edilizio di Reggio Calabria.
 
 ## Art. 2.
 

@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 12 aprile 1946, n. 236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lesecuzione%20dei%20programmi%20di%20assistenza%20e%20riabilitazione%20concordati%20tra%20il%20Governo%20italiano%20e%20lU.N.R.R.A.md), concernente norme per l'esecuzione dei programmi di assistenza e di riabilitazione concordati tra il Governo italiano e l'U.N.R.R.A.;
+Visto il [decreto legislativo Luogotenenziale 12 aprile 1946, n. 236](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lesecuzione%20dei%20programmi%20di%20assistenza%20e%20riabilitazione%20concordati%20tra%20il%20Governo%20italiano%20e%20lU.N.R.R.A.md), concernente norme per l'esecuzione dei programmi di assistenza e di riabilitazione concordati tra il Governo italiano e l'U.N.R.R.A.;
 
 Visto L'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -22,7 +22,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1.
 
-Le opere previste dai programmi di assistenza e di riabilitazione concordati tra il Governo italiano e l'U.N.R.R.A., di cui al [decreto legislativo Luogotenenziale 12 aprile 1946, n. 236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lesecuzione%20dei%20programmi%20di%20assistenza%20e%20riabilitazione%20concordati%20tra%20il%20Governo%20italiano%20e%20lU.N.R.R.A.md), sia se eseguite direttamente dalla Delegazione del Governo italiano per i rapporti con l'U.N.R.R.A. o dalla Missione italiana dell'U.N.R.R.A. sia da altre pubbliche Amministrazioni o da Enti pubblici, sono dichiarate di pubblica utilita'.
+Le opere previste dai programmi di assistenza e di riabilitazione concordati tra il Governo italiano e l'U.N.R.R.A., di cui al [decreto legislativo Luogotenenziale 12 aprile 1946, n. 236](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lesecuzione%20dei%20programmi%20di%20assistenza%20e%20riabilitazione%20concordati%20tra%20il%20Governo%20italiano%20e%20lU.N.R.R.A.md), sia se eseguite direttamente dalla Delegazione del Governo italiano per i rapporti con l'U.N.R.R.A. o dalla Missione italiana dell'U.N.R.R.A. sia da altre pubbliche Amministrazioni o da Enti pubblici, sono dichiarate di pubblica utilita'.
  I lavori occorrenti per l'esecuzione delle opere indicate nel precedente comma sono considerati urgenti ed indifferibili agli effetti degli [articoli 71 e seguenti della legge 25 giugno 1865, n. 2359](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), e successive modificazioni.
 
 ## Art. 2.

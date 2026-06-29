@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 15 marzo 1945, n. 160](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riorganizzazione%20e%20gestione%20de%20La%20Provvida.%20045U0160.md), sulla riorganizzazione e gestione de "La Provvida";
+Visto il [decreto legislativo Luogotenenziale 15 marzo 1945, n. 160](../Decreti%20legislativi%20luogotenenziali/Riorganizzazione%20e%20gestione%20de%20La%20Provvida.%20045U0160.md), sulla riorganizzazione e gestione de "La Provvida";
 
 Vista la deliberazione del Consiglio dei Ministri;
 

@@ -12,11 +12,11 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 14 settembre 1945, n. 699](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md);
+Visto il [decreto legislativo Luogotenenziale 14 settembre 1945, n. 699](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la grazia e giustizia, di concerto con i Ministr
 
 ## Art. 1.
 
-Le disposizioni contenute nell'[art. 5 del decreto legislativo Luogotenenziale 14 settembre 1945, n. 699](../Atti%20normativi%20abrogati%20%28in%20originale%29/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md), concernenti l'aumento delle percentuali spettanti agli ufficiali giudiziari sui crediti recuperati dallo Stato e la soppressione della tassa erariale del dieci per cento sulle percentuali medesime continuano ad avere effetto fino al 1° luglio 1947.
+Le disposizioni contenute nell'[art. 5 del decreto legislativo Luogotenenziale 14 settembre 1945, n. 699](../Decreti%20legislativi%20luogotenenziali/Miglioramenti%20economici%20a%20favore%20degli%20ufficiali%20giudiziari%20e%20dei%20commessi%20autorizzati.%20045U0699.md), concernenti l'aumento delle percentuali spettanti agli ufficiali giudiziari sui crediti recuperati dallo Stato e la soppressione della tassa erariale del dieci per cento sulle percentuali medesime continuano ad avere effetto fino al 1° luglio 1947.
 
 ## Art. 2.
 
