@@ -48,7 +48,7 @@ Sono sottoposti alla disciplina del presente decreto:
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -121,7 +121,7 @@ Impianto esistente: un impianto che sia in funzione, costruito ovvero autorizzat
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -176,13 +176,13 @@ Il Ministro dell'ambiente, di concerto con il Ministro della sanita', provvede:
 
 AGGIORNAMENTO (5)
 
-Il [D.lgs. 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), ha disposto (con l'art. 13, comma 1, lettera a)) l'abrogazione "dell'articolo 3 commi 1 e 4, lettere a) , b) e d), limitatamente alla predisposizione dei criteri per la raccolta dei dati inerenti la qualita' dell'aria, del [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md)."
+Il [D.lgs. 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), ha disposto (con l'art. 13, comma 1, lettera a)) l'abrogazione "dell'articolo 3 commi 1 e 4, lettere a) , b) e d), limitatamente alla predisposizione dei criteri per la raccolta dei dati inerenti la qualita' dell'aria, del [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md)."
 
 -------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -220,7 +220,7 @@ Fatte salve le competenze dello Stato, la tutela dell'ambiente dall'inquinamento
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -244,7 +244,7 @@ E' di competenza delle province la redazione e tenuta dell'inventario provincial
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -279,7 +279,7 @@ decreto del Ministro dell'ambiente del 18 aprile 2000."
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -323,7 +323,7 @@ La regione, contestualmente al rilascio del provvedimento autorizzatorio, comuni
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -355,7 +355,7 @@ Entro centoventi giorni dalla data indicata per la messa a regime dell'impianto,
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -379,7 +379,7 @@ L'autorita' competente per il controllo e' autorizzata ad effettuare all'interno
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -409,7 +409,7 @@ In caso di inosservanza delle prescrizioni autorizzatorie, l'autorita' regionale
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -433,7 +433,7 @@ Le prescrizioni dell'autorizzazione possono essere modificate in seguito all'evo
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -463,7 +463,7 @@ Il [D.L. 30 giugno 1989, n. 245](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -503,7 +503,7 @@ Sino alla data del rilascio dell'autorizzazione definitiva devono essere adottat
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -531,7 +531,7 @@ L'autorita' competente esercita i poteri di cui all'art. 10, anche nei casi di i
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -565,7 +565,7 @@ La [L. 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -589,7 +589,7 @@ Entro tre mesi dalla data di entrata in vigore del presente decreto sono stabili
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -635,7 +635,7 @@ Il [D.P.R. 18 aprile 1994, n. 420](Regolamento%20recante%20semplificazione%20del
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -659,7 +659,7 @@ Le domande di autorizzazione ed i provvedimenti delle competenti autorita' sono 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -683,7 +683,7 @@ L'approvazione dei progetti di impianti industriali e le autorizzazioni all'eser
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -707,13 +707,13 @@ La tabella A dell'allegato I al decreto del Presidente del Consiglio dei Ministr
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
+Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
+Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
  [..] 
  b) [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), limitatamente agli articoli 20, 21, 22 e 23 ed agli allegati I, II, III e IV;"
 
@@ -721,7 +721,7 @@ Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b))
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -745,13 +745,13 @@ Per i fini indicati nel presente decreto, sono fissati i valori guida di qualita
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
+Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
+Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
  [..] 
  b) [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), limitatamente agli articoli 20, 21, 22 e 23 ed agli allegati I, II, III e IV;"
 
@@ -759,7 +759,7 @@ Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b))
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -791,13 +791,13 @@ I metodi di prelievo ed analisi degli inquinanti dell'aria contenuti nell'allega
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
+Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
+Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
  [..] 
  b) [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), limitatamente agli articoli 20, 21, 22 e 23 ed agli allegati I, II, III e IV;"
 
@@ -805,7 +805,7 @@ Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b))
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -829,13 +829,13 @@ Al fine di verificare la corrispondenza di dati rilevati con il metodo gravimetr
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
+Il [D.Lgs. 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md) ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo [D.lgs. 351/1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;351).
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
+Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'[articolo 13 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md), sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti: 
  [..] 
  b) [decreto del Presidente della Repubblica 24 maggio 1988, n. 203](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20numeri%2080-779%2082-884%2084-360%20e%2085-203%20concernenti%20norme%20in%20materia%20di%20qualita%20dellaria%20relativamente%20a%20specifici%20agenti%20inquinanti%20e%20di%20inquinamento%20prodotto_78c2a13bac87.md), limitatamente agli articoli 20, 21, 22 e 23 ed agli allegati I, II, III e IV;"
 
@@ -843,7 +843,7 @@ Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b))
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -900,7 +900,7 @@ decreto del Ministro dell'ambiente del 18 aprile 2000."
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -960,7 +960,7 @@ La Corte Costituzionale, con sentenza 19 giugno - 15 luglio 1997, n. 234 (in G.U
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
@@ -986,7 +986,7 @@ I titolari degli impianti che non utilizzano i combustibili conformi alle prescr
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 

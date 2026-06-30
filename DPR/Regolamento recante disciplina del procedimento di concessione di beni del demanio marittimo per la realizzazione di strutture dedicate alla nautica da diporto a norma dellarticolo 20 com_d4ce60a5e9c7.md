@@ -237,7 +237,7 @@ I progetti preliminari sono sottoposti all'esame di una conferenza di servizi pr
                         b)
                             il comune, per l'ammissibilita' sotto il profilo urbanistico edilizio;
                         c)
-                            la circoscrizione doganale, ai fini dell'autorizzazione di cui all'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
+                            la circoscrizione doganale, ai fini dell'autorizzazione di cui all'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](../Atti%20di%20recepimento%20direttive%20UE/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
                         d)
                             l'autorita' competente al rilascio della concessione demaniale marittima ai sensi dell'articolo 2, comma 2;
                         e)

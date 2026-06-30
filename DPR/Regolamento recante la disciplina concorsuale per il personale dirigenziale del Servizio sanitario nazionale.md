@@ -799,7 +799,7 @@ Non e' valutabile la specializzazione fatta valere come requisito di ammissione.
 
 7.
 
-La specializzazione conseguita ai sensi del [decreto legislativo 8 agosto 1991, n. 257](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2082-76-CEE%20del%20Consiglio%20del%2026%20gennaio%201982%20recante%20modifica%20di%20precedenti%20direttive%20in%20tema%20di%20formazione%20dei%20medici%20specialisti%20a%20norma%20dellart.%206%20della%20le_efc51cd563b8.md), anche se fatta valere come requisito di ammissione, e valutata con uno specifico punteggio pari a mezzo punto per anno di corso di specializzazione.
+La specializzazione conseguita ai sensi del [decreto legislativo 8 agosto 1991, n. 257](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2082-76-CEE%20del%20Consiglio%20del%2026%20gennaio%201982%20recante%20modifica%20di%20precedenti%20direttive%20in%20tema%20di%20formazione%20dei%20medici%20specialisti%20a%20norma%20dellart.%206%20della%20le_efc51cd563b8.md), anche se fatta valere come requisito di ammissione, e valutata con uno specifico punteggio pari a mezzo punto per anno di corso di specializzazione.
 
 8.
 
