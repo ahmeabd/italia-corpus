@@ -150,7 +150,7 @@ Sono soggetti a registrazione:
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 5. — Registrazione in termine fisso e registrazione in caso d'uso
 
@@ -204,7 +204,7 @@ La registrazione di tutti gli altri atti puo' essere eseguita da qualsiasi ((uff
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 10. — Soggetti obbligati a richiedere la registrazione
 
@@ -257,7 +257,7 @@ La richiesta di registrazione di un atto vale anche per gli atti ad esso allegat
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 12. — Richiesta di registrazione dei contratti verbali e delle operazioni 
  di societa' ed enti esteri
@@ -300,19 +300,19 @@ Nei casi di cui al comma 2 dell'art. 12 la registrazione deve essere richiesta e
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 -----------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 14. — Termine per la richiesta di registrazione degli atti soggetti ad 
  approvazione od omologazione
@@ -387,7 +387,7 @@ Le richieste di registrazione sono conservate, previa apposizione del numero e d
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 17. — Cessioni, risoluzioni e proroghe anche tacite dei contratti di locazione e di affitto di beni immobili
 
@@ -397,11 +397,11 @@ L'imposta dovuta per la registrazione dei contratti di locazione e affitto di be
 
 1-bis.
 
-Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui al comma 1 e' sanzionato ai sensi dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). (62) (63)
+Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui al comma 1 e' sanzionato ai sensi dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). (62) (63)
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).(63)
+COMMA SOPPRESSO DAL [D.LGS. 24 SETTEMBRE 2015, N. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), COME MODIFICATO DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).(63)
 
 3.
 
@@ -421,20 +421,20 @@ Il [D.L. 6 luglio 2012 n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017. 
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017. 
  Aveva inoltre disposto (con l'art. 32, comma 1) la soppressione del comma 2 del presente articolo a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 18. — Effetti della registrazione
 
@@ -454,7 +454,7 @@ Su richiesta delle parti contraenti, dei loro aventi causa o di coloro nel cui i
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 19. — Denuncia di eventi successivi alla registrazione
 
@@ -474,7 +474,7 @@ COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ## APPLICAZIONE DELL'IMPOSTA
 
@@ -542,7 +542,7 @@ Le pertinenze sono in ogni caso soggette alla disciplina prevista per il bene al
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 24. — Presunzione di trasferimento delle accessioni e delle pertinenze
 
@@ -697,7 +697,7 @@ Agli effetti del presente articolo le comunioni tra i medesimi soggetti, che tro
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 35. — Contratti a prezzo indeterminato
 
@@ -717,7 +717,7 @@ Se nel contratto e' prevista la possibilita' che il corrispettivo vari tra un mi
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 36. — Contratti a tempo indeterminato e contratti con patto di proroga 
  tacita o di recesso anticipato
@@ -752,7 +752,7 @@ Il contribuente che ha diritto al rimborso deve chiederlo ai sensi dell'art. 77 
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 38. — Irrilevanza della nullita' e dell'annullabilita' dell'atto
 
@@ -808,7 +808,7 @@ La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 L'ammontare dell'imposta principale non puo` essere in nessun caso inferiore alla misura fissa indicata nell'articolo 11 della tariffa, parte prima, salvo quanto disposto dagli articoli 5 e 7 della tariffa stessa.
 
-((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](../Decreti%20Legislativi/Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
+((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](../Decreti%20Legislativi/Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
 
 ((93))
 
@@ -816,7 +816,7 @@ L'ammontare dell'imposta principale non puo` essere in nessun caso inferiore all
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 42. — Imposta principale, suppletiva e complementare
 
@@ -832,7 +832,7 @@ L'imposta applicabile, ai sensi degli articoli precedenti, sugli atti non presen
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ## DETERMINAZIONE DELLA BASE IMPONIBILE
 
@@ -900,7 +900,7 @@ La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disp
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 44. — Espropriazione forzata e trasferimenti coattivi
 
@@ -1055,7 +1055,7 @@ Il Decreto 21 dicembre 2023 (in G.U. 29/12/2023, n. 302) ha disposto (con l'art.
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ---------------
 
@@ -1101,7 +1101,7 @@ Per il trasferimento della proprieta' gravata da diritto di usufrutto, uso o abi
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 49. — Crediti
 
@@ -1141,7 +1141,7 @@ Per gli atti che hanno per oggetto beni immobili o diritti reali immobiliari l'(
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 52. — Rettifica del valore degli immobili e delle aziende
 
@@ -1202,7 +1202,7 @@ Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 52-bis. — (((Liquidazione dell'imposta derivante dai contratti di
  locazione)
@@ -1223,7 +1223,7 @@ Se l'atto non contiene l'indicazione della sua data, si assume come tale quella 
 
 1.
 
-((Fermo restando quanto previsto dall'articolo 10-bis della legge 27 luglio 2000, n. 212, le attribuzioni e i poteri)) di cui agli [articoli 31 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, possono essere esercitati anche ai fini dell'imposta di registro, nonche' delle imposte ipotecaria e catastale previste dal testo unico di cui al [decreto legislativo 31 ottobre 1990, n. 347](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
+((Fermo restando quanto previsto dall'articolo 10-bis della legge 27 luglio 2000, n. 212, le attribuzioni e i poteri)) di cui agli [articoli 31 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, possono essere esercitati anche ai fini dell'imposta di registro, nonche' delle imposte ipotecaria e catastale previste dal testo unico di cui al [decreto legislativo 31 ottobre 1990, n. 347](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ## RISCOSSIONE DELL'IMPOSTA
 
@@ -1254,7 +1254,7 @@ Quando la registrazione deve essere eseguita d'ufficio a norma dell'art. 15, l'(
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 2, comma 1, lettera u)) che "al comma 2, le parole: «o al deposito di cui al primo comma» sono sostituite dalle seguenti: «dell'imposta»". 
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 2, comma 1, lettera u)) che "al comma 2, le parole: «o al deposito di cui al primo comma» sono sostituite dalle seguenti: «dell'imposta»". 
  Ha inoltre disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 55. — Riscossione dell'imposta successivamente alla registrazione
@@ -1279,7 +1279,7 @@ Per gli interessi di mora si applicano le disposizioni delle [leggi 26 gennaio 1
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 56. — Riscossione in pendenza di giudizio, riscossione coattiva e privilegio
 
@@ -1297,7 +1297,7 @@ Il pagamento delle imposte, di cui al comma 1,richieste in relazione alle decisi
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Decreti%20Legislativi/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md).
+COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md).
 
 4.
 
@@ -1307,7 +1307,7 @@ COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Decreti%20Legislativi/Re
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 57. — Soggetti obbligati al pagamento
 
@@ -1357,7 +1357,7 @@ Negli atti di espropriazione per pubblica utilita` o di trasferimento coattivo d
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 58. — Surrogazione all'amministrazione
 
@@ -1373,7 +1373,7 @@ L'ingiunzione e' provvisoriamente esecutiva a norma dell'[art. 642 del codice di
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 59. — Registrazione a debito
 
@@ -1393,7 +1393,7 @@ Si registrano a debito, cioe` senza contemporaneo pagamento delle imposte dovute
 
 AGGIORNAMENTO (100)
 
-La [L. 2 dicembre 2025, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;181) ha disposto (con l'art. 11, comma 3) che la presente modifica "si applica anche ai procedimenti pendenti alla data del 1° gennaio 2025 volti a dare esecuzione alla condanna al risarcimento del danno prodotto dai fatti di cui agli [articoli 575](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [577, primo comma, numero 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+La [L. 2 dicembre 2025, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;181) ha disposto (con l'art. 11, comma 3) che la presente modifica "si applica anche ai procedimenti pendenti alla data del 1° gennaio 2025 volti a dare esecuzione alla condanna al risarcimento del danno prodotto dai fatti di cui agli [articoli 575](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [577, primo comma, numero 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 ### Art. 60. — Modalita' per la registrazione a debito
 
@@ -1444,7 +1444,7 @@ Le disposizioni dei commi 1 e 2 non si applicano ai testamenti.
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 64. — Attestazione degli estremi di registrazione degli atti
 
@@ -1488,7 +1488,7 @@ Gli atti in base ai quali sono stati emessi provvedimenti giurisdizionali non so
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 66. — Divieto di rilascio di documenti relativi ad atti non registrati
 
@@ -1559,7 +1559,7 @@ Ai fini dell'annotazione di cui ai commi 1 e 2, i cancellieri desumono gli eleme
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 68. — Controllo del repertorio
 
@@ -1593,19 +1593,19 @@ Chi omette la richiesta di registrazione degli atti e dei fatti rilevanti ai fin
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 70.
 
@@ -1625,7 +1625,7 @@ Se il valore definitivamente accertato dei beni o diritti di  cui al terzo e al 
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 72. — (Occultazione di corrispettivo)
 
@@ -1637,19 +1637,19 @@ Se viene occultato anche in parte il corrispettivo convenuto, si applica la sanz
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ------------
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 --------------
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 73. — (Omessa o irregolare tenuta o presentazione del reertorio)
 
@@ -1673,13 +1673,13 @@ Il procuratore della Repubblica, su rapporto dell'((ufficio dell'Agenzia delle e
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 74. — Altre infrazioni
 
@@ -1689,19 +1689,19 @@ Chi dichiara di non possedere, rifiuta di esibire o sottrae comunque all'ispezio
 
 1-bis.
 
-Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si applicano le disposizioni di cui al [decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
+Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si applicano le disposizioni di cui al [decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
 
 --------------
 
 AGGIORNAMENTO (92)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Decreti%20Legislativi/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ---------------
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 75.
 
@@ -1750,7 +1750,7 @@ L'intervenuta decadenza non dispensa dal pagamento dell'imposta in caso di regis
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 77. — Decadenza dell'azione del contribuente
 
@@ -1774,7 +1774,7 @@ Per gli interessi di mora spettanti al contribuente [leggi 26 gennaio 1961, n. 2
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 78. — Prescrizione del diritto all'imposta
 
@@ -1812,7 +1812,7 @@ La disposizione del comma 4, prima parte, dell'art. 56 ha effetto dal 1 gennaio 
 
 AGGIORNAMENTO (93)
 
-Il [D.Lgs. 18 settembre 2024, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
+Il [D.Lgs. 18 settembre 2024, n. 139](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20dellimposta%20di%20registro%20dellimposta%20sulle%20successioni%20e%20donazioni%20dellimposta%20di%20bollo%20e%20degli%20altri%20tributi%20indiretti%20diversi%20dallIVA.%2024G00157.md) ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
 ### Art. 80. — Altre disposizioni
 
@@ -1822,7 +1822,7 @@ La disposizione del comma 3 dell'art. 21, relativa agli accolli di debiti e oner
 
 2.
 
-L'imposta relativa alla riunione dell'usufrutto alla nuda proprieta' trasferita a titolo oneroso con atti posti in essere quando era in vigore il [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si applica solo se la consolidazione dell'usufrutto si e' verificata anteriormente alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](../DPR/Disciplina%20dellimposta%20di%20registro.md). Non si fa luogo a rimborso delle imposte gia' pagate, salvo i casi in cui alla data del 20 novembre 1985 risultasse presentato il ricorso.
+L'imposta relativa alla riunione dell'usufrutto alla nuda proprieta' trasferita a titolo oneroso con atti posti in essere quando era in vigore il [regio decreto 30 dicembre 1923, n. 3269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si applica solo se la consolidazione dell'usufrutto si e' verificata anteriormente alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](../DPR/Disciplina%20dellimposta%20di%20registro.md). Non si fa luogo a rimborso delle imposte gia' pagate, salvo i casi in cui alla data del 20 novembre 1985 risultasse presentato il ricorso.
 
 3.
 

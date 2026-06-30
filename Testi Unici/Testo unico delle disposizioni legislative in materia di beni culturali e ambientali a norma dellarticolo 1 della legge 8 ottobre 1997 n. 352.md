@@ -18,7 +18,7 @@ Visto l'[articolo 1 della legge 8 ottobre 1997, n. 352](https://www.normattiva.i
 
 Visto l'[articolo 12, comma 6-bis, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_12-com6bis);
 
-Visto il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
+Visto il [decreto legislativo 20 ottobre 1998, n. 368](../Decreti%20Legislativi/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la [legge 5 maggio 1999, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-05;122);
 
@@ -28,7 +28,7 @@ Acquisiti i pareri delle competenti commissioni del Senato della Repubblica e de
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale dell'11 marzo 1999;
 
-Acquisito il parere della Conferenza unificata, istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Acquisito il parere della Conferenza unificata, istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Vista la deliberazione del Consiglio del Ministri, adottata nella riunione del 22 ottobre 1999;
 
@@ -74,7 +74,7 @@ AVVERTENZA:
  - L'[art. 12, comma 6-bis, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_12-com6bis), recante "Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 113 del 17 maggio 1997, come modificato ed integrato dall'[art. 2 della legge 16 giugno 1998, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;191#art_2), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 142 del 20 giugno 1998, e dall'[art. 19 della legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_19), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 302 del 29 dicembre 1998, dispone: 
  "6-bis. I termini di cui al [comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;352#art_com1), al [comma 2, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;352#art_com2-leta), e al [comma 3 dell'art. 1 della legge 8 ottobre 1997, n. 
  352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;352#art_1-com3), sono prorogati di sei mesi". 
- - Il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' pubblicato nella Gazzetta Ufficiale n. 250 del 26 ottobre 1998. 
+ - Il [decreto legislativo 20 ottobre 1998, n. 368](../Decreti%20Legislativi/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' pubblicato nella Gazzetta Ufficiale n. 250 del 26 ottobre 1998. 
  - La [legge 5 maggio 1999, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-05;122), recante "Proroga dei termini per l'emanazione del testo unico delle disposizioni legislative in materia di beni culturali", e' pubblicata nella Gazzetta Ufficiale n. 105 del 7 maggio 1999.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -564,7 +564,7 @@ I conferimenti di cui all'articolo 45 sono impiegati dal Fondo:
 2.
 
 Le operazioni di acquisto di cui al comma 1 sono effettuate per il tramite della Banca d'Italia o di altri intermediari abilitati.
-Dette operazioni sono esenti dalla tassa di cui all'[articolo 1 del regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni. (L).
+Dette operazioni sono esenti dalla tassa di cui all'[articolo 1 del regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni. (L).
 
 3.
 
@@ -981,7 +981,7 @@ I termini di prescrizione indicati nel presente testo unico decorrono, per i tit
 
 1.
 
-La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).(L)
+La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).(L)
 
 ))
 

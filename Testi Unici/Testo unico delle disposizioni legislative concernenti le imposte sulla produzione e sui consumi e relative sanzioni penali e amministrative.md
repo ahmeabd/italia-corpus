@@ -106,7 +106,7 @@ AVVERTENZA:
  "Armonizzazione delle disposizioni in materia di imposte sugli oli minerali, sull'alcole, sulle bevande alcoliche, sui tabacchi lavorati e in materia di IVA con quelle recate da direttive CEE e modificazioni conseguenti a detta armonizzazione, nonche' disposizioni concernenti la disciplina dei centri autorizzati di assistenza fiscale, le procedure dei rimborsi di imposta, l'esclusione dall'ILOR dei redditi di impresa fino all'ammontare corrispondente al contributo diretto lavorativo, l'istituzione per il 1993 di un imposta erariale straordinaria su taluni beni ed altre disposizioni tributarie".
  - Il testo del [decreto-legge n. 331 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993;331), coordinato con la legge di conversione, e' stato pubblicato nel supplemento ordinario n. 107 alla Gazzetta Ufficiale n. 287 del 7 dicembre 1993.
  Note all'art. 1:
- - Il trattato istitutivo della Comunita' economica europea, firmato a Roma il 25 marzo 1957, e' stato ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 317 del 23 dicembre 1957.
+ - Il trattato istitutivo della Comunita' economica europea, firmato a Roma il 25 marzo 1957, e' stato ratificato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 317 del 23 dicembre 1957.
  - Si riporta l'epigrafe della [legge 6 giugno 1939, n. 1320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-06;1320):
  "Esecutorieta' della Convezione di amicizia e buon vicinato stipulata in Roma, fra l'Italia e la Repubblica di San Marino il 31 marzo 1939".
 
@@ -148,7 +148,7 @@ Ai fini del presente testo unico si intende per:
                             g)
                                 regime sospensivo: il regime fiscale applicabile alla fabbricazione, alla trasformazione, alla detenzione ed alla circolazione dei prodotti soggetti ad accisa fino al momento dell'esigibilita' dell'accisa o del verificarsi di una causa estintiva del debito d'imposta; (87)
                             h)
-                                LETTERA ABROGATA DAL [D.LGS. 5 NOVEMBRE 2021, N. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md);
+                                LETTERA ABROGATA DAL [D.LGS. 5 NOVEMBRE 2021, N. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md);
                             i)
                                 importazione di prodotti sottoposti ad accisa: l'immissione di prodotti in libera pratica a norma dell'articolo 201 del CDU; (87)
                             i-bis)
@@ -196,13 +196,13 @@ La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ---------------
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
  Ha inoltre disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
 
 ### Art. 2.
@@ -243,7 +243,7 @@ E' obbligato al pagamento dell'accisa:
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 3. — Artt. 3 e 17 commi 5 e 6, D.L. n. 331/93 - Art. 6 D.L.C.P.S. 25 novembre 1947, n. 1285 - Art. 2 D.L. 23 ottobre 1964, n. 989, convertito, con modificazioni, dalla legge 18 dicembre 1964, n. 
 1350 - Art. 79 D.P.R. 23 gennaio 1973, n. 43, come modificato dall'art. 3-quinquies D.L. 6 luglio 1974, n. 251, convertito, con modificazioni, dalla legge 14 agosto 1974, n. 346). 
@@ -263,7 +263,7 @@ La liquidazione dell'imposta si effettua applicando alla quantita' di prodotto l
 
 4.
 
-I termini e le modalita' di pagamento dell'accisa, anche relative ai parametri utili per garantire la competenza economica di eventuali versamenti in acconto, sono fissati con decreto del Ministro dell'economia e delle finanze. Fino all'adozione del decreto di cui al primo periodo, restano fermi i termini e le modalita' di pagamento contenuti nelle disposizioni previste per i singoli prodotti. Per i prodotti immessi in consumo in ciascun mese, il pagamento dell'accisa deve essere effettuato entro il giorno 16 del mese successivo per le immissioni in consumo avvenute nel mese di luglio, il pagamento dell'accisa e' effettuato entro il giorno 20 del mese di agosto; per le immissioni in consumo avvenute dal 1° al 15 del mese di dicembre, il pagamento dell'accisa deve essere effettuato entro il giorno 27 dello stesso mese ed in tale caso non e' ammesso il versamento unitario ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). Relativamente a questi ultimi prodotti, il decreto di cui al primo periodo non puo' prevedere termini di pagamento piu' ampi rispetto a quelli fissati nel periodo precedente. In caso di ritardo si applica l'indennita' di mora del 6 per cento, riducibile al 2 per cento se il pagamento avviene entro 5 giorni dalla data di scadenza, e sono, inoltre, dovuti gli interessi in misura pari al tasso di cui all'articolo 46 dell'allegato 1 al [decreto legislativo 26 settembre 2024, n. 141](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20nazionali%20complementari%20al%20codice%20doganale%20dellUnione%20e%20revisione%20del%20sistema%20sanzionatorio%20in%20materia%20di%20accise%20e%20altre%20imposte%20indirette%20sulla%20produzione%20e%20sui%20consumi.%2024G00156.md), stabilito per il pagamento dilazionato dei diritti doganali previsti dalla normativa nazionale. Dopo la scadenza del suddetto termine, non e' consentita l'estrazione dal deposito fiscale di altri prodotti fino all'estinzione del debito d'imposta. Per i prodotti d'importazione l'accisa e' riscossa con le modalita' e nei termini previsti per i diritti di confine, fermo restando che il pagamento non puo' essere fissato per un periodo di tempo superiore a quello mediamente previsto per i prodotti nazionali. L'imposta e' dovuta anche per i prodotti sottoposti ad accisa contenuti nelle merci importate, con lo stesso trattamento fiscale previsto per i prodotti nazionali e comunitari. (83) (129)
+I termini e le modalita' di pagamento dell'accisa, anche relative ai parametri utili per garantire la competenza economica di eventuali versamenti in acconto, sono fissati con decreto del Ministro dell'economia e delle finanze. Fino all'adozione del decreto di cui al primo periodo, restano fermi i termini e le modalita' di pagamento contenuti nelle disposizioni previste per i singoli prodotti. Per i prodotti immessi in consumo in ciascun mese, il pagamento dell'accisa deve essere effettuato entro il giorno 16 del mese successivo per le immissioni in consumo avvenute nel mese di luglio, il pagamento dell'accisa e' effettuato entro il giorno 20 del mese di agosto; per le immissioni in consumo avvenute dal 1° al 15 del mese di dicembre, il pagamento dell'accisa deve essere effettuato entro il giorno 27 dello stesso mese ed in tale caso non e' ammesso il versamento unitario ai sensi dell'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](../Decreti%20Legislativi/Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md). Relativamente a questi ultimi prodotti, il decreto di cui al primo periodo non puo' prevedere termini di pagamento piu' ampi rispetto a quelli fissati nel periodo precedente. In caso di ritardo si applica l'indennita' di mora del 6 per cento, riducibile al 2 per cento se il pagamento avviene entro 5 giorni dalla data di scadenza, e sono, inoltre, dovuti gli interessi in misura pari al tasso di cui all'articolo 46 dell'allegato 1 al [decreto legislativo 26 settembre 2024, n. 141](../Decreti%20Legislativi/Disposizioni%20nazionali%20complementari%20al%20codice%20doganale%20dellUnione%20e%20revisione%20del%20sistema%20sanzionatorio%20in%20materia%20di%20accise%20e%20altre%20imposte%20indirette%20sulla%20produzione%20e%20sui%20consumi.%2024G00156.md), stabilito per il pagamento dilazionato dei diritti doganali previsti dalla normativa nazionale. Dopo la scadenza del suddetto termine, non e' consentita l'estrazione dal deposito fiscale di altri prodotti fino all'estinzione del debito d'imposta. Per i prodotti d'importazione l'accisa e' riscossa con le modalita' e nei termini previsti per i diritti di confine, fermo restando che il pagamento non puo' essere fissato per un periodo di tempo superiore a quello mediamente previsto per i prodotti nazionali. L'imposta e' dovuta anche per i prodotti sottoposti ad accisa contenuti nelle merci importate, con lo stesso trattamento fiscale previsto per i prodotti nazionali e comunitari. (83) (129)
 
 4-bis.
 
@@ -286,7 +286,7 @@ Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 4. — (( (Abbuoni per perdite, distruzione e cali).))
 
@@ -320,7 +320,7 @@ Ai fini del presente testo unico si considera che un prodotto abbia subito una d
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 5.
 
@@ -364,13 +364,13 @@ Le disposizioni del presente articolo non si applicano ai prodotti non unionali 
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le "Le disposizioni di cui all'articolo 1, ad eccezione di quanto previsto dal comma 1, lettera d), numero 1), e lettera v) nonche' le disposizioni di cui all'articolo 2 hanno efficacia a decorrere dal 13 febbraio 2023".
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le "Le disposizioni di cui all'articolo 1, ad eccezione di quanto previsto dal comma 1, lettera d), numero 1), e lettera v) nonche' le disposizioni di cui all'articolo 2 hanno efficacia a decorrere dal 13 febbraio 2023".
 
 ---------------
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
 ### Art. 6.
 
@@ -468,13 +468,13 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ---------------
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 7.
 
@@ -589,7 +589,7 @@ Nelle ipotesi previste dal presente articolo l'accisa e' esigibile all'atto del 
 
 5.
 
-I tabacchi lavorati acquistati dal soggetto di cui al comma 1 rispettano le disposizioni nazionali in materia di condizionamento ed etichettatura dei prodotti del tabacco stabilite dal [decreto legislativo 24 giugno 2003, n. 184](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md), nonche' le disposizioni di cui all'articolo 39-duodecies in materia di apposizione del contrassegno di legittimazione; l'autorizzazione di cui al comma 1 per i tabacchi lavorati e' subordinata al possesso dei requisiti di cui all'[articolo 3, comma 1, del decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md).
+I tabacchi lavorati acquistati dal soggetto di cui al comma 1 rispettano le disposizioni nazionali in materia di condizionamento ed etichettatura dei prodotti del tabacco stabilite dal [decreto legislativo 24 giugno 2003, n. 184](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md), nonche' le disposizioni di cui all'articolo 39-duodecies in materia di apposizione del contrassegno di legittimazione; l'autorizzazione di cui al comma 1 per i tabacchi lavorati e' subordinata al possesso dei requisiti di cui all'[articolo 3, comma 1, del decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md).
 
 6.
 
@@ -613,7 +613,7 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 8-bis. — (( (Destinatario certificato). ))
 
@@ -663,7 +663,7 @@ I tabacchi lavorati acquistati ai sensi del presente articolo sono commercializz
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 9.
 
@@ -685,7 +685,7 @@ Lo speditore registrato non puo' detenere prodotti in regime sospensivo. Fermo r
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 9-bis. — (( (Speditore certificato). ))
 
@@ -725,7 +725,7 @@ Per i prodotti gia' assoggettati ad accisa nel territorio dello Stato, trasferit
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 9-ter. — (( (Soggetto obbligato accreditato). ))
 
@@ -746,7 +746,7 @@ Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedim
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
 
 ### Art. 9-quater. — (( (Requisiti di ammissione). ))
 
@@ -772,7 +772,7 @@ e) che, nel quinquennio antecedente la richiesta, non sono incorsi, se persone g
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
 
 ### Art. 9-quinquies. — (( (Riconoscimento della qualifica di soggetto obbligato accreditato). ))
 
@@ -810,7 +810,7 @@ e) la conformita' alle prescrizioni fiscali, con riguardo all'assenza di violazi
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
 
 ### Art. 9-sexies. — (( (Attivazione dei benefici conseguenti al riconoscimento della qualifica di soggetto obbligato accreditato). ))
 
@@ -838,7 +838,7 @@ c) 100 per cento, per il SOAC di livello avanzato.))
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
 
 ### Art. 9-septies. — (( (Monitoraggio e revoca della qualifica di soggetto obbligato accreditato). ))
 
@@ -863,7 +863,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), introdotto dall'articolo 1, comma 1, lettera e)".
 
 ### Art. 9-octies. — (( (Disposizioni attuative per la qualifica di soggetto obbligato accreditato). ))
 
@@ -896,7 +896,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 2) che "Le disposizioni di cui all'articolo 9-octies del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), introdotto dall'articolo 1, comma 1, lettera e), si applicano dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 2) che "Le disposizioni di cui all'articolo 9-octies del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), introdotto dall'articolo 1, comma 1, lettera e), si applicano dalla data di entrata in vigore del presente decreto".
 
 ### Art. 10. — (( (Circolazione di prodotti gia' immessi in consumo in un altro Stato membro e consegnati per scopi commerciali nel territorio dello Stato). ))
 
@@ -950,7 +950,7 @@ In assenza della nota di ricevimento non causata dall'indisponibilita' del siste
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023. 
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023. 
  Ha inoltre disposto (con l'art. 3, comma 2) che "Fino alla data del 31 dicembre 2023, le modalita' previste dall'[articolo 10, comma 5, del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), nel testo vigente alla data del 31 dicembre 2021, continuano ad applicarsi alla circolazione dei prodotti sottoposti ad accisa, immessi in consumo in un altro Stato membro e trasportati nel territorio nazionale per esservi consegnati per scopi commerciali nonche' alla circolazione di quelli immessi in consumo nel territorio nazionale e trasportati in un altro Stato membro per esservi consegnati per i medesimi scopi; fino alla medesima data del 31 dicembre 2023, le predette modalita' si applicano altresi' alle spedizioni di prodotti assoggettati ad accisa tra localita' nazionali con attraversamento del territorio di un altro Stato membro".
 
 ### Art. 10-bis.
@@ -979,7 +979,7 @@ Le procedure per l'autorizzazione di cui al comma 2 e le modalita' per la presta
 
 6.
 
-I tabacchi lavorati acquistati ai sensi del comma 1 devono essere iscritti nelle tariffe di vendita di cui all'articolo 39-quater, rispettare le disposizioni nazionali in materia di condizionamento ed etichettatura dei prodotti del tabacco stabilite dal [decreto legislativo 24 giugno 2003, n. 184](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md), ed essere muniti del contrassegno di legittimazione di cui all'articolo 39-duodecies. Con provvedimento del Direttore dell'((Agenzia delle dogane e dei monopoli)) sono stabiliti, relativamente agli acquisiti di tabacchi lavorati effettuati ai sensi del presente articolo, i requisiti soggettivi richiesti ai fini del rilascio dell'autorizzazione di cui al comma 2 nonche' le modalita' per l'acquisto e le modalita' per la consegna in conformita' a quanto previsto dalla [legge 22 dicembre 1957, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-22;1293), al fine di garantire l'osservanza della specifica normativa nazionale di distribuzione.((87))
+I tabacchi lavorati acquistati ai sensi del comma 1 devono essere iscritti nelle tariffe di vendita di cui all'articolo 39-quater, rispettare le disposizioni nazionali in materia di condizionamento ed etichettatura dei prodotti del tabacco stabilite dal [decreto legislativo 24 giugno 2003, n. 184](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md), ed essere muniti del contrassegno di legittimazione di cui all'articolo 39-duodecies. Con provvedimento del Direttore dell'((Agenzia delle dogane e dei monopoli)) sono stabiliti, relativamente agli acquisiti di tabacchi lavorati effettuati ai sensi del presente articolo, i requisiti soggettivi richiesti ai fini del rilascio dell'autorizzazione di cui al comma 2 nonche' le modalita' per l'acquisto e le modalita' per la consegna in conformita' a quanto previsto dalla [legge 22 dicembre 1957, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-22;1293), al fine di garantire l'osservanza della specifica normativa nazionale di distribuzione.((87))
 
 7.
 
@@ -993,13 +993,13 @@ Per i prodotti gia' assoggettati ad accisa nel territorio dello Stato, acquistat
 
 AGGIORNAMENTO (59)
 
-Il [D.Lgs. 12 gennaio 2016, n. 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%202014-40-UE%20sul%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20relative%20alla%20lavorazione%20alla%20presentazione%20e%20a_5be78dc55be7.md), ha disposto (con l'art. 28, comma 1) che la presente modifica si applica a decorrere dal 20 maggio 2016.
+Il [D.Lgs. 12 gennaio 2016, n. 6](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%202014-40-UE%20sul%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20relative%20alla%20lavorazione%20alla%20presentazione%20e%20a_5be78dc55be7.md), ha disposto (con l'art. 28, comma 1) che la presente modifica si applica a decorrere dal 20 maggio 2016.
 
 ---------------
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 10-ter.
 
@@ -1036,7 +1036,7 @@ Nei casi in cui l'accisa sia stata riscossa in Italia ai sensi del comma 1, lett
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 11.
 
@@ -1091,7 +1091,7 @@ Ai fini del comma 4 sono considerati 'serbatoi normali' di un autoveicolo quelli
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 12. — (( (Deposito e circolazione di prodotti assoggettati ad accisa). ))
 
@@ -1115,7 +1115,7 @@ Alle autobotti e alle bettoline utilizzate per il trasporto di prodotti assogget
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 13.
 
@@ -1205,7 +1205,7 @@ Il rimborso puo' essere concesso anche mediante accredito dell'imposta da utiliz
 
 1.
 
-Le somme dovute a titolo di imposta o indebitamente abbuonate o restituite si esigono con la procedura di riscossione coattiva prevista dal [decreto legislativo 13 aprile 1999, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md). Prima di avviare tale procedura, gli uffici notificano, con le modalita' di cui all'articolo 19-bis, comma 1, del presente testo unico, un avviso di pagamento fissando per l'adempimento un termine di trenta giorni, decorrente dalla data di perfezionamento della notificazione.
+Le somme dovute a titolo di imposta o indebitamente abbuonate o restituite si esigono con la procedura di riscossione coattiva prevista dal [decreto legislativo 13 aprile 1999, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md). Prima di avviare tale procedura, gli uffici notificano, con le modalita' di cui all'articolo 19-bis, comma 1, del presente testo unico, un avviso di pagamento fissando per l'adempimento un termine di trenta giorni, decorrente dalla data di perfezionamento della notificazione.
 
 2.
 
@@ -1291,13 +1291,13 @@ I tabacchi lavorati sono esenti dal pagamento dell'accisa quando sono:
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 -------------
 
 AGGIORNAMENTO (99)
 
-Il [D.Lgs. 27 maggio 2022, n. 72](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-2235%20che%20modifica%20la%20direttiva%202006-112-CE%20relativa%20al%20sistema%20comune%20dimposta%20sul%20valore%20aggiunto%20e%20la%20direttiva%202008-118-CE%20relativa%20al%20regime%20general_b1043323ac62.md) ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 1° luglio 2022.
+Il [D.Lgs. 27 maggio 2022, n. 72](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-2235%20che%20modifica%20la%20direttiva%202006-112-CE%20relativa%20al%20sistema%20comune%20dimposta%20sul%20valore%20aggiunto%20e%20la%20direttiva%202008-118-CE%20relativa%20al%20regime%20general_b1043323ac62.md) ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 1° luglio 2022.
 
 ### Art. 18. — (Art. 5 T.U. spiriti e birra 1924 - Art. 28, comma 2, R.D.L. n. 
  334/1939 - Art. 8 D.L. n. 271/1957 - Art. 16 D.L. n. 688/1982 (*)  - Art. 32 D.L. n. 331/1993 - Art. 29 D.P.R. 10 gennaio 1962, n. 83  - Art. 27 decreto legislativo 26 aprile 1990, n. 105). 
@@ -1337,7 +1337,7 @@ L'Amministrazione finanziaria puo' effettuare interventi presso soggetti che svo
 
 6.
 
-Il personale dell'amministrazione finanziaria, munito della speciale tessera di riconoscimento di cui al comma 2, avvalendosi del segnale di cui all'art. 24 del regolamento di esecuzione e di attuazione del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), approvato con [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e la Guardia di finanza hanno facolta' di effettuare i servizi di controllo sulla circolazione dei prodotti di cui al presente testo unico, anche mediante ricerche sui mezzi di trasporto impiegati. Essi hanno altresi' facolta', per esigenze di tutela fiscale, di apporre sigilli al carico, nonche' di procedere, gratuitamente, al prelevamento di campioni. 
+Il personale dell'amministrazione finanziaria, munito della speciale tessera di riconoscimento di cui al comma 2, avvalendosi del segnale di cui all'art. 24 del regolamento di esecuzione e di attuazione del [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md), approvato con [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e la Guardia di finanza hanno facolta' di effettuare i servizi di controllo sulla circolazione dei prodotti di cui al presente testo unico, anche mediante ricerche sui mezzi di trasporto impiegati. Essi hanno altresi' facolta', per esigenze di tutela fiscale, di apporre sigilli al carico, nonche' di procedere, gratuitamente, al prelevamento di campioni. 
  
 ------------ 
 (*) Il riferimento al [D.L. n. 688/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;688) riguarda il [decreto-legge 30 settembre 1982, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-30;688), convertito, con modificazioni, dalla [legge 27 novembre 1982, n. 873](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md).
@@ -1370,7 +1370,7 @@ Nel rispetto del principio di cooperazione di cui all'[articolo 12 della legge 2
 
 1.
 
-L'invio di tutti gli atti e le comunicazioni previsti dalle disposizioni che disciplinano i tributi previsti dal presente testo unico, ivi compresi gli avvisi di pagamento di cui all'articolo 15, comma 1, effettuato da parte dell'Agenzia delle dogane e dei monopoli tramite la posta elettronica certificata di cui all'articolo 1, comma 2, lettera g), del regolamento di cui al [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md), di seguito denominata PEC, ha valore di notificazione. Resta salva per l'Agenzia la possibilita' di notificare i predetti atti e comunicazioni mediante raccomandata postale con avviso di ricevimento ovvero ai sensi degli [articoli 137 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_137), anche per il tramite di un messo speciale autorizzato dall'ufficio competente.
+L'invio di tutti gli atti e le comunicazioni previsti dalle disposizioni che disciplinano i tributi previsti dal presente testo unico, ivi compresi gli avvisi di pagamento di cui all'articolo 15, comma 1, effettuato da parte dell'Agenzia delle dogane e dei monopoli tramite la posta elettronica certificata di cui all'articolo 1, comma 2, lettera g), del regolamento di cui al [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../DPR/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md), di seguito denominata PEC, ha valore di notificazione. Resta salva per l'Agenzia la possibilita' di notificare i predetti atti e comunicazioni mediante raccomandata postale con avviso di ricevimento ovvero ai sensi degli [articoli 137 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_137), anche per il tramite di un messo speciale autorizzato dall'ufficio competente.
 
 2. Per i fini di cui al comma 1, i soggetti tenuti al pagamento dell'imposta nonche' quelli che intendono iniziare un'attivita' subordinata al rilascio di una licenza o di un'autorizzazione, comunque denominata, previste dal presente testo unico comunicano preventivamente all'Agenzia il proprio indirizzo di PEC))
 
@@ -1600,7 +1600,7 @@ lettera a)) che "al comma 6-bis, lettera b), le parole: "lire 560.000 per 1.000 
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
  Ha inoltre disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
 ### Art. 21-bis.
@@ -1793,7 +1793,7 @@ L'esercizio dei depositi fiscali autorizzati ai sensi dei commi 3 e 4 e' subordi
 
 6.
 
-L'autorizzazione di cui ai commi 3 e 4 e' negata ai soggetti nei cui confronti, nel quinquennio antecedente la richiesta, sia stata pronunciata sentenza irrevocabile di condanna ai sensi dell'[articolo 648 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_648), ovvero sentenza definitiva di applicazione della pena su richiesta, ai sensi dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per reati di natura tributaria, finanziaria e fallimentare e per i delitti non colposi previsti dai titoli II, V, VII, VIII e XIII del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per i quali sia prevista la pena della reclusione. La predetta autorizzazione e' altresi' negata ai soggetti nei confronti dei quali siano in corso procedure concorsuali o siano state definite nell'ultimo quinquennio, nonche' ai soggetti che abbiano commesso violazioni gravi e ripetute, per loro natura od entita', alle disposizioni che disciplinano l'accisa, l'imposta sul valore aggiunto e i tributi doganali, in relazione alle quali siano state contestate sanzioni amministrative nell'ultimo quinquennio.
+L'autorizzazione di cui ai commi 3 e 4 e' negata ai soggetti nei cui confronti, nel quinquennio antecedente la richiesta, sia stata pronunciata sentenza irrevocabile di condanna ai sensi dell'[articolo 648 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_648), ovvero sentenza definitiva di applicazione della pena su richiesta, ai sensi dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per reati di natura tributaria, finanziaria e fallimentare e per i delitti non colposi previsti dai titoli II, V, VII, VIII e XIII del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per i quali sia prevista la pena della reclusione. La predetta autorizzazione e' altresi' negata ai soggetti nei confronti dei quali siano in corso procedure concorsuali o siano state definite nell'ultimo quinquennio, nonche' ai soggetti che abbiano commesso violazioni gravi e ripetute, per loro natura od entita', alle disposizioni che disciplinano l'accisa, l'imposta sul valore aggiunto e i tributi doganali, in relazione alle quali siano state contestate sanzioni amministrative nell'ultimo quinquennio.
 
 7.
 
@@ -1850,7 +1850,7 @@ La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 24. — Impieghi agevolati
  (Art. 20 D.L. n. 331/1993)
@@ -1893,9 +1893,9 @@ Per gasolio commerciale usato come carburante si intende il gasolio impiegato da
  3) imprese stabilite in altri Stati membri dell'Unione europea, in possesso dei requisiti previsti dalla disciplina dell'Unione europea per l'esercizio della professione di trasportatore di merci su strada;
                             b)
                                 attivita' di trasporto di persone svolta da: 
- 1) enti pubblici o imprese pubbliche locali esercenti l'attivita' di trasporto di cui al [decreto legislativo 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e alle relative leggi regionali di attuazione; 
- 2) imprese esercenti autoservizi interregionali di competenza statale di cui al [decreto legislativo 21 novembre 2005, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20dei%20servizi%20automobilistici%20interregionali%20di%20competenza%20statale.md); 
- 3) imprese esercenti autoservizi di competenza regionale e locale di cui al [decreto legislativo 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md); 
+ 1) enti pubblici o imprese pubbliche locali esercenti l'attivita' di trasporto di cui al [decreto legislativo 19 novembre 1997, n. 422](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e alle relative leggi regionali di attuazione; 
+ 2) imprese esercenti autoservizi interregionali di competenza statale di cui al [decreto legislativo 21 novembre 2005, n. 285](../Decreti%20Legislativi/Riordino%20dei%20servizi%20automobilistici%20interregionali%20di%20competenza%20statale.md); 
+ 3) imprese esercenti autoservizi di competenza regionale e locale di cui al [decreto legislativo 19 novembre 1997, n. 422](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md); 
  4) imprese esercenti autoservizi regolari in ambito comunitario di cui al regolamento (CE) n. 1073/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009.
 
 3.
@@ -2091,7 +2091,7 @@ Per la detenzione e la circolazione del gas naturale non si applicano le disposi
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
  Ha inoltre disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
 ### Art. 26-bis. — ((Rilascio dell'autorizzazione))
@@ -2131,7 +2131,7 @@ b) nei cui confronti e' stata pronunciata sentenza irrevocabile di condanna o se
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 26-ter. — Accertamento, liquidazione e versamento dell'accisa
 
@@ -2196,7 +2196,7 @@ Con determinazione, adottata dal direttore dell'Agenzia delle entrate e dal dire
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 26-quater. — ((Altre disposizioni))
 
@@ -2219,7 +2219,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 26-quinquies. — ((Disposizioni attuative))
 
@@ -2232,7 +2232,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ## ALCOLE E BEVANDE ALCOLICHE Sezione I Disposizioni di carattere generale
 
@@ -2366,7 +2366,7 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 29.
 
@@ -2404,7 +2404,7 @@ Il [D.L 21 ottobre 2021, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 30. — Art. 25 T.U. spiriti 1924 - Art. 5 R.D.L. n. 23/1933 - Artt. 20 e 22 D.L. n. 1200/1948 - Art. 20 D.L. n. 142/1950 - Artt. 4 e 13 D.L. 
 n. 3/1956 - Art. 9 legge 28 marzo 1968, n. 415 - Art. 14-bis D.L. 
@@ -2549,13 +2549,13 @@ Con decreto del Ministro dell'economia e delle finanze, di concerto con il Minis
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ---------------
 
 AGGIORNAMENTO (131)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), come modificato dal [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 8, comma 4-bis) che "Le disposizioni di cui all'articolo 33-ter, comma 1, del testo unico delle disposizioni legislative concernente le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), introdotto dall'articolo 1, comma 1, lettera l), hanno effetto a decorrere dal giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto previsto dall'articolo 33-ter, comma 2. Le disposizioni di cui all'art. 33-ter, comma 2, si applicano a decorrere dalla data di entrata in vigore del presente decreto legislativo".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), come modificato dal [D.L. 17 giugno 2025, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-06-17;84), ha disposto (con l'art. 8, comma 4-bis) che "Le disposizioni di cui all'articolo 33-ter, comma 1, del testo unico delle disposizioni legislative concernente le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), introdotto dall'articolo 1, comma 1, lettera l), hanno effetto a decorrere dal giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto previsto dall'articolo 33-ter, comma 2. Le disposizioni di cui all'art. 33-ter, comma 2, si applicano a decorrere dalla data di entrata in vigore del presente decreto legislativo".
 
 ## Birra
 
@@ -2694,7 +2694,7 @@ I produttori di vino che producono in media meno di 1.000 ettolitri di vino all'
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 37-bis. — (( (Piccolo produttore indipendente di vino). ))
 
@@ -2839,7 +2839,7 @@ Sono considerati sigaretti i prodotti di cui alla lettera a) del comma 1, di pes
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 31 MARZO 2011, N. 57](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202010-12-UE%20recante%20modifica%20delle%20direttive%2092-79-CEE%2092-80-CEE%2095-59-CE%20e%202008-118-CE%20per%20quanto%20concerne%20la%20struttura%20e%20le%20aliquote%20delle%20accise%20che%20gravano%20s_a8f76577529c.md).
+COMMA ABROGATO DAL [D.LGS. 31 MARZO 2011, N. 57](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202010-12-UE%20recante%20modifica%20delle%20direttive%2092-79-CEE%2092-80-CEE%2095-59-CE%20e%202008-118-CE%20per%20quanto%20concerne%20la%20struttura%20e%20le%20aliquote%20delle%20accise%20che%20gravano%20s_a8f76577529c.md).
 
 ### Art. 39-ter.
 
@@ -2887,13 +2887,13 @@ La vendita al pubblico delle sigarette e' ammessa esclusivamente in pacchetti co
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 31 MARZO 2011, N. 57](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202010-12-UE%20recante%20modifica%20delle%20direttive%2092-79-CEE%2092-80-CEE%2095-59-CE%20e%202008-118-CE%20per%20quanto%20concerne%20la%20struttura%20e%20le%20aliquote%20delle%20accise%20che%20gravano%20s_a8f76577529c.md).
+COMMA ABROGATO DAL [D.LGS. 31 MARZO 2011, N. 57](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202010-12-UE%20recante%20modifica%20delle%20direttive%2092-79-CEE%2092-80-CEE%2095-59-CE%20e%202008-118-CE%20per%20quanto%20concerne%20la%20struttura%20e%20le%20aliquote%20delle%20accise%20che%20gravano%20s_a8f76577529c.md).
 
 ---------------
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 39-quinquies.
 
@@ -2915,19 +2915,19 @@ Per le sigarette, le tabelle di cui al comma 1 sono stabilite con riferimento al
 
 2-bis.
 
-COMMA ABROGATO DAL [D.LGS. 15 DICEMBRE 2014, N. 188](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md).
+COMMA ABROGATO DAL [D.LGS. 15 DICEMBRE 2014, N. 188](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md).
 
 -------------
 
 AGGIORNAMENTO (52)
 
-Il [D.Lgs. 15 dicembre 2014, n. 188](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) ha disposto (con l'art. 2, comma 1) che l'efficacia della presente modifica decorre dal 1° gennaio 2015.
+Il [D.Lgs. 15 dicembre 2014, n. 188](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) ha disposto (con l'art. 2, comma 1) che l'efficacia della presente modifica decorre dal 1° gennaio 2015.
 
 ---------------
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 39-sexies.
 
@@ -3018,19 +3018,19 @@ Con decreto del Ministro dell'economia e delle finanze, da emanare entro il 31 m
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs 31 marzo 2011, n. 57](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202010-12-UE%20recante%20modifica%20delle%20direttive%2092-79-CEE%2092-80-CEE%2095-59-CE%20e%202008-118-CE%20per%20quanto%20concerne%20la%20struttura%20e%20le%20aliquote%20delle%20accise%20che%20gravano%20s_a8f76577529c.md) ha disposto (con l'art. 2, comma 2) che "2. Alle sigarette prodotte entro il 31 dicembre 2010 si applicano le disposizioni di cui all'[articolo 39-octies, comma 6, del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), nella formulazione vigente alla medesima data purche' le stesse sigarette siano immesse in consumo entro il 30 giugno 2011".
+Il [D.Lgs 31 marzo 2011, n. 57](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202010-12-UE%20recante%20modifica%20delle%20direttive%2092-79-CEE%2092-80-CEE%2095-59-CE%20e%202008-118-CE%20per%20quanto%20concerne%20la%20struttura%20e%20le%20aliquote%20delle%20accise%20che%20gravano%20s_a8f76577529c.md) ha disposto (con l'art. 2, comma 2) che "2. Alle sigarette prodotte entro il 31 dicembre 2010 si applicano le disposizioni di cui all'[articolo 39-octies, comma 6, del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), nella formulazione vigente alla medesima data purche' le stesse sigarette siano immesse in consumo entro il 30 giugno 2011".
 
 -------------
 
 AGGIORNAMENTO (52)
 
-Il [D.Lgs. 15 dicembre 2014, n. 188](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) ha disposto (con l'art. 2, comma 1) che l'efficacia della presente modifica decorre dal 1° gennaio 2015.
+Il [D.Lgs. 15 dicembre 2014, n. 188](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) ha disposto (con l'art. 2, comma 1) che l'efficacia della presente modifica decorre dal 1° gennaio 2015.
 
 -------------
 
 AGGIORNAMENTO (60)
 
-Il Decreto 18 marzo 2016 (in G.U. 01/04/2016, n. 76) ha disposto (con l'art. 1, comma 1) che "Ai sensi dell'[articolo 1, comma 2, del decreto legislativo 15 dicembre 2014, n. 188](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md), l'importo di cui all'[articolo 39-octies, comma 6, del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), e successive modificazioni, e' stabilito in euro 170,54 il chilogrammo convenzionale". 
+Il Decreto 18 marzo 2016 (in G.U. 01/04/2016, n. 76) ha disposto (con l'art. 1, comma 1) che "Ai sensi dell'[articolo 1, comma 2, del decreto legislativo 15 dicembre 2014, n. 188](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md), l'importo di cui all'[articolo 39-octies, comma 6, del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), e successive modificazioni, e' stabilito in euro 170,54 il chilogrammo convenzionale". 
  Ha inoltre disposto (con l'art. 2, comma 1) che la presente modifica si applica a decorrere dalla data di pubblicazione del presente decreto in Gazzetta Ufficiale.
 
 -------------
@@ -3093,7 +3093,7 @@ Con decreto del Direttore dell'((Agenzia delle dogane e dei monopoli)) sono stab
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 39-decies.
 
@@ -3137,7 +3137,7 @@ Sono a carico dell'((Agenzia delle dogane e dei monopoli)) tutti gli oneri conne
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 39-duodecies.
 
@@ -3164,19 +3164,19 @@ Per i tabacchi lavorati muniti dei contrassegni di cui al comma 1, per i quali l
 
 AGGIORNAMENTO (52)
 
-Il [D.Lgs. 15 dicembre 2014, n. 188](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) ha disposto (con l'art. 1, comma 7) che alla data di entrata in vigore del regolamento ministeriale di cui al comma 5 dell'art. 1 del suddetto decreto e' abrogato il presente articolo.
+Il [D.Lgs. 15 dicembre 2014, n. 188](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) ha disposto (con l'art. 1, comma 7) che alla data di entrata in vigore del regolamento ministeriale di cui al comma 5 dell'art. 1 del suddetto decreto e' abrogato il presente articolo.
 
 ---------------
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 39-terdecies. — (Disposizioni in tema di tabacchi da inalazione senza combustione).
 
 1.
 
-Per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera e-bis), non si applicano le disposizioni degli articoli 39-quater, 39-quinquies e 39-octies e, ai fini dell'etichettatura, tali tabacchi sono assimilati ai prodotti di cui all'[articolo 6, comma 3, del decreto legislativo 24 giugno 2003, n. 184](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md).
+Per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera e-bis), non si applicano le disposizioni degli articoli 39-quater, 39-quinquies e 39-octies e, ai fini dell'etichettatura, tali tabacchi sono assimilati ai prodotti di cui all'[articolo 6, comma 3, del decreto legislativo 24 giugno 2003, n. 184](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md).
 
 2.
 
@@ -3188,7 +3188,7 @@ I tabacchi di cui al comma 1 sono sottoposti ad accisa in misura pari al ((40,50
 
 4.
 
-Ferma restando l'applicazione delle disposizioni di cui al [decreto legislativo 24 giugno 2003, n. 184](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md), il soggetto obbligato al pagamento dell'accisa dichiara all'Agenzia delle dogane e dei monopoli, prima dell'immissione in consumo, la denominazione e gli ingredienti dei prodotti, il contenuto e il peso delle confezioni destinate alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'[articolo 6 del decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni.
+Ferma restando l'applicazione delle disposizioni di cui al [decreto legislativo 24 giugno 2003, n. 184](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-37-CE%20in%20materia%20di%20lavorazione%20presentazione%20e%20vendita%20dei%20prodotti%20del%20tabacco.md), il soggetto obbligato al pagamento dell'accisa dichiara all'Agenzia delle dogane e dei monopoli, prima dell'immissione in consumo, la denominazione e gli ingredienti dei prodotti, il contenuto e il peso delle confezioni destinate alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'[articolo 6 del decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni.
 
 ## SANZIONI
 
@@ -3255,7 +3255,7 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 1.
 
-Fuori dai casi di cui all'articolo 84 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20¸ [commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), chiunque sottrae, con qualsiasi mezzo e modalita', all'accertamento o al pagamento dell'accisa i tabacchi lavorati di cui al titolo I, capo III-bis, del presente testo unico e' punito con la reclusione da due a cinque anni.
+Fuori dai casi di cui all'articolo 84 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20¸ [commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), chiunque sottrae, con qualsiasi mezzo e modalita', all'accertamento o al pagamento dell'accisa i tabacchi lavorati di cui al titolo I, capo III-bis, del presente testo unico e' punito con la reclusione da due a cinque anni.
 
 2.
 
@@ -3299,7 +3299,7 @@ Nelle ipotesi previste dall'articolo 40-bis, commi 1 e 2, si applica la multa di
                             d)
                                 nel commettere il reato, l'autore ha utilizzato mezzi di trasporto, che, rispetto alle caratteristiche omologate, presentano alterazioni o modifiche idonee ad ostacolare l'intervento degli organi di polizia ovvero a provocare pericolo per la pubblica incolumita';
                             e)
-                                nel commettere il reato l'autore ha utilizzato societa' di persone o di capitali ovvero si e' avvalso di disponibilita' finanziarie in qualsiasi modo costituite in Stati che non hanno ratificato la Convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato, fatta a Strasburgo l'8 novembre 1990, ratificata e resa esecutiva ai sensi della [legge 9 agosto 1993, n. 328](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20riciclaggio%20la%20ricerca%20il%20sequestro%20e%20la%20confisca%20dei%20proventi%20di%20reato%20fatta%20a%20Strasburgo%20l8%20novembre%201990.md), e che comunque non hanno stipulato e ratificato convenzioni di assistenza giudiziaria con l'Italia aventi ad oggetto il delitto di contrabbando.
+                                nel commettere il reato l'autore ha utilizzato societa' di persone o di capitali ovvero si e' avvalso di disponibilita' finanziarie in qualsiasi modo costituite in Stati che non hanno ratificato la Convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato, fatta a Strasburgo l'8 novembre 1990, ratificata e resa esecutiva ai sensi della [legge 9 agosto 1993, n. 328](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20riciclaggio%20la%20ricerca%20il%20sequestro%20e%20la%20confisca%20dei%20proventi%20di%20reato%20fatta%20a%20Strasburgo%20l8%20novembre%201990.md), e che comunque non hanno stipulato e ratificato convenzioni di assistenza giudiziaria con l'Italia aventi ad oggetto il delitto di contrabbando.
 
 ))
 
@@ -3337,7 +3337,7 @@ Quando le condotte di cui ai commi 1 e 2 hanno ad oggetto un quantitativo di tab
 
 1.
 
-Ove, all'interno di esercizi commerciali o di esercizi pubblici, sia contestata nei confronti dei titolari o di loro coadiuvanti o dipendenti la detenzione o la cessione di tabacchi lavorati in violazione delle disposizioni del presente testo unico, nonche' delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), o di altre leggi speciali in materia, ovvero la cessione abusiva di tabacchi lavorati in violazione della [legge 22 dicembre 1957, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-22;1293), in aggiunta alle specifiche sanzioni previste e' disposta, dal competente organo dell'Amministrazione finanziaria, la chiusura dell'esercizio presso il quale e' stata riscontrata la violazione ovvero la sospensione della licenza o dell'autorizzazione dell'esercizio stesso per un periodo non inferiore a cinque giorni e non superiore a un mese.
+Ove, all'interno di esercizi commerciali o di esercizi pubblici, sia contestata nei confronti dei titolari o di loro coadiuvanti o dipendenti la detenzione o la cessione di tabacchi lavorati in violazione delle disposizioni del presente testo unico, nonche' delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), o di altre leggi speciali in materia, ovvero la cessione abusiva di tabacchi lavorati in violazione della [legge 22 dicembre 1957, n. 1293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-22;1293), in aggiunta alle specifiche sanzioni previste e' disposta, dal competente organo dell'Amministrazione finanziaria, la chiusura dell'esercizio presso il quale e' stata riscontrata la violazione ovvero la sospensione della licenza o dell'autorizzazione dell'esercizio stesso per un periodo non inferiore a cinque giorni e non superiore a un mese.
 
 2.
 
@@ -3435,7 +3435,7 @@ La confisca di cui al comma 1-bis non opera per la parte che il contribuente si 
 
 1-quater.
 
-Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per taluno dei delitti previsti dal presente testo unico, puniti con pena detentiva non inferiore, nel massimo, a cinque anni, si applica l'[articolo 240-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444) per taluno dei delitti previsti dal presente testo unico, puniti con pena detentiva non inferiore, nel massimo, a cinque anni, si applica l'[articolo 240-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ))
 
@@ -3457,7 +3457,7 @@ I beni mobili di cui al comma 1, acquisiti dallo Stato a seguito di provvediment
 
 4.
 
-Si applicano le disposizioni di cui all'articolo 95, commi 3, 4, 6, 7 e 8, delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md). Nel caso di violazioni punite con la sanzione amministrativa, i provvedimenti per i quali, in base al predetto articolo 95, e' competente l'autorita' giudiziaria sono adottati dall'Ufficio dell'Agenzia territorialmente competente in relazione al luogo in cui la violazione e' stata accertata.
+Si applicano le disposizioni di cui all'articolo 95, commi 3, 4, 6, 7 e 8, delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md). Nel caso di violazioni punite con la sanzione amministrativa, i provvedimenti per i quali, in base al predetto articolo 95, e' competente l'autorita' giudiziaria sono adottati dall'Ufficio dell'Agenzia territorialmente competente in relazione al luogo in cui la violazione e' stata accertata.
 
 ))
 
@@ -3467,7 +3467,7 @@ Si applicano le disposizioni di cui all'articolo 95, commi 3, 4, 6, 7 e 8, delle
 
 1.
 
-Fermo quanto previsto dall'articolo 44-bis, nei casi di violazioni di cui agli articoli 40-bis e 40-ter, si applicano, in quanto compatibili, le disposizioni di cui all'articolo 118 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md).
+Fermo quanto previsto dall'articolo 44-bis, nei casi di violazioni di cui agli articoli 40-bis e 40-ter, si applicano, in quanto compatibili, le disposizioni di cui all'articolo 118 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md).
 
 ))
 
@@ -3540,7 +3540,7 @@ Le disposizioni di cui al presente articolo non si applicano ai tabacchi lavorat
 
 AGGIORNAMENTO (87)
 
-Il [D.Lgs. 5 novembre 2021, n. 180](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
+Il [D.Lgs. 5 novembre 2021, n. 180](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20UE%202020-262%20del%20Consiglio%20del%2019%20dicembre%202019%20che%20stabilisce%20il%20regime%20generale%20delle%20accise%20rifusione.%2021G00198.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
 ### Art. 48. — (Art. 45 T.U. spiriti 1924 - Art. 23-bis R.D.L. n. 334/1939 - Artt. 10 e 13 D.L. n. 271/1957 - Art. 6 legge 15 dicembre 1971, n. 1161
 - Art. 5, comma 6-bis, D.L. n. 16/1993 (*) - Artt. 1 e 2 legge 28
@@ -3689,7 +3689,7 @@ E' considerato uso promiscuo l'utilizzo contestuale dell'energia elettrica, forn
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 53. — ((Soggetti obbligati))
 
@@ -3719,7 +3719,7 @@ b) da due o piu' fornitori, qualora abbiano consumi mensili nello stesso sito su
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
  Ha inoltre disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
 ### Art. 53-bis. — ((Rilascio dell'autorizzazione o della licenza di esercizio))
@@ -3769,7 +3769,7 @@ b) nei cui confronti e' stata pronunciata sentenza irrevocabile di condanna o se
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 54.
 
@@ -3790,7 +3790,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 55. — ((Accertamento, liquidazione e versamento dell'accisa))
 
@@ -3859,7 +3859,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 56. — ((Particolari modalita' di pagamento dell'accisa))
 
@@ -3888,7 +3888,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 56-bis. — ((Altre disposizioni))
 
@@ -3921,7 +3921,7 @@ d) comunicano tempestivamente all'Agenzia delle dogane e dei monopoli e al sogge
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 56-ter. — ((Disposizioni attuative in materia di accisa sull'energia elettrica))
 
@@ -3934,7 +3934,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 57. — ((Privilegi e prescrizione))
 
@@ -4094,8 +4094,8 @@ Con decreto del Ministro dell'economia e delle finanze, da emanare ai sensi dell
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
- Ha inoltre disposto (con l'art. 8, comma 5) che l'introduzione del comma 2-bis decorre dalla data di cui al comma 3 dell'art. 8 del suddetto [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md).
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026". 
+ Ha inoltre disposto (con l'art. 8, comma 5) che l'introduzione del comma 2-bis decorre dalla data di cui al comma 3 dell'art. 8 del suddetto [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md).
 
 ### Art. 62. — ((Imposizione sugli oli lubrificanti, sui bitumi di petrolio ed altri prodotti))
 
@@ -4142,7 +4142,7 @@ b) agli oli lubrificanti impiegati nella produzione e nella lavorazione della go
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 62-bis.
 
@@ -4160,12 +4160,12 @@ COMMA ABROGATO DAL [D.L. 23 OTTOBRE 2018, N. 119](https://www.normattiva.it/uri-
 
 1-bis.
 
-I prodotti da inalazione senza combustione costituiti da sostanze liquide, contenenti o meno nicotina, esclusi quelli autorizzati all'immissione in commercio come medicinali ai sensi del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), e successive modificazioni, sono assoggettati ad imposta di consumo in misura pari ((, rispettivamente, al 18 per cento e al 13 per cento per l'anno 2026, al 20 per cento e al 15 per cento per l'anno 2027 e al 22 per cento e al 17 per cento a decorrere dall'anno 2028)) dell'accisa gravante sull'equivalente quantitativo di sigarette, con riferimento al prezzo medio ponderato di un chilogrammo convenzionale di sigarette rilevato ai sensi dell'articolo 39-quinquies e alla equivalenza di consumo convenzionale determinata sulla base di apposite procedure tecniche, definite con provvedimento del Direttore dell'Agenzia delle dogane e dei monopoli, in ragione del tempo medio necessario, in condizioni di aspirazione conformi a quelle adottate per l'analisi dei contenuti delle sigarette, per il consumo di un campione composto da almeno dieci tipologie di prodotto tra quelle in commercio, di cui sette contenenti diverse gradazioni di nicotina e tre con contenuti diversi dalla nicotina, mediante tre dispositivi per inalazione di potenza non inferiore a 10 watt. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma.
+I prodotti da inalazione senza combustione costituiti da sostanze liquide, contenenti o meno nicotina, esclusi quelli autorizzati all'immissione in commercio come medicinali ai sensi del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), e successive modificazioni, sono assoggettati ad imposta di consumo in misura pari ((, rispettivamente, al 18 per cento e al 13 per cento per l'anno 2026, al 20 per cento e al 15 per cento per l'anno 2027 e al 22 per cento e al 17 per cento a decorrere dall'anno 2028)) dell'accisa gravante sull'equivalente quantitativo di sigarette, con riferimento al prezzo medio ponderato di un chilogrammo convenzionale di sigarette rilevato ai sensi dell'articolo 39-quinquies e alla equivalenza di consumo convenzionale determinata sulla base di apposite procedure tecniche, definite con provvedimento del Direttore dell'Agenzia delle dogane e dei monopoli, in ragione del tempo medio necessario, in condizioni di aspirazione conformi a quelle adottate per l'analisi dei contenuti delle sigarette, per il consumo di un campione composto da almeno dieci tipologie di prodotto tra quelle in commercio, di cui sette contenenti diverse gradazioni di nicotina e tre con contenuti diversi dalla nicotina, mediante tre dispositivi per inalazione di potenza non inferiore a 10 watt. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma.
 Entro il primo marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette. PERIODO SOPPRESSO DAL [D.L. 23 OTTOBRE 2018, N. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-23;119), CONVERTITO CON MODIFICAZIONI DALLA [L. 17 DICEMBRE 2018, N. 136](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%202018%20n.%20119%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20finanziaria.%2018G00162.md). (52) (71) (72)(129)
 
 1-ter.
 
-Il soggetto autorizzato di cui al comma 2 e' obbligato al pagamento dell'imposta di cui al comma 1-bis e a tal fine dichiara all'Agenzia delle dogane e dei monopoli, prima della loro commercializzazione, la denominazione e il contenuto dei prodotti da inalazione, la quantita' di prodotto delle confezioni destinate alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni. Il produttore e' tenuto anche a fornire, ai fini dell'autorizzazione, un campione per ogni singolo prodotto. (52)
+Il soggetto autorizzato di cui al comma 2 e' obbligato al pagamento dell'imposta di cui al comma 1-bis e a tal fine dichiara all'Agenzia delle dogane e dei monopoli, prima della loro commercializzazione, la denominazione e il contenuto dei prodotti da inalazione, la quantita' di prodotto delle confezioni destinate alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni. Il produttore e' tenuto anche a fornire, ai fini dell'autorizzazione, un campione per ogni singolo prodotto. (52)
 
 2.
 
@@ -4221,7 +4221,7 @@ Il soggetto autorizzato ai sensi del comma 2 decade in caso di perdita di uno o 
 
 7-bis.
 
-Le disposizioni dell'articolo 84 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), si applicano anche con riferimento ai prodotti di cui al comma 1-bis, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, rispettivamente a 0,2 millilitri per i prodotti contenenti nicotina e a un millilitro per i prodotti non contenenti nicotina. Per i prodotti di cui al comma 1-bis, sia che contengano nicotina sia che non la contengano, trovano altresi' applicazione le disposizioni di cui all'articolo 85 delle predette disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale a 0,2 millilitri di prodotto.(72) 
+Le disposizioni dell'articolo 84 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), si applicano anche con riferimento ai prodotti di cui al comma 1-bis, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, rispettivamente a 0,2 millilitri per i prodotti contenenti nicotina e a un millilitro per i prodotti non contenenti nicotina. Per i prodotti di cui al comma 1-bis, sia che contengano nicotina sia che non la contengano, trovano altresi' applicazione le disposizioni di cui all'articolo 85 delle predette disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale a 0,2 millilitri di prodotto.(72) 
  7-bis.1. Fuori dai casi di cui al comma 7-bis, per le violazioni costituenti fattispecie di sottrazione dei prodotti di cui al comma 1-bis all'accertamento o al pagamento dell'imposta di consumo, si applicano le disposizioni di cui all'articolo 40-bis, commi 1, 2, 3 e 4, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, rispettivamente, a 0,2 millilitri per i prodotti contenenti nicotina e a un millilitro per i prodotti non contenenti nicotina. Si applicano, altresi', le disposizioni di cui all'articolo 40-ter, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale a 0,2 millilitri di prodotto di cui al comma 1-bis sia che contenga nicotina sia che non la contenga, e le disposizioni di cui all'articolo 40-quater. 
  7-bis.2. Si applicano le disposizioni di cui all'articolo 40-quinquies, quando le condotte ivi descritte hanno ad oggetto i prodotti previsti dal comma 1-bis del presente articolo, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, rispettivamente a 0,2 millilitri per i prodotti contenenti nicotina e a un millilitro per i prodotti non contenenti nicotina. 
  7-bis.3. Ai prodotti di cui al comma 1-bis si applicano, inoltre, le disposizioni di cui agli articoli 40-sexies, 44, 44-bis e 44-ter.
@@ -4242,13 +4242,13 @@ Con determinazione del direttore dell'Agenzia delle dogane e dei monopoli e' sta
 
 AGGIORNAMENTO (52)
 
-Il [D.Lgs. 15 dicembre 2014, n. 188 (con l'art. 2, comma 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md)) che l'efficacia delle presenti modifiche decorre dal 1° gennaio 2015.
+Il [D.Lgs. 15 dicembre 2014, n. 188 (con l'art. 2, comma 1](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md)) che l'efficacia delle presenti modifiche decorre dal 1° gennaio 2015.
 
 ---------------
 
 AGGIORNAMENTO (57)
 
-La Corte Costituzionale con sentenza 15 aprile - 15 maggio 2015 n. 83 (in G.U. 1a s.s 20/05/2015, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'[art. 62-quater del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md) (Testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative), nel testo originario, antecedente alle modifiche apportate dall'[art. 1, comma 1, lettera f), del decreto legislativo 15 dicembre 2014, n. 188](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) (Disposizioni in materia di tassazione dei tabacchi lavorati, dei loro succedanei, nonche' di fiammiferi, a norma dell'[articolo 13 della legge 11 marzo 2014, n. 23](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20recante%20disposizioni%20per%20un%20sistema%20fiscale%20piu%20equo%20trasparente%20e%20orientato%20alla%20crescita.%2014G00030.md)), nella parte in cui sottopone ad imposta di consumo, nella misura pari al 58,5 per cento del prezzo di vendita al pubblico, la commercializzazione dei prodotti non contenenti nicotina, idonei a sostituire il consumo dei tabacchi lavorati, nonche' i dispositivi meccanici ed elettronici, comprese le parti di ricambio, che ne consentono il consumo".
+La Corte Costituzionale con sentenza 15 aprile - 15 maggio 2015 n. 83 (in G.U. 1a s.s 20/05/2015, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'[art. 62-quater del decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md) (Testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative), nel testo originario, antecedente alle modifiche apportate dall'[art. 1, comma 1, lettera f), del decreto legislativo 15 dicembre 2014, n. 188](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20tassazione%20dei%20tabacchi%20lavorati%20dei%20loro%20succedanei%20nonche%20di%20fiammiferi%20a%20norma%20dellarticolo%2013%20della%20legge%2011%20marzo%202014%20n.%2023.%2014G00201.md) (Disposizioni in materia di tassazione dei tabacchi lavorati, dei loro succedanei, nonche' di fiammiferi, a norma dell'[articolo 13 della legge 11 marzo 2014, n. 23](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20recante%20disposizioni%20per%20un%20sistema%20fiscale%20piu%20equo%20trasparente%20e%20orientato%20alla%20crescita.%2014G00030.md)), nella parte in cui sottopone ad imposta di consumo, nella misura pari al 58,5 per cento del prezzo di vendita al pubblico, la commercializzazione dei prodotti non contenenti nicotina, idonei a sostituire il consumo dei tabacchi lavorati, nonche' i dispositivi meccanici ed elettronici, comprese le parti di ricambio, che ne consentono il consumo".
 
 ---------------
 
@@ -4272,7 +4272,7 @@ Il [D.L. 18 ottobre 2023, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 6, comma 5) che "Il termine di scadenza delle autorizzazioni alla vendita dei prodotti da inalazione senza combustione di cui all'articolo 62-quater, comma 1-bis, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), per i soggetti che gestiscono gli esercizi di vicinato, le farmacie e le parafarmacie di cui al medesimo articolo 62-quater, comma 5-bis, che risultano in corso di validita' alla data del 1° gennaio 2026, e' differito di due anni". 
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 6, comma 5) che "Il termine di scadenza delle autorizzazioni alla vendita dei prodotti da inalazione senza combustione di cui all'articolo 62-quater, comma 1-bis, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), per i soggetti che gestiscono gli esercizi di vicinato, le farmacie e le parafarmacie di cui al medesimo articolo 62-quater, comma 5-bis, che risultano in corso di validita' alla data del 1° gennaio 2026, e' differito di due anni". 
  Ha inoltre disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ------------
@@ -4285,7 +4285,7 @@ La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 1.
 
-I prodotti, diversi dai tabacchi lavorati sottoposti ad accisa, contenenti nicotina e preparati allo scopo di consentire, senza combustione e senza inalazione, l'assorbimento di tale sostanza da parte dell'organismo, anche mediante involucri funzionali al loro consumo, sono assoggettati ad imposta di consumo nella misura pari a 22 euro per chilogrammo, esclusi quelli autorizzati all'immissione in commercio come medicinali ai sensi del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md). Ai fini della determinazione dell'imposta di cui al presente comma si tiene conto anche del peso degli involucri, se presenti. (129)
+I prodotti, diversi dai tabacchi lavorati sottoposti ad accisa, contenenti nicotina e preparati allo scopo di consentire, senza combustione e senza inalazione, l'assorbimento di tale sostanza da parte dell'organismo, anche mediante involucri funzionali al loro consumo, sono assoggettati ad imposta di consumo nella misura pari a 22 euro per chilogrammo, esclusi quelli autorizzati all'immissione in commercio come medicinali ai sensi del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md). Ai fini della determinazione dell'imposta di cui al presente comma si tiene conto anche del peso degli involucri, se presenti. (129)
 
 2.
 
@@ -4301,15 +4301,15 @@ Sono obbligati al pagamento dell'imposta:
 
 3.
 
-Il soggetto che intende fabbricare i prodotti di cui al comma 1 e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui sono realizzati i prodotti di cui al comma 1. A tale fine il medesimo soggetto presenta alla medesima Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, il possesso dei requisiti stabiliti per la gestione dei depositi fiscali di tabacchi lavorati dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), l'ubicazione del deposito in cui si intende fabbricare i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al comma 1 che intende realizzare, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+Il soggetto che intende fabbricare i prodotti di cui al comma 1 e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui sono realizzati i prodotti di cui al comma 1. A tale fine il medesimo soggetto presenta alla medesima Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, il possesso dei requisiti stabiliti per la gestione dei depositi fiscali di tabacchi lavorati dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), l'ubicazione del deposito in cui si intende fabbricare i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al comma 1 che intende realizzare, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 4.
 
-Il rappresentante fiscale di cui al comma 2, lettera c), designato dal soggetto cedente i prodotti di cui al comma 1 provenienti da un altro Stato dell'Unione europea, e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine il medesimo rappresentante presenta alla medesima Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, il possesso dei requisiti stabiliti, per la gestione dei depositi fiscali di tabacchi lavorati, dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Paesi dell'Unione europea che saranno immessi in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'articolo 6 del codice di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+Il rappresentante fiscale di cui al comma 2, lettera c), designato dal soggetto cedente i prodotti di cui al comma 1 provenienti da un altro Stato dell'Unione europea, e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine il medesimo rappresentante presenta alla medesima Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, il possesso dei requisiti stabiliti, per la gestione dei depositi fiscali di tabacchi lavorati, dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Paesi dell'Unione europea che saranno immessi in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'articolo 6 del codice di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 4-bis.
 
-Il soggetto di cui al comma 2, lettera c-bis), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui sono introdotti i prodotti di cui al comma 1. A tale fine il medesimo soggetto presenta alla predetta Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, le generalita' del rappresentante legale, il possesso dei requisiti stabiliti, per la gestione dei depositi fiscali di tabacchi lavorati, dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), l'ubicazione del deposito in cui si intende ricevere i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Stati dell'Unione europea che saranno immessi in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del codice di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+Il soggetto di cui al comma 2, lettera c-bis), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui sono introdotti i prodotti di cui al comma 1. A tale fine il medesimo soggetto presenta alla predetta Agenzia un'istanza, in forma telematica, in cui sono indicati, oltre ai dati previsti dalla determinazione di cui al comma 16, le generalita' del rappresentante legale, il possesso dei requisiti stabiliti, per la gestione dei depositi fiscali di tabacchi lavorati, dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), l'ubicazione del deposito in cui si intende ricevere i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Stati dell'Unione europea che saranno immessi in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del codice di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 4-ter.
 
@@ -4380,7 +4380,7 @@ Nelle more dell'adozione della determinazione di cui al comma 13, agli esercizi 
 
 15.
 
-Le disposizioni degli articoli 84 e 85 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), si applicano ai prodotti di cui al comma 1 secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 10 grammi di prodotti di cui al comma 1 determinati al lordo del peso di eventuali involucri funzionali al consumo degli stessi prodotti. PERIODO SOPPRESSO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20nazionali%20complementari%20al%20codice%20doganale%20dellUnione%20e%20revisione%20del%20sistema%20sanzionatorio%20in%20materia%20di%20accise%20e%20altre%20imposte%20indirette%20sulla%20produzione%20e%20sui%20consumi.%2024G00156.md).
+Le disposizioni degli articoli 84 e 85 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), si applicano ai prodotti di cui al comma 1 secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 10 grammi di prodotti di cui al comma 1 determinati al lordo del peso di eventuali involucri funzionali al consumo degli stessi prodotti. PERIODO SOPPRESSO DAL [D.LGS. 26 SETTEMBRE 2024, N. 141](../Decreti%20Legislativi/Disposizioni%20nazionali%20complementari%20al%20codice%20doganale%20dellUnione%20e%20revisione%20del%20sistema%20sanzionatorio%20in%20materia%20di%20accise%20e%20altre%20imposte%20indirette%20sulla%20produzione%20e%20sui%20consumi.%2024G00156.md).
 
 15-bis.
 
@@ -4402,7 +4402,7 @@ Con determinazione del direttore dell'Agenzia delle dogane e dei monopoli sono s
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 6, comma 6) che "Il termine di scadenza delle autorizzazioni alla vendita dei prodotti contenenti nicotina di cui all'articolo 62-quater.1, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), per i soggetti che gestiscono gli esercizi di vicinato, le farmacie e le parafarmacie di cui al medesimo articolo 62-quater.1, comma 13, che risultano in corso di validita' alla data del 1° gennaio 2026, e' differito di due anni". 
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 6, comma 6) che "Il termine di scadenza delle autorizzazioni alla vendita dei prodotti contenenti nicotina di cui all'articolo 62-quater.1, comma 1, del testo unico di cui al [decreto legislativo n. 504 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;504), per i soggetti che gestiscono gli esercizi di vicinato, le farmacie e le parafarmacie di cui al medesimo articolo 62-quater.1, comma 13, che risultano in corso di validita' alla data del 1° gennaio 2026, e' differito di due anni". 
  Ha inoltre disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 62-quater.2. — (( (Prodotti da inalazione senza combustione costituiti da sostanze solide diverse dal tabacco). ))
@@ -4411,7 +4411,7 @@ Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvediment
 
 1.
 
-I prodotti da inalazione senza combustione, costituiti da sostanze solide diverse dal tabacco, contenenti o meno nicotina, con esclusione di quelli autorizzati all'immissione in commercio come medicinali ai sensi del [decreto legislativo 24 aprile 2006, n. 219](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), sono assoggettati a imposta di consumo nella stessa misura prevista dall'articolo 39-terdecies, comma 3, per i prodotti di cui all'articolo 39-bis, comma 1, lettera e-bis), nel rispetto del criterio di equivalenza ivi previsto. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma. Entro il 1° marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette.
+I prodotti da inalazione senza combustione, costituiti da sostanze solide diverse dal tabacco, contenenti o meno nicotina, con esclusione di quelli autorizzati all'immissione in commercio come medicinali ai sensi del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md), sono assoggettati a imposta di consumo nella stessa misura prevista dall'articolo 39-terdecies, comma 3, per i prodotti di cui all'articolo 39-bis, comma 1, lettera e-bis), nel rispetto del criterio di equivalenza ivi previsto. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma. Entro il 1° marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette.
 
 2.
 
@@ -4427,15 +4427,15 @@ Sono obbligati al pagamento dell'imposta di cui al comma 1:
 
 3.
 
-I soggetti di cui al comma 2, lettere a) e b), numero 1), sono preventivamente autorizzati dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui, rispettivamente, sono realizzati o introdotti i prodotti di cui al comma 1. A tal fine, i medesimi soggetti presentano all'Agenzia, esclusivamente in forma telematica, un'istanza in cui indicano, oltre ai propri dati identificativi, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), l'ubicazione del deposito in cui si intende fabbricare o introdurre i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al medesimo comma 1 che si intende realizzare o immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+I soggetti di cui al comma 2, lettere a) e b), numero 1), sono preventivamente autorizzati dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui, rispettivamente, sono realizzati o introdotti i prodotti di cui al comma 1. A tal fine, i medesimi soggetti presentano all'Agenzia, esclusivamente in forma telematica, un'istanza in cui indicano, oltre ai propri dati identificativi, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), l'ubicazione del deposito in cui si intende fabbricare o introdurre i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al medesimo comma 1 che si intende realizzare o immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 4.
 
-Il rappresentante fiscale di cui al comma 2, lettera b), numero 2), designato dal soggetto cedente di cui al medesimo comma 2, lettera b), numero 2), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine il medesimo rappresentante presenta all'Agenzia un'istanza, in forma telematica, in cui indica i propri dati identificativi e quelli del predetto soggetto cedente, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da altri Stati dell'Unione europea che si intende immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+Il rappresentante fiscale di cui al comma 2, lettera b), numero 2), designato dal soggetto cedente di cui al medesimo comma 2, lettera b), numero 2), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine il medesimo rappresentante presenta all'Agenzia un'istanza, in forma telematica, in cui indica i propri dati identificativi e quelli del predetto soggetto cedente, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da altri Stati dell'Unione europea che si intende immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 5.
 
-Il soggetto di cui al comma 2, lettera c), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine, il medesimo soggetto presenta all'Agenzia un'istanza, in forma telematica, in cui indica i propri dati identificativi, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Paesi terzi che si intende immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+Il soggetto di cui al comma 2, lettera c), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine, il medesimo soggetto presenta all'Agenzia un'istanza, in forma telematica, in cui indica i propri dati identificativi, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al [decreto del Ministro delle finanze 22 febbraio 1999, n. 67](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20concernenti%20listituzione%20ed%20il%20regime%20dei%20depositi%20fiscali%20e%20la%20circolazione%20nonche%20le%20attivita%20di%20accertamento%20e%20di%20controllo%20delle%20imposte%20riguardanti%20i%20tabacchi%20lavorati.md), la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Paesi terzi che si intende immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'[articolo 6 del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 6.
 
@@ -4471,7 +4471,7 @@ L'immissione in consumo per i prodotti di cui al comma 1 si verifica:
 
 13.
 
-Per i prodotti di cui al comma 1 si applicano, per la presentazione e la vendita, i requisiti di cui all'[articolo 21, comma 6, lettera c), del decreto legislativo 12 gennaio 2016, n. 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%202014-40-UE%20sul%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20relative%20alla%20lavorazione%20alla%20presentazione%20e%20a_5be78dc55be7.md), nonche' le disposizioni di cui ai commi 9 e 10 dell'articolo 21 del medesimo decreto; trovano altresi' applicazione, per la riduzione dell'offerta e la tutela dei minori, le disposizioni di cui all'articolo 24 del medesimo decreto legislativo. La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza dell'Agenzia delle dogane e dei monopoli ai sensi delle disposizioni di cui all'articolo 18, per quanto applicabili.
+Per i prodotti di cui al comma 1 si applicano, per la presentazione e la vendita, i requisiti di cui all'[articolo 21, comma 6, lettera c), del decreto legislativo 12 gennaio 2016, n. 6](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%202014-40-UE%20sul%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20relative%20alla%20lavorazione%20alla%20presentazione%20e%20a_5be78dc55be7.md), nonche' le disposizioni di cui ai commi 9 e 10 dell'articolo 21 del medesimo decreto; trovano altresi' applicazione, per la riduzione dell'offerta e la tutela dei minori, le disposizioni di cui all'articolo 24 del medesimo decreto legislativo. La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza dell'Agenzia delle dogane e dei monopoli ai sensi delle disposizioni di cui all'articolo 18, per quanto applicabili.
 
 14.
 
@@ -4537,7 +4537,7 @@ E' vietata la vendita a distanza, anche transfrontaliera, di prodotti di cui al 
 
 7.
 
-Le disposizioni previste dagli articoli 84 e 85 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), si applicano anche ai prodotti di cui al comma 1 secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 5 grammi di prodotti di cui al comma 1.
+Le disposizioni previste dagli articoli 84 e 85 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli [articoli 11](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [20, commi 2](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [3, della legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), si applicano anche ai prodotti di cui al comma 1 secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 5 grammi di prodotti di cui al comma 1.
 
 7-bis.
 
@@ -4620,7 +4620,7 @@ La licenza annuale per la vendita di liquori o bevande alcoliche di cui all'[art
 
 AGGIORNAMENTO (129)
 
-Il [D.Lgs. 28 marzo 2025, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
+Il [D.Lgs. 28 marzo 2025, n. 43](../Decreti%20Legislativi/Revisione%20delle%20disposizioni%20in%20materia%20di%20accise.%2025G00052.md), ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
 ### Art. 65. — (Art. 34 D.L. n. 331/1993)
  Adeguamenti alla normativa comunitaria
@@ -4705,9 +4705,9 @@ Sono abrogati i provvedimenti legislativi e le norme incompatibili con le dispos
                             g)
                                 il [regio decreto-legge 28 febbraio 1939, n. 334](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20unimposta%20di%20fabbricazione%20sugli%20oli%20minerali%20e%20sui%20prodotti%20della%20loro%20lavorazione%20in%20sostituzione%20della%20preesistente%20tassa%20di%20vendita.%20039U0334.md), convertito dalla [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md), concernente l'istituzione di una imposta di fabbricazione sugli ((prodotti energetici)) e sui prodotti della loro lavorazione, e successive modificazioni;
                             h)
-                                il [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), contenente, fra l'altro, modificazioni al regime fiscale degli spiriti, all'imposta di consumo sull'energia elettrica, e successive modificazioni;
+                                il [decreto legislativo luogotenenziale 26 aprile 1945, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20del%20regime%20fiscale%20degli%20spiriti%20dello%20zucchero%20ed%20altri%20prodotti%20zuccherini%20della%20birra%20dei%20surrogati%20del%20caffe%20degli%20oli%20di%20semi%20degli%20organi%20illuminanti%20dellenergia%20e%20del_a3ef7ce4630f.md), contenente, fra l'altro, modificazioni al regime fiscale degli spiriti, all'imposta di consumo sull'energia elettrica, e successive modificazioni;
                             i)
-                                il [decreto legislativo del Capo provvisorio dello Stato 11 aprile 1947, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-11;226), e le successive modificazioni di cui al [decreto-legge 6 ottobre 1948, n. 1199](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20imposta%20sul%20consumo%20dellenergia%20elettrica.md), convertito dalla [legge 3 dicembre 1948, n. 1387](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20ottobre%201948%20n.%201199%20concernente%20modificazioni%20alla%20imposta%20erariale%20sul%20consumo%20dellenergia%20elettrica.md), alla [legge 31 ottobre 1966, n. 940](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20imposta%20erariale%20sul%20consumo%20della%20energia%20elettrica.md), al [decreto-legge 30 agosto 1968, n. 918](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimenti%20nei%20settori%20dellindustria%20del%20commercio%20e%20dellartigianato.md), convertito, con modificazioni, dalla [legge 25 ottobre 1968, n. 1089](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201968%20n.%20918%20recante%20provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimen_7cf466023fc0.md), alla [legge 17 luglio 1975, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-17;391), alla [legge 27 aprile 1981, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-27;160), al [decreto-legge 30 maggio 1988, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-30;173), convertito, con modificazioni, dalla [legge 26 luglio 1988, n. 291](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201988%20n.%20173%20recante%20misure%20urgenti%20in%20materia%20di%20finanza%20pubblica%20per%20lanno%201988.%20Delega%20al%20Governo%20per%20la%20revisione%20del_da4733c10759.md), al [decreto-legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20151%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20pubblica.md), concernenti modificazioni all'imposta sul consumo dell'energia elettrica;
+                                il [decreto legislativo del Capo provvisorio dello Stato 11 aprile 1947, n. 226](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-11;226), e le successive modificazioni di cui al [decreto-legge 6 ottobre 1948, n. 1199](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20imposta%20sul%20consumo%20dellenergia%20elettrica.md), convertito dalla [legge 3 dicembre 1948, n. 1387](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%206%20ottobre%201948%20n.%201199%20concernente%20modificazioni%20alla%20imposta%20erariale%20sul%20consumo%20dellenergia%20elettrica.md), alla [legge 31 ottobre 1966, n. 940](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20imposta%20erariale%20sul%20consumo%20della%20energia%20elettrica.md), al [decreto-legge 30 agosto 1968, n. 918](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimenti%20nei%20settori%20dellindustria%20del%20commercio%20e%20dellartigianato.md), convertito, con modificazioni, dalla [legge 25 ottobre 1968, n. 1089](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20agosto%201968%20n.%20918%20recante%20provvidenze%20creditizie%20agevolazioni%20fiscali%20e%20sgravio%20di%20oneri%20sociali%20per%20favorire%20nuovi%20investimen_7cf466023fc0.md), alla [legge 17 luglio 1975, n. 391](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-17;391), alla [legge 27 aprile 1981, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-27;160), al [decreto-legge 30 maggio 1988, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-05-30;173), convertito, con modificazioni, dalla [legge 26 luglio 1988, n. 291](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20maggio%201988%20n.%20173%20recante%20misure%20urgenti%20in%20materia%20di%20finanza%20pubblica%20per%20lanno%201988.%20Delega%20al%20Governo%20per%20la%20revisione%20del_da4733c10759.md), al [decreto-legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20151%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20pubblica.md), concernenti modificazioni all'imposta sul consumo dell'energia elettrica;
                             l)
                                 il [decreto-legge 24 novembre 1954, n. 1071](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20di%20fabbricazione%20sui%20gas%20incondensabili%20delle%20raffinerie%20di%20prodotti%20petroliferi%20resi%20liquidi%20con%20la%20compressione.md), convertito dalla [legge 10 dicembre 1954, n. 1167](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2024%20novembre%201954%20n.%201071%20concernente%20listituzione%20di%20una%20imposta%20di%20fabbricazione%20sui%20gas%20incondensabili%20delle%20raffinerie%20di%20prodotti%20petroliferi%20re_8ac815ddfb20.md) e [legge 11 giugno 1959, n. 405](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20dellimposta%20di%20fabbricazione%20sui%20gas%20di%20petrolio%20liquefatti.md), concernenti l'istituzione di una imposta di fabbricazione sui gas incondensabili delle raffinerie resi liquidi con la compressione;
                             m)
