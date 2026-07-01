@@ -22,7 +22,7 @@ Il [decreto-legge 10 febbraio 2009, n. 5](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [comma 3 dell'articolo 2 del decreto-legge 10 febbraio 2009, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-02-10;5#art_2-com3), nonche' del [decreto-legge 5 febbraio 2009, n. 4](../DL%20decaduti/Misure%20urgenti%20in%20materia%20di%20produzione%20lattiera%20e%20rateizzazione%20del%20debito%20nel%20settore%20lattiero-caseario.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [comma 3 dell'articolo 2 del decreto-legge 10 febbraio 2009, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-02-10;5#art_2-com3), nonche' del [decreto-legge 5 febbraio 2009, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20produzione%20lattiera%20e%20rateizzazione%20del%20debito%20nel%20settore%20lattiero-caseario.md).
 
 3.
 

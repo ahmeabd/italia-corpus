@@ -26,7 +26,7 @@ Il [decreto-legge 28 gennaio 1986, n. 9](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 15 novembre 1985, n. 626](../DL%20decaduti/Interpretazione%20autentica%20del%20quarto%20comma%20dellarticolo%204%20della%20legge%2011%20luglio%201980%20n.%20312.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 15 novembre 1985, n. 626](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interpretazione%20autentica%20del%20quarto%20comma%20dellarticolo%204%20della%20legge%2011%20luglio%201980%20n.%20312.md).
 
 AVVERTENZA:
 

@@ -24,7 +24,7 @@ E' convertito in legge il [decreto-legge 25 marzo 1993, n. 79](https://www.norma
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 novembre 1992, n. 452, e 23 gennaio 1993, n. 15](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20settore%20dellelettronica_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 novembre 1992, n. 452, e 23 gennaio 1993, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20settore%20dellelettronica_2.md).
 
 ((SAVONA, Ministro dell' industria, del commercio e dell'artigianato))
 

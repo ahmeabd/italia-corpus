@@ -22,7 +22,7 @@ Il [decreto-legge 22 settembre 2008, n. 147](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 29 settembre 2008, n. 150](../DL%20decaduti/Proroga%20della%20partecipazione%20italiana%20a%20missioni%20internazionali%20per%20lanno%202008.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 29 settembre 2008, n. 150](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20partecipazione%20italiana%20a%20missioni%20internazionali%20per%20lanno%202008.md).
 
 3.
 

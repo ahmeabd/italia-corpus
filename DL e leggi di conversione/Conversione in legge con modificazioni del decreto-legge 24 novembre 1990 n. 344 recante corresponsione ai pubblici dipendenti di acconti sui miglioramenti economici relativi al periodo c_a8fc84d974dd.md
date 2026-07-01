@@ -22,7 +22,7 @@ Il decreto-legge 24 novermbre 1990, n. 344, recante corresponsione ai pubblici d
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 26 marzo 1990, n. 60, 25 maggio 1990, n. 123, 24 luglio 1990, n. 200, e 22 settembre 1990, n. 264](../DL%20decaduti/Corresponsione%20ai%20pubblici%20dipendenti%20di%20acconti%20sui%20miglioramenti%20economici%20relativi%20al%20periodo%20contrattuale%201988-1990%20nonche%20disposizioni%20urgenti%20in%20materia%20di%20pubblico%20impiego_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 26 marzo 1990, n. 60, 25 maggio 1990, n. 123, 24 luglio 1990, n. 200, e 22 settembre 1990, n. 264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Corresponsione%20ai%20pubblici%20dipendenti%20di%20acconti%20sui%20miglioramenti%20economici%20relativi%20al%20periodo%20contrattuale%201988-1990%20nonche%20disposizioni%20urgenti%20in%20materia%20di%20pubblico%20impiego_4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

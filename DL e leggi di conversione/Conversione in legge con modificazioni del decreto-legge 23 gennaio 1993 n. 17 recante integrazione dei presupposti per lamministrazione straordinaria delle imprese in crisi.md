@@ -22,7 +22,7 @@ Il [decreto-legge 23 gennaio 1993, n. 17](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 24 novembre 1992, n. 457](../DL%20decaduti/Integrazione%20dei%20presupposti%20per%20lamministrazione%20straordinaria%20delle%20imprese%20in%20crisi.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 24 novembre 1992, n. 457](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazione%20dei%20presupposti%20per%20lamministrazione%20straordinaria%20delle%20imprese%20in%20crisi.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

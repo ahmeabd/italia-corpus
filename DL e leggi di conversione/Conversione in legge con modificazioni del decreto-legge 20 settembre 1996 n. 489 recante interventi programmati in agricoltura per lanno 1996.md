@@ -22,7 +22,7 @@ Il [decreto-legge 20 settembre 1996, n. 489](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 22 luglio 1996, n. 386](../DL%20decaduti/Interventi%20programmati%20in%20agricoltura%20per%20lanno%201996.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 22 luglio 1996, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20programmati%20in%20agricoltura%20per%20lanno%201996.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

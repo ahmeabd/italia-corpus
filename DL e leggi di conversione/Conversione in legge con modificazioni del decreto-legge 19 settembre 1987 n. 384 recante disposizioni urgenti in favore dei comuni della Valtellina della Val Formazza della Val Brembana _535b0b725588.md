@@ -103,7 +103,7 @@ Alla liquidazione del contributo provvede la regione Lombardia, previo accertame
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 20 luglio 1987, n. 293](../DL%20decaduti/Disposizioni%20urgenti%20per%20fronteggiare%20lemergenza%20causata%20dalle%20eccezionali%20avversita%20atmosferiche%20del%20luglio%201987.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 20 luglio 1987, n. 293](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20fronteggiare%20lemergenza%20causata%20dalle%20eccezionali%20avversita%20atmosferiche%20del%20luglio%201987.md).
 
 3.
 

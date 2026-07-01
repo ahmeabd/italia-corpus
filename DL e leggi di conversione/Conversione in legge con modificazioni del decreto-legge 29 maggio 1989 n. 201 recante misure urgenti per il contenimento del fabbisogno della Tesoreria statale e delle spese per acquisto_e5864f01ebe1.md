@@ -22,7 +22,7 @@ Il [decreto-legge 29 maggio 1989, n. 201](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 28 marzo 1989, n. 113](../DL%20decaduti/Misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto%20di%20beni%20e%20servizi.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 28 marzo 1989, n. 113](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20della%20Tesoreria%20statale%20e%20delle%20spese%20per%20acquisto%20di%20beni%20e%20servizi.md).
 
 AVVERTENZA:
  Il [decreto-legge 29 maggio 1989, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-05-29;201), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 124 del 30 maggio 1989.

@@ -27,7 +27,7 @@ Il [decreto-legge 19 settembre 1987, n. 382](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 marzo 1987, n. 97, 19 maggio 1987, n. 193, e 20 luglio 1987, n. 286](../DL%20decaduti/Misure%20necessarie%20per%20il%20ripiano%20dei%20bilanci%20delle%20unita%20sanitarie%20locali%20e%20di%20altri%20enti%20che%20erogano%20assistenza%20sanitaria%20per%20gli%20anni%201985%20e%201986%20e%20per%20il%20ripianamento%20dei%20debiti%20degli%20_c26d4d2da305_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 marzo 1987, n. 97, 19 maggio 1987, n. 193, e 20 luglio 1987, n. 286](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20necessarie%20per%20il%20ripiano%20dei%20bilanci%20delle%20unita%20sanitarie%20locali%20e%20di%20altri%20enti%20che%20erogano%20assistenza%20sanitaria%20per%20gli%20anni%201985%20e%201986%20e%20per%20il%20ripianamento%20dei%20debiti%20degli%20_c26d4d2da305_3.md).
 
 3.
 

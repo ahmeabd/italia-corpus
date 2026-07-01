@@ -22,7 +22,7 @@ Il [decreto-legge 16 marzo 1991, n. 83](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano salvi gli effetti dell'[articolo 8, comma 6, del decreto- legge 14 gennaio 1991, n. 7](../DL%20decaduti/Modifiche%20al%20decreto-legge%2010%20luglio%201982%20n.%20429%20convertito%20con%20modificazioni%20dalla%20legge%207%20agosto%201982%20n.%20516%20in%20materia%20di%20repressione%20delle%20violazioni%20tributarie%20e%20disposizioni%20per%20def_2c310346428c.md), e dell'[articolo 8, comma 6, del decreto- legge 16 marzo 1991, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-16;83#art_8-com6).
+Restano salvi gli effetti dell'[articolo 8, comma 6, del decreto- legge 14 gennaio 1991, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto-legge%2010%20luglio%201982%20n.%20429%20convertito%20con%20modificazioni%20dalla%20legge%207%20agosto%201982%20n.%20516%20in%20materia%20di%20repressione%20delle%20violazioni%20tributarie%20e%20disposizioni%20per%20def_2c310346428c.md), e dell'[articolo 8, comma 6, del decreto- legge 16 marzo 1991, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-16;83#art_8-com6).
 
 AVVERTENZA:
  Il [decreto-legge 16 marzo 1991, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-16;83), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 64 del 16 marzo 1991.

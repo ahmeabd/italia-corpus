@@ -22,7 +22,7 @@ Il [decreto-legge 29 novembre 1993, n. 480](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 27 settembre 1993, n. 381](../DL%20decaduti/Modifica%20dellarticolo%2010%20comma%203%20della%20legge%204%20maggio%201990%20n.%20107%20concernente%20disciplina%20per%20le%20attivita%20trasfusionali%20relative%20al%20sangue%20umano%20ed%20ai%20suoi%20componenti%20e%20per%20la%20produzione%20d_0d704cf7887b.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 27 settembre 1993, n. 381](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20dellarticolo%2010%20comma%203%20della%20legge%204%20maggio%201990%20n.%20107%20concernente%20disciplina%20per%20le%20attivita%20trasfusionali%20relative%20al%20sangue%20umano%20ed%20ai%20suoi%20componenti%20e%20per%20la%20produzione%20d_0d704cf7887b.md).
 
 AVVERTENZA:
  Il [decreto-legge 29 novembre 1993, n. 480](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-29;480), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 280 del 29 novembre 1993.

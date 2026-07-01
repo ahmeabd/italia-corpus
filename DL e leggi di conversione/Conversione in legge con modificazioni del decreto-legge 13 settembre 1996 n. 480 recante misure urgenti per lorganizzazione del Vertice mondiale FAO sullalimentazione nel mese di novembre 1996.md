@@ -22,7 +22,7 @@ Il [decreto-legge 13 settembre 1996, n. 480](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 marzo 1996, n. 101, e 29 aprile 1996, n. 238](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20allo%20sviluppo_2.md), recanti disposizioni urgenti in materia di cooperazione allo sviluppo.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 marzo 1996, n. 101, e 29 aprile 1996, n. 238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20cooperazione%20allo%20sviluppo_2.md), recanti disposizioni urgenti in materia di cooperazione allo sviluppo.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

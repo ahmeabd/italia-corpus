@@ -22,7 +22,7 @@ Il [decreto-legge 27 ottobre 1995, n. 444](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 marzo 1995, n. 61, 29 aprile 1995, n. 138, 28 giugno 1995, n. 255, e 28 agosto 1995, n. 357](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 marzo 1995, n. 61, 29 aprile 1995, n. 138, 28 giugno 1995, n. 255, e 28 agosto 1995, n. 357](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale_2.md).
 
 3.
 

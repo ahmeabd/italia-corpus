@@ -22,7 +22,7 @@ Il [decreto-legge 19 dicembre 1992, n. 487](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 luglio 1992, n. 340, 14 agosto 1992, n. 362, e 20 ottobre 1992, n. 414](../DL%20decaduti/Soppressione%20dellEnte%20partecipazioni%20e%20finanziamento%20industria%20manifatturiera%20-%20EFIM_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 luglio 1992, n. 340, 14 agosto 1992, n. 362, e 20 ottobre 1992, n. 414](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20dellEnte%20partecipazioni%20e%20finanziamento%20industria%20manifatturiera%20-%20EFIM_3.md).
 
 La presente legge, munita del sigillo dello Stato sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

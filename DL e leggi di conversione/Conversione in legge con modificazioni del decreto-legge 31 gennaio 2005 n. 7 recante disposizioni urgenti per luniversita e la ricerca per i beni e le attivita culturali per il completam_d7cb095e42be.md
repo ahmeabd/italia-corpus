@@ -22,7 +22,7 @@ Il [decreto-legge 31 gennaio 2005, n. 7](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi, i diritti maturati ed i rapporti giuridici sorti sulla base dell'[articolo 4, comma 1, del decreto-legge 29 novembre 2004, n. 280](../DL%20decaduti/Interventi%20urgenti%20per%20fronteggiare%20la%20crisi%20di%20settori%20economici%20e%20per%20assicurare%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi, i diritti maturati ed i rapporti giuridici sorti sulla base dell'[articolo 4, comma 1, del decreto-legge 29 novembre 2004, n. 280](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20fronteggiare%20la%20crisi%20di%20settori%20economici%20e%20per%20assicurare%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione.md).
 
 3.
 

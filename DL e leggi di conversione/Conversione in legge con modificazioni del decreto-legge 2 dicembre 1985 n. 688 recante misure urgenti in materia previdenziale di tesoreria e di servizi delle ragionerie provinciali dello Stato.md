@@ -73,7 +73,7 @@ AVVERTENZA:
 
 1.
 
-Sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 luglio 1985, n. 356, 20 settembre 1985, n. 477 e 20 novembre 1985, n. 649](../DL%20decaduti/Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20e%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20nonche%20misure%20in%20materia%20previdenziale%20e%20di%20tesoreria.md), non convertiti in legge.
+Sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 luglio 1985, n. 356, 20 settembre 1985, n. 477 e 20 novembre 1985, n. 649](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20e%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20nonche%20misure%20in%20materia%20previdenziale%20e%20di%20tesoreria.md), non convertiti in legge.
 
 2.
 

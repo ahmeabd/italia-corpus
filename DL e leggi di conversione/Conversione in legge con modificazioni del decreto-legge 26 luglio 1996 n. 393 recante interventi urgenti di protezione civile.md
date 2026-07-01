@@ -22,7 +22,7 @@ Il [decreto-legge 26 luglio 1996, n. 393](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici e di lavoro sorti sulla base dei [decreti-legge 25 marzo 1996, n. 162, e 27 maggio 1996, n. 292](../DL%20decaduti/Interventi%20urgenti%20di%20protezione%20civile_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici e di lavoro sorti sulla base dei [decreti-legge 25 marzo 1996, n. 162, e 27 maggio 1996, n. 292](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20di%20protezione%20civile_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

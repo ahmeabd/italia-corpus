@@ -30,7 +30,7 @@ Il [decreto-legge 31 agosto 1987, n. 364](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 maggio 1987, n. 170, e 3 luglio 1987, n. 259](../DL%20decaduti/Misure%20urgenti%20per%20il%20rifinanziamento%20delle%20iniziative%20di%20risparmio%20energetico%20di%20cui%20alla%20legge%2029%20maggio%201982%20n.%20308%20e%20del%20programma%20generale%20di%20metanizzazione%20del%20Mezzogiorno%20di%20cui%20al_7060bd2c10cd_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 maggio 1987, n. 170, e 3 luglio 1987, n. 259](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20rifinanziamento%20delle%20iniziative%20di%20risparmio%20energetico%20di%20cui%20alla%20legge%2029%20maggio%201982%20n.%20308%20e%20del%20programma%20generale%20di%20metanizzazione%20del%20Mezzogiorno%20di%20cui%20al_7060bd2c10cd_2.md).
 
 3.
 

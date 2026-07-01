@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 17 maggio 1996, n. 278](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 20 marzo 1996, n. 145](../DL%20decaduti/Contributi%20dellItalia%20a%20banche%20fondi%20ed%20organismi%20internazionali.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 20 marzo 1996, n. 145](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contributi%20dellItalia%20a%20banche%20fondi%20ed%20organismi%20internazionali.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

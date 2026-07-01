@@ -22,7 +22,7 @@ Il [decreto-legge 29 marzo 1995, n. 97](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 agosto 1993, n. 273, 2 ottobre 1993, n. 394, 4 dicembre 1993, n. 495, 2 febbraio 1994, n. 80, 31 marzo 1994, n. 219, 31 maggio 1994, n. 329, 30 luglio 1994, n. 477, 30 settembre 1994, n. 562, 30 novembre 1994, n. 661, e 31 gennaio 1995, n. 29](../DL%20decaduti/Riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport_10.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 agosto 1993, n. 273, 2 ottobre 1993, n. 394, 4 dicembre 1993, n. 495, 2 febbraio 1994, n. 80, 31 marzo 1994, n. 219, 31 maggio 1994, n. 329, 30 luglio 1994, n. 477, 30 settembre 1994, n. 562, 30 novembre 1994, n. 661, e 31 gennaio 1995, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport_10.md).
 
 AVVERTENZA:
  Il [decreto-legge 29 marzo 1995, n. 97](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-03-29;97), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 77 del 1 aprile 1995.

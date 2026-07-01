@@ -42,7 +42,7 @@ Il [decreto-legge 3 maggio 1988, n. 140](https://www.normattiva.it/uri-res/N2Ls?
 2.
 
 Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 3 giugno 1987, n. 215, 31 luglio 1987, n. 321, 1° ottobre 1987, n. 405, 3 dicembre 1987, n. 491, e 1° febbraio 1988, n. 
-20](../DL%20decaduti/Misure%20urgenti%20per%20il%20personale%20della%20scuola_5.md), senza soluzione di continuita' sino alla data di entrata in vigore del decreto-legge di cui al comma 1.
+20](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20personale%20della%20scuola_5.md), senza soluzione di continuita' sino alla data di entrata in vigore del decreto-legge di cui al comma 1.
 
 3.
 
