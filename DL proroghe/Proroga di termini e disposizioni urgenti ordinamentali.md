@@ -341,7 +341,7 @@ Il termine di cui all'[articolo 5, comma 4, della legge 28 ottobre 1999, n. 410]
 
 1.
 
-I termini di cui all'[articolo 62, comma 11, del decreto legislativo 11 maggio 1999, n. 152](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), relativi agli scarichi esistenti, ancorche' non autorizzati, sono differiti fino ad un anno a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto. ((3))
+I termini di cui all'[articolo 62, comma 11, del decreto legislativo 11 maggio 1999, n. 152](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), relativi agli scarichi esistenti, ancorche' non autorizzati, sono differiti fino ad un anno a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto. ((3))
 
 ---------------
 
