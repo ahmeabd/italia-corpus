@@ -22,7 +22,7 @@ Il [decreto-legge 28 giugno 1990, n. 167](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 27 aprile 1990, n. 91](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rilevazione%20a%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 27 aprile 1990, n. 91](../DL%20decaduti/Rilevazione%20a%20fini%20fiscali%20di%20taluni%20trasferimenti%20da%20e%20per%20lestero%20di%20denaro%20titoli%20e%20valori.md).
 
 AVVERTENZA:
  Il [decreto-legge 28 giugno 1990, n. 167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-06-28;167), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 151 del 30 giugno 1990.

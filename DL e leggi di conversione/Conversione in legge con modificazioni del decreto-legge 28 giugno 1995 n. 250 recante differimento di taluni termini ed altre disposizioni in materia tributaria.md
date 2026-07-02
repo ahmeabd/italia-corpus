@@ -22,7 +22,7 @@ Il [decreto-legge 28 giugno 1995, n. 250](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 dicembre 1994, n.719, 25 febbraio 1995, n. 48, e 29 aprile 1995, n. 132](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20di%20taluni%20termini%20ed%20altre%20disposizioni%20in%20materia%20tributaria_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 dicembre 1994, n.719, 25 febbraio 1995, n. 48, e 29 aprile 1995, n. 132](../DL%20decaduti/Differimento%20di%20taluni%20termini%20ed%20altre%20disposizioni%20in%20materia%20tributaria_3.md).
  AVVERTENZA:
  Il [decreto-legge 28 giugno 1995, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-28;250), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 150 del 29 giugno 1995.
  A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.

@@ -32,7 +32,7 @@ AVVERTENZA:
 
 1.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 novembre 1985, n. 594, e 30 dicembre 1985, n. 785](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20pubblico%20impiego.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 novembre 1985, n. 594, e 30 dicembre 1985, n. 785](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20pubblico%20impiego.md).
 
 2.
 

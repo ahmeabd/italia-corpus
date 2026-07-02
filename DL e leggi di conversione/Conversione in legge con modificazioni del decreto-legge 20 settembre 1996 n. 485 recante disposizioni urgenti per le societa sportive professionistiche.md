@@ -22,7 +22,7 @@ Il [decreto-legge 20 settembre 1996, n. 485](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 17 maggio 1996, n. 272, e 22 luglio 1996, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20le%20societa%20sportive%20professionistiche.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 17 maggio 1996, n. 272, e 22 luglio 1996, n. 383](../DL%20decaduti/Disposizioni%20urgenti%20per%20le%20societa%20sportive%20professionistiche.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

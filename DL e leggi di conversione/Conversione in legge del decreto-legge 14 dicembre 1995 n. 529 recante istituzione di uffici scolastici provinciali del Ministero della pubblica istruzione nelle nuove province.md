@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 14 dicembre 1995, n. 529](https://www.n
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 agosto 1995, n. 346, e 18 ottobre 1995, n. 428](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20uffici%20scolastici%20provinciali%20del%20Ministero%20della%20pubblica%20istruzione%20nelle%20nuove%20province_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 agosto 1995, n. 346, e 18 ottobre 1995, n. 428](../DL%20decaduti/Istituzione%20di%20uffici%20scolastici%20provinciali%20del%20Ministero%20della%20pubblica%20istruzione%20nelle%20nuove%20province_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

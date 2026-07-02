@@ -29,7 +29,7 @@ E' convertito in legge il [decreto-legge 28 febbraio 1981, n. 36](https://www.no
 
 ## Art. 2.
 
-Sono validi gli atti e i provvedimenti adottati, anche ai fini degli atti e dei provvedimenti ad essi conseguenti, ed hanno efficacia i rapporti giuridici sorti sulla base del [decreto-legge 22 dicembre 1980, n. 898](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20fino%20al%2031%20dicembre%201981%20delle%20disposizioni%20riguardanti%20il%20Mezzogiorno%20nonche%20proroga%20della%20scadenza%20del%20termine%20di%20applicazione%20di%20alcune%20agevolazioni%20fiscali%20e%20di%20quello%20riguard_f47bb34a8afd.md).
+Sono validi gli atti e i provvedimenti adottati, anche ai fini degli atti e dei provvedimenti ad essi conseguenti, ed hanno efficacia i rapporti giuridici sorti sulla base del [decreto-legge 22 dicembre 1980, n. 898](../DL%20decaduti/Proroga%20fino%20al%2031%20dicembre%201981%20delle%20disposizioni%20riguardanti%20il%20Mezzogiorno%20nonche%20proroga%20della%20scadenza%20del%20termine%20di%20applicazione%20di%20alcune%20agevolazioni%20fiscali%20e%20di%20quello%20riguard_f47bb34a8afd.md).
  Le disposizioni di cui all'[articolo 1 del decreto-legge 28 febbraio 1981, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-02-28;36#art_1), hanno effetto dal 1 gennaio 1981.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

@@ -23,7 +23,7 @@ Il [decreto-legge 8 febbraio 1988, n. 25](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 9 dicembre 1987, n. 495](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interpretazione%20autentica%20degli%20articoli%2010%20e%2011%20della%20legge%2018%20dicembre%201973%20n.%20854%20e%20dellarticolo%201%20della%20legge%2011%20febbraio%201980%20n.%2018%20in%20materia%20di%20assistenza%20ai%20sordomuti%20ed%20ai%20mutila_9e3df3ab84d6.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 9 dicembre 1987, n. 495](../DL%20decaduti/Interpretazione%20autentica%20degli%20articoli%2010%20e%2011%20della%20legge%2018%20dicembre%201973%20n.%20854%20e%20dellarticolo%201%20della%20legge%2011%20febbraio%201980%20n.%2018%20in%20materia%20di%20assistenza%20ai%20sordomuti%20ed%20ai%20mutila_9e3df3ab84d6.md).
 
 3.
 

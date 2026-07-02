@@ -22,7 +22,7 @@ Il [decreto-legge 23 maggio 1994, n. 307](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 24 luglio 1993, n. 252, 24 settembre 1993, n. 376, 26 novembre 1993, n. 474, 25 gennaio 1994, n. 57, e 23 marzo 1994, n. 192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20lestinzione%20dei%20crediti%20dimposta%20sui%20redditi%20e%20modalita%20per%20la%20determinazione%20dei%20tassi%20di%20interesse%20relativi%20ai%20rapporti%20di%20credito%20e%20debito%20dello%20Stato_5.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 24 luglio 1993, n. 252, 24 settembre 1993, n. 376, 26 novembre 1993, n. 474, 25 gennaio 1994, n. 57, e 23 marzo 1994, n. 192](../DL%20decaduti/Disposizioni%20concernenti%20lestinzione%20dei%20crediti%20dimposta%20sui%20redditi%20e%20modalita%20per%20la%20determinazione%20dei%20tassi%20di%20interesse%20relativi%20ai%20rapporti%20di%20credito%20e%20debito%20dello%20Stato_5.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

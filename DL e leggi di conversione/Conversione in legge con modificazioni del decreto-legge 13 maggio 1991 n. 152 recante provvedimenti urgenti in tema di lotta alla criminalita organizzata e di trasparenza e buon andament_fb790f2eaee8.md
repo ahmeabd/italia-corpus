@@ -22,7 +22,7 @@ Il [decreto-legge 13 maggio 1991, n. 152](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 novembre 1990, n. 324, 12 gennaio 1991, n. 5, e 13 marzo 1991, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andamento%20dellattivita%20amministrativa_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 novembre 1990, n. 324, 12 gennaio 1991, n. 5, e 13 marzo 1991, n. 76](../DL%20decaduti/Provvedimenti%20urgenti%20in%20tema%20di%20lotta%20alla%20criminalita%20organizzata%20e%20di%20trasparenza%20e%20buon%20andamento%20dellattivita%20amministrativa_3.md).
 
 AVVERTENZA:
  Il [decreto-legge 13 maggio 1991, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;152), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 110 del 13 maggio 1991.

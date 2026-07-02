@@ -24,7 +24,7 @@ Il [decreto-legge 1 ottobre 1993, n. 391](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 2 agosto 1993, n. 265](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20in%20materia%20di%20prevenzione%20e%20rimozione%20dei%20fenomeni%20di%20dispersione%20scolastica.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 2 agosto 1993, n. 265](../DL%20decaduti/Interventi%20urgenti%20in%20materia%20di%20prevenzione%20e%20rimozione%20dei%20fenomeni%20di%20dispersione%20scolastica.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

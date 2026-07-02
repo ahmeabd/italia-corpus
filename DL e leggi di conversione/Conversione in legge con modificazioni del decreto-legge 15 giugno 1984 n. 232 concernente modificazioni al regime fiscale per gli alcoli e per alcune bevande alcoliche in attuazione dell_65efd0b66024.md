@@ -57,7 +57,7 @@ Le situazioni conseguenti agli aumenti dell'imposta di fabbricazione sullo spiri
 
 ## Art. 3.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dall'applicazione delle disposizioni del [decreto-legge 17 aprile 1984, n. 72](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regime%20fiscale%20per%20gli%20alcoli%20e%20per%20alcune%20bevande%20alcoliche%20in%20attuazione%20delle%20sentenze%2015%20luglio%201982%20e%2015%20marzo%201983%20emesse%20dalla%20Corte%20di%20giustizia%20delle%20Comunita%20eu_f2c2331bb1b8.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dall'applicazione delle disposizioni del [decreto-legge 17 aprile 1984, n. 72](../DL%20decaduti/Modificazioni%20al%20regime%20fiscale%20per%20gli%20alcoli%20e%20per%20alcune%20bevande%20alcoliche%20in%20attuazione%20delle%20sentenze%2015%20luglio%201982%20e%2015%20marzo%201983%20emesse%20dalla%20Corte%20di%20giustizia%20delle%20Comunita%20eu_f2c2331bb1b8.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

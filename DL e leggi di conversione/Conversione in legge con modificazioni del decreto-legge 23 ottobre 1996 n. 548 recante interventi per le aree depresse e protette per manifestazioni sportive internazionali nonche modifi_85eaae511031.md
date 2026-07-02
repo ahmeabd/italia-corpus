@@ -22,7 +22,7 @@ Il [decreto-legge 23 ottobre 1996, n. 548](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 luglio 1996, n. 344, e 30 agosto 1996, n. 450](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20per%20le%20aree%20depresse%20e%20protette%20per%20manifestazioni%20sportive%20internazionali%20nonche%20modifiche%20alla%20legge%2025%20febbraio%201992%20n.%20210_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 luglio 1996, n. 344, e 30 agosto 1996, n. 450](../DL%20decaduti/Interventi%20per%20le%20aree%20depresse%20e%20protette%20per%20manifestazioni%20sportive%20internazionali%20nonche%20modifiche%20alla%20legge%2025%20febbraio%201992%20n.%20210_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 23 ottobre 1996, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;548), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 249 del 23 ottobre 1996.

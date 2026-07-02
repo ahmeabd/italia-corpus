@@ -22,7 +22,7 @@ Il [decreto-legge 7 agosto 2019, n. 75](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottosi e i rapporti giuridici sorti sulla base del [decreto-legge 11 luglio 2019, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20al%20decreto-legge%2015%20marzo%202012%20n.%2021%20convertito%20con%20modificazioni%20dalla%20legge%2011%20maggio%202012%20n.%2056.%2019G00072.md), recante modifiche al [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottosi e i rapporti giuridici sorti sulla base del [decreto-legge 11 luglio 2019, n. 64](../DL%20decaduti/Modifiche%20al%20decreto-legge%2015%20marzo%202012%20n.%2021%20convertito%20con%20modificazioni%20dalla%20legge%2011%20maggio%202012%20n.%2056.%2019G00072.md), recante modifiche al [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito, con modificazioni, dalla [legge 11 maggio 2012, n. 56](Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md).
 
 3.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 5 ottobre 1990, n. 280](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 4 agosto 1990, n. 213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20urgenti%20in%20materia%20di%20pesca%20con%20reti%20da%20posta%20derivanti.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 4 agosto 1990, n. 213](../DL%20decaduti/Provvidenze%20urgenti%20in%20materia%20di%20pesca%20con%20reti%20da%20posta%20derivanti.md).
 
 AVVERTENZA:
  Il [decreto-legge 5 ottobre 1990, n. 280](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-10-05;280), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 233 del 5 ottobre 1990.

@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 22 marzo 1993, n. 71](https://www.norma
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 settembre 1992, n. 383, 19 novembre 1992, n. 442, e 18 gennaio 1993, n. 12](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20sgravi%20contributivi%20nel%20Mezzogiorno%20e%20di%20fiscalizzazione%20degli%20oneri%20sociali_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 settembre 1992, n. 383, 19 novembre 1992, n. 442, e 18 gennaio 1993, n. 12](../DL%20decaduti/Disposizioni%20in%20materia%20di%20sgravi%20contributivi%20nel%20Mezzogiorno%20e%20di%20fiscalizzazione%20degli%20oneri%20sociali_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

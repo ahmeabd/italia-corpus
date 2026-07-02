@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 21 maggio 1994, n. 300](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 marzo 1994, n. 187](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lo%20svolgimento%20contemporaneo%20delle%20elezioni%20europee%20regionali%20ed%20amministrative.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 marzo 1994, n. 187](../DL%20decaduti/Norme%20per%20lo%20svolgimento%20contemporaneo%20delle%20elezioni%20europee%20regionali%20ed%20amministrative.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

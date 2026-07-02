@@ -37,7 +37,7 @@ Il [decreto-legge 13 marzo 1988, n. 69](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 13 gennaio 1988, n. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20previdenziale%20per%20il%20miglioramento%20delle%20gestioni%20degli%20enti%20portuali%20ed%20altre%20disposizioni%20urgenti.md), ad eccezione delle disposizioni di cui all'articolo 1.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 13 gennaio 1988, n. 5](../DL%20decaduti/Norme%20in%20materia%20previdenziale%20per%20il%20miglioramento%20delle%20gestioni%20degli%20enti%20portuali%20ed%20altre%20disposizioni%20urgenti.md), ad eccezione delle disposizioni di cui all'articolo 1.
 
 3.
 

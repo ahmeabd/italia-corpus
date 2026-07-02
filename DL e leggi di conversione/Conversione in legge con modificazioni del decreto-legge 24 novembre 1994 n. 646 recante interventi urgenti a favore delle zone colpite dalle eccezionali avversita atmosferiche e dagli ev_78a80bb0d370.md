@@ -22,7 +22,7 @@ Il [decreto-legge 24 novembre 1994, n. 646](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 9 novembre 1994, n. 624](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20a%20favore%20delle%20zone%20colpite%20dalle%20eccezionali%20avversita%20atmosferiche%20e%20dagli%20eventi%20alluvionali%20nella%20prima%20decade%20del%20mese%20di%20novembre%201994.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 9 novembre 1994, n. 624](../DL%20decaduti/Interventi%20urgenti%20a%20favore%20delle%20zone%20colpite%20dalle%20eccezionali%20avversita%20atmosferiche%20e%20dagli%20eventi%20alluvionali%20nella%20prima%20decade%20del%20mese%20di%20novembre%201994.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

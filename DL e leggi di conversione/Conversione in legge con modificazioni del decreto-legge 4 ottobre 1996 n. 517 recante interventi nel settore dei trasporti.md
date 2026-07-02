@@ -22,11 +22,11 @@ Il [decreto-legge 4 ottobre 1996, n. 517](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 12 aprile 1996, n. 199, 14 giugno 1996, n. 320, e 5 agosto 1996, n. 410](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20nel%20settore%20dei%20trasporti_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 12 aprile 1996, n. 199, 14 giugno 1996, n. 320, e 5 agosto 1996, n. 410](../DL%20decaduti/Interventi%20nel%20settore%20dei%20trasporti_2.md).
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 dicembre 1995, n. 557, 26 febbraio 1996, n. 86, e 26 aprile 1996, n. 221](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20interventi%20nel%20settore%20dei%20sistemi%20del%20trasporto%20rapido%20di%20massa_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 dicembre 1995, n. 557, 26 febbraio 1996, n. 86, e 26 aprile 1996, n. 221](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20interventi%20nel%20settore%20dei%20sistemi%20del%20trasporto%20rapido%20di%20massa_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

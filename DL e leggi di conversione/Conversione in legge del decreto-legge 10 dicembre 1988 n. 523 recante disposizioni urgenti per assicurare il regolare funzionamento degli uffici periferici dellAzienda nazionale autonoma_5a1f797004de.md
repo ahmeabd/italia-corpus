@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 10 dicembre 1988, n. 523](https://www.n
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 6 ottobre 1988, n. 434](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20assicurare%20il%20regolare%20funzionamento%20degli%20uffici%20periferici%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20A.N.A.S.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 6 ottobre 1988, n. 434](../DL%20decaduti/Disposizioni%20urgenti%20per%20assicurare%20il%20regolare%20funzionamento%20degli%20uffici%20periferici%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20A.N.A.S.md).
 
 AVVERTENZA:
  Il [decreto-legge 10 dicembre 1988, n. 523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-12-10;523), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 290 del 12 dicembre 1988.

@@ -22,7 +22,7 @@ Il [decreto-legge 1 dicembre 1995, n. 509](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 aprile 1995, n. 100, 2 giugno 1995, n. 219, 3 agosto 1995, n. 320, e 2 ottobre 1995, n. 409](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20strutture%20e%20di%20spese%20del%20Servizio%20sanitario%20nazionale.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 aprile 1995, n. 100, 2 giugno 1995, n. 219, 3 agosto 1995, n. 320, e 2 ottobre 1995, n. 409](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20strutture%20e%20di%20spese%20del%20Servizio%20sanitario%20nazionale.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -27,7 +27,7 @@ Il [decreto-legge 25 settembre 1987, n. 394](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 maggio 1987, n. 208, e 27 luglio 1987, n. 304](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20di%20composizione%20delle%20corti%20di%20assise%20e%20degli%20altri%20uffici%20giudiziari_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 maggio 1987, n. 208, e 27 luglio 1987, n. 304](../DL%20decaduti/Norme%20in%20materia%20di%20composizione%20delle%20corti%20di%20assise%20e%20degli%20altri%20uffici%20giudiziari_2.md).
 
 3.
 

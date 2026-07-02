@@ -32,7 +32,7 @@ Il [decreto-legge 1° marzo 1985, n. 44](https://www.normattiva.it/uri-res/N2Ls?
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 22 dicembre 1984, n. 900](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20e%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno.md), non convertito in legge.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 22 dicembre 1984, n. 900](../DL%20decaduti/Proroga%20della%20fiscalizzazione%20degli%20oneri%20sociali%20e%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno.md), non convertito in legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

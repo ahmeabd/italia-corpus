@@ -22,7 +22,7 @@ Il [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli eggetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 30 settembre 1993, n. 390](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico%20e%20riorganizzazione%20del%20Ministero.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli eggetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 30 settembre 1993, n. 390](../DL%20decaduti/Trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico%20e%20riorganizzazione%20del%20Ministero.md).
 
 AVVERTENZA:
  Il [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 283 del 2 dicembre 1993.

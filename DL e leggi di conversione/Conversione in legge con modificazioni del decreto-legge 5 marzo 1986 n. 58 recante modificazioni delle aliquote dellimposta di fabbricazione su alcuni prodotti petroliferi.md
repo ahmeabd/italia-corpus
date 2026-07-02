@@ -43,7 +43,7 @@ Il termine del 13 marzo 1986, stabilito dall'[articolo 2 del decreto-legge 27 fe
 
 1.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 28 febbraio 1986, n. 40](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi%20nonche%20proroga%20del%20trattamento%20fiscale%20agevolato%20per%20le%20miscele%20di%20alcoli%20e%20benzina%20usate%20per%20autot_a87b25793ec6.md), e del [decreto-legge 13 marzo 1986, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 28 febbraio 1986, n. 40](../DL%20decaduti/Modificazioni%20alle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi%20nonche%20proroga%20del%20trattamento%20fiscale%20agevolato%20per%20le%20miscele%20di%20alcoli%20e%20benzina%20usate%20per%20autot_a87b25793ec6.md), e del [decreto-legge 13 marzo 1986, n. 63](../DL%20decaduti/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi.md).
 
 2.
 

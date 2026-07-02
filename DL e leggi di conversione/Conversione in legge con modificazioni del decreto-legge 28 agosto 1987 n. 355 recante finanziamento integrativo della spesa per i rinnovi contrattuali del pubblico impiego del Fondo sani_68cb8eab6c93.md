@@ -26,7 +26,7 @@ Il [decreto-legge 28 agosto 1987, n. 355](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 aprile 1987, n. 163, e 30 giugno 1987, n. 251](../Atti%20normativi%20abrogati%20%28in%20originale%29/Finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sanitario%20nazionale%20del%20fondo%20comune%20regionale%20e%20del%20fondo%20ordinario%20per%20la%20finanza%20locale%20_2ae5b5462046_2.md), nonche' sulla base di disposizioni del [decreto-legge 28 agosto 1987, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-28;355), soppresse dalla presente legge.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 aprile 1987, n. 163, e 30 giugno 1987, n. 251](../DL%20decaduti/Finanziamento%20integrativo%20della%20spesa%20per%20i%20rinnovi%20contrattuali%20del%20pubblico%20impiego%20del%20Fondo%20sanitario%20nazionale%20del%20fondo%20comune%20regionale%20e%20del%20fondo%20ordinario%20per%20la%20finanza%20locale%20_2ae5b5462046_2.md), nonche' sulla base di disposizioni del [decreto-legge 28 agosto 1987, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-28;355), soppresse dalla presente legge.
 
 3.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 17 giugno 1996, n. 321](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 dicembre 1995, n. 532, 16 febbraio 1996, n. 62, e 12 aprile 1996, n. 201](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20le%20attivita%20produttive_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 dicembre 1995, n. 532, 16 febbraio 1996, n. 62, e 12 aprile 1996, n. 201](../DL%20decaduti/Disposizioni%20urgenti%20per%20le%20attivita%20produttive_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

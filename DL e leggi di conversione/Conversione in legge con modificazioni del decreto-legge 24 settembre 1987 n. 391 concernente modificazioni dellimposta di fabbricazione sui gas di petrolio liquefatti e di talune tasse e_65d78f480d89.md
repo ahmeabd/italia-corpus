@@ -33,7 +33,7 @@ Il [decreto-legge 24 settembre 1987, n. 391](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 27 agosto 1987, n. 348](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20fiscali%20urgenti%20di%20riequilibrio%20congiunturale.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 27 agosto 1987, n. 348](../DL%20decaduti/Misure%20fiscali%20urgenti%20di%20riequilibrio%20congiunturale.md).
 
 3.
 

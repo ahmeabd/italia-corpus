@@ -22,7 +22,7 @@ Il [decreto-legge 23 dicembre 1993, n. 532](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti e i rapporti giuridici derivanti dall'applicazione dell'[articolo 1 del decreto-legge 27 settembre 1993, n. 389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20laccelerazione%20delle%20procedure%20di%20dismissione%20di%20partecipazioni%20del%20Ministero%20del%20tesoro%20in%20societa%20per%20azioni.md), e dell'[articolo 1 del decreto-legge 29 novembre 1993, n. 486](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20laccelerazione%20delle%20procedure%20di%20dismissione%20di%20partecipazioni%20del%20Ministero%20del%20tesoro%20in%20societa%20per%20azioni_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti e i rapporti giuridici derivanti dall'applicazione dell'[articolo 1 del decreto-legge 27 settembre 1993, n. 389](../DL%20decaduti/Norme%20per%20laccelerazione%20delle%20procedure%20di%20dismissione%20di%20partecipazioni%20del%20Ministero%20del%20tesoro%20in%20societa%20per%20azioni.md), e dell'[articolo 1 del decreto-legge 29 novembre 1993, n. 486](../DL%20decaduti/Norme%20per%20laccelerazione%20delle%20procedure%20di%20dismissione%20di%20partecipazioni%20del%20Ministero%20del%20tesoro%20in%20societa%20per%20azioni_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 23 dicembre 1993, n. 532](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-23;532), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 300 del 23 dicembre 1993.

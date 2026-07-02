@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 10 dicembre 1988, n. 522](https://www.n
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 agosto 1988, n. 324 e 6 ottobre 1988, n. 427](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20politica%20energetica_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 agosto 1988, n. 324 e 6 ottobre 1988, n. 427](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20politica%20energetica_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 10 dicembre 1988, n. 522](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-12-10;522), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 290 del 12 dicembre 1988.

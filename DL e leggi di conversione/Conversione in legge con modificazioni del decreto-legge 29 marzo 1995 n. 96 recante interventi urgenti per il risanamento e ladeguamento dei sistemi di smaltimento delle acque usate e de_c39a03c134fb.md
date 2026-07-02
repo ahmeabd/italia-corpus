@@ -22,7 +22,7 @@ Il [decreto-legge 29 marzo 1995, n. 96](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 febbraio 1994, n. 89, 31 marzo 1994, n. 221, 30 maggio 1994, n. 327, 30 luglio 1994, n. 476, 30 settembre 1994, n. 560, 30 novembre 1994, n. 659, e 31 gennaio 1995, n. 27](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20degli%20impianti%20igienico-sanitari%20nei%20centri%20storici%20e%20nelle%20isole%20dei%20comuni%20di%20Venezia_3350cc2a013a.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 febbraio 1994, n. 89, 31 marzo 1994, n. 221, 30 maggio 1994, n. 327, 30 luglio 1994, n. 476, 30 settembre 1994, n. 560, 30 novembre 1994, n. 659, e 31 gennaio 1995, n. 27](../DL%20decaduti/Interventi%20urgenti%20per%20il%20risanamento%20e%20ladeguamento%20dei%20sistemi%20di%20smaltimento%20delle%20acque%20usate%20e%20degli%20impianti%20igienico-sanitari%20nei%20centri%20storici%20e%20nelle%20isole%20dei%20comuni%20di%20Venezia_3350cc2a013a.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 8 gennaio 1996, n. 6](https://www.norma
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 marzo 1994, n. 166, 6 maggio 1994, n. 275, 8 luglio 1994, n. 436, 7 settembre 1994, n. 528, 7 novembre 1994, n. 617, 7 gennaio 1995, n. 1, 9 marzo 1995, n. 64, 10 maggio 1995, n. 161, 7 luglio 1995, n. 272, 7 settembre 1995, n. 372, e 8 novembre 1995, n. 462](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20operativa%20concernente%20partecipazioni%20e%20proventi%20del%20Tesoro%20nonche%20norme%20sugli%20organismi%20e%20sulle%20procedure%20attinenti%20ai%20mercati%20alla%20Tesoreria%20e%20allEAGAT_8.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 marzo 1994, n. 166, 6 maggio 1994, n. 275, 8 luglio 1994, n. 436, 7 settembre 1994, n. 528, 7 novembre 1994, n. 617, 7 gennaio 1995, n. 1, 9 marzo 1995, n. 64, 10 maggio 1995, n. 161, 7 luglio 1995, n. 272, 7 settembre 1995, n. 372, e 8 novembre 1995, n. 462](../DL%20decaduti/Disciplina%20operativa%20concernente%20partecipazioni%20e%20proventi%20del%20Tesoro%20nonche%20norme%20sugli%20organismi%20e%20sulle%20procedure%20attinenti%20ai%20mercati%20alla%20Tesoreria%20e%20allEAGAT_8.md).
 
 AVVERTENZA:
  Il [decreto-legge 8 gennaio 1996, n. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-01-08;6), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 6 del 9 gennaio 1996.

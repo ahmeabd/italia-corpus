@@ -24,7 +24,7 @@ Il [decreto-legge 30 novembre 1988, n. 514](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1988, n. 307, e 30 settembre 1988, n. 421](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20sanitaria%20nonche%20per%20il%20ripiano%20dei%20disavanzi%20di%20bilancio%20delle%20unita%20sanitarie%20locali%20e%20della%20Croce%20rossa%20italiana.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1988, n. 307, e 30 settembre 1988, n. 421](../DL%20decaduti/Misure%20urgenti%20in%20materia%20sanitaria%20nonche%20per%20il%20ripiano%20dei%20disavanzi%20di%20bilancio%20delle%20unita%20sanitarie%20locali%20e%20della%20Croce%20rossa%20italiana.md).
 
 AVVERTENZA:
  Il [decreto-legge 30 novembre 1988, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-11-30;514), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 282 del 1 dicembre 1988.

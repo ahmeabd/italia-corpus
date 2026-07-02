@@ -22,7 +22,7 @@ Il [decreto-legge 22 novembre 1994, n. 643](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 23 novembre 1993, n. 471, 21 gennaio 1994, n. 45, 23 marzo 1994, n. 191, 23 maggio 1994, n. 306, 22 luglio 1994, n. 462, e 19 settembre 1994, n. 545](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20interpretazione%20e%20di%20modificazione%20del%20decretolegge%2019%20dicembre%201992%20n.%20487%20convertito%20con%20modificazioni%20dalla%20legge%2017%20febbraio%201993%20n.%2033%20e%20successive%20integrazioni%20concernente%20_2222d57e2982.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 23 novembre 1993, n. 471, 21 gennaio 1994, n. 45, 23 marzo 1994, n. 191, 23 maggio 1994, n. 306, 22 luglio 1994, n. 462, e 19 settembre 1994, n. 545](../DL%20decaduti/Norme%20di%20interpretazione%20e%20di%20modificazione%20del%20decretolegge%2019%20dicembre%201992%20n.%20487%20convertito%20con%20modificazioni%20dalla%20legge%2017%20febbraio%201993%20n.%2033%20e%20successive%20integrazioni%20concernente%20_2222d57e2982.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

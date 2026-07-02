@@ -22,7 +22,7 @@ Il [decreto-legge 9 ottobre 2008, n. 155](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Il [decreto-legge 13 ottobre 2008, n. 157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriori%20misure%20urgenti%20per%20garantire%20la%20stabilita%20del%20sistema%20creditizio.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 157 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008;157).
+Il [decreto-legge 13 ottobre 2008, n. 157](../DL%20decaduti/Ulteriori%20misure%20urgenti%20per%20garantire%20la%20stabilita%20del%20sistema%20creditizio.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 157 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008;157).
 
 3.
 

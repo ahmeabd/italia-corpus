@@ -22,7 +22,7 @@ Il [decreto-legge 23 maggio 1994, n. 308](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 settembre 1993, n. 380, 26 novembre 1993, n. 476, 25 gennaio 1994, n. 58, e 23 marzo 1994, n. 193](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20urgenti%20in%20materia%20di%20imposta%20sostitutiva%20su%20talune%20plusvalenze%20nonche%20di%20termini%20per%20le%20imposte%20comunali%20sugli%20immobili%20e%20per%20lesercizio%20di%20imprese%20arti%20e%20professioni_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 settembre 1993, n. 380, 26 novembre 1993, n. 476, 25 gennaio 1994, n. 58, e 23 marzo 1994, n. 193](../DL%20decaduti/Norme%20urgenti%20in%20materia%20di%20imposta%20sostitutiva%20su%20talune%20plusvalenze%20nonche%20di%20termini%20per%20le%20imposte%20comunali%20sugli%20immobili%20e%20per%20lesercizio%20di%20imprese%20arti%20e%20professioni_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 5 ottobre 1990, n. 279](../Atti%20normativi%20abrogati%20%28in
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 4 agosto 1990, n. 214](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20la%20torre%20di%20Pisa.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 4 agosto 1990, n. 214](../DL%20decaduti/Interventi%20urgenti%20per%20la%20torre%20di%20Pisa.md).
 
 AVVERTENZA:
  Il [decreto-legge 5 ottobre 1990, n. 279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20la%20torre%20di%20Pisa_2.md), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 233 del 5 ottobre 1990.

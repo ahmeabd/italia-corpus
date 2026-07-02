@@ -67,7 +67,7 @@ E' convertito in legge il [decreto-legge 18 dicembre 1968, n. 1232](https://www.
 
 ## Art. 2.
 
-Restano validi gli atti e provvedimenti adottati in applicazione del [decreto-legge 7 novembre 1968, n. 1118](../Atti%20normativi%20abrogati%20%28in%20originale%29/Primi%20provvedimenti%20piu%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md).
+Restano validi gli atti e provvedimenti adottati in applicazione del [decreto-legge 7 novembre 1968, n. 1118](../DL%20decaduti/Primi%20provvedimenti%20piu%20urgenti%20in%20favore%20delle%20zone%20colpite%20dalle%20alluvioni%20dellautunno%201968.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

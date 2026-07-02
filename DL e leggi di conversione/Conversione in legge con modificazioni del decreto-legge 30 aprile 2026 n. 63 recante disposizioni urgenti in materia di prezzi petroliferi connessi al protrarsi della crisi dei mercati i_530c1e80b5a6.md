@@ -22,7 +22,7 @@ Il [decreto-legge 30 aprile 2026, n. 63](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Il [decreto-legge 22 maggio 2026, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-05-22;89), recante disposizioni urgenti in materia di prezzi petroliferi e di sostegno alle attivita' economiche per il protrarsi della crisi dei mercati internazionali, e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 89 del 2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026;89).
+Il [decreto-legge 22 maggio 2026, n. 89](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20prezzi%20petroliferi%20e%20di%20sostegno%20alle%20attivita%20economiche%20per%20il%20protrarsi%20della%20crisi%20dei%20mercati%20internazionali.%2026G00110.md), recante disposizioni urgenti in materia di prezzi petroliferi e di sostegno alle attivita' economiche per il protrarsi della crisi dei mercati internazionali, e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 89 del 2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026;89).
 
 3.
 

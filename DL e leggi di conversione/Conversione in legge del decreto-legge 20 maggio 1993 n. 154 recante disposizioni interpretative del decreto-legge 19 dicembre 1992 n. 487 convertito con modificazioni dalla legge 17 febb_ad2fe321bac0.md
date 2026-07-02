@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 20 maggio 1993, n. 154](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 23 marzo 1993, n. 74](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20interpretative%20del%20decreto-legge%2019%20dicembre%201992%20n.%20487%20convertito%20con%20modificazioni%20dalla%20legge%2017%20febbraio%201993%20n.%2033%20recante%20soppressione%20dellEFIM.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 23 marzo 1993, n. 74](../DL%20decaduti/Disposizioni%20interpretative%20del%20decreto-legge%2019%20dicembre%201992%20n.%20487%20convertito%20con%20modificazioni%20dalla%20legge%2017%20febbraio%201993%20n.%2033%20recante%20soppressione%20dellEFIM.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 
