@@ -1931,7 +1931,7 @@ La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 AGGIORNAMENTO (143)
 
-Il [D.L. 22 maggio 2026, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-05-22;89) ha disposto (con l'art. 2, comma 7, lettera b)) che "La disposizione di cui al presente comma ha effetto a decorrere dal 1° ottobre 2026".
+Il [D.L. 22 maggio 2026, n. 89](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20prezzi%20petroliferi%20e%20di%20sostegno%20alle%20attivita%20economiche%20per%20il%20protrarsi%20della%20crisi%20dei%20mercati%20internazionali.%2026G00110.md) ha disposto (con l'art. 2, comma 7, lettera b)) che "La disposizione di cui al presente comma ha effetto a decorrere dal 1° ottobre 2026".
 
 ### Art. 25. — Deposito e circolazione di prodotti energetici assoggettati ad accisa 
  (Artt. 1, 3, 4, 5, 7, 16 ed art. 23 D.L. n. 271/1957 - 
