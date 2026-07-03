@@ -16,13 +16,13 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 17 novembre 1944, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20concernenti%20il%20ricovero%20delle%20persone%20rimaste%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20044U0366.md), recante provvedimenti concernenti il ricovero delle persone rimaste senza tetto in dipendenza di azioni belliche;
+Visto il [decreto legislativo Luogotenenziale 17 novembre 1944, n. 366](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20il%20ricovero%20delle%20persone%20rimaste%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20044U0366.md), recante provvedimenti concernenti il ricovero delle persone rimaste senza tetto in dipendenza di azioni belliche;
 
-Visto il [decreto legislativo Luogotenenziale 18 gennaio 1945, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20al%20decreto%20legislativo%20Luogotenenziale%2017%20novembre%201944%20n.%20366%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20045U0004.md), contenente norme integrative del predetto decreto legislativo Luogotenenziale;
+Visto il [decreto legislativo Luogotenenziale 18 gennaio 1945, n. 4](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20al%20decreto%20legislativo%20Luogotenenziale%2017%20novembre%201944%20n.%20366%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20045U0004.md), contenente norme integrative del predetto decreto legislativo Luogotenenziale;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151), concernente la facolta' del Governo di emanare norme giuridiche;
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Ritenuta l'opportunita' di integrare le disposizioni gia' emanate per assicurare il ricovero dei rimasti senza tetto in seguito ad avvenimenti bellici e di coordinarle in unico testo;
 
@@ -161,7 +161,7 @@ I proprietari che intendono eseguire per conto proprio la riparazione dei loro f
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 8 febbraio 1946, n. 92](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assegnazione%20di%20nuovo%20termine%20per%20il%20conseguimento%20de%20premio%20di%20acceleramento%20per%20i%20lavori%20di%20riparazione%20di%20alloggi%20per%20i%20senza%20tetto.md), ha disposto (con l'art. 1, comma 1) che "In sostituzione del termine fissato dall'ultimo comma dell'[art. 12 del decreto legislativo Luogotenenziale 9 giugno 1945, n. 305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md), e' assegnato il nuovo termine del 31 ottobre 1946 per il conseguimento del premio di acceleramento dei lavori di riparazione eseguiti a cura dei proprietari".
+Il [D.Lgs. Luogotenenziale 8 febbraio 1946, n. 92](../Decreti%20legislativi%20luogotenenziali/Assegnazione%20di%20nuovo%20termine%20per%20il%20conseguimento%20de%20premio%20di%20acceleramento%20per%20i%20lavori%20di%20riparazione%20di%20alloggi%20per%20i%20senza%20tetto.md), ha disposto (con l'art. 1, comma 1) che "In sostituzione del termine fissato dall'ultimo comma dell'[art. 12 del decreto legislativo Luogotenenziale 9 giugno 1945, n. 305](../Decreti%20legislativi%20luogotenenziali/Testo%20unico%20delle%20disposizioni%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20seguito%20ad%20eventi%20bellici.%20045U0305.md), e' assegnato il nuovo termine del 31 ottobre 1946 per il conseguimento del premio di acceleramento dei lavori di riparazione eseguiti a cura dei proprietari".
 
 ### Art. 13.
 
@@ -405,7 +405,7 @@ A coloro che abbiano ottenuto l'assegnazione di case di abitazione a termini del
 
 ### Art. 43.
 
-I fabbricati riparati a cura diretta dei proprietari non possono essere requisiti dai commissari per gli alloggi, ai sensi del [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), se non dopo trascorsi due mesi dalla data del certificato del Genio civile che accerta l'ultimazione dei lavori, e sempre che non siano stati gia' adeguatamente utilizzati.
+I fabbricati riparati a cura diretta dei proprietari non possono essere requisiti dai commissari per gli alloggi, ai sensi del [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Decreti%20legislativi%20luogotenenziali/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), se non dopo trascorsi due mesi dalla data del certificato del Genio civile che accerta l'ultimazione dei lavori, e sempre che non siano stati gia' adeguatamente utilizzati.
 
 ## RICOSTRUZIONI E NUOVE COSTRUZIONI NELLE LOCALITA' PIU' GRAVEMENTE DANNEGGIATE
 
@@ -582,7 +582,7 @@ Il Ministero del tesoro e' autorizzato ad introdurre in bilancio con propri decr
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
  
- Dalla stessa data cessano di avere effetto le disposizioni dei [decreti legislativi Luogotenenziali 17 novembre 1944, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20concernenti%20il%20ricovero%20delle%20persone%20rimaste%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20044U0366.md), e [18 gennaio 1945, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20al%20decreto%20legislativo%20Luogotenenziale%2017%20novembre%201944%20n.%20366%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20045U0004.md). 
+ Dalla stessa data cessano di avere effetto le disposizioni dei [decreti legislativi Luogotenenziali 17 novembre 1944, n. 366](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20il%20ricovero%20delle%20persone%20rimaste%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20044U0366.md), e [18 gennaio 1945, n. 4](../Decreti%20legislativi%20luogotenenziali/Norme%20integrative%20al%20decreto%20legislativo%20Luogotenenziale%2017%20novembre%201944%20n.%20366%20per%20il%20ricovero%20dei%20rimasti%20senza%20tetto%20in%20dipendenza%20di%20azioni%20belliche.%20045U0004.md). 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
  

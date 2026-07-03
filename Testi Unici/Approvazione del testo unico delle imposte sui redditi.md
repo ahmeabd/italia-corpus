@@ -5176,9 +5176,9 @@ Qualora si applichi il comma 8, il risultato operativo lordo della gestione cara
 
 Ai fini dei commi da 8 a 10:
                             a)
-                                per progetto infrastrutturale pubblico a lungo termine si intende il progetto rientrante tra quelli cui si applicano le disposizioni della Parte V del [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md);
+                                per progetto infrastrutturale pubblico a lungo termine si intende il progetto rientrante tra quelli cui si applicano le disposizioni della Parte V del [decreto legislativo 18 aprile 2016, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici.%2016G00062.md);
                             b)
-                                nel caso di costituzione di una societa' di progetto strumentale alla segregazione patrimoniale rispetto ad attivita' e passivita' non afferenti al progetto infrastrutturale medesimo sono integralmente deducibili gli interessi passivi e oneri finanziari relativi ai prestiti stipulati dalla societa' di progetto anche qualora assistiti da garanzie diverse da quelle di cui al comma 8, lettera a) utilizzati per finanziare progetti infrastrutturali pubblici di cui alle Parti III, IV e V, del [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
+                                nel caso di costituzione di una societa' di progetto strumentale alla segregazione patrimoniale rispetto ad attivita' e passivita' non afferenti al progetto infrastrutturale medesimo sono integralmente deducibili gli interessi passivi e oneri finanziari relativi ai prestiti stipulati dalla societa' di progetto anche qualora assistiti da garanzie diverse da quelle di cui al comma 8, lettera a) utilizzati per finanziare progetti infrastrutturali pubblici di cui alle Parti III, IV e V, del [decreto legislativo 18 aprile 2016, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
 
 ))
 

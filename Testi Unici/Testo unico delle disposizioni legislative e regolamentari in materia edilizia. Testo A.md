@@ -651,7 +651,7 @@ La quota di contributo relativa agli oneri di urbanizzazione e' corrisposta al c
 
 2-bis.
 
-Nell'ambito degli strumenti attuativi e degli atti equivalenti comunque denominati nonche' degli interventi in diretta attuazione dello strumento urbanistico generale, l'esecuzione diretta delle opere di urbanizzazione primaria di cui al comma 7, di importo inferiore alla soglia di cui all'[articolo 28, comma 1, lettera c), del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), funzionali all'intervento di trasformazione urbanistica del territorio, e' a carico del titolare del permesso di costruire e non trova applicazione il [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
+Nell'ambito degli strumenti attuativi e degli atti equivalenti comunque denominati nonche' degli interventi in diretta attuazione dello strumento urbanistico generale, l'esecuzione diretta delle opere di urbanizzazione primaria di cui al comma 7, di importo inferiore alla soglia di cui all'[articolo 28, comma 1, lettera c), del decreto legislativo 12 aprile 2006, n. 163](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), funzionali all'intervento di trasformazione urbanistica del territorio, e' a carico del titolare del permesso di costruire e non trova applicazione il [decreto legislativo 12 aprile 2006, n. 163](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
 
 3.
 
@@ -1164,7 +1164,7 @@ Sono, in particolare, soggetti alla stipula di convenzione:
                             a)
                                 la cessione di aree anche al fine dell'utilizzo di diritti edificatori;
                             b)
-                                la realizzazione di opere di urbanizzazione fermo restando quanto previsto dall'[articolo 32, comma 1, lettera g), del decreto legislativo 12 aprile 2006, n.163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md);
+                                la realizzazione di opere di urbanizzazione fermo restando quanto previsto dall'[articolo 32, comma 1, lettera g), del decreto legislativo 12 aprile 2006, n.163](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md);
                             c)
                                 le caratteristiche morfologiche degli interventi;
                             d)
