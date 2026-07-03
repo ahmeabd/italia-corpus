@@ -16,7 +16,7 @@ LUOGOTENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1938-03-10;330), convertito nella [legge 5 gennaio 1939, n. 245](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md), e successive modificazioni, recante provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento ;
+Visto il [decreto-legge 10 marzo 1938, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1938-03-10;330), convertito nella [legge 5 gennaio 1939, n. 245](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md), e successive modificazioni, recante provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento ;
 
 Vista la [legge 13 luglio 1939, n. 1154](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20requisizione%20del%20naviglio%20mercantile.%20039U1154.md), e successive modificazioni, recante norme sulla requisizione del naviglio mercantile;
 

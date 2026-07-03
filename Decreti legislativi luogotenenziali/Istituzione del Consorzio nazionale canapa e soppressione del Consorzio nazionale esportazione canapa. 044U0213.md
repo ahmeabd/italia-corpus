@@ -18,7 +18,7 @@ In virtu' dell'autorita' a Noi delegata;
 
 Vista la [legge 18 giugno 1931, n. 987](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), recante disposizioni per la difesa delle piante coltivate e dei prodotti agrari dalle cause nemiche e per i servizi relativi;
 
-Visto il [R. decreto-legge 8 novembre 1936, n. 1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-11-08;1955), sulla disciplina della produzione ed utilizzazione della canapa, convertito nella [legge 18 gennaio 1937, n. 243](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20novembre%201836-XV%20n.%201955%20che%20disciplina%20la%20produzione%20e%20lutilizzazione%20della%20canapa%20e%20delle%20sementi%20di%20canapa.%20037U0243.md);
+Visto il [R. decreto-legge 8 novembre 1936, n. 1955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-11-08;1955), sulla disciplina della produzione ed utilizzazione della canapa, convertito nella [legge 18 gennaio 1937, n. 243](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%208%20novembre%201836-XV%20n.%201955%20che%20disciplina%20la%20produzione%20e%20lutilizzazione%20della%20canapa%20e%20delle%20sementi%20di%20canapa.%20037U0243.md);
 
 Vista, la, [legge 18 maggio 1942, n. 566](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20Enti%20economici%20dellagricoltura%20e%20dei%20Consorzi%20agrari.%20042U0566.md), contenente il riordinamento degli enti economici dell'agricoltura e dei consorzi agrari;
 

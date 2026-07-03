@@ -16,7 +16,7 @@ Luogotenente Generale del Regno
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), e modificato con il [R. decreto-legge 2 ottobre 1924, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-02;1672), convertito nella [legge 8 febbraio 1925, n. 88](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti%2026%20giugno%201924%20n.%201032%20che%20deferisce%20transitoriamente%20ai%20Prefetti%20le%20attribuzioni%20spettanti%20ai%20Sottoprefetti%20pei%20Comuni%20e%20le%20istituzioni%20pubbliche%20di_b41430aafe56.md);
+Visto il testo unico delle leggi sul Consiglio di Stato, approvato con [R. decreto 26 giugno 1924, n. 1054](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sul%20Consiglio%20di%20Stato.%20024U1054.md), e modificato con il [R. decreto-legge 2 ottobre 1924, n. 1672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-02;1672), convertito nella [legge 8 febbraio 1925, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20dei%20Regi%20decreti%2026%20giugno%201924%20n.%201032%20che%20deferisce%20transitoriamente%20ai%20Prefetti%20le%20attribuzioni%20spettanti%20ai%20Sottoprefetti%20pei%20Comuni%20e%20le%20istituzioni%20pubbliche%20di_b41430aafe56.md);
 
 Visto il regolamento per l'esecuzione della legge sul Consiglio di Stato, approvato con [R. decreto 24 aprile 1942, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-24;444);
 

@@ -117,7 +117,7 @@ E' istituita, per la durata dello stato di guerra, una indennita' giornaliera di
  
  L'indennita' stessa e' fissata in misura uguale a quella dell'indennita' giornaliera di cui all'[art. 2 del R. decreto-legge 16 dicembre 1942, n. 1498](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20a%20favore%20di%20personali%20dello%20Stato%20e%20degli%20Enti%20ausiliari%20in%20dipendenza%20di%20offese%20nemiche.%20042U1498.md), o non e' cumulabile: 
  
- col trattamento economico giornaliero di guerra, previste, per soprassoldo di operazioni, intero o ridotto, con o senza razione viveri, dal R. decreto-legge 19 maggio 1941. 583, convertito, con modificazioni, nella [legge 10 maggio 1943, n. 507](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md); 
+ col trattamento economico giornaliero di guerra, previste, per soprassoldo di operazioni, intero o ridotto, con o senza razione viveri, dal R. decreto-legge 19 maggio 1941. 583, convertito, con modificazioni, nella [legge 10 maggio 1943, n. 507](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2019%20maggio%201941-XIX%20n.%20583%20relativo%20al%20trattamento%20economico%20spettante%20ai%20personali%20militari%20e%20militarizzati%20che%20fanno%20parte%20di%20_c00e94ef3697.md); 
  
  con l'indennita' di fuori residenza prevista, per personale militare dall'art. 49 dello stesso decreto numero 583; 
  
