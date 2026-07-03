@@ -52,7 +52,7 @@ Lo Stato concorre al finanziamento degli oneri contrattuali nella misura di lire
 
 3.
 
-Alla copertura della spesa derivante dell'applicazione del presente decreto si provvede ai sensi del [decreto-legge 13 novembre 1990, n. 326](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20assicurare%20lattuazione%20di%20rinnovi%20contrattuali%20relativi%20al%20triennio%201988-1990.md), convertito, con modificazioni, dalla [legge 12 gennaio 1991, n. 4](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20novembre%201990%20n.%20326%20recante%20disposizioni%20urgenti%20per%20assicurare%20lattuazione%20di%20rinnovi%20contrattuali%20relativi%20al%20triennio%201988-1990.md).
+Alla copertura della spesa derivante dell'applicazione del presente decreto si provvede ai sensi del [decreto-legge 13 novembre 1990, n. 326](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20assicurare%20lattuazione%20di%20rinnovi%20contrattuali%20relativi%20al%20triennio%201988-1990.md), convertito, con modificazioni, dalla [legge 12 gennaio 1991, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20novembre%201990%20n.%20326%20recante%20disposizioni%20urgenti%20per%20assicurare%20lattuazione%20di%20rinnovi%20contrattuali%20relativi%20al%20triennio%201988-1990.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di ossevarlo e di farlo osservare.
 

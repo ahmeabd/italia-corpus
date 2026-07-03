@@ -139,14 +139,14 @@ Note all'art. 2:
 
 1.
 
-Nell'esercizio delle funzioni di cui all'articolo 2, fermo quanto previsto dal [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), l'Alto Commissario accede:
+Nell'esercizio delle funzioni di cui all'articolo 2, fermo quanto previsto dal [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), l'Alto Commissario accede:
                         a)
                             ai documenti delle pubbliche amministrazioni, con il limite per il materiale documentale per il quale operi il segreto di Stato;
                         b)
                             alle banche dati delle pubbliche amministrazioni, anche concordando con queste idonee forme di collegamento telematico.
 
 Note all'[art. 3:
- - Il decreto legislativo 30 giugno 2003 n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) reca: «[Codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)».
+ - Il decreto legislativo 30 giugno 2003 n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) reca: «[Codice in materia di protezione dei dati personali](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)».
 
 ## Art. 4. — Informativa periodica
 

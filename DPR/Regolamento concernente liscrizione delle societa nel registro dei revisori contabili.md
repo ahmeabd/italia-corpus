@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 14 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md);
+Visto l'[articolo 14 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md);
 
 Visto l'[articolo 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
@@ -28,7 +28,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Ai fini delle disposizioni del presente regolamento, per "decreto legislativo" si intende il [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
+Ai fini delle disposizioni del presente regolamento, per "decreto legislativo" si intende il [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
 
 AVVERTENZA:
  I testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -39,7 +39,7 @@ AVVERTENZA:
  2. Il regolamento concernente le modalita' di svolgimento del tirocinio di cui all'art. 3, comma 3, e' emanato di concerto con i Ministri della funzione pubblica, del tesoro e delle partecipazioni statali".
  - Il [comma 1, lettera a), dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com1-leta) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolamenti per disciplinare l'esecuzione delle leggi e dei decreti legislativi. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
  Nota all'art. 1:
- - Per l'argomento del [D.Lgs. 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), si veda in nota alle premesse.
+ - Per l'argomento del [D.Lgs. 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), si veda in nota alle premesse.
 
 ## Art. 2. — Contenuto della domanda di iscrizione
 
@@ -81,7 +81,7 @@ Alla domanda e' allegata copia autentica dell'atto costitutivo con le eventuali 
 La sottoscrizione in calce alla domanda deve essere autenticata ai sensi dell'[articolo 20 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md).
 
 Note all'art. 2:
- - Si riporta il testo dell'art. 6 del citato [D.Lgs. 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md):
+ - Si riporta il testo dell'art. 6 del citato [D.Lgs. 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md):
  "Art. 6 (Iscrizione delle societa' nel registro). - 1.
  Salvo quanto disposto dall'art. 8, comma 2, hanno diritto all'iscrizione nel registro le societa' che hanno la sede principale o una sede secondaria con rappresentanza stabile in Italia e rispondono ai seguenti requisiti:
  a) oggetto sociale limitato alla revisione e alla organizzazione contabile di aziende;
@@ -117,14 +117,14 @@ Il procuratore della Repubblica accerta l'assenza delle situazioni indicate nell
 
 1.
 
-All'esame delle domande delle societa' per l'iscrizione nel registro dei revisori contabili provvede la commissione indicata nell'[articolo 11 del regio decreto-legge 24 luglio 1936, n. 1548](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), convertito, con modificazioni, dalla [legge 3 aprile 1937, n. 517](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20contenente%20disposizioni%20relative%20ai%20sindaci%20delle%20societa%20commerciali.%20037U0517.md).
+All'esame delle domande delle societa' per l'iscrizione nel registro dei revisori contabili provvede la commissione indicata nell'[articolo 11 del regio decreto-legge 24 luglio 1936, n. 1548](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), convertito, con modificazioni, dalla [legge 3 aprile 1937, n. 517](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20contenente%20disposizioni%20relative%20ai%20sindaci%20delle%20societa%20commerciali.%20037U0517.md).
 
 2.
 
 Su proposta della commissione e' emanato un decreto del direttore generale degli affari civili e delle libere professioni di iscrizione della societa' nel registro, pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
 Nota all'art. 4:
- - Si trascrive il testo dell'[art. 11 del R.D.L. 24 luglio 1936, n. 1548](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), convertito, con modificazioni, dalla [legge 3 aprile 1937, n. 517](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20contenente%20disposizioni%20relative%20ai%20sindaci%20delle%20societa%20commerciali.%20037U0517.md), recante "Disposizioni relative ai sindaci delle societa' commerciali", abrogato dall'[art. 28 del D.Lgs. n. 88/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;88#art_28), a decorrere dalla data di prima pubblicazione del registro dei revisori contabili.
+ - Si trascrive il testo dell'[art. 11 del R.D.L. 24 luglio 1936, n. 1548](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20ai%20sindaci%20dello%20societa%20commerciali.%20036U1548.md), convertito, con modificazioni, dalla [legge 3 aprile 1937, n. 517](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2024%20luglio%201936-XIV%20n.%201548%20contenente%20disposizioni%20relative%20ai%20sindaci%20delle%20societa%20commerciali.%20037U0517.md), recante "Disposizioni relative ai sindaci delle societa' commerciali", abrogato dall'[art. 28 del D.Lgs. n. 88/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;88#art_28), a decorrere dalla data di prima pubblicazione del registro dei revisori contabili.
  Alla formazione di tale registro si e' provveduto con D.M. 12 aprile 1995 (Gazzetta Ufficiale 21 aprile 1995, n. 31-bis - 4a serie speciale):
  "Art. 11. - 1. E' istituito presso il Ministero di grazia e giustizia un ruolo aperto dei revisori ufficiali dei conti.
  2. Una copia aggiornata di tale ruolo e' conservata presso le camere di commercio, industria, artigianato e agricoltura.

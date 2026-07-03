@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), concernente l'imposta generale sull'entrata e le successive disposizioni;
+Visto il [regio decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), concernente l'imposta generale sull'entrata e le successive disposizioni;
 
 Visto il [decreto del Presidente della Repubblica 12 novembre 1958, n. 1108](Determinazione%20della%20forma%20tagli%20e%20delle%20altre%20caratteristiche%20delle%20marche%20per%20il%20pagamento%20dellimposta%20generale%20sullentrata.md), concernente la determinazione della forma, dei tagli e delle altre caratteristiche delle marche per il pagamento dell'imposta generale sulla entrata;
 

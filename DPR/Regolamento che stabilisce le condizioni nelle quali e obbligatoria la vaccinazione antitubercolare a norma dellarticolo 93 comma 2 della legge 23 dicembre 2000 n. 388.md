@@ -70,7 +70,7 @@ Avvertenza:
  3. Resta invariato il riparto di competenze tra Stato e regioni stabilito dalla vigente normativa in materia sanitaria per le funzioni concernenti:
  a) le sostanze stupefacenti e psicotrope e la tossicodipendenza;
  b) la procreazione umana naturale e assistita;
- c) i rifiuti speciali derivanti da attivita' sanitarie, di cui al [decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md);
+ c) i rifiuti speciali derivanti da attivita' sanitarie, di cui al [decreto legislativo 5 febbraio 1997, n. 22](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md);
  d) la tutela sanitaria rispetto alle radiazioni ionizzanti, di cui al [decreto legislativo 17 marzo 1995, n. 230](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2089-618-Euratom%2090-641-Euratom%2096-29-Euratom%202006-117-Euratom%20in%20materia%20di%20radiazioni%20ionizzanti%202009-71-Euratom%20in%20materia%20di%20sicurezza%20nucleare%20degli%20impianti_d604ed65f72e.md);
  e) la dismissione dell'amianto, di cui alla [legge 27 marzo 1992, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-27;257);
  f) il sangue umano e i suoi componenti, la produzione di plasmaderivati ed i trapianti;

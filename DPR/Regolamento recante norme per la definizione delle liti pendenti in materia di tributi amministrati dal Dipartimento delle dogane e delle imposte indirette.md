@@ -18,7 +18,7 @@ Visto l'[art. 3, commi 170](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale dell'11 aprile 1996;
 
-Visto l'[art. 13 del decreto-legge 22 giugno 1996, n. 329](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazione%20finanziaria%20di%20gestione%20fuori%20bilancio%20di%20fondi%20previdenziali%20e%20di%20contenzioso%20tributario.md);
+Visto l'[art. 13 del decreto-legge 22 giugno 1996, n. 329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazione%20finanziaria%20di%20gestione%20fuori%20bilancio%20di%20fondi%20previdenziali%20e%20di%20contenzioso%20tributario.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 luglio 1996;
 
@@ -73,7 +73,7 @@ AVVERTENZA:
  d) le modalita' per l'estinzione dei giudizi;
  e) le altre norme occorrenti per l'applicazione dei commi da 170 a 176 del presente articolo.
  176. Possono essere definite anche le controversie pendenti relative a violazioni costituenti reato suscettibili di definizione amministrativa; la disposizione non si applica ai soggetti indicati all'[art. 63 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md)".
- - Si trascrive il testo dell'[art. 13 del decreto-legge 22 giugno 1996, n. 329](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazione%20finanziaria%20di%20gestione%20fuori%20bilancio%20di%20fondi%20previdenziali%20e%20di%20contenzioso%20tributario.md), recante: "Proroga dei termini relativi alla chiusura delle liti pendenti in materia di dogane e di imposizione indiretta sulla produzione e sui consumi":
+ - Si trascrive il testo dell'[art. 13 del decreto-legge 22 giugno 1996, n. 329](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20imposizione%20diretta%20ed%20indiretta%20di%20funzionalita%20dellAmministrazione%20finanziaria%20di%20gestione%20fuori%20bilancio%20di%20fondi%20previdenziali%20e%20di%20contenzioso%20tributario.md), recante: "Proroga dei termini relativi alla chiusura delle liti pendenti in materia di dogane e di imposizione indiretta sulla produzione e sui consumi":
  "Art. 13. - 1. All'[art. 3 della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), sono apportate le seguenti modificazioni:
  a) nel comma 172 le parole: '31 marzo 1996' sono sostituite dalle seguenti: '30 settembre 1996';
  b) nel comma 173 le parole: '31 marzo 1996' sono sostituite dalle seguenti: '30 settembre 1996';

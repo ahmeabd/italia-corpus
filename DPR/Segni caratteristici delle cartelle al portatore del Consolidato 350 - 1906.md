@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 22 novembre 1906, n. 616](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20stampa%20dei%20certificati%20delle%20iscrizioni%20nominative%20del%20Debito%20pubblico%20e%20delle%20cartelle%20per%20le%20iscrizioni%20al%20portatore%20del%20consolidato%203.75-3.50%20per%20cento.%20006U0616.md), col quale fu approvata la forma e furono determinati i segni distintivi per la prima emissione delle cartelle del Consolidato creato con la [legge 29 giugno 1906, n. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20delle%20rendite%20consolidate%205%20per%20cento%20lordo%20e%204%20per%20cento%20netto.%20006U0262.md);
+Visto il [regio decreto 22 novembre 1906, n. 616](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20stampa%20dei%20certificati%20delle%20iscrizioni%20nominative%20del%20Debito%20pubblico%20e%20delle%20cartelle%20per%20le%20iscrizioni%20al%20portatore%20del%20consolidato%203.75-3.50%20per%20cento.%20006U0616.md), col quale fu approvata la forma e furono determinati i segni distintivi per la prima emissione delle cartelle del Consolidato creato con la [legge 29 giugno 1906, n. 262](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20delle%20rendite%20consolidate%205%20per%20cento%20lordo%20e%204%20per%20cento%20netto.%20006U0262.md);
 
 Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1047](Segni%20caratteristici%20delle%20nuove%20cartelle%20al%20portatore%20del%20Consolidato%20350%20-%201906.md), concernente i segni caratteristici delle nuove cartelle al portatore del Consolidato 3,50% - 1906;
 

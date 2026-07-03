@@ -165,9 +165,9 @@ Avvertenza:
 
  [art. 4, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254#art_4-com3) e [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254#art_4-com4), e [art. 5, della legge 7 luglio 1988, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-07-07;254#art_5);
 
- [art. 10 del decreto legislativo 30 dicembre 1992, n. 534](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2091-630-CEE%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20dei%20suini.md);
+ [art. 10 del decreto legislativo 30 dicembre 1992, n. 534](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-630-CEE%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20dei%20suini.md);
 
- [art. 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2091-629-CEE%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20dei%20vitelli.md), fatti salvi i concorsi banditi alla data di entrata in vigore del presente decreto;
+ [art. 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 533](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-629-CEE%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20dei%20vitelli.md), fatti salvi i concorsi banditi alla data di entrata in vigore del presente decreto;
 
  [art. 6 della legge 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312#art_6); [art. 6-bis del decreto legge 18 gennaio 1993, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;9#art_6bis), convertito, con modificazioni, dalla [legge 18 marzo 1993, n. 67](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%209%20recante%20disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md);
 

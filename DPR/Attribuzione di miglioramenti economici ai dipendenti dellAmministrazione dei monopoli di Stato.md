@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 9 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_9);
 
-Visto il [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
+Visto il [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
 
 Visti gli accordi per il triennio contrattuale 1 luglio 1976-30 giugno 1979 intervenuti l'11 agosto 1978 tra il Governo ed i rappresentanti della Federazione unitaria Cgil-Cisl-Uil Monopoli e tra il Governo e l'Associazione nazionale dirigenti e direttivi dei monopoli di Stato (Andams), con i quali si e' convenuto di corrispondere al personale medesimo dal 1 ottobre 1978 lo importo di L. 800 lorde annue per ogni mese o frazione di mese superiore a quindici giorni di servizio di ruolo e non di ruolo comunque prestato alle dipendenze della Amministrazione dei monopoli e l'importo di L. 10.000 mensili lorde; nonche' una integrazione della tredicesima mensilita' dall'anno 1978 costituita dall'anticipazione delle L. 10.000, dalle aggiunzioni senza titolo di complessive L. 45.000 e da una mensilita' dell'indennita' pensionabile di cui alla [legge 27 dicembre 1973, n. 851](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-12-27;851);
 
@@ -39,7 +39,7 @@ I miglioramenti economici di cui al precedente art. 1 sono assoggettati alle rit
 
 ## Art. 4.
 
-Alla copertura della maggiore spesa derivante dalla applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
+Alla copertura della maggiore spesa derivante dalla applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

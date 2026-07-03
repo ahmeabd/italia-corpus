@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto-legge 29 gennaio 1934, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-29;154), convertito nella [legge 5 luglio 1934, n. 1607](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20gennaio%201934%20n.%20454%20contenente%20norme%20per%20il%20disciplinamento%20delle%20Mostre%20Fiere%20ed%20Esposizioni.%20034U1607.md), sulla disciplina delle fiere, mostre ed esposizioni;
+ Visto il [regio decreto-legge 29 gennaio 1934, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-01-29;154), convertito nella [legge 5 luglio 1934, n. 1607](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20gennaio%201934%20n.%20454%20contenente%20norme%20per%20il%20disciplinamento%20delle%20Mostre%20Fiere%20ed%20Esposizioni.%20034U1607.md), sulla disciplina delle fiere, mostre ed esposizioni;
  Visti la domanda intesa ad ottenere il riconoscimento giuridico dell'Ente autonomo per le fiere di Bologna, e lo schema di statuto approvato dagli enti fondatori;
  Visto l'atto per notar dott. Alessandro Gallerani di Bologna, 28 novembre 1955, con il quale e' stato costituito l'Ente e ne e' stato approvato lo statuto;
  Ritenuta la opportunita' di procedere al riconoscimento giuridico dell'Ente predetto, in relazione alle finalita' che esso si propone ed ai mezzi di cui puo' disporre;

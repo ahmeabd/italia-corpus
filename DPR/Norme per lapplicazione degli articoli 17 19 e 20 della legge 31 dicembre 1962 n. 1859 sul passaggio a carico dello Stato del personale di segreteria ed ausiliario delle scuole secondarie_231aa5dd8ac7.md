@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 28 della legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
+Visto l'[art. 28 della legge 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
 Visto l'[art. 91, lettera f) del testo unico 3 marzo 1934, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-03-03;383#art_91-letf), della legge comunale e provinciale;
 

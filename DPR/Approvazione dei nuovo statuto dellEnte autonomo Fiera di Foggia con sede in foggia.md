@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 29 gennaio 1934, n. 454](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20disciplinamento%20delle%20mostre%20fiere%20ed%20esposizioni.%20034U0454.md), convertito nella [legge 5 luglio 1934, n. 1607](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20gennaio%201934%20n.%20454%20contenente%20norme%20per%20il%20disciplinamento%20delle%20Mostre%20Fiere%20ed%20Esposizioni.%20034U1607.md), sulla disciplina delle fiere, mostre ed esposizioni;
+Visto il [regio decreto-legge 29 gennaio 1934, n. 454](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20disciplinamento%20delle%20mostre%20fiere%20ed%20esposizioni.%20034U0454.md), convertito nella [legge 5 luglio 1934, n. 1607](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20gennaio%201934%20n.%20454%20contenente%20norme%20per%20il%20disciplinamento%20delle%20Mostre%20Fiere%20ed%20Esposizioni.%20034U1607.md), sulla disciplina delle fiere, mostre ed esposizioni;
 
 Visto il [regio decreto 14 aprile 1939, n. 771](../Regi%20decreti/Istituzione%20in%20Foggia%20di%20un%20ente%20autonomo%20denominato%20Fiera%20di%20Foggia.%20039U0771.md), col quale e' stato riconosciuto l'Ente autonomo "Fiera di Foggia" con sede in Foggia, e ne e' stato approvato lo statuto;
 

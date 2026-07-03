@@ -936,7 +936,7 @@ Per i funzionari con il grado di ministro plenipotenziario, la prima relazione s
 ### Art. 107. — (Promozione al grado di consigliere di legazione)
 
 Le promozioni al grado di consigliere di legazione sono effettuate fra i segretari di legazione che abbiano compiuto un periodo complessivo di dieci anni e mezzo di servizio effettivo nella carriera diplomatica, nel corso del quale: 
- a) LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md); (31) 
+ a) LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md); (31) 
  b) abbiano prestato servizio, fatta eccezione per i funzionari indicati nella lettera c), per almeno quattro anni negli uffici all'estero o nelle delegazioni diplomatiche speciali o, previa autorizzazione dell'Amministrazione, in organizzazioni internazionali o presso Stati esteri, di cui almeno due nell'esercizio ((delle seguenti funzioni: 
  1) della specializzazione per i funzionari specializzati; 
  2) commerciali, consolari, di capo di cancelleria consolare o di vicario di rappresentanza diplomatica per i funzionari non specializzati)); (23) 
@@ -991,7 +991,7 @@ La commissione a sua volta trasmette al Ministro degliaffari esteri gli elementi
 
 AGGIORNAMENTO (43)
 
-La [L. 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), ha disposto (con l'art. 51, comma 1, lettera e)) che l'articolo 109 primo comma e' sostituito come sopra, nell'ambito delle dotazioni organiche vigenti.
+La [L. 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), ha disposto (con l'art. 51, comma 1, lettera e)) che l'articolo 109 primo comma e' sostituito come sopra, nell'ambito delle dotazioni organiche vigenti.
 
 ### Art. 109-bis. — (Nomina al grado di ambasciatore)
 
@@ -1043,7 +1043,7 @@ La [L. 5 giugno 1984, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (15b)
 
-Il [D.L. 7 gennaio 1994, n. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20lorganizzazione%20della%20prima%20fase%20della%20presidenza%20italiana%20della%20Conferenza%20sulla%20sicurezza%20e%20la%20cooperazione%20in%20Europa%20CSCE_2.md) convertito senza modificazioni dalla [L. 17 febbraio 1994, n. 145](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%207%20gennaio%201994%20n.%205%20recante%20disposizioni%20urgenti%20per%20lorganizzazione%20della%20prima%20fase%20della%20presidenza%20italiana%20della%20Conferenza%20sulla%20sicurezza%20e%20l_150f352f963b.md) ha disposto (con l'art. 1, comma 1) che "Le spese per le attivita' previste dall'articolo 1 sono a carico dello stato di previsione del Ministero degli affari esteri, che vi provvede mediante aperture di credito, a favore del capo della delegazione di cui al citato articolo, di importo anche eccedente il limite stabilito dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni."
+Il [D.L. 7 gennaio 1994, n. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20lorganizzazione%20della%20prima%20fase%20della%20presidenza%20italiana%20della%20Conferenza%20sulla%20sicurezza%20e%20la%20cooperazione%20in%20Europa%20CSCE_2.md) convertito senza modificazioni dalla [L. 17 febbraio 1994, n. 145](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto-legge%207%20gennaio%201994%20n.%205%20recante%20disposizioni%20urgenti%20per%20lorganizzazione%20della%20prima%20fase%20della%20presidenza%20italiana%20della%20Conferenza%20sulla%20sicurezza%20e%20l_150f352f963b.md) ha disposto (con l'art. 1, comma 1) che "Le spese per le attivita' previste dall'articolo 1 sono a carico dello stato di previsione del Ministero degli affari esteri, che vi provvede mediante aperture di credito, a favore del capo della delegazione di cui al citato articolo, di importo anche eccedente il limite stabilito dall'[articolo 56 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), e successive modificazioni."
 
 ### Art. 112. — (Procedimento negoziale per la disciplina di alcuni aspetti del rapporto di impiego)
 

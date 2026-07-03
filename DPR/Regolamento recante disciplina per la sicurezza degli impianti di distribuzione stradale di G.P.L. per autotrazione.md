@@ -22,7 +22,7 @@ Visto l'[articolo 2 della legge 26 luglio 1965, n. 966](https://www.normattiva.i
 
 Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md);
 
-Visto il [decreto legislativo 19 settembre 1994, n. 626](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%20e%2090-679-CEE%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavora_f68a06b7f59f.md);
+Visto il [decreto legislativo 19 settembre 1994, n. 626](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md);
 
 Visto il progetto di regola tecnica approvato dal Comitato centrale tecnico scientifico per la prevenzione incendi di cui all'[articolo 10 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md);
 
