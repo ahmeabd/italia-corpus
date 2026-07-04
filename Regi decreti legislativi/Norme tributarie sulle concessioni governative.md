@@ -26,7 +26,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 8 dicembre 1944, n. 428](../Decreti%20legislativi%20luogotenenziali/Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), sull'aumento della tariffa degli onorari e dei diritti notarili;
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Ritenute la necessita' e l'urgenza di adottare provvedimenti in materia di tasse sulle concessioni governative.
 

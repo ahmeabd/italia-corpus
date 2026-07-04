@@ -12,11 +12,11 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale n. 141 del 26 marzo 1946](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md);
+Visto il [decreto legislativo Luogotenenziale n. 141 del 26 marzo 1946](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ sulla proposta del Ministro Segretario di Stato per i trasporti, di concerto con
 
 ## Art. 1.
 
-Gli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [2](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [3](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [4 del decreto legislativo Luogotenenziale 26 marzo 1946, n. 141](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), recante norme per i concorsi relativi ai posti riservati previsti dagli [articoli 1](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md) e [2 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), si applicano integralmente anche al personale delle Ferrovie dello Stato.
+Gli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), [4 del decreto legislativo Luogotenenziale 26 marzo 1946, n. 141](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lo%20svolgimento%20dei%20concorsi.md), recante norme per i concorsi relativi ai posti riservati previsti dagli [articoli 1](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md) e [2 del R. decreto 6 gennaio 1942, n. 27](../Regi%20decreti/Provvidenze%20a%20favore%20dei%20chiamati%20alle%20armi%20nelle%20assunzioni%20da%20parte%20delle%20Amministrazioni%20dello%20Stato%20e%20nelle%20promozioni%20del%20personale%20statale.%20042U0027.md), si applicano integralmente anche al personale delle Ferrovie dello Stato.
 
 ## Art. 2.
 

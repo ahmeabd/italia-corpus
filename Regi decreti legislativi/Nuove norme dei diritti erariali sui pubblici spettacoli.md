@@ -32,15 +32,15 @@ Visti gli [articoli 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Pro
 
 Visti gli articoli 2, 3, 11 le 12 del [R. decreto-legge 10 marzo 1943, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritti%20erariali%20per%20le%20corse%20di%20cavalli%20ed%20altre%20gare.%20043U0086.md), convertito nella [legge 28 giugno 1943, n. 609](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto%20legge%2010%20marzo%201943-XXI%20n.%2086%20concernente%20diritti%20erariali%20per%20le%20corse%20di%20cavalli%20ed%20altre%20gare.%20043U0609.md), che istituiscono addizionali a favore degli Enti autonomi Teatro alla Scala di Milano, Teatro comunale Vittorio Emanuele II di Firenze, Teatro Reale dell'Opera di Roma e dell'Ente nazionale per la protezione degli animali;
 
-Visto l'[art. 19 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 72](../Decreti%20legislativi%20luogotenenziali/Fondo%20di%20solidarieta%20nazionale.%20045U0072.md), che istituisce un contributo per il fondo di solidarieta' nazionale sui pubblici spettacoli;
+Visto l'[art. 19 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 72](../Atti%20normativi%20abrogati%20%28in%20originale%29/Fondo%20di%20solidarieta%20nazionale.%20045U0072.md), che istituisce un contributo per il fondo di solidarieta' nazionale sui pubblici spettacoli;
 
-Visto il [decreto legislativo Luogotenenziale 8 marzo 1945, n. 76](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), contenente modificazioni alla tariffa dei diritti erariali sui pubblici spettacoli, sulle corse dei cavalli, dei levrieri, altre gare e sulle scommesse;
+Visto il [decreto legislativo Luogotenenziale 8 marzo 1945, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), contenente modificazioni alla tariffa dei diritti erariali sui pubblici spettacoli, sulle corse dei cavalli, dei levrieri, altre gare e sulle scommesse;
 
 Visto il [R. decreto-legge 27 maggio 1946, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1946-05-27;500), contenente disposizioni sulla devoluzione del diritto erariale e demaniale all'Ente autonomo Teatro Reale dell'Opera di Roma e alla Reale Accademia di Santa Cecilia di Roma;
 
 Visto il [decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);,
 
-Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md); Visto il [R. decreto legislativo 10 maggio 1946, n. 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
+Visto il [decreto legislativo luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md); Visto il [R. decreto legislativo 10 maggio 1946, n. 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -48,7 +48,7 @@ Sulla proposta del Ministro Segretario di Stato per le finanze, di concerto col 
 
 ## Art. 1.
 
-Gli [articoli 3](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), [4](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md) e [6 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 76](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), sono sostituiti dai seguenti:
+Gli [articoli 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), [4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md) e [6 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), sono sostituiti dai seguenti:
 
  Art. 3. - Il diritto erariale sull'introito lordo degli spettacoli cinematografici e degli spettacoli di varieta' aventi almeno un numero di cinematografo, comunque e dovunque dati al pubblico, anche se in circoli e sale private, e' stabilito nella seguente misura:
 
@@ -142,7 +142,7 @@ L'[art. 49 della legge 30 dicembre 1923, n. 3276](https://www.normattiva.it/uri-
 
 ## Art. 12.
 
-Il diritto erariale nella misura del 6% sull'introito lordo delle scommesse alle corse dei cavalli di cui all'[art. 6 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 76](../Decreti%20legislativi%20luogotenenziali/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), sostituito dall'art. 1 del presente decreto, si applica a datare dal 1° marzo 1946.
+Il diritto erariale nella misura del 6% sull'introito lordo delle scommesse alle corse dei cavalli di cui all'[art. 6 del decreto legislativo Luogotenenziale 8 marzo 1945, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alla%20tariffa%20dei%20diritti%20erariali%20sui%20pubblici%20spettacoli%20sulle%20corse%20dei%20cavalli%20dei%20levrieri%20ed%20altre%20gare%20e%20sulle%20scommesse.%20045U0076.md), sostituito dall'art. 1 del presente decreto, si applica a datare dal 1° marzo 1946.
  La differenza percepita in piu' deve essere restituita, al netto dell'aggio, dalla Societa' italiana autori ed editori.
 
 ## Art. 13.

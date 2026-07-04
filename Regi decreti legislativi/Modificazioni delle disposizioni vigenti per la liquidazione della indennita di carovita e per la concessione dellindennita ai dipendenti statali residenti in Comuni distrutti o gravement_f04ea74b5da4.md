@@ -14,13 +14,13 @@ RE D'ITALIA
 
 Visto il [decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), recante provvedimenti economici a favore dei dipendenti statali;
 
-Visto il [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), concernente la concessione di una indennita' giornaliera al personale statale in servizio nei centri distrutti, semidistrutti o danneggiati;
+Visto il [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), concernente la concessione di una indennita' giornaliera al personale statale in servizio nei centri distrutti, semidistrutti o danneggiati;
 
 Riconosciuta la necessita' di apportare modificazioni nei decreti predetti;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -45,7 +45,7 @@ A decorrere dal 1° gennaio 1946, l'[art. 5 del decreto legislativo Luogotenenzi
  del 20 per cento per il personale con sede normale di servizio nei Comuni aventi una popolazione di almeno 800.000 abitanti. 
  Per ogni anno solare si ha riguardo ai dati della popolazione residente, accertata dall'Istituto centrale di statistica del Regno al 31 dicembre dell'anno precedente. 
  Con decreto del Ministro per il tesoro, sentito il Ministro per l'interno, puo' disporsi che ai dipendenti statali aventi sede normale di servizio in Comune, prossimo ad altro con almeno 300.000 abitanti, nel quale il costo dell'alimentazione sia particolarmente elevato ed i cui mezzi di comunicazione col Comune maggiore siano talmente intensi e frequenti che nonostante la separazione amministrativa essi possano considerarsi un unico centro economico, l'indennita' di carovita e relative quote complementari venga corrisposta nell'aliquota prevista per il Comune maggiore. Col decreto medesimo verra' fissata la decorrenza della prevista elevazione di aliquota. 
- La maggiorazione di cui al comma precedente non e' cumulabile con il trattamento previsto dagli [articoli 2 e seguenti del decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), a favore del personale in servizio nei centri distrutti, semidistrutti o danneggiati.
+ La maggiorazione di cui al comma precedente non e' cumulabile con il trattamento previsto dagli [articoli 2 e seguenti del decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), a favore del personale in servizio nei centri distrutti, semidistrutti o danneggiati.
 
 ## Art. 2.
 
@@ -53,7 +53,7 @@ Il miglioramento economico derivante dalla prima applicazione della maggiore ali
 
 ## Art. 3.
 
-Agli effetti dell'applicazione del [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), nei centri distrutti, semidistrutti o gravemente danneggiati durante le operazioni belliche, si considerano inabitabili anche i locali indisponibili per abitazione perche' requisiti da e per conto delle Autorita' Alleate e delle Amministrazioni statali.
+Agli effetti dell'applicazione del [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), nei centri distrutti, semidistrutti o gravemente danneggiati durante le operazioni belliche, si considerano inabitabili anche i locali indisponibili per abitazione perche' requisiti da e per conto delle Autorita' Alleate e delle Amministrazioni statali.
 
 ## Art. 4.
 
@@ -61,7 +61,7 @@ L'indennita', di cui all'[art. 1 del decreto legislativo Luogotenenziale 11 genn
 
 ## Art. 5.
 
-"Le provvidenze di cui al [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), non sono cumulabili col trattamento previsto dall'[art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md).
+"Le provvidenze di cui al [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), non sono cumulabili col trattamento previsto dall'[art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](../Decreti%20legislativi%20luogotenenziali/Trattamento%20di%20missione%20e%20di%20trasferimento%20a%20favore%20del%20personale%20statale.%20045U0320.md).
 
 ## Art. 6.
 
@@ -69,7 +69,7 @@ Le indennita' di cui agli articoli 1 e 2 del decreto legislativo Luogotenenziale
 
 ## Art. 7.
 
-Le provvidenze di cui al [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), sono estese ai segretari provinciali ed ai segretari comunali. 
+Le provvidenze di cui al [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md), sono estese ai segretari provinciali ed ai segretari comunali. 
  Le provincie, i comuni e le istituzioni di assistenza e beneficenza sono autorizzati ad estendere al personale dipendente, mediante deliberazione dei competenti organi, le provvidenze medesime con facolta' di contenerle in misure inferiori a quelle previste. 
  Nessun contributo integrativo a carico del bilancio statale e' ammesso a favore degli enti di cui sopra per fronteggiare la maggiore spesa derivante dall'applicazione del precedente comma che puo' essere compresa fra le spese obbligatorie degli enti locali territoriali ai funi dell'applicazione delle sovrimposte con facolta' di eccedere ai limiti massimi previsti. 
  Il presente articolo si applica pure agli enti parastatali ed in genere a tutti gli enti ed istituti di diritto pubblico, anche con ordinamento autonomo, sottoposti a vigilanza o tutela dello Stato o al cui mantenimento lo Stato concorra con contributi a carattere continuativo, nonche' alle aziende annesse o direttamente dipendenti dalle provincie o dai comuni o dagli altri enti suindicati, al cui personale non siano applicabili le norme sulla disciplina giuridica dei contratti collettivi di lavoro.
@@ -80,7 +80,7 @@ Per i personali retribuiti parzialmente o integralmente a carico dei bilanci non
 
 ## Art. 9.
 
-Con decreti del Ministro per il tesoro saranno introdotte in bilancio le variazioni occorrenti per l' attuazione del presente decreto e del [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Decreti%20legislativi%20luogotenenziali/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md).
+Con decreti del Ministro per il tesoro saranno introdotte in bilancio le variazioni occorrenti per l' attuazione del presente decreto e del [decreto legislativo Luogotenenziale 11 gennaio 1946, n. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20una%20indennita%20di%20prima%20sistemazione%20e%20di%20sua%20indennita%20giornaliera%20al%20personale%20statale%20in%20servizio%20nei%20centri%20distrutti%20semidistrutti%20o%20daneggiati.md).
 
 ## Art. 10.
 

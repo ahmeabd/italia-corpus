@@ -64,7 +64,7 @@ Il [D.Lgs. 27 marzo 1947, n. 1884](../Decreti%20Legislativi/Disposizioni%20per%2
 
 ## Art. 6.
 
-Alle merci importate in Italia, per conto dello Stato, con l'utilizzo delle, disponibilita' valutarie previsto agli articoli precedenti, si applicano, per quanto concerne la determinazione dei prezzi, la presa in consegna e la distribuzione nel territorio nazionale, le disposizioni concernenti i prodotti forniti dai Governi Alleati al governo Italiano, di cui al [decreto legislativo Luogotenenziale 28 maggio 1945, n. 370](../Decreti%20legislativi%20luogotenenziali/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md) e successive modificazioni ed aggiunte.
+Alle merci importate in Italia, per conto dello Stato, con l'utilizzo delle, disponibilita' valutarie previsto agli articoli precedenti, si applicano, per quanto concerne la determinazione dei prezzi, la presa in consegna e la distribuzione nel territorio nazionale, le disposizioni concernenti i prodotti forniti dai Governi Alleati al governo Italiano, di cui al [decreto legislativo Luogotenenziale 28 maggio 1945, n. 370](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md) e successive modificazioni ed aggiunte.
 
 ## Art. 7.
 
