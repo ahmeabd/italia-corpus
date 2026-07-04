@@ -52,7 +52,7 @@ Il [decreto-legge 31 luglio 1987, n. 317](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 novembre 1986, n. 761, 17 gennaio 1987, n. 6, 1 aprile 1987, n. 130, e 1 giugno 1987, n. 210 e n. 211](../DL%20decaduti/Norme%20in%20materia%20di%20tutela%20dei%20lavoratori%20italiani%20operanti%20allestero%20nei%20Paesi%20extracomunitari.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 novembre 1986, n. 761, 17 gennaio 1987, n. 6, 1 aprile 1987, n. 130, e 1 giugno 1987, n. 210 e n. 211](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20di%20tutela%20dei%20lavoratori%20italiani%20operanti%20allestero%20nei%20Paesi%20extracomunitari.md).
 
 3.
 

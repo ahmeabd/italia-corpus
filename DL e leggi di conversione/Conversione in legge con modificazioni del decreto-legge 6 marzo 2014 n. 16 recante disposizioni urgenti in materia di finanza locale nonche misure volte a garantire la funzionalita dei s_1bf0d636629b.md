@@ -22,7 +22,7 @@ Il [decreto-legge 6 marzo 2014, n. 16](https://www.normattiva.it/uri-res/N2Ls?ur
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base dei [decreti-legge 31 ottobre 2013, n. 126](../DL%20decaduti/Misure%20finanziarie%20urgenti%20in%20favore%20di%20regioni%20ed%20enti%20locali%20ed%20interventi%20localizzati%20nel%20territorio.%2013G00170.md), recante misure finanziarie urgenti in favore di regioni ed enti locali ed interventi localizzati nel territorio, e 30 dicembre 2013, n. 151, recante disposizioni di carattere finanziario indifferibili finalizzate a garantire la funzionalita' di enti locali, la realizzazione di misure in tema di infrastrutture, trasporti ed opere pubbliche nonche' a consentire interventi in favore di popolazioni colpite da calamita' naturali.
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base dei [decreti-legge 31 ottobre 2013, n. 126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20finanziarie%20urgenti%20in%20favore%20di%20regioni%20ed%20enti%20locali%20ed%20interventi%20localizzati%20nel%20territorio.%2013G00170.md), recante misure finanziarie urgenti in favore di regioni ed enti locali ed interventi localizzati nel territorio, e 30 dicembre 2013, n. 151, recante disposizioni di carattere finanziario indifferibili finalizzate a garantire la funzionalita' di enti locali, la realizzazione di misure in tema di infrastrutture, trasporti ed opere pubbliche nonche' a consentire interventi in favore di popolazioni colpite da calamita' naturali.
 
 3.
 

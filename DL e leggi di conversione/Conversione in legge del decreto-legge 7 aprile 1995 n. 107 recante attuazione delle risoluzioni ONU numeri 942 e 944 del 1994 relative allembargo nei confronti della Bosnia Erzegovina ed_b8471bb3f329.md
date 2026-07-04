@@ -24,7 +24,7 @@ E' convertito in legge il [decreto-legge 7 aprile 1995, n. 107](https://www.norm
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 dicembre 1994, n. 677, e 8 febbraio 1995, n. 34](../DL%20decaduti/Attuazione%20delle%20risoluzioni%20ONU%20numeri%20942%20e%20944%20del%201994%20relative%20allembargo%20nei%20confronti%20della%20Bosnia%20Erzegovina%20ed%20alla%20revoca%20dellembargo%20nei%20confronti%20di%20Haiti%20nonche%20autorizzazion_7755b7fed2c3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 dicembre 1994, n. 677, e 8 febbraio 1995, n. 34](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20risoluzioni%20ONU%20numeri%20942%20e%20944%20del%201994%20relative%20allembargo%20nei%20confronti%20della%20Bosnia%20Erzegovina%20ed%20alla%20revoca%20dellembargo%20nei%20confronti%20di%20Haiti%20nonche%20autorizzazion_7755b7fed2c3.md).
 
 AVVERTENZA:
  Il [decreto-legge 7 aprile 1995, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-07;107), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 84 del 10 aprile 1995.

@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 9 ottobre 1993, n. 405](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 9 agosto 1993, n. 287](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20ricorsi%20alle%20commissioni%20censuarie%20relativi%20alle%20tariffe%20destimo%20e%20alle%20rendite%20delle%20unita%20immobiliari%20urbane%20nonche%20alla%20delimitazione%20delle%20zone%20censuarie.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 9 agosto 1993, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20ricorsi%20alle%20commissioni%20censuarie%20relativi%20alle%20tariffe%20destimo%20e%20alle%20rendite%20delle%20unita%20immobiliari%20urbane%20nonche%20alla%20delimitazione%20delle%20zone%20censuarie.md).
 
 AVVERTENZA: 
  Il [decreto-legge 9 ottobre 1993, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-09;405), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 238 del 9 ottobre 1993. 

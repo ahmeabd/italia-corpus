@@ -90,7 +90,7 @@ Il [decreto-legge 7 febbraio 1985, n. 12](https://www.normattiva.it/uri-res/N2Ls
 
 1.
 
-Conservano efficacia gli atti ed i provvedimenti adottati in applicazione delle disposizioni del [decreto-legge 18 settembre 1984, n. 582](../DL%20decaduti/Misure%20amministrative%20e%20finanziarie%20in%20favore%20dei%20comuni%20ad%20alta%20tensione%20abitativa.md), e del [decreto-legge 1° dicembre 1984, n. 795](../DL%20decaduti/Misure%20amministrative%20e%20finanziarie%20in%20favore%20dei%20comuni%20ad%20alta%20tensione%20abitativa_2.md), e restano fermi i rapporti giuridici sorti sulla base dei medesimi decreti.
+Conservano efficacia gli atti ed i provvedimenti adottati in applicazione delle disposizioni del [decreto-legge 18 settembre 1984, n. 582](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20amministrative%20e%20finanziarie%20in%20favore%20dei%20comuni%20ad%20alta%20tensione%20abitativa.md), e del [decreto-legge 1° dicembre 1984, n. 795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20amministrative%20e%20finanziarie%20in%20favore%20dei%20comuni%20ad%20alta%20tensione%20abitativa_2.md), e restano fermi i rapporti giuridici sorti sulla base dei medesimi decreti.
 
 2.
 

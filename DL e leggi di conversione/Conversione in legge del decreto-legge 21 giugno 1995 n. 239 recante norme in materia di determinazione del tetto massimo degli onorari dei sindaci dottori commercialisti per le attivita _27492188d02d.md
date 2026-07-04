@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 21 giugno 1995, n. 239](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 21 aprile 1995, n. 122](../DL%20decaduti/Norme%20in%20materia%20di%20determinazione%20del%20tetto%20massimo%20degli%20onorari%20dei%20sindaci%20dottori%20commercialisti%20per%20le%20attivita%20di%20cui%20allarticolo%2037%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20_831e2412169c.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 21 aprile 1995, n. 122](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20di%20determinazione%20del%20tetto%20massimo%20degli%20onorari%20dei%20sindaci%20dottori%20commercialisti%20per%20le%20attivita%20di%20cui%20allarticolo%2037%20del%20decreto%20del%20Presidente%20della%20Repubblica%2010%20_831e2412169c.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

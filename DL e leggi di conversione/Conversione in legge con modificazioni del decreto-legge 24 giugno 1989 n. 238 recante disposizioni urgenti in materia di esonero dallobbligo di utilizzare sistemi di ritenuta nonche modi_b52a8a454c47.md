@@ -22,7 +22,7 @@ Il [decreto-legge 24 giugno 1989, n. 238](../Atti%20normativi%20abrogati%20%28in
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti ed i rapporti giuridici sorti sulla base del [decreto-legge 24 aprile 1989, n. 146](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20esonero%20dallobbligo%20di%20utilizzare%20sistemi%20di%20ritenuta.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti ed i rapporti giuridici sorti sulla base del [decreto-legge 24 aprile 1989, n. 146](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20esonero%20dallobbligo%20di%20utilizzare%20sistemi%20di%20ritenuta.md).
 
 AVVERTENZA:
  Il [decreto-legge 24 giugno 1989, n. 238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20esonero%20dallobbligo%20di%20utilizzare%20sistemi%20di%20ritenuta%20nonche%20modifiche%20ed%20integrazioni%20alle%20leggi%2018%20marzo%201988%20n.%20111%20e%2022%20aprile%201989%20n.%20143.md), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 147 del 26 giugno 1989.

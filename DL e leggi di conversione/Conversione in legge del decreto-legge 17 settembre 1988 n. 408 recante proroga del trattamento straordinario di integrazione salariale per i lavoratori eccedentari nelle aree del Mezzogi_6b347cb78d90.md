@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 17 settembre 1988, n. 408](https://www.
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 19 luglio 1988, n. 276](../DL%20decaduti/Proroga%20del%20trattamento%20straordinario%20di%20integrazione%20salariale%20per%20i%20lavoratori%20eccedentari%20nelle%20aree%20del%20Mezzogiorno%20di%20cui%20al%20decreto-legge%2010%20giugno%201977%20n.%20291%20convertito%20con%20modifi_f26c7bd639fe.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 19 luglio 1988, n. 276](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20trattamento%20straordinario%20di%20integrazione%20salariale%20per%20i%20lavoratori%20eccedentari%20nelle%20aree%20del%20Mezzogiorno%20di%20cui%20al%20decreto-legge%2010%20giugno%201977%20n.%20291%20convertito%20con%20modifi_f26c7bd639fe.md).
 
 3.
 

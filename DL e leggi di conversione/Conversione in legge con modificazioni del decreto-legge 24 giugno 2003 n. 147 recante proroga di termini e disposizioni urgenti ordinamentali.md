@@ -38,7 +38,7 @@ All'articolo 42, comma 1, alinea, della [legge 16 gennaio 2003, n. 3](https://ww
 
 6.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 21 marzo 2003, n. 45](../DL%20decaduti/Disposizioni%20urgenti%20relative%20allUNIRE%20ed%20alle%20scommesse%20ippiche.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 21 marzo 2003, n. 45](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20relative%20allUNIRE%20ed%20alle%20scommesse%20ippiche.md).
 
 7.
 

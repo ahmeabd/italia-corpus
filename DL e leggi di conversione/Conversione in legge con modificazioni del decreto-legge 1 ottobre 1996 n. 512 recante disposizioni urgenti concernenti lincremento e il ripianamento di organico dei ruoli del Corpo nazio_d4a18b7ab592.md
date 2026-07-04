@@ -22,7 +22,7 @@ Il [decreto-legge 1 ottobre 1996, n. 512](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 febbraio 1996, n. 47, 2 aprile 1996, n. 185, 3 giugno 1996, n. 305, e 2 agosto 1996, n. 406](../DL%20decaduti/Disposizioni%20urgenti%20concernenti%20lincremento%20e%20il%20ripianamento%20di%20organico%20dei%20ruoli%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20e%20misure%20di%20razionalizzazione%20per%20limpiego%20del%20personale%20nei%20_6a321c4fd6fb_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 febbraio 1996, n. 47, 2 aprile 1996, n. 185, 3 giugno 1996, n. 305, e 2 agosto 1996, n. 406](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20concernenti%20lincremento%20e%20il%20ripianamento%20di%20organico%20dei%20ruoli%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20e%20misure%20di%20razionalizzazione%20per%20limpiego%20del%20personale%20nei%20_6a321c4fd6fb_4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

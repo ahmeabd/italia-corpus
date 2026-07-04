@@ -22,7 +22,7 @@ Il [decreto-legge 18 febbraio 2003, n. 25](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Sono fatti salvi gli effetti prodottisi sulla base del [decreto-legge 23 dicembre 2002, n. 281](../DL%20decaduti/Mantenimento%20in%20servizio%20delle%20centrali%20termoelettriche%20di%20Porto%20Tolle%20Brindisi%20Nord%20e%20San%20Filippo%20del%20Mela.md).
+Sono fatti salvi gli effetti prodottisi sulla base del [decreto-legge 23 dicembre 2002, n. 281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Mantenimento%20in%20servizio%20delle%20centrali%20termoelettriche%20di%20Porto%20Tolle%20Brindisi%20Nord%20e%20San%20Filippo%20del%20Mela.md).
 
 3.
 

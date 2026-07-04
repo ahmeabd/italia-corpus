@@ -22,7 +22,7 @@ Il [decreto-legge 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed in rapporti giuridici sorti sulla base dei [decreti-legge 6 agosto 1993, n. 281, 5 ottobre 1993, n. 399, 4 dicembre 1993, n. 498, 2 febbraio 1994, n. 81, 31 marzo 1994, n. 220, 30 maggio 1994, n. 326, 30 luglio 1994, n. 475, 30 settembre 1994, n. 563, 30 novembre 1994, n. 660, e 31 gennaio 1995, n. 28](../DL%20decaduti/Interventi%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20parcheggi_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed in rapporti giuridici sorti sulla base dei [decreti-legge 6 agosto 1993, n. 281, 5 ottobre 1993, n. 399, 4 dicembre 1993, n. 498, 2 febbraio 1994, n. 81, 31 marzo 1994, n. 220, 30 maggio 1994, n. 326, 30 luglio 1994, n. 475, 30 settembre 1994, n. 563, 30 novembre 1994, n. 660, e 31 gennaio 1995, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20in%20materia%20di%20trasporti%20e%20di%20parcheggi_4.md).
 
 AVVERTENZA:
  Il [decreto-legge 1 aprile 1995, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-04-01;98), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 77 del 1 aprile 1995.

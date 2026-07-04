@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 14 settembre 1993, n. 358](https://www.
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 15 luglio 1993, n. 227](../DL%20decaduti/Proroga%20del%20termine%20previsto%20dallarticolo%2013%20del%20decreto%20del%20Presidente%20della%20Repubblica%2027%20giugno%201992%20n.%20352%20per%20ladozione%20dei%20regolamenti%20concernenti%20le%20categorie%20di%20documenti%20da%20sottr_1086e27bcbf2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 15 luglio 1993, n. 227](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20previsto%20dallarticolo%2013%20del%20decreto%20del%20Presidente%20della%20Repubblica%2027%20giugno%201992%20n.%20352%20per%20ladozione%20dei%20regolamenti%20concernenti%20le%20categorie%20di%20documenti%20da%20sottr_1086e27bcbf2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

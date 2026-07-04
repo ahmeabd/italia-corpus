@@ -60,7 +60,7 @@ dell'articolo 4-bis,".
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 3 ottobre 1986, n. 619](../DL%20decaduti/Misure%20urgenti%20per%20il%20risanamento%20delle%20gestioni%20dei%20porti%20e%20per%20lavvio%20della%20riforma%20degli%20ordinamenti%20portuali.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 3 ottobre 1986, n. 619](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20risanamento%20delle%20gestioni%20dei%20porti%20e%20per%20lavvio%20della%20riforma%20degli%20ordinamenti%20portuali.md).
 
 3.
 

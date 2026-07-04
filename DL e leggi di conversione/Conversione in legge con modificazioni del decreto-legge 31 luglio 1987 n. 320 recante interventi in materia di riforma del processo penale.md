@@ -33,7 +33,7 @@ Il [decreto-legge 31 luglio 1987, n. 320](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 aprile 1987, n. 129, e 2 giugno 1987, n. 214](../DL%20decaduti/Interventi%20in%20materia%20di%20riforma%20del%20processo%20penale_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 aprile 1987, n. 129, e 2 giugno 1987, n. 214](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20in%20materia%20di%20riforma%20del%20processo%20penale_2.md).
 
 3.
 

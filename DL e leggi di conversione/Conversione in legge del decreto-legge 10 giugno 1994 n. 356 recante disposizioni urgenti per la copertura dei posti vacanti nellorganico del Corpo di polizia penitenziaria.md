@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 10 giugno 1994, n. 356](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 febbraio 1994, n. 96, e 9 aprile 1994, n. 229](../DL%20decaduti/Disposizioni%20urgenti%20per%20la%20copertura%20dei%20posti%20vacanti%20nellorganico%20del%20Corpo%20di%20polizia%20penitenziaria_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 febbraio 1994, n. 96, e 9 aprile 1994, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20la%20copertura%20dei%20posti%20vacanti%20nellorganico%20del%20Corpo%20di%20polizia%20penitenziaria_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

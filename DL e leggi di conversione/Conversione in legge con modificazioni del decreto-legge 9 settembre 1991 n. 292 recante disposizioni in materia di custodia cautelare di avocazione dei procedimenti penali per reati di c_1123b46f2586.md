@@ -22,7 +22,7 @@ Il [decreto-legge 9 settembre 1991, n. 292](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 31 maggio 1991, n. 163](../DL%20decaduti/Trasferimenti%20di%20ufficio%20di%20magistrati%20per%20assicurare%20la%20copertura%20di%20uffici%20giudiziari%20non%20richiesti.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 31 maggio 1991, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasferimenti%20di%20ufficio%20di%20magistrati%20per%20assicurare%20la%20copertura%20di%20uffici%20giudiziari%20non%20richiesti.md).
 
 AVVERTENZA:
  Il [decreto-legge 9 settembre 1991, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-09-09;292), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 212 del 10 settembre 1991.

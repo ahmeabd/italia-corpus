@@ -22,7 +22,7 @@ Il [decreto-legge 19 aprile 2002, n. 68](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 25 gennaio 2002, n. 4](../DL%20decaduti/Disposizioni%20urgenti%20finalizzate%20a%20superare%20lo%20stato%20di%20crisi%20per%20il%20settore%20zootecnico%20per%20la%20pesca%20e%20per%20lagricoltura.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 25 gennaio 2002, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20finalizzate%20a%20superare%20lo%20stato%20di%20crisi%20per%20il%20settore%20zootecnico%20per%20la%20pesca%20e%20per%20lagricoltura.md).
 
 3.
 

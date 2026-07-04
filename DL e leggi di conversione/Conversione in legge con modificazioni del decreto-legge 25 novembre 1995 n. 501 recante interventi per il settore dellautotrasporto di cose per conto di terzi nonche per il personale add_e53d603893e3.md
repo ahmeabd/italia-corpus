@@ -22,7 +22,7 @@ Il [decreto-legge 25 novembre 1995, n. 501](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 marzo 1995, n. 92, 30 maggio 1995, n. 205, 28 luglio 1995, n. 311, e 26 settembre 1995, n. 402](../DL%20decaduti/Interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 marzo 1995, n. 92, 30 maggio 1995, n. 205, 28 luglio 1995, n. 311, e 26 settembre 1995, n. 402](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi%20nonche%20per%20il%20personale%20addetto%20ai%20pubblici%20servizi%20di%20trasporto_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

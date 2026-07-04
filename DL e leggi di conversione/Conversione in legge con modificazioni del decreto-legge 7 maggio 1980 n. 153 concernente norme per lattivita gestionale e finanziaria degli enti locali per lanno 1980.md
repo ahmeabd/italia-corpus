@@ -63,7 +63,7 @@ E' convertito in legge il [decreto-legge 7 maggio 1980, n. 153](https://www.norm
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione del [secondo comma dell'articolo 1 del decreto-legge 7 maggio 1980, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;153#art_1-com2), e, sempreche' non siano in contrasto con le norme di tale decreto, gli atti ed i provvedimenti adottati ed i rapporti giuridici sorti in applicazione del [decreto-legge 30 dicembre 1979, n. 662](../DL%20decaduti/Norme%20per%20lattivita%20gestionale%20e%20finanziaria%20degli%20enti%20locali%20per%20lanno%201980.md), nonche' del [decreto-legge 29 febbraio 1980, n. 35](../DL%20decaduti/Norme%20per%20lattivita%20gestionale%20e%20finanziaria%20degli%20enti%20locali%20per%20lanno%201980_2.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione del [secondo comma dell'articolo 1 del decreto-legge 7 maggio 1980, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;153#art_1-com2), e, sempreche' non siano in contrasto con le norme di tale decreto, gli atti ed i provvedimenti adottati ed i rapporti giuridici sorti in applicazione del [decreto-legge 30 dicembre 1979, n. 662](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattivita%20gestionale%20e%20finanziaria%20degli%20enti%20locali%20per%20lanno%201980.md), nonche' del [decreto-legge 29 febbraio 1980, n. 35](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattivita%20gestionale%20e%20finanziaria%20degli%20enti%20locali%20per%20lanno%201980_2.md).
 
 ## Art. 3.
 

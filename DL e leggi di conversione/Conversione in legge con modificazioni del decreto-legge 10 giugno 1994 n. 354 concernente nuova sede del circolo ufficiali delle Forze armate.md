@@ -22,7 +22,7 @@ Il [decreto-legge 10 giugno 1994, n. 354](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 7 aprile 1994, n. 227](../DL%20decaduti/Nuova%20sede%20del%20circolo%20ufficiali%20delle%20Forze%20armate.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 7 aprile 1994, n. 227](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20sede%20del%20circolo%20ufficiali%20delle%20Forze%20armate.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 28 agosto 1987, n. 357](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 aprile 1987, n. 165, e 30 giugno 1987, n. 253](../DL%20decaduti/Misure%20urgenti%20per%20la%20corresponsione%20a%20regioni%20ed%20altri%20enti%20di%20somme%20in%20sostituzione%20di%20tributi%20soppressi%20e%20del%20gettito%20ILOR%20nonche%20per%20lassegnazione%20di%20contributi%20straordinari%20alle%20came_3fe476be1cc2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 aprile 1987, n. 165, e 30 giugno 1987, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20la%20corresponsione%20a%20regioni%20ed%20altri%20enti%20di%20somme%20in%20sostituzione%20di%20tributi%20soppressi%20e%20del%20gettito%20ILOR%20nonche%20per%20lassegnazione%20di%20contributi%20straordinari%20alle%20came_3fe476be1cc2.md).
 
 3.
 
