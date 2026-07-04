@@ -898,7 +898,7 @@ Nelle circoscrizioni di tribunale nelle quali non esiste attualmente un Sindacat
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 31 ottobre 2024, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2010%20ottobre%202022%20n.%20149%20recante%20attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20pr_a8f73c9c3a66.md), ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
+Il [D.Lgs. 31 ottobre 2024, n. 164](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2010%20ottobre%202022%20n.%20149%20recante%20attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20pr_a8f73c9c3a66.md), ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
 ### Art. 83.
 

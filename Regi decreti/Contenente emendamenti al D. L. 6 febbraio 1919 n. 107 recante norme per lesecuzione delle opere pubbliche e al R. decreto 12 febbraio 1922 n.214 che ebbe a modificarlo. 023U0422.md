@@ -134,7 +134,7 @@ Capo II.
 
 ### Art. 30.
 
-PROVVEDIMENTO ABROGATO DAL [DP.R. 21 DICEMBRE 1999, N. 554](../DPR/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md) ((16))
+PROVVEDIMENTO ABROGATO DAL [DP.R. 21 DICEMBRE 1999, N. 554](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md) ((16))
 
 --------------
 

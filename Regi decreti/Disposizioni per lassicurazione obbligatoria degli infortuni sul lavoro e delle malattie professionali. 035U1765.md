@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduta la [legge 29 gennaio 1934, n. 333](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), recante autorizzazione al Governo del Re a riformare le norme legislative relative all'assicurazione contro gli infortuni degli operai sul lavoro nelle industrie;
+Veduta la [legge 29 gennaio 1934, n. 333](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), recante autorizzazione al Governo del Re a riformare le norme legislative relative all'assicurazione contro gli infortuni degli operai sul lavoro nelle industrie;
 
 Veduto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -1110,7 +1110,7 @@ Gli impiegati dell'Istituto nazionale fascista infortuni sono equiparati a quell
 
 ### Art. 73.
 
-Con successivi Regi decreti saranno emanate le ulteriori disposizioni che, anche ad integrazione delle norme del presente decreto, potranno occorrere per l'attuazione di quanto e' disposto nell'[art. 1 della legge 29 gennaio 1934, n. 333](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), concernente delegazione al Governo di riformare le disposizioni legislative sull'assicurazione obbligatoria contro gli infortuni sul lavoro. 
+Con successivi Regi decreti saranno emanate le ulteriori disposizioni che, anche ad integrazione delle norme del presente decreto, potranno occorrere per l'attuazione di quanto e' disposto nell'[art. 1 della legge 29 gennaio 1934, n. 333](../Atti%20normativi%20abrogati%20%28in%20originale%29/Delegazione%20al%20Governo%20di%20riformare%20le%20disposizioni%20legislative%20sullassicurazione%20obbligatoria%20contro%20gli%20infortuni%20degli%20operai%20sul%20lavoro.%20034U0333.md), concernente delegazione al Governo di riformare le disposizioni legislative sull'assicurazione obbligatoria contro gli infortuni sul lavoro. 
  
  Con regolamento da approvarsi con Regio decreto, su proposta del Ministro per le corporazioni di concerto con i Ministri di grazia e giustizia e delle finanze, saranno stabilite le norme per l'esecuzione del presente decreto. 
  
