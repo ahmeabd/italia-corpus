@@ -532,12 +532,11 @@ L'organizzazione, i compiti e le funzioni dell'Agenzia industrie difesa e della 
 
 3.
 
-Nel regolamento sono disciplinati gli enti di cui alle lettere c), d), e), f), g) e h), del comma 1; la disciplina relativa alle componenti ausiliarie delle Forze armate dell'Associazione italiana della Croce rossa e' contenuta negli articoli 196, 197 e da 1626 a 1760. 
- 
---------------- 
-Nota redazionale 
- Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 07/09/2010, n. 209 durante il periodo di "vacatio legis". 
- E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+Nel regolamento sono disciplinati gli enti di cui alle lettere c), d), e), f), g) e h), del comma 1; la disciplina relativa alle componenti ausiliarie delle Forze armate dell'Associazione italiana della Croce rossa e' contenuta negli articoli 196, 197 e da 1626 a 1760.
+
+3-bis.
+
+((La vigilanza sull'ente di cui al comma 1, lettera e) e' finalizzata alla verifica dei documenti contabili preventivi e consuntivi e del rendiconto generale, redatti esclusivamente per la parte relativa alle funzioni istituzionali dell'ente.))
 
 ### Art. 21. — Servizio di assistenza al volo
 
@@ -3479,8 +3478,7 @@ L'Aeronautica militare si compone dei seguenti elementi:
 AGGIORNAMENTO (138)
 
 Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md) ha disposto (con l'art. 20, comma 2, lettera a)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
- a) articolo 4, comma 1, lettere c), e), f), g), h), e i); 
- [...]
+ a) articolo 4, comma 1, lettere c), e), f), g), h), e i)".
 
 ### Art. 148. — Corpo del genio aeronautico
 
@@ -4171,8 +4169,7 @@ Il provvedimento medico legale di temporanea non idoneita' al servizio per patol
 AGGIORNAMENTO (138)
 
 Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md) ha disposto (con l'art. 20, comma 2, lettera a)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
- a) articolo 4, comma 1, lettere c), e), f), g), h), e i); 
- [...]
+ a) articolo 4, comma 1, lettere c), e), f), g), h), e i)".
 
 ### Art. 180. — Disposizioni ulteriori in tema di organizzazione e servizio dell'Arma dei carabinieri
 
@@ -4288,7 +4285,7 @@ Nota all'art. 184:
 
 2.
 
-Sono escluse dall'ambito di applicazione del [decreto legislativo 6 febbraio 2007, n. 52](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202003-122-CE%20Euratom%20sul%20controllo%20delle%20sorgenti%20radioattive%20sigillate%20ad%20alta%20attivita%20e%20delle%20sorgenti%20orfane.md), le sorgenti sigillate ad alta attivita' detenute per attivita' svolte nell'ambito del Ministero della difesa.
+Sono escluse dall'ambito di applicazione del [decreto legislativo 6 febbraio 2007, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-122-CE%20Euratom%20sul%20controllo%20delle%20sorgenti%20radioattive%20sigillate%20ad%20alta%20attivita%20e%20delle%20sorgenti%20orfane.md), le sorgenti sigillate ad alta attivita' detenute per attivita' svolte nell'ambito del Ministero della difesa.
 
 ------------
 
@@ -4300,7 +4297,7 @@ Il [D.Lgs. 31 luglio 2020, n. 101](../Atti%20di%20recepimento%20direttive%20UE/A
 
 1.
 
-Le disposizioni sancite dal [decreto legislativo 26 novembre 1999, n. 532](../Decreti%20Legislativi/Diposizioni%20in%20materia%20di%20lavoro%20notturno%20a%20norma%20dellarticolo%2017%20comma%202%20della%20legge%205%20febbraio%201999%20n.%2025.md), dalla [legge 22 febbraio 2001, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36) e dal [decreto legislativo 19 agosto 2005, n. 187](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202002-44-CE%20sulle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20relative%20allesposizione%20dei%20lavoratori%20ai%20rischi%20derivanti%20da%20vibrazioni%20meccaniche.md), si applicano alle Forze armate, nei limiti di compatibilita' con gli speciali compiti e attivita' da esse svolti, tenuto conto delle insopprimibili esigenze connesse all'utilizzo dello strumento militare.
+Le disposizioni sancite dal [decreto legislativo 26 novembre 1999, n. 532](../Decreti%20Legislativi/Diposizioni%20in%20materia%20di%20lavoro%20notturno%20a%20norma%20dellarticolo%2017%20comma%202%20della%20legge%205%20febbraio%201999%20n.%2025.md), dalla [legge 22 febbraio 2001, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36) e dal [decreto legislativo 19 agosto 2005, n. 187](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-44-CE%20sulle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20relative%20allesposizione%20dei%20lavoratori%20ai%20rischi%20derivanti%20da%20vibrazioni%20meccaniche.md), si applicano alle Forze armate, nei limiti di compatibilita' con gli speciali compiti e attivita' da esse svolti, tenuto conto delle insopprimibili esigenze connesse all'utilizzo dello strumento militare.
 
 2.
 
@@ -4309,7 +4306,7 @@ I limiti di compatibilita' e le esigenze connesse all'utilizzo dello strumento m
 Note all'[art. 186:
  - Il decreto legislativo 26 novembre 1999, n. 532](../Decreti%20Legislativi/Diposizioni%20in%20materia%20di%20lavoro%20notturno%20a%20norma%20dellarticolo%2017%20comma%202%20della%20legge%205%20febbraio%201999%20n.%2025.md) (Disposizioni in materia di lavoro notturno, a norma dell'[articolo 17, comma 2, della L. 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md)) e' pubblicato nella Gazzetta Ufficiale del 21 gennaio 2000, n. 16.
  - La [legge 22 febbraio 2001, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36) (Legge quadro sulla protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici) e' pubblicata nella Gazzetta Ufficiale del 7 marzo 2001, n. 55.
- - Il [decreto legislativo 19 agosto 2005, n. 187](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202002-44-CE%20sulle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20relative%20allesposizione%20dei%20lavoratori%20ai%20rischi%20derivanti%20da%20vibrazioni%20meccaniche.md) (Attuazione della [direttiva 2002/44/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;44) sulle prescrizioni minime di sicurezza e di salute relative all'esposizione dei lavoratori ai rischi derivanti da vibrazioni meccaniche) e' pubblicato nella Gazzetta Ufficiale del 21 settembre 2005, n. 220.
+ - Il [decreto legislativo 19 agosto 2005, n. 187](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-44-CE%20sulle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20relative%20allesposizione%20dei%20lavoratori%20ai%20rischi%20derivanti%20da%20vibrazioni%20meccaniche.md) (Attuazione della [direttiva 2002/44/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;44) sulle prescrizioni minime di sicurezza e di salute relative all'esposizione dei lavoratori ai rischi derivanti da vibrazioni meccaniche) e' pubblicato nella Gazzetta Ufficiale del 21 settembre 2005, n. 220.
 
 ### Art. 187. — Disposizioni tecniche attuative
 
@@ -4584,17 +4581,13 @@ A richiesta del presidente puo' intervenire ai lavori della Commissione di cui a
 
 ### Art. 194-bis. — (( (Commissioni mediche di secondo grado). ))
 
-((
-
 1.
 
-Per l'esame delle istanze e dei ricorsi presentati dagli interessati avverso i giudizi di prima istanza espressi dagli organi sanitari monocratici diversi dalle Commissioni di cui all'articolo 193, la Direzione della Sanita' militare puo' istituire, presso le Forze armate, una o piu' Commissioni mediche di secondo grado. I giudizi di tali Commissioni sono definitivi.
+((Per l'esame delle istanze e dei ricorsi presentati dagli interessati avverso i giudizi di prima istanza espressi dagli organi sanitari monocratici diversi dalle Commissioni di cui all'articolo 193, la Direzione della Sanita' militare puo' istituire, presso le Forze armate, una o piu' Commissioni mediche di secondo grado. I giudizi di tali Commissioni sono definitivi.))
 
 2.
 
-Ciascuna Commissione e' presieduta dall'ufficiale della Sanita' militare piu' elevato in grado impiegato presso la Forza armata o da un suo delegato. Della Commissione fanno parte, in qualita' di membri, due ufficiali superiori medici, nominati dal Direttore della Sanita' militare. Detti membri sono scelti fra gli ufficiali in servizio presso la Direzione della Sanita' militare o presso altre strutture sanitarie militari operanti presso la stessa Forza armata.
-
-))
+((Ciascuna Commissione e' presieduta dall'ufficiale della Sanita' militare piu' elevato in grado impiegato presso la Forza armata o da un suo delegato. Della Commissione fanno parte, in qualita' di membri, due ufficiali superiori medici, nominati dal Direttore della Sanita' militare. Detti membri sono scelti fra gli ufficiali in servizio presso la Direzione della Sanita' militare o presso altre strutture sanitarie militari operanti presso la stessa Forza armata.))
 
 ### Art. 195. — ((Strutture sanitarie militari))
 
@@ -4731,7 +4724,7 @@ L'organizzazione e il funzionamento dei servizi della Croce rossa italiana ausil
 
 ((COMMA ABROGATO DAL D.LGS. 24 FEBBRAIO 2012, N. 20)).
 
-## CAPO III ATTRIBUZIONI E SERVIZI SEZIONE I ATTIVITA' DELLE COMMISSIONI MEDICHE INTERFORZE
+## CAPO III ATTRIBUZIONI E SERVIZI SEZIONE I ATTIVITA' DELLE COMMISSIONI MEDICHE ((DELLA SANITA' MILITARE))
 
 -
 
@@ -5356,11 +5349,24 @@ I corsi di studio seguiti presso gli istituti militari di cui all'articolo 224 s
 
 Per le materie militari e professionali non rientranti negli ordinamenti didattici, definiti ai sensi del comma 1, e per gli altri corsi di carattere non universitario o postuniversitario, l'ordine degli studi e i programmi sono stabiliti in base a quanto disposto nel libro IV, titolo III, capi I e II del regolamento.
 
+## ((SEZIONE IIBIS FORMAZIONE SANITARIA))
+
+-
+
 ### Art. 225-bis. — (( (Formazione del personale del Corpo unico della Sanita' militare).))
 
 1.
 
 ((La formazione degli ufficiali, dei sottufficiali e dei graduati della Sanita' militare, sia di base sia successiva, ivi compresa quella accademica, e' garantita dalle Forze armate e dall'Arma dei carabinieri attraverso le rispettive strutture formative.))
+
+2.
+
+((Ai fini di cui al comma 1:))
+                            a)
+                                ((il Direttore della Sanita' militare adotta i provvedimenti di competenza d'intesa con i Capi di Stato maggiore delle Forze armate e il Comandante generale dell'Arma dei carabinieri;))
+                            b)
+                                ((le graduatorie di merito di cui all'articolo 601 del regolamento sono determinate da un'unica commissione nominata con determinazione del Direttore della Sanita' militare, composta da cinque ufficiali appartenenti al Corpo unico della Sanita' militare, secondo criteri e modalita' stabiliti con decreto del Ministro della difesa.))
+                                        ((138))
 
 -------------
 
@@ -5833,9 +5839,7 @@ Note all'art. 249:
 
 ### Art. 250.
 
-(( (Campi e impianti di tiro a segno) )). 
- 
- ((
+(Campi e impianti di tiro a segno).
 
 1.
 
@@ -5843,11 +5847,11 @@ I campi di tiro a segno impiantati a spese dello Stato sono compresi tra gli imm
 
 2.
 
-L'esecuzione tecnica dei lavori relativi all'impianto, sistemazione e manutenzione dei campi e impianti di tiro a segno di cui al comma 1 e' affidata alla vigilanza del Ministero della difesa.
+L'esecuzione tecnica dei lavori relativi all'impianto, sistemazione e manutenzione dei campi e impianti di tiro a segno di cui al comma 1 ((e' affidata alla vigilanza dell'Unione italiana tiro a segno, che adotta le direttive tecniche per la concessione e il mantenimento dell'agibilita' al tiro relative agli impianti e ai campi di tiro e ai locali per la custodia di armi e munizioni presenti presso i poligoni delle sezioni di tiro a segno nazionale)).
 
 3.
 
-I campi di tiro a segno di cui al comma 1 sono dati in uso, a titolo gratuito, alle sezioni di tiro a segno, senza oneri a carico dello Stato.
+I campi di tiro a segno di cui al comma 1 ((sono dati in uso, a titolo gratuito, all'Unione italiana tiro a segno, senza oneri a carico dello Stato, che ne disciplina l'utilizzazione secondo la legge, il proprio statuto e le direttive emanate per i profili di sicurezza, agibilita' e addestramento al tiro)).
 
 ### Art. 251. — Uso speciale e obbligatorio dei campi di tiro a segno - Quota di iscrizione
 
@@ -5857,11 +5861,15 @@ Coloro che prestano servizio armato presso enti pubblici o privati sono obbligat
 
 2.
 
-L'iscrizione e la frequenza a una sezione di tiro a segno nazionale sono obbligatorie, ai fini della richiesta del permesso di porto d'armi per la caccia o per uso personale, per coloro che non hanno prestato o non prestano servizio presso le Forze armate dello Stato.
+L'iscrizione e la frequenza a una sezione di tiro a segno nazionale sono obbligatorie, ai fini della richiesta del permesso di porto d'armi per la caccia o per uso personale, per coloro che non hanno prestato o non prestano servizio presso le Forze armate dello Stato ((e i Corpi armati dello Stato)).
+
+2-bis.
+
+((Nell'ambito degli obblighi previsti dai commi 1 e 2 l'Unione italiana tiro a segno provvede alla formazione sulla legislazione in materia di armi e all'addestramento mediante protocolli che prevedono quattro giorni di esercitazioni applicate all'uso delle armi.))
 
 3.
 
-La quota annua per l'iscrizione obbligatoria alle sezioni di tiro a segno nazionale per le categorie indicate ai commi 1 e 2 e' stabilita in euro 11,56. Con decreto dirigenziale della competente struttura del Ministero della difesa, di concerto con i ((...)) Ministeri dell'interno, della giustizia, dell'economia e delle finanze e delle politiche agricole, alimentari e forestali, si provvede ad adeguare annualmente detta quota, sulla base delle variazioni percentuali del costo della vita quale risulta ai fini delle rilevazioni ISTAT per i conti economici nazionali pubblicati a marzo di ogni anno nella relazione sulla situazione economica del Paese. Gli aumenti decorrono dal 1° gennaio dell'anno successivo a quello di rilevazione.
+((La quota annua per l'iscrizione obbligatoria all'Unione italiana tiro a segno per le categorie indicate ai commi 1 e 2 e' stabilita in euro 25.)) Con decreto dirigenziale della competente struttura del Ministero della difesa, di concerto con i Ministeri dell'interno, della giustizia, dell'economia e delle finanze e delle politiche agricole, alimentari e forestali, si provvede ad adeguare annualmente detta quota, sulla base delle variazioni percentuali del costo della vita quale risulta ai fini delle rilevazioni ISTAT per i conti economici nazionali pubblicati a marzo di ogni anno nella relazione sulla situazione economica del Paese. Gli aumenti decorrono dal 1° gennaio dell'anno successivo a quello di rilevazione.
 
 ## CAPO VI ZONE MONUMENTALI DI GUERRA, PATRIMONIO STORICO DELLA PRIMA GUERRA MONDIALE, SEPOLCRETI DI GUERRA SEZIONE I ZONE MONUMENTALI DI GUERRA
 
@@ -7847,7 +7855,7 @@ Nota all'art. 361:
 
 1.
 
-Ai sensi dell'[articolo 4, comma 1, lettera a), del decreto legislativo 17 agosto 1999, n. 334](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-82-CE%20relativa%20al%20controllo%20dei%20pericoli%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20sostanze%20pericolose.md), sono esclusi dall'applicazione del citato decreto gli stabilimenti, gli impianti o i depositi militari.
+Ai sensi dell'[articolo 4, comma 1, lettera a), del decreto legislativo 17 agosto 1999, n. 334](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-82-CE%20relativa%20al%20controllo%20dei%20pericoli%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20sostanze%20pericolose.md), sono esclusi dall'applicazione del citato decreto gli stabilimenti, gli impianti o i depositi militari.
 
 2.
 
@@ -7859,7 +7867,7 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 Note all'art. 362: 
- - Il testo degli articoli 3, comma 1, lettera d), 4, comma 1, lettera a), 8 e [22, comma 2, del decreto legislativo 17 agosto 1999, n. 334](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2096-82-CE%20relativa%20al%20controllo%20dei%20pericoli%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20sostanze%20pericolose.md) (Attuazione della [direttiva 96/82/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;82) relativa al controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 settembre 1999, n. 228, e' il seguente: 
+ - Il testo degli articoli 3, comma 1, lettera d), 4, comma 1, lettera a), 8 e [22, comma 2, del decreto legislativo 17 agosto 1999, n. 334](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-82-CE%20relativa%20al%20controllo%20dei%20pericoli%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20sostanze%20pericolose.md) (Attuazione della [direttiva 96/82/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;82) relativa al controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 settembre 1999, n. 228, e' il seguente: 
  «Art. 3 (Definizioni). - 1. Ai fini del presente decreto si intende per: 
  d) "gestore", la persona fisica o giuridica che gestisce o detiene lo stabilimento o l'impianto; ». 
  «Art. 4 (Esclusioni). - 1. Sono esclusi dall'applicazione del presente decreto: 
@@ -7897,7 +7905,7 @@ I limiti relativi al tenore di zolfo nei combustibili a uso marittimo, previsti 
 
 1-bis.
 
-Continuano ad applicarsi alle navi militari da guerra o ausiliarie le disposizioni in materia di impianti per la raccolta di rifiuti e di antinquinamento, di cui all'[articolo 3, comma 1, lettera a), del decreto legislativo 24 giugno 2003, n. 182](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202000-59-CE%20relativa%20agli%20impianti%20portuali%20di%20raccolta%20per%20i%20rifiuti%20prodotti%20dalle%20navi%20ed%20i%20residui%20del%20carico.md), e all'[articolo 3, comma 2, del decreto legislativo 6 novembre 2007, n. 202](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-35-CE%20relativa%20allinquinamento%20provocato%20dalle%20navi%20e%20conseguenti%20sanzioni.md). Con il decreto del Ministro della difesa di cui all'[articolo 3, comma 2, del decreto legislativo n. 182 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;182#art_3-com2) sono stabilite le misure necessarie ad assicurare che le navi militari da guerra ed ausiliarie conferiscano i rifiuti e i residui del carico in conformita' alla normativa vigente in materia, tenuto conto delle specifiche prescrizioni tecniche previste per le medesime navi e delle caratteristiche di ogni classe di unita'. ((Si applica, altresi', l'articolo 2, comma 2, del decreto legislativo 13 ottobre 2010, n. 190.))
+Continuano ad applicarsi alle navi militari da guerra o ausiliarie le disposizioni in materia di impianti per la raccolta di rifiuti e di antinquinamento, di cui all'[articolo 3, comma 1, lettera a), del decreto legislativo 24 giugno 2003, n. 182](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-59-CE%20relativa%20agli%20impianti%20portuali%20di%20raccolta%20per%20i%20rifiuti%20prodotti%20dalle%20navi%20ed%20i%20residui%20del%20carico.md), e all'[articolo 3, comma 2, del decreto legislativo 6 novembre 2007, n. 202](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-35-CE%20relativa%20allinquinamento%20provocato%20dalle%20navi%20e%20conseguenti%20sanzioni.md). Con il decreto del Ministro della difesa di cui all'[articolo 3, comma 2, del decreto legislativo n. 182 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;182#art_3-com2) sono stabilite le misure necessarie ad assicurare che le navi militari da guerra ed ausiliarie conferiscano i rifiuti e i residui del carico in conformita' alla normativa vigente in materia, tenuto conto delle specifiche prescrizioni tecniche previste per le medesime navi e delle caratteristiche di ogni classe di unita'. ((Si applica, altresi', l'articolo 2, comma 2, del decreto legislativo 13 ottobre 2010, n. 190.))
 
 ### Art. 364. — Inquinamento acustico
 
@@ -7961,7 +7969,7 @@ Note all'art. 366:
  «Art. 3 (Campo di applicazione). - 1. Il presente decreto legislativo si applica a tutti i settori di attivita', privati e pubblici, e a tutte le tipologie di rischio.
  2. Nei riguardi delle Forze armate e di Polizia, del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, dei servizi di protezione civile, nonche' nell'ambito delle strutture giudiziarie, penitenziarie, di quelle destinate per finalita' istituzionali alle attivita' degli organi con compiti in materia di ordine e sicurezza pubblica, delle universita', degli istituti di istruzione universitaria, delle istituzioni dell'alta formazione artistica e coreutica, degli istituti di istruzione ed educazione di ogni ordine e grado, degli uffici all'estero di cui all'[articolo 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e dei mezzi di trasporto aerei e marittimi, le disposizioni del presente decreto legislativo sono applicate tenendo conto delle effettive particolari esigenze connesse al servizio espletato o alle peculiarita' organizzative ivi comprese quelle per la tutela della salute e sicurezza del personale nel corso di operazioni ed attivita' condotte dalle Forze armate, compresa l'Arma dei Carabinieri, nonche' dalle altre Forze di polizia e dal Corpo dei Vigili del fuoco, nonche' dal Dipartimento della protezione civile fuori dal territorio nazionale, individuate entro e non oltre ventiquattro mesi dalla data di entrata in vigore del presente decreto legislativo con decreti emanati, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), dai Ministri competenti di concerto con i Ministri del lavoro, della salute e delle politiche sociali e per le riforme e le innovazioni nella pubblica amministrazione, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le organizzazioni sindacali comparativamente piu' rappresentative sul piano nazionale nonche', relativamente agli schemi di decreti di interesse delle Forze armate, compresa l'Arma dei carabinieri ed il Corpo della Guardia di finanza, gli organismi a livello nazionale rappresentativi del personale militare; analogamente si provvede per quanto riguarda gli archivi, le biblioteche e i musei solo nel caso siano sottoposti a particolari vincoli di tutela dei beni artistici storici e culturali.
  Con decreti, da emanare entro trentasei mesi dalla data di entrata in vigore del presente decreto, ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), su proposta dei Ministri competenti, di concerto con il Ministro del lavoro, della salute e delle politiche sociali, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, si provvede a dettare le disposizioni necessarie a consentire il coordinamento con la disciplina recata dal presente decreto della normativa relativa alle attivita' lavorative a bordo delle navi, di cui al [decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), in ambito portuale, di cui al [decreto legislativo 27 luglio 1999, n. 272](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20nellespletamento%20di%20operazioni%20e%20servizi%20portuoli%20nonche%20di%20operazioni%20di%20manutenzione%20riparazione%20e%20trasformazione%20del_c498f30f7c87.md), e per il settore delle navi da pesca, di cui al [decreto legislativo 17 agosto 1999, n. 298](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-103-CE%20relativa%20alle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20per%20il%20lavoro%20a%20bordo%20delle%20navi%20da%20pesca.md), e l'armonizzazione delle disposizioni tecniche di cui ai titoli dal II al XII del medesimo decreto con la disciplina in tema di trasporto ferroviario contenuta nella [legge 26 aprile 1974, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-26;191), e relativi decreti di attuazione.
- 3. Fino alla scadenza del termine di cui al comma 2, sono fatte salve le disposizioni attuative dell'[articolo 1, comma 2, del decreto legislativo 19 settembre 1994, n. 626](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%20e%2090-679-CEE%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavora_f68a06b7f59f.md), nonche' le disposizioni di cui al [decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), al [decreto legislativo 27 luglio 1999, n. 272](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20nellespletamento%20di%20operazioni%20e%20servizi%20portuoli%20nonche%20di%20operazioni%20di%20manutenzione%20riparazione%20e%20trasformazione%20del_c498f30f7c87.md), al [decreto legislativo 17 agosto 1999, n. 298](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-103-CE%20relativa%20alle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20per%20il%20lavoro%20a%20bordo%20delle%20navi%20da%20pesca.md), e le disposizioni tecniche del [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e del [decreto del Presidente della Repubblica 7 gennaio 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), richiamate dalla [legge 26 aprile 1974, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-26;191), e dai relativi decreti di attuazione; decorso inutilmente tale termine, trovano applicazione le disposizioni di cui al presente decreto.
+ 3. Fino alla scadenza del termine di cui al comma 2, sono fatte salve le disposizioni attuative dell'[articolo 1, comma 2, del decreto legislativo 19 settembre 1994, n. 626](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md), nonche' le disposizioni di cui al [decreto legislativo 27 luglio 1999, n. 271](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), al [decreto legislativo 27 luglio 1999, n. 272](../Decreti%20Legislativi/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20nellespletamento%20di%20operazioni%20e%20servizi%20portuoli%20nonche%20di%20operazioni%20di%20manutenzione%20riparazione%20e%20trasformazione%20del_c498f30f7c87.md), al [decreto legislativo 17 agosto 1999, n. 298](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-103-CE%20relativa%20alle%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20per%20il%20lavoro%20a%20bordo%20delle%20navi%20da%20pesca.md), e le disposizioni tecniche del [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e del [decreto del Presidente della Repubblica 7 gennaio 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), richiamate dalla [legge 26 aprile 1974, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-26;191), e dai relativi decreti di attuazione; decorso inutilmente tale termine, trovano applicazione le disposizioni di cui al presente decreto.
  3-bis. Nei riguardi delle cooperative sociali di cui alla [legge 8 novembre 1991, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-08;381), e delle organizzazioni di volontariato della protezione civile, ivi compresi i volontari della Croce Rossa Italiana e del Corpo Nazionale soccorso alpino e speleologico, e i volontari dei vigili del fuoco, le disposizioni del presente decreto legislativo sono applicate tenendo conto delle particolari modalita' di svolgimento delle rispettive attivita', individuate entro il 31 dicembre 2010 con decreto del Ministero del lavoro, della salute e delle politiche sociali, di concerto con il Dipartimento della protezione civile e il Ministero dell'interno, sentita la Commissione consultiva permanente per la salute e sicurezza sul lavoro.
  4. Il presente decreto legislativo si applica a tutti i lavoratori e lavoratrici, subordinati e autonomi, nonche' ai soggetti ad essi equiparati, fermo restando quanto previsto dai commi successivi del presente articolo.
  5. Nell'ipotesi di prestatori di lavoro nell'ambito di un contratto di somministrazione di lavoro di cui agli [articoli 20 e seguenti del decreto legislativo 10 settembre 2003, n. 276](../Decreti%20Legislativi/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), e successive modificazioni, fermo restando quanto specificamente previsto dal comma 5 dell'articolo 23 del citato [decreto legislativo n. 276 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;276), tutti gli obblighi di prevenzione e protezione di cui al presente decreto sono a carico dell'utilizzatore.
@@ -12570,7 +12578,7 @@ Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20ma
  [....] 
  c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-## SEZIONE II UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
+## SEZIONE II UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE e DELLA SANITA' MILITARE))
 
 -
 
@@ -13171,7 +13179,7 @@ Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20ma
  [....] 
  c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-## SEZIONE II MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
+## SEZIONE II MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))
 
 -
 
@@ -14378,7 +14386,7 @@ Ai fini dell'attivazione e della gestione dei corsi di cui al presente articolo,
 
 2.
 
-Le convenzioni di cui al presente articolo prevedono anche le modalita' di riconoscimento degli studi compiuti e di rilascio dei titoli di diploma universitario, di laurea e di specializzazione riguardanti gli ufficiali delle Forze armate ((, della Sanita' militar)) e del Corpo della Guardia di finanza in servizio ovvero in congedo che, in possesso del diploma di scuola media superiore richiesto all'epoca per l'ammissione alle accademie militari, hanno superato il previsto ciclo di studi presso le rispettive accademie e le scuole di applicazione ovvero la Scuola ufficiali carabinieri o la Scuola di applicazione della Guardia di finanza. Per gli ufficiali in congedo le modalita' di riconoscimento sono definite anche con riferimento ai cicli di studi frequentati dal personale in servizio.
+Le convenzioni di cui al presente articolo prevedono anche le modalita' di riconoscimento degli studi compiuti e di rilascio dei titoli di diploma universitario, di laurea e di specializzazione riguardanti gli ufficiali delle Forze armate ((, della Sanita' militare)) e del Corpo della Guardia di finanza in servizio ovvero in congedo che, in possesso del diploma di scuola media superiore richiesto all'epoca per l'ammissione alle accademie militari, hanno superato il previsto ciclo di studi presso le rispettive accademie e le scuole di applicazione ovvero la Scuola ufficiali carabinieri o la Scuola di applicazione della Guardia di finanza. Per gli ufficiali in congedo le modalita' di riconoscimento sono definite anche con riferimento ai cicli di studi frequentati dal personale in servizio.
 I riconoscimenti hanno luogo dando la precedenza alle procedure riguardanti gli ufficiali in servizio. ((138))
 
 --------------
@@ -14426,7 +14434,7 @@ I candidati utilmente collocati nelle graduatorie di merito dei concorsi straord
                             a)
                                 se appartenenti all'Esercito italiano, alla Marina militare e all'Aeronautica militare frequentano corsi applicativi di durata non superiore a un anno accademico le cui modalita' sono disciplinate con determinazione dei rispettivi Capi di stato maggiore;
                             b)
-                                se appartenenti all'Arma dei carabinieri frequentano un corso applicativo della durata non inferiore a due anni, le cui modalita' sono disciplinate con determinazione del Comandante generale dell'Arma dei carabinieri; ((138))
+                                se appartenenti all'Arma dei carabinieri frequentano un corso applicativo della durata non inferiore a due anni, le cui modalita' sono disciplinate con determinazione del Comandante generale dell'Arma dei carabinieri;
                             b-bis)
                                 ((se appartenenti alla Sanita' militare frequentano un corso applicativo di durata non superiore a un anno accademico le cui modalita' sono disciplinate con determinazione del Direttore della Sanita' militare.))
                                         ((138))
@@ -14878,6 +14886,10 @@ Gli ufficiali reclutati nel ruolo normale a nomina diretta, all'atto dell'ammiss
 
 I vincitori dei concorsi per la nomina a ufficiale del ruolo ((tecnico)) e del ruolo forestale, se non gia' in servizio permanente, sono vincolati a una ferma di sette anni, decorrente dall'inizio del rispettivo corso formativo, che assorbe ogni altra ferma precedentemente contratta.
 
+## ((SEZIONE VBIS  UFFICIALI DELLA SANITA' MILITARE))
+
+-
+
 ### Art. 738-bis. — (( (Formazione degli ufficiali del ruolo normale provenienti dalle accademie).))
 
 1.
@@ -14956,7 +14968,7 @@ Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20ma
  [...] 
  c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-### Art. 738-quater. — (( (Mancato transito nel ruolo speciale). - 1. Gli ufficiali di cui all'articolo 738-ter, comma 3, che non hanno presentato domanda di transito nei ruoli speciali ai sensi dell'articolo 655, comma 1, lettera d-bis).))
+### Art. 738-quater. — (( (Mancato transito nel ruolo speciale).))
 
 1.
 
@@ -15353,7 +15365,7 @@ Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20ma
  [...] 
  c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-## CAPO V MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
+## CAPO V MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))
 
 -
 
@@ -16063,22 +16075,38 @@ Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20ma
 
 1.
 
-((La ripartizione delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, dell'Aeronautica militare e del Corpo unico della Sanita' militare e' determinata nelle seguenti unita': 
- a) ufficiali: 
+((La ripartizione delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, dell'Aeronautica militare e del Corpo unico della Sanita' militare e' determinata nelle seguenti unita':))
+                            a)
+                                ((ufficiali: 
  1) 8.957 dell'Esercito italiano; 
  2) 4.361 della Marina militare; 
  3) 5.740 dell'Aeronautica militare; 
- 4) 1.763 del Corpo unico della Sanita' militare; 
-b) sottufficiali: 
+ 4) 1.763 del Corpo unico della Sanita' militare;))
+                            b)
+                                ((sottufficiali: 
  1) 17.626 dell'Esercito italiano, di cui 6.276 marescialli e 11.350 sergenti; 
  2) 10.445 della Marina militare, di cui 5.631 marescialli e 4.814 sergenti; 
  3) 16.883 dell'Aeronautica militare, di cui 8.033 marescialli e 8.850 sergenti; 
- 4) 1.811 del Corpo unico della Sanita' militare, di cui 1.739 marescialli e 72 sergenti; 
-c) volontari: 
+ 4) 1.811 del Corpo unico della Sanita' militare, di cui 1.739 marescialli e 72 sergenti;))
+                            c)
+                                ((volontari: 
  1) 64.975 dell'Esercito italiano, di cui 39.975 in servizio permanente e 25.000 in ferma prefissata; 
  2) 14.275 della Marina militare, di cui 10.505 in servizio permanente e 3.770 in ferma prefissata; 
  3) 13.415 dell'Aeronautica militare, di cui 8.815 in servizio permanente e 4.600 in ferma prefissata. 
  4) 126 del Corpo unico della Sanita' militare in servizio permanente;))
+
+2.
+
+((Il totale generale degli organici delle Forze armate e del Corpo unico della Sanita' militare e' il seguente:))
+                            a)
+                                ((Esercito italiano: 91.558 unita';))
+                            b)
+                                ((Marina militare: 29.081 unita';))
+                            c)
+                                ((Aeronautica militare: 36.038 unita';))
+                            d)
+                                ((Corpo unico della Sanita' militare: 3.700 unita'.))
+                                        ((138))
 
 --------------
 
@@ -16533,7 +16561,7 @@ Le dotazioni organiche complessive per i gradi di ammiraglio e capitano di vasce
                             c)
                                 contrammiragli: ((61)); (110) ((138))
                             d)
-                                capitani di vascello: ((490)). (101) (110) ((138))
+                                capitani di vascello: ((461)). (101) (110) ((138))
 
 2.
 
@@ -16994,11 +17022,24 @@ L'impiego del contingente e' disciplinato mediante apposito accordo tecnico stip
 
 Gli assegni, le competenze accessorie e le indennita' comunque spettanti al personale effettivamente impiegato nei limiti massimi fissati dal comma 1, nonche' ogni altro elemento di onere connesso al servizio di vigilanza e scorta valori, sono a carico della Banca d'Italia.
 
+## ((CAPO VIBIS CORPO UNICO DELLA SANITÀ MILITARE SEZIONE I RUOLI))
+
+-
+
 ### Art. 830-bis. — (( (Militari della Sanita' militare).))
 
 1.
 
 ((Appartengono al Corpo unico della Sanita' militare i militari inseriti nei ruoli previsti dagli articoli seguenti.))
+
+2.
+
+((All'interno di ciascun ruolo:))
+                            a)
+                                ((gli ufficiali possono essere ripartiti in specialita' ai fini dell'impiego e in relazione alle professioni sanitarie per le quali sono qualificati;))
+                            b)
+                                ((i sottufficiali e i graduati possono essere distinti per categorie, specialita' e abilitazioni, in relazione alle professioni sanitarie per le quali sono qualificati.))
+                                        ((138))
 
 --------------
 
@@ -17039,10 +17080,22 @@ Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20ma
 
 1.
 
-((Le dotazioni organiche complessive per i gradi di generale e colonnello sono le seguenti: 
- a) maggiore generale: 3; 
-b) brigadiere generale: 18; 
-c) colonnello: 169.))
+((Le dotazioni organiche complessive per i gradi di generale e colonnello sono le seguenti:))
+                            a)
+                                ((maggiore generale: 3;))
+                            b)
+                                ((brigadiere generale: 18;))
+                            c)
+                                ((colonnello: 169.))
+                                        ((138))
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
+ [...] 
+ c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ## CAPO VII TRANSITO TRA RUOLI DEGLI UFFICIALI IN SERVIZIO PERMANENTE SEZIONE I UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
 
@@ -18598,9 +18651,9 @@ Il collocamento in aspettativa per riduzione dei quadri di cui al comma 1 e' dis
 
 AGGIORNAMENTO (138)
 
-Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md), ha disposto (con l'art. 20, comma 2, lettera c) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
+Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
  [...] 
- articoli 6, 7, 8, 9, 10, 11 e 12".
+ c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 907.
 
@@ -19680,7 +19733,7 @@ I volontari prosciolti dalla ferma prefissata in quanto vincitori di concorsi pe
 
 I volontari sono reintegrati nel grado precedentemente rivestito e i periodi trascorsi in qualita' di allievo sono computati nella ferma
 
-## CAPO V SPECIALI OBBLIGHI DI SERVIZIO SEZIONE I UFFICIALI MEDICI IN SERVIZIO PERMANENTE
+## CAPO V SPECIALI OBBLIGHI DI SERVIZIO SEZIONE I UFFICIALI ((DELLA SANITA' MILITARE)) IN SERVIZIO PERMANENTE
 
 -
 
@@ -22430,6 +22483,17 @@ Il periodo di comando prescritto ai fini dell'avanzamento deve essere compiuto n
 
 Il periodo di attribuzioni specifiche prescritto ai fini dell'avanzamento deve essere compiuto nell'esercizio di funzioni proprie del ruolo di appartenenza.
 
+6.
+
+((I periodi di comando, di attribuzioni specifiche, di servizio e di imbarco possono essere compiuti anche in incarichi equipollenti a quelli indicati. Tali incarichi sono determinati con decreto adottato dal Ministro della difesa:))
+                            a)
+                                ((su proposta del Capo di stato maggiore della difesa, sentito il Capo di stato maggiore di Forza armata;))
+                            b)
+                                ((per l'Arma dei carabinieri, su proposta del Comandante generale, inoltrata tramite il Capo di stato maggiore della difesa;))
+                            c)
+                                ((per il Corpo unico della Sanita' militare, su proposta del Capo di stato maggiore della difesa, sentito il Direttore della Sanita' militare.))
+                                        ((138))
+
 -------------
 
 AGGIORNAMENTO (138)
@@ -22455,6 +22519,15 @@ L'avanzamento degli ufficiali dell'Arma dei carabinieri avviene:
                                 ad anzianita', per i gradi di tenente e capitano;
                             b)
                                 a scelta, per i gradi di maggiore, tenente colonnello, colonnello, generale di brigata, generale di divisione e generale di corpo d'armata.
+
+1-ter.
+
+((L'avanzamento degli ufficiali della Sanita' militare avviene:))
+                            a)
+                                ((ad anzianita', per i gradi di tenente, capitano e tenente colonnello;))
+                            b)
+                                ((a scelta, per i gradi di maggiore, colonnello, brigadiere generale e maggiore generale.))
+                                        ((138))
 
 -------------
 
@@ -23499,6 +23572,10 @@ Gli ufficiali del ruolo normale (( reclutati ai sensi dell'articolo 651-bis, com
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
+## ((CAPO XBIS AVANZAMENTO DEGLI UFFICIALI DELLA SANITÀ MILITARE))
+
+-
+
 ### Art. 1239-bis. — (( (Dotazioni organiche e profili di carriera degli ufficiali del Corpo unico della Sanita' militare).))
 
 1.
@@ -23991,7 +24068,7 @@ L'ufficiale della riserva giudicato idoneo all'avanzamento e' iscritto in quadro
 
 Non costituisce ostacolo alla promozione l'esistenza nel servizio permanente di pari grado non idonei all'avanzamento o per i quali e' sospesa la valutazione o la promozione.
 
-## CAPO XIII AVANZAMENTO DEI SOTTUFFICIALI DELL'ESERCITO ITALIANO,DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE SEZIONE I DISPOSIZIONI GENERALI
+## CAPO XIII AVANZAMENTO DEI SOTTUFFICIALI DELL'ESERCITO ITALIANO,DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE)) SEZIONE I DISPOSIZIONI GENERALI
 
 -
 
@@ -24170,7 +24247,7 @@ I periodi minimi di imbarco per l'avanzamento da capo di 2^ classe a capo di 1^ 
                             b)
                                 tecnici del sistema di combattimento: 6 anni;
                             c)
-                                supporto e servizio amministrativo/logistico((...)): 3 anni;
+                                supporto e servizio amministrativo/logistico((...)): 3 anni; ((138))
                             d)
                                 incursori, fucilieri di marina, palombari, specialisti di volo: 6 anni.
 
@@ -24182,7 +24259,7 @@ I periodi minimi di imbarco per l'avanzamento da capo di 1^ classe a primo mares
                             b)
                                 tecnici del sistema di combattimento: 7 anni;
                             c)
-                                supporto e servizio amministrativo/logistico ((...)): 4 anni;
+                                supporto e servizio amministrativo/logistico ((...)): 4 anni; ((138))
                             d)
                                 nocchieri di porto: 3 anni;
                             e)
@@ -24710,7 +24787,7 @@ I periodi minimi di imbarco per l'avanzamento da sottocapo di 2^ classe a sottoc
                             b)
                                 tecnici del sistema di combattimento: 6 anni;
                             c)
-                                supporto e servizio amministrativo/logistico ((...)): ((138)) 3 anni;
+                                supporto e servizio amministrativo/logistico ((...)): 3 anni; ((138))
                             d)
                                 incursori, fucilieri di marina, palombari, specialisti di volo: 6 anni.
 
@@ -24722,7 +24799,7 @@ I periodi minimi di imbarco per l'avanzamento da sottocapo di 1^ classe a sottoc
                             b)
                                 tecnici del sistema di combattimento: 7 anni;
                             c)
-                                supporto e servizio amministrativo/logistico ((...)): ((138)) 4 anni;
+                                supporto e servizio amministrativo/logistico ((...)): 4 anni; ((138))
                             d)
                                 nocchieri di porto: 3 anni;
                             e)
@@ -24895,7 +24972,7 @@ Gli ufficiali cosi' nominati non possono conseguire complessivamente, nei ruoli 
 
 1.
 
-L'avanzamento di cui ai precedenti articoli ha luogo ad anzianita', senza che occorra determinare aliquota di ruolo e prescindendo dal requisito dell'idoneita' fisica. I militari sono valutati dagli organi competenti, ((e per la Sanita' militare)), a esprimere giudizi di avanzamento. ((138))
+L'avanzamento di cui ai precedenti articoli ha luogo ad anzianita', senza che occorra determinare aliquota di ruolo e prescindendo dal requisito dell'idoneita' fisica. I militari sono valutati dagli organi competenti, per ciascuna Forza armata ((e per la Sanita' militare)), a esprimere giudizi di avanzamento. ((138))
 
 2.
 
@@ -35653,7 +35730,8 @@ L'Ordinario militare, gli ispettori e i cappellani militari in servizio permanen
 
 2-ter.
 
-Gli ufficiali, i sottufficiali e i graduati in servizio transitati nel Corpo unico della Sanita' militare rimangono iscritti ai rispettivi fondi previdenziali integrativi di cui al comma 1.)) ((138))
+((Gli ufficiali, i sottufficiali e i graduati in servizio transitati nel Corpo unico della Sanita' militare rimangono iscritti ai rispettivi fondi previdenziali integrativi di cui al comma 1.))
+                                ((138))
 
 3.
 
@@ -38652,7 +38730,10 @@ I Sindaci e le autorita' diplomatiche o consolari notificano ai competenti organ
 
 AGGIORNAMENTO (138)
 
-Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
+Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md) ha disposto (con l'art. 9, comma 1, lettera m)) che "all'articolo 2058: 
+ 1) al comma 1, le parole: «e dell'Aeronautica militare» sono sostituite dalle seguenti: «, dell'Aeronautica militare e della Sanita' militare»; 
+ 2) al comma 3, lettera a), le parole: «e dell'Aeronautica militare» sono sostituite dalle seguenti: «, dell'Aeronautica militare e della Sanita' militare»". 
+ Ha inoltre disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
  [...] 
  c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
@@ -39864,7 +39945,7 @@ Nota all'art. 2125:
 nazionale sangue, le regioni e le province autonome di Trento e di Bolzano, nell'ambito delle rispettive competenze, e il Ministero della difesa per il servizio trasfusionale di cui all'[articolo 205 del codice dell'ordinamento militare](Codice%20dellordinamento%20militare.%2010G0089.md), sono le autorita' responsabili del rispetto dei requisiti di cui al presente decreto.>>
 
 Nota all'[art. 2126:
- - Il decreto legislativo 20 dicembre 2007, n. 261](../Decreti%20Legislativi/Revisione%20del%20decreto%20legislativo%2019%20agosto%202005%20n.%20191%20recante%20attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavora_6c5b6162708c.md) (Revisione del [decreto legislativo 19 agosto 2005, n. 191](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavorazione%20la%20conservazione%20e%20la%20distribuzione%20del%20sangue%20umano%20e%20dei_efd6f1eae042.md), recante attuazione della [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98) che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti), e' pubblicato nella Gazzetta Ufficiale del 23 gennaio 2008, n. 19.
+ - Il decreto legislativo 20 dicembre 2007, n. 261](../Decreti%20Legislativi/Revisione%20del%20decreto%20legislativo%2019%20agosto%202005%20n.%20191%20recante%20attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavora_6c5b6162708c.md) (Revisione del [decreto legislativo 19 agosto 2005, n. 191](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavorazione%20la%20conservazione%20e%20la%20distribuzione%20del%20sangue%20umano%20e%20dei_efd6f1eae042.md), recante attuazione della [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98) che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti), e' pubblicato nella Gazzetta Ufficiale del 23 gennaio 2008, n. 19.
 
 ### Art. 2126-bis. — (( (Disposizioni di coordinamento con la legge 12 gennaio 1991, n. 13).))
 
@@ -39911,7 +39992,7 @@ Note all'art. 2127:
  4. L'ufficio cura altresi' gli incombenti necessari ai fini dell'acquisizione, anche mediante conferenza di servizi ai sensi degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), [14-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14bis), [14-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14ter), [14-quater della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14quater), degli atti di assenso, comunque denominati, necessari ai fini della realizzazione dell'intervento edilizio. Nel novero di detti assensi rientrano, in particolare:
  a) le autorizzazioni e certificazioni del competente ufficio tecnico della regione, per le costruzioni in zone sismiche di cui agli articoli 61, 94 e 62;
  b) l'assenso dell'amministrazione militare per le costruzioni nelle zone di salvaguardia contigue ad opere di difesa dello Stato o a stabilimenti militari, di cui all'[articolo 333 del codice dell'ordinamento militare](Codice%20dellordinamento%20militare.%2010G0089.md);
- c) l'autorizzazione del direttore della circoscrizione doganale in caso di costruzione, spostamento e modifica di edifici nelle zone di salvaguardia in prossimita' della linea doganale e nel mare territoriale, ai sensi e per gli effetti dell'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
+ c) l'autorizzazione del direttore della circoscrizione doganale in caso di costruzione, spostamento e modifica di edifici nelle zone di salvaguardia in prossimita' della linea doganale e nel mare territoriale, ai sensi e per gli effetti dell'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](../Atti%20di%20recepimento%20direttive%20UE/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
  d) l'autorizzazione dell'autorita' competente per le costruzioni su terreni confinanti con il demanio marittimo, ai sensi e per gli effetti dell'[articolo 55 del codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  e) gli atti di assenso, comunque denominati, previsti per gli interventi edilizi su immobili vincolati ai sensi degli articoli 21, 23, 24, e 151 del [decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), fermo restando che, in caso di dissenso manifestato dall'amministrazione preposta alla tutela dei beni culturali, si procede ai sensi dell'[articolo 25 del decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
  f) il parere vincolante della Commissione per la salvaguardia di Venezia, ai sensi e per gli effetti dell'[articolo 6 della legge 16 aprile 1973, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-04-16;171#art_6), e successive modificazioni, salvi i casi in cui vi sia stato l'adeguamento al piano comprensoriale previsto dall'articolo 5 della stessa legge, per l'attivita' edilizia nella laguna veneta, nonche' nel territorio dei centri storici di Chioggia e di Sottomarina e nelle isole di Pellestrina, Lido e Sant'Erasmo;
@@ -39932,7 +40013,7 @@ Note all'art. 2127:
  4. L'ufficio cura altresi' gli incombenti necessari ai fini dell'acquisizione, anche mediante conferenza di servizi ai sensi degli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14), [14-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14bis), [14-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14ter), [14-quater della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_14quater), degli atti di assenso, comunque denominati, necessari ai fini della realizzazione dell'intervento edilizio. Nel novero di detti assensi rientrano, in particolare:
  a) le autorizzazioni e certificazioni del competente ufficio tecnico della regione, per le costruzioni in zone sismiche di cui agli articoli 61, 94 e 62;
  b) l'assenso dell'amministrazione militare per le costruzioni nelle zone di salvaguardia contigue ad opere di difesa dello Stato o a stabilimenti militari, di cui all'[articolo 333 del codice dell'ordinamento militare](Codice%20dellordinamento%20militare.%2010G0089.md);
- c) l'autorizzazione del direttore della circoscrizione doganale in caso di costruzione, spostamento e modifica di edifici nelle zone di salvaguardia in prossimita' della linea doganale e nel mare territoriale, ai sensi e per gli effetti dell'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
+ c) l'autorizzazione del direttore della circoscrizione doganale in caso di costruzione, spostamento e modifica di edifici nelle zone di salvaguardia in prossimita' della linea doganale e nel mare territoriale, ai sensi e per gli effetti dell'[articolo 19 del decreto legislativo 8 novembre 1990, n. 374](../Atti%20di%20recepimento%20direttive%20UE/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
  d) l'autorizzazione dell'autorita' competente per le costruzioni su terreni confinanti con il demanio marittimo, ai sensi e per gli effetti dell'[articolo 55 del codice della navigazione](Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  e) gli atti di assenso, comunque denominati, previsti per gli interventi edilizi su immobili vincolati ai sensi degli articoli 21, 23, 24, e 151 del [decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), fermo restando che, in caso di dissenso manifestato dall'amministrazione preposta alla tutela dei beni culturali, si procede ai sensi dell'[articolo 25 del decreto legislativo 29 ottobre 1999, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md);
  f) il parere vincolante della Commissione per la salvaguardia di Venezia, ai sensi e per gli effetti dell'[articolo 6 della legge 16 aprile 1973, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-04-16;171#art_6), e successive modificazioni, salvi i casi in cui vi sia stato l'adeguamento al piano comprensoriale previsto dall'articolo 5 della stessa legge, per l'attivita' edilizia nella laguna veneta, nonche' nel territorio dei centri storici di Chioggia e di Sottomarina e nelle isole di Pellestrina, Lido e Sant'Erasmo;
@@ -41362,11 +41443,11 @@ b) avviare il riassetto e la razionalizzazione delle strutture sanitarie di cui 
 
 10.
 
-((Le Forze armate e l'Arma dei carabinieri continuano a garantire il proprio sostegno tecnico, logistico e amministrativo agli organi, alle strutture e al personale della Sanita' militare.
+((Le Forze armate e l'Arma dei carabinieri continuano a garantire il proprio sostegno tecnico, logistico e amministrativo agli organi, alle strutture e al personale della Sanita' militare.))
 
 11.
 
-((I provvedimenti attuativi che intervengono in ambiti di competenza regionale sono adottati previa acquisizione del parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
+((I provvedimenti attuativi che intervengono in ambiti di competenza regionale sono adottati previa acquisizione del parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.))
 
 ### Art. 2189. — Competenze residuali della Direzione generale per il personale militare
 
@@ -41558,7 +41639,7 @@ Nota all'art. 2196:
 
 1.
 
-Sino all'anno 2033, per la partecipazione ai concorsi per il reclutamento degli ufficiali dei ruoli speciali, di cui all'articolo 655, riservati al personale dell'Esercito italiano, della Marina militare ((, dell'Aeronautica militare e della Sanita' militare)), con decreti del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti se riguardano anche il Corpo delle capitanerie di Porto, possono essere stabiliti ((e per la Sanita' militare)): ((138))
+Sino all'anno 2033, per la partecipazione ai concorsi per il reclutamento degli ufficiali dei ruoli speciali, di cui all'articolo 655, riservati al personale dell'Esercito italiano, della Marina militare ((, dell'Aeronautica militare e della Sanita' militare)), con decreti del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti se riguardano anche il Corpo delle capitanerie di Porto, possono essere stabiliti per ciascuna Forza armata ((e per la Sanita' militare)): ((138))
                             a)
                                 limiti di eta', comunque non superiori a 52 anni;
                             b)
@@ -41593,9 +41674,9 @@ Ai fini della formazione della graduatoria finale, la valutazione dei titoli di 
 
 AGGIORNAMENTO (138)
 
-Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
+Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20revisione%20della%20struttura%20organizzativa%20e%20ordinativa%20della%20Sanita%20militare%20ai%20sensi%20dellarticolo%202%20della%20legge%2028%20novembre%202023%20n.%20201.%2026G00088.md), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027: 
  [...] 
- c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+ d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2196-bis.1. — (( (Regime transitorio dei reclutamenti degli ufficiali dei ruoli normali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).))
 
@@ -42385,6 +42466,19 @@ Il [D.Lgs. 3 aprile 2026, n. 74](../Decreti%20Legislativi/Disposizioni%20in%20ma
 
 Sino all'anno 2033, le dotazioni organiche del personale ufficiali, sottufficiali, volontari in servizio permanente e volontari in ferma prefissata e in rafferma dell'Esercito italiano, della Marina militare ((, dell'Aeronautica militare e del Corpo unico della Sanita' militare)), sono annualmente determinate, secondo un andamento delle consistenze del personale in servizio coerente con l'evoluzione degli oneri di cui agli articoli 582, 583 e 584 e con la ripartizione degli organici complessivi di cui all'articolo 798-bis, con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione e l'innovazione. ((138))
 
+1-bis.
+
+((Ai fini della determinazione annuale delle dotazioni organiche di cui al comma 1, non sono computate le seguenti unita' di personale transitato dall'Arma dei carabinieri di cui all'articolo 2214-sexies, commi 2 e 3:))
+                            a)
+                                ((centottanta ufficiali;))
+                            b)
+                                ((cinquantaquattro ispettori;))
+                            c)
+                                ((cinquantadue sovrintendenti;))
+                            d)
+                                ((novantuno appuntati e carabinieri.))
+                                        ((138))
+
 -------------
 
 AGGIORNAMENTO (138)
@@ -42787,7 +42881,7 @@ Fino al completo esaurimento del ruolo forestale degli operatori e collaboratori
 
 1.
 
-Il personale del ruolo forestale dei periti svolge funzioni che richiedono preparazione specialistica e conoscenza di procedure tecnico-scientifiche e amministrativo-contabili, anche complesse e collabora all'attivita' istruttoria e di studio. Svolge altresi' funzioni di ispettore fitosanitario ai sensi dell'[articolo 34 del decreto legislativo 19 agosto 2005, n. 214](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202002-89-CE%20concernente%20le%20misure%20di%20protezione%20contro%20lintroduzione%20e%20la%20diffusione%20nella%20Comunita%20di%20organismi%20nocivi%20ai%20vegetali%20o%20ai%20prodotti%20vegetali.md). Ha conoscenza del funzionamento e dell'uso di apparecchiature e di procedure, anche complesse, per l'elaborazione automatica dei dati e il trattamento dei testi.
+Il personale del ruolo forestale dei periti svolge funzioni che richiedono preparazione specialistica e conoscenza di procedure tecnico-scientifiche e amministrativo-contabili, anche complesse e collabora all'attivita' istruttoria e di studio. Svolge altresi' funzioni di ispettore fitosanitario ai sensi dell'[articolo 34 del decreto legislativo 19 agosto 2005, n. 214](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-89-CE%20concernente%20le%20misure%20di%20protezione%20contro%20lintroduzione%20e%20la%20diffusione%20nella%20Comunita%20di%20organismi%20nocivi%20ai%20vegetali%20o%20ai%20prodotti%20vegetali.md). Ha conoscenza del funzionamento e dell'uso di apparecchiature e di procedure, anche complesse, per l'elaborazione automatica dei dati e il trattamento dei testi.
 
 2.
 
@@ -42821,7 +42915,7 @@ Ai ((luogotenenti del ruolo forestale dei periti)) dell'Arma dei carabinieri puo
 
 1.
 
-Il personale appartenente al ruolo forestale dei revisori svolge mansioni richiedenti conoscenza specialistica e particolare perizia nel settore al quale e' adibito, con capacita' di utilizzazione di mezzi e strumenti complessi e di interpretazione di disegni, grafici e dati nell'ambito delle direttive di massima ricevute. Svolge altresi' funzioni di agente fitosanitario ai sensi dell'[articolo 34-bis del decreto legislativo 19 agosto 2005, n. 214](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202002-89-CE%20concernente%20le%20misure%20di%20protezione%20contro%20lintroduzione%20e%20la%20diffusione%20nella%20Comunita%20di%20organismi%20nocivi%20ai%20vegetali%20o%20ai%20prodotti%20vegetali.md).
+Il personale appartenente al ruolo forestale dei revisori svolge mansioni richiedenti conoscenza specialistica e particolare perizia nel settore al quale e' adibito, con capacita' di utilizzazione di mezzi e strumenti complessi e di interpretazione di disegni, grafici e dati nell'ambito delle direttive di massima ricevute. Svolge altresi' funzioni di agente fitosanitario ai sensi dell'[articolo 34-bis del decreto legislativo 19 agosto 2005, n. 214](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-89-CE%20concernente%20le%20misure%20di%20protezione%20contro%20lintroduzione%20e%20la%20diffusione%20nella%20Comunita%20di%20organismi%20nocivi%20ai%20vegetali%20o%20ai%20prodotti%20vegetali.md).
 
 ((2. Nell'esercizio delle mansioni proprie del ruolo di appartenenza, puo' indirizzare e controllare l'attivita' di piu' persone operanti in strutture organizzative che svolgono compiti riconducibili alla medesima area tecnica di riferimento, con responsabilita' per il risultato conseguito. Puo' inoltre sostituire il superiore gerarchico appartenente al medesimo ruolo o al ruolo forestale dei periti, in caso di impedimento o assenza))
 
