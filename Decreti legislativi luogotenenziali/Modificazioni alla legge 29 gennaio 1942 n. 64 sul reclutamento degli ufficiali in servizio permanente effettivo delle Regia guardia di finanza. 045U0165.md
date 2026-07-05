@@ -45,7 +45,7 @@ L'[art. 5 della legge 29 gennaio 1942, n. 64](../Atti%20normativi%20abrogati%20%
  4) avere sempre tenuto regolare condotta civile e morale da valutarsi a giudizio insindacabile dell'Amministrazione; 
  5) avere costituzione fisica sana e robusta e statura non inferiore a m. 1,65. 
  
- Restano ferme le disposizioni dell'[art. 2 del R. decreto-legge 21 gennaio 1929, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-21;132#art_2), convertito nella [legge 23 agosto 1929, n. 1728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20gennaio%201929%20n.%20132%20contenente%20modificazioni%20alle%20norme%20riguardanti%20lavanzamento%20nei%20vari%20gradi%20di%20sottufficiale%20della%20Regia%20guardia%20di%20finanz_f8dba9ffdb74.md), nei riguardi del reclutamento del sottotenente maestro direttore della banda della Regia guardia di finanza».
+ Restano ferme le disposizioni dell'[art. 2 del R. decreto-legge 21 gennaio 1929, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-01-21;132#art_2), convertito nella [legge 23 agosto 1929, n. 1728](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20gennaio%201929%20n.%20132%20contenente%20modificazioni%20alle%20norme%20riguardanti%20lavanzamento%20nei%20vari%20gradi%20di%20sottufficiale%20della%20Regia%20guardia%20di%20finanz_f8dba9ffdb74.md), nei riguardi del reclutamento del sottotenente maestro direttore della banda della Regia guardia di finanza».
 
 ## Art. 2.
 

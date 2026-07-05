@@ -83,7 +83,7 @@ Il Provveditore, sentito il Comitato tecnico amministrativo del provveditorato r
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 17 aprile 1948, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20integrazioni%20alle%20disposizioni%20del%20decreto%20legislativo%20luogotenenziale%201%20marzo%201945%20n.%20154%20e%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2010%20aprile%201947%20n.%2026_0d2946893ecc.md), ha disposto (con l'art. 9, comma 3) che la presente modifica cessa di avere efficacia dal 31 dicembre 1949.
+Il [D.Lgs. 17 aprile 1948, n. 740](../Decreti%20Legislativi/Modificazioni%20ed%20integrazioni%20alle%20disposizioni%20del%20decreto%20legislativo%20luogotenenziale%201%20marzo%201945%20n.%20154%20e%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2010%20aprile%201947%20n.%2026_0d2946893ecc.md), ha disposto (con l'art. 9, comma 3) che la presente modifica cessa di avere efficacia dal 31 dicembre 1949.
 
 ## Art. 7.
 

@@ -387,7 +387,7 @@ L'[art. 2 della legge 19 gennaio 1942, n. 22](../Atti%20normativi%20abrogati%20%
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 12 febbraio 1948, n. 147](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20sul%20compiti%20e%20sul%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.md) ha disposto (con l'art. 15, comma 1) che "Il contributo previsto dall'[art. 19 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e' fissato nella misura del 3 per cento".
+Il [D.Lgs. 12 febbraio 1948, n. 147](../Decreti%20Legislativi/Nuove%20disposizioni%20sul%20compiti%20e%20sul%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.md) ha disposto (con l'art. 15, comma 1) che "Il contributo previsto dall'[art. 19 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722](Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md), e' fissato nella misura del 3 per cento".
 
 ---------------
 

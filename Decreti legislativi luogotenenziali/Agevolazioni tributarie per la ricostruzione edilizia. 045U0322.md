@@ -20,7 +20,7 @@ Vista la [legge 30 dicembre 1923, n. 3269](https://www.normattiva.it/uri-res/N2L
 
 Vista la [legge 30 dicembre 1923, n. 3272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3272), e successive modificazioni;
 
-Vista la [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni;
+Vista la [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

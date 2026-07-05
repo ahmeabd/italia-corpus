@@ -10,7 +10,7 @@ vigente: true
 
 ## Art. 1.
 
-PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 MAGGIO 1948, N. 814](../Atti%20normativi%20abrogati%20%28in%20originale%29/Indennita%20militare%20e%20indennita%20speciale%20di%20riserva%20al%20personale%20militare%20delle%20Forze%20armate.md) ((5))
+PROVVEDIMENTO ABROGATO DAL [D.LGS. 5 MAGGIO 1948, N. 814](../Decreti%20Legislativi/Indennita%20militare%20e%20indennita%20speciale%20di%20riserva%20al%20personale%20militare%20delle%20Forze%20armate.md) ((5))
 
 ---------
 
