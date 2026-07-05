@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Visti gli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;111#art_7) e [8 della legge 24 marzo 1907, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;111#art_8);
 

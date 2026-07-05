@@ -18,7 +18,7 @@ Visto il [R. decreto 11 gennaio 1923, n. 9](Con%20cui%20si%20estendono%20alle%20
 
 Visto il [R. decreto 18 gennaio 1923, n. 53](Che%20istituisce%20le%20Provincie%20dellIstria%20con%20capoluogo%20Pola%20di%20Trieste%20con%20capoluogo%20Trieste%20e%20che%20modifica%20il%20territorio%20e%20la%20denominazione%20della%20Provincia%20di%20Udine.%20023U0053.md);
 
-In virtu' della delegazione dei poteri, conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+In virtu' della delegazione dei poteri, conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Sentito il Consiglio dei Ministri;
 

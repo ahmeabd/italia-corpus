@@ -14,7 +14,7 @@ por grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In forza dei poteri conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+In forza dei poteri conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Visto il [Regio decreto 8 giugno 1893, n. 377](Che%20concerne%20la%20compilazione%20e%20la%20pubblicazione%20della%20Gazzetta%20Ufficiale%20del%20Regno.%20093U0377.md);
 
