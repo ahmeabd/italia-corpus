@@ -965,7 +965,7 @@ Entro due anni dalla data di entrata in vigore del decreto legislativo di cui al
 
 6-bis.
 
-In caso di intrattenimenti danzanti da svolgere in stabilimenti balneari, i progetti sottoposti all'esame delle commissioni di cui all'[articolo 141 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_141), devono individuare espressamente i luoghi in cui si svolge l'attivita' di pubblico spettacolo o intrattenimento.
+In caso di intrattenimenti danzanti da svolgere in stabilimenti balneari, i progetti sottoposti all'esame delle commissioni di cui all'[articolo 141 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), devono individuare espressamente i luoghi in cui si svolge l'attivita' di pubblico spettacolo o intrattenimento.
 
 6-ter.
 
