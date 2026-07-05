@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 7 agosto 1936, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito, con modificazioni, nella [legge 7 giugno 1937, n. 1016](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), concernente riforma degli ordinamenti tributari;
+Visto il [regio decreto-legge 7 agosto 1936, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito, con modificazioni, nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), concernente riforma degli ordinamenti tributari;
 
 Visto il [regio decreto 11 dicembre 1936, n. 2108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-12-11;2108), concernente la determinazione delle circoscrizioni degli Ispettorati compartimentali delle imposte dirette e di quelli delle tasse e delle imposte indirette sugli affari;
 

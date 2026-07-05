@@ -329,7 +329,7 @@ Le persone di cui al primo comma dell'art. 30 alle quali non fossero stati conse
 
 ### Art. 51.
 
-Per le infrazioni all'art. 10 della legge, concernente il segreto d'ufficio, si applicano le sanzioni previste dall'[art. 19 del regio decreto-legge 27 maggio 1929, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;128#art_19) (convertito nella [legge 21 dicembre 1929, n. 2238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md)), con le modifiche di cui all'[art. 7, secondo comma, del decreto legislativo 21 ottobre 1947, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-21;1250#art_7-com2).
+Per le infrazioni all'art. 10 della legge, concernente il segreto d'ufficio, si applicano le sanzioni previste dall'[art. 19 del regio decreto-legge 27 maggio 1929, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1929-05-27;128#art_19) (convertito nella [legge 21 dicembre 1929, n. 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md)), con le modifiche di cui all'[art. 7, secondo comma, del decreto legislativo 21 ottobre 1947, n. 1250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-10-21;1250#art_7-com2).
 
 ### Art. 52.
 

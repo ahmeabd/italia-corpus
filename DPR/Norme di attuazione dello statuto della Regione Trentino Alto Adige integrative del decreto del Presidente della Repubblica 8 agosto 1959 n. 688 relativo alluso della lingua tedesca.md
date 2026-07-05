@@ -21,7 +21,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 ## Articolo unico.
 
 Al [decreto del Presidente della Repubblica 8 agosto 1959, n. 688](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Regione%20Trentino-Alto%20Adige%20in%20materia%20di%20uso%20della%20lingua%20tedesca.md), e' aggiunto il seguente articolo:
- "Art. 3. - Nella provincia di Bolzano e' consentito l'uso disgiunto delle lingue italiana e tedesca nelle insegne, mostre, tabelle, vetrine esterne ed interne degli esercizi previsti dall'articolo 18 del regolamento per la esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635)".
+ "Art. 3. - Nella provincia di Bolzano e' consentito l'uso disgiunto delle lingue italiana e tedesca nelle insegne, mostre, tabelle, vetrine esterne ed interne degli esercizi previsti dall'articolo 18 del regolamento per la esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

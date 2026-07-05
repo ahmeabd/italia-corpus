@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), di cui al [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e successive modificazioni;
 
-Visto il regolamento di esecuzione del citato testo unico, di cui al [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
+Visto il regolamento di esecuzione del citato testo unico, di cui al [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md);
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -32,7 +32,7 @@ Emana il seguente regolamento:
 
 1.
 
-Al titolo IV del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931, n. 773, di cui al [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), sono apportate le seguenti modificazioni:
+Al titolo IV del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) 18 giugno 1931, n. 773, di cui al [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 249, il secondo comma e' sostituito dal seguente: «La dichiarazione deve essere sottoscritta dal rappresentante dell'ente o dal proprietario e dai guardiani e deve essere corredata dai documenti atti a dimostrare il possesso, nei guardiani, dei requisiti prescritti dall'articolo 138 della legge, nonche' della documentazione attestante l'adempimento, nei confronti del personale dipendente, degli obblighi assicurativi e previdenziali.»;
                         b)
@@ -107,7 +107,7 @@ Al titolo IV del regolamento di esecuzione del [testo unico delle leggi di pubbl
  2. Ai fini di quanto previsto dalla legge e dal presente regolamento, per l'accertamento delle condizioni di sicurezza dei servizi e del personale, a tutela dell'ordine e della sicurezza pubblica, il prefetto si avvale di parametri oggettivi di verifica, definiti dal Ministro dell'interno, sentita la commissione di cui all'articolo 260-quater, tenendo conto:
  a) degli oneri derivanti dall'applicazione delle disposizioni di legge o di regolamento che disciplinano le attivita' di cui all'articolo 134 della legge e, particolarmente, delle misure da adottarsi in relazione alle condizioni, anche locali della sicurezza pubblica;
  b) dei costi per la sicurezza, compresi quelli per veicoli blindati, protezioni individuali antiproiettile, apparecchiature tecnologiche ed ogni altro mezzo, strumento od equipaggiamento indispensabile per la qualita' e la sicurezza dei servizi;
- c) dei costi reali e complessivi per il personale, determinati secondo quanto previsto dall'[articolo 86, comma 3-bis, del decreto legislativo 12 aprile 2006, n. 163](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
+ c) dei costi reali e complessivi per il personale, determinati secondo quanto previsto dall'[articolo 86, comma 3-bis, del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
  Art. 257-sexies. - 1. Le disposizioni della presente sezione non costituiscono ostacolo alla costituzione di raggruppamenti temporanei di istituti di vigilanza o loro consorzi, ne' di studi associati di investigatori privati ai quali e' stata rilasciata la licenza e nei limiti ivi stabiliti, ne' ad altre forme di organizzazione aziendale che prevedano l'utilizzazione comune di sistemi tecnologici di ricezione, controllo e gestione dei segnali di monitoraggio e di allarme di beni senza limiti territoriali, a condizione che:
  a) i raggruppamenti temporanei e le altre forme di associazione siano preventivamente comunicati al prefetto e l'utilizzazione comune di impianti e risorse siano attestate nella licenza, previa comunicazione al prefetto del relativo progetto organizzativo e tecnico-operativo;
  b) siano costantemente garantite l'efficacia e l'efficienza delle strutture e la funzionalita' dei servizi;
@@ -154,7 +154,7 @@ Avvertenza:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidene della Repubblica il potere di promulgare leggi ed emanare i decreti aventi valore di legge e i regolamenti.
  - Il [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), reca:
  Approvazione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)".
- - Il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), reca:
+ - Il [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), reca:
  Approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773) delle leggi di pubblica sicurezza".
  - Si riporta il testo dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):
  «1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
@@ -163,7 +163,7 @@ Avvertenza:
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge».
  Note all'art 1:
- - Si riporta il testo dell'[art. 249 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_249), come modificato dal presente decreto:
+ - Si riporta il testo dell'[art. 249 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), come modificato dal presente decreto:
  «Art. 249. - Chi intende destinare guardie particolari giurate alla custodia dei propri beni mobili od immobili deve farne dichiarazione al Prefetto, indicando le generalita' dei guardiani ed i beni da custodire.
  La dichiarazione deve essere sottoscritta dal rappresentante dell'ente o dal proprietario e dai guardiani e deve essere corredata dai documenti atti a dimostrare il possesso, nei guardiani, dei requisiti prescritti dall'art. 138 della legge, nonche' della documentazione attestante l'adempimento, nei confronti del personale dipendente, degli obblighi assicurativi e previdenziali.
  Per ottenere l'autorizzazione ad associarsi per la nomina delle guardie, gli enti od i proprietari debbono produrre al Prefetto, in doppio esemplare, anche l'atto scritto, da cui risultino le generalita' e le firme dei consociati, la durata della consociazione, nonche' le forme di aggregazione, di sostituzione e di recesso dei soci.
@@ -172,7 +172,7 @@ Avvertenza:
  - Si riporta il testo dell'art. 251 del regio decreto. 6 maggio 1940, n. 635, come modificato dal presente decreto:
  «Art. 251. - Con uno stesso decreto di approvazione una guardia particolare puo' essere autorizzata alla custodia di piu' proprieta' appartenenti a persona od enti diversi, ovvero a prestare servizio presso piu' istituti di vigilanza appartenenti allo stesso titolare, ovvero ad una medesima societa' o da questa controllati, secondo le modalita' regolate da apposito accordo sindacale nazionale tra le organizzazioni imprenditoriali e sindacali comparativamente piu' rappresentative sul piano nazionale, fatte salve le disposizioni vigenti a tutela della sicurezza e del lavoro delle guardie particolari e le prescrizioni imposte dall'autorita' per le finalita' di vigilanza previste dalla legge.
  Non puo' essere attribuita la qualita' di guardia particolare giurata a chi ne faccia richiesta per custodire le proprieta' che appartengono a lui od ai suoi parenti od affini».
- - Si riporta il testo dell'[art. 260 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_260), come modificato dal presente decreto:
+ - Si riporta il testo dell'[art. 260 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), come modificato dal presente decreto:
  «Art. 260. - Nel registro di cui all'art. 135 della legge devono essere indicati:
  a) le generalita' delle persone, con le quali gli affari o le operazioni sono compiute;
  b) la data e la specie dell'affare o della operazione;

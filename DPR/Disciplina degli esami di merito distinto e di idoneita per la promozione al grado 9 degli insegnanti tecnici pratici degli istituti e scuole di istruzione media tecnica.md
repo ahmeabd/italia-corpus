@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Visto il [decreto-legge 6 ottobre 1930, n. 1379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1930-10-06;1379), convertito nella [legge 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
+Visto il [decreto-legge 6 ottobre 1930, n. 1379](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1930-10-06;1379), convertito nella [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
 Visti i [decreti legislativi 7 maggio 1948, nn. 1277 e 1278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dello%20stato%20giuridico%20ed%20economico%20del%20personale%20tecnico%20delle%20scuole%20di%20avviamento%20professionale.md), ratificati, con modificazioni, con [legge dell'11 dicembre 1952, n. 2528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2528);
 

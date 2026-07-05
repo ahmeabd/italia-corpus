@@ -60,7 +60,7 @@ Le domande di prestito debbono essere dirette allo ispettorato provinciale dell'
 
 ## Art. 4.
 
-I rischi di ciascuna operazione sono posti integralmente a carico degli istituti i quali si cauteleranno mediante le garanzie previste dalla [legge 5 luglio 1928, n. 1760](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md) e successive modificazioni ed integrazioni od altra garanzia ritenuta idonea.
+I rischi di ciascuna operazione sono posti integralmente a carico degli istituti i quali si cauteleranno mediante le garanzie previste dalla [legge 5 luglio 1928, n. 1760](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md) e successive modificazioni ed integrazioni od altra garanzia ritenuta idonea.
  L'ispettorato provinciale dell'agricoltura, nell'esprimere il proprio parere, dovra' pronunciarsi sulla convenienza tecnica ed economica degli acquisti preventivati in relazione allo stato ed all'ordinamento produttivo dell'azienda interessata.
  Dal parere o dal nulla osta ispettoriale dovra' comunque risultare la non esistenza di cumulo di benefici creditizi o contributivi per gli stessi acquisti e per le stesse attrezzature oggetto del prestito agevolato.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 14 giugno 1925, n. 884](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sulla costituzione dell'Azienda di Stato per i servizi telefonici, e successive modificazioni;
+Visto il [regio decreto-legge 14 giugno 1925, n. 884](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), sulla costituzione dell'Azienda di Stato per i servizi telefonici, e successive modificazioni;
 
 Visto l'[art. 13, terzo comma, della legge 28 aprile 1983, n. 133](../Atti%20normativi%20abrogati%20%28in%20originale%29/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%201983%20e%20bilancio%20pluriennale%20per%20il%20triennio%201983-85.md), che approva lo stato di previsione dell'entrata e quello della spesa dell'Azienda di Stato per i servizi telefonici, per l'anno finanziario 1983;
 

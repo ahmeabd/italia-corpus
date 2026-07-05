@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto il [regio decreto-legge 10 aprile 1936, n. 634](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modalita%20per%20la%20determinazione%20delle%20materie%20dinsegnamento%20delle%20esercitazioni%20pratiche%20dei%20programmi%20e%20degli%20orari%20per%20le%20scuole%20elementari%20e%20medie.%20036U0634.md), convertito nella [legge 28 maggio 1936, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20aprile%201936-XIV%20n.%20634%20relativo%20alle%20modalita%20per%20la%20determinazione%20delle%20materie%20dinsegnamento%20delle%20esercitazioni%20pratiche%20dei%20programmi%20e%20d_b5dd05f14529.md);
+ Veduto il [regio decreto-legge 10 aprile 1936, n. 634](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modalita%20per%20la%20determinazione%20delle%20materie%20dinsegnamento%20delle%20esercitazioni%20pratiche%20dei%20programmi%20e%20degli%20orari%20per%20le%20scuole%20elementari%20e%20medie.%20036U0634.md), convertito nella [legge 28 maggio 1936, n. 1170](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20aprile%201936-XIV%20n.%20634%20relativo%20alle%20modalita%20per%20la%20determinazione%20delle%20materie%20dinsegnamento%20delle%20esercitazioni%20pratiche%20dei%20programmi%20e%20d_b5dd05f14529.md);
  Veduto il [decreto luogotenenziale 24 maggio 1945, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-24;459);
  Sulla proposta del Ministro per la pubblica istruzione;
 

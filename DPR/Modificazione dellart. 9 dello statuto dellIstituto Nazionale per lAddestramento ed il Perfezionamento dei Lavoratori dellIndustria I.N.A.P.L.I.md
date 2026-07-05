@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 21 giugno 1938, n. 1380](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20038U1380.md), convertito nella [legge 16 gennaio 1939, n. 290](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201380%20concernente%20listituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20039U0290.md), concernente l'istituzione dei corsi per la formazione ed il perfezionamento dei lavoratori;
+Visto il [regio decreto-legge 21 giugno 1938, n. 1380](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20038U1380.md), convertito nella [legge 16 gennaio 1939, n. 290](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2021%20giugno%201938-XVI%20n.%201380%20concernente%20listituzione%20dei%20corsi%20per%20la%20formazione%20ed%20il%20perfezionamento%20dei%20lavoratori.%20039U0290.md), concernente l'istituzione dei corsi per la formazione ed il perfezionamento dei lavoratori;
 
 Visto il contratto collettivo del 25 ottobre 1938, pubblicato per estratto nel bollettino ufficiale del Ministero delle corporazioni del 31 luglio 1939, fascicolo 208, relativo alla costituzione dell'Istituto Nazionale per l'Addestramento ed il Perfezionamento dei Lavoratori dell'Industria (I.N.A.P.L.I.);
 
