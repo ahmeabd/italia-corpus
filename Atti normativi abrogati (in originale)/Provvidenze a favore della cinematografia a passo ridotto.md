@@ -26,7 +26,7 @@ Gli spettacoli cinematografici con pellicole a formato ridotto debbono essere ef
 
 ## Art. 2.
 
-Non sono obbligatori l'impianto della cabina ed il dispositivo di sicurezza prescritti dall'art. 117 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), nei locali adibiti a proiezioni cinematografiche con pellicole a formato ridotto.
+Non sono obbligatori l'impianto della cabina ed il dispositivo di sicurezza prescritti dall'art. 117 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), nei locali adibiti a proiezioni cinematografiche con pellicole a formato ridotto.
 
 ## Art. 3. — null
 

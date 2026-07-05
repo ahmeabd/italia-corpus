@@ -397,7 +397,7 @@ Fermo restando l'obbligo dell'autorizzazione ministeriale di cui  all'articolo 3
  Il parere della Commissione e' dato per iscritto e deve essere 
  adottato con l'intervento di tutti i componenti. 
  Nei locali indicati nel primo comma non sono obbligatori 
- l'impianto della cabina e il dispositivo di sicurezza prescritti dall'articolo 117 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635). 
+ l'impianto della cabina e il dispositivo di sicurezza prescritti dall'articolo 117 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md). 
  La verifica dell'idoneita' e della sicurezza delle arene estive e 
  le successive ispezioni annuali sono demandate alla Commissione di cui al primo comma, del presente articolo.
 

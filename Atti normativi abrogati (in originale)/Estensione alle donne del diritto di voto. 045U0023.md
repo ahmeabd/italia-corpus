@@ -34,7 +34,7 @@ E' ordinata la compilazione delle liste elettorali femminili in tutti i Comuni.
 
 ## Art. 3.
 
-Oltre quanto stabilito dall'art. 2 del decreto del Ministro per l'interno in data 24 ottobre 1944, non possono essere iscritti nelle liste elettorali le donne indicate nell'art. 354 del Regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+Oltre quanto stabilito dall'art. 2 del decreto del Ministro per l'interno in data 24 ottobre 1944, non possono essere iscritti nelle liste elettorali le donne indicate nell'art. 354 del Regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [R. decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
 
 ## Art. 4.
 

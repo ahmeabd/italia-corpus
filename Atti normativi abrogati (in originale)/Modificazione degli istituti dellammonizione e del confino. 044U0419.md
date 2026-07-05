@@ -58,7 +58,7 @@ All'art. 182 del citato testo unico e' aggiunto il seguente ultimo comma:
 
 ## Art. 6.
 
-L'art.. 317 del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, approvato con [R. decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), e' modificato come segue: 
+L'art.. 317 del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, approvato con [R. decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), e' modificato come segue: 
  
  «Quando la Commissione non ordini l'immediato arresto della persona proposta per l'assegnazione al confino, provvede per la comparizione del denunziato col procedimento di cui agli articoli 167, 168 e 169 della legge. 
  
