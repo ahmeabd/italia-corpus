@@ -12,11 +12,11 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 3 maggio 1945, n. 277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20in%20favore%20dei%20tabacchicultori.%20045U0277.md), sulle provvidenze a favore dei tabacchicultori;
+Visto il [decreto legislativo Luogotenenziale 3 maggio 1945, n. 277](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20in%20favore%20dei%20tabacchicultori.%20045U0277.md), sulle provvidenze a favore dei tabacchicultori;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [R. decreto legislativo 10 maggio 1946, n. 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
@@ -28,11 +28,11 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il t
 
 ## Art. 1.
 
-Il termine iniziale fissato dall'[art. 2 del decreto legislativo Luogotenenziale 3 maggio 1945, n. 277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20in%20favore%20dei%20tabacchicultori.%20045U0277.md), per l'esercizio della facolta' conferita all'Amministrazione dei monopoli a favore dei concessionari speciali per la coltivazione del tabacco, nei casi ivi previsti, decorre dalla produzione del 1946 e non da quella del 1945.
+Il termine iniziale fissato dall'[art. 2 del decreto legislativo Luogotenenziale 3 maggio 1945, n. 277](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20in%20favore%20dei%20tabacchicultori.%20045U0277.md), per l'esercizio della facolta' conferita all'Amministrazione dei monopoli a favore dei concessionari speciali per la coltivazione del tabacco, nei casi ivi previsti, decorre dalla produzione del 1946 e non da quella del 1945.
 
 ## Art. 2.
 
-Agli istituiti di credito che finanziano le ditte concessionarie di coltivazione del tabacco per la ricostruzione e il riadattamento dei locali di cui all'[art. 1 del decreto legislativo Luogotenenziale 3 maggio 1945, numero 277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20in%20favore%20dei%20tabacchicultori.%20045U0277.md), l'Amministrazione dei monopoli puo' concedere la propria garanzia, limitatamente al periodo in cui e' erogato il concorso dello Stato, attraverso un'offerta di rilievo dei locali, in caso di dissesto del concessionario, per un importo pari al fido concesso e, comunque, non superiore al 50 % del valore dei fabbricati da ricostruire e da riattare o ricostruiti o riattati, stabilito di comune accordo tra l'Amministrazione e l'istituto finanziatore, e non superiore alla spesa dei lavori di ricostruzione e di adattamento, presunta nei modi di cui all'art. 1 del detto decreto n. 277 e della riattrezzatura distrutta per cause di guerra e necessaria alla lavorazione.
+Agli istituiti di credito che finanziano le ditte concessionarie di coltivazione del tabacco per la ricostruzione e il riadattamento dei locali di cui all'[art. 1 del decreto legislativo Luogotenenziale 3 maggio 1945, numero 277](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20in%20favore%20dei%20tabacchicultori.%20045U0277.md), l'Amministrazione dei monopoli puo' concedere la propria garanzia, limitatamente al periodo in cui e' erogato il concorso dello Stato, attraverso un'offerta di rilievo dei locali, in caso di dissesto del concessionario, per un importo pari al fido concesso e, comunque, non superiore al 50 % del valore dei fabbricati da ricostruire e da riattare o ricostruiti o riattati, stabilito di comune accordo tra l'Amministrazione e l'istituto finanziatore, e non superiore alla spesa dei lavori di ricostruzione e di adattamento, presunta nei modi di cui all'art. 1 del detto decreto n. 277 e della riattrezzatura distrutta per cause di guerra e necessaria alla lavorazione.
 
 ## Art. 3.
 

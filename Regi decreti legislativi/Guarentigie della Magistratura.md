@@ -14,13 +14,13 @@ RE D'ITALIA
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [R. decreto legislativo 10 maggio 1946, numero 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
 Visto l'ordinamento giudiziario approvato con [Regio decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
-Visto il [decreto legislativo Luogotenenziale 8 febbraio 1945, n. 114](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20della%20Commissione%20centrale%20prevista%20dallart.%20220%20dellOrdinamento%20giudiziario.%20045U0114.md);
+Visto il [decreto legislativo Luogotenenziale 8 febbraio 1945, n. 114](../Decreti%20legislativi%20luogotenenziali/Soppressione%20della%20Commissione%20centrale%20prevista%20dallart.%20220%20dellOrdinamento%20giudiziario.%20045U0114.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -46,26 +46,26 @@ I magistrati di grado non inferiore a giudice, sostituto procuratore del Regno o
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 37, comma 1) che "In deroga al disposto dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](Guarentigie%20della%20Magistratura.md), i magistrati titolari dei posti di consigliere pretore dirigente, di consigliere pretore, di procuratore della Repubblica presso la pretura circondariale e di procuratore aggiunto dello stesso ufficio, in attesa di essere destinati ai nuovi incarichi o funzioni a norma delle disposizioni che seguono, esercitano le funzioni di presidente di sezione o di procuratore aggiunto presso gli uffici cui sono state trasferite le funzioni degli uffici soppressi; i magistrati titolari dei posti di presidente di sezione di tribunale eventualmente soppressi continuano ad esercitare transitoriamente tali funzioni. I magistrati titolari dei posti soppressi di consigliere pretore dirigente e di procuratore della Repubblica presso la pretura circondariale collaborano con il presidente del tribunale e con il procuratore della Repubblica per la risoluzione, in particolare, dei problemi di organizzazione degli uffici ristrutturati". 
+Il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 37, comma 1) che "In deroga al disposto dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](Guarentigie%20della%20Magistratura.md), i magistrati titolari dei posti di consigliere pretore dirigente, di consigliere pretore, di procuratore della Repubblica presso la pretura circondariale e di procuratore aggiunto dello stesso ufficio, in attesa di essere destinati ai nuovi incarichi o funzioni a norma delle disposizioni che seguono, esercitano le funzioni di presidente di sezione o di procuratore aggiunto presso gli uffici cui sono state trasferite le funzioni degli uffici soppressi; i magistrati titolari dei posti di presidente di sezione di tribunale eventualmente soppressi continuano ad esercitare transitoriamente tali funzioni. I magistrati titolari dei posti soppressi di consigliere pretore dirigente e di procuratore della Repubblica presso la pretura circondariale collaborano con il presidente del tribunale e con il procuratore della Repubblica per la risoluzione, in particolare, dei problemi di organizzazione degli uffici ristrutturati". 
  Ha altresi' disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'[articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md) [. . .]." (120 giorni dopo la pubblicazione del presente decreto).
 
 -------------
 
 AGGIORNAMENTO (8a)
 
-La [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188) nel modificare il [D.Lgs. 19 febbraio 1998, n. 51](../Decreti%20Legislativi/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 1) che le predette modifiche hanno effetto a decorrere dal 2 giugno 1999.
+La [L. 16 giugno 1998, n. 188](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;188) nel modificare il [D.Lgs. 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) ha disposto (con l'art. 1) che le predette modifiche hanno effetto a decorrere dal 2 giugno 1999.
 
 -------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 23 febbraio 2006, n. 109](../Decreti%20Legislativi/Disciplina%20degli%20illeciti%20disciplinari%20dei%20magistrati%20delle%20relative%20sanzioni%20e%20della%20procedura%20per%20la%20loro%20applicabilita%20nonche%20modifica%20della%20disciplina%20in%20tema%20di%20incompatibilita%20dispe_d43bf49ff53b.md) ha disposto (con l'art. 32, comma 1) che "Le disposizioni contenute nel presente decreto legislativo sono efficaci a far data dal novantesimo giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale".
+Il [D.Lgs. 23 febbraio 2006, n. 109](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20degli%20illeciti%20disciplinari%20dei%20magistrati%20delle%20relative%20sanzioni%20e%20della%20procedura%20per%20la%20loro%20applicabilita%20nonche%20modifica%20della%20disciplina%20in%20tema%20di%20incompatibilita%20dispe_d43bf49ff53b.md) ha disposto (con l'art. 32, comma 1) che "Le disposizioni contenute nel presente decreto legislativo sono efficaci a far data dal novantesimo giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale".
 
 -------------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 7 settembre 2012, n. 155](../Decreti%20Legislativi/Nuova%20organizzazione%20dei%20tribunali%20ordinari%20e%20degli%20uffici%20del%20pubblico%20ministero%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%2014%20settembre%202011%20n.%20148.%2012G0177.md) ha disposto (con l'art. 6, comma 5) che "In deroga al disposto dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](Guarentigie%20della%20Magistratura.md), successivamente alla data di efficacia di cui all'articolo 11, comma 2, i magistrati titolari dei posti di presidente di tribunale, presidente di sezione, procuratore della Repubblica e procuratore aggiunto, in attesa di essere destinati ai nuovi incarichi o funzioni a norma dei commi 1 e 2, esercitano le funzioni di presidente di sezione o di procuratore aggiunto presso gli uffici cui sono state trasferite le funzioni degli uffici soppressi. I magistrati titolari dei posti soppressi di presidente di tribunale e di procuratore della Repubblica collaborano con il presidente del tribunale e con il procuratore della Repubblica per la risoluzione, in particolare, dei problemi di organizzazione degli uffici". 
+Il [D.Lgs. 7 settembre 2012, n. 155](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuova%20organizzazione%20dei%20tribunali%20ordinari%20e%20degli%20uffici%20del%20pubblico%20ministero%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%2014%20settembre%202011%20n.%20148.%2012G0177.md) ha disposto (con l'art. 6, comma 5) che "In deroga al disposto dell'[articolo 2, terzo comma, del regio decreto legislativo 31 maggio 1946, n. 511](Guarentigie%20della%20Magistratura.md), successivamente alla data di efficacia di cui all'articolo 11, comma 2, i magistrati titolari dei posti di presidente di tribunale, presidente di sezione, procuratore della Repubblica e procuratore aggiunto, in attesa di essere destinati ai nuovi incarichi o funzioni a norma dei commi 1 e 2, esercitano le funzioni di presidente di sezione o di procuratore aggiunto presso gli uffici cui sono state trasferite le funzioni degli uffici soppressi. I magistrati titolari dei posti soppressi di presidente di tribunale e di procuratore della Repubblica collaborano con il presidente del tribunale e con il procuratore della Repubblica per la risoluzione, in particolare, dei problemi di organizzazione degli uffici". 
  Ha inoltre disposto (con l'art. 11, comma 3) che "Nei confronti dei magistrati titolari di funzioni dirigenziali presso gli uffici giudiziari dell'Aquila e Chieti le disposizioni di cui all'articolo 6 si applicano decorsi due anni dalla data di entrata in vigore del presente decreto".
 
 ### Art. 3.
@@ -82,7 +82,7 @@ Il [D.Lgs. 7 settembre 2012, n. 155](../Decreti%20Legislativi/Nuova%20organizzaz
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 23 febbraio 2006, n. 109](../Decreti%20Legislativi/Disciplina%20degli%20illeciti%20disciplinari%20dei%20magistrati%20delle%20relative%20sanzioni%20e%20della%20procedura%20per%20la%20loro%20applicabilita%20nonche%20modifica%20della%20disciplina%20in%20tema%20di%20incompatibilita%20dispe_d43bf49ff53b.md) ha disposto (con l'art. 32, comma 1) che "Le disposizioni contenute nel presente decreto legislativo sono efficaci a far data dal novantesimo giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale."
+Il [D.Lgs. 23 febbraio 2006, n. 109](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20degli%20illeciti%20disciplinari%20dei%20magistrati%20delle%20relative%20sanzioni%20e%20della%20procedura%20per%20la%20loro%20applicabilita%20nonche%20modifica%20della%20disciplina%20in%20tema%20di%20incompatibilita%20dispe_d43bf49ff53b.md) ha disposto (con l'art. 32, comma 1) che "Le disposizioni contenute nel presente decreto legislativo sono efficaci a far data dal novantesimo giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale."
 
 ### Art. 4. — (Formalita' per il parere del Consiglio superiore
  e dei Consigli giudiziari)

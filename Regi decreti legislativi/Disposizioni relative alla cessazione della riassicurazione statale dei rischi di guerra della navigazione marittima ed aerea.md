@@ -24,7 +24,7 @@ Vista la [legge 11 luglio 1941, n. 935](../Atti%20normativi%20abrogati%20%28in%2
 
 Visto il [R. decreto-legge 7 dicembre 1942, n. 1808](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20relativi%20a%20perdite%20di%20navi%20mercantili%20ed%20al%20reimpiego%20delle%20corrispondenti%20indennita.%20042U1808.md);
 
-Visto il [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 828](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20del%20Comitato%20interministeriale%20di%20vigilanza%20per%20lassicurazione%20contro%20i%20rischi%20di%20guerra%20della%20navigazione%20marittima%20ed%20aerea.md);
+Visto il [decreto legislativo Luogotenenziale 5 ottobre 1945, n. 828](../Decreti%20legislativi%20luogotenenziali/Modificazione%20del%20Comitato%20interministeriale%20di%20vigilanza%20per%20lassicurazione%20contro%20i%20rischi%20di%20guerra%20della%20navigazione%20marittima%20ed%20aerea.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

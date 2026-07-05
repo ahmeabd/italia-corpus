@@ -22,11 +22,11 @@ Vista la [legge 23 gennaio 1941, n. 151](../Atti%20normativi%20abrogati%20%28in%
 
 Vista la [legge 7 gennaio 1943, n. 31](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20al%2031%20dicembre%201945-XXIV%20del%20termine%20stabilito%20per%20lultimazione%20delle%20opere%20relative%20a%20nuovi%20impianti%20idroelettrici%20in%20Sicilia%20ed%20in%20Sardegna.%20043U0031.md);
 
-Visto il [decreto legislativo Luogotenenziale 29 dicembre 1945, n. 870](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md);
+Visto il [decreto legislativo Luogotenenziale 29 dicembre 1945, n. 870](../Decreti%20legislativi%20luogotenenziali/Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -48,7 +48,7 @@ Tenuto conto anche dell'eventuale contributo nella spesa di costruzione di serba
 
 I contributi di cui al presente decreto possono essere accordati per i serbatoi e laghi artificiali e per gli impianti idroelettrici, concessi e da concedere, anche se parzialmente eseguiti in base alla concessione o ad autorizzazione provvisoria.
  In quest'ultimo caso il contributo sara' proporzionato al costo delle opere ancora da eseguire alla data di pubblicazione del presente decreto.
- Sono esclusi dalla limitazione di cui al precedente comma i serbatoi e laghi artificiali e gli impianti idroelettrici ai quali si sarebbero rese applicabili le disposizioni del [R. decreto-legge 12 maggio 1938, numero 770](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20un%20contributo%20statale%20nella%20spesa%20per%20la%20costruzione%20di%20serbatoi%20e%20laghi%20artificiali%20in%20Sicilia%20ed%20in%20Sardegna%20e%20per%20la%20regolazione%20del%20Lago%20Maggiore.%20038U0770.md), delle [leggi 23 novembre 1939, n. 1838, 23 gennaio 1941, n. 151 e 7 gennaio 1943, n. 31](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20al%2031%20dicembre%201945-XXIV%20del%20termine%20stabilito%20per%20lultimazione%20delle%20opere%20relative%20a%20nuovi%20impianti%20idroelettrici%20in%20Sicilia%20ed%20in%20Sardegna.%20043U0031.md), e del [decreto legislativo Luogotenenziale 29 dicembre 1945, n. 870](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md) e per i quali fu presentata domanda di contributo nei termini stabiliti.
+ Sono esclusi dalla limitazione di cui al precedente comma i serbatoi e laghi artificiali e gli impianti idroelettrici ai quali si sarebbero rese applicabili le disposizioni del [R. decreto-legge 12 maggio 1938, numero 770](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20un%20contributo%20statale%20nella%20spesa%20per%20la%20costruzione%20di%20serbatoi%20e%20laghi%20artificiali%20in%20Sicilia%20ed%20in%20Sardegna%20e%20per%20la%20regolazione%20del%20Lago%20Maggiore.%20038U0770.md), delle [leggi 23 novembre 1939, n. 1838, 23 gennaio 1941, n. 151 e 7 gennaio 1943, n. 31](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20al%2031%20dicembre%201945-XXIV%20del%20termine%20stabilito%20per%20lultimazione%20delle%20opere%20relative%20a%20nuovi%20impianti%20idroelettrici%20in%20Sicilia%20ed%20in%20Sardegna.%20043U0031.md), e del [decreto legislativo Luogotenenziale 29 dicembre 1945, n. 870](../Decreti%20legislativi%20luogotenenziali/Proroga%20del%20termine%20per%20la%20ultimazione%20degli%20impianti%20idroelettrici%20in%20Sicilia%20e%20in%20Sardegna.md) e per i quali fu presentata domanda di contributo nei termini stabiliti.
 
 ## Art. 5.
 
