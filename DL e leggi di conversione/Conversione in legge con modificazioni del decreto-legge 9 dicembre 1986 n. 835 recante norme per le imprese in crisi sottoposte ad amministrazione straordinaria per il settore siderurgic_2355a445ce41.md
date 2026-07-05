@@ -28,7 +28,7 @@ Il [decreto-legge 9 dicembre 1986, n. 835](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base dei [decreti-legge 24 maggio 1986, n. 218, 28 luglio 1986, n. 411, e 27 settembre 1986, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20le%20imprese%20in%20crisi%20sottoposte%20ad%20amministrazione%20straordinaria%20per%20il%20settore%20siderurgico%20e%20per%20lavvio%20dellattivita%20dellAgenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base dei [decreti-legge 24 maggio 1986, n. 218, 28 luglio 1986, n. 411, e 27 settembre 1986, n. 593](../DL%20decaduti/Norme%20per%20le%20imprese%20in%20crisi%20sottoposte%20ad%20amministrazione%20straordinaria%20per%20il%20settore%20siderurgico%20e%20per%20lavvio%20dellattivita%20dellAgenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno.md).
 
 3.
 

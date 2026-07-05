@@ -22,11 +22,11 @@ Il [decreto-legge 13 settembre 1996, n. 475](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 luglio 1995, n. 280, 18 settembre 1995, n. 379, 18 novembre 1995, n. 483, 16 gennaio 1996, n. 14, 19 marzo 1996, n. 128, 17 maggio 1996, n. 265, e 16 luglio 1996, n. 374](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20le%20universita%20e%20gli%20enti%20di%20ricerca_6.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 luglio 1995, n. 280, 18 settembre 1995, n. 379, 18 novembre 1995, n. 483, 16 gennaio 1996, n. 14, 19 marzo 1996, n. 128, 17 maggio 1996, n. 265, e 16 luglio 1996, n. 374](../DL%20decaduti/Misure%20urgenti%20per%20le%20universita%20e%20gli%20enti%20di%20ricerca_6.md).
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 25 marzo 1996, n. 159, e 27 maggio 1996, n. 289](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20settore%20della%20ricerca_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 25 marzo 1996, n. 159, e 27 maggio 1996, n. 289](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20settore%20della%20ricerca_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

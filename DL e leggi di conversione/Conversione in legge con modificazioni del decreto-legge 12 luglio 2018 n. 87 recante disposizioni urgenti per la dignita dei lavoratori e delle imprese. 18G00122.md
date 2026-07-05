@@ -22,7 +22,7 @@ Il [decreto-legge 12 luglio 2018, n. 87](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Il [decreto-legge 28 giugno 2018, n. 79](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20di%20entrata%20in%20vigore%20degli%20obblighi%20di%20fatturazione%20elettronica%20per%20le%20cessioni%20di%20carburante.%2018G00107.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 79 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;79).
+Il [decreto-legge 28 giugno 2018, n. 79](../DL%20decaduti/Proroga%20del%20termine%20di%20entrata%20in%20vigore%20degli%20obblighi%20di%20fatturazione%20elettronica%20per%20le%20cessioni%20di%20carburante.%2018G00107.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 79 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018;79).
 
 3.
 
@@ -35,7 +35,7 @@ NOTE
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  
  Note all'[art. 1: 
- - Il decreto-legge 28 giugno 2018, n. 79](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20di%20entrata%20in%20vigore%20degli%20obblighi%20di%20fatturazione%20elettronica%20per%20le%20cessioni%20di%20carburante.%2018G00107.md) (Proroga del termine di entrata in vigore degli obblighi di fatturazione elettronica per le cessioni di carburante), abrogato dalla presente legge, e' stato pubblicato nella Gazzetta Ufficiale del 28 giugno 2018, n. 148. 
+ - Il decreto-legge 28 giugno 2018, n. 79](../DL%20decaduti/Proroga%20del%20termine%20di%20entrata%20in%20vigore%20degli%20obblighi%20di%20fatturazione%20elettronica%20per%20le%20cessioni%20di%20carburante.%2018G00107.md) (Proroga del termine di entrata in vigore degli obblighi di fatturazione elettronica per le cessioni di carburante), abrogato dalla presente legge, e' stato pubblicato nella Gazzetta Ufficiale del 28 giugno 2018, n. 148. 
  
  Avvertenza: 
  

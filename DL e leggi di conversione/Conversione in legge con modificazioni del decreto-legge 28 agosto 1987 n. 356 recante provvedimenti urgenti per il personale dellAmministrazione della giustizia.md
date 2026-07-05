@@ -53,7 +53,7 @@ Istituzione del ruolo ad esaurimento). - 1. Gli ufficiali distaccati da almeno c
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 aprile 1987, n. 164, e 30 giugno 1987, n. 252](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20per%20il%20personale%20dellAmministrazione%20della%20giustizia_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 aprile 1987, n. 164, e 30 giugno 1987, n. 252](../DL%20decaduti/Provvedimenti%20urgenti%20per%20il%20personale%20dellAmministrazione%20della%20giustizia_2.md).
 
 3.
 

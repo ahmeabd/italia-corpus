@@ -22,7 +22,7 @@ Il [decreto-legge 10 maggio 1996, n. 257](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 12 marzo 1996, n. 121](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20sulle%20modalita%20di%20espressione%20del%20voto%20per%20le%20elezioni%20della%20Camera%20dei%20deputati%20e%20del%20Senato%20della%20Repubblica.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 12 marzo 1996, n. 121](../DL%20decaduti/Disposizioni%20urgenti%20sulle%20modalita%20di%20espressione%20del%20voto%20per%20le%20elezioni%20della%20Camera%20dei%20deputati%20e%20del%20Senato%20della%20Repubblica.md).
 
 AVVERTENZA:
  Il [decreto-legge 10 maggio 1996, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-10;257), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 110 del 13 maggio 1996.

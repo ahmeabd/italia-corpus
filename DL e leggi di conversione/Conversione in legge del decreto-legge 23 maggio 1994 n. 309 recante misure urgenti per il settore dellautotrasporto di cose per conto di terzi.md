@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 23 maggio 1994, n. 309](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1993, n. 262, 27 settembre 1993, n. 383, 29 novembre 1993, n. 481, 28 gennaio 1994, n. 69, e 23 marzo 1994, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi_7.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1993, n. 262, 27 settembre 1993, n. 383, 29 novembre 1993, n. 481, 28 gennaio 1994, n. 69, e 23 marzo 1994, n. 194](../DL%20decaduti/Misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi_7.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

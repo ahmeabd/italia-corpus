@@ -40,7 +40,7 @@ Coloro che dal 13 maggio 1991 fino alla data di entrata in vigore della presente
 
 5.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 7 febbraio 1991, n. 36](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20per%20conto%20di%20terzi.md), recante disposizioni urgenti in materia di autotrasporto di cose per conto di terzi, nonche' sulla base degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_2) e [7, comma 2, del decreto- legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_7-com2).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 7 febbraio 1991, n. 36](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20per%20conto%20di%20terzi.md), recante disposizioni urgenti in materia di autotrasporto di cose per conto di terzi, nonche' sulla base degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_2) e [7, comma 2, del decreto- legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151#art_7-com2).
 
 ## Art. 2.
 

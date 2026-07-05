@@ -22,7 +22,7 @@ Il [decreto-legge 17 ottobre 2016, n. 189](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Il [decreto-legge 11 novembre 2016, n. 205](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovi%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20e%20dei%20territori%20interessati%20dagli%20eventi%20sismici%20del%202016.%2016G00218.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 205 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016;205).
+Il [decreto-legge 11 novembre 2016, n. 205](../DL%20decaduti/Nuovi%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20e%20dei%20territori%20interessati%20dagli%20eventi%20sismici%20del%202016.%2016G00218.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 205 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016;205).
 
 3.
 

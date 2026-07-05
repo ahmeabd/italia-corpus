@@ -38,7 +38,7 @@ Con effetto dal 1 gennaio 1987:
 
 1.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 4 gennaio 1986, n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20aliquote%20e%20delle%20detrazioni%20ai%20fini%20dellapplicazione%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 4 gennaio 1986, n. 1](../DL%20decaduti/Revisione%20delle%20aliquote%20e%20delle%20detrazioni%20ai%20fini%20dellapplicazione%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md).
 
 2.
 

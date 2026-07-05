@@ -24,7 +24,7 @@ Il [decreto-legge 6 settembre 1996, n. 467](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 11 luglio 1996, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20e%20sospensione%20di%20termini%20per%20i%20soggetti%20colpiti%20dagli%20eventi%20alluvionali%20verificatisi%20nelle%20province%20di%20Lucca%20Massa%20Carrara%20Udine%20e%20Pordenone%20nel%20mese%20di%20giugno%201996.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 11 luglio 1996, n. 366](../DL%20decaduti/Proroga%20e%20sospensione%20di%20termini%20per%20i%20soggetti%20colpiti%20dagli%20eventi%20alluvionali%20verificatisi%20nelle%20province%20di%20Lucca%20Massa%20Carrara%20Udine%20e%20Pordenone%20nel%20mese%20di%20giugno%201996.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

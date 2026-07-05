@@ -28,7 +28,7 @@ Il Governo e' delegato ad adottare i decreti legislativi previsti dalla [legge 1
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 29 ottobre 1991, n. 346](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 29 ottobre 1991, n. 346](../DL%20decaduti/Istituzione%20del%20Fondo%20di%20sostegno%20per%20le%20vittime%20di%20richieste%20estorsive.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

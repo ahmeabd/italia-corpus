@@ -36,7 +36,7 @@ AVVERTENZA:
 
 1.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 6 novembre 1985, n. 597](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20assicurare%20la%20continuita%20della%20riscossione%20delle%20imposte%20dirette%20e%20per%20il%20differimento%20di%20taluni%20termini%20in%20materia%20tributaria%20e%20di%20interventi%20straordinari%20nel%20Mezzogiorno.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 6 novembre 1985, n. 597](../DL%20decaduti/Disposizioni%20urgenti%20per%20assicurare%20la%20continuita%20della%20riscossione%20delle%20imposte%20dirette%20e%20per%20il%20differimento%20di%20taluni%20termini%20in%20materia%20tributaria%20e%20di%20interventi%20straordinari%20nel%20Mezzogiorno.md).
 
 2.
 

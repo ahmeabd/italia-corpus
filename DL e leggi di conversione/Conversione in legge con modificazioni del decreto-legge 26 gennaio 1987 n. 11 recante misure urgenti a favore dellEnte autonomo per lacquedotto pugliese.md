@@ -24,7 +24,7 @@ Il [decreto-legge 26 gennaio 1987, n. 11](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 25 novembre 1986, n. 779](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20a%20favore%20dellEnte%20autonomo%20per%20lacquedotto%20pugliese.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 25 novembre 1986, n. 779](../DL%20decaduti/Misure%20urgenti%20a%20favore%20dellEnte%20autonomo%20per%20lacquedotto%20pugliese.md).
 
 3.
 
@@ -38,7 +38,7 @@ AVVERTENZA:
  NOTE
 
  Nota all'[art. 1, comma 2:
- Il D.L. 25 novembre 1986, n. 779](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20a%20favore%20dellEnte%20autonomo%20per%20lacquedotto%20pugliese.md), non convertito in legge per decorrenza dei termini costituzionali (v. comunicato nella Gazzetta Ufficiale - serie generale - n. 20 del 26 gennaio 1987) aveva lo stesso titolo del decreto convertito dalla presente legge.
+ Il D.L. 25 novembre 1986, n. 779](../DL%20decaduti/Misure%20urgenti%20a%20favore%20dellEnte%20autonomo%20per%20lacquedotto%20pugliese.md), non convertito in legge per decorrenza dei termini costituzionali (v. comunicato nella Gazzetta Ufficiale - serie generale - n. 20 del 26 gennaio 1987) aveva lo stesso titolo del decreto convertito dalla presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

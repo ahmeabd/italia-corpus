@@ -22,7 +22,7 @@ Il [decreto-legge 26 aprile 1994, n. 248](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 febbraio 1994, n. 113](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20per%20lo%20sviluppo%20economico%20e%20sociale%20della%20Sardegna%20in%20attuazione%20dellarticolo%2013%20dello%20statuto%20speciale.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 febbraio 1994, n. 113](../DL%20decaduti/Provvedimenti%20urgenti%20per%20lo%20sviluppo%20economico%20e%20sociale%20della%20Sardegna%20in%20attuazione%20dellarticolo%2013%20dello%20statuto%20speciale.md).
 
 AVVERTENZA:
  Il [decreto-legge 26 aprile 1994, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-04-26;248), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 95 del 26 aprile 1994.

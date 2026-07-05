@@ -22,7 +22,7 @@ Il [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 marzo 1993, n. 54, 15 maggio 1993, n. 143, 17 luglio 1993, n. 232, e 14 settembre 1993, n. 359](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 marzo 1993, n. 54, 15 maggio 1993, n. 143, 17 luglio 1993, n. 232, e 14 settembre 1993, n. 359](../DL%20decaduti/Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_3.md).
 
 AVVERTENZA:
  Il [decreto-legge 15 novembre 1993, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-11-15;453), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 268 del 15 novembre 1993.

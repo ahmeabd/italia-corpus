@@ -42,7 +42,7 @@ Il Governo e' delegato ad adottare, entro (( il 31 dicembre 2004 )), disposizion
 
 4.
 
-Sono fatti salvi gli effetti prodottisi sulla base del [decreto-legge 3 luglio 2003, n. 158](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20garantire%20la%20continuita%20delle%20forniture%20di%20energia%20elettrica%20in%20condizioni%20di%20sicurezza.md).
+Sono fatti salvi gli effetti prodottisi sulla base del [decreto-legge 3 luglio 2003, n. 158](../DL%20decaduti/Disposizioni%20urgenti%20per%20garantire%20la%20continuita%20delle%20forniture%20di%20energia%20elettrica%20in%20condizioni%20di%20sicurezza.md).
 
 5.
 

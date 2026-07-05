@@ -42,7 +42,7 @@ Inoltre dovranno essere avviate tutte le iniziative necessarie alla tutela della
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 28 luglio 1988, n. 299](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20e%20straordinarie%20per%20gli%20interventi%20infrastrutturali%20e%20turistici%20nelle%20aree%20che%20saranno%20interessate%20dai%20mondiali%20di%20calcio%20del%201990%20e%20dalle%20manifestazioni%20connesse%20alla%20rico_a5a6724d7f55.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 28 luglio 1988, n. 299](../DL%20decaduti/Misure%20urgenti%20e%20straordinarie%20per%20gli%20interventi%20infrastrutturali%20e%20turistici%20nelle%20aree%20che%20saranno%20interessate%20dai%20mondiali%20di%20calcio%20del%201990%20e%20dalle%20manifestazioni%20connesse%20alla%20rico_a5a6724d7f55.md).
 
 AVVERTENZA:
  Il [decreto-legge 4 novembre 1988, n. 465](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20e%20straordinarie%20per%20la%20realizzazione%20di%20strutture%20turistiche%20ricettive%20e%20tecnologiche.md), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 259 del 4 novembre 1988.

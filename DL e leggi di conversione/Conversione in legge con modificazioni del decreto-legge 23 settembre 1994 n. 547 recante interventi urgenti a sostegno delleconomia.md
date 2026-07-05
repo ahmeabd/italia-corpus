@@ -22,7 +22,7 @@ Il [decreto-legge 23 settembre 1994, n. 547](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 gennaio 1994, n. 22, 18 marzo 1994, n. 184, 25 maggio 1994, n. 312, e 25 luglio 1994, n. 463](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20a%20sostegno%20delleconomia_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 gennaio 1994, n. 22, 18 marzo 1994, n. 184, 25 maggio 1994, n. 312, e 25 luglio 1994, n. 463](../DL%20decaduti/Interventi%20urgenti%20a%20sostegno%20delleconomia_4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

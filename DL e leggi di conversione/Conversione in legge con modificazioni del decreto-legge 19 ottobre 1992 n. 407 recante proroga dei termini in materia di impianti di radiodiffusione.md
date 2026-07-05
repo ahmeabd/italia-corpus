@@ -22,7 +22,7 @@ Il [decreto-legge 19 ottobre 1992, n. 407](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 14 agosto 1992, n. 361](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dei%20termini%20in%20materia%20di%20impianti%20di%20radiodiffusione.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 14 agosto 1992, n. 361](../DL%20decaduti/Proroga%20dei%20termini%20in%20materia%20di%20impianti%20di%20radiodiffusione.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

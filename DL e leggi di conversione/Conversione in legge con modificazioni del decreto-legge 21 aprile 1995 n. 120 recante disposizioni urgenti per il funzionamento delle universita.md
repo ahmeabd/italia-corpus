@@ -22,7 +22,7 @@ Il [decreto-legge 21 aprile 1995, n. 120](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 dicembre 1993, n. 530, 21 febbraio 1994, n. 122, 26 aprile 1994, n. 249, 23 giugno 1994, n. 404, 8 agosto 1994, n. 510, 21 ottobre 1994, n. 588, 22 dicembre 1994, n. 697, e 21 febbraio 1995, n. 40](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita_8.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 dicembre 1993, n. 530, 21 febbraio 1994, n. 122, 26 aprile 1994, n. 249, 23 giugno 1994, n. 404, 8 agosto 1994, n. 510, 21 ottobre 1994, n. 588, 22 dicembre 1994, n. 697, e 21 febbraio 1995, n. 40](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20funzionamento%20delle%20universita_8.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

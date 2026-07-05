@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-E' convertito in legge il [decreto-legge 28 febbraio 1981, n. 35](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20di%20cui%20allart.%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20in%20materia%20di%20opere%20idrauliche%20relative%20ai%20bacini%20idrografici%20interregionali_3.md), recante differimento del termine di cui all'[articolo 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), in materia di opere idrauliche relative ai bacini idrografici interregionali.
+E' convertito in legge il [decreto-legge 28 febbraio 1981, n. 35](../DL%20decaduti/Differimento%20del%20termine%20di%20cui%20allart.%2089%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20in%20materia%20di%20opere%20idrauliche%20relative%20ai%20bacini%20idrografici%20interregionali_3.md), recante differimento del termine di cui all'[articolo 89 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), in materia di opere idrauliche relative ai bacini idrografici interregionali.
 
 ## Art. 2.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 29 marzo 1991, n. 103](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 novembre 1990, n. 338, e 28 gennaio 1991, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20previdenziale_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 novembre 1990, n. 338, e 28 gennaio 1991, n. 28](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20previdenziale_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 29 marzo 1991, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-29;103), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 77 del 2 aprile 1991.

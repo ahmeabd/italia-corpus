@@ -22,7 +22,7 @@ Il [decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base delle norme del [decreto-legge 27 giugno 2012, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20efficientamento%20valorizzazione%20e%20dismissione%20del%20patrimonio%20pubblico%20di%20razionalizzazione%20dellamministrazione%20economico-finanziaria%20nonche%20misure%20di%20rafforzam_e3a317905685.md), non convertite in legge.
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base delle norme del [decreto-legge 27 giugno 2012, n. 87](../DL%20decaduti/Misure%20urgenti%20in%20materia%20di%20efficientamento%20valorizzazione%20e%20dismissione%20del%20patrimonio%20pubblico%20di%20razionalizzazione%20dellamministrazione%20economico-finanziaria%20nonche%20misure%20di%20rafforzam_e3a317905685.md), non convertite in legge.
 
 3.
 

@@ -195,7 +195,7 @@ Detti funzionari sono dispensati, per tutto il periodo di svolgimento dell'incar
 
 ## Art. 2.
 
-Restano validi gli atti e i provvedimenti adottati nonche' i rapporti giuridici sorti in applicazione del [decreto-legge 22 dicembre 1981, n. 788](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20gestione%20stralcio%20dellattivita%20del%20Commissario%20per%20le%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata.md).
+Restano validi gli atti e i provvedimenti adottati nonche' i rapporti giuridici sorti in applicazione del [decreto-legge 22 dicembre 1981, n. 788](../DL%20decaduti/Disciplina%20della%20gestione%20stralcio%20dellattivita%20del%20Commissario%20per%20le%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -36,7 +36,7 @@ Il [decreto-legge 21 febbraio 1985, n. 23](https://www.normattiva.it/uri-res/N2L
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 dicembre 1984, n. 799, e 19 dicembre 1984, n. 856](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20interventi%20nei%20settori%20dellindustria%20e%20della%20distribuzione%20commerciale.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 dicembre 1984, n. 799, e 19 dicembre 1984, n. 856](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20interventi%20nei%20settori%20dellindustria%20e%20della%20distribuzione%20commerciale.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

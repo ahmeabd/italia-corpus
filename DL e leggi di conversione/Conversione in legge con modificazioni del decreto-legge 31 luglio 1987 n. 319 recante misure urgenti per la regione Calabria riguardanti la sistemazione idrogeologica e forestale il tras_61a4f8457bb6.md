@@ -36,7 +36,7 @@ Il [decreto-legge 31 luglio 1987, n. 319](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1° aprile 1987, n. 127, e 2 giugno 1987, n. 213](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20la%20regione%20Calabria%20riguardanti%20la%20sistemazione%20idrogeologica%20e%20forestale%20il%20trasferimento%20di%20taluni%20centri%20abitati%20ladeguamento%20antisismico%20di%20edifici%20pubblici%20e%20le%20Un_271d8ee28ddb.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1° aprile 1987, n. 127, e 2 giugno 1987, n. 213](../DL%20decaduti/Misure%20urgenti%20per%20la%20regione%20Calabria%20riguardanti%20la%20sistemazione%20idrogeologica%20e%20forestale%20il%20trasferimento%20di%20taluni%20centri%20abitati%20ladeguamento%20antisismico%20di%20edifici%20pubblici%20e%20le%20Un_271d8ee28ddb.md).
 
 3.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 4 dicembre 1993, n. 496](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 agosto 1993, n. 274, e 2 ottobre 1993, n. 395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20sulla%20riorganizzazione%20dei%20controlli%20ambientali%20e%20istituzione%20dellAgenzia%20nazionale%20per%20la%20protezione%20dellambiente_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 agosto 1993, n. 274, e 2 ottobre 1993, n. 395](../DL%20decaduti/Disposizioni%20urgenti%20sulla%20riorganizzazione%20dei%20controlli%20ambientali%20e%20istituzione%20dellAgenzia%20nazionale%20per%20la%20protezione%20dellambiente_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 4 dicembre 1993, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-04;496), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 285 del 4 dicembre 1993.

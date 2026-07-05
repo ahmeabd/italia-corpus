@@ -22,7 +22,7 @@ Il [decreto-legge 30 maggio 1994, n. 322](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 novembre 1993, n. 485, 29 gennaio 1994, n. 72, e 31 marzo 1994, n. 214](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rifinanziamento%20della%20legge%2028%20agosto%201989%20n.%20302%20concernente%20disciplina%20del%20credito%20peschereccio%20di%20esercizio_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 novembre 1993, n. 485, 29 gennaio 1994, n. 72, e 31 marzo 1994, n. 214](../DL%20decaduti/Rifinanziamento%20della%20legge%2028%20agosto%201989%20n.%20302%20concernente%20disciplina%20del%20credito%20peschereccio%20di%20esercizio_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

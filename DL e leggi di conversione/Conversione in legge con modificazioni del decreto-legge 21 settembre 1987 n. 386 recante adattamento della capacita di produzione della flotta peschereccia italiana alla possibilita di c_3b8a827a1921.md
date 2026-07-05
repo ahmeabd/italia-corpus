@@ -34,7 +34,7 @@ Il [decreto-legge 21 settembre 1987, n. 386](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 marzo 1987, n. 102, 22 maggio 1987, n. 200, e 21 luglio 1987, n. 296](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adattamento%20della%20capacita%20di%20produzione%20della%20flotta%20peschereccia%20italiana%20alla%20possibilita%20di%20cattura%20mediante%20ritiro%20definitivo%20del%20naviglio%20e%20fermo%20temporaneo%20delle%20navi%20adibite%20alla%20_0c150fc56b41_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 marzo 1987, n. 102, 22 maggio 1987, n. 200, e 21 luglio 1987, n. 296](../DL%20decaduti/Adattamento%20della%20capacita%20di%20produzione%20della%20flotta%20peschereccia%20italiana%20alla%20possibilita%20di%20cattura%20mediante%20ritiro%20definitivo%20del%20naviglio%20e%20fermo%20temporaneo%20delle%20navi%20adibite%20alla%20_0c150fc56b41_2.md).
 
 3.
 

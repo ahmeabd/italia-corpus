@@ -211,7 +211,7 @@ Le deliberazioni adottate entro il 31 gennaio 1983 hanno effetto dal 1 gennaio 1
 
  L'articolo 37 e' soppresso.
 
- Restano validi gli atti e i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle disposizioni di cui ai titoli I e IV, nonche' di quelle contenute negli articoli 32, 33, 34, 35, 36, 37, 39 e 40 del titolo III del [decreto-legge 30 dicembre 1982, n. 952](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md).
+ Restano validi gli atti e i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle disposizioni di cui ai titoli I e IV, nonche' di quelle contenute negli articoli 32, 33, 34, 35, 36, 37, 39 e 40 del titolo III del [decreto-legge 30 dicembre 1982, n. 952](../DL%20decaduti/Provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

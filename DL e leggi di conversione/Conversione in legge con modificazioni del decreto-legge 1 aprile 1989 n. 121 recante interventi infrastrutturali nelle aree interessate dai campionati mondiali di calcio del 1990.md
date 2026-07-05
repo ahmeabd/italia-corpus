@@ -24,7 +24,7 @@ Il [decreto-legge 1 aprile 1989, n. 121](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 28 gennaio 1989, n. 24](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 28 gennaio 1989, n. 24](../DL%20decaduti/Interventi%20infrastrutturali%20nelle%20aree%20interessate%20dai%20campionati%20mondiali%20di%20calcio%20del%201990.md).
 
 AVVERTENZA:
  Il [decreto-legge 1 aprile 1989, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-04-01;121), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 77 del 3 aprile 1989.

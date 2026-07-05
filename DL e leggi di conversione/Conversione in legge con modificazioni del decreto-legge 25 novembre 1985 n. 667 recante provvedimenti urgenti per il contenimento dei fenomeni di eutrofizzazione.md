@@ -62,7 +62,7 @@ Il [decreto-legge 25 novembre 1985, n. 667](https://www.normattiva.it/uri-res/N2
 
 1.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 9 settembre 1985, n. 463](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20per%20il%20contenimento%20dei%20fenomeni%20di%20eutrofizzazione.md), non convertito in legge.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 9 settembre 1985, n. 463](../DL%20decaduti/Provvedimenti%20urgenti%20per%20il%20contenimento%20dei%20fenomeni%20di%20eutrofizzazione.md), non convertito in legge.
 
 2.
 

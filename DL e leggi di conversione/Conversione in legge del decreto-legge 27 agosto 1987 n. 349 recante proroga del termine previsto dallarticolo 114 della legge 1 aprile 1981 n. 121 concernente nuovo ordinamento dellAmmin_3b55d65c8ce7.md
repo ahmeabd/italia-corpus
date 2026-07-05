@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 27 agosto 1987, n. 349](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono stati salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 aprile 1987, n. 153, e 27 giugno 1987, n. 241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20previsto%20dallarticolo%20114%20della%20legge%201%20aprile%201981%20n.%20121%20concernente%20nuovo%20ordinamento%20dellAmministrazione%20della%20pubblica%20sicurezza_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono stati salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 aprile 1987, n. 153, e 27 giugno 1987, n. 241](../DL%20decaduti/Proroga%20del%20termine%20previsto%20dallarticolo%20114%20della%20legge%201%20aprile%201981%20n.%20121%20concernente%20nuovo%20ordinamento%20dellAmministrazione%20della%20pubblica%20sicurezza_2.md).
 
 3.
 

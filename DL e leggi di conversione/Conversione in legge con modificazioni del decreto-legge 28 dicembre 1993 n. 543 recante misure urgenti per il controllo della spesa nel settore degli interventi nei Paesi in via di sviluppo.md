@@ -22,7 +22,7 @@ Il [decreto-legge 28 dicembre 1993, n. 543](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 settembre 1993, n. 342, e 29 ottobre 1993, n. 430](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20controllo%20della%20spesa%20nel%20settore%20degli%20investimenti%20nei%20Paesi%20in%20via%20di%20sviluppo_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 1 settembre 1993, n. 342, e 29 ottobre 1993, n. 430](../DL%20decaduti/Misure%20urgenti%20per%20il%20controllo%20della%20spesa%20nel%20settore%20degli%20investimenti%20nei%20Paesi%20in%20via%20di%20sviluppo_2.md).
 
 3.
 

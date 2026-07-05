@@ -22,7 +22,7 @@ Il [decreto-legge 18 novembre 1991, n. 365](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 13 settembre 1991, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20il%20sistema%20informativo%20e%20per%20le%20strutture%20le%20attrezzature%20ed%20i%20servizi%20dellAmministrazione%20della%20giustizia.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 13 settembre 1991, n. 298](../DL%20decaduti/Interventi%20urgenti%20per%20il%20sistema%20informativo%20e%20per%20le%20strutture%20le%20attrezzature%20ed%20i%20servizi%20dellAmministrazione%20della%20giustizia.md).
 
 AVVERTENZA:
  Il [decreto-legge 18 novembre 1991, n. 365](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-11-18;365), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 270 del 18 novembre 1991.

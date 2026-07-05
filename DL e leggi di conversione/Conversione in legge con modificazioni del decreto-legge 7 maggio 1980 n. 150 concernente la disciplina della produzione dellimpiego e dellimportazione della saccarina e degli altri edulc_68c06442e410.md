@@ -25,7 +25,7 @@ E' convertito in legge il [decreto-legge 7 maggio 1980, n. 150](https://www.norm
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in base alle disposizioni contenute nel [decreto-legge 25 febbraio 1980, n. 30](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20dellimpiego%20e%20dellimportazione%20della%20saccarina%20e%20degli%20altri%20edulcoranti%20artificiali.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in base alle disposizioni contenute nel [decreto-legge 25 febbraio 1980, n. 30](../DL%20decaduti/Disciplina%20della%20produzione%20dellimpiego%20e%20dellimportazione%20della%20saccarina%20e%20degli%20altri%20edulcoranti%20artificiali.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

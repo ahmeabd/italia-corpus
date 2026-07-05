@@ -22,7 +22,7 @@ Il [decreto-legge 29 agosto 1994, n. 516](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 dicembre 1993, n. 555, 28 febbraio 1994, n. 140, 29 aprile 1994, n. 262, e 29 giugno 1994, n. 417](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20finalizzati%20alla%20razionalizzazione%20dellindebitamento%20delle%20societa%20per%20azioni%20interamente%20possedute%20dallo%20Stato%20nonche%20ulteriori%20disposizioni%20per%20completare%20la%20liquidazione%20dellEFIM.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 dicembre 1993, n. 555, 28 febbraio 1994, n. 140, 29 aprile 1994, n. 262, e 29 giugno 1994, n. 417](../DL%20decaduti/Provvedimenti%20finalizzati%20alla%20razionalizzazione%20dellindebitamento%20delle%20societa%20per%20azioni%20interamente%20possedute%20dallo%20Stato%20nonche%20ulteriori%20disposizioni%20per%20completare%20la%20liquidazione%20dellEFIM.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

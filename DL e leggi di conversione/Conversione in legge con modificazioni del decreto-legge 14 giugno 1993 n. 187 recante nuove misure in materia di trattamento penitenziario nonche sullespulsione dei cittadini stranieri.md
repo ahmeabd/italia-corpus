@@ -22,7 +22,7 @@ Il [decreto-legge 14 giugno 1993, n. 187](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 13 aprile 1993, n. 107](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20misure%20in%20materia%20di%20trattamento%20penitenziario%20nonche%20sullespulsione%20dei%20cittadini%20extracomunitari.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 13 aprile 1993, n. 107](../DL%20decaduti/Nuove%20misure%20in%20materia%20di%20trattamento%20penitenziario%20nonche%20sullespulsione%20dei%20cittadini%20extracomunitari.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 13 novembre 1989, n. 370](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 12 settembre 1989, n. 317](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20della%20custodia%20cautelare.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 12 settembre 1989, n. 317](../DL%20decaduti/Modifica%20della%20disciplina%20della%20custodia%20cautelare.md).
 
 AVVERTENZA:
  Il [decreto-legge 13 novembre 1989, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-11-13;370), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 266 del 14 novembre 1989.

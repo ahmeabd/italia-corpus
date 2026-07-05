@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 20 dicembre 1993, n. 529](../Atti%20nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 ottobre 1993, n. 420](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scioglimento%20dei%20consigli%20comunali%20e%20provinciali%20e%20degli%20organi%20degli%20altri%20enti%20locali%20conseguente%20a%20fenomeni%20di%20infiltrazione%20e%20condizionamento%20di%20tipo%20mafioso.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 ottobre 1993, n. 420](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20scioglimento%20dei%20consigli%20comunali%20e%20provinciali%20e%20degli%20organi%20degli%20altri%20enti%20locali%20conseguente%20a%20fenomeni%20di%20infiltrazione%20e%20condizionamento%20di%20tipo%20mafioso.md).
 
 AVVERTENZA:
  Il [decreto-legge 20 dicembre 1993, n. 529](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20scioglimento%20dei%20consigli%20comunali%20e%20provinciali%20e%20degli%20organi%20degli%20altri%20enti%20locali%20conseguente%20a%20fenomeni%20di%20infiltrazione%20e%20condizionamento%20di%20tipo%20mafioso_2.md), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 299 del 22 dicembre 1993.
