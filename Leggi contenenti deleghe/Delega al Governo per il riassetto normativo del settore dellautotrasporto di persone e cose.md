@@ -58,7 +58,7 @@ I decreti legislativi di cui all'articolo 1 sono informati ai seguenti principi 
                         c)
                             tutela della sicurezza della circolazione e della sicurezza sociale;
                         d)
-                            introduzione di una normativa di coordinamento fra i principi della [direttiva 2003/59/CE del Parlamento europeo e del Consiglio, del 15 luglio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;59), sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, e l'apparato sanzionatorio di cui all'[articolo 126-bis del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni.
+                            introduzione di una normativa di coordinamento fra i principi della [direttiva 2003/59/CE del Parlamento europeo e del Consiglio, del 15 luglio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;59), sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri, e l'apparato sanzionatorio di cui all'[articolo 126-bis del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni.
 
 2.
 
