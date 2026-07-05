@@ -18,7 +18,7 @@ Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20r
 
 Visto l'allegato A, n. 32, della [legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340);
 
-Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), ed il relativo regolamento di esecuzione, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
+Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), ed il relativo regolamento di esecuzione, approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md);
 
 Visto il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md);
 
@@ -88,7 +88,7 @@ NOTE
  - Si riporta il n. 32 dell'allegato A della [legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340): "Disposizioni per la delegificazione di norme e per la semplificazione di procedimenti amministrativi - legge di semplificazione 1999":
  "32. Procedimento di autorizzazione per l'attivita' di noleggio di autoveicoli senza conducente e per l'esercizio dell'attivita' di rimessa di autoveicoli o vetture e adempimenti richiesti agli esercenti autorimesse.".
  - Il [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), pubblicato nella Gazzetta Ufficiale 26 giugno 1931, n. 146 reca: "[Testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).".
- - Il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), pubblicato nel supplemento alla Gazzetta Ufficiale 26 giugno 1940, n. 149, reca: "Regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773).".
+ - Il [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), pubblicato nel supplemento alla Gazzetta Ufficiale 26 giugno 1940, n. 149, reca: "Regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773).".
  - Il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), pubblicato nella Gazzetta Ufficiale 20 agosto 1977, n. 234, reca: "Attuazione della delega di cui all'[art. 1 della legge 27 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-27;382#art_1).".
  - La [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192, reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.".
  - Il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.".
@@ -116,7 +116,7 @@ Nota all'art. 2:
 
 1.
 
-E' abrogato l'[articolo 158 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_158).
+E' abrogato l'[articolo 158 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
 
 2.
 
