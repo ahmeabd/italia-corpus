@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5); 
- Visto il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), che approva il regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza; 
+ Visto il [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), che approva il regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza; 
  Ritenuta l'opportunita' di procedere alla modifica dell'art. 101 del regolamento suindicato; 
  Udito il parere del Consiglio di Stato in adunanza generale; 
  Sentito il Consiglio dei Ministri; 
@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  
  Decreta: 
  
- L'[art. 101 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_101), di approvazione del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' modificato come segue: 
+ L'[art. 101 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), di approvazione del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e' modificato come segue: 
  
  Chi chiede la licenza per fabbricare o accendere fuochi d'artificio deve ottenere un certificato di idoneita' rilasciato dal prefetto su conforme parere della commissione tecnica prevista dall'[art. 49 del testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773#art_49), integrata da due ispettori del lavoro, di cui uno laureato in ingegneria o chimica e l'altro in medicina. 
  L'aspirante deve dimostrare, mediante un esperimento pratico, la conoscenza delle sostanze impiegate nella preparazione dei fuochi artificiali e la tecnica della fabbricazione e dell'accensione dei fuochi. 
