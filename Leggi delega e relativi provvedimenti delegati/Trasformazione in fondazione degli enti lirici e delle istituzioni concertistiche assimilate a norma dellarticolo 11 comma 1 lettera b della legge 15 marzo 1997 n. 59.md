@@ -255,7 +255,7 @@ Sono abrogati:
                         e)
                             l'[articolo 3 della legge 13 luglio 1984, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-13;312#art_3);
                         f)
-                            gli [articoli 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_146) e [147 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_147).((2))
+                            gli [articoli 146](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md) e [147 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).((2))
 
 ----------------
 

@@ -548,17 +548,20 @@ Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 1.
 
-L'organizzatore delle competizioni facenti capo alla Lega di serie A destina una quota del 10 per cento delle risorse economiche e finanziarie derivanti da tutti i contratti stipulati per la commercializzazione dei diritti di cui all'articolo 3, comma 1, esclusivamente per lo sviluppo dei settori giovanili delle societa', per la formazione e per l'utilizzo di calciatori convocabili per le squadre nazionali giovanili italiane maschili e femminili, per il sostegno degli investimenti per gli impianti sportivi e per lo sviluppo dei centri federali territoriali e delle attivita' giovanili della Federazione italiana giuoco calcio.
+L'organizzatore delle competizioni facenti capo alla Lega di serie A destina una quota del 10 per cento delle risorse economiche e finanziarie derivanti da tutti i contratti stipulati per la commercializzazione dei diritti di cui all'articolo 3, comma 1, esclusivamente per lo sviluppo dei settori giovanili delle societa', per la formazione e per l'utilizzo di calciatori convocabili per le squadre nazionali giovanili italiane maschili e femminili, per il sostegno degli investimenti per gli impianti sportivi ((...)) e delle attivita' giovanili ((...)).
 
 2.
 
-La quota di cui al comma 1 e' destinata alla Federazione italiana giuoco calcio, che determina i criteri e le modalita' di erogazione secondo le finalita' di cui al comma 1, previa rendicontazione certificata da parte dei destinatari. Tali fondi sono destinati: nella misura del 6 per cento alla Lega di serie B; nella misura del 2 per cento alla Lega Pro; nella misura dell'1 per cento alla Lega nazionale dilettanti; nella misura dell'1 per cento alla Federazione italiana giuoco calcio.
+La quota di cui al comma 1 e' destinata ((al soggetto che organizza il campionato professionistico di Serie A femminile)), che determina i criteri e le modalita' di erogazione secondo le finalita' di cui al comma 1, previa rendicontazione certificata da parte dei destinatari. Tali fondi sono destinati: nella misura del 6 per cento alla Lega di serie B; nella misura del 2 per cento alla Lega Pro; nella misura dell'1 per cento alla Lega nazionale dilettanti; nella misura dell'1 per cento alla Federazione italiana giuoco calcio.
 
 3.
 
 La Federazione italiana giuoco calcio presenta al Presidente del Consiglio dei ministri ovvero, se nominato, al Sottosegretario di Stato alla Presidenza del Consiglio dei ministri con delega allo sport, entro il 31 gennaio di ogni anno, una relazione sull'attivita' svolta nell'anno sportivo precedente.
 
-((3-bis. Al fine di incentivare l'ammodernamento degli impianti calcistici, in regime di proprieta' o di concessione amministrativa, in favore delle societa' appartenenti alla Lega di serie B, alla Lega Pro e alla Lega nazionale dilettanti che hanno beneficiato della mutualita' e' riconosciuto un contributo, sotto forma di credito d'imposta, nella misura del 12 per cento dell'ammontare degli interventi di ristrutturazione degli impianti medesimi, sino a un massimo di 25.000 euro, realizzati mediante l'impiego delle somme di cui al comma 1 entro il terzo periodo d'imposta successivo alla loro attribuzione. Il contributo e' riconosciuto nel rispetto del regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti "de minimis". Con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate le modalita' di attuazione dell'incentivo anche al fine del rispetto del limite di spesa di 4 milioni di euro annui a decorrere dal 2018))
+3-bis.
+
+Al fine di incentivare l'ammodernamento degli impianti calcistici, in regime di proprieta' o di concessione amministrativa, in favore delle societa' appartenenti alla Lega di serie B, alla Lega Pro e alla Lega nazionale dilettanti che hanno beneficiato della mutualita' e' riconosciuto un contributo, sotto forma di credito d'imposta, nella misura del 12 per cento dell'ammontare degli interventi di ristrutturazione degli impianti medesimi, sino a un massimo di 25.000 euro, realizzati mediante l'impiego delle somme di cui al comma 1 entro il terzo periodo d'imposta successivo alla loro attribuzione. Il contributo e' riconosciuto nel rispetto del regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti "de minimis". Con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate le modalita' di attuazione dell'incentivo anche al fine del rispetto del limite di spesa di 4 milioni di euro annui a decorrere dal 2018. 
+ (4)
 
 -------------
 
@@ -618,11 +621,19 @@ La ripartizione delle risorse assicurate dalla commercializzazione dei diritti a
 
 ((2. La quota di cui al comma 1, lettera b), e' determinata sulla base dei seguenti criteri:
 
+a) la classifica e i punti conseguiti nell'ultimo campionato;
+
+b) i risultati conseguiti negli ultimi cinque campionati;
+
 c) i risultati conseguiti a livello nazionale a partire dalla stagione sportiva 1946/ 1947))
 
 ((6))
 
 ((3. La quota di cui al comma 1, lettera c), e' determinata sulla base dei seguenti criteri:
+
+a) il pubblico di riferimento di ciascuna squadra, calcolato tenendo in considerazione il numero degli spettatori paganti che hanno assistito dal vivo alle gare casalinghe disputate negli ultimi tre campionati;
+
+b) l'audience televisiva certificata;
 
 c) i minuti giocati nel campionato di serie A da giocatori di eta' compresa tra quindici e ventitre' anni, formati nei settori giovanili italiani e che siano tesserati da almeno trentasei mesi ininterrotti per la societa' presso la quale prestano l'attivita' sportiva, comprendendo nel computo eventuali periodi di cessione a titolo temporaneo a favore di altre societa' partecipanti ai campionati di serie A o di serie B o delle seconde squadre partecipanti al campionato di serie C))
 
@@ -633,6 +644,10 @@ c) i minuti giocati nel campionato di serie A da giocatori di eta' compresa tra 
 ((6))
 
 (( 4. Con decreto del Presidente del Consiglio dei ministri sono determinati:
+
+a) le quote percentuali relative ai diversi criteri indicati al comma 1, lettere b) e c);
+
+b) i criteri di ponderazione delle quote di cui al comma 2;
 
 c) i criteri per la determinazione del pubblico di riferimento di ciascuna squadra, di cui al comma 3, lettera a), e dei minuti giocati dai giovani calciatori, di cui al comma 3, lettera c) ))
 
