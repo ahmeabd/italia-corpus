@@ -2655,11 +2655,11 @@ Note all'[art. 66](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Cod
  19) Procedimento di rilascio della licenza di collezione di armi comuni da sparo e delle armi artistiche, rare e antiche
  testo unico approvato con [regio decreto 18 giugno 1931, n. 773, articoli 31](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e [32](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
  [legge 18 aprile 1975, n. 110, art. 10, comma sesto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110#art_10-com6);
- regolamento approvato con [regio decreto 6 maggio 1940, n. 635, art. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_47).
+ regolamento approvato con [regio decreto 6 maggio 1940, n. 635, art. 47](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
  20) Procedimento per la concessione del porto d'armi per uso personale
  testo unico approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
  regolamento approvato con [regio decreto 6 maggio 1940, n. 635;
- decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635) 28 aprile 1998 del Ministro della sanita', pubblicato nella Gazzetta Ufficiale n. 143 del 22 giugno 1998.
+ decreto](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md) 28 aprile 1998 del Ministro della sanita', pubblicato nella Gazzetta Ufficiale n. 143 del 22 giugno 1998.
  21) Procedimento per la denuncia all'istituto assicuratore ed all'autorita' locale di pubblica sicurezza da parte del datore di lavoro degli infortuni da cui siano colpiti i dipendenti prestatori d'opera e prognosticati non guaribili entro tre giorni
  testo unico approvato con [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, articoli 53](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md) e [54](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md).
  22. - 23. (Soppressi).

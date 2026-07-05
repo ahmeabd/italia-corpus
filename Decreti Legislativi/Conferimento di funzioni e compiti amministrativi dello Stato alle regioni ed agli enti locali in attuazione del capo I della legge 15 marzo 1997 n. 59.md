@@ -297,7 +297,7 @@ All'[articolo 127, comma primo, del testo unico delle leggi di pubblica sicurezz
 
 2.
 
-E' abrogato l'articolo 111 del predetto [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md). Sono abrogati gli articoli 197, 198 e 199 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+E' abrogato l'articolo 111 del predetto [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md). Sono abrogati gli articoli 197, 198 e 199 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
 Nell'articolo 243, comma primo, del medesimo regolamento approvato con [regio decreto n. 635 del 1940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940;635) sono soppresse le parole: "ai cesellatori, agli orafi, agli incastratori di pietre preziose ed agli esercenti industrie od arti affini".
 
 3.
@@ -977,7 +977,7 @@ Nel [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazio
 
 4.
 
-Sono abrogati gli articoli da 234 a 241 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+Sono abrogati gli articoli da 234 a 241 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
 
 5.
 
@@ -3309,7 +3309,7 @@ Le funzioni e i compiti di polizia amministrativa spettanti agli enti locali son
 
 Ai sensi dell'[articolo 128 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_128), sono trasferiti ai comuni le seguenti funzioni e compiti amministrativi:
                             a)
-                                il rilascio della licenza di vendita ambulante di strumenti da punta e da taglio, di cui all'[articolo 37 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773, e all'articolo 56](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del regolamento di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
+                                il rilascio della licenza di vendita ambulante di strumenti da punta e da taglio, di cui all'[articolo 37 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773, e all'articolo 56](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) del regolamento di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md);
                             b)
                                 il rilascio delle licenze concernenti le agenzie d'affari nel settore delle esposizioni, mostre e fiere campionarie, di cui all'articolo 115 del predetto [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
                             c)

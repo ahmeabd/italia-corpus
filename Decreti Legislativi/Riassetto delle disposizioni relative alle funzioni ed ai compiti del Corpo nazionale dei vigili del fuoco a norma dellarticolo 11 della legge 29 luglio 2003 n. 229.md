@@ -422,7 +422,7 @@ I soggetti responsabili dei locali di pubblico spettacolo ed intrattenimento e d
 
 3.
 
-I servizi di vigilanza antincendio nei locali di pubblico spettacolo ed intrattenimento sono effettuati in conformita' alle apposite deliberazioni delle commissioni comunali e provinciali di vigilanza sui locali di pubblico spettacolo di cui agli [articoli 141-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_141bis) e [142 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_142), e successive modificazioni.
+I servizi di vigilanza antincendio nei locali di pubblico spettacolo ed intrattenimento sono effettuati in conformita' alle apposite deliberazioni delle commissioni comunali e provinciali di vigilanza sui locali di pubblico spettacolo di cui agli [articoli 141-bis](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md) e [142 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), e successive modificazioni.
 
 ((
 

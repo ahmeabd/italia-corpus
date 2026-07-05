@@ -20,7 +20,7 @@ Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), recante approvazione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
-Visto il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), recante approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza;
+Visto il [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), recante approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza;
 
 Visto il [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), recante [testo unico delle disposizioni legislative e regolamentari in materia edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md). (Testo A);
 
@@ -221,7 +221,7 @@ Al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%
 
 1.
 
-Al [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), recante «Approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, sono apportate le seguenti modificazioni: 
+Al [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), recante «Approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, sono apportate le seguenti modificazioni: 
  a) il primo comma dell'articolo 110 e' sostituito dal seguente: «L'installazione di impianti provvisori elettrici per straordinarie illuminazioni pubbliche in occasione di festivita' civili o religiose o in qualsiasi altra contingenza e' soggetta a comunicazione da trasmettere al Comune corredata dalla certificazione di conformita' degli impianti di cui all'[articolo 7 del decreto del Ministro dello sviluppo economico 22 gennaio 2008, n. 37](../Regolamenti%20ministeriali/Regolamento%20concernente%20lattuazione%20dellarticolo%2011-quaterdecies%20comma%2013%20lettera%20a%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20convertito%20con%20modificazioni%20dalla%20legge%202%20dicembre%202005%20n.%20_459f35941e72.md).»; 
  b) il secondo comma dell'articolo 110 e' abrogato; 
  c) al secondo comma dell'articolo 141, dopo le parole «inferiore a 200 persone», sono aggiunte le seguenti: «il parere,».
