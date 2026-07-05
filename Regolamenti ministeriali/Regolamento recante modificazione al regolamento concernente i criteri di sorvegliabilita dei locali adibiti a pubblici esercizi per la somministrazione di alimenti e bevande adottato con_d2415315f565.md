@@ -16,7 +16,7 @@ Visto il regolamento adottato con [decreto ministeriale 17 dicembre 1992, n. 564
 
 Visto il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
-Visto il regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
+Visto il regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md);
 
 Visto l'[art. 19 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), contenente: "Attuazione della delega di cui all'[art. 1 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_1)";
 

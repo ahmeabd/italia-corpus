@@ -28,7 +28,7 @@ Vista la raccomandazione della Commissione delle Comunita' europee del 25 febbra
 
 Visti gli [articoli 31 e seguenti del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
-Visti gli articoli 46 e seguenti del regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
+Visti gli articoli 46 e seguenti del regolamento per l'esecuzione del predetto testo unico, approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md);
 
 Vista la [legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110), recante: "Norme integrative della disciplina vigente per il controllo delle armi, delle munizioni e degli esplosivi";
 
@@ -289,7 +289,7 @@ L'accordo preventivo e' concesso quando sussistono i presupposti, le condizioni 
 Note all'[art. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;527#art_5):
  - L'[art. 8 del D.Lgs. n. 527/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;527#art_8) cosi' recita:
  "Art. 8. - 1. Il rilascio della licenza prevista dall'[art. 31 del testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), per il trasferimento di armi da fuoco verso uno Stato membro delle Comunita' europee, e' subordinato alla preventiva autorizzazione della competente autorita' nazionale dello Stato di residenza, di transito e di destinazione, laddove richiesta.
- 2. Nella domanda per il rilascio della licenza di cui al comma 1, oltre ai dati richiesti dall'art. 46 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), devono indicarsi:
+ 2. Nella domanda per il rilascio della licenza di cui al comma 1, oltre ai dati richiesti dall'art. 46 del regolamento per l'esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), devono indicarsi:
  a) il nome e l'indirizzo del venditore o cedente e dell'acquirente o cessionario oppure, eventualmente, del proprietario;
  b) l'indirizzo del luogo in cui verranno spedite o trasportate le armi;
  c) il numero di armi che fanno parte della spedizione o del trasporto;

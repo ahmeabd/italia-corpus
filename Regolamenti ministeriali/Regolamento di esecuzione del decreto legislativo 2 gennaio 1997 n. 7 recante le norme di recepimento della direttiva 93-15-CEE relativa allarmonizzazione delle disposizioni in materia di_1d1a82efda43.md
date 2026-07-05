@@ -22,7 +22,7 @@ Visto il [decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Rec
 
 Visto il [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), recante il [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md);
 
-Visto il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), recante il regolamento per l'esecuzione del predetto testo unico;
+Visto il [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), recante il regolamento per l'esecuzione del predetto testo unico;
 
 Vista la [legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110), recante "Norme integrative della disciplina vigente per il controllo delle armi, delle munizioni e degli esplosivi";
 
@@ -70,7 +70,7 @@ Il presente decreto concerne l'immissione sul mercato degli esplosivi per uso ci
                             c)
                                 ad individuare le modalita' di convocazione e di funzionamento del Comitato tecnico, di cui all'articolo 4 del decreto legislativo n. 7;
                             d)
-                                ad adeguare, ai soli fini del libero scambio in ambito europeo degli esplosivi per uso civile, le disposizioni regolamentari vigenti alle categorie di rischio, alle definizioni ed ai criteri di classificazione degli esplosivi previsti dalle raccomandazioni delle Nazioni Unite relative al trasporto di merci pericolose, fermo restando il regime autorizzatorio per la fabbricazione, il deposito, la detenzione, la cessione ed il trasporto dei medesimi esplosivi e le misure di sicurezza per le attivita' di fabbricazione e di deposito degli stessi, di cui al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e del relativo regolamento di esecuzione approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635);
+                                ad adeguare, ai soli fini del libero scambio in ambito europeo degli esplosivi per uso civile, le disposizioni regolamentari vigenti alle categorie di rischio, alle definizioni ed ai criteri di classificazione degli esplosivi previsti dalle raccomandazioni delle Nazioni Unite relative al trasporto di merci pericolose, fermo restando il regime autorizzatorio per la fabbricazione, il deposito, la detenzione, la cessione ed il trasporto dei medesimi esplosivi e le misure di sicurezza per le attivita' di fabbricazione e di deposito degli stessi, di cui al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), e del relativo regolamento di esecuzione approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md);
                             e)
                                 a fissare principi e criteri direttivi per adeguare alle disposizioni internazionali, in conformita' a quanto previsto dall'allegato I al decreto legislativo n. 7, i manufatti pirotecnici riconosciuti e non classificati tra i prodotti esplodenti in applicazione del decreto del Ministro dell'interno 4 aprile 1973.
 
@@ -83,7 +83,7 @@ Avvertenza:
  2. Con lo stesso decreto sono disciplinate le modalita' di esecuzione delle verifiche tecniche e degli esami necessari all'accertamento, da parte degli organismi notificati, della sussistenza dei requisiti di sicurezza di cui all'allegato II.".
  - Per il testo dell'[art. 4, comma 3, del decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md) (per l'argomento vedasi nelle presenti note), vedasi nelle note all'art. 1.
  - Il [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), reca: "Approvazione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md)".
- - Il [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), reca: "Approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza".
+ - Il [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), reca: "Approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza".
  - La [legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110), reca: "Norme integrative della disciplina vigente per il controllo delle armi, delle munizioni e degli esplosivi".
  - La [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), reca: "Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione in attuazione della [direttiva 98/34/CE del Parlamento europeo e del Consiglio del 22 giugno 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;34), modificata dalla [direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;48)".
  - La [legge 21 febbraio 1990, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-02-21;36), reca: "Nuove norme sulla detenzione delle armi, delle munizioni, degli esplosivi e dei congegni assimilati".
@@ -114,8 +114,8 @@ Avvertenza:
  - Per il testo dell'[art. 14, comma 2, del decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md), vedasi nelle note alle premesse.
  - Per la rubrica degli allegati I e II, del [decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md), (per l'argomento vedasi nelle note alle premesse), vedasi nelle note all'art. 2.
  - Per l'argomento del [regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), vedasi nelle note alle premesse.
- - Per l'argomento del [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), vedasi nelle note alle premesse.
- - Il decreto del Ministro dell'interno 4 aprile 1973, reca: "Modifiche all'allegato A al regolamento delle leggi di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).".
+ - Per l'argomento del [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), vedasi nelle note alle premesse.
+ - Il decreto del Ministro dell'interno 4 aprile 1973, reca: "Modifiche all'allegato A al regolamento delle leggi di pubblica sicurezza, approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).".
 
 ### Art. 2. — Definizioni
 
@@ -347,7 +347,7 @@ Il Ministero dell'interno - Dipartimento della pubblica sicurezza, notifica alla
 
 5.
 
-L'autorizzazione rilasciata all'Organismo notificato tiene luogo della licenza prevista dall'articolo 99 del regolamento di esecuzione al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+L'autorizzazione rilasciata all'Organismo notificato tiene luogo della licenza prevista dall'articolo 99 del regolamento di esecuzione al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
 
 6.
 
@@ -355,7 +355,7 @@ I termini di cui ai commi precedenti possono essere modificati con le modalita' 
 
 Note all'art. 6:
  - Per la rubrica dell'allegato V, del [decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md) (per l'argomento vedasi nelle note alle premesse), vedasi nelle note all'art. 2.
- - Si riporta il testo dell'[art. 99 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_99) (per l'argomento vedasi nelle note alle premesse):
+ - Si riporta il testo dell'[art. 99 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md) (per l'argomento vedasi nelle note alle premesse):
  "Art. 99. - E' in facolta' del Ministro per l'interno di accordare, sotto l'osservanza di speciali norme e cautele, e sentito il parere della commissione centrale consultiva di cui all'art. 84, licenze per la fabbricazione, il trasporto, la detenzione o l'impiego a scopo di studio o di esperimento, di esplosivi anche non classificati, nonche' di bombe, macchine ed altri congegni micidiali o incendiari.".
  - Si riporta il testo vigente dell'[art. 12, secondo comma, del decreto del Ministro dell'interno 2 febbraio 1993, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1993-02-02;284#art_12-com2) (per l'argomento vedasi nelle note alle premesse):
  "Art. 12 (Integrazioni e modificazioni del presente regolamento). - 1. I termini e i responsabili dei procedimenti amministrativi individuati successivamente alla data di entrata in vigore del presente regolamento saranno disciplinati, ove non provveda la legge che li prevede, con apposito regolamento integrativo.
@@ -380,7 +380,7 @@ Nei casi di cui al comma 1, lettere b) e c), non si procede al ritiro dell'autor
 
 3.
 
-Le autorizzazioni rilasciate agli Organismi notificati, che tengono luogo anche della licenza prevista dall'articolo 99 del regolamento di esecuzione al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), sono, inoltre, sospese o revocate negli stessi casi in cui le disposizioni del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e del relativo regolamento di esecuzione prevedono la sospensione o la revoca della medesima licenza di cui al citato articolo 99.
+Le autorizzazioni rilasciate agli Organismi notificati, che tengono luogo anche della licenza prevista dall'articolo 99 del regolamento di esecuzione al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), sono, inoltre, sospese o revocate negli stessi casi in cui le disposizioni del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md) e del relativo regolamento di esecuzione prevedono la sospensione o la revoca della medesima licenza di cui al citato articolo 99.
 
 4.
 
@@ -389,7 +389,7 @@ Dei provvedimenti di sospensione, di revoca o di ritiro dell'autorizzazione vien
 Note all'art. 7:
  - Per il testo dell'[art. 4, commi 4](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md) e [5, del decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md) (per l'argomento vedasi nelle presenti note), vedasi nelle note all'art. 1.
  - Per la rubrica dell'allegato III, del [decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md) (per l'argomento vedasi nelle note alle premesse), vedasi nelle note all'art. 2.
- - Per il testo dell'[art. 99 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_99) (per l'argomento vedasi nelle note alle premesse), vedasi nelle note all'art. 6.
+ - Per il testo dell'[art. 99 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md) (per l'argomento vedasi nelle note alle premesse), vedasi nelle note all'art. 6.
 
 ### Art. 8. — Attivita' degli Organismi notificati e modalita' di esecuzione delle verifiche tecniche
 
@@ -522,7 +522,7 @@ Capo III
 
 1.
 
-All'[articolo 81 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_81), e' aggiunto il seguente comma: 
+All'[articolo 81 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), e' aggiunto il seguente comma: 
  "Sono altresi' soggetti alle disposizioni degli articoli 46 e 57 della legge i prodotti esplodenti indicati nell'allegato I al [decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md) e successivi aggiornamenti e modificazioni, secondo quanto previsto dal successivo articolo 83".  ((1))
 
 -------------------
@@ -535,7 +535,7 @@ Il [D.Lgs. 19 maggio 2016, n. 81](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-All'[articolo 82 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_82), e' aggiunto il seguente comma: 
+All'[articolo 82 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), e' aggiunto il seguente comma: 
  "La categoria 5) "munizioni di sicurezza e giocattoli pirici di cui al comma precedente si articola nei seguenti gruppi: 
  Gruppo A: 
  1) bossoli innescati per artiglieria; 
@@ -574,7 +574,7 @@ Il [D.Lgs. 19 maggio 2016, n. 81](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-All'[articolo 83 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_83), sono apportate le seguenti modificazioni:
+All'[articolo 83 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), sono apportate le seguenti modificazioni:
                             a)
                                 Il primo comma e' sostituito dal seguente: 
  "I prodotti esplodenti riconosciuti e classificati ai sensi dell'articolo 53 della legge, nonche' i prodotti esplodenti muniti dell'attestato di esame "CE del tipo e della valutazione di conformita' di cui all'allegato V al [decreto legislativo 2 gennaio 1997, n. 7](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-15-CEE%20relativa%20allarmonizzazione%20delle%20disposizioni%20in%20materia%20di%20immissione%20sul%20mercato%20e%20controllo%20degli%20esplosivi%20per%20uso%20civile.md), certificati dagli "Organismi notificati sono indicati nell'allegato A al presente regolamento. I prodotti esplodenti marcati CE sono classificati a seconda della loro tipologia nelle categorie di cui al precedente articolo 82 ed iscritti d'ufficio nell'allegato A al presente regolamento, ai soli fini dell'applicazione delle norme tecniche inerenti alla sicurezza nell'attivita' di fabbricazione e di deposito di esplosivi contenute nell'allegato B al presente regolamento.".
@@ -593,7 +593,7 @@ Il [D.Lgs. 19 maggio 2016, n. 81](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-Al [primo comma dell'articolo 97 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_97-com1), e' aggiunto, in fine, il seguente periodo: 
+Al [primo comma dell'articolo 97 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), e' aggiunto, in fine, il seguente periodo: 
  "Possono essere acquistati, trasportati ed impiegati senza licenza, nonche' detenuti senza obbligo della denuncia di cui all'[articolo 38 del regio decreto 18 giugno 1931, n. 773](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), i prodotti esplodenti della categoria 5), gruppo D), fino a 5 kg netti e della categoria 5), gruppo E, in quantita' illimitata.". 
  ((1))
 
@@ -607,7 +607,7 @@ Il [D.Lgs. 19 maggio 2016, n. 81](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-L'[articolo 98 del regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635#art_98), e' sostituito dal seguente: 
+L'[articolo 98 del regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), e' sostituito dal seguente: 
  "Per la fabbricazione, deposito, vendita e trasporto dei prodotti esplodenti della categoria 5), gruppo A, gruppo B e gruppo C, e' richiesto il possesso delle relative autorizzazioni di cui alla legge ed al presente regolamento, salvo quanto previsto dal capitolo I, n. 3, dell'allegato C al presente regolamento. 
  Per la fabbricazione ed il deposito dei prodotti esplodenti della categoria 5) gruppo D, si applicano rispettivamente le prescrizioni di cui ai capitoli II e IV dell'allegato B al presente regolamento.
 Per le relative attivita' di detenzione, vendita, acquisto, trasporto ed impiego degli stessi prodotti esplodenti della categoria 5), gruppo D, non sono richieste le autorizzazioni di cui alla legge ed al presente regolamento di esecuzione. 
@@ -623,7 +623,7 @@ Il [D.Lgs. 19 maggio 2016, n. 81](../Leggi%20delega%20e%20relativi%20provvedimen
 
 ### Art. 16. — Modifiche all'allegato B al regio decreto 6 maggio 1940, n. 635
 
-Al Capitolo VI dell'allegato B al [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), sono apportate le seguenti modificazioni: 
+Al Capitolo VI dell'allegato B al [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), sono apportate le seguenti modificazioni: 
  a) l'articolo 1, comma 1, e' sostituito dal seguente: 
  "1. Negli esercizi di minuta vendita di prodotti esplodenti si possono tenere e vendere: 
  a) polveri della I categoria; 
@@ -649,7 +649,7 @@ Il [D.Lgs. 19 maggio 2016, n. 81](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-Il capitolo II dell'allegato C al [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), e' sostituito dal seguente: 
+Il capitolo II dell'allegato C al [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md), e' sostituito dal seguente: 
  "Capitolo II (Norme generali da osservarsi "per il trasporto di esplosivi). - Per il trasporto degli esplosivi si applicano le disposizioni nazionali che recepiscono gli accordi internazionali in materia di trasporto delle merci pericolose su strada "A.D.R. , per ferrovia "R.I.D. , per via aerea "I.C.A.O. , per mare "I.M.O e nelle acque interne "ADNR .". 
  ((1))
 
@@ -677,16 +677,16 @@ Il [D.Lgs. 19 maggio 2016, n. 81](../Leggi%20delega%20e%20relativi%20provvedimen
 
 1.
 
-L'allegato A al presente regolamento contiene l'indicazione delle materie e degli oggetti esplodenti di cui all'allegato I del decreto legislativo n. 7, integrato con l'indicazione, per ciascun prodotto, della categoria di classificazione di cui all'articolo 82 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
+L'allegato A al presente regolamento contiene l'indicazione delle materie e degli oggetti esplodenti di cui all'allegato I del decreto legislativo n. 7, integrato con l'indicazione, per ciascun prodotto, della categoria di classificazione di cui all'articolo 82 del regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
 
 2.
 
-L'allegato A al presente regolamento sostituisce l'allegato A al regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).
-L'adeguamento dell'allegato I al decreto legislativo n. 7 determina l'automatico adeguamento dell'allegato A al regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635); per l'attribuzione delle categorie di classificazione si provvede ai sensi dell'articolo 83, comma 5, del citato regolamento di esecuzione al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
+L'allegato A al presente regolamento sostituisce l'allegato A al regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md).
+L'adeguamento dell'allegato I al decreto legislativo n. 7 determina l'automatico adeguamento dell'allegato A al regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md); per l'attribuzione delle categorie di classificazione si provvede ai sensi dell'articolo 83, comma 5, del citato regolamento di esecuzione al [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md).
 
 3.
 
-Dalla data di entrata in vigore del presente regolamento tutti i prodotti esplodenti devono essere iscritti nell'allegato A al regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635):
+Dalla data di entrata in vigore del presente regolamento tutti i prodotti esplodenti devono essere iscritti nell'allegato A al regolamento di esecuzione del [testo unico delle leggi di pubblica sicurezza](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato con [regio decreto 6 maggio 1940, n. 635](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20testo%20unico%2018%20giugno%201931-IX%20n.%20773%20delle%20leggi%20di%20pubblica%20sicurezza.%20040U0635.md):
                             a)
                                 d'ufficio, successivamente alla comunicazione dell'Organismo notificato, dell'importatore o del fabbricante, per i prodotti esplodenti muniti dell'attestato "CE del tipo";
                             b)
