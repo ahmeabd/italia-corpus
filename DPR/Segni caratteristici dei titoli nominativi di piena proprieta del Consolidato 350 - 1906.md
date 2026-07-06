@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto che i titoli nominativi di piena proprieta' dei Consolidato 3,50% - 1906, creato con la [legge 29 giugno 1906, n. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20delle%20rendite%20consolidate%205%20per%20cento%20lordo%20e%204%20per%20cento%20netto.%20006U0262.md), e le stampe per tali titoli, da utilizzare per operazioni ordinarie, rimarranno privi di tagliandi di ricevuta con la riscossione della rata semestrale di interessi di scadenza 1 gennaio 1959;
+Visto che i titoli nominativi di piena proprieta' dei Consolidato 3,50% - 1906, creato con la [legge 29 giugno 1906, n. 262](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20delle%20rendite%20consolidate%205%20per%20cento%20lordo%20e%204%20per%20cento%20netto.%20006U0262.md), e le stampe per tali titoli, da utilizzare per operazioni ordinarie, rimarranno privi di tagliandi di ricevuta con la riscossione della rata semestrale di interessi di scadenza 1 gennaio 1959;
 
 Visto il [regio decreto 16 agosto 1906, n. 472](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20circa%20le%20rendite%20del%20consolidato%203.75%20e%203.50%20per%20cento%20netto.%20006U0472.md), per l'esecuzione della legge anzidetta, Considerato che per i titoli nominativi suddetti sara' provveduto all'affogliamento a norma dell'art. 120 del regolamento generale sul debito pubblico approvato con il [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md), mentre per le stampe per tali titoli, da utilizzare per le operazioni ordinarie da effettuare a decorrere dal 1 gennaio 1959 e' necessario determinare i nuovi segni caratteristici;
 
@@ -20,7 +20,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-I titoli nominativi di piena proprieta' del Consolidato 3.50% netto, creato con la [legge 29 giugno 1906, n. 262](../DL%20e%20leggi%20di%20conversione/Conversione%20delle%20rendite%20consolidate%205%20per%20cento%20lordo%20e%204%20per%20cento%20netto.%20006U0262.md), da rilasciare per le operazioni ordinarie dal 1 gennaio 1959 al 31 dicembre 1984, sono stampati in calcografia e litografia su carta filigranata liscia di colore bianco e sono conformi al modello che, munito del visto del Ministro per il tesoro, viene approvato e depositato, insieme col presente decreto, di cui fa parte integrante, nell'Archivio centrale dello Stato.
+I titoli nominativi di piena proprieta' del Consolidato 3.50% netto, creato con la [legge 29 giugno 1906, n. 262](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20delle%20rendite%20consolidate%205%20per%20cento%20lordo%20e%204%20per%20cento%20netto.%20006U0262.md), da rilasciare per le operazioni ordinarie dal 1 gennaio 1959 al 31 dicembre 1984, sono stampati in calcografia e litografia su carta filigranata liscia di colore bianco e sono conformi al modello che, munito del visto del Ministro per il tesoro, viene approvato e depositato, insieme col presente decreto, di cui fa parte integrante, nell'Archivio centrale dello Stato.
  La carta presenta, su tutta la sua superficie, una filigrana in chiaro-scuro a motivi ondulati simmetrici, in scuro, che si ripetono e che formano due losanghe.
  La losanga piu' grande racchiude le lettere "D. P." in filigrana chiara ombreggiata.
 

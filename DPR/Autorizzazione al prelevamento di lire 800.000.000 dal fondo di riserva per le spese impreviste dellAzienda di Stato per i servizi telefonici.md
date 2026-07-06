@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regio decreto-legge 14 giugno. 1925, n. 884, convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni, sulla costituzione dell'Azienda di Stato per i servizi telefonici;
+Visto il regio decreto-legge 14 giugno. 1925, n. 884, convertito nella [legge 18 marzo 1926, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e successive modificazioni, sulla costituzione dell'Azienda di Stato per i servizi telefonici;
 
 Visto l'[art. 79 della legge 24 dicembre 1969, n. 986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;986#art_79), che approva gli stati di previsione dell'entrata e della spesa dell'Azienda di Stato per i servizi telefonici, per l'anno finanziario 1970;
 

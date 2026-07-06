@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vedute le [leggi 7 gennaio 1929, n. 8 e 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sull'ordinamento delle scuole e dei corsi secondari di avviamento professionale;
+Vedute le [leggi 7 gennaio 1929, n. 8 e 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sull'ordinamento delle scuole e dei corsi secondari di avviamento professionale;
 
 Considerata la necessita' di provvedere, in rapporto alle esigenze locali, per l'anno scolastico 1949-50, alla istituzione e soppressione di scuole e corsi secondari di avviamento professionale;
 

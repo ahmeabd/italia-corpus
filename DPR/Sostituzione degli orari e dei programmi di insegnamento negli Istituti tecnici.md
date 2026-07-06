@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Veduto il [regio decreto-legge 10 aprile 1931, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-10;634), convertito nella [legge 28 maggio 1936, n. 1170](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20aprile%201936-XIV%20n.%20634%20relativo%20alle%20modalita%20per%20la%20determinazione%20delle%20materie%20dinsegnamento%20delle%20esercitazioni%20pratiche%20dei%20programmi%20e%20d_b5dd05f14529.md);
+Veduto il [regio decreto-legge 10 aprile 1931, n. 634](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-04-10;634), convertito nella [legge 28 maggio 1936, n. 1170](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20aprile%201936-XIV%20n.%20634%20relativo%20alle%20modalita%20per%20la%20determinazione%20delle%20materie%20dinsegnamento%20delle%20esercitazioni%20pratiche%20dei%20programmi%20e%20d_b5dd05f14529.md);
 
 Veduto il [decreto-legge 21 settembre 1938, n. 2038](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1938-09-21;2038), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 

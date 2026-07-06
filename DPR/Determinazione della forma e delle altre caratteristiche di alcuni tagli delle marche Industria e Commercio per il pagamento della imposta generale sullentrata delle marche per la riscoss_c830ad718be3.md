@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), concernente l'istituzione dell'imposta generale sull'entrata, e successive disposizioni;
+Visto il [regio decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), concernente l'istituzione dell'imposta generale sull'entrata, e successive disposizioni;
 
 Visto l'[art. 4, numeri 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20038U0612.md) e [3 della legge 11 aprile 1938, n. 612](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellEnte%20nazionale%20fascista%20per%20la%20protezione%20degli%20animali.%20038U0612.md), che istituisce speciali diritti a favore dell'Ente nazionale per la protezione degli animali ed il decreto Interministeriale 7 marzo 1940, col quale sono approvate le modalita' di riscossione dei diritti per la protezione degli animali;
 
