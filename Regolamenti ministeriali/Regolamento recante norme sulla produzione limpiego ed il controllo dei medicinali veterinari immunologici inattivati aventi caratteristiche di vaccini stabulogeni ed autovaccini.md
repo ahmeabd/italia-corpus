@@ -14,7 +14,7 @@ Vista la [legge 23 giugno 1970, n. 503](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 23 dicembre 1975, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-23;745), in particolare gli articoli 4 e 5;
 
-Visto il [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), contenente norme in materia di "Riordinamento degli istituti zooprofilattici sperimentali a norma dell'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;241#art_1-com1-leth)";
+Visto il [decreto legislativo 30 giugno 1993, n. 270](../Decreti%20Legislativi/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), contenente norme in materia di "Riordinamento degli istituti zooprofilattici sperimentali a norma dell'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;241#art_1-com1-leth)";
 
 Visto il [decreto legislativo 4 febbraio 1993, n. 66](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2090-677-CEE%20e%2092-18-CEE%20in%20materia%20di%20medicinali%20veterinari%20e%20disposizioni%20complementari%20per%20i%20medicinali%20veterinari%20ad%20azione%20immunologica.md), in particolare l'art. 1, comma 4;
 

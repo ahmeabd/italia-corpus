@@ -97,7 +97,7 @@ Nota all'[art. 4:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 25 maggio 2021, n. 83](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20degli%20articoli%202%20e%203%20della%20direttiva%20UE%202017-2455%20del%20Consiglio%20del%205%20dicembre%202017%20che%20modifica%20la%20direttiva%202006-112-CE%20e%20la%20direttiva%202009-132-CE%20per%20quanto%20riguarda%20taluni_e87c3692f358.md) ha disposto (con l'art. 10, comma 1) che l'abrogazione del presente articolo si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
+Il [D.Lgs. 25 maggio 2021, n. 83](../Decreti%20Legislativi/Recepimento%20degli%20articoli%202%20e%203%20della%20direttiva%20UE%202017-2455%20del%20Consiglio%20del%205%20dicembre%202017%20che%20modifica%20la%20direttiva%202006-112-CE%20e%20la%20direttiva%202009-132-CE%20per%20quanto%20riguarda%20taluni_e87c3692f358.md) ha disposto (con l'art. 10, comma 1) che l'abrogazione del presente articolo si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
 
 ## Art. 6.
 

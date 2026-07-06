@@ -14,7 +14,7 @@ E DELLE TELECOMUNICAZIONI
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 maggio 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-21;597), sul nuovo ordinamento dell'Amministrazione postale e telegrafica, e successive modificazioni;
 
-Visto il [regio decreto 4 novembre 1926, n. 1978](../Regi%20decreti/Costituzione%20di%20un%20Regio%20istituto%20sperimentale%20delle%20comunicazioni%20mediante%20il%20coordinamento%20dellIstituto%20sperimentale%20delle%20ferrovie%20dello%20Stato%20e%20dellIstituto%20superiore%20postale%20telegraf_27c3b3b1e9cd.md), concernente i compiti dell'Istituto superiore delle poste e delle telecomunicazioni;
+Visto il [regio decreto 4 novembre 1926, n. 1978](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20di%20un%20Regio%20istituto%20sperimentale%20delle%20comunicazioni%20mediante%20il%20coordinamento%20dellIstituto%20sperimentale%20delle%20ferrovie%20dello%20Stato%20e%20dellIstituto%20superiore%20postale%20telegraf_27c3b3b1e9cd.md), concernente i compiti dell'Istituto superiore delle poste e delle telecomunicazioni;
 
 Vista la legge 1 marzo 1968, n. 186, concernente le disposizioni per la produzione di materiali, apparecchiature, macchinari, installazioni e impianti elettrici ed elettronici;
 
@@ -28,7 +28,7 @@ Visto il decreto ministeriale 31 gennaio 1983, con il quale e' stato approvato i
 
 Visto il regolamento per il collaudo di materiali e di impianti forniti all'Amministrazione delle poste e delle telecomunicazioni e all'Azienda di Stato per i servizi telefonici, approvato con decreto del Ministro delle poste e delle telecomunicazioni 10 marzo 1984, pubblicato nella Gazzetta Ufficiale n. 20 del 24 gennaio 1985;
 
-Vista la [legge 9 maggio 1986, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), che ha ratificato la convenzione internazionale delle telecomunicazioni adottata a Nairobi il 6 novembre 1982, con allegato il regolamento delle radiocomunicazioni nel quale e' definito lo statuto di servizio secondario;
+Vista la [legge 9 maggio 1986, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), che ha ratificato la convenzione internazionale delle telecomunicazioni adottata a Nairobi il 6 novembre 1982, con allegato il regolamento delle radiocomunicazioni nel quale e' definito lo statuto di servizio secondario;
 
 Visto il decreto ministeriale 9 maggio 1990, pubblicato nella Gazzetta Ufficiale n. 115 del 19 maggio 1990, con cui sono state approvate modifiche al piano nazionale di ripartizione delle radiofrequenze;
 

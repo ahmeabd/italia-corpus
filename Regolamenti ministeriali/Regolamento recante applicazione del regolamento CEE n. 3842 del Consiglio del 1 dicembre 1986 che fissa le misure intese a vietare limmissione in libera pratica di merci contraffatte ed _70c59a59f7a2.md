@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE FINANZE
 
-Visto l'[art. 35 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), che integra  le disposizioni per l'applicazione del regolamento CEE 1 dicembre 1986, n. 3842/86, del Consiglio;
+Visto l'[art. 35 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), che integra  le disposizioni per l'applicazione del regolamento CEE 1 dicembre 1986, n. 3842/86, del Consiglio;
 
 Visto il predetto regolamento CEE n. 3842/86, che fissa le misure intese a vietare l'immissione in libera pratica di merci contraffatte ed a scoraggiarne il commercio internazionale;
 
@@ -18,9 +18,9 @@ Visto il testo unico delle disposizioni legislative in materia doganale, aprovat
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Considerato che l'art. 35, comma 6, della citata [legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), prevede l'emanazione di ulteriori disposizioni anche al fine della verifica e dell'eventuale accertamento della contraffazione delle merci dichiarate per la immissione in libera pratica;
+Considerato che l'art. 35, comma 6, della citata [legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), prevede l'emanazione di ulteriori disposizioni anche al fine della verifica e dell'eventuale accertamento della contraffazione delle merci dichiarate per la immissione in libera pratica;
 
-Considerato, peraltro, che le disposizioni specifiche del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), non conferiscono alle istituzioni della Comunita' il potere di adottare tutte le disposizioni necessarie a tale scopo e considerata la necessita' di integrare le disposizioni comunitarie cui devono essere soggette le merci riconosciute contraffatte;
+Considerato, peraltro, che le disposizioni specifiche del trattato che istituisce la Comunita' economica europea, ratificato con [legge 14 ottobre 1957, n. 1203](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dei%20seguenti%20Accordi%20internazionali%20firmati%20a%20Roma%20il%2025%20marzo%201957%20a%20Trattato%20che%20istituisce%20la%20Comunita%20europea%20dellenergia%20atomica%20ed%20Atti%20allegati%20b%20Trattato%20ch_fbe031fe6ef3.md), non conferiscono alle istituzioni della Comunita' il potere di adottare tutte le disposizioni necessarie a tale scopo e considerata la necessita' di integrare le disposizioni comunitarie cui devono essere soggette le merci riconosciute contraffatte;
 
 Udito il parere del Consiglio di Stato espresso nella adunanza generale del 25 luglio 1991 ed in quella del 21 novembre 1991;
 
@@ -102,7 +102,7 @@ AVVERTENZA:
 
 1.
 
-Sulla richiesta di cui al precedente articolo decide, con procedura d'urgenza e con provvedimento motivato da notificare all'interessato, la Direzione generale del Dipartimento delle dogane e delle imposte indirette, sentito, ove ritenuto necessario, il parere dell'apposito comitato da istituire ai sensi dell'[art. 35 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md).
+Sulla richiesta di cui al precedente articolo decide, con procedura d'urgenza e con provvedimento motivato da notificare all'interessato, la Direzione generale del Dipartimento delle dogane e delle imposte indirette, sentito, ove ritenuto necessario, il parere dell'apposito comitato da istituire ai sensi dell'[art. 35 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md).
 
 2.
 

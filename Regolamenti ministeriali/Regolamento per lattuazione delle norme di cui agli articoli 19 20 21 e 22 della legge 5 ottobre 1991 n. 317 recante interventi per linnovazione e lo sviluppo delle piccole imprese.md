@@ -388,7 +388,7 @@ L'erogazione del contributo avverra' in due quote, pari al 40% e al 60% dell'amm
 
 2.
 
-L'erogazione della seconda quota di contributo pari al 60%, avverra' dopo che le commissioni previste dall'[art. 18 della legge 26 aprile 1983, n. 130](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), avranno verificato la realizzazione totale del programma.
+L'erogazione della seconda quota di contributo pari al 60%, avverra' dopo che le commissioni previste dall'[art. 18 della legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), avranno verificato la realizzazione totale del programma.
 
 3.
 
@@ -425,7 +425,7 @@ Per ogni erogazione dovra' essere trasmessa:
                             certificato del tribunale attestante la vigenza del richiedente, i legali rappresentanti ed i relativi poteri, la composizione degli organi responsabili.
 
 Note all'[art. 8:
- - La legge 26 aprile 1983, n. 130](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md) e' la legge finanziaria 1983. Le commissioni di accertamento di cui trattasi sono previste dai commi 6 e 7 dell'art. 18, di cui si trascrive il testo:
+ - La legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md) e' la legge finanziaria 1983. Le commissioni di accertamento di cui trattasi sono previste dai commi 6 e 7 dell'art. 18, di cui si trascrive il testo:
  "A tutti gli adempimenti che si rendono necessari per consentire la piu' agile attuazione della stessa [legge 12 agosto 1977, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-12;675), nonche' alla istituzione di commissioni per l'accertamento della realizzazione ed eventuale entrata in funzione degli impianti, da effettuare con onere a carico delle imprese interessate, provvede il Ministero dell'industria, del commercio e dell'artigianato.
  La disciplina di cui al precedente comma puo' essere estesa alle altre norme di incentivazione alle imprese industriali che prevedono fondi gestiti ai sensi dell'[articolo 9 della legge 25 novembre 1971, n. 1041](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1041#art_9)".
  - Per il riferimento alla [legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), vedasi la nota all'art. 2.

@@ -20,15 +20,15 @@ Vista la [direttiva 2008/98/CE del Parlamento europeo e del Consiglio, del 19 no
 
 Viste le linee guida Guidance on the interpretation of key provisions of Directive 2008/98/EC on waste della Commissione europea di giugno 2012;
 
-Visto il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale» e, in particolare, gli articoli 184-bis e 185, comma 1, lettere c) e f);
+Visto il [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale» e, in particolare, gli articoli 184-bis e 185, comma 1, lettere c) e f);
 
 Visto il [decreto-legge 3 novembre 2008, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-03;171) «Misure urgenti per il rilancio competitivo del settore agroalimentare» convertito in legge, con modificazioni, dall'[articolo 1, comma 1, della legge 30 dicembre 2008, n. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20novembre%202008%20n.%20171%20recante%20misure%20urgenti%20per%20il%20rilancio%20competitivo%20del%20settore%20agroalimentare.md) e, in particolare, l'articolo 2-bis;
 
 Considerato che il regime dei sottoprodotti contribuisce alla dissociazione della crescita economica dalla produzione di rifiuti in quanto favorisce l'innovazione tecnologica per il riutilizzo di residui di produzione nel medesimo o in un successivo ciclo produttivo, limita la produzione di rifiuti, nonche' riduce il consumo di materie prime vergini;
 
-Considerato che l'impiego dei sottoprodotti non puo' prescindere da un quadro normativo e amministrativo certo, con particolare riferimento alle modalita' con le quali il produttore e l'utilizzatore possono dimostrare che sono soddisfatte le condizioni di cui all'[articolo 184-bis, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md);
+Considerato che l'impiego dei sottoprodotti non puo' prescindere da un quadro normativo e amministrativo certo, con particolare riferimento alle modalita' con le quali il produttore e l'utilizzatore possono dimostrare che sono soddisfatte le condizioni di cui all'[articolo 184-bis, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md);
 
-Ritenuto di stabilire, ai sensi dell'[articolo 184-bis, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), i criteri affinche' specifiche tipologie di sostanze o oggetti siano considerati sottoprodotti e non rifiuti e alcune modalita' con le quali il detentore puo' dimostrare che sono soddisfatte le condizioni di cui al citato articolo 184-bis, comma 1;
+Ritenuto di stabilire, ai sensi dell'[articolo 184-bis, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), i criteri affinche' specifiche tipologie di sostanze o oggetti siano considerati sottoprodotti e non rifiuti e alcune modalita' con le quali il detentore puo' dimostrare che sono soddisfatte le condizioni di cui al citato articolo 184-bis, comma 1;
 
 Vista la notifica di cui alla [direttiva n. 2015/1535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2015;1535) che prevede una procedura di informazione nel settore delle norme e regole tecniche;
 
@@ -48,7 +48,7 @@ Oggetto e finalita'
 
 1.
 
-Al fine di favorire ed agevolare l'utilizzo come sottoprodotti di sostanze ed oggetti che derivano da un processo di produzione e che rispettano specifici criteri, nonche' per assicurare maggiore uniformita' nell'interpretazione e nell'applicazione della definizione di rifiuto, il presente decreto definisce alcune modalita' con le quali il detentore puo' dimostrare che sono soddisfatte le condizioni generali di cui all'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
+Al fine di favorire ed agevolare l'utilizzo come sottoprodotti di sostanze ed oggetti che derivano da un processo di produzione e che rispettano specifici criteri, nonche' per assicurare maggiore uniformita' nell'interpretazione e nell'applicazione della definizione di rifiuto, il presente decreto definisce alcune modalita' con le quali il detentore puo' dimostrare che sono soddisfatte le condizioni generali di cui all'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
 
 2.
 
@@ -74,7 +74,7 @@ Avvertenza:
  c) la sostanza o l'oggetto e' prodotta/o come parte integrante di un processo di produzione e 
  d) l'ulteriore utilizzo e' legale, ossia la sostanza o l'oggetto soddisfa, per l'utilizzo specifico, tutti i requisiti pertinenti riguardanti i prodotti e la protezione della salute e dell'ambiente e non portera' a impatti complessivi negativi sull'ambiente o la salute umana. 
  2. Sulla base delle condizioni previste al paragrafo 1, possono essere adottate misure per stabilire i criteri da soddisfare affinche' sostanze o oggetti specifici siano considerati sottoprodotti e non rifiuti ai sensi dell'art. 3, punto 1. Tali misure, intese a modificare elementi non essenziali della presente direttiva, integrandola, sono adottate secondo la procedura di regolamentazione con controllo di cui all'art. 39, paragrafo 2.». 
- - Si riporta il testo dell'[art. 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale) pubblicato nella Gazzetta Ufficiale del 14 aprile 2006, n. 88, supplemento ordinario n. 96: 
+ - Si riporta il testo dell'[art. 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale) pubblicato nella Gazzetta Ufficiale del 14 aprile 2006, n. 88, supplemento ordinario n. 96: 
  «Art. 184-bis (Sottoprodotto). - 1. E' un sottoprodotto e non un rifiuto ai sensi dell'art. 183, comma 1, lettera a), qualsiasi sostanza od oggetto che soddisfa tutte le seguenti condizioni: 
  a) la sostanza o l'oggetto e' originato da un processo di produzione, di cui costituisce parte integrante, e il cui scopo primario non e' la produzione di tale sostanza od oggetto; 
  b) e' certo che la sostanza o l'oggetto sara' utilizzato, nel corso dello stesso o di un successivo processo di produzione o di utilizzazione, da parte del produttore o di terzi; 
@@ -89,7 +89,7 @@ Avvertenza:
  f) le materie fecali, se non contemplate dal comma 2, lettera b), del presente articolo, la paglia, gli sfalci e le potature provenienti dalle attivita' di cui all'art. 184, comma 2, lettera e), e comma 3, lettera a), nonche' ogni altro materiale agricolo o forestale naturale non pericoloso destinati alle normali pratiche agricole e zootecniche o utilizzati in agricoltura, nella silvicoltura o per la produzione di energia da tale biomassa, anche al di fuori del luogo di produzione ovvero con cessione a terzi, mediante processi o metodi che non danneggiano l'ambiente ne' mettono in pericolo la salute umana. 
  (Omissis).». 
  - Si riporta il testo dell'[art. 2-bis, del decreto-legge 3 novembre 2008, n. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-03;171#art_2bis) (Misure urgenti per il rilancio competitivo del settore agroalimentare), pubblicato nella Gazzetta Ufficiale del 4 novembre 2008, n. 258, convertito, con modificazioni, dalla [legge 30 dicembre 2008, n. 205](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20novembre%202008%20n.%20171%20recante%20misure%20urgenti%20per%20il%20rilancio%20competitivo%20del%20settore%20agroalimentare.md): 
- «Art. 2-bis (Disposizioni in materia di biomasse combustibili relative alla vinaccia ed al biogas nei processi di distillazione). - 1. Le vinacce vergini, nonche' le vinacce esauste ed i loro componenti, bucce, vinaccioli e raspi, derivanti dai processi di vinificazione e di distillazione, che subiscono esclusivamente trattamenti di tipo meccanico fisico, compreso il lavaggio con acqua o l'essiccazione, nonche', previa autorizzazione degli enti competenti per territorio, la pollina, destinati alla combustione nel medesimo ciclo produttivo sono da considerare sottoprodotti soggetti alla disciplina di cui alla sezione 4 della parte II dell'allegato X alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md). 
+ «Art. 2-bis (Disposizioni in materia di biomasse combustibili relative alla vinaccia ed al biogas nei processi di distillazione). - 1. Le vinacce vergini, nonche' le vinacce esauste ed i loro componenti, bucce, vinaccioli e raspi, derivanti dai processi di vinificazione e di distillazione, che subiscono esclusivamente trattamenti di tipo meccanico fisico, compreso il lavaggio con acqua o l'essiccazione, nonche', previa autorizzazione degli enti competenti per territorio, la pollina, destinati alla combustione nel medesimo ciclo produttivo sono da considerare sottoprodotti soggetti alla disciplina di cui alla sezione 4 della parte II dell'allegato X alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md). 
  2. E' sottoprodotto della distillazione anche il biogas derivante da processi anaerobici di depurazione delle borlande della distillazione destinato alla combustione nel medesimo ciclo produttivo, ai sensi della sezione 6 della parte II dell'allegato X alla parte quinta del citato [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152).». 
  - La [direttiva n. 2015/1535 del 9 settembre 2015 del Parlamento Europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2015;1535) che prevede una procedura d'informazione nel settore delle regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione (codificazione), e' pubblicata nella Gazzetta Ufficiale dell'Unione Europea del 17 settembre 2015, n. L 241. 
  
@@ -106,7 +106,7 @@ Fatte salve le definizioni contenute nella normativa nazionale e comunitaria vig
                             b)
                                 residuo di produzione (di seguito «residuo»): ogni materiale o sostanza che non e' deliberatamente prodotto in un processo di produzione e che puo' essere o non essere un rifiuto;
                             c)
-                                sottoprodotto: un residuo di produzione che non costituisce un rifiuto ai sensi dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
+                                sottoprodotto: un residuo di produzione che non costituisce un rifiuto ai sensi dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
 
 Note all'art. 2: 
  - Il testo dell'art. 184-bis del citato [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), e' riportato nelle note alle premesse.
@@ -119,7 +119,7 @@ Il presente decreto si applica ai residui di produzione, come definiti dall'arti
                             a)
                                 ai prodotti, come definititi all'articolo 2, comma 1, lettera a);
                             b)
-                                alle sostanze e ai materiali esclusi dal regime dei rifiuti ai sensi dell'[articolo 185 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md);
+                                alle sostanze e ai materiali esclusi dal regime dei rifiuti ai sensi dell'[articolo 185 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md);
                             c)
                                 ai residui derivanti da attivita' di consumo.
 
@@ -148,7 +148,7 @@ Note all'art. 3:
 
 1.
 
-Ai sensi dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), i residui di cui all'articolo 2, comma 1, lettera b), sono sottoprodotti e non rifiuti quando il produttore dimostra che, non essendo stati prodotti volontariamente e come obiettivo primario del ciclo produttivo, sono destinati ad essere utilizzati nello stesso o in un successivo processo, dal produttore medesimo o da parte di terzi. A tal fine, in ogni fase della gestione del residuo, e' necessario fornire la dimostrazione che sono soddisfatte tutte le seguenti condizioni:
+Ai sensi dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), i residui di cui all'articolo 2, comma 1, lettera b), sono sottoprodotti e non rifiuti quando il produttore dimostra che, non essendo stati prodotti volontariamente e come obiettivo primario del ciclo produttivo, sono destinati ad essere utilizzati nello stesso o in un successivo processo, dal produttore medesimo o da parte di terzi. A tal fine, in ogni fase della gestione del residuo, e' necessario fornire la dimostrazione che sono soddisfatte tutte le seguenti condizioni:
                             a)
                                 la sostanza o l'oggetto e' originato da un processo di produzione, di cui costituisce parte integrante e il cui scopo primario non e' la produzione di tale sostanza od oggetto;
                             b)

@@ -277,7 +277,7 @@ Nota all'art. 6:
  Servizio per il coordinamento organizzativo;
  Servizio per le attivita' formative e di studio.
  8. Il capo del Dipartimento si avvale di una propria struttura di segreteria che assicura anche il collegamento con le organizzazioni pubbliche e private, italiane ed estere in ordine ai compiti del Dipartimento.
- 9. Il capo del Dipartimento predispone un programma annuale, da sottoporre all'approvazione del Presidente del Consiglio dei Ministri, delle attivita' di cui al [comma 4, dell'art. 12 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+ 9. Il capo del Dipartimento predispone un programma annuale, da sottoporre all'approvazione del Presidente del Consiglio dei Ministri, delle attivita' di cui al [comma 4, dell'art. 12 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
  10. Le attivita' del Dipartimento che abbiano attinenza con l'informazione relativa all'attualita' politica sono coordinate con l'Ufficio stampa, per il tramite del Segretario generale".
  "Art. 20 (Comitati istituiti presso il Dipartimento), comma 1, lettere d) e f). - 1. Presso il Dipartimento hanno sede:
  a)-c) (omissis);

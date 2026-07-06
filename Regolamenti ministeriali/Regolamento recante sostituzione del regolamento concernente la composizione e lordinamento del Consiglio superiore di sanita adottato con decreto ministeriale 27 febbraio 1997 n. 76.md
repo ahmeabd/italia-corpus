@@ -12,7 +12,7 @@ IL MINISTRO DELLA SALUTE
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto legislativo 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente il riordinamento del Ministero della sanita', a norma dell'[articolo 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), articolo 4, commi 1, 2 e 3;
+Visto il [decreto legislativo 30 giugno 1993, n. 266](../Decreti%20Legislativi/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente il riordinamento del Ministero della sanita', a norma dell'[articolo 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), articolo 4, commi 1, 2 e 3;
 
 Visto il [decreto del Ministro della sanita' 27 febbraio 1997, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20sostituzione%20del%20regolamento%20concernente%20la%20composizione%20e%20lordinamento%20del%20Consiglio%20superiore%20di%20sanita%20adottato%20con%20decreto%20ministeriale%2021%20dicembre%201996%20n.%20583.md) "Regolamento recante sostituzione del regolamento concernente la composizione e l'ordinamento del Consiglio superiore di sanita', adottato con [decreto ministeriale 21 dicembre 1993, n. 583](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-12-21;583)";
 
@@ -32,7 +32,7 @@ Adotta il seguente regolamento:
 
 Il Consiglio superiore di sanita':
                         a)
-                            esercita le funzioni di consulenza tecnico- scientifica e di proposta nei confronti del Ministro della salute previste dall'[articolo 4, comma 1, del decreto legislativo 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+                            esercita le funzioni di consulenza tecnico- scientifica e di proposta nei confronti del Ministro della salute previste dall'[articolo 4, comma 1, del decreto legislativo 30 giugno 1993, n. 266](../Decreti%20Legislativi/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         b)
                             esprime parere obbligatorio nelle materie di cui al comma 2 dello stesso articolo;
                         c)

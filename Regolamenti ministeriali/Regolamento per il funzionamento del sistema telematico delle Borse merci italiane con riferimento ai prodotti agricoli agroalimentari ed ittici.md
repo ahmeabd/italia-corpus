@@ -352,7 +352,7 @@ Nota all'art. 11:
  «Art. 1. - La denominazione di «Borsa di commercio», di «Borsa di valori», di «Mercato di valori» od altra consimile e' esclusivamente riservata alle Borse istituite a norma dell'art. 1 della legge. Fuori di tal caso, ed ancorche' risulti espressamente escluso ogni carattere ufficiale, e' vietato usare le denominazioni anzidette o consimili, e formare listini di prezzi.
  E' permessa tuttavia anche a privati la pubblicazione del listino di borsa.
  Il Presidente della Deputazione di borsa vigila per l'osservanza del divieto anzidetto, da' i provvedimenti opportuni e puo' richiedere l'assistenza dell'autorita' politica.
- La trasgressione del divieto del Presidente della Deputazione di borsa e' punito a norma dell'[art. 434 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ La trasgressione del divieto del Presidente della Deputazione di borsa e' punito a norma dell'[art. 434 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Le disposizioni di cui ai commi precedenti non si applicano alle negoziazioni dei titoli emessi o garantiti dallo Stato, effettuate in forme organizzate e con rilevazione e pubblicazione dei relativi prezzi da operatori finanziari, nei casi e secondo modalita' che saranno stabilite con decreto del Ministro del tesoro.
  Il decreto del Ministro del tesoro assicurera' che le negoziazioni di cui al precedente comma dei titoli emessi o garantiti dallo Stato siano consentite ad un numero di soggetti sufficientemente ampio per garantire un effettiva concorrenza.».
 

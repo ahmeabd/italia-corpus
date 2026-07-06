@@ -234,7 +234,7 @@ L'Agenzia annulla il provvedimento di concessione delle agevolazioni finanziarie
 
 5.
 
-L'operatore al di fuori dell'ipotesi prevista dall'[art. 1, comma 9, del decreto legge 30 giugno 1982, n. 389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Durata%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), convertito dalla [legge 12 agosto 1982, n. 546](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20389%20concernente%20durata%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), restituisce le somme eventualmente erogategli con gli interessi semplici calcolati al tasso di riferimento vigente alla data dell'atto previsto dal precedente comma 1.
+L'operatore al di fuori dell'ipotesi prevista dall'[art. 1, comma 9, del decreto legge 30 giugno 1982, n. 389](../Atti%20normativi%20abrogati%20%28in%20originale%29/Durata%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), convertito dalla [legge 12 agosto 1982, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20389%20concernente%20durata%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), restituisce le somme eventualmente erogategli con gli interessi semplici calcolati al tasso di riferimento vigente alla data dell'atto previsto dal precedente comma 1.
 
 ## Art. 9. — (Erogazione delle agevolazioni per stato di avanzamento)
 

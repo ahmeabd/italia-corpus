@@ -24,7 +24,7 @@ Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20dis
 
 Vista la [legge 31 dicembre 1991, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-31;416), con la quale e' stato istituito, nello stato di previsione del Ministero degli affari esteri, il capitolo 2692 denominato "Premi e contributi per la divulgazione del libro italiano e per la traduzione di opere letterarie e scientifiche, nonche' per la produzione, il doppiaggio e la sottotitolatura di cortometraggi e lungometraggi e di serie televisive, destinati ai mezzi di comunicazione di massa";
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
 
 Visto il decreto del Presidente del Consiglio dei Ministri del 12 marzo 1994 che istituisce il Dipartimento dello spettacolo;
 

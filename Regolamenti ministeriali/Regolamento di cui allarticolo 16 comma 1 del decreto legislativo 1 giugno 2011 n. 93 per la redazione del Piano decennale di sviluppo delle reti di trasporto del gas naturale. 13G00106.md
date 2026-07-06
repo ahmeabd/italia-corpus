@@ -18,7 +18,7 @@ Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [direttiva 2009/73/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;73), relativa a norme comuni per il mercato del gas naturale che abroga la [direttiva 2003/55/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;55);
 
-Visto il [decreto legislativo 23 maggio 2000 n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), recante norme comuni per il mercato interno del gas naturale;
+Visto il [decreto legislativo 23 maggio 2000 n. 164](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), recante norme comuni per il mercato interno del gas naturale;
 
 Acquisito il parere dell'Autorita' di cui alla [deliberazione n. 300/2012/I/GAS del 19 luglio 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2012-07-19;300);
 
@@ -34,7 +34,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Il presente regolamento stabilisce, ai sensi dell'[articolo 16 del decreto legislativo n. 93/2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;93#art_16), le modalita' in base alle quali i gestori di reti di trasporto di gas naturale operanti sul territorio nazionale, di seguito denominati gestori, redigono il piano decennale di sviluppo delle reti di trasporto di gas naturale, di seguito denominato piano. Esso e' destinato alle imprese del sistema del gas naturale che esercitano l'attivita' di trasporto del gas naturale sia mediante reti nazionali di gasdotti, classificate ai sensi dell'[articolo 9 del decreto legislativo 23 maggio 2000 n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), sia tramite reti di trasporto regionale. 
+Il presente regolamento stabilisce, ai sensi dell'[articolo 16 del decreto legislativo n. 93/2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011;93#art_16), le modalita' in base alle quali i gestori di reti di trasporto di gas naturale operanti sul territorio nazionale, di seguito denominati gestori, redigono il piano decennale di sviluppo delle reti di trasporto di gas naturale, di seguito denominato piano. Esso e' destinato alle imprese del sistema del gas naturale che esercitano l'attivita' di trasporto del gas naturale sia mediante reti nazionali di gasdotti, classificate ai sensi dell'[articolo 9 del decreto legislativo 23 maggio 2000 n. 164](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), sia tramite reti di trasporto regionale. 
  ((1))
 
 -------------

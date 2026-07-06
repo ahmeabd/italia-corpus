@@ -22,7 +22,7 @@ Visto l'articolo 303 dello stesso Codice concernente il Fondo di garanzia per le
 
 Considerata l'opportunita' di dare attuazione alle disposizioni di cui all'articolo 285, comma 2, e all'articolo 303, comma 2, del predetto [Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) mediante un unico testo regolamentare, per le rilevanti analogie di contenuti e disciplina intercorrenti tra le due previsioni normative;
 
-Visto il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
+Visto il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
 
 Visti i pareri del Ministero dell'economia e delle finanze, del Ministero del lavoro e della previdenza sociale e dell'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo;
 

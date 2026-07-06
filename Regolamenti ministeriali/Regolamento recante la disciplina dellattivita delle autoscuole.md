@@ -12,19 +12,19 @@ IL MINISTRO DEI TRASPORTI
 
 E DELLA NAVIGAZIONE
 
-Visto l'[art. 121, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)";
+Visto l'[art. 121, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
-Visto l'[art. 333 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)";
+Visto l'[art. 333 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
-Visto l'[art. 123, comma 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [comma 7](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [comma 10, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)";
+Visto l'[art. 123, comma 3](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [comma 7](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [comma 10, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
-Visto l'[art. 335, comma 12, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)";
+Visto l'[art. 335, comma 12, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
 Visto l'art. 336, comma 1, del suddetto decreto;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 3 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisioni della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n.
+Visto l'[art. 3 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisioni della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n.
 
 421;
 
@@ -42,7 +42,7 @@ Attivita' ((. . . )) delle autoscuole
 
 1.
 
-La autoscuole possono svolgere, oltre all'attivita' di insegnamento alla guida, cosi' come previsto all'art. 335 del regolamento di esecuzione del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), anche tutte quelle pratiche necessarie per il conseguimento dell'idoneita' alla guida e per il rilascio delle patenti ((e dei documenti di abilitazione e di qualificazione professionale)), comprese le relative certificazioni e nonche' tutte le altre pratiche relative alle patenti di guida, come previsto agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_7) e [8 della legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_8).
+La autoscuole possono svolgere, oltre all'attivita' di insegnamento alla guida, cosi' come previsto all'art. 335 del regolamento di esecuzione del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), anche tutte quelle pratiche necessarie per il conseguimento dell'idoneita' alla guida e per il rilascio delle patenti ((e dei documenti di abilitazione e di qualificazione professionale)), comprese le relative certificazioni e nonche' tutte le altre pratiche relative alle patenti di guida, come previsto agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_6), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_7) e [8 della legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264#art_8).
 
 2.
 
@@ -169,7 +169,7 @@ Il materiale didattico di cui al comma 1, puo' essere sostituito da supporti aud
 
 1.
 
-Fatto salvo quanto previsto dall'articolo 14, comma 1, il materiale minimo per le esercitazioni di guida, di cui devono essere dotate le autoscuole, anche attraverso l'adesione ad un consorzio di cui all'[articolo 123, comma 7, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), comprende i veicoli utili al conseguimento delle patenti di categoria A1, A2, A, B, C1, C1E, C, CE, D1, D1E, D e DE, nonche' almeno uno tra quelli utili al conseguimento della patente di categoria AM, tutti conformi alle prescrizioni di cui all'allegato II, lettera B, paragrafo 5.2, del [decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), e successive modificazioni.
+Fatto salvo quanto previsto dall'articolo 14, comma 1, il materiale minimo per le esercitazioni di guida, di cui devono essere dotate le autoscuole, anche attraverso l'adesione ad un consorzio di cui all'[articolo 123, comma 7, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), comprende i veicoli utili al conseguimento delle patenti di categoria A1, A2, A, B, C1, C1E, C, CE, D1, D1E, D e DE, nonche' almeno uno tra quelli utili al conseguimento della patente di categoria AM, tutti conformi alle prescrizioni di cui all'allegato II, lettera B, paragrafo 5.2, del [decreto legislativo 18 aprile 2011, n. 59](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202006-126-CE%20e%202009-113-CE%20concernenti%20la%20patente%20di%20guida.%2011G0104.md), e successive modificazioni.
 
 2.
 
@@ -183,7 +183,7 @@ I veicoli di cui al comma 1 possono essere dotati di cambio manuale, quale defin
 
 1.
 
-Il centro di istruzione automobilistica, costituito da due o piu' autoscuole ai sensi dell'[articolo 123, comma 7, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' riconosciuto dalla provincia territorialmente competente in ragione del luogo ove ha sede il centro stesso.
+Il centro di istruzione automobilistica, costituito da due o piu' autoscuole ai sensi dell'[articolo 123, comma 7, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e' riconosciuto dalla provincia territorialmente competente in ragione del luogo ove ha sede il centro stesso.
 
 2.
 
@@ -195,7 +195,7 @@ Ai fini del riconoscimento di cui al comma 1, il legale rappresentante del conso
                         a)
                             la denominazione delle autoscuole aderenti e le generalita' dei rispettivi legali rappresentanti;
                         b)
-                            le generalita' del responsabile del centro di istruzione automobilistica, che deve essere in possesso dei requisiti di cui all'[articolo 123, commi 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [6, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), fatta eccezione per la capacita' finanziaria;
+                            le generalita' del responsabile del centro di istruzione automobilistica, che deve essere in possesso dei requisiti di cui all'[articolo 123, commi 5](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [6, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), fatta eccezione per la capacita' finanziaria;
                         c)
                             le generalita' degli insegnanti e degli istruttori dei quali il centro si avvale per l'espletamento della formazione teorica e pratica che le autoscuole consorziate hanno conferito allo stesso; qualora siano stati conferiti esclusivamente corsi di formazione teorica o di formazione pratica, sono indicate le generalita' rispettivamente dei soli insegnanti o dei soli istruttori specificando, per questi ultimi, che sono titolari di abilitazione adeguata alla tipologia di corsi conferiti;
                         d)
@@ -205,7 +205,7 @@ Ai fini del riconoscimento di cui al comma 1, il legale rappresentante del conso
 
 4.
 
-Con la dichiarazione di inizio attivita' di cui al comma 3, il legale rappresentante del consorzio presenta alla provincia territorialmente competente dichiarazione sostitutiva di atto di notorieta' comprovante la conformita' dei locali, dell'arredamento didattico e del materiale per le lezioni teoriche e per le esercitazioni di guida alle prescrizioni di cui rispettivamente agli articoli 3, 4, 5 e 6, con esclusione del veicolo utile al conseguimento della patente di categoria B. Tale veicolo deve tuttavia essere in dotazione al centro di istruzione automobilistica che svolge i corsi di formazione di insegnanti e di istruttori ai sensi dell'[articolo 123, comma 10-bis, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Con la dichiarazione di inizio attivita' di cui al comma 3, il legale rappresentante del consorzio presenta alla provincia territorialmente competente dichiarazione sostitutiva di atto di notorieta' comprovante la conformita' dei locali, dell'arredamento didattico e del materiale per le lezioni teoriche e per le esercitazioni di guida alle prescrizioni di cui rispettivamente agli articoli 3, 4, 5 e 6, con esclusione del veicolo utile al conseguimento della patente di categoria B. Tale veicolo deve tuttavia essere in dotazione al centro di istruzione automobilistica che svolge i corsi di formazione di insegnanti e di istruttori ai sensi dell'[articolo 123, comma 10-bis, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 5.
 
@@ -213,7 +213,7 @@ Qualora al centro di istruzione automobilistica sia stata demandata esclusivamen
 
 6.
 
-Alla dichiarazione di inizio attivita' di cui al comma 3, presentata in conformita' alle prescrizioni di cui al medesimo comma 3 ed al comma 4, si applicano le disposizioni di cui all'[articolo 123, comma 7-bis, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Alla dichiarazione di inizio attivita' di cui al comma 3, presentata in conformita' alle prescrizioni di cui al medesimo comma 3 ed al comma 4, si applicano le disposizioni di cui all'[articolo 123, comma 7-bis, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 7.
 
@@ -226,7 +226,7 @@ Ai centri di istruzione automobilistica confluiscono solo gli allievi iscritti p
 9.
 
 Non e' consentito iscrivere allievi direttamente al centro. 
- 9. Ciascuna autoscuola consorziata svolge per i propri allievi corsi di formazione dei conducenti per il conseguimento della patente della categoria B, ai sensi dell'[articolo 123, comma 7, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): a tal fine, dispone dei locali e dell'arredamento didattico di cui agli articoli 3 e 4 nonche', limitatamente a quanto necessario per i predetti corsi, del materiale didattico per le lezioni teoriche e per le esercitazioni di guida di cui agli articoli 5 e 6 e dei docenti di cui all'articolo 8. Puo' altresi' svolgere ulteriori corsi di formazione, anche solo teorici o solo pratici, per il conseguimento di una o piu' delle altre categorie di patenti e dei documenti di abilitazione e di qualificazione professionale, in favore degli allievi iscritti nei propri registri e non demandati al centro di istruzione automobilistica, a condizione di disporre del predetto materiale didattico di cui agli articoli 5 e 6 e dei docenti di cui all'articolo 8, prescritti per la tipologia di corsi svolti.
+ 9. Ciascuna autoscuola consorziata svolge per i propri allievi corsi di formazione dei conducenti per il conseguimento della patente della categoria B, ai sensi dell'[articolo 123, comma 7, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): a tal fine, dispone dei locali e dell'arredamento didattico di cui agli articoli 3 e 4 nonche', limitatamente a quanto necessario per i predetti corsi, del materiale didattico per le lezioni teoriche e per le esercitazioni di guida di cui agli articoli 5 e 6 e dei docenti di cui all'articolo 8. Puo' altresi' svolgere ulteriori corsi di formazione, anche solo teorici o solo pratici, per il conseguimento di una o piu' delle altre categorie di patenti e dei documenti di abilitazione e di qualificazione professionale, in favore degli allievi iscritti nei propri registri e non demandati al centro di istruzione automobilistica, a condizione di disporre del predetto materiale didattico di cui agli articoli 5 e 6 e dei docenti di cui all'articolo 8, prescritti per la tipologia di corsi svolti.
 
 ))
 
@@ -239,13 +239,13 @@ L'installazione dei doppi comandi risulta dalla carta di circolazione. I veicoli
 
 2.
 
-Fatto salvo quanto previsto dal comma 3, i veicoli in dotazione alle autoscuole ovvero ai centri di istruzione automobilistica, per le esercitazioni e per la prova di verifica delle capacita' e dei comportamenti utili al conseguimento delle patenti di guida, sono immatricolati rispettivamente a nome del titolare dell'autoscuola ovvero del consorzio che ha costituito il centro di istruzione. E' ammesso il ricorso all'utilizzo dello strumento contrattuale del leasing, nonche' della locazione senza conducente che ricada nell'ambito di applicazione dell'[articolo 94, comma 4-bis, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Fatto salvo quanto previsto dal comma 3, i veicoli in dotazione alle autoscuole ovvero ai centri di istruzione automobilistica, per le esercitazioni e per la prova di verifica delle capacita' e dei comportamenti utili al conseguimento delle patenti di guida, sono immatricolati rispettivamente a nome del titolare dell'autoscuola ovvero del consorzio che ha costituito il centro di istruzione. E' ammesso il ricorso all'utilizzo dello strumento contrattuale del leasing, nonche' della locazione senza conducente che ricada nell'ambito di applicazione dell'[articolo 94, comma 4-bis, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 ((
 
 3.
 
-Possono essere messi a disposizione di un'autoscuola o di un centro di istruzione automobilistica i veicoli utili per le esercitazioni e per la prova di verifica delle capacita' e dei comportamenti per il conseguimento: della patente di categoria B con il codice UE armonizzato 96, di cui all'articolo 116, comma 3, lettera f), terzo e quarto periodo, del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), nonche' per il conseguimento delle patenti di guida speciali e delle categorie B1 BE, C1, C1E, D1 e D1E. Tali veicoli possono essere messi a disposizione dall'allievo dell'autoscuola o del centro di istruzione automobilistica, o da terzi, proprietari, usufruttuari, locatari con facolta' di acquisto o venditori con patto di riservato dominio. Qualora la disponibilita' da parte di un terzo, in sede di prova di verifica delle capacita' e dei comportamenti, sia consentita a titolo oneroso, tali veicoli sono dotati del dispositivo elettronico di cui al comma 1, terzo e quarto periodo.
+Possono essere messi a disposizione di un'autoscuola o di un centro di istruzione automobilistica i veicoli utili per le esercitazioni e per la prova di verifica delle capacita' e dei comportamenti per il conseguimento: della patente di categoria B con il codice UE armonizzato 96, di cui all'articolo 116, comma 3, lettera f), terzo e quarto periodo, del [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), nonche' per il conseguimento delle patenti di guida speciali e delle categorie B1 BE, C1, C1E, D1 e D1E. Tali veicoli possono essere messi a disposizione dall'allievo dell'autoscuola o del centro di istruzione automobilistica, o da terzi, proprietari, usufruttuari, locatari con facolta' di acquisto o venditori con patto di riservato dominio. Qualora la disponibilita' da parte di un terzo, in sede di prova di verifica delle capacita' e dei comportamenti, sia consentita a titolo oneroso, tali veicoli sono dotati del dispositivo elettronico di cui al comma 1, terzo e quarto periodo.
 
 ))
 
@@ -255,7 +255,7 @@ I veicoli utili al conseguimento delle patenti di guida di categoria AM, A1, A2,
 
 5.
 
-I veicoli utili al conseguimento delle patenti di guida di categoria C, CE, D e DE, attrezzati conformemente alle disposizioni emanate dal Capo del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 203, comma 2, lettera ii), del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), oltre che ad uso esclusivo di autoscuola, sono considerati ad uso speciale ai sensi dell'[articolo 54, comma 1, lettera g), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Le disposizioni di cui al periodo precedente si applicano ai veicoli ((utili al conseguimento delle patenti di guida di categoria C1, C1E, D1 e D1E)), quando sono in dotazione ad un'autoscuola o ad un centro di istruzione automobilistica ai sensi del comma 2.
+I veicoli utili al conseguimento delle patenti di guida di categoria C, CE, D e DE, attrezzati conformemente alle disposizioni emanate dal Capo del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 203, comma 2, lettera ii), del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), oltre che ad uso esclusivo di autoscuola, sono considerati ad uso speciale ai sensi dell'[articolo 54, comma 1, lettera g), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md). Le disposizioni di cui al periodo precedente si applicano ai veicoli ((utili al conseguimento delle patenti di guida di categoria C1, C1E, D1 e D1E)), quando sono in dotazione ad un'autoscuola o ad un centro di istruzione automobilistica ai sensi del comma 2.
 
 6.
 
@@ -263,7 +263,7 @@ I veicoli di cui ai commi 4 e 5 possono essere utilizzati anche per il trasporto
 
 7.
 
-Non e' ammessa la comproprieta' o la dotazione a titolo di leasing o locazione senza conducente ai sensi dell'[articolo 94, comma 4-bis, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), dei veicoli tra due o piu' titolari di autoscuola o tra due o piu' consorzi di cui all'articolo 123, comma 7, secondo periodo, del predetto decreto legislativo. I veicoli in dotazione, ai sensi del comma 2, al medesimo titolare di autoscuola possono essere utilizzati presso tutte le sedi dell'autoscuola operanti in un'unica provincia, ferma restando la dotazione minima per ciascuna di tali sedi di almeno un veicolo utile al conseguimento della patente di categoria B. ((I veicoli in dotazione ad un consorzio possono essere utilizzati presso tutti i centri di istruzione automobilistica costituiti dal medesimo consorzio nell'ambito della stessa provincia.))
+Non e' ammessa la comproprieta' o la dotazione a titolo di leasing o locazione senza conducente ai sensi dell'[articolo 94, comma 4-bis, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), dei veicoli tra due o piu' titolari di autoscuola o tra due o piu' consorzi di cui all'articolo 123, comma 7, secondo periodo, del predetto decreto legislativo. I veicoli in dotazione, ai sensi del comma 2, al medesimo titolare di autoscuola possono essere utilizzati presso tutte le sedi dell'autoscuola operanti in un'unica provincia, ferma restando la dotazione minima per ciascuna di tali sedi di almeno un veicolo utile al conseguimento della patente di categoria B. ((I veicoli in dotazione ad un consorzio possono essere utilizzati presso tutti i centri di istruzione automobilistica costituiti dal medesimo consorzio nell'ambito della stessa provincia.))
 
 8.
 
@@ -271,11 +271,11 @@ In caso di documentato guasto dell'unico veicolo utile a conseguire una determin
 
 9.
 
-L'inserimento dei veicoli nel parco veicolare di un'autoscuola o di un centro di istruzione automobilistica, ovvero la relativa dismissione, sono comunicati alla provincia territorialmente competente entro otto giorni lavorativi decorrenti dalla data di stipula del negozio giuridico dal quale gli stessi derivano. Qualora, a seguito della dismissione di un veicolo, lo stesso sia ceduto ad un soggetto diverso da un titolare di autoscuola o da un consorzio, il cedente richiede l'aggiornamento della carta di circolazione ai sensi dell'[articolo 78 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+L'inserimento dei veicoli nel parco veicolare di un'autoscuola o di un centro di istruzione automobilistica, ovvero la relativa dismissione, sono comunicati alla provincia territorialmente competente entro otto giorni lavorativi decorrenti dalla data di stipula del negozio giuridico dal quale gli stessi derivano. Qualora, a seguito della dismissione di un veicolo, lo stesso sia ceduto ad un soggetto diverso da un titolare di autoscuola o da un consorzio, il cedente richiede l'aggiornamento della carta di circolazione ai sensi dell'[articolo 78 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 10.
 
-Per i veicoli in dotazione, le autoscuole ed i centri di istruzione automobilistica ottemperano alle disposizioni di cui all'[articolo 193, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e provvedono anche alla copertura assicurativa della circolazione durante le esercitazioni di guida e l'effettuazione degli esami.
+Per i veicoli in dotazione, le autoscuole ed i centri di istruzione automobilistica ottemperano alle disposizioni di cui all'[articolo 193, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e provvedono anche alla copertura assicurativa della circolazione durante le esercitazioni di guida e l'effettuazione degli esami.
 
 11.
 
@@ -291,7 +291,7 @@ Se un'autoscuola o un centro di istruzione automobilistica sono provvisti di spa
 
 1.
 
-Per ciascuna sede l'autoscuola deve avere in organico almeno un insegnante di teoria ed un istruttore di guida, abilitati, ovvero un soggetto titolare di entrambe le abilitazioni. Una o entrambe le funzioni possono essere svolte dal titolare dell'autoscuola ovvero dal responsabile didattico di cui all'[articolo 123, comma 4, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Per ciascuna sede l'autoscuola deve avere in organico almeno un insegnante di teoria ed un istruttore di guida, abilitati, ovvero un soggetto titolare di entrambe le abilitazioni. Una o entrambe le funzioni possono essere svolte dal titolare dell'autoscuola ovvero dal responsabile didattico di cui all'[articolo 123, comma 4, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -304,7 +304,7 @@ L'autoscuola o il centro d'istruzione automobilistica deve avere a disposizione 
 
 4.
 
-Se un'autoscuola o un centro di istruzione automobilistica rimangono sprovvisti dell'unico insegnante o istruttore di cui dispongono e non hanno, per accertate difficolta' di reperimento, la possibilita' di sostituirlo immediatamente con un altro, la provincia territorialmente competente puo' consentire che il titolare dell'autoscuola o il responsabile del centro di istruzione automobilistica possano utilizzare, quale supplente temporaneo, per non piu' di sei mesi, un insegnante o istruttore di altra autoscuola o centro di istruzione gia' autorizzati, in modo da assicurare il regolare funzionamento della stessa in relazione al numero degli allievi. Il predetto termine puo' essere prorogato, anche piu' di una volta e comunque per non oltre complessivi diciotto mesi di proroga, per motivate e documentate esigenze, qualora trattasi del titolare dell'autoscuola, del responsabile didattico di cui all'[articolo 123, comma 4, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), o del responsabile del centro di istruzione automobilistica, di cui all'articolo 7, comma 3, lettera b).
+Se un'autoscuola o un centro di istruzione automobilistica rimangono sprovvisti dell'unico insegnante o istruttore di cui dispongono e non hanno, per accertate difficolta' di reperimento, la possibilita' di sostituirlo immediatamente con un altro, la provincia territorialmente competente puo' consentire che il titolare dell'autoscuola o il responsabile del centro di istruzione automobilistica possano utilizzare, quale supplente temporaneo, per non piu' di sei mesi, un insegnante o istruttore di altra autoscuola o centro di istruzione gia' autorizzati, in modo da assicurare il regolare funzionamento della stessa in relazione al numero degli allievi. Il predetto termine puo' essere prorogato, anche piu' di una volta e comunque per non oltre complessivi diciotto mesi di proroga, per motivate e documentate esigenze, qualora trattasi del titolare dell'autoscuola, del responsabile didattico di cui all'[articolo 123, comma 4, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), o del responsabile del centro di istruzione automobilistica, di cui all'articolo 7, comma 3, lettera b).
 
 5.
 
@@ -312,7 +312,7 @@ L'autoscuola o il centro di istruzione automobilistica possono utilizzare a temp
 
 6.
 
-Gli istruttori abilitati e autorizzati che hanno superato il limite di eta' di sessantotto anni, di cui all'[articolo 115, comma 2, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), possono continuare a svolgere le proprie funzioni, purche' mantengano la titolarita' della patente di guida della categoria C o CE, con gli autoveicoli per i quali e' valida la patente di cui sono titolari, purche' la massa autorizzata, se trattasi di autotreni o autoarticolati, non sia superiore a 20t.
+Gli istruttori abilitati e autorizzati che hanno superato il limite di eta' di sessantotto anni, di cui all'[articolo 115, comma 2, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), possono continuare a svolgere le proprie funzioni, purche' mantengano la titolarita' della patente di guida della categoria C o CE, con gli autoveicoli per i quali e' valida la patente di cui sono titolari, purche' la massa autorizzata, se trattasi di autotreni o autoarticolati, non sia superiore a 20t.
 
 7.
 
@@ -412,7 +412,7 @@ Fatto salvo quanto previsto dall'[articolo 20, comma 6, della legge 29 luglio 20
 
 1-bis.
 
-Le autoscuole di cui al comma 1, possono estendere la loro attivita' alla formazione dei conducenti per tutte le categorie di patenti e documenti di abilitazione e qualificazione professionale, o dotandosi dei veicoli a tal fine necessari, ai sensi dell'articolo 7-bis o aderendo ad un consorzio che ha costituito un centro di istruzione automobilistica. In tal caso, sono tenute alla presentazione di una dichiarazione di inizio attivita': si applicano le disposizioni di cui all'[articolo 123, commi 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [7-bis, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). L'applicazione del presente comma non comporta, di per se', variazione della titolarita' dell'autoscuola. Le predette autoscuole non possono, in ogni caso, piu' svolgere attivita' di formazione dei conducenti limitatamente al solo conseguimento delle patenti di guida delle categorie A e B.
+Le autoscuole di cui al comma 1, possono estendere la loro attivita' alla formazione dei conducenti per tutte le categorie di patenti e documenti di abilitazione e qualificazione professionale, o dotandosi dei veicoli a tal fine necessari, ai sensi dell'articolo 7-bis o aderendo ad un consorzio che ha costituito un centro di istruzione automobilistica. In tal caso, sono tenute alla presentazione di una dichiarazione di inizio attivita': si applicano le disposizioni di cui all'[articolo 123, commi 3](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [7-bis, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md). L'applicazione del presente comma non comporta, di per se', variazione della titolarita' dell'autoscuola. Le predette autoscuole non possono, in ogni caso, piu' svolgere attivita' di formazione dei conducenti limitatamente al solo conseguimento delle patenti di guida delle categorie A e B.
 
 ))
 

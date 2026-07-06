@@ -18,7 +18,7 @@ Visto il comma 2 del predetto articolo che prevede che le modalita' del concorso
 
 Visto il decreto del Presidente del Consiglio dei Ministri 10 giugno 1986;
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Ritenuto necessario procedere alla determinazione di tali modalita' onde poter bandire in tempi brevi il concorso di cui trattasi, al fine di consentire il funzionamento della Scuola di restauro istituita presso l'opificio delle pietre dure di Firenze;
 
@@ -122,7 +122,7 @@ Nota all'art. 3:
 
 1.
 
-La commissione giudicatrice sara' composta, secondo quanto previsto dagli articoli 8, lettera d), e 61, [lettera a), del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), da un presidente con qualifica di consigliere di Stato o magistrato con qualifica equiparata e da due componenti, uno dei quali di sesso femminile, con qualifica di dirigente storico dell'arte. Le funzioni di segretario verranno svolte da un impiegato appartenente alla VII qualifica funzionale.
+La commissione giudicatrice sara' composta, secondo quanto previsto dagli articoli 8, lettera d), e 61, [lettera a), del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), da un presidente con qualifica di consigliere di Stato o magistrato con qualifica equiparata e da due componenti, uno dei quali di sesso femminile, con qualifica di dirigente storico dell'arte. Le funzioni di segretario verranno svolte da un impiegato appartenente alla VII qualifica funzionale.
 
 Nota all'art. 4:
  - Il testo degli articoli 8 e 61 del citato [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) e' il seguente:

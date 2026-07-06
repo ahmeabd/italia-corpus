@@ -168,7 +168,7 @@ La distruzione degli impianti produttivi consiste nel taglio alla fiamma, in dim
 
 2.
 
-La verifica della distruzione degli impianti produttivi avviene a mezzo di commissioni previste dall'[art. 18 della legge 26 aprile 1983, n. 130](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), formate da un presidente e due membri. Gli uffici della Commissione dell'Unione europea, sulle base di programmi predeterminati e di date precise, possono inviare propri funzionari ad assistere alle operazioni di verifica.
+La verifica della distruzione degli impianti produttivi avviene a mezzo di commissioni previste dall'[art. 18 della legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), formate da un presidente e due membri. Gli uffici della Commissione dell'Unione europea, sulle base di programmi predeterminati e di date precise, possono inviare propri funzionari ad assistere alle operazioni di verifica.
 
 3.
 

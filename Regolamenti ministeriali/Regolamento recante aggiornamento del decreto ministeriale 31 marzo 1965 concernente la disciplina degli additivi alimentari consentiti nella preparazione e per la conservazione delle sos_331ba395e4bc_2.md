@@ -12,7 +12,7 @@ IL MINISTRO DELLA SANITA'
 
 Visti gli articoli 5, lettera g), 7 e 22 della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283);
 
-Visto l'[art. 57, commi 2](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md) e [3 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md);
+Visto l'[art. 57, commi 2](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md) e [3 della legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md);
 
 Visto il decreto ministeriale 31 marzo 1965 concernente la disciplina degli additivi alimentari consentiti nella preparazione e per la conservazione delle sostanze alimentari, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 101 del 22 aprile 1965, modificato da ultimo con il decreto 27 ottobre 1994, n. 759;
 

@@ -14,7 +14,7 @@ di concerto con
 
 IL MINISTRO DELL'INTERNO
 
-Visto l'[articolo 139, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e successive modificazioni, concernente la patente di servizio per il personale abilitato allo svolgimento di compiti di polizia stradale;
+Visto l'[articolo 139, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e successive modificazioni, concernente la patente di servizio per il personale abilitato allo svolgimento di compiti di polizia stradale;
 
 Visto il decreto 11 agosto 2004, n. 246, concernente il «Regolamento recante norme per il rilascio della patente di servizio per il personale abilitato allo svolgimento di compiti di polizia stradale»;
 
@@ -66,7 +66,7 @@ del territorio, registro n. 1, foglio n. 106
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
- - L'[art. 139, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e successive modificazioni, recante: «Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)», pubblicato nel supplemento ordinario n. 74 alla Gazzetta Ufficiale 18 maggio 1992, n. 114, cosi' recita:
+ - L'[art. 139, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e successive modificazioni, recante: «Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)», pubblicato nel supplemento ordinario n. 74 alla Gazzetta Ufficiale 18 maggio 1992, n. 114, cosi' recita:
  «Art. 139. - 1. (Omissis).
  2. Con decreto del Ministero delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, sono stabiliti i requisiti e le modalita' per il rilascio della patente di cui al comma 1».
  - Il decreto 11 agosto 2004, n. 246, recante: «Regolamento recante norme per il rilascio della patente di servizio per il personale abilitato allo svolgimento di compiti di polizia stradale» e' pubblicato nella Gazzetta Ufficiale 1° ottobre 2004, n. 231.

@@ -16,7 +16,7 @@ Visto il testo unico delle disposizioni legislative in materia postale, di banco
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modificazioni;
+Visto il [regio decreto 19 luglio 1941, n. 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modificazioni;
 
 Vista la convenzione tra il Ministero de1 poste e delle telecomunicazioni e la societa' concessionaria SIP - oggi Telecom Italia S.p.a., approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](../DPR/Approvazione%20ed%20esecuzione%20delle%20convenzioni%20per%20la%20concessione%20dei%20servizi%20di%20telecomunicazioni%20ad%20uso%20pubblico%20alle%20societa%20SIP%20Italcable%20e%20Telespazio.md);
 
@@ -32,7 +32,7 @@ Visto il [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it
 
 Vista la [direttiva 95/62/CE del Parlamento europeo e del Consiglio del 13 dicembre 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;62) sull' applicazione del regime di fornitura di una rete aperta (ONP) alla telefonia vocale;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l(elevato a)' adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994;
+Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l(elevato a)' adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994;
 
 Vista la [legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481), recante norme per la concorrenza e la regolazione dei servizi di pubblica utilita'.
 

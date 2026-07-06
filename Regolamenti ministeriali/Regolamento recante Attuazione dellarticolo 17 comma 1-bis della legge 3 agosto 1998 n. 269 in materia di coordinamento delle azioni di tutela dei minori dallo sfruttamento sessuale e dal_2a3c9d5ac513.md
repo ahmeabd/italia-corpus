@@ -16,7 +16,7 @@ Visti gli [articoli 17, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 Vista la [legge 6 febbraio 2006, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-06;38) e in particolare l'articolo 20;
 
-Visto l'[articolo 1, comma 19, lettera e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com19-lete), e [comma 22, lettera d) del decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com22-letd), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
+Visto l'[articolo 1, comma 19, lettera e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com19-lete), e [comma 22, lettera d) del decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com22-letd), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri 18 maggio 2006, pubblicato nella Gazzetta Ufficiale n. 116 del 20 maggio 2006;
 
@@ -28,7 +28,7 @@ Visto il [decreto del Presidente della Repubblica 14 maggio 2007, n. 103](../Reg
 
 Sentito il parere del Garante per la riservatezza dei dati personali espresso nella riunione del 25 luglio 2007;
 
-Preso atto che la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), non ha provveduto ad esprimere il parere richiesto;
+Preso atto che la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), non ha provveduto ad esprimere il parere richiesto;
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nelle adunanze del 23 luglio e 8 ottobre 2007;
 

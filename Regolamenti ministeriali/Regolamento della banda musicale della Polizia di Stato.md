@@ -14,7 +14,7 @@ Vista la [legge 1o aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), recante l'ordinamento del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica;
 
-Visto il [decreto legislativo 12 maggio 1995, n. 197](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), concernente l'attuazione dell'[articolo 3 della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di riordino delle carriere del personale della Polizia di Stato;
+Visto il [decreto legislativo 12 maggio 1995, n. 197](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), concernente l'attuazione dell'[articolo 3 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di riordino delle carriere del personale della Polizia di Stato;
 
 Visto il [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), recante il regolamento di servizio dell'Amministrazione della pubblica sicurezza;
 
@@ -88,7 +88,7 @@ La gerarchia fra gli appartenenti ai ruoli della banda musicale della Polizia di
 
 2.
 
-All'interno del ruolo degli orchestrali la subordinazione gerarchica, in relazione a quanto stabilito nelle tabelle "F" e "G" allegate al [decreto legislativo 12 maggio 1995, n. 197](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), e' determinata dalla qualifica e nella stessa qualifica dall'anzianita'.
+All'interno del ruolo degli orchestrali la subordinazione gerarchica, in relazione a quanto stabilito nelle tabelle "F" e "G" allegate al [decreto legislativo 12 maggio 1995, n. 197](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), e' determinata dalla qualifica e nella stessa qualifica dall'anzianita'.
 
 3.
 
@@ -107,7 +107,7 @@ Per esigenze di servizio il maestro direttore puo' disporre l'impiego ad organic
 
 3.
 
-Ferme restando le disposizioni del [decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), cosi' come modificato dal [decreto legislativo 12 maggio 1995, n. 197](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), l'organizzazione della banda musicale nell'impiego ad organico intero, in formazione da concerto o da parata, e' determinata dal maestro direttore.
+Ferme restando le disposizioni del [decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), cosi' come modificato dal [decreto legislativo 12 maggio 1995, n. 197](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), l'organizzazione della banda musicale nell'impiego ad organico intero, in formazione da concerto o da parata, e' determinata dal maestro direttore.
 
 4.
 

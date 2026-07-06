@@ -12,7 +12,7 @@ IL MINISTRO DELL'ISTRUZIONE
 
 DELL'UNIVERSITA' E DELLA RICERCA
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Vista la [legge 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425), recante disposizioni per la riforma degli esami di Stato conclusivi dei corsi di studio di istruzione secondaria superiore e, in particolare, l'articolo 3;
 

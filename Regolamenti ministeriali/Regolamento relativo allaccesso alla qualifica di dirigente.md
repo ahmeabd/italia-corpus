@@ -12,7 +12,7 @@ IL PRESIDENTE
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, concernente la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e la revisione della disciplina in materia di pubblico impiego ed in particolare l'art. 28, che disciplina l'accesso alla qualifica di dirigente;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, concernente la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e la revisione della disciplina in materia di pubblico impiego ed in particolare l'art. 28, che disciplina l'accesso alla qualifica di dirigente;
 
 Considerata la necessita' di disciplinare le modalita' di accesso alla qualifica di dirigente nelle amministrazioni statali, anche ad ordinamento autonomo, comprese le istituzioni universitarie e negli enti pubblici non economici, ad eccezione del personale con qualifica di ricercatore e di tecnologo delle istituzioni e degli enti di ricerca e sperimentazione;
 
@@ -26,17 +26,17 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 24 f
 
 1.
 
-Il presente regolamento disciplina l'accesso alla qualifica di dirigente nelle amministrazioni dello Stato, anche ad ordinamento autonomo, comprese le universita' ed istituzioni equiparate e negli enti pubblici non economici, ad eccezione del personale con qualifica di ricercatore e di tecnologo delle istituzioni e degli enti di ricerca e sperimentazione. Resta fermo, per le universita' e le istituzioni equiparate, quanto previsto dall'[art. 3, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Il presente regolamento disciplina l'accesso alla qualifica di dirigente nelle amministrazioni dello Stato, anche ad ordinamento autonomo, comprese le universita' ed istituzioni equiparate e negli enti pubblici non economici, ad eccezione del personale con qualifica di ricercatore e di tecnologo delle istituzioni e degli enti di ricerca e sperimentazione. Resta fermo, per le universita' e le istituzioni equiparate, quanto previsto dall'[art. 3, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 
-Restano ferme, ai sensi dell'[art. 28, comma 8, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, le vigenti disposizioni in materia di accesso alle qualifiche dirigenziali delle carriere diplomatiche e prefettizie, delle Forze di polizia e delle Forze armate e dei vigili del fuoco. ((1))
+Restano ferme, ai sensi dell'[art. 28, comma 8, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, le vigenti disposizioni in materia di accesso alle qualifiche dirigenziali delle carriere diplomatiche e prefettizie, delle Forze di polizia e delle Forze armate e dei vigili del fuoco. ((1))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 2. — Concorso per esami
 
@@ -52,7 +52,7 @@ La percentuale dei posti da riservare al personale dipendente da parte dell'ammi
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 3. — Commissione esaminatrice
 
@@ -66,7 +66,7 @@ Non possono essere nominati componenti delle commissioni soggetti che siano comp
 
 3.
 
-Almeno un terzo dei posti di componente delle commissioni di concorso e' riservato, salva motivata impossibilita', alle donne purche' in possesso dei requisiti di cui all'[art. 8 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Almeno un terzo dei posti di componente delle commissioni di concorso e' riservato, salva motivata impossibilita', alle donne purche' in possesso dei requisiti di cui all'[art. 8 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 4.
 
@@ -76,7 +76,7 @@ La commissione esaminatrice puo' essere integrata con membri esperti in lingue s
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 4. — Modalita' di svolgimento delle selezioni
 
@@ -102,7 +102,7 @@ A parita' di merito trovano applicazione le vigenti disposizioni in materia di p
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 5. — Corso-concorso selettivo di formazione dirigenziale
 
@@ -118,7 +118,7 @@ L'ammissione al corso-concorso di cui al comma 1 e' subordinata all'esito del co
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 6. — Determinazione dei posti da mettere a concorso per l'ammissione ai corsi
 
@@ -131,7 +131,7 @@ A tal fine le amministrazioni di cui all'art. 1, comma 1, comunicano, entro il m
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 7. — Bando di concorso per l'ammissione ai corsi
 
@@ -155,7 +155,7 @@ Per la valutazione dei titoli, la commissione esaminatrice disporra' di un massi
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 8. — Graduatoria
 
@@ -179,7 +179,7 @@ La graduatoria e' pubblicata nel Bollettino ufficiale della Presidenza del Consi
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 9. — Commissioni esaminatrici
 
@@ -199,7 +199,7 @@ Le commissioni esaminatrici degli esami del biennio e degli esami di fine corso 
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 10. — Svolgimento dei corsi
 
@@ -219,7 +219,7 @@ La scuola superiore della pubblica amministrazione stabilisce le materie di inse
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 11. — Valutazione continua, ed esame-concorso intermedio
 
@@ -247,7 +247,7 @@ A parita' di merito trovano applicazione le vigenti disposizioni in materia di p
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 12. — Semestre di applicazione ed esame-concorso finale
 
@@ -283,7 +283,7 @@ In base alla posizione occupata nella graduatoria e tenendo conto delle disponib
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 13. — Nomina nell'amministrazione
 
@@ -303,7 +303,7 @@ Il periodo di frequenza del corso di formazione dirigenziale dei dipendenti di r
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ---------------
 
@@ -321,7 +321,7 @@ Coloro che non abbiano potuto iniziare o proseguire la frequenza del corso a cau
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 15. — Trattamento economico
 
@@ -345,7 +345,7 @@ Per quanto concerne gli allievi dipendenti di amministrazioni pubbliche non stat
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 16. — Norme di comportamento
 
@@ -373,7 +373,7 @@ Gli allievi che al termine del corso non assumono servizio, senza giustificato m
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 17. — Resti di frazione
 
@@ -389,7 +389,7 @@ Gli arrotondamenti non possono in nessun modo superare il numero complessivo dei
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 18. — Accesso alla dirigenza tecnica
 
@@ -401,13 +401,13 @@ L'accesso alle qualifiche dirigenziali relative a professionalita' tecniche avvi
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 19. — Prima applicazione
 
 1.
 
-In sede di prima applicazione del presente regolamento le percentuali del settanta e del trenta per cento di cui agli articoli 2 e 5 vanno riferite alle disponibilita' in organico che risulteranno dopo che le amministrazioni avranno individuato gli uffici dirigenziali ai sensi dell'[art. 31 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+In sede di prima applicazione del presente regolamento le percentuali del settanta e del trenta per cento di cui agli articoli 2 e 5 vanno riferite alle disponibilita' in organico che risulteranno dopo che le amministrazioni avranno individuato gli uffici dirigenziali ai sensi dell'[art. 31 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 
@@ -421,7 +421,7 @@ Al concorso, per titoli, di cui al comma 2 sono ammessi a partecipare i dipenden
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 20. — Commissione esaminatrice
 
@@ -433,7 +433,7 @@ La commissione esaminatrice per il concorso, per titoli di servizio professional
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 21. — Valutazione dei titoli
 
@@ -465,7 +465,7 @@ Per il personale appartenente alle qualifiche ad esaurimento di cui agli [artico
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 22. — Entrata in vigore
 
@@ -477,7 +477,7 @@ Il presente regolamento entra in vigore il giorno successivo alla sua pubblicazi
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 30 luglio 1999, n. 287](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
+Il [D. Lgs. 30 luglio 1999, n. 287](../Decreti%20Legislativi/Riordino%20della%20Scuola%20superiore%20della%20pubblica%20amministrazione%20e%20riqualificazione%20del%20personale%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

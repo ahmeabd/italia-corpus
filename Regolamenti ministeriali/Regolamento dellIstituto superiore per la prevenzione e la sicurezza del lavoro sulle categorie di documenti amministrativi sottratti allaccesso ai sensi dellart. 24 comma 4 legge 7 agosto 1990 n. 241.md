@@ -14,7 +14,7 @@ Visto il [decreto del Presidente della Repubblica 31 luglio 1980, n. 619](../DPR
 
 Visto il [decreto-legge 30 giugno 1982, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390), convertito, con modificazioni, in [legge 12 agosto 1982, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md);
 
-Visto il [decreto legislativo 30 giugno 1993, n. 268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sul riordinamento dell'ISPESL;
+Visto il [decreto legislativo 30 giugno 1993, n. 268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sul riordinamento dell'ISPESL;
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 441](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20il%20funzionamento%20e%20la%20disciplina%20delle%20attivita%20relative%20ai%20compiti%20dellISPESL%20in%20attuazione%20dellart.%202%20comma%202%20del%20decreto%20legislativo%2030%20giugno%201993%20n.%20268.md), concernente il regolamento, l'organizzazione, il funzionamento e la disciplina delle attivita' dell'ISPESL;
 

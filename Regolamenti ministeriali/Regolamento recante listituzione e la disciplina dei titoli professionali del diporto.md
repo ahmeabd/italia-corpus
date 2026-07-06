@@ -78,7 +78,7 @@ Il personale navigante applicato nel diporto deve essere iscritto nelle matricol
 
 2.
 
-A tale personale si applicano le disposizioni generali per l'immatricolazione della gente di mare di cui al Libro I, Titolo IV, Capi I e II del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md).
+A tale personale si applicano le disposizioni generali per l'immatricolazione della gente di mare di cui al Libro I, Titolo IV, Capi I e II del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md).
 
 ((2-bis. Le disposizioni di cui ai commi 1 e 2 non si applicano agli ufficiali di navigazione del diporto di 2ª classe, salva la facolta' per gli interessati di iscriversi nelle matricole della gente di mare di prima categoria.))
 

@@ -14,7 +14,7 @@ Vista la [direttiva CEE n. 562/74 del 12 novembre 1974](https://www.normattiva.i
 
 Vista la [direttiva CEE n. 438/89 del 21 giugno 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;438) che modifica tra l'altro la [direttiva CEE n. 562/74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1974;562);
 
-Visto l'[art. 14 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md);
+Visto l'[art. 14 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md);
 
 Visto l'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
@@ -395,7 +395,7 @@ Non e' ammessa deroga al requisito dell'idoneita' morale, neppure nel caso di ge
 
 1.
 
-Sono esonerate dalla dimostrazione del possesso dei requisiti di cui all'art. 3, lettere b) e c), le imprese che alla data dell'entrata in vigore della [legge del 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), sono gia' titolari di concessioni, di autorizzazioni e di licenze per l'autotrasporto di viaggiatori.
+Sono esonerate dalla dimostrazione del possesso dei requisiti di cui all'art. 3, lettere b) e c), le imprese che alla data dell'entrata in vigore della [legge del 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), sono gia' titolari di concessioni, di autorizzazioni e di licenze per l'autotrasporto di viaggiatori.
 
 2.
 
@@ -409,7 +409,7 @@ Le imprese individuali e le societa', risultanti dalla trasformazione di imprese
 
 1.
 
-Le imprese che sono diventate titolari di concessioni, autorizzazioni o licenza nel periodo intercorrente tra l'entrata in vigore della [legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), e del presente regolamento, hanno tempo diciotto mesi per dimostrare il possesso dei requisiti di cui all'art. 3.
+Le imprese che sono diventate titolari di concessioni, autorizzazioni o licenza nel periodo intercorrente tra l'entrata in vigore della [legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), e del presente regolamento, hanno tempo diciotto mesi per dimostrare il possesso dei requisiti di cui all'art. 3.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

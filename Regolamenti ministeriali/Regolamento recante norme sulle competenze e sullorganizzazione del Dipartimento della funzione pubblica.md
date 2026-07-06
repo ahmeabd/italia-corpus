@@ -20,7 +20,7 @@ Visto il decreto del Presidente del Consiglio dei Ministri del 22 novembre 1984,
 
 Visti gli [articoli 17, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com21), [comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com5), nonche' [40, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_40-com1);
 
-Visti i [decreti legislativi 3 febbraio 1993, n. 29, e 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visti i [decreti legislativi 3 febbraio 1993, n. 29, e 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Ritenuta l'esigenza di rideterminare, ai sensi del citato [art. 21 della legge n. 400 del 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_21), competenze ed organizzazione del Dipartimento della funzione pubblica;
 
@@ -71,7 +71,7 @@ Note alle premesse:
 
 1.
 
-Il Dipartimento ha i compiti indicati dall'[art. 27 della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93#art_27), dal [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e dalle altre disposizioni di legge o di regolamento. Fornisce inoltre al Ministro della funzione pubblica, se nominato, il supporto per lo svolgimento dei compiti a lui delegati dal Presidente del Consiglio dei Ministri.
+Il Dipartimento ha i compiti indicati dall'[art. 27 della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93#art_27), dal [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e dalle altre disposizioni di legge o di regolamento. Fornisce inoltre al Ministro della funzione pubblica, se nominato, il supporto per lo svolgimento dei compiti a lui delegati dal Presidente del Consiglio dei Ministri.
 
 2.
 
@@ -191,11 +191,11 @@ Il Dipartimento e' organizzato nelle seguenti ripartizioni:
 
 2.
 
-A seguito della individuazione degli uffici di livello dirigenziale ai sensi dell'[art. 6 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), il Ministro provvede, con decreto, alla ripartizione delle competenze tra gli organi del Dipartimento e alla loro articolazione in uffici, nonche' alla preposizione dei responsabili agli organi. Provvede, inoltre, alla organizzazione delle strutture di segreteria, comprese quelle al servizio di comitati, commissioni, gruppi di lavoro e altri organi, anche a carattere temporaneo, operanti nell'ambito del Dipartimento.
+A seguito della individuazione degli uffici di livello dirigenziale ai sensi dell'[art. 6 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), il Ministro provvede, con decreto, alla ripartizione delle competenze tra gli organi del Dipartimento e alla loro articolazione in uffici, nonche' alla preposizione dei responsabili agli organi. Provvede, inoltre, alla organizzazione delle strutture di segreteria, comprese quelle al servizio di comitati, commissioni, gruppi di lavoro e altri organi, anche a carattere temporaneo, operanti nell'ambito del Dipartimento.
 
 3.
 
-L'Ispettorato per la funzione pubblica svolge le funzioni di cui all'[art. 27, quarto comma, della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93#art_27-com4) e all'[art. 65 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+L'Ispettorato per la funzione pubblica svolge le funzioni di cui all'[art. 27, quarto comma, della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93#art_27-com4) e all'[art. 65 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 Note all'art. 6:
  - Si riporta il testo dell'[art. 6 del D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_6) gia' citato nelle note alle premesse:

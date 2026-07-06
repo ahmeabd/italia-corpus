@@ -12,9 +12,9 @@ IL MINISTRO DELL'AMBIENTE
 
 E DELLA TUTELA DEL TERRITORIO E DEL MARE
 
-Visto il [decreto legislativo 11 febbraio 1998, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md) e, in particolare, l'articolo 2, comma 1-bis;
+Visto il [decreto legislativo 11 febbraio 1998, n. 32](../Decreti%20Legislativi/Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md) e, in particolare, l'articolo 2, comma 1-bis;
 
-Visto il [decreto legislativo 3 aprile 2006, n.152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e successive modificazioni ed in particolare gli articoli 242, comma 13-bis, 249 e 252, comma 4, ultimo periodo;
+Visto il [decreto legislativo 3 aprile 2006, n.152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) e successive modificazioni ed in particolare gli articoli 242, comma 13-bis, 249 e 252, comma 4, ultimo periodo;
 
 Vista l'appendice "V" del manuale "Criteri metodologici per l'applicazione dell'analisi di rischio ai siti contaminati" [http://www.isprambiente.gov.it/files/temi/appendice-v-100609.pdf ], revisione 2, elaborato dall'Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA), l'Agenzia Regionale per la Protezione Ambientale (ARPA), l'Istituto Superiore di Sanita' (ISS) e l'Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro (INAIL), che individua lo scenario di esposizione commerciale/industriale da applicare nell'analisi di rischio per la bonifica dei siti nei quali sono stati realizzati e gestiti punti vendita carburanti;
 
@@ -58,9 +58,9 @@ Avvertenza:
  
  Note alle premesse: 
  
- - Si riporta il testo dell'[articolo 2, comma 1-bis del decreto legislativo 11 febbraio 1998, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Razionalizzazione del sistema di distribuzione dei carburanti, a norma dell'[articolo 4, comma 4, lettera c), della L. 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), pubblicato nella Gazzetta Ufficiale 5 marzo 1998, n. 53: 
+ - Si riporta il testo dell'[articolo 2, comma 1-bis del decreto legislativo 11 febbraio 1998, n. 32](../Decreti%20Legislativi/Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Razionalizzazione del sistema di distribuzione dei carburanti, a norma dell'[articolo 4, comma 4, lettera c), della L. 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), pubblicato nella Gazzetta Ufficiale 5 marzo 1998, n. 53: 
  «1-bis. La localizzazione degli impianti di carburanti costituisce un mero adeguamento degli strumenti urbanistici in tutte le zone e sottozone del piano regolatore generale non sottoposte a particolari vincoli paesaggistici, ambientali ovvero monumentali e non comprese nelle zone territoriali omogenee A.». 
- - Si riporta il testo degli [articoli 242, comma 13-bis](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), [249](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) e [252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), [comma 4, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante: «Norme in materia ambientale.», pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. n. 96: 
+ - Si riporta il testo degli [articoli 242, comma 13-bis](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), [249](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) e [252](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), [comma 4, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), recante: «Norme in materia ambientale.», pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. n. 96: 
  «Art. 242 (Procedure operative ed amministrative). -  13-bis. Per la rete di distribuzione carburanti si applicano le procedure semplificate di cui all'articolo 252, comma 4» 
  «Art. 249 (Aree contaminate di ridotte dimensioni). - 1. Per le aree contaminate di ridotte dimensioni si applicano le procedure semplificate di intervento riportate nell'Allegato 4 alla parte quarta del presente decreto.» 
  «Art. 252 (Siti di interesse nazionale). - 4. La procedura di bonifica di cui all'articolo 242 dei siti di interesse nazionale e' attribuita alla competenza del Ministero dell'ambiente e della tutela del territorio e del mare, sentito il Ministero delle attivita' produttive. Il Ministero dell'ambiente e della tutela del territorio e del mare puo' avvalersi anche dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA), delle Agenzie regionali per la protezione dell'ambiente delle regioni interessate e dell'Istituto superiore di sanita' nonche' di altri soggetti qualificati pubblici o privati il Ministero dell'ambiente e della tutela del territorio e del mare adotta procedure semplificate per le operazioni di bonifica relative alla rete di distribuzione carburanti.". 
@@ -90,7 +90,7 @@ Per le finalita' del decreto si intende inoltre per:
                             punto vendita carburanti: la porzione di territorio di limitata estensione, non superiore a 5000 m², interessata dal sedime o dalle pertinenze di un impianto di distribuzione carburanti, intesa nelle diverse matrici ambientali (suolo, sottosuolo ed acque sotterranee) e comprensiva delle eventuali strutture edilizie e impiantistiche presenti, anche destinate alla commercializzazione di altri prodotti e agli interventi di ordinaria e minuta manutenzione e riparazione dei veicoli a motore, assentiti nel rispetto delle disposizioni vigenti.
 
 Note all'art. 2: 
- - Si riporta il testo dell'articolo 240 del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md): 
+ - Si riporta il testo dell'articolo 240 del citato [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md): 
  «Art. 240 (Definizioni). - 1. Ai fini dell'applicazione del presente titolo, si definiscono: 
  a) sito: l'area o porzione di territorio, geograficamente definita e determinata, intesa nelle diverse matrici ambientali (suolo, materiali di riporto, sottosuolo ed acque sotterranee) e comprensiva delle eventuali strutture edilizie e impiantistiche presenti; 
  b) concentrazioni soglia di contaminazione (CSC): i livelli di contaminazione delle matrici ambientali che costituiscono valori al di sopra dei quali e' necessaria la caratterizzazione del sito e l'analisi di rischio sito specifica, come individuati nell'Allegato 5 alla parte quarta del presente decreto. Nel caso in cui il sito potenzialmente contaminato sia ubicato in un'area interessata da fenomeni antropici o naturali che abbiano determinato il superamento di una o piu' concentrazioni soglia di contaminazione, queste ultime si assumono pari al valore di fondo esistente per tutti i parametri superati; 
@@ -142,7 +142,7 @@ L'analisi di rischio e' effettuata secondo criteri semplificati di cui all'Alleg
 Fermo l'obbligo di garantire comunque un elevato livello di sicurezza, la selezione delle tecnologie applicabili tiene conto, per quanto possibile, anche di eventuali vincoli tecnici alla realizzazione degli interventi, quali a titolo di esempio, stabilita' strutturale, presenza di linee interrate e sottoservizi, viabilita' pubblica.
 
 Note all'art. 3: 
- - Si riporta il testo dell'allegato 2, Titolo V, Parte IV del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md):«Allegati al Titolo V della parte Quarta 
+ - Si riporta il testo dell'allegato 2, Titolo V, Parte IV del citato [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md):«Allegati al Titolo V della parte Quarta 
  Allegato 2 - Criteri generali per la caratterizzazione dei siti contaminati 
  
  PREMESSA 
@@ -328,13 +328,13 @@ In entrambi i casi di cui al comma 3, deve essere presentato alle Autorita' comp
 Il progetto di messa in sicurezza o bonifica e' approvato dalle autorita' competenti, entro 60 giorni dall'avvio del procedimento.
 
 Note all'art. 4: 
- - Si riportano le tabelle 1 e 2 dell'allegato 5, alla Parte IV del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md): 
+ - Si riportano le tabelle 1 e 2 dell'allegato 5, alla Parte IV del citato [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md): 
  «Allegati al Titolo V della parte Quarta 
  Allegato 5 - Concentrazione soglia di contaminazione nel suolo, nel sottosuolo e nelle acque sotterranee in relazione alla specifica destinazione d'uso dei siti 
  
  Parte di provvedimento in formato grafico
  
- - Si riporta il testo degli articoli 242 e 245 del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md): 
+ - Si riporta il testo degli articoli 242 e 245 del citato [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md): 
  «Art. 242 (Procedure operative ed amministrative). -  1. Al verificarsi di un evento che sia potenzialmente in grado di contaminare il sito, il responsabile dell'inquinamento mette in opera entro ventiquattro ore le misure necessarie di prevenzione e ne da' immediata comunicazione ai sensi e con le modalita' di cui all'articolo 304, comma 2. La medesima procedura si applica all'atto di individuazione di contaminazioni storiche che possano ancora comportare rischi di aggravamento della situazione di contaminazione. 
  2. Il responsabile dell'inquinamento, attuate le necessarie misure di prevenzione, svolge, nelle zone interessate dalla contaminazione, un'indagine preliminare sui parametri oggetto dell'inquinamento e, ove accerti che il livello delle concentrazioni soglia di contaminazione (CSC) non sia stato superato, provvede al ripristino della zona contaminata, dandone notizia, con apposita autocertificazione, al comune ed alla provincia competenti per territorio entro quarantotto ore dalla comunicazione.
  L'autocertificazione conclude il procedimento di notifica di cui al presente articolo, ferme restando le attivita' di verifica e di controllo da parte dell'autorita' competente da effettuarsi nei successivi quindici giorni. Nel caso in cui l'inquinamento non sia riconducibile ad un singolo evento, i parametri da valutare devono essere individuati, caso per caso, sulla base della storia del sito e delle attivita' ivi svolte nel tempo. 
@@ -376,7 +376,7 @@ Il regime speciale disciplinato dal presente decreto si applica anche:
                             ai punti vendita carburanti con area di sedime inferiore ai 1.000 metri quadrati.
 
 Note all'art. 5: 
- La Parte IV, del Titolo V, del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) reca: "BONIFICA DI SITI CONTAMINATI" (articoli da 239 a 253).
+ La Parte IV, del Titolo V, del citato [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) reca: "BONIFICA DI SITI CONTAMINATI" (articoli da 239 a 253).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

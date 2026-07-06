@@ -500,7 +500,7 @@ Ai sensi di quanto disposto dall'[art. 10 della legge 2 maggio 1990, n. 103](htt
 2.
 
 I rilevatori sono soggetti al segreto d'ufficio ai sensi dell'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[art. 
-326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 3.
 
@@ -509,11 +509,11 @@ Fatto salvo quanto disposto dall'art. 29, i dati raccolti in occasione del censi
 Note all'art. 26:
  - Il testo dell'[art. 10 della legge n. 103/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;103#art_10) e' il seguente:
  "Art. 10. - 1. Sulle notizie raccolte in occasione del censimento si applicano le disposizioni in materia di segreto di ufficio recate dall'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md).
- 2. I rilevatori sono soggetti al segreto d'ufficio ai sensi dell'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[art. 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+ 2. I rilevatori sono soggetti al segreto d'ufficio ai sensi dell'[art. 8 del decreto legislativo 6 settembre 1989, n. 322](../Decreti%20Legislativi/Norme%20sul%20Sistema%20statistico%20nazionale%20e%20sulla%20riorganizzazione%20dellIstituto%20nazionale%20di%20statistica%20ai%20sensi%20dellart.%2024%20della%20legge%2023%20agosto%201988%20n.%20400.md), e, in quanto incaricati di un pubblico servizio, al divieto di cui all'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
  - Il testo dell'[art. 8 del D.Lgs. n. 322/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;322#art_8) e' il seguente:
  "Art. 8 (Segreto di ufficio degli addetti agli uffici di statistica). - 1. Le norme in materia di segreto d'ufficio previste dal vigente ordinamento dell'impiego civile dello Stato si applicano a tutti gli addetti agli uffici di statistica previsti dagli articoli 3, 4 e 5.
  2. Resta fermo il disposto dell'[art. 15 del decreto del Presidente della Repubblica 2 novembre 1976, n. 784](../DPR/Modificazioni%20e%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2029%20settembre%201973%20n.%20605%20e%20successive%20modificazioni%20concernente%20disposizioni%20relative%20allanagrafe%20tributaria%20e%20al%20c_41a9a5474e04.md)".
- - Il testo dell'[art. 326 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 326 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 326 (Rilevazione di segreti di ufficio). - Il pubblico ufficiale o la persona incaricata di un pubblico servizio che, violando i doveri inerenti alle funzioni o al servizio, o comunque abusando della sua qualita', rivela notizie di ufficio, le quali debbano rimanere segrete, o ne agevola in qualsiasi modo la conoscenza, e' punito con la reclusione da sei mesi a tre anni.
  Se l'agevolazione e' soltanto colposa, si applica la reclusione fino a un anno".
  - Il testo dell'[art. 9 del D.Lgs. n. 322/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;322#art_9) e' il seguente:

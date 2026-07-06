@@ -63,7 +63,7 @@ Il rilascio della licenza e' necessario anche nel caso di svolgimento di singole
 
 1.
 
-I soggetti con sede in ambito nazionale o in uno dei Paesi appartenenti allo Spazio economico europeo (SEE), di cui alla [legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), interessati all'ottenimento di una licenza individuale, sono tenuti a presentare od a trasmettere, a mezzo di invio raccomandato con avviso di ricevimento, all'Autorita' una domanda redatta conformemente allo schema riportato nell'allegato l al presente decreto contenente le necessarie informazioni sul richiedente e sull'attivita' che si intende svolgere nonche' le indicazioni sugli impegni da assumere in relazione alla licenza richiesta.
+I soggetti con sede in ambito nazionale o in uno dei Paesi appartenenti allo Spazio economico europeo (SEE), di cui alla [legge 28 luglio 1993, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), interessati all'ottenimento di una licenza individuale, sono tenuti a presentare od a trasmettere, a mezzo di invio raccomandato con avviso di ricevimento, all'Autorita' una domanda redatta conformemente allo schema riportato nell'allegato l al presente decreto contenente le necessarie informazioni sul richiedente e sull'attivita' che si intende svolgere nonche' le indicazioni sugli impegni da assumere in relazione alla licenza richiesta.
 
 2.
 
@@ -94,7 +94,7 @@ Ogni variazione degli elementi di cui alla domanda ed alla relativa documentazio
 La licenza individuale ha una validita' non superiore a sei anni, e' rinnovabile, previa richiesta da presentare almeno tre mesi prima della scadenza, e non puo' essere ceduta a terzi senza il previo consenso dell'Autorita'.
 
 Nota all'[art. 2:
- - La legge 28 luglio 1993, n. 300](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), reca: "Ratifica ed esecuzione dell'accordo Spazio economico europeo con protocolli, allegati e dichiarazioni, fatto a Oporto il 2 maggio 1992, e del protocollo di adattamento di detto accordo, con allegato, firmato a Bruxelles il 17 marzo 1993".
+ - La legge 28 luglio 1993, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), reca: "Ratifica ed esecuzione dell'accordo Spazio economico europeo con protocolli, allegati e dichiarazioni, fatto a Oporto il 2 maggio 1992, e del protocollo di adattamento di detto accordo, con allegato, firmato a Bruxelles il 17 marzo 1993".
 
 ## Art. 3. — Obblighi connessi alla licenza individuale
 

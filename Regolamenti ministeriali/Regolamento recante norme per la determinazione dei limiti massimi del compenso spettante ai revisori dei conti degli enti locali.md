@@ -14,7 +14,7 @@ di concerto con
 
 IL MINISTRO DEL TESORO
 
-Visto il comma l dell'[articolo 107 del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), il quale prevede che con decreto del Ministro dell'interno di concerto con il Ministro del tesoro vengono fissati i limiti massimi del compenso base spettante ai componenti degli organi di revisione economicofinanziaria degli enti locali e che il compenso base e' determinato in relazione alla classe demografica ed alle spese di funzionamento e di investimento dell'ente locale;
+Visto il comma l dell'[articolo 107 del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), il quale prevede che con decreto del Ministro dell'interno di concerto con il Ministro del tesoro vengono fissati i limiti massimi del compenso base spettante ai componenti degli organi di revisione economicofinanziaria degli enti locali e che il compenso base e' determinato in relazione alla classe demografica ed alle spese di funzionamento e di investimento dell'ente locale;
 
 Visto l'articolo 110 del citato [decreto legislativo n. 77 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995;77), il quale, ai fini dell'applicazione delle disposizioni contenute nel decreto legislativo, determina le classi demografiche relative ai comuni ed i criteri di computo della popolazione residente;
 

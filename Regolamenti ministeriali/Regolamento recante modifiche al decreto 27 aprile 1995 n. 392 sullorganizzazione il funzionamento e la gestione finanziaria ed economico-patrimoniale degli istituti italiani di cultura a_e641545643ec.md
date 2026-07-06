@@ -145,7 +145,7 @@ Avvertenza:
  Principi generali 
  
  Art. 1 (Applicabilita' del presente regolamento). - 1.
- Il presente regolamento si applica agli istituti italiani di cultura all'estero ed alle loro sezioni, costituiti ai sensi dell'[art. 12 del regio decreto 12 febbraio 1940, n. 740](../Regi%20decreti/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md), e dell'[art. 7 della legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401#art_7). 
+ Il presente regolamento si applica agli istituti italiani di cultura all'estero ed alle loro sezioni, costituiti ai sensi dell'[art. 12 del regio decreto 12 febbraio 1940, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md), e dell'[art. 7 della legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401#art_7). 
  2. Nel presente regolamento per istituti e per sezioni, anche al singolare, si intendono gli istituti e le loro sezioni di cui al precedente comma. 
  Art. 2 (Denominazione degli istituti). - 1. Per esigenze particolari dei Paesi ospitanti, gli istituti possono assumere anche denominazioni diverse o un simbolo diverso da quello adottato dagli istituti con decreto del Ministro degli affari esteri, sentito il parere favorevole della rappresentanza diplomatica o dell'ufficio consolare competente. 
  Art. 3 (Ambito territoriale di operativita' degli istituti). - 1. Gli istituti operano per il raggiungimento delle finalita' previste dall'[art. 8 della legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401#art_8), nell'area geografica fissata con decreto del capo della rappresentanza diplomatica nel Paese in cui gli istituti hanno sede e negli altri Stati, individuati con il decreto di cui all'[art. 7, comma 1, della legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401#art_7-com1). 
@@ -228,7 +228,7 @@ Avvertenza:
  «Art. 52 (Certificati, legalizzazioni, vidimazioni). - 1. L'ufficio consolare: 
  a) rilascia certificati di esistenza in vita a cittadini; li rilascia anche a non cittadini per l'utilizzo in Italia; 
  b) rilascia o vidima certificati di origine delle merci ed ogni altro certificato o documento previsto dalle leggi italiane o dalle convenzioni internazionali; 
- c) conferma le patenti di guida ai sensi e per gli effetti dell'[art. 126, comma 5-bis, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md); 
+ c) conferma le patenti di guida ai sensi e per gli effetti dell'[art. 126, comma 5-bis, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md); 
  d) comunica il numero di codice fiscale attribuito dalla competente Agenzia delle entrate; 
  e) rilascia copia autentica degli atti da esso ricevuti o presso di esso depositati; 
  f) legalizza gli atti rilasciati dalle autorita' locali, secondo quanto previsto dall'[art. 33, comma 2, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), avvalendosi di ogni mezzo utile di accertamento; 

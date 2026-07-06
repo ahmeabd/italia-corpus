@@ -12,9 +12,9 @@ IL MINISTRO DEI TRASPORTI
 
 E DELLA NAVIGAZIONE
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)" come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), ed in particolare l'art. 71 che prevede che con decreto del Ministro dei trasporti e della navigazione siano emanate le prescrizioni tecniche afferenti alle caratteristiche costruttive e di equipaggiamento dei veicoli a motore e dei loro rimorchi e l'art. 232 che attribuisce a detti decreti natura regolamentare;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)" come modificato dal [decreto legislativo 10 settembre 1993, n. 360](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20codice%20della%20strada%20approvato%20con%20decreto%20legislativo%2030%20aprile%201992%20n.%20285.md), ed in particolare l'art. 71 che prevede che con decreto del Ministro dei trasporti e della navigazione siano emanate le prescrizioni tecniche afferenti alle caratteristiche costruttive e di equipaggiamento dei veicoli a motore e dei loro rimorchi e l'art. 232 che attribuisce a detti decreti natura regolamentare;
 
-Visto l'[art. 227 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)" che individua nell'appendice V al titolo III le caratteristiche costruttive e funzionali oggetto di decreti del Ministro dei trasporti ed in particolare il punto "D", lettera g), dell'appendice citata: "Protezione contro lo spostamento del carico";
+Visto l'[art. 227 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)" che individua nell'appendice V al titolo III le caratteristiche costruttive e funzionali oggetto di decreti del Ministro dei trasporti ed in particolare il punto "D", lettera g), dell'appendice citata: "Protezione contro lo spostamento del carico";
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 maggio 1995;
 
@@ -26,7 +26,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Gli autoveicoli di cui all'art. 54, comma 1, lettera d), del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) emanato con [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), debbono essere muniti di una cabina di guida separata dal vano destinato alla merce.
+Gli autoveicoli di cui all'art. 54, comma 1, lettera d), del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) emanato con [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), debbono essere muniti di una cabina di guida separata dal vano destinato alla merce.
 
 2.
 

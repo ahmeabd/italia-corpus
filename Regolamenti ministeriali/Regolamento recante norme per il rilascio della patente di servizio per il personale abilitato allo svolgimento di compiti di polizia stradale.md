@@ -14,7 +14,7 @@ di concerto con
 
 IL MINISTRO DELL'INTERNO
 
-Visto l'[articolo 139 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, concernente la patente di servizio per il personale abilitato allo svolgimento di compiti di polizia stradale;
+Visto l'[articolo 139 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni, concernente la patente di servizio per il personale abilitato allo svolgimento di compiti di polizia stradale;
 
 Visto il comma 2 del citato articolo 139 che affida al Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'interno il compito di stabilire requisiti e modalita' per il rilascio della patente di servizio;
 
@@ -30,11 +30,11 @@ Adotta il seguente regolamento:
 
 1.
 
-Ai soggetti elencati nell'[articolo 12, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, abilitati a svolgere compiti di polizia stradale e riconosciuti idonei ai sensi degli articoli 3 e 4 del presente decreto, e' rilasciata una patente di servizio, conforme al modello di cui all'allegato A, per la guida di veicoli adibiti ai servizi di polizia stradale o di veicoli nella disponibilita' dell'Amministrazione utilizzati per l'espletamento di compiti istituzionali dell'ente di appartenenza.
+Ai soggetti elencati nell'[articolo 12, commi 1](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni, abilitati a svolgere compiti di polizia stradale e riconosciuti idonei ai sensi degli articoli 3 e 4 del presente decreto, e' rilasciata una patente di servizio, conforme al modello di cui all'allegato A, per la guida di veicoli adibiti ai servizi di polizia stradale o di veicoli nella disponibilita' dell'Amministrazione utilizzati per l'espletamento di compiti istituzionali dell'ente di appartenenza.
 
 2.
 
-La patente rilasciata ai sensi dell'[articolo 138 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' equiparata a quella prevista dal comma 1.
+La patente rilasciata ai sensi dell'[articolo 138 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e' equiparata a quella prevista dal comma 1.
 
 3.
 
@@ -47,7 +47,7 @@ La patente di servizio e' rilasciata dal Prefetto, nell'ambito del territorio di
 
 4.
 
-La patente di servizio autorizza a condurre gli stessi veicoli per i quali il conducente e' abilitato a guidare con la patente conseguita ai sensi degli [articoli 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [138 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+La patente di servizio autorizza a condurre gli stessi veicoli per i quali il conducente e' abilitato a guidare con la patente conseguita ai sensi degli [articoli 116](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [138 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
  A tal fine, nell'ambito della patente di servizio sono individuati i seguenti tipi di abilitazione:
  abilitazione 1 consente la guida di motoveicoli e ciclomotori;
  abilitazione 2 consente la guida di autoveicoli e ciclomotori.
@@ -56,14 +56,14 @@ Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali, della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  Note alle premesse:
- - Il testo dell'[art. 139 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)) pubblicato nella Gazzetta Ufficiale del 18 maggio 1992, n. 114, supplemento ordinario n. 74 e' il seguente:
+ - Il testo dell'[art. 139 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni (Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)) pubblicato nella Gazzetta Ufficiale del 18 maggio 1992, n. 114, supplemento ordinario n. 74 e' il seguente:
  «Art. 139 (Patente di servizio per il personale che esplica servizio di polizia stradale). - 1. Ai soggetti gia' in possesso di patente di guida e abilitati allo svolgimento di compiti di polizia stradale indicati dai commi 1 e 3, lettera a), dell'art. 12 e' rilasciata apposita patente di servizio la cui validita' e' limitata alla guida di veicoli adibiti all'espletamento di compiti istituzionali dell'amministrazione di appartenenza.
  2. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, sono stabiliti i requisiti e le modalita' per il rilascio della patente di cui al comma 1.».
  - Il [comma 3, dell'art. 17, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) pubblicato nella Gazzetta Ufficiale del 12 settembre 1988, n. 214, supplemento ordinario e' il seguente:
  «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».
  Note all'art. 1:
- - Il testo dell'art. 12, commi 1 e 3, lettera a) del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 12, commi 1 e 3, lettera a) del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  «1. L'espletamento dei servizi di polizia stradale previsti dal presente codice spetta:
  a) in via principale alla specialita' Polizia Stradale della Polizia di Stato;
  b) alla Polizia di Stato;
@@ -75,7 +75,7 @@ Avvertenza:
  f-bis) al Corpo di polizia penitenziaria e al Corpo forestale dello Stato, in relazione ai compiti di istituto.».
  «3. La prevenzione e l'accertamento delle violazioni in materia di circolazione stradale e la tutela e il controllo sull'uso delle strade possono, inoltre, essere effettuati, previo superamento di un esame di qualificazione secondo quanto stabilito dal regolamento di esecuzione:
  a) dal personale dell'Ispettorato generale per la circolazione e la sicurezza stradale, dell'Amministrazione centrale e periferica del Ministero delle infrastrutture e dei trasporti, del Dipartimento per i trasporti terrestri appartenente al Ministero delle infrastrutture e dei trasporti e dal personale dell'A.N.A.S.;».
- - Il testo dell'art. 138 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni e' il seguente:
+ - Il testo dell'art. 138 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni e' il seguente:
  «Art. 138 (Veicoli e conducenti delle Forze armate). - 1. Le Forze armate provvedono direttamente nei riguardi dei veicoli di loro dotazione agli accertamenti tecnici, all'immatricolazione militare, al rilascio dei documenti di circolazione e delle targhe di riconoscimento.
  2. I veicoli delle Forze armate, qualora eccedono i limiti di cui agli articoli 61 e 62, devono essere muniti, per circolare sulle strade non militari, di una autorizzazione speciale che viene rilasciata dal comando militare sentiti gli enti competenti, conformemente a quanto previsto dall'art. 10, comma 6. All'eventuale scorta provvede il predetto comando competente.
  3. Le Forze armate provvedono direttamente nei riguardi del personale in servizio:
@@ -91,7 +91,7 @@ Avvertenza:
  11. Le disposizioni del presente articolo si applicano anche ai veicoli e ai conducenti della Polizia di Stato, della Guardia di finanza, del Corpo di Polizia penitenziaria, del Corpo nazionale dei vigili del fuoco, dei Corpi dei vigili del fuoco delle province autonome di Trento e Bolzano, della Croce rossa italiana, del Corpo forestale dello Stato, dei Corpi forestali operanti nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano e della Protezione civile nazionale, della regione Valle d'Aosta e delle province autonome di Trento e di Bolzano.
  12. Chiunque munito di patente militare, ovvero munito di patente rilasciata ai sensi del comma 11, guida un veicolo immatricolato con targa civile e' soggetto alle sanzioni previste dall'art. 125, comma 3. La patente di guida e' sospesa dall'autorita' che l'ha rilasciata, secondo le procedure e la disciplina proprie dell'amministrazione di appartenenza.
  12-bis. I soggetti muniti di patente militare o di servizio rilasciata ai sensi dell'art. 139 possono guidare veicoli delle corrispondenti categorie immatricolati con targa civile purche' i veicoli stessi siano adibiti ai servizi istituzionali dell'amministrazione dello Stato.».
- - Il testo dell'art. 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  «Art. 116 (Patente, certificato di abilitazione professionale per la guida di motoveicoli e autoveicoli e certificato di idoneita' alla guida di ciclomotori). - 1.
  Non si possono guidare autoveicoli e motoveicoli senza aver conseguito la patente di guida rilasciata dal competente ufficio del Dipartimento per i trasporti terrestri.
  1-bis. Per guidare un ciclomotore il minore di eta' che abbia compiuto 14 anni deve conseguire il certificato di idoneita' alla guida, rilasciato dal competente ufficio del Dipartimento per i trasporti terrestri, a seguito di specifico corso con prova finale, organizzato secondo le modalita' di cui al comma 11-bis.
@@ -127,24 +127,24 @@ Avvertenza:
 
 1.
 
-La patente di servizio puo' essere rilasciata ai soggetti che sono gia' in possesso della patente di guida di cui all'[articolo 116, comma 3, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni ed ha la medesima validita' della patente di guida posseduta.
+La patente di servizio puo' essere rilasciata ai soggetti che sono gia' in possesso della patente di guida di cui all'[articolo 116, comma 3, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni ed ha la medesima validita' della patente di guida posseduta.
 
 2.
 
-Per ottenere il rilascio della patente di servizio, i soggetti di cui all'[articolo 12, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), devono essere in attivita' di servizio presso l'Amministrazione di appartenenza e devono frequentare un corso di qualificazione con esame finale secondo i programmi e le modalita' di cui all'articolo 9 del presente decreto.
+Per ottenere il rilascio della patente di servizio, i soggetti di cui all'[articolo 12, commi 1](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [3, lettera a), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), devono essere in attivita' di servizio presso l'Amministrazione di appartenenza e devono frequentare un corso di qualificazione con esame finale secondo i programmi e le modalita' di cui all'articolo 9 del presente decreto.
 
 Nota all'art. 2:
- - Per il testo degli articoli 12, commi 1 e 3 e 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
+ - Per il testo degli articoli 12, commi 1 e 3 e 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
 
 ## Art. 3. — Rilascio della patente di servizio per il personale di polizia locale
 
 1.
 
-Al personale indicato all'[articolo 12, comma 1, lettere d-bis)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) ed [e), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), la patente di servizio e' rilasciata dal prefetto della provincia in cui il personale presta servizio, su richiesta del responsabile del corpo o servizio di polizia locale da cui dipende.
+Al personale indicato all'[articolo 12, comma 1, lettere d-bis)](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) ed [e), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), la patente di servizio e' rilasciata dal prefetto della provincia in cui il personale presta servizio, su richiesta del responsabile del corpo o servizio di polizia locale da cui dipende.
 
 2.
 
-I comuni e le province, attraverso l'ufficio o comando da cui dipende il personale di polizia locale, d'intesa con l'ufficio competente della prefettura-UTG, provvedono all'istruttoria ed alla compilazione della patente di servizio, e conservano agli atti copia autenticata della patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), i verbali delle prove di idoneita', la dichiarazione di appartenenza al corpo o servizio di polizia locale interessato. Il Prefetto puo' richiedere in ogni momento gli atti ed i documenti conservati dai Comandi o dagli uffici di polizia locale.
+I comuni e le province, attraverso l'ufficio o comando da cui dipende il personale di polizia locale, d'intesa con l'ufficio competente della prefettura-UTG, provvedono all'istruttoria ed alla compilazione della patente di servizio, e conservano agli atti copia autenticata della patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), i verbali delle prove di idoneita', la dichiarazione di appartenenza al corpo o servizio di polizia locale interessato. Il Prefetto puo' richiedere in ogni momento gli atti ed i documenti conservati dai Comandi o dagli uffici di polizia locale.
 
 3.
 
@@ -157,18 +157,18 @@ La patente di servizio e' rilasciata solo al personale in possesso di tutte le q
 
 5.
 
-La patente di servizio si intende rinnovata ad ogni conferma di validita' della patente di guida ai sensi dell'[articolo 126 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+La patente di servizio si intende rinnovata ad ogni conferma di validita' della patente di guida ai sensi dell'[articolo 126 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 6.
 
-La patente di servizio e' aggiornata, in caso di variazione di categoria della patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md); in tal caso non e' richiesta la frequenza del corso ed il relativo esame di cui all'articolo 2 del presente decreto.
+La patente di servizio e' aggiornata, in caso di variazione di categoria della patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md); in tal caso non e' richiesta la frequenza del corso ed il relativo esame di cui all'articolo 2 del presente decreto.
 
 7.
 
 I comuni e le province informano il Prefetto dell'avvenuto rinnovo e aggiornamento della patente di servizio rilasciata ai propri dipendenti.
 
 Note all'art. 3:
- - Per il testo dell'art. 12, comma 1, lettera d-bis) ed e) e 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
+ - Per il testo dell'art. 12, comma 1, lettera d-bis) ed e) e 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
  - Il testo dell'[art. 5 della legge 7 marzo 1986, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-07;65#art_5) (Legge quadro sull'ordinamento della polizia municipale) pubblicata nella Gazzetta Ufficiale del 15 marzo 1986, n. 62 e' il seguente:
  «Art. 5 (Funzioni di polizia giudiziaria, di polizia stradale, di pubblica sicurezza). - 1. Il personale che svolge servizio di polizia municipale, nell'ambito territoriale dell'ente di appartenenza e nei limiti delle proprie attribuzioni, esercita anche:
  a) funzioni di polizia giudiziaria, rivestendo a tal fine la qualita' di agente di polizia giudiziaria, riferita agli operatori, o di ufficiale di polizia giudiziaria, riferita ai responsabili del servizio o del Corpo e agli addetti al coordinamento e al controllo, ai sensi dell'[art. 221, terzo comma, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_221-com3);
@@ -183,7 +183,7 @@ Note all'art. 3:
  5. Gli addetti al servizio di polizia municipale ai quali e' conferita la qualita' di agente di pubblica sicurezza possono, previa deliberazione in tal senso del consiglio comunale, portare, senza licenza, le armi, di cui possono essere dotati in relazione al tipo di servizio nei termini e nelle modalita' previsti dai rispettivi regolamenti, anche fuori dal servizio, purche' nell'ambito territoriale dell'ente di appartenenza e nei casi di cui all'art. 4.
  Tali modalita' e casi sono stabiliti, in via generale, con apposito regolamento approvato con decreto del Ministro dell'interno, sentita l'Associazione nazionale dei comuni d'Italia.
  Detto regolamento stabilisce anche la tipologia, il numero delle armi in dotazione e l'accesso ai poligoni di tiro per l'addestramento al loro uso.».
- - Il testo dell'art. 126 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo dell'art. 126 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
  «Art. 126 (Durata e conferma della validita' della patente di guida). - 1. Le patenti di guida delle categorie A e B sono valide per anni dieci; qualora siano rilasciate o confermate a chi ha superato il cinquantesimo anno di eta' sono valide per cinque anni e a chi ha superato il settantesimo anno di eta' sono valide per tre anni.
  2. La patente speciale di guida delle categorie A e B rilasciata a mutilati e minorati fisici e quella della categoria C sono valide per cinque anni e per tre anni a partire dal settantesimo anno di eta'. La patente della categoria D e' valida per cinque anni.
  3. Il Ministro delle infrastrutture e dei trasporti, con propri decreti, puo' stabilire termini di validita' piu' ridotti per determinate categorie di patenti anche in relazione all'uso cui sono destinati i veicoli condotti, all'eta' dei conducenti o ai loro requisiti fisici e psichici, determinando altresi' in quali casi debba addivenirsi alla sostituzione della patente.
@@ -198,7 +198,7 @@ Note all'art. 3:
 
 1.
 
-Al personale di cui all'[articolo 12, comma 3, lettera a) del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), la patente di servizio e' rilasciata dal competente ufficio del Ministero delle infrastrutture e dei trasporti con i criteri e le modalita' stabiliti con il decreto di cui all'articolo 1, comma 3.
+Al personale di cui all'[articolo 12, comma 3, lettera a) del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), la patente di servizio e' rilasciata dal competente ufficio del Ministero delle infrastrutture e dei trasporti con i criteri e le modalita' stabiliti con il decreto di cui all'articolo 1, comma 3.
 
 2.
 
@@ -213,31 +213,31 @@ La prova d'esame per il conseguimento della patente di guida puo' essere svolta,
 Si applicano i commi 5 e 6 dell'articolo 3.
 
 Nota all'art. 4:
- - Per il testo dell'art. 12, comma 3, lettera a) del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
+ - Per il testo dell'art. 12, comma 3, lettera a) del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
 
 ## Art. 5. — Rilascio della patente di servizio per il restante personale abilitato ai sensi dell'articolo 12, comma 1, del decreto legislativo 30 aprile 1992, n. 285.
 
 1.
 
-I titolari di patente rilasciata ai sensi dell'[articolo 138 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), sono autorizzati dall'Amministrazione di appartenenza, secondo i regolamenti interni, alla guida dei veicoli in servizio di polizia stradale o comunque dei veicoli nella disponibilita' dell'Amministrazione.
+I titolari di patente rilasciata ai sensi dell'[articolo 138 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), sono autorizzati dall'Amministrazione di appartenenza, secondo i regolamenti interni, alla guida dei veicoli in servizio di polizia stradale o comunque dei veicoli nella disponibilita' dell'Amministrazione.
 
 Nota all'art. 5:
- - Per il testo dell'art. 138 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
+ - Per il testo dell'art. 138 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
 
 ## Art. 6. — Variazioni della patente di guida
 
 1.
 
-All'atto del rilascio della patente di servizio, l'interessato si obbliga ad osservare le modalita' e le condizioni stabilite dai regolamenti e dalle disposizioni dell'Ente o dell'Amministrazione di appartenenza per la guida dei veicoli, nonche' a comunicare ogni variazione di validita' e di conferma della patente di guida rilasciata ai sensi dell'[articolo 116](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) o dell'[articolo 138 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), all'amministrazione, al corpo o al servizio di appartenenza entro dieci giorni dalla sua effettiva conoscenza.
+All'atto del rilascio della patente di servizio, l'interessato si obbliga ad osservare le modalita' e le condizioni stabilite dai regolamenti e dalle disposizioni dell'Ente o dell'Amministrazione di appartenenza per la guida dei veicoli, nonche' a comunicare ogni variazione di validita' e di conferma della patente di guida rilasciata ai sensi dell'[articolo 116](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) o dell'[articolo 138 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), all'amministrazione, al corpo o al servizio di appartenenza entro dieci giorni dalla sua effettiva conoscenza.
 
 Nota all'art. 6:
- - Per il testo degli articoli 116 e 138 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
+ - Per il testo degli articoli 116 e 138 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
 
 ## Art. 7. — Validita' della patente di servizio
 
 1.
 
-Nel caso di sospensione o revoca della patente di guida di cui all'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), d'ufficio o su segnalazione del corpo o servizio di appartenenza dell'interessato, la patente di servizio e' sospesa o revocata dal Prefetto per i soggetti indicati all'[articolo 12, comma 1, lettere d-bis)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) ed [e) del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), o dall'autorita' che l'ha rilasciata, per gli altri soggetti indicati dall'[articolo 12, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [3, lettera a) del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Nel caso di sospensione o revoca della patente di guida di cui all'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), d'ufficio o su segnalazione del corpo o servizio di appartenenza dell'interessato, la patente di servizio e' sospesa o revocata dal Prefetto per i soggetti indicati all'[articolo 12, comma 1, lettere d-bis)](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) ed [e) del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), o dall'autorita' che l'ha rilasciata, per gli altri soggetti indicati dall'[articolo 12, commi 1](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [3, lettera a) del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -245,14 +245,14 @@ La patente di servizio puo' essere altresi' sospesa fino ad un massimo di un ann
 
 3.
 
-La patente di servizio e' altresi' ritirata, sospesa o revocata in tutti i casi di violazioni del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), commesse alla guida di veicoli di servizio, che comportino l'applicazione di tali tipologie di provvedimenti a carico del trasgressore. In tali casi detti provvedimenti non si applicano alla patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+La patente di servizio e' altresi' ritirata, sospesa o revocata in tutti i casi di violazioni del [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), commesse alla guida di veicoli di servizio, che comportino l'applicazione di tali tipologie di provvedimenti a carico del trasgressore. In tali casi detti provvedimenti non si applicano alla patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 4.
 
-Le disposizioni dell'[articolo 126-bis del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), non si applicano alla patente di servizio. In questi casi, quando le violazioni ivi previste sono commesse alla guida di veicoli di servizio, le disposizioni relative alla patente a punti non si applicano neanche alla patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Le disposizioni dell'[articolo 126-bis del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), non si applicano alla patente di servizio. In questi casi, quando le violazioni ivi previste sono commesse alla guida di veicoli di servizio, le disposizioni relative alla patente a punti non si applicano neanche alla patente di guida rilasciata ai sensi dell'[articolo 116 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 7:
- - Per il testo dell'art. 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
+ - Per il testo dell'art. 116 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), vedi note all'art. 1.
  - Per il testo dell'art. 12, commi 1 e 3, lettera a) del medesimo decreto legislativo, vedi note all'art. 1.
  - Il testo dell'art. 126-bis dello stesso decreto legislativo e' il seguente:
  «Art. 126-bis (Patente a punti). - 1. All'atto del rilascio della patente viene attribuito un punteggio di venti punti. Tale punteggio, annotato nell'anagrafe nazionale degli abilitati alla guida di cui agli articoli 225 e 226, subisce decurtazioni, nella misura indicata nella tabella allegata, a seguito della comunicazione all'anagrafe di cui sopra della violazione di una delle norme per le quali e' prevista la sanzione amministrativa accessoria della sospensione della patente ovvero di una tra le norme di comportamento di cui al titolo V, indicate nella tabella medesima. L'indicazione del punteggio relativo ad ogni violazione deve risultare dal verbale di contestazione.
@@ -477,7 +477,7 @@ L'Anagrafe e' popolata e aggiornata con comunicazioni effettuate per via telemat
 
 1.
 
-I programmi di insegnamento e di addestramento e le modalita' di esame per il conseguimento della patente di servizio indicata dall'[articolo 139 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), sono riportati nelle tabelle di cui agli allegati B e C.
+I programmi di insegnamento e di addestramento e le modalita' di esame per il conseguimento della patente di servizio indicata dall'[articolo 139 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), sono riportati nelle tabelle di cui agli allegati B e C.
 
 2.
 
@@ -485,10 +485,10 @@ Essi sono formulati con riguardo alla guida di motoveicoli e di autoveicoli di s
 
 3.
 
-Le prove di esame per il conferimento della patente di servizio sono pubbliche e si articolano in una prova teorica consistente in un accertamento delle cognizioni relative alle materie di programma previste per il conseguimento della corrispondente patente di guida ai sensi dell'[articolo 121 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), integrato da un colloquio sulle specifiche materie di insegnamento teorico di cui al comma 1, ed in una prova pratica consistente nelle verifiche di abilita' di cui alla tabella B allegata al presente decreto.
+Le prove di esame per il conferimento della patente di servizio sono pubbliche e si articolano in una prova teorica consistente in un accertamento delle cognizioni relative alle materie di programma previste per il conseguimento della corrispondente patente di guida ai sensi dell'[articolo 121 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), integrato da un colloquio sulle specifiche materie di insegnamento teorico di cui al comma 1, ed in una prova pratica consistente nelle verifiche di abilita' di cui alla tabella B allegata al presente decreto.
 
 Note all'art. 9:
- - Per il testo dell'art. 139 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedi note alle premesse.
+ - Per il testo dell'art. 139 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), vedi note alle premesse.
  - Il testo dell'art. 121 del medesimo decreto legislativo e' il seguente:
  «Art. 121 (Esame di idoneita). - 1. L'idoneita' tecnica necessaria per il rilascio della patente di guida si consegue superando una prova di verifica delle capacita' e dei comportamenti ed una prova di controllo delle cognizioni.
  2. Gli esami di cui al comma 1 sono effettuati secondo direttive, modalita' e programmi stabiliti con decreto del Ministro delle infrastrutture e dei trasporti sulla base delle direttive della Comunita' europea e con il ricorso a sussidi audiovisivi, questionari d'esame e quant'altro necessario per una uniforme formulazione del giudizio.

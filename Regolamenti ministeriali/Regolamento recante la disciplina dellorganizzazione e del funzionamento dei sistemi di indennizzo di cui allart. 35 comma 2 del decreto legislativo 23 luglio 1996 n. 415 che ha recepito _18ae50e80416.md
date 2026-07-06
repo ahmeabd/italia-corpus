@@ -172,7 +172,7 @@ Il sistema di indennizzo puo' inoltre prevedere il rimborso dei crediti indicati
 
 Sono esclusi dal rimborso del sistema di indennizzo i crediti vantati dalle seguenti categorie di soggetti:
                         a)
-                            investitori nei confronti dei quali sia intervenuta condanna per i reati previsti dagli [articoli 648-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                            investitori nei confronti dei quali sia intervenuta condanna per i reati previsti dagli [articoli 648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         b)
                             investitori che abbiano concorso a determinare l'insolvenza dell'intermediario, come accertato dagli organi della procedura concorsuale;
                         c)
@@ -193,7 +193,7 @@ Sono esclusi dal rimborso del sistema di indennizzo i crediti vantati dalle segu
 Sono escluse da qualsiasi indennizzo le operazioni effettuate per interposta persona dai soggetti di cui alle lettere f) e g) del precedente comma 3.
 
 Nata all'art. 4:
- - I testi degli [articoli 648-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono di seguito riportati:
+ - I testi degli [articoli 648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono di seguito riportati:
  "Art. 648-bis (Riciclaggio). - Fuori dei casi di concorso nel reato, chiunque sostituisce o trasferisce denaro, beni o altre utilita' provenienti da delitto non colposo, ovvero compie in relazione ad essi altre operazioni, in modo da ostacolare l'identificazione della loro provenienza delittuosa, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
  La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' professionale.
  La pena e' diminuita se il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione inferiore nel massimo a cinque anni.
@@ -234,7 +234,7 @@ Nota all'art. 5:
  a) i depositi e gli altri fondi rimborsabili al portatore;
  b) le obbligazioni e i crediti derivanti da accettazioni, paghero' cambiari ed operazioni in titoli;
  c) il capitale sociale, le riserve e gli altri elementi patrimoniali della banca;
- d) i depositi derivanti da transazioni in relazione alle quali sia intervenuta una condanna per i reati previsti negli [articoli 648-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ d) i depositi derivanti da transazioni in relazione alle quali sia intervenuta una condanna per i reati previsti negli [articoli 648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  e) i depositi delle amministrazioni dello Stato, degli enti regionali, provinciali, comunali e degli altri enti pubblici territoriali;
  f) i depositi effettuati da banche in nome e per conto proprio, nonche' i crediti delle stesse;
  g) i depositi delle societa' finanziarie indicate nell'art. 59, comma 1, lettera b), delle compagnie di assicurazione; degli organismi di investimento collettivo del risparmio; di altre societa' dello stesso gruppo bancario;

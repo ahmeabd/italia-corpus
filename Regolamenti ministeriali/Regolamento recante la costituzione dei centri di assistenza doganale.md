@@ -16,7 +16,7 @@ Visto il testo unico delle disposizioni legislative in materia doganale, approva
 
 Vista la [legge 22 dicembre 1960, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-22;1612);
 
-Visto il [decreto legislativo 8 novembre 1990, n. 374](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
+Visto il [decreto legislativo 8 novembre 1990, n. 374](../Decreti%20Legislativi/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
 
 Ritenuta la necessita' di dettare le occorrenti disposizioni di attuazione del comma 1-septies, nonche' quelle di cui al comma 1-octies;
 
@@ -121,7 +121,7 @@ La rappresentanza legale puo' essere concessa esclusivamente ad uno o piu' soci 
 
 Note all'art. 3:
  - Il regolamento CEE n. 2137/85, del Consiglio pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L/199 del 31 luglio 1985, reca: "Istituzione di un gruppo europeo di interesse economico (GEIE)".
- Il [D.Lgs. n. 240/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;240) reca: "Norme per l'applicazione del regolamento n. 85/2137/CEE relativa all'istituzione di un Gruppo europeo di interesse economico (GEIE), ai sensi dell'[art. 17 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md)".
+ Il [D.Lgs. n. 240/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;240) reca: "Norme per l'applicazione del regolamento n. 85/2137/CEE relativa all'istituzione di un Gruppo europeo di interesse economico (GEIE), ai sensi dell'[art. 17 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md)".
  - Per l'art. 47 del testo unico delle disposizioni leg- islative in materia doganale, approvato con [D.P.R. n. 43/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43), si veda in nota all'art. 12.
 
 ## Art. 4.
@@ -158,7 +158,7 @@ Gli operatori possono presentare ai centri di assistenza doganale le dichiarazio
 
 2.
 
-Le dichiarazioni doganali ricevute o emesse, asseverate dal centro di assistenza doganale, vengono presentate, corredate dalla relativa documentazione, alla dogana competente, che le accetta e ne dispone la visita totale o parziale secondo i programmi ed i criteri selettivi per la visita totale o parziale delle merci stabiliti con decreto del Ministro delle finanze, ai sensi dell' [art. 8, comma 5, del decreto legislativo 8 novembre 1990, n. 374](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md).
+Le dichiarazioni doganali ricevute o emesse, asseverate dal centro di assistenza doganale, vengono presentate, corredate dalla relativa documentazione, alla dogana competente, che le accetta e ne dispone la visita totale o parziale secondo i programmi ed i criteri selettivi per la visita totale o parziale delle merci stabiliti con decreto del Ministro delle finanze, ai sensi dell' [art. 8, comma 5, del decreto legislativo 8 novembre 1990, n. 374](../Decreti%20Legislativi/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md).
 
 3.
 
@@ -349,7 +349,7 @@ Note all'art. 12:
  - E' sempre disposta la revoca della nomina dello spedizioniere doganale nei casi di:
  a) radiazione dell'albo professionale;
  b) perdita di uno dei requisiti richiesti dall'art. 48, lettere a) e d);
- c) condanna, in seguito a sentenza passata in giudicato, per uno dei delitti non colposi previsti dai titoli secondo, settimo e tredicesimo del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ c) condanna, in seguito a sentenza passata in giudicato, per uno dei delitti non colposi previsti dai titoli secondo, settimo e tredicesimo del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  d) condanna, in seguito a sentenza passata in giudicato, per ogni altro delitto non colposo per il quale la legge commini la pena della reclusione non inferiore nel minimo a tre anni o nel massimo di dieci anni.
  Nei casi di cui alle lettere c) e d) la revoca e' disposta soltanto qualora venga pronunciata condanna alla pena della reclusione, ancorche' congiunta con la pena della multa, per un tempo superiore ad un anno. In caso diverso cessa la sospensione eventualmente inflitta ai sensi dell'articolo precedente, salvo che non sussistano altri motivi che ne giustificano il mantenimento.
  Il provvedimento di revoca e' adottato con decreto del Ministro per le finanze, sentito il consiglio nazionale degli spedizionieri doganali".

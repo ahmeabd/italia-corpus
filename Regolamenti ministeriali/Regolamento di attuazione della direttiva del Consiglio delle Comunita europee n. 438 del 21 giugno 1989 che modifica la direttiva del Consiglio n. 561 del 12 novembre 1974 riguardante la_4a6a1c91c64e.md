@@ -34,7 +34,7 @@ Vista le [direttiva CEE n. 438/1989 del 21 giugno 1989](https://www.normattiva.i
 
 Vista la [legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183), ed in particolare l'art. 20 nel quale e' previsto che con decreti dei Ministri interessati venga data attuazione alle direttive comunitarie per le parti in cui modifichino modalita' esecutive e caratteristiche di ordine tecnico di altre direttive delle Comunita' economiche europee gia' recepite nell'ordinamento nazionale;
 
-Vista la [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), ed in particolare l'art. 5, comma 1, in cui viene data conferma del sopracitato disposto dell'[art. 20 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_20);
+Vista la [legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), ed in particolare l'art. 5, comma 1, in cui viene data conferma del sopracitato disposto dell'[art. 20 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_20);
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in particolare l'art. 17, commi 3 e 4;
 
@@ -102,7 +102,7 @@ Nota al titolo:
  4) aver stipulato contratto di assicurazione per la responsabilita' civile dipendente dall'uso degli autoveicoli e per i danni alle cose da trasportare, con i massimali prescritti nel regolamento di esecuzione, che comunque non possono essere inferiori a quelli previsti in altre disposizioni legislative in vigore;
  5) aver ottemperato alle norme di legge in materie di previdenza ed assicurazioni sociali per i propri dipendenti;
  6) essere iscritto nei ruoli delle imprese sui redditi delle persone fisiche o giuridiche relativamente al reddito di impresa o avere presentato la dichiarazione relativamente a tale reddito;
- 7) non aver riportato condanne a pene che importino la interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 7) non aver riportato condanne a pene che importino la interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Per i titolari di imprese artigiane, l'incapacita' ad esercitare uffici direttivi non impedisce l'iscrizione nell'albo;
  8) non avere in corso procedura di fallimento, ne' essere stato soggetto a procedura fallimentare, salvo che sia intervenuta riabilitazione a norma degli [articoli 142 e seguenti del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_142).
  I requisiti e le condizioni di cui ai numeri 7) e 8) devono essere posseduti:

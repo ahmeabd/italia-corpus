@@ -12,9 +12,9 @@ IL MINISTRO DELLE INFRASTRUTTURE
 
 E DEI TRASPORTI
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)», ed in particolare gli articoli 47, comma 1, lettera n), 59, 75, commi 2 e 3, 93, 100 e 116;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)», ed in particolare gli articoli 47, comma 1, lettera n), 59, 75, commi 2 e 3, 93, 100 e 116;
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)»;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)»;
 
 Vista la decisione n. 1/95 del Consiglio di associazione CE-Turchia del 22 dicembre 1995 relativa all'attuazione della fase finale dell'unione doganale;
 
@@ -24,7 +24,7 @@ Visto il decreto del Ministro delle infrastrutture e dei trasporti del 28 aprile
 
 Viste le conclusioni della Commissione di studio, di cui al decreto dirigenziale 8 luglio 2013 per la definizione delle caratteristiche dei veicoli atipici;
 
-Acquisito il parere favorevole del Ministro dell'interno, ai sensi dell'[articolo 59, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Acquisito il parere favorevole del Ministro dell'interno, ai sensi dell'[articolo 59, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 
 Vista la nota del 17 ottobre 2014, con cui la Direzione generale per la motorizzazione ha espletato la procedura d'informazione in materia di norme e regolamentazioni tecniche prevista dalla [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), modificata dal [decreto legislativo 23 novembre 2000, n. 427](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md);
 
@@ -40,7 +40,7 @@ Adotta il seguente regolamento:
 
 1.
 
-La navetta turistica e' considerata un veicolo atipico, ai sensi dell'[articolo 59 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Si definisce «navetta turistica» il veicolo a motore elettrico isolato finalizzato esclusivamente al trasporto su strada, in aree di tipo turistico, di passeggeri seduti non superiori ad otto, escluso il conducente, per interessi turistico-ricreativi e attrezzati per tale utilizzo.
+La navetta turistica e' considerata un veicolo atipico, ai sensi dell'[articolo 59 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md). Si definisce «navetta turistica» il veicolo a motore elettrico isolato finalizzato esclusivamente al trasporto su strada, in aree di tipo turistico, di passeggeri seduti non superiori ad otto, escluso il conducente, per interessi turistico-ricreativi e attrezzati per tale utilizzo.
 
 2.
 
@@ -58,7 +58,7 @@ Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministraz
  
  Note alle premesse: 
  
- - Si riporta il testo degli articoli 47, comma 1, lettera n), 59, 75, commi 2 e 3, 93, 100 e 116 del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)): 
+ - Si riporta il testo degli articoli 47, comma 1, lettera n), 59, 75, commi 2 e 3, 93, 100 e 116 del [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)): 
  «Art. 47. (Classificazione dei veicoli). - 1. I veicoli si classificano, ai fini del presente codice, come segue:  (Omissis). 
  n) veicoli con caratteristiche atipiche. 
  (Omissis).». 
@@ -104,7 +104,7 @@ Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministraz
  11. Chiunque viola le disposizioni dei commi 1, 2, 3, 4 e 9, lettera b) e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 85 ad euro 338. 
  12. Chiunque circola con un veicolo munito di targa non propria o contraffatta e' punito con la sanzione amministrativa del pagamento di una somma da euro 2.004 ad euro 8.017. 
  13. Chiunque viola le disposizioni dei commi 5 e 10 e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 25 ad euro 100. 
- 14. Chiunque falsifica, manomette o altera targhe automobilistiche ovvero usa targhe manomesse, falsificate o alterate e' punito ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ 14. Chiunque falsifica, manomette o altera targhe automobilistiche ovvero usa targhe manomesse, falsificate o alterate e' punito ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  15. Dalle violazioni di cui ai commi precedenti deriva la sanzione amministrativa accessoria del ritiro della targa non rispondente ai requisiti indicati. Alle violazioni di cui ai commi 11 e 12 consegue la sanzione accessoria del fermo amministrativo del veicolo o, in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo. La durata del fermo amministrativo e' di tre mesi, salvo nei casi in cui tale sanzione accessoria e' applicata a seguito del ritiro della targa. Si osservano le norme di cui al capo I, sezione II, del titolo VI.». 
  «Art. 116. (Patente e abilitazioni professionali per la guida di veicoli a motore). - 1. Non si possono guidare ciclomotori, motocicli, tricicli, quadricicli e autoveicoli senza aver conseguito la patente di guida ed, ove richieste, le abilitazioni professionali. Tali documenti sono rilasciati dal competente ufficio del Dipartimento per i trasporti, la navigazione e i sistemi informativi e statistici a soggetti che hanno la residenza in Italia ai sensi dell'articolo 118-bis. 
  2. Per sostenere gli esami di idoneita' per la patente di guida occorre presentare apposita domanda al competente ufficio del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici ed essere in possesso dei requisiti fisici e psichici prescritti. Il Ministero delle infrastrutture e dei trasporti, con decreti dirigenziali, stabilisce il procedimento per il rilascio, l'aggiornamento e il duplicato, attraverso il proprio sistema informatico, delle patenti di guida e delle abilitazioni professionali, con l'obiettivo della massima semplificazione amministrativa, anche con il coinvolgimento dei medici di cui all'articolo 119, dei comuni, delle autoscuole di cui all'articolo 123 e dei soggetti di cui alla [legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264). 
@@ -151,11 +151,11 @@ Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministraz
  16. Fermo restando quando previsto da specifiche disposizioni, chiunque guida veicoli essendo munito della patente di guida ma non di altra abilitazione di cui ai commi 8, 10, 11 e 12, quando prescritta, e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 400 ad euro 1.600. 
  17. Alle violazioni di cui al comma 15 consegue la sanzione accessoria del fermo amministrativo del veicolo per un periodo di tre mesi, o in caso di recidiva delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo. Quando non e' possibile disporre il fermo amministrativo o la confisca del veicolo, si applica la sanzione accessoria della sospensione della patente di guida eventualmente posseduta per un periodo da tre a dodici mesi. Si osservano le norme di cui al capo II, sezione II, del titolo VI. 
  18.Le violazioni delle disposizioni di cui al comma 16 importano la sanzione accessoria del fermo amministrativo del veicolo per giorni sessanta, secondo le norme del capo I, sezione II, del titolo VI.». 
- - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: «Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).». 
+ - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: «Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).». 
  - La decisione n. 1/95 del Consiglio di associazione CE-Turchia del 22 dicembre 1995 reca: «Attuazione della fase finale dell'unione doganale.». 
  - Il [decreto del Ministro dei Trasporti e della navigazione 2 maggio 2001, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:2001-05-02;277), e successive modificazioni, adotta il regolamento recante: «Disposizioni concernenti le procedure di omologazione dei veicoli a motore, dei rimorchi, delle macchine agricole, delle macchine operatrici e dei loro sistemi, componenti ed entita' tecniche.». 
  - Il decreto del Ministro delle infrastrutture e dei trasporti del 28 aprile 2008, pubblicato sul supplemento ordinario alla Gazzetta Ufficiale n. 162 del 12 luglio 2008, reca: «Recepimento della [direttiva 2007/46/CE del Parlamento Europeo e del Consiglio del 5 settembre 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;46), e successive modificazioni, che istituisce un quadro per l'omologazione dei veicoli a motore e dei loro rimorchi, nonche' dei sistemi, componenti ed entita' tecniche destinati a tali veicoli.». 
- - Per il testo dell'[articolo 59, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[articolo 59, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse. 
  - La [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), reca: «Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione in attuazione della [direttiva 98/34/CE del Parlamento europeo e del Consiglio del 22 giugno 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;34), modificata dalla [direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;48).». 
  - Il [decreto legislativo 23 novembre 2000, n. 427](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md), reca: «Modifiche ed integrazioni alla [L. 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), concernenti la procedura di informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione, in attuazione delle [direttive 98/34/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;34) e [98/48/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;48).». 
  - Si riporta il testo dell'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri): 
@@ -166,7 +166,7 @@ Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministraz
  (Omissis).». 
  
  Note all'art. 1: 
- - Per il testo dell'[articolo 59 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
+ - Per il testo dell'[articolo 59 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
 
 ## Art. 2. — Campo di applicazione
 
@@ -178,10 +178,10 @@ Il presente decreto individua i requisiti richiesti per la circolazione e la gui
 
 1.
 
-Ai fini della circolazione su strada, la navetta turistica e' assimilata ai veicoli di categoria [M1, di cui all'articolo 47, comma 2, lettera b), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Ai fini della circolazione su strada, la navetta turistica e' assimilata ai veicoli di categoria [M1, di cui all'articolo 47, comma 2, lettera b), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 3: 
- - Si riporta il testo dell'articolo 47, comma 2, lettera b), del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
+ - Si riporta il testo dell'articolo 47, comma 2, lettera b), del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): 
  «Art. 47. (Classificazione dei veicoli). - (Omissis).  2.I veicoli a motore e i loro rimorchi, di cui al comma 1, lettere e), f), g), h), i) e n) sono altresi' classificati come segue in base alle categorie internazionali: 
  (Omissis). 
  b) categoria M: veicoli a motore destinati al trasporto di persone ed aventi almeno quattro ruote; 
@@ -205,7 +205,7 @@ Ad ogni veicolo costruito in serie definito «navetta turistica» si applica l'o
                         c)
                             ovvero nei regolamenti UNECE (United Nations Economic Commission for Europe - Commissione economica per l'Europa delle Nazioni Unite) e regolamenti UE ad esse equivalenti, e nelle eventuali prescrizioni tecniche alternative;
                         d)
-                            nell'[articolo 54, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+                            nell'[articolo 54, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -214,12 +214,12 @@ Le prescrizioni tecniche di cui al comma 1 si applicano anche in sede di accerta
 Note all'art. 4: 
  - Si riporta l'articolo 2, comma 2, lettere a) e c), del citato [decreto ministeriale 2 maggio 2001, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2001-05-02;277): 
  «Art. 2. (Definizioni). - (Omissis). 
- 2. Si definisce, «Omologazione» l'atto previsto dagli [articoli 75, comma 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [107](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [comma 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [114](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [comma 3 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), in base ai quali si certifica che un tipo di veicolo, componente ed entita' tecnica e' conforme alle prescrizioni tecniche emanate con il sopracitato codice o in attuazione dello stesso. Le omologazioni si distinguono in: 
+ 2. Si definisce, «Omologazione» l'atto previsto dagli [articoli 75, comma 3](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [107](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [comma 3](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [114](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [comma 3 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), in base ai quali si certifica che un tipo di veicolo, componente ed entita' tecnica e' conforme alle prescrizioni tecniche emanate con il sopracitato codice o in attuazione dello stesso. Le omologazioni si distinguono in: 
  a) nazionali; 
  (Omissis). 
  c) temporanee. 
  (Omissis).». 
- - Si riporta il testo dell'articolo 54, comma 1, del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
+ - Si riporta il testo dell'articolo 54, comma 1, del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): 
  «Art. 54. (Autoveicoli). - 1. Gli autoveicoli sono veicoli a motore con almeno quattro ruote, esclusi i motoveicoli, e si distinguono, in: 
  a) autovetture: veicoli destinati al trasporto di persone, aventi al massimo nove posti, compreso quello del conducente; 
  b) autobus: veicoli destinati al trasporto di persone equipaggiati con piu' di nove posti compreso quello del conducente; 
@@ -239,10 +239,10 @@ Note all'art. 4:
 
 1.
 
-La verifica periodica della navetta turistica viene effettuata secondo i tempi e le modalita' previsti dall'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+La verifica periodica della navetta turistica viene effettuata secondo i tempi e le modalita' previsti dall'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 5: 
- - Si riporta il testo dell'articolo 80 del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
+ - Si riporta il testo dell'articolo 80 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): 
  «Art. 80. (Revisioni). - 1. Il Ministro delle infrastrutture e dei trasporti stabilisce, con propri decreti, i criteri, i tempi e le modalita' per l'effettuazione della revisione generale o parziale delle categorie di veicoli a motore e dei loro rimorchi, al fine di accertare che sussistano in essi le condizioni di sicurezza per la circolazione e di silenziosita' e che i veicoli stessi non producano emanazioni inquinanti superiori ai limiti prescritti; le revisioni, salvo quanto stabilito nei commi 8 e seguenti, sono effettuate a cura degli uffici competenti del Dipartimento per i trasporti terrestri. Nel regolamento sono stabiliti gli elementi su cui deve essere effettuato il controllo tecnico dei dispositivi che costituiscono l'equipaggiamento dei veicoli e che hanno rilevanza ai fini della sicurezza stessa. 
  2. Le prescrizioni contenute nei decreti emanati in applicazione del comma 1 sono mantenute in armonia con quelle contenute nelle direttive della Comunita' europea relative al controllo tecnico dei veicoli a motore. 
  3. Per le autovetture, per gli autoveicoli adibiti al trasporto di cose o ad uso speciale di massa complessiva a pieno carico non superiore a 3,5 t e per gli autoveicoli per trasporto promiscuo la revisione deve essere disposta entro quattro anni dalla data di prima immatricolazione e successivamente ogni due anni, nel rispetto delle specifiche decorrenze previste dalle direttive comunitarie vigenti in materia. 
@@ -266,10 +266,10 @@ Note all'art. 5:
 
 1.
 
-La circolazione della navetta turistica e' subordinata all'immatricolazione, con le modalita' e le formalita' previste dall'[articolo 93 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+La circolazione della navetta turistica e' subordinata all'immatricolazione, con le modalita' e le formalita' previste dall'[articolo 93 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 6: 
- - Per il testo dell'[articolo 93 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
+ - Per il testo dell'[articolo 93 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
 
 ## Art. 7.
 
@@ -277,10 +277,10 @@ Patente per la guida delle «navette turistiche»
 
 1.
 
-Ai fini della circolazione sulla strada, come definita dall'[articolo 2, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), per condurre le navette turistiche di cui all'articolo 1 e' necessario essere in possesso della patente di guida della categoria B e di titolo abilitativo in relazione all'uso.
+Ai fini della circolazione sulla strada, come definita dall'[articolo 2, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), per condurre le navette turistiche di cui all'articolo 1 e' necessario essere in possesso della patente di guida della categoria B e di titolo abilitativo in relazione all'uso.
 
 Note all'art. 7: 
- - Si riporta il testo dell'articolo 2, comma 1, del citato [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md): 
+ - Si riporta il testo dell'articolo 2, comma 1, del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md): 
  «Art. 2. (Definizione e classificazione delle strade).
  - 1. Ai fini dell'applicazione delle norme del presente codice si definisce "strada" l'area ad uso pubblico destinata alla circolazione dei pedoni, dei veicoli e degli animali. 
  (Omissis).».

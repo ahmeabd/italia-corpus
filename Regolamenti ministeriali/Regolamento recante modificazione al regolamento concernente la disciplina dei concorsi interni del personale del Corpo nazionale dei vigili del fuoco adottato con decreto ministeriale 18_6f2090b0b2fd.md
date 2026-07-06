@@ -22,7 +22,7 @@ Considerato che persistendo una situazione di grave carenza di organico nei prof
 
 Valutata quindi l'opportunita' di estendere l'applicazione della disciplina di cui al [decreto ministeriale n. 164/1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995;164) alle procedure concorsuali relative alla copertura dei posti vacanti dal 1 gennaio 1996 al 31 dicembre 1998 nei profili professionali di capo reparto e capo squadra del Corpo nazionale dei vigili del fuoco;
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 

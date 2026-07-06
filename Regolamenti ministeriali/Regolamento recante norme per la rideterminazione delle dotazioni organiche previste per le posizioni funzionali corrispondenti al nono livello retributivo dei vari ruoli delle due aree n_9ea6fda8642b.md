@@ -26,7 +26,7 @@ Visto l'[art. 1 della legge 26 febbraio 1991, n. 58](../DL%20e%20leggi%20di%20co
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto-legge 6 febbraio 1991, n. 35](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito nella [legge 4 aprile 1991, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md), recante norme sulla gestione transitoria delle unita' sanitarie locali;
+Visto il [decreto-legge 6 febbraio 1991, n. 35](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito nella [legge 4 aprile 1991, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md), recante norme sulla gestione transitoria delle unita' sanitarie locali;
 
 Sentite le organizzazioni sindacali di categoria maggiormente rappresentative su base nazionale;
 

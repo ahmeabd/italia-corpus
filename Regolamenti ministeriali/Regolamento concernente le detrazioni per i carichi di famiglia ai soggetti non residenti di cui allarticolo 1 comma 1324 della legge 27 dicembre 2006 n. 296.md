@@ -103,7 +103,7 @@ Ai fini del riconoscimento delle detrazioni per carichi di famiglia di cui all'a
 
 Note all'art. 2:
  - Per il testo vigente dell'[art. 12, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si vedano le note alle premesse.
- - La Convenzione dell'Aja del 5 ottobre 1961, e' ratificata con la [legge 24 ottobre 1980, n. 742](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20competenza%20delle%20autorita%20e%20sulla%20legge%20applicabile%20in%20materia%20di%20protezione%20dei%20minori%20adottata%20a%20LAja%20il%205%20ottobre%201961.md), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 12 novembre 1980.
+ - La Convenzione dell'Aja del 5 ottobre 1961, e' ratificata con la [legge 24 ottobre 1980, n. 742](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20competenza%20delle%20autorita%20e%20sulla%20legge%20applicabile%20in%20materia%20di%20protezione%20dei%20minori%20adottata%20a%20LAja%20il%205%20ottobre%201961.md), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 12 novembre 1980.
 
 ## Art. 3.
 

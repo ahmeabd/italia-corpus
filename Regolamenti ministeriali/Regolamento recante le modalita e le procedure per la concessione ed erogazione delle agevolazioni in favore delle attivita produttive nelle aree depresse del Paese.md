@@ -30,7 +30,7 @@ Visto l'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 28 settembre 1995;
 
-Ritenuto di non aderire alle indicazioni del Consiglio di Stato per quanto riguarda la competenza del Ministro all'adozione dei provvedimenti di concessione, revoca e rideterminazione delle agevolazioni, trattandosi di atti di gestione che, ai sensi dell'[art. 3, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), devono essere ascritti alla competenza degli organi dirigenziali dell'amministrazione;
+Ritenuto di non aderire alle indicazioni del Consiglio di Stato per quanto riguarda la competenza del Ministro all'adozione dei provvedimenti di concessione, revoca e rideterminazione delle agevolazioni, trattandosi di atti di gestione che, ai sensi dell'[art. 3, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), devono essere ascritti alla competenza degli organi dirigenziali dell'amministrazione;
 
 Vista la comunicazione al Presidente del Consiglio dei Ministri (nota n. 38258 del 13 ottobre 1995);
 

@@ -12,7 +12,7 @@ IL MINISTRO DELL'INTERNO
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri»;
 
-Visto il [decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante «Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[articolo 2 della legge 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)», e, in particolare, gli articoli 33, 34, 50 e 52;
+Visto il [decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), recante «Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[articolo 2 della legge 30 settembre 2004, n. 252](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)», e, in particolare, gli articoli 33, 34, 50 e 52;
 
 Visto il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante «[Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)», e, in particolare, l'articolo 64;
 
@@ -40,11 +40,11 @@ Visto il decreto del Ministro dell'istruzione, dell'universita' e della ricerca 
 
 Visto il [decreto del Ministro dell'interno 4 novembre 2019, n. 166](Regolamento%20recante%20requisiti%20di%20idoneita%20fisica%20psichica%20e%20attitudinale%20per%20lammissione%20ai%20concorsi%20pubblici%20e%20alle%20procedure%20selettive%20di%20accesso%20ai%20ruoli%20del%20personale%20del%20Corpo%20nazion_55ac97a7ae73.md), concernente il «Regolamento recante requisiti di idoneita' fisica, psichica e attitudinale per l'ammissione ai concorsi pubblici e alle procedure selettive di accesso ai ruoli del personale del Corpo nazionale dei vigili del fuoco», pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 7 del 10 gennaio 2020;
 
-Visto il decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile del 24 settembre 2020, che individua, ai sensi dell'[articolo 50, comma 1, lettera e), del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), i titoli professionali marittimi, pubblicato sul sito istituzionale dipartimentale;
+Visto il decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile del 24 settembre 2020, che individua, ai sensi dell'[articolo 50, comma 1, lettera e), del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), i titoli professionali marittimi, pubblicato sul sito istituzionale dipartimentale;
 
-Visto il decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile del 24 settembre 2020, che individua, ai sensi dell'[articolo 52, comma 1, lettera e), del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), i titoli professionali di sommozzatore professionista o perito tecnico addetto ai lavori subacquei, pubblicato sul sito istituzionale dipartimentale;
+Visto il decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile del 24 settembre 2020, che individua, ai sensi dell'[articolo 52, comma 1, lettera e), del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), i titoli professionali di sommozzatore professionista o perito tecnico addetto ai lavori subacquei, pubblicato sul sito istituzionale dipartimentale;
 
-Considerato che, a norma del comma 6 dei suddetti [articoli 33](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [34](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [50](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [52 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), con regolamento del Ministro dell'interno, da adottare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sono stabiliti le modalita' di svolgimento dei concorsi, le categorie dei titoli da ammettere a valutazione e il punteggio da attribuire a ciascuna di esse, la composizione delle commissioni esaminatrici e i criteri di formazione delle graduatorie finali, la durata e le modalita' di svolgimento del corso di formazione e della prova di fine corso;
+Considerato che, a norma del comma 6 dei suddetti [articoli 33](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [34](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [50](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [52 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), con regolamento del Ministro dell'interno, da adottare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sono stabiliti le modalita' di svolgimento dei concorsi, le categorie dei titoli da ammettere a valutazione e il punteggio da attribuire a ciascuna di esse, la composizione delle commissioni esaminatrici e i criteri di formazione delle graduatorie finali, la durata e le modalita' di svolgimento del corso di formazione e della prova di fine corso;
 
 Effettuata l'informazione alle organizzazioni sindacali, ai sensi del decreto del Presidente della Repubblica 7 maggio 2008, recante «Recepimento dell'accordo sindacale integrativo per il personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco», pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 168 del 19 luglio 2008, e successive modificazioni;
 
@@ -64,7 +64,7 @@ Modalita' di accesso al ruolo
 
 1.
 
-Ai sensi dell'[articolo 33 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei piloti di aeromobile del Corpo nazionale dei vigili del fuoco, di seguito denominato Corpo nazionale, avviene, qualora ad esito delle procedure selettive interne risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
+Ai sensi dell'[articolo 33 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei piloti di aeromobile del Corpo nazionale dei vigili del fuoco, di seguito denominato Corpo nazionale, avviene, qualora ad esito delle procedure selettive interne risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
 
 2.
 
@@ -85,7 +85,7 @@ N O T E
  «Art. 17 (Regolamenti). - (Omissis). 
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. ».  (Omissis)». 
- - Si riporta il testo degli [artt. 33](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [34](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [50](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [52 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) (Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[articolo 2 della legge 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)): 
+ - Si riporta il testo degli [artt. 33](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [34](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), [50](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [52 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) (Ordinamento del personale del Corpo nazionale dei vigili del fuoco a norma dell'[articolo 2 della legge 30 settembre 2004, n. 252](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md)): 
  «Art. 33 (Concorso pubblico per l'accesso alla qualifica di pilota di aeromobile vigile del fuoco). - 1.
  Qualora ad esito delle procedure selettive interne di cui all'articolo 32, commi 1 e 2, risultino posti vacanti, l'accesso alla qualifica iniziale del ruolo dei piloti di aeromobile puo' avvenire mediante concorso pubblico per titoli ed esami. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
  a) godimento dei diritti politici; 
@@ -175,14 +175,14 @@ N O T E
  - Il [decreto del Presidente della Repubblica 17 dicembre 2015, n. 207](../Regolamenti%20governativi/Regolamento%20in%20materia%20di%20parametri%20fisici%20per%20lammissione%20ai%20concorsi%20per%20il%20reclutamento%20nelle%20Forze%20armate%20nelle%20Forze%20di%20polizia%20a%20ordinamento%20militare%20e%20civile%20e%20nel%20Corpo%20nazionale%20_6e42396eaf81.md) (Regolamento in materia di parametri fisici per l'ammissione ai concorsi per il reclutamento nelle Forze armate, nelle Forze di polizia a ordinamento militare e civile e nel Corpo nazionale dei vigili del fuoco, a norma della [legge 12 gennaio 2015, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-01-12;2).) e' pubblicato nella Gazzetta Ufficiale 29 dicembre 2015, n. 301. 
  
  Note all'art. 1: 
- - Per il testo dell'[art. 33, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 33, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per il testo dell'[art. 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), si veda nelle note alle premesse.
 
 ### Art. 2. — Requisiti di partecipazione
 
 1.
 
-Al concorso pubblico di cui all'articolo 1, fermo restando quanto previsto dall'[articolo 33, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
+Al concorso pubblico di cui all'articolo 1, fermo restando quanto previsto dall'[articolo 33, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
                             a)
                                 eta' non superiore a 35 anni;
                             b)
@@ -199,7 +199,7 @@ Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'[
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nel bando per la presentazione della domanda di partecipazione al concorso. I requisiti di idoneita' fisica, psichica e attitudinale di cui al comma 1, lettere b) e c), sono accertati ai sensi dell'articolo 8.
 
 Note all'art. 2: 
- - Per il testo dell'[art. 33, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 33, commi 1](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per l'argomento del [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) si veda nelle note alle premesse.
 
 ### Art. 3. — Commissione esaminatrice del concorso
@@ -403,7 +403,7 @@ Ove lo richiedano esigenze organizzative, puo' svolgersi presso strutture non di
 
 5.
 
-Al termine del periodo di cui al comma 4, i piloti di aeromobile allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 33, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
+Al termine del periodo di cui al comma 4, i piloti di aeromobile allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 33, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
 L'esame si intende superato qualora la valutazione conseguita, in ciascuna delle due prove, non sia inferiore a 21/30 (ventuno/trentesimi). Una valutazione insufficiente in una qualsiasi delle due prove, determina il non superamento dell'esame teorico-pratico. L'allievo che, per malattia o per altro grave motivo accertato dalla commissione esaminatrice, non abbia potuto partecipare alle prove dell'esame teorico-pratico, e' ammesso a sostenerle in una sessione straordinaria da effettuarsi entro un massimo di trenta giorni dalla conclusione dell'esame teorico-pratico. L'allievo puo' ripetere le prove in cui sia risultato insufficiente soltanto per una volta, entro il termine massimo di trenta giorni dalla conclusione dell'esame teorico-pratico.
 
 6.
@@ -439,7 +439,7 @@ La commissione di cui al comma 10, sulla base degli esiti dell'esame finale, red
 Al personale del Corpo nazionale collocato in posizione utile nella graduatoria finale il Capo del Corpo nazionale rilascia il brevetto VF di pilota di elicottero o di pilota di aereo del Corpo nazionale.
 
 Note all'art. 9: 
- - Per il testo dell'[art. 33, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 33, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per il testo dell'[art. 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md)si veda nelle note all' art. 7.
 
 ### Art. 10. — Dimissioni ed espulsioni dal corso di formazione
@@ -462,7 +462,7 @@ E' dimesso dal corso di formazione di cui all'articolo 9 il personale che:
 
 2.
 
-E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 3.
 
@@ -473,7 +473,7 @@ I provvedimenti di dimissione e di espulsione dal corso sono adottati con decret
 Il personale ammesso a ripetere il corso di formazione per infermita' contratta durante il corso oppure dipendente da causa di servizio, o per maternita', viene promosso con la stessa decorrenza, ai soli effetti giuridici, attribuita agli idonei del corso dal quale e' stato dimesso, collocandosi nella stessa graduatoria nel posto che gli sarebbe spettato, qualora avesse portato a compimento il predetto corso.
 
 Note all'art. 10: 
- - Si riporta il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md): 
+ - Si riporta il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md): 
  «Art. 239 (Sanzioni disciplinari). - 1. Ferma restando la disciplina delle incompatibilita' dettata dall'[articolo 53, comma 1, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), il personale del Corpo nazionale che viola i doveri del servizio indicati da leggi, regolamenti o codici di comportamento ovvero conseguenti all'emanazione di una disposizione di servizio commette infrazione disciplinare ed e' soggetto alle seguenti sanzioni: 
  a) rimprovero orale; 
  b) rimprovero scritto; 
@@ -494,7 +494,7 @@ Modalita' di accesso al ruolo
 
 1.
 
-Ai sensi dell'[articolo 34 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo degli specialisti di aeromobile del Corpo nazionale avviene, qualora ad esito delle procedure selettive interne risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
+Ai sensi dell'[articolo 34 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo degli specialisti di aeromobile del Corpo nazionale avviene, qualora ad esito delle procedure selettive interne risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
 
 2.
 
@@ -505,14 +505,14 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'[articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
 
 Note all'art. 11: 
- - Per il testo dell'[art. 34, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 34, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per il testo dell'[art. 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), si veda nelle note alle premesse.
 
 ### Art. 12. — Requisiti di partecipazione
 
 1.
 
-Al concorso pubblico di cui all'articolo 11, fermo restando quanto previsto dall'[articolo 34, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
+Al concorso pubblico di cui all'articolo 11, fermo restando quanto previsto dall'[articolo 34, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
                             a)
                                 eta' non superiore a 35 anni;
                             b)
@@ -529,7 +529,7 @@ Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'[
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nel bando per la presentazione della domanda di partecipazione al concorso. I requisiti di idoneita' fisica, psichica e attitudinale di cui al comma 1, lettere b) e c), sono accertati ai sensi dell'articolo 18.
 
 Note all'art. 12: 
- - Per il testo dell'[art. 34, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 34, commi 1](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per l'argomento del [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) si veda nelle note alle premesse.
 
 ### Art. 13. — Commissione esaminatrice
@@ -707,7 +707,7 @@ Ove lo richiedano esigenze organizzative, puo' svolgersi presso strutture non di
 
 5.
 
-Al termine del periodo di cui al comma 4, gli specialisti di aeromobile allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 34, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendio, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica. L'esame si intende superato qualora la valutazione conseguita, in ciascuna delle due prove, non sia inferiore a 21/30 (ventuno/trentesimi). Una valutazione insufficiente in una qualsiasi delle due prove, determina il non superamento dell'esame teorico-pratico. L'allievo che, per malattia o per altro grave motivo accertato dalla commissione esaminatrice, non abbia potuto partecipare alle prove dell'esame teorico - pratico, e' ammesso a sostenerle in una sessione straordinaria da effettuarsi entro un massimo di trenta giorni dalla conclusione dell'esame teorico - pratico. L'allievo puo' ripetere le prove in cui sia risultato insufficiente soltanto per una volta, entro il termine massimo di trenta giorni dalla conclusione dell'esame teorico-pratico.
+Al termine del periodo di cui al comma 4, gli specialisti di aeromobile allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 34, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendio, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica. L'esame si intende superato qualora la valutazione conseguita, in ciascuna delle due prove, non sia inferiore a 21/30 (ventuno/trentesimi). Una valutazione insufficiente in una qualsiasi delle due prove, determina il non superamento dell'esame teorico-pratico. L'allievo che, per malattia o per altro grave motivo accertato dalla commissione esaminatrice, non abbia potuto partecipare alle prove dell'esame teorico - pratico, e' ammesso a sostenerle in una sessione straordinaria da effettuarsi entro un massimo di trenta giorni dalla conclusione dell'esame teorico - pratico. L'allievo puo' ripetere le prove in cui sia risultato insufficiente soltanto per una volta, entro il termine massimo di trenta giorni dalla conclusione dell'esame teorico-pratico.
 
 6.
 
@@ -742,7 +742,7 @@ La commissione di cui al comma 10, sulla base degli esiti dell'esame finale, red
 Al personale del Corpo nazionale collocato in posizione utile nella graduatoria finale il Capo del Corpo nazionale rilascia il brevetto VF di specialista di aeromobile del Corpo nazionale.
 
 Note all'art. 19: 
- - Per il testo dell'[art. 34, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 34, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per il testo dell'[art. 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) si veda nelle note all' art. 7.
 
 ### Art. 20. — Dimissioni ed espulsioni dal corso di formazione
@@ -765,7 +765,7 @@ E' dimesso dal corso di formazione di cui all'articolo 19 il personale che:
 
 2.
 
-E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 3.
 
@@ -776,7 +776,7 @@ I provvedimenti di dimissione e di espulsione dal corso sono adottati con decret
 Il personale ammesso a ripetere il corso di formazione per infermita' contratta durante il corso oppure dipendente da causa di servizio, o per maternita', viene promosso con la stessa decorrenza, ai soli effetti giuridici, attribuita agli idonei del corso dal quale e' stato dimesso, collocandosi nella stessa graduatoria nel posto che gli sarebbe spettato, qualora avesse portato a compimento il predetto corso.
 
 Note all'art. 20: 
- - Per il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
 
 ## Accesso al ruolo dei nautici di coperta
 
@@ -788,7 +788,7 @@ Modalita' di accesso al ruolo
 
 1.
 
-Ai sensi dell'[articolo 50 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei nautici di coperta del Corpo nazionale avviene, qualora ad esito della procedura selettiva interna risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
+Ai sensi dell'[articolo 50 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei nautici di coperta del Corpo nazionale avviene, qualora ad esito della procedura selettiva interna risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
 
 2.
 
@@ -799,14 +799,14 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'[articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
 
 Note all'art. 21: 
- - Per il testo dell'[art. 50 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 50 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
  - Per il testo dell'[art. 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) si veda nelle note alle premesse.
 
 ### Art. 22. — Requisiti di partecipazione
 
 1.
 
-Al concorso pubblico di cui all'articolo 21, fermo restando quanto previsto dall'[articolo 50, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
+Al concorso pubblico di cui all'articolo 21, fermo restando quanto previsto dall'[articolo 50, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
                             a)
                                 eta' non superiore a 36 anni;
                             b)
@@ -823,7 +823,7 @@ Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'[
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nel bando per la presentazione della domanda di partecipazione al concorso. I requisiti di idoneita' fisica, psichica e attitudinale di cui al comma 1, lettera b), sono accertati ai sensi dell'articolo 28.
 
 Note all'art. 22: 
- - Per il testo dell'[art. 50, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse.
+ - Per il testo dell'[art. 50, commi 1](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse.
 
 ### Art. 23. — Commissione esaminatrice del concorso
 
@@ -980,7 +980,7 @@ La fase teorico-pratica e' articolata in moduli didattici che comprendono insegn
 
 6.
 
-Al termine della fase teorico-pratica, i nautici di coperta allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
+Al termine della fase teorico-pratica, i nautici di coperta allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
 L'esame si intende superato qualora la valutazione conseguita, in ciascuna delle due prove, non sia inferiore a 18/30 (diciotto/trentesimi). Una valutazione insufficiente in una qualsiasi delle due prove, determina il non superamento dell'esame teorico-pratico. L'allievo che, per malattia o per altro grave motivo accertato dalla commissione esaminatrice, non abbia potuto partecipare alle prove dell'esame teorico-pratico, e' ammesso a sostenerle in una sessione straordinaria da effettuarsi entro un massimo di trenta giorni dalla conclusione dell'esame teorico-pratico. L'allievo puo' ripetere le prove in cui sia risultato insufficiente soltanto per una volta, entro il termine massimo di trenta giorni dalla conclusione dell'esame teorico-pratico.
 
 7.
@@ -1018,7 +1018,7 @@ La commissione di cui al comma 11, sulla base degli esiti dell'esame finale, red
 Al personale del Corpo nazionale collocato in posizione utile nella graduatoria finale il Capo del Corpo nazionale rilascia il brevetto VF di nautico di coperta.
 
 Note all'art. 29: 
- - Per il testo dell'[art. 50, comma 4 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 50, comma 4 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per il testo dell'[art. 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) si veda nelle note all'art. 7.
 
 ### Art. 30. — Dimissioni ed espulsioni dal corso di formazione
@@ -1041,7 +1041,7 @@ E' dimesso dal corso di formazione di cui all'articolo 29 il personale che:
 
 2.
 
-E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 3.
 
@@ -1052,7 +1052,7 @@ I provvedimenti di dimissione e di espulsione dal corso sono adottati con decret
 Il personale ammesso a ripetere il corso di formazione per infermita' contratta durante il corso oppure dipendente da causa di servizio, o per maternita', viene promosso con la stessa decorrenza, ai soli effetti giuridici, attribuita agli idonei del corso dal quale e' stato dimesso, collocandosi nella stessa graduatoria nel posto che gli sarebbe spettato, qualora avesse portato a compimento il predetto corso.
 
 Note all'art. 30: 
- - Per il testo dell'[art. 239, comma 1 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 239, comma 1 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
 
 ## Accesso al ruolo dei nautici di macchina
 
@@ -1064,7 +1064,7 @@ Modalita' di accesso al ruolo
 
 1.
 
-Ai sensi dell'[articolo 50 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei nautici di macchina del Corpo nazionale avviene, qualora ad esito della procedura selettiva interna risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
+Ai sensi dell'[articolo 50 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei nautici di macchina del Corpo nazionale avviene, qualora ad esito della procedura selettiva interna risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
 
 2.
 
@@ -1075,14 +1075,14 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'[articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
 
 Note all'art. 31: 
- - Per il testo dell'[art. 50, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 50, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
  - Per il testo dell'[art. 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) si veda nelle note alle premesse.
 
 ### Art. 32. — Requisiti di partecipazione
 
 1.
 
-Al concorso pubblico di cui all'articolo 31, fermo restando quanto previsto dall'[articolo 50, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
+Al concorso pubblico di cui all'articolo 31, fermo restando quanto previsto dall'[articolo 50, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
                             a)
                                 eta' non superiore a 36 anni;
                             b)
@@ -1099,7 +1099,7 @@ Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'[
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nel bando per la presentazione della domanda di partecipazione al concorso. I requisiti di idoneita' fisica, psichica e attitudinale di cui al comma 1, lettera b), sono accertati ai sensi dell'articolo 38.
 
 Note all'art. 32: 
- - Per il testo dell'[art. 50, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse.
+ - Per il testo dell'[art. 50, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse.
 
 ### Art. 33. — Commissione esaminatrice del concorso
 
@@ -1256,7 +1256,7 @@ La fase teorico-pratica e' articolata in moduli didattici che comprendono insegn
 
 6.
 
-Al termine della fase teorico-pratica, i nautici di macchina allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
+Al termine della fase teorico-pratica, i nautici di macchina allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
 L'esame si intende superato qualora la valutazione conseguita, in ciascuna delle due prove, non sia inferiore a 18/30 (diciotto/trentesimi). Una valutazione insufficiente in una qualsiasi delle due prove, determina il non superamento dell'esame teorico-pratico. L'allievo che, per malattia o per altro grave motivo accertato dalla commissione esaminatrice, non abbia potuto partecipare alle prove dell'esame teorico-pratico, e' ammesso a sostenerle in una sessione straordinaria da effettuarsi entro un massimo di trenta giorni dalla conclusione dell'esame teorico-pratico. L'allievo puo' ripetere le prove in cui sia risultato insufficiente soltanto per una volta, entro il termine massimo di trenta giorni dalla conclusione dell'esame teorico-pratico.
 
 7.
@@ -1294,7 +1294,7 @@ La commissione di cui al comma 11, sulla base degli esiti dell'esame finale, red
 Al personale del Corpo nazionale collocato in posizione utile nella graduatoria finale il Capo del Corpo nazionale rilascia il brevetto VF di nautico di macchina.
 
 Note all'art. 39: 
- - Per il testo dell'[art. 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
  - Per il testo dell'[art. 5, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) si veda nelle note all'art. 7.
 
 ### Art. 40. — Dimissioni ed espulsioni dal corso di formazione
@@ -1317,7 +1317,7 @@ E' dimesso dal corso di formazione di cui all'articolo 39 il personale che:
 
 2.
 
-E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
+E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'[articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md).
 
 3.
 
@@ -1328,7 +1328,7 @@ I provvedimenti di dimissione e di espulsione dal corso sono adottati con decret
 Il personale ammesso a ripetere il corso di formazione per infermita' contratta durante il corso oppure dipendente da causa di servizio, o per maternita', viene promosso con la stessa decorrenza, ai soli effetti giuridici, attribuita agli idonei del corso dal quale e' stato dimesso, collocandosi nella stessa graduatoria nel posto che gli sarebbe spettato, qualora avesse portato a compimento il predetto corso.
 
 Note all'art. 40: 
- - Per il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
 
 ## Accesso al ruolo dei sommozzatori
 
@@ -1340,7 +1340,7 @@ Modalita' di accesso al ruolo
 
 1.
 
-Ai sensi dell'[articolo 52 del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei sommozzatori del Corpo nazionale avviene, qualora ad esito della procedura selettiva interna risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
+Ai sensi dell'[articolo 52 del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), l'accesso al ruolo dei sommozzatori del Corpo nazionale avviene, qualora ad esito della procedura selettiva interna risultino posti vacanti, mediante concorso pubblico per titoli ed esami.
 
 2.
 
@@ -1351,14 +1351,14 @@ Il bando di concorso e' adottato con decreto del Capo del Dipartimento e pubblic
 L'identificazione informatica dei candidati che partecipano al concorso e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'[articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
 
 Note all'art. 41: 
- - Per il testo dell'[art. 52, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 52, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse. 
  - Per il testo dell'[art. 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) si veda nelle note alle premesse.
 
 ### Art. 42. — Requisiti di partecipazione
 
 1.
 
-Al concorso pubblico di cui all'articolo 41, fermo restando quanto previsto dall'[articolo 52, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
+Al concorso pubblico di cui all'articolo 41, fermo restando quanto previsto dall'[articolo 52, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
                             a)
                                 eta' non superiore a 36 anni;
                             b)
@@ -1375,7 +1375,7 @@ Non sono ammessi al concorso coloro che si trovino nelle condizioni di cui all'[
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nel bando per la presentazione della domanda di partecipazione al concorso. I requisiti di idoneita' fisica, psichica e attitudinale di cui al comma 1, lettera b), sono accertati ai sensi dell'articolo 48.
 
 Note all'art. 42: 
- - Per il testo dell'[art. 52, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse.
+ - Per il testo dell'[art. 52, commi 1](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) e [2, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note alle premesse.
 
 ### Art. 43. — Commissione esaminatrice del concorso
 
@@ -1534,7 +1534,7 @@ La fase teorico-pratica e' articolata in moduli didattici che comprendono insegn
 
 6.
 
-Al termine della fase teorico-pratica, i sommozzatori allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
+Al termine della fase teorico-pratica, i sommozzatori allievi vigili del fuoco sostengono un esame teorico-pratico. Ai sensi dell'[articolo 50, comma 4, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), il direttore centrale per la formazione, su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato il predetto esame teorico-pratico. L'esame teorico-pratico consiste in una prova scritta, sugli argomenti delle materie oggetto di insegnamento presenti nel programma didattico e una prova pratica, sull'applicazione di tecniche operative e utilizzo di attrezzature di soccorso, apprese durante la fase teorico-pratica.
 L'esame si intende superato qualora la valutazione conseguita, in ciascuna delle due prove, non sia inferiore a 18/30 (diciotto/trentesimi). Una valutazione insufficiente in una qualsiasi delle due prove, determina il non superamento dell'esame teorico-pratico. L'allievo che, per malattia o per altro grave motivo accertato dalla commissione esaminatrice, non abbia potuto partecipare alle prove dell'esame teorico - pratico, e' ammesso a sostenerle in una sessione straordinaria da effettuarsi entro un massimo di trenta giorni dalla conclusione dell'esame teorico - pratico. L'allievo puo' ripetere le prove in cui sia risultato insufficiente soltanto per una volta, entro il termine massimo di trenta giorni dalla conclusione dell'esame teorico-pratico.
 
 7.
@@ -1575,7 +1575,7 @@ La commissione di cui al comma 11, sulla base del punteggio di cui al comma 13, 
 Al personale del Corpo nazionale collocato in posizione utile nella graduatoria finale il Capo del Corpo nazionale rilascia il brevetto VF di sommozzatore.
 
 Note all'art. 49: 
- - Per il testo dell'[art. 50, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 50, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md), si veda nelle note alle premesse. 
  - Per il testo dell'[art. 5 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) si veda nelle note all'art. 7.
 
 ### Art. 50. — Dimissione ed espulsione dal corso di formazione
@@ -1615,7 +1615,7 @@ I provvedimenti di dimissione e di espulsione dal corso sono adottati con decret
 Il personale ammesso a ripetere il corso di formazione per infermita' contratta durante il corso oppure dipendente da causa di servizio, o per maternita', viene promosso con la stessa decorrenza, ai soli effetti giuridici, attribuita agli idonei del corso dal quale e' stato dimesso, collocandosi nella stessa graduatoria nel posto che gli sarebbe spettato, qualora avesse portato a compimento il predetto corso.
 
 Note all'art. 50: 
- - Per il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco%20a%20norma%20dellarticolo%202%20della%20legge%2030%20settembre%202004%20n.%20252.md) si veda nelle note all'art. 10.
 
 ## Disposizioni comuni
 
