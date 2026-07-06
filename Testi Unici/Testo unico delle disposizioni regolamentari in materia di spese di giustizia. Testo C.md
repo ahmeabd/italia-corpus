@@ -98,7 +98,7 @@ Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
                             v)
                                 "sanzione amministrativa pecuniaria" e' la sanzione pecuniaria, anche derivante da conversione della sanzione interdittiva, dovuta dalle persone giuridiche, dalle societa' e dalle associazioni anche prive di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Decreti%20Legislativi/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             z)
-                                "concessionario" e' il soggetto incaricato ai sensi dell'[articolo 4, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md).
+                                "concessionario" e' il soggetto incaricato ai sensi dell'[articolo 4, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md).
 
 ## Disposizioni generali relative al processo penale
 
@@ -1201,7 +1201,7 @@ ART. 176(R)
 
 1.
 
-Il pagamento e' effettuato in via ordinaria mediante accreditamento sul conto corrente bancario o postale, ovvero mediante altri mezzi di pagamento disponibili sui circuiti bancario e postale, a scelta del creditore; il creditore puo' chiedere il pagamento in contanti sino all'importo indicato dall'[articolo 13, del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), come eventualmente modificato con decreto del Ministro dell'economia e delle finanze ai sensi dello stesso articolo.
+Il pagamento e' effettuato in via ordinaria mediante accreditamento sul conto corrente bancario o postale, ovvero mediante altri mezzi di pagamento disponibili sui circuiti bancario e postale, a scelta del creditore; il creditore puo' chiedere il pagamento in contanti sino all'importo indicato dall'[articolo 13, del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), come eventualmente modificato con decreto del Ministro dell'economia e delle finanze ai sensi dello stesso articolo.
 
 2.
 
@@ -1415,7 +1415,7 @@ Le somme indebitamente pagate non ascrivibili a responsabilita' del concessionar
 
 2.
 
-Le somme indebitamente pagate ascrivibili a responsabilita' del concessionario o dell'ufficio postale sono escluse dagli ordinativi di pagamento emessi dal funzionario delegato, previa rettifica dei modelli riepilogativi e, qualora gia' comprese negli ordinativi di pagamento, sono stornate unitamente ai relativi compensi, maggiorate dalle sanzioni previste dall'[articolo 14, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), negli ordinativi di pagamento successivi.
+Le somme indebitamente pagate ascrivibili a responsabilita' del concessionario o dell'ufficio postale sono escluse dagli ordinativi di pagamento emessi dal funzionario delegato, previa rettifica dei modelli riepilogativi e, qualora gia' comprese negli ordinativi di pagamento, sono stornate unitamente ai relativi compensi, maggiorate dalle sanzioni previste dall'[articolo 14, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), negli ordinativi di pagamento successivi.
 
 ## Compensi ai soggetti che eseguono il pagamento
 
@@ -1449,7 +1449,7 @@ Nella convenzione sono stabiliti, in particolare:
 
 1.
 
-Con decreto dirigenziale del Ministero della giustizia, di concerto con la Presidenza del Consiglio dei ministri - Dipartimento per l'innovazione e le tecnologie e il Ministero dell'economia e delle finanze, sono stabilite, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../DPR/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per tutte le fasi della procedura.
+Con decreto dirigenziale del Ministero della giustizia, di concerto con la Presidenza del Consiglio dei ministri - Dipartimento per l'innovazione e le tecnologie e il Ministero dell'economia e delle finanze, sono stabilite, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per tutte le fasi della procedura.
 
 ## Pagamento delle spese a carico dei privati  Capo I Pagamento del contributo unificato nel processo civile e amministrativo
 
@@ -1533,7 +1533,7 @@ Gli estremi della ricevuta di versamento sono annotati sul relativo registro del
 
 1.
 
-Con decreto dirigenziale del Ministero dell'economia e delle finanze, di concerto con il Ministero della giustizia, sono stabilite, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../DPR/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per il versamento, per la conoscenza dello stesso da parte dell'ufficio e per il trasferimento alla tesoreria dello Stato.
+Con decreto dirigenziale del Ministero dell'economia e delle finanze, di concerto con il Ministero della giustizia, sono stabilite, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per il versamento, per la conoscenza dello stesso da parte dell'ufficio e per il trasferimento alla tesoreria dello Stato.
 
 ## Pagamento del diritto di copia, del diritto di certificato, nonche' delle spese per le notificazioni a richiesta d'ufficio nel processo civile
 
@@ -1558,7 +1558,7 @@ notifiche a richiesta di parte nel processo penale, civile, amministrativo, cont
 
 1.
 
-Per le spettanze degli ufficiali giudiziari relative alle notifiche a richiesta di parte nel processo penale, civile, amministrativo, contabile, e tributario, le regole tecniche telematiche per l'anticipo, il versamento, l'eventuale rimborso delle somme, sono stabilite con decreto dirigenziale del Ministero della giustizia, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../DPR/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md).
+Per le spettanze degli ufficiali giudiziari relative alle notifiche a richiesta di parte nel processo penale, civile, amministrativo, contabile, e tributario, le regole tecniche telematiche per l'anticipo, il versamento, l'eventuale rimborso delle somme, sono stabilite con decreto dirigenziale del Ministero della giustizia, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md).
 
 ## Pagamento delle spese di viaggio e indennita' spettanti a testimoni e consulenti tecnici citati a richiesta di parte nel processo penale
 
@@ -1650,7 +1650,7 @@ Se non diversamente stabilito in modo espresso, ai fini delle norme che seguono 
 
 2.
 
-Negli [articoli 6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [16](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [39](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [47](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [57](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md) e [59 del decreto legislativo 13 aprile 1999, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), i termini "ente creditore" e "soggetti creditori" non si riferiscono all'ufficio di cui al comma 1.
+Negli [articoli 6](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [15](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [16](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [18](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [22](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [38](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [39](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [47](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), [57](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md) e [59 del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), i termini "ente creditore" e "soggetti creditori" non si riferiscono all'ufficio di cui al comma 1.
 
 ### Art. 209.
 
@@ -1666,7 +1666,7 @@ Per le spese di mantenimento l'ufficio incaricato della gestione delle attivita'
 
 1.
 
-Ai fini delle norme che seguono, il discarico automatico del credito iscritto a ruolo comporta l'eliminazione dalle scritture patrimoniali dei crediti erariali, secondo quanto previsto dall'[articolo 19, comma 3, del decreto legislativo 13 aprile 1999, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), e tiene luogo dell'annullamento del credito previsto dall'[articolo 265, comma 3, del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_265-com3).
+Ai fini delle norme che seguono, il discarico automatico del credito iscritto a ruolo comporta l'eliminazione dalle scritture patrimoniali dei crediti erariali, secondo quanto previsto dall'[articolo 19, comma 3, del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), e tiene luogo dell'annullamento del credito previsto dall'[articolo 265, comma 3, del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_265-com3).
 
 ## Disposizioni generali per spese processuali, spese di mantenimento, pene pecuniarie, sanzioni amministrative pecuniarie e sanzioni pecuniarie processuali  Capo I Adempimento spontaneo
 
@@ -1678,7 +1678,7 @@ Titolo II
 
 1.
 
-In applicazione dell'[articolo 3, comma 1, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), il funzionario addetto all'ufficio quantifica l'importo dovuto per spese sulla base degli atti, dei registri, delle norme che individuano la somma da recuperare, e prende atto degli importi stabiliti nei provvedimenti giurisdizionali per le pene pecuniarie, per le sanzioni amministrative pecuniarie e per le sanzioni pecuniarie processuali, specificando le varie voci dell'importo complessivo.
+In applicazione dell'[articolo 3, comma 1, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), il funzionario addetto all'ufficio quantifica l'importo dovuto per spese sulla base degli atti, dei registri, delle norme che individuano la somma da recuperare, e prende atto degli importi stabiliti nei provvedimenti giurisdizionali per le pene pecuniarie, per le sanzioni amministrative pecuniarie e per le sanzioni pecuniarie processuali, specificando le varie voci dell'importo complessivo.
 
 2.
 
@@ -1726,7 +1726,7 @@ Dopo l'iscrizione a ruolo, l'ufficio comunica di volta in volta al concessionari
 
 1.
 
-In applicazione dell'[articolo 28, del decreto legislativo 26 febbraio 1999, n. 46](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md), in caso di impugnazione del ruolo, il funzionario addetto all'ufficio puo' sospendere la riscossione sulla base di criteri determinati con decreto dirigenziale del Ministero della giustizia.
+In applicazione dell'[articolo 28, del decreto legislativo 26 febbraio 1999, n. 46](../Decreti%20Legislativi/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md), in caso di impugnazione del ruolo, il funzionario addetto all'ufficio puo' sospendere la riscossione sulla base di criteri determinati con decreto dirigenziale del Ministero della giustizia.
 
 ### Art. 216.
 
@@ -1735,7 +1735,7 @@ esecutive e rimborso delle somme versate al debitore per indebiti pagamenti)
 
 1.
 
-In applicazione dell'[articolo 17, comma 6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), e dell'[articolo 26, del decreto legislativo 13 aprile 1999, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), il funzionario addetto all'ufficio emette gli ordini di pagamento a valere sulle aperture di credito disposte con le modalita' dell'articolo 185, per il rimborso al concessionario delle spese relative alle procedure esecutive e delle somme versate al debitore che ha pagato somme iscritte a ruolo riconosciute indebite.
+In applicazione dell'[articolo 17, comma 6](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), e dell'[articolo 26, del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), il funzionario addetto all'ufficio emette gli ordini di pagamento a valere sulle aperture di credito disposte con le modalita' dell'articolo 185, per il rimborso al concessionario delle spese relative alle procedure esecutive e delle somme versate al debitore che ha pagato somme iscritte a ruolo riconosciute indebite.
 
 ## Disposizioni comuni a piu' fasi della riscossione
 
@@ -1855,7 +1855,7 @@ Capo II
 
 1.
 
-In applicazione dell'[articolo 20, comma 6, del decreto legislativo 13 aprile 1999, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), con decreto dirigenziale del Ministero della giustizia, sono fissati i criteri eccezionali sulla base dei quali l'ufficio provvede alla reiscrizione degli articoli di ruolo discaricati ai sensi degli [articoli 19](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md) e [20, del decreto legislativo 13 aprile 1999, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md).
+In applicazione dell'[articolo 20, comma 6, del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), con decreto dirigenziale del Ministero della giustizia, sono fissati i criteri eccezionali sulla base dei quali l'ufficio provvede alla reiscrizione degli articoli di ruolo discaricati ai sensi degli [articoli 19](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md) e [20, del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md).
 
 ## Dilazione e rateizzazione
 
@@ -1947,7 +1947,7 @@ Il concessionario, previa ritenuta della tassa del dieci per cento di cui all'[a
 
 2.
 
-Con decreto dirigenziale del Ministero della giustizia sono stabilite le modalita' e, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../DPR/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per il versamento.
+Con decreto dirigenziale del Ministero della giustizia sono stabilite le modalita' e, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per il versamento.
 
 3.
 
@@ -1975,7 +1975,7 @@ La percentuale spettante agli ufficiali giudiziari sui crediti recuperati relati
 
 2.
 
-Con decreto dirigenziale del Ministero della giustizia sono stabilite le modalita' e, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../DPR/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per il versamento.
+Con decreto dirigenziale del Ministero della giustizia sono stabilite le modalita' e, tenendo conto del [decreto del Presidente della Repubblica 13 febbraio 2001, n. 123](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20sulluso%20di%20strumenti%20informatici%20e%20telematici%20nel%20processo%20civile%20nel%20processo%20amministrativo%20e%20nel%20processo%20dinanzi%20alle%20sezioni%20giurisdizionali%20della%20Corte%20dei%20Conti.md), le regole tecniche telematiche per il versamento.
 
 ## Riscossione del contributo unificato
 
@@ -2071,7 +2071,7 @@ Restano invariate le disposizioni sull'imposta di bollo relative al processo con
 
 1.
 
-Nel processo contabile di responsabilita' e di conto le spese relative agli atti disposti dal magistrato sono anticipate dall'erario e sono riscosse, unitamente al credito principale, con le modalita' di cui al [decreto del Presidente della Repubblica 24 giugno 1998, n. 260](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20di%20esecuzione%20delle%20decisioni%20di%20condanna%20e%20risarcimento%20di%20danno%20erariale%20a%20norma%20dellarticolo%2020%20comma%208%20della%20legge%2015_5bba630e0534.md).
+Nel processo contabile di responsabilita' e di conto le spese relative agli atti disposti dal magistrato sono anticipate dall'erario e sono riscosse, unitamente al credito principale, con le modalita' di cui al [decreto del Presidente della Repubblica 24 giugno 1998, n. 260](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20di%20esecuzione%20delle%20decisioni%20di%20condanna%20e%20risarcimento%20di%20danno%20erariale%20a%20norma%20dellarticolo%2020%20comma%208%20della%20legge%2015_5bba630e0534.md).
 
 ### Art. 256.
 
@@ -2200,7 +2200,7 @@ Sino all'emanazione del regolamento previsto dall'articolo 40 si applicano le no
 
 ### Art. 272.
 
-(Diritto di copia ai sensi dell'[articolo 164 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) e dell'[articolo 137 del regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md))
+(Diritto di copia ai sensi dell'[articolo 164 del decreto legislativo 28 luglio 1989, n. 271](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) e dell'[articolo 137 del regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md))
 
 ## Diritto di certificato nel processo civile e penale
 
@@ -2450,7 +2450,7 @@ PARTE X
 
 1.
 
-Non si applicano alle spese di giustizia gli [articoli 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md) e [26 del decreto legislativo 26 febbraio 1999, n. 46](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md).
+Non si applicano alle spese di giustizia gli [articoli 18](../Decreti%20Legislativi/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md) e [26 del decreto legislativo 26 febbraio 1999, n. 46](../Decreti%20Legislativi/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md).
 
 ### Art. 298.
 
@@ -2486,17 +2486,17 @@ Dalla data di entrata in vigore del presente testo unico sono abrogate le seguen
 - il [decreto del Presidente della Repubblica 30 marzo 1984, n.103;
 - gli articoli 1](../DPR/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md), [2](../DPR/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md) e [3](../DPR/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md), del [decreto del Presidente della Repubblica 27 luglio 1988, n. 352](../DPR/Adeguamento%20dei%20compensi%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20disposizione%20dellautorita%20giudiziaria%20in%20materia%20civile%20e%20penale.md);
 - il [decreto del Presidente della Repubblica 5 dicembre 1988, n. 564;
-- gli articoli 11, comma 2](../DPR/Regolamento%20sul%20trattamento%20economico%20spettante%20ai%20componenti%20privati%20dei%20tribunali%20di%20sorveglianza.md); 12; 22 e 30 del [decreto del Ministro di grazia e giustizia 30 settembre 1989, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.grazia.giustizia:decreto:1989-09-30;334);
+- gli articoli 11, comma 2](../Regolamenti%20governativi/Regolamento%20sul%20trattamento%20economico%20spettante%20ai%20componenti%20privati%20dei%20tribunali%20di%20sorveglianza.md); 12; 22 e 30 del [decreto del Ministro di grazia e giustizia 30 settembre 1989, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.grazia.giustizia:decreto:1989-09-30;334);
 - il decreto del Ministro delle finanze, di concerto con il [Ministro di grazia e giustizia 11 ottobre 1989, n. 347;
 - il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.grazia.giustizia:decreto:1989-10-11;347) del Ministro delle finanze 28 dicembre 1989, in G.U. 25 gennaio 1990, n. 20, come modificato dal decreto ministeriale 11 maggio 1990, in G.U. 24 maggio 1990, n. 119;
 - il decreto del Ministro di grazia e giustizia 14 febbraio 1990, non pubblicato in G.U.;
 - il decreto del Ministro di grazia e giustizia, di concerto con il Ministro del tesoro e il [Ministro delle finanze 3 novembre 1990, n. 327;
 - il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1990-11-03;327) del [Presidente della Repubblica 17 ottobre 1996, n. 601;
-- del decreto](../DPR/Regolamento%20concernente%20variazione%20della%20misura%20dellindennita%20di%20trasferta%20spettante%20agli%20ufficiali%20giudiziari%20ed%20agli%20aiutanti%20ufficiali%20giudiziari.md) del [Ministro della Giustizia 27 marzo 2000, n. 264: l'articolo 6, comma 1](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20la%20tenuta%20dei%20registri%20presso%20gli%20uffici%20giudiziari.md), limitatamente alle parole: "((dall'articolo 160 del regio decreto 23 dicembre 1865, n. 2701, dagli articoli 22, 47-51 e 52 delle disposizioni per l'attuazione del codice civile, approvate con regio decreto 18 dicembre 1941, n. 1368, dagli articoli 3 e 4 della legge 28 novembre 1965, n. 1329, dall'articolo 50 del regio decreto 16 marzo 1942, n. 267;))";
+- del decreto](../Regolamenti%20governativi/Regolamento%20concernente%20variazione%20della%20misura%20dellindennita%20di%20trasferta%20spettante%20agli%20ufficiali%20giudiziari%20ed%20agli%20aiutanti%20ufficiali%20giudiziari.md) del [Ministro della Giustizia 27 marzo 2000, n. 264: l'articolo 6, comma 1](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20la%20tenuta%20dei%20registri%20presso%20gli%20uffici%20giudiziari.md), limitatamente alle parole: "((dall'articolo 160 del regio decreto 23 dicembre 1865, n. 2701, dagli articoli 22, 47-51 e 52 delle disposizioni per l'attuazione del codice civile, approvate con regio decreto 18 dicembre 1941, n. 1368, dagli articoli 3 e 4 della legge 28 novembre 1965, n. 1329, dall'articolo 50 del regio decreto 16 marzo 1942, n. 267;))";
  l'articolo 13, limitatamente alle parole: al comma 1: "n. 29) registro per l'annotazione delle spese anticipate dall'erario nelle procedure fallimentari"; "n. 39) registro per le istanze di ammissione al gratuito patrocinio"; "n. 40) registro dei verbali di adunanza della commissione per il gratuito patrocinio"; "n. 41) registro delle spese di giustizia anticipate dall'erario"; "n. 42) registro delle spese concernenti le cause in cui siano parti persone o enti ammessi alla prenotazione a debito"; "n. 48) registro dei ruoli"; al comma 2: numeri "40" e "41"; al comma 3:
  numeri "41", "42" e "48"; al comma 4: numeri "39", "40", "41", "42" e "48"; al comma 5: "n. 5) registro delle spese inerenti alle cause riflettenti persone o enti giuridici ammessi alla prenotazione a debito"; al comma 6: "n. 9) registro delle spese di giustizia anticipate dall'erario"; "n. 10) registro delle spese concernenti le cause in cui siano parti persone o enti ammessi alla prenotazione a debito"; "n. 12) registro dei ruoli";
-- il [decreto del Presidente della Repubblica 1 marzo 2001, n. 126](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari%20a%20norma%20dellarticolo%209%20comma%206%20della%20legge%2023%20dicembre%201999%20n.%20488.md), come modificato dal [decreto del Presidente della Repubblica 11 dicembre 2001, n. 466;
-- l'articolo 18](../DPR/Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%201%20marzo%202001%20n.%20126%20in%20materia%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari.md), del [decreto del Ministro della giustizia 6 aprile 2001, n. 204](../Regolamenti%20ministeriali/Regolamento%20di%20esecuzione%20del%20decreto%20legislativo%2028%20agosto%202000%20n.%20274%20recante%20disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace.md).
+- il [decreto del Presidente della Repubblica 1 marzo 2001, n. 126](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari%20a%20norma%20dellarticolo%209%20comma%206%20della%20legge%2023%20dicembre%201999%20n.%20488.md), come modificato dal [decreto del Presidente della Repubblica 11 dicembre 2001, n. 466;
+- l'articolo 18](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%201%20marzo%202001%20n.%20126%20in%20materia%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari.md), del [decreto del Ministro della giustizia 6 aprile 2001, n. 204](../Regolamenti%20ministeriali/Regolamento%20di%20esecuzione%20del%20decreto%20legislativo%2028%20agosto%202000%20n.%20274%20recante%20disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace.md).
 
 ### Art. 302.
 

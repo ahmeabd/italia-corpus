@@ -61,7 +61,7 @@ Nota redazionale
  Il testo delle premesse e' riportato gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 14/09/2001, n. 214 durante il periodo di "vacatio legis". 
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-I testi normativi sopra riportati sono pubblicati, per  motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md). 
+I testi normativi sopra riportati sono pubblicati, per  motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md). 
  In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 10 settembre 2000 si procedera' alla ripubblicazione dei testi sopracitati corredati delle relative note, ai sensi dell'[art. 10, comma 3, del decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md).
 
 ### Art. 2. — (L)
@@ -1065,7 +1065,7 @@ Titolo IV
 
 1.
 
-La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md). (L).
+La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md). (L).
 
 2.
 
@@ -1207,8 +1207,8 @@ Con l'entrata in vigore del presente testo unico, sono o restano abrogati:
  64) l'[articolo 71 del decreto legislativo 10 aprile 1947, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-04-10;261#art_71);
  65) l'[articolo 4 del decreto legislativo 14 dicembre 1947, n.
 1598](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-12-14;1598#art_4);
- 66) gli [articoli 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sistemazione%20delle%20opere%20permanenti%20di%20protezione%20antiaerea%20gia%20costruite%20direttamente%20dallo%20Stato%20o%20a%20mezzo%20di%20enti%20locali.md) e [5 del decreto legislativo 11 marzo 1948, n. 409](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sistemazione%20delle%20opere%20permanenti%20di%20protezione%20antiaerea%20gia%20costruite%20direttamente%20dallo%20Stato%20o%20a%20mezzo%20di%20enti%20locali.md);
- 67) l'[articolo 3 del decreto legislativo 17 aprile 1948, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20integrazioni%20alle%20disposizioni%20del%20decreto%20legislativo%20luogotenenziale%201%20marzo%201945%20n.%20154%20e%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2010%20aprile%201947%20n.%2026_0d2946893ecc.md);
+ 66) gli [articoli 2](../Decreti%20Legislativi/Sistemazione%20delle%20opere%20permanenti%20di%20protezione%20antiaerea%20gia%20costruite%20direttamente%20dallo%20Stato%20o%20a%20mezzo%20di%20enti%20locali.md) e [5 del decreto legislativo 11 marzo 1948, n. 409](../Decreti%20Legislativi/Sistemazione%20delle%20opere%20permanenti%20di%20protezione%20antiaerea%20gia%20costruite%20direttamente%20dallo%20Stato%20o%20a%20mezzo%20di%20enti%20locali.md);
+ 67) l'[articolo 3 del decreto legislativo 17 aprile 1948, n. 740](../Decreti%20Legislativi/Modificazioni%20ed%20integrazioni%20alle%20disposizioni%20del%20decreto%20legislativo%20luogotenenziale%201%20marzo%201945%20n.%20154%20e%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2010%20aprile%201947%20n.%2026_0d2946893ecc.md);
  68) gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-09;1482#art_1) e [7 della legge 9 dicembre 1948, n. 1482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-09;1482#art_7);
  69) l'[articolo 23 della legge 28 febbraio 1949, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20incrementare%20loccupazione%20operaia%20agevolando%20la%20costruzione%20di%20case%20per%20lavoratori.md);
  70) l'[articolo 21, secondo comma, della legge 2 luglio 1949, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-02;408#art_21-com2);

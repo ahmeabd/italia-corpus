@@ -397,7 +397,7 @@ L'imposta dovuta per la registrazione dei contratti di locazione e affitto di be
 
 1-bis.
 
-Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui al comma 1 e' sanzionato ai sensi dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). (62) (63)
+Chi non esegue, in tutto o in parte, il versamento relativo alle cessioni, risoluzioni e proroghe anche tacite dei contratti di cui al comma 1 e' sanzionato ai sensi dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). (62) (63)
 
 2.
 
@@ -808,7 +808,7 @@ La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bila
 
 L'ammontare dell'imposta principale non puo` essere in nessun caso inferiore alla misura fissa indicata nell'articolo 11 della tariffa, parte prima, salvo quanto disposto dagli articoli 5 e 7 della tariffa stessa.
 
-((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](../Decreti%20Legislativi/Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
+((2-bis. L'ufficio, per gli atti per i quali non si applicano le disposizioni di cui all'[articolo 3-ter del decreto legislativo 18 dicembre 1997, n. 463](../Decreti%20Legislativi/Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), anche avvalendosi di procedure automatizzate, controlla, sulla base degli elementi desumibili dall'atto, la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risulti dovuta una maggiore imposta, l'ufficio notifica apposito avviso di liquidazione al contribuente con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dell'imposta versata nonche' della sanzione amministrativa di cui all'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e degli interessi di mora decorrenti dalla data in cui l'imposta medesima avrebbe dovuto essere pagata. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.))
 
 ((93))
 
@@ -1297,7 +1297,7 @@ Il pagamento delle imposte, di cui al comma 1,richieste in relazione alle decisi
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md).
+COMMA ABROGATO DAL [D.LGS. 18 DICEMBRE 1997, N. 473](../Decreti%20Legislativi/Revisione%20delle%20sanzioni%20amministrative%20in%20materia%20di%20tributi%20sugli%20affari%20sulla%20produzione%20e%20sui%20consumi%20nonche%20di%20altri%20tributi%20indiretti%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20del_35329a97d2bf.md).
 
 4.
 
@@ -1689,7 +1689,7 @@ Chi dichiara di non possedere, rifiuta di esibire o sottrae comunque all'ispezio
 
 1-bis.
 
-Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si applicano le disposizioni di cui al [decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
+Per le violazioni conseguenti alle richieste di cui all'articolo 53-bis, si applicano le disposizioni di cui al [decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
 
 --------------
 

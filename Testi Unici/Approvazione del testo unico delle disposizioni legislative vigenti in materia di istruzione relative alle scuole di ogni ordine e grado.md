@@ -112,7 +112,7 @@ L'ordinamento scolastico italiano, nel rispetto della responsabilita' degli Stat
 
 2.
 
-Ai sensi dell'[articolo 1 del decreto legislativo 26 novembre 1992 n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2090-364-CEE%2090-365-CEE%20e%2090-366-CEE%20in%20materia%20di%20diritto%20di%20soggiorno%20dei%20cittadini%20comunitari%20dei%20lavoratori%20salariati%20e%20non%20salariati%20che%20hanno%20cessato%20la%20pro_5236c26cb15f.md) e' riconosciuto il diritto di soggiorno nel territorio della Repubblica agli studenti cittadini di uno Stato membro della Comunita' europea, iscritti ad un istituto per conseguirvi, a titolo principale, una formazione professionale.
+Ai sensi dell'[articolo 1 del decreto legislativo 26 novembre 1992 n. 470](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2090-364-CEE%2090-365-CEE%20e%2090-366-CEE%20in%20materia%20di%20diritto%20di%20soggiorno%20dei%20cittadini%20comunitari%20dei%20lavoratori%20salariati%20e%20non%20salariati%20che%20hanno%20cessato%20la%20pro_5236c26cb15f.md) e' riconosciuto il diritto di soggiorno nel territorio della Repubblica agli studenti cittadini di uno Stato membro della Comunita' europea, iscritti ad un istituto per conseguirvi, a titolo principale, una formazione professionale.
 
 ## ORGANI COLLEGIALI DELLA SCUOLA E ASSEMBLEE DEGLI STUDENTI E DEI GENITORI Capo I ORGANI COLLEGIALI A LIVELLO DI CIRCOLO E DI ISTITUTO E ASSEMBLEE DEGLI STUDENTI E DEI GENITORI Sezione I: Organi collegiali a livello di circolo e di istituto
 
@@ -166,21 +166,21 @@ I consigli di intersezione, di interclasse e di classe sono presieduti rispettiv
 
 9.
 
-COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 10.
 
-COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 11.
 
-COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 ---------------
 
 AGGIORNAMENTO (64)
 
-Il [D.P.R. 29 ottobre 2012, n. 263](../DPR/Regolamento%20recante%20norme%20generali%20per%20la%20ridefinizione%20dellassetto%20organizzativo%20didattico%20dei%20Centri%20distruzione%20per%20gli%20adulti%20ivi%20compresi%20i%20corsi%20serali%20a%20norma%20dellarticolo%2064%20comma_08cc7bf46708.md) ha disposto (con l'art. 11, comma 4) che "4. Sono abrogate le disposizioni contenute all'[articolo 5, comma 1, lettera d)](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e agli [articoli 137](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [169 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 29 ottobre 2012, n. 263](../Regolamenti%20governativi/Regolamento%20recante%20norme%20generali%20per%20la%20ridefinizione%20dellassetto%20organizzativo%20didattico%20dei%20Centri%20distruzione%20per%20gli%20adulti%20ivi%20compresi%20i%20corsi%20serali%20a%20norma%20dellarticolo%2064%20comma_08cc7bf46708.md) ha disposto (con l'art. 11, comma 4) che "4. Sono abrogate le disposizioni contenute all'[articolo 5, comma 1, lettera d)](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e agli [articoli 137](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [169 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 ### Art. 6. — Consiglio di intersezione, di interclasse e di classe nelle scuole con particolari finalita'
 
@@ -1890,7 +1890,7 @@ La determinazione delle date di inizio e di conclusione delle lezioni e il calen
 
 AGGIORNAMENTO (68)
 
-Il [D.L. 9 febbraio 2017, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-09;8), convertito con modificazioni dalla [L. 7 aprile 2017, n. 45](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202017%20n.%208%20recante%20nuovi%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%202016%20e%20del%202017.%2017G00058.md), ha disposto (con l'art. 5, comma 2) che "Nei territori delle Regioni Abruzzo, Lazio, Marche e Umbria, interessati dalla crisi sismica iniziata il 24 agosto 2016, ricompresi nei Comuni indicati negli allegati 1 e 2 del [decreto-legge n. 189 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016;189), l'anno scolastico 2016/2017, in deroga all'[articolo 74, comma 3, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e' valido sulla base delle attivita' didattiche effettivamente svolte, anche se di durata complessiva inferiore a 200 giorni. Ai fini della validita' dell'anno scolastico, compreso quello relativo all'ultimo anno di corso, per la valutazione degli studenti non e' richiesta la frequenza minima di cui all'[articolo 11, comma 1, del decreto legislativo 19 febbraio 2004, n. 59](../Decreti%20Legislativi/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md) e di cui all'[articolo 14, comma 7, del decreto del Presidente della Repubblica 22 giugno 2009, n. 122](../DPR/Regolamento%20recante%20valutazione%20delle%20studentesse%20e%20degli%20studenti%20del%20secondo%20ciclo%20di%20istruzione.%2009G0130.md)". 
+Il [D.L. 9 febbraio 2017, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-09;8), convertito con modificazioni dalla [L. 7 aprile 2017, n. 45](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202017%20n.%208%20recante%20nuovi%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dagli%20eventi%20sismici%20del%202016%20e%20del%202017.%2017G00058.md), ha disposto (con l'art. 5, comma 2) che "Nei territori delle Regioni Abruzzo, Lazio, Marche e Umbria, interessati dalla crisi sismica iniziata il 24 agosto 2016, ricompresi nei Comuni indicati negli allegati 1 e 2 del [decreto-legge n. 189 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016;189), l'anno scolastico 2016/2017, in deroga all'[articolo 74, comma 3, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e' valido sulla base delle attivita' didattiche effettivamente svolte, anche se di durata complessiva inferiore a 200 giorni. Ai fini della validita' dell'anno scolastico, compreso quello relativo all'ultimo anno di corso, per la valutazione degli studenti non e' richiesta la frequenza minima di cui all'[articolo 11, comma 1, del decreto legislativo 19 febbraio 2004, n. 59](../Decreti%20Legislativi/Definizione%20delle%20norme%20generali%20relative%20alla%20scuola%20dellinfanzia%20e%20al%20primo%20ciclo%20dellistruzione%20a%20norma%20dellarticolo%201%20della%20legge%2028%20marzo%202003%20n.%2053.md) e di cui all'[articolo 14, comma 7, del decreto del Presidente della Repubblica 22 giugno 2009, n. 122](../Regolamenti%20governativi/Regolamento%20recante%20valutazione%20delle%20studentesse%20e%20degli%20studenti%20del%20secondo%20ciclo%20di%20istruzione.%2009G0130.md)". 
  Ha inoltre disposto (con l'art. 5, comma 2-bis) che "Le disposizioni del comma 2 si applicano anche nei territori dei comuni delle regioni Abruzzo, Lazio, Marche e Umbria non compresi negli allegati 1 e 2 al [decreto-legge n. 189 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016;189), nei quali risultino edifici scolastici distrutti o danneggiati o siano state emanate ordinanze di chiusura a causa degli eventi sismici verificatisi dal mese di agosto 2016".
 
 ---------------
@@ -1910,13 +1910,13 @@ Per i conservatori di musica, per le accademie di belle arti, per l'accademia na
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ## REGIONI Capo I TRASFERIMENTO DELLE FUNZIONI AMMINISTRATIVE IN MATERIA DI ISTRUZIONE: INDICAZIONI NORMATIVE
 
@@ -2451,7 +2451,7 @@ Rispondono dell'adempimento dell'obbligo i genitori dell'obbligato o chiunque a 
 
 1.
 
-Al fine di garantire l'adempimento dell'obbligo di istruzione di cui all'[articolo 1, comma 622, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), il sindaco, mediante accesso all'Anagrafe nazionale dell'istruzione (ANIST) istituita ai sensi dell'[articolo 62-quater del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), individua i minori non in regola con il predetto obbligo e ammonisce senza ritardo il responsabile dell'adempimento dell'obbligo medesimo invitandolo ad ottemperare alla legge.
+Al fine di garantire l'adempimento dell'obbligo di istruzione di cui all'[articolo 1, comma 622, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), il sindaco, mediante accesso all'Anagrafe nazionale dell'istruzione (ANIST) istituita ai sensi dell'[articolo 62-quater del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), individua i minori non in regola con il predetto obbligo e ammonisce senza ritardo il responsabile dell'adempimento dell'obbligo medesimo invitandolo ad ottemperare alla legge.
 
 2.
 
@@ -2647,14 +2647,14 @@ L'esperienza di integrazione degli alunni portatori di handicap e' oggetto di ve
 1.
 
 La programmazione dell'attivita' didattica, nella salvaguardia della liberta' di insegnamento, e' di competenza dei docenti che vi provvedono sulla base della programmazione dell'azione educativa approvata dal collegio dei docenti in attuazione dell'articolo 7. 
- 2.COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
+ 2.COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
  3.(( COMMA ABROGATO DAL D.LGS 19 FEBBRAIO 2004, N. 59 )). ((39)) 
  4.(( COMMA ABROGATO DAL D.LGS 19 FEBBRAIO 2004, N. 59 )). ((39)) 
- 5. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
- 6. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
- 7. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
- 8. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
- 9. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
+ 5. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
+ 6. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
+ 7. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
+ 8. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
+ 9. COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md). 
  
 ------------------
 
@@ -2957,7 +2957,7 @@ Capo IV
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 3.
 
@@ -3472,11 +3472,11 @@ Le prove suppletive devono concludersi prima dell'inizio delle lezioni dell'anno
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+COMMA ABROGATO DAL [D.P.R. 8 MARZO 1999, N. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 3.
 
@@ -3651,7 +3651,7 @@ Il [D.L. 31 gennaio 2007, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
  
  
 AGGIORNAMENTO (53) 
- Il [D.P.R. 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md) ha disposto (con l'art. 10, comma 1) che: 
+ Il [D.P.R. 15 marzo 2010, n. 87](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md) ha disposto (con l'art. 10, comma 1) che: 
  "1. A decorrere dalla data di entrata in vigore del presente regolamento, all'[articolo 191, comma 3, del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni, sono apportate le seguenti modificazioni: 
  a) al primo periodo, le parole: "gli istituti professionali hanno per fine precipuo quello di fornire la specifica preparazione teorico-pratica per l'esercizio di mansioni qualificate nei settori commerciale e dei servizi, industriale e artigiano, agrario e nautico" sono soppresse; 
  b) l'ultimo periodo."
@@ -3901,7 +3901,7 @@ AGGIORNAMENTO (16)
 - La [L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425) ha disposto (con l'art. 8, comma 2) che "Dalla data di entrata in vigore del regolamento di cui all'articolo 1 sono abrogati: gli articoli 197, 198, commi 3, 4, 5, 6, 7, 8, 9 e 10, nonche' l'articolo 361, commi 1, 2 e 3, del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) [...].
 Dalla medesima data, nell'articolo 199 del predetto testo unico, si intendono espunti i riferimenti agli esami di maturita'". 
  - Ha inoltre disposto (con l'art. 1, comma 3) che "Il regolamento di cui al comma 2 entra in vigore con l'inizio dell'anno successivo a quello in corso alla data della sua pubblicazione nella Gazzetta Ufficiale". 
- - Il regolamento di cui all'[art. 8, comma 2 della L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425#art_8-com2) e' stato emanato con [D.P.R. 23 luglio 1998, n. 323](../DPR/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md), pubblicato in G.U. 09/09/1998, n. 210.
+ - Il regolamento di cui all'[art. 8, comma 2 della L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425#art_8-com2) e' stato emanato con [D.P.R. 23 luglio 1998, n. 323](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md), pubblicato in G.U. 09/09/1998, n. 210.
 
 ## NORME COMUNI A VARI TIPI DI ESAME
 
@@ -3957,7 +3957,7 @@ AGGIORNAMENTO (16)
 - La [L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425) ha disposto (con l'art. 8, comma 2) che "Dalla data di entrata in vigore del regolamento di cui all'articolo 1 sono abrogati: gli articoli 197, 198, commi 3, 4, 5, 6, 7, 8, 9 e 10, nonche' l'articolo 361, commi 1, 2 e 3, del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) [...].
 Dalla medesima data, nell'articolo 199 del predetto testo unico, si intendono espunti i riferimenti agli esami di maturita'". 
  - Ha inoltre disposto (con l'art. 1, comma 3) che "Il regolamento di cui al comma 2 entra in vigore con l'inizio dell'anno successivo a quello in corso alla data della sua pubblicazione nella Gazzetta Ufficiale". 
- - Il regolamento di cui all'[art. 8, comma 2 della L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425#art_8-com2) e' stato emanato con [D.P.R. 23 luglio 1998, n. 323](../DPR/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md), pubblicato in G.U. 09/09/1998, n. 210.
+ - Il regolamento di cui all'[art. 8, comma 2 della L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425#art_8-com2) e' stato emanato con [D.P.R. 23 luglio 1998, n. 323](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md), pubblicato in G.U. 09/09/1998, n. 210.
 
 ---------------
 
@@ -3975,11 +3975,11 @@ Il [D.L. 31 gennaio 2007, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 23 LUGLIO 1998, N. 323](../DPR/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md).
+COMMA ABROGATO DAL [D.P.R. 23 LUGLIO 1998, N. 323](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 23 LUGLIO 1998, N. 323](../DPR/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md).
+COMMA ABROGATO DAL [D.P.R. 23 LUGLIO 1998, N. 323](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md).
 
 3.
 
@@ -4005,7 +4005,7 @@ AGGIORNAMENTO (16)
 - La [L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425) ha disposto (con l'art. 8, comma 2) che "Dalla data di entrata in vigore del regolamento di cui all'articolo 1 sono abrogati: gli articoli 197, 198, commi 3, 4, 5, 6, 7, 8, 9 e 10, nonche' l'articolo 361, commi 1, 2 e 3, del testo unico approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) [...].
 Dalla medesima data, nell'articolo 199 del predetto testo unico, si intendono espunti i riferimenti agli esami di maturita'". 
  - Ha inoltre disposto (con l'art. 1, comma 3) che "Il regolamento di cui al comma 2 entra in vigore con l'inizio dell'anno successivo a quello in corso alla data della sua pubblicazione nella Gazzetta Ufficiale". 
- - Il regolamento di cui all'[art. 8, comma 2 della L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425#art_8-com2) e' stato emanato con [D.P.R. 23 luglio 1998, n. 323](../DPR/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md), pubblicato in G.U. 09/09/1998, n. 210.
+ - Il regolamento di cui all'[art. 8, comma 2 della L. 10 dicembre 1997, n. 425](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-10;425#art_8-com2) e' stato emanato con [D.P.R. 23 luglio 1998, n. 323](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20degli%20esami%20di%20Stato%20conclusivi%20dei%20corsi%20di%20studio%20di%20istruzione%20secondaria%20superiore%20a%20norma%20dellarticolo%201%20della%20legge%2010%20dicembre%201997%20n.%20425.md), pubblicato in G.U. 09/09/1998, n. 210.
 
 ---------------
 
@@ -4160,7 +4160,7 @@ L'amministrazione di ciascun convitto e' affidata ad un consiglio di amministraz
                             c)
                                 da due persone nominate dal Ministro della pubblica istruzione, una delle quali fra il personale direttivo e docente delle scuole medie frequentate dai convittori;
                             d)
-                                da un funzionario dell'amministrazione finanziaria, designato dal direttore dell'ufficio corrispondente alle soppresse intendenze di finanza secondo la tabella allegata al [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../DPR/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md).
+                                da un funzionario dell'amministrazione finanziaria, designato dal direttore dell'ufficio corrispondente alle soppresse intendenze di finanza secondo la tabella allegata al [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../Regolamenti%20governativi/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md).
 
 4.
 
@@ -4324,7 +4324,7 @@ Gli istituti di istruzione artistica non statali possono ottenere il riconoscime
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 -------------
 
@@ -4343,7 +4343,7 @@ Il [D.L. 31 gennaio 2007, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ## ISTRUZIONE ARTISTICA Capo I ACCADEMIE DI BELLE ARTI
 
@@ -4384,13 +4384,13 @@ I diplomi di licenza dei corsi di studio dell'accademia di belle arti hanno valo
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 208. — Insegnamenti
 
@@ -4419,14 +4419,14 @@ Oltre gli insegnamenti di cui ai commi 1, 2, 3 e 4 sono impartiti gli insegnamen
 
 
 AGGIORNAMENTO (41)
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1)
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1)
 che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 209. — Insegnamento delle materie artistiche
 
@@ -4438,13 +4438,13 @@ L'insegnamento delle materie artistiche nei corsi di pittura, scultura, decorazi
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 210. — Insegnamento delle materie di cultura
 
@@ -4456,13 +4456,13 @@ Per le materie di cultura, gli insegnamenti sono impartiti di regola separatamen
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 211. — Insegnamenti della storia dell'arte e dell'anatomia artistica
 
@@ -4475,13 +4475,13 @@ La stessa disposizione si applica per l'insegnamento della storia dell'arte nel 
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 212. — Direttore
 
@@ -4519,7 +4519,7 @@ persona che, per opere compiute o per insegnamenti dati, sia venuta in meritata 
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 215. — Scuole operaie e scuole libere del nudo
 
@@ -4536,7 +4536,7 @@ Presso le accademie di belle arti possono essere istituite scuole operaie serali
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del comma 2 del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del comma 2 del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 216.
 
@@ -4569,13 +4569,13 @@ Fatto salvo quanto previsto nel presente articolo, agli istituti superiori per l
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ## ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA Sezione I: Accademia nazionale di arte drammatica
 
@@ -4600,13 +4600,13 @@ Oltre agli insegnamenti fondamentali nell'Accademia sono impartiti gli insegname
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 219. — Ammissione all'Accademia
 
@@ -4618,13 +4618,13 @@ Al primo anno di corso dell'Accademia si accede a seguito di esame. (41)((96))
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 220. — Direttore
 
@@ -4669,7 +4669,7 @@ Il Ministro puo' in via eccezionale, conferire senza concorso il posto di dirett
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 224. — Ammissione in teatri e compagnie sovvenzionate dallo Stato
 
@@ -4826,7 +4826,7 @@ Presso tali scuole essi sono esentati dalla frequenza dei corsi di educazione fi
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 235.
 
@@ -4837,7 +4837,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 236.
 
@@ -4848,7 +4848,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 237. — S o v v e n z i o n i
 
@@ -4904,13 +4904,13 @@ Restano ferme le norme particolari relative al conservatorio di musica di Bolzan
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 240. — Insegnamento nei conservatori di musica
 
@@ -4991,7 +4991,7 @@ I rapporti conseguenti alla statizzazione dei conservatori di Bolzano, Cagliari 
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 246. — Disciplina delle professioni di docente di materie musicali in scuole di musica e di orchestrale
 
@@ -5035,7 +5035,7 @@ Coloro che ai sensi del presente articolo possono insegnare materie musicali o f
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il comma 2 del presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il comma 2 del presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 247. — Normalizzazione dell'intonazione di base degli strumenti musicali
 
@@ -5076,7 +5076,7 @@ All'attuazione delle norme del presente articolo si provvede con regolamento ado
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ## ALUNNI, ESAMI E TASSE
 
@@ -5115,13 +5115,13 @@ All'esame di licenza dell'Accademia di belle arti non sono ammessi candidati pri
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 251. — Orari e programmi
 
@@ -5168,13 +5168,13 @@ Le commissioni d'esame sono composte da docenti dell'istituto e, per gli esami d
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 253. — Tasse scolastiche
 
@@ -5275,7 +5275,7 @@ A decorrere dal 1 gennaio 1994 il servizio di cassa e' affidato all'Ente poste
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 260.
 
@@ -5286,7 +5286,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ## DISPOSIZIONI COMUNI A TUTTI GLI ISTITUTI DI ISTRUZIONE ARTISTICA
 
@@ -5320,7 +5320,7 @@ Gli istituti di istruzione artistica possono contribuire alle attivita' di cui a
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il comma 3 del presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il comma 3 del presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 262. — Locali e arredamento
 
@@ -5363,7 +5363,7 @@ Capo VIII
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 265.
 
@@ -5374,13 +5374,13 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 266. — Orario di servizio
 
 1.
 
-L'orario di servizio e' stabilito in sede di contrattazione collettiva ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
+L'orario di servizio e' stabilito in sede di contrattazione collettiva ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
 
 2.
 
@@ -5408,7 +5408,7 @@ L'esercizio contemporaneo dell'insegnamento nei conservatori di musica e di altr
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 269.
 
@@ -5419,7 +5419,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 270.
 
@@ -5430,44 +5430,44 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (72)
 
-Il [D.P.R. 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md) ha disposto (con l'art. 8, comma 4, alinea) che la presente modifica decorre dall'anno accademico 2020/2021. 
+Il [D.P.R. 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md) ha disposto (con l'art. 8, comma 4, alinea) che la presente modifica decorre dall'anno accademico 2020/2021. 
  Ha inoltre disposto (con l'art. 8, comma 4, lettera c)) che sono "fatte salve le graduatorie di cui al citato articolo 270, comma 1, vigenti alla data di entrata in vigore del presente decreto".
 
 --------------
 
 AGGIORNAMENTO (75)
 
-Il [D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), nel modificare l'[art. 8, comma 4 del D.P.R. 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 3-quater, comma 2) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2021/2022".
+Il [D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), nel modificare l'[art. 8, comma 4 del D.P.R. 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 3-quater, comma 2) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2021/2022".
 
 -------------
 
 AGGIORNAMENTO (80)
 
-Il [D.L. 31 dicembre 2020, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-31;183), nel modificare l'[art. 3-quater, comma 2 del D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1#art_3quater-com2), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), che a sua volta modifica l'[art. 8, comma 4 del D.P.R. 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 6, comma 2, lettera b)) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2022/2023".
+Il [D.L. 31 dicembre 2020, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-31;183), nel modificare l'[art. 3-quater, comma 2 del D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1#art_3quater-com2), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), che a sua volta modifica l'[art. 8, comma 4 del D.P.R. 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 6, comma 2, lettera b)) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2022/2023".
 
 -------------
 
 AGGIORNAMENTO (83)
 
-Il [D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), come modificato dal [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), nel modificare l'[art. 8, comma 4, lettera c) del D.P.R. 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 3-quater, comma 2) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2023/2024".
+Il [D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), come modificato dal [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), nel modificare l'[art. 8, comma 4, lettera c) del D.P.R. 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 3-quater, comma 2) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2023/2024".
 
 -------------
 
 AGGIORNAMENTO (87)
 
-Il [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), nel modificare l'[art. 3-quater, comma 2 del D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1#art_3quater-com2), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), che a sua volta modifica l'[art. 8, comma 4, lettera c) del D.P.R. 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 6, comma 4, lettera b)) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2024/2025".
+Il [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), nel modificare l'[art. 3-quater, comma 2 del D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1#art_3quater-com2), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), che a sua volta modifica l'[art. 8, comma 4, lettera c) del D.P.R. 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 6, comma 4, lettera b)) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2024/2025".
 
 -------------
 
 AGGIORNAMENTO (94)
 
-Il [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), nel modificare l'[art. 3-quater, comma 2 del D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1#art_3quater-com2), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), che a sua volta modifica l'[art. 8, comma 4, lettera c) del D.P.R. 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 6, comma 7, lettera b)) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2025/2026".
+Il [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), nel modificare l'[art. 3-quater, comma 2 del D.L. 9 gennaio 2020, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-01-09;1#art_3quater-com2), convertito con modificazioni dalla [L. 5 marzo 2020, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20gennaio%202020%20n.%201%20recante%20disposizioni%20urgenti%20per%20listituzione%20del%20Ministero%20dellistruzione%20e%20del%20Ministero%20delluniversita%20e%20de_91835317cf6d.md), che a sua volta modifica l'[art. 8, comma 4, lettera c) del D.P.R. 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), ha conseguentemente disposto (con l'art. 6, comma 7, lettera b)) che "Le abrogazioni disposte dall'articolo 8, comma 4, del regolamento di cui al [decreto del Presidente della Repubblica 7 agosto 2019, n. 143](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2019G00150.md), si applicano a decorrere dall'anno accademico 2025/2026".
 
 ---------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026, "fatte salve le graduatorie di cui al citato articolo 270, comma 1, vigenti alla data di entrata in vigore del presente regolamento".
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026, "fatte salve le graduatorie di cui al citato articolo 270, comma 1, vigenti alla data di entrata in vigore del presente regolamento".
 
 ### Art. 271.
 
@@ -5478,7 +5478,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
 ### Art. 272. — Conferimento delle supplenze
 
@@ -5597,7 +5597,7 @@ Il Ministero della pubblica istruzione provvede ogni anno alla ripartizione di t
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del comma 3 del presente articolo e la modifica del comma 2 del presente articolo decorrono dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del comma 3 del presente articolo e la modifica del comma 2 del presente articolo decorrono dall'anno accademico 2025/2026.
 
 ### Art. 274. — Contratti di collaborazione per il personale in servizio alla data del 13 luglio 1980
 
@@ -7099,13 +7099,13 @@ I diplomi e gli attestati rilasciati dalle scuole di danza pareggiate sono parif
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 373. — Denominazione delle scuole di danza
 
@@ -7123,13 +7123,13 @@ Le spese di viaggio e le indennita' per i commissari e per il funzionario ammini
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ### Art. 375. — Impiego di personale negli spettacoli di danza
 
@@ -7151,13 +7151,13 @@ Gli istituti mantenuti da pubbliche amministrazioni o da enti forniti di persona
 
 AGGIORNAMENTO (41)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md) ha disposto (con l'art. 14,comma 1) che " per ciascuna istituzione, con l'emanazione del relativo regolamento didattico di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)."
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 8 luglio 2005, n. 212](../DPR/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../DPR/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
+Il [D.P.R. 8 luglio 2005, n. 212](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20norma%20dellarticolo%202%20della%20legge%2021%20dic_0393f567a49f.md), come modificato dal [D.P.R. 24 aprile 2024, n. 82](../Regolamenti%20governativi/Regolamento%20concernente%20modifiche%20al%20regolamento%20recante%20disciplina%20per%20la%20definizione%20degli%20ordinamenti%20didattici%20delle%20Istituzioni%20di%20alta%20formazione%20artistica%20musicale%20e%20coreutica%20a%20no_7d0f7d5625e1.md), ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md)".
 
 ## RICONOSCIMENTO DEI TITOLI DI STUDIO E SCAMBI CULTURALI Capo I RICONOSCIMENTO DEI TITOLI DI STUDIO
 
@@ -7332,11 +7332,11 @@ Per le scuole europee istituite in altri Paesi della Comunita' si applicano le d
 
 3.
 
-Ai sensi del [decreto legislativo 27 gennaio 1992, n. 115](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-48-CEE%20relativa%20ad%20un%20sistema%20generale%20di%20riconoscimento%20dei%20diplomi%20di%20istruzione%20superiore%20che%20sanzionano%20formazioni%20professionali%20di%20una%20durata%20minima%20di%20tre%20anni.md), il Ministro della pubblica istruzione, si pronuncia con le modalita' ivi previste, sul riconoscimento dei titoli di formazione professionale che diano accesso all'insegnamento nelle scuole statali e non statali di istruzione secondaria e artistica, compresi i conservatori e le accademie.
+Ai sensi del [decreto legislativo 27 gennaio 1992, n. 115](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-48-CEE%20relativa%20ad%20un%20sistema%20generale%20di%20riconoscimento%20dei%20diplomi%20di%20istruzione%20superiore%20che%20sanzionano%20formazioni%20professionali%20di%20una%20durata%20minima%20di%20tre%20anni.md), il Ministro della pubblica istruzione, si pronuncia con le modalita' ivi previste, sul riconoscimento dei titoli di formazione professionale che diano accesso all'insegnamento nelle scuole statali e non statali di istruzione secondaria e artistica, compresi i conservatori e le accademie.
 
 4.
 
-Nei casi in cui non sia intervenuta una disciplina a livello comunitario, alla equiparazione dei titoli di studio e professionali si provvede ai sensi dell'[articolo 37, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Nei casi in cui non sia intervenuta una disciplina a livello comunitario, alla equiparazione dei titoli di studio e professionali si provvede ai sensi dell'[articolo 37, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 Note all'[art. 390:
  - La legge n. 102/1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960;102#art_390) reca: Ratifica ed esecuzione dello statuto della Scuola europea, firmato a Lussemburgo il 12 aprile 1957.
@@ -8583,7 +8583,7 @@ Capo III
 
 1.
 
-In attesa che siano perfezionati i contratti collettivi cui il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, affida la disciplina di tutte le materie relative al rapporto di lavoro con le pubbliche amministrazioni, nel quadro della sua riconduzione alla disciplina del rapporto di lavoro subordinato nell'impresa, i diritti e doveri del personale della scuola sono definiti dagli articoli che seguono.
+In attesa che siano perfezionati i contratti collettivi cui il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, affida la disciplina di tutte le materie relative al rapporto di lavoro con le pubbliche amministrazioni, nel quadro della sua riconduzione alla disciplina del rapporto di lavoro subordinato nell'impresa, i diritti e doveri del personale della scuola sono definiti dagli articoli che seguono.
 
 2.
 
@@ -8644,7 +8644,7 @@ Le quattro giornate di riposo, di cui alla lettera b) del comma 5, devono essere
 
 1.
 
-Per i congedi straordinari e le aspettative si applicano le disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come modificate dall'[articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md). L'aspettativa per mandato parlamentare e' disciplinata dall'[articolo 71 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Per i congedi straordinari e le aspettative si applicano le disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come modificate dall'[articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md). L'aspettativa per mandato parlamentare e' disciplinata dall'[articolo 71 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -8669,7 +8669,7 @@ Note all'[art. 450:
  'Per il primo giorno di ogni periodo ininterrotto di congedo straoardinario spettano al pubblico dipendente tutti gli assegni, ridotti di un terzo, escluse le indennita' per servizi e funzioni di carattere speciale e per prestazioni di lavoro straordinario. Durante il periodo di congedo ordinario e straordinario, esclusi i giorni di cui al periodo precedente, spettano al pubblico dipendente tutti gli assegni escluse le indennita' per servizi e funzioni di carattere speciale e per prestazioni di lavoro straordinario'.
  40. Le disposizioni di cui al comma 39 non si applicano ai lavoratori per i quali e' previsto il diritto all'esenzione dalla spesa sanitaria, appartenenti ad una delle categorie elencate all'art. 6 del decreto del Ministro della sanita' 1 febbraio 1991, pubblicato nella Gazzetta Ufficiale n. 32 del 7 febbraio 1991, e successive modificazioni ed integrazioni, o affetti da una delle forme morbose comprese negli articoli 1, 2 e 3 dello stesso decreto e individuate con decreto del Ministro della sanita' nel caso in cui tali forme morbose richiedano cure ospedaliere o ambulatoriali ricorrenti.
  41. Le disposizioni di cui commi 37, 38 e 39 si applicano a tutte le pubbliche amministrazioni ancorche' i rispettivi ordinamenti non facciano rinvio al citato testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni.
- 42. Sono abrogate le disposizioni vigenti in materia di congedo straordinario per cure termali dei dipendenti delle pubbliche amministrazioni di cui all'[art. 1 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md)".
+ 42. Sono abrogate le disposizioni vigenti in materia di congedo straordinario per cure termali dei dipendenti delle pubbliche amministrazioni di cui all'[art. 1 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md)".
  - L'[art. 71 del D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_71) cosi' recita:
  "Art. 71. - 1. I dipendenti delle pubbliche amministrazioni eletti al Parlamento nazionale, al Parlamento europeo e nei consigli regionali sono collocati in aspettativa senza assegni per la durata del mandato.
  Essi possono optare per la conservazione, in luogo dell'indennita' parlamentare e dell'analoga indennita' corrisposta ai consiglieri regionali, del trattamento economico in godimento presso l'amministrazione di appartenenza che resta a carico della medesima.
@@ -9038,7 +9038,7 @@ I trasferimenti d'ufficio per soppressione di posto o di cattedra sono disposti 
 
 Quando ricorrano ragioni d'urgenza, il trasferimento d'ufficio per accertata situazione di incompatibilita' di permanenza nella scuola o nella sede puo' essere disposto anche durante l'anno scolastico. Se ricorrono ragioni di particolare urgenza, puo' essere nel frattempo disposta la sola sospensione dal servizio da parte del dirigente scolastico, sentito il collegio dei docenti, se trattasi di personale docente ed educativo, o da parte del dirigente preposto all'ufficio scolastico regionale, se trattasi di dirigente scolastico. Il provvedimento deve essere immediatamente comunicato per la convalida al dirigente dell'ufficio scolastico regionale, se disposto nei confronti di personale docente ed educativo, ovvero al capo del competente dipartimento del Ministero della pubblica istruzione, se riguarda dirigenti scolastici. In mancanza di convalida, e in ogni caso in mancanza di presentazione della richiesta di parere dell'organo collegiale competente, nel termine di dieci giorni dall'adozione, il provvedimento di sospensione e' revocato di diritto.
 
-2. Qualora le ragioni d'urgenza di cui al comma 1 siano dovute alla sussistenza di gravi e comprovati fattori di turbamento dell'ambiente scolastico e di pregiudizio del rapporto tra l'istituzione scolastica e le famiglie degli alunni, conseguenti a specifici comportamenti di uno o piu' docenti, lesivi della dignita' delle persone che operano nell'ambito scolastico, degli studenti e dell'istituzione scolastica, tali da risultare incompatibili con la funzione educativa, il dirigente scolastico, nella garanzia del rispetto dei principi costituzionali e del principio di parita' di trattamento di cui all'[articolo 2, comma 1, del decreto legislativo 9 luglio 2003, n. 216](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-78-CE%20per%20la%20parita%20di%20trattamento%20in%20materia%20di%20occupazione%20e%20di%20condizioni%20di%20lavoro%20e%20della%20direttiva%20n.%202014-54-UE%20relativa%20alle%20misure%20intese%20ad%20agevo_e325256c92cf.md), attuativo della [direttiva 2000/78/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;78), puo' adottare il provvedimento di sospensione senza sentire il collegio dei docenti, con le modalita' previste dal comma 1. Nel caso in cui i fatti di cui al primo periodo del presente comma siano riferibili a comportamenti di dirigenti scolastici, il provvedimento di sospensione e' adottato dal dirigente preposto all'ufficio scolastico regionale e la convalida e' operata, entro il termine di dieci giorni, dal capo del competente dipartimento del Ministero della pubblica istruzione.
+2. Qualora le ragioni d'urgenza di cui al comma 1 siano dovute alla sussistenza di gravi e comprovati fattori di turbamento dell'ambiente scolastico e di pregiudizio del rapporto tra l'istituzione scolastica e le famiglie degli alunni, conseguenti a specifici comportamenti di uno o piu' docenti, lesivi della dignita' delle persone che operano nell'ambito scolastico, degli studenti e dell'istituzione scolastica, tali da risultare incompatibili con la funzione educativa, il dirigente scolastico, nella garanzia del rispetto dei principi costituzionali e del principio di parita' di trattamento di cui all'[articolo 2, comma 1, del decreto legislativo 9 luglio 2003, n. 216](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202000-78-CE%20per%20la%20parita%20di%20trattamento%20in%20materia%20di%20occupazione%20e%20di%20condizioni%20di%20lavoro%20e%20della%20direttiva%20n.%202014-54-UE%20relativa%20alle%20misure%20intese%20ad%20agevo_e325256c92cf.md), attuativo della [direttiva 2000/78/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;78), puo' adottare il provvedimento di sospensione senza sentire il collegio dei docenti, con le modalita' previste dal comma 1. Nel caso in cui i fatti di cui al primo periodo del presente comma siano riferibili a comportamenti di dirigenti scolastici, il provvedimento di sospensione e' adottato dal dirigente preposto all'ufficio scolastico regionale e la convalida e' operata, entro il termine di dieci giorni, dal capo del competente dipartimento del Ministero della pubblica istruzione.
 Entro il termine di cinque giorni dall'adozione del provvedimento di sospensione, il docente o il dirigente scolastico interessati possono produrre proprie memorie difensive all'organo competente a disporre la convalida. In mancanza di convalida, il provvedimento di sospensione e' revocato di diritto))
 
 ### Art. 469. — Organi competenti
@@ -9142,7 +9142,7 @@ Gli specifici accordi contrattuali di cui all'articolo 470 definiscono criteri d
 
 6.
 
-I compensi dovuti ai coordinatori ed ai docenti, che hanno svolto attivita' didattica e formativa, sono determinati, fino alla sottoscrizione dei contratti collettivi di cui all'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, con decreto del Ministro della pubblica istruzione, da emanarsi di concerto con il Ministro del tesoro e con la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, sulla base di parametri analoghi a quelli relativi ai compensi previsti, di norma, per i corsi di aggiornamento. I relativi oneri gravano sugli appositi capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione fino all'attivazione della predetta contrattazione collettiva. 
+I compensi dovuti ai coordinatori ed ai docenti, che hanno svolto attivita' didattica e formativa, sono determinati, fino alla sottoscrizione dei contratti collettivi di cui all'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, con decreto del Ministro della pubblica istruzione, da emanarsi di concerto con il Ministro del tesoro e con la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, sulla base di parametri analoghi a quelli relativi ai compensi previsti, di norma, per i corsi di aggiornamento. I relativi oneri gravano sugli appositi capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione fino all'attivazione della predetta contrattazione collettiva. 
  
 ---------------
 
@@ -9302,10 +9302,10 @@ Personale amministrativo, tecnico ed
 
 7.
 
-Agli inquadramenti di cui al presente articolo si provvede prioritariamente rispetto a quelli effettuati in base alle disposizioni di carattere generale in materia di mobilita' dei dipendenti pubblici, di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, che comunque restano confermate per tutte le ipotesi diverse da quelle previste ai commi 1 e 3.
+Agli inquadramenti di cui al presente articolo si provvede prioritariamente rispetto a quelli effettuati in base alle disposizioni di carattere generale in materia di mobilita' dei dipendenti pubblici, di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, che comunque restano confermate per tutte le ipotesi diverse da quelle previste ai commi 1 e 3.
 
 Note all'[art. 480:
- - La legge n. 421/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;421#art_480) reca delega al Governo per la razionalizzazione e la revisione delle discipline in materia di sanita', di pubblico impiego, di previdenza e di finanza territoriale; in base ad essa e' stato emanato il piu' volte citato [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md). Il richiamo serve qui soltanto come riferimento temporale.
+ - La legge n. 421/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;421#art_480) reca delega al Governo per la razionalizzazione e la revisione delle discipline in materia di sanita', di pubblico impiego, di previdenza e di finanza territoriale; in base ad essa e' stato emanato il piu' volte citato [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md). Il richiamo serve qui soltanto come riferimento temporale.
  - Le tabelle a) e b) allegate al D.P.C.M. 27 luglio 1987 definiscono le dotazioni organiche degli uffici dell'amministrazione centrale e dell'amministrazione scolastica periferica.
  - Per il [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) si veda la nota all'rt. 447.
 
@@ -9466,7 +9466,7 @@ Le nuove misure per il riconoscimento dei servizi, previsti dagli articoli 485 e
 
 1.
 
-Fino al perfezionamento dei contratti collettivi, di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, l'orario obbligatorio di servizio dei docenti e' determinato secondo quanto previsto dai commi seguenti.
+Fino al perfezionamento dei contratti collettivi, di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, l'orario obbligatorio di servizio dei docenti e' determinato secondo quanto previsto dai commi seguenti.
 
 2.
 
@@ -9742,7 +9742,7 @@ Il personale, che, al compimento del sessantacinquesimo anno di eta', non abbia 
 
 4.
 
-COMMA ABROGATO DAL [D.P.R. 28 APRILE 1998, N. 351](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20in%20materia%20di%20cessazione%20dal%20servizio%20e%20di%20trattamento%20di%20quiescenza%20del%20personale%20della%20scuola%20a%20norma%20dellarticolo%2020%20c_376fda9a1fc2.md).
+COMMA ABROGATO DAL [D.P.R. 28 APRILE 1998, N. 351](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20in%20materia%20di%20cessazione%20dal%20servizio%20e%20di%20trattamento%20di%20quiescenza%20del%20personale%20della%20scuola%20a%20norma%20dellarticolo%2020%20c_376fda9a1fc2.md).
 
 5.
 
@@ -10132,7 +10132,7 @@ Nei casi di assenza dal servizio per malattia accertata dall' amministrazione il
 
 1.
 
-Le assenze per gravi motivi, ivi comprese le assenze per accertata malattia, ed il relativo trattamento economico del personale supplente annuale delle scuole di ogni ordine e grado che si trovi almeno al secondo anno di servizio scolastico continuativo sono disciplinate dai contratti collettivi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Le assenze per gravi motivi, ivi comprese le assenze per accertata malattia, ed il relativo trattamento economico del personale supplente annuale delle scuole di ogni ordine e grado che si trovi almeno al secondo anno di servizio scolastico continuativo sono disciplinate dai contratti collettivi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 Nota all'[art. 530:
  - Per il D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_530) si veda la nota all'art. 447.
@@ -10296,7 +10296,7 @@ TITOLO II
 
 1.
 
-Il rapporto di lavoro del personale amministrativo, tecnico ed ausiliario (A.T.A.) delle scuole di ogni ordine e grado, delle istituzioni educative, dei conservatori di musica, delle accademie di belle arti e delle accademie nazionali di arte drammatica e di danza e' disciplinato dai contratti collettivi di cui al [decreto legislativo 3 febbraio 1993 n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
+Il rapporto di lavoro del personale amministrativo, tecnico ed ausiliario (A.T.A.) delle scuole di ogni ordine e grado, delle istituzioni educative, dei conservatori di musica, delle accademie di belle arti e delle accademie nazionali di arte drammatica e di danza e' disciplinato dai contratti collettivi di cui al [decreto legislativo 3 febbraio 1993 n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
 
 2.
 
@@ -10307,7 +10307,7 @@ Fino alla stipulazione dei predetti contratti collettivi si applicano le norme d
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 543. — Aree funzionali
 
@@ -10320,7 +10320,7 @@ Il personale statale amministrativo, tecnico ed ausiliario (A.T.A.) delle scuole
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 544.
 
@@ -10335,7 +10335,7 @@ I ruoli del personale di cui all'articolo 543 sono provinciali, ad eccezione dei
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 545. — Qualifiche funzionali
 
@@ -10352,7 +10352,7 @@ Le qualifiche funzionali di ciascun ruolo del personale A.T.A. sono le seguenti:
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 546. — Profili professionali
 
@@ -10372,14 +10372,14 @@ I profili professionali delle qualifiche del personale A.T.A. sono inseriti nell
 
 3.
 
-I profili professionali sono definiti con i contratti collettivi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni. 
+I profili professionali sono definiti con i contratti collettivi di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni. 
  ((96)) 
  
  
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 547. — Collocazione dei profili professionali nelle qualifiche funzionali
 
@@ -10408,18 +10408,18 @@ Appartengono all'ottava qualifica funzionale i profili professionali dei diretto
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 548.
 
-ARTICOLO ABROGATO DAL [D.P.R. 22 GIUGNO 2009, N. 119](../DPR/Regolamento%20recante%20disposizioni%20per%20la%20definizione%20dei%20criteri%20e%20dei%20parametri%20per%20la%20determinazione%20della%20consistenza%20complessiva%20degli%20organici%20del%20personale%20amministrativo%20tecnico%20ed%20_6dcc87a84a97.md) 
+ARTICOLO ABROGATO DAL [D.P.R. 22 GIUGNO 2009, N. 119](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20per%20la%20definizione%20dei%20criteri%20e%20dei%20parametri%20per%20la%20determinazione%20della%20consistenza%20complessiva%20degli%20organici%20del%20personale%20amministrativo%20tecnico%20ed%20_6dcc87a84a97.md) 
  ((96))
 
 --------------
 
 AGGIORNAMENTO (96)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 549. — Consiglio di amministrazione provinciale
 
@@ -10440,7 +10440,7 @@ I membri del consiglio di amministrazione provinciale durano in carica per un tr
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ## RECLUTAMENTO
 
@@ -10450,7 +10450,7 @@ Capo II
 
 1.
 
-Con regolamento da emanarsi ai sensi dell'[articolo 41 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, sono disciplinati:
+Con regolamento da emanarsi ai sensi dell'[articolo 41 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, sono disciplinati:
                             a)
                                 i requisiti generali di accesso all'impiego e la relativa documentazione;
                             b)
@@ -10475,7 +10475,7 @@ Le nomine, da conferire a seguito delle procedure concorsuali, sono disposte nei
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 551. — (Accesso al ruolo dei responsabili amministrativi).
 
@@ -10500,7 +10500,7 @@ I posti disponibili e vacanti per l'accesso ai ruoli di responsabili amministrat
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 552. — Concorsi per titoli ed esami
 
@@ -10545,7 +10545,7 @@ Le disposizioni di cui al presente articolo si applicano anche ai responsabili a
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 553. — (Graduatorie permanenti).
 
@@ -10582,7 +10582,7 @@ Ai fini dell'inserimento nelle graduatorie permanenti del personale di cui al co
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 554. — Accesso ai ruoli della terza e quarta qualifica funzionale
 
@@ -10623,7 +10623,7 @@ Le nomine sono disposte, nei limiti dei posti disponibili, secondo l'ordine dell
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 555. — Commissioni
 
@@ -10656,7 +10656,7 @@ Per quanto non previsto dal presente testo unico si applicano le disposizioni vi
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 556. — Norme particolari di accesso
 
@@ -10681,7 +10681,7 @@ Il personale A.T.A. puo' partecipare ai concorsi pubblici per l' accesso alla qu
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 557. — (Concorsi riservati)
 
@@ -10715,7 +10715,7 @@ I concorsi riservati sono banditi dagli uffici dell'amministrazione scolastica p
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 558. — Concorsi per l'estero
 
@@ -10728,7 +10728,7 @@ Per la selezione del personale amministrativo, tecnico ed ausiliario da destinar
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 559. — Nomina in ruolo
 
@@ -10741,7 +10741,7 @@ La nomina in ruolo, ai fini giuridici, ha effetto dall'inizio dell'anno scolasti
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 560. — Adempimenti degli immessi in ruolo
 
@@ -10762,7 +10762,7 @@ Sono aboliti i rapporti informativi ed i giudizi complessivi annuali.
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ## DIRITTI E DOVERI Sezione I: Congedi e aspettative
 
@@ -10772,14 +10772,14 @@ Capo III
 
 1.
 
-In materia di diritti e doveri e di disciplina del personale amministrativo, tecnico e ausiliario, per quanto non diversamente disposto dai contratti collettivi da stipulare ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni, si applicano le disposizioni recate dagli articoli che seguono. 
+In materia di diritti e doveri e di disciplina del personale amministrativo, tecnico e ausiliario, per quanto non diversamente disposto dai contratti collettivi da stipulare ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni, si applicano le disposizioni recate dagli articoli che seguono. 
  ((96)) 
  
  
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 562. — Congedo ordinario
 
@@ -10808,13 +10808,13 @@ La ricorrenza del Santo Patrono, se ricadente in giornata lavorativa, e' conside
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 563. — Congedi straordinari e aspettative
 
 1.
 
-Per i congedi straordinari e le aspettative si applicano le disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957 n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come modificate dall'[articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md). L'aspettativa per mandato parlamentare e' disciplinata dall'[articolo 71 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Per i congedi straordinari e le aspettative si applicano le disposizioni del testo unico approvato con [decreto del Presidente della Repubblica 10 gennaio 1957 n. 3](Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), come modificate dall'[articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md). L'aspettativa per mandato parlamentare e' disciplinata dall'[articolo 71 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -10825,7 +10825,7 @@ I congedi straordinari e le aspettative, a qualunque titolo, sono concesse dal d
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 564. — Proroga eccezionale dell'aspettativa
 
@@ -10842,20 +10842,20 @@ Il periodo di proroga eccezionale non e' valido ne' ai fini della carriera ne' a
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 565. — Mobilita' professionale nel comparto
 
 1.
 
-La mobilita' professionale nel comparto e' disciplinata dai contratti collettivi a norma dell'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni. 
+La mobilita' professionale nel comparto e' disciplinata dai contratti collettivi a norma dell'[articolo 45 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni. 
  ((96)) 
  
  
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 566. — Trasferimenti
 
@@ -10900,7 +10900,7 @@ Il Ministro della pubblica istruzione stabilisce, con propria ordinanza, il term
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 567. — Trasferimento d'ufficio
 
@@ -10917,7 +10917,7 @@ Il trasferimento d'ufficio per incompatibilita' e' disciplinato dall'articolo 32
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 568. — Assegnazione provvisoria
 
@@ -10951,7 +10951,7 @@ Con la stessa ordinanza di cui all'articolo 566 il Ministro della pubblica istru
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 569. — Riconoscimento dei servizi agli effetti della carriera
 
@@ -10990,7 +10990,7 @@ Il riconoscimento dei servizi e' disposto all'atto della nomina in ruolo.
 
 1.
 
-Sino al perfezionamento dei contratti collettivi di lavoro di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, l'orario di servizio del personale amministrativo, tecnico ed ausiliario e' determinato in 36 ore settimanali.
+Sino al perfezionamento dei contratti collettivi di lavoro di cui al [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, l'orario di servizio del personale amministrativo, tecnico ed ausiliario e' determinato in 36 ore settimanali.
 
 2.
 
@@ -11009,7 +11009,7 @@ Il consiglio d'istituto stabilisce i criteri generali per la fissazione dei turn
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 572. — Tempo parziale
 
@@ -11022,7 +11022,7 @@ Il rapporto di lavoro a tempo parziale del personale amministrativo, tecnico ed 
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 573. — Corsi di aggiornamento e di qualificazione culturale e professionale
 
@@ -11047,7 +11047,7 @@ La materia cui al presente articolo trova ulteriori definizioni in sede di contr
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 574. — Responsabilita' patrimoniale
 
@@ -11064,7 +11064,7 @@ La limitazione di cui al comma 1 si applica anche alla responsabilita' del prede
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ## DISCIPLINA
 
@@ -11075,7 +11075,7 @@ Capo IV
 1.
 
 In materia di responsabilita' disciplinare si applica, nei confronti del personale amministrativo, tecnico ed ausiliario, quanto disposto dall'[articolo 59 del decreto legislativo 3 febbraio 1993, n. 
-29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 
@@ -11086,7 +11086,7 @@ La tipologia e l'entita' delle infrazioni e delle relative sanzioni sono stabili
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 576. — Procedimento disciplinare
 
@@ -11127,7 +11127,7 @@ Il servizio prestato nell'anno non viene valutato ai fini della progressione eco
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 577. — Commissione di disciplina provinciale
 
@@ -11140,7 +11140,7 @@ Fino all'attuazione delle norme sul procedimento disciplinare, di cui all'[artic
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 578. — Composizione della commissione di disciplina provinciale
 
@@ -11173,7 +11173,7 @@ Qualora durante il triennio il presidente o taluno dei membri effettivi o supple
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ## UTILIZZAZIONE E DIMISSIONI
 
@@ -11198,18 +11198,18 @@ Gli impiegati trasferiti conservano l'anzianita' di carriera acquisita e sono co
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ### Art. 580.
 
-ARTICOLO ABROGATO DAL [D.P.R. 28 APRILE 1998, N. 351](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20in%20materia%20di%20cessazione%20dal%20servizio%20e%20di%20trattamento%20di%20quiescenza%20del%20personale%20della%20scuola%20a%20norma%20dellarticolo%2020%20c_376fda9a1fc2.md) 
+ARTICOLO ABROGATO DAL [D.P.R. 28 APRILE 1998, N. 351](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20in%20materia%20di%20cessazione%20dal%20servizio%20e%20di%20trattamento%20di%20quiescenza%20del%20personale%20della%20scuola%20a%20norma%20dellarticolo%2020%20c_376fda9a1fc2.md) 
  ((96)) 
  
  
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ## PERSONALE A.T.A. NON DI RUOLO
 
@@ -11288,7 +11288,7 @@ Ai modelli viventi si applicano le disposizioni dell'articolo 275.
 -------------------
  
 AGGIORNAMENTO (96) 
- Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
+ Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20governativi/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md) ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ## NORME COMUNI AL PERSONALE Capo I DIRITTI SINDACALI
 
@@ -11298,17 +11298,17 @@ Titolo IV
 
 1.
 
-Le liberta' sindacali sono disciplinate dagli [articoli 54](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [55 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni, dalla [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), ivi richiamata, e dalle disposizioni dei contratti collettivi di cui all'articolo 45 del richiamato [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Le liberta' sindacali sono disciplinate dagli [articoli 54](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [55 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni, dalla [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), ivi richiamata, e dalle disposizioni dei contratti collettivi di cui all'articolo 45 del richiamato [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
-Fino alla stipulazione dell'apposito accordo previsto dall' [articolo 54 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) si osservano, in materia di aspettative e permessi sindacali, le disposizioni degli articoli 591 e 592.((7)) 
+Fino alla stipulazione dell'apposito accordo previsto dall' [articolo 54 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) si osservano, in materia di aspettative e permessi sindacali, le disposizioni degli articoli 591 e 592.((7)) 
  
 ----------------
 
  
 AGGIORNAMENTO (7) 
- Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6,comma 8) che "per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento,[. . .] cessano di avere efficacia gli [articoli 590, comma 2](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), [591](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [592 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+ Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6,comma 8) che "per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento,[. . .] cessano di avere efficacia gli [articoli 590, comma 2](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), [591](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [592 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 ### Art. 591. — Aspettative sindacali e trattamento economico
 
@@ -11354,7 +11354,7 @@ L'aspettativa ha termine con la cessazione, per qualsiasi causa, del mandato sin
 
 11.
 
-Contestualmente alla definizione, nell'ambito della contrattazione collettiva, degli accordi che, ai sensi dell'[articolo 54 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni disciplinano l'intera materia delle aspettative e dei permessi sindacali, cessa l'efficacia delle norme recate dai commi precedenti.
+Contestualmente alla definizione, nell'ambito della contrattazione collettiva, degli accordi che, ai sensi dell'[articolo 54 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni disciplinano l'intera materia delle aspettative e dei permessi sindacali, cessa l'efficacia delle norme recate dai commi precedenti.
 
 12.
 
@@ -11364,7 +11364,7 @@ Le aspettative ed i permessi sindacali retribuiti, previsti dagli accordi sindac
 
  
 AGGIORNAMENTO (7) 
- Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6,comma 8) che "per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento,[. . .] cessano di avere efficacia gli [articoli 590, comma 2](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), [591](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [592 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+ Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6,comma 8) che "per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento,[. . .] cessano di avere efficacia gli [articoli 590, comma 2](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), [591](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [592 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 ### Art. 592. — Permessi sindacali
 
@@ -11384,7 +11384,7 @@ L'effettiva utilizzazione dei permessi sindacali deve essere certificata al capo
 
  
 AGGIORNAMENTO (7) 
- Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6,comma 8) che "per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento,[. . .] cessano di avere efficacia gli [articoli 590, comma 2](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), [591](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [592 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
+ Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6,comma 8) che "per effetto dell'[art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento,[. . .] cessano di avere efficacia gli [articoli 590, comma 2](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), [591](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) e [592 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md).
 
 ### Art. 593. — Spazi e sedi
 
@@ -11422,7 +11422,7 @@ Con decreto ministeriale, sentito il Consiglio di amministrazione, nonche' le or
 
 1.
 
-Ai dipendenti della scuola si applica la [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), secondo le modalita' stabilite dal [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Ai dipendenti della scuola si applica la [legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300), secondo le modalita' stabilite dal [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 
@@ -11461,7 +11461,7 @@ Presso ciascun ufficio scolastico regionale si costituisce una commissione sinda
 
 7.
 
-Ai sensi dell'[articolo 48 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, la contrattazione collettiva definisce nuove forme di partecipazione delle rappresentanze del personale, sostitutive di quella stabilita dai commi precedenti.
+Ai sensi dell'[articolo 48 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, la contrattazione collettiva definisce nuove forme di partecipazione delle rappresentanze del personale, sostitutive di quella stabilita dai commi precedenti.
 
 Nota all'art. 597:
  - Il testo dell'[art. 48 del D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_48), e successive modificazioni, e' il seguente:
@@ -11528,7 +11528,7 @@ Capo III
 
 1.
 
-Il trattamento economico del personale ispettivo tecnico, direttivo, docente, educativo, amministrativo, tecnico ed ausiliario e' disciplinato dalle norme vigenti al momento dell'entrata in vigore del presente testo unico e dalle loro eventuali successive modificazioni, sino all'entrata in vigore dei contratti collettivi di cui all'[articolo 49 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Il trattamento economico del personale ispettivo tecnico, direttivo, docente, educativo, amministrativo, tecnico ed ausiliario e' disciplinato dalle norme vigenti al momento dell'entrata in vigore del presente testo unico e dalle loro eventuali successive modificazioni, sino all'entrata in vigore dei contratti collettivi di cui all'[articolo 49 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 Nota all'art. 602:
  - Il testo dell'art. 49 del D.Lgs. n. 29/1/993 e' il seguente:
@@ -11590,7 +11590,7 @@ Il Ministero esercita altresi' la vigilanza su altri enti quando sia previsto da
 
 1.
 
-Il Ministro definisce gli obiettivi ed i programmi da assumere e verifica la rispondenza dei risultati della gestione amministrativa alle direttive generali impartite, ai sensi dell'[articolo 3, comma 1, del decreto legislativo 3 febbraio 1993 n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dall'[articolo 2 del decreto legislativo 18 novembre 1993, n. 470](../Decreti%20Legislativi/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md), ed in particolare esercita i compiti indicati nell'[articolo 14 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 8 del decreto legislativo 23 dicembre 1993, n. 546](../Decreti%20Legislativi/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
+Il Ministro definisce gli obiettivi ed i programmi da assumere e verifica la rispondenza dei risultati della gestione amministrativa alle direttive generali impartite, ai sensi dell'[articolo 3, comma 1, del decreto legislativo 3 febbraio 1993 n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dall'[articolo 2 del decreto legislativo 18 novembre 1993, n. 470](../Decreti%20Legislativi/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md), ed in particolare esercita i compiti indicati nell'[articolo 14 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 8 del decreto legislativo 23 dicembre 1993, n. 546](../Decreti%20Legislativi/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
 
 2.
 
@@ -11621,15 +11621,15 @@ Per la costituzione e il funzionamento del gabinetto del Ministro e delle segret
 
 1.
 
-Ai sensi dell'[articolo 3, comma 2, del decreto legislativo 3 febbraio 1993 n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, ai dirigenti spetta la gestione finanziaria, tecnica e amministrativa, compresa l'adozione di tutti gli atti che impegnano l'amministrazione verso l'esterno, mediante autonomi poteri di spesa, di organizzazione delle risorse umane e strumentali e di controllo. Essi sono responsabili della gestione e dei relativi risultati.
+Ai sensi dell'[articolo 3, comma 2, del decreto legislativo 3 febbraio 1993 n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, ai dirigenti spetta la gestione finanziaria, tecnica e amministrativa, compresa l'adozione di tutti gli atti che impegnano l'amministrazione verso l'esterno, mediante autonomi poteri di spesa, di organizzazione delle risorse umane e strumentali e di controllo. Essi sono responsabili della gestione e dei relativi risultati.
 
 2.
 
-Ai dirigenti, in relazione alla qualifica, all'ufficio a cui sono preposti o ai compiti loro assegnati, si applicano le disposizioni contenute nel capo II del titolo II del [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, e le disposizioni del [decreto del Presidente della Repubblica 30 giugno 1972 n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md) compatibili con le disposizioni dei predetti decreti legislativi.
+Ai dirigenti, in relazione alla qualifica, all'ufficio a cui sono preposti o ai compiti loro assegnati, si applicano le disposizioni contenute nel capo II del titolo II del [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, e le disposizioni del [decreto del Presidente della Repubblica 30 giugno 1972 n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md) compatibili con le disposizioni dei predetti decreti legislativi.
 
 3.
 
-L'individuazione degli uffici di livello dirigenziale generale e delle relative funzioni e l'individuazione degli uffici corrispondenti ad altro livello dirigenziale e delle relative funzioni sono disposte ai sensi dell'[articolo 6 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+L'individuazione degli uffici di livello dirigenziale generale e delle relative funzioni e l'individuazione degli uffici corrispondenti ad altro livello dirigenziale e delle relative funzioni sono disposte ai sensi dell'[articolo 6 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 Note all'art. 610:
  - Il capo II del titolo II del [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) e successive modificazioni, detta disposizioni in materia di qualifiche, uffici dirigenziali ed attribuzioni (sezione I) e di accesso alla dirigenza e riordino della Scuola superiore della pubblica amministrazione
@@ -11659,11 +11659,11 @@ Ai sensi del testo unico approvato con [decreto del Presidente della Repubblica 
 
 2.
 
-La composizione del consiglio di amministrazione e' modificata secondo quanto disposto dall'[articolo 48 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, che ha abrogato le norme che prevedono forme di rappresentanza, anche elettiva, del personale nei consigli di amministrazione.
+La composizione del consiglio di amministrazione e' modificata secondo quanto disposto dall'[articolo 48 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, che ha abrogato le norme che prevedono forme di rappresentanza, anche elettiva, del personale nei consigli di amministrazione.
 
 3.
 
-Per gli organi competenti in materia disciplinare si osservano le disposizioni dell'[articolo 59 del decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
+Per gli organi competenti in materia disciplinare si osservano le disposizioni dell'[articolo 59 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
 
 Note all'art. 612:
  - Il testo degli [articoli 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_48) e [59 del D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_59), e' il seguente:
@@ -11685,11 +11685,11 @@ Note all'art. 612:
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 3.
 
@@ -11699,7 +11699,7 @@ Alle spese per la fornitura e la manutenzione dei locali, e per la fornitura del
 
 AGGIORNAMENTO (29)
 
-Il [D.P.R. 6 novembre 2000, n. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 6,comma
+Il [D.P.R. 6 novembre 2000, n. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 6,comma
 1) che "In ciascun capoluogo di regione e' istituito l'ufficio scolastico regionale, di livello dirigenziale generale, che costituisce un autonomo centro di responsabilita' amministrativa, al quale sono assegnate tutte le funzioni gia' spettanti agli uffici periferici dell'amministrazione della pubblica istruzione a norma della vigente legislazione. Esso assorbe gli uffici scolastici regionali di cui all'articolo 613 del testo unico approvato con [decreto legislativo n. 297 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297), che sono soppressi alla data di entrata in vigore del presente regolamento, ed esercita le funzioni non trasferite alle istituzioni scolastiche o non riservate all'amministrazione centrale dal presente regolamento, o non conferite alle regioni e agli enti locali"; ha inoltre disposto (con
 l'art. 9,comma 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del medesimo testo unico si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
@@ -11710,7 +11710,7 @@ l'art. 9,comma 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, co
 ---------------
 
 AGGIORNAMENTO (37)
-Il [D.P.R. 11 agosto 2003, n. 319](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ha disposto (con l'art. 11, comma
+Il [D.P.R. 11 agosto 2003, n. 319](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ha disposto (con l'art. 11, comma
 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione."
  
 -------------
@@ -11718,21 +11718,21 @@ Il [D.P.R. 11 agosto 2003, n. 319](../DPR/Regolamento%20di%20organizzazione%20de
 
  
 AGGIORNAMENTO (47) 
- Il [D.P.R. 21 dicembre 2007, n.260](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
+ Il [D.P.R. 21 dicembre 2007, n.260](../Regolamenti%20governativi/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
 ### Art. 614. — Provveditorato agli studi
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 4.
 
@@ -11742,7 +11742,7 @@ L'Amministrazione provinciale e' tenuta a fornire i locali per il provveditorato
 
 AGGIORNAMENTO (29)
 
-Il [D.P.R. 6 novembre 2000, n. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 9,comma
+Il [D.P.R. 6 novembre 2000, n. 347](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 9,comma
 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del medesimo testo unico si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
 
@@ -11752,13 +11752,13 @@ Il [D.P.R. 6 novembre 2000, n. 347](../DPR/Regolamento%20recante%20norme%20di%20
 
  
 AGGIORNAMENTO (37) 
- Il [D.P.R. 11 agosto 2003, n. 319](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ha disposto (con l'art. 11, comma 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione." 
+ Il [D.P.R. 11 agosto 2003, n. 319](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ha disposto (con l'art. 11, comma 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione." 
  
 -------------
 
  
 AGGIORNAMENTO (47) 
- Il [D.P.R. 21 dicembre 2007, n.260](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
+ Il [D.P.R. 21 dicembre 2007, n.260](../Regolamenti%20governativi/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
 ### Art. 615. — Personale
 
@@ -11768,7 +11768,7 @@ AGGIORNAMENTO (47)
 
 2.
 
-Al personale di cui al comma 1 si applicano le disposizioni del [decreto legislativo 3 febbraio 1993 n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
+Al personale di cui al comma 1 si applicano le disposizioni del [decreto legislativo 3 febbraio 1993 n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e successive modificazioni.
 
 ### Art. 616.
 
@@ -11928,7 +11928,7 @@ Salvo quanto previsto dall'articolo 612, nell'Amministrazione centrale operano i
 Note all'art. 623:
  - Si riporta l'[art. 146 del D.P.R. n. 3/1957](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957;3#art_146):
  "Art. 146 (Composizione e competenze). - Presso ciascun Ministero, Alto Commissariato od altra amministrazione centrale e' costituito un consiglio d'amministrazione, presieduto dal Ministro o da un alto commissario o, per delega, da un sottosegretario di Stato oppure dall'impiegato con qualifica piu' elevata. Il consiglio e' composto: a) dai direttori generali e dagli impiegati con qualifica superiore, che hanno l'effettiva direzione di un servizio centrale; b) dagli ispettori generali preposti a servizi centrali dell'amministrazione organicamente dipendenti dal Ministro; c) dal presidente del Consiglio superiore eventualmente esistente presso l'amministrazione;
- d) da rappresentanti del personale in numero pari ad un terzo, e comunque non inferiore a quattro, dei componenti di cui alle lettere a) b) e c), da nominare all'inizio di ogni quadriennio, con decreto del Ministro sulla base delle elezioni svolte ai sensi del [decreto del Presidente della Repubblica 22 luglio 1977, n. 721](../DPR/Regolamento%20per%20la%20elezione%20dei%20rappresentanti%20del%20personale%20in%20seno%20ai%20consigli%20di%20amministrazione%20e%20organi%20similari%20ai%20sensi%20dellart.%207%20della%20legge%2028%20ottobre%201970%20n.%20775.md). I rappresentanti predetti sono eletti direttamente da tutto il personale secondo un regolamento che sara' emanato sentite le organizzazioni sindacali di lavoratori. Con la stessa procedura e contestualmente vengono eletti i supplenti. Il supplente sostituisce il rappresentante titolare in caso di assenza o di impedimento di quest'ultimo.
+ d) da rappresentanti del personale in numero pari ad un terzo, e comunque non inferiore a quattro, dei componenti di cui alle lettere a) b) e c), da nominare all'inizio di ogni quadriennio, con decreto del Ministro sulla base delle elezioni svolte ai sensi del [decreto del Presidente della Repubblica 22 luglio 1977, n. 721](../Regolamenti%20governativi/Regolamento%20per%20la%20elezione%20dei%20rappresentanti%20del%20personale%20in%20seno%20ai%20consigli%20di%20amministrazione%20e%20organi%20similari%20ai%20sensi%20dellart.%207%20della%20legge%2028%20ottobre%201970%20n.%20775.md). I rappresentanti predetti sono eletti direttamente da tutto il personale secondo un regolamento che sara' emanato sentite le organizzazioni sindacali di lavoratori. Con la stessa procedura e contestualmente vengono eletti i supplenti. Il supplente sostituisce il rappresentante titolare in caso di assenza o di impedimento di quest'ultimo.
  I membri di cui alle lettere a) e b), nei casi di assenza o di legittimo impedimento o di vacanza dei relativi posti, sono sostituiti da coloro che secondo i rispettivi ordinamenti ne fanno le veci. Qualora gli stessi membri siano in numero inferiore ad otto, il consiglio di amministrazione e' integrato con gli impiegati delle carriere direttive di qualifica piu' elevata, aventi maggiore anzianita' di qualifica.
  Le funzioni di segretario sono disimpegnate da un impiegato dell'ufficio del personale con qualifica non inferiore a direttore di sezione.
  Il consiglio di amministrazione esercita le attribuzioni stabilite dalla legge in materia di personale ed esprime il proprio avviso sul coordinamento dell'attivita' dei vari uffici, sulle misure idonee ad evitare interferenze o duplicazioni e ad ottenere l'efficacia, la tempestivita' e la semplificazione dell'azione amministrativa nonche' su tutte le altre questioni sulle quali il Ministro ritenga di sentirlo.

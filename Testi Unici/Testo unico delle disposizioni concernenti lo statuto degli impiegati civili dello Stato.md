@@ -650,13 +650,13 @@ L'aspettativa per infermita' e' disposta, d'ufficio o a domanda, quando sia acce
  Il tempo trascorso in aspettativa per infermita' e' computato per intero ai fini della progressione in carriera, dell'attribuzione degli aumenti periodici di stipendio e del trattamento di quiescenza e previdenza. 
  Qualora l'infermita' che e' motivo dell'aspettativa sia riconosciuta dipendente da causa di servizio, permane, inoltre, per tutto il periodo dell'aspettativa il diritto dell'impiegato a tutti gli assegni escluse le indennita' per prestazioni di lavoro straordinario. 
  Per le infermita' riconosciute dipendenti da causa di servizio, e' a carico dell'amministrazione la spesa per la corresponsione di un equo indennizzo per la perdita dell'integrita' fisica eventualmente subita dall'impiegato. 
- COMMA ABROGATO DAL [D.P.R. 20 APRILE 1994, N. 349](../DPR/Regolamento%20recante%20riordino%20dei%20procedimenti%20di%20riconoscimento%20di%20infermita%20o%20lesione%20dipendente%20da%20causa%20di%20servizio%20e%20di%20concessione%20dellequo%20indennizzo.md). (59)
+ COMMA ABROGATO DAL [D.P.R. 20 APRILE 1994, N. 349](../Regolamenti%20governativi/Regolamento%20recante%20riordino%20dei%20procedimenti%20di%20riconoscimento%20di%20infermita%20o%20lesione%20dipendente%20da%20causa%20di%20servizio%20e%20di%20concessione%20dellequo%20indennizzo.md). (59)
 
 ---------------
 
 AGGIORNAMENTO (59)
 
-Il [D.P.R. 20 aprile 1994, n. 349](../DPR/Regolamento%20recante%20riordino%20dei%20procedimenti%20di%20riconoscimento%20di%20infermita%20o%20lesione%20dipendente%20da%20causa%20di%20servizio%20e%20di%20concessione%20dellequo%20indennizzo.md), come modificato dall'avviso di rettifica in G.U. 16/12/1994, n. 293), ha disposto (con l'art. 11, comma 1) l'abrogazione dell'ultimo comma del presente articolo. 
+Il [D.P.R. 20 aprile 1994, n. 349](../Regolamenti%20governativi/Regolamento%20recante%20riordino%20dei%20procedimenti%20di%20riconoscimento%20di%20infermita%20o%20lesione%20dipendente%20da%20causa%20di%20servizio%20e%20di%20concessione%20dellequo%20indennizzo.md), come modificato dall'avviso di rettifica in G.U. 16/12/1994, n. 293), ha disposto (con l'art. 11, comma 1) l'abrogazione dell'ultimo comma del presente articolo. 
  Si intendeno, pertanto, ripristinati i commi da 1 a 8, in precedenza erroneamente abrogati. 
  La suddetta modifica entra in vigore il 16/12/1994.
 
@@ -1994,7 +1994,7 @@ Ai fini del trattamento di quiescenza e' aumentato di quattro o sei dodicesimi i
 AGGIORNAMENTO (16)
 
 La [L. 4 giugno 1962, n. 524](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-04;524) ha disposto (con l'art. 12, commi 1 e 2) che "Il limite di cui all'articolo 235, secondo comma, del testo unico approvato con il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e' elevato al 30 per cento.
- Tale limite si intende riferito al disimpegno delle funzioni di cui al [secondo comma dell'articolo 1 del decreto del Presidente della Repubblica 6 novembre 1960, n. 1655](../DPR/Regolamento%20per%20il%20concorso%20di%20ammissione%20al%20ruolo%20del%20personale%20direttivo%20per%20i%20servizi%20amministrativi%20dellAmministrazione%20centrale%20degli%20affari%20esteri.md), sul regolamento per il concorso di ammissione al ruolo del personale direttivo per i servizi amministrativi".
+ Tale limite si intende riferito al disimpegno delle funzioni di cui al [secondo comma dell'articolo 1 del decreto del Presidente della Repubblica 6 novembre 1960, n. 1655](../Regolamenti%20governativi/Regolamento%20per%20il%20concorso%20di%20ammissione%20al%20ruolo%20del%20personale%20direttivo%20per%20i%20servizi%20amministrativi%20dellAmministrazione%20centrale%20degli%20affari%20esteri.md), sul regolamento per il concorso di ammissione al ruolo del personale direttivo per i servizi amministrativi".
 
 ## Ministero dell'interno  SEZIONE I Personale dell'Amministrazione civile
 
@@ -2726,7 +2726,7 @@ Gli impiegati collocati nei ruoli aggiunti i quali abbiano maturato nei ruoli tr
 
 ### Art. 349. — (Impiegati dei ruoli aggiunti della Corte dei conti)
 
-Gli impiegati collocati nei ruoli aggiunti delle carriere direttive della Corte dei conti a norma dell'[art. 11 della legge 5 giugno 1951, n. 376](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20e%20di%20attuazione%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20sulla%20istituzione%20di%20ruoli%20speciali%20transitori%20nelle%20Amministrazioni%20dello%20Stato.md), sono, ai sensi ed agli effetti dell'art. 348, ammessi a partecipare agli esami per la promozione alla qualifica di direttore di sezione nel ruolo transitorio di revisione della Corte, per un numero di posti non superiore a quello previsto dallo [art. 9 del regio decreto 11 dicembre 1941, n. 1404](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md) modificato dall'[art. 10 del decreto legislativo 5 maggio 1948, n. 589](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riassesto%20dei%20servizi%20e%20revisione%20dei%20ruoli%20organici%20della%20Corte%20dei%20conti.md).
+Gli impiegati collocati nei ruoli aggiunti delle carriere direttive della Corte dei conti a norma dell'[art. 11 della legge 5 giugno 1951, n. 376](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20integrative%20e%20di%20attuazione%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20sulla%20istituzione%20di%20ruoli%20speciali%20transitori%20nelle%20Amministrazioni%20dello%20Stato.md), sono, ai sensi ed agli effetti dell'art. 348, ammessi a partecipare agli esami per la promozione alla qualifica di direttore di sezione nel ruolo transitorio di revisione della Corte, per un numero di posti non superiore a quello previsto dallo [art. 9 del regio decreto 11 dicembre 1941, n. 1404](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lapplicazione%20del%20R.%20decreto-legge%2028%20giugno%201941-XIX%20n.%20856%20concernente%20il%20riassetto%20del%20servizi%20della%20Corte%20dei%20conti.%20041U1404.md) modificato dall'[art. 10 del decreto legislativo 5 maggio 1948, n. 589](../Decreti%20Legislativi/Riassetto%20dei%20servizi%20e%20revisione%20dei%20ruoli%20organici%20della%20Corte%20dei%20conti.md).
 
 ### Art. 350. — (Trattamento economico del personale dei ruoli aggiunti)
 
