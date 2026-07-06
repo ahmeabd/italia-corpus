@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[art. 58, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente l'emanazione di norme dirette a determinare gli incarichi consentiti e quelli vietati, tra l'altro, dei magistrati della Corte dei conti;
+Visto l'[art. 58, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente l'emanazione di norme dirette a determinare gli incarichi consentiti e quelli vietati, tra l'altro, dei magistrati della Corte dei conti;
 
 Viste le osservazioni formulate dal Consiglio di presidenza della Corte dei conti con nota n. 1193/LP/201, del 10 marzo 1994;
 
@@ -30,7 +30,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il presente regolamento disciplina gli incarichi, di cui al [comma 2 dell'art. 58 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), non compresi nei compiti e nei doveri d'ufficio dei magistrati della Corte dei conti, facendo salve le attivita' che costituiscono espressione delle liberta' e dei diritti fondamentali garantiti dalla Costituzione.
+Il presente regolamento disciplina gli incarichi, di cui al [comma 2 dell'art. 58 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), non compresi nei compiti e nei doveri d'ufficio dei magistrati della Corte dei conti, facendo salve le attivita' che costituiscono espressione delle liberta' e dei diritti fondamentali garantiti dalla Costituzione.
 
 2.
 

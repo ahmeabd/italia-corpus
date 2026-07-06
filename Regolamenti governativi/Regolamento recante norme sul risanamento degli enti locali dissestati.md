@@ -159,7 +159,7 @@ Nota all'art. 3:
 
 1.
 
-Valgono per i commissari straordinari liquidatori le disposizioni in materia di incompatibilita' stabilite dall'[art. 102 del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), per i revisori dei conti degli enti locali.
+Valgono per i commissari straordinari liquidatori le disposizioni in materia di incompatibilita' stabilite dall'[art. 102 del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), per i revisori dei conti degli enti locali.
 
 ))
 
@@ -271,7 +271,7 @@ Fanno parte della massa passiva:
                         b)
                             i crediti dell'ente di cui al comma 7, ultimo periodo, dell'art. 6 del presente decreto;
                         c)
-                            i debiti di cui alle [lettere b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [d)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [e)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [f)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [g)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) e [h) di cui all'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
+                            i debiti di cui alle [lettere b)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [c)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [d)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [e)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [f)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [g)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) e [h) di cui all'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
 
 3.
 
@@ -288,7 +288,7 @@ Per le passivita' derivanti da forniture di beni e servizi, l'attestazione reca 
 
 4.
 
-I medesimi elementi di cui al comma 3 devono essere richiesti per la presentazione delle domande di inserimento nel piano di rilevazione di cui all'[art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
+I medesimi elementi di cui al comma 3 devono essere richiesti per la presentazione delle domande di inserimento nel piano di rilevazione di cui all'[art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
 
 ## Art. 6. — ((Piano di estinzione))
 
@@ -326,7 +326,7 @@ Fanno parte della massa passiva:
                         a)
                             le somme da restituire al comune per gia' avvenuto pagamento di residui passivi non portati in detrazione, come da comma 2, lettera a), del presente articolo; i debiti riportati nei residui passivi (anche perenti) rideterminati quali risultano nel complesso, per capitolo, dall'ultimo conto consuntivo approvato dal consiglio dell'ente o dal verbale di chiusura dell'esercizio precedente a quello della dichiarazione di dissesto, se non sono decorsi i termini per l'approvazione del conto consuntivo;
                         b)
-                            i debiti di cui alle [lettere b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [d)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [e)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [f)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [g)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) e [h) dell'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
+                            i debiti di cui alle [lettere b)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [c)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [d)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [e)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [f)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), [g)](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md) e [h) dell'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
                         c)
                             ((LETTERA ABROGATA DAL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336));
                         d)
@@ -478,7 +478,7 @@ Note all'[art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.l
  1-ter. Le disposizioni di cui al comma 1- bis si intendono estese alle amministrazioni provinciali.
  1-quater. Per i maggiori oneri maturati a tutto il 31 dicembre 1989 sono applicabili le disposizioni di cui al [comma 8 dell'art. 24 del decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66#art_24-com8), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md)".
  - La [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, e' la legge sui lavori pubblici.
- - Il [R.D. 25 maggio 1895, n. 350](../Regi%20decreti/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), reca: "Regolamento per la direzione, la contabilita' e la collaudazione dei lavori dello Stato che sono nelle attribuzioni del Ministero dei lavori pubblici".
+ - Il [R.D. 25 maggio 1895, n. 350](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20sulla%20direzione%20contabilita%20e%20collaudazione%20dei%20lavori%20dello%20Stato.%20095U0350.md), reca: "Regolamento per la direzione, la contabilita' e la collaudazione dei lavori dello Stato che sono nelle attribuzioni del Ministero dei lavori pubblici".
  - Il [D.P.R. 16 luglio 1962, n. 1063](../DPR/Approvazione%20del%20capitolato%20generale%20dappalto%20per%20le%20opere%20di%20competenza%20del%20Ministero%20dei%20lavori%20pubblici.md), reca: "Approvazione del capitolato generale d'appalto per le opere di competenza del Ministero dei lavori pubblici".
 
 ## Art. 9. — ((Procedure della 
@@ -515,7 +515,7 @@ I creditori non inseriti nella massa passiva del piano di estinzione possono far
 
 1.
 
-L'ente locale e' tenuto agli adempimenti previsti dall'[art. 87, comma 4, del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
+L'ente locale e' tenuto agli adempimenti previsti dall'[art. 87, comma 4, del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md).
 
 2.
 
@@ -565,7 +565,7 @@ Il tesoriere dell'ente versa all'istituto bancario che provvede al servizio di c
 
 4.
 
-L'organo straordinario della liquidazione provvede al pagamento dei residui passivi non vincolati e dei debiti fuori bilancio. Per i debiti di cui alla [lettera c) dell'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), acquisisce preventivamente il provvedimento di estinzione della procedura esecutiva.
+L'organo straordinario della liquidazione provvede al pagamento dei residui passivi non vincolati e dei debiti fuori bilancio. Per i debiti di cui alla [lettera c) dell'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), acquisisce preventivamente il provvedimento di estinzione della procedura esecutiva.
 
 ))
 

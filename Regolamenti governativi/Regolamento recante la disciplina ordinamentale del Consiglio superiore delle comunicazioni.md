@@ -30,13 +30,13 @@ Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/No
 
 Visto il [decreto-legge 12 giugno 2001, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-12;217), convertito, con modificazioni, dalla [legge 3 agosto 2001, n. 317](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20giugno%202001%20n.%20217%20recante%20modificazioni%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20nonche%20alla%20legge%2023%20agosto%201988%20n.%20400%20i_3dbac4caf843.md);
 
-Visto il [decreto legislativo 30 dicembre 2003, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernenti%20le%20funzioni%20e%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%201%20della%20_bcb5105b5285.md);
+Visto il [decreto legislativo 30 dicembre 2003, n. 366](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20concernenti%20le%20funzioni%20e%20la%20struttura%20organizzativa%20del%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%201%20della%20_bcb5105b5285.md);
 
 Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md);
 
-Vista la [legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md);
+Vista la [legge 3 maggio 2004, n. 112](../Leggi%20contenenti%20deleghe/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md);
 
-Visto il testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md);
+Visto il testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Decreti%20Legislativi/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md);
 
 Sentite le organizzazioni sindacali in data 8 giugno 2004;
 
@@ -177,7 +177,7 @@ Qualora i componenti del Consiglio superiore non rivestano la qualifica di dipen
 
 11.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md).
 
 12.
 
@@ -187,13 +187,13 @@ Le dimissioni dei singoli membri del Consiglio superiore non comportano la decad
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 14 maggio 2007, n. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md) ha disposto (con l'art. 5, comma 2) che "A decorrere dal 1° luglio 2006, l'importo della indennita' fissa spettante al Presidente ed ai componenti del Consiglio superiore delle comunicazioni ai sensi dell'articolo 2, comma 9, del citato [decreto del Presidente della Repubblica n. 243 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005;243), e' ridotta, rispettivamente, del 15 per cento e del 25 per cento."
+Il [D.P.R. 14 maggio 2007, n. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md) ha disposto (con l'art. 5, comma 2) che "A decorrere dal 1° luglio 2006, l'importo della indennita' fissa spettante al Presidente ed ai componenti del Consiglio superiore delle comunicazioni ai sensi dell'articolo 2, comma 9, del citato [decreto del Presidente della Repubblica n. 243 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005;243), e' ridotta, rispettivamente, del 15 per cento e del 25 per cento."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare l'[art. 1 del D.P.R. 14 maggio 2007, n. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
+Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare l'[art. 1 del D.P.R. 14 maggio 2007, n. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
 
 ## Art. 3. — Ordinamento
 
@@ -317,7 +317,7 @@ Dalla data di entrata in vigore del presente regolamento i componenti del Consig
 
 AGGIORNAMENTO (3)
 
-Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare il [D.P.R. 14 maggio 2007, n. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
+Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare il [D.P.R. 14 maggio 2007, n. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

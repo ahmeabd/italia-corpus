@@ -42,7 +42,7 @@ Considerato che l'emanazione del presente decreto e' funzionale alla piena attua
 
 Considerato che, il [decreto legislativo 19 agosto 2005, n. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e successive modificazioni, fissa in centoventi giorni, decorrenti dal 9 ottobre 2005, il termine per l'emanazione del presente provvedimento;
 
-Acquisita l'intesa espressa dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nella seduta del 20 marzo 2008;
+Acquisita l'intesa espressa dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nella seduta del 20 marzo 2008;
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'Adunanza del 12 maggio 2008;
 
@@ -226,9 +226,9 @@ Ai fini del presente decreto, e in particolare per la determinazione del fabbiso
                         a)
                             rendimento utile nominale minimo conforme alla classe 3 di cui alla norma Europea UNI EN 303-5;
                         b)
-                            limiti di emissione conformi all'allegato IX alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, ovvero i piu' restrittivi limiti fissati da norme regionali, ove presenti;
+                            limiti di emissione conformi all'allegato IX alla parte quinta del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e successive modificazioni, ovvero i piu' restrittivi limiti fissati da norme regionali, ove presenti;
                         c)
-                            utilizzano biomasse combustibili ricadenti fra quelle ammissibili ai sensi dell'allegato X alla parte quinta del medesimo [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni.
+                            utilizzano biomasse combustibili ricadenti fra quelle ammissibili ai sensi dell'allegato X alla parte quinta del medesimo [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e successive modificazioni.
 
 13.
 

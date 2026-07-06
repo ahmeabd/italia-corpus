@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 17 gennaio 1907, n. 13](../Regi%20decreti/Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20Convenzione%20fra%20lItalia%20e%20la%20Svizzera%20per%20disposizioni%20uniformi%20sulla%20pesca%20nelle%20acque%20comuni%20ai%20due%20Stati.%20007U0013.md), che da' piena ed intera esecuzione alla Convenzione per la pesca nelle acque comuni dei due Stati, conclusa a Lugano fra l'Italia e la Svizzera il 13 giugno 1901;
+Visto il [regio decreto 17 gennaio 1907, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20da%20piena%20ed%20intera%20esecuzione%20alla%20Convenzione%20fra%20lItalia%20e%20la%20Svizzera%20per%20disposizioni%20uniformi%20sulla%20pesca%20nelle%20acque%20comuni%20ai%20due%20Stati.%20007U0013.md), che da' piena ed intera esecuzione alla Convenzione per la pesca nelle acque comuni dei due Stati, conclusa a Lugano fra l'Italia e la Svizzera il 13 giugno 1901;
 
-Visto il [regio decreto 17 marzo 1912, n. 387](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20pesca%20nelle%20acque%20comuni%20allItalia%20ed%20alla%20Svizzera.%20012U0387.md), che approva il regolamento per la pesca nelle acque comuni all'Italia ed alla Svizzera;
+Visto il [regio decreto 17 marzo 1912, n. 387](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20pesca%20nelle%20acque%20comuni%20allItalia%20ed%20alla%20Svizzera.%20012U0387.md), che approva il regolamento per la pesca nelle acque comuni all'Italia ed alla Svizzera;
 
 Sentito il Consiglio dei Ministri;
 

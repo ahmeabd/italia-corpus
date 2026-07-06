@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
+Visto il testo unico delle leggi sullo stato dei sottufficiali dell'Esercito, approvato con [regio decreto 15 settembre 1932, n. 1514](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullo%20stato%20dei%20sottufficiali%20del%20Regio%20esercito.%20032U1514.md), e successive modificazioni;
 
 Visto il regolamento sullo stato dei sottufficiali dell'Esercito, approvato con regio decreto 31 gennaio 3907, n. 145, e successive modificazioni;
 
-Visti i [regi decreti 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [31 dicembre 1928, n. 3458](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
+Visti i [regi decreti 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md) e [31 dicembre 1928, n. 3458](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20gli%20stipendi%20ed%20assegni%20fissi%20per%20il%20Regio%20esercito.%20028U3458.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per la difesa, di concerto col Ministro per il tesor
 
 ## Articolo unico.
 
-Il capitolo IV del regolamento sulla stato dei sottufficiali dell'Esercito, approvato con [regio decreto 31 gennaio 1907, n. 145](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20sullo%20stato%20dei%20sottufficiali.%20007U0145.md), e successive modificazioni, e' sostituito dal seguente:
+Il capitolo IV del regolamento sulla stato dei sottufficiali dell'Esercito, approvato con [regio decreto 31 gennaio 1907, n. 145](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20sullo%20stato%20dei%20sottufficiali.%20007U0145.md), e successive modificazioni, e' sostituito dal seguente:
 
  CAPITOLO IV
  Della sospensione dal servizio e della sospensione dal grado.

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 5 aprile 1943, n. 532](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20amministrazione%20per%20la%20Regia%20guardia%20di%20finanza.%20043U0532.md), che ha approvato il regolamento di amministrazione per la guardia di finanza;
+Visto il [regio decreto 5 aprile 1943, n. 532](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20amministrazione%20per%20la%20Regia%20guardia%20di%20finanza.%20043U0532.md), che ha approvato il regolamento di amministrazione per la guardia di finanza;
 
 Visti il [decreto luogotenenziale 22 marzo 1945, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1945-03-22;169), ed il [decreto del Presidente della Repubblica 5 giugno 1961, n. 748](Modifiche%20al%20regolamento%20di%20amministrazione%20per%20la%20guardia%20di%20finanza.md), che hanno apportato modifiche al suddetto regolamento di amministrazione;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il t
 
 ## Articolo unico
 
-Sono elevati di duecentoquaranta volte i limiti originari di somma comunque indicati nel regolamento di amministrazione per la guardia di finanza, approvato con [regio decreto 5 aprile 1943, n. 532](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20amministrazione%20per%20la%20Regia%20guardia%20di%20finanza.%20043U0532.md) e successive modificazioni.
+Sono elevati di duecentoquaranta volte i limiti originari di somma comunque indicati nel regolamento di amministrazione per la guardia di finanza, approvato con [regio decreto 5 aprile 1943, n. 532](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20amministrazione%20per%20la%20Regia%20guardia%20di%20finanza.%20043U0532.md) e successive modificazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

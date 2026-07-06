@@ -16,7 +16,7 @@ Visto l'[art. 7, comma primo, n. 4 della legge 5 marzo 1961, n. 90](https://www.
 
 Vista la tabella O annessa alla [legge 28 marzo 1962 n. 143](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20a%20favore%20del%20personale%20dellAmministrazione%20autonoma%20dei%20monopoli%20di%20Stato.md), relativa all'organico del personale operaio della Amministrazione autonoma dei monopoli di Stato;
 
-Visti gli articoli 20, comma primo e 27, comma nono, del regolamento sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [regio decreto 31 dicembre 1924, n. 2262](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md);
+Visti gli articoli 20, comma primo e 27, comma nono, del regolamento sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [regio decreto 31 dicembre 1924, n. 2262](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%202994%20sullo%20stato%20giuridico%20ed%20il%20trattamento%20economico%20dei%20salariati%20dipendenti%20dalle%20amministrazioni%20del_f028d8877218.md);
 
 Visti gli articoli 13, 17 e 18 del regolamento sullo stato giuridico e sul trattamento economico dei salariati dell'Amministrazione autonoma dei monopoli di Stato, approvato con decreto ministeriale 21 ottobre 1925, registrato alla Corte dei conti l'11 dicembre 1925, registro n. 15 Finanze, foglio n. 341, e successive modificazioni;
 

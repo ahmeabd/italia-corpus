@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 7 giugno 1945, n. 353](../Decreti%20legislativi%20luogotenenziali/Istituzione%20di%20una%20lotteria%20nazionale%20a%20favore%20del%20Fondo%20di%20solidarieta%20nazionale.%20045U0353.md);
+Visto il [decreto legislativo luogotenenziale 7 giugno 1945, n. 353](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20lotteria%20nazionale%20a%20favore%20del%20Fondo%20di%20solidarieta%20nazionale.%20045U0353.md);
 
 Visto il decreto legislativo del Capo provvisorio dello Stato 5
 

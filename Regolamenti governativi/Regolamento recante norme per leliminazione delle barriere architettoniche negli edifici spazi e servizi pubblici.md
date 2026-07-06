@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](Regola
 
 Vista la [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104);
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 
 Considerata la esigenza di aggiornare le disposizioni del predetto regolamento;
 
@@ -81,7 +81,7 @@ Avvertenza:
  - Per facilitare la vita di relazione dei mutilati e invalidi civili gli edifici pubblici o aperti al pubblico e le istituzioni scolastiche, prescolastiche o di interesse sociale di nuova edificazione dovranno essere costruiti in conformita' alla circolare del Ministero dei lavori pubblici del 15 giugno 1968 riguardante la eliminazione delle barriere architettoniche anche apportando le possibili e conformi varianti agli edifici appaltati o gia' costruiti all'entrata in vigore della presente legge; i servizi di trasporti pubblici ed in particolare i tram e le metropolitane dovranno essere accessibili agli invalidi non deambulanti; in nessun luogo pubblico o aperto al pubblico puo' essere vietato l'accesso ai minorati; in tutti i luoghi dove si svolgono pubbliche manifestazioni o spettacoli, che saranno in futuro edificati, dovra' essere previsto e riservato uno spazio agli invalidi in carrozzella; gli alloggi situati nei piani terreni dei caseggiati dell'edilizia economica e popolare dovranno essere assegnati per precedenza agli invalidi che hanno difficolta' di deambulazione, qualora ne facciano richiesta.
  Le norme di attuazione delle disposizioni di cui al presente articolo saranno emanate, con decreto del Presidente della Repubblica su proposta dei Ministri competenti, entro un anno dall'entrata in vigore della presente legge".
  - La [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104), reca: "Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate".
- - Il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), reca: "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)".
+ - Il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), reca: "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)".
  - Il testo vigente dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi;
@@ -241,7 +241,7 @@ Le facilitazioni possono essere subordinate alla osservanza di eventuali motivat
 
 3.
 
-La circolazione e la sosta sono consentite nelle "zone a traffico limitato" e "nelle aree pedonali urbane", cosi' come definite dall'[art. 3 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), qualora e' autorizzato l'accesso anche ad una sola categoria di veicoli per l'espletamento di servizi di trasporto di pubblica utilita'.
+La circolazione e la sosta sono consentite nelle "zone a traffico limitato" e "nelle aree pedonali urbane", cosi' come definite dall'[art. 3 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), qualora e' autorizzato l'accesso anche ad una sola categoria di veicoli per l'espletamento di servizi di trasporto di pubblica utilita'.
 
 4.
 
@@ -256,7 +256,7 @@ Nell'ambito dei parcheggi o delle attrezzature per la sosta, muniti di dispositi
 I suddetti posti sono contrassegnati con il segnale di cui alla figura II 79/a art. 120 del decreto del Presidente della Reppubblica 16 dicembre 1992, n. 495.
 
 Note all'art. 11:
- - Il testo dell'[art. 3 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), e' il seguente:
+ - Il testo dell'[art. 3 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)), e' il seguente:
  "Art. 3 (Definizioni stradali e di traffico). - 1. Ai fini delle presenti norme le denominazioni stradali e di traffico hanno i seguenti significati:
  1) Area di intersezione: parte della intersezione a raso, nella quale si intersecano due o piu' correnti di traffico.
  2) Area pedonale: zona interdetta alla circolazione dei veicoli, salvo quelli in servizio di emergenza e salvo deroghe per i velocipedi e per i veicoli al servizio di persone con limitate o impedite capacita' motorie, nonche' per quelli ad emissioni zero aventi ingombro e velocita' tali da poter essere assimilati ai velocipedi.
@@ -318,7 +318,7 @@ Note all'art. 11:
  57) Zona di scambio: tratto di carreggiata a senso unico, di idonea lunghezza, lungo il quale correnti di traffico parallele, in movimento nello stesso verso possono cambiare la reciproca posizione senza doversi arrestare.
  58) Zona residenziale: zona urbana in cui vigono particolari regole di circolazione a protezione dei pedoni e dell'ambiente, delimitata lungo le vie di accesso dagli appositi segnali di inizio e di fine.
  2. Nel regolamento sono stabilite altre definizioni stradali e di traffico di specifico rilievo tecnico".
- - La figura II 79/a [art. 120 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) (Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)), e' la seguente:
+ - La figura II 79/a [art. 120 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) (Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)), e' la seguente:
  
  ----* Vedere figura a Pag. 17 della G.U. *----
  Figura II 17/a Art. 120
@@ -340,7 +340,7 @@ Il contrassegno e' valido per tutto il territorio nazionale.
 La normativa di cui al presente articolo si intende estesa anche alla categoria dei non vedenti.
 
 Nota all'[art. 12:
- - Il decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)".
+ - Il decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)".
 
 ## Struttura edilizia in generale
 

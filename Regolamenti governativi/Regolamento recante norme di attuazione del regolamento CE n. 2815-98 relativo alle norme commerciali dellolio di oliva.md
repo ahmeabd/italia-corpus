@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il regolamento (CE) n. 2815/98 della Commissione del 22 dicembre 1998, relativo alle norme commerciali dell'olio d'oliva;
 
-Visto il [decreto legislativo 4 giugno 1997, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), concernente il trasferimento alle regioni di funzioni, compiti e risorse finanziarie in materia di agricoltura;
+Visto il [decreto legislativo 4 giugno 1997, n. 143](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), concernente il trasferimento alle regioni di funzioni, compiti e risorse finanziarie in materia di agricoltura;
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), come modificato dall'[articolo 11 della legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md);
 

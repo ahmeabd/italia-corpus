@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), con il quale e' stato approvato il Regolamento per la esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (Navigazione marittima);
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), con il quale e' stato approvato il Regolamento per la esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (Navigazione marittima);
 
-Visto l'[art. 1331 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);.
+Visto l'[art. 1331 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);.
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -22,7 +22,7 @@ Sentito il Consiglio dei Ministri Sulla proposta dei Ministri per la grazia e gi
 
 ## Articolo unico
 
-Il secondo comma dell'art. 380 del Regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con decreto del Presidente della Repubblica 15 febbraio 1952.
+Il secondo comma dell'art. 380 del Regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con decreto del Presidente della Repubblica 15 febbraio 1952.
  n. 328, e' sostituito dal seguente:
  "Per le navi da diporto a vela di stazza lorda non superiore alle cinquanta tonnellate o a propulsione meccanica di stazza lorda non superiore alle venticinque tonnellate, la presentazione delle carte e degli altri documenti di bordo per la vidimazione deve essere effettuata almeno una volta all'anno, ovvero quando la nave compie viaggi per l'estero, nonche' in caso di avvenimenti straordinari; per le altre navi da diporto si osservano le disposizioni dell'art. 179 del Codice e dei primi tre commi dell'art. 181 del Codice".
 

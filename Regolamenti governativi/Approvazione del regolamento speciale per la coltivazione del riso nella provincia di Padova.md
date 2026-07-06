@@ -14,7 +14,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Ritenuta l'opportunita' di disciplinare la coltivazione del riso nella provincia di Padova;
  Visto il regolamento deliberato dal Consiglio provinciale di Padova con [provvedimento n. 4954 del 28 luglio 1953](https://www.normattiva.it/uri-res/N2Ls?urn:nir::provvedimento:1953-07-28;4954);
- Visti l'[art. 204 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), ed il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20e%20attribuzioni%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.%20045U0446.md);
+ Visti l'[art. 204 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), ed il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20attribuzioni%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.%20045U0446.md);
  Sulla proposta del Presidente del Consiglio dei Ministri e sentito il Ministro per il lavoro e la previdenza sociale;
 
  Decreta:

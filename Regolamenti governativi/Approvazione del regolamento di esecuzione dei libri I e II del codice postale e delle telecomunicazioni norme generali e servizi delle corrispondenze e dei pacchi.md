@@ -38,7 +38,7 @@ E approvato l'unito regolamento, firmato dal Ministro delle poste e delle teleco
 
 ## Art. 2.
 
-Il regolamento avra' effetto dal trentesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale e da tale data restano abrogate tutto le disposizioni che risultino contrarie od incompatibili con esso nonche' quelle contenute nel regolamento approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md).
+Il regolamento avra' effetto dal trentesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale e da tale data restano abrogate tutto le disposizioni che risultino contrarie od incompatibili con esso nonche' quelle contenute nel regolamento approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 1331 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[art. 1331 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Ritenuto necessario, ai fini del completamento e dell'esecuzione del Codice anzidetto, e in attesa della regolamentazione generale definitiva di tutta la materia, di procedere alla regolamentazione della parte riguardante la navigazione marittima;
 
@@ -22,7 +22,7 @@ Sulla proposta dei Ministri per la grazia e giustizia e per la marina mercantile
 
 ## Articolo unico.
 
-E' approvato il Regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), nel testo allegato al presente decreto e vistato dal Ministro per la grazia e giustizia e dal Ministro per la marina mercantile.
+E' approvato il Regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), nel testo allegato al presente decreto e vistato dal Ministro per la grazia e giustizia e dal Ministro per la marina mercantile.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

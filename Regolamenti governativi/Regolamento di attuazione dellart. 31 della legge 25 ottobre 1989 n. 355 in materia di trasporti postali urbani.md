@@ -20,7 +20,7 @@ dello Stato;
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), concernente il nuovo ordinamento dell'Amministrazione delle poste e dei telegrafi, convertito dalla [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
 
-Visto il [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), con il quale e' stato approvato il regolamento per l'amministrazione e per la contabilita' delle poste e dei telegrafi;
+Visto il [regio decreto 8 maggio 1933, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), con il quale e' stato approvato il regolamento per l'amministrazione e per la contabilita' delle poste e dei telegrafi;
 
 Visto il decreto ministeriale 24 maggio 1985 istitutivo dell'albo nazionale dei fornitori di beni e servizi con annessa tabella merceologica presso l'Amministrazione delle poste e delle telecomunicazioni, pubblicato nel 3 supplemento al Bollettino ufficiale n. 1/1986 del Ministero delle poste e delle telecomunicazioni;
 

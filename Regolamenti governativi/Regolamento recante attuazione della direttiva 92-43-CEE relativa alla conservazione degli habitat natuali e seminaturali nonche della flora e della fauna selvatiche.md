@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il [decreto del Presidente del Consiglio dei Ministri del 10 agosto 1988, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1988-08-10;377), recante regolamentazione delle pronunce di compatibilita' ambientale di cui all'[articolo 6 della legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349#art_6), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
-Vista la [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), relativa alle norme generali sulla partecipazione dell'Italia al processo normativo comunitario e sulle procedure di esecuzione degli obblighi comunitari;
+Vista la [legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), relativa alle norme generali sulla partecipazione dell'Italia al processo normativo comunitario e sulle procedure di esecuzione degli obblighi comunitari;
 
 Vista la [legge 6 dicembre 1991, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394), recante legge quadro sulle aree protette;
 

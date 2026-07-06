@@ -70,7 +70,7 @@ I titoli da valutare ai fini del concorso sono:
 ## Art. 5. — (Prove d'esame e punteggio)
 
 Gli esami consistono in:
- a) un colloquio tendente ad accertare la conoscenza del motore, degli altri elementi essenziali degli autoveicoli, del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), della segnaletica stradale, della toponomastica romana, nonche' la conoscenza dei sensi vietati e delle circolazioni speciali in Roma;
+ a) un colloquio tendente ad accertare la conoscenza del motore, degli altri elementi essenziali degli autoveicoli, del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), della segnaletica stradale, della toponomastica romana, nonche' la conoscenza dei sensi vietati e delle circolazioni speciali in Roma;
  per tale prova la commissione dispone di trenta punti;
  b) una prova tecnico-attitudinale consistente in una prova pratica di guida;
  per tale prova la commissione dispone di quaranta punti;

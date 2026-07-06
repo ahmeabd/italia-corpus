@@ -276,7 +276,7 @@ Per documento si intende ogni rappresentazione grafica, fotocinematografica, ele
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 185](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20dicembre%202018%20che%20conferisce%20alle%20autorita%20garanti%20della%20concorrenza%20degli%20Stati%20membri%20poteri%20di%20applic_5f95cd6ad645.md).
+COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 185](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202019-1%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20dicembre%202018%20che%20conferisce%20alle%20autorita%20garanti%20della%20concorrenza%20degli%20Stati%20membri%20poteri%20di%20applic_5f95cd6ad645.md).
 
 6.
 
@@ -288,7 +288,7 @@ Di tutta l'attivita' svolta nel corso dell'ispezione, con particolare riferiment
 
 8.
 
-COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 185](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202019-1%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20dicembre%202018%20che%20conferisce%20alle%20autorita%20garanti%20della%20concorrenza%20degli%20Stati%20membri%20poteri%20di%20applic_5f95cd6ad645.md).
+COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 185](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202019-1%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20dicembre%202018%20che%20conferisce%20alle%20autorita%20garanti%20della%20concorrenza%20degli%20Stati%20membri%20poteri%20di%20applic_5f95cd6ad645.md).
 
 ## Art. 11. — Perizie, analisi statistiche ed economiche
  e consultazione di esperti

@@ -19,7 +19,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- Il [primo comma dell'art. 59 del regio decreto 21 dicembre 1942, n. 1880](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), e' cosi' modificato:
+ Il [primo comma dell'art. 59 del regio decreto 21 dicembre 1942, n. 1880](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.%20042U1880.md), e' cosi' modificato:
  "La cremazione di ciascun cadavere deve essere autorizzata dal sindaco dietro presentazione dei seguenti documenti 1. - Estratto legale di disposizione testamentaria dalla quale risulti la chiara volonta' del defunto di essere cremato. Per coloro i quali, al momento della morte, risultano iscritti ad associazioni riconosciute che abbiano tra i propri fini quello della cremazione dei cadaveri dei propri associati, e' sufficiente la presentazione di una dichiarazione in carta libera scritta e datata, sottoscritta dall'associato di proprio pugno o se questi non sia in grado di scrivere, confermata da due testimoni, dalla quale chiaramente risulti la volonta' di essere cremato, purche' tale dichiarazione sia accompagnata da altra, rilasciata dal presidente dell'associazione della quale ha fatto parte il defunto, attestante che questi, sino all'ultimo istante di vita, e' rimasto iscritto regolarmente, secondo le norme dello statuto, all'associazione medesima. La firma dell'associato o dei testi dovra' essere autenticata gratuitamente dal sindaco del comune di residenza.
  2. - Certificato in carta libera del medico curante o dell'ufficiale sanitario, dal quale risulti escluso il sospetto di morte dovuta a reato".
 

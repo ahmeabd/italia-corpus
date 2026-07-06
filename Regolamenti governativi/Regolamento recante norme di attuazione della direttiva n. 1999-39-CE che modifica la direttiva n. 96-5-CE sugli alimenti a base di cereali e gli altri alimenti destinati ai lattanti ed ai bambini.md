@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), e, in particolare, l'articolo 5, comma 2;
+Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), e, in particolare, l'articolo 5, comma 2;
 
 Vista la [direttiva n. 1999/39/CE, della Commissione, del 6 maggio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;39), che modifica la [direttiva n. 96/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;5) sugli alimenti a base di cereali e gli altri alimenti destinati ai lattanti ed ai bambini;
 
@@ -46,9 +46,9 @@ Avvertenza:
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (G.U.C.E.).
  Note alle premesse:
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee". (Legge comunitaria 1995-1997).
+ - La [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee". (Legge comunitaria 1995-1997).
  - L'art. 5, comma 2, della succitata legge, cosi' recita:
- "2. Fermo restando il disposto dell'[art. 5, comma 1, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), i regolamenti di cui al comma 1 del presente articolo possono altresi', per tutte le materie non coperte da riserva assoluta di legge, dare attuazione alle direttive, anche se precedentemente trasposte, di cui le direttive comprese nell'allegato C costituiscono la modifica, l'aggiornamento od il completamento".
+ "2. Fermo restando il disposto dell'[art. 5, comma 1, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), i regolamenti di cui al comma 1 del presente articolo possono altresi', per tutte le materie non coperte da riserva assoluta di legge, dare attuazione alle direttive, anche se precedentemente trasposte, di cui le direttive comprese nell'allegato C costituiscono la modifica, l'aggiornamento od il completamento".
  - La [direttiva n. 1999/39/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;39) e' pubblicata nella G.U.C.E. L 124 del 18 maggio 1999.
  - La [direttiva n. 96/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;5) e' pubblicata nella G.U.C.E.
  L 049 del 28 febbraio 1996.

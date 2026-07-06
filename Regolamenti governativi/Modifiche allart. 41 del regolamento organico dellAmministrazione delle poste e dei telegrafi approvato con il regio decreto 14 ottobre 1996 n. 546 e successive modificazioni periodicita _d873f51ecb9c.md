@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), che approva il regolamento organico dell'Amministrazione delle poste e dei telegrafi;
+Visto il [regio decreto 14 ottobre 1906, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), che approva il regolamento organico dell'Amministrazione delle poste e dei telegrafi;
 
-Visto il [regio decreto 4 giugno 1936, n. 1197](../Regi%20decreti/Modificazione%20allart.%2041%20del%20regolamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546.%20036U1197.md), che sostituisce l'art. 41 del regolamento sopra citato;
+Visto il [regio decreto 4 giugno 1936, n. 1197](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allart.%2041%20del%20regolamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546.%20036U1197.md), che sostituisce l'art. 41 del regolamento sopra citato;
 
-Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), e successive modificazioni;
+Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con [regio decreto 8 maggio 1933, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 5 giugno 1952, n. 656](../DPR/Approvazione%20delle%20norme%20di%20coordinamento%20e%20modificazione%20delle%20disposizioni%20in%20materia%20di%20ricevitorie%20postali%20e%20telegrafiche%20agenzie%20collettorie%20e%20servizi%20di%20portalettere%20rurale.md), contenente norme di coordinamento e modificazione delle disposizioni in materia di ricevitorie postali e telegrafiche, agenzie, collettorie e servizi di portalettere rurali;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni; Decreta:
 
 ## Art. 1.
 
-L'art. 41 del regolamento organico dell'Amministrazione delle poste e delle telecomunicazioni, approvato con [regio decreto 14 ottobre 1906, n. 546](../Regi%20decreti/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), modificato dall'[art. 1 del regio decreto 4 giugno 1936, n. 1197](../Regi%20decreti/Modificazione%20allart.%2041%20del%20regolamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546.%20036U1197.md), e' sostituito dal seguente:
+L'art. 41 del regolamento organico dell'Amministrazione delle poste e delle telecomunicazioni, approvato con [regio decreto 14 ottobre 1906, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20regolamento%20organico%20della%20Amministrazione%20delle%20poste%20e%20dei%20telegrafi.%20006U0546.md), modificato dall'[art. 1 del regio decreto 4 giugno 1936, n. 1197](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20allart.%2041%20del%20regolamento%20organico%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20approvato%20con%20R.%20decreto%2014%20ottobre%201906%20n.%20546.%20036U1197.md), e' sostituito dal seguente:
  "Le visite ispettive sono disposte tutte le volte che gli organi competenti ne ravvisino l'opportunita' nello esercizio della loro funzione di vigilanza.
  Gli Uffici appartenenti alle seguenti categorie, devono comunque, essere sottoposti a visite ispettive almeno una volta nei limiti di tempo appresso indicati:
  1) Non oltre l'esercizio finanziario successivo a quello in cui fu eseguita l'ultima visita:

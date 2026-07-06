@@ -30,7 +30,7 @@ E' approvato l'unito regolamento, vistato dal Ministro per i lavori pubblici, pe
 
 ## Art. 2.
 
-Il predetto regolamento sostituisce, a tutti gli effetti di legge, quello approvato con [regio decreto 1 ottobre 1931, n. 1370](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.%20031U1370.md).
+Il predetto regolamento sostituisce, a tutti gli effetti di legge, quello approvato con [regio decreto 1 ottobre 1931, n. 1370](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20compilazione%20dei%20progetti%20la%20costruzione%20e%20lesercizio%20delle%20dighe%20di%20ritenuta.%20031U1370.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

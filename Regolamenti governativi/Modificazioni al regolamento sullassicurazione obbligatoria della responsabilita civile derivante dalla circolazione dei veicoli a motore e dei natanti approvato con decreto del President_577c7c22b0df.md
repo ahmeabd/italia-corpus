@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../D
 
 Vista la [legge 10 giugno 1978, n. 295](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), recante nuove norme per l'esercizio delle assicurazioni private contro i danni;
 
-Visto il [regio decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
+Visto il [regio decreto 4 gennaio 1925, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md);
 
 Vista la [legge 11 febbraio 1971, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50) e successive modificazioni, recante norme sulla navigazione da diporto e, in particolare, gli articoli 1 e 48 della legge stessa;
 

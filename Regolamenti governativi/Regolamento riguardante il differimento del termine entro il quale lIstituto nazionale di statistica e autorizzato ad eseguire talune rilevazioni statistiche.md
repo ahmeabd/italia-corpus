@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 2 del regio decreto-legge 27 maggio 1929, n. 1285](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito dalla [legge 21 dicembre 1929, n. 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), recante modificazioni all'ordinamento dell'Istituto centrale di statistica;
+Visto l'[art. 2 del regio decreto-legge 27 maggio 1929, n. 1285](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito dalla [legge 21 dicembre 1929, n. 2238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), recante modificazioni all'ordinamento dell'Istituto centrale di statistica;
 
 Visto il decreto del Presidente della Repubblica 11 gennaio 1971,
 

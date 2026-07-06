@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [regio decreto 24 dicembre 1924, n. 2114](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con [regio decreto 24 dicembre 1924, n. 2114](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20dei%20salariati%20dello%20Stato.%20024U2114.md), e successive modificazioni;
 
 Visto il regolamento sullo stato giuridico e sul trattamento economico dei salariati dell'Amministrazione delle privative, approvato con decreto Ministeriale 21 ottobre 1925, e successive modificazioni;
 
-Visto il [decreto legislativo luogotenenziale 18 febbraio 1946, n. 113](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20concernenti%20lAmministrazione%20dei%20monopoli%20di%20Stato.md);
+Visto il [decreto legislativo luogotenenziale 18 febbraio 1946, n. 113](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20concernenti%20lAmministrazione%20dei%20monopoli%20di%20Stato.md);
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 23 agosto 1946, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-23;114);
 

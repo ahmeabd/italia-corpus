@@ -18,7 +18,7 @@ Visto il testo unico delle leggi e delle norme giuridiche sull'istruzione elemen
 
 Visto il regolamento generale sui servizi dell'istruzione elementare, approvato con [regio decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297);
 
-Visto il [regio decreto 11 agosto 1933, n. 1286](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20circa%20lordinamento%20degli%20istituti%20per%20la%20formazione%20delle%20insegnanti%20per%20le%20scuole%20del%20grado%20preparatorio.%20033U1286.md), che apporta modificazioni ed aggiunte al testo unico precitato per quanto riguarda l'ordinamento degli istituti per la formazione delle insegnanti per le scuole del grado preparatorio;
+Visto il [regio decreto 11 agosto 1933, n. 1286](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20testo%20unico%20delle%20leggi%20sulla%20istruzione%20elementare%20circa%20lordinamento%20degli%20istituti%20per%20la%20formazione%20delle%20insegnanti%20per%20le%20scuole%20del%20grado%20preparatorio.%20033U1286.md), che apporta modificazioni ed aggiunte al testo unico precitato per quanto riguarda l'ordinamento degli istituti per la formazione delle insegnanti per le scuole del grado preparatorio;
 
 Udito il parere del Consiglio di Stato;
 

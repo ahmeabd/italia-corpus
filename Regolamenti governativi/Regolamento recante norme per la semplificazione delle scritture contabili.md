@@ -199,7 +199,7 @@ Non sussiste, ai fini dell'imposta sul valore aggiunto, l'obbligo di annotare le
 
 8.
 
-COMMA SOPPRESSO DAL [D.P.R. 5 OTTOBRE 2001, N. 404](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disposizioni%20in%20materia%20di%20utilizzo%20del%20servizio%20di%20collegamento%20telematico%20con%20lAgenzia%20delle%20entrate%20per%20la%20presentazione%20di%20documenti%20atti%20e%20istanze%20previsti%20dalle%20_6069edf6f07e.md).
+COMMA SOPPRESSO DAL [D.P.R. 5 OTTOBRE 2001, N. 404](../DPR/Regolamento%20recante%20disposizioni%20in%20materia%20di%20utilizzo%20del%20servizio%20di%20collegamento%20telematico%20con%20lAgenzia%20delle%20entrate%20per%20la%20presentazione%20di%20documenti%20atti%20e%20istanze%20previsti%20dalle%20_6069edf6f07e.md).
 
 9.
 

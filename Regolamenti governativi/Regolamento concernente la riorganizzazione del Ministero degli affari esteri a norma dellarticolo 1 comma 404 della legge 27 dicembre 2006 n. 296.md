@@ -18,9 +18,9 @@ Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provved
 
 Vista la [legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ed in particolare l'articolo 1, comma 404;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 286](../Decreti%20Legislativi/Riordino%20e%20potenziamento%20dei%20meccanismi%20e%20strumenti%20di%20monitoraggio%20e%20valutazione%20dei%20costi%20dei%20rendimenti%20e%20dei%20risultati%20dellattivita%20svolta%20dalle%20amministrazioni%20pubbliche%20a%20norma%20dell_79b83f91a15a.md);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), ed in particolare l'articolo 12;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), ed in particolare l'articolo 12;
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 

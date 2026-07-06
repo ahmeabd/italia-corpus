@@ -12,10 +12,10 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Veduto il regolamento speciale per la coltivazione del riso nella provincia di Cremona, approvato con [regio decreto 15 giugno 1911, n. 728](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20per%20la%20coltivazione%20del%20riso%20in%20provincia%20di%20Cremona.%20011U0728.md);
+ Veduto il regolamento speciale per la coltivazione del riso nella provincia di Cremona, approvato con [regio decreto 15 giugno 1911, n. 728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20per%20la%20coltivazione%20del%20riso%20in%20provincia%20di%20Cremona.%20011U0728.md);
  Ritenuta l'opportunita' di modificare ed aggiornare le norme contenute in tale regolamento;
  Veduto il nuovo testo del regolamento proposto dal Consiglio provinciale di Cremona e deliberato in via definitiva il 16 marzo 1956;
- Veduto l'[art. 204 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), ed il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20e%20attribuzioni%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.%20045U0446.md);
+ Veduto l'[art. 204 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [regio decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), ed il [decreto legislativo luogotenenziale 31 luglio 1945, n. 446](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20attribuzioni%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.%20045U0446.md);
  Sulla proposta del Presidente del Consiglio dei Ministri e sentito il Ministro per il lavoro e la previdenza sociale;
 
  Decreta:

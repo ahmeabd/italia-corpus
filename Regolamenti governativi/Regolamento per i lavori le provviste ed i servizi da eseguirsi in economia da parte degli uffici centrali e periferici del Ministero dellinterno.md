@@ -22,7 +22,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Decreta:
 
  E' approvato l'annesso regolamento concernente i lavori, le provviste ed i servizi da eseguirsi in economia da parte degli uffici centrali e periferici del Ministero dell'interno, vistato dal Ministro proponente.
- Il [regio decreto 31 marzo 1927, n. 715](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20servizi%20da%20farsi%20ad%20economia%20e%20per%20la%20liquidazione%20ed%20il%20pagamento%20delle%20spese%20relative%20del%20Ministero%20dellinterno.%20027U0715.md), e' abrogato.
+ Il [regio decreto 31 marzo 1927, n. 715](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20i%20servizi%20da%20farsi%20ad%20economia%20e%20per%20la%20liquidazione%20ed%20il%20pagamento%20delle%20spese%20relative%20del%20Ministero%20dellinterno.%20027U0715.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

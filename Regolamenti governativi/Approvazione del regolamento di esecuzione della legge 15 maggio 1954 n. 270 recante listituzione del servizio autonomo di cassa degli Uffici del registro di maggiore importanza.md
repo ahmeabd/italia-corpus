@@ -256,7 +256,7 @@ CAPO II
 
 ### Art. 34.
 
-Qualora durante la procedura di riscossione venga presentato ricorso amministrativo o sia proposta opposizione in via giudiziaria ai sensi dell'[art. 145, secondo comma, del regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), o di altre disposizioni di legge, il capo dell'ufficio, esaminati gli atti, comunica, per iscritto, al cassiere se il procedimento di esecuzione debba essere proseguito oppure no. 
+Qualora durante la procedura di riscossione venga presentato ricorso amministrativo o sia proposta opposizione in via giudiziaria ai sensi dell'[art. 145, secondo comma, del regio decreto 30 dicembre 1923, n. 3269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), o di altre disposizioni di legge, il capo dell'ufficio, esaminati gli atti, comunica, per iscritto, al cassiere se il procedimento di esecuzione debba essere proseguito oppure no. 
  Cessata la causa di sospensione del procedimento, il capo dell'ufficio da' ordine scritto al cassiere per la prosecuzione degli atti.
 
 ### Art. 35.

@@ -26,7 +26,7 @@ Titolo I
 
 ### Art. 4.
 
-PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20la%20disciplina%20del%20Fondo%20di%20rotazione%20per%20la%20solidarieta%20alle%20vittime%20dei%20reati%20di%20tipo%20mafioso%20delle%20richieste%20estorsive%20e%20dellusura%20a%20norma%20dellarticolo%202%20comma%206-sex_d4121fc7388f.md) 
+PROVVEDIMENTO ABROGATO DAL [D.P.R. 19 FEBBRAIO 2014, n. 60](../DPR/Regolamento%20recante%20la%20disciplina%20del%20Fondo%20di%20rotazione%20per%20la%20solidarieta%20alle%20vittime%20dei%20reati%20di%20tipo%20mafioso%20delle%20richieste%20estorsive%20e%20dellusura%20a%20norma%20dellarticolo%202%20comma%206-sex_d4121fc7388f.md) 
  ((3))
 
 --------------

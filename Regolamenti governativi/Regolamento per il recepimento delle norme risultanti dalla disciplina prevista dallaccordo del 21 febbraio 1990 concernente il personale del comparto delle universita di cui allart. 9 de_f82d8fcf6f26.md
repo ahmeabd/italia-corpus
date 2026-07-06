@@ -1002,7 +1002,7 @@ Diverse intese intervenute tra le organizzazioni sindacali sulla ripartizione de
 
  
 AGGIORNAMENTO (1) 
- Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+ Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 ## Art. 24. — Disciplina del personale in aspettativa sindacale
 
@@ -1022,7 +1022,7 @@ L'aspettativa ha termine con la cessazione, per qualsiasi causa, del mandato sin
 
  
 AGGIORNAMENTO (1) 
- Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+ Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 ## Art. 25. — Permessi sindacali retribuiti
 
@@ -1042,7 +1042,7 @@ I permessi sindacali sono concessi salvo inderogabili ed eccezionali esigenze di
 
  
 AGGIORNAMENTO (1) 
- Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+ Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 ## Art. 26. — Monte orario complessivo dei permessi sindacali
 
@@ -1074,7 +1074,7 @@ Diverse intese intervenute tra le organizzazioni sindacali sulla ripartizione de
 
  
 AGGIORNAMENTO (1) 
- Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+ Il [D.P.C.M. 27 ottobre 1994, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1994-10-27;770) ha disposto (con l'art. 6, comma 8) che cessa di avere efficacia il presente articolo, dalla data di entrata in vigore dello stesso [regolamento n. 770/94](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1994;770), per effetto dell'[art. 54 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 ## Art. 27. — Disposizioni particolari
 

@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Articolo unico.
 
-A decorrere dalla campagna 1965, la disposizione contenuta nell'art. 82, lettera c), del regolamento per la coltivazione indigena del tabacco, approvato con il [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), quale risulta modificato dall'[art. 1 del regio decreto 24 novembre 1932, n. 1571](../Regi%20decreti/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md), e' sostituita dalla seguente:
+A decorrere dalla campagna 1965, la disposizione contenuta nell'art. 82, lettera c), del regolamento per la coltivazione indigena del tabacco, approvato con il [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), quale risulta modificato dall'[art. 1 del regio decreto 24 novembre 1932, n. 1571](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20032U1571.md), e' sostituita dalla seguente:
  "La superficie minima, per ciascuna coltivazione, non deve essere inferiore ad are dodici per le varieta' levantine ed il Nostrano del Brenta e ad are quindici per le altre varieta'".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 5 settembre 1938, n. 1561](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20038U1561.md), convertito nella legge 19 gennaio 1939, ai. 260, istitutivo del Fondo di p evidenza, a favore del personale addetto ad servizi delle Imposte di fabbricazione;
 
-Visto il regolamento per l'amministrazione e la erogazione del Fondo di previdenza anzidetto, approvato con [regio decreto 28 novembre 1940, n. 1768](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md), e successive modificazioni;
+Visto il regolamento per l'amministrazione e la erogazione del Fondo di previdenza anzidetto, approvato con [regio decreto 28 novembre 1940, n. 1768](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md), e successive modificazioni;
 
 Vista la [legge 26 gennaio 1912, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-01-26;37), concernente la iscrizione del personale dei Laboratori chimici delle dogane e delle imposte indirette al Fondo predetto;
 
@@ -22,7 +22,7 @@ Visto il [decreto del Capo provvisorio dello Stato 22 dicembre 1946, n. 676](htt
 
 Visti i [decreti presidenziali 26 agosto 1949, n. 833](../DPR/Modificazioni%20alla%20misura%20delle%20indennita%20da%20erogarsi%20sul%20Fondo%20di%20previdenza%20per%20il%20personale%20delle%20imposte%20di%20fabbricazione%20e%20dei%20laboratori%20chimici%20delle%20dogane.md) e [22 novembre 1953, n. 1109](../DPR/Modificazione%20alla%20misura%20delle%20indennita%20da%20erogarsi%20sul%20Fondo%20di%20previdenza%20per%20il%20personale%20delle%20imposte%20di%20fabbricazione%20e%20dei%20laboratori%20chimici%20delle%20dogane.md), concernenti la modifica della misura delle indennita' stabilite dal su citato regolamento;
 
-Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 225](Modificazioni%20al%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20Imposte%20di%20fabbricazione%20e%20dei%20Laboratori%20chimici%20delle%20dogane.md), con il quale sono state apportate alcune modificazioni al regolamento per l'amministrazione e la erogazione del Fondo di previdenza anzidetto, approvato con [regio decreto 28 novembre 1940, n. 1768](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md);
+Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 225](Modificazioni%20al%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20delle%20Imposte%20di%20fabbricazione%20e%20dei%20Laboratori%20chimici%20delle%20dogane.md), con il quale sono state apportate alcune modificazioni al regolamento per l'amministrazione e la erogazione del Fondo di previdenza anzidetto, approvato con [regio decreto 28 novembre 1940, n. 1768](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md);
 
 Ritenuta la necessita' di riordinare e di aggiornare le disposizioni contenute nel vigente regolamento;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il l
 
 ## Art. 1.
 
-Il vigente regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale delle Imposte di fabbricazione e dei Laboratori chimici delle dogane e imposte indirette, approvato con [regio decreto 28 novembre 1940, n. 1768](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md), e successive modificazioni, e' sostituito da quello annesso al presente decreto e visitato dal Ministro proponente.
+Il vigente regolamento per l'amministrazione e la erogazione del Fondo di previdenza a favore del personale delle Imposte di fabbricazione e dei Laboratori chimici delle dogane e imposte indirette, approvato con [regio decreto 28 novembre 1940, n. 1768](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20erogazione%20del%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20ai%20servizi%20delle%20imposte%20di%20fabbricazione.%20040U1768.md), e successive modificazioni, e' sostituito da quello annesso al presente decreto e visitato dal Ministro proponente.
 
 ## Art. 2.
 

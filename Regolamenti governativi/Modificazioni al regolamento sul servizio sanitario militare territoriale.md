@@ -16,7 +16,7 @@ Vista la [legge 9 maggio 1940, n. 368](../Atti%20normativi%20abrogati%20%28in%20
 
 Visto il regio decreto 17 novembre 1932, concernente L'approvazione del regolamento sul servizio sanitario militare territoriale;
 
-Visto il [decreto luogotenenziale 26 aprile 1945, n. 339](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20paragrafo%20717%20del%20regolamento%20sul%20servizio%20sanitario%20militare%20territoriale.%20045U0339.md), contenente modificazioni al paragrafo 717 del regolamento sul servizio sanitario militare territoriale;
+Visto il [decreto luogotenenziale 26 aprile 1945, n. 339](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20paragrafo%20717%20del%20regolamento%20sul%20servizio%20sanitario%20militare%20territoriale.%20045U0339.md), contenente modificazioni al paragrafo 717 del regolamento sul servizio sanitario militare territoriale;
 
 Visto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

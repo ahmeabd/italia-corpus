@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
-Visto l'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto l'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Visti l'articolo 9 e il comma 1 dell'Appendice I - Articolo 9 al Titolo I del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
@@ -45,7 +45,7 @@ Avvertenza:
  - Il testo dell'[art. 17, comma 1, lettera a) della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta), recante: Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri, pubblicata nella Gazzetta Ufficiale del 12 settembre 1988, n. 214 e' il seguente:
  "1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi, nonche' dei regolamenti comunitari;".
- Il testo dell'[art. 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) recante: Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, S.O. e' il seguente:
+ Il testo dell'[art. 10 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) recante: Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, S.O. e' il seguente:
  "Art. 10 (Veicoli eccezionali e trasporti in condizioni di eccezionalita). - 1. a' eccezionale il veicolo che nella propria configurazione di marca superi, per specifiche esigenze funzionali, i limiti di sagoma o massa stabiliti negli articoli 61 e 62.
  2. a' considerato trasporto in condizioni di eccezionalita':
  a) il trasporto di una o piu' cose indivisibili che, per le loro dimensioni, determinano eccedenza rispetto ai limiti di sagoma stabiliti dall'art. 61, ma sempre nel rispetto dei limiti di massa stabiliti nell'art. 62; insieme con le cose indivisibili possono essere trasportate anche altre cose non eccedenti per dimensioni i limiti dell'art. 61, sempreche' non vengano superati i limiti di massa stabiliti dall'art. 62;
@@ -106,7 +106,7 @@ Avvertenza:
  25-quater. Oltre alle sanzioni previste nei commi precedenti non e' data facolta' di applicare ulteriori sanzioni di carattere amministrativo da parte degli enti di cui al comma 6.
  26. Le disposizioni del presente articolo non si applicano alle macchine agricole eccezionali e alle macchine operatrici eccezionali".
  Nota all'art. 1:
- - Il testo dell'Appendice I - art. 9 al titolo I del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e successive modificazioni recante: "Regolamento di esecuzione e di attuazione del Nuovo [Codice della Strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nella Gazzetta Ufficiale del 28 dicembre 1992, n. 303, S.O., come modificato dal regolamento qui pubblicato e' il seguente:
+ - Il testo dell'Appendice I - art. 9 al titolo I del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e successive modificazioni recante: "Regolamento di esecuzione e di attuazione del Nuovo [Codice della Strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)", pubblicato nella Gazzetta Ufficiale del 28 dicembre 1992, n. 303, S.O., come modificato dal regolamento qui pubblicato e' il seguente:
  "Appendice I - Art. 9 (Caratteristiche costruttive e funzionali dei veicoli e dei trasporti, eccezionali per massa). - 1. Le caratteristiche costruttive e funzionali dei veicoli eccezionali e di quelli adibiti al trasporto eccezionale, eccedenti i limiti previsti dall'art. 62 del codice, sono le seguenti:
  a) Per i veicoli a motore non atti al traino:
  a.1) dimensioni: entro o eccedenti i limiti fissati dall'art. 61 del codice;

@@ -14,9 +14,9 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Visti il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dai [decreti legislativi 31 marzo 1998, n. 80, e 29 ottobre 1998, n. 387](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20e%20successive%20modificazioni%20e%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%2080.md), ed in particolare gli articoli 3, 6, 15, 19, 21, 23, 24 e 28;
+Visti il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dai [decreti legislativi 31 marzo 1998, n. 80, e 29 ottobre 1998, n. 387](../Decreti%20Legislativi/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20e%20successive%20modificazioni%20e%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%2080.md), ed in particolare gli articoli 3, 6, 15, 19, 21, 23, 24 e 28;
 
-Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 12 febbraio 1993, n. 39](../Decreti%20Legislativi/Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Vista la [legge 31 dicembre 1996, n. 675](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md);
 
@@ -46,13 +46,13 @@ Capo I
 
 1.
 
-Il presente regolamento disciplina le modalita' di costituzione e tenuta del ruolo unico, di cui all'[articolo 23, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni, le modalita' per la tenuta della banca dati informatica della dirigenza di cui allo stesso articolo 23, comma 4, nonche' le modalita' di elezione del componente del Comitato di garanti di cui all'articolo 21, comma 3, dello stesso decreto legislativo. ((1))
+Il presente regolamento disciplina le modalita' di costituzione e tenuta del ruolo unico, di cui all'[articolo 23, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni, le modalita' per la tenuta della banca dati informatica della dirigenza di cui allo stesso articolo 23, comma 4, nonche' le modalita' di elezione del componente del Comitato di garanti di cui all'articolo 21, comma 3, dello stesso decreto legislativo. ((1))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 2. — Ruolo unico dei dirigenti
 
@@ -80,7 +80,7 @@ Nella seconda fascia del ruolo unico sono inseriti in ordine alfabetico gli altr
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 3. — Responsabile del ruolo unico dei dirigenti
 
@@ -124,7 +124,7 @@ Per lo svolgimento e nei limiti dei propri compiti il responsabile della tenuta 
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 4. — Criteri e modalita' per la tenuta
  del ruolo unico dei dirigenti
@@ -145,7 +145,7 @@ I dati contenuti nel ruolo unico sono pubblici. Le ulteriori informazioni conten
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 5. — Inserimento nel ruolo unico
 
@@ -185,7 +185,7 @@ Di tutti gli incarichi conferiti ai dirigenti nel ruolo unico le amministrazioni
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 6. — Incarichi connessi a funzioni ispettive
  di consulenza, studio e ricerca
@@ -207,7 +207,7 @@ Tali somme confluiscono nel fondo di cui all'[articolo 24, comma 9, del decreto 
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 7. — Tenuta della banca dati informatica
 
@@ -219,7 +219,7 @@ Il responsabile del ruolo unico di cui all'articolo 3, al fine di promuovere la 
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 8. — Disposizioni transitorie
 
@@ -229,13 +229,13 @@ In sede di prima attuazione, ogni amministrazione puo' conferire un numero di in
 
 2.
 
-In sede di prima attuazione, una amministrazione non puo' conferire un incarico al dirigente in servizio presso o vincitore di concorsi gia' banditi da altra amministrazione qualora questa abbia confermato, o conferito, entro il termine di novanta giorni dalla data di entrata in vigore del presente regolamento, o dalla approvazione delle graduatorie, l'incarico al medesimo dirigente. In tale caso la durata dell'incarico e' concordata con il dirigente entro i limiti minimo e massimo stabiliti nell'[articolo 19, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ove non si raggiunga l'accordo, la durata e' pari al predetto limite minimo. ((1))
+In sede di prima attuazione, una amministrazione non puo' conferire un incarico al dirigente in servizio presso o vincitore di concorsi gia' banditi da altra amministrazione qualora questa abbia confermato, o conferito, entro il termine di novanta giorni dalla data di entrata in vigore del presente regolamento, o dalla approvazione delle graduatorie, l'incarico al medesimo dirigente. In tale caso la durata dell'incarico e' concordata con il dirigente entro i limiti minimo e massimo stabiliti nell'[articolo 19, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ove non si raggiunga l'accordo, la durata e' pari al predetto limite minimo. ((1))
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ## Modalita' di elezione del componente del Comitato di garanti
 
@@ -259,7 +259,7 @@ Sono eleggibili esclusivamente i dirigenti che, alla data di pubblicazione del d
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 10. — Commissione elettorale centrale
 
@@ -275,7 +275,7 @@ La commissione elettorale centrale ha sede presso il Dipartimento della funzione
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 11. — Presentazione delle candidature
 
@@ -287,7 +287,7 @@ Entro quindici giorni dalla data di pubblicazione del decreto di indizione delle
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 12. — Scheda - Modalita' di votazione
 
@@ -311,7 +311,7 @@ Sono nulli i voti contenuti in schede che presentano scritture o segni tali da f
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 13. — Adempimenti ai fini del voto per corrispondenza
 
@@ -331,7 +331,7 @@ Espresso il voto, l'elettore provvede a piegare la scheda e ad inserirla nell'ap
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 14. — Trasmissione dei plichi con le schede
  alle prefetture capocentro
@@ -348,7 +348,7 @@ Nel rispetto del termine di cui al comma 1 e delle modalita' ivi previste, la re
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 15. — Scrutinio
 
@@ -392,7 +392,7 @@ Una copia del verbale, unitamente a tutte le schede numerate e chiuse in busta s
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 ### Art. 16. — Proclamazione
 
@@ -420,7 +420,7 @@ Una copia del verbale e' inviata all'ufficio incaricato del servizio elettorale,
 
 AGGIORNAMENTO (1)
 
-La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
+La [L. 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145) ha disposto (con l'art. 10, comma 2) che alla data di entrata in vigore del regolamento da emanare ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), e' abrogato il regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20costituzione%20e%20tenuta%20del%20ruolo%20unico%20della%20dirigenza%20delle%20amministrazioni%20statali%20anche%20ad%20ordinamento%20autonomo%20e%20della%20banca%20dati%20infor_523e5f36956e.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

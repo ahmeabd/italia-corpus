@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 3 e l'allegato C della [legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), che include la [direttiva del Consiglio del 17 settembre 1990, n. 90/486/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;486), tra quelle da attuare in via regolamentare;
+Visto l'art. 3 e l'allegato C della [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), che include la [direttiva del Consiglio del 17 settembre 1990, n. 90/486/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;486), tra quelle da attuare in via regolamentare;
 
 Visto l'[art. 14 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_14), che ha attribuito forza di legge alle direttive incluse nell'elenco "A", tra cui la [direttiva del Consiglio del 17 settembre 1984, n. 84/529/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;529), e la [direttiva della Commissione del 18 giugno 1986, n. 86/312/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;312), relativa agli ascensori elettrici;
 
 Visto il [decreto del Ministro per il coordinamento delle politiche comunitarie 9 dicembre 1987, n. 587](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.coordinamento.politiche.comunitarie:decreto:1987-12-09;587), adottato per l'attuazione delle direttive predette;
 
-Visti gli articoli 3, comma 1, lettera c), 4 e [5, comma 1, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
+Visti gli articoli 3, comma 1, lettera c), 4 e [5, comma 1, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
