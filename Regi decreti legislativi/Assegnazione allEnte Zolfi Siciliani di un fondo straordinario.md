@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 11 ottobre 1933, n. 1699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-11;1699), convertito nella [legge 5 febbraio 1934, n. 307](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), con il quale e' istituito l'Ufficio per la vendita dello zolfo italiano;
+Visto il [R. decreto-legge 11 ottobre 1933, n. 1699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-10-11;1699), convertito nella [legge 5 febbraio 1934, n. 307](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2011%20dicembre%201933%20n.%201699%20contenente%20nuove%20disposizioni%20per%20lindustria%20zolfifera%20nazionale.%20034U0307.md), con il quale e' istituito l'Ufficio per la vendita dello zolfo italiano;
 
 Vista la [Legge 2 aprile 1940, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellEnte%20Zolfi%20Italiani%20E.Z.I..%20040U0287.md), con la quale il suddetto Ufficio e' prorogato a tempo indeterminato ed assume la denominazione di Ente Zolfi Italiani;
 

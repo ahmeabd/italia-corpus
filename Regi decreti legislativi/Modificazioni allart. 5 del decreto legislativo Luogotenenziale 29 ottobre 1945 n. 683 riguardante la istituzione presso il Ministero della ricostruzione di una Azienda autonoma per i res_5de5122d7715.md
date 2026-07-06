@@ -12,11 +12,11 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md);
+Visto il [decreto legislativo Luogotenenziale 29 ottobre 1945, n. 683](../Atti%20normativi%20abrogati%20%28in%20originale%29/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md);
 
 Visto il [decreto Luogotenenziale 23 novembre 1945, n. 793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-23;793);
 
-Visto il [decreto legislativo Luogotenenziale 22 dicembre 1945, n. 824](../Decreti%20legislativi%20luogotenenziali/Soppressione%20del%20Ministero%20della%20ricostruzione%20e%20devoluzione%20delle%20sue%20attribuzioni%20al%20Ministero%20dellindustria%20e%20del%20commercio%20ad%20eccezione%20di%20quelle%20che%20si%20riferiscono%20alla%20Presidenza%20de_e16756662f42.md);
+Visto il [decreto legislativo Luogotenenziale 22 dicembre 1945, n. 824](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20del%20Ministero%20della%20ricostruzione%20e%20devoluzione%20delle%20sue%20attribuzioni%20al%20Ministero%20dellindustria%20e%20del%20commercio%20ad%20eccezione%20di%20quelle%20che%20si%20riferiscono%20alla%20Presidenza%20de_e16756662f42.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con i Ministri per il t
 
 ## Art. 1.
 
-I primi due comma dell'[art. 5 del decreto legislativo Luogotenenziale 29 ottobre 1945, n. 683](../Decreti%20legislativi%20luogotenenziali/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), sono cosi' modificati:
+I primi due comma dell'[art. 5 del decreto legislativo Luogotenenziale 29 ottobre 1945, n. 683](../Atti%20normativi%20abrogati%20%28in%20originale%29/Creazione%20presso%20il%20Ministero%20della%20ricostruzione%20di%20una%20Azienda%20autonoma%20per%20i%20residuati%20di%20guerra.%20045U0683.md), sono cosi' modificati:
  "L'Azienda, per le necessita' della sua gestione, potra' avvalersi dell'opera di funzionari appartenenti alle varie Amministrazioni dello Stato, anche con ordinamento autonomo.
  I funzionari prescelti saranno comandati a prestar servizio presso l'Azienda, con decreto del Ministro dal quale dipendono".
 

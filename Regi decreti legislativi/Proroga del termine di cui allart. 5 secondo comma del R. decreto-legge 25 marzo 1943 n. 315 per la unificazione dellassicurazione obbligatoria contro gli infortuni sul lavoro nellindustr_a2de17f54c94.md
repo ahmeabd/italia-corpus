@@ -16,7 +16,7 @@ Visto il [R. decreto legislativo 10 maggio 1946, n. 262](Intestazione%20dei%20de
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [R. decreto-legge 25 marzo 1943, n. 315](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unificazione%20dellassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20nellindustria%20e%20nellagricoltura.%20043U0315.md), concernente l'unificazione dell'assicurazione obbligatoria contro gli infortuni sul lavoro nell'industria e nell'agricoltura;
 

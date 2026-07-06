@@ -12,9 +12,9 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Decreti%20legislativi%20luogotenenziali/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), concernente la nomina e le attribuzioni dei commissari governativi per gli alloggi;
+Visto il [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), concernente la nomina e le attribuzioni dei commissari governativi per gli alloggi;
 
-Visto il [decreto legislativo Luogotenenziale 4 giugno 1945, n. 332](../Decreti%20legislativi%20luogotenenziali/Norme%20complementari%20e%20di%20attuazione%20del%20decreto%20legislativo%20Luogotenenziale%2028%20dicembre%201944%20n.%20415%20sulla%20requisizione%20in%20uso%20e%20assegnazione%20in%20locazione%20di%20alloggi%20nel%20Comuni%20per%20i%20quali_e2e7f846cac7.md), contenente norme complementari e di attuazione del [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Decreti%20legislativi%20luogotenenziali/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md);
+Visto il [decreto legislativo Luogotenenziale 4 giugno 1945, n. 332](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20complementari%20e%20di%20attuazione%20del%20decreto%20legislativo%20Luogotenenziale%2028%20dicembre%201944%20n.%20415%20sulla%20requisizione%20in%20uso%20e%20assegnazione%20in%20locazione%20di%20alloggi%20nel%20Comuni%20per%20i%20quali_e2e7f846cac7.md), contenente norme complementari e di attuazione del [decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -97,7 +97,7 @@ Le decisioni della Commissione per le controversie relative alla requisizione de
 ## Art. 13.
 
 Contro le decisioni della Commissione per le controversie relative alle requisizioni degli alloggi, e' ammesso soltanto il ricorso in Cassazione per motivi attinenti alla giurisdizione della Commissione.
- I ricorsi proposti, anteriormente alla data di entrata in vigore del presente decreto, al Comitato giurisdizionale centrale per le requisizioni in base all'[art. 9 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Decreti%20legislativi%20luogotenenziali/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), e tuttora pendenti, sono decisi dalla Commissione di cui al precedente comma.
+ I ricorsi proposti, anteriormente alla data di entrata in vigore del presente decreto, al Comitato giurisdizionale centrale per le requisizioni in base all'[art. 9 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 415](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nomina%20ed%20attribuzioni%20dei%20commissari%20governativi%20per%20gli%20alloggi.%20044U0415.md), e tuttora pendenti, sono decisi dalla Commissione di cui al precedente comma.
 
 ## Art. 14.
 
@@ -124,7 +124,7 @@ Le azioni per l'inadempimento degli obblighi dell'assegnatario dell'alloggi o ne
 ## Art. 16.
 
 I provvedimenti emanati dal Commissario per gli alloggi, i verbali delle esecuzioni relative, gli atti di apposizione allo stesso Commissario, i ricorsi alla Commissione per le controversie relative alle requisizioni degli alloggi, nonche' i verbali e le decisioni della Commissione medesima, sono esenti da tributi.
- Gli atti e i documenti prodotti alla Commissione sano esenti dalla tassa di bollo, preveduta dall'art. 121 dell'allegato A alla legge sul bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
+ Gli atti e i documenti prodotti alla Commissione sano esenti dalla tassa di bollo, preveduta dall'art. 121 dell'allegato A alla legge sul bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

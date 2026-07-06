@@ -24,7 +24,7 @@ Sulla proposta del Ministro per il tesoro, di concerto con i Ministri per la gra
 
 ## Art. 1.
 
-E' elevato a otto miliardi il limite dei finanziamenti a favore delle imprese industriali che non abbiano possibilita' di avvalersi, in tutto o in parte, delle provvidenze stabilite dal [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](../Decreti%20legislativi%20luogotenenziali/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni, al fine di consentire alle imprese stesse il ripristino, la riconversione e la continuazione della propria attivita' con riguardo all'interesse generale ed a particolari necessita' di carattere economico e sociale.
+E' elevato a otto miliardi il limite dei finanziamenti a favore delle imprese industriali che non abbiano possibilita' di avvalersi, in tutto o in parte, delle provvidenze stabilite dal [decreto legislativo Luogotenenziale 1° novembre 1944, n. 367](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20per%20agevolare%20il%20riassetto%20della%20vita%20civile%20e%20la%20ripresa%20economica%20della%20Nazione.%20044U0367.md) e successive modificazioni, al fine di consentire alle imprese stesse il ripristino, la riconversione e la continuazione della propria attivita' con riguardo all'interesse generale ed a particolari necessita' di carattere economico e sociale.
 
 ## Art. 2.
 

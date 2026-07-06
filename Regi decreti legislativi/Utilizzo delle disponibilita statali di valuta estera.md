@@ -20,7 +20,7 @@ Visto il [R. decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20dispos
 
 Vista, la [legge 9 dicembre 1928, n. 2783](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-09;2783);
 
-Visto il [R. decreto-legge 21 giugno 1940, n 856](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U0856.md), convertito nella [legge 21 ottobre 1940, n. 1518](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2021%20giugno%201940-XVIII%20n.%20856%20contenente%20le%20norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U1518.md);
+Visto il [R. decreto-legge 21 giugno 1940, n 856](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U0856.md), convertito nella [legge 21 ottobre 1940, n. 1518](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2021%20giugno%201940-XVIII%20n.%20856%20contenente%20le%20norme%20per%20la%20gestione%20patrimoniale%20e%20finanziaria%20dello%20Stato%20in%20periodo%20di%20guerra.%20040U1518.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -64,7 +64,7 @@ Il [D.Lgs. 27 marzo 1947, n. 1884](../Decreti%20Legislativi/Disposizioni%20per%2
 
 ## Art. 6.
 
-Alle merci importate in Italia, per conto dello Stato, con l'utilizzo delle, disponibilita' valutarie previsto agli articoli precedenti, si applicano, per quanto concerne la determinazione dei prezzi, la presa in consegna e la distribuzione nel territorio nazionale, le disposizioni concernenti i prodotti forniti dai Governi Alleati al governo Italiano, di cui al [decreto legislativo Luogotenenziale 28 maggio 1945, n. 370](../Decreti%20legislativi%20luogotenenziali/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md) e successive modificazioni ed aggiunte.
+Alle merci importate in Italia, per conto dello Stato, con l'utilizzo delle, disponibilita' valutarie previsto agli articoli precedenti, si applicano, per quanto concerne la determinazione dei prezzi, la presa in consegna e la distribuzione nel territorio nazionale, le disposizioni concernenti i prodotti forniti dai Governi Alleati al governo Italiano, di cui al [decreto legislativo Luogotenenziale 28 maggio 1945, n. 370](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20circa%20le%20importazioni%20e%20le%20esportazioni.%20045U0370.md) e successive modificazioni ed aggiunte.
 
 ## Art. 7.
 
