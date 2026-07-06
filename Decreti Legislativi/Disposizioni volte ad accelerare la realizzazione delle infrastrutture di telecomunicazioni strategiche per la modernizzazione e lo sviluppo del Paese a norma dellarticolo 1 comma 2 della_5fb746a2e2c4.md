@@ -294,7 +294,7 @@ I gestori delle reti radiomobili di comunicazione pubblica provvedono ad inviare
 
 4.
 
-E' abrogato l'[articolo 2-bis della legge 1 luglio 1997, n. 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md).
+E' abrogato l'[articolo 2-bis della legge 1 luglio 1997, n. 189](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md).
 
 ---------------
 

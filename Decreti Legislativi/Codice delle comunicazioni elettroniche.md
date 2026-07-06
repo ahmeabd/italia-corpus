@@ -50,7 +50,7 @@ Vista la [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Rat
 
 Visto il [decreto legislativo 11 febbraio 1997, n. 55](Attuazione%20della%20direttiva%2094-46-CE%20che%20modifica%20le%20direttive%2088-301-CEE%20e%2090-388-CEE%20nella%20parte%20relativa%20alle%20comunicazioni%20via%20satellite.md);
 
-Vista la [legge 1° luglio 1997, n. 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md);
+Vista la [legge 1° luglio 1997, n. 189](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md);
 
 Vista la [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249);
 
@@ -6054,7 +6054,7 @@ Sono o restano abrogati:
                             r)
                                 il decreto ministeriale 28 marzo 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 93 del 22 aprile 1997;
                             s)
-                                la [legge 1° luglio 1997, n. 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md);
+                                la [legge 1° luglio 1997, n. 189](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md);
                             t)
                                 gli [articoli 1, comma 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com16), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com4) e [5 della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com5);
                             u)
@@ -6130,7 +6130,7 @@ Note all'art. 218:
  - Per il [decreto legislativo 17 marzo 1995, n. 103](Recepimento%20della%20direttiva%2090-388-CEE%20relativa%20alla%20concorrenza%20nei%20mercati%20dei%20servizi%20di%20telecomunicazioni.md), si vedano le note alle premesse.
  - Per il [decreto del Presidente della Repubblica 4 settembre 1999, n. 420](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-09-04;420), si vedano le note alle premesse.
  - Per il [decreto legislativo 11 febbraio 1997, n. 55](Attuazione%20della%20direttiva%2094-46-CE%20che%20modifica%20le%20direttive%2088-301-CEE%20e%2090-388-CEE%20nella%20parte%20relativa%20alle%20comunicazioni%20via%20satellite.md), si vedano le note alle premesse.
- - Per la [legge 1° luglio 1997, n. 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md), si vedano le note alle premesse.
+ - Per la [legge 1° luglio 1997, n. 189](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md), si vedano le note alle premesse.
  - Per l'[art. 1 della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1), si vedano le note all'art. 25.
  - Per il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), si vedano le note alla premesse.
  - L'[art. 25 della legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 1995-1997)», pubblicata nella Gazzetta Ufficiale 7 maggio 1998, n. 104, supplemento ordinario, abrogato dal presente decreto, cosi' recava: «Sanzioni per le violazioni delle disposizioni di cui al [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md)».

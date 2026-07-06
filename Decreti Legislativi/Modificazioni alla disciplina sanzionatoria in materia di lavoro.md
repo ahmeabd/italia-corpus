@@ -507,7 +507,7 @@ regolamento e' punito con l'arresto fino ad un mese o con l'ammenda da lire trec
 
 2.
 
-Nel [primo comma dell'art. 8 del regio decreto-legge 23 dicembre 1920, n. 1881](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20vieta%20limpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20dei%20fiammiferi%20020U1881.md), convertito dalla [legge 15 maggio 1924, n. 891](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto%20Luogotenenziale%208%20luglio%201915%20n.%201079%20e%20del%20R.%20decreto%2023%20dicembre%201920%20n.%201881%20concernenti%20il%20divieto%20dellimpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20_d9b8e4ebe31b.md), le parole: "con la multa da lire duecentomila a lire quattrocentomila" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni".
+Nel [primo comma dell'art. 8 del regio decreto-legge 23 dicembre 1920, n. 1881](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20vieta%20limpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20dei%20fiammiferi%20020U1881.md), convertito dalla [legge 15 maggio 1924, n. 891](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto%20Luogotenenziale%208%20luglio%201915%20n.%201079%20e%20del%20R.%20decreto%2023%20dicembre%201920%20n.%201881%20concernenti%20il%20divieto%20dellimpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20_d9b8e4ebe31b.md), le parole: "con la multa da lire duecentomila a lire quattrocentomila" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni".
 
 3.
 
