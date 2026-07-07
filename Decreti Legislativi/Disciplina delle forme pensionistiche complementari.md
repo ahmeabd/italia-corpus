@@ -970,26 +970,23 @@ Il diritto alla prestazione pensionistica si acquisisce al momento della maturaz
 
 3.
 
-Le prestazioni pensionistiche in regime di contribuzione definita e di prestazione definita possono essere erogate in capitale, secondo il valore attuale, fino ad un massimo del ((60 per cento del montante finale accumulato, e in rendita vitalizia)). Nel computo dell'importo complessivo erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. ((Nel caso in cui la rendita vitalizia derivante dalla conversione di almeno il 70 per cento del montante finale sia inferiore al 50 per cento dell'assegno sociale di cui all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, la prestazione puo' essere interamente erogata in capitale)). ((26))
+Le prestazioni pensionistiche in regime di contribuzione definita e di prestazione definita possono essere erogate in capitale, secondo il valore attuale, fino ad un massimo del ((50 per cento)) del montante finale accumulato, e in rendita vitalizia. Nel computo dell'importo complessivo erogabile in capitale sono detratte le somme erogate a titolo di anticipazione per le quali non si sia provveduto al reintegro. ((Nel caso in cui la rendita vitalizia derivante dalla conversione di almeno il 70 per cento del montante finale sia inferiore al 50 per cento dell'assegno sociale di cui all'articolo 3, commi 6 e 7, della legge 8 agosto 1995, n. 335, la prestazione puo' essere interamente erogata in capitale. (26) ((29))
 
 3-bis.
 
-((Fermo restando il limite di cui al comma 3 per l'erogazione in forma di capitale, nelle forme a contribuzione definita le prestazioni pensionistiche possono essere anche erogate, in luogo della rendita vitalizia, nella forma della rendita a durata definita, per un numero di anni pari alla vita attesa residua, con rata annuale determinata rapportando il montante accumulato alla data di erogazione di ciascuna rata annuale al predetto numero di anni residui, ovvero nella forma di prelievi liberamente determinabili nei limiti di cui al comma 3-quater, o ancora mediante un'erogazione frazionata del montante accumulato per un periodo non inferiore a cinque anni.))
-                            ((26))
+Fermo restando il limite di cui al comma 3 per l'erogazione in forma di capitale, nelle forme a contribuzione definita le prestazioni pensionistiche possono essere anche erogate, in luogo della rendita vitalizia, nella forma della rendita a durata definita, per un numero di anni pari alla vita attesa residua, con rata annuale determinata rapportando il montante accumulato alla data di erogazione di ciascuna rata annuale al predetto numero di anni residui, ovvero nella forma di prelievi liberamente determinabili nei limiti di cui al comma 3-quater, o ancora mediante un'erogazione frazionata del montante accumulato per un periodo non inferiore a cinque anni. (26)
 
 3-ter.
 
-((Ai fini del calcolo della durata della rendita di cui al comma 3-bis, la vita attesa residua corrisponde al numero di anni interi della speranza di vita in corrispondenza dell'eta' dell'aderente al momento dell'esercizio dell'opzione, come determinata dall'ISTAT con riferimento alla tavola di mortalita' della popolazione generale utilizzata per il calcolo dei vigenti coefficienti di trasformazione del montante in rendita di cui alla tabella A allegata alla legge 8 agosto 1995, n. 335.))
-                            ((26))
+Ai fini del calcolo della durata della rendita di cui al comma 3-bis, la vita attesa residua corrisponde al numero di anni interi della speranza di vita in corrispondenza dell'eta' dell'aderente al momento dell'esercizio dell'opzione, come determinata dall'ISTAT con riferimento alla tavola di mortalita' della popolazione generale utilizzata per il calcolo dei vigenti coefficienti di trasformazione del montante in rendita di cui alla tabella A allegata alla [legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335). (26)
 
 3-quater.
 
-((I prelievi di cui al comma 3-bis possono essere, tempo per tempo, richiesti nei limiti della somma delle rate, maturate e non riscosse, della rendita a durata definita di cui al medesimo comma.))
-                            ((26))
+I prelievi di cui al comma 3-bis possono essere, tempo per tempo, richiesti nei limiti della somma delle rate, maturate e non riscosse, della rendita a durata definita di cui al medesimo comma. (26)
 
 3-quinquies.
 
-((Le prestazioni di cui al comma 3-bis sono erogate direttamente dalla forma pensionistica complementare e il relativo montante e' mantenuto in gestione. In caso di morte del beneficiario di una delle prestazioni di cui al comma 3-bis, il montante residuo e' riscattato dai soggetti dallo stesso indicati al momento dell'esercizio dell'opzione)). ((26))
+Le prestazioni di cui al comma 3-bis sono erogate direttamente dalla forma pensionistica complementare e il relativo montante e' mantenuto in gestione. In caso di morte del beneficiario di una delle prestazioni di cui al comma 3-bis, il montante residuo e' riscattato dai soggetti dallo stesso indicati al momento dell'esercizio dell'opzione. (26)
 
 4.
 
@@ -1013,21 +1010,20 @@ Le disposizioni di cui ai commi da 4 a 4-quater si applicano anche ai dipendenti
 
 5.
 
-A migliore tutela dell'aderente, gli schemi per l'erogazione delle rendite ((vitalizie)) possono prevedere, in caso di morte del beneficiario della prestazione pensionistica, la restituzione ai soggetti dallo stesso indicati del montante residuo o, in alternativa, l'erogazione ai medesimi di una rendita ((vitalizia)) calcolata in base al montante residuale. In tale caso e' autorizzata la stipula di contratti assicurativi collaterali contro i rischi di morte o di sopravvivenza oltre la vita media. ((26))
+A migliore tutela dell'aderente, gli schemi per l'erogazione delle rendite vitalizie possono prevedere, in caso di morte del beneficiario della prestazione pensionistica, la restituzione ai soggetti dallo stesso indicati del montante residuo o, in alternativa, l'erogazione ai medesimi di una rendita vitalizia calcolata in base al montante residuale. In tale caso e' autorizzata la stipula di contratti assicurativi collaterali contro i rischi di morte o di sopravvivenza oltre la vita media. (26)
 
 6.
 
 Le prestazioni pensionistiche complementari erogate in forma di capitale sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta.
-Le prestazioni pensionistiche complementari erogate in forma di rendita ((vitalizia)) sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta e a quelli di cui alla [lettera g-quinquies) del comma 1 dell'articolo 44 del TUIR](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, se determinabili. Sulla parte imponibile delle prestazioni pensionistiche comunque erogate e' operata una ritenuta a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con un limite massimo di riduzione di 6 punti percentuali. Nel caso di prestazioni erogate in forma di capitale la ritenuta di cui al periodo precedente e' applicata dalla forma pensionistica a cui risulta iscritto il lavoratore; nel caso di prestazioni erogate in forma di rendita ((vitalizia)) tale ritenuta e' applicata dai soggetti eroganti. La forma pensionistica complementare comunica ai soggetti che erogano le rendite ((vitalizie)) i dati in suo possesso necessari per il calcolo della parte delle prestazioni corrispondente ai redditi gia' assoggettati ad imposta se determinabili. ((26))
+Le prestazioni pensionistiche complementari erogate in forma di rendita vitalizia sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta e a quelli di cui alla [lettera g-quinquies) del comma 1 dell'articolo 44 del TUIR](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, se determinabili. Sulla parte imponibile delle prestazioni pensionistiche comunque erogate e' operata una ritenuta a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con un limite massimo di riduzione di 6 punti percentuali. Nel caso di prestazioni erogate in forma di capitale la ritenuta di cui al periodo precedente e' applicata dalla forma pensionistica a cui risulta iscritto il lavoratore; nel caso di prestazioni erogate in forma di rendita vitalizia tale ritenuta e' applicata dai soggetti eroganti. La forma pensionistica complementare comunica ai soggetti che erogano le rendite vitalizie i dati in suo possesso necessari per il calcolo della parte delle prestazioni corrispondente ai redditi gia' assoggettati ad imposta se determinabili. (26)
 
 6-bis.
 
-((Alle prestazioni in forma di rendita a durata definita o di prelievi di cui al comma 3-bis nonche' a quelle del comma 3-quinquies, secondo periodo, si applica il regime fiscale previsto dal comma 6 con riferimento alle prestazioni erogate in forma di capitale, anche per quanto attiene al soggetto tenuto ad applicare la ritenuta a titolo d'imposta.))
-                            ((26))
+Alle prestazioni in forma di rendita a durata definita o di prelievi di cui al comma 3-bis nonche' a quelle del comma 3-quinquies, secondo periodo, si applica il regime fiscale previsto dal comma 6 con riferimento alle prestazioni erogate in forma di capitale, anche per quanto attiene al soggetto tenuto ad applicare la ritenuta a titolo d'imposta. (26)
 
 6-ter.
 
-((Le prestazioni erogate in forma frazionata ai sensi del comma 3-bis sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta. Sulla parte imponibile delle prestazioni pensionistiche di cui al primo periodo e' operata una ritenuta a titolo d'imposta con l'aliquota del 20 per cento ridotta di una quota pari a 0,25 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con un limite massimo di riduzione di 5 punti percentuali. La ritenuta di cui al secondo periodo e' applicata dalla forma pensionistica a cui risulta iscritto il lavoratore)). ((26))
+Le prestazioni erogate in forma frazionata ai sensi del comma 3-bis sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta. Sulla parte imponibile delle prestazioni pensionistiche di cui al primo periodo e' operata una ritenuta a titolo d'imposta con l'aliquota del 20 per cento ridotta di una quota pari a 0,25 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con un limite massimo di riduzione di 5 punti percentuali. La ritenuta di cui al secondo periodo e' applicata dalla forma pensionistica a cui risulta iscritto il lavoratore. (26)
 
 7.
 
@@ -1044,7 +1040,7 @@ Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, e' appl
 
 8.
 
-Le somme percepite a titolo di anticipazione non possono mai eccedere, complessivamente, il 75 per cento del totale dei versamenti, comprese le quote del TFR, maggiorati delle plusvalenze tempo per tempo realizzate, effettuati alle forme pensionistiche complementari a decorrere dal primo momento di iscrizione alle predette forme. Le anticipazioni possono essere reintegrate, a scelta dell'aderente, in qualsiasi momento anche mediante contribuzioni annuali eccedenti il limite di ((5.300)) euro. Sulle somme eccedenti il predetto limite, corrispondenti alle anticipazioni reintegrate, e' riconosciuto al contribuente un credito d'imposta pari all'imposta pagata al momento della fruizione dell'anticipazione, proporzionalmente riferibile all'importo reintegrato. ((26))
+Le somme percepite a titolo di anticipazione non possono mai eccedere, complessivamente, il 75 per cento del totale dei versamenti, comprese le quote del TFR, maggiorati delle plusvalenze tempo per tempo realizzate, effettuati alle forme pensionistiche complementari a decorrere dal primo momento di iscrizione alle predette forme. Le anticipazioni possono essere reintegrate, a scelta dell'aderente, in qualsiasi momento anche mediante contribuzioni annuali eccedenti il limite di 5.300 euro. Sulle somme eccedenti il predetto limite, corrispondenti alle anticipazioni reintegrate, e' riconosciuto al contribuente un credito d'imposta pari all'imposta pagata al momento della fruizione dell'anticipazione, proporzionalmente riferibile all'importo reintegrato. (26)
 
 9.
 
@@ -1052,13 +1048,19 @@ Ai fini della determinazione dell'anzianita' necessaria per la richiesta delle a
 
 10.
 
-((Ferma restando l'intangibilita' delle posizioni individuali costituite presso le forme pensionistiche complementari nella fase di accumulo, che perdura fino alla richiesta di liquidazione, le prestazioni di cui ai commi 3, 3-bis e 3-quinquies, secondo periodo, la RITA di cui ai commi 4 e 4-bis e le anticipazioni di cui al comma 7, lettera a), sono sottoposte agli stessi limiti di cedibilita', sequestrabilita' e pignorabilita' in vigore per le pensioni a carico degli istituti di previdenza obbligatoria previsti dall'articolo 128 del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, dalla legge 6 aprile 1936, n. 1155, e dall'articolo 2 del testo unico di cui al decreto del Presidente della Repubblica 5 gennaio 1950, n. 180. I crediti relativi alle somme oggetto di riscatto totale e parziale e le somme oggetto di anticipazione di cui al comma 7, lettere b) e c), non sono assoggettati ad alcun vincolo di cedibilita', sequestrabilita' e pignorabilita')). ((26))
+Ferma restando l'intangibilita' delle posizioni individuali costituite presso le forme pensionistiche complementari nella fase di accumulo, che perdura fino alla richiesta di liquidazione, le prestazioni di cui ai commi 3, 3-bis e 3-quinquies, secondo periodo, la RITA di cui ai commi 4 e 4-bis e le anticipazioni di cui al comma 7, lettera a), sono sottoposte agli stessi limiti di cedibilita', sequestrabilita' e pignorabilita' in vigore per le pensioni a carico degli istituti di previdenza obbligatoria previsti dall'[articolo 128 del regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_128), convertito, con modificazioni, dalla [legge 6 aprile 1936, n. 1155, e dall'articolo 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%204%20ottobre%201935-XIII%20n.%201827%20concernente%20il%20perfezionamento%20e%20coordinamento%20legislativo%20della%20previdenza%20sociale.%20036U1155.md) del testo unico di cui al [decreto del Presidente della Repubblica 5 gennaio 1950, n. 180](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20concernenti%20il%20sequestro%20il%20pignoramento%20e%20la%20cessione%20degli%20stipendi%20salari%20e%20pensioni%20dei%20dipendenti%20dalle%20pubbliche%20Amministrazioni.md). I crediti relativi alle somme oggetto di riscatto totale e parziale e le somme oggetto di anticipazione di cui al comma 7, lettere b) e c), non sono assoggettati ad alcun vincolo di cedibilita', sequestrabilita' e pignorabilita'. (26)
 
 ---------------
 
 AGGIORNAMENTO (26)
 
 La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 202) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
+
+---------------
+
+AGGIORNAMENTO (29)
+
+Il [D.L. 30 aprile 2026, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-04-30;62), convertito con modificazioni dalla [L. 25 giugno 2026, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-06-25;11), ha disposto (con l'art. 16-ter, comma 1) che la presente modifica si si applica a decorrere dal termine del 1° luglio 2026 previsto dal primo periodo del [comma 202 dell'articolo 1 della legge 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md).
 
 ## Art. 12. — Fondi pensione aperti
 

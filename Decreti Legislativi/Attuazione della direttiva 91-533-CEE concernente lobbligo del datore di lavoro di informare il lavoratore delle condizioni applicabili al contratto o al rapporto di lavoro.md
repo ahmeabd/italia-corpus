@@ -66,6 +66,8 @@ Il datore di lavoro pubblico e privato e' tenuto a comunicare al lavoratore, sec
  3) il periodo minimo di preavviso a cui il lavoratore ha diritto prima dell'inizio della prestazione lavorativa e, ove cio' sia consentito dalla tipologia contrattuale in uso e sia stato pattuito, il termine entro cui il datore di lavoro puo' annullare l'incarico;
                         q)
                             il contratto collettivo, anche aziendale, applicato al rapporto di lavoro, con l'indicazione delle parti che lo hanno sottoscritto;
+                        q-bis)
+                            ((per i soli datori di lavoro privati, il codice alfanumerico unico assegnato al contratto collettivo nazionale di lavoro applicato ai sensi dell'articolo 16-quater del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120;))
                         r)
                             gli enti e gli istituti che ricevono i contributi previdenziali e assicurativi dovuti dal datore di lavoro e qualunque forma di protezione in materia di sicurezza sociale fornita dal datore di lavoro stesso;
                         s)
@@ -81,7 +83,7 @@ L'obbligo di informazione di cui al comma 1 e' assolto mediante la consegna al l
 
 3.
 
-Le informazioni di cui al comma 1 eventualmente non contenute nei documenti di cui al comma 2, lettere a) e b), sono in ogni caso fornite per iscritto al lavoratore entro i sette giorni successivi all'inizio della prestazione lavorativa. Le informazioni di cui alle lettere g), i), l), m), q) e r) possono essere fornite al lavoratore entro un mese dall'inizio della prestazione lavorativa.
+Le informazioni di cui al comma 1 eventualmente non contenute nei documenti di cui al comma 2, lettere a) e b), sono in ogni caso fornite per iscritto al lavoratore entro i sette giorni successivi all'inizio della prestazione lavorativa. Le informazioni di cui alle lettere g), i), l), m), q) ((, q-bis) )) e r) possono essere fornite al lavoratore entro un mese dall'inizio della prestazione lavorativa.
 
 4.
 
@@ -93,7 +95,7 @@ Agli obblighi informativi di cui al presente articolo e' tenuto, nei limiti dell
 
 5-bis.
 
-Le informazioni di cui al comma 1, lettere h), i), l), m), n), (( o) e r) )), possono essere comunicate al lavoratore, e il relativo onere ritenersi assolto, con l'indicazione del riferimento normativo o del contratto collettivo, anche aziendale, che ne disciplina le materie.
+Le informazioni di cui al comma 1, lettere h), i), l), m), n), o) e r), possono essere comunicate al lavoratore, e il relativo onere ritenersi assolto, con l'indicazione del riferimento normativo o del contratto collettivo, anche aziendale, che ne disciplina le materie.
 
 6.
 

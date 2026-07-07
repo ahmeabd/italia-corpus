@@ -1452,11 +1452,11 @@ Entro sessanta giorni dalla data di entrata in vigore del presente decreto la co
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 210](../Atti%20di%20attuazione%20Regolamenti%20UE/Attuazione%20della%20direttiva%20UE%202019-944%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20giugno%202019%20relativa%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20e%20che%20modifica%20la%20dire_a38480d60548.md). (15)
+COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 210](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-944%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20giugno%202019%20relativa%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20e%20che%20modifica%20la%20dire_a38480d60548.md). (15)
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 210](../Atti%20di%20attuazione%20Regolamenti%20UE/Attuazione%20della%20direttiva%20UE%202019-944%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20giugno%202019%20relativa%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20e%20che%20modifica%20la%20dire_a38480d60548.md).
+COMMA ABROGATO DAL [D.LGS. 8 NOVEMBRE 2021, N. 210](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-944%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20giugno%202019%20relativa%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20e%20che%20modifica%20la%20dire_a38480d60548.md).
 
 6.
 
@@ -1559,7 +1559,7 @@ Ai fini di promuovere la necessaria conoscenza e di favorire la cooperazione reg
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 8 novembre 2021, n. 210](../Atti%20di%20attuazione%20Regolamenti%20UE/Attuazione%20della%20direttiva%20UE%202019-944%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20giugno%202019%20relativa%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20e%20che%20modifica%20la%20dire_a38480d60548.md) ha disposto (con l'art. 18, comma 11) che "Restano tuttavia fermi gli effetti prodotti dal predetto comma 4 dell'articolo 36 anteriormente all'entrata in vigore del presente decreto".
+Il [D.Lgs. 8 novembre 2021, n. 210](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-944%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%205%20giugno%202019%20relativa%20a%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica%20e%20che%20modifica%20la%20dire_a38480d60548.md) ha disposto (con l'art. 18, comma 11) che "Restano tuttavia fermi gli effetti prodotti dal predetto comma 4 dell'articolo 36 anteriormente all'entrata in vigore del presente decreto".
 
 ### Art. 37. — Promozione della cooperazione regionale
 
