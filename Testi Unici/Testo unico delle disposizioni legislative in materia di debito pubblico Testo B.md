@@ -564,7 +564,7 @@ I conferimenti di cui all'articolo 45 sono impiegati dal Fondo:
 2.
 
 Le operazioni di acquisto di cui al comma 1 sono effettuate per il tramite della Banca d'Italia o di altri intermediari abilitati.
-Dette operazioni sono esenti dalla tassa di cui all'[articolo 1 del regio decreto 30 dicembre 1923, n. 3278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni. (L).
+Dette operazioni sono esenti dalla tassa di cui all'[articolo 1 del regio decreto 30 dicembre 1923, n. 3278](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20delle%20tasse%20sui%20contratti%20di%20borsa.%20023U3278.md), e successive modificazioni. (L).
 
 3.
 

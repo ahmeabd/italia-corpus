@@ -62,7 +62,7 @@ Titolo II
 
 Nel casellario giudiziale si iscrivono per estratto:
                             a)
-                                i provvedimenti giudiziari penali di condanna definitivi, anche pronunciati da autorita' giudiziarie straniere se riconosciuti ai sensi degli [articoli 730 e seguenti del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_730), salvo quelli concernenti contravvenzioni per le quali la legge ammette la definizione in via amministrativa, o l'oblazione limitatamente alle ipotesi di cui all'[articolo 162 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sempre che per quelli esclusi non sia stata concessa la sospensione condizionale della pena;
+                                i provvedimenti giudiziari penali di condanna definitivi, anche pronunciati da autorita' giudiziarie straniere se riconosciuti ai sensi degli [articoli 730 e seguenti del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_730), salvo quelli concernenti contravvenzioni per le quali la legge ammette la definizione in via amministrativa, o l'oblazione limitatamente alle ipotesi di cui all'[articolo 162 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sempre che per quelli esclusi non sia stata concessa la sospensione condizionale della pena;
                             b)
                                 i provvedimenti giudiziari definitivi concernenti le pene, compresa la sospensione condizionale e la non menzione, le misure di sicurezza personali e patrimoniali, gli effetti penali della condanna, l'amnistia, l'indulto, la grazia, la dichiarazione di abitualita', di professionalita' nel reato, di tendenza a delinquere;
                             c)
@@ -123,7 +123,7 @@ Sono, inoltre, eliminate le iscrizioni relative:
                             c)
                                 ai provvedimenti giudiziari di proscioglimento o di non luogo a procedere per difetto di imputabilita', trascorsi dieci anni in caso di delitto o tre anni in caso di contravvenzione dal giorno in cui il provvedimento e' divenuto irrevocabile o, nel caso di non luogo a procedere, dal giorno in cui e' scaduto il termine per l'impugnazione;
                             d)
-                                ai provvedimenti giudiziari di condanna per contravvenzioni per le quali e' stata inflitta la pena dell'ammenda, salvo che sia stato concesso alcuno dei benefici di cui agli [articoli 163](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [175 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), trascorsi dieci anni dal giorno in cui la pena e' stata eseguita ovvero si e' in altro modo estinta;
+                                ai provvedimenti giudiziari di condanna per contravvenzioni per le quali e' stata inflitta la pena dell'ammenda, salvo che sia stato concesso alcuno dei benefici di cui agli [articoli 163](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [175 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), trascorsi dieci anni dal giorno in cui la pena e' stata eseguita ovvero si e' in altro modo estinta;
                             e)
                                 ai provvedimenti giudiziari di proscioglimento per difetto di imputabilita' emessi dal giudice di pace, trascorsi tre anni dal giorno in cui il provvedimento e' divenuto irrevocabile;
                             f)
@@ -318,11 +318,11 @@ L'interessato ha il diritto di ottenere il certificato generale, il certificato 
 
 Nel certificato generale sono riportate le iscrizioni esistenti nel casellario giudiziale ad eccezione di quelle relative:
                             a)
-                                alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
+                                alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
                             b)
-                                alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'[articolo 167, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'[articolo 167, primo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             c)
-                                alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             d)
                                 alle condanne in relazione alle quali e' stata definitivamente applicata l'amnistia e a quelle per le quali e' stata dichiarata la riabilitazione, senza che questa sia stata in seguito revocata;
                             e)
@@ -356,11 +356,11 @@ Se e' stata dichiarata la riabilitazione speciale ai sensi dell'[articolo 24 del
 
 Nel certificato penale sono riportate le iscrizioni esistenti nel casellario giudiziale ad eccezione di quelle relative:
                             a)
-                                alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
+                                alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
                             b)
-                                alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'[articolo 167, primo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'[articolo 167, primo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             c)
-                                alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             d)
                                 alle condanne in relazione alle quali e' stata definitivamente applicata l'amnistia e a quelle per le quali e' stata dichiarata la riabilitazione, senza che questa sia stata in seguito revocata;
                             e)
@@ -419,11 +419,11 @@ L'interessato ha il diritto di ottenere il certificato senza motivare la richies
 
 Nel certificato sono riportate le iscrizioni esistenti nel casellario dei carichi pendenti ad accezione di quelle relative:
                             a)
-                                alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
+                                alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'[articolo 175 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), purche' il beneficio non sia stato revocato;
                             b)
                                 alle condanne per contravvenzioni punibili con la sola ammenda;
                             c)
-                                alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'[articolo 556 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             d)
                                 ai provvedimenti previsti dall'[articolo 445 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_445) e ai decreti penali;
                             e)
@@ -612,7 +612,7 @@ Titolo XI
 Dalla data di entrata in vigore del presente testo unico sono o restano abrogate le seguenti disposizioni:
 
 - [regio decreto 18 giugno 1931, n. 778;
-- all'articolo 24](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md) del [regio decreto-legge 20 luglio 1934, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1404), convertito, con modificazioni, dalla [legge 27 maggio 1935, n. 835](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201404%20riguardante%20la%20istituzione%20e%20il%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20035U0835.md), e successive modificazioni: al sesto comma le parole: "ed e' iscritto nel casellario giudiziario", nonche' il settimo comma;
+- all'articolo 24](../Regi%20decreti/Disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20031U0778.md) del [regio decreto-legge 20 luglio 1934, n. 1404](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-20;1404), convertito, con modificazioni, dalla [legge 27 maggio 1935, n. 835](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2020%20luglio%201934%20n.%201404%20riguardante%20la%20istituzione%20e%20il%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20035U0835.md), e successive modificazioni: al sesto comma le parole: "ed e' iscritto nel casellario giudiziario", nonche' il settimo comma;
 - l'articolo 17, secondo comma, ultimo periodo, del [regio decreto 16 marzo 1942, n. 267;
 - l'articolo 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_9) della [legge 23 marzo 1956, n. 182;
 - l'articolo 32, primo comma, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-23;182#art_32-com1-num3)), del [decreto del Presidente della Repubblica 20 marzo 1967, n. 223](Approvazione%20del%20testo%20unico%20delle%20leggi%20per%20la%20disciplina%20dellelettorato%20attivo%20e%20per%20la%20tenuta%20e%20la%20revisione%20delle%20liste%20elettorali.md), come modificato dall'[articolo 9 della legge 16 gennaio 1992, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-01-16;15#art_9), limitatamente alle parole:

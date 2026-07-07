@@ -1393,7 +1393,7 @@ Si registrano a debito, cioe` senza contemporaneo pagamento delle imposte dovute
 
 AGGIORNAMENTO (100)
 
-La [L. 2 dicembre 2025, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;181) ha disposto (con l'art. 11, comma 3) che la presente modifica "si applica anche ai procedimenti pendenti alla data del 1° gennaio 2025 volti a dare esecuzione alla condanna al risarcimento del danno prodotto dai fatti di cui agli [articoli 575](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [577, primo comma, numero 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
+La [L. 2 dicembre 2025, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;181) ha disposto (con l'art. 11, comma 3) che la presente modifica "si applica anche ai procedimenti pendenti alla data del 1° gennaio 2025 volti a dare esecuzione alla condanna al risarcimento del danno prodotto dai fatti di cui agli [articoli 575](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [577, primo comma, numero 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md)".
 
 ### Art. 60. — Modalita' per la registrazione a debito
 
@@ -1822,7 +1822,7 @@ La disposizione del comma 3 dell'art. 21, relativa agli accolli di debiti e oner
 
 2.
 
-L'imposta relativa alla riunione dell'usufrutto alla nuda proprieta' trasferita a titolo oneroso con atti posti in essere quando era in vigore il [regio decreto 30 dicembre 1923, n. 3269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si applica solo se la consolidazione dell'usufrutto si e' verificata anteriormente alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](../DPR/Disciplina%20dellimposta%20di%20registro.md). Non si fa luogo a rimborso delle imposte gia' pagate, salvo i casi in cui alla data del 20 novembre 1985 risultasse presentato il ricorso.
+L'imposta relativa alla riunione dell'usufrutto alla nuda proprieta' trasferita a titolo oneroso con atti posti in essere quando era in vigore il [regio decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), si applica solo se la consolidazione dell'usufrutto si e' verificata anteriormente alla data di entrata in vigore del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 634](../DPR/Disciplina%20dellimposta%20di%20registro.md). Non si fa luogo a rimborso delle imposte gia' pagate, salvo i casi in cui alla data del 20 novembre 1985 risultasse presentato il ricorso.
 
 3.
 

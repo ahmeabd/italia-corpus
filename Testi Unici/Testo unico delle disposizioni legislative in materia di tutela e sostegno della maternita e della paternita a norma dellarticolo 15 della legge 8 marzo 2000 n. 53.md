@@ -173,7 +173,7 @@ Nota all'[art. 6, comma 3:
 
 1.
 
-E' vietato adibire le lavoratrici al trasporto e al sollevamento di pesi, nonche' ai lavori pericolosi, faticosi ed insalubri. I lavori pericolosi, faticosi ed insalubri sono indicati dall'[articolo 5 del decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), riportato nell'allegato A del presente testo unico. Il Ministro del lavoro e della previdenza sociale, di concerto con i Ministri della sanita' e per la solidarieta' sociale, sentite le parti sociali, provvede ad aggiornare l'elenco di cui all'allegato A.
+E' vietato adibire le lavoratrici al trasporto e al sollevamento di pesi, nonche' ai lavori pericolosi, faticosi ed insalubri. I lavori pericolosi, faticosi ed insalubri sono indicati dall'[articolo 5 del decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), riportato nell'allegato A del presente testo unico. Il Ministro del lavoro e della previdenza sociale, di concerto con i Ministri della sanita' e per la solidarieta' sociale, sentite le parti sociali, provvede ad aggiornare l'elenco di cui all'allegato A.
 
 2.
 
@@ -200,7 +200,7 @@ Quando la lavoratrice non possa essere spostata ad altre mansioni, il servizio i
 L'inosservanza delle disposizioni contenute nei commi 1, 2, 3 e 4 e' punita con l'arresto fino a sei mesi.
 
 Nota all'[art. 7, comma 1:
- - Il decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), recante "Regolamento di esecuzione della [legge 30 dicembre 1971, n. 1204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20lavoratrici%20madri.md), sulla tutela delle lavoratrici madri" e' pubblicato nella Gazzetta Ufficiale del 16 marzo 1977, n. 72.
+ - Il decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), recante "Regolamento di esecuzione della [legge 30 dicembre 1971, n. 1204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20lavoratrici%20madri.md), sulla tutela delle lavoratrici madri" e' pubblicato nella Gazzetta Ufficiale del 16 marzo 1977, n. 72.
  Nota all'[art. 7, comma 5:
  - La legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300#art_7-com5), recante "Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro e norme sul collocamento" e' pubblicata nella Gazzetta Ufficiale del 27 maggio 1970, n. 131. Si riporta il testo dell'art. 13:
  "Art. 13 (Mansioni del lavoratore). - L'[art. 2103 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2103) e' sostituito dal seguente:
@@ -1599,7 +1599,7 @@ Alle straniere titolari di permesso di soggiorno per lavoro stagionale e' ricono
 Nota all'art. 59, comma 1:
  - Il decreto ministeriale 30 novembre 1964, e successive modificazioni, recante "Nuova tabella delle industrie aventi disoccupazione stagionale o normali periodi di sospensione" e' pubblicato nella Gazzetta Ufficiale 25 gennaio 1965, n. 20. Si riporta la tabella annessa:
  "Tabelle delle industrie aventi disoccupazione stagionale o normali periodi di sospensione
- ([Art. 76, regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_76), e art. 13 del regolamento approvato con [regio decreto 7 dicembre 1924, n. 2270](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203158%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20024U2270.md)).
+ ([Art. 76, regio decreto-legge 4 ottobre 1935, n. 1827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-04;1827#art_76), e art. 13 del regolamento approvato con [regio decreto 7 dicembre 1924, n. 2270](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto%2030%20dicembre%201923%20n.%203158%20concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20la%20disoccupazione%20involontaria.%20024U2270.md)).
  ----> vedere Tabella a pag. 37 del S.O. <---- 
 
  Nota all'[art. 59, comma 2:
@@ -2323,7 +2323,7 @@ Restano in vigore, in particolare, le seguenti disposizioni legislative, fatte s
                             c)
                                 l'[articolo 3 della legge 8 agosto 1972, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-08-08;457#art_3);
                             d)
-                                l'[articolo 10 della legge 18 maggio 1973, n. 304](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20europeo%20sul%20collocamento%20alla%20pari%20con%20allegati%20e%20protocollo%20adottato%20a%20Strasburgo%20il%2024%20novembre%201969.md);
+                                l'[articolo 10 della legge 18 maggio 1973, n. 304](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20europeo%20sul%20collocamento%20alla%20pari%20con%20allegati%20e%20protocollo%20adottato%20a%20Strasburgo%20il%2024%20novembre%201969.md);
                             e)
                                 la [lettera c) del comma 2 dell'articolo 5 della legge 9 dicembre 1977, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903#art_5-com2-letc);
                             f)
@@ -2357,7 +2357,7 @@ Restano in vigore, in particolare, le seguenti disposizioni legislative, fatte s
                             t)
                                 gli [articoli 5](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2039%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20contribuzione%20figurativa%20e%20di%20copertura%20assicurativa%20per%20periodi%20non%20coperti%20da%20contribuzione.md), [7](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2039%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20contribuzione%20figurativa%20e%20di%20copertura%20assicurativa%20per%20periodi%20non%20coperti%20da%20contribuzione.md) e [8 del decreto legislativo 16 settembre 1996, n. 564](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2039%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20contribuzione%20figurativa%20e%20di%20copertura%20assicurativa%20per%20periodi%20non%20coperti%20da%20contribuzione.md);
                             u)
-                                l'[articolo 23 della legge 4 marzo 1997, n. 62](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20memorandum%20dintesa%20fra%20il%20Governo%20della%20Repubblica%20italiana%20e%20le%20Nazioni%20Unite%20relativo%20alluso%20da%20parte%20delle%20Nazioni%20Unite%20di%20locali%20di%20istallazioni%20militari%20i_bdf4efde75b0.md);
+                                l'[articolo 23 della legge 4 marzo 1997, n. 62](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20memorandum%20dintesa%20fra%20il%20Governo%20della%20Repubblica%20italiana%20e%20le%20Nazioni%20Unite%20relativo%20alluso%20da%20parte%20delle%20Nazioni%20Unite%20di%20locali%20di%20istallazioni%20militari%20i_bdf4efde75b0.md);
                             v)
                                 il [comma 16 dell'articolo 59 della legge 27 dicembre 1991, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-27;449#art_59-com16);
                             w)
@@ -2371,7 +2371,7 @@ Restano in vigore, in particolare, le seguenti disposizioni legislative, fatte s
                             aa)
                                 la [lettera e) del comma 2, dell'articolo 1 del decreto legislativo 22 giugno 1999, n. 230](../Decreti%20Legislativi/Riordino%20della%20medicina%20penitenziaria%20a%20norma%20dellarticolo%205%20della%20legge%2030%20novembre%201998%20n.%20419.md);
                             bb)
-                                l'[articolo 65 della legge 2 agosto 1999, n. 302](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20euromediterraneo%20che%20istituisce%20unassociazione%20tra%20le%20Comunita%20europee%20e%20i%20loro%20Stati%20membri%20da%20una%20parte%20e%20il%20Regno%20del%20Marocco%20dallaltra%20con%20sette%20all_5e9723d7c3e2.md);
+                                l'[articolo 65 della legge 2 agosto 1999, n. 302](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20euromediterraneo%20che%20istituisce%20unassociazione%20tra%20le%20Comunita%20europee%20e%20i%20loro%20Stati%20membri%20da%20una%20parte%20e%20il%20Regno%20del%20Marocco%20dallaltra%20con%20sette%20all_5e9723d7c3e2.md);
                             cc)
                                 il [comma 1 dell'articolo 41 della legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md);
                             dd)
@@ -2389,7 +2389,7 @@ Restano in vigore, in particolare, le seguenti disposizioni regolamentari:
                             a)
                                 il [decreto del Presidente della Repubblica 31 dicembre 1971, n. 1403](../DPR/Disciplina%20dellobbligo%20delle%20assicurazioni%20sociali%20nei%20confronti%20dei%20lavoratori%20addetti%20ai%20servizi%20domestici%20e%20familiari%20nonche%20dei%20lavoratori%20addetti%20a%20servizi%20di%20riassetto%20e%20di%20pulizia%20dei%20locali.md);
                             b)
-                                il [decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), ad eccezione degli articoli 1, 11 e 21;
+                                il [decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), ad eccezione degli articoli 1, 11 e 21;
                             c)
                                 il [comma 4 dell'articolo 58 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](../DPR/Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
                             d)
@@ -2403,7 +2403,7 @@ Restano in vigore, in particolare, le seguenti disposizioni regolamentari:
                             h)
                                 il decreto del Ministro della sanita' 10 settembre 1998;
                             i)
-                                il [comma 4 dell'articolo 8](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20in%20materia%20di%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali%20a%20norma%20dellarticolo%2017%20comma%2078%20della%20legge%2015%20maggio%201997%20n.%20127.md) e il [comma 3 dell'articolo 19 del decreto del Presidente della Repubblica 4 dicembre 1997, n. 465](../Regolamenti%20governativi/Regolamento%20recante%20disposizioni%20in%20materia%20di%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali%20a%20norma%20dellarticolo%2017%20comma%2078%20della%20legge%2015%20maggio%201997%20n.%20127.md);
+                                il [comma 4 dell'articolo 8](../DPR/Regolamento%20recante%20disposizioni%20in%20materia%20di%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali%20a%20norma%20dellarticolo%2017%20comma%2078%20della%20legge%2015%20maggio%201997%20n.%20127.md) e il [comma 3 dell'articolo 19 del decreto del Presidente della Repubblica 4 dicembre 1997, n. 465](../DPR/Regolamento%20recante%20disposizioni%20in%20materia%20di%20ordinamento%20dei%20segretari%20comunali%20e%20provinciali%20a%20norma%20dellarticolo%2017%20comma%2078%20della%20legge%2015%20maggio%201997%20n.%20127.md);
                             j)
                                 il [comma 2 dell'articolo 7 del decreto del Ministro del lavoro e della previdenza sociale 25 marzo 1998, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavoro.previdenza.sociale:decreto:1998-03-25;142#art_7-com2);
                             k)
@@ -2417,7 +2417,7 @@ Restano in vigore, in particolare, le seguenti disposizioni regolamentari:
                             o)
                                 il decreto del Ministro del lavoro e della previdenza sociale 4 agosto 1999;
                             p)
-                                il [comma 6 dell'articolo 42 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md);
+                                il [comma 6 dell'articolo 42 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero%20a%20norma%20dellarticolo%201%20comma_d0732f58b7ad.md);
                             q)
                                 il [decreto del Ministro del lavoro e della previdenza sociale 20 dicembre 1999, n. 553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavoro.previdenza.sociale:decreto:1999-12-20;553);
                             r)
@@ -2488,7 +2488,7 @@ Dalla data di entrata in vigore del presente testo unico, sono abrogate, in part
 
 Dalla data di entrata in vigore del presente testo unico, sono abrogate le seguenti disposizioni regolamentari:
                             a)
-                                gli [articoli 1](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), [11](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md) e [21 del decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md).
+                                gli [articoli 1](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), [11](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md) e [21 del decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md).
 
 ((
 
@@ -2502,11 +2502,11 @@ Le disposizioni di cui agli [articoli 17](https://www.normattiva.it/uri-res/N2Ls
 
 1.
 
-Fino all'entrata in vigore delle disposizioni regolamentari di attuazione del presente testo unico, emanate ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), si applicano le disposizioni del [decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), salvo quanto stabilito dall'articolo 86 del presente testo unico.
+Fino all'entrata in vigore delle disposizioni regolamentari di attuazione del presente testo unico, emanate ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), si applicano le disposizioni del [decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), salvo quanto stabilito dall'articolo 86 del presente testo unico.
 
 2.
 
-Le disposizioni del citato [decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), che fanno riferimento alla disciplina della [legge 30 dicembre 1971, n. 1204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20lavoratrici%20madri.md), sono da intendersi riferite alle corrispondenti disposizioni del presente testo unico.
+Le disposizioni del citato [decreto del Presidente della Repubblica 25 novembre 1976, n. 1026](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20dicembre%201971%20n.%201204%20sulla%20tutela%20delle%20lavoratrici%20madri.md), che fanno riferimento alla disciplina della [legge 30 dicembre 1971, n. 1204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20lavoratrici%20madri.md), sono da intendersi riferite alle corrispondenti disposizioni del presente testo unico.
 
 Note all'art. 87, comma 1:
  - Si riporta il testo dell'art. 17, comma 1, della citata [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400):
