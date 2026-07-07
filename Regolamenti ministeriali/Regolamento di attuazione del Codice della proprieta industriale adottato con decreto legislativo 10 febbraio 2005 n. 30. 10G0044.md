@@ -14,7 +14,7 @@ VISTO l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 VISTO il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
-VISTO il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni dalla [legge 17 luglio 2006, n. 233](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
+VISTO il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni dalla [legge 17 luglio 2006, n. 233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
 
 VISTO il [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) recante "Codice della proprieta' industriale, a norma dell'[articolo 15 della legge 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273#art_15)";
 
@@ -999,7 +999,7 @@ Note all'art. 43:
  f) domande di trascrizione degli atti indicati da questo codice e trascrizioni avvenute.
  2. I dati identificativi delle domande e delle registrazioni, oltre quelli specifici indicati al comma 1, lettere a), b) e d), ed ai relativi numeri e date, sono quelli di cui all'art. 156.
  3. Il Bollettino ufficiale e' corredato da indici analitici, almeno alfabetici per titolari, numerici e per classi.».
- «Art. 188 (Bollettino ufficiale delle nuove varieta' vegetali). - 1. La comunicazione al pubblico prevista dall'art. 30 della Convenzione internazionale per la protezione delle novita' vegetali (UPOV) - testo di Ginevra del 19 marzo 1991, ratificata con [legge 23 marzo 1998, n. 110](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20adottata%20a%20Parigi%20il%202%20dicembre%201961%20e%20riveduta%20a%20Ginevra%20il%2010%20novembre%201972%20il%2023%20ottobr_6dd3374a746e.md), si effettua mediante pubblicazione di un “Bollettino ufficiale delle nuove varieta'
+ «Art. 188 (Bollettino ufficiale delle nuove varieta' vegetali). - 1. La comunicazione al pubblico prevista dall'art. 30 della Convenzione internazionale per la protezione delle novita' vegetali (UPOV) - testo di Ginevra del 19 marzo 1991, ratificata con [legge 23 marzo 1998, n. 110](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20adottata%20a%20Parigi%20il%202%20dicembre%201961%20e%20riveduta%20a%20Ginevra%20il%2010%20novembre%201972%20il%2023%20ottobr_6dd3374a746e.md), si effettua mediante pubblicazione di un “Bollettino ufficiale delle nuove varieta'
  vegetali” edito a cura dell'Ufficio.
  2. Il Bollettino ha frequenza almeno semestrale e contiene:
  a) l'elenco delle domande di privative, distinte per specie, indicante, oltre il numero e la data di deposito della domanda, il nome e l'indirizzo del richiedente ed il nome dell'autore se persona diversa dal richiedente, la denominazione proposta ed una descrizione succinta della varieta' vegetale della quale e' richiesta la protezione;
@@ -1274,7 +1274,7 @@ Al temine del procedimento di opposizione l'Ufficio italiano brevetti e marchi i
 
 1.
 
-Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md).
+Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md).
 
 ))
 
@@ -1481,7 +1481,7 @@ Gli esaminatori, provenienti dall'Ufficio italiano brevetti e marchi, devono ast
 
 2.
 
-Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
+Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
 
 ))
 

@@ -59,7 +59,7 @@ Avvertenza:
  a) per l'emanazione degli atti normativi del Governo e dei singoli Ministri, ai sensi dall'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), nonche' per l'emanazione di testi unici;
  b) per la decisione dei ricorsi straordinari al Presidente della Repubblica;
  c) sugli schemi generali di contratti-tipo, accordi e convenzioni predisposti da uno o piu' Ministri".
- - Il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20governativi/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), reca: "Regolamento concernente norme per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale".
+ - Il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../DPR/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), reca: "Regolamento concernente norme per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale".
  Nota all'articolo unico:
  - Si riporta il testo dell'[art. 3 del decreto del Ministro del lavoro e della previdenza sociale 20 dicembre 1999, n. 553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavoro.previdenza.sociale:decreto:1999-12-20;553#art_3), come modificato dal decreto qui pubblicato:
  "Art. 3 (Funzioni del comitato). - 1. Il comitato amministratore ha i seguenti compiti:

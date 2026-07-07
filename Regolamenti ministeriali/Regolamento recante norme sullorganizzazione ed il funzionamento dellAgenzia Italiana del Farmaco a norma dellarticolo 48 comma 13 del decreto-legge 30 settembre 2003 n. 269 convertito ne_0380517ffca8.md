@@ -24,7 +24,7 @@ Visti gli [articoli 8](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20d
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 marzo 2003, n. 129](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20salute.md), recante il regolamento di organizzazione del Ministero della salute;
+Visto il [decreto del Presidente della Repubblica 28 marzo 2003, n. 129](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20salute.md), recante il regolamento di organizzazione del Ministero della salute;
 
 Acquisita l'intesa della Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome, in data 20 maggio 2004;
 
@@ -606,7 +606,7 @@ Le variazioni del ruolo organico di cui al precedente comma 3 ed i regolamenti d
 
 5.
 
-Per l'approvazione degli atti di programmazione dei bilanci si applicano le disposizioni del [decreto del Presidente della Repubblica 9 novembre 1998, n. 439](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20semplificazione%20dei%20procedimenti%20di%20approvazione%20e%20di%20rilascio%20di%20pareri%20da%20parte%20dei%20Ministeri%20vigilanti%20in%20ordine%20alle%20delibere%20adottate%20dagli%20organi%20colleg_9b722b02bf1a.md).
+Per l'approvazione degli atti di programmazione dei bilanci si applicano le disposizioni del [decreto del Presidente della Repubblica 9 novembre 1998, n. 439](../DPR/Regolamento%20recante%20norme%20di%20semplificazione%20dei%20procedimenti%20di%20approvazione%20e%20di%20rilascio%20di%20pareri%20da%20parte%20dei%20Ministeri%20vigilanti%20in%20ordine%20alle%20delibere%20adottate%20dagli%20organi%20colleg_9b722b02bf1a.md).
 
 ### Art. 23. — Amministrazione e contabilita'
 

@@ -18,7 +18,7 @@ Visto il [decreto legislativo 12 maggio 1995, n. 200](../Decreti%20Legislativi/A
 
 Visto il decreto 21 luglio 1998, n. 297, recante norme per l'espletamento dei concorsi per l'accesso alla qualifica iniziale del ruoli degli ispettori del Corpo di polizia penitenziaria;
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../Regolamenti%20governativi/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md), concernente il "Regolamento di servizio del Corpo di polizia penitenziaria";
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../DPR/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md), concernente il "Regolamento di servizio del Corpo di polizia penitenziaria";
 
 Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 
@@ -237,10 +237,10 @@ R i n v i o
 
 1.
 
-Per quanto non previsto dal presente decreto si applicano, in quanto compatibili, le disposizioni contenute nel [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni.
+Per quanto non previsto dal presente decreto si applicano, in quanto compatibili, le disposizioni contenute nel [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni.
 
 Nota all'[art. 10:
- - Il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), reca: "Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento di concorsi, di concorsi unici e delle altre forme di assunzione nei pubblici impieghi".
+ - Il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), reca: "Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento di concorsi, di concorsi unici e delle altre forme di assunzione nei pubblici impieghi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -30,7 +30,7 @@ Visto il decreto del Ministro delle politiche agricole e forestali, di concerto 
 
 Vista la [legge 6 febbraio 2004, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-02-06;36), concernente il nuovo ordinamento del Corpo forestale dello Stato e successive modificazioni e integrazioni;
 
-Visto il [decreto del Presidente della Repubblica 1° agosto 2006, n. 256](../Regolamenti%20governativi/Regolamento%20di%20riorganizzazione%20dellIstituto%20superiore%20di%20Polizia.md), concernente il regolamento di riorganizzazione dell'Istituto superiore di polizia;
+Visto il [decreto del Presidente della Repubblica 1° agosto 2006, n. 256](../DPR/Regolamento%20di%20riorganizzazione%20dellIstituto%20superiore%20di%20Polizia.md), concernente il regolamento di riorganizzazione dell'Istituto superiore di polizia;
 
 Sentito il parere delle organizzazioni sindacali del personale del Corpo forestale dello Stato maggiormente rappresentative;
 

@@ -203,7 +203,7 @@ La commissione giudicatrice, qualora durante la valutazione degli elaborati scri
 
 1.
 
-((Alle prove orali sono ammessi a partecipare i candidati che abbiano riportato una media di almeno settanta centesimi nelle cinque prove scritte e non meno di sessanta centesimi in ciascuna di esse.)) L'esame verte sulle materie delle prove scritte e sulle seguenti altre: nozioni generali di sociologia e di scienza dell'organizzazione; diritto comunitario; scienza delle finanze; diritto penale ([codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): libro I; libro II, titoli II e VII); ((legislazione speciale amministrativa riferita alle attivita' istituzionali del Ministero dell'interno)); elementi di amministrazione del patrimonio e di contabilita' generale dello Stato.
+((Alle prove orali sono ammessi a partecipare i candidati che abbiano riportato una media di almeno settanta centesimi nelle cinque prove scritte e non meno di sessanta centesimi in ciascuna di esse.)) L'esame verte sulle materie delle prove scritte e sulle seguenti altre: nozioni generali di sociologia e di scienza dell'organizzazione; diritto comunitario; scienza delle finanze; diritto penale ([codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): libro I; libro II, titoli II e VII); ((legislazione speciale amministrativa riferita alle attivita' istituzionali del Ministero dell'interno)); elementi di amministrazione del patrimonio e di contabilita' generale dello Stato.
 
 2.
 
@@ -268,10 +268,10 @@ Le comunicazioni dell'amministrazione relative alle procedure concorsuali si int
 
 1.
 
-Per quanto non previsto nel presente regolamento si rinvia alle norme in materia di accesso agli impieghi nelle pubbliche amministrazioni, contenute nel [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni.
+Per quanto non previsto nel presente regolamento si rinvia alle norme in materia di accesso agli impieghi nelle pubbliche amministrazioni, contenute nel [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni.
 
 Note all'[art. 16:
- - Per il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), vedi nota all'art. 6.
+ - Per il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), vedi nota all'art. 6.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

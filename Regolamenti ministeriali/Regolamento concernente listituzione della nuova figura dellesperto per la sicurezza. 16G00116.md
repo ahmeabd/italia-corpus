@@ -18,7 +18,7 @@ Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/
 
 Vista la [legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121), recante il nuovo "Ordinamento dell'Amministrazione della Pubblica Sicurezza";
 
-Visto il [decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md), e successive modifiche e integrazioni, con il quale e' stato approvato il regolamento della Scuola di perfezionamento per le Forze di Polizia;
+Visto il [decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../DPR/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md), e successive modifiche e integrazioni, con il quale e' stato approvato il regolamento della Scuola di perfezionamento per le Forze di Polizia;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), e successive modifiche e integrazioni, recante "Disciplina dell'attivita' di Governo e Ordinamento della Presidenza del Consiglio dei Ministri";
 
@@ -97,18 +97,18 @@ I funzionari e gli ufficiali di cui al comma 1 vengono individuati dalle Amminis
 
 3.
 
-Dopo un periodo di servizio non inferiore a un mese prestato presso gli uffici di cui al comma 1, i funzionari e g1i ufficiali di cui al medesimo comma possono essere avviati alla frequenza del corso di aggiornamento presso la Scuola di perfezionamento per le Forze di Polizia, i cui programmi e le modalita' di svolgimento sono definiti ai sensi del [decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md).
+Dopo un periodo di servizio non inferiore a un mese prestato presso gli uffici di cui al comma 1, i funzionari e g1i ufficiali di cui al medesimo comma possono essere avviati alla frequenza del corso di aggiornamento presso la Scuola di perfezionamento per le Forze di Polizia, i cui programmi e le modalita' di svolgimento sono definiti ai sensi del [decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../DPR/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md).
 
 4.
 
-La Commissione di cui all'[articolo 11 del decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md), integrata da un rappresentante della Direzione centrale della Polizia criminale e da un rappresentante della Direzione centrale per i servizi antidroga, formula per ciascun frequentatore, ai sensi dell'articolo 12 del medesimo decreto, una valutazione di idoneita', anche al fine di verificare l'attitudine allo svolgimento delle funzioni di esperto per la sicurezza nei diversi contesti linguistici, ambientali od operativi.
+La Commissione di cui all'[articolo 11 del decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../DPR/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md), integrata da un rappresentante della Direzione centrale della Polizia criminale e da un rappresentante della Direzione centrale per i servizi antidroga, formula per ciascun frequentatore, ai sensi dell'articolo 12 del medesimo decreto, una valutazione di idoneita', anche al fine di verificare l'attitudine allo svolgimento delle funzioni di esperto per la sicurezza nei diversi contesti linguistici, ambientali od operativi.
 
 5.
 
 Le disposizioni di cui al presente articolo non si applicano al personale che alla data di entrata in vigore del presente regolamento svolge le funzioni di ufficiale di collegamento all'estero o di esperto antidroga.
 
 Note all'art. 4: 
- - Si riporta il testo degli [articoli 11](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md) e [12 del D.P.R. 11 giugno 1986, n. 423](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md) (Approvazione del regolamento della Scuola di perfezionamento per le forze di polizia): 
+ - Si riporta il testo degli [articoli 11](../DPR/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md) e [12 del D.P.R. 11 giugno 1986, n. 423](../DPR/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md) (Approvazione del regolamento della Scuola di perfezionamento per le forze di polizia): 
  "Art. 11. Colloquio finale dei corsi di aggiornamento.
  Al termine dei corsi di aggiornamento i frequentatori e gli uditori sostengono dinanzi ad una commissione un colloquio finale sulle materie e sulle tematiche oggetto del corso.
  Per la composizione e l'articolazione della commissione, per la formulazione del giudizio nei confronti di ciascun frequentatore o uditore, per il superamento del colloquio e per l'ammissione alla sessione straordinaria, si applicano gli stessi criteri e modalita' previsti per i corsi di alta formazione." 
@@ -118,7 +118,7 @@ Note all'art. 4:
 
 1.
 
-I funzionari e gli ufficiali che hanno conseguito la valutazione di idoneita' di cui all'articolo 12 del citato [decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md), sono ammessi all'esercizio delle funzioni di esperto per la sicurezza in numero corrispondente a quello dei posti da ricoprire. Quelli assegnati temporaneamente agli Uffici di cui all'articolo 4, comma 1, sono ammessi all'esercizio delle medesime funzioni, previo trasferimento presso la Direzione centrale della Polizia criminale - Servizio per la cooperazione internazionale di Polizia o presso la Direzione centrale per i servizi antidroga.
+I funzionari e gli ufficiali che hanno conseguito la valutazione di idoneita' di cui all'articolo 12 del citato [decreto del Presidente della Repubblica 11 giugno 1986, n. 423](../DPR/Approvazione%20del%20regolamento%20della%20Scuola%20di%20perfezionamento%20per%20le%20forze%20di%20polizia.md), sono ammessi all'esercizio delle funzioni di esperto per la sicurezza in numero corrispondente a quello dei posti da ricoprire. Quelli assegnati temporaneamente agli Uffici di cui all'articolo 4, comma 1, sono ammessi all'esercizio delle medesime funzioni, previo trasferimento presso la Direzione centrale della Polizia criminale - Servizio per la cooperazione internazionale di Polizia o presso la Direzione centrale per i servizi antidroga.
 
 2.
 

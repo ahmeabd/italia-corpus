@@ -28,7 +28,7 @@ Vista la decisione della Commissione europea C(2008)6866 del 12 novembre 2008;
 
 Vista la decisione dell'Alto rappresentante dell'Unione europea per gli affari esteri e la politica di sicurezza n. 2012/C12/04 del 23 marzo 2011;
 
-Visto il [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md);
+Visto il [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md);
 
 Acquisito il parere del Garante per la protezione dei dati personali;
 
@@ -111,7 +111,7 @@ Avvertenza:
  Il [decreto legislativo 30 giugno 2003, n. 196](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ([Codice in materia di protezione dei dati personali](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)) e' stato pubblicato nella Gazzetta Ufficiale del 29 luglio 2003, n. 174. 
  La decisione della Commissione europea C(2008)6866 del 12 novembre 2008 relativa al regime applicabile agli esperti nazionali distaccati e agli esperti in formazione professionale presso i servizi della Commissione non e' stata pubblicata nella Gazzetta ufficiale dell'Unione europea. 
  La decisione dell'Alto Rappresentante dell'Unione per gli affari esteri e la politica di sicurezza del 23 marzo 2001 che fissa il regime applicabile agli esperti nazionali distaccati presso il servizio europeo per l'azione esterna e' stata pubblicata nella Gazzetta ufficiale dell'Unione europea serie C, n. 12 del 14 gennaio 2012. 
- Il [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md) (Regolamento recante codice di comportamento dei dipendenti pubblici, a norma dell'[articolo 54 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md)) e' stato pubblicato nella Gazzetta Ufficiale del 4 giugno 2013, n. 129. 
+ Il [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md) (Regolamento recante codice di comportamento dei dipendenti pubblici, a norma dell'[articolo 54 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md)) e' stato pubblicato nella Gazzetta Ufficiale del 4 giugno 2013, n. 129. 
  
  Note all'art. 1: 
  Il testo dell'articolo 32, comma 1, lettere a), b) e c) del citato [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e' il seguente: 
@@ -220,7 +220,7 @@ Entro 60 giorni dall'entrata in vigore del presente regolamento le amministrazio
 
 4.
 
-L'avvio di negoziati con amministrazioni pubbliche di Stati esteri o con organizzazioni ed enti internazionali e la successiva stipula di intese tecniche per disciplinare il distacco sono subordinati al nulla osta della Presidenza e del Ministero. Rimangono ferme le procedure vigenti per la concessione dei pieni poteri alla firma degli accordi internazionali ai sensi della [legge 12 febbraio 1974, n. 112](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md), laddove necessari.
+L'avvio di negoziati con amministrazioni pubbliche di Stati esteri o con organizzazioni ed enti internazionali e la successiva stipula di intese tecniche per disciplinare il distacco sono subordinati al nulla osta della Presidenza e del Ministero. Rimangono ferme le procedure vigenti per la concessione dei pieni poteri alla firma degli accordi internazionali ai sensi della [legge 12 febbraio 1974, n. 112](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md), laddove necessari.
 
 5.
 
@@ -235,7 +235,7 @@ Le amministrazioni di appartenenza comunicano alla Presidenza e al Ministero l'i
 Per ciascuna amministrazione un unico ufficio provvede agli adempimenti di cui al presente articolo, dandone comunicazione al Ministero e alla Presidenza del Consiglio dei ministri.
 
 Note all'[art. 6: 
- La legge 12 febbraio 1974, n. 112](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md) (Ratifica ed esecuzione della convenzione sul diritto dei trattati, con annesso, adottata a Vienna il 23 maggio 1969) e' stata pubblicata nella Gazzetta Ufficiale dell'30 aprile 1974, n. 111.
+ La legge 12 febbraio 1974, n. 112](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md) (Ratifica ed esecuzione della convenzione sul diritto dei trattati, con annesso, adottata a Vienna il 23 maggio 1969) e' stata pubblicata nella Gazzetta Ufficiale dell'30 aprile 1974, n. 111.
 
 ### Art. 7. — Svolgimento del periodo di distacco presso Stati esteri 
  o organizzazioni ed enti internazionali

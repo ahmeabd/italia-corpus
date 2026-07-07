@@ -38,7 +38,7 @@ Visto l'[articolo 3, comma 4-bis, del decreto-legge 28 giugno 2019, n. 59](https
 
 Visto il [decreto-legge 21 settembre 2019, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-09-21;104), convertito, con modificazioni, dalla [legge 18 novembre 2019, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20settembre%202019%20n.%20104%20recante%20disposizioni%20urgenti%20per%20il%20trasferimento%20di%20funzioni%20e%20per%20la%20riorganizzazione%20dei%20Ministeri%20per_952e03529d43.md);
 
-Visto il [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), recante «Approvazione del nuovo regolamento anagrafico della popolazione residente»;
+Visto il [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), recante «Approvazione del nuovo regolamento anagrafico della popolazione residente»;
 
 Visto il [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante il «[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)»;
 

@@ -18,7 +18,7 @@ Visto l'[articolo 17, comma 95, della legge 15 maggio 1997, n. 127](https://www.
 
 Visto il [decreto ministeriale 3 novembre 1999, n. 509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1999-11-03;509), e i decreti ministeriali 4 agosto 2000 pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000; 28 novembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 18 del 22 gennaio 2001; 2 aprile 2001, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 23 gennaio 2001;
 
-Visto il [decreto del Presidente della Repubblica 27 gennaio 1998, n. 25](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20allo%20sviluppo%20ed%20alla%20programmazione%20del%20sistema%20universitario%20nonche%20ai%20comitati%20regionali%20di%20coordinamento%20a%20norma%20dellarticolo%20_d5e4ebf874ee.md);
+Visto il [decreto del Presidente della Repubblica 27 gennaio 1998, n. 25](../DPR/Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20allo%20sviluppo%20ed%20alla%20programmazione%20del%20sistema%20universitario%20nonche%20ai%20comitati%20regionali%20di%20coordinamento%20a%20norma%20dellarticolo%20_d5e4ebf874ee.md);
 
 Visto il decreto 25 marzo 1998, n. 142, del Ministero del lavoro;
 

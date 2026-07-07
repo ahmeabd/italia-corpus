@@ -216,11 +216,11 @@ Il RUO individua gli incaricati delle funzioni tecniche di cui all'articolo 113,
 
 3.
 
-Non possono essere conferiti incarichi a coloro che, in relazione allo svolgimento di funzioni tecniche, sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne' ai soggetti che, nei due anni antecedenti, siano stati interessati da provvedimenti disciplinari, ad esclusione del rimprovero verbale o scritto, ovvero al personale interessato da misure cautelari di sospensione dal servizio. Il RUO accerta preliminarmente la sussistenza delle predette condizioni ostative.
+Non possono essere conferiti incarichi a coloro che, in relazione allo svolgimento di funzioni tecniche, sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne' ai soggetti che, nei due anni antecedenti, siano stati interessati da provvedimenti disciplinari, ad esclusione del rimprovero verbale o scritto, ovvero al personale interessato da misure cautelari di sospensione dal servizio. Il RUO accerta preliminarmente la sussistenza delle predette condizioni ostative.
 
 4.
 
-Gli incarichi di cui ai commi 1 e 2 sono revocati qualora, successivamente all'adozione dei provvedimenti di nomina, il personale risulti destinatario di condanna, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero qualora risulti destinatario di provvedimenti disciplinari, ad esclusione del rimprovero verbale o scritto, o qualora sia interessato da misure cautelari di sospensione dal servizio.
+Gli incarichi di cui ai commi 1 e 2 sono revocati qualora, successivamente all'adozione dei provvedimenti di nomina, il personale risulti destinatario di condanna, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ovvero qualora risulti destinatario di provvedimenti disciplinari, ad esclusione del rimprovero verbale o scritto, o qualora sia interessato da misure cautelari di sospensione dal servizio.
 
 5.
 
@@ -253,7 +253,7 @@ Note all'art. 4:
  13. E' vietata, negli appalti pubblici di lavori aggiudicati con la formula del contraente generale e nelle altre formule di partenariato pubblico-privato, l'attribuzione dei compiti di responsabile unico del procedimento, responsabile dei lavori, direttore dei lavori, di collaudatore allo stesso contraente generale o soggetto aggiudicatario dei contratti di partenariato pubblico-privato o soggetti ad essi collegati. 
  14. Le centrali di committenza e le aggregazioni di stazioni appaltanti designano un RUP per le attivita' di propria competenza con i compiti e le funzioni determinate dalla specificita' e complessita' dei processi di acquisizione gestiti direttamente.». 
  - Per il testo dell'[articolo 113 del decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ([Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)), si rinvia alle note alle premesse. 
- - Il [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' pubblicato nella Gazzetta Ufficiale 26 ottobre 1930, n. 251.
+ - Il [Codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), approvato con [regio decreto 19 ottobre 1930, n. 1398](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e' pubblicato nella Gazzetta Ufficiale 26 ottobre 1930, n. 251.
 
 ## Art. 5. — Termini per le prestazioni
 

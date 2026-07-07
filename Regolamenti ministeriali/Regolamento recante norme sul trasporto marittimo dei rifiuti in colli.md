@@ -18,7 +18,7 @@ IL MINISTRO DELL'AMBIENTE
 
 Vista la [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616), sulla sicurezza della navigazione e della vita umana in mare;
 
-Visto il [decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../Regolamenti%20governativi/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md), recante "Regolamento per l'imbarco, trasporto per mare, sbarco e trasbordo delle merci pericolose in colli";
+Visto il [decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../DPR/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md), recante "Regolamento per l'imbarco, trasporto per mare, sbarco e trasbordo delle merci pericolose in colli";
 
 Visto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), concernente "Attuazione delle [direttive (CEE) n. 75/442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi";
 

@@ -14,7 +14,7 @@ Vista la [legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), concernente l'ordinamento del personale della Polizia di Stato che espleta funzioni di polizia;
 
-Visto il [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), con il quale e' stato approvato il regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia;
+Visto il [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), con il quale e' stato approvato il regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia;
 
 Visto il [decreto legislativo 12 maggio 1995, n. 197](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), recante l'attuazione dell'[art. 3 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di riordino delle carriere del personale non direttivo della Polizia di Stato;
 
@@ -235,7 +235,7 @@ Nota all'art. 8:
 
 1.
 
-Per quanto non previsto dal presente decreto, si applicano in quanto compatibili le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e successive modifiche ed integrazioni.
+Per quanto non previsto dal presente decreto, si applicano in quanto compatibili le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e successive modifiche ed integrazioni.
 
 Nota all'[art. 9:
  - Il D.P.R. n. 903/1983](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1983;903#art_9) approva il regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia.

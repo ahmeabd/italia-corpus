@@ -24,7 +24,7 @@ Visto l'[art. 20 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Le
 
 Visto il [decreto legislativo 3 aprile 1993, n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md), e successive modificazioni ed integrazioni;
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1994, n. 283](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sulla%20riorganizzazione%20del%20Ministero%20del%20bilancio%20e%20della%20programmazione%20economica.md), recante norme sulla riorganizzazione del Ministero del bilancio e della programmazione economica;
+Visto il [decreto del Presidente della Repubblica 24 marzo 1994, n. 283](../DPR/Regolamento%20recante%20norme%20sulla%20riorganizzazione%20del%20Ministero%20del%20bilancio%20e%20della%20programmazione%20economica.md), recante norme sulla riorganizzazione del Ministero del bilancio e della programmazione economica;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -98,14 +98,14 @@ Il Servizio riferisce trimestralmente agli organi generali di direzione sui risu
 
 1.
 
-Per motivate esigenze, il Ministro del bilancio e della programmazione economica puo' avvalersi di consulenti esterni, esperti in tecniche di valutazione e nel controllo di gestione, secondo le modalita' e con le procedure di cui al [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md).
+Per motivate esigenze, il Ministro del bilancio e della programmazione economica puo' avvalersi di consulenti esterni, esperti in tecniche di valutazione e nel controllo di gestione, secondo le modalita' e con le procedure di cui al [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md).
 
 2.
 
-La funzione di valutazione dell'operato degli esperti indicati al comma 1, prevista dall'[art. 6 del decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), e' svolta direttamente dal collegio per il controllo interno.
+La funzione di valutazione dell'operato degli esperti indicati al comma 1, prevista dall'[art. 6 del decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), e' svolta direttamente dal collegio per il controllo interno.
 
-Nota all'[art. 4](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md):
- - L'[art. 6 del D.P.R. 18 aprile 1994, n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), cosi' recita:
+Nota all'[art. 4](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md):
+ - L'[art. 6 del D.P.R. 18 aprile 1994, n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), cosi' recita:
  "Art. 6 (Valutazione dei risultati dell'incarico). - 1.
  La valutazione dei risultati conseguiti, dell'attivita' svolta e del prodotto della stessa deve essere compiuta da un apposito comitato, composto da tre membri, scelti, di volta in volta, dal Ministro tra dipendenti pubblici ed esperti di provata competenza.
  2. Il comitato deve esprimere il giudizio di valutazione entro trenta giorni dalla consegna dei risultati.

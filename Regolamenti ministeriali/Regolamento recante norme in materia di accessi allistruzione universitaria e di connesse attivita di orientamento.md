@@ -56,7 +56,7 @@ Ai sensi del presente regolamento si intendono:
                         b)
                             per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica;
                         c)
-                            per Dipartimento, il Dipartimento per l'autonomia universitaria e gli studenti, di cui al [decreto del Presidente della Repubblica 6 settembre 1996, n. 522, articolo 3, comma 1, lettera a)](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) e [comma 2](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md);
+                            per Dipartimento, il Dipartimento per l'autonomia universitaria e gli studenti, di cui al [decreto del Presidente della Repubblica 6 settembre 1996, n. 522, articolo 3, comma 1, lettera a)](../DPR/Regolamento%20concernente%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) e [comma 2](../DPR/Regolamento%20concernente%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md);
                         d)
                             per Osservatorio, l'Osservatorio per la valutazione del sistema universitario, di cui alla [legge 24 dicembre 1993, n. 537, articolo 5, comma 23](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
                         e)
@@ -70,7 +70,7 @@ Ai sensi del presente regolamento si intendono:
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note all'art. 1:
- - Il testo dell'[art. 3, del D.P.R. 6 settembre 1996, n. 522](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) (Regolamento concernente l'organizzazione del Ministero dell'universita' e della ricerca scientifica e tecnologica), e' il seguente:
+ - Il testo dell'[art. 3, del D.P.R. 6 settembre 1996, n. 522](../DPR/Regolamento%20concernente%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) (Regolamento concernente l'organizzazione del Ministero dell'universita' e della ricerca scientifica e tecnologica), e' il seguente:
  "Art. 3 (Funzioni dei Dipartimenti). - 1. I Dipartimenti sono cosi' individuati:
  a) Dipartimento per l'autonomia universitaria e gli studenti;
  b) Dipartimento per lo sviluppo e il protenziamento dell'attivita' di ricerca;

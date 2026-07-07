@@ -12,9 +12,9 @@ IL MINISTRO
 
 DELLA PUBBLICA ISTRUZIONE
 
-Visto il [regio decreto 31 dicembre 1923, n. 3123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20dellistruzione%20artistica.%20023U3123.md) sull'ordinamento dell'istruzione artistica;
+Visto il [regio decreto 31 dicembre 1923, n. 3123](../Regi%20decreti/Ordinamento%20dellistruzione%20artistica.%20023U3123.md) sull'ordinamento dell'istruzione artistica;
 
-Visto il [regio decreto 29 giugno 1924, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md), che regola gli orari ed i programi di esame per i licei artistici e le accademie di belle arti;
+Visto il [regio decreto 29 giugno 1924, n. 1239](../Regi%20decreti/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md), che regola gli orari ed i programi di esame per i licei artistici e le accademie di belle arti;
 
 Vista la [legge 6 agosto 1991, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20giugno%201991%20n.%20172%20recante%20disposizioni%20urgenti%20per%20assicurare%20lordinato%20svolgimento%20delle%20operazioni%20preordinate%20allavvio%20della_9619f69e4437.md), che ha convertito in legge, con modificazioni, il [decreto-legge 6 giugno 1991, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-06-06;172), recante disposizioni urgenti per assicurare l'ordinato svolgimento delle operazioni preordinate all'avvio dell'anno scolastico 1991-1992;
 
@@ -38,7 +38,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-A decorrere dall'anno accademico in corso all'atto di entrata in vigore del presente regolamento gli allievi delle accademie di belle arti, fermi restando gli esami annuali relativi alle materie fondamentali d'insegnamento previste dal [regio decreto 29 giugno 1924, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md), per essere ammessi agli esami di diploma dovrano aver superato almeno gli esami finali relativi:
+A decorrere dall'anno accademico in corso all'atto di entrata in vigore del presente regolamento gli allievi delle accademie di belle arti, fermi restando gli esami annuali relativi alle materie fondamentali d'insegnamento previste dal [regio decreto 29 giugno 1924, n. 1239](../Regi%20decreti/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md), per essere ammessi agli esami di diploma dovrano aver superato almeno gli esami finali relativi:
                         a)
                             a sette materie complementari, se iscritti al corso di pittura;
                         b)
@@ -50,7 +50,7 @@ A decorrere dall'anno accademico in corso all'atto di entrata in vigore del pres
 
 2.
 
-Le votazioni relative alle materie di cui al [regio decreto 29 giugno 1924, n. 1239](../Atti%20normativi%20abrogati%20%28in%20originale%29/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md) e alle materie complementari di cui al decreto del Ministro della pubblica istruzione 13 aprile 1992, vengono espressi in trentesimi dalle commissioni costituite ai sensi dell'[articolo 132 del decreto legislativo luogotenenziale 5 maggio 1918, n. 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-05;1852#art_132), relativamente alle materie fondamentali e dell'art. 1, comma 3, allegato B, del decreto del Ministro della pubblica istruzione 13 aprile 1992, relativamente alle materie complementari.
+Le votazioni relative alle materie di cui al [regio decreto 29 giugno 1924, n. 1239](../Regi%20decreti/Orari%20e%20programmi%20di%20esame%20per%20i%20Regi%20licei%20artistici%20e%20le%20accademie%20di%20belle%20arti.%20024U1239.md) e alle materie complementari di cui al decreto del Ministro della pubblica istruzione 13 aprile 1992, vengono espressi in trentesimi dalle commissioni costituite ai sensi dell'[articolo 132 del decreto legislativo luogotenenziale 5 maggio 1918, n. 1852](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-05;1852#art_132), relativamente alle materie fondamentali e dell'art. 1, comma 3, allegato B, del decreto del Ministro della pubblica istruzione 13 aprile 1992, relativamente alle materie complementari.
 
 AVVERTENZA:
  Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.

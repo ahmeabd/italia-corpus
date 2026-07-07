@@ -258,7 +258,7 @@ Note all'art. 4:
 
 1.
 
-Ai fini dell'iscrizione nell'albo speciale delle imprese di costruzione navale, le imprese interessate dovranno avere, per ciascuno stabilimento, la disponibilita', sulla base di rapporti di lavoro dipendente, di un responsabile tecnico iscritto nei registri di cui all'art. 275 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) in possesso dei requisiti professionali richiesti per la massima unita' realizzabile nello stabilimento nonche' di un responsabile della sicurezza dell'ambiente e degli impianti del cantiere, garante della corretta applicazione delle pratiche operative. Una stessa persona fisica potra' riassumere i predetti ruoli.
+Ai fini dell'iscrizione nell'albo speciale delle imprese di costruzione navale, le imprese interessate dovranno avere, per ciascuno stabilimento, la disponibilita', sulla base di rapporti di lavoro dipendente, di un responsabile tecnico iscritto nei registri di cui all'art. 275 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) in possesso dei requisiti professionali richiesti per la massima unita' realizzabile nello stabilimento nonche' di un responsabile della sicurezza dell'ambiente e degli impianti del cantiere, garante della corretta applicazione delle pratiche operative. Una stessa persona fisica potra' riassumere i predetti ruoli.
 
 2.
 
@@ -316,7 +316,7 @@ Per quanto previsto dall'art. 20, comma 1, lettera d), della legge, l'impresa do
 L'impresa richiedente dovra' altresi' produrre una pianta planimetrica delle strutture aziendali con l'indicazione delle singole strutture impiantistiche.
 
 Note all'art. 5:
- - L'art. 275 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [D.P.R. 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), cosi' recita:
+ - L'art. 275 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [D.P.R. 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), cosi' recita:
  "Art. 275 (Registro d'iscrizione). - Il personale tecnico delle costruzioni navali e' iscritto in registri conformi al modello approvato dal Ministro per la marina mercantile, tenuti dagli uffici di compartimento e di circondario.
  Ogni iscrizione nel registro prende un numero progressivo, riporta la data sotto la quale si effettua e indica:
  a) le generalita' dell'iscritto;
@@ -532,7 +532,7 @@ Ai fini di cui all'art. 20, secondo comma, della legge, sono previste le seguent
  6) in relazione alla consistenza della forza lavoro, strutture riconosciute idonee dalle competenti autorita' a garantire, sotto l'aspetto sanitario, ambientale e della sicurezza del lavoro, condizioni di lavoro conformi alla vigente normativa in materia.
 3a fascia dimensionale:
  comprende le imprese con i seguenti requisiti:
- a) idoneita' tecnica desumibile dalla disponibilita', per ciascuno stabilimento, sulla base di rapporti di lavoro dipendente, di un responsabile tecnico iscritto nei registri di cui all'art. 275 del regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) in possesso dei requisiti professionali richiesti in relazione alle caratteristiche della massima unita' che lo stabilimento e' idoneo ad accogliere nonche' di un responsabile della sicurezza dell'ambiente e degli impianti del cantiere, garante della corretta applicazione delle pratiche operative. Una stessa persona fisica potra' riassumere i predetti ruoli;
+ a) idoneita' tecnica desumibile dalla disponibilita', per ciascuno stabilimento, sulla base di rapporti di lavoro dipendente, di un responsabile tecnico iscritto nei registri di cui all'art. 275 del regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) in possesso dei requisiti professionali richiesti in relazione alle caratteristiche della massima unita' che lo stabilimento e' idoneo ad accogliere nonche' di un responsabile della sicurezza dell'ambiente e degli impianti del cantiere, garante della corretta applicazione delle pratiche operative. Una stessa persona fisica potra' riassumere i predetti ruoli;
  b) struttura impiantistica comprovata dalle seguenti disponibilita':
  1) superficie operativa coperta di 2.000 mq di sedime;
  2) punto di ormeggio per navi non inferiori alle 15.000 tonnellate di stazza lorda situato nelle immediate vicinanze della superficie operativa e dotate di mezzi di sollevamento e reti di servizio;
@@ -543,7 +543,7 @@ Ai fini di cui all'art. 20, secondo comma, della legge, sono previste le seguent
  7) in relazione alla consistenza della forza lavoro, strutture riconosciute idonee dalle competenti autorita' a garantire, sotto l'aspetto sanitario, ambientale e della sicurezza del lavoro, condizioni di lavoro conformi alla vigente normativa in materia.
 4a fascia dimensionale:
  comprende le imprese con i seguenti requisiti:
- a) idoneita' tecnica desumibile dalla disponibilita', per ciascuno stabilimento, sulla base di rapporti di lavoro dipendente, di un responsabile tecnico iscritto nei registri di cui all'art. 275 del regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) in possesso dei requisiti professionali richiesti in relazione alle caratteristiche della massima unita' che lo stabilimento e' idoneo ad accogliere nonche' di un responsabile della sicurezza dell'ambiente e degli impianti del cantiere, garante della corretta applicazione delle pratiche operative. Una stessa persona fisica potra' riassumere i predetti ruoli;
+ a) idoneita' tecnica desumibile dalla disponibilita', per ciascuno stabilimento, sulla base di rapporti di lavoro dipendente, di un responsabile tecnico iscritto nei registri di cui all'art. 275 del regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) in possesso dei requisiti professionali richiesti in relazione alle caratteristiche della massima unita' che lo stabilimento e' idoneo ad accogliere nonche' di un responsabile della sicurezza dell'ambiente e degli impianti del cantiere, garante della corretta applicazione delle pratiche operative. Una stessa persona fisica potra' riassumere i predetti ruoli;
  b) strutture impiantistiche comprovate dalle seguenti disponibilita':
  1) superficie operativa coperta di 10.000 mq di sedime;
  2) punto di ormeggio per navi non inferiori alle 30.000 tonnellate di stazza lorda situato nelle immediate vicinanze della superficie operativa e dotate di mezzi di sollevamento e reti di servizio;
@@ -571,7 +571,7 @@ Le strutture impiantistiche previste per l'appartenenza alla 2a, 3a e 4a fascia 
 
 Note all'art. 11:
  - Per il testo dell'[art. 20 della legge n. 234/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;234#art_20) si veda in note alle premesse; per il testo dell'art. 21 della medesima legge si veda in nota all'art. 4.
- - Per il testo dell'art. 275 del regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda in nota all'art. 5.
+ - Per il testo dell'art. 275 del regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si veda in nota all'art. 5.
 
 ## Art. 12. — Obblighi annuali
 

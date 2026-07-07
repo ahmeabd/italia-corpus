@@ -368,7 +368,7 @@ Le domande di recupero o di adozione di provvedimenti cautelari da rivolgere agl
 
 2.
 
-Se la valuta dello Stato membro al quale e' rivolta la richiesta e' diversa dall'euro, l'importo del credito da recuperare e' espresso anche nella moneta dell'altro Stato membro. Il tasso di cambio da utilizzare a tali fini e' l'ultima quotazione pubblicata sulla Gazzetta Ufficiale relativa ai cambi di riferimento rilevati a titolo indicativo secondo le procedure stabilite dal Sistema europeo delle Banche centrali e comunicati dalla Banca d'Italia, adottabili ai sensi del [decreto del Presidente della Repubblica 15 dicembre 2001, n. 482](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md).
+Se la valuta dello Stato membro al quale e' rivolta la richiesta e' diversa dall'euro, l'importo del credito da recuperare e' espresso anche nella moneta dell'altro Stato membro. Il tasso di cambio da utilizzare a tali fini e' l'ultima quotazione pubblicata sulla Gazzetta Ufficiale relativa ai cambi di riferimento rilevati a titolo indicativo secondo le procedure stabilite dal Sistema europeo delle Banche centrali e comunicati dalla Banca d'Italia, adottabili ai sensi del [decreto del Presidente della Repubblica 15 dicembre 2001, n. 482](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md).
 
 3.
 
@@ -391,7 +391,7 @@ Per la conversione dell'importo modificato del credito nella moneta dello Stato 
 Le contestazioni del credito o del relativo titolo esecutivo emesso nel territorio nazionale sono notificate all'Autorita' adita dall'Agenzia delle dogane e dall'Agenzia delle entrate non appena quest'ultime ne siano state informate. Qualora, a seguito dell'esito favorevole al debitore della contestazione, l'Autorita' adita richieda, con domanda motivata, la restituzione delle somme recuperate, l'Agenzia delle dogane e l'Agenzia delle entrate procedono al trasferimento di tali somme entro due mesi dal ricevimento della suddetta domanda.
 
 Nota all'art. 11.
- - Il [decreto del Presidente della Repubblica 15 dicembre 2001, n. 482](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md) (Regolamento di semplificazione del procedimento per i pagamenti da e per l'estero delle amministrazioni statali), e' stato pubblicato nella Gazzetta Ufficiale n. 38 del 14 febbraio 2002.
+ - Il [decreto del Presidente della Repubblica 15 dicembre 2001, n. 482](../DPR/Regolamento%20di%20semplificazione%20del%20procedimento%20per%20i%20pagamenti%20da%20e%20per%20lestero%20delle%20amministrazioni%20statali.md) (Regolamento di semplificazione del procedimento per i pagamenti da e per l'estero delle amministrazioni statali), e' stato pubblicato nella Gazzetta Ufficiale n. 38 del 14 febbraio 2002.
 
 ## Art. 12. — Ammissibilita' e rifiuto delle domande di assistenza
 

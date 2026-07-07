@@ -14,7 +14,7 @@ AGRICOLE, ALIMENTARI E FORESTALI
 
 Vista la [legge 4 dicembre 1993, n. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20competenze%20regionali%20e%20statali%20in%20materia%20agricola%20e%20forestale%20e%20istituzione%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md), sul "Riordinamento delle competenze regionali e statali in materia agricola e forestale e istituzione del Ministero delle risorse agricole, alimentari e forestali";
 
-Visto il [decreto del Presidente della Repubblica 15 marzo 1994, n. 197](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lorganizzazione%20degli%20uffici%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md) "Regolamento recante norme per l'organizzazione degli uffici del Ministero delle risorse agricole, alimentari e forestali";
+Visto il [decreto del Presidente della Repubblica 15 marzo 1994, n. 197](../DPR/Regolamento%20recante%20norme%20per%20lorganizzazione%20degli%20uffici%20del%20Ministero%20delle%20risorse%20agricole%20alimentari%20e%20forestali.md) "Regolamento recante norme per l'organizzazione degli uffici del Ministero delle risorse agricole, alimentari e forestali";
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), contenente "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi";
 

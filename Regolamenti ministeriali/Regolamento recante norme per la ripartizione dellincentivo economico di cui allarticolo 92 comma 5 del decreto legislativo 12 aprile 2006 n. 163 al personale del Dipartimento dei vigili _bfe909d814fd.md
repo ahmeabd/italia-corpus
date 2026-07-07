@@ -133,7 +133,7 @@ Partecipa alla ripartizione dell'incentivo di cui al comma 5, dell'art. 92 del c
                         a)
                             responsabile del procedimento;
                         b)
-                            ideazione e coordinamento generale in caso di progettazione integrale come definita dall'[art. 3, comma 1, lettera m) del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md);
+                            ideazione e coordinamento generale in caso di progettazione integrale come definita dall'[art. 3, comma 1, lettera m) del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md);
                         c)
                             progettazione e che, in possesso dei requisiti di cui agli articoli 90, comma 4, e 253, comma 16, del codice, assume la responsabilita' professionale dei propri atti, firmando i relativi elaborati;
                         d)
@@ -151,7 +151,7 @@ Il personale incaricato della progettazione, e quello che partecipa nelle varie 
 
 Note all'art. 4: 
  - Per il testo dell'art. 92, comma 5, del citato [decreto legislativo n. 163 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;163), si vedano le note alle premesse. 
- - Il testo dell'[art. 3, comma 1, lettera m), del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), e' il seguente: «Art. 3. (Definizioni). - 1. Ai fini del presente regolamento si intende per: 
+ - Il testo dell'[art. 3, comma 1, lettera m), del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), e' il seguente: «Art. 3. (Definizioni). - 1. Ai fini del presente regolamento si intende per: 
  (Omissis); 
  m) progetto integrale di un intervento, ai sensi degli articoli 90, comma 6, e 122, comma 1, del codice: un progetto elaborato in forma completa e dettagliata in tutte le sue parti, architettonica, strutturale e impiantistica;». 
  - Il testo dell'art. 90, comma 4, del citato [decreto legislativo n. 163 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;163) e' il seguente: «Art. 90. (Progettazione interna ed esterna alle amministrazioni aggiudicatrici in materia di lavori pubblici).- (Omissis). 

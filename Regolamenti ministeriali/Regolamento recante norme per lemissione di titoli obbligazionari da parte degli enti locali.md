@@ -30,7 +30,7 @@ Vista la [legge 18 febbraio 1992, n. 149](../Atti%20normativi%20abrogati%20%28in
 
 Visto il [decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), testo unico in materia bancaria e creditizia;
 
-Visto l'[art. 104 della legge 3 novembre 1992, n. 454](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20sullUnione%20europea%20con%2017%20protocolli%20allegati%20e%20con%20atto%20finale%20che%20contiene%2033%20dichiarazioni%20fatto%20a%20Maastricht%20il%207%20febbraio%201992.md), concernente la ratifica e l'esecuzione del trattato sull'Unione europea stipulato a Maastricht il 7 febbraio 1992, in base al quale e vietato l'acquisto diretto presso gli enti locali di titoli di debito da parte della BCE e delle banche centrali nazionali;
+Visto l'[art. 104 della legge 3 novembre 1992, n. 454](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20trattato%20sullUnione%20europea%20con%2017%20protocolli%20allegati%20e%20con%20atto%20finale%20che%20contiene%2033%20dichiarazioni%20fatto%20a%20Maastricht%20il%207%20febbraio%201992.md), concernente la ratifica e l'esecuzione del trattato sull'Unione europea stipulato a Maastricht il 7 febbraio 1992, in base al quale e vietato l'acquisto diretto presso gli enti locali di titoli di debito da parte della BCE e delle banche centrali nazionali;
 
 Visto l'[art. 14-bis della legge 12 luglio 1991, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20151%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20pubblica.md), recante provvedimenti urgenti per la finanza pubblica;
 

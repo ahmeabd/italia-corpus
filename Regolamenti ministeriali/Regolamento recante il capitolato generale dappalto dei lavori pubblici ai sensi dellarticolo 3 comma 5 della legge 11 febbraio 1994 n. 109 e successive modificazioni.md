@@ -140,7 +140,7 @@ Quando ricorrono gravi e giustificati motivi l'amministrazione committente, prev
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md). ((2))
+COMMA ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md). ((2))
 
 2.
 
@@ -154,7 +154,7 @@ La stazione appaltante puo' mantenere sorveglianti in tutti i cantieri, sui gall
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del comma 1 del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del comma 1 del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 6. — Disciplina e buon ordine dei cantieri
 
@@ -184,13 +184,13 @@ L'appaltatore e' comunque responsabile dei danni causati dall'imperizia o dalla 
 
 ## Art. 7.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 8. — Spese di contratto, di registro ed accessorie
 
@@ -208,73 +208,73 @@ Se al contrario al termine dei lavori il valore del contratto risulti minore di 
 
 ## Art. 9.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 10.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 11.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 12.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 13.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 14.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 15.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 16. — Provvista dei materiali
 
@@ -306,7 +306,7 @@ Nel caso di cui al comma 1, se il cambiamento importa una differenza in piu' o i
 Qualora i luoghi di provenienza dei materiali siano indicati negli atti contrattuali, l'appaltatore non puo' cambiarli senza l'autorizzazione scritta del direttore dei lavori, che riporti l'espressa approvazione del responsabile unico del procedimento. In tal caso si applica l'articolo 16, comma 2.
 
 Nota all'art. 17:
- - Il testo degli articoli 136 e 137 del citato [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), sono i seguenti:
+ - Il testo degli articoli 136 e 137 del citato [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../DPR/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), sono i seguenti:
  "Art. 136 (Determinazione ed approvazione dei nuovi prezzi non contemplati nel contratto). - 1. Quando sia necessario eseguire una specie di lavorazione non prevista dal contratto o adoperare materiali di specie diversa o proveniente da luoghi diversi da quelli previsti dal medesimo, i nuovi prezzi delle lavorazioni o materiali si valutano:
  a) desumendoli dal prezziario di cui all'art. 34, comma 1;
  b) ragguagliandoli a quelli di lavorazioni consimili compresi nel contratto;
@@ -342,73 +342,73 @@ I controlli e le verifiche eseguite dalla stazione appaltante nel corso dell'app
 
 ## Art. 20.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 21.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 22.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 23.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 24.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 25.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 26.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 27. — Durata giornaliera dei lavori
 
@@ -422,43 +422,43 @@ Salva l'osservanza delle norme relative alla disciplina del lavoro, se il dirett
 
 ## Art. 28.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 29.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 30.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 31.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 32. — Definizione delle riserve al termine dei lavori
 
@@ -480,7 +480,7 @@ Le domande che fanno valere in via ordinaria o arbitrale pretese gia' oggetto di
 
 Note all'art. 32:
  - Per il testo dell'[art. 31-bis della legge 11 febbraio 1994, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md), e successive modifiche vedi la nota all'art. 10.
- - Il testo dell'art. 204 del citato [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), e' il seguente:
+ - Il testo dell'art. 204 del citato [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../DPR/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), e' il seguente:
  "Art. 204 (Ulteriori provvedimenti amministrativi). - 1. Condotte a termine le operazioni connesse allo svolgimento del mandato ricevuto, l'organo di collaudo trasmette al responsabile del procedimento, i documenti ricevuti e quelli contabili, unendovi:
  a) il processo verbale di visita;
  b) le proprie relazioni;
@@ -507,23 +507,23 @@ Note all'art. 32:
 
 ## Art. 33.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 34.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
 
 ## Art. 35. — Proprieta' degli oggetti trovati
 
@@ -552,10 +552,10 @@ Qualora gli atti contrattuali prevedano la cessione di detti materiali all'appal
 
 ## Art. 37.
 
-ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 5 OTTOBRE 2010, N. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md) ((2))
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 ottobre 2010, n. 207](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".
+Il [D.P.R. 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), come modificato dall'[art. 4, comma 15, lettera d), del D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_4-com15-letd), convertito con modificazioni, dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 358, comma 1) l'abrogazione del presente articolo "fermo restando quanto disposto dall'articolo 357".

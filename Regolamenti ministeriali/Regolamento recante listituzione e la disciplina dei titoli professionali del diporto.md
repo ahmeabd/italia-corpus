@@ -20,7 +20,7 @@ Visto l'[articolo 10 del decreto-legge 21 ottobre 1996, n. 535](https://www.norm
 
 Visto il decreto del Ministro dei trasporti e della navigazione 5 ottobre 2000, pubblicato nella Gazzetta Ufficiale 23 ottobre 2000, n. 248, come modificato dal decreto ministeriale 22 dicembre 2000, pubblicato nella Gazzetta Ufficiale 30 gennaio 2001, n. 24, concernente requisiti, limiti delle abilitazioni e certificazioni della gente di mare;
 
-Visto il [decreto del Presidente della Repubblica n. 324 del 9 maggio 2001](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20delle%20direttive%2094-58-CE%20e%2098-35-CE%20relative%20ai%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.md) relativo ai requisiti minimi di formazione per la gente di mare in attuazione delle [direttive 94/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;58) e [98/35/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;35);
+Visto il [decreto del Presidente della Repubblica n. 324 del 9 maggio 2001](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2094-58-CE%20e%2098-35-CE%20relative%20ai%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.md) relativo ai requisiti minimi di formazione per la gente di mare in attuazione delle [direttive 94/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;58) e [98/35/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;35);
 
 Vista la [legge 8 luglio 2003, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172), concernente le disposizioni per il riordino e il rilancio della nautica da diporto e del turismo nautico;
 
@@ -78,7 +78,7 @@ Il personale navigante applicato nel diporto deve essere iscritto nelle matricol
 
 2.
 
-A tale personale si applicano le disposizioni generali per l'immatricolazione della gente di mare di cui al Libro I, Titolo IV, Capi I e II del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md).
+A tale personale si applicano le disposizioni generali per l'immatricolazione della gente di mare di cui al Libro I, Titolo IV, Capi I e II del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md).
 
 ((2-bis. Le disposizioni di cui ai commi 1 e 2 non si applicano agli ufficiali di navigazione del diporto di 2ª classe, salva la facolta' per gli interessati di iscriversi nelle matricole della gente di mare di prima categoria.))
 

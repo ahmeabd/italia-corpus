@@ -14,7 +14,7 @@ Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/R
 
 Visto il [decreto legislativo 30 giugno 1993, n. 266](../Decreti%20Legislativi/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), concernente il riordinamento del Ministero della sanita', a norma dell'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
-Visto il [decreto del Presidente della Repubblica 2 febbraio 1994, n. 196](../Regolamenti%20governativi/Regolamento%20concernente%20il%20riordinamento%20del%20Ministero%20della%20sanita%20in%20attuazione%20dellart.%202%20comma%202%20del%20decreto%20legislativo%2030%20giugno%201993%20n.%20266.md), concernente il regolamento per il riordinamento del Ministero della sanita';
+Visto il [decreto del Presidente della Repubblica 2 febbraio 1994, n. 196](../DPR/Regolamento%20concernente%20il%20riordinamento%20del%20Ministero%20della%20sanita%20in%20attuazione%20dellart.%202%20comma%202%20del%20decreto%20legislativo%2030%20giugno%201993%20n.%20266.md), concernente il regolamento per il riordinamento del Ministero della sanita';
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

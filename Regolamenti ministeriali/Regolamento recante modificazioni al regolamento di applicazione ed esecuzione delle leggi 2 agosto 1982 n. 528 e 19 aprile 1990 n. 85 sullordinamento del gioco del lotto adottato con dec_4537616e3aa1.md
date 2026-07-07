@@ -12,7 +12,7 @@ IL MINISTRO DELLE FINANZE
 
 Vista la [legge 2 agosto 1982, n. 528](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-02;528), sull'ordinamento del gioco del lotto;
 
-Visto il [decreto del Presidente della Repubblica 7 agosto 1990, n. 303](../Regolamenti%20governativi/Regolamento%20di%20applicazione%20ed%20esecuzione%20delle%20leggi%202%20agosto%201982%20n.%20528%20e%2019%20aprile%201990%20n.%2085%20sullordinamento%20del%20gioco%20del%20lotto.md);
+Visto il [decreto del Presidente della Repubblica 7 agosto 1990, n. 303](../DPR/Regolamento%20di%20applicazione%20ed%20esecuzione%20delle%20leggi%202%20agosto%201982%20n.%20528%20e%2019%20aprile%201990%20n.%2085%20sullordinamento%20del%20gioco%20del%20lotto.md);
 
 Visto l'[art. 11, comma 1, del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_11-com1), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md);
 
@@ -28,7 +28,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Al [decreto del Presidente della Repubblica 7 agosto 1990, n. 303](../Regolamenti%20governativi/Regolamento%20di%20applicazione%20ed%20esecuzione%20delle%20leggi%202%20agosto%201982%20n.%20528%20e%2019%20aprile%201990%20n.%2085%20sullordinamento%20del%20gioco%20del%20lotto.md), sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 7 agosto 1990, n. 303](../DPR/Regolamento%20di%20applicazione%20ed%20esecuzione%20delle%20leggi%202%20agosto%201982%20n.%20528%20e%2019%20aprile%201990%20n.%2085%20sullordinamento%20del%20gioco%20del%20lotto.md), sono apportate le seguenti modificazioni:
                         a)
                             l'art. 1 e' sostituito dal seguente:
  "Art. 1 (Gestione del gioco). - 1. Il servizio del lotto e' amministrato dal Ministero delle finanze per mezzo dell'Amministrazione autonoma dei monopoli di Stato, ovvero e' affidato in concessione, con decreto del Ministro delle finanze, anche nel rispetto della normativa comunitaria, a soggetti che siano in possesso di comprovati requisiti di affidabilita' e di idoneita' tecnica.";

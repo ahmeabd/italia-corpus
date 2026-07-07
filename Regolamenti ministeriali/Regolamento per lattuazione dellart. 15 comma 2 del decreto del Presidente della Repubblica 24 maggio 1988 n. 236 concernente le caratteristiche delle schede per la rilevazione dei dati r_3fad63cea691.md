@@ -121,7 +121,7 @@ Tale dichiarazione potra' essere sostituita da un supporto magnetico, secondo qu
 
 6.
 
-Ai fini della compilazione delle schede di cui al comma 1, gli utilizzatori conservano, per i presidi di prima e seconda classe tossicologica, la copia dei moduli d'acquisto di cui all'[art. 22, quarto comma, del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Regolamenti%20governativi/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md) e, per gli acquisti di presidi delle altre classi, copia delle relative bolle di accompagnamento. (1) (2) (3) (4) ((5)) 
+Ai fini della compilazione delle schede di cui al comma 1, gli utilizzatori conservano, per i presidi di prima e seconda classe tossicologica, la copia dei moduli d'acquisto di cui all'[art. 22, quarto comma, del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../DPR/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md) e, per gli acquisti di presidi delle altre classi, copia delle relative bolle di accompagnamento. (1) (2) (3) (4) ((5)) 
  
 -------------------
 

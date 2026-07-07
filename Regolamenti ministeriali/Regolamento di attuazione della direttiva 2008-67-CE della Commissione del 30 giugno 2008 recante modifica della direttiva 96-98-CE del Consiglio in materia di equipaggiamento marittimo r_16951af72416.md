@@ -20,7 +20,7 @@ e
 
 IL MINISTRO DELL'INTERNO
 
-Visto il [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md) «Regolamento recante norme di attuazione della [direttiva 96/98/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;98) relativa all'equipaggiamento marittimo» e successive modifiche e, in particolare, l'articolo 18 concernente l'adozione di modifiche di aggiornamento resesi necessarie in attuazione di nuovi provvedimenti comunitari;
+Visto il [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md) «Regolamento recante norme di attuazione della [direttiva 96/98/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;98) relativa all'equipaggiamento marittimo» e successive modifiche e, in particolare, l'articolo 18 concernente l'adozione di modifiche di aggiornamento resesi necessarie in attuazione di nuovi provvedimenti comunitari;
 
 Vista la [direttiva 2008/67 della Commissione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1967;2008) adottata in data 30 giugno 2008 che apporta modifiche alla [direttiva 96/98/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;98), aggiornando gli strumenti internazionali di riferimento nonche' l'elenco dell'equipaggiamento inserito nell'allegato A;
 
@@ -36,7 +36,7 @@ Adotta il seguente regolamento:
 
 1.
 
-L'allegato A al [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md), e' sostituito dall'allegato al presente regolamento.
+L'allegato A al [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md), e' sostituito dall'allegato al presente regolamento.
 
 N O T E 
  Avvertenza: 
@@ -45,7 +45,7 @@ N O T E
  - Si riporta il testo dell'[art. 17, comma 3 della legge 23 agosto 1988 n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri». Pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O. 
  «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.» 
- - Si riporta il testo dell'[art. 18 del decreto del Presidente della Repubblica 6 ottobre 1999 n. 407](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md), (Regolamento recante norme di attuazione delle [direttive 96/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;98) e [98/85/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;85) relative all'equipaggiamento marittimo), pubblicato nella Gazzetta Ufficiale 9 novembre 1999, n. 263, S.O. 
+ - Si riporta il testo dell'[art. 18 del decreto del Presidente della Repubblica 6 ottobre 1999 n. 407](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md), (Regolamento recante norme di attuazione delle [direttive 96/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;98) e [98/85/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;85) relative all'equipaggiamento marittimo), pubblicato nella Gazzetta Ufficiale 9 novembre 1999, n. 263, S.O. 
  «Art. 18 (Modifica e aggiornamento). - 1. Con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri dell'ambiente, delle comunicazioni e dell'interno, per le materie di rispettiva competenza, sono adottate, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), le modifiche del presente regolamento, che si rendono necessarie in attuazione di nuove direttive comunitarie in materia, che concernono: 
  a) l'aggiornamento in dipendenza di successivi emendamenti degli strumenti internazionali; 
  b) l'aggiornamento dell'allegato A, sia per l'inserimento di nuovi equipaggiamenti che per il trasferimento di equipaggiamenti fra gli allegati A.1 e A.2; 

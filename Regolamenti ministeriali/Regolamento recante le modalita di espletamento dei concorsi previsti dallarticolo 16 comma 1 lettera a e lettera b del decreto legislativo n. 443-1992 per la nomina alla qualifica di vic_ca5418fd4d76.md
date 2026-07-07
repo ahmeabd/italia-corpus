@@ -14,7 +14,7 @@ Vista la [legge 15 dicembre 1990, n. 395](https://www.normattiva.it/uri-res/N2Ls
 
 Visto il [decreto legislativo 30 dicembre 1992, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;443) e successive modifiche ed integrazioni;
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../Regolamenti%20governativi/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md), recante «Regolamento di servizio del Corpo di polizia penitenziaria»;
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../DPR/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md), recante «Regolamento di servizio del Corpo di polizia penitenziaria»;
 
 Visto, in particolare, l'[articolo 16 del decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), cosi' come modificato dall'[articolo 3 del decreto legislativo 28 febbraio 2001, n. 76](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20200%20in%20materia%20di%20riordino%20del%20personale%20non%20direttivo%20del%20Corpo%20di%20polizia%20penitenziaria.md),
 
@@ -332,7 +332,7 @@ H) Categoria VIII - Speciali riconoscimenti: fino a punti 6.
  4) attestato di pubblica benemerenza: punti 0,30; 
  5) encomio solenne: punti 0,80; 
  6) encomio: punti 0,60; 
- 7) lode ministeriale ovvero lode [ex articolo 78, decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../Regolamenti%20governativi/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md): punti 0,40. 
+ 7) lode ministeriale ovvero lode [ex articolo 78, decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../DPR/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md): punti 0,40. 
 I) Categoria IX - Anzianita' complessiva di servizio: fino a punti 14. 
  Si attribuiscono 0,70 punti per ogni anno di servizio nella qualifica di assistente capo. 
  3. Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
@@ -415,7 +415,7 @@ Rinvio
 
 1.
 
-Per quanto non previsto dal presente decreto si applicano le disposizioni del [decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), e le disposizioni del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni, in quanto compatibili. 
+Per quanto non previsto dal presente decreto si applicano le disposizioni del [decreto legislativo 30 ottobre 1992, n. 443](../Decreti%20Legislativi/Ordinamento%20del%20personale%20del%20Corpo%20di%20polizia%20penitenziaria%20a%20norma%20dellart.%2014%20comma%201%20della%20legge%2015%20dicembre%201990%20n.%20395.md), e le disposizioni del [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni, in quanto compatibili. 
  Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 
  Roma, 8 febbraio 2006 
  Il Ministro: Castelli 
@@ -426,4 +426,4 @@ Registrato alla Corte dei conti il 16 febbraio 2006
 Ministeri istituzionali registro n. 2, foglio n. 26
 
 Nota all'[art. 15:
- Il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) reca: «Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi».
+ Il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md) reca: «Regolamento recante norme sull'accesso agli impieghi nelle pubbliche amministrazioni e le modalita' di svolgimento dei concorsi, dei concorsi unici e delle altre forme di assunzione nei pubblici impieghi».

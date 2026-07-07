@@ -71,7 +71,7 @@ Il Ministro e' coadiuvato dal capo di gabinetto, dal capo del settore legislativ
 
 3.
 
-Il Ministro puo' avvalersi della collaborazione di consiglieri ed esperti nominati in base agli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_29), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31) e [37 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_37), nei limiti consentiti dalle tabelle allegate alla legge stessa, ovvero in base al [decreto del Presidente della Repubblica 18 aprile 1994 n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md).
+Il Ministro puo' avvalersi della collaborazione di consiglieri ed esperti nominati in base agli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_29), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31) e [37 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_37), nei limiti consentiti dalle tabelle allegate alla legge stessa, ovvero in base al [decreto del Presidente della Repubblica 18 aprile 1994 n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md).
 
 4.
 
@@ -157,7 +157,7 @@ Qualifiche ad esaurimento.... 16 4
 
 1.
 
-Nell'ambito dell'ufficio centrale per il coordinamento dell'iniziativa legislativa e dell'attivita' normativa del Governo, di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), e' costituito presso il Ministro per gli italiani nel mondo un apposito settore legislativo che provvede all'attivita' di studio, di progettazione e razionalizzazione normativa nelle materie relative alle funzioni delegate al Ministro stesso, nonche' di consulenza in ordine ai problemi giuridici nelle materie di competenza del Dipartimento.
+Nell'ambito dell'ufficio centrale per il coordinamento dell'iniziativa legislativa e dell'attivita' normativa del Governo, di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../DPR/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), e' costituito presso il Ministro per gli italiani nel mondo un apposito settore legislativo che provvede all'attivita' di studio, di progettazione e razionalizzazione normativa nelle materie relative alle funzioni delegate al Ministro stesso, nonche' di consulenza in ordine ai problemi giuridici nelle materie di competenza del Dipartimento.
 
 2.
 

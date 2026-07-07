@@ -26,7 +26,7 @@ Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/R
 
 Visto il [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), concernente la trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../Regolamenti%20governativi/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), che ha approvato il regolamento per la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
+Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), che ha approvato il regolamento per la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
 Visto il [decreto ministeriale 4 settembre 1996, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-04;537), concernente il regolamento per l'individuazione degli uffici di livello dirigenziale del Ministero delle poste e delle telecomunicazioni;
 

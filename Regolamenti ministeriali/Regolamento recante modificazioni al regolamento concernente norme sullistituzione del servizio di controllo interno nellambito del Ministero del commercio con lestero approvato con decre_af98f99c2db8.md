@@ -14,7 +14,7 @@ DEL COMMERCIO CON L'ESTERO
 
 Visto l'[articolo 20 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 6 del decreto legislativo 18 novembre 1993, n. 470](../Decreti%20Legislativi/Disposizioni%20correttive%20del%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20recante%20razionalizzazione%20dellorganizzazione%20delle%20amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20_de1af61c91ea.md);
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 302](../Regolamenti%20governativi/Regolamento%20concernente%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20del%20Ministero%20del%20commercio%20con%20lestero.md);
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 302](../DPR/Regolamento%20concernente%20lindividuazione%20degli%20uffici%20di%20livello%20dirigenziale%20del%20Ministero%20del%20commercio%20con%20lestero.md);
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

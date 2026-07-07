@@ -16,7 +16,7 @@ Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR
 
 Visto il [decreto legislativo 12 maggio 1995, n. 197](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md), concernente l'attuazione dell'[articolo 3 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di riordino delle carriere del personale della Polizia di Stato;
 
-Visto il [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), recante il regolamento di servizio dell'Amministrazione della pubblica sicurezza;
+Visto il [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), recante il regolamento di servizio dell'Amministrazione della pubblica sicurezza;
 
 Visto il [decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), concernente il nuovo ordinamento della banda musicale della Polizia di Stato;
 
@@ -92,7 +92,7 @@ All'interno del ruolo degli orchestrali la subordinazione gerarchica, in relazio
 
 3.
 
-Nei confronti del personale della banda musicale della Polizia di Stato trovano applicazione le disposizioni in materia di gerarchia e subordinazione contenute nel [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md).
+Nei confronti del personale della banda musicale della Polizia di Stato trovano applicazione le disposizioni in materia di gerarchia e subordinazione contenute nel [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md).
 
 ### Art. 4. — Impiego della banda musicale
  ad organico intero o ridotto
@@ -115,10 +115,10 @@ Nell'impiego ad organico ridotto, l'organizzazione della banda musicale in forma
 
 5.
 
-Nell'impiego ad organico ridotto, il maestro direttore, in caso di necessita', in relazione a quanto stabilito dall'[articolo 36, comma primo, del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), quando manchi il maestro vice direttore od anche in aggiunta a quest'ultimo, puo' designare, tra gli orchestrali con la qualifica di orchestrale perito tecnico superiore, un elemento che, in conformita' alle direttive da lui impartite, guidi la formazione.
+Nell'impiego ad organico ridotto, il maestro direttore, in caso di necessita', in relazione a quanto stabilito dall'[articolo 36, comma primo, del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), quando manchi il maestro vice direttore od anche in aggiunta a quest'ultimo, puo' designare, tra gli orchestrali con la qualifica di orchestrale perito tecnico superiore, un elemento che, in conformita' alle direttive da lui impartite, guidi la formazione.
 
 Nota all'art. 4:
- - Il testo dell'[art. 36 del decreto del Presidente della Repubblica del 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md) (Approvazione del regolamento di servizio dell'Amministrazione della pubblica sicurezza), e' il seguente:
+ - Il testo dell'[art. 36 del decreto del Presidente della Repubblica del 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md) (Approvazione del regolamento di servizio dell'Amministrazione della pubblica sicurezza), e' il seguente:
  "Art. 36 (Impiego nei servizi). - Il personale della Polizia di Stato, salvo casi di necessita', deve essere impiegato in servizio in relazione alla sua specializzazione professionale, alle funzioni del ruolo di appartenenza ed alla qualifica posseduta.
  Resta fermo quanto previsto dal [secondo comma dell'art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md).
  Quando lo richiede la natura dei servizi devono essere forniti i mezzi in dotazione atti ad assicurare l'incolumita' e la sicurezza del personale operante in funzione dello scopo da raggiungere.".
@@ -131,7 +131,7 @@ Nell'impiego fuori sede, il trasporto del personale della banda musicale avviene
 
 2.
 
-Nel caso in cui l'impiego della banda musicale sia autorizzato con onere a carico dell'ente richiedente, fermo restando quanto previsto dall'[articolo 3, comma secondo del decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), si applicano le disposizioni per i servizi a pagamento previste dal Capo 8 del [decreto del Presidente della Repubblica 7 agosto 1992, n. 417](../Regolamenti%20governativi/Regolamento%20di%20amministrazione%20e%20di%20contabilita%20dellAmministrazione%20della%20pubblica%20sicurezza.md).
+Nel caso in cui l'impiego della banda musicale sia autorizzato con onere a carico dell'ente richiedente, fermo restando quanto previsto dall'[articolo 3, comma secondo del decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), si applicano le disposizioni per i servizi a pagamento previste dal Capo 8 del [decreto del Presidente della Repubblica 7 agosto 1992, n. 417](../DPR/Regolamento%20di%20amministrazione%20e%20di%20contabilita%20dellAmministrazione%20della%20pubblica%20sicurezza.md).
 
 3.
 
@@ -232,14 +232,14 @@ In particolare, gli orchestrali hanno l'obbligo di esercitarsi individualmente a
 
 3.
 
-Quando sussistono situazioni di necessita', in relazione a quanto stabilito dall'[articolo 36, comma primo, del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), gli orchestrali:
+Quando sussistono situazioni di necessita', in relazione a quanto stabilito dall'[articolo 36, comma primo, del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), gli orchestrali:
                             a)
                                 possono essere, per esigenze artistiche, incaricati dal maestro direttore di funzioni musicali proprie di altra parte o qualifica;
                             b)
                                 possono essere impiegati in particolari cerimonie o servizi su designazione del maestro direttore, come trombettieri, mazzieri ed in formazione di drappello di tamburi.
 
 Nota all'art. 8:
- - Per il testo dell'[art. 36, primo comma, del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), si veda in nota all'art. 4.
+ - Per il testo dell'[art. 36, primo comma, del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), si veda in nota all'art. 4.
 
 ### Art. 9. — Attivita' esterna
 
@@ -290,10 +290,10 @@ La fornitura degli strumenti, delle partiture, dei leggii e degli altri material
 
 2.
 
-La commissione di collaudo e' costituita a norma dell'[articolo 26, comma quarto, del decreto del Presidente della Repubblica 7 agosto 1992, n. 417](../Regolamenti%20governativi/Regolamento%20di%20amministrazione%20e%20di%20contabilita%20dellAmministrazione%20della%20pubblica%20sicurezza.md).
+La commissione di collaudo e' costituita a norma dell'[articolo 26, comma quarto, del decreto del Presidente della Repubblica 7 agosto 1992, n. 417](../DPR/Regolamento%20di%20amministrazione%20e%20di%20contabilita%20dellAmministrazione%20della%20pubblica%20sicurezza.md).
 
 Nota all'art. 13:
- - Il testo dell'[art. 26 del decreto del Presidente della Repubblica del 7 agosto 1992, n. 417](../Regolamenti%20governativi/Regolamento%20di%20amministrazione%20e%20di%20contabilita%20dellAmministrazione%20della%20pubblica%20sicurezza.md) (Regolamento di amministrazione e di contabilita' dell'Amministrazione della pubblica sicurezza), e' il seguente:
+ - Il testo dell'[art. 26 del decreto del Presidente della Repubblica del 7 agosto 1992, n. 417](../DPR/Regolamento%20di%20amministrazione%20e%20di%20contabilita%20dellAmministrazione%20della%20pubblica%20sicurezza.md) (Regolamento di amministrazione e di contabilita' dell'Amministrazione della pubblica sicurezza), e' il seguente:
  "Art. 26 (Collaudi). - 1. Tutti i lavori e tutte le forniture eseguiti ad appalto o in economia sono soggetti, salvo speciali disposizioni in contrario, a collaudo parziale o finale.
  2. Per ognuno dei centri di raccolta di materiali e mezzi, telecomunicazioni e motorizzazione di cui all' [art. 31 della legge 1o aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_31), e' istituita una commissione di collaudo, composta da un funzionario dei ruoli della Polizia di Stato, con qualifica non inferiore a vice questore aggiunto o equiparata, che la presiede da un esperto scelto tra funzionari dell'Amministrazione dello Stato e dal consegnatario del centro interessato. Il presidente, i componenti ed il segretario della commissione sono nominati con decreto del Ministro dell'interno. Le funzioni di segretario sono esercitate dallo stesso consegnatario.
  3. Sono fatte salve le disposizioni inerenti ai collaudi contenute nei capitolati generali d'oneri, anche di altre amministrazioni, cui si fa riferimento nei contratti, negli eventuali capitolati speciali d'oneri e nel regolamento per i lavori, le provviste ed i servizi da eseguirsi in economia da parte degli uffici centrali e periferici del Ministero dell'interno .

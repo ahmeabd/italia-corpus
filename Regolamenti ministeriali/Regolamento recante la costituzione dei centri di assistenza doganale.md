@@ -349,7 +349,7 @@ Note all'art. 12:
  - E' sempre disposta la revoca della nomina dello spedizioniere doganale nei casi di:
  a) radiazione dell'albo professionale;
  b) perdita di uno dei requisiti richiesti dall'art. 48, lettere a) e d);
- c) condanna, in seguito a sentenza passata in giudicato, per uno dei delitti non colposi previsti dai titoli secondo, settimo e tredicesimo del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ c) condanna, in seguito a sentenza passata in giudicato, per uno dei delitti non colposi previsti dai titoli secondo, settimo e tredicesimo del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  d) condanna, in seguito a sentenza passata in giudicato, per ogni altro delitto non colposo per il quale la legge commini la pena della reclusione non inferiore nel minimo a tre anni o nel massimo di dieci anni.
  Nei casi di cui alle lettere c) e d) la revoca e' disposta soltanto qualora venga pronunciata condanna alla pena della reclusione, ancorche' congiunta con la pena della multa, per un tempo superiore ad un anno. In caso diverso cessa la sospensione eventualmente inflitta ai sensi dell'articolo precedente, salvo che non sussistano altri motivi che ne giustificano il mantenimento.
  Il provvedimento di revoca e' adottato con decreto del Ministro per le finanze, sentito il consiglio nazionale degli spedizionieri doganali".

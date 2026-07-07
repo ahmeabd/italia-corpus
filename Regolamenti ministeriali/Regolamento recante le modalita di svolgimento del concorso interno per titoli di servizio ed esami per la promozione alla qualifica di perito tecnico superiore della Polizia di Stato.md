@@ -265,7 +265,7 @@ Nota all'art. 8:
 
 1.
 
-Per quanto non previsto dal presente decreto, si applicano, in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e successive modifiche ed integrazioni, con il quale e' stato approvato il regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia.
+Per quanto non previsto dal presente decreto, si applicano, in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 23 dicembre 1983, n. 903](../DPR/Approvazione%20del%20regolamento%20per%20laccesso%20ai%20ruoli%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20funzioni%20di%20polizia.md), e successive modifiche ed integrazioni, con il quale e' stato approvato il regolamento per l'accesso ai ruoli del personale della Polizia di Stato che espleta funzioni di polizia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

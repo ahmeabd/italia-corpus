@@ -12,7 +12,7 @@ IL MINISTRO DELLE FINANZE
 
 Visto l'[art. 7 della legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-10-29;358#art_7), concernente le "Norme per la ristrutturazione del Ministero delle finanze";
 
-Visto l'[art. 44 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../Regolamenti%20governativi/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md), concernente il "Regolamento degli uffici e del personale del Ministero delle finanze";
+Visto l'[art. 44 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../DPR/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md), concernente il "Regolamento degli uffici e del personale del Ministero delle finanze";
 
 Visto l'art. 25, Capo VI, del decreto ministeriale 23 dicembre 1992, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 6 del 9 gennaio 1993, concernente la "Organizzazione interna del Dipartimento del territorio";
 
@@ -76,7 +76,7 @@ Note alle premesse:
 
 1.
 
-Il Servizio ispettivo centrale opera alle dirette dipendenze del direttore generale del Dipartimento ed esplica, anche su richiesta rivolta allo stesso dal direttore generale degli affari generali e del personale e dai direttori centrali del Dipartimento del territorio, funzioni di verifica della efficienza degli uffici del Dipartimento del territorio ed attivita' di vigilanza sui Servizi delle direzioni compartimentali, nonche', qualora lo richiedano particolari circostanze, su uffici periferici del Dipartimento del territorio, nell'ambito delle attribuzioni previste dall'[art. 44 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../Regolamenti%20governativi/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md).
+Il Servizio ispettivo centrale opera alle dirette dipendenze del direttore generale del Dipartimento ed esplica, anche su richiesta rivolta allo stesso dal direttore generale degli affari generali e del personale e dai direttori centrali del Dipartimento del territorio, funzioni di verifica della efficienza degli uffici del Dipartimento del territorio ed attivita' di vigilanza sui Servizi delle direzioni compartimentali, nonche', qualora lo richiedano particolari circostanze, su uffici periferici del Dipartimento del territorio, nell'ambito delle attribuzioni previste dall'[art. 44 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../DPR/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md).
 
 2.
 

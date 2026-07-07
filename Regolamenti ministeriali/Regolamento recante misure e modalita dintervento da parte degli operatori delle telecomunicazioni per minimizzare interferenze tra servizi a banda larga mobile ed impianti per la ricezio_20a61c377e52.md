@@ -22,7 +22,7 @@ Visto il [decreto ministeriale 22 gennaio 2008, n. 37](https://www.normattiva.it
 
 Visto il decreto del Ministro dello sviluppo economico 13 novembre 2008, che approva il piano nazionale di ripartizione delle frequenze, pubblicato nel supplemento ordinario n. 255 alla Gazzetta Ufficiale della Repubblica Italiana n. 273 del 21 novembre 2008 e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 novembre 2008, n. 197](../Regolamenti%20governativi/Regolamento%20di%20riorganizzazione%20del%20Ministero%20dello%20sviluppo%20economico.md), recante «Regolamento di riorganizzazione del Ministero dello sviluppo economico»;
+Visto il [decreto del Presidente della Repubblica 28 novembre 2008, n. 197](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20dello%20sviluppo%20economico.md), recante «Regolamento di riorganizzazione del Ministero dello sviluppo economico»;
 
 Visto il decreto ministeriale 22 luglio 2003, recante «Modalita' per l'acquisizione dei dati necessari per la tenuta del catasto delle infrastrutture delle reti radiomobili di comunicazione pubblica», pubblicato nella Gazzetta Ufficiale n. 180 del 5 agosto 2003;
 

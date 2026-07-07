@@ -48,7 +48,7 @@ I candidati possono presentare domanda di ammissione agli esami soltanto all'ist
 
 Il contributo di L. 3.000 e la tassa di L. 10.000 previsti dall'[art. 4 della legge 8 dicembre 1956, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-08;1378#art_4), e successive modificazioni, sono versati dai candidati in favore dell'istituto tecnico statale prescelto come sede di esame.
  AVVERTENZA:
- Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2. — Requisiti di ammissione
 
@@ -311,7 +311,7 @@ Copie di tale elenco vengono affisse all'albo dell'istituto sede degli esami ed 
 
 3.
 
-Gli atti relativi all'espletamento della sessione, dopo la sua chiusura, vengono consegnati dalla commissione esaminatrice all'istituto sede d'esame, presso il quale sono conservati a disposizione del Ministro della pubblica istruzione per i periodi di tempo previsti dal [secondo](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md) e [terzo comma dell'art. 101 del regio decreto 4 maggio 1925, n. 653](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
+Gli atti relativi all'espletamento della sessione, dopo la sua chiusura, vengono consegnati dalla commissione esaminatrice all'istituto sede d'esame, presso il quale sono conservati a disposizione del Ministro della pubblica istruzione per i periodi di tempo previsti dal [secondo](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md) e [terzo comma dell'art. 101 del regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
 
 4.
 

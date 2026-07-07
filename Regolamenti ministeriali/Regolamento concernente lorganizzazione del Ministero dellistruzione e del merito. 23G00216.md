@@ -949,7 +949,7 @@ Gli uffici scolastici regionali, nel numero complessivo di diciotto, sono uffici
                         f)
                             in materia di percorsi per le competenze trasversali e per l'orientamento, svolgono le competenze non riservate all'Amministrazione centrale;
                         g)
-                            svolgono le competenze in materia di sanzioni disciplinari nei confronti degli studenti, di cui all'[articolo 5 del decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../Regolamenti%20governativi/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md);
+                            svolgono le competenze in materia di sanzioni disciplinari nei confronti degli studenti, di cui all'[articolo 5 del decreto del Presidente della Repubblica 24 giugno 1998, n. 249](../DPR/Regolamento%20recante%20lo%20statuto%20delle%20studentesse%20e%20degli%20studenti%20della%20scuola%20secondaria.md);
                         h)
                             curano la ricognizione delle esigenze formative e lo sviluppo dell'offerta formativa sul territorio, in collaborazione con la regione e gli enti locali;
                         i)

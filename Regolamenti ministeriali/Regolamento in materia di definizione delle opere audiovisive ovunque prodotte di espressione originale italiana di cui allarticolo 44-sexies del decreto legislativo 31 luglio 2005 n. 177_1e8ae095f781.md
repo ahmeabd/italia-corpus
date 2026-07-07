@@ -136,7 +136,7 @@ NOTE
  cc) "opere europee": 
  1) le opere che rientrano nelle seguenti tipologie: 
  1.1) le opere originarie di Stati membri; 
- 1.2) le opere originarie di Stati terzi europei che siano parti della convenzione europea sulla televisione transfrontaliera del Consiglio d'Europa, firmata a Strasburgo il 5 maggio 1989 e ratificata dalla [legge 5 ottobre 1991, n. 327](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md) rispondenti ai requisiti del punto 2); 
+ 1.2) le opere originarie di Stati terzi europei che siano parti della convenzione europea sulla televisione transfrontaliera del Consiglio d'Europa, firmata a Strasburgo il 5 maggio 1989 e ratificata dalla [legge 5 ottobre 1991, n. 327](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20europea%20sulla%20televisione%20transfrontaliera%20con%20annesso%20fatta%20a%20Strasburgo%20il%205%20maggio%201989.md) rispondenti ai requisiti del punto 2); 
  1.3) le opere co-prodotte nell'ambito di accordi conclusi nel settore audiovisivo tra l'Unione europea e paesi terzi e che rispettano le condizioni definite in ognuno di tali accordi; 
  1.4) le disposizioni di cui ai numeri 1.2) e 1.3) si applicano a condizione che le opere originarie degli Stati membri non siano soggette a misure discriminatorie nel paese terzo interessato; 
  2) le opere di cui ai numeri 1.1) e 1.2) sono opere realizzate essenzialmente con il contributo di autori e lavoratori residenti in uno o piu' degli Stati di cui ai numeri 1.1) e 1.2) rispondenti a una delle tre condizioni seguenti: 

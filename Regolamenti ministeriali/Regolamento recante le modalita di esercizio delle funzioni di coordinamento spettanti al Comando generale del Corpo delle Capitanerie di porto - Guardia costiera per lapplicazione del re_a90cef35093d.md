@@ -44,7 +44,7 @@ Visto in particolare l'articolo 4, comma 1-bis, del citato [decreto-legge n. 121
 
 Visto inoltre l'articolo 4, comma 1-ter, del citato [decreto-legge n. 121 del 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021;121), che recita: «Con decreto del Ministro delle infrastrutture e della mobilita' sostenibili, di concerto con i Ministri dell'interno, dell'economia e delle finanze e della salute, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sono definite le modalita' di esercizio delle funzioni di coordinamento spettanti all'autorita' nazionale designata ai sensi del comma 1-bis per l'applicazione del [regolamento (UE) 2019/1239](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1239) da parte delle autorita' interne competenti e le forme della loro cooperazione per assicurare la distribuzione dei dati e la connessione con i pertinenti sistemi delle altre autorita' competenti a livello nazionale e dell'Unione europea»;
 
-Visto il [decreto del Presidente della Repubblica 29 dicembre 2021, n. 235](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md), concernente il regolamento recante disciplina dello Sportello unico doganale e dei controlli (S.U.Do.Co.);
+Visto il [decreto del Presidente della Repubblica 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md), concernente il regolamento recante disciplina dello Sportello unico doganale e dei controlli (S.U.Do.Co.);
 
 Acquisito il concerto del Ministro dell'interno, espresso con nota n. 11429 dell'11 luglio 2023;
 
@@ -133,7 +133,7 @@ Gli obblighi di dichiarazione della nave, costituenti il dato distribuito e scam
 
 3.
 
-L'interoperabilita' tra la EMSWe e lo Sportello unico doganale e dei controlli (S.U.Do.Co.) di cui al [decreto del Presidente della Repubblica 29 dicembre 2021, n. 235](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md), e' assicurata dalla cooperazione tra l'ANC e l'Agenzia delle dogane e dei monopoli anche mediante la previsione di specifici accordi.
+L'interoperabilita' tra la EMSWe e lo Sportello unico doganale e dei controlli (S.U.Do.Co.) di cui al [decreto del Presidente della Repubblica 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md), e' assicurata dalla cooperazione tra l'ANC e l'Agenzia delle dogane e dei monopoli anche mediante la previsione di specifici accordi.
 
 4.
 
@@ -144,7 +144,7 @@ Lo scambio dei dati e l'interoperabilita' dei sistemi tra le AAIC sono realizzat
 Per le esigenze delle amministrazioni, l'EMSWe rende disponibile l'accesso ai dati di interesse, anche tramite un portale WEB, con la possibilita' di eseguire il download degli stessi in formato excel, pdf, csv.
 
 Note all'art. 3: 
- - Per i riferimenti del [decreto del Presidente della Repubblica 29 dicembre 2021, n. 235](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md), si veda nelle note alle premesse.
+ - Per i riferimenti del [decreto del Presidente della Repubblica 29 dicembre 2021, n. 235](../DPR/Regolamento%20recante%20disciplina%20dello%20Sportello%20unico%20doganale%20e%20dei%20controlli%20S.U.Do.Co.%2021G00259.md), si veda nelle note alle premesse.
 
 ## Art. 4. — Comitato di coordinamento
 

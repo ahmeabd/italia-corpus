@@ -124,7 +124,7 @@ Il servizio affari generali e organizzazione provvede agli adempimenti di cui al
 
 1.
 
-E' costituito, nell'ambito dell'ufficio centrale di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), presso il Ministro per i rapporti con il Parlamento, un apposito settore legislativo che povvede all'attivita' di studio e di consulenza in ordine ai problemi giuridici nelle materie relative alle funzioni delegate al Ministro stesso.
+E' costituito, nell'ambito dell'ufficio centrale di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../DPR/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), presso il Ministro per i rapporti con il Parlamento, un apposito settore legislativo che povvede all'attivita' di studio e di consulenza in ordine ai problemi giuridici nelle materie relative alle funzioni delegate al Ministro stesso.
 
 2.
 

@@ -14,7 +14,7 @@ Visto il [decreto legislativo del 30 marzo 2001, n. 165](../Decreti%20Legislativ
 
 Visto il [decreto legislativo del 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e in particolare l'articolo 3 in base al quale, tra l'altro, il Ministero per le politiche agricole assume la denominazione di Ministero delle politiche agricole e forestali;
 
-Visto il [decreto del Presidente della Repubblica n. 450 del 28 marzo 2000](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20politiche%20agricole%20e%20forestali.md) concernente il Regolamento di organizzazione del Ministero delle politiche agricole e forestali;
+Visto il [decreto del Presidente della Repubblica n. 450 del 28 marzo 2000](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20politiche%20agricole%20e%20forestali.md) concernente il Regolamento di organizzazione del Ministero delle politiche agricole e forestali;
 
 Visto l'articolo 7, comma 3 del decreto legislativo n. 155: «Riordino delle carriere del personale direttivo e dirigente del Corpo Forestale dello Stato, a norma dell'[articolo 3, comma 1, della legge 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md)»;
 

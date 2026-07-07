@@ -182,7 +182,7 @@ Le percentuali di cui al comma 3 sono elevate del 5 per cento per le spese certi
 
 4-bis.
 
-Ove vengano conferite integralmente in gestione associata una o piu' funzioni, composte da piu' di due servizi individuati ai sensi dell'[articolo 2 del decreto del Presidente della Repubblica 31 gennaio 1996, n. 194](../Regolamenti%20governativi/Regolamento%20per%20lapprovazione%20dei%20modelli%20di%20cui%20allart.%20114%20del%20decreto%20legislativo%2025%20febbraio%201995%20n.%2077%20concernente%20lordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), il contributo determinato ai sensi dei commi 3 e 4 ad esse riferibile e' incrementato del 10 per cento.
+Ove vengano conferite integralmente in gestione associata una o piu' funzioni, composte da piu' di due servizi individuati ai sensi dell'[articolo 2 del decreto del Presidente della Repubblica 31 gennaio 1996, n. 194](../DPR/Regolamento%20per%20lapprovazione%20dei%20modelli%20di%20cui%20allart.%20114%20del%20decreto%20legislativo%2025%20febbraio%201995%20n.%2077%20concernente%20lordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), il contributo determinato ai sensi dei commi 3 e 4 ad esse riferibile e' incrementato del 10 per cento.
 
 4-ter.
 

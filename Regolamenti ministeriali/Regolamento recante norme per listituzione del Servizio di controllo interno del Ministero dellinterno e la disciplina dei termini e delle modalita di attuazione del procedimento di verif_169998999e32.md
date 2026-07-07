@@ -51,7 +51,7 @@ Alla direzione del Servizio e' preposto un collegio di tre membri costituito con
 
 2.
 
-Al Servizio e' assegnato, con decreto del Ministro dell'interno, nell'ambito delle dotazioni organiche dell'amministrazione, un apposito contingente di personale. Il Ministro dell'interno puo' altresi' nominare, ai sensi del [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), esperti in tecniche di valutazione e nel controllo di gestione particolarmente qualificati, per le esigenze di supporto all'attivita' del collegio di cui al comma 1.
+Al Servizio e' assegnato, con decreto del Ministro dell'interno, nell'ambito delle dotazioni organiche dell'amministrazione, un apposito contingente di personale. Il Ministro dell'interno puo' altresi' nominare, ai sensi del [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), esperti in tecniche di valutazione e nel controllo di gestione particolarmente qualificati, per le esigenze di supporto all'attivita' del collegio di cui al comma 1.
 
 3.
 
@@ -62,7 +62,7 @@ Nell'esercizio delle proprie funzioni, il Servizio di controllo interno ha acces
 Il collegio di cui al comma 1 riferisce almeno semestralmente al Ministro dell'interno sui risultati dell'attivita' svolta dal Servizio. Le relative relazioni sono contestualmente portate a conoscenza del capo della Polizia - direttore generale della pubblica sicurezza e dei direttori generali.
 
 Nota all'[art. 2:
- - Il decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), con cui e' emanato il "Regolamento recante semplificazione del procedimento di conferimento di incarichi individuali ad esperti da parte dei Ministri" e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 132 dell'8 giugno 1994.
+ - Il decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), con cui e' emanato il "Regolamento recante semplificazione del procedimento di conferimento di incarichi individuali ad esperti da parte dei Ministri" e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 132 dell'8 giugno 1994.
 
 ## Art. 3.
 

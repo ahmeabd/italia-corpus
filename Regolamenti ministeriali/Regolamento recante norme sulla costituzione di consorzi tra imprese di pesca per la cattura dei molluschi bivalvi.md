@@ -16,7 +16,7 @@ Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 4 luglio 1965, n. 963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-04;963), ed in particolare l'art. 32, che consente al Ministro, sentita la Commissione consultiva centrale per la pesca marittima, di emanare norme per la disciplina della pesca anche in deroga alle discipline regolamentari;
 
-Visto il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), riguardante il regolamento di esecuzione della predetta legge;
+Visto il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), riguardante il regolamento di esecuzione della predetta legge;
 
 Vista la [legge 17 febbraio 1982, n. 41](../Atti%20normativi%20abrogati%20%28in%20originale%29/Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), e successive modifiche;
 

@@ -22,7 +22,7 @@ Visto l'articolo 16, comma 2, della predetta [legge 29 luglio 2010, n. 120](http
 
 Visti altresi' gli [articoli 121](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [122](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [123](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [180 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)»;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)»;
 
 Ritenuto che il corso pratico di guida, obbligatorio e propedeutico alla guida accompagnata, svolto presso un'autoscuola con istruttore abilitato e autorizzato, come prescritto dal comma 1-ter del citato [articolo 115 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), nulla innova sotto il profilo della competenza delle province in materia di vigilanza amministrativa e tecnica sull'esercizio dell'attivita' di autoscuola, sancito dal predetto [articolo 123, comma 2, del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 

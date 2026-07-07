@@ -263,7 +263,7 @@ L'Ufficio stampa, costituito ai sensi dell'[articolo 9 della legge 7 giugno 2000
 
 2.
 
-Il Capo dell'Ufficio stampa e' nominato dal Ministro tra giornalisti, operatori del settore dell'informazione o comunque tra soggetti, anche appartenenti alle pubbliche amministrazioni, in possesso di comprovata esperienza maturata nel campo della comunicazione istituzionale o dell'editoria, nel rispetto delle disposizioni del [decreto del Presidente della Repubblica 21 settembre 2001, n. 422](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lindividuazione%20dei%20titoli%20professionali%20del%20personale%20da%20utilizzare%20presso%20le%20pubbliche%20amministrazioni%20per%20le%20attivita%20di%20informazione%20e%20di%20comunicazione%20e_f476562d1d34.md).
+Il Capo dell'Ufficio stampa e' nominato dal Ministro tra giornalisti, operatori del settore dell'informazione o comunque tra soggetti, anche appartenenti alle pubbliche amministrazioni, in possesso di comprovata esperienza maturata nel campo della comunicazione istituzionale o dell'editoria, nel rispetto delle disposizioni del [decreto del Presidente della Repubblica 21 settembre 2001, n. 422](../DPR/Regolamento%20recante%20norme%20per%20lindividuazione%20dei%20titoli%20professionali%20del%20personale%20da%20utilizzare%20presso%20le%20pubbliche%20amministrazioni%20per%20le%20attivita%20di%20informazione%20e%20di%20comunicazione%20e_f476562d1d34.md).
 
 3.
 

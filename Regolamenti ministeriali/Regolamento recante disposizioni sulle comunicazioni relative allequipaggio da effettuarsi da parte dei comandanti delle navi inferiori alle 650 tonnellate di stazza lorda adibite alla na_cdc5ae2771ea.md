@@ -12,7 +12,7 @@ IL MINISTRO DEI TRASPORTI E DELLA NAVIGAZIONE
 
 Visto il regolamento (CEE) n. 3577/92 del Consiglio del 7 dicembre 1992 concernente l'applicazione del principio della libera prestazione dei servizi ai trasporti marittimi fra gli Stati membri (cabotaggio marittimo);
 
-Visto l'[articolo 179, comma 1, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in base al quale il Ministro puo' determinare gli elementi che il comandante della nave deve comunicare all'autorita' marittima all'arrivo della nave in porto;
+Visto l'[articolo 179, comma 1, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in base al quale il Ministro puo' determinare gli elementi che il comandante della nave deve comunicare all'autorita' marittima all'arrivo della nave in porto;
 
 Ritenuto che tra i detti elementi debbano essere ricompresi quelli relativi all'equipaggio delle navi cui si applica la disciplina dello Stato ospitante ai sensi della suddetta normativa comunitaria;
 
@@ -54,7 +54,7 @@ Avvertenza:
 
 1.
 
-Fermo restando il disposto dell'[articolo 179 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), alla nota di informazione all'autorita' marittima e' allegata la documentazione informativa attestante la conformita' alle condizioni di cui all'articolo 1.
+Fermo restando il disposto dell'[articolo 179 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), alla nota di informazione all'autorita' marittima e' allegata la documentazione informativa attestante la conformita' alle condizioni di cui all'articolo 1.
 
 2.
 
@@ -86,7 +86,7 @@ Il dipartimento della navigazione marittima ed interna, unita' di gestione del t
 
 4.
 
-Le autorita' marittime nei casi di inosservanza delle prescrizioni specificate all'articolo 2 applicano le disposizioni di cui all'[articolo 181 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Le autorita' marittime nei casi di inosservanza delle prescrizioni specificate all'articolo 2 applicano le disposizioni di cui all'[articolo 181 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ## Art. 4.
 

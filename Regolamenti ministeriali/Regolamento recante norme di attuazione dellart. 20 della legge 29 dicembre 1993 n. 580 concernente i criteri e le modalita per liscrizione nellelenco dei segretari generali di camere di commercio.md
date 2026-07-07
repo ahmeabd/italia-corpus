@@ -12,7 +12,7 @@ IL MINISTRO DELL'INDUSTRIA
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto il [regio decreto 20 settembre 1934, n. 2011](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recante il testo unico delle leggi sui consigli provinciali dell'economia corporativa e sugli uffici provinciali dell'economia corporativa;
+Visto il [regio decreto 20 settembre 1934, n. 2011](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), recante il testo unico delle leggi sui consigli provinciali dell'economia corporativa e sugli uffici provinciali dell'economia corporativa;
 
 Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md), concernente la soppressione dei consigli e degli uffici dell'economia e la istituzione delle camere di commercio, industria e agricoltura, nonche' degli uffici provinciali dell'industria e del commercio;
 

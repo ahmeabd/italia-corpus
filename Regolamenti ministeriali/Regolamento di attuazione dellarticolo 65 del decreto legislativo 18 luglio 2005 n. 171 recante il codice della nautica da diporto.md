@@ -18,9 +18,9 @@ ricerca e il Ministro per i rapporti con le regioni
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), recante il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), recante il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), recante approvazione del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (parte navigazione marittima);
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), recante approvazione del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (parte navigazione marittima);
 
 Vista la [legge 8 luglio 2003, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172), e successive modificazioni, recante disposizioni per il riordino e il rilancio della nautica da diporto e del turismo nautico;
 
@@ -36,7 +36,7 @@ Visto il [decreto ministeriale 21 gennaio 1994, n. 232](https://www.normattiva.i
 
 Visto il [decreto ministeriale 5 luglio 1994, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-07-05;536), recante regolamento sul comando e sulla condotta delle unita' da diporto da parte di coloro che sono in possesso di un titolo professionale marittimo;
 
-Visto il [decreto del Presidente della Repubblica 9 ottobre 1997, n. 431](../Regolamenti%20governativi/Regolamento%20sulla%20disciplina%20delle%20patenti%20nautiche.md), recante regolamento sulla disciplina delle patenti nautiche;
+Visto il [decreto del Presidente della Repubblica 9 ottobre 1997, n. 431](../DPR/Regolamento%20sulla%20disciplina%20delle%20patenti%20nautiche.md), recante regolamento sulla disciplina delle patenti nautiche;
 
 Visto il [decreto ministeriale 5 ottobre 1999, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1999-10-05;478), recante regolamento di sicurezza per la navigazione da diporto;
 
@@ -60,8 +60,8 @@ Avvertenza:
  - Il [comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
  «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.».
- Il [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)), e' pubblicato nella Gazzetta Ufficiale 18 aprile 1942, n. 93, Ediz. Spec.
- Il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) (Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (Navigazione marittima), e' pubblicato nella Gazzetta Ufficiale 21 aprile 1952, n. 94, S.O.
+ Il [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)), e' pubblicato nella Gazzetta Ufficiale 18 aprile 1942, n. 93, Ediz. Spec.
+ Il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) (Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (Navigazione marittima), e' pubblicato nella Gazzetta Ufficiale 21 aprile 1952, n. 94, S.O.
  La [legge 8 luglio 2003, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172) (Disposizioni per il riordino e il rilancio della nautica da diporto e del turismo nautico), e' pubblicata nella Gazzetta Ufficiale 14 luglio 2003, n. 161.
  Si riporta il testo dell'[art. 65 del decreto legislativo 18 luglio 2005, n. 171](../Decreti%20Legislativi/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) ([Codice della nautica da diporto](../Decreti%20Legislativi/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) ed attuazione della [direttiva 2003/44/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;44), a norma dell'[art. 6 della legge 8 luglio 2003, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172#art_6)), pubblicato nella Gazzetta Ufficiale 31 agosto 2005, n. 202:
  «Art. 65 (Regolamento di attuazione) - 1. Il Ministero delle infrastrutture e dei trasporti, di concerto con le amministrazioni interessate, adotta, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), entro novanta giorni dalla data di entrata in vigore del presente decreto legislativo, un decreto ministeriale al fine di disciplinare, secondo criteri di semplificazione dei procedimenti amministrativi, le materie di seguito indicate:
@@ -81,7 +81,7 @@ Avvertenza:
  Il [decreto ministeriale 19 novembre 1992, n. 566](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-11-19;566) (Regolamento recante norme per l'autorizzazione alla navigazione temporanea delle navi da diporto), e' pubblicato nella Gazzetta Ufficiale 16 febbraio 1993, n. 38.
  Il [decreto ministeriale 21 gennaio 1994, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-01-21;232) (Regolamento di sicurezza per la navigazione da diporto), e' pubblicato nella Gazzetta Ufficiale 15 aprile 1994, n. 87.
  Il [decreto ministeriale 5 luglio 1994, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-07-05;536) (Regolamento recante norme per il comando e la condotta delle unita' da diporto da parte di coloro che sono in possesso di un titolo professionale marittimo), e' pubblicato nella Gazzetta Ufficiale 15 settembre 1994, n. 216.
- Il [decreto del Presidente della Repubblica 9 ottobre 1997, n. 431](../Regolamenti%20governativi/Regolamento%20sulla%20disciplina%20delle%20patenti%20nautiche.md) (Regolamento sulla disciplina delle patenti nautiche), e' pubblicato nella Gazzetta Ufficiale 17 dicembre 1997, n. 293.
+ Il [decreto del Presidente della Repubblica 9 ottobre 1997, n. 431](../DPR/Regolamento%20sulla%20disciplina%20delle%20patenti%20nautiche.md) (Regolamento sulla disciplina delle patenti nautiche), e' pubblicato nella Gazzetta Ufficiale 17 dicembre 1997, n. 293.
  Il [decreto ministeriale 5 ottobre 1999, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1999-10-05;478) (Regolamento recante norme di sicurezza per la navigazione da diporto), e' pubblicato nella Gazzetta Ufficiale 17 dicembre 1999, n. 295.
  Il [decreto ministeriale 10 maggio 2005, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2005-05-10;121) (Regolamento recante l'istituzione e la disciplina dei titoli professionali del diporto), e' pubblicato nella Gazzetta Ufficiale 5 luglio 2005, n. 154.
  Nota all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;171#art_1):
@@ -100,7 +100,7 @@ Avvertenza:
 
 Ai fini del presente decreto si intende per:
                             a)
-                                "area SAR nazionale": zona marittima, individuata ai sensi del [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), dichiarata dalla Repubblica italiana come area marittima di propria competenza per le operazioni di ricerca e soccorso, ai sensi della Convenzione internazionale di Amburgo sulla ricerca e il salvataggio marittimo (1979) e della Convenzione delle Nazioni Unite sul diritto del mare (UNCLOS 1982);
+                                "area SAR nazionale": zona marittima, individuata ai sensi del [decreto del Presidente della Repubblica 28 settembre 1994, n. 662](../DPR/Regolamento%20di%20attuazione%20della%20legge%203%20aprile%201989%20n.%20147%20concernente%20adesione%20alla%20convenzione%20internazionale%20sulla%20ricerca%20ed%20il%20salvataggio%20marittimo%20adottata%20ad%20Amburgo%20il%2027%20aprile%201979.md), dichiarata dalla Repubblica italiana come area marittima di propria competenza per le operazioni di ricerca e soccorso, ai sensi della Convenzione internazionale di Amburgo sulla ricerca e il salvataggio marittimo (1979) e della Convenzione delle Nazioni Unite sul diritto del mare (UNCLOS 1982);
                             b)
                                 "ATCN": Archivio telematico centrale delle unita' da diporto;
                             c)
@@ -112,7 +112,7 @@ Ai fini del presente decreto si intende per:
                             f)
                                 "codice": il [codice della nautica da diporto](../Decreti%20Legislativi/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) di cui al [decreto legislativo 18 luglio 2005, n. 171](../Decreti%20Legislativi/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md);
                             g)
-                                "DCI": dichiarazione di costruzione o importazione di cui all'[articolo 1, comma 2, lettera c), del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md);
+                                "DCI": dichiarazione di costruzione o importazione di cui all'[articolo 1, comma 2, lettera c), del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md);
                             h)
                                 "STED": Sportello telematico del diportista;
                             i)
@@ -130,7 +130,7 @@ La dichiarazione di costruzione e' facoltativa per le imbarcazioni da diporto.
 
 2.
 
-Alle imbarcazioni da diporto iscritte nel registro delle navi in costruzione si applicano le disposizioni del libro II, titolo I, del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del libro II, titolo I, del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), parte navigazione marittima.
+Alle imbarcazioni da diporto iscritte nel registro delle navi in costruzione si applicano le disposizioni del libro II, titolo I, del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del libro II, titolo I, del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), parte navigazione marittima.
 
 3.
 
@@ -188,7 +188,7 @@ In caso di rientro in possesso o in disponibilita' dell'unita' da diporto, ai fi
 
 3.
 
-Effettuata l'annotazione di rientro in possesso o in disponibilita' ai sensi dell'[articolo 5, comma 2, del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), l'UCON comunica allo STED di riconsegnare all'interessato la licenza di navigazione e gli altri documenti di bordo, restituiti ai sensi del comma 1.
+Effettuata l'annotazione di rientro in possesso o in disponibilita' ai sensi dell'[articolo 5, comma 2, del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), l'UCON comunica allo STED di riconsegnare all'interessato la licenza di navigazione e gli altri documenti di bordo, restituiti ai sensi del comma 1.
 
 4.
 
@@ -305,7 +305,7 @@ Negli altri casi la trascrizione puo' essere eseguita su presentazione della ric
 
 1.
 
-Lo STED, effettuata le verifica di cui all'[articolo 5, comma 3, del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md) e verificati i requisiti formali dell'atto da trascrivere, inserisce nell'ATCN il contenuto della domanda di pubblicita'.
+Lo STED, effettuata le verifica di cui all'[articolo 5, comma 3, del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md) e verificati i requisiti formali dell'atto da trascrivere, inserisce nell'ATCN il contenuto della domanda di pubblicita'.
 Successivamente alla validazione dell'UCON, lo STED fa menzione dell'adempimento delle formalita' eseguite sulla copia della nota di trascrizione, che restituisce al richiedente. Gli estremi della nota di trascrizione sono annotati sulla licenza di navigazione.
 
 2.
@@ -992,10 +992,10 @@ Coloro che sono in possesso di un titolo professionale marittimo o del diporto o
 
 2.
 
-I soggetti di cui al comma 1 del presente articolo, nonche' coloro che sono iscritti nel registro di cui all'[articolo 90 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), muniti di libretto di navigazione in corso di validita' ovvero di licenza per pilota, possono conseguire senza esami le patenti nautiche, nei limiti e con le modalita' stabilite nell'allegato III.
+I soggetti di cui al comma 1 del presente articolo, nonche' coloro che sono iscritti nel registro di cui all'[articolo 90 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), muniti di libretto di navigazione in corso di validita' ovvero di licenza per pilota, possono conseguire senza esami le patenti nautiche, nei limiti e con le modalita' stabilite nell'allegato III.
 
-Note all'[art. 33](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
- - L'[art. 90 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+Note all'[art. 33](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - L'[art. 90 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  «Art. 90 (Licenze e registro dei piloti). - I piloti sono provvisti di una licenza rilasciata dal capo del compartimento e sono iscritti in uno speciale registro».
 
 ### Art. 34.
@@ -1200,7 +1200,7 @@ Per motivi di pubblica sicurezza, la patente nautica e' sospesa dall'autorita' c
 
 4.
 
-La patente nautica e' inoltre sospesa quando sia iniziato procedimento penale a carico dell'abilitato per i delitti di omicidio colposo ovvero lesioni gravi o gravissime colpose derivanti dalla violazione delle norme sul comando delle unita' da diporto e delle navi o per i delitti contro l'incolumita' pubblica previsti dal libro II, titolo VI, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o per i delitti previsti dalla parte terza del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+La patente nautica e' inoltre sospesa quando sia iniziato procedimento penale a carico dell'abilitato per i delitti di omicidio colposo ovvero lesioni gravi o gravissime colpose derivanti dalla violazione delle norme sul comando delle unita' da diporto e delle navi o per i delitti contro l'incolumita' pubblica previsti dal libro II, titolo VI, del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o per i delitti previsti dalla parte terza del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 5.
 
@@ -1640,7 +1640,7 @@ Le visite sono disposte dall'autorita' marittima o della navigazione interna, ne
 
 3.
 
-Lo STED, a seguito di convalida dell'UCON, rilascia il certificato di sicurezza sulla base della dichiarazione ai fini delle annotazioni di sicurezza rilasciata da un organismo tecnico autorizzato ai sensi del [decreto legislativo 14 giugno 2011, n. 104](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-15-CE%20relativa%20alle%20disposizioni%20ed%20alle%20norme%20comuni%20per%20gli%20organismi%20che%20effettuano%20le%20ispezioni%20e%20le%20visite%20di%20controllo%20delle%20navi%20e%20per%20le%20pertinenti_12744b461923.md), e sulla base dell'attestazione di eseguita visita alle dotazioni di sicurezza e ai mezzi di salvataggio rilasciata dall'autorita' marittima o della navigazione interna. Lo STED aggiorna l'ATCN con i dati del certificato di sicurezza e, in caso di rinnovo, rilascia il tagliando di aggiornamento della licenza di navigazione ai sensi dell'[articolo 5, comma 2, lettera g), del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), previa presentazione della DCI aggiornata.
+Lo STED, a seguito di convalida dell'UCON, rilascia il certificato di sicurezza sulla base della dichiarazione ai fini delle annotazioni di sicurezza rilasciata da un organismo tecnico autorizzato ai sensi del [decreto legislativo 14 giugno 2011, n. 104](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-15-CE%20relativa%20alle%20disposizioni%20ed%20alle%20norme%20comuni%20per%20gli%20organismi%20che%20effettuano%20le%20ispezioni%20e%20le%20visite%20di%20controllo%20delle%20navi%20e%20per%20le%20pertinenti_12744b461923.md), e sulla base dell'attestazione di eseguita visita alle dotazioni di sicurezza e ai mezzi di salvataggio rilasciata dall'autorita' marittima o della navigazione interna. Lo STED aggiorna l'ATCN con i dati del certificato di sicurezza e, in caso di rinnovo, rilascia il tagliando di aggiornamento della licenza di navigazione ai sensi dell'[articolo 5, comma 2, lettera g), del decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), previa presentazione della DCI aggiornata.
 
 4.
 
@@ -1893,7 +1893,7 @@ In sostituzione delle dotazioni di cui al comma 1, lettera f), del presente arti
 
 2-bis.
 
-Le navi da diporto che navigano entro l'area di ricerca e soccorso nazionale possono sostituire la dotazione di cui al comma 1, lettera s), con un telefono satellitare dotato di dispositivo di invio di messaggio di soccorso al Comando generale del Corpo delle Capitanerie di porto - Guardia costiera e conforme al [decreto legislativo 22 giugno 2016, n. 128](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202014-53-UE%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20messa%20a%20disposizione%20sul%20mercato%20di%20apparecchiature%20radio%20e%20che%20abrog_3afc89a713a3.md) o al [decreto del Presidente della Repubblica 20 dicembre 2017, n. 239](../Regolamenti%20governativi/Regolamento%20recante%20attuazione%20della%20direttiva%202014-90-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20luglio%202014%20sullequipaggiamento%20marittimo%20che%20abroga%20la%20direttiva%2096-98-CE.%2018G00039.md), rispondente comunque alla norma EN 60945.
+Le navi da diporto che navigano entro l'area di ricerca e soccorso nazionale possono sostituire la dotazione di cui al comma 1, lettera s), con un telefono satellitare dotato di dispositivo di invio di messaggio di soccorso al Comando generale del Corpo delle Capitanerie di porto - Guardia costiera e conforme al [decreto legislativo 22 giugno 2016, n. 128](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202014-53-UE%20concernente%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20messa%20a%20disposizione%20sul%20mercato%20di%20apparecchiature%20radio%20e%20che%20abrog_3afc89a713a3.md) o al [decreto del Presidente della Repubblica 20 dicembre 2017, n. 239](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%202014-90-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20luglio%202014%20sullequipaggiamento%20marittimo%20che%20abroga%20la%20direttiva%2096-98-CE.%2018G00039.md), rispondente comunque alla norma EN 60945.
 
 ))
 
@@ -2527,7 +2527,7 @@ Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i
 
 1.
 
-Il Ministero delle infrastrutture e dei trasporti e' titolare del trattamento dei dati personali contenuti negli atti e nei documenti amministrativi previsti dal presente regolamento e si avvale, per le finalita' e le operazioni eseguibili previste, del Sistema telematico centrale della nautica da diporto (SISTE) di cui al [decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), degli STED, del CED, delle Capitanerie di porto, degli uffici circondariali marittimi, degli UMC, delle Aziende sanitarie locali, dei medici accertatori e delle commissioni mediche locali di cui all'articolo 36, degli organismi tecnici di cui al [decreto legislativo 14 giugno 2011, n. 104](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-15-CE%20relativa%20alle%20disposizioni%20ed%20alle%20norme%20comuni%20per%20gli%20organismi%20che%20effettuano%20le%20ispezioni%20e%20le%20visite%20di%20controllo%20delle%20navi%20e%20per%20le%20pertinenti_12744b461923.md) e al [decreto legislativo 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) e delle associazioni dei costruttori, importatori e distributori di unita' da diporto maggiormente rappresentative sul piano nazionale di cui all'[articolo 3, comma 2, lettera b), del decreto del Presidente della Repubblica n. 152 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2018;152#art_3-com2-letb).
+Il Ministero delle infrastrutture e dei trasporti e' titolare del trattamento dei dati personali contenuti negli atti e nei documenti amministrativi previsti dal presente regolamento e si avvale, per le finalita' e le operazioni eseguibili previste, del Sistema telematico centrale della nautica da diporto (SISTE) di cui al [decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), degli STED, del CED, delle Capitanerie di porto, degli uffici circondariali marittimi, degli UMC, delle Aziende sanitarie locali, dei medici accertatori e delle commissioni mediche locali di cui all'articolo 36, degli organismi tecnici di cui al [decreto legislativo 14 giugno 2011, n. 104](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-15-CE%20relativa%20alle%20disposizioni%20ed%20alle%20norme%20comuni%20per%20gli%20organismi%20che%20effettuano%20le%20ispezioni%20e%20le%20visite%20di%20controllo%20delle%20navi%20e%20per%20le%20pertinenti_12744b461923.md) e al [decreto legislativo 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) e delle associazioni dei costruttori, importatori e distributori di unita' da diporto maggiormente rappresentative sul piano nazionale di cui all'[articolo 3, comma 2, lettera b), del decreto del Presidente della Repubblica n. 152 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2018;152#art_3-com2-letb).
 
 2.
 
@@ -2550,7 +2550,7 @@ L'infrastruttura di sicurezza a supporto del Sistema telematico centrale della n
 
 2.
 
-L'accesso alle funzioni e ai dati del Sistema telematico centrale della nautica da diporto (SISTE) e' consentito ai soggetti di cui al [decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), con le modalita' previste nel piano di sicurezza di cui al comma 1.
+L'accesso alle funzioni e ai dati del Sistema telematico centrale della nautica da diporto (SISTE) e' consentito ai soggetti di cui al [decreto del Presidente della Repubblica 14 dicembre 2018, n. 152](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20del%20sistema%20telematico%20centrale%20della%20nautica%20da%20diporto.%2019G00020.md), con le modalita' previste nel piano di sicurezza di cui al comma 1.
 
 3.
 
@@ -2601,7 +2601,7 @@ A decorrere dalla data di entrata in vigore del presente decreto sono abrogate l
  2) [decreto del Ministro della marina mercantile 19 novembre 1992, n. 566](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20lautorizzazione%20alla%20navigazione%20temporanea%20delle%20navi%20da%20diporto.md), pubblicato nella Gazzetta Ufficiale - serie generale - n. 38 del 16 febbraio 1993, recante regolamento sull'autorizzazione alla navigazione temporanea delle navi da diporto;
  3) [decreto del Ministro dei trasporti e della navigazione 21 gennaio 1994, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:1994-01-21;232), pubblicato nella Gazzetta Ufficiale - serie generale - n. 87 del 15 aprile 1994, recante regolamento di sicurezza per la navigazione da diporto;
  4) [decreto del Ministro dei trasporti e della navigazione 5 luglio 1994, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:1994-07-05;536), pubblicato nella Gazzetta Ufficiale - serie generale - n. 216 del 15 settembre 1994, recante regolamento sul comando e sulla condotta delle unita' da diporto da parte di coloro che sono in possesso di un titolo professionale marittimo;
- 5) [decreto del Presidente della Repubblica 9 ottobre 1997, n. 431](../Regolamenti%20governativi/Regolamento%20sulla%20disciplina%20delle%20patenti%20nautiche.md), recante il regolamento sulla disciplina delle patenti nautiche, pubblicato nella Gazzetta Ufficiale - serie generale - n. 293 del 17 dicembre 1997, ad eccezione dell'articolo 9, comma 5, degli articoli 15 e 16 e degli allegati D, E ed F, i quali sono abrogati a decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'articolo 29, comma 5, del presente regolamento;
+ 5) [decreto del Presidente della Repubblica 9 ottobre 1997, n. 431](../DPR/Regolamento%20sulla%20disciplina%20delle%20patenti%20nautiche.md), recante il regolamento sulla disciplina delle patenti nautiche, pubblicato nella Gazzetta Ufficiale - serie generale - n. 293 del 17 dicembre 1997, ad eccezione dell'articolo 9, comma 5, degli articoli 15 e 16 e degli allegati D, E ed F, i quali sono abrogati a decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'articolo 29, comma 5, del presente regolamento;
  6) [decreto del Ministro dei trasporti e della navigazione 5 ottobre 1999, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:1999-10-05;478), pubblicato nella Gazzetta Ufficiale - serie generale - n. 295 del 17 dicembre 1999, recante il regolamento di sicurezza per la navigazione da diporto.
 
 Note all'[art. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997;431#art_93):
@@ -2651,7 +2651,7 @@ Note all'[art. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.
  Prora e rotta: effetto del vento e della corrente sul moto della nave (deriva e scarroccio).
  Solcometri e scandagli.
  Portolano, elenco dei fari e segnali da nebbia.
- 7. a) Leggi e regolamenti che disciplinano la navigazione da diport. - [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per quanto attiene alla navigazione da diporto con particolare riferimento a:
+ 7. a) Leggi e regolamenti che disciplinano la navigazione da diport. - [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per quanto attiene alla navigazione da diporto con particolare riferimento a:
  obblighi, poteri e doveri del comandante;
  attribuzioni dell'Autorita' marittima e della navigazione interna;
  ordinanze delle autorita' marittime locali;
@@ -2699,7 +2699,7 @@ Note all'[art. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.
  p) carte nautiche, varie rappresentazioni e impiego - Pubblicazioni nautiche;
  r) comunicazioni radiotelefoniche e relative procedure.
  7. La prova teorica deve essere completata da una prova di carteggio e di calcolo sulla navigazione costiera.
- 8. a) Leggi e regolamenti che disciplinano la navigazione da diport. - [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per quanto attinente alla navigazione da diporto con particolare riferimento a:
+ 8. a) Leggi e regolamenti che disciplinano la navigazione da diport. - [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per quanto attinente alla navigazione da diporto con particolare riferimento a:
  1) il comandante della nave: doveri e responsabilita';
  2) attribuzioni dell'autorita' marittima e della navigazione interna - potere di ordinanza;
  3) documenti da tenere a bordo delle unita' da diporto;
@@ -2731,7 +2731,7 @@ Note all'[art. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.
  2. Analisi e interpretazione delle carte meteorologiche - Previsioni meteo locali.
  4° Gruppo:
  1. Regolamento per evitare gli abbordi in mare. Norme di circolazione sulle acque interne. Precauzioni da adottare sugli specchi acquei ove si svolgono altre attivita' nautiche: nuoto, pesca subacquea, sci nautico, ecc.
- 2. Leggi e regolamenti che disciplinano la navigazione da diporto. [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per quanto attiene alla navigazione da diporto con particolare riferimento a:
+ 2. Leggi e regolamenti che disciplinano la navigazione da diporto. [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) per quanto attiene alla navigazione da diporto con particolare riferimento a:
  a) poteri, doveri e responsabilita' del comandante prima della partenza della nave, durante la navigazione e all'arrivo in porto;
  b) attribuzioni dell'autorita' marittima e consolare;
  c) documenti da tenere a bordo delle navi da diport. - Cenni sulla locazione e noleggio delle navi da diporto;

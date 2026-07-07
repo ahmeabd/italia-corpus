@@ -20,7 +20,7 @@ IL MINISTRO DELLA SALUTE
 
 Visto l'[articolo 71 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), che stabilisce la competenza del Ministro dei trasporti ad emanare decreti, di concerto con il Ministro dell'ambiente e con il Ministro della sanita', in materia di norme costruttive e funzionali dei veicoli a motore e dei loro rimorchi;
 
-Visto l'[articolo 78 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e l'[articolo 236 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), concernente le modifiche alle caratteristiche costruttive dei veicoli in circolazione e l'aggiornamento della carta di circolazione;
+Visto l'[articolo 78 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e l'[articolo 236 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), concernente le modifiche alle caratteristiche costruttive dei veicoli in circolazione e l'aggiornamento della carta di circolazione;
 
 Visto il decreto del Ministro delle infrastrutture e dei trasporti 26 maggio 2004, di recepimento della [direttiva 2003/76/CE della Commissione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;76), che modifica da ultimo la [direttiva 70/220/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1970;220), relativa alle misure da adottare contro l'inquinamento atmosferico dei veicoli a motore;
 

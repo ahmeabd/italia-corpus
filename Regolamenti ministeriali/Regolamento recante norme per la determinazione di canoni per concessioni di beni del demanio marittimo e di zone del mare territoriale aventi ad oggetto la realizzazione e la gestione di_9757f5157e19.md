@@ -34,7 +34,7 @@ Il canone per metro quadrato e per anno per l'uso di zone del demanio marittimo 
 
 2.
 
-Il canone per metro quadrato e per anno per la concessione di impianti, manufatti ed opere costituenti pertinenze demaniali marittime come definite dall'[articolo 29 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' determinato in lire tremila.
+Il canone per metro quadrato e per anno per la concessione di impianti, manufatti ed opere costituenti pertinenze demaniali marittime come definite dall'[articolo 29 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e' determinato in lire tremila.
 
 3.
 
@@ -52,7 +52,7 @@ Avvertenza:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
  4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di ''regolamento'', sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
  Nota all'art. 1:
- - Il testo vigente dell'[art. 29 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ - Il testo vigente dell'[art. 29 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 29 (Pertinenze del demanio marittimo). - Le costruzioni e le altre opere appartenenti allo Stato, che esistono entro i limiti del demanio marittimo e del mare territoriale, sono considerate come pertinenze del demanio stesso".
 
 ## Art. 2. — Decorrenza dei pagamenti
@@ -77,7 +77,7 @@ Per il periodo di costruzione degli impianti, manufatti ed opere stabilito nell'
 
 3.
 
-Analoga riduzione fino al cinquanta per cento e' accordata nei casi previsti dagli [articoli 40](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [45, comma 1, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Analoga riduzione fino al cinquanta per cento e' accordata nei casi previsti dagli [articoli 40](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [45, comma 1, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 4.
 
@@ -88,9 +88,9 @@ Qualora l'utilizzazione dei beni demaniali marittimi o del mare territoriale ogg
 Le riduzioni previste nei commi 1, 3 e 4 sono determinate con decreto del direttore generale della direzione generale del demanio marittimo e dei porti del Ministero dei trasporti e della navigazione, sulla base dei risultati dell'istruttoria condotta dalla capitaneria di porto, sentiti gli uffici periferici del Ministero delle finanze e del Ministero dei lavori pubblici, per il numero di anni e per le percentuali stabilite in relazione all'entita' dell'investimento.
 
 Note all'art. 3:
- - Il testo vigente dell'[art. 40 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ - Il testo vigente dell'[art. 40 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 40 (Riduzione del canone). - Qualora l'utilizzazione di beni del demanio marittimo da parte del concessionario venga ad essere ristretta per effetto di preesistenti diritti di terzi, al concessionario non e' dovuto alcun indennizzo, ma si fa luogo ad un'adeguata riduzione del canone, salva la facolta' prevista dal primo comma dell'art. 44".
- - Il testo vigente dell'[art. 45 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ - Il testo vigente dell'[art. 45 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 45 (Modifica o estinzione per cause naturali). - Quando, per cause naturali, i beni del demanio marittimo concessi subiscono modificazioni tali da restringere l'utilizzazione della concessione, il concessionario ha diritto ad un'adeguata riduzione del canone.
  Qualora le cause predette cagionino modificazioni tali nella consistenza dei beni da rendere impossibile l'ulteriore utilizzazione della concessione, questa si estingue".
 
@@ -108,10 +108,10 @@ Le aree non demaniali marittime e gli impianti, i manufatti e le opere sulle ste
 
 2.
 
-La previsione del comma 1 non si applica ai canali di comunicazione con il mare, agli specchi acquei portuali realizzati in base alla concessione ne' alle relative sponde, per l'ampiezza di banchina ritenuta dall'autorita' concedente tale da assicurare la funzione portuale delle strutture e comunque non inferiore a metri sei dal ciglio. Le opere di cui al presente comma assumono immediatamente la qualificazione demaniale marittima ai sensi dell'[articolo 28 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e ad esse, in deroga a quanto disposto dall'articolo 1, comma 2, si applica il canone indicato nell'articolo 1, comma 1, per le opere di difficile rimozione, fino alla scadenza del titolo concessorio.
+La previsione del comma 1 non si applica ai canali di comunicazione con il mare, agli specchi acquei portuali realizzati in base alla concessione ne' alle relative sponde, per l'ampiezza di banchina ritenuta dall'autorita' concedente tale da assicurare la funzione portuale delle strutture e comunque non inferiore a metri sei dal ciglio. Le opere di cui al presente comma assumono immediatamente la qualificazione demaniale marittima ai sensi dell'[articolo 28 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e ad esse, in deroga a quanto disposto dall'articolo 1, comma 2, si applica il canone indicato nell'articolo 1, comma 1, per le opere di difficile rimozione, fino alla scadenza del titolo concessorio.
 
 Nota all'art. 5:
- - Il testo vigente dell'[art. 28 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
+ - Il testo vigente dell'[art. 28 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' il seguente:
  "Art. 28 (Beni del demanio marittimo). - Fanno parte del demanio marittimo:
  a) il lido, la spiaggia, i porti e le rade;
  b) le lagune, le foci dei fiumi che sboccano al mare, i bacini di acqua salsa o salmastra che almeno durante una parte dell'anno comunicano liberamente col mare;

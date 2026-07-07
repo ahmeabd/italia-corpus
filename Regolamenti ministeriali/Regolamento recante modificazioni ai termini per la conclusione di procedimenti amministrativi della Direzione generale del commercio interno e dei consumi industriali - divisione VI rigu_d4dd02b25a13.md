@@ -14,11 +14,11 @@ DEL COMMERCIO E DELL'ARTIGIANATO
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi;
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 361](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20autorizzazione%20allesercizio%20dellattivita%20fiduciaria%20e%20di%20revisione.md), recante semplificazione del procedimento di autorizzazione all'esercizio dell'attivita' fiduciaria e di revisione;
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 361](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20autorizzazione%20allesercizio%20dellattivita%20fiduciaria%20e%20di%20revisione.md), recante semplificazione del procedimento di autorizzazione all'esercizio dell'attivita' fiduciaria e di revisione;
 
 Visto il [decreto ministeriale 26 marzo 1993, n. 329](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1993-03-26;329), relativo alla determinazione dei termini entro i quali debbono essere adottati i provvedimenti di competenza dell'Amministrazione dell'industria, del commercio e dell'artigianato, pubblicato nel supplemento ordinario n. 81 alla Gazzetta Ufficiale della Repubblica italiana n. 202 del 28 agosto 1993;
 
-Ritenuto di conformarsi alle disposizioni di cui agli articoli 2 e 3 del precedente [decreto del Presidente della Repubblica 18 aprile 1994, n. 361](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20autorizzazione%20allesercizio%20dellattivita%20fiduciaria%20e%20di%20revisione.md), che hanno introdotto contrazioni dei termini per la conclusione di alcuni procedimenti amministrativi;
+Ritenuto di conformarsi alle disposizioni di cui agli articoli 2 e 3 del precedente [decreto del Presidente della Repubblica 18 aprile 1994, n. 361](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20autorizzazione%20allesercizio%20dellattivita%20fiduciaria%20e%20di%20revisione.md), che hanno introdotto contrazioni dei termini per la conclusione di alcuni procedimenti amministrativi;
 
 Visto l'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 

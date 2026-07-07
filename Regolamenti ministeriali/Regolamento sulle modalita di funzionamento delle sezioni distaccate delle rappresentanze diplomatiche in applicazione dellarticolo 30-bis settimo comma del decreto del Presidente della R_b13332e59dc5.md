@@ -24,11 +24,11 @@ Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/R
 
 Visto il [decreto legislativo 24 marzo 2000, n. 85](../Decreti%20Legislativi/Riordino%20della%20carriera%20diplomatica%20a%20norma%20dellarticolo%201%20della%20legge%2028%20luglio%201999%20n.%20266.md), sul riordino della carriera diplomatica;
 
-Visto il [decreto del Presidente della Repubblica 22 marzo 2000, n. 120](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20per%20lerogazione%20e%20la%20rendicontazione%20della%20spesa%20da%20parte%20dei%20funzionari%20delegati%20operanti%20presso%20le%20rappresentanze%20alles_30f7b43b77c0.md), concernente il regolamento recante norme per la semplificazione del procedimento per l'erogazione e la rendicontazione della spesa da parte dei funzionari delegati operanti presso le rappresentanze all'estero;
+Visto il [decreto del Presidente della Repubblica 22 marzo 2000, n. 120](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20del%20procedimento%20per%20lerogazione%20e%20la%20rendicontazione%20della%20spesa%20da%20parte%20dei%20funzionari%20delegati%20operanti%20presso%20le%20rappresentanze%20alles_30f7b43b77c0.md), concernente il regolamento recante norme per la semplificazione del procedimento per l'erogazione e la rendicontazione della spesa da parte dei funzionari delegati operanti presso le rappresentanze all'estero;
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 20 agosto 2001, n. 384](../Regolamenti%20governativi/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20spese%20in%20economia.md), recante il regolamento di semplificazione dei procedimenti di spese in economia;
+Visto il [decreto del Presidente della Repubblica 20 agosto 2001, n. 384](../DPR/Regolamento%20di%20semplificazione%20dei%20procedimenti%20di%20spese%20in%20economia.md), recante il regolamento di semplificazione dei procedimenti di spese in economia;
 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 14 giugno 2004;
 

@@ -20,13 +20,13 @@ Vista la [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%2
 
 Vista la [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), concernente la disciplina del sistema radiotelevisivo pubblico e privato;
 
-Visto il regolamento di attuazione della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), approvato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md);
+Visto il regolamento di attuazione della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), approvato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../DPR/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md);
 
 Visto il decreto 28 agosto 1995, n. 548, concernente l'eliminazione dei disturbi radioelettrici per ricevitori di radiodiffusione sonora e televisiva;
 
 Vista la [direttiva 95/47 CE del 24 ottobre 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;47) concernente (( l'impiego )) di norme per l'emissione di segnali televisivi, pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. 4281/51 del 23 novembre 1995;
 
-Visto il regolamento delle radiocomunicazioni, annesso alla convenzione internazionale delle telecomunicazioni adottata a Ginevra il 22 dicembre 1992 e ratificata con [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md);
+Visto il regolamento delle radiocomunicazioni, annesso alla convenzione internazionale delle telecomunicazioni adottata a Ginevra il 22 dicembre 1992 e ratificata con [legge 31 gennaio 1996, n. 61](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md);
 
 Visto il [decreto legislativo 12 novembre 1996, n. 615](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md), riguardante (( l'attuazione)) della [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336),in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica;
 

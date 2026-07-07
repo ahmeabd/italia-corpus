@@ -20,13 +20,13 @@ Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di 
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
+Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
 
 Vista la [legge 3 marzo 1987, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente;
 
 Considerata la necessita' di uniformare il trasporto ferroviario nazionale di rifiuti speciali, tossici e nocivi al trasporto ferroviario internazionale degli stessi;
 
-Vista la [legge 18 dicembre 1984, n. 976](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20relativa%20ai%20trasporti%20ferroviari%20internazionali%20COTIF%20adottata%20a%20Berna%20il%209%20maggio%201980%20con%20i%20seguenti%20atti%20connessi%20protocollo%20sui%20privilegi%20e%20le_efa727a4e612.md), che ratifica la convenzione relativa ai trasporti internazionali ferroviari (COTIF), ed in particolare l'allegato I "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" all'appendice B "Regole uniformi concernenti il contratto internazionale ferroviario delle merci (RU/CIM)";
+Vista la [legge 18 dicembre 1984, n. 976](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20relativa%20ai%20trasporti%20ferroviari%20internazionali%20COTIF%20adottata%20a%20Berna%20il%209%20maggio%201980%20con%20i%20seguenti%20atti%20connessi%20protocollo%20sui%20privilegi%20e%20le_efa727a4e612.md), che ratifica la convenzione relativa ai trasporti internazionali ferroviari (COTIF), ed in particolare l'allegato I "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" all'appendice B "Regole uniformi concernenti il contratto internazionale ferroviario delle merci (RU/CIM)";
 
 Sentito il comitato tecnico-scientifico di cui all'[art. 15 della legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md);
 
@@ -50,7 +50,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../Regolamenti%20governativi/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md).
+Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../DPR/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md).
 
 (( 2. L'attivita' di trasporto di cui al comma precedente deve ritenersi comprensiva delle c omplementari attivita' di carrellamento dei carri ferroviari per mezzo di carrelli stradali provvisti di tutte le autorizzazioni prescritte per la circolazione stradale delle merci pericolose di cui all'art. 168 del decreto legislativo 30 aprile 1992. n. 285, e successive modifiche, concernente il Nuovo [codice della strada, ed all'art. 368, comma 2](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), del relativo regolamento di attuazione e di esecuzione ))
 
@@ -58,7 +58,7 @@ Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il 
 
 1.
 
-Il trasporto per ferrovia dei rifiuti previsti dall'art. 1 deve avvenire in conformita' con le disposizioni vigenti che regolano il trasporto ferroviario nazionale ed internazionale, ed in particolare con le disposizioni di cui al "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" - allegato I all'appendice B ("Regole uniformi concernenti il contratto di trasporto internazionale per ferrovia delle merci (RU/CIM)") alla convenzione di Berna relativa ai trasporti internazionali ferroviari (COTIF) approvata e resa esecutiva con la [legge 18 dicembre 1984, n. 976](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20relativa%20ai%20trasporti%20ferroviari%20internazionali%20COTIF%20adottata%20a%20Berna%20il%209%20maggio%201980%20con%20i%20seguenti%20atti%20connessi%20protocollo%20sui%20privilegi%20e%20le_efa727a4e612.md), nonche' alle modifiche allo stesso regolamento apportate secondo il combinato disposto degli articoli 8 par. 2 e 19 par. 4 della COTIF.
+Il trasporto per ferrovia dei rifiuti previsti dall'art. 1 deve avvenire in conformita' con le disposizioni vigenti che regolano il trasporto ferroviario nazionale ed internazionale, ed in particolare con le disposizioni di cui al "Regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID)" - allegato I all'appendice B ("Regole uniformi concernenti il contratto di trasporto internazionale per ferrovia delle merci (RU/CIM)") alla convenzione di Berna relativa ai trasporti internazionali ferroviari (COTIF) approvata e resa esecutiva con la [legge 18 dicembre 1984, n. 976](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20relativa%20ai%20trasporti%20ferroviari%20internazionali%20COTIF%20adottata%20a%20Berna%20il%209%20maggio%201980%20con%20i%20seguenti%20atti%20connessi%20protocollo%20sui%20privilegi%20e%20le_efa727a4e612.md), nonche' alle modifiche allo stesso regolamento apportate secondo il combinato disposto degli articoli 8 par. 2 e 19 par. 4 della COTIF.
 
 2.
 

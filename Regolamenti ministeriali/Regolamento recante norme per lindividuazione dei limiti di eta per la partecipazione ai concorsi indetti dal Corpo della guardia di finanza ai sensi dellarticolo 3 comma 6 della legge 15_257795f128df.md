@@ -18,7 +18,7 @@ Vista la [legge 6 febbraio 1974, n. 45](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 25 maggio 1989, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-25;190), e successive modificazioni ed integrazioni, recante: "Disposizioni sulla revisione dei ruoli degli ufficiali, sull'incremento degli organici e sull'impiego della Guardia di finanza nonche' sulla durata in carica del comandante in seconda del Corpo e sulla vigilanza ed il controllo in tema di distribuzione e vendita di generi di monopolio" che contiene, tra l'altro, nuove norme sul reclutamento degli allievi ufficiali della Guardia di finanza;
 
-Visto il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1006](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20sul%20reclutamento%20degli%20ufficiali%20della%20Guardia%20di%20finanza.md), e successive modificazioni ed integrazioni, riguardante il regolamento sul reclutamento degli ufficiali della Guardia di finanza;
+Visto il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1006](../DPR/Approvazione%20del%20regolamento%20sul%20reclutamento%20degli%20ufficiali%20della%20Guardia%20di%20finanza.md), e successive modificazioni ed integrazioni, riguardante il regolamento sul reclutamento degli ufficiali della Guardia di finanza;
 
 Visto il [decreto legislativo 27 febbraio 1991, n. 79](../Decreti%20Legislativi/Riordinamento%20della%20banda%20musicale%20della%20Guardia%20di%20finanza.md), concernente: il "Riordinamento della banda musicale della Guardia di finanza";
 

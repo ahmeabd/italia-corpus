@@ -34,7 +34,7 @@ Visto il [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it
 
 Visto il decreto ministeriale 4 maggio 1993 per l'attuazione della [direttiva 87/372/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;372) relativa alla designazione per il servizio radiomobile cellulare digitale "GSM" delle bande di frequenza 905-914 e 950-959 MHz, pubblicato nella Gazzetta Ufficiale n. 137 del 14 giugno 1993;
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../Regolamenti%20governativi/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), riguardante il regolamento recante la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
+Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), riguardante il regolamento recante la riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
 Visto il [decreto ministeriale 9 gennaio 1996, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-01-09;125), che approva il regolamento concernente modificazioni al codice di identificazione delle apparecchiature terminali senza cordone;
 

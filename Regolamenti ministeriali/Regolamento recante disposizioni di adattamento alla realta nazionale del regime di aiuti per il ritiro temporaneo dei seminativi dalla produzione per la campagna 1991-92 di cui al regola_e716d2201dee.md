@@ -24,7 +24,7 @@ Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-r
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), che ha predisposto nuove misure per la prevenzione della delinquenza di tipo mafioso ed ha introdotto la fattispecie di reato di cui all'[art. 640- bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+Vista la [legge 19 marzo 1990, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-19;55), che ha predisposto nuove misure per la prevenzione della delinquenza di tipo mafioso ed ha introdotto la fattispecie di reato di cui all'[art. 640- bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), che ha stabilito nuove norme in materia di procedimento amministrativo;
 
@@ -67,7 +67,7 @@ AVVERTENZA:
  - Il [D.L. n. 701/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986;701) reca: "Misure urgenti in materia di controlli degli aiuti comunitari alla produzione dell'olio di oliva".
  - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento" siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
- - Si riporta il testo dell'[art. 640- bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), introdotto dall'[art. 22 della legge n. 55/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;55#art_22):
+ - Si riporta il testo dell'[art. 640- bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), introdotto dall'[art. 22 della legge n. 55/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;55#art_22):
  "Art. 640-bis (Truffa aggravata per il conseguimento di erogazioni pubbliche). - La pena e' della reclusione da uno a sei anni e si procede d'ufficio se il fatto di cui all'art. 640 riguarda contributi, finanziamenti, mutui agevolati ovvero altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati da parte dello Stato, di altri enti pubblici o delle Comunita' europee".
 
 ## Art. 2. — Beneficiari

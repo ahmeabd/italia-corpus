@@ -20,7 +20,7 @@ Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 Visto l'[articolo 3, comma 2 della legge 14 dicembre 2000, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-14;376#art_3-com2);
 
-Vista la [legge 29 novembre 1995, n. 522](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20contro%20il%20doping%20con%20appendice%20fatta%20a%20Strasburgo%20il%2016%20novembre%201989.md) di ratifica della Convenzione di Strasburgo del 16 novembre 1989 recante disposizioni relative al doping;
+Vista la [legge 29 novembre 1995, n. 522](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20contro%20il%20doping%20con%20appendice%20fatta%20a%20Strasburgo%20il%2016%20novembre%201989.md) di ratifica della Convenzione di Strasburgo del 16 novembre 1989 recante disposizioni relative al doping;
 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 31 luglio 2001, n. 128/2001;
 
@@ -71,7 +71,7 @@ Avvertenza:
  4. I componenti della Commissione di cui alle lettere f), g) e p) del comma 3 sono indicati dal Ministro per i beni e le attivita' culturali; i componenti di cui alle lettere h) e n) del comma 3 sono indicati dalla Federazione nazionale degli ordini dei chimici; i componenti di cui alle lettere i), l) ed m) del comma 3 sono indicati dalla Federazione nazionale degli ordini dei medici chirurghi e degli odontoiatri; i componenti di cui alle lettere o) e q) del comma 3 sono indicati dalla Federazione nazionale degli ordini dei farmacisti.
  5. I componenti della Commissione sono nominati con decreto del Ministro della sanita', di concerto con il Ministro per i beni e le attivita' culturali, e restano in carica per un periodo di quattro anni non rinnovabile.
  6. Il compenso dei componenti e le spese per il funzionamento e per l'attivita' della Commissione sono determinati, con il regolamento di cui al comma 2, entro il limite massimo di lire 2 miliardi annue.".
- - La [legge 29 novembre 1995, n. 522](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20contro%20il%20doping%20con%20appendice%20fatta%20a%20Strasburgo%20il%2016%20novembre%201989.md), reca: "Ratifica ed esecuzione della convenzione contro il doping, con appendice, fatta a Strasburgo il 16 novembre 1989".
+ - La [legge 29 novembre 1995, n. 522](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20contro%20il%20doping%20con%20appendice%20fatta%20a%20Strasburgo%20il%2016%20novembre%201989.md), reca: "Ratifica ed esecuzione della convenzione contro il doping, con appendice, fatta a Strasburgo il 16 novembre 1989".
  Nota all'art. 1:
  - Per il testo dell'[art. 3, comma 1 della legge 14 dicembre 2000, n. 376](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-14;376#art_3-com1), si veda nelle note alle premesse.
 

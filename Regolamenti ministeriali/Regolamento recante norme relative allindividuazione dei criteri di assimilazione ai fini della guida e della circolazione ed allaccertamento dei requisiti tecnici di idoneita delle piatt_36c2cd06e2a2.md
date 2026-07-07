@@ -14,7 +14,7 @@ E DEI TRASPORTI
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), recante «Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)», e successive modificazioni, ed in particolare gli articoli 10, 47, comma 1, lettera n), 59, 75, commi 1, 2 e 3, 93,100 e 116;
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [Codice della Strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)» e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [Codice della Strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)» e successive modificazioni;
 
 Visto il [decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:2001-05-02;277), e successive modificazioni, con cui e' stato adottato il regolamento recante «Disposizioni concernenti le procedure di omologazione dei veicoli a motore, dei rimorchi, delle macchine agricole, delle macchine operatrici e dei loro sistemi, componenti ed entita' tecniche»;
 
@@ -47,7 +47,7 @@ Le piattaforme semoventi, ai sensi degli [articoli 10](../Decreti%20Legislativi/
 
 2.
 
-Le piattaforme semoventi, in relazione a particolari necessita' di trasporto e movimentazione di manufatti di elevate dimensioni, possono essere abbinate ad altre piattaforme semoventi sia lateralmente che longitudinalmente, secondo le prescrizioni dettate dalla Direzione generale per la motorizzazione, come previsto in Appendice I, [articolo 9, del decreto del Presidente della Repubblica del 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+Le piattaforme semoventi, in relazione a particolari necessita' di trasporto e movimentazione di manufatti di elevate dimensioni, possono essere abbinate ad altre piattaforme semoventi sia lateralmente che longitudinalmente, secondo le prescrizioni dettate dalla Direzione generale per la motorizzazione, come previsto in Appendice I, [articolo 9, del decreto del Presidente della Repubblica del 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
 
 ## Art. 2. — Campo di applicazione
 

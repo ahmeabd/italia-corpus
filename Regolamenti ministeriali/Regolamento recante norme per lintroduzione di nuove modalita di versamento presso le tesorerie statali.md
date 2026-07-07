@@ -20,7 +20,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 5 della legge 28 marzo 1991, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;104#art_5);
 
-Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md);
+Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md);
 
 Ravvisata l'opportunita' di introdurre nuove modalita' per effettuare i versamenti a favore della pubblica amministrazione;
 
@@ -80,7 +80,7 @@ Avvertenza:
  «Art. 5. - 1. Con decreti del Ministro del tesoro, da emanare ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sentita la Banca d'Italia, possono essere adottate, limitatamente alla gestione del servizio di tesoreria, norme intese a semplificare le procedure relative agli incassi e ai pagamenti per conto dello Stato, nonche' alla rendicontazione da parte delle sezioni di tesoreria, anche mediante l'impiego di strumenti informatici.
  2. Con gli stessi decreti di cui al comma 1 potranno essere indicati i casi di esclusione dell'emissione di titoli di spesa e di entrata di importo non superiore a L. 20.000.
  3. E' abrogato l'[art. 2 della legge 16 aprile 1984, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-16;78#art_2)».
- - Il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md) reca: «Regolamento recante semplificazione delle procedure di spesa e contabili».
+ - Il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md) reca: «Regolamento recante semplificazione delle procedure di spesa e contabili».
  Nota all'art. 1:
  - Si riporta il testo degli articoli 230 e 621 del citato [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827):
  «Art. 230. - I versamenti di somme nelle tesorerie devono essere fatti in denaro effettivo.

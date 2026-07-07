@@ -154,7 +154,7 @@ Il RUO individua gli incaricati delle funzioni tecniche di cui all'articolo ((45
 
 3.
 
-Non possono essere conferiti incarichi a coloro che, in relazione allo svolgimento di funzioni tecniche, sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne' ai soggetti che, nei due anni antecedenti, siano stati interessati da provvedimenti disciplinari, ad esclusione del rimprovero verbale o scritto, ovvero al personale interessato da misure cautelari di sospensione dal servizio. Il RUO accerta preliminarmente la sussistenza delle predette condizioni ostative.
+Non possono essere conferiti incarichi a coloro che, in relazione allo svolgimento di funzioni tecniche, sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), ne' ai soggetti che, nei due anni antecedenti, siano stati interessati da provvedimenti disciplinari, ad esclusione del rimprovero verbale o scritto, ovvero al personale interessato da misure cautelari di sospensione dal servizio. Il RUO accerta preliminarmente la sussistenza delle predette condizioni ostative.
 
 4.
 

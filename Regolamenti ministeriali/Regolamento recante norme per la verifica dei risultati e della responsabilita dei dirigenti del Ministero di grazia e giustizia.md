@@ -171,7 +171,7 @@ Nota all'art. 3:
 
 1.
 
-La Commissione puo' avvalersi, per la definizione dei parametri di riferimento del controllo e della valutazione dei dirigenti, oltre che delle convenzioni stipulate dal Presidente del Consiglio dei Ministri a norma dell'[articolo 20, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), di consulenti esterni nominati con decreto del Ministro di grazia e giustizia, ai sensi del [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), tra gli esperti in tecniche di valutazione e nel controllo di gestione.
+La Commissione puo' avvalersi, per la definizione dei parametri di riferimento del controllo e della valutazione dei dirigenti, oltre che delle convenzioni stipulate dal Presidente del Consiglio dei Ministri a norma dell'[articolo 20, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), di consulenti esterni nominati con decreto del Ministro di grazia e giustizia, ai sensi del [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), tra gli esperti in tecniche di valutazione e nel controllo di gestione.
 
 2.
 
@@ -179,7 +179,7 @@ La Commissione valuta in piena autonomia l'operato e le proposte degli esperti.
 
 Note all'art. 4:
  - Per il testo del [comma 4 dell'art. 20 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), si veda in note alle premesse.
- - Il [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), reca: "Regolamento recante semplificazione del procedimento di conferimento di incarichi individuali ad esperti da parte dei Ministri".
+ - Il [decreto del Presidente della Repubblica 18 aprile 1994, n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md), reca: "Regolamento recante semplificazione del procedimento di conferimento di incarichi individuali ad esperti da parte dei Ministri".
 
 ## Art. 5. — Compiti e poteri della Commissione
  per la valutazione dei dirigenti

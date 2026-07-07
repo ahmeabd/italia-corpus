@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto il [decreto del Ministro della giustizia 12 dicembre 2006, n. 306](Regolamento%20recante%20Disciplina%20del%20trattamento%20dei%20dati%20sensibili%20e%20giudiziari%20da%20parte%20del%20Ministero%20della%20giustizia%20adottato%20ai%20sensi%20degli%20articoli%2020%20e%2021%20del%20decreto%20legislativo%2030%20g_4eaa3f656928.md), recante la Disciplina del trattamento dei dati sensibili e giudiziari da parte del Ministero della giustizia, adottato ai sensi degli articoli 20 e 21 del Codice;
 
-Visto il [decreto del Presidente della Repubblica 6 marzo 2001, n. 55](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20giustizia.md), recante «Regolamento di organizzazione del Ministero della giustizia»;
+Visto il [decreto del Presidente della Repubblica 6 marzo 2001, n. 55](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20giustizia.md), recante «Regolamento di organizzazione del Ministero della giustizia»;
 
 Visto, in particolare, l'articolo 4, comma 1, lettera e), del Codice, il quale individua i dati giudiziari;
 

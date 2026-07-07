@@ -14,7 +14,7 @@ Visto l'[articolo 9, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 Visto il [regio decreto-legge 13 aprile 1939, n. 652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-04-13;652), convertito, con modificazioni, dalla [legge 11 agosto 1939, n. 1249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2013%20aprile%201939-XVII%20n.%20652%20riguardante%20laccertamento%20generale%20dei%20fabbricati%20urbani%20la%20rivalutazione%20del%20relativo%20reddito%20e%20la%20_3a84b22f51fb.md), che disciplina l'accertamento generale dei fabbricati urbani, rivalutazione del relativo reddito e formazione del nuovo catasto edilizio urbano;
 
-Visto il regolamento per la formazione del nuovo catasto edilizio urbano, approvato con [decreto del Presidente della Repubblica 1 dicembre 1949, n. 1142](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20la%20formazione%20del%20nuovo%20catasto%20edilizio%20urbano.md);
+Visto il regolamento per la formazione del nuovo catasto edilizio urbano, approvato con [decreto del Presidente della Repubblica 1 dicembre 1949, n. 1142](../DPR/Approvazione%20del%20Regolamento%20per%20la%20formazione%20del%20nuovo%20catasto%20edilizio%20urbano.md);
 
 Visto l'[articolo 3, comma 154, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), con il quale e' stata disposta la revisione generale delle zone censuarie, delle tariffe d'estimo, della qualificazione, classificazione e classamento delle unita' immobiliari e dei relativi criteri, nonche' delle commissioni censuarie;
 

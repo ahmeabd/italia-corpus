@@ -179,7 +179,7 @@ Nota all'art. 7:
 
 1.
 
-Le qualita' morali e di carattere, dimostrate, in particolare, nel grado rivestito, sono valutate in relazione a un modello ideale della figura dell'ufficiale, da delinearsi in base ai valori indicati dal [decreto del Presidente della Repubblica 18 luglio 1986, n. 545](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), tenendo conto della realta' sociale dello specifico periodo storico.
+Le qualita' morali e di carattere, dimostrate, in particolare, nel grado rivestito, sono valutate in relazione a un modello ideale della figura dell'ufficiale, da delinearsi in base ai valori indicati dal [decreto del Presidente della Repubblica 18 luglio 1986, n. 545](../DPR/Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), tenendo conto della realta' sociale dello specifico periodo storico.
 Sono altresi' considerate:
                         a)
                             le sanzioni disciplinari;
@@ -191,7 +191,7 @@ Sono altresi' considerate:
 Nella valutazione delle qualita' fisiche si tiene conto della fascia di eta' in cui rientra il valutando, correlata ai vari gradi e alla fisionomia del ruolo di appartenenza. Non muta nel tempo la rilevanza da attribuire al decoro della persona.
 
 Nota all'[art. 8:
- - Il decreto del Presidente della Repubblica 18 luglio 1986, n. 545](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), recante «Approvazione del regolamento di disciplina militare, ai sensi dell'[art. 5, primo comma, della legge 11 luglio 1978, n. 382](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20principio%20sulla%20disciplina%20militare.md)», e' pubblicato nella Gazzetta Ufficiale 15 settembre 1986, n. 214.
+ - Il decreto del Presidente della Repubblica 18 luglio 1986, n. 545](../DPR/Approvazione%20del%20regolamento%20di%20disciplina%20militare%20ai%20sensi%20dellart.%205%20primo%20comma%20della%20legge%2011%20luglio%201978%20n.%20382.md), recante «Approvazione del regolamento di disciplina militare, ai sensi dell'[art. 5, primo comma, della legge 11 luglio 1978, n. 382](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20principio%20sulla%20disciplina%20militare.md)», e' pubblicato nella Gazzetta Ufficiale 15 settembre 1986, n. 214.
 
 ## Art. 9. — Qualita' professionali
 

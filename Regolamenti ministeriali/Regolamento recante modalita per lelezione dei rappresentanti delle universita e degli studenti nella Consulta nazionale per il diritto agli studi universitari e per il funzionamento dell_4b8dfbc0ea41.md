@@ -278,7 +278,7 @@ Ciascun componente ha diritto di far registrare a verbale il proprio dissenso o 
 
 1.
 
-La Consulta si avvale di un ufficio di segreteria tecnico-organizzativa, costituito presso il Ministero dell'universita' e della ricerca scientifica e tecnologica con decreto del Ministro nell'ambito del servizio per il supporto agli organi collegiali di cui all'[art. 7 del decreto del Presidente della Repubblica 4 agosto 1990, n. 419](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md), del quale fa parte un impiegato con la qualifica non inferiore alla ottava con funzioni di capo della segreteria, che puo' assistere, ove necessario, alle sedute.
+La Consulta si avvale di un ufficio di segreteria tecnico-organizzativa, costituito presso il Ministero dell'universita' e della ricerca scientifica e tecnologica con decreto del Ministro nell'ambito del servizio per il supporto agli organi collegiali di cui all'[art. 7 del decreto del Presidente della Repubblica 4 agosto 1990, n. 419](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md), del quale fa parte un impiegato con la qualifica non inferiore alla ottava con funzioni di capo della segreteria, che puo' assistere, ove necessario, alle sedute.
 
 Nota all'art. 13:
  - L'art. 7 del regolamento per l'organizzazione del Ministero dell'universita' e della ricerca scientifica e tecnologica, adottato con [D.P.R. n. 419/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;419), e' cosi' formulato:

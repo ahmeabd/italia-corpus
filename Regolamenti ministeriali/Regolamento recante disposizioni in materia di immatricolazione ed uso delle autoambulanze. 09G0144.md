@@ -12,7 +12,7 @@ IL MINISTRO DELLE INFRASTRUTTURE E DEI TRASPORTI
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modifiche ed integrazioni, ed in specie gli articoli 54, 82, 84, 85, 91 e 93;
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modifiche ed integrazioni, ed in specie gli articoli 203 e 244;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modifiche ed integrazioni, ed in specie gli articoli 203 e 244;
 
 Vista la [legge 13 giugno 1991, n. 190](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20delle%20norme%20concernenti%20la%20disciplina%20della%20circolazione%20stradale.md), ed in particolare l'articolo 3, comma 2;
 
@@ -36,7 +36,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Il presente regolamento si applica alle autoambulanze, cosi' come classificate dall'[articolo 54, comma 1, lett. g), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e dall'[articolo 203, comma 2, lett. m), del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+Il presente regolamento si applica alle autoambulanze, cosi' come classificate dall'[articolo 54, comma 1, lett. g), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e dall'[articolo 203, comma 2, lett. m), del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -112,7 +112,7 @@ Avvertenza:
  11. I veicoli destinati esclusivamente all'impiego dei servizi di polizia stradale indicati nell'art. 11 vanno immatricolati dall'ufficio competente del Dipartimento per i trasporti terrestri, su richiesta del corpo, ufficio o comando che utilizza tali veicoli per i servizi di polizia stradale. A siffatto corpo, ufficio o comando viene rilasciata, dall'ufficio competente del Dipartimento per i trasporti terrestri che ha immatricolato il veicolo, la carta di circolazione; questa deve contenere, oltre i dati di cui al comma 4, l'indicazione che il veicolo e' destinato esclusivamente a servizio di polizia stradale.
  Nel regolamento sono stabilite le caratteristiche di tali veicoli.
  12. Al fine di realizzare la massima semplificazione procedurale e di assicurare soddisfacenti rapporti con il cittadino, in aderenza agli obiettivi di cui alla [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), gli adempimenti amministrativi previsti dal presente articolo e dall'art. 94 devono essere gestiti dagli uffici competenti del Dipartimento per i trasporti terrestri e del Pubblico registro automobilistico gestito dall'A.C.I. a mezzo di sistemi informatici compatibili. La determinazione delle modalita' di interscambio dei dati, riguardanti il veicolo e ad esso connessi, tra gli uffici suindicati e tra essi e il cittadino e' disciplinata dal regolamento.».
- - Si riporta il testo degli [articoli 203](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e [244, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) (Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)), pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, supplemento ordinario:
+ - Si riporta il testo degli [articoli 203](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e [244, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) (Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)), pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, supplemento ordinario:
  «[Art. 203](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) ([Art. 54 Codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)) - (Autoveicoli per trasporti specifici ed autoveicoli per uso speciale). - 1. Sono classificati, ai sensi dell'art. 54, comma 2, del codice, autoveicoli per trasporti specifici gli autoveicoli dotati di una delle seguenti carrozzerie permanentemente installate:
  a) furgone isotermico, o coibentato, con o senza gruppo refrigerante, riconosciuto idoneo per il trasporto di derrate in regime di temperatura controllata;
  b) carrozzeria idonea per il carico, la compattazione, il trasporto e lo scarico di rifiuti solidi urbani;
@@ -174,7 +174,7 @@ Avvertenza:
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».
  Nota all'[art. 1](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  - Per l'[art. 54, comma 1, lettera g), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
- - Per l'[art. 203, comma 2, lettera m), del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
+ - Per l'[art. 203, comma 2, lettera m), del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
 
 ## Art. 2. — Immatricolazione delle autoambulanze
 
@@ -196,7 +196,7 @@ Le autoambulanze immatricolate in uso di terzi per servizio di locazione senza c
 
 Nota all'[art. 2](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md):
  - Per gli [articoli 82](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [84](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [85](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [91](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [93, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), si veda nelle note alla premesse.
- - Per l'[art. 244, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), si veda nelle note alla premesse.
+ - Per l'[art. 244, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), si veda nelle note alla premesse.
 
 ## Art. 3. — Utilizzo delle autoambulanze
 

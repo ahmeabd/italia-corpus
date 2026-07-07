@@ -32,7 +32,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Il controllo tecnico dei veicoli da sottoporre a revisione deve essere effettuato sugli elementi indicati nell'[art. 238, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md): "Regolamento di esecuzione e di attuazione del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)".
+Il controllo tecnico dei veicoli da sottoporre a revisione deve essere effettuato sugli elementi indicati nell'[art. 238, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md): "Regolamento di esecuzione e di attuazione del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)".
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

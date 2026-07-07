@@ -34,7 +34,7 @@ Visto il [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/
 
 Visto il [decreto-legge 19 settembre 1986, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-09-19;556), convertito, con modificazioni, dalla [legge 17 novembre 1986, n. 759](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20settembre%201986%20n.%20556%20concernente%20modifiche%20al%20regime%20delle%20esenzioni%20dalle%20imposte%20sul%20reddito%20degli%20interessi%20e%20altri%20provent_c81df2d9576c.md);
 
-Visto il [decreto del Presidente della Repubblica 1 giugno 1989, n. 256](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20libro%20terzo%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20servizi%20di%20bancoposta.md), recante il regolamento di esecuzione del libro terzo del codice postale e delle telecomunicazioni;
+Visto il [decreto del Presidente della Repubblica 1 giugno 1989, n. 256](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20libro%20terzo%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20servizi%20di%20bancoposta.md), recante il regolamento di esecuzione del libro terzo del codice postale e delle telecomunicazioni;
 
 Vista la [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), concernente la trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente pubblico economico e riorganizzazione del Ministero;
 

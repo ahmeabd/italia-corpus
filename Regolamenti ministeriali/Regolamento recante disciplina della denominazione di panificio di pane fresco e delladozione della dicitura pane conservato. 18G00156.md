@@ -24,13 +24,13 @@ IL MINISTRO DELLA SALUTE
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto del Presidente della Repubblica 23 giugno 1993, n. 283](../Regolamenti%20governativi/Regolamento%20relativo%20alle%20denominazioni%20legali%20di%20alcuni%20prodotti%20da%20forno.md), relativo alle denominazioni legali di alcuni prodotti da forno;
+Visto il [decreto del Presidente della Repubblica 23 giugno 1993, n. 283](../DPR/Regolamento%20relativo%20alle%20denominazioni%20legali%20di%20alcuni%20prodotti%20da%20forno.md), relativo alle denominazioni legali di alcuni prodotti da forno;
 
 Vista la [legge 4 luglio 1967, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-07-04;580), recante disciplina per la lavorazione e commercio dei cereali, degli sfarinati, del pane e delle paste alimentari;
 
 Visto il decreto 13 aprile 1987 del Ministero dell'industria, del commercio e dell'artigianato recante norme sulla produzione di pane surgelato, pubblicato nella Gazzetta Ufficiale n. 101 del 4 maggio 1987;
 
-Visto il [decreto del Presidente della Repubblica 30 novembre 1998, n. 502](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20la%20revisione%20della%20normativa%20in%20materia%20di%20lavorazione%20e%20di%20commercio%20del%20pane%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md);
+Visto il [decreto del Presidente della Repubblica 30 novembre 1998, n. 502](../DPR/Regolamento%20recante%20norme%20per%20la%20revisione%20della%20normativa%20in%20materia%20di%20lavorazione%20e%20di%20commercio%20del%20pane%20a%20norma%20dellarticolo%2050%20della%20legge%2022%20febbraio%201994%20n.%20146.md);
 
 Visto il decreto 13 luglio 1998, n. 312, e successive modificazioni, recante norme per il trattamento con alcool etilico del pane speciale preconfezionato;
 

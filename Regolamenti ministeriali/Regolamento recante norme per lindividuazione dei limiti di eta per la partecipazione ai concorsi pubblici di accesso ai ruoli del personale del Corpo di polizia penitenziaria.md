@@ -20,7 +20,7 @@ Vista la [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il decreto 21 luglio 1998, n. 297, recante norme per l'espletamento dei concorsi per l'accesso alla qualifica iniziale del ruoli degli ispettori del Corpo di polizia penitenziaria;
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../Regolamenti%20governativi/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md), concernente il "Regolamento di servizio del Corpo di polizia penitenziaria";
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1999, n. 82](../DPR/Regolamento%20di%20servizio%20del%20Corpo%20di%20polizia%20penitenziaria.md), concernente il "Regolamento di servizio del Corpo di polizia penitenziaria";
 
 Considerato che ai sensi dell'articolo 3, comma 6, della citata [legge n. 127/1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;127), la partecipazione ai concorsi indetti da pubbliche amministrazioni non e' soggetta a limiti d'eta', salvo deroghe dettate dal regolamento delle singole amministrazioni connesse alla natura del servizio o ad oggettive necessita' dell'amministrazione;
 

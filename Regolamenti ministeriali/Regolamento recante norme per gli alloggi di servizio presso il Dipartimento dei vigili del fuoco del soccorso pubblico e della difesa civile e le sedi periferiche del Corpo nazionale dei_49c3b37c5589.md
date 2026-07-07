@@ -20,9 +20,9 @@ Visto l'[articolo 2 della legge 16 settembre 1960, n. 1014](https://www.normatti
 
 Visto l'[articolo 3, comma 1, del decreto-legge 18 maggio 1995, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-05-18;176#art_3-com1), convertito, con modificazioni, dalla [legge 14 luglio 1995, n. 284](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%201995%20n.%20176%20recante%20disposizioni%20urgenti%20per%20il%20funzionamento%20degli%20uffici%20periferici%20del%20Ministero%20dellinterno%20nelle%20pr_299934a57c12.md);
 
-Visto l'[articolo 6 del decreto del Presidente della Repubblica 7 settembre 2001, n. 398](../Regolamenti%20governativi/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md);
+Visto l'[articolo 6 del decreto del Presidente della Repubblica 7 settembre 2001, n. 398](../DPR/Regolamento%20recante%20lorganizzazione%20degli%20uffici%20centrali%20di%20livello%20dirigenziale%20generale%20del%20Ministero%20dellinterno.md);
 
-Visto il [decreto del Presidente della Repubblica 23 dicembre 2002, n. 314](../Regolamenti%20governativi/Regolamento%20recante%20individuazione%20degli%20uffici%20dirigenziali%20periferici%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md);
+Visto il [decreto del Presidente della Repubblica 23 dicembre 2002, n. 314](../DPR/Regolamento%20recante%20individuazione%20degli%20uffici%20dirigenziali%20periferici%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md);
 
 Visto il decreto del Ministro dell'interno 7 marzo 2002 recante l'individuazione degli uffici di livello dirigenziale non generale riservati ai dirigenti del Corpo nazionale dei vigili del fuoco nell'ambito del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile;
 

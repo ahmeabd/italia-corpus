@@ -145,7 +145,7 @@ Nota all'[art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repu
 
 1.
 
-La disposizione dell'[art. 24 comma 2 del decreto del Presidente della Repubblica 29 aprile 1976, n. 431](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md), relativa alla vidimazione da parte del magistrato di sorveglianza, si applica anche al registro previsto dall'[art. 57 del decreto legislativo 28 luglio 1989, n. 271](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
+La disposizione dell'[art. 24 comma 2 del decreto del Presidente della Repubblica 29 aprile 1976, n. 431](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md), relativa alla vidimazione da parte del magistrato di sorveglianza, si applica anche al registro previsto dall'[art. 57 del decreto legislativo 28 luglio 1989, n. 271](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
 
 Note all'art. 8:
  - Il comma 2 dell'art. 24 del regolamento di esecuzione della [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), recante norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta', approvato con D P.R. n. 431/1976, prevede che: "Il registro, prima che sia posto in uso, e' presentato al magistrato di sorveglianza che ne fa numerare ciascuna pagina, vistandola e segnandola con sigillo del proprio ufficio. In fine del registro lo stesso magistrato di sorveglianza indica il numero complessivo delle pagine e vi appone la data e la sottoscrizione".
@@ -179,7 +179,7 @@ Nota all'art. 10:
 
 1.
 
-Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
+Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
 
 2.
 

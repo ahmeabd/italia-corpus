@@ -14,11 +14,11 @@ E DELLA NAVIGAZIONE
 
 Visto l'[art. 121, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
-Visto l'[art. 333 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
+Visto l'[art. 333 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
 Visto l'[art. 123, comma 3](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [comma 7](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [comma 10, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
-Visto l'[art. 335, comma 12, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
+Visto l'[art. 335, comma 12, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
 
 Visto l'art. 336, comma 1, del suddetto decreto;
 
@@ -255,7 +255,7 @@ I veicoli utili al conseguimento delle patenti di guida di categoria AM, A1, A2,
 
 5.
 
-I veicoli utili al conseguimento delle patenti di guida di categoria C, CE, D e DE, attrezzati conformemente alle disposizioni emanate dal Capo del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 203, comma 2, lettera ii), del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), oltre che ad uso esclusivo di autoscuola, sono considerati ad uso speciale ai sensi dell'[articolo 54, comma 1, lettera g), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md). Le disposizioni di cui al periodo precedente si applicano ai veicoli ((utili al conseguimento delle patenti di guida di categoria C1, C1E, D1 e D1E)), quando sono in dotazione ad un'autoscuola o ad un centro di istruzione automobilistica ai sensi del comma 2.
+I veicoli utili al conseguimento delle patenti di guida di categoria C, CE, D e DE, attrezzati conformemente alle disposizioni emanate dal Capo del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 203, comma 2, lettera ii), del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), oltre che ad uso esclusivo di autoscuola, sono considerati ad uso speciale ai sensi dell'[articolo 54, comma 1, lettera g), del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md). Le disposizioni di cui al periodo precedente si applicano ai veicoli ((utili al conseguimento delle patenti di guida di categoria C1, C1E, D1 e D1E)), quando sono in dotazione ad un'autoscuola o ad un centro di istruzione automobilistica ai sensi del comma 2.
 
 6.
 

@@ -18,7 +18,7 @@ Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Visto l'[art. 60 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
 
-Visto l'[art. 214 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md);
+Visto l'[art. 214 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md);
 
 Udito il parere del Consiglio di Stato in data 28 aprile 1994;
 
@@ -45,7 +45,7 @@ Detti veicoli devono essere completamente originali in ogni loro parte costrutti
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restanto la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
  - Il [D.Lgs. 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), reca il nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
- - Il [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) approvato con [decreto legislativo n. 285 del 30 aprile 1992](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)".
+ - Il [D.P.R. 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) approvato con [decreto legislativo n. 285 del 30 aprile 1992](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)".
 
 Nota all'art. 1:
  - Il testo dell'[art. 60, comma 2, del D.Lgs. 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e' il seguente:
@@ -101,7 +101,7 @@ Il competente ufficio provinciale della Direzione generale della M.C.T.C., a seg
 Copia della autorizzazione viene inviata alla sede centrale della Direzione generale.
 
 Nota all'art. 4:
- - Il testo dell'[art. 214 del D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' il seguente:
+ - Il testo dell'[art. 214 del D.P.R. 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' il seguente:
  "Art. 214 (Motoveicoli ed autoveicoli d'epoca). - 1. Ai veicoli d'epoca, per la circolazione nei luoghi consentiti, e' rilasciato il foglio di via e la targa provvisoria previsti dall'art. 99 del codice.
  2. Nel foglio di via e' indicata la sua validita', limitata al percorso interessato dalla manifestazione o raduno ed alla sua durata, nonche' la velocita' massima consentita in relazione alle garanzie di sicurezza offerte dal veicolo. Tale velocita' non puo' superare i seguenti limiti:
  a) 40 km/h, in ogni caso;

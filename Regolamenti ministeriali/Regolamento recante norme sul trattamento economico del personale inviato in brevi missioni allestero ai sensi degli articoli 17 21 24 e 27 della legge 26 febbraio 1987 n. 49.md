@@ -16,7 +16,7 @@ IL MINISTRO DEL TESORO
 
 Vista la [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), sulla nuova disciplina della cooperazione dell'Italia con i Paesi in via di sviluppo;
 
-Visto il [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20febbraio%201987%20n.%2049%20sulla%20disciplina%20della%20cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), contenente il regolamento di esecuzione della predetta [legge n. 49/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49);
+Visto il [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20febbraio%201987%20n.%2049%20sulla%20disciplina%20della%20cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md), contenente il regolamento di esecuzione della predetta [legge n. 49/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;49);
 
 Visto il [decreto interministeriale n. 863 del 19 febbraio 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-02-19;863), concernente il trattamento economico spettante al personale di cui all'articolo 17, lettere a), b) e c) della predetta legge inviato in missione ed in particolare l'articolo 15 sulle indennita' di servizio all'estero per le missioni di durata inferiore a quattro mesi;
 

@@ -14,7 +14,7 @@ DEL CONSIGLIO DEI MINISTRI
 
 Visto l'[art. 27 della legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-29;93#art_27), concernente "Istituzione, attribuzioni ed ordinamento del Dipartimento della funzione pubblica";
 
-Visto il regolamento concernente il Dipartimento della funzione pubblica emanato con [decreto del Presidente della Repubblica 20 giugno 1984, n. 536](../Regolamenti%20governativi/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md);
+Visto il regolamento concernente il Dipartimento della funzione pubblica emanato con [decreto del Presidente della Repubblica 20 giugno 1984, n. 536](../DPR/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri del 22 novembre 1984, recante articolazione in servizi e reparti del Dipartimento della funzione pubblica;
 
@@ -93,7 +93,7 @@ Il Ministro e' coadiuvato dal capo di gabinetto, dal segretario particolare e da
 
 3.
 
-Il Ministro puo' avvalersi della collaborazione di consiglieri ed esperti nominati in base agli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_29), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31) e [37 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_37). Puo' avvalersi, inoltre, di altri esperti nelle forme e nei limiti di cui all'[art. 2, commi primo](../Regolamenti%20governativi/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md), [secondo](../Regolamenti%20governativi/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md) e [terzo, del decreto del Presidente della Repubblica 20 giugno 1984, n. 536](../Regolamenti%20governativi/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md).
+Il Ministro puo' avvalersi della collaborazione di consiglieri ed esperti nominati in base agli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_29), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31) e [37 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_37). Puo' avvalersi, inoltre, di altri esperti nelle forme e nei limiti di cui all'[art. 2, commi primo](../DPR/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md), [secondo](../DPR/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md) e [terzo, del decreto del Presidente della Repubblica 20 giugno 1984, n. 536](../DPR/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md).
 
 4.
 
@@ -226,7 +226,7 @@ Fino alla nomina del capo del Dipartimento, le sue funzioni possono essere attri
 
 1.
 
-Dalla data di entrata in vigore del presente decreto, cessano di avere efficacia le norme di cui al [decreto del Presidente della Repubblica 20 giugno 1984, n. 536](../Regolamenti%20governativi/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md), fatta eccezione per gli articoli 2, commi primo, secondo e terzo, 3, 16, 17 e 18, nonche' per il quadro A allegato allo stesso decreto. Dalla data stessa e' abrogato il decreto del Presidente del Consiglio dei Ministri 22 novembre 1984.
+Dalla data di entrata in vigore del presente decreto, cessano di avere efficacia le norme di cui al [decreto del Presidente della Repubblica 20 giugno 1984, n. 536](../DPR/Regolamento%20concernente%20il%20Dipartimento%20della%20funzione%20pubblica.md), fatta eccezione per gli articoli 2, commi primo, secondo e terzo, 3, 16, 17 e 18, nonche' per il quadro A allegato allo stesso decreto. Dalla data stessa e' abrogato il decreto del Presidente del Consiglio dei Ministri 22 novembre 1984.
 
 Note all'art. 9:
  - Per il testo dell'art. 2, commi primo, secondo e terzo, del citato [D.P.R. n. 536/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;536) si rinvia alle note all'art. 3. Si riportano i testi degli articoli 3, 16, 17 e 18 dello stesso [D.P.R. n. 536/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1984;536):
