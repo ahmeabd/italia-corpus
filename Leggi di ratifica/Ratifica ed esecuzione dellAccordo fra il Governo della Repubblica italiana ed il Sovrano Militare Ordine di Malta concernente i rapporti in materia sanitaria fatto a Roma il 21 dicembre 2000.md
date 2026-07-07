@@ -24,7 +24,7 @@ Promulga la seguente legge:
 
 2.
 
-Con accordo concluso con le regioni e le province autonome interessate, ai sensi di quanto previsto all'[articolo 4 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), il Governo adotta specifiche disposizioni attuative dell'articolo 12 dell'Accordo di cui all'articolo 1.
+Con accordo concluso con le regioni e le province autonome interessate, ai sensi di quanto previsto all'[articolo 4 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), il Governo adotta specifiche disposizioni attuative dell'articolo 12 dell'Accordo di cui all'articolo 1.
 
 ## Art. 3.
 

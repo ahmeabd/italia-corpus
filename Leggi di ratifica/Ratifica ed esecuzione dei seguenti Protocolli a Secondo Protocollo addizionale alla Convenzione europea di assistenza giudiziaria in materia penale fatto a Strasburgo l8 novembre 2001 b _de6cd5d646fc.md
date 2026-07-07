@@ -42,7 +42,7 @@ Al momento del deposito dello strumento di ratifica, il Governo rende le dichiar
 
 1.
 
-Nei casi previsti dagli articoli 18, 19 e 20 del Protocollo di cui all'articolo 1, comma 1, lettera a), si applicano, in quanto compatibili, gli [articoli 16](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20della%20Convenzione%20relativa%20allassistenza%20giudiziaria%20in%20materia%20penale%20tra%20gli%20Stati%20membri%20dellUnione%20europea%20fatta%20a%20Bruxelles%20il%2029%20maggio%202000.%2017G00065.md) e [18 del decreto legislativo 5 aprile 2017, n. 52](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20della%20Convenzione%20relativa%20allassistenza%20giudiziaria%20in%20materia%20penale%20tra%20gli%20Stati%20membri%20dellUnione%20europea%20fatta%20a%20Bruxelles%20il%2029%20maggio%202000.%2017G00065.md).
+Nei casi previsti dagli articoli 18, 19 e 20 del Protocollo di cui all'articolo 1, comma 1, lettera a), si applicano, in quanto compatibili, gli [articoli 16](../Decreti%20Legislativi/Norme%20di%20attuazione%20della%20Convenzione%20relativa%20allassistenza%20giudiziaria%20in%20materia%20penale%20tra%20gli%20Stati%20membri%20dellUnione%20europea%20fatta%20a%20Bruxelles%20il%2029%20maggio%202000.%2017G00065.md) e [18 del decreto legislativo 5 aprile 2017, n. 52](../Decreti%20Legislativi/Norme%20di%20attuazione%20della%20Convenzione%20relativa%20allassistenza%20giudiziaria%20in%20materia%20penale%20tra%20gli%20Stati%20membri%20dellUnione%20europea%20fatta%20a%20Bruxelles%20il%2029%20maggio%202000.%2017G00065.md).
 
 ## Art. 5. — Disposizioni finanziarie
 

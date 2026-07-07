@@ -30,7 +30,7 @@ In attuazione del programma di aiuti alimentari della Comunita' economica europe
 
 ## Art. 4.
 
-Alle spese per le operazioni relative alle forniture indicate nell'articolo 3 l'AIMA provvedera' con il fondo di rotazione di cui all'[articolo 8 del decreto-legge 17 marzo 1967, n. 80](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), convertito, con modificazioni, nella [legge 13 maggio 1967, n. 267](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201967%20n.%2080%20relativo%20allattuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), e secondo le modalita' ivi previste.
+Alle spese per le operazioni relative alle forniture indicate nell'articolo 3 l'AIMA provvedera' con il fondo di rotazione di cui all'[articolo 8 del decreto-legge 17 marzo 1967, n. 80](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), convertito, con modificazioni, nella [legge 13 maggio 1967, n. 267](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20marzo%201967%20n.%2080%20relativo%20allattuazione%20di%20interventi%20nel%20settore%20dei%20prodotti%20ortofrutticoli.md), e secondo le modalita' ivi previste.
  Il predetto fondo sara' reintegrato con gli introiti relativi alle restituzioni all'esportazione o ad altro eventuale recupero riguardanti le forniture.
 
 ## Art. 5.

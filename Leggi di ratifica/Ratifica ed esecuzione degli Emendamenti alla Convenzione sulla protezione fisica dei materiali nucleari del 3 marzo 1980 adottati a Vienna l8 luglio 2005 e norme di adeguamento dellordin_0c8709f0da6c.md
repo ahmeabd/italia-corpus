@@ -60,9 +60,9 @@ Per dare attuazione alle disposizioni contenute nella Convenzione, come emendata
 
 2.
 
-L'Ispettorato nazionale per la sicurezza nucleare e la radioprotezione (ISIN), nell'esercizio delle funzioni e dei compiti di cui all'[articolo 6, comma 2, del decreto legislativo 4 marzo 2014, n. 45](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-70-EURATOM%20che%20istituisce%20un%20quadro%20comunitario%20per%20la%20gestione%20responsabile%20e%20sicura%20del%20combustibile%20nucleare%20esaurito%20e%20dei%20rifiuti%20radioattivi.%2014G00057.md):
+L'Ispettorato nazionale per la sicurezza nucleare e la radioprotezione (ISIN), nell'esercizio delle funzioni e dei compiti di cui all'[articolo 6, comma 2, del decreto legislativo 4 marzo 2014, n. 45](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202011-70-EURATOM%20che%20istituisce%20un%20quadro%20comunitario%20per%20la%20gestione%20responsabile%20e%20sicura%20del%20combustibile%20nucleare%20esaurito%20e%20dei%20rifiuti%20radioattivi.%2014G00057.md):
                         a)
-                            esercita i controlli sulla protezione fisica passiva per mezzo degli ispettori di cui all'[articolo 10 del decreto legislativo 17 marzo 1995, n. 230](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%2089-618-Euratom%2090-641-Euratom%2096-29-Euratom%202006-117-Euratom%20in%20materia%20di%20radiazioni%20ionizzanti%202009-71-Euratom%20in%20materia%20di%20sicurezza%20nucleare%20degli%20impianti_d604ed65f72e.md), e successive modificazioni;
+                            esercita i controlli sulla protezione fisica passiva per mezzo degli ispettori di cui all'[articolo 10 del decreto legislativo 17 marzo 1995, n. 230](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-618-Euratom%2090-641-Euratom%2096-29-Euratom%202006-117-Euratom%20in%20materia%20di%20radiazioni%20ionizzanti%202009-71-Euratom%20in%20materia%20di%20sicurezza%20nucleare%20degli%20impianti_d604ed65f72e.md), e successive modificazioni;
                         b)
                             formula pareri tecnici alle amministrazioni di cui al comma 1, lettere a), b),
                         c)
@@ -71,7 +71,7 @@ L'Ispettorato nazionale per la sicurezza nucleare e la radioprotezione (ISIN), n
 
 3.
 
-Fino alla data di entrata in vigore del regolamento di cui al [comma 14 dell'articolo 6 del decreto legislativo 4 marzo 2014, n. 45](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202011-70-EURATOM%20che%20istituisce%20un%20quadro%20comunitario%20per%20la%20gestione%20responsabile%20e%20sicura%20del%20combustibile%20nucleare%20esaurito%20e%20dei%20rifiuti%20radioattivi.%2014G00057.md), le competenze di cui al comma 2 del presente articolo sono esercitate dall'Istituto superiore per la protezione e la ricerca ambientale (ISPRA).
+Fino alla data di entrata in vigore del regolamento di cui al [comma 14 dell'articolo 6 del decreto legislativo 4 marzo 2014, n. 45](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202011-70-EURATOM%20che%20istituisce%20un%20quadro%20comunitario%20per%20la%20gestione%20responsabile%20e%20sicura%20del%20combustibile%20nucleare%20esaurito%20e%20dei%20rifiuti%20radioattivi.%2014G00057.md), le competenze di cui al comma 2 del presente articolo sono esercitate dall'Istituto superiore per la protezione e la ricerca ambientale (ISPRA).
 
 ## Art. 5. — Scenari di riferimento 
  e piani di protezione fisica
@@ -108,7 +108,7 @@ Sulla base del piano di protezione fisica, il Ministero dell'interno stabilisce 
 
 1.
 
-Il Ministero dell'interno, anche a seguito delle comunicazioni previste dall'[articolo 25 del decreto legislativo 17 marzo 1995, n. 230](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%2089-618-Euratom%2090-641-Euratom%2096-29-Euratom%202006-117-Euratom%20in%20materia%20di%20radiazioni%20ionizzanti%202009-71-Euratom%20in%20materia%20di%20sicurezza%20nucleare%20degli%20impianti_d604ed65f72e.md), coordina gli interventi e predispone, sentito il Ministero dell'ambiente e della tutela del territorio e del mare, un piano d'intervento per il recupero e la messa in sicurezza di materie nucleari, fermi restando gli obblighi di informazione alla popolazione sui rischi e sul comportamento da adottare in caso di emergenza.
+Il Ministero dell'interno, anche a seguito delle comunicazioni previste dall'[articolo 25 del decreto legislativo 17 marzo 1995, n. 230](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-618-Euratom%2090-641-Euratom%2096-29-Euratom%202006-117-Euratom%20in%20materia%20di%20radiazioni%20ionizzanti%202009-71-Euratom%20in%20materia%20di%20sicurezza%20nucleare%20degli%20impianti_d604ed65f72e.md), coordina gli interventi e predispone, sentito il Ministero dell'ambiente e della tutela del territorio e del mare, un piano d'intervento per il recupero e la messa in sicurezza di materie nucleari, fermi restando gli obblighi di informazione alla popolazione sui rischi e sul comportamento da adottare in caso di emergenza.
 
 ## Art. 8. — Modifiche al codice penale 
  e al codice di procedura penale
