@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vedute le [leggi 16 luglio 1904, n. 397, 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), e il regolamento approvato con il [R. decreto 25 settembre 1907, n. 652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-25;652);
+Vedute le [leggi 16 luglio 1904, n. 397, 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), e il regolamento approvato con il [R. decreto 25 settembre 1907, n. 652](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-25;652);
 
 Veduta la convenzione stipulata fra il comune di Sestri Ponente e il Ministero della pubblica istruzione, per la conversione in governativa di quella scuola tecnica pareggiata, in base alla domanda presentata all'uopo in data 21 maggio 1906;
 

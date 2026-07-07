@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- In virtu' della delegazione di poteri conferita al Governo del Re dalla [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md); 
+ In virtu' della delegazione di poteri conferita al Governo del Re dalla [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md); 
  
  Veduta la legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), nonche' il [R. decreto 11 gennaio 1923, n. 9](Con%20cui%20si%20estendono%20alle%20nuove%20Provincie%20la%20legge%20ed%20il%20regolamento%20comunale%20e%20provinciale.%20023U0009.md); 
  

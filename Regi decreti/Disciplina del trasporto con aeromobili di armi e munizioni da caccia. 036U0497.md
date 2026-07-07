@@ -14,13 +14,13 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 47 del R. decreto-legge 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-08-20;2207#art_47), contenente provvedimenti per la navigazione aerea, convertito nella [legge 31 gennaio 1926, n. 753](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md);
+Visto l'[art. 47 del R. decreto-legge 20 agosto 1923, n. 2207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-08-20;2207#art_47), contenente provvedimenti per la navigazione aerea, convertito nella [legge 31 gennaio 1926, n. 753](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md);
 
 Visto il [R. decreto 11 gennaio 1925, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20navigazione%20aerea.%20025U0356.md), che approva il regolamento per la navigazione aerea;
 
 Visto il [R. decreto 14 dicembre 1933, n. 1943](Disciplina%20del%20trasporto%20con%20aeromobili%20delle%20armi%20e%20munizioni%20da%20caccia.%20033U1943.md), che autorizza i passeggeri su aeromobili da turismo a trasportare armi e munizioni destinate ad uso esclusivo di caccia;
 
-Visto il [R. decreto-legge 3 dicembre 1934, n. 2012](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20organico%20per%20lamministrazione%20della%20Libia.%20034U2012.md), convertito nella [legge 11 aprile 1935, n. 675](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%202012%20riflettente%20lordinamento%20organico%20per%20lAmministrazione%20della%20Libia.%20035U0675.md), per l'amministrazione della Libia;
+Visto il [R. decreto-legge 3 dicembre 1934, n. 2012](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20organico%20per%20lamministrazione%20della%20Libia.%20034U2012.md), convertito nella [legge 11 aprile 1935, n. 675](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20dicembre%201934%20n.%202012%20riflettente%20lordinamento%20organico%20per%20lAmministrazione%20della%20Libia.%20035U0675.md), per l'amministrazione della Libia;
 
 Vista la [legge 6 luglio 1933, n. 999](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20organico%20per%20lEritrea%20e%20la%20Somalia.%20033U0999.md), modificata con [legge 25 gennaio 1934, n. 146](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20alla%20legge%20organica%20dellEritrea%20e%20della%20Somalia.%20034U0146.md), per la Colonia Eritrea e la Somalia Italiana;
 

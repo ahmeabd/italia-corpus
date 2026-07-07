@@ -18,7 +18,7 @@ Visto il Nostro decreto 20 dicembre 1921, n. 2128, col quale venne costituita in
 
 Visto il Nostro decreto 31 dicembre 1922, n. 1680, col quale si provvede alla unificazione dei corpi di polizia, allo scioglimento del corpo della R. guardia per la P. S. ed alla istituzione del ruolo specializzato dei carabinieri Reali;
 
-Vista la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md) per la concessione dei pieni poteri al Governo del Re;
+Vista la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md) per la concessione dei pieni poteri al Governo del Re;
 
 Vedute le [leggi 17 luglio 1890, n. 6972, 21 giugno 1896, n. 218, 18 luglio 1904, n. 390](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20la%20istituzione%20di%20Commissioni%20provinciali%20di%20un%20Consiglio%20superiore%20e%20di%20un%20servizio%20dispezione%20della%20pubblica%20assistenza%20e%20beneficenza%20004U0390.md) e i relativi regolamenti;
 

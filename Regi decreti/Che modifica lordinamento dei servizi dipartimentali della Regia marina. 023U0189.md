@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md), concernente la delegazione dei pieni poteri al Governo del Re per il riordinamento del sistema tributario e della pubblica amministrazione;
+Vista la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md), concernente la delegazione dei pieni poteri al Governo del Re per il riordinamento del sistema tributario e della pubblica amministrazione;
 
 Visto il R. decreto 22 febbraio 1863, e sue successive modificazioni, riguardanti l'ordinamento della Marina dello Stato;
 

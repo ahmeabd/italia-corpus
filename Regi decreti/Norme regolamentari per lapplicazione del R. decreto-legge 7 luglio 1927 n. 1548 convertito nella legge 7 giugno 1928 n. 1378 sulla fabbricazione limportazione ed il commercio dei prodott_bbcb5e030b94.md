@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 7 luglio 1927, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-07;1548), convertito nella [legge 7 giugno 1928, n. 1378](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20luglio%201927%20n.%201548%20portante%20norme%20per%20la%20fabbricazione%20limportazione%20ed%20il%20commercio%20dei%20prodotti%20alimentari%20della%20pesca%20conservati%20in%20recipienti.%20028U1378.md), recante norme per la fabbricazione, l'importazione ed il commercio dei prodotti alimentari della pesca, conservati in recipienti;
+Visto il [R. decreto-legge 7 luglio 1927, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-07;1548), convertito nella [legge 7 giugno 1928, n. 1378](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20luglio%201927%20n.%201548%20portante%20norme%20per%20la%20fabbricazione%20limportazione%20ed%20il%20commercio%20dei%20prodotti%20alimentari%20della%20pesca%20conservati%20in%20recipienti.%20028U1378.md), recante norme per la fabbricazione, l'importazione ed il commercio dei prodotti alimentari della pesca, conservati in recipienti;
 
 Visto il parere del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 ## Art. 1.
 
-Agli effetti del [R. decreto-legge 7 luglio 1927, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-07;1548), convertito nella [legge 7 giugno 1928, n. 1378](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20luglio%201927%20n.%201548%20portante%20norme%20per%20la%20fabbricazione%20limportazione%20ed%20il%20commercio%20dei%20prodotti%20alimentari%20della%20pesca%20conservati%20in%20recipienti.%20028U1378.md), e' fabbricante di prodotti alimentari della pesca conservati in scatole, o in altri recipienti, chi attenda, anche stagionalmente, alla suddetta lavorazione in appositi locali con speciali impianti e con l'impiego di mano d'opera industriale. 
+Agli effetti del [R. decreto-legge 7 luglio 1927, n. 1548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-07;1548), convertito nella [legge 7 giugno 1928, n. 1378](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%207%20luglio%201927%20n.%201548%20portante%20norme%20per%20la%20fabbricazione%20limportazione%20ed%20il%20commercio%20dei%20prodotti%20alimentari%20della%20pesca%20conservati%20in%20recipienti.%20028U1378.md), e' fabbricante di prodotti alimentari della pesca conservati in scatole, o in altri recipienti, chi attenda, anche stagionalmente, alla suddetta lavorazione in appositi locali con speciali impianti e con l'impiego di mano d'opera industriale. 
  
  Sono prodotti alimentari della pesca conservati in scatole od in altri recipienti quelli per la cui conservazione il recipiente costituisce elemento essenziale.
 

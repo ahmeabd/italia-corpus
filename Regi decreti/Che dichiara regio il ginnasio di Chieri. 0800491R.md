@@ -14,11 +14,11 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vedute le [leggi 16 luglio 1904, n. 397, 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), e il regolamento approvato con il Nostro decreto 15 settembre 1907, n. 652;
+Vedute le [leggi 16 luglio 1904, n. 397, 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), e il regolamento approvato con il Nostro decreto 15 settembre 1907, n. 652;
 
 Veduto che dall'anno scolastico 1860-61 in seguito a speciali accordi intervenuti fra il comune di Chieri e il Ministero della pubblica istruzione, il personale direttivo, insegnante e di servizio addetto a quel ginnasio pareggiato appartiene ai rispettivi ruoli governativi e l'Istituto medesimo ha funzionato agli effetti scolastici come regio, pur provvedendo il Comune al diretto pagamento degli stipendi al detto personale;
 
-Veduta la convenzione stipulata addi' 25 settembre 1908 fra il Ministero della pubblica istruzione ed il comune di Chieri allo scopo di regolarizzare la condizione di quel ginnasio in applicazione della succitata [legge 16 luglio 1904, n. 397](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20regi%20degli%20Istituti%20secondari.%20004U0397.md);
+Veduta la convenzione stipulata addi' 25 settembre 1908 fra il Ministero della pubblica istruzione ed il comune di Chieri allo scopo di regolarizzare la condizione di quel ginnasio in applicazione della succitata [legge 16 luglio 1904, n. 397](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20regi%20degli%20Istituti%20secondari.%20004U0397.md);
 
 Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
