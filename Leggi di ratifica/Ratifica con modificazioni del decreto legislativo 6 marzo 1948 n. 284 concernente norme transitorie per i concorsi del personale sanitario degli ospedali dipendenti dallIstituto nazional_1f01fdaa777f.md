@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 6 marzo 1948, n. 284](../Decreti%20Legislativi/Norme%20transitorie%20per%20i%20concorsi%20del%20personale%20sanitario%20degli%20ospedali%20dipendenti%20dallIstituto%20nazionale%20della%20previdenza%20sociale.md), e' ratificato con le seguenti modificazioni:
+Il [decreto legislativo 6 marzo 1948, n. 284](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20transitorie%20per%20i%20concorsi%20del%20personale%20sanitario%20degli%20ospedali%20dipendenti%20dallIstituto%20nazionale%20della%20previdenza%20sociale.md), e' ratificato con le seguenti modificazioni:
 
  Art. 2. - E' sostituito dal seguente:
  "L'Istituto nazionale della previdenza sociale e' altresi' autorizzato a procedere, a norma del regolamento interno, alle promozioni a direttore sanitario dei primari di I e II classe per merito comparativo.

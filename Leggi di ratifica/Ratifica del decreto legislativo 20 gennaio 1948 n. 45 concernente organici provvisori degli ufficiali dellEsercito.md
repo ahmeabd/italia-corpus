@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 20 gennaio 1948, n. 45](../Decreti%20Legislativi/Organici%20provvisoria%20degli%20ufficiali%20dellEsercito.md), e' ratificato.
+Il [decreto legislativo 20 gennaio 1948, n. 45](../Atti%20normativi%20abrogati%20%28in%20originale%29/Organici%20provvisoria%20degli%20ufficiali%20dellEsercito.md), e' ratificato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

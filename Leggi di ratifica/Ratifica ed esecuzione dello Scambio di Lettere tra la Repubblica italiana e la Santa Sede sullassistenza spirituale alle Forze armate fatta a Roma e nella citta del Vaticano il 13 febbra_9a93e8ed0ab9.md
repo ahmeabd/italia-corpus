@@ -35,7 +35,7 @@ Piena ed intera esecuzione e' data allo Scambio di Lettere di cui all'articolo 1
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 17 e' sostituito dal seguente: 
  «Art. 17 (Assistenza spirituale). - 1. L'assistenza spirituale ai militari cattolici, di cui all'articolo 11, comma 2, dell'accordo, con protocollo addizionale, firmato a Roma il 18 febbraio 1984, che apporta modificazioni al Concordato lateranense dell'11 febbraio 1929, tra la Repubblica italiana e la Santa Sede, ratificato e reso esecutivo con la [legge 25 marzo 1985, n. 121](Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md), e' assicurata da cappellani militari, nominati dal Ministro della difesa su designazione dell'Ordinario militare, in base alle disposizioni stabilite dal presente codice e, in particolare, dal titolo III del libro quinto. 
@@ -231,7 +231,7 @@ Il cappellano militare cessa dal servizio permanente per il verificarsi di una d
 
 2.
 
-Fino all'entrata in vigore del regolamento di cui all'[articolo 1555 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), come sostituito dalla lettera z) del comma 1 del presente articolo, si applicano le specifiche disposizioni in materia di disciplina militare del medesimo codice e del [testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), di cui al [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md).
+Fino all'entrata in vigore del regolamento di cui all'[articolo 1555 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), come sostituito dalla lettera z) del comma 1 del presente articolo, si applicano le specifiche disposizioni in materia di disciplina militare del medesimo codice e del [testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), di cui al [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md).
 
 ## Altre disposizioni di adeguamento dell'Ordinamento interno ad obbligazioni internazionali contratte con la Santa Sede
 
@@ -242,7 +242,7 @@ Capo II
 
 1.
 
-All'articolo 129 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), di cui al [decreto legislativo 28 luglio 1989, n. 271](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+All'articolo 129 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), di cui al [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 nella rubrica, le parole: «sull'azione» sono sostituite dalle seguenti: «sul procedimento»;
                             b)

@@ -96,7 +96,7 @@ Le istituzioni finanziarie di cui all'articolo 4, comma 1, conservano la documen
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 6.
 
@@ -141,7 +141,7 @@ Le regole tecniche per l'applicazione delle disposizioni del comma 1 del present
 
 1.
 
-Nei casi di violazione degli obblighi di cui all'articolo 5 della presente legge si applica la sanzione amministrativa prevista per la violazione degli obblighi degli operatori finanziari dall'[articolo 10, comma 1-bis, del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
+Nei casi di violazione degli obblighi di cui all'articolo 5 della presente legge si applica la sanzione amministrativa prevista per la violazione degli obblighi degli operatori finanziari dall'[articolo 10, comma 1-bis, del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
 
 2.
 

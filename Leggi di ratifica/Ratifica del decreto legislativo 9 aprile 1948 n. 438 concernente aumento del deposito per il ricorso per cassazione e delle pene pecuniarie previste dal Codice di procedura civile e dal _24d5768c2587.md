@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 9 aprile 1948, n. 438](../Decreti%20Legislativi/Aumento%20del%20deposito%20per%20il%20ricorso%20per%20Cassazione%20e%20delle%20pene%20pecuniarie%20previste%20dal%20Codice%20di%20procedura%20civile%20e%20dal%20Codice%20di%20procedura%20penale.md), e' ratificato.
+Il [decreto legislativo 9 aprile 1948, n. 438](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20deposito%20per%20il%20ricorso%20per%20Cassazione%20e%20delle%20pene%20pecuniarie%20previste%20dal%20Codice%20di%20procedura%20civile%20e%20dal%20Codice%20di%20procedura%20penale.md), e' ratificato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

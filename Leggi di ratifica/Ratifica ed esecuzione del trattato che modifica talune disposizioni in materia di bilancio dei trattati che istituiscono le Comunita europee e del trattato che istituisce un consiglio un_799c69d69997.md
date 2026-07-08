@@ -33,7 +33,7 @@ Il Governo e' autorizzato ad emanare non oltre il 31 dicembre 1974 e secondo le 
 
 AGGIORNAMENTO (1)
 
-La [L. 26 novembre 1975, n. 748](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dalla%20legge%2023%20dicembre%201970%20n.%201185%20recante%20delega%20al%20Governo%20ad%20emanare%20le%20norme%20di%20attuazione%20della%20decisione%20del%20consiglio%20delle%20Comunita%20europee%20relativa_d02004e32766.md) ha disposto (con l'art. 1) che "Il termine previsto dall'[articolo 3 della legge 23 dicembre 1970, n. 1185](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20trattato%20che%20modifica%20talune%20disposizioni%20in%20materia%20di%20bilancio%20dei%20trattati%20che%20istituiscono%20le%20Comunita%20europee%20e%20del%20trattato%20che%20istituisce%20un%20consiglio%20un_799c69d69997.md), e' prorogato al 31 dicembre 1979".
+La [L. 26 novembre 1975, n. 748](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dalla%20legge%2023%20dicembre%201970%20n.%201185%20recante%20delega%20al%20Governo%20ad%20emanare%20le%20norme%20di%20attuazione%20della%20decisione%20del%20consiglio%20delle%20Comunita%20europee%20relativa_d02004e32766.md) ha disposto (con l'art. 1) che "Il termine previsto dall'[articolo 3 della legge 23 dicembre 1970, n. 1185](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ratifica%20ed%20esecuzione%20del%20trattato%20che%20modifica%20talune%20disposizioni%20in%20materia%20di%20bilancio%20dei%20trattati%20che%20istituiscono%20le%20Comunita%20europee%20e%20del%20trattato%20che%20istituisce%20un%20consiglio%20un_799c69d69997.md), e' prorogato al 31 dicembre 1979".
 
 ## Art. 4.
 
