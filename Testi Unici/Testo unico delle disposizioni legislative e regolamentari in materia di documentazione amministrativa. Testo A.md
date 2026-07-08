@@ -22,7 +22,7 @@ Visto il decreto del Presidente della Repubblica recante il [testo unico delle d
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 25 agosto 2000 e del 6 ottobre 2000;
 
-Visto il parere della Conferenza Stato-citta', ai sensi dell'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), espresso nella riunione del 14 settembre 2000;
+Visto il parere della Conferenza Stato-citta', ai sensi dell'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), espresso nella riunione del 14 settembre 2000;
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli alti normativi nell'adunanza del 18 settembre 2000;
 
@@ -125,7 +125,7 @@ Ai fini del presente testo unico si intende per:
 
 1.
 
-Le norme del presente testo unico disciplinano la formazione, il rilascio, la tenuta e la conservazione, la gestione, la trasmissione di atti e documenti da parte di organi della pubblica amministrazione; disciplinano altresi' la produzione di atti e documenti agli organi della pubblica amministrazione nonche' ai gestori di pubblici servizi nei rapporti tra loro e in quelli con l'utenza, e ai privati ((...)). PERIODO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+Le norme del presente testo unico disciplinano la formazione, il rilascio, la tenuta e la conservazione, la gestione, la trasmissione di atti e documenti da parte di organi della pubblica amministrazione; disciplinano altresi' la produzione di atti e documenti agli organi della pubblica amministrazione nonche' ai gestori di pubblici servizi nei rapporti tra loro e in quelli con l'utenza, e ai privati ((...)). PERIODO ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 ### Art. 3. — (R) 
  Soggetti
@@ -479,27 +479,27 @@ Nei documenti d'identita' e di riconoscimento non e' necessaria l'indicazione o 
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 6.
 
-COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+COMMA ABROGATO DAL [D.LGS. 7 MARZO 2005, N. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 ((
 
@@ -537,7 +537,7 @@ Tutte le istanze e le dichiarazioni da presentare alla pubblica amministrazione 
 
 2.
 
-Le istanze e le dichiarazioni inviate per via telematica((, ivi comprese le domande per la partecipazione a selezioni e concorsi per l'assunzione, a qualsiasi titolo, in tutte le pubbliche amministrazioni, o per l'iscrizione in albi, registri o elenchi tenuti presso le pubbliche amministrazioni,)) sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+Le istanze e le dichiarazioni inviate per via telematica((, ivi comprese le domande per la partecipazione a selezioni e concorsi per l'assunzione, a qualsiasi titolo, in tutte le pubbliche amministrazioni, o per l'iscrizione in albi, registri o elenchi tenuti presso le pubbliche amministrazioni,)) sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 3.
 
@@ -615,7 +615,7 @@ Le amministrazioni pubbliche e i gestori di pubblici servizi sono tenuti ad acqu
 
 2.
 
-Fermo restando il divieto di accesso a dati diversi da quelli di cui e' necessario acquisire la certezza o verificare l'esattezza, si considera operata per finalita' di rilevante interesse pubblico, ai fini di quanto previsto dal [decreto legislativo 11 maggio 1999, n. 135](../Decreti%20Legislativi/Disposizioni%20integrative%20della%20legge%2031%20dicembre%201996%20n.%20675%20sul%20trattamento%20di%20dati%20sensibili%20da%20parte%20dei%20soggetti%20pubblici.md), la consultazione diretta, da parte di una pubblica amministrazione o di un gestore di pubblico servizio, degli archivi dell'amministrazione certificante, finalizzata all'accertamento d'ufficio di stati, qualita' e fatti ovvero al controllo sulle dichiarazioni sostitutive presentate dai cittadini. ((PERIODO SOPPRESSO DAL D.L. 31 MAGGIO 2021, N. 77)). (L) ((36))
+Fermo restando il divieto di accesso a dati diversi da quelli di cui e' necessario acquisire la certezza o verificare l'esattezza, si considera operata per finalita' di rilevante interesse pubblico, ai fini di quanto previsto dal [decreto legislativo 11 maggio 1999, n. 135](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20della%20legge%2031%20dicembre%201996%20n.%20675%20sul%20trattamento%20di%20dati%20sensibili%20da%20parte%20dei%20soggetti%20pubblici.md), la consultazione diretta, da parte di una pubblica amministrazione o di un gestore di pubblico servizio, degli archivi dell'amministrazione certificante, finalizzata all'accertamento d'ufficio di stati, qualita' e fatti ovvero al controllo sulle dichiarazioni sostitutive presentate dai cittadini. ((PERIODO SOPPRESSO DAL D.L. 31 MAGGIO 2021, N. 77)). (L) ((36))
 
 3.
 
@@ -643,7 +643,7 @@ Il [D.L. 29 dicembre 2011, n. 216](../DL%20proroghe/Proroga%20di%20termini%20pre
 
 AGGIORNAMENTO (36)
 
-Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77) ha disposto (con l'art. 39, comma 6) che "La disposizione di cui al comma 5, lettera a), ha efficacia dalla data fissata ai sensi dell'[articolo 50-ter, comma 2-bis, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), inserito dal presente decreto. Fino alla predetta data, resta assicurata l'interoperabilita' dei dati di cui all'[articolo 50 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), tramite accordi quadro, accordi di fruizione o apposita autorizzazione".
+Il [D.L. 31 maggio 2021, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77) ha disposto (con l'art. 39, comma 6) che "La disposizione di cui al comma 5, lettera a), ha efficacia dalla data fissata ai sensi dell'[articolo 50-ter, comma 2-bis, del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), inserito dal presente decreto. Fino alla predetta data, resta assicurata l'interoperabilita' dei dati di cui all'[articolo 50 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), tramite accordi quadro, accordi di fruizione o apposita autorizzazione".
 
 ### Art. 43-bis. — (( (Certificazione e documentazione d'impresa). ))
 
@@ -764,7 +764,7 @@ Sono comprovati con dichiarazioni, anche contestuali all'istanza, sottoscritte d
                             bb)
                                 di non essere a conoscenza di essere sottoposto a procedimenti penali;
                             bb-bis)
-                                di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](../Decreti%20Legislativi/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
+                                di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             cc)
                                 qualita' di vivenza a carico;
                             dd)
@@ -831,7 +831,7 @@ Nota all'art. 48:
  f) il nome, la denominazione o la ragione sociale e il domicilio, la residenza o la sede del titolare e, se designato, del responsabile.
  2. L'informativa di cui al comma 1 puo' non comprendere gli elementi gia' noti alla persona che fornisce i dati o la cui conoscenza puo' ostacolare l'espletamento di funzioni pubbliche ispettive o di controllo, svolte per il perseguimento delle finalita' di cui agli articoli 4, comma 1, lettera e), e 14, comma 1, lettera d).
  3. Quando i dati personali non sono raccolti presso l'interessato l'informativa di cui al comma 1 e' data al medesimo interessato all'atto della registrazione dei dati o, qualora sia prevista la loro comunicazione, non oltre la prima comunicazione.
- 4. La disposizione di cui al comma 3 non si applica quando l'informativa all'interessato comporta un impiego di mezzi che il Garante dichiari manifestamente sproporzionati rispetto al diritto tutelato, ovvero si rivela, a giudizio del Garante, impossibile, ovvero nel caso in cui i dati sono trattati in base ad un obbligo previsto dalla legge, da un regolamento o dalla normativa comunitaria. La medesima disposizione non si applica, altresi', quando i dati sono trattati ai fini dello svolgimento delle investigazioni di cui all'art. 38 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [decreto legislativo 28 luglio 1989, n. 271](../Decreti%20Legislativi/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), e successive modificazioni, o, comunque, per far valere o difendere un diritto in sede giudiziaria, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento".
+ 4. La disposizione di cui al comma 3 non si applica quando l'informativa all'interessato comporta un impiego di mezzi che il Garante dichiari manifestamente sproporzionati rispetto al diritto tutelato, ovvero si rivela, a giudizio del Garante, impossibile, ovvero nel caso in cui i dati sono trattati in base ad un obbligo previsto dalla legge, da un regolamento o dalla normativa comunitaria. La medesima disposizione non si applica, altresi', quando i dati sono trattati ai fini dello svolgimento delle investigazioni di cui all'art. 38 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvate con [decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), e successive modificazioni, o, comunque, per far valere o difendere un diritto in sede giudiziaria, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento".
 
 ### Art. 49.
 
@@ -1364,7 +1364,7 @@ Dalla data di entrata in vigore del presente testo unico sono abrogati: la [legg
 
 2.
 
-Sono altresi' abrogati: il [D.P.R. 10 novembre 1997 n. 513](../DPR/Regolamento%20recante%20criteri%20e%20modalita%20per%20la%20formazione%20larchiviazione%20e%20la%20trasmissione%20di%20documenti%20con%20strumenti%20informatici%20e%20telematici%20a%20norma%20dellarticolo%2015%20comma%202%20della%20legge%201_a31e891a263b.md); il [D.P.R. 20 ottobre 1998 n. 403](../DPR/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md); il [D.P.R. 20 ottobre 1998, n. 428](../DPR/Regolamento%20recante%20norme%20per%20la%20gestione%20del%20protocollo%20informatico%20da%20parte%20delle%20amministrazioni%20pubbliche.md); i [commi 2](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md) e [3 dell'articolo 37 del D.P.R. 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md). (R)
+Sono altresi' abrogati: il [D.P.R. 10 novembre 1997 n. 513](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20criteri%20e%20modalita%20per%20la%20formazione%20larchiviazione%20e%20la%20trasmissione%20di%20documenti%20con%20strumenti%20informatici%20e%20telematici%20a%20norma%20dellarticolo%2015%20comma%202%20della%20legge%201_a31e891a263b.md); il [D.P.R. 20 ottobre 1998 n. 403](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md); il [D.P.R. 20 ottobre 1998, n. 428](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20la%20gestione%20del%20protocollo%20informatico%20da%20parte%20delle%20amministrazioni%20pubbliche.md); i [commi 2](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md) e [3 dell'articolo 37 del D.P.R. 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md). (R)
 
 Note all'[art. 77:
 
@@ -1395,7 +1395,7 @@ Note all'[art. 77:
  g) riduzione del numero di procedimenti amministrativi e accorpamento dei procedimenti che si riferiscono alla medesima attivita', anche riunendo in una unica fonte regolamentare, ove cio' non ostacoli la conoscibilita' normativa, disposizioni provenienti da fonti di rango diverso, ovvero che richiedano particolari procedure, fermo restando l'obbligo di porre in essere le procedure stesse.
  13. Sullo schema di regolamento di cui al comma 12 le Commissioni parlamentari si esprimono entro trenta giorni dalla data di ricezione. Decorso tale termine il decreto e' emanato anche in mancanza del parere ed entra in vigore novanta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale.
  14. Dalla data di entrata in vigore delle norme regolamentari di cui al comma 12 sono abrogate le disposizioni vigenti, anche di legge, con esse incompatibili.
- 15 I comuni che non versino nelle situazioni strutturalmente deficitarie di cui all'[art. 45 del decreto legislativo 30 dicembre 1992, n. 504](../Decreti%20Legislativi/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, possono prevedere la soppressione dei diritti di segreteria da corrispondere per il rilascio degli atti amministrativi previsti dall'[art. 10, comma 10, del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_10-com10), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%208%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md), nonche' del diritto fisso previsto dal comma 12-ter del citato art.
+ 15 I comuni che non versino nelle situazioni strutturalmente deficitarie di cui all'[art. 45 del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, possono prevedere la soppressione dei diritti di segreteria da corrispondere per il rilascio degli atti amministrativi previsti dall'[art. 10, comma 10, del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_10-com10), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%208%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md), nonche' del diritto fisso previsto dal comma 12-ter del citato art.
  10. Possono inoltre prevedere la soppressione o riduzione di diritti tasse o contributi previsti per il rilascio di certificati, documenti e altri atti amministrativi, quando i relativi proventi sono destinati esclusivamente a vantaggio dell'ente locale, o limitatamente alla quota destinata esclusivamente a vantaggio dell'ente locale.".
  "Art. 3 (Disposizioni in materia di dichiarazioni sostitutive e di semplificazione delle domande di ammissione agli impieghi).
  1. (Abrogato).
@@ -1446,11 +1446,11 @@ Note all'[art. 77:
  5. Alla nota 3-ter del comma 2-bis dell'art. 13 della tariffa, parte I, annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md), recante l'indicazione degli atti soggetti all'imposta di bollo, come da ultimo modificata dall'[art. 6, comma 1, lettera b), della legge 8 maggio 1998, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-08;146#art_6-com1-letb), e' aggiunto, in fine, il seguente periodo: "Non sono altresi' soggette all'imposta le comunicazioni relative ai depositi di titoli emessi con modalita' diverse da quelle cartolari e comunque oggetto di successiva dematerializzazione, il cui complessivo valore nominale o di rimborso posseduto presso ciascuna banca sia pari o inferiore a mille euro".
  6. La tassa annuale sulle concessioni governative per il passaporto, di cui all'art. 1 della tariffa delle tasse sulle concessioni governative introdotta con decreto del Ministro delle finanze 28 dicembre 1995, pubblicato nella Gazzetta Ufficiale n. 303 del 30 dicembre 1995, deve intendersi dovuta esclusivamente per l'espatrio verso i Paesi diversi da quelli aderenti all'Unione europea.".
 
- - Il [decreto del Presidente della Repubblica 10 novembre 1997, n. 513](../DPR/Regolamento%20recante%20criteri%20e%20modalita%20per%20la%20formazione%20larchiviazione%20e%20la%20trasmissione%20di%20documenti%20con%20strumenti%20informatici%20e%20telematici%20a%20norma%20dellarticolo%2015%20comma%202%20della%20legge%201_a31e891a263b.md), abrogato dal presente testo unico, recava: "Regolamento recante criteri e modalita' per la formazione, l'archiviazione e la trasmissione di documenti con strumenti informatici e telematici, a norma dell'[art. 15, comma 2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)".
+ - Il [decreto del Presidente della Repubblica 10 novembre 1997, n. 513](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20criteri%20e%20modalita%20per%20la%20formazione%20larchiviazione%20e%20la%20trasmissione%20di%20documenti%20con%20strumenti%20informatici%20e%20telematici%20a%20norma%20dellarticolo%2015%20comma%202%20della%20legge%201_a31e891a263b.md), abrogato dal presente testo unico, recava: "Regolamento recante criteri e modalita' per la formazione, l'archiviazione e la trasmissione di documenti con strumenti informatici e telematici, a norma dell'[art. 15, comma 2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)".
 
- - Il [decreto del Presidente della Repubblica 20 ottobre 1998, n. 403](../DPR/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md), abrogato dal presente testo unico, recava: "Regolamento di attuazione degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_2) e [3 della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3), in materia di semplificazione delle certificazioni amministrative".
+ - Il [decreto del Presidente della Repubblica 20 ottobre 1998, n. 403](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md), abrogato dal presente testo unico, recava: "Regolamento di attuazione degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_2) e [3 della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3), in materia di semplificazione delle certificazioni amministrative".
 
- - Il [decreto del Presidente della Repubblica 20 ottobre 1998, n. 428](../DPR/Regolamento%20recante%20norme%20per%20la%20gestione%20del%20protocollo%20informatico%20da%20parte%20delle%20amministrazioni%20pubbliche.md), abrogato dal presente testo unico, recava: "Regolamento recante norme per la gestione del protocollo informatico da parte delle amministrazioni pubbliche".
+ - Il [decreto del Presidente della Repubblica 20 ottobre 1998, n. 428](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20la%20gestione%20del%20protocollo%20informatico%20da%20parte%20delle%20amministrazioni%20pubbliche.md), abrogato dal presente testo unico, recava: "Regolamento recante norme per la gestione del protocollo informatico da parte delle amministrazioni pubbliche".
 
  - Il [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), abrogato dal presente testo unico, recava: "Approvazione del nuovo regolamento anagrafico della popolazione residente".
 
@@ -1489,7 +1489,7 @@ Dalla data di entrata in vigore del presente testo unico restano comunque in vig
                                 fino alla loro sostituzione, i regolamenti ministeriali, le direttive e i decreti ministeriali a contenuto generale, nonche' le regole tecniche gia' emanate alla data di entrata in vigore del presente testo unico;
                             g)
                                 tutte le disposizioni legislative in materia di conservazione di beni archivistici di cui al capo il del [d.Lgs. 29 ottobre 1999, n. 
-490](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md).
+490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md).
 
 2.
 

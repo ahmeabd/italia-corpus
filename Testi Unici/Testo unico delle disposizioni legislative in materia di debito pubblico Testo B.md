@@ -981,7 +981,7 @@ I termini di prescrizione indicati nel presente testo unico decorrono, per i tit
 
 1.
 
-La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).(L)
+La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).(L)
 
 ))
 

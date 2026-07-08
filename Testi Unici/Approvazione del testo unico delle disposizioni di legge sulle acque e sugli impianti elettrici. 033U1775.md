@@ -16,7 +16,7 @@ VITTORIO EMANUELE III
  
  RE D'ITALIA 
  
- In virtu' della delegazione di poteri conferita al Governo con la [legge 18 dicembre 1927, n. 2595](../Atti%20normativi%20abrogati%20%28in%20originale%29/Convalidazione%20dei%20decreti-legge%20concernenti%20le%20derivazioni%20e%20utilizzazioni%20dacque%20pubbliche%20e%20delega%20al%20Governo%20di%20emanare%20un%20testo%20unico%20di%20legge%20contenente%20disposizioni%20riguardanti%20le%20_0189d862f685.md); 
+ In virtu' della delegazione di poteri conferita al Governo con la [legge 18 dicembre 1927, n. 2595](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Convalidazione%20dei%20decreti-legge%20concernenti%20le%20derivazioni%20e%20utilizzazioni%20dacque%20pubbliche%20e%20delega%20al%20Governo%20di%20emanare%20un%20testo%20unico%20di%20legge%20contenente%20disposizioni%20riguardanti%20le%20_0189d862f685.md); 
  
  Visto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  
