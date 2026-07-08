@@ -195,7 +195,7 @@ COMMA SOSTITUITO DALL'ATTUALE SECONDO PERIODO DEL COMMA 1 DEL PRESENTE ARTICOLO.
 
 6.
 
-Le competenze di indirizzo e di promozione del comitato non possono essere delegate ad altri soggetti. Il comitato si avvale della segreteria tecnica di cui all'articolo 2, comma 3, del presente decreto e puo' ricorrere, limitatamente a specifici adempimenti strumentali, a societa' od enti prescelti ai sensi del [decreto legislativo 17 marzo 1995, n. 157](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-50-CEE%20in%20materia%20di%20appalti%20pubblici%20di%20servizi.md) e successive modificazioni ed integrazioni, in materia di appalti di servizi.
+Le competenze di indirizzo e di promozione del comitato non possono essere delegate ad altri soggetti. Il comitato si avvale della segreteria tecnica di cui all'articolo 2, comma 3, del presente decreto e puo' ricorrere, limitatamente a specifici adempimenti strumentali, a societa' od enti prescelti ai sensi del [decreto legislativo 17 marzo 1995, n. 157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-50-CEE%20in%20materia%20di%20appalti%20pubblici%20di%20servizi.md) e successive modificazioni ed integrazioni, in materia di appalti di servizi.
 
 ---------------
 
@@ -226,11 +226,11 @@ Nei casi per i quali la legislazione vigente prevede l'approvazione da parte del
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
+COMMA ABROGATO DAL [D.LGS. 30 GIUGNO 2003, N. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
 
 5.
 
-Per le finalita' di cui all'articolo 4, comma 1, lettera r), del decreto del Ministro delle comunicazioni 25 novembre 1997, pubblicato nella Gazzetta Ufficiale n. 283 del 4 dicembre 1997, e di cui all'[articolo 3, comma 10, del decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), i relativi obblighi di contribuzione sono assolti nei limiti e con le modalita' previste dall'articolo 26, terzo comma, della convenzione approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](../DPR/Approvazione%20ed%20esecuzione%20delle%20convenzioni%20per%20la%20concessione%20dei%20servizi%20di%20telecomunicazioni%20ad%20uso%20pubblico%20alle%20societa%20SIP%20Italcable%20e%20Telespazio.md). Il Ministro del tesoro, del bilancio e della programmazione economica, e' autorizzato ad apportare le occorrenti variazioni di bilancio.
+Per le finalita' di cui all'articolo 4, comma 1, lettera r), del decreto del Ministro delle comunicazioni 25 novembre 1997, pubblicato nella Gazzetta Ufficiale n. 283 del 4 dicembre 1997, e di cui all'[articolo 3, comma 10, del decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), i relativi obblighi di contribuzione sono assolti nei limiti e con le modalita' previste dall'articolo 26, terzo comma, della convenzione approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](../DPR/Approvazione%20ed%20esecuzione%20delle%20convenzioni%20per%20la%20concessione%20dei%20servizi%20di%20telecomunicazioni%20ad%20uso%20pubblico%20alle%20societa%20SIP%20Italcable%20e%20Telespazio.md). Il Ministro del tesoro, del bilancio e della programmazione economica, e' autorizzato ad apportare le occorrenti variazioni di bilancio.
 
 ## Art. 7. — Competenze del MURST
 

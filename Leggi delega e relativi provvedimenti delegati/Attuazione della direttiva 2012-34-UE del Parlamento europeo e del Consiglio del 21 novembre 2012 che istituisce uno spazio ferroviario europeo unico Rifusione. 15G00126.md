@@ -22,11 +22,11 @@ Vista la [direttiva 2012/34/UE del Parlamento europeo e del Consiglio, del 21 no
 
 Visto l'[articolo 37 del decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201#art_37), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), come modificato dall'[articolo 36 del decreto-legge 24 gennaio 2012, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-01-24;1#art_36), convertito, con modificazioni, dalla [legge 24 marzo 2012, n. 27](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20gennaio%202012%20n.%201%20recante%20disposizioni%20urgenti%20per%20la%20concorrenza%20lo%20sviluppo%20delle%20infrastrutture%20e%20la%20competitivita.%2012G0048.md);
 
-Visto il [decreto legislativo 10 agosto 2007, n. 162](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md);
+Visto il [decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md);
 
 Vista la [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287), ed in particolare l'articolo 7;
 
-Visto il [decreto legislativo 8 luglio 2003, n. 188](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), recante attuazione delle [direttive 2001/12/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;12), [2001/13/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;13) e [2001/14/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;14), in materia ferroviaria;
+Visto il [decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), recante attuazione delle [direttive 2001/12/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;12), [2001/13/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;13) e [2001/14/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;14), in materia ferroviaria;
 
 Visto il decreto del Ministro delle infrastrutture e dei trasporti 5 agosto 2005, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 3 novembre 2005, n. 256;
 
@@ -130,7 +130,7 @@ Le Commissioni parlamentari e la Conferenza unificata di cui all'[articolo 8 del
 
 8.
 
-Le disposizioni del presente decreto non pregiudicano la [direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;25), sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la [direttiva 2004/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;17), recepita dal [codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) di cui al [decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
+Le disposizioni del presente decreto non pregiudicano la [direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;25), sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la [direttiva 2004/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;17), recepita dal [codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
 
 ### Art. 2. — Principi
 
@@ -219,7 +219,7 @@ Se sono pienamente indipendenti l'uno dell'altra, ma entrambi sono controllati d
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica del comma 1, lettera r) del presente articolo si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica del comma 1, lettera r) del presente articolo si applica a decorrere dal 1° gennaio 2019.
 
 ## Imprese Ferroviarie
 
@@ -301,7 +301,7 @@ L'accesso e l'utilizzo dell'infrastruttura ferroviaria, ai fini dell'esercizio d
                             a)
                                 il possesso della licenza corrispondente al servizio da prestare;
                             b)
-                                il possesso del certificato di sicurezza, di cui all'articolo 10, rilasciato dall'Agenzia nazionale per la sicurezza delle ferrovie, di cui al [decreto legislativo 10 agosto 2007, n. 162](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md);
+                                il possesso del certificato di sicurezza, di cui all'articolo 10, rilasciato dall'Agenzia nazionale per la sicurezza delle ferrovie, di cui al [decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md);
                             c)
                                 di aver concluso, in base al diritto pubblico o privato, la stipula del contratto di utilizzo dell'infrastruttura di cui all'articolo 25. Le condizioni alla base di tale contratto sono non discriminatorie e trasparenti e sono pubblicate nel prospetto informativo della rete.
 
@@ -321,7 +321,7 @@ In sede di stipula dei contratti previsti al comma 1, lettera c), il gestore del
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 7. — Licenza
 
@@ -357,7 +357,7 @@ Le imprese richiedenti sono tenute, all'atto della presentazione della domanda, 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 8. — Requisiti per il rilascio della licenza
 
@@ -523,13 +523,13 @@ L'impresa ferroviaria e' tenuta a richiedere la conferma della licenza nel caso 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 10. — Certificato di sicurezza
 
 1.
 
-Al fine di garantire il sicuro e affidabile espletamento dei servizi ferroviari, il certificato di sicurezza di cui al [decreto legislativo 10 agosto 2007, n. 162](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), attesta la conformita' alle normative nazionali ed europee, per quanto riguarda i requisiti tecnici e operativi specifici per i servizi ferroviari e i requisiti di sicurezza relativi al personale, al materiale rotabile e all'organizzazione interna dell'impresa, con particolare riguardo agli standard in materia di sicurezza della circolazione ed alle disposizioni e prescrizioni emanate per le singole linee e per i singoli servizi.
+Al fine di garantire il sicuro e affidabile espletamento dei servizi ferroviari, il certificato di sicurezza di cui al [decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), attesta la conformita' alle normative nazionali ed europee, per quanto riguarda i requisiti tecnici e operativi specifici per i servizi ferroviari e i requisiti di sicurezza relativi al personale, al materiale rotabile e all'organizzazione interna dell'impresa, con particolare riguardo agli standard in materia di sicurezza della circolazione ed alle disposizioni e prescrizioni emanate per le singole linee e per i singoli servizi.
 
 2.
 
@@ -537,14 +537,14 @@ E' facolta' dell'impresa richiedere il rilascio del certificato di sicurezza pri
 
 3.
 
-La disposizione di cui all'[articolo 27, comma 4, del decreto legislativo 10 agosto 2007, n. 162](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), si applica sino alla data di entrata in vigore del decreto di cui all'articolo 1, comma 6. Decorso tale termine, il certificato di sicurezza e' rilasciato dall'Agenzia nazionale per la sicurezza delle ferrovie.
+La disposizione di cui all'[articolo 27, comma 4, del decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), si applica sino alla data di entrata in vigore del decreto di cui all'articolo 1, comma 6. Decorso tale termine, il certificato di sicurezza e' rilasciato dall'Agenzia nazionale per la sicurezza delle ferrovie.
 
 Note all'[art. 10: 
- Per il decreto legislativo 10 agosto 2007, n. 162](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), si veda nelle note alle premesse. 
+ Per il decreto legislativo 10 agosto 2007, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202004-49-CE%20e%202004-51-CE%20relative%20alla%20sicurezza%20e%20allo%20sviluppo%20delle%20ferrovie%20comunitarie.md), si veda nelle note alle premesse. 
  Il [comma 4 dell' art. 27 del decreto legislativo n. 162 del 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007;162#art_27-com4), gia' citato nelle note alle premesse, cosi' recita: 
  "Art. 27. (Disposizioni transitorie e finali) 
  (Omissis). 
- 4. Sulle reti regionali non isolate e su quelle isolate interessate da traffico merci individuate dall'[art. 1, comma 2, del decreto legislativo 8 luglio 2003, n. 188](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), l'applicazione delle disposizioni di cui al presente decreto e' attuata quando risultino completati sistemi di attrezzaggio idonei a rendere compatibili i livelli tecnologici delle medesime reti regionali a quelli della rete nazionale per permettere l'unificazione degli standard di sicurezza, dei regolamenti e delle procedure per il rilascio del certificato di sicurezza. Con successivi provvedimenti della direzione generale competente del Ministero delle infrastrutture e dei trasporti, sentite le regioni interessate, sono fissati i termini entro i quali le suddette reti regionali devono completare i sistemi di attrezzaggio compatibili a quelli della rete nazionale.
+ 4. Sulle reti regionali non isolate e su quelle isolate interessate da traffico merci individuate dall'[art. 1, comma 2, del decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), l'applicazione delle disposizioni di cui al presente decreto e' attuata quando risultino completati sistemi di attrezzaggio idonei a rendere compatibili i livelli tecnologici delle medesime reti regionali a quelli della rete nazionale per permettere l'unificazione degli standard di sicurezza, dei regolamenti e delle procedure per il rilascio del certificato di sicurezza. Con successivi provvedimenti della direzione generale competente del Ministero delle infrastrutture e dei trasporti, sentite le regioni interessate, sono fissati i termini entro i quali le suddette reti regionali devono completare i sistemi di attrezzaggio compatibili a quelli della rete nazionale.
  Sulle reti regionali, per le quali non risultano completati gli adeguamenti tecnologici di cui sopra, possono continuare ad operare senza certificato di sicurezza le imprese ferroviarie controllate dal gestore dell'infrastruttura, o facenti parte della societa' che gestisce l'infrastruttura; in tale caso il direttore di esercizio e' responsabile di tutti gli obblighi di legge di cui al [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) (34). 
  (Omissis).".
 
@@ -792,7 +792,7 @@ Le autorita' competenti conservano le informazioni necessarie per poter risalire
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica dei commi 2, 5, 6, 7 e 9 del presente articolo si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la modifica dei commi 2, 5, 6, 7 e 9 del presente articolo si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 12-bis. — (( (Servizi di trasporto passeggeri ad alta velocita'). ))
 
@@ -1304,7 +1304,7 @@ Questi puo' agire per conto del richiedente nella ricerca di capacita' presso al
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 23 novembre 2018, n. 139](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
+Il [D.Lgs. 23 novembre 2018, n. 139](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-2370%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20dicembre%202016%20che%20modifica%20la%20direttiva%202012-34-UE%20per%20quanto%20riguarda%20lapertura%20del%20mercato%20dei%20serv_a79ea12e9ad2.md) ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
 ### Art. 25. — Contratto di utilizzo dell'infrastruttura
 
@@ -1763,23 +1763,23 @@ Capo VI
 
 A decorrere dalla data di entrata in vigore del presente decreto sono abrogati:
                             a)
-                                il [decreto legislativo 8 luglio 2003, n. 188](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md);
+                                il [decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md);
                             b)
                                 gli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_58) e [59 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_59);
                             c)
                                 il decreto del Ministero delle infrastrutture e dei trasporti 2 febbraio 2011;
                             d)
-                                il [decreto del Presidente della Repubblica 16 marzo 1999, n. 146](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2095-18-CE%20relativa%20alle%20licenze%20delle%20imprese%20ferroviarie%20e%20della%20direttiva%2095-19-CE%20relativa%20alla%20ripartizione%20delle%20capacita%20di%20in_543a50abec5c.md), recante norme di attuazione della [direttiva 95/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;18), relativa alle licenze delle imprese ferroviarie, e della [direttiva 95/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;19), relativa alla ripartizione delle capacita' di infrastruttura ferroviaria e alla riscossione dei diritti per l'utilizzo dell'infrastruttura.
+                                il [decreto del Presidente della Repubblica 16 marzo 1999, n. 146](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2095-18-CE%20relativa%20alle%20licenze%20delle%20imprese%20ferroviarie%20e%20della%20direttiva%2095-19-CE%20relativa%20alla%20ripartizione%20delle%20capacita%20di%20in_543a50abec5c.md), recante norme di attuazione della [direttiva 95/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;18), relativa alle licenze delle imprese ferroviarie, e della [direttiva 95/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;19), relativa alla ripartizione delle capacita' di infrastruttura ferroviaria e alla riscossione dei diritti per l'utilizzo dell'infrastruttura.
 
 2.
 
 Si intende fatto al presente decreto ogni riferimento ai decreti di cui al comma 1, nelle disposizioni legislative, regolamentari e amministrative concernenti la materia regolata dal presente decreto.
 
 Note all'art. 42: 
- Per i riferimenti al [decreto legislativo 8 luglio 2003, n. 188](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), abrogato dal presente decreto, si veda nelle note alle premesse. 
+ Per i riferimenti al [decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), abrogato dal presente decreto, si veda nelle note alle premesse. 
  Il testo degli [articoli 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_58) e [59 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_59) (Disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia),abrogati dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 31 luglio 2009, n. 176, S.O. 
  Il testo del decreto del Ministero delle infrastrutture e dei trasporti 2 febbraio 2011, abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 7 aprile 2011, n. 80. 
- Il [decreto del Presidente della Repubblica 16 marzo 1999, n. 146](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2095-18-CE%20relativa%20alle%20licenze%20delle%20imprese%20ferroviarie%20e%20della%20direttiva%2095-19-CE%20relativa%20alla%20ripartizione%20delle%20capacita%20di%20in_543a50abec5c.md) (Regolamento recante norme di attuazione della [direttiva 95/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;18), relativa alle licenze delle imprese ferroviarie, e della [direttiva 95/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;19), relativa alla ripartizione delle capacita' di infrastruttura ferroviaria e alla riscossione dei diritti per l'utilizzo dell'infrastruttura.), abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 24 maggio 1999, n. 119. 
+ Il [decreto del Presidente della Repubblica 16 marzo 1999, n. 146](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2095-18-CE%20relativa%20alle%20licenze%20delle%20imprese%20ferroviarie%20e%20della%20direttiva%2095-19-CE%20relativa%20alla%20ripartizione%20delle%20capacita%20di%20in_543a50abec5c.md) (Regolamento recante norme di attuazione della [direttiva 95/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;18), relativa alle licenze delle imprese ferroviarie, e della [direttiva 95/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;19), relativa alla ripartizione delle capacita' di infrastruttura ferroviaria e alla riscossione dei diritti per l'utilizzo dell'infrastruttura.), abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 24 maggio 1999, n. 119. 
  Le [direttive 95/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;18) e [95/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;19) sono pubblicate nella G.U.C.E. 27 giugno 1995, n. L 143.
 
 ### Art. 43. — Clausola di cedevolezza espressa

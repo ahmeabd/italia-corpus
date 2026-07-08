@@ -18,7 +18,7 @@ Vista la [direttiva 2013/48/UE del Parlamento europeo e del Consiglio, del 22 ot
 
 Vista la [legge 9 luglio 2015, n. 114](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 - e, in particolare, l'articolo 1 e l'allegato B alla predetta legge;
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -119,7 +119,7 @@ Avvertenza:
  54) (UE) 2015/13 direttiva delegata della Commissione, del 31 ottobre 2014, che modifica l'allegato III della [direttiva 2014/32/UE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;32), per quanto riguarda il campo di portata dei contatori dell'acqua (termine di recepimento 19 aprile 2016); 
  55) (UE) 2015/412 del Parlamento europeo e del Consiglio, dell'11 marzo 2015, che modifica la [direttiva 2001/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;18) per quanto concerne la possibilita' per gli Stati membri di limitare o vietare la coltivazione di organismi geneticamente modificati (OGM) sul loro territorio (senza termine di recepimento); 
  56) (UE) 2015/413 del Parlamento europeo e del Consiglio, dell'11 marzo 2015, intesa ad agevolare lo scambio transfrontaliero di informazioni sulle infrazioni in materia di sicurezza stradale (termine di recepimento 6 maggio 2015).". 
- - Il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md) ( Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. 
+ - Il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md) ( Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. 
  - Il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) (Norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 5 agosto 1989, n. 182, S.O. 
  - La [legge 22 aprile 2005, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-22;69) (Disposizioni per conformare il diritto interno alla decisione quadro 2002/584/GAI del Consiglio, del 13 giugno 2002, relativa al mandato di arresto europeo e alle procedure di consegna tra Stati membri) e' pubblicata nella Gazzetta Ufficiale 29 aprile 2005, n. 98. 
  
@@ -134,14 +134,14 @@ Capo II
 
 1.
 
-All'[articolo 364 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_364), approvato dal [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+All'[articolo 364 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_364), approvato dal [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 al comma 1, dopo le parole: «a ispezione» sono inserite le seguenti: «, a individuazione di persone»;
                             b)
                                 al comma 5, primo periodo, dopo le parole: «a ispezione» sono inserite le seguenti: «, a individuazione di persone».
 
 Note all'art. 2: 
- - Il testo dell'art. 364 del citato [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 364 del citato [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 364 (Nomina e assistenza del difensore). - 1. Il pubblico ministero, se deve procedere a interrogatorio, ovvero a ispezione, a individuazione di persone o confronto cui deve partecipare la persona sottoposta alle indagini, la invita a presentarsi a norma dell'art. 375. 
  2. La persona sottoposta alle indagini priva del difensore e' altresi' avvisata che e' assistita da un difensore di ufficio, ma che puo' nominarne uno di fiducia. 
  3. Al difensore di ufficio o a quello di fiducia in precedenza nominato e' dato avviso almeno ventiquattro ore prima del compimento degli atti indicati nel comma 1 e delle ispezioni a cui non deve partecipare la persona sottoposta alle indagini. 

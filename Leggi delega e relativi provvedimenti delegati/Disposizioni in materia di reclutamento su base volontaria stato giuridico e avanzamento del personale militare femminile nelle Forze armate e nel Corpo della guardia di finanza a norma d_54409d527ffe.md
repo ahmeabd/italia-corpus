@@ -10,20 +10,20 @@ vigente: true
 
 ## Art. 1.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 2.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 3.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 4.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
 ## Art. 5.
 
-((IL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+((IL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))

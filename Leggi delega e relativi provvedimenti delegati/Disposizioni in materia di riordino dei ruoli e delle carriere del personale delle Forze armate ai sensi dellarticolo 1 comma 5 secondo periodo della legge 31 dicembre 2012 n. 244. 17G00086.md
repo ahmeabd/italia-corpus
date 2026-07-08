@@ -22,7 +22,7 @@ Vista la [legge 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto il decreto del Presidente del Consiglio dei ministri 27 febbraio 2017;
 
-Visto il [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e successive modificazioni;
+Visto il [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e successive modificazioni;
 
 Visto il [testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), di cui al [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) e successive modificazioni;
 
@@ -44,7 +44,7 @@ Disposizioni comuni a piu' categorie
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             l'articolo 627 e' sostituito dal seguente: 
  «Art. 627 (Categorie di militari e carriere). - 1. Il personale militare e' inquadrato nelle seguenti categorie gerarchicamente ordinate: 
@@ -128,13 +128,13 @@ NOTE
  - L'[art. 1, commi 5](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) e [6, della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) (Delega al Governo per la revisione dello strumento militare nazionale e norme sulla medesima materia), pubblicata nella Gazzetta Ufficiale - Serie generale - n. 13 del 16 gennaio 2013, reca: 
  «Art. 1 (Oggetto e modalita' di esercizio della delega). - 1. - 4. (Omissis). 
  5. Entro ventiquattro mesi dalla data di entrata in vigore dei decreti legislativi di cui al comma 1, il Governo puo' adottare disposizioni integrative e correttive, con le medesime modalita' e nel rispetto dei medesimi principi e criteri direttivi. Una quota parte non superiore al 50 per cento dei risparmi di spesa di parte corrente di natura permanente, di cui all'art. 4, comma 1, lettere c) e d), della presente legge, anche tenuto conto di quanto previsto dall'art. 3, comma 155, ultimo periodo, della [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), e successive modificazioni, e' utilizzata per adottare, entro il 1° luglio 2017, ulteriori disposizioni integrative, con le medesime procedure di cui al comma 3 del presente articolo, al fine di assicurare la sostanziale equiordinazione nel rispetto dei principi di cui agli [articoli 2, comma 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), e [3, comma 3, della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), e dei criteri direttivi di cui all'[art. 8, comma 1, lettera a), numero 1), della legge 7 agosto 2015, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124#art_8-com1-leta-num1). 
- 6. Gli interventi normativi previsti dalle disposizioni dei decreti legislativi di cui al presente articolo sono effettuati introducendo le necessarie modificazioni al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di seguito denominato «[codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)».». 
+ 6. Gli interventi normativi previsti dalle disposizioni dei decreti legislativi di cui al presente articolo sono effettuati introducendo le necessarie modificazioni al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di seguito denominato «[codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)».». 
  - L'[art. 3, comma 155, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2004), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale - Serie generale - n. 299 del 27 dicembre 2003, reca: 
  «Art. 3 (Disposizioni in materia di oneri sociali e di personale e per il funzionamento di amministrazioni ed enti pubblici). - 1. - 154. (Omissis). 
  155. E' autorizzata la spesa di 87 milioni di euro per l'anno 2004, 42 milioni di euro per l'anno 2005 e 38 milioni di euro a decorrere dal 2006 da destinare a provvedimenti normativi volti al riallineamento, con effetti economici a decorrere dal 1° gennaio 2003, delle posizioni di carriera del personale dell'Esercito, della Marina, ivi comprese le Capitanerie di porto, e dell'Aeronautica inquadrato nei ruoli dei marescialli ai sensi dell'[art. 34 del decreto legislativo 12 maggio 1995, n. 196](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20modifica%20alle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20delle%20Forze%20armate.md), con quelle del personale dell'Arma dei carabinieri inquadrato nel ruolo degli ispettori ai sensi dell'[art. 46 del decreto legislativo 12 maggio 1995, n. 198](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20e%20modifica%20delle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20e%20non%20dirige_7b08a5b3e400.md). E' altresi' autorizzata la spesa di 73 milioni di euro per l'anno 2004, 118 milioni di euro per l'anno 2005 e 122 milioni di euro a decorrere dall'anno 2006 da destinare a provvedimenti normativi in materia di riordino dei ruoli e delle carriere del personale non direttivo e non dirigente delle Forze armate e delle Forze di polizia. E' altresi' autorizzata la spesa di 944.958 euro per l'anno 2016, di 973.892 euro per l'anno 2017 e di 1.576.400 euro annui a decorrere dall'anno 2018, da destinare a provvedimenti normativi diretti all'equiparazione, nell'articolazione delle qualifiche, nella progressione di carriera e nel trattamento giuridico ed economico, del personale direttivo del Corpo di polizia penitenziaria ai corrispondenti ruoli direttivi della Polizia di Stato di cui al [decreto legislativo 5 ottobre 2000, n. 334](Riordino%20dei%20ruoli%20del%20personale%20direttivo%20e%20dirigente%20della%20Polizia%20di%20Stato%20a%20norma%20dellarticolo%205%20comma%201%20della%20legge%2031%20marzo%202000%20n.%2078.md). In ogni caso, restano ferme le disposizioni di cui all'[art. 8 della legge 7 agosto 2015, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124#art_8).». 
  - La [legge 7 agosto 2015, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124) (Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche) e' pubblicata nella Gazzetta Ufficiale - Serie generale - n. 187 del 13 agosto 2015. 
  - La [legge 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) (Bilancio di previsione dello Stato per l'anno finanziario 2017 e bilancio pluriennale per il triennio 2017-2019) e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale - Serie generale - n. 297 del 21 dicembre 2016. 
- - Il [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ([Codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - Serie generale - n. 106 dell'8 maggio 2010. 
+ - Il [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ([Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - Serie generale - n. 106 dell'8 maggio 2010. 
  - Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) ([Testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), a norma dell'[art. 14 della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - Serie generale - n. 140 del 18 giugno 2010. 
  
  Note all'art. 1: 
@@ -210,7 +210,7 @@ NOTE
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 540, comma 1, le parole «e i colonnelli delle Forze armate e gradi corrispondenti» sono sostituite dalle seguenti: «e ammiragli e gli ufficiali superiori delle Forze armate»;
                         b)
@@ -434,7 +434,7 @@ Note all'art. 2:
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 2196-bis, dopo il comma 1, e' inserito il seguente: 
  «1-bis. Sino ai concorsi banditi per le immissioni dell'anno 2022, in deroga a quanto previsto dall'articolo 655-bis, il concorso per l'accesso al ruolo speciale degli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare riservato ai luogotenenti in servizio e' svolto per soli titoli e con il possesso del diploma di istruzione secondaria di secondo grado. 
@@ -493,7 +493,7 @@ Note all'art. 3:
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 629: 
  1) alla rubrica, dopo la parola «gradi» sono inserite le seguenti: «e delle qualifiche»; 
@@ -814,7 +814,7 @@ Note all'art. 4:
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo l'articolo 2197-bis, e' inserito il seguente: 
  «Art. 2197-ter (Concorso straordinario per il ruolo dei Marescialli). - 1. In deroga a quanto previsto dall'articolo 682, per il solo anno 2018 e' bandito un concorso straordinario per titoli ed esami per il reclutamento nei ruoli dei Marescialli dell'Esercito italiano, della Marina militare e dell'Aeronautica militare. 
@@ -920,7 +920,7 @@ Note all'art. 5:
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             l'articolo 690 e' sostituito dal seguente: 
  «Art. 690 (Modalita' di reclutamento dei sergenti e dei sovrintendenti). - 1. Il reclutamento nei ruoli sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare avviene mediante concorsi interni, riservati: 
@@ -995,7 +995,7 @@ Note all'art. 6:
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             l'articolo 2198 e' sostituito dal seguente: 
  «Art. 2198 (Regime transitorio dei concorsi per il reclutamento nei ruoli dei marescialli, dei sergenti e dei volontari in servizio permanente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare). - 1. I concorsi banditi prima del 1° gennaio 2017 per il reclutamento di personale in servizio permanente sono espletati e i vincitori conseguono la nomina secondo la normativa vigente prima della stessa data.»;
@@ -1049,7 +1049,7 @@ Fino al 31 dicembre 2016, per l'avanzamento al grado superiore del personale dei
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 630, dopo il comma 1, e' inserito il seguente: 
  «1-bis. Al caporal maggiore capo scelto, o gradi corrispondenti puo' essere attribuita la seguente qualifica: qualifica speciale. I caporal maggiori capi scelti qualifica speciale hanno rango preminente sui pari grado; fra caporal maggiori capi scelti qualifica speciale, si tiene conto della data di conferimento della qualifica, anche nel caso di pari grado con diversa anzianita'.»;
@@ -1157,7 +1157,7 @@ Note all'art. 8:
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo l'articolo 2255 sono inseriti i seguenti: 
  «Art. 2255-bis (Disposizioni transitorie per l'avanzamento al grado di caporal maggiore capo scelto e gradi corrispondenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare). - 1. Per l'anno 2017, le promozioni al grado di caporal maggiore capo scelto e gradi corrispondenti sono conferite ad anzianita', previo giudizio di idoneita' espresso dalle commissioni di avanzamento, con le decorrenze giuridiche e amministrative di seguito indicate in riferimento alle permanenze minime nel grado di caporal maggiore capo e gradi corrispondenti ivi richieste: 
@@ -1176,8 +1176,8 @@ Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordi
 
 1.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto 
-legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti 
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto 
+legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti 
 modificazioni:
                         a)
                             all'articolo 1791: 
@@ -1447,7 +1447,7 @@ delle Forze armate».
 3.
 
 All'[articolo 4, del decreto-legge 27 settembre 1982, n. 681](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-27;681#art_4), convertito, con modificazioni, dalla [legge 20 novembre 1982, n. 869, il comma terzo](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20settembre%201982%20n.%20681%20concernente%20adeguamento%20provvisorio%20del%20trattamento%20economico%20dei%20dirigenti%20delle%20amministrazioni%20dello%20S_94ae39c00f41.md) e' sostituito dal seguente: 
- «Per il personale militare, in caso di promozione a maggiore, o grado corrispondente, o grado superiore o maturazione delle anzianita' di servizio dal conseguimento della nomina a ufficiale o della qualifica di aspirante previste dall'[articolo 1810-bis del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e successive modificazioni, si applicano le disposizioni di cui all'articolo 1811 del medesimo 
+ «Per il personale militare, in caso di promozione a maggiore, o grado corrispondente, o grado superiore o maturazione delle anzianita' di servizio dal conseguimento della nomina a ufficiale o della qualifica di aspirante previste dall'[articolo 1810-bis del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e successive modificazioni, si applicano le disposizioni di cui all'articolo 1811 del medesimo 
 decreto legislativo».
 
 4.
@@ -1609,7 +1609,7 @@ notturno o festivo diurno euro 27,35; festivo notturno euro 31,56.
 
 9-bis.
 
-Per il personale che, alla data del 1° gennaio 2018, riveste il grado di capitano e corrispondenti e non ha maturato una anzianita' di tredici anni dal conseguimento della nomina ad ufficiale o della qualifica di aspirante, il compenso per lavoro straordinario e' corrisposto, al compimento della predetta anzianita' e fino all'inquadramento nel livello retributivo superiore, nella misura oraria lorda prevista per il personale di cui all'[articolo 1810-bis, comma 1, lettera n), del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e successive modificazioni.
+Per il personale che, alla data del 1° gennaio 2018, riveste il grado di capitano e corrispondenti e non ha maturato una anzianita' di tredici anni dal conseguimento della nomina ad ufficiale o della qualifica di aspirante, il compenso per lavoro straordinario e' corrisposto, al compimento della predetta anzianita' e fino all'inquadramento nel livello retributivo superiore, nella misura oraria lorda prevista per il personale di cui all'[articolo 1810-bis, comma 1, lettera n), del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e successive modificazioni.
 
 10.
 
@@ -1623,8 +1623,8 @@ A decorrere dal 1° gennaio 2017, l'importo dell'assegno funzionale di cui all'[
 
 11.
 
-A decorrere dal 1° gennaio 2018, ai capitani e gradi corrispondenti con piu' di dieci anni dal conseguimento della nomina ad ufficiale o della qualifica di aspirante, e' attribuito un assegno funzionale nella misura annua lorda di euro 1.707,69 fino al conseguimento del grado di maggiore e gradi corrispondenti ed e', cumulabile con l'importo previsto per il grado di capitano dalla tabella di cui all'[articolo 8, comma 3, del decreto del Presidente della Repubblica 16 aprile 2009, n. 52](../DPR/Recepimento%20del%20provvedimento%20di%20concertazione%20per%20le%20Forze%20armate%20integrativo%20del%20decreto%20del%20Presidente%20della%20Repubblica%2011%20settembre%202007%20n.%20171%20relativo%20al%20quadriennio%20normativo%202006-_a332c5862b39.md) e con gli assegni di cui all'[articolo 2262-bis commi 1](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [3](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [4 del decreto legislativo 15 marzo 
-2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+A decorrere dal 1° gennaio 2018, ai capitani e gradi corrispondenti con piu' di dieci anni dal conseguimento della nomina ad ufficiale o della qualifica di aspirante, e' attribuito un assegno funzionale nella misura annua lorda di euro 1.707,69 fino al conseguimento del grado di maggiore e gradi corrispondenti ed e', cumulabile con l'importo previsto per il grado di capitano dalla tabella di cui all'[articolo 8, comma 3, del decreto del Presidente della Repubblica 16 aprile 2009, n. 52](../DPR/Recepimento%20del%20provvedimento%20di%20concertazione%20per%20le%20Forze%20armate%20integrativo%20del%20decreto%20del%20Presidente%20della%20Repubblica%2011%20settembre%202007%20n.%20171%20relativo%20al%20quadriennio%20normativo%202006-_a332c5862b39.md) e con gli assegni di cui all'[articolo 2262-bis commi 1](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [3](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [4 del decreto legislativo 15 marzo 
+2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 12.
 
@@ -1753,15 +1753,15 @@ Il [D.P.R. 24 marzo 2025, n. 52](../DPR/Recepimento%20dellaccordo%20sindacale%20
 
 1.
 
-A decorrere dal 1° gennaio 2017, le tabelle 1, 2 e 3, di cui agli articoli 1099-bis, 1136-bis e 1185-bis, allegate al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono sostituite dalle tabelle 1, 2 e 3 allegate al presente decreto.
+A decorrere dal 1° gennaio 2017, le tabelle 1, 2 e 3, di cui agli articoli 1099-bis, 1136-bis e 1185-bis, allegate al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono sostituite dalle tabelle 1, 2 e 3 allegate al presente decreto.
 
 2.
 
-Le modificazioni apportate al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66, dall'articolo 10, comma 1, lettere c)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [d)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) [e)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [f)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [g)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [h)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [i)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [l)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [n)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [o)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [p)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [q)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [r)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [s)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [t)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [u)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [z)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), hanno effetto a decorrere dal 1° gennaio 2018.
+Le modificazioni apportate al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66, dall'articolo 10, comma 1, lettere c)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [d)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) [e)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [f)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [g)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [h)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [i)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [l)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [n)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [o)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [p)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [q)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [r)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [s)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [t)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [u)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [z)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), hanno effetto a decorrere dal 1° gennaio 2018.
 
 3.
 
-La modificazione apportata all'[articolo 1791 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66, dall'articolo 10, comma 1, lettera a)](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), ha effetto a decorrere dal 1° gennaio 2017.
+La modificazione apportata all'[articolo 1791 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66, dall'articolo 10, comma 1, lettera a)](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), ha effetto a decorrere dal 1° gennaio 2017.
 
 4.
 
@@ -1769,7 +1769,7 @@ Le modificazioni apportate al [decreto-legge 27 settembre 1982, n. 681](https://
 
 5.
 
-A decorrere dall'anno 2017, le consistenze del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare, come determinate, ai sensi dell'[articolo 2207 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e successive modificazioni, dalla tabella 2 annessa al decreto del Ministro della difesa di concerto con i Ministri dell'economia e delle finanze e per la semplificazione e la pubblica amministrazione 21 luglio 2016, registrato alla Corte dei conti in data 22 agosto 2016, foglio n. 1588, sono ridotte di un contingente complessivo di personale non inferiore a 1.498 unita' come da tabella 4 allegata al presente decreto. I risparmi, valutati in euro 145 milioni in termini di saldo netto da finanziare, determinati dalla riduzione delle consistenze di cui al presente comma:
+A decorrere dall'anno 2017, le consistenze del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare, come determinate, ai sensi dell'[articolo 2207 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e successive modificazioni, dalla tabella 2 annessa al decreto del Ministro della difesa di concerto con i Ministri dell'economia e delle finanze e per la semplificazione e la pubblica amministrazione 21 luglio 2016, registrato alla Corte dei conti in data 22 agosto 2016, foglio n. 1588, sono ridotte di un contingente complessivo di personale non inferiore a 1.498 unita' come da tabella 4 allegata al presente decreto. I risparmi, valutati in euro 145 milioni in termini di saldo netto da finanziare, determinati dalla riduzione delle consistenze di cui al presente comma:
                         a)
                             nel limite del 50 per cento, sono destinati alla copertura finanziaria delle spese di personale derivanti dal riordino dei ruoli del personale delle Forze armate, in aderenza all'[articolo 1, comma 5, della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md);
                         b)
@@ -1777,7 +1777,7 @@ A decorrere dall'anno 2017, le consistenze del personale militare dell'Esercito 
 
 6.
 
-Al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), dopo l'articolo 2262, e' inserito il seguente: 
+Al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), dopo l'articolo 2262, e' inserito il seguente: 
  «Art. 2262-bis. Disposizioni transitorie e di coordinamento in tema di riordino - 1. Al personale militare che a seguito dell'emanazione del decreto legislativo in attuazione della delega di cui all'articolo 1, comma 5, secondo periodo, della [legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), percepisce un trattamento fisso e continuativo inferiore a quello precedentemente in godimento, e' attribuito un assegno ad personam riassorbibile con i successivi incrementi della componente di retribuzione fissa e continuativa, non cumulabile con l'assegno funzionale di cui all'[articolo 8, comma 3, del decreto del Presidente della Repubblica 16 aprile 2009, n. 52](../DPR/Recepimento%20del%20provvedimento%20di%20concertazione%20per%20le%20Forze%20armate%20integrativo%20del%20decreto%20del%20Presidente%20della%20Repubblica%2011%20settembre%202007%20n.%20171%20relativo%20al%20quadriennio%20normativo%202006-_a332c5862b39.md). Per gli ufficiali, l'assegno ad personam di cui al presente comma non e' cumulabile con l'assegno funzionale di cui all'[articolo 8, comma 3, del decreto del Presidente della Repubblica 16 aprile 2009, n. 52](../DPR/Recepimento%20del%20provvedimento%20di%20concertazione%20per%20le%20Forze%20armate%20integrativo%20del%20decreto%20del%20Presidente%20della%20Repubblica%2011%20settembre%202007%20n.%20171%20relativo%20al%20quadriennio%20normativo%202006-_a332c5862b39.md), ma e' cumulabile con l'assegno funzionale di cui all'articolo 10, comma 11 del decreto legislativo di cui al primo periodo. 
  2. Ai fini del comma 1 si intende per «trattamento fisso e continuativo» quello composto, a seconda dei ruoli di appartenenza, da: stipendio, indennita' integrativa speciale, assegno pensionabile, indennita' di impiego operativo di base, indennita' dirigenziale, importo aggiuntivo pensionabile, assegno funzionale, assegno di valorizzazione dirigenziale, indennita' perequativa. 
  3. Agli ufficiali in servizio alla data del 1° gennaio 2018 e che non abbiano maturato a tale data un'anzianita' pari a tredici anni di servizio dal conseguimento della nomina ad ufficiale o dalla qualifica di aspirante, e' corrisposto un assegno personale di riordino, di importo lordo mensile pari a euro 650,00, per tredici mensilita' dal compimento del tredicesimo anno di servizio dalla nomina ad ufficiale o dalla qualifica di aspirante fino al conseguimento del grado di maggiore e gradi corrispondenti. Il predetto assegno non e' cumulabile con l'assegno funzionale di cui all'articolo 8, comma 3, del decreto del Presidente della Repubblica.
@@ -1793,7 +1793,7 @@ Il personale ufficiale fino al grado di capitano che alla data del 31 dicembre 2
 8.
 
 Agli ufficiali appartenenti ai ruoli del servizio permanente per i quali e' previsto il diretto conseguimento del grado di tenente o corrispondente che alla data del 1° gennaio 2018 rivestono il grado di maggiore e gradi corrispondenti, o gradi superiori, la determinazione dello stipendio, in deroga al comma 3 dell'articolo 1811, e' effettuata alla maturazione del ventitreesimo anno dal conseguimento della nomina diretta a tenente.». 
- 7. In fase di prima applicazione del presente decreto legislativo, gli ufficiali superiori e gli ufficiali generali sono reinquadrati, a decorrere dal 1° gennaio 2018, nelle rispettive posizioni economiche, tenendo in considerazione gli anni di servizio effettivamente prestato, aumentati degli altri periodi giuridicamente computabili ai fini stipendiali ai sensi della normativa vigente e ridotti dei periodi di cui all'[articolo 858 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e dei periodi di aspettativa per motivi di studio nei casi previsti dalla normativa vigente. 
+ 7. In fase di prima applicazione del presente decreto legislativo, gli ufficiali superiori e gli ufficiali generali sono reinquadrati, a decorrere dal 1° gennaio 2018, nelle rispettive posizioni economiche, tenendo in considerazione gli anni di servizio effettivamente prestato, aumentati degli altri periodi giuridicamente computabili ai fini stipendiali ai sensi della normativa vigente e ridotti dei periodi di cui all'[articolo 858 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e dei periodi di aspettativa per motivi di studio nei casi previsti dalla normativa vigente. 
  8. Al personale in servizio al 31 dicembre 2016 che secondo la legislazione vigente alla medesima data, consegue entro il ((30 settembre 2017)) il grado di caporal maggiore capo scelto, sergente maggiore capo e primo maresciallo con qualifica di luogotenente e gradi corrispondenti, e' corrisposto, ((...)), in relazione alla diversa anzianita' nel grado e qualifica, un assegno lordo una tantum negli importi di seguito stabiliti:
                         a)
                             per caporal maggiore capo scelto e gradi corrispondenti con almeno otto anni di anzianita' nel grado: euro 800,00;
@@ -1818,7 +1818,7 @@ L'indennita' perequativa e quella di posizione, limitatamente alla componente fi
 
 11.
 
-Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 1000, comma 1, lettere a), numeri 1) e 2), e d), la parola «subalterni», ovunque ricorre, e' sostituita dalle seguenti: «sottotenenti e tenenti»;
                         b)
@@ -1830,7 +1830,7 @@ Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordi
 
 12.
 
-In relazione alle disposizioni di cui all'[articolo 1072-ter, comma 4, del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), come introdotte dall'articolo 2, comma 1, lettera r), del presente decreto, entro tre mesi dalla data di entrata in vigore del presente decreto, sono apportate modifiche alle disposizioni regolamentari di cui all'[articolo 21, comma 2, lettera m), della legge 3 agosto 2007, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124#art_21-com2-letm), secondo le procedure stabilite dall'articolo 43 della medesima legge.
+In relazione alle disposizioni di cui all'[articolo 1072-ter, comma 4, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), come introdotte dall'articolo 2, comma 1, lettera r), del presente decreto, entro tre mesi dalla data di entrata in vigore del presente decreto, sono apportate modifiche alle disposizioni regolamentari di cui all'[articolo 21, comma 2, lettera m), della legge 3 agosto 2007, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124#art_21-com2-letm), secondo le procedure stabilite dall'articolo 43 della medesima legge.
 
 13.
 

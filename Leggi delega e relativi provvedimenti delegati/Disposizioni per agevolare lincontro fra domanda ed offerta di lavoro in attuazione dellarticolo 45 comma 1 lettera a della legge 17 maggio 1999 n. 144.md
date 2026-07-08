@@ -48,7 +48,7 @@ Fino alla adozione del decreto di cui al comma 1 si utilizzano i modelli dei dat
 
 3.
 
-Sono soppresse le liste di collocamento ordinarie e speciali, ad eccezione di quelle previste dall'[articolo 1 del decreto del Presidente della Repubblica 24 settembre 1963, n. 2053](../DPR/Riordinamento%20del%20servizio%20di%20collocamento%20per%20i%20lavoratori%20dello%20spettacolo.md), dall'[articolo 6 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_6), dall'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8).
+Sono soppresse le liste di collocamento ordinarie e speciali, ad eccezione di quelle previste dall'[articolo 1 del decreto del Presidente della Repubblica 24 settembre 1963, n. 2053](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20del%20servizio%20di%20collocamento%20per%20i%20lavoratori%20dello%20spettacolo.md), dall'[articolo 6 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_6), dall'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8).
 
 4.
 
@@ -147,7 +147,7 @@ Il [D.L. 28 giugno 2013, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 27 giugno 2022, n. 104](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
+Il [D.Lgs. 27 giugno 2022, n. 104](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202019-1152%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20giugno%202019%20relativa%20a%20condizioni%20di%20lavoro%20trasparenti%20e%20prevedibili%20nellUnione%20europea.%2022G00113.md) ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
 ## Art. 5.
 

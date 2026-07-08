@@ -24,7 +24,7 @@ Visto il regolamento (UE) n. 1024/2012 del Parlamento europeo e del Consiglio, d
 
 Vista la [direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36), relativa al riconoscimento delle qualifiche professionali;
 
-Visto il [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), recante «Attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania»;
+Visto il [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), recante «Attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania»;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 28 ottobre 2025;
 
@@ -42,7 +42,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 38 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), il comma 6 e' sostituito dal seguente: 
+All'[articolo 38 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), il comma 6 e' sostituito dal seguente: 
  «6. La formazione di infermiere responsabile dell'assistenza generale garantisce l'acquisizione da parte del professionista in questione delle conoscenze e abilita' seguenti: 
  a) un'estesa conoscenza delle scienze che sono alla base dell'assistenza infermieristica generale, compresa una sufficiente conoscenza dell'organismo, delle funzioni fisiologiche e del comportamento delle persone sane e malate, nonche' delle relazioni esistenti tra lo stato di salute e l'ambiente fisico e sociale dell'essere umano; 
  b) una conoscenza della natura e dell'etica della professione e dei principi generali riguardanti la salute e l'assistenza infermieristica; 
@@ -100,10 +100,10 @@ N O T E
  - La direttiva delegata 2024/782/UE del Parlamento europeo e del Consiglio, del 4 marzo 2024, che modifica la [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36), per quanto riguarda i requisiti minimi di formazione per le professioni di infermiere responsabile dell'assistenza generale, dentista e farmacista, e' pubblicata nella GUUE del 31 maggio 2024, Serie L. 
  - Il regolamento (UE) n. 1024/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, relativo alla cooperazione amministrativa attraverso il sistema di informazione del mercato interno e che abroga la decisione 2008/49/CE della Commissione («regolamento IMI») e' pubblicato nella GUUE del 14 novembre 2012, serie L 316. 
  - La [direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36), relativa al riconoscimento delle qualifiche professionali e' pubblicata nella GUUE 30 settembre 2005, serie L. 
- - Il [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), recante «Attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania» e' pubblicato nella Gazzetta Ufficiale n. 261 del 9 settembre 2007. 
+ - Il [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), recante «Attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania» e' pubblicato nella Gazzetta Ufficiale n. 261 del 9 settembre 2007. 
  
  Note all'art. 1: 
- - Si riporta il testo dell'articolo 38 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 38 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto: 
  «Art. 38 (Formazione d'infermiere responsabile dell'assistenza generale). - 1. L'ammissione alla formazione di infermiere responsabile dell'assistenza generale e' subordinata: 
  a) al completamento di una formazione scolastica generale di dodici anni sancita da un diploma, attestato o altro titolo rilasciato da autorita' od organi competenti di uno Stato membro, o da un certificato attestante il superamento di un esame di livello equivalente che dia accesso all'universita' o a istituti di insegnamento superiore di un livello riconosciuto come equivalente; o 
  b) al completamento di una formazione scolastica generale di almeno dieci anni sancita da un diploma, attestato o altro titolo rilasciato da autorita' od organi competenti di uno Stato membro, o da un certificato attestante il superamento di un esame di livello equivalente che dia accesso alle scuole professionali o ai programmi di formazione professionale per infermieri. 
@@ -133,7 +133,7 @@ N O T E
 
 1.
 
-All'[articolo 41 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), il comma 3 e' sostituito dal seguente: 
+All'[articolo 41 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), il comma 3 e' sostituito dal seguente: 
  «3. La formazione dell'odontoiatra garantisce l'acquisizione da parte dell'interessato delle conoscenze e abilita' seguenti: 
  a) adeguate conoscenze delle scienze sulle quali si fonda l'odontoiatria, nonche' una buona comprensione dei metodi scientifici e in particolare dei principi relativi alla misura delle funzioni biologiche, alla valutazione di fatti stabiliti scientificamente e all'analisi dei dati; 
  b) adeguate conoscenze della costituzione, della fisiologia e del comportamento di persone sane e malate, nonche' del modo in cui l'ambiente naturale e sociale influisce sullo stato di salute dell'uomo, nella misura in cui cio' sia correlato all'odontoiatria; 
@@ -143,7 +143,7 @@ All'[articolo 41 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  f) un'adeguata conoscenza dell'odontoiatria digitale e una buona comprensione del suo uso e della sua applicazione sicura nella pratica.».
 
 Note all'art. 2: 
- - Si riporta il testo dell'articolo 41 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 41 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto: 
  «Art. 41 (Formazione dell'odontoiatra). - 1.
  L'ammissione alla formazione di odontoiatra e' subordinata al possesso di un diploma di scuola secondaria superiore che dia accesso, per tali studi, alle universita'. 
  2. La formazione dell'odontoiatra comprende un percorso di studi teorici e pratici della durata minima di cinque anni svolti a tempo pieno che possono essere espressi in aggiunta anche in crediti ECTS equivalenti e consiste in almeno 5.000 ore di insegnamento. Il programma di studi, che permette il conseguimento del diploma di laurea in odontoiatria e protesi dentaria, corrisponde almeno a quello di cui all'allegato V, punto 5.3.1. Detti studi sono effettuati presso un'universita' o sotto il controllo di un'universita'. 
@@ -161,7 +161,7 @@ Note all'art. 2:
 
 1.
 
-All'[articolo 50, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), il comma 3 e' sostituito dal seguente: 
+All'[articolo 50, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), il comma 3 e' sostituito dal seguente: 
  «3. La formazione di farmacista garantisce l'acquisizione da parte dell'interessato delle conoscenze e abilita' seguenti: 
  a) un'adeguata conoscenza dei medicinali e delle sostanze utilizzate per la loro fabbricazione; 
  b) un'adeguata conoscenza della tecnologia farmaceutica e del controllo fisico, chimico, biologico e microbiologico dei medicinali; 
@@ -174,7 +174,7 @@ All'[articolo 50, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20
  i) conoscenza adeguata delle tecnologie dell'informazione e della tecnologia digitale e competenze relative all'applicazione pratica.».
 
 Note all'art. 3: 
- - Si riporta il testo dell'articolo 50 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto: 
+ - Si riporta il testo dell'articolo 50 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto: 
  «Art. 50 (Formazione di farmacista). - 1.
  L'ammissione alla formazione di farmacista e' subordinata al possesso di un diploma di scuola secondaria superiore che dia accesso, per tali studi, alle universita'. 
  2. Il titolo di formazione di farmacista sancisce una formazione della durata di almeno cinque anni che puo' essere anche espressa in aggiunta in crediti ECTS equivalenti, di cui almeno: 
@@ -196,10 +196,10 @@ Note all'art. 3:
 
 1.
 
-All'allegato V al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le modificazioni riportate nell'allegato A al presente decreto.
+All'allegato V al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le modificazioni riportate nell'allegato A al presente decreto.
 
 Note all'art. 4: 
- - Si riporta il testo dell'allegato V, sezioni V.2, V.3 e V.6, del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal decreto: 
+ - Si riporta il testo dell'allegato V, sezioni V.2, V.3 e V.6, del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal decreto: 
  «Allegato V Riconoscimento in base al coordinamento delle condizioni minime di formazioni 
  Omissis. 
  V.2. Infermiere responsabile dell'assistenza generale. 

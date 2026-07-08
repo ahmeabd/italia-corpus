@@ -39,7 +39,7 @@ B) Limiti di indennizzabilita'. Decorrenza del pagamento della indennita'. Presc
  C) Tipo e durata delle prestazioni.
 
  1. Prestazioni sanitarie. - Per quanto attiene al tipo ed alla estensione, dovranno essere concesse in conformita' a quanto gia attuato nel settore industriale.
- Nel settore delle malattie professionali in agricoltura non sara' applicabile la condizione dello stato di bisogno richiesta dall'[art. 5 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 85](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.md).
+ Nel settore delle malattie professionali in agricoltura non sara' applicabile la condizione dello stato di bisogno richiesta dall'[art. 5 del decreto legislativo luogotenenziale 8 febbraio 1946, n. 85](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20allassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.md).
  Sara' inoltre effettuato il coordinamento con la legge sulla assicurazione di malattia dei coltivatori diretti.
 
  2. Prestazioni economiche:

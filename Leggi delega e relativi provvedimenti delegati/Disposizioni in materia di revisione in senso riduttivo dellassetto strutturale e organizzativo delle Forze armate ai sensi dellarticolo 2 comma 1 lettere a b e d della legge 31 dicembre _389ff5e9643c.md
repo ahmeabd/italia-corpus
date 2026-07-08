@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), recante delega al Governo per la revisione dello strumento militare nazionale e norme sulla medesima materia, in particolare l'articolo 2, comma 1, lettere a), b) e d);
 
-Visto il «[codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)» di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md);
+Visto il «[codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)» di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md);
 
 Visto il «[testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md)» di cui al [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md);
 
@@ -44,7 +44,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 15: 
  1) al comma 2: 
@@ -69,10 +69,10 @@ Avvertenza:
  Il testo dell'[art. 2, comma 1, lettere a)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), [b)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) e [d), della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) (Delega al Governo per la revisione dello strumento militare nazionale e norme sulla medesima materia), pubblicata nella Gazzetta Ufficiale del 16 gennaio 2013, n. 13, e' il seguente: 
  «Art. 2. (Principi e criteri direttivi per la revisione dell'assetto strutturale ed organizzativo del Ministero della difesa) 
  1. Il decreto legislativo di cui all'art. 1, comma 1, lettera a), e' adottato nel rispetto dei seguenti principi e criteri direttivi: 
- a) previsione che il Capo di stato maggiore della difesa, nell'ambito delle attribuzioni di cui agli [articoli 25](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [26 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), emana direttive ai fini dell'esercizio di tutte le attribuzioni dei Capi di stato maggiore di Forza armata e del Comandante generale dell'Arma dei carabinieri, per i compiti militari, previste dall'[art. 33 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e delle attribuzioni tecnico-operative del Segretario generale della difesa-Direttore nazionale degli armamenti, previste dall'art. 41 del medesimo codice; 
+ a) previsione che il Capo di stato maggiore della difesa, nell'ambito delle attribuzioni di cui agli [articoli 25](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [26 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), emana direttive ai fini dell'esercizio di tutte le attribuzioni dei Capi di stato maggiore di Forza armata e del Comandante generale dell'Arma dei carabinieri, per i compiti militari, previste dall'[art. 33 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e delle attribuzioni tecnico-operative del Segretario generale della difesa-Direttore nazionale degli armamenti, previste dall'art. 41 del medesimo codice; 
  b) razionalizzazione delle strutture operative, logistiche, formative, territoriali e periferiche, anche mediante soppressioni e accorpamenti, con ubicazione nel minor numero possibile di sedimi, ottimizzando le relative funzioni, in modo da conseguire una contrazione strutturale complessiva non inferiore al 30 per cento, entro sei anni dalla data di entrata in vigore del decreto legislativo di cui al comma 1, in particolare attraverso i seguenti interventi di riorganizzazione e razionalizzazione: 
- 1) dell'assetto organizzativo dell'area tecnico-operativa del Ministero della difesa, in senso riduttivo, con particolare riferimento all'area di vertice e centrale, interforze e delle Forze armate, perseguendo una maggiore integrazione interforze e una marcata standardizzazione organizzativa, nella prospettiva di una politica di difesa comune europea, da attuare con le modalita' di cui all'[art. 10, comma 3, del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md); 
- 2) dell'assetto organizzativo del Ministero della difesa, di cui agli [articoli 15](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [16 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), eventualmente prevedendo una diversa ripartizione di funzioni e compiti tra le aree tecnico-operativa e tecnico-amministrativa, e apportando le conseguenti modificazioni all'organizzazione degli uffici del Ministero della difesa, con regolamento da adottare ai sensi dell'[art. 17, comma 4-bis della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis); 
+ 1) dell'assetto organizzativo dell'area tecnico-operativa del Ministero della difesa, in senso riduttivo, con particolare riferimento all'area di vertice e centrale, interforze e delle Forze armate, perseguendo una maggiore integrazione interforze e una marcata standardizzazione organizzativa, nella prospettiva di una politica di difesa comune europea, da attuare con le modalita' di cui all'[art. 10, comma 3, del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md); 
+ 2) dell'assetto organizzativo del Ministero della difesa, di cui agli [articoli 15](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [16 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), eventualmente prevedendo una diversa ripartizione di funzioni e compiti tra le aree tecnico-operativa e tecnico-amministrativa, e apportando le conseguenti modificazioni all'organizzazione degli uffici del Ministero della difesa, con regolamento da adottare ai sensi dell'[art. 17, comma 4-bis della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis); 
  3) dei compiti e della struttura del Comando operativo di vertice interforze (COI), definendo le forme di collegamento con i comandi operativi di componente; 
  4) della struttura logistica di sostegno, ridefinendone i compiti e le procedure, e individuando settori e aree dedicati al sostegno generale delle Forze armate, anche mediante la realizzazione di strutture interforze, organizzative o di coordinamento; 
  5) della struttura organizzativa del Servizio sanitario militare, secondo criteri interforze e di specializzazione, con la previsione di meccanismi volti a garantire la neutralita' finanziaria per le prestazioni rese per conto o in supporto al Servizio sanitario nazionale, anche prevedendo la facolta' di esercizio dell'attivita' libero-professionale intra-muraria, sulla base di convenzioni stipulate tra il Ministero della difesa, il Ministero della salute, il Ministero dell'economia e delle finanze e le regioni interessate, senza oneri aggiuntivi per la finanza pubblica; 
@@ -83,7 +83,7 @@ Avvertenza:
  c) (Omissis).; 
  d) razionalizzazione del funzionamento degli arsenali, dei principali poli di mantenimento nonche' degli stabilimenti e dei centri di manutenzione della difesa, privilegiando l'esecuzione di lavori effettuati con risorse interne, al fine di realizzare risparmi di spesa; 
  e) (Omissis).». 
- Il [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ([Codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale dell'8 maggio 2010, n. 106. 
+ Il [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ([Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale dell'8 maggio 2010, n. 106. 
  Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) ([Testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), a norma dell'[art. 14 della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 18 giugno 2010, n. 140. 
  Il testo degli [artt. 20](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), [21](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [22 del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 agosto 1999, n. 203, e' il seguente: 
  «Art. 20 . (Attribuzioni) 
@@ -92,7 +92,7 @@ Avvertenza:
  a) area tecnico operativa: difesa e sicurezza dello Stato, del territorio nazionale e delle vie di comunicazione marittime ed aree, pianificazione generale operative delle Forze armate e Interforze con i conseguenti programmi tecnico finanziari; partecipazione a missioni anche multinazionali per interventi a supporto della pace; partecipazione agli organismi internazionali ed europei competenti in materia di difesa e sicurezza militare o le cui deliberazioni comportino effetti sulla difesa nazionale ed attuazione delle decisioni da questi adottate; rapporti con le autorita' militari degli altri Stati; informativa al Parlamento sull'evoluzione del quadro strategico e degli impegni operativi; classificazione, organizzazione e funzionamento degli enti dell'area operativa: interventi di tutela ambientale, concorso nelle attivita' di protezione civile su disposizione del Governo, concorso alla salvaguardia delle libere istituzioni ed il bene della collettivita' nazionale nei casi di pubbliche calamita'; 
  b) area tecnico amministrativa e tecnico industriale: politica degli armamenti e relativi programmi di cooperazione internazionale; conseguimento degli obiettivi di efficienza fissati per lo strumento militare; bilancio ed affari finanziari; ispezioni amministrative; affari giuridici, economici, contenzioso, disciplinari e sociali del personale militare e civile; armamenti terrestri, navali ed aeronautici; telecomunicazioni, informatica e tecnologie avanzate; lavori e demanio; commissariato e servizi generali; leva e reclutamento; sanita' militare; attivita' di ricerca e sviluppo, approvvigionamento dei materiali e dei sistemi d'arma; programmi di studio nel settore delle nuove tecnologie per lo sviluppo dei programmi d'armamento; pianificazione dell'area industriale pubblica e privata; classificazione, organizzazione e funzionamento degli enti dell'area tecnico industriale.» 
  «Art. 21. (Ordinamento) 
- 1. Il ministero si articola in direzioni generali in numero non superiore a undici, coordinate da un segretario generale. 2. Sono fatte salve le disposizioni contenute nella [legge 18 febbraio 1997, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md) e nel [decreto legislativo 16 luglio 1997, n. 264](../Decreti%20Legislativi/Riorganizzazione%20dellarea%20centrale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20b%20della%20legge%2028%20dicembre%201995%20n.%20549.md), nel [decreto legislativo 28 novembre 1997, n. 459](../Decreti%20Legislativi/Riorganizzazione%20dellarea%20tecnicoindustriale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20c%20%20della%20legge%2028%20dicembre%201995%20n.%20549.md) e nel [decreto legislativo 28 novembre 1997, n. 464, nonche' nell'articolo 2](../Decreti%20Legislativi/Riforma%20strutturale%20delle%20Forze%20armate%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20a%20d%20ed%20h%20della%20legge%2028%20dicembre%201995%20n.%20549.md) del [decreto del Presidente della Repubblica 18 novembre 1965, n. 1478](../DPR/Riorganizzazione%20degli%20uffici%20centrali%20del%20Ministero%20della%20difesa.md).» 
+ 1. Il ministero si articola in direzioni generali in numero non superiore a undici, coordinate da un segretario generale. 2. Sono fatte salve le disposizioni contenute nella [legge 18 febbraio 1997, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md) e nel [decreto legislativo 16 luglio 1997, n. 264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riorganizzazione%20dellarea%20centrale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20b%20della%20legge%2028%20dicembre%201995%20n.%20549.md), nel [decreto legislativo 28 novembre 1997, n. 459](../Decreti%20Legislativi/Riorganizzazione%20dellarea%20tecnicoindustriale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20c%20%20della%20legge%2028%20dicembre%201995%20n.%20549.md) e nel [decreto legislativo 28 novembre 1997, n. 464, nonche' nell'articolo 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20strutturale%20delle%20Forze%20armate%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20a%20d%20ed%20h%20della%20legge%2028%20dicembre%201995%20n.%20549.md) del [decreto del Presidente della Repubblica 18 novembre 1965, n. 1478](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riorganizzazione%20degli%20uffici%20centrali%20del%20Ministero%20della%20difesa.md).» 
  «Art. 22. (Agenzia Industrie Difesa) 
  1. E' istituita, nelle forme disciplinate dagli articoli 8 e 9, l'Agenzia Industrie Difesa, con personalita' giuridica di diritto pubblico. L'agenzia e' posta sotto la vigilanza del ministro della difesa, ed e' organizzata in funzione del conseguimento dei suoi specifici obiettivi, ai sensi dell'[art. 12, lettera r), della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md). Scopo dell'agenzia e' quello di gestire unitariamente le attivita' delle unita' produttive ed industriali della difesa di cui alla tabella C allegata al decreto 20 gennaio 1998 del ministro della difesa indicati con uno o piu' decreti dello stesso ministro, da adottare entro il 31 marzo 2000. L'agenzia utilizza le risorse finanziarie materiali ed umane delle unita' dalla stessa amministrate nella misura stabilita dal regolamento di cui al comma 2. 
  2. Le norme concernenti l'organizzazione ed il funzionamento dell'agenzia sono definite con regolamento da emanare ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), nel rispetto dell'obiettivo dell'economia gestione e dei principi che regolano la concorrenza ed il mercato in quanto applicabili. Con decreto del ministro della difesa, di concerto con il ministro del tesoro, bilancio e programmazione economica, possono essere aggiornati i termini di cui all'[articolo 4, comma 5, del decreto legislativo 28 novembre 1997, n. 459](../Decreti%20Legislativi/Riorganizzazione%20dellarea%20tecnicoindustriale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20c%20%20della%20legge%2028%20dicembre%201995%20n.%20549.md), e ridefinita la procedura ivi prevista, nonche' definite le modalita' per la trasformazione in societa' per azioni delle unita' produttive ed industriali di cui al comma 1 ovvero per la loro alienazione, assicurando al personale il diritto di cui all'[articolo 4, comma 4, del decreto legislativo n. 283 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;283#art_4-com4).». 
@@ -120,7 +120,7 @@ Avvertenza:
 
 1.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica della sezione II, del capo II del titolo III, del libro primo, le parole: «di coordinamento» sono sostituite dalle seguenti: «commissioni di elevata specializzazione tecnica»;
                         b)
@@ -156,7 +156,7 @@ Note all'art. 2:
 
 1.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 215, al comma 1: 
  1) all'alinea, dopo le parole: «disposizioni relative» sono inserite le seguenti: «alle sedi»; 
@@ -164,7 +164,7 @@ Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legis
 
 2.
 
-Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             alla rubrica del titolo III, del libro quarto, sono aggiunte, infine, le parole: «e addestramento»;
                         b)
@@ -193,7 +193,7 @@ Attivita' di consulenza gratuita
 
 1.
 
-Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo l'articolo 984, e' inserito il seguente: 
  
@@ -208,7 +208,7 @@ Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legi
 
 1.
 
-Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo l'articolo 2188 e' inserito il seguente: 
  
@@ -286,7 +286,7 @@ Disposizioni transitorie in materia di provvedimenti di soppressione e di riconf
 
 2.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             l'articolo 101 e' sostituito dal seguente: 
  
@@ -424,7 +424,7 @@ Note all'art. 5:
 
 1.
 
-Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo l'articolo 2188-bis, e' inserito il seguente: 
  
@@ -465,7 +465,7 @@ Disposizioni transitorie in materia di provvedimenti di soppressione e di riconf
 
 2.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 112: 
  1) il comma 1 e' sostituito dal seguente: 
@@ -560,7 +560,7 @@ Note all'art. 6:
 
 1.
 
-Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo l'articolo 2188-ter e' inserito il seguente: 
  
@@ -585,7 +585,7 @@ Disposizioni transitorie in materia di provvedimenti di soppressione e di riconf
 
 2.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 146: 
  1) al comma 2, lettera e), le parole: «di truppa» sono soppresse; 
@@ -611,7 +611,7 @@ Riordino della sanita' militare
 
 1.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 187, dopo il comma 1, e' aggiunto, infine, il seguente: 
  «1-bis. Forme di razionale coordinamento coerenti con i criteri interforze tra il Servizio sanitario militare e il Servizio sanitario del Corpo della Guardia di finanza possono essere assicurate, senza nuovi maggiori oneri per la finanza pubblica, mediante la stipula di apposite convenzioni fra il Comando generale della Guardia di finanza e lo Stato maggiore della difesa.»;
@@ -805,7 +805,7 @@ Note all'art. 8:
 
 1.
 
-Al libro secondo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro secondo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 286: 
  1) il comma 1 e' sostituito dal seguente: 
@@ -880,7 +880,7 @@ Note all'art. 9:
 
 1.
 
-Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 11, comma 1, le parole: «di cui al [decreto del Presidente del Consiglio dei Ministri 14 gennaio 2005, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2005-01-14;93)» sono soppresse;
                         b)
@@ -916,7 +916,7 @@ Al libro primo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legis
 
 2.
 
-Al libro secondo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro secondo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 237, commi 2, 5 e 6, le parole: «della regione militare», ovunque ricorrono, sono sostituite dalla seguente: «interregionale»;
                         b)
@@ -940,7 +940,7 @@ Al libro secondo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Leg
 
 3.
 
-Al libro terzo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro terzo del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 534: 
  1) al comma 1, lettera b), dopo le parole: «disposizioni attuative» sono inserite le seguenti: «di cui al [decreto del Presidente della Repubblica 15 novembre 2012, n. 236](../DPR/Regolamento%20recante%20disciplina%20delle%20attivita%20del%20Ministero%20della%20difesa%20in%20materia%20di%20lavori%20servizi%20e%20forniture%20a%20norma%20dellarticolo%20196%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163.%2013G00004.md),»; 
@@ -956,7 +956,7 @@ Al libro terzo del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legis
 
 4.
 
-Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 1408, comma 2, le parole: «Consiglio dell'Ordine alla Commissione prevista dall'articolo 1426» sono sostituite dalle seguenti: «parere del Consiglio dell'Ordine a quello previsto dall'articolo 1426»;
                         b)
@@ -990,7 +990,7 @@ Al libro quarto del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legi
 
 5.
 
-Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 2266, comma 1, le parole: «di regione militare» sono sostituite dalla seguente: «interregionale».
 
@@ -1099,9 +1099,9 @@ Note all'art. 10:
  Si riporta il testo dei commi 1, lettera b), e 2 dell'art. 534 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), come modificato dal presente decreto: 
  «Art. 534. (Attivita' negoziale del Ministero della difesa. Rinvio) - 1. Fatto salvo quanto disposto dal presente titolo: 
  a) (Omissis); 
- b) ai contratti del Ministero della difesa relativi a lavori, servizi e forniture, diversi da quelli di cui al comma 2, si applicano il [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), recante il [codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) relativi a lavori, servizi e forniture, e le relative disposizioni attuative di cui al [decreto del Presidente della Repubblica 15 novembre 2012, n. 236](../DPR/Regolamento%20recante%20disciplina%20delle%20attivita%20del%20Ministero%20della%20difesa%20in%20materia%20di%20lavori%20servizi%20e%20forniture%20a%20norma%20dellarticolo%20196%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163.%2013G00004.md), emanate ai sensi dell'art. 196 dello stesso codice dei contratti; 
+ b) ai contratti del Ministero della difesa relativi a lavori, servizi e forniture, diversi da quelli di cui al comma 2, si applicano il [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), recante il [codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) relativi a lavori, servizi e forniture, e le relative disposizioni attuative di cui al [decreto del Presidente della Repubblica 15 novembre 2012, n. 236](../DPR/Regolamento%20recante%20disciplina%20delle%20attivita%20del%20Ministero%20della%20difesa%20in%20materia%20di%20lavori%20servizi%20e%20forniture%20a%20norma%20dellarticolo%20196%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163.%2013G00004.md), emanate ai sensi dell'art. 196 dello stesso codice dei contratti; 
  c) - d) (Omissis). 
- 2. Ai contratti del Ministero della difesa relativi a lavori, servizi e forniture ricadenti nell'oggetto della [direttiva 2009/81/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;81), si applicano le disposizioni di cui al [decreto legislativo 15 novembre 2011, n. 208](../Decreti%20Legislativi/Disciplina%20dei%20contratti%20pubblici%20relativi%20ai%20lavori%20servizi%20e%20forniture%20nei%20settori%20della%20difesa%20e%20sicurezza%20in%20attuazione%20della%20direttiva%202009-81-CE.%2011G0249.md), e le relative disposizioni attuative di cui al [decreto del Presidente della Repubblica 13 marzo 2013, n. 49](../DPR/Regolamento%20per%20la%20disciplina%20delle%20attivita%20del%20Ministero%20della%20difesa%20in%20materia%20di%20lavori%20servizi%20e%20forniture%20militari%20a%20norma%20dellarticolo%204%20comma%201%20del%20decreto%20legislativo%2015%20novembr_dc653d4aa49c.md), emanate ai sensi dell'art. 4, comma 1, dello stesso decreto. ». 
+ 2. Ai contratti del Ministero della difesa relativi a lavori, servizi e forniture ricadenti nell'oggetto della [direttiva 2009/81/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;81), si applicano le disposizioni di cui al [decreto legislativo 15 novembre 2011, n. 208](../Atti%20di%20recepimento%20direttive%20UE/Disciplina%20dei%20contratti%20pubblici%20relativi%20ai%20lavori%20servizi%20e%20forniture%20nei%20settori%20della%20difesa%20e%20sicurezza%20in%20attuazione%20della%20direttiva%202009-81-CE.%2011G0249.md), e le relative disposizioni attuative di cui al [decreto del Presidente della Repubblica 13 marzo 2013, n. 49](../DPR/Regolamento%20per%20la%20disciplina%20delle%20attivita%20del%20Ministero%20della%20difesa%20in%20materia%20di%20lavori%20servizi%20e%20forniture%20militari%20a%20norma%20dellarticolo%204%20comma%201%20del%20decreto%20legislativo%2015%20novembr_dc653d4aa49c.md), emanate ai sensi dell'art. 4, comma 1, dello stesso decreto. ». 
  Si riporta il testo dell'art. 556 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), come modificato dal presente decreto: 
  «Art. 556. (Spese di funzionamento di organi consultivi) - 1. Fermo restando quanto previsto dall' [art. 1, comma 58, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), la spesa complessiva degli organismi di cui agli articoli 24, comma 1, lettera a) e 24-bis, ivi compresi gli oneri di funzionamento, e' ridotta del trenta per cento rispetto a quella sostenuta nell'esercizio finanziario 2005. 
  2. E' fatto salvo quanto disposto dagli articoli 61, comma 1, e 68, comma 2, secondo periodo, del [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133 e 12, comma 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;12#art_com20), del [decreto legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md).». 
@@ -1132,7 +1132,7 @@ Note all'art. 10:
 
 1.
 
-Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al libro nono del [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo l'articolo 2188-quater e' inserito il seguente: 
  
@@ -1152,7 +1152,7 @@ Disposizioni transitorie attuative dei programmi di revisione dello strumento mi
 Al [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 20, il comma 2 e' sostituito dal seguente: 
- «2. Il Ministero esercita in particolare le funzioni e i compiti di cui all'[articolo 15 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).».
+ «2. Il Ministero esercita in particolare le funzioni e i compiti di cui all'[articolo 15 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).».
 
 3.
 
@@ -1168,7 +1168,7 @@ Note all'art. 11:
  Si riporta il testo dell'[art. 20, comma 2, del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della L. 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 agosto 1999, n. 203, come modificato dal presente decreto: 
  «Art. 20. (Attribuzioni) 
  1. Al ministero della difesa sono attribuite le funzioni e i compiti spettanti allo Stato in materia di difesa e sicurezza militare dello Stato, politica militare e partecipazione a missioni a supporto della pace, partecipazione ad organismi internazionali di settore, pianificazione generale e operativa delle forze armate e interforze, pianificazione relativa all'area industriale di interesse della difesa. 
- 2. Il Ministero esercita in particolare le funzioni e i compiti di cui all'[art. 15 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).». 
+ 2. Il Ministero esercita in particolare le funzioni e i compiti di cui all'[art. 15 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).». 
  Si riporta il testo degli [articoli 14, comma 6](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), [17](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), [comma 4](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) e [19](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), [comma 3 del decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) ([Testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), a norma dell'[art. 14 della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14)), che e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 18 giugno 2010, n. 140, come modificato dal presente decreto: 
  «Art. 14. (Uffici di diretta collaborazione) 
  1. Gli uffici di diretta collaborazione esercitano le competenze di supporto del Ministro e di raccordo fra questi e l'amministrazione, ai sensi degli [articoli 4](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) e [14, comma 2, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md).

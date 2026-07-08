@@ -175,7 +175,7 @@ In fase di prima applicazione, per le forme di previdenza sostitutive ed esclusi
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [D.Lgs. 23
+Il [D.Lgs. 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [D.Lgs. 23
 dicembre 1993, n. 546](../Decreti%20Legislativi/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md), ha disposto (con l'art. 6, comma 5) che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, va interpretato nel senso che al predetto personale non si applica l'articolo 16 dello stesso decreto".
 
 ---------------

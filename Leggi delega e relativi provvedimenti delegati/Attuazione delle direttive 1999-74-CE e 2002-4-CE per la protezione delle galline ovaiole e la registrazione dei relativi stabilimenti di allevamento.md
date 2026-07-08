@@ -22,7 +22,7 @@ Vista la [direttiva 1999/74/CE del Consiglio, del 19 luglio 1999](https://www.no
 
 Vista la [direttiva 2002/4/CE della Commissione, del 30 gennaio 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;4), relativa alla registrazione degli stabilimenti di allevamento di galline ovaiole di cui alla [direttiva 1999/74/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;74);
 
-Visto il [decreto legislativo 26 marzo 2001, n. 146](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), recante attuazione della [direttiva 98/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58) relativa alla protezione degli animali negli allevamenti;
+Visto il [decreto legislativo 26 marzo 2001, n. 146](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), recante attuazione della [direttiva 98/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58) relativa alla protezione degli animali negli allevamenti;
 
 Visto il [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), e successive modificazioni;
 
@@ -72,7 +72,7 @@ Ai fini del presente decreto si intende per:
 
 3.
 
-Il presente decreto non si applica agli stabilimenti con meno di 350 galline ovaiole e a quelli di allevamento di galline ovaiole riproduttrici, nei confronti dei quali trovano comunque applicazione le prescrizioni di cui al [decreto legislativo 26 marzo 2001, n. 146](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md).
+Il presente decreto non si applica agli stabilimenti con meno di 350 galline ovaiole e a quelli di allevamento di galline ovaiole riproduttrici, nei confronti dei quali trovano comunque applicazione le prescrizioni di cui al [decreto legislativo 26 marzo 2001, n. 146](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md).
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -116,18 +116,18 @@ Avvertenza:
  - La [direttiva 2002/4/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;4) e' pubblicata in GUCE n. L 030 del 31 gennaio 2002.
  - La [direttiva 2002/25/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;25) e' pubblicata in GUCE n. L 098 del 15 aprile 2002.
  - La [legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2001).».
- - Il [decreto legislativo 26 marzo 2001, n. 146](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), reca: «Attuazione della [direttiva 98/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58) relativa alla protezione degli animali negli allevamenti.».
+ - Il [decreto legislativo 26 marzo 2001, n. 146](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), reca: «Attuazione della [direttiva 98/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58) relativa alla protezione degli animali negli allevamenti.».
  - La [direttiva 98/58/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;58) e' pubblicata in GUCE n. L. 221 dell'8 agosto 1998.
  - Il [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reca: «Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali.».
  - Il [decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), reca: «Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).»
  Nota all'[art. 1:
- - Per il decreto legislativo 26 marzo 2001, n. 146](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), vedi note alle premesse.
+ - Per il decreto legislativo 26 marzo 2001, n. 146](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), vedi note alle premesse.
 
 ## Art. 2. — Obblighi del proprietario o del detentore di galline ovaiole
 
 1.
 
-Ferme restando le disposizioni di cui al [decreto legislativo 26 marzo 2001, n. 146](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), il proprietario o il detentore deve rispettare le disposizioni di cui all'allegato A al presente decreto, nonche', a decorrere dalle date in essi indicate, quelle di cui:
+Ferme restando le disposizioni di cui al [decreto legislativo 26 marzo 2001, n. 146](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), il proprietario o il detentore deve rispettare le disposizioni di cui all'allegato A al presente decreto, nonche', a decorrere dalle date in essi indicate, quelle di cui:
                         a)
                             all'allegato B, nel caso di utilizzo di sistemi alternativi;
                         b)
@@ -136,7 +136,7 @@ Ferme restando le disposizioni di cui al [decreto legislativo 26 marzo 2001, n. 
                             all'allegato D, nel caso di utilizzo di gabbie modificate.
 
 Nota all'[art. 2:
- - Per il decreto legislativo 26 marzo 2001, n. 146](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), vedi note alle premesse.
+ - Per il decreto legislativo 26 marzo 2001, n. 146](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-58-CE%20relativa%20alla%20protezione%20degli%20animali%20negli%20allevamenti.md), vedi note alle premesse.
 
 ## Art. 3. — D i v i e t i
 
@@ -252,7 +252,7 @@ In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzi
 
 2.
 
-A decorrere dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Presidente della Repubblica 24 maggio 1988, n. 233](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2086-113%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20delle%20galline%20ovaiole%20in%20batteria%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), recante attuazione della [direttiva 86/113/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;113), che stabilisce norme minime per la protezione delle galline ovaiole in batteria.
+A decorrere dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Presidente della Repubblica 24 maggio 1988, n. 233](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2086-113%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20delle%20galline%20ovaiole%20in%20batteria%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), recante attuazione della [direttiva 86/113/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;113), che stabilisce norme minime per la protezione delle galline ovaiole in batteria.
 
 3.
 

@@ -101,7 +101,7 @@ Il consiglio di amministrazione esercita tutte le competenze per l'amministrazio
 4.
 
 Il collegio sindacale esplica il controllo sull'attivita' dell'UNIRE ai sensi della normativa vigente. E' composto da tre membri effettivi e due supplenti nominati con decreto del Ministro.
-Il presidente e' designato dal Ministro del tesoro, del bilancio e della programmazione economica. Uno dei sindaci e' designato dal Ministro delle finanze. I sindaci devono essere iscritti nel registro di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
+Il presidente e' designato dal Ministro del tesoro, del bilancio e della programmazione economica. Uno dei sindaci e' designato dal Ministro delle finanze. I sindaci devono essere iscritti nel registro di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
 
 5.
 
@@ -119,7 +119,7 @@ Note all'art. 4:
  - Si trascrive il testo dell'[art. 3 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri):
  "Art. 3 (Nomine alla presidenza di enti, istituti a aziende di competenza dell'amministrazione statale). - 1. Le nomine alla presidenza di enti, istituti o aziende di carattere nazionale, di competenza dell'amministrazione statale, fatta eccezione per le nomine relative agli enti pubblici creditizi, sono effettuate con decreto leI Presidente della Repubblica emanato su proposta del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio del Ministri adottata su proposta del Ministro competente.
  2. Resta ferma la vigente disciplina in ordine all'acquisizione del parere delle competenti commissioni parlamentari".
- - Si trascrive il testo dell'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) (Attuazione della [direttiva n. 84/253/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253), relativa all'abilitazione delle persone incaricate del controllo di legge del documenti contabili):
+ - Si trascrive il testo dell'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) (Attuazione della [direttiva n. 84/253/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253), relativa all'abilitazione delle persone incaricate del controllo di legge del documenti contabili):
  "Art. 1 (Registro dei revisori contabili). - 1. E' istituito presso il Ministero di grazia e giustizia il registro dei revisori contabili.
  2. L'iscrizione nel registro da diritto all'uso del titolo di revisore contabile".
 

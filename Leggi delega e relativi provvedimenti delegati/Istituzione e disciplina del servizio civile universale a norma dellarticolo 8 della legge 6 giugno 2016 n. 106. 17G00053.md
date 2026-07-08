@@ -688,7 +688,7 @@ Ai fini dell'applicazione agli enti di servizio civile universale delle sanzioni
 
 5.
 
-Il [decreto legislativo 5 aprile 2002, n. 77](../Decreti%20Legislativi/Disciplina%20del%20Servizio%20civile%20nazionale%20a%20norma%20dellarticolo%202%20della%20legge%206%20marzo%202001%20n.%2064.md), e' abrogato.
+Il [decreto legislativo 5 aprile 2002, n. 77](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20Servizio%20civile%20nazionale%20a%20norma%20dellarticolo%202%20della%20legge%206%20marzo%202001%20n.%2064.md), e' abrogato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

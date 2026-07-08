@@ -26,11 +26,11 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-L'autorizzazione per l'istituzione e l'esercizio dei locali e capannoni previsti dall'art. 21 del regolamento generale concernente l'ordinamento e l'esercizio dei magazzini generali e l'applicazione delle discipline doganali ai predetti magazzini generali, approvato con [regio decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md), e' rilasciata dal direttore compartimentale del dipartimento delle dogane e delle imposte indirette, territorialmente competente, a termine dell'art. 97 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
+L'autorizzazione per l'istituzione e l'esercizio dei locali e capannoni previsti dall'art. 21 del regolamento generale concernente l'ordinamento e l'esercizio dei magazzini generali e l'applicazione delle discipline doganali ai predetti magazzini generali, approvato con [regio decreto 16 gennaio 1927, n. 126](../Regi%20decreti/Approvazione%20del%20regolamento%20generale%20concernente%20lordinamento%20e%20lesercizio%20dei%20Magazzini%20generali%20e%20lapplicazione%20delle%20discipline%20doganali%20ai%20predetti%20Magazzini%20generali.%20027U0126.md), e' rilasciata dal direttore compartimentale del dipartimento delle dogane e delle imposte indirette, territorialmente competente, a termine dell'art. 97 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
 
 2.
 
-Alle merci introdotte nei locali e capannoni di cui al comma 1 si applicano le disposizioni degli articoli 96, 98 e 99 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
+Alle merci introdotte nei locali e capannoni di cui al comma 1 si applicano le disposizioni degli articoli 96, 98 e 99 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
@@ -79,7 +79,7 @@ AVVERTENZA:
 
 1.
 
-Ai fini della introduzione delle merci nei magazzini generali autorizzati a ricevere merci estere e nei depositi doganali, l'ufficio doganale puo' consentire che, in luogo della dichiarazione prevista dall'art. 150 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), venga presentato un documento commerciale o amministrativo, che contenga gli elementi necessari per la loro identificazione.
+Ai fini della introduzione delle merci nei magazzini generali autorizzati a ricevere merci estere e nei depositi doganali, l'ufficio doganale puo' consentire che, in luogo della dichiarazione prevista dall'art. 150 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), venga presentato un documento commerciale o amministrativo, che contenga gli elementi necessari per la loro identificazione.
 
 2.
 
@@ -108,7 +108,7 @@ In tali magazzini e depositi possono essere custodite, altresi', con l'osservanz
 
 3.
 
-Alle merci dichiarate per l'introduzione nei magazzini generali autorizzati a ricevere merci estere si rendono applicabili le disposizioni di cui all'articolo 149, comma secondo, del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
+Alle merci dichiarate per l'introduzione nei magazzini generali autorizzati a ricevere merci estere si rendono applicabili le disposizioni di cui all'articolo 149, comma secondo, del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
 
 Note all'art. 3:
  - Il testo dell'[art. 11 del D.L. n. 688/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;688#art_11) (Misure urgenti in materia di entrate fiscali), e' il seguente:
@@ -128,7 +128,7 @@ Note all'art. 3:
 
 1.
 
-L'ufficio doganale puo' consentire che nei locali e capannoni di cui all'art. 1 e nei magazzini o recinti per la temporanea custodia delle merci di cui all'art. 96 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), possano essere introdotte anche merci nazionali purche' destinate all'esportazione.
+L'ufficio doganale puo' consentire che nei locali e capannoni di cui all'art. 1 e nei magazzini o recinti per la temporanea custodia delle merci di cui all'art. 96 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), possano essere introdotte anche merci nazionali purche' destinate all'esportazione.
 L'introduzione di tali merci si effettua a richiesta del gestore sulla base di un documento commerciale o amministrativo, ritenuto idoneo dall'amministrazione doganale, da registrare in apposita contabilita'. La registrazione deve rendere possibile l'identificazione delle merci.
 
 2.
@@ -137,7 +137,7 @@ Le merci estere e quelle nazionali devono essere custodite in locali separati sa
 
 3.
 
-Si osservano, in quanto applicabili, le disposizioni contenute negli articoli 96 e seguenti del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
+Si osservano, in quanto applicabili, le disposizioni contenute negli articoli 96 e seguenti del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
 
 Nota all'art. 4:
  - Per gli articoli 96, 97, 98 e 99 del testo unico delle disposizioni legislative in materia doganale, approvato con il [D.P.R. n. 43/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43), si veda in nota all'art. 1.

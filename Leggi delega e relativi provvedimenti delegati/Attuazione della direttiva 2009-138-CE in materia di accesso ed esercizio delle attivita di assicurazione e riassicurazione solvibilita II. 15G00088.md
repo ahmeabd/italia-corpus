@@ -32,7 +32,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la [legge 7 ottobre 2014, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013%20-%20secondo%20semestre.%2014G00167.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013 - secondo semestre;
 
-Visto il [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), di cui al [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md);
+Visto il [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md), di cui al [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 10 febbraio 2015;
 
@@ -44,7 +44,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 
 ## Art. 1. — Modifiche al decreto legislativo 7 settembre 2005, n. 209
 
-1. All'[articolo 1 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+1. All'[articolo 1 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) alla lettera d), dopo le parole: «un'impresa di assicurazione» sono inserite le seguenti: «((, anche di uno Stato terzo))»; 
  b) alla lettera g-bis), numero 1), dopo la parola: «AEAP», sono inserite le seguenti: «o EIOPA»; 
  c) alla lettera g-bis), numero 2), dopo la parola: «ABE», sono inserite le seguenti: «o EBA»; 
@@ -88,7 +88,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
  vv-bis.10) societa' partecipata: la societa' in cui e' detenuta una partecipazione;»; 
  z) dopo la lettera ggg), e' inserita la seguente: «ggg-bis) Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi;»; 
  aa) dopo la lettera iii), e' inserita la seguente: «iii-bis) tecniche di mitigazione del rischio: le tecniche che consentono all'impresa di assicurazione o di riassicurazione di trasferire una parte o la totalita' dei rischi ad un terzo;». 
- 2. L'[articolo 3 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 2. L'[articolo 3 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 3. 
  
@@ -96,7 +96,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
  (Finalita' della vigilanza) 
  
  1. Scopo principale della vigilanza e' l'adeguata protezione degli assicurati e degli aventi diritto alle prestazioni assicurative. A tal fine l'IVASS persegue la sana e prudente gestione delle imprese di assicurazione e riassicurazione, nonche', unitamente alla Consob, ciascuna secondo le rispettive competenze, la loro trasparenza e correttezza nei confronti della clientela. Altro obiettivo della vigilanza, ma subordinato al precedente, e' la stabilita' del sistema e dei mercati finanziari.». 
- 3. Dopo l'[articolo 3 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 3. Dopo l'[articolo 3 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 3-bis 
  
@@ -108,14 +108,14 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
  3. I requisiti stabiliti nel presente codice sono applicati in modo proporzionato alla natura, alla portata e alla complessita' dei rischi inerenti all'attivita' di un'impresa di assicurazione o di riassicurazione. 
  4. L'IVASS, nell'esercizio delle sue funzioni, tiene conto della convergenza degli strumenti di vigilanza e delle pratiche di vigilanza dell'Unione europea. 
  5. Ai fini del comma 4 l'IVASS partecipa alle attivita' dell'AEAP e si conforma ai suoi orientamenti e raccomandazioni, fornendo adeguata motivazione ove ritenga di non conformarsi.». 
- 4. All'[articolo 5 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 4. All'[articolo 5 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 1-ter e' sostituito dal seguente: «1-ter. Fatto salvo quanto previsto dall'articolo 3, comma 1, l'IVASS, nell'espletamento delle sue funzioni, prende in considerazione il potenziale impatto delle sue decisioni sulla stabilita' dei sistemi finanziari dell'Unione europea, soprattutto in situazioni di emergenza, tenendo conto delle informazioni disponibili al momento, anche avvalendosi degli opportuni scambi di informazioni con l'AEAP, il Comitato congiunto, il CERS e le autorita' di vigilanza degli altri Stati membri. In periodi di turbolenze eccezionali sui mercati finanziari, l'IVASS tiene conto dei potenziali effetti prociclici derivanti dai suoi interventi.»; 
  b) il comma 5 e' sostituito dal seguente: «5. L'ordinamento dell'IVASS e' disciplinato dalla [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-12;576), e successive modificazioni, e dall'[articolo 13 del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_13), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), nel rispetto dei principi di autonomia organizzativa, finanziaria e contabile necessari ai fini dell'esercizio imparziale ed efficace delle funzioni di vigilanza sul settore assicurativo;»; 
  c) dopo il comma 5, e' aggiunto il seguente: «5-bis. L'IVASS, nell'ambito della propria autonomia, garantisce comunque il rispetto dei principi di contenimento dei costi di cui al Capo I del Titolo I del [decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).». 
- 5. Al [comma 1 dell'articolo 6, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 5. Al [comma 1 dell'articolo 6, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) alla lettera c), e' aggiunto, in fine, il seguente periodo: «, fermi restando i poteri nei confronti delle imprese di assicurazione o di riassicurazione per le attivita' esternalizzate;»: 
  b) alla lettera d), le parole: «, dei periti di assicurazione» sono soppresse; 
- 6. L'[articolo 7 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 6. L'[articolo 7 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 7. 
  
@@ -123,8 +123,8 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
  (Reclami) 
  
  1. Le persone fisiche e giuridiche, nonche' le associazioni riconosciute per la rappresentanza degli interessi dei consumatori hanno facolta' di proporre reclamo all'IVASS, per l'accertamento dell'osservanza delle disposizioni previste nel presente codice, nei confronti delle imprese di assicurazione e di riassicurazione e degli intermediari secondo la procedura prevista con regolamento.». 
- 7. Al [comma 2 dell'articolo 9, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «dal presidente dell'Istituto» sono soppresse. 
- 8. Dopo l'[articolo 9, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 7. Al [comma 2 dell'articolo 9, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «dal presidente dell'Istituto» sono soppresse. 
+ 8. Dopo l'[articolo 9, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 9-bis 
  
@@ -138,14 +138,14 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
  d) le modalita' di esercizio delle opzioni previste dalla [direttiva n. 2009/138/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;138); 
  e) gli obiettivi della vigilanza e le principali funzioni e attivita' svolte dall'IVASS. 
  2. Le informazioni di cui al comma 1 sono pubblicate in modo tale da consentire un raffronto dei metodi di vigilanza adottati dalle autorita' di vigilanza degli Stati membri, anche mediante l'utilizzo di un formato comune definito a livello comunitario.». 
- 9. All'[articolo 10 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 9. All'[articolo 10 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) la rubrica, e' sostituta dalla seguente: «Segreto d'ufficio»; 
  b) il comma 3 e' sostituito dal seguente: «3. I dipendenti dell'IVASS, i consulenti, i revisori e gli esperti dei quali l'Istituto si avvale sono vincolati dal segreto d'ufficio, anche dopo la cessazione del rapporto di lavoro o la conclusione dell'incarico.
 Tutte le notizie, informazioni, dati ricevuti da questi soggetti nell'esercizio delle loro funzioni non possono essere divulgati ad alcuna persona o autorita' se non in forma sommaria o aggregata in modo che non si possano individuare le singole imprese di assicurazione o di riassicurazione.»; 
  c) il comma 4 e' sostituito dal seguente: «4. La disposizione di cui al comma 3 non osta a che l'IVASS collabori, anche mediante scambio di informazioni, con la Banca d'Italia, la Commissione nazionale per le societa' e la borsa (CONSOB), l'Autorita' garante della concorrenza e del mercato, la Commissione di vigilanza sui fondi pensione (COVIP), e ciascuna delle suddette istituzioni collabora con l'IVASS al fine di agevolare l'esercizio delle rispettive funzioni. Non puo' essere reciprocamente opposto il segreto di ufficio.»; 
  d) al comma 7, l'ultimo periodo e' sostituito dal seguente: «Le informazioni ricevute dall'IVASS provenienti da Autorita' di vigilanza di altri Stati membri possono essere trasmesse ad altre autorita' italiane o a terzi solo con il consenso dell'autorita' che le ha fornite e unicamente per i fini per cui il consenso e' stato accordato.»; 
  e) al comma 9, dopo le parole: «autorita' amministrative o giudiziarie», sono inserite le seguenti: «o gli altri organi che intervengono». 
- 10. Dopo l'[articolo 10, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 10. Dopo l'[articolo 10, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 10-bis 
  
@@ -166,7 +166,7 @@ Tutte le notizie, informazioni, dati ricevuti da questi soggetti nell'esercizio 
  b) all'occorrenza, altre autorita' pubbliche nazionali incaricate della vigilanza sui sistemi di pagamento. 
  2. Nelle situazioni di emergenza, ivi incluse quelle di cui all'articolo 18 del regolamento (UE) n. 1094/2010, l'IVASS comunica immediatamente informazioni alle banche centrali del SEBC, inclusa la BCE, quando le informazioni siano attinenti all'esercizio dei rispettivi compiti statutari, ivi incluse la gestione della politica monetaria e la relativa concessione di liquidita', la sorveglianza dei sistemi di pagamento, di compensazione e di regolamento titoli e la tutela della stabilita' del sistema finanziario, e al CERS, quando le informazioni siano attinenti all'esercizio dei suoi compiti. 
  3. Le informazioni ricevute dall'IVASS ai sensi dei commi 1 e 2 sono soggette alle disposizioni relative al segreto d'ufficio stabilite dal presente Capo.». 
- 11. All'[articolo 14, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 11. All'[articolo 14, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, lettera a), sono aggiunte, in fine, le seguenti parole: «e la forma di Societa' cooperativa europea (SCE) ai sensi del regolamento (CE) n. 1435/2003.»; 
  b) al comma 1, la lettera c) e' sostituita dalla seguente: «c) l'impresa detenga i fondi propri di base ammissibili necessari per coprire il minimo assoluto del Requisito Patrimoniale Minimo, di cui all'articolo 47-ter, comma 1, lettera d), pari ad un importo non inferiore a: 
  1) 2.500.000 euro per le imprese di assicurazione danni, comprese le imprese di assicurazione captive, salva l'ipotesi in cui sia coperta la totalita' o parte dei rischi compresi in uno dei rami da 10 a 15 elencati all'articolo 2, comma 3, nel qual caso l'importo e' elevato a 3.700.000 euro; 
@@ -187,7 +187,7 @@ Tutte le notizie, informazioni, dati ricevuti da questi soggetti nell'esercizio 
  l) dopo il comma 5, e' aggiunto il seguente: «5-bis. L'IVASS comunica all'AEAP ogni autorizzazione rilasciata ai fini della pubblicazione nell'elenco dalla stessa tenuto, con l'indicazione: 
  a) dei rami e dei rischi per i quali l'impresa e' autorizzata; 
  b) dell'eventuale abilitazione ad operare negli altri Stati membri in stabilimento o in libera prestazione di servizi.». 
- 12. Dopo l'[articolo 14, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 12. Dopo l'[articolo 14, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 14-bis 
  
@@ -209,7 +209,7 @@ Tutte le notizie, informazioni, dati ricevuti da questi soggetti nell'esercizio 
  1) le previsioni relative alle spese di gestione diverse dalle spese di impianto, in particolare le spese generali correnti e le provvigioni; 
  2) le previsioni relative ai premi o ai contributi e ai sinistri; 
  f) per quanto riguarda l'assicurazione vita, anche un piano che esponga dettagliatamente le previsioni delle entrate e delle spese sia per le operazioni dirette e per le operazioni di riassicurazione attiva che per le operazioni di riassicurazione passiva.». 
- 13. L'[articolo 15 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 13. L'[articolo 15 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 15. 
  
@@ -225,31 +225,31 @@ Qualora per l'esercizio dei nuovi rami sia prescritto un minimo assoluto del Req
  4. L'IVASS determina, con regolamento, la procedura per l'estensione dell'autorizzazione ad altri rami. 
  5. L'impresa non puo' estendere l'attivita' prima dell'adozione del provvedimento che aggiorna l'albo, del quale e' data pronta comunicazione all'impresa medesima. 
  6. Il provvedimento di estensione e' comunicato all'AEAP in conformita' all'articolo 14, comma 5-bis.». 
- 14. All'[articolo 17, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 14. All'[articolo 17, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, le parole: «possiede, per l'insieme delle sue attivita', il margine di solvibilita' richiesto», sono sostituite dalle seguenti: «, per l'insieme delle sue attivita', copre il Requisito Patrimoniale di Solvibilita' ed il Requisito Patrimoniale Minimo calcolati in conformita' agli articoli 45-bis e 47-ter»; 
  b) al comma 2, le parole: «delle strutture amministrative», sono sostituite dalle seguenti: «del sistema di governo societario» e, alla fine, sono aggiunte le seguenti parole: «di cui all'articolo 76.»; 
  c) al comma 4, secondo periodo, la parola: «stessa autorita' di vigilanza», sono sostituite dalle seguenti: «autorita' di vigilanza dello Stato membro ospitante»; 
  d) al comma 5, primo periodo, le parole: «comma 1», sono soppresse e le parole: «della sede secondaria», sono sostituite dalla seguente: «ospitante». 
- 15. All'[articolo 19, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 15. All'[articolo 19, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, dopo le parole: «necessarie informazioni», sono inserite le seguenti: «stabilite dall'IVASS con regolamento»; 
  b) al comma 2, le parole: «delle strutture amministrative», sono sostituite dalle seguenti: «del sistema di governo societario». 
- 16. Al [comma 3, dell'articolo 21, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «agli articoli 24, comma 4, e 26», sono sostituite dalle seguenti: «agli articoli 23, comma 1-bis, e 26». 
- 17. All'[articolo 23, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 16. Al [comma 3, dell'articolo 21, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «agli articoli 24, comma 4, e 26», sono sostituite dalle seguenti: «agli articoli 23, comma 1-bis, e 26». 
+ 17. All'[articolo 23, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) dopo il comma 1, e' inserito il seguente: «1-bis. E' considerato esercizio dell'attivita' assicurativa in regime di stabilimento ai sensi del comma 1, anche in assenza di succursali, agenzie o sedi secondarie, qualsiasi presenza permanente nel territorio della Repubblica, inclusa l'organizzazione di un semplice ufficio gestito da personale dipendente dell'impresa ovvero da una persona indipendente ma incaricata di agire in modo permanente per conto dell'impresa stessa.»; 
  b) al comma 4, dopo le parole: «L'impresa», sono inserite le seguenti: «di cui al comma 1»; 
  c) al comma 5, dopo le parole: «L'impresa», sono inserite le seguenti: «di cui al comma 1». 
- 18. All'[articolo 24, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 18. All'[articolo 24, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 2, dopo le parole: «L'impresa», sono inserite le seguenti: «di cui al comma 1»; 
  b) al comma 3, dopo le parole: «L'impresa», sono inserite le seguenti: «di cui al comma 1»; 
  c) il comma 4, e' soppresso. 
- 19. Al [comma 1, dell'articolo 25, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «L'impresa», sono inserite le seguenti: «di assicurazione comunitaria». 
- 20. Al [comma 1, dell'articolo 26, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «delle imprese di assicurazione», sono inserite le seguenti: «comunitarie». 
- 21. Al [comma 1, dell'articolo 27, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «L'impresa», sono inserite le seguenti: «di assicurazione comunitaria». 
- 22. All'[articolo 28, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 19. Al [comma 1, dell'articolo 25, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «L'impresa», sono inserite le seguenti: «di assicurazione comunitaria». 
+ 20. Al [comma 1, dell'articolo 26, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «delle imprese di assicurazione», sono inserite le seguenti: «comunitarie». 
+ 21. Al [comma 1, dell'articolo 27, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «L'impresa», sono inserite le seguenti: «di assicurazione comunitaria». 
+ 22. All'[articolo 28, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, le parole: «avente sede legale in uno Stato terzo», sono sostituite dalle seguenti: «di assicurazione di un Paese terzo»; 
  b) al comma 5, primo periodo, le parole: «all'importo minimo della quota di garanzia», sono sostituite dalle seguenti: «alla meta' degli importi di cui all'articolo 14, comma 1, lettera c)», e, le parole: «pari ad almeno alla meta'», sono sostituite dalle seguenti: «pari ad almeno un quarto»; 
  c) al comma 6, la parola: «provvedimento», e' sostituita dalla seguente: «regolamento». 
- 23. Al [comma 1, dell'articolo 29, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «con sede legale in uno Stato terzo», sono sostituite dalla seguente: «di un Paese terzo». 
+ 23. Al [comma 1, dell'articolo 29, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «con sede legale in uno Stato terzo», sono sostituite dalla seguente: «di un Paese terzo». 
  24. Dopo il Titolo III, Esercizio dell'attivita' assicurativa, Capo I, Disposizioni generali, e' inserita la seguente: 
  
  «Sezione I 
@@ -264,7 +264,7 @@ Qualora per l'esercizio dei nuovi rami sia prescritto un minimo assoluto del Req
  (Responsabilita' del consiglio di amministrazione) 
  
  1. Il consiglio di amministrazione dell'impresa ha la responsabilita' ultima dell'osservanza delle norme legislative, regolamentari e delle norme europee direttamente applicabili.». 
- 25. L'[articolo 30, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 25. L'[articolo 30, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 30. 
  
@@ -283,7 +283,7 @@ Qualora per l'esercizio dei nuovi rami sia prescritto un minimo assoluto del Req
  5. L'impresa adotta politiche scritte con riferimento quanto meno al sistema di gestione dei rischi, al sistema di controllo interno, alla revisione interna e, ove rilevante, all'esternalizzazione, nonche' una politica per l'adeguatezza nel continuo delle informazioni fornite al supervisore ai sensi dell'articolo 47-quater e per le informazioni contenute nella relazione sulla solvibilita' e sulla condizione finanziaria di cui agli articoli 47-septies, 47-octies e 47-novies e garantisce che ad esse sia data attuazione. 
  6. Le politiche di cui al comma 5 sono approvate preventivamente dal consiglio di amministrazione. Il consiglio di amministrazione riesamina le politiche almeno una volta l'anno in concomitanza con la revisione di cui al comma 3 e, in ogni caso, apporta le modifiche necessarie in caso di variazioni significative del sistema di governo societario. 
  7. L'IVASS detta con regolamento disposizioni di dettaglio in materia di sistema di governo societario di cui alla presente Sezione.». 
- 26. Dopo l'[articolo 30, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 26. Dopo l'[articolo 30, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 30-bis 
  
@@ -412,12 +412,12 @@ Qualora per l'esercizio dei nuovi rami sia prescritto un minimo assoluto del Req
  2. Ai fini del comma 1, l'impresa applica il principio di cui all'articolo 30-ter, comma 3. 
  3. La relazione tecnica, di cui al comma 1, e' trasmessa, su richiesta, alla societa' di revisione, all'organo di controllo e all'IVASS. 
  4. L'IVASS, nel rispetto delle disposizioni della presente Sezione, puo' disciplinare con regolamento i contenuti della relazione di cui al comma 1, anche in relazione a talune tipologie tariffarie e stabilire altri obblighi di trasmissione del documento.». 
- 27. L'[articolo 31, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 28. All'[articolo 32, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 27. L'[articolo 31, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 28. All'[articolo 32, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, secondo periodo, sono aggiunte, in fine, le seguenti parole: «e dai relativi rendimenti, in modo da non ledere la solvibilita' sul lungo termine.»; 
  b) al comma 2, le parole: «dei limiti indicati», sono sostituite dalle seguenti: «dei principi di cui»; 
  c) il comma 3, e' abrogato. 
- 29. All'[articolo 33, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 29. All'[articolo 33, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 1, e' abrogato; 
  b) il comma 2, e' abrogato; 
  c) il comma 3, e' sostituito dal seguente: «3. L'impresa definisce il tasso di interesse garantito nei contratti relativi ai rami vita, in coerenza con le proprie politiche di investimento e del sistema di gestione dei rischi di cui gli articoli 30, comma 5, e 30-bis, commi 3, lettera a), e 9, attenendosi a criteri prudenziali.
@@ -426,9 +426,9 @@ Il tasso tiene conto della moneta in cui e' espresso il contratto e degli attivi
  e) il comma 5 e' abrogato; 
  f) dopo il comma 5, e' inserito il seguente: «5-bis. L'IVASS, ai fini di cui all'articolo 5, ed in particolare nei casi di cui al comma 1-ter del suddetto articolo, puo' determinare limiti alle basi tecniche di costruzioni tariffarie e ai tassi di interesse garantibili da contratti relativi ai rami vita, che siano applicabili per periodi di tempo definiti.»; 
  g) il comma 6 e' abrogato. 
- 30. L'[articolo 34, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 30. L'[articolo 34, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
  31. Al comma 1, dell'articolo 35, dopo le parole: «Nella formazione delle tariffe», sono inserite le seguenti: «nei rami responsabilita' civile veicoli e natanti». 
- 32. Dopo l'[articolo 35, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 32. Dopo l'[articolo 35, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 35-bis 
  
@@ -448,7 +448,7 @@ Il tasso tiene conto della moneta in cui e' espresso il contratto e degli attivi
  
  1. L'impresa nello svolgimento delle attivita' individuate alla presente Sezione fa specifico riferimento ai rischi dei rami responsabilita' civile veicoli a motore e natanti, in particolare avuto riguardo ai rischi di tariffazione e di riservazione. 
  2. L'IVASS puo' disciplinare con regolamento gli strumenti di sistema di gestione dei rischi di cui al comma 1 da adottarsi da parte delle imprese che esercitano le attivita' dei rami responsabilita' civile veicoli a motore e natanti nel territorio della Repubblica.». 
- 33. Dopo l'[articolo 35-ter, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 33. Dopo l'[articolo 35-ter, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Capo I-bis 
  
@@ -465,8 +465,8 @@ Principi generali per la valutazione degli attivi e delle passivita' per fini di
  a) gli attivi all'importo al quale potrebbero essere scambiati tra parti consapevoli e consenzienti in un'operazione svolta alle normali condizioni di mercato; 
  b) le passivita', all'importo al quale potrebbero essere trasferite, o regolate, tra parti consapevoli e consenzienti in un'operazione svolta alle normali condizioni di mercato. 
  2. Ai fini della valutazione delle passivita' di cui al comma 1, lettera b), l'impresa non effettua alcun aggiustamento per tenere conto del proprio merito di credito.». 
- 34. L'[articolo 36, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 35. Dopo l'[articolo 36, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 34. L'[articolo 36, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 35. Dopo l'[articolo 36, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 36-bis 
  
@@ -626,11 +626,11 @@ laddove adottate dalla Commissione europea, in conformita' alle disposizioni com
  
  1. L'IVASS puo' richiedere all'impresa di dimostrare l'adeguatezza del livello delle proprie riserve tecniche, l'applicabilita' e la pertinenza dei metodi utilizzati nonche' l'adeguatezza dei sottostanti dati statistici utilizzati. 
  2. L'IVASS, nel caso di cui il calcolo delle riserve tecniche dell'impresa non sia conforme alle previsioni degli articoli da 36-bis a 36-duodecies, puo' richiedere all'impresa di incrementare l'importo delle riserve tecniche fino all'ammontare calcolato nel rispetto di quanto previsto da tali articoli.». 
- 36. L'[articolo 37 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 37. All'[articolo 37-bis del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 36. L'[articolo 37 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 37. All'[articolo 37-bis del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 1, e' sostituito dal seguente: «1. L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicurazione costituisce per il lavoro indiretto le riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, in relazione agli impegni assunti, in coerenza con le disposizioni del presente Titolo e con le disposizioni dell'Unione europea direttamente applicabili.»; 
  b) il comma 2 e' abrogato. 
- 38. Dopo l'[articolo 37-bis del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 38. Dopo l'[articolo 37-bis del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Capo II-bis 
  
@@ -656,7 +656,7 @@ laddove adottate dalla Commissione europea, in conformita' alle disposizioni com
  4. L'impresa puo' localizzare gli attivi anche al di fuori del territorio della Repubblica o degli Stati membri, nel rispetto del principio di cui al comma 2, lettera c). 
  5. L'IVASS, qualora l'impresa vanti crediti verso i riassicuratori o i retrocessionari aventi sede in uno Stato terzo il cui regime di solvibilita' non sia ritenuto equivalente conformemente all'ordinamento comunitario, puo' richiedere all'impresa cedente di localizzare all'interno del territorio della Repubblica attivi di importo corrispondente ai suddetti crediti. 
  6. L'IVASS, qualora non abbia esercitato il potere di cui al comma 5, puo' chiedere alle imprese di assicurazione o di riassicurazione aventi sede in uno Stato terzo, il cui regime di solvibilita' non sia ritenuto equivalente conformemente all'ordinamento comunitario, di costituire nel territorio della Repubblica garanzie reali a fronte dei propri impegni nei confronti di un'impresa italiana.». 
- 39. All'[articolo 38 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 39. All'[articolo 38 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) la rubrica e' sostituita dalla seguente: «Copertura delle riserve tecniche»; 
  b) il comma 1, e' sostituito dal seguente: «1. Le riserve tecniche sono coperte con attivi di proprieta' dell'impresa.»; 
  c) dopo il comma 1, sono inseriti i seguenti: 
@@ -670,13 +670,13 @@ laddove adottate dalla Commissione europea, in conformita' alle disposizioni com
  e) il comma 3, e' abrogato; 
  f) il comma 4, e' abrogato; 
  g) il comma 6, e' abrogato. 
- 40. L'[articolo 39 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 41. L'[articolo 40 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 42. All'[articolo 41 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 40. L'[articolo 39 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 41. L'[articolo 40 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 42. All'[articolo 41 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 3, e' sostituito dal seguente: «3. Agli attivi detenuti a copertura delle riserve tecniche relative ai contratti di cui ai commi 1 e 2 si applicano l'articolo 37-ter, commi 1, 2, 4, 5 e 6, e l'articolo 38.»; 
  b) il comma 4, e' sostituito dal seguente: «4. Agli attivi detenuti a copertura delle riserve tecniche relative ai contratti di cui ai commi 1 e 2 che comprendano una garanzia di risultato dell'investimento o qualsiasi altra prestazione garantita, si applicano gli articoli 37-ter e 38.»; 
- c) il comma 5, e' sostituito dal seguente: «5. L'IVASS, con regolamento, puo' limitare i tipi di attivi o i valori di riferimento cui possono essere collegate le prestazioni, nel caso in cui il rischio di investimento sia sopportato dall'assicurato che sia una persona fisica. Per i contratti di assicurazione le cui prestazioni sono direttamente collegate al valore delle quote di un organismo di investimento collettivo del risparmio, le disposizioni stabilite dall'IVASS sono coerenti con quanto previsto dal [decreto legislativo 16 aprile 2012, n. 47](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-65-CE%20concernente%20il%20coordinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20in%20materia%20di%20taluni%20organismi%20dinvestimento%20collettivo%20in_ddfed2341130.md).». 
- 43. All'[articolo 42, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ c) il comma 5, e' sostituito dal seguente: «5. L'IVASS, con regolamento, puo' limitare i tipi di attivi o i valori di riferimento cui possono essere collegate le prestazioni, nel caso in cui il rischio di investimento sia sopportato dall'assicurato che sia una persona fisica. Per i contratti di assicurazione le cui prestazioni sono direttamente collegate al valore delle quote di un organismo di investimento collettivo del risparmio, le disposizioni stabilite dall'IVASS sono coerenti con quanto previsto dal [decreto legislativo 16 aprile 2012, n. 47](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-65-CE%20concernente%20il%20coordinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20in%20materia%20di%20taluni%20organismi%20dinvestimento%20collettivo%20in_ddfed2341130.md).». 
+ 43. All'[articolo 42, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) la rubrica, e' sostituita dalla seguente: «Registro degli attivi a copertura delle riserve tecniche»; 
  b) il comma 1, e' sostituito dal seguente: «1. L'impresa tiene un registro da cui risultano gli attivi a copertura delle riserve tecniche. In qualsiasi momento l'importo degli attivi iscritti deve essere, tenendo conto delle annotazioni dei movimenti, almeno pari all'ammontare delle riserve tecniche.»; 
  c) dopo il comma 1, sono inseriti i seguenti: 
@@ -684,17 +684,17 @@ laddove adottate dalla Commissione europea, in conformita' alle disposizioni com
  1-ter. Gli attivi utilizzati dall'impresa per coprire le riserve tecniche relative alle accettazioni in riassicurazione devono essere gestiti ed organizzati separatamente dalle attivita' di assicurazione diretta senza possibilita' di trasferimenti.»; 
  d) il comma 2, e' sostituito dal seguente: «2. Gli attivi posti a copertura delle riserve tecniche ed iscritti nel registro sono riservati in modo esclusivo all'adempimento delle obbligazioni assunte dall'impresa con i contratti ai quali le riserve stesse si riferiscono. Gli attivi di cui al presente comma costituiscono patrimonio separato rispetto alle altre attivita' detenute dall'impresa e non iscritte nel registro.»; 
  e) al comma 3, le parole: «della attivita'», sono sostituite dalle seguenti: «degli attivi». 
- 44. All'[articolo 42-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 44. All'[articolo 42-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 1, e' abrogato; 
  b) il comma 2, e' sostituito dal seguente: «2. Gli attivi a copertura delle riserve tecniche del lavoro indiretto dei rami vita e dei rami danni sono investiti nel rispetto del principio della persona prudente di cui all'articolo 37-ter e tengono conto del tipo di affari assunti dall'impresa ed in particolare, della natura, dell'ammontare e della cadenza dei pagamenti nei confronti dell'impresa cedente.»; 
  c) il comma 3, e' abrogato. 
- 45. L'[articolo 42-ter del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 46. All'[articolo 43, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 45. L'[articolo 42-ter del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 46. All'[articolo 43, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, sono aggiunte, in fine, le seguenti parole: «e dispone di attivi sufficienti alla relativa copertura secondo quanto disposto dall'articolo 38.»; 
  b) il comma 2, e' abrogato. 
- 47. L'[articolo 44, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 48. L'[articolo 44-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 49. Dopo l'[articolo 44-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inserite i seguenti: 
+ 47. L'[articolo 44, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 48. L'[articolo 44-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 49. Dopo l'[articolo 44-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inserite i seguenti: 
  
  «Sezione I 
  
@@ -807,9 +807,9 @@ La classificazione dipende dall'inclusione di tali elementi nei fondi propri di 
  3. L'importo dei fondi propri ammissibile ai fini del rispetto della copertura del Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis e' pari alla somma dell'importo degli elementi di livello 1, dell'importo ammissibile degli elementi di livello 2 e dell'importo ammissibile degli elementi di livello 3. 
  4. L'importo dei fondi propri di base ammissibile ai fini del rispetto della copertura del Requisito Patrimoniale Minimo di cui all'articolo 47-bis e' pari alla somma dell'importo degli elementi di livello 1 e dell'importo ammissibile degli elementi dei fondi propri di base classificati nel livello 2. 
  5. L'IVASS, con regolamento, detta disposizioni per l'applicazione delle disposizioni della presente Sezione.». 
- 50. L'[articolo 45, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
+ 50. L'[articolo 45, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
 
-51. Dopo l'[articolo 45, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+51. Dopo l'[articolo 45, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Capo IV-bis 
  
@@ -989,8 +989,8 @@ Disposizioni generali sul calcolo del requisito patrimoniale di solvibilita'
  
  1. Qualora risulti inappropriato calcolare il Requisito Patrimoniale di Solvibilita' conformemente alla formula standard perche' il profilo di rischio dell'impresa si discosta significativamente dalle ipotesi sottese al calcolo della formula standard, l'IVASS puo' richiedere, con decisione motivata, all'impresa di sostituire un sottogruppo dei parametri utilizzati nel calcolo della formula standard con dei parametri specifici di tale impresa in sede di calcolo dei moduli del rischio di sottoscrizione per l'assicurazione vita, per l'assicurazione danni e per l'assicurazione malattia, ai sensi dell'articolo 45-sexies, comma 7.
 Tali parametri specifici sono calcolati in modo tale da assicurare che l'impresa ottemperi all'articolo 45-ter, commi 3 e 4.». 
- 52. L'[articolo 46, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 53. Dopo l'[articolo 46, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 52. L'[articolo 46, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 53. Dopo l'[articolo 46, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Sezione III 
  
@@ -1140,8 +1140,8 @@ L'impresa giustifica all'IVASS, laddove richiesto, le ipotesi sottese al modello
  (Modelli e dati esterni) 
  
  1. L'impresa che utilizza un modello o dati provenienti da terzi rispetta in ogni caso tutti i requisiti che si applicano ai modelli interni conformemente agli articoli 46-novies, 46-decies, 46-undecies, 46-duodecies, 46-terdecies, 46-quaterdecies ed alle relative disposizioni di attuazione.». 
- 54. L'[articolo 47, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 55. Dopo l'[articolo 47, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 54. L'[articolo 47, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 55. Dopo l'[articolo 47, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Sezione IV 
  
@@ -1332,7 +1332,7 @@ Quando, nonostante il piano di finanziamento a breve termine considerato inizial
  b) per ciascuna informazione di cui alla lettera a), la proporzione delle maggiorazioni del capitale imposte rispettivamente in applicazione dell'articolo 47-sexies, comma 1, lettere a), b) e c); 
  c) il numero delle imprese che beneficiano della limitazione dell'obbligo di informativa periodica di vigilanza e il numero di quelle che sono esonerate dalla comunicazione su base analitica secondo il disposto dell'articolo 47-quater, commi 3, 4, 5, 6, 7, 8, 9, 10 e 11, unitamente al volume dei loro requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi rispettivamente calcolati in percentuale del totale dei requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi di tutte le imprese di assicurazione o di riassicurazione aventi sede nel territorio della Repubblica; 
  d) il numero dei gruppi che beneficiano della limitazione dell'obbligo di informativa periodica di vigilanza e il numero di quelli che sono esonerati dalla comunicazione su base analitica secondo il disposto dell'articolo 216-octies, unitamente al volume dei loro requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi rispettivamente calcolati in percentuale del totale dei requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi di tutti i gruppi di cui all'articolo 210.». 
- 56. L'[articolo 48, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 56. L'[articolo 48, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 48. 
  
@@ -1342,7 +1342,7 @@ Quando, nonostante il piano di finanziamento a breve termine considerato inizial
  1. La sede secondaria, insediata nel territorio della Repubblica dall'impresa di assicurazione ((di uno Stato terzo)), e' soggetta alle disposizioni di vigilanza di cui al presente Capo. 
  2. L'IVASS esercita i poteri di cui agli articoli 188, 189, 190, 190-bis, comma 1, e 191 anche nei confronti della sede secondaria, insediata nel territorio della Repubblica dall'impresa di assicurazione di un Paese terzo. 
  3. L'IVASS determina con regolamento le disposizioni applicabili alle sedi secondarie di cui al comma 1, anche con riferimento ai requisiti organizzativi e alle condizioni di esercizio ivi inclusi quelli applicabili alle sedi secondarie autorizzate ad esercitare congiuntamente i rami vita ed i rami infortuni e malattia. Si applicano gli articoli 30-octies, 30-novies, 32, 33, 35, 35-bis e 35-ter.». 
- 57. Dopo l'[articolo 48, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 57. Dopo l'[articolo 48, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 48-bis 
  
@@ -1350,7 +1350,7 @@ Quando, nonostante il piano di finanziamento a breve termine considerato inizial
  (Bilancio, registri e scritture contabili) 
  
  1. La sede secondaria, insediata nel territorio della Repubblica dall'impresa di assicurazione di un Paese terzo, e' soggetta alle disposizioni in materia di registri, bilancio e scritture contabili di cui al Titolo VIII.». 
- 58. L'[articolo 49, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 58. L'[articolo 49, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 49. 
  
@@ -1360,7 +1360,7 @@ Quando, nonostante il piano di finanziamento a breve termine considerato inizial
  1. L'impresa di assicurazione di un Paese terzo rispetta, per gli impegni di assicurazione e di riassicurazione compresi nel portafoglio della sede secondaria, le disposizioni relative alla disciplina delle riserve tecniche delle imprese con sede legale nella Repubblica, di cui al Capo II, del presente Titolo. 
  1-bis. L'impresa di cui al comma 1 valuta le attivita' e le passivita' della sede secondaria conformemente all'articolo 35-quater, determina i fondi propri della sede secondaria conformemente alle disposizioni di cui alle Sezioni I e II, Capo IV, del presente Titolo e investe in attivita' conformemente alle disposizioni di cui agli articoli 37-ter, commi 1, 2, 3, 5 e 6, 38, 41 e 42. 
  2. L'IVASS puo' richiedere che gli attivi a copertura delle riserve tecniche siano localizzati nel territorio della Repubblica, ove cio' sia ritenuto necessario per la salvaguardia degli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative.». 
- 59. L'[articolo 50, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 59. L'[articolo 50, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 50. 
  
@@ -1373,7 +1373,7 @@ Quando, nonostante il piano di finanziamento a breve termine considerato inizial
  2-bis. I fondi propri di base ammissibili a copertura del Requisito Patrimoniale Minimo includono la cauzione depositata in conformita' dell'articolo 28, comma 5. 
  3. Le attivita' a copertura del Requisito Patrimoniale di Solvibilita' sono localizzate, fino a concorrenza dell'ammontare del Requisito Patrimoniale Minimo, nel territorio della Repubblica, mentre per l'eccedenza possono essere localizzate nel territorio di altri Stati membri. 
  4. Le disposizioni dei commi 1 e 1-bis non si applicano all'impresa autorizzata ad operare anche in altri Stati membri, che sia soggetta a vigilanza globale di solvibilita' esercitata dalla autorita' di controllo di uno di tali Stati ai sensi dell'articolo 51.». 
- 60. L'[articolo 51, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 60. L'[articolo 51, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 51. 
  
@@ -1391,7 +1391,7 @@ Quando, nonostante il piano di finanziamento a breve termine considerato inizial
 Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo della solvibilita' globale, avuta notizia dell'accordo di tutti gli Stati membri interessati, comunica alle altre autorita' di essere disposta ad esercitare la vigilanza. Le agevolazioni vengono meno in tutti gli Stati membri interessati nel caso in cui siano soppresse ad iniziativa di uno o piu' Stati membri interessati. 
  5. L'impresa alla quale sono state concesse le agevolazioni calcola il Requisito Patrimoniale di Solvibilita' avendo riguardo all'attivita' complessiva svolta dall'insieme delle sedi secondarie stabilite negli Stati membri. 
  6. L'IVASS collabora con le autorita' di vigilanza degli altri Stati membri al fine di scambiare le informazioni necessarie per il controllo della solvibilita' globale.». 
- 61. Dopo l'[articolo 51, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), la rubrica del Titolo IV e' sostituita dalla seguente: «Imprese locali e particolari mutue assicuratrici»; nonche' sono inseriti i seguenti: 
+ 61. Dopo l'[articolo 51, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), la rubrica del Titolo IV e' sostituita dalla seguente: «Imprese locali e particolari mutue assicuratrici»; nonche' sono inseriti i seguenti: 
  
  «Capo I 
  
@@ -1407,8 +1407,8 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  1. Sono soggette alle disposizioni del presente Titolo: 
  a) le imprese di assicurazione locali che soddisfano le condizioni di cui all'articolo 51-ter, ivi incluse le mutue assicuratrici costituite ai sensi dell'[articolo 2546 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2546), che superano gli importi di cui ai commi 2 e 3 dell'articolo 52 e che non superano gli importi di cui all'articolo 51-ter; 
  b) le particolari mutue assicuratrici ai sensi dell'articolo 52. 
- 2. Le imprese di cui al comma 1, lettera a), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Imprese locali di cui al Titolo IV, Capo II, del [Codice delle Assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)». 
- 3. Le imprese di cui al comma 1, lettera b), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Particolari mutue assicuratrici di cui al Titolo IV, Capo III, del [Codice delle Assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)». 
+ 2. Le imprese di cui al comma 1, lettera a), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Imprese locali di cui al Titolo IV, Capo II, del [Codice delle Assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md)». 
+ 3. Le imprese di cui al comma 1, lettera b), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Particolari mutue assicuratrici di cui al Titolo IV, Capo III, del [Codice delle Assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md)». 
  4. L'IVASS da' pronta comunicazione all'impresa interessata dell'iscrizione nell'albo, ai sensi dei commi 2 e 3. Le imprese indicano negli atti e nella corrispondenza l'iscrizione all'albo. 
  
  Capo II 
@@ -1441,18 +1441,18 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  1. L'IVASS individua con regolamento le condizioni di accesso, di esercizio e le altre disposizioni del presente codice che si applicano alle imprese locali di cui all'articolo 51-ter. In ogni caso si applicano gli articoli 12 e 14, comma 3. 
  2. Il regime di cui al comma 1 si applica altresi' alle imprese autorizzate ai sensi dell'articolo 13 che non hanno superato per i tre esercizi consecutivi precedenti e verosimilmente non supereranno per ulteriori cinque esercizi consecutivi successivi gli importi di cui all'articolo 51-ter. L'IVASS determina con regolamento la procedura per l'accertamento dei presupposti per l'applicazione del regime di cui al comma 1. 
  3. Il regime di cui al comma 1 cessa di applicarsi, a decorrere dal quarto esercizio, qualora l'impresa abbia superato per tre esercizi consecutivi gli importi di cui alle lettere a), b), c), e) dell'articolo 51-ter. L'IVASS determina con regolamento la procedura di accertamento del mancato rispetto delle condizioni di cui all'articolo 51-ter e di conseguente presentazione dell'istanza di autorizzazione, ai sensi dell'articolo 13, da inviare entro trenta giorni dall'approvazione del bilancio relativo al terzo esercizio.». 
- 62. All'[articolo 52, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 62. All'[articolo 52, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) la rubrica e' sostituita dalla seguente: «Particolari mutue assicuratrici»; 
  b) il comma 1, e' sostituito dal seguente: «1. La mutua assicuratrice, costituita ai sensi dell'[articolo 2546 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2546), e' qualificata particolare mutua assicuratrice ai sensi del presente Capo quando ricorrono le condizioni rispettivamente stabilite nei commi 2 e 3. Tale impresa puo' esercitare l'attivita' assicurativa nei rami vita o nei rami danni e limitatamente al territorio della Repubblica, senza che trovi applicazione la disciplina sui requisiti per l'accesso di cui al capo II del titolo II. Le quote di partecipazione devono essere rappresentate da azioni.»; 
  c) al comma 2, le parole: «La societa' di mutua assicurazione», sono sostituite dalle seguenti: «La mutua assicuratrice»; 
  d) al comma 3, le parole: «La societa' di mutua assicurazione», sono sostituite dalle seguenti: «La mutua assicuratrice»; 
  e) il comma 4, e' sostituito dal seguente: «4. Se gli importi di cui ai commi 2 e 3 sono superati durante tre esercizi consecutivi, a decorrere dal quarto esercizio l'impresa cessa di essere qualificata particolare mutua assicuratrice, non e' piu' soggetta alle disposizioni del presente Capo ed e' tenuta a richiedere l'autorizzazione ai sensi dell'articolo 51-quater o ai sensi dell'articolo 13, in caso di superamento degli importi di cui all'articolo 51-ter, entro trenta giorni dall'approvazione del bilancio relativo al terzo esercizio nel quale gli importi sono stati superati.». 
- 63. All'[articolo 53, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «Le societa' di mutua assicurazione», sono sostituite dalle seguenti: «Le particolari mutue assicuratrici». 
- 64. L'[articolo 54, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 65. All'[articolo 55, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 63. All'[articolo 53, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «Le societa' di mutua assicurazione», sono sostituite dalle seguenti: «Le particolari mutue assicuratrici». 
+ 64. L'[articolo 54, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 65. All'[articolo 55, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, le parole: «all'articolo 347, comma 3,», sono sostituite dalle seguenti: «all'articolo 347, commi 3 e 4,»; 
  b) il comma 2, e' abrogato.». 
- 66. All'[articolo 56, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 66. All'[articolo 56, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) la rubrica e' sostituita dalla seguente: «Regime applicabile alle particolari mutue assicuratrici»; 
  b) il comma 1, e' sostituito dal seguente: 
  «1. Fatto salvo quanto previsto dal comma 3, l'IVASS, determina, con regolamento, la disciplina applicabile alle particolari mutue assicuratrici di cui all'articolo 52, tenuto conto delle dimensioni e delle limitazioni all'attivita' assicurativa, e specificamente: 
@@ -1461,14 +1461,14 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  c) le disposizioni di cui ai titoli VIII, XIII, XIV, XVI e XVIII in quanto compatibili.»; 
  c) il comma 2 e' abrogato; 
  d) al comma 3, le parole: «Alla mutua assicuratrice di cui al presente titolo», sono sostituite dalle seguenti: «Alle particolari mutue assicuratrici di cui al presente Capo». 
- 67. All'[articolo 57, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 67. All'[articolo 57, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 1, e' sostituito dal seguente: «1. L'esercizio della sola attivita' riassicurativa e' riservata alle imprese di riassicurazione.»; 
  b) al comma 2, le parole: «Le imprese di riassicurazione limitano», sono sostituite dalle seguenti: «L'impresa di riassicurazione limita». 
- 68. All'[articolo 57-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 68. All'[articolo 57-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) alla lettera d), del comma 2, la parola: «rilevante», e' sostituita dalla seguente: «qualificata»; 
  b) la lettera g), del comma 2, e' sostituita dalla seguente: «g) i requisiti di solvibilita'.»; 
- 69. All'[articolo 58, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 3 e' sostituito dal seguente: «3. L'autorizzazione e' valida per il territorio della Repubblica, per quello degli altri Stati membri, nel rispetto delle disposizioni relative alle condizioni di accesso in regime di stabilimento o di prestazione di servizi di cui agli articoli 59-ter e 59-quater, nonche' per quello degli Stati terzi di cui all'articolo 59-quinquies, nel rispetto della legislazione di tali Stati.». 
- 70. All'[articolo 59, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 69. All'[articolo 58, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 3 e' sostituito dal seguente: «3. L'autorizzazione e' valida per il territorio della Repubblica, per quello degli altri Stati membri, nel rispetto delle disposizioni relative alle condizioni di accesso in regime di stabilimento o di prestazione di servizi di cui agli articoli 59-ter e 59-quater, nonche' per quello degli Stati terzi di cui all'articolo 59-quinquies, nel rispetto della legislazione di tali Stati.». 
+ 70. All'[articolo 59, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, la lettera c) e' sostituita dalla seguente: «c) l'impresa detenga i fondi propri di base ammissibili necessari per coprire il minimo assoluto del Requisito Patrimoniale Minimo di cui all'articolo 66-sexies, comma 1, lettera d), di ammontare non inferiore ad euro 3.600.000, ad eccezione che per le imprese captive, per le quali il Requisito Patrimoniale Minimo non puo' essere inferiore ad euro 1.200.000;»; 
  b) al comma 1, dopo la lettera c) e' inserita la seguente:
 «c-bis) l'impresa dimostri che sara' in grado di detenere i fondi propri ammissibili necessari per coprire in prospettiva il Requisito Patrimoniale di Solvibilita' previsto all'articolo 45-bis;»; 
@@ -1482,15 +1482,15 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  h) dopo il comma 5, e' aggiunto il seguente: «5-bis. L'IVASS comunica all'AEAP ogni autorizzazione rilasciata ai fini della pubblicazione nell'elenco dalla stessa tenuto, con l'indicazione: 
  1) dei rami e dei rischi per i quali l'impresa e' autorizzata; 
  2) dell'eventuale abilitazione ad operare negli altri Stati membri in stabilimento o in libera prestazione di servizi.». 
- 71. All'[articolo 59-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 71. All'[articolo 59-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 2, e' sostituito dal seguente: «2. Per ottenere l'estensione dell'autorizzazione l'impresa da' prova di essere in regola con le disposizioni relative alle riserve tecniche, al Requisito Patrimoniale di Solvibilita' ed al Requisito Patrimoniale Minimo.»; 
  b) dopo il comma 2, e' inserito il seguente: «2-bis. Per ottenere l'estensione dell'autorizzazione, l'impresa deve altresi' presentare un programma di attivita' conforme all'articolo 59, comma 1, lettera d).»; 
  c) dopo il comma 4, e' inserito aggiunto, in fine, il seguente:
 «4-bis. Il provvedimento di estensione e' comunicato all'AEAP in conformita' all'articolo 59, comma 5-bis.». 
- 72. All'[articolo 60-bis, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «previsto dal comma 5», sono sostituite dalle seguenti: «previsto dall'articolo 28, comma 5». 
- 73. All'[articolo 61, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 1-bis, le parole: «l'articolo 24, comma 4», sono sostituite dalle seguenti: «l'articolo 23, comma 1-bis». 
- 74. All'[articolo 62, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente: «1. L'IVASS determina, con regolamento, le disposizioni relative alle condizioni di esercizio dell'attivita' di riassicurazione nel rispetto dei principi generali previsti dagli articoli 63, 63-bis, 64, 64-bis, 65, 65-bis, 66-bis, 66-quater, 66-sexies, 66-sexies.1 e 66-septies, avuto riguardo all'esigenza di sana e prudente gestione dell'impresa.». 
- 75. L'[articolo 63, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 72. All'[articolo 60-bis, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «previsto dal comma 5», sono sostituite dalle seguenti: «previsto dall'articolo 28, comma 5». 
+ 73. All'[articolo 61, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 1-bis, le parole: «l'articolo 24, comma 4», sono sostituite dalle seguenti: «l'articolo 23, comma 1-bis». 
+ 74. All'[articolo 62, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente: «1. L'IVASS determina, con regolamento, le disposizioni relative alle condizioni di esercizio dell'attivita' di riassicurazione nel rispetto dei principi generali previsti dagli articoli 63, 63-bis, 64, 64-bis, 65, 65-bis, 66-bis, 66-quater, 66-sexies, 66-sexies.1 e 66-septies, avuto riguardo all'esigenza di sana e prudente gestione dell'impresa.». 
+ 75. L'[articolo 63, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 63. 
  
@@ -1499,7 +1499,7 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  
  1. L'impresa di riassicurazione si dota di un sistema di governo societario nel rispetto delle disposizioni di cui al Titolo III, Capo I, Sezioni I e II. 
  2. I soggetti che svolgono funzioni di amministrazione, direzione e controllo nonche' funzioni fondamentali all'interno dell'impresa possiedono i requisiti di professionalita', onorabilita' ed indipendenza stabiliti dall'IVASS ai sensi dell'articolo 76.». 
- 76. Dopo l'[articolo 63, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 76. Dopo l'[articolo 63, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 63-bis 
  
@@ -1507,7 +1507,7 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  (Valutazione delle attivita' e passivita') 
  
  1. L'impresa di riassicurazione valuta le proprie attivita' e passivita' nel rispetto dell'articolo 35-quater.». 
- 77. L'[articolo 64, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 77. L'[articolo 64, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 64. 
  
@@ -1516,7 +1516,7 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  
  1. L'impresa di riassicurazione costituisce riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, sufficienti in relazione agli impegni assunti per l'insieme delle sue attivita' nel rispetto delle disposizioni del Capo II, Titolo III. 
  2. L'ammontare delle riserve tecniche e' calcolato in conformita' del Titolo III, Capo II.». 
- 78. Dopo l'[articolo 64, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 78. Dopo l'[articolo 64, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 64-bis 
  
@@ -1524,7 +1524,7 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  (Principi in materia di investimenti) 
  
  1. L'impresa di riassicurazione investe gli attivi nel rispetto delle disposizioni di cui all'articolo 37-ter.». 
- 79. L'[articolo 65, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 79. L'[articolo 65, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 65. 
  
@@ -1533,11 +1533,11 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  
  1. Le riserve tecniche di cui all'articolo 64 sono coperte con attivi di proprieta' dell'impresa in conformita' dell'articolo 38 e dell'articolo 41. 
  1-bis. L'impresa di riassicurazione investe gli attivi a copertura delle riserve tecniche in modo adeguato alla natura degli impegni e alla durata delle passivita' derivanti dalla riassicurazione e dalla retrocessione.». 
- 80. All'[articolo 65-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 80. All'[articolo 65-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) dopo il comma 1, e' inserito il seguente: «1-bis. Ai fini di cui al comma 1, gli attivi a copertura delle riserve tecniche sono iscritti nel registro per un importo netto dei debiti contratti per la loro acquisizione e delle eventuali poste rettificative e sono valutati in conformita' alle disposizioni dell'articolo 35-quater.»; 
  b) dopo il comma 1-bis, e' inserito il seguente: «1-ter. Gli attivi utilizzati dall'impresa per coprire le riserve tecniche relative alle accettazioni in retrocessione devono essere gestiti ed organizzati separatamente dalle attivita' di riassicurazione senza possibilita' di trasferimenti.». 
- 81. L'[articolo 66, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 82. L'[articolo 66-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 81. L'[articolo 66, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 82. L'[articolo 66-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 66-bis 
  
@@ -1545,8 +1545,8 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  (Fondi propri) 
  
  1. All'impresa di riassicurazione si applicano le disposizioni di cui agli articoli 44-ter, 44-quater, 44-quinquies, 44-septies, 44-octies, 44-decies, nonche' alle relative misure di attuazione adottate dalla Commissione europea per la classificazione e l'ammissibilita' dei fondi propri.». 
- 83. L'[articolo 66-ter, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 84. L'[articolo 66-quater, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 83. L'[articolo 66-ter, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 84. L'[articolo 66-quater, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 66-quater 
  
@@ -1554,8 +1554,8 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  (Requisiti Patrimoniali di Solvibilita') 
  
  1. All'impresa di riassicurazione si applicano le disposizioni di cui al Titolo III, Capo IV-bis, Sezione I, Sezione II e Sezione III, ed all'articolo 47-bis.». 
- 85. L'[articolo 66-quinquies, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 86. L'[articolo 66-sexies, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 85. L'[articolo 66-quinquies, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 86. L'[articolo 66-sexies, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 66-sexies 
  
@@ -1573,7 +1573,7 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  5. L'impresa calcola il Requisito Patrimoniale Minimo almeno ogni tre mesi e comunica il risultato di tale calcolo all'IVASS. 
  6. Ai fini del calcolo dei limiti di cui al comma 3 le imprese non sono tenute a calcolare il proprio Requisito Patrimoniale di Solvibilita' su base trimestrale. 
  7. Se il Requisito Patrimoniale Minimo dell'impresa coincide con uno dei limiti di cui al comma 3, tale impresa fornisce all'IVASS le informazioni necessarie a comprendere adeguatamente le ragioni per cui si e' verificata tale coincidenza.». 
- 87. Dopo l'[articolo 66-sexies, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 87. Dopo l'[articolo 66-sexies, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 66-sexies.1 
  
@@ -1581,10 +1581,10 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  (Informativa e processo di controllo prudenziale) 
  
  1. Le disposizioni del Titolo III, Capo IV-ter si applicano anche con riguardo all'impresa di riassicurazione.». 
- 88. All'[articolo 66-septies, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 88. All'[articolo 66-septies, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) prima del comma 1, e' inserito il seguente: «01. L'impresa che stipula contratti di riassicurazione finite o esercita attivita' di riassicurazione finite adotta adeguati processi e procedure di reportistica ed e' in grado di identificare, quantificare, monitorare, gestire, controllare e segnalare in modo adeguato i rischi derivanti da detti contratti e attivita'.»; 
  b) il comma 1, e' sostituito dal seguente: «1. L'IVASS, con regolamento, stabilisce specifiche disposizioni per l'esercizio dell'attivita' di riassicurazione finite nel rispetto delle disposizioni dell'Unione europea e vigila sul rispetto delle condizioni e disposizioni di cui al presente articolo.». 
- 89. L'[articolo 67, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 89. L'[articolo 67, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 67. 
  
@@ -1593,34 +1593,34 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
  
  1. L'IVASS determina, con regolamento, le disposizioni applicabili alle sedi secondarie di imprese di riassicurazione ((di uno Stato terzo)), nel rispetto dei principi generali di cui al Capo I del presente Titolo nonche' le disposizioni alle stesse applicabili in materia di registri, bilancio e scritture contabili di cui al Titolo VIII. 
  2. Le disposizioni di cui al comma 1 si applicano anche alle imprese aventi la sede legale in uno Stato terzo e ivi autorizzate all'esercizio congiunto dell'assicurazione e della riassicurazione, che chiedono di esercitare nel territorio della Repubblica la sola riassicurazione.». 
- 90. All'[articolo 68, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 90. All'[articolo 68, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 1, e' sostituito dal seguente: «1. L'IVASS autorizza preventivamente l'acquisizione, a qualsiasi titolo, in un'impresa di assicurazione o di riassicurazione di partecipazioni che comportano il controllo o l'acquisizione di una partecipazione qualificata, tenuto conto delle azioni o quote gia' possedute.»; 
  b) il comma 5-bis, e' sostituito dal seguente: «5-bis. L'IVASS opera in piena consultazione con le altre Autorita' competenti, nei casi in cui il potenziale acquirente sia una banca, un'impresa di investimento o una societa' di gestione ai sensi dell'[articolo 2, paragrafo 1, lettera b), della direttiva 2009/65/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;65) autorizzato in Italia, ovvero uno dei soggetti di cui all'articolo 204, comma 1, lettere b) o c), ad essi relativi. Si applicano, in tali casi, le disposizioni di cui all'articolo 204, commi 1-bis e 1-ter.». 
- 91. All'[articolo 69, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 91. All'[articolo 69, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, le parole: «di una partecipazione indicata» sono sostituite dalle seguenti: «di partecipazioni indicate»; 
  b) al comma 4, le parole: «della partecipazione» sono sostituite dalle seguenti: «delle partecipazioni». 
- 92. All'[articolo 71, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 4, le parole: «di una partecipazione» sono sostituite dalle seguenti: «di partecipazioni». 
- 93. All'[articolo 75, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «diversi dalle imprese sottoposte a vigilanza prudenziale» sono soppresse. 
- 94. All'[articolo 76, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 92. All'[articolo 71, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 4, le parole: «di una partecipazione» sono sostituite dalle seguenti: «di partecipazioni». 
+ 93. All'[articolo 75, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «diversi dalle imprese sottoposte a vigilanza prudenziale» sono soppresse. 
+ 94. All'[articolo 76, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) la rubrica e' sostituita dalla seguente: «Requisiti di professionalita', onorabilita' e indipendenza degli esponenti aziendali e dei soggetti che svolgono funzioni fondamentali»; 
  b) il comma 1, e' sostituito dal seguente: «1. I soggetti che svolgono funzioni di amministrazione, di direzione e di controllo e coloro che svolgono funzioni fondamentali presso le imprese di assicurazione e di riassicurazione devono possedere i requisiti di professionalita', di onorabilita' e di indipendenza, graduati secondo i principi di proporzionalita' e tenuto conto della rilevanza e complessita' del ruolo ricoperto, stabiliti con regolamento adottato dal Ministro dello sviluppo economico sentito l'IVASS»; 
  c) dopo il comma 1, e' inserito il seguente: «1-bis. L'impresa di assicurazione o di riassicurazione ha l'obbligo di dimostrare all'IVASS che i soggetti che svolgono funzioni di amministrazione, di direzione, di controllo nonche' i soggetti titolari di funzioni fondamentali sono in possesso dei requisiti di cui al comma 1.»; 
  d) il comma 2, e' sostituito dal seguente: «2. Il difetto dei requisiti, iniziale o sopravvenuto, determina la decadenza dall'ufficio. Essa e' dichiarata dal consiglio di amministrazione o dal consiglio di sorveglianza o dal consiglio di gestione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. La sostituzione e' comunicata all'IVASS. In caso di inerzia la decadenza e' pronunciata dall'IVASS che ordina la rimozione ai sensi dell'articolo 188, comma 3-bis, lettera e).». 
- 95. All'[articolo 77, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «Il Ministro delle attivita' produttive, sentito l'ISVAP» sono sostituite dalle seguenti: «Il Ministro dello sviluppo economico, sentito l'IVASS». 
- 96. All'[articolo 79, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 95. All'[articolo 77, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «Il Ministro delle attivita' produttive, sentito l'ISVAP» sono sostituite dalle seguenti: «Il Ministro dello sviluppo economico, sentito l'IVASS». 
+ 96. All'[articolo 79, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, le parole: «, con il patrimonio libero,» sono soppresse; 
  b) il comma 2, e' sostituito dal seguente: «2. Quando le partecipazioni in una societa' controllata, assunte ai sensi del comma 1, hanno carattere di strumentalita' o di connessione con l'attivita' assicurativa o riassicurativa, l'IVASS puo' chiedere che cio' risulti da un programma di attivita'.»; 
  c) il comma 3, e' sostituito dal seguente: «3. L'IVASS disciplina con regolamento le condizioni ed i criteri per individuare le operazioni di assunzione di partecipazioni soggette a comunicazione preventiva ovvero sottoposte ad autorizzazione preventiva, nonche' i presupposti per l'esercizio dei poteri di cui al comma 3-bis e all'articolo 81.»; 
  d) dopo il comma 3, e' inserito il seguente: «3-bis. L'IVASS puo' condizionare o negare l'autorizzazione o l'acquisizione di partecipazioni soggette a comunicazione preventiva qualora l'operazione sia in contrasto con la sana e prudente gestione dell'impresa o derivi un pericolo per la stabilita' della stessa.»; 
  e) dopo il comma 3-bis, e' inserito il seguente: «3-ter. Ai fini delle comunicazioni di cui al comma 3, rileva ogni altra assunzione di partecipazioni, quando la stessa, da sola o unitamente ad altra gia' posseduta, risulti consistente in base al patrimonio netto o al totale degli investimenti dell'impresa di assicurazione o di riassicurazione ovvero rispetto all'entita' dei diritti di voto o alla rilevanza degli altri diritti che consentono di influire sulla societa' partecipata.»; 
  f) al comma 4, le parole: «di partecipazioni che non avvenga con patrimonio libero o», sono soppresse. 
- 97. L'[articolo 80, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 98. All'[articolo 81, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 97. L'[articolo 80, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 98. All'[articolo 81, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, le parole: «indicati negli articoli 79 e 80» sono sostituite dalle seguenti: «indicati nell'articolo 79»; 
  b) al comma 2, le parole: «in relazione al patrimonio libero» sono soppresse; 
  c) il comma 4, e' sostituito dal seguente: «4. La mancata ottemperanza all'ordine di cui al comma 2 comporta, in ogni caso, la decurtazione di pari importo dai fondi propri a copertura del Requisito Patrimoniale di Solvibilita' dell'impresa di assicurazione o di riassicurazione.». 
- 99. All'[articolo 88, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' abrogato. 
- 100. All'[articolo 90, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 1, e' sostituito dal seguente: «1. L'IVASS, nel rispetto delle disposizioni di cui al [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), al [decreto legislativo 9 aprile 1991 n. 127](Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md), al [decreto legislativo 26 maggio 1997, n. 173](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), ed al [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), con regolamento determina: 
+ 99. All'[articolo 88, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' abrogato. 
+ 100. All'[articolo 90, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 1, e' sostituito dal seguente: «1. L'IVASS, nel rispetto delle disposizioni di cui al [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), al [decreto legislativo 9 aprile 1991 n. 127](Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md), al [decreto legislativo 26 maggio 1997, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), ed al [decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38), con regolamento determina: 
  a) gli schemi di bilancio; 
  b) il piano dei conti che le imprese adottano nella loro gestione; 
  c) le modalita' di calcolo, ai fini della redazione del bilancio di cui ai Capi II e III, delle riserve tecniche; 
@@ -1628,11 +1628,11 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
 
 101.
 
-All'[articolo 91, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 2, le parole: «e le sedi secondarie di cui all'articolo 88, comma 2,» sono soppresse.
+All'[articolo 91, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 2, le parole: «e le sedi secondarie di cui all'articolo 88, comma 2,» sono soppresse.
 
 102.
 
-All'[articolo 93, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 93, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «e le sedi secondarie di cui all'articolo 88, comma 2,» sono soppresse;
                         b)
@@ -1644,46 +1644,46 @@ All'[articolo 93, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 103.
 
-All'[articolo 95, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «e le sedi secondarie delle imprese estere di cui all'articolo 88, comma 2,» sono soppresse.
+All'[articolo 95, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «e le sedi secondarie delle imprese estere di cui all'articolo 88, comma 2,» sono soppresse.
 
 104.
 
-All'[articolo 100, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 1-ter, le parole: «delle imprese incluse» sono sostituite dalle seguenti: «delle societa' incluse».
+All'[articolo 100, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 1-ter, le parole: «delle imprese incluse» sono sostituite dalle seguenti: «delle societa' incluse».
 
 105.
 
-All'[articolo 101, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «e le sedi secondarie di imprese di assicurazione di Stati terzi» sono soppresse.
+All'[articolo 101, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «e le sedi secondarie di imprese di assicurazione di Stati terzi» sono soppresse.
 
 106.
 
-All'[articolo 102, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 102, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1, e' sostituito dal seguente: «1. Il bilancio delle imprese di assicurazione e di riassicurazione con sede legale nel territorio della Repubblica e' corredato dalla relazione di un revisore legale o di una societa' di revisione legale iscritti nell'apposito registro. 
  b) il comma 2, e' sostituito dal seguente «La relazione del revisore legale o della societa' di revisione legale esprime anche un giudizio sulla sufficienza delle riserve tecniche dell'impresa, avuto riguardo alle disposizioni del presente codice e tenuto conto di corrette tecniche attuariali. A tal fine, l'IVASS individua con regolamento i criteri per la determinazione della sufficienza delle riserve tecniche e le corrette tecniche attuariali alla luce delle quali deve essere espresso il giudizio del revisore o della societa' di revisione legale, nonche' le modalita' e i termini di espressione del giudizio medesimo.».
 
 107.
 
-L'[articolo 103, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
+L'[articolo 103, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
 
 108.
 
-All'[articolo 104, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «si avvalgono dell'attuario» sono sostituite dalle seguenti: «utilizzano corrette tecniche attuariali».
+All'[articolo 104, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 1, le parole: «si avvalgono dell'attuario» sono sostituite dalle seguenti: «utilizzano corrette tecniche attuariali».
 
 109.
 
-L'[articolo 105, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
+L'[articolo 105, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
 
 110.
 
-All'[articolo 117, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 3-bis, sono aggiunte, in fine, le seguenti parole: «Il limite minimo puo' essere elevato dall'IVASS, con regolamento, tenendo conto delle variazioni dell'indice europeo dei prezzi al consumo.».
+All'[articolo 117, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 3-bis, sono aggiunte, in fine, le seguenti parole: «Il limite minimo puo' essere elevato dall'IVASS, con regolamento, tenendo conto delle variazioni dell'indice europeo dei prezzi al consumo.».
 
 111.
 
-Agli [articoli 154, commi 1](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e [5](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), [157, comma 1](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), [158](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), [comma 3](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e [159](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), [comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), la parola: «ISVAP» e' sostituita dalla seguente: «CONSAP».
+Agli [articoli 154, commi 1](../Codici/Codice%20delle%20assicurazioni%20private.md) e [5](../Codici/Codice%20delle%20assicurazioni%20private.md), [157, comma 1](../Codici/Codice%20delle%20assicurazioni%20private.md), [158](../Codici/Codice%20delle%20assicurazioni%20private.md), [comma 3](../Codici/Codice%20delle%20assicurazioni%20private.md) e [159](../Codici/Codice%20delle%20assicurazioni%20private.md), [comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), la parola: «ISVAP» e' sostituita dalla seguente: «CONSAP».
 
 112.
 
-Dopo l'[articolo 162 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+Dopo l'[articolo 162 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 162-bis 
  
@@ -1703,15 +1703,15 @@ Dopo l'[articolo 162 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 113.
 
-All'[articolo 185, comma 2, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' aggiunto, in fine, il seguente periodo: «La nota informativa contiene il riferimento alla relazione sulla solvibilita' e sulla condizione finanziaria dell'impresa di cui all'articolo 47-septies».
+All'[articolo 185, comma 2, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' aggiunto, in fine, il seguente periodo: «La nota informativa contiene il riferimento alla relazione sulla solvibilita' e sulla condizione finanziaria dell'impresa di cui all'articolo 47-septies».
 
 113-bis.
 
-All'[articolo 185, comma 4 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' aggiunto, in fine, il seguente periodo: «Restano ferme le competenze della Consob ai sensi dell'[articolo 25-bis del decreto legislativo 28 febbraio 1998 n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-28;58#art_25bis).».
+All'[articolo 185, comma 4 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' aggiunto, in fine, il seguente periodo: «Restano ferme le competenze della Consob ai sensi dell'[articolo 25-bis del decreto legislativo 28 febbraio 1998 n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-28;58#art_25bis).».
 
 114.
 
-Dopo l'[articolo 187 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+Dopo l'[articolo 187 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 187-bis 
  
@@ -1722,7 +1722,7 @@ Dopo l'[articolo 187 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 115.
 
-All'[articolo 188 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 188 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, capoverso, le parole: «per l'esercizio» sono sostituite dalle seguenti: «nell'esercizio»; le parole: «di assicurazione e di riassicurazione» sono soppresse e dopo le parole: «del presente codice» sono inserite le seguenti: «nonche' delle disposizioni dell'Unione europea direttamente applicabili»;
                         b)
@@ -1741,7 +1741,7 @@ All'[articolo 188 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 116.
 
-All'[articolo 189 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 189 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: «alle imprese di assicurazione e di riassicurazione, ai soggetti che svolgono funzioni parzialmente comprese nel ciclo operativo delle imprese di assicurazione e di riassicurazione per indagini esclusivamente rivolte ai profili assicurativi o riassicurativi, agli intermediari assicurativi e riassicurativi, ai periti assicurativi,» sono sostituite dalle seguenti: «ai destinatari della vigilanza di cui all'articolo 6»;
                         b)
@@ -1750,7 +1750,7 @@ L'IVASS disciplina con regolamento i criteri di scelta e le ipotesi di conflitto
 
 117.
 
-All'[articolo 190 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 190 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: «1. L'IVASS, nel rispetto degli articoli 3 e 5, puo' chiedere ai soggetti vigilati la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti, nonche' qualsiasi informazione in merito ai contratti che sono detenuti da intermediari o in merito ai contratti conclusi con terzi con i termini e le modalita' da esso stabilite con regolamento.»;
                         b)
@@ -1776,7 +1776,7 @@ All'[articolo 190 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 118.
 
-Dopo l'[articolo 190 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+Dopo l'[articolo 190 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 190-bis 
  
@@ -1792,7 +1792,7 @@ Dopo l'[articolo 190 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 119.
 
-L'[articolo 191 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+L'[articolo 191 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 191. 
  
@@ -1831,7 +1831,7 @@ L'[articolo 191 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 120.
 
-All'[articolo 192 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 192 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 2 e' sostituito dal seguente: «2. L'IVASS esercita le funzioni di vigilanza prudenziale, avendo riguardo alla costante verifica della gestione tecnica, finanziaria e patrimoniale dell'impresa, con particolare riferimento all'adeguatezza dei requisiti patrimoniali e delle riserve tecniche in rapporto all'insieme dell'attivita' svolta, alla disponibilita' di attivi e di fondi propri ammissibili ai fini dell'integrale copertura delle riserve tecniche e dei requisiti patrimoniali di solvibilita', alla valutazione dei rischi emergenti, nonche' al governo societario e all'informativa all'IVASS ed ai terzi. Nei confronti delle imprese autorizzate all'esercizio del ramo assistenza la vigilanza dell'IVASS si estende anche alle verifiche sul personale e sui mezzi tecnici di cui le imprese dispongono per fornire la prestazione.»;
                         b)
@@ -1839,7 +1839,7 @@ All'[articolo 192 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 121.
 
-All'[articolo 193 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 193 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo il comma 1, e' inserito il seguente: «1-bis. Qualora l'IVASS abbia motivo di ritenere che le attivita' dell'impresa di assicurazione di cui al comma 1 possa eventualmente compromettere la solidita' finanziaria della stessa, ne informa l'autorita' di vigilanza dello Stato membro di origine di tale impresa.»;
                         b)
@@ -1849,7 +1849,7 @@ All'[articolo 193 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 122.
 
-All'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, dopo le parole: «svolta in regime di» sono inserite le seguenti: «stabilimento o di»;
                         b)
@@ -1857,7 +1857,7 @@ All'[articolo 195 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 123.
 
-All'[articolo 195-bis del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 195-bis del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo il comma 1 e' inserito il seguente: «1-bis. Qualora l'IVASS abbia motivo di ritenere che le attivita' dell'impresa di riassicurazione di cui al comma 1 possa eventualmente compromettere la solidita' finanziaria della stessa, ne informa l'autorita' di vigilanza dello Stato membro di origine di tale impresa.»;
                         b)
@@ -1865,12 +1865,12 @@ All'[articolo 195-bis del decreto legislativo 7 settembre 2005, n. 209](../Decre
 
 124.
 
-All'[articolo 197 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 3 e' sostituito dal seguente: 
+All'[articolo 197 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 3 e' sostituito dal seguente: 
  «3. L'impresa comunica all'IVASS ogni variazione apportata al programma di attivita', nonche' ogni variazione intervenuta nelle persone che ricoprono funzioni di amministrazione, di direzione e di controllo, nei responsabili delle funzioni fondamentali nonche' nei soggetti che detengono una partecipazione indicata dall'articolo 68 nell'impresa di assicurazione. Le eventuali modifiche del programma di attivita' sono sottoposte all'approvazione dell'IVASS secondo la procedura stabilita con regolamento.».
 
 125.
 
-All'[articolo 198 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 198 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             ai commi 2 e 3, le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis»;
                         b)
@@ -1878,15 +1878,15 @@ All'[articolo 198 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 126.
 
-All'[articolo 199 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), ai commi 2, 3, lettera b), 4, lettera b), e 5, lettera b), le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.».
+All'[articolo 199 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), ai commi 2, 3, lettera b), 4, lettera b), e 5, lettera b), le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.».
 
 127.
 
-All'[articolo 200 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 4 le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.».
+All'[articolo 200 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 4 le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.».
 
 128.
 
-All'[articolo 201 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 201 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2, le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.»;
                         b)
@@ -1894,15 +1894,15 @@ All'[articolo 201 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 129.
 
-All'[articolo 202 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 1 le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 66-quater.».
+All'[articolo 202 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 1 le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 66-quater.».
 
 130.
 
-La rubrica del Capo IV del titolo XIV del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: «COOPERAZIONE CON LE AUTORITA' DI VIGILANZA DEGLI ALTRI STATI MEMBRI E COMUNICAZIONI ALLA COMMISSIONE EUROPEA E ALL'AEAP».
+La rubrica del Capo IV del titolo XIV del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: «COOPERAZIONE CON LE AUTORITA' DI VIGILANZA DEGLI ALTRI STATI MEMBRI E COMUNICAZIONI ALLA COMMISSIONE EUROPEA E ALL'AEAP».
 
 131.
 
-Prima dell'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente Sezione: 
+Prima dell'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente Sezione: 
  
  «Sezione I 
  
@@ -1910,11 +1910,11 @@ COOPERAZIONE CON LE AUTORITA' DI VIGILANZA DEGLI ALTRI STATI MEMBRI PER LA VIGIL
 
 132.
 
-All'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 3, le parole: «autorita' competenti rilevanti» sono sostituite dalle seguenti: «autorita' competenti» e la parola: «comunitario» e' sostituita dalle seguenti: «dell'Unione europea».
+All'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 3, le parole: «autorita' competenti rilevanti» sono sostituite dalle seguenti: «autorita' competenti» e la parola: «comunitario» e' sostituita dalle seguenti: «dell'Unione europea».
 
 133.
 
-Dopo l'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+Dopo l'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 203-bis 
  
@@ -1925,7 +1925,7 @@ Dopo l'[articolo 203 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 134.
 
-All'[articolo 204 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 204 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: 
  «1. L'IVASS, nei casi in cui e' previsto il rilascio dell'autorizzazione di cui all'articolo 68, opera in piena consultazione con le Autorita' competenti degli altri Stati membri allorche' l'acquisizione o la sottoscrizione di azioni sia effettuata da un acquirente che sia: 
@@ -1937,7 +1937,7 @@ All'[articolo 204 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 135.
 
-All'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+All'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo il comma 1 e' inserito il seguente: «1-bis. Qualora l'IVASS abbia informato l'autorita' di vigilanza dello Stato membro ospitante della propria intenzione di procedere ad ispezioni nei locali della sede secondaria di cui al primo comma e all'IVASS non sia di fatto consentito il diritto di effettuarle, puo' rinviare la questione all'AEAP ai sensi dell'articolo 19 del regolamento UE n. 1094/2010.»;
                         b)
@@ -1947,7 +1947,7 @@ All'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%2
 
 136.
 
-Dopo l'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+Dopo l'[articolo 205 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 205-bis 
  
@@ -1964,11 +1964,11 @@ L'IVASS, ove lo richieda, ha diritto di parteciparvi.
 
 137.
 
-L'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
+L'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
 
 138.
 
-Dopo l'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente Sezione: 
+Dopo l'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente Sezione: 
  
  «Sezione II 
  
@@ -1978,7 +1978,7 @@ Dopo l'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 139.
 
-Dopo l'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+Dopo l'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 206-bis 
  
@@ -2008,11 +2008,11 @@ Dopo l'[articolo 206 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 140.
 
-L'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
+L'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato.
 
 141.
 
-Dopo l'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+Dopo l'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 207-bis 
  
@@ -2109,7 +2109,7 @@ Dopo l'[articolo 207 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 142.
 
-Prima dell'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente Sezione: 
+Prima dell'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente Sezione: 
  
  «Sezione III 
  
@@ -2119,7 +2119,7 @@ Prima dell'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../De
 
 143.
 
-L'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+L'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 208. 
  
@@ -2132,7 +2132,7 @@ L'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 144.
 
-Dopo l'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+Dopo l'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 208-bis 
  
@@ -2148,7 +2148,7 @@ Dopo l'[articolo 208 del decreto legislativo 7 settembre 2005, n. 209](../Decret
 
 145.
 
-La rubrica del titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: 
+La rubrica del titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: 
  
  «TITOLO XV 
  
@@ -2157,7 +2157,7 @@ La rubrica del titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../D
 
 146.
 
-La rubrica del Capo I del titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: 
+La rubrica del Capo I del titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituita dalla seguente: 
  
  «Capo I 
  
@@ -2166,7 +2166,7 @@ La rubrica del Capo I del titolo XV del [decreto legislativo 7 settembre 2005, n
 
 147.
 
-L'[articolo 210 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+L'[articolo 210 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 210. 
  
@@ -2187,22 +2187,22 @@ L'[articolo 210 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20L
 
 148.
 
-L'[articolo 210-bis del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+L'[articolo 210-bis del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 210-bis 
  
  
  (Altre disposizioni applicabili) 
  
- 1. L'IVASS puo' individuare, con provvedimenti di carattere generale o specifici, i casi in cui una o piu' disposizioni adottate ai sensi del presente Titolo, in particolare relative alla concentrazione dei rischi e alle operazioni infragruppo, non si applicano qualora l'ultima societa' controllante di cui all'articolo 210, comma 2, sia una impresa di assicurazione o riassicurazione, una societa' di partecipazione assicurativa o una societa' di partecipazione finanziaria mista soggetta alla vigilanza a livello di conglomerato finanziario ai sensi del [decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md). 
+ 1. L'IVASS puo' individuare, con provvedimenti di carattere generale o specifici, i casi in cui una o piu' disposizioni adottate ai sensi del presente Titolo, in particolare relative alla concentrazione dei rischi e alle operazioni infragruppo, non si applicano qualora l'ultima societa' controllante di cui all'articolo 210, comma 2, sia una impresa di assicurazione o riassicurazione, una societa' di partecipazione assicurativa o una societa' di partecipazione finanziaria mista soggetta alla vigilanza a livello di conglomerato finanziario ai sensi del [decreto legislativo 30 maggio 2005, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md). 
  2. L'IVASS puo' individuare, con provvedimenti di carattere generale o specifici, i casi in cui una o piu' disposizioni adottate ai sensi del presente Titolo non si applicano alla societa' di partecipazione finanziaria mista in quanto soggetta a disposizioni di vigilanza equivalenti, in particolare in termini di vigilanza basata sul rischio. 
  3. L'IVASS, in qualita' di autorita' di vigilanza sul gruppo, informa l'ABE e l'AEAP, delle decisioni adottate a norma dei commi 1 e 2. 
- 4. Fatto salvo quanto previsto dal comma 1, le disposizioni di cui agli articoli 210-ter, comma 7, 212-bis, comma 1, lettera c), si applicano alla societa' di partecipazione finanziaria mista, qualora il settore di maggiori dimensioni all'interno del conglomerato finanziario sia quello assicurativo, determinato ai sensi del [decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md). I provvedimenti di cui agli articoli 79, comma 3-bis, e 81, commi 2 e 3, l'approvazione di cui all'articolo 196, l'autorizzazione di cui all'articolo 68 e la decadenza di cui all'articolo 76 sono adottati dall'IVASS d'intesa con Banca d'Italia. 
+ 4. Fatto salvo quanto previsto dal comma 1, le disposizioni di cui agli articoli 210-ter, comma 7, 212-bis, comma 1, lettera c), si applicano alla societa' di partecipazione finanziaria mista, qualora il settore di maggiori dimensioni all'interno del conglomerato finanziario sia quello assicurativo, determinato ai sensi del [decreto legislativo 30 maggio 2005, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md). I provvedimenti di cui agli articoli 79, comma 3-bis, e 81, commi 2 e 3, l'approvazione di cui all'articolo 196, l'autorizzazione di cui all'articolo 68 e la decadenza di cui all'articolo 76 sono adottati dall'IVASS d'intesa con Banca d'Italia. 
  5. I provvedimenti previsti dal titolo XVI, Capo I, II, IV e VII, nonche' le misure di cui all'articolo 220-novies, nei confronti della societa' di partecipazione finanziaria mista sono adottati o proposti dall'IVASS d'intesa con Banca d'Italia.».
 
 149.
 
-Dopo l'[articolo 210-bis del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+Dopo l'[articolo 210-bis del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 210-ter 
  
@@ -2233,9 +2233,9 @@ Dopo l'[articolo 210-bis del decreto legislativo 7 settembre 2005, n. 209](../De
 
 150.
 
-Gli [articoli 211](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e [212 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono abrogati.
+Gli [articoli 211](../Codici/Codice%20delle%20assicurazioni%20private.md) e [212 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono abrogati.
 
-151. Il Capo II del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+151. Il Capo II del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Capo II 
  
@@ -2289,8 +2289,8 @@ Gli [articoli 211](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20pri
  (Valutazione regime di equivalenza di Stati terzi) 
  
  1. Le valutazioni di equivalenza di cui agli articoli 216-sexies, comma 1, lettera e), e 220-septies, comma 1, sono effettuate dall'IVASS in conformita' e nei limiti previsti dalle disposizioni dell'Unione europea.». 
- 152. L'[articolo 215 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 153. Il Capo III del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 152. L'[articolo 215 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 153. Il Capo III del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Capo III 
  
@@ -2445,8 +2445,8 @@ Nel caso in cui la societa' controllante non e' un'impresa di assicurazione o di
 (Processo di controllo prudenziale degli strumenti di vigilanza sul gruppo) 
  
  1. L'adempimento degli obblighi in materia di sistema di governo societario, di valutazione interna del rischio e della solvibilita' del gruppo, di concentrazione dei rischi e di operazioni infragruppo, di calcolo della solvibilita' di gruppo di cui al presente Capo, sono soggetti al processo di controllo prudenziale da parte dell'IVASS.». 
- 154. L'[articolo 217 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 155. Il Capo IV del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 154. L'[articolo 217 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 155. Il Capo IV del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Capo IV 
  
@@ -2534,8 +2534,8 @@ Nel caso in cui la societa' controllante non e' un'impresa di assicurazione o di
 (Gestione centralizzata del rischio: imprese di assicurazione o riassicurazione controllate da una societa' di partecipazione assicurativa o da una societa' di partecipazione finanziaria mista) 
  
  1. Gli articoli 217-bis, 217-ter, 217-quater, 217-quinquies, 217-sexies si applicano alle imprese di assicurazione e di riassicurazione controllate da una societa' di partecipazione assicurativa o una societa' di partecipazione finanziaria mista.». 
- 156. Gli [articoli 218](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), [219](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e [220 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono abrogati. 
- 157. Dopo il Capo IV del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 156. Gli [articoli 218](../Codici/Codice%20delle%20assicurazioni%20private.md), [219](../Codici/Codice%20delle%20assicurazioni%20private.md) e [220 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono abrogati. 
+ 157. Dopo il Capo IV del Titolo XV del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Capo IV-bis 
  
@@ -2634,7 +2634,7 @@ Nel caso in cui la societa' controllante non e' un'impresa di assicurazione o di
  b) dall'IVASS nei confronti delle imprese di assicurazione e riassicurazione del gruppo con sede legale nel territorio della Repubblica. 
  2. Nelle ipotesi in cui le misure di cui al comma 1 devono essere adottate nei confronti di societa' di partecipazione assicurativa e delle societa' di partecipazione finanziaria mista con sede legale in un altro Stato membro, l'IVASS informa le autorita' di vigilanza di tale Stato delle conclusioni a cui e' pervenuta, al fine di consentire alle stesse l'adozione delle misure necessarie e collabora con esse al fine di garantire un'azione efficace di vigilanza. 
  3. Nel caso in cui l'impresa di assicurazione o di riassicurazione nei cui confronti devono essere prese le misure correttive abbia sede in un altro Stato membro, IVASS, in qualita' di autorita' di vigilanza sul gruppo ai sensi dell'articolo 207-sexies, informa l'autorita' di vigilanza in cui ha sede l'impresa al fine di consentire alla stessa l'adozione delle misure necessarie e collabora con essa al fine di garantire un'azione efficace di vigilanza.». 
- 158. Dopo l'[articolo 220-novies del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito al Titolo XVI, Capo I, il seguente: 
+ 158. Dopo l'[articolo 220-novies del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito al Titolo XVI, Capo I, il seguente: 
  
  «Art. 220-decies 
  
@@ -2642,9 +2642,9 @@ Nel caso in cui la societa' controllante non e' un'impresa di assicurazione o di
 (Rilevazione e comunicazione del deterioramento delle condizioni finanziarie) 
  
  1. L'impresa di assicurazione o di riassicurazione si dota di procedure per individuare il deterioramento delle proprie condizioni finanziarie e comunica immediatamente all'IVASS il deterioramento individuato.». 
- 159. All'[articolo 221 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente: 
+ 159. All'[articolo 221 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente: 
  «1. Fatto salvo quanto previsto all'articolo 184, qualora l'impresa di assicurazione o di riassicurazione, che ha sede legale nel territorio della Repubblica, non osservi le disposizioni sulle riserve tecniche di cui agli articoli 36, 36-bis, 36-ter, 36-quater, 36-quinquies, 36-sexies, 36-septies, 36-octies, 36-novies e 37 e sulle attivita' a copertura delle medesime di cui agli articoli 37-ter, 38, 41, 42, 42-bis, 43, l'IVASS ne contesta la violazione e le ordina di conformarsi alle norme violate, assegnando un termine congruo per l'attuazione degli adempimenti richiesti, ma non pregiudizievole per la protezione degli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative.». 
- 160. L'[articolo 222 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 160. L'[articolo 222 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 222 
  
@@ -2667,8 +2667,8 @@ La cessazione della situazione eccezionalmente avversa e' dichiarata dall'AEAP, 
  3. L'IVASS, in casi eccezionali se ritiene che la situazione finanziaria dell'impresa rischi di subire ulteriori deterioramenti, puo' vietare all'impresa di compiere atti di disposizione sui beni esistenti nel territorio della Repubblica e successivamente puo' consentirne, con specifiche autorizzazioni, una disponibilita' limitata, comunque informando preventivamente le autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera. L'IVASS puo' inoltre chiedere alle autorita' di vigilanza degli altri Stati membri, nei quali l'impresa possiede beni, di adottare analogo provvedimento, indicando i beni da assoggettare a tale misura. 
  4. L'IVASS puo' anche disporre il vincolo sui singoli attivi iscritti nel registro a copertura delle riserve tecniche con le modalita' previste dall'articolo 224. 
  5. Qualora il piano di risanamento o il piano di finanziamento riguardino una societa' cooperativa e prevedano un aumento di capitale sociale, il limite individuale di sottoscrizione del capitale sociale e' elevato sino al triplo. In tal caso, ai fini dell'iscrizione nel registro delle imprese della deliberazione assembleare di aumento del capitale sociale, la societa' cooperativa e' tenuta ad esibire il provvedimento adottato dall'IVASS.». 
- 161. L'[articolo 223 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 162. Dopo l'[articolo 222 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
+ 161. L'[articolo 223 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 162. Dopo l'[articolo 222 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono inseriti i seguenti: 
  
  «Art. 222-bis 
  
@@ -2707,8 +2707,8 @@ La cessazione della situazione eccezionalmente avversa e' dichiarata dall'AEAP, 
  e) la politica di riassicurazione nel suo complesso. 
  2. L'IVASS, valutata la situazione dell'impresa di assicurazione o di riassicurazione, puo' ridurre il valore di tutti gli elementi che rientrano nel Requisito Patrimoniale di Solvibilita' e cio' anche nel caso in cui abbiano subito una significativa diminuzione del valore di mercato nel periodo successivo alla fine del precedente esercizio. 
  3. L'IVASS non rilascia attestazioni di solvibilita' dell'impresa di assicurazione o di riassicurazione, alla quale ha richiesto ai sensi del comma 1 il piano di risanamento finanziario di cui all'articolo 222, comma 2, o un piano di finanziamento di cui all'articolo 222-bis, comma 2, fino a quando ritenga che i diritti degli assicurati e degli altri aventi diritto a prestazioni assicurative o gli impegni contrattuali dell'impresa di riassicurazione siano a rischio.». 
- 163. All'[articolo 225, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «per il caso di violazione delle norme sulle riserve tecniche, sulle attivita' a copertura, sul margine di solvibilita' richiesto o sulla quota di garanzia» sono sostituite dalle seguenti: «ai sensi degli articoli 221, 222, 222-bis». 
- 164. L'[articolo 226 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 163. All'[articolo 225, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «per il caso di violazione delle norme sulle riserve tecniche, sulle attivita' a copertura, sul margine di solvibilita' richiesto o sulla quota di garanzia» sono sostituite dalle seguenti: «ai sensi degli articoli 221, 222, 222-bis». 
+ 164. L'[articolo 226 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 226. 
  
@@ -2719,7 +2719,7 @@ La cessazione della situazione eccezionalmente avversa e' dichiarata dall'AEAP, 
  2. L'IVASS applica le disposizioni di cui al presente capo nei confronti delle imprese di assicurazione e di riassicurazione, che hanno sede legale in Stati terzi in caso di violazione posta in essere dalla sede secondaria stabilita nel territorio della Repubblica. 
  3. Se la violazione riguarda le disposizioni sul requisito patrimoniale di solvibilita' ed e' posta in essere da un'impresa di assicurazione o di riassicurazione di un Paese terzo che sia stabilita, oltre che nel territorio della Repubblica, anche in altri Stati membri e che sia vigilata dall'IVASS anche per le attivita' effettuate dalle sedi secondarie stabilite negli altri Stati membri, l'adozione dei provvedimenti di cui agli articoli 221, 222, 222-bis, 224 e 225 spetta all'IVASS, ad eccezione dei casi in cui il controllo di solvibilita' venga demandato ad altra Autorita' ai sensi dell'articolo 51, comma 3. Dei provvedimenti adottati e' data comunicazione alle autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera o possiede beni. Alle stesse autorita' puo' essere richiesto di adottare misure analoghe, cooperando nell'adozione di ogni provvedimento idoneo a salvaguardare gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative. 
  4. Nel caso di cui al comma 3, se lo stato di solvibilita' per il complesso delle attivita' esercitate dalle sedi secondarie dell'impresa di assicurazione o di riassicurazione di un Paese terzo e' sottoposto al controllo esclusivo dell'autorita' di vigilanza di un altro Stato membro, per l'adozione dei provvedimenti di cui all'articolo 224 sui beni posseduti dall'impresa nel territorio della Repubblica la medesima autorita' puo' avvalersi della cooperazione dell'IVASS.». 
- 165. Dopo l'[articolo 226 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
+ 165. Dopo l'[articolo 226 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente: 
  
  «Art. 226-bis 
  
@@ -2727,7 +2727,7 @@ La cessazione della situazione eccezionalmente avversa e' dichiarata dall'AEAP, 
 (Rilevazione e comunicazione del deterioramento delle condizioni finanziarie di gruppo) 
  
  1. L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, si dota di procedure per individuare il deterioramento delle condizioni del gruppo finanziarie e comunica immediatamente all'IVASS il deterioramento individuato.». 
- 166. L'[articolo 227 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 166. L'[articolo 227 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 227. 
  
@@ -2739,30 +2739,30 @@ La cessazione della situazione eccezionalmente avversa e' dichiarata dall'AEAP, 
  3. L'IVASS impone alla societa' di cui al comma 1 di adottare i provvedimenti necessari per ristabilire, entro sei mesi dalla rilevazione dell'inosservanza del requisito patrimoniale di solvibilita' di gruppo, il livello di fondi propri ammissibili in misura tale da coprire il requisito patrimoniale di solvibilita' di gruppo o per ridurre il profilo di rischio al fine di garantire l'osservanza del requisito patrimoniale di solvibilita' di gruppo. 
  4. L'IVASS, qualora lo ritenga opportuno, puo' concedere una proroga di tre mesi. 
  5. In presenza delle situazioni eccezionalmente avverse aventi ripercussioni, riconosciute dall'AEAP ai sensi dell'articolo 222, comma 2-quater, su imprese di assicurazione e riassicurazione che rappresentano una quota significativa del mercato o delle aree di attivita' interessate, l'IVASS puo' estendere per il gruppo coinvolto, se del caso anche in consultazione con il CERS, il periodo fissato al comma 4 per un periodo di tempo massimo di sette anni, tenendo conto di tutti i fattori pertinenti, ivi inclusa la durata media relativa delle riserve tecniche. Si applica l'articolo 222, commi 2-octies e 2-novies.». 
- 167. L'[articolo 228 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 168. All'[articolo 229 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 2, le parole: «, in ogni caso e' preceduto dalla contestazione delle violazioni accertate e», sono soppresse. 
- 169. All'[articolo 231 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' soppresso. 
- 170. All'[articolo 233 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 4 e' sostituito dal seguente: «4. Agli organi della procedura si applicano i requisiti di professionalita', onorabilita' e indipendenza stabiliti in attuazione dell'articolo 76.». 
- 171. All'[articolo 234 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 6 e' sostituito dal seguente: 
+ 167. L'[articolo 228 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 168. All'[articolo 229 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 2, le parole: «, in ogni caso e' preceduto dalla contestazione delle violazioni accertate e», sono soppresse. 
+ 169. All'[articolo 231 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' soppresso. 
+ 170. All'[articolo 233 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 4 e' sostituito dal seguente: «4. Agli organi della procedura si applicano i requisiti di professionalita', onorabilita' e indipendenza stabiliti in attuazione dell'articolo 76.». 
+ 171. All'[articolo 234 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 6 e' sostituito dal seguente: 
  «6. I commissari, sentito il comitato di sorveglianza, previa autorizzazione dell'IVASS, possono, nell'interesse della procedura, sostituire la societa' di revisione. Ai medesimi soggetti compete soltanto il corrispettivo per la durata residua dell'incarico e, comunque, per un periodo non superiore a tre mesi. Il nuovo incarico puo' avere durata massima fino al termine dell'amministrazione straordinaria.». 
- 172. All'[articolo 240 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 172. All'[articolo 240 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 3 e' sostituito dal seguente: «3. L'IVASS accerta, con provvedimento pubblicato nel Bollettino, la decadenza dall'autorizzazione e, nel caso riguardi il complesso dei rami esercitati, dispone la cancellazione dall'albo delle imprese di assicurazione e di riassicurazione. Il provvedimento e' comunicato dall'IVASS alle autorita' di vigilanza degli altri Stati membri, per l'adozione da parte di tali Autorita' di misure idonee a impedire all'impresa di assicurazione di esercitare l'attivita' sul loro territorio.»; 
  b) dopo il comma 3 e' inserito il seguente: «3-bis L'IVASS comunica all'AEAP ogni caso in cui un'impresa di assicurazione e riassicurazione decada dall'autorizzazione rilasciata ai fini della pubblicazione nell'elenco dalla stessa tenuto.». 
- 173. All'[articolo 241 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' sostituito dal seguente: 
+ 173. All'[articolo 241 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' sostituito dal seguente: 
  «2. I liquidatori devono possedere i requisiti di onorabilita', professionalita' e indipendenza stabiliti in attuazione dell'articolo 76. Qualora perdano i relativi requisiti, i liquidatori decadono dalla carica. Se l'assemblea non provvede alla loro sostituzione entro trenta giorni dalla conoscenza del sopravvenuto difetto dei requisiti, l'IVASS propone al Ministro dello sviluppo economico l'adozione del provvedimento di liquidazione coatta amministrativa.». 
- 174. All'[articolo 242 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 174. All'[articolo 242 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 1, la lettera d) e' sostituita dalla seguente: «d) non rispetta il Requisito Patrimoniale Minimo ed ha presentato, a giudizio dell'IVASS, un piano di finanziamento manifestamente inadeguato ovvero non ha rispettato il piano approvato entro tre mesi dalla rilevazione dell'inosservanza del Requisito Patrimoniale Minimo ovvero, nel caso in cui sia soggetta a vigilanza di gruppo, non ha realizzato entro i termini stabiliti le misure previste dall'articolo 227;»; 
  b) il comma 6 e' sostituito dal seguente: «6. I decreti del Ministro dello sviluppo economico sono pubblicati nella Gazzetta Ufficiale, sono riprodotti nel Bollettino e sono comunicati dall'IVASS alle autorita' di vigilanza degli altri Stati membri per l'adozione da parte di tali Autorita' di misure idonee a impedire all'impresa di assicurazione di esercitare l'attivita' sul loro territorio.»; 
  c) dopo il comma 6 e' aggiunto il seguente: «6-bis. L'IVASS comunica all'AEAP ogni caso di revoca di autorizzazione ai fini della pubblicazione nell'elenco dalla stessa tenuto.». 
- 175. All'[articolo 243 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 2, le parole: «margine di solvibilita' e della quota di garanzia» sono sostituite dalle seguenti: «Requisito Patrimoniale di Solvibilita' e del Requisito Patrimoniale Minimo». 
- 176. All'[articolo 244 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 1, dopo le parole: «di cui agli articoli 240, commi 2, 3,» sono aggiunte le seguenti: «3-bis,» e al comma 2, le parole: «di cui all'articolo 242, commi 3, 4, 5 e 6» sono sostituite dalle seguenti: «di cui all'articolo 242, commi 3, 4, 5, 6 e 7». 
- 177. All'[articolo 246 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 4 e' sostituito dal seguente: «4. Agli organi della procedura si applicano i requisiti di professionalita' e di onorabilita' ed indipendenza stabiliti in attuazione dell'articolo 76.». 
- 178. All'[articolo 250 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 5, le parole: «e l'attuario revisore» sono soppresse. 
- 179. All'[articolo 254 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' sostituito dal seguente: «2. L'opposizione e' disciplinata dagli [articoli 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_98) e [99 della legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_99).». 
- 180. All'[articolo 256 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 1, le parole: «dagli articoli 98, 99 e 100» sono sostituite dalle seguenti: «dagli articoli 98 e 99». 
- 181. All'[articolo 258 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo il comma 4 e' inserito il seguente: «4-bis. Gli impegni risultanti dalla partecipazione ad un contratto di coassicurazione comunitaria sono soddisfatti alla stessa stregua degli impegni risultanti dagli altri contratti di assicurazione senza distinzione di nazionalita' per quanto riguarda gli aventi diritto alle prestazione assicurative.». 
- 182. All'[articolo 264 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 2, dopo le parole: «ha sede legale» sono inserite le seguenti: «in uno Stato Membro o». 
- 183. Il Capo VII del Titolo XVI del [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 175. All'[articolo 243 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 2, le parole: «margine di solvibilita' e della quota di garanzia» sono sostituite dalle seguenti: «Requisito Patrimoniale di Solvibilita' e del Requisito Patrimoniale Minimo». 
+ 176. All'[articolo 244 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 1, dopo le parole: «di cui agli articoli 240, commi 2, 3,» sono aggiunte le seguenti: «3-bis,» e al comma 2, le parole: «di cui all'articolo 242, commi 3, 4, 5 e 6» sono sostituite dalle seguenti: «di cui all'articolo 242, commi 3, 4, 5, 6 e 7». 
+ 177. All'[articolo 246 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 4 e' sostituito dal seguente: «4. Agli organi della procedura si applicano i requisiti di professionalita' e di onorabilita' ed indipendenza stabiliti in attuazione dell'articolo 76.». 
+ 178. All'[articolo 250 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 5, le parole: «e l'attuario revisore» sono soppresse. 
+ 179. All'[articolo 254 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 2 e' sostituito dal seguente: «2. L'opposizione e' disciplinata dagli [articoli 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_98) e [99 della legge fallimentare](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_99).». 
+ 180. All'[articolo 256 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 1, le parole: «dagli articoli 98, 99 e 100» sono sostituite dalle seguenti: «dagli articoli 98 e 99». 
+ 181. All'[articolo 258 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo il comma 4 e' inserito il seguente: «4-bis. Gli impegni risultanti dalla partecipazione ad un contratto di coassicurazione comunitaria sono soddisfatti alla stessa stregua degli impegni risultanti dagli altri contratti di assicurazione senza distinzione di nazionalita' per quanto riguarda gli aventi diritto alle prestazione assicurative.». 
+ 182. All'[articolo 264 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 2, dopo le parole: «ha sede legale» sono inserite le seguenti: «in uno Stato Membro o». 
+ 183. Il Capo VII del Titolo XVI del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Capo VII 
  
@@ -2846,11 +2846,11 @@ Gli amministratori revocati hanno titolo esclusivamente ad un indennizzo corrisp
  (Gruppi e societa' non iscritte all'albo) 
  
  1. Le disposizioni degli articoli di cui al presente capo si applicano anche nei confronti delle societa' per le quali, pur non essendo intervenuta l'iscrizione, ricorrano le condizioni per l'inserimento nell'albo di cui all'articolo 210-ter.». 
- 184. All'[articolo 309 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 184. All'[articolo 309 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) dopo il comma 1 e' inserito il seguente:«1-bis Le imprese locali di cui al Titolo IV, Capo I, che esercitano l'attivita' assicurativa oltre i limiti di cui all'articolo 51-ter, comma 1, in violazione dell'articolo 51-quater, sono punite con la sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.»; 
  b) al comma 2 le parole: «Le mutue assicuratrici» sono sostituite dalle seguenti: «Le particolari mutue assicuratrici»; 
  c) al comma 3, dopo le parole: «di cui ai commi 1» sono inserite le seguenti: «, 1-bis». 
- 185. L'[articolo 310 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito con il seguente: 
+ 185. L'[articolo 310 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito con il seguente: 
  
  «Art. 310. 
  
@@ -2860,8 +2860,8 @@ Gli amministratori revocati hanno titolo esclusivamente ad un indennizzo corrisp
  1. L'inosservanza delle disposizioni di cui agli articoli 30, 30-bis, 30-ter, 30-quater, 30-quinquies, 30-sexies, 30-septies, 30-octies, 30-novies, 32, 33, 35-bis, 35-ter, 35-quater, 36-bis, 36-ter, 36-quater, 36-quinquies, 36-sexies, 36-septies, 36-octies, 36-novies, 36-decies, 36-undecies, 36-duodecies, 36-terdecies, 37-bis, 37-ter, 38, 41, 42, 42-bis, 43, 44-ter, 44-quater, 44-quinquies, 44-sexies, 44-septies, 44-octies, 44-novies, 44-decies, 47-quater, comma 1, 47-septies, 47-octies, 47-novies, 47-decies, 48, 49, 56, 57-bis, 62, 63, 64, 65, 65-bis, 66-sexies.1, 66-septies, 67, 76, comma 2, 90, comma 1, lettere c) e d), 119, comma 2, ultimo periodo, 188, 189, comma 1, 190, commi 1, 1-bis, 1-ter e 5-bis, 190-bis, comma 1, 191, 196, comma 2, 197, 210, 210-ter, comma 8, 214-bis, 215-bis, 216-ter, e 216-sexies, 216-octies, 216-novies, 220-novies, comma 1, 348 e 349, comma 1, o delle relative norme di attuazione e' punita con la sanzione amministrativa pecuniaria da euro cinquemila ad euro cinquantamila. 
  2. L'inosservanza delle disposizioni di cui agli articoli 48-bis, 67, comma 1, 88, 89, 90, comma 1, lettere a) e b), commi 2, 3 e 4, 92, 93, 94, 95, 96, 98, 99, 100 e 101 o delle relative norme di attuazione e' punita con la sanzione amministrativa pecuniaria da euro duemila ad euro ventimila. 
  3. In caso di violazione degli obblighi di cui al Titolo XV, le sanzioni amministrative di cui al presente Titolo sono adottate nei confronti dell'ultima societa' controllante italiana come determinata dall'articolo 210, comma 2.». 
- 186. All'[articolo 311 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente: «1. L'omissione delle comunicazioni prescritte dagli articoli 69, 71 e 79, compresa anche l'intenzione di assumere la partecipazione di controllo, o delle relative norme di attuazione e' punita con la sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.». 
- 187. L'[articolo 312 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 186. All'[articolo 311 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 1 e' sostituito dal seguente: «1. L'omissione delle comunicazioni prescritte dagli articoli 69, 71 e 79, compresa anche l'intenzione di assumere la partecipazione di controllo, o delle relative norme di attuazione e' punita con la sanzione amministrativa pecuniaria da euro diecimila ad euro centomila.». 
+ 187. L'[articolo 312 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 312. 
  
@@ -2872,9 +2872,9 @@ Gli amministratori revocati hanno titolo esclusivamente ad un indennizzo corrisp
  2. L'omissione delle comunicazioni di cui all'articolo 216, comma 2, o delle relative norme di attuazione e' punita con la sanzione amministrativa pecuniaria da euro duemila ad euro ventimila. Se l'omissione riguarda un'operazione da cui puo' derivare pregiudizio per gli interessi degli assicurati si applica la sanzione amministrativa pecuniaria da euro cinquemila ad euro cinquantamila.
 L'incompletezza o l'erroneita' della comunicazione preventiva sono punite con la sanzione amministrativa pecuniaria da euro mille ad euro diecimila. 
  3. L'omissione della comunicazione periodica di cui all'articolo 216, comma 1, o delle relative norme di attuazione e' punita con la sanzione amministrativa pecuniaria da euro millecinquecento ad euro quindicimila. L'incompletezza o l'erroneita' delle comunicazioni periodiche successive sono punite con la sanzione amministrativa pecuniaria da euro cinquecento ad euro cinquemila.». 
- 188. L'[articolo 323 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 189. All'[articolo 326 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 8 e' sostituito dal seguente: «8. I provvedimenti dell'IVASS, che infliggono le sanzioni pecuniarie, e le sentenze dei giudici amministrativi che decidono i ricorsi sono pubblicati nel Bollettino dell'IVASS. Il Ministero dello sviluppo economico, su richiesta dell'IIVASS, tenuto conto della violazione e degli interessi coinvolti, puo' stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.». 
- 190. L'[articolo 331 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 188. L'[articolo 323 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 189. All'[articolo 326 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 8 e' sostituito dal seguente: «8. I provvedimenti dell'IVASS, che infliggono le sanzioni pecuniarie, e le sentenze dei giudici amministrativi che decidono i ricorsi sono pubblicati nel Bollettino dell'IVASS. Il Ministero dello sviluppo economico, su richiesta dell'IIVASS, tenuto conto della violazione e degli interessi coinvolti, puo' stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.». 
+ 190. L'[articolo 331 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 331. 
  
@@ -2890,10 +2890,10 @@ Se non ritiene provata la violazione, il Collegio di garanzia puo' disporre l'ar
  5. L'IVASS o la CONSAP, ricevuta la proposta formulata dal Collegio di garanzia, decide la sanzione disciplinare con decreto, che viene successivamente comunicato alle parti del procedimento. 
  6. Le controversie relative ai ricorsi avverso i provvedimenti che applicano la sanzione disciplinare sono devolute alla giurisdizione esclusiva del giudice amministrativo. L'IVASS o la CONSAP provvede alla difesa in giudizio con propri legali. 
  7. I provvedimenti che infliggono la sanzione disciplinare della radiazione, le sentenze dei giudici amministrativi che decidono i ricorsi e i decreti che decidono i ricorsi straordinari al Presidente della Repubblica sono pubblicati nel Bollettino dell'IVASS o da CONSAP nel suo sito internet.». 
- 191. All'[articolo 335 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
- a) al comma 1, la lettera c) e' sostituita dalla seguente: «c) le imprese locali di cui all'articolo 51-bis, comma 1, lettera a), iscritte nella sezione dell'albo delle imprese di assicurazione rubricata «Imprese locali di cui al Titolo IV, Capo II, del [Codice delle Assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)» e le particolari mutue assicuratrici di cui all'articolo 51-bis, comma 1, lettera b), ed iscritte nella sezione dell'albo rubricata «Particolari mutue assicuratrici di cui al Titolo IV, Capo III, del [Codice delle Assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)»;»; 
+ 191. All'[articolo 335 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ a) al comma 1, la lettera c) e' sostituita dalla seguente: «c) le imprese locali di cui all'articolo 51-bis, comma 1, lettera a), iscritte nella sezione dell'albo delle imprese di assicurazione rubricata «Imprese locali di cui al Titolo IV, Capo II, del [Codice delle Assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md)» e le particolari mutue assicuratrici di cui all'articolo 51-bis, comma 1, lettera b), ed iscritte nella sezione dell'albo rubricata «Particolari mutue assicuratrici di cui al Titolo IV, Capo III, del [Codice delle Assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md)»;»; 
  b) il comma 5 e' sostituito dal seguente: «5. Il contributo, calcolato al netto dell'aliquota per oneri di gestione, e' versato direttamente all'IVASS in due rate rispettivamente entro il 31 gennaio e entro il 31 luglio di ogni anno e viene iscritto in apposita voce del bilancio di previsione. L'eventuale residuo confluisce nell'avanzo di amministrazione e viene considerato nell'ambito del fabbisogno per l'esercizio successivo.». 
- 192. L'[articolo 337 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 192. L'[articolo 337 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 337. 
  
@@ -2904,8 +2904,8 @@ Se non ritiene provata la violazione, il Collegio di garanzia puo' disporre l'ar
  2. Il contributo di gestione e' determinato entro il 30 maggio con decreto del Ministro dell'economia e delle finanze adottato, sentita la CONSAP, in modo da assicurare la copertura finanziaria degli oneri di gestione del ruolo dei periti assicurativi. Il decreto e' pubblicato entro il 30 giugno nella Gazzetta Ufficiale e sul sito internet della CONSAP. 
  3. Il contributo di cui al presente articolo viene versato direttamente alla CONSAP entro il 31 luglio di ogni anno e viene iscritto in apposita voce del bilancio di previsione della stessa CONSAP. L'eventuale residuo confluisce nell'avanzo di amministrazione e viene considerato nell'ambito del fabbisogno per l'esercizio successivo. 
  4. L'attestazione relativa al pagamento e' comunicata alla CONSAP nelle forme e con i termini stabiliti con il decreto di cui al comma 2. In caso di mancato pagamento si applica la disposizione di cui all'articolo 335, comma 6.». 
- 193. L'[articolo 339 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
- 194. Dopo l'[articolo 344 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente capo: 
+ 193. L'[articolo 339 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' abrogato. 
+ 194. Dopo l'[articolo 344 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserito il seguente capo: 
  
  «Capo III-bis 
  
@@ -3111,9 +3111,9 @@ Disposizioni transitorie relative all'entrata in vigore del regime solvibilita' 
  (Obblighi di informativa sulle maggiorazioni di capitale) 
  
  1. Fermi restando gli obblighi di informativa previsti da altre disposizioni di legge o regolamentari, l'impresa, sebbene siano stati comunicati i Requisiti Patrimoniali di Solvibilita' ai sensi dell'articolo 47-septies, comma 2, lettera e), punto 2), sino al 31 dicembre 2020, pubblica senza separata evidenza la maggiorazione di capitale o l'impatto dei parametri specifici cui l'impresa deve ricorrere ai sensi dell'articolo 45-terdecies.». 
- 195. All'[articolo 345 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 1, la lettera b), e' soppressa. 
- 196. All'[articolo 347 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 3, le parole: «e dei periti di assicurazione» sono soppresse. 
- 197. L'[articolo 348 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
+ 195. All'[articolo 345 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 1, la lettera b), e' soppressa. 
+ 196. All'[articolo 347 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 3, le parole: «e dei periti di assicurazione» sono soppresse. 
+ 197. L'[articolo 348 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' sostituito dal seguente: 
  
  «Art. 348. 
  
@@ -3138,20 +3138,20 @@ Disposizioni transitorie relative all'entrata in vigore del regime solvibilita' 
  2-novies. In tali casi, in deroga al comma 2-quater, l'IVASS puo' autorizzare il trasferimento di elementi espliciti dei fondi propri di base ammissibili da una gestione all'altra. 
  3. Le imprese di assicurazione con sede legale in altri Stati membri, che alla data di entrata in vigore del presente codice operano in regime di stabilimento o di prestazione di servizi e che sono autorizzate nei rispettivi Stati ad esercitare, congiuntamente uno o piu' rami vita e danni, possono continuare ad esercitare i medesimi rami nel territorio della Repubblica sia in regime di stabilimento che in regime di liberta' di prestazione di servizi. 
  4. Le disposizioni del presente articolo si applicano anche alle imprese che successivamente alla data di cui al comma 1 vengono autorizzate ad esercitare congiuntamente i rami vita e i rami infortuni e malattia, con obbligo di osservare le disposizioni di cui ai commi 2, lettera b), 2-bis, 2-ter, 2-quater, 2-quinquies, 2-sexies, 2-septies, 2-octies e 2-novies con il bilancio in corso alla data del rilascio dell'autorizzazione.». 
- 198. All'[articolo 349 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
+ 198. All'[articolo 349 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) al comma 2 le parole: «margine di solvibilita'» sono sostituite dalle seguenti: «Requisito Patrimoniale di Solvibilita'»; 
  b) il comma 3 e' sostituito dal seguente: «3. Ai fini di cui al Titolo XV, le imprese di cui al comma 1 possono attribuire alla sede secondaria stabilita nel territorio della Repubblica le funzioni di direzione e coordinamento delle societa' del gruppo con sede legale in Italia. In tale caso la sede secondaria e' considerata ultima societa' controllante italiana ai sensi dell'articolo 210, comma 2, ed e' iscritta all'albo come impresa capogruppo ai sensi dell'articolo 210-ter, comma 1.». 
- 199. All'[articolo 350 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), al comma 2, le parole: «dall'ISVAP» sono sostituite dalle seguenti: «dalla CONSAP». 
- 200. All'[articolo 352 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo il comma 8, sono inseriti aggiunti, in fine, i seguenti: 
- «8-bis. Nell'[articolo 13, comma 1, lettera a), del decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), dopo l'espressione: «all'articolo 188», le parole: «, comma 1,» sono soppresse. 
- 8-ter. Nell'[articolo 13, comma 1, del decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), dopo la lettera c), e' aggiunta la seguente: «d) le misure previste dall'articolo 220-novies del CAP.». 
- 8-quater. Nell'[articolo 13, comma 2, del decreto legislativo 30 maggio 2005, n. 142](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), le parole «lettere da a-bis) a c)» sono sostituite con le parole «lettere da a-bis) a d)». 
- 8-quinquies. Nell'[articolo 31, comma 2, del decreto legislativo 26 maggio 1997, n. 173](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), le parole: «di cui all'articolo 36» sono sostituite dalle seguenti:" di cui al regolamento previsto dall'articolo 90, comma 1,». 
- 8-sexies. Nell'[articolo 31, comma 3, del decreto legislativo 26 maggio 1997, n. 173](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), le parole: «all'articolo 37» sono sostituite dalle seguenti: «dal regolamento di cui all'articolo 90, comma 1,».».
+ 199. All'[articolo 350 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), al comma 2, le parole: «dall'ISVAP» sono sostituite dalle seguenti: «dalla CONSAP». 
+ 200. All'[articolo 352 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo il comma 8, sono inseriti aggiunti, in fine, i seguenti: 
+ «8-bis. Nell'[articolo 13, comma 1, lettera a), del decreto legislativo 30 maggio 2005, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), dopo l'espressione: «all'articolo 188», le parole: «, comma 1,» sono soppresse. 
+ 8-ter. Nell'[articolo 13, comma 1, del decreto legislativo 30 maggio 2005, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), dopo la lettera c), e' aggiunta la seguente: «d) le misure previste dall'articolo 220-novies del CAP.». 
+ 8-quater. Nell'[articolo 13, comma 2, del decreto legislativo 30 maggio 2005, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202002-87-CE%20relativa%20alla%20vigilanza%20supplementare%20sugli%20enti%20creditizi%20sulle%20imprese%20di%20assicurazione%20e%20sulle%20imprese%20di%20investimento%20appartenenti%20ad%20un%20conglome_cf7693fa1744.md), le parole «lettere da a-bis) a c)» sono sostituite con le parole «lettere da a-bis) a d)». 
+ 8-quinquies. Nell'[articolo 31, comma 2, del decreto legislativo 26 maggio 1997, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), le parole: «di cui all'articolo 36» sono sostituite dalle seguenti:" di cui al regolamento previsto dall'articolo 90, comma 1,». 
+ 8-sexies. Nell'[articolo 31, comma 3, del decreto legislativo 26 maggio 1997, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), le parole: «all'articolo 37» sono sostituite dalle seguenti: «dal regolamento di cui all'articolo 90, comma 1,».».
 
 201.
 
-Dopo l'[articolo 9-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente rubrica: 
+Dopo l'[articolo 9-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente rubrica: 
  
  «Capo III 
  
@@ -3160,7 +3160,7 @@ Segreto d'ufficio e collaborazione con altre autorita' e altri soggetti».
 
 202.
 
-Dopo l'[articolo 29-bis, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente rubrica: 
+Dopo l'[articolo 29-bis, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente rubrica: 
  
  «Sezione II 
  
@@ -3169,19 +3169,19 @@ Dopo l'[articolo 29-bis, del decreto legislativo 7 settembre 2005, n. 209](../De
 
 203.
 
-Dopo l'[articolo 35-quater, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo II, e' sostituita dalla seguente: «Calcolo delle riserve tecniche».
+Dopo l'[articolo 35-quater, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo II, e' sostituita dalla seguente: «Calcolo delle riserve tecniche».
 
 204.
 
-Dopo l'[articolo 37-ter, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo III, e' sostituita dalla seguente: «Attivi a copertura delle riserve tecniche».
+Dopo l'[articolo 37-ter, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo III, e' sostituita dalla seguente: «Attivi a copertura delle riserve tecniche».
 
 205.
 
-Dopo l'[articolo 43, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo IV e' sostituita dalla seguente: «Fondi propri».
+Dopo l'[articolo 43, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo IV e' sostituita dalla seguente: «Fondi propri».
 
 206.
 
-Dopo l'[articolo 51-quater, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente rubrica: 
+Dopo l'[articolo 51-quater, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), e' inserita la seguente rubrica: 
  
  «Capo III 
  
@@ -3190,19 +3190,19 @@ Dopo l'[articolo 51-quater, del decreto legislativo 7 settembre 2005, n. 209](..
 
 207.
 
-Dopo l'[articolo 67, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), la rubrica del Titolo VII e' sostituita dalla seguente: «Assetti proprietari».
+Dopo l'[articolo 67, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), la rubrica del Titolo VII e' sostituita dalla seguente: «Assetti proprietari».
 
 208.
 
-Dopo l'[articolo 81, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il Capo IV Gruppo assicurativo, e' abrogato.
+Dopo l'[articolo 81, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il Capo IV Gruppo assicurativo, e' abrogato.
 
 209.
 
-All'[articolo 285, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), comma 4, le parole: «la misura del contributo» sono sostituite dalle seguenti: «le modalita' di fissazione annuale della misura del contributo».
+All'[articolo 285, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), comma 4, le parole: «la misura del contributo» sono sostituite dalle seguenti: «le modalita' di fissazione annuale della misura del contributo».
 
 210.
 
-All'[articolo 287, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), commi 1 e 2, le parole: «all'impresa designata ed alla CONSAP», sono sostituite dalle seguenti: «all'impresa designata, inviandone copia contestuale alla CONSAP».
+All'[articolo 287, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), commi 1 e 2, le parole: «all'impresa designata ed alla CONSAP», sono sostituite dalle seguenti: «all'impresa designata, inviandone copia contestuale alla CONSAP».
 
 211.
 
@@ -3210,35 +3210,35 @@ All'articolo 250, comma 7, e 286, comma 2, le parole: "Ministro delle attivita' 
 
 212.
 
-All'[articolo 126 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 1, e' sostituito dal seguente: «1. L'Ufficio centrale italiano e' abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione e allo svolgimento degli altri compiti stabiliti dall'ordinamento comunitario e dal presente codice a seguito di riconoscimento del Ministro dello sviluppo economico.».
+All'[articolo 126 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 1, e' sostituito dal seguente: «1. L'Ufficio centrale italiano e' abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione e allo svolgimento degli altri compiti stabiliti dall'ordinamento comunitario e dal presente codice a seguito di riconoscimento del Ministro dello sviluppo economico.».
 
 213.
 
-Al [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «ISVAP», «Ministro delle attivita' produttive» e «Ministero delle attivita' produttive», ovunque presenti e non diversamente previsto dal presente articolo, sono sostituite, rispettivamente, da: «IVASS» fatta eccezione per la lettera dd) del comma 1 dell'articolo 1, «Ministro dello sviluppo economico» e «Ministero dello sviluppo economico».
+Al [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «ISVAP», «Ministro delle attivita' produttive» e «Ministero delle attivita' produttive», ovunque presenti e non diversamente previsto dal presente articolo, sono sostituite, rispettivamente, da: «IVASS» fatta eccezione per la lettera dd) del comma 1 dell'articolo 1, «Ministro dello sviluppo economico» e «Ministero dello sviluppo economico».
 
 214.
 
-All'[articolo 154 del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), il comma 6 e' sostituito dal seguente: «6. Per le esigenze di funzionamento del Centro di informazione italiano, la CONSAP e' autorizzata, ai sensi del [codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), ad avvalersi dei dati trattati dall'IVASS per le finalita' della banca dati sinistri. L'IVASS, con regolamento, organizza la banca dati sinistri al fine di coordinare il trattamento dei dati con le esigenze del Centro di informazione italiano.».
+All'[articolo 154 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), il comma 6 e' sostituito dal seguente: «6. Per le esigenze di funzionamento del Centro di informazione italiano, la CONSAP e' autorizzata, ai sensi del [codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), ad avvalersi dei dati trattati dall'IVASS per le finalita' della banca dati sinistri. L'IVASS, con regolamento, organizza la banca dati sinistri al fine di coordinare il trattamento dei dati con le esigenze del Centro di informazione italiano.».
 
 215.
 
-All'[articolo 157, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «del regolamento,» sono inserite le seguenti: «da pubblicarsi nella Gazzetta Ufficiale e sul suo sito internet,».
+All'[articolo 157, comma 1, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo le parole: «del regolamento,» sono inserite le seguenti: «da pubblicarsi nella Gazzetta Ufficiale e sul suo sito internet,».
 
 216.
 
-All'[articolo 159, comma 1, lettera e)](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e all'[articolo 160, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «di vigilanza», sono sostituite dalle seguenti: «di gestione».
+All'[articolo 159, comma 1, lettera e)](../Codici/Codice%20delle%20assicurazioni%20private.md), e all'[articolo 160, comma 3, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «di vigilanza», sono sostituite dalle seguenti: «di gestione».
 
 217.
 
-Dopo l'[articolo 334, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo II, e' sostituita dalla seguente: «Contributi di vigilanza e di gestione».
+Dopo l'[articolo 334, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), la rubrica del Capo II, e' sostituita dalla seguente: «Contributi di vigilanza e di gestione».
 
 218.
 
-All'[articolo 155, comma 4, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), le parole: «L'ISVAP ha accesso gratuito», sono sostituite dalle seguenti: «L'IVASS e la CONSAP hanno accesso gratuito».
+All'[articolo 155, comma 4, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), le parole: «L'ISVAP ha accesso gratuito», sono sostituite dalle seguenti: «L'IVASS e la CONSAP hanno accesso gratuito».
 
 219.
 
-All'[articolo 354, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dopo il comma 5, e' inserito il seguente: «5-bis. A decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1, sono o restano abrogati i seguenti atti: 
+All'[articolo 354, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dopo il comma 5, e' inserito il seguente: «5-bis. A decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1, sono o restano abrogati i seguenti atti: 
  a) il [decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220](../Regolamenti%20ministeriali/Regolamento%20recante%20determinazione%20dei%20requisiti%20di%20professionalita%20onorabilita%20e%20indipendenza%20degli%20esponenti%20aziendali%20nonche%20dei%20requisiti%20di%20onorabilita%20dei%20titolari%20di%20partecipazioni_6838841ea5e6.md), pubblicato nella Gazzetta Ufficiale 9 gennaio 2012, n. 6; 
  b) il [decreto del Ministro dello sviluppo economico 28 aprile 2008, n. 99](../Regolamenti%20ministeriali/Regolamento%20recante%20i%20requisiti%20di%20onorabilita%20e%20di%20professionalita%20dellattuario%20incaricato%20dallimpresa%20che%20esercita%20lassicurazione%20nei%20rami%20vita%20i%20requisiti%20di%20onorabilita%20e%20professional_8f69dfbf1a8b.md), pubblicato nella Gazzetta Ufficiale 5 giugno 2008, n. 130.».
 

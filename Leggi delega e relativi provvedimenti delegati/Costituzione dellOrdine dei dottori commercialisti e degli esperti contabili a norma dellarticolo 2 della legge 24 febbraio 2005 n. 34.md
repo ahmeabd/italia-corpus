@@ -98,9 +98,9 @@ Agli iscritti nella Sezione B Esperti contabili dell'Albo e' riconosciuta compet
                             c)
                                 rilascio dei visti di conformita', asseverazione ai fini degli studi di settore e certificazione tributaria, nonche' esecuzione di ogni altra attivita' di attestazione prevista da leggi fiscali;
                             d)
-                                la funzione di revisione o di componente di altri organi di controllo contabile nonche', sempre che sussistano i requisiti di cui al [decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), il controllo contabile ai sensi dell'[articolo 2409-bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409bis);
+                                la funzione di revisione o di componente di altri organi di controllo contabile nonche', sempre che sussistano i requisiti di cui al [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), il controllo contabile ai sensi dell'[articolo 2409-bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409bis);
                             e)
-                                la revisione dei conti, sempre che sussistano i requisiti di cui al [decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), nelle imprese ed enti che ricevono contributi dallo Stato, dalle Regioni, da Province, Comuni ed enti da essi controllati o partecipati;
+                                la revisione dei conti, sempre che sussistano i requisiti di cui al [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), nelle imprese ed enti che ricevono contributi dallo Stato, dalle Regioni, da Province, Comuni ed enti da essi controllati o partecipati;
                             f)
                                 il deposito per l'iscrizione presso enti pubblici o privati di atti e documenti per i quali sia previsto l'utilizzo della firma digitale, ai sensi della [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e del [testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e loro successive modificazioni;
                             f-bis)
@@ -985,7 +985,7 @@ Sono esentati dalla prima prova scritta coloro i quali provengono dalla Sezione 
 
 L'esame di Stato per l'iscrizione nella Sezione B dell'Albo e' articolato nelle seguenti prove:
                             a)
-                                tre prove scritte, di cui una a contenuto pratico, dirette all'accertamento delle conoscenze teoriche del candidato e della sua capacita' di applicarle praticamente nelle materie indicate dalla [direttiva n. 84/253/CEE del Consiglio, del 10 aprile 1984, e dall'articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253) del [decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md);
+                                tre prove scritte, di cui una a contenuto pratico, dirette all'accertamento delle conoscenze teoriche del candidato e della sua capacita' di applicarle praticamente nelle materie indicate dalla [direttiva n. 84/253/CEE del Consiglio, del 10 aprile 1984, e dall'articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253) del [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md);
                             b)
                                 una prova orale, avente ad oggetto le materie previste per le prove scritte e questioni teorico-pratiche relative alle attivita' svolte durante il tirocinio professionale, nonche' aspetti di legislazione e deontologia professionale.
 
@@ -1170,7 +1170,7 @@ CAPO VI
 
 1.
 
-A fare data dal 1° gennaio 2008, gli Ordini dei dottori commercialisti, gia' istituiti in un circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../DPR/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed i collegi dei ragionieri e periti commerciali, gia' istituiti nel medesimo circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../DPR/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. Nello stesso circondario di tribunale e' istituito, a decorrere dalla medesima data, l'Ordine territoriale dei dottori commercialisti e degli esperti contabili.
+A fare data dal 1° gennaio 2008, gli Ordini dei dottori commercialisti, gia' istituiti in un circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed i collegi dei ragionieri e periti commerciali, gia' istituiti nel medesimo circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. Nello stesso circondario di tribunale e' istituito, a decorrere dalla medesima data, l'Ordine territoriale dei dottori commercialisti e degli esperti contabili.
 
 2.
 
@@ -1181,7 +1181,7 @@ Qualora in un circondario di tribunale sia costituito solo l'Ordine dei dottori 
 
 1.
 
-A fare data dal l° gennaio 2008, il Consiglio nazionale dei dottori commercialisti, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../DPR/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed il Consiglio nazionale dei ragionieri e periti commerciali, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../DPR/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. A decorrere dalla medesima data, e' istituito l'ente pubblico non economico denominato Consiglio nazionale dei dottori commercialisti e degli esperti contabili.
+A fare data dal l° gennaio 2008, il Consiglio nazionale dei dottori commercialisti, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed il Consiglio nazionale dei ragionieri e periti commerciali, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. A decorrere dalla medesima data, e' istituito l'ente pubblico non economico denominato Consiglio nazionale dei dottori commercialisti e degli esperti contabili.
 
 ### Art. 60. — Successione nei rapporti giuridici
  e nella titolarita' delle pubbliche funzioni
@@ -1619,7 +1619,7 @@ CAPO VII
 
 1.
 
-Sono abrogati i [decreti del Presidente della Repubblica 27 ottobre 1953, n. 1067](../DPR/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), e [27 ottobre 1953, n. 1068](../DPR/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md).
+Sono abrogati i [decreti del Presidente della Repubblica 27 ottobre 1953, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), e [27 ottobre 1953, n. 1068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md).
 
 ### Art. 77. — Notificazioni e comunicazioni
 

@@ -60,7 +60,7 @@ Nell'esercizio del diritto di sciopero da parte del personale addetto ai servizi
 
 AGGIORNAMENTO (1)
 
-Il [D.LGS. 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ha disposto (con l'art. 2268, comma 1, numero 760) l'abrogazione dell'art. 5.
+Il [D.LGS. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ha disposto (con l'art. 2268, comma 1, numero 760) l'abrogazione dell'art. 5.
 
 ## Art. 6.
 

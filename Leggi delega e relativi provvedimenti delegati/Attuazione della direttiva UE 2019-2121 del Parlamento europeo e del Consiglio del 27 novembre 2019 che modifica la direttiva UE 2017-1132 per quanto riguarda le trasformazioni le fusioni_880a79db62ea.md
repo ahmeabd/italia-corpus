@@ -20,7 +20,7 @@ Vista la [direttiva (UE) 2019/2121 del Parlamento europeo e del Consiglio, del 2
 
 Visto il regolamento (UE) n. 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020, relativo a un quadro di risanamento e risoluzione delle controparti centrali e recante modifica dei regolamenti (UE) n. 1095/2010, (UE) n. 648/2012, (UE) n. 600/2014, (UE) n. 806/2014 e (UE) 2015/2365 e delle [direttive 2002/47/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;47), [2004/25/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;25), [2007/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;36), [2014/59/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;59) e [(UE) 2017/1132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2017;1132);
 
-Visto il [decreto legislativo 30 maggio 2008, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md), recante attuazione della [direttiva 2005/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;56), relativa alle fusioni transfrontaliere delle societa' di capitali;
+Visto il [decreto legislativo 30 maggio 2008, n. 108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md), recante attuazione della [direttiva 2005/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;56), relativa alle fusioni transfrontaliere delle societa' di capitali;
 
 Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea e, in particolare, l'articolo 31;
 
@@ -67,7 +67,7 @@ Ai fini del presente decreto si intendono per:
                             i)
                                 «BRIS», il sistema di interconnessione dei registri delle imprese di cui all'[articolo 22 della direttiva (UE) 2017/1132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2017;1132);
                             l)
-                                «rappresentanti dei lavoratori»: i rappresentanti dei lavoratori di cui all'[articolo 2, comma 1, lettera e), del decreto legislativo 19 agosto 2005, n. 188](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md);
+                                «rappresentanti dei lavoratori»: i rappresentanti dei lavoratori di cui all'[articolo 2, comma 1, lettera e), del decreto legislativo 19 agosto 2005, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md);
                             m)
                                 «organo di rappresentanza»: l'organo di rappresentanza dei lavoratori di cui all'[articolo 2, comma 1, lettera f), del decreto legislativo n. 188 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;188#art_2-com1-letf)
                             n)
@@ -196,7 +196,7 @@ Nelle operazioni transfrontaliere di cui all'articolo 2, comma 1, lettera d), a 
 
 6.
 
-Restano salvi la disciplina e i poteri previsti dal testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dal testo unico delle disposizioni in materia di intermediazione finanziaria di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dal [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), dalla [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287), dal [decreto-legge 31 maggio 1994, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-31;332), convertito, con modificazioni, dalla [legge 30 luglio 1994, n. 474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%201994%20n.%20332%20recante%20norme%20per%20laccelerazione%20delle%20procedure%20di%20dismissione%20di%20partecipazioni%20dello%20Stato%20e%20degli%20enti%20p_343370877748.md), e dal [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito, con modificazioni e dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md).
+Restano salvi la disciplina e i poteri previsti dal testo unico delle leggi in materia bancaria e creditizia di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), dal testo unico delle disposizioni in materia di intermediazione finanziaria di cui al [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), dal [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), dalla [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287), dal [decreto-legge 31 maggio 1994, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-31;332), convertito, con modificazioni, dalla [legge 30 luglio 1994, n. 474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%201994%20n.%20332%20recante%20norme%20per%20laccelerazione%20delle%20procedure%20di%20dismissione%20di%20partecipazioni%20dello%20Stato%20e%20degli%20enti%20p_343370877748.md), e dal [decreto-legge 15 marzo 2012, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-03-15;21), convertito, con modificazioni e dalla [legge 11 maggio 2012, n. 56](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20marzo%202012%20n.%2021%20recante%20norme%20in%20materia%20di%20poteri%20speciali%20sugli%20assetti%20societari%20nei%20settori%20della%20difesa%20e%20della%20sicurezza_c1e886ca333a.md).
 
 ### Art. 5.
 
@@ -220,7 +220,7 @@ Fatto salvo quanto previsto all'articolo 30, ((comma 9)), per la disamina della 
 
 5.
 
-Ai fini del rilascio del certificato preliminare e dello svolgimento del controllo di legalita', la presentazione dell'istanza, con i documenti allegati, e ogni altra successiva trasmissione di atti e informazioni, puo' avvenire mediante documento informatico sottoscritto con la firma digitale prevista dal [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), o con altro tipo di firma elettronica qualificata ai sensi del regolamento (UE) 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, e trasmesso al domicilio digitale del notaio. Se dubita dell'identita' del richiedente o se rileva il mancato rispetto delle norme riguardanti la capacita' di agire e la capacita' dei richiedenti di rappresentare la societa', il notaio puo' chiedere la presenza fisica delle parti.
+Ai fini del rilascio del certificato preliminare e dello svolgimento del controllo di legalita', la presentazione dell'istanza, con i documenti allegati, e ogni altra successiva trasmissione di atti e informazioni, puo' avvenire mediante documento informatico sottoscritto con la firma digitale prevista dal [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), o con altro tipo di firma elettronica qualificata ai sensi del regolamento (UE) 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, e trasmesso al domicilio digitale del notaio. Se dubita dell'identita' del richiedente o se rileva il mancato rispetto delle norme riguardanti la capacita' di agire e la capacita' dei richiedenti di rappresentare la societa', il notaio puo' chiedere la presenza fisica delle parti.
 
 ### Art. 5-bis. — (( (Acquisizione e integrazione dei dati per l'iscrizione nel registro delle imprese). ))
 
@@ -485,7 +485,7 @@ La societa' italiana risultante dalla trasformazione tenuta, ai sensi delle disp
 La societa' di cui al comma 7 garantisce la tutela dei diritti di partecipazione dei lavoratori in caso di nuove operazioni di trasformazione, fusione e scissione nazionali, internazionali o transfrontaliere effettuate nei quattro anni successivi alla data di efficacia della trasformazione transfrontaliera, in conformita' alle disposizioni di cui al presente articolo ove compatibili.
 
 Note all'art. 16: 
- - Si riporta il testo degli articoli 3, 4, 6, 7, 8, 10, 11, 12 e Allegato I, Parte terza, del [decreto legislativo 19 agosto 2005, n. 188](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md) (Attuazione della [direttiva 2001/86/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;86) che completa lo statuto della societa' europea per quanto riguarda il coinvolgimento dei lavoratori): 
+ - Si riporta il testo degli articoli 3, 4, 6, 7, 8, 10, 11, 12 e Allegato I, Parte terza, del [decreto legislativo 19 agosto 2005, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md) (Attuazione della [direttiva 2001/86/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;86) che completa lo statuto della societa' europea per quanto riguarda il coinvolgimento dei lavoratori): 
  «Art. 3 (Istituzione di una delegazione speciale di negoziazione). - 1. Quando gli organi di direzione o di amministrazione delle societa' partecipanti stabiliscono il progetto di costituzione di una SE, non appena possibile dopo la pubblicazione del progetto di fusione o creazione di una holding o dopo l'approvazione di un progetto di costituzione di un'affiliata o di trasformazione in una SE, essi prendono le iniziative necessarie, comprese le informazioni da fornire circa l'identita' e il numero di lavoratori delle societa' partecipanti, delle affiliate o dipendenze interessate, per avviare una negoziazione con i rappresentanti dei lavoratori delle societa' sulle modalita' del coinvolgimento dei lavoratori nella SE. 
  2. A tale fine e' istituita una delegazione speciale di negoziazione, rappresentativa dei lavoratori delle societa' partecipanti e delle affiliate o dipendenze interessate, secondo gli orientamenti di seguito indicati: 
  a) in occasione dell'elezione o designazione dei membri della delegazione speciale di negoziazione occorre garantire: 
@@ -789,7 +789,7 @@ I soci che hanno partecipato all'assemblea che ha adottato la delibera di cui al
 
 3.
 
-La dichiarazione di recesso contiene le indicazioni di cui all'[articolo 2437-bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2437bis) e, a pena di decadenza, l'eventuale contestazione del valore indicato nel progetto di fusione. Il diritto di recesso e' esercitato mediante lettera raccomandata oppure mediante documento informatico sottoscritto con la firma digitale prevista dal [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), o con altro tipo di firma elettronica qualificata ai sensi del regolamento (UE) 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, e trasmesso al domicilio digitale indicato nel progetto ai sensi dell'articolo 19, comma 1, lettera m).
+La dichiarazione di recesso contiene le indicazioni di cui all'[articolo 2437-bis del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2437bis) e, a pena di decadenza, l'eventuale contestazione del valore indicato nel progetto di fusione. Il diritto di recesso e' esercitato mediante lettera raccomandata oppure mediante documento informatico sottoscritto con la firma digitale prevista dal [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), o con altro tipo di firma elettronica qualificata ai sensi del regolamento (UE) 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, e trasmesso al domicilio digitale indicato nel progetto ai sensi dell'articolo 19, comma 1, lettera m).
 
 4.
 
@@ -1259,7 +1259,7 @@ Nel caso previsto dal comma 2, la societa' comunica ai lavoratori o ai loro rapp
 
 Note all'art. 39: 
  - Per il regolamento (CE) n. 2157/2001 si veda nelle note all'art. 7. 
- - Per gli articoli 3, 4, 6, 7, 8, 10, 12 e Allegato I, Parte terza, del [decreto legislativo 19 agosto 2005, n. 188](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md) si veda nelle note all'art. 16.
+ - Per gli articoli 3, 4, 6, 7, 8, 10, 12 e Allegato I, Parte terza, del [decreto legislativo 19 agosto 2005, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md) si veda nelle note all'art. 16.
 
 ### Art. 40. — (( (Informazione e consultazione dei lavoratori). ))
 
@@ -1534,7 +1534,7 @@ Quando la scissione avviene a favore di una societa' preesistente:
                                 la decisione deve essere assunta dai competenti organi delle societa' partecipanti alla scissione e si applicano, in quanto compatibili, l'articolo 39, comma 4, lettera b), primo periodo, considerando nel numero complessivo i soli lavoratori della societa' scissa di cui il progetto prevede l'attribuzione alla societa' beneficiaria preesistente, e l'[articolo 7, comma 3, del decreto legislativo n. 188 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;188#art_7-com3).
 
 Note all'art. 50: 
- - Per gli articoli 3, 4, 6, 7, 8, 10, 11, 12 e Allegato I, Parte terza, del [decreto legislativo 19 agosto 2005, n. 188](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md) si veda nelle note all'art. 16.
+ - Per gli articoli 3, 4, 6, 7, 8, 10, 11, 12 e Allegato I, Parte terza, del [decreto legislativo 19 agosto 2005, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-86-CE%20che%20completa%20lo%20statuto%20della%20societa%20europea%20per%20quanto%20riguarda%20il%20coinvolgimento%20dei%20lavoratori.md) si veda nelle note all'art. 16.
 
 ## Modifiche e abrogazioni
 
@@ -1614,10 +1614,10 @@ Note all'art. 52:
 
 1.
 
-A decorrere dalla data di cui all'articolo 56, comma 1, e' abrogato il [decreto legislativo 30 maggio 2008, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md).
+A decorrere dalla data di cui all'articolo 56, comma 1, e' abrogato il [decreto legislativo 30 maggio 2008, n. 108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md).
 
 Note all'[art. 53: 
- - Il decreto legislativo 30 maggio 2008, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md), recante: «Attuazione della [direttiva 2005/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;56), relativa alle fusioni transfrontaliere delle societa' di capitali», e' pubblicato nella G.U. 17 giugno 2008, n. 140.
+ - Il decreto legislativo 30 maggio 2008, n. 108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md), recante: «Attuazione della [direttiva 2005/56/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;56), relativa alle fusioni transfrontaliere delle societa' di capitali», e' pubblicato nella G.U. 17 giugno 2008, n. 140.
 
 ## Disposizioni penali
 
@@ -1693,7 +1693,7 @@ L'articolo 51 si applica a decorrere dalla data di entrata in vigore del present
 
 3.
 
-Le fusioni transfrontaliere nelle quali, prima del 3 luglio 2023, una delle societa' partecipanti ha pubblicato il progetto comune di fusione continuano ad essere regolate dal [decreto legislativo 30 maggio 2008, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md).
+Le fusioni transfrontaliere nelle quali, prima del 3 luglio 2023, una delle societa' partecipanti ha pubblicato il progetto comune di fusione continuano ad essere regolate dal [decreto legislativo 30 maggio 2008, n. 108](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202005-56-CE%20relativa%20alle%20fusioni%20transfrontaliere%20delle%20societa%20di%20capitali.md).
 
 4.
 

@@ -28,9 +28,9 @@ Visto il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20s
 
 Visto il [decreto legislativo 29 ottobre 1999, n. 461](Individuazione%20della%20rete%20autostradale%20e%20stradale%20nazionale%20a%20norma%20dellarticolo%2098%20comma%202%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112.md), recante: «Individuazione della rete autostradale e stradale nazionale, a norma dell'[articolo 98, comma 2, del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md)»;
 
-Visto il [decreto legislativo 5 ottobre 2006, n. 264](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), recante: «Attuazione della [direttiva 2004/54/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;54) in materia di sicurezza per le gallerie della rete stradale transeuropea»;
+Visto il [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), recante: «Attuazione della [direttiva 2004/54/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;54) in materia di sicurezza per le gallerie della rete stradale transeuropea»;
 
-Visto il [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), recante: «Attuazione della [direttiva 2008/96/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96) sulla gestione della sicurezza delle infrastrutture stradali»;
+Visto il [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), recante: «Attuazione della [direttiva 2008/96/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96) sulla gestione della sicurezza delle infrastrutture stradali»;
 
 Visto il [decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109), convertito, con modificazioni, dalla [legge 16 novembre 2018, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20settembre%202018%20n.%20109%20recante%20disposizioni%20urgenti%20per%20la%20citta%20di%20Genova%20la%20sicurezza%20della%20rete%20nazionale%20delle%20infrastruttur_a2d2c50078c8.md), recante: «Disposizioni urgenti per la citta' di Genova, la sicurezza della rete nazionale delle infrastrutture e dei trasporti, gli eventi sismici del 2016 e 2017, il lavoro e le altre emergenze», e, in particolare, l'articolo 12 che ha istituito l'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA);
 
@@ -50,14 +50,14 @@ Emana il seguente decreto legislativo:
 
 1.
 
-L'[articolo 1 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' sostituito dal seguente: 
+L'[articolo 1 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' sostituito dal seguente: 
  «Art. 1 (Oggetto e ambito di applicazione). - 1. Il presente decreto detta disposizioni per l'istituzione e l'attuazione di procedure relative alle valutazioni di impatto sulla sicurezza stradale per i progetti di infrastruttura, ai controlli sulla sicurezza stradale, alle ispezioni di sicurezza stradale e alle valutazioni della sicurezza stradale a livello di rete. 
  2. Il presente decreto si applica alle strade che fanno parte della rete stradale transeuropea, alle autostrade e alle strade principali, siano esse in fase di progettazione, in costruzione o gia' aperte al traffico. 
  3. Il presente decreto si applica anche alle strade e ai progetti di infrastrutture stradali diverse da quelle di cui al comma 2, situati nelle aree extraurbane, che non sono serventi aree pubbliche o private che li costeggiano e che hanno usufruito di finanziamenti a valere su risorse stanziate dall'Unione europea, ad eccezione delle strade non aperte al traffico automobilistico generale, quali, a titolo esemplificativo, le piste ciclabili, ovvero delle strade non destinate al traffico generale, quali, a titolo esemplificativo, le strade di accesso a siti industriali, agricoli o forestali. 
  4. A decorrere dal 1° gennaio 2025 il presente decreto si applica anche alle altre strade appartenenti alla rete di interesse nazionale di cui all'articolo 2, comma 1, lettera a-quater), diverse da quelle di cui al comma 2, a prescindere dal fatto che, a decorrere da tale data, le stesse siano in fase di progettazione, in costruzione o gia' aperte al traffico. 
  5. Entro il 17 dicembre 2021 il Ministero delle infrastrutture e della mobilita' sostenibili trasmette alla Commissione europea l'elenco delle autostrade e delle strade principali presenti sul territorio nazionale, e comunica eventuali modifiche delle stesse successivamente intervenute. Il Ministero delle infrastrutture e della mobilita' sostenibili comunica altresi' alla Commissione europea, entro il 30 giugno 2024, l'elenco delle strade di cui al comma 4. Ogni ulteriore successiva modifica dell'elenco delle strade e' comunicata alla Commissione europea dal Ministero delle infrastrutture e della mobilita' sostenibili. 
  6. Entro e non oltre il 31 dicembre 2024, le regioni e le province autonome, nel rispetto dei principi stabiliti dal presente decreto, anche in relazione all'attuazione di quanto previsto dall'[articolo 1, paragrafo 4, della direttiva 2008/96/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96), dettano la disciplina riguardante la gestione della sicurezza delle infrastrutture stradali di competenza delle regioni e degli enti locali, non gia' ricomprese tra quelle di cui ai commi 2 e 3, con particolare riferimento alle strade finanziate totalmente o parzialmente a valere su risorse stanziate dall'Unione europea. 
- 7. Il presente decreto non si applica alle strade in gallerie stradali che rientrano nel campo di applicazione del [decreto legislativo 5 ottobre 2006, n. 264](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md).».
+ 7. Il presente decreto non si applica alle strade in gallerie stradali che rientrano nel campo di applicazione del [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md).».
 
 NOTE 
  Avvertenza: 
@@ -147,8 +147,8 @@ NOTE
  - La [direttiva 2008/96/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96), sulla gestione della sicurezza delle infrastrutture stradali e' pubblicata nella G.U.U.E. 29 novembre 2008, n. L 319. 
  - Il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](Nuovo%20codice%20della%20strada.md)) e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, S.O. 
  - Il [decreto legislativo 29 ottobre 1999, n. 461](Individuazione%20della%20rete%20autostradale%20e%20stradale%20nazionale%20a%20norma%20dellarticolo%2098%20comma%202%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112.md) (Individuazione della rete autostradale e stradale nazionale, a norma dell'[articolo 98, comma 2, del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md)) e' pubblicato nella Gazzetta Ufficiale 9 dicembre 1999, n. 288. 
- - Il [decreto legislativo 5 ottobre 2006, n. 264](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md) (Attuazione della [direttiva 2004/54/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;54) in materia di sicurezza per le gallerie della rete stradale transeuropea) e' pubblicato nella Gazzetta Ufficiale 9 ottobre 2006, n. 235, S.O. 
- - Il [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md) (Attuazione della [direttiva 2008/96/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96) sulla gestione della sicurezza delle infrastrutture stradali) e' pubblicato nella Gazzetta Ufficiale 8 aprile 2011, n. 81. 
+ - Il [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md) (Attuazione della [direttiva 2004/54/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;54) in materia di sicurezza per le gallerie della rete stradale transeuropea) e' pubblicato nella Gazzetta Ufficiale 9 ottobre 2006, n. 235, S.O. 
+ - Il [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md) (Attuazione della [direttiva 2008/96/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96) sulla gestione della sicurezza delle infrastrutture stradali) e' pubblicato nella Gazzetta Ufficiale 8 aprile 2011, n. 81. 
  - Il [decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109) (Disposizioni urgenti per la citta' di Genova, la sicurezza della rete nazionale delle infrastrutture e dei trasporti, gli eventi sismici del 2016 e 2017, il lavoro e le altre emergenze, e, in particolare, l'articolo 12 che ha istituito l'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA) e' pubblicato nella Gazzetta Ufficiale 28 settembre 2018, n. 226. 
  - La [legge 16 novembre 2018, n. 130](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20settembre%202018%20n.%20109%20recante%20disposizioni%20urgenti%20per%20la%20citta%20di%20Genova%20la%20sicurezza%20della%20rete%20nazionale%20delle%20infrastruttur_a2d2c50078c8.md) (Conversione in legge, con modificazioni, del [decreto-legge 28 settembre 2018, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-09-28;109), recante disposizioni urgenti per la citta' di Genova, la sicurezza della rete nazionale delle infrastrutture e dei trasporti, gli eventi sismici del 2016 e 2017, il lavoro e le altre emergenze) e' pubblicata nella Gazzetta Ufficiale 19 novembre 2018, n. 269, S.O. 
  - Il testo dell'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md) (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali), pubblicato nella Gazzetta Ufficiale 30 agosto 1997, n. 202, cosi' recita: 
@@ -163,7 +163,7 @@ NOTE
 
 1.
 
-All'[articolo 2, comma 1, del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
+All'[articolo 2, comma 1, del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera a) e' sostituita dalla seguente: «a) rete stradale transeuropea: la parte ricadente nel territorio nazionale della rete stradale definita nel regolamento UE n. 1315/2013 del Parlamento europeo e del Consiglio, dell'11 dicembre 2003;»;
                         b)
@@ -189,7 +189,7 @@ All'[articolo 2, comma 1, del decreto legislativo 15 marzo 2011, n. 35](../Decre
 «i-bis) utenti della strada vulnerabili: utenti della strada non motorizzati, quali in particolare ciclisti e pedoni, disabili in carrozzella e utilizzatori di veicoli a motore a due ruote.».
 
 Note all'art. 2: 
- - Il testo dell'articolo 2 del citato [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 2 del citato [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 2 (Definizioni [articolo 2, direttiva 2008/96/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96). - 1. Ai fini del presente decreto si intende per: 
  a) rete stradale transeuropea: la parte ricadente nel territorio nazionale della rete stradale definita nel regolamento UE n. 1315/2013 del Parlamento europeo e del Consiglio, dell'11 dicembre 2003; 
  a-bis) autostrada: strada appositamente progettata e costruita per il traffico motorizzato che non serve le proprieta' che la costeggiano e che soddisfa i criteri seguenti: 
@@ -213,7 +213,7 @@ Note all'art. 2:
 
 1.
 
-L'[articolo 5 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' sostituito dal seguente: 
+L'[articolo 5 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' sostituito dal seguente: 
  «Art. 5 (Valutazione della sicurezza stradale a livello di rete).
 - 1. L'organo competente assicura l'esecuzione della valutazione della sicurezza stradale a livello di rete sull'intera rete stradale aperta al traffico oggetto del presente decreto. 
  2. Le valutazioni della sicurezza stradale a livello di rete riguardano il rischio di incidente e di gravita' dell'impatto sulla base dei seguenti elementi: 
@@ -228,26 +228,26 @@ L'[articolo 5 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legisla
 
 1.
 
-All'[articolo 6 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
+All'[articolo 6 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
                         a)
                             la rubrica e' sostituita dalla seguente: «(Ispezioni di sicurezza stradale periodiche)»;
                         b)
                             al comma 1, il primo periodo e' sostituito dal seguente: «L'organo competente esegue ispezioni di sicurezza stradale periodiche con frequenza sufficiente a garantire livelli adeguati di sicurezza per l'infrastruttura stradale oggetto di applicazione del presente decreto, comunque in ogni caso, almeno ogni cinque anni.»;
                         c)
-                            dopo il comma 2, e' inserito il seguente: «2-bis. L'organo competente garantisce la sicurezza dei tratti della rete stradale contigui alle gallerie oggetto del [decreto legislativo 5 ottobre 2006, n. 264](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), attraverso ispezioni di sicurezza stradale congiunte, con la partecipazione dei soggetti competenti coinvolti nell'attuazione del presente decreto e del [decreto legislativo 5 ottobre 2006, n. 264](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md). Le ispezioni di sicurezza stradale congiunte sono eseguite con una frequenza sufficiente a garantire livelli di sicurezza adeguati, e comunque, almeno ogni sei anni.».
+                            dopo il comma 2, e' inserito il seguente: «2-bis. L'organo competente garantisce la sicurezza dei tratti della rete stradale contigui alle gallerie oggetto del [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), attraverso ispezioni di sicurezza stradale congiunte, con la partecipazione dei soggetti competenti coinvolti nell'attuazione del presente decreto e del [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md). Le ispezioni di sicurezza stradale congiunte sono eseguite con una frequenza sufficiente a garantire livelli di sicurezza adeguati, e comunque, almeno ogni sei anni.».
 
 Note all'art. 4: 
- - Il testo dell'articolo 6 del citato [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 6 del citato [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 6 (Ispezioni di sicurezza stradale periodiche).
  - 1. L'organo competente esegue ispezioni di sicurezza stradale periodiche con frequenza sufficiente a garantire livelli adeguati di sicurezza per l'infrastruttura stradale oggetto di applicazione del presente decreto, comunque in ogni caso, almeno ogni cinque anni. Le ispezioni sono svolte da soggetti inseriti nell'elenco di cui all'articolo 4, comma 7. Si applicano i casi di incompatibilita' di cui all'articolo 4, comma 7, terzo periodo. 
  2. Il Ministro delle infrastrutture e dei trasporti, entro il 19 dicembre 2011, individua, con proprio decreto, le misure di sicurezza temporanee da applicarsi ai tratti di rete stradale interessati da lavori stradali, fissando le modalita' di svolgimento delle ispezioni volte ad assicurare la corretta applicazione di tale decreto. 
- 2-bis. L'organo competente garantisce la sicurezza dei tratti della rete stradale contigui alle gallerie oggetto del [decreto legislativo 5 ottobre 2006, n. 264](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), attraverso ispezioni di sicurezza stradale congiunte, con la partecipazione dei soggetti competenti coinvolti nell'attuazione del presente decreto e del [decreto legislativo 5 ottobre 2006, n. 264](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md). Le ispezioni di sicurezza stradale congiunte sono eseguite con una frequenza sufficiente a garantire livelli di sicurezza adeguati, e comunque, almeno ogni sei anni.».
+ 2-bis. L'organo competente garantisce la sicurezza dei tratti della rete stradale contigui alle gallerie oggetto del [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md), attraverso ispezioni di sicurezza stradale congiunte, con la partecipazione dei soggetti competenti coinvolti nell'attuazione del presente decreto e del [decreto legislativo 5 ottobre 2006, n. 264](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-54-CE%20in%20materia%20di%20sicurezza%20per%20le%20gallerie%20della%20rete%20stradale%20transeuropea.md). Le ispezioni di sicurezza stradale congiunte sono eseguite con una frequenza sufficiente a garantire livelli di sicurezza adeguati, e comunque, almeno ogni sei anni.».
 
 ## Art. 5. — Inserimento degli articoli 6-bis, 6-ter, 6-quater e 6-quinquies al decreto legislativo 15 marzo 2011, n. 35
 
 1.
 
-Dopo l'[articolo 6 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono inseriti i seguenti: 
+Dopo l'[articolo 6 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono inseriti i seguenti: 
  «Art. 6-bis (Seguito delle procedure per le strade aperte al traffico). - 1. L'organo competente garantisce che ai risultati delle valutazioni della sicurezza stradale a livello di rete, effettuate ai sensi dell'articolo 5, facciano seguito ispezioni di sicurezza stradale mirate o interventi correttivi diretti. 
  2. Nell'effettuare le ispezioni di sicurezza stradale mirate, l'organo competente tiene conto anche delle componenti indicative di cui all'allegato II-bis del presente decreto. 
  3. Le ispezioni di sicurezza stradale mirate sono svolte da soggetti inseriti nell'elenco di cui all'articolo 4, comma 7, che possono avvalersi anche di assistenti. Ai soggetti di cui al primo periodo si applica la disposizione di cui all'articolo 4, comma 7, ultimo periodo. 
@@ -264,10 +264,10 @@ Dopo l'[articolo 6 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Le
 
 1.
 
-All'[articolo 7, comma 1, del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), le parole: «di cui all'articolo 1, comma 2» sono sostituite dalle seguenti: «ricadente nell'ambito di applicazione del presente decreto» ed e' aggiunto, in fine, il seguente periodo: «L'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA) sovrintende alla gestione dei suddetti dati.».
+All'[articolo 7, comma 1, del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), le parole: «di cui all'articolo 1, comma 2» sono sostituite dalle seguenti: «ricadente nell'ambito di applicazione del presente decreto» ed e' aggiunto, in fine, il seguente periodo: «L'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA) sovrintende alla gestione dei suddetti dati.».
 
 Note all'art. 6: 
- - Il testo dell'articolo 7 del citato [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 7 del citato [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 7 (Gestione dei dati [articolo 7, direttiva 2008/96/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96). - 1. Per ciascun incidente mortale verificatosi sulla rete stradale ricadente nell'ambito di applicazione del presente decreto, l'organo competente riporta in una apposita relazione di incidente, redatta secondo la reportistica di cui all'allegato IV, i dati relativi all'incidente stradale, raccolti e trasmessi, ai sensi dell'[articolo 56 della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_56), dalle forze dell'ordine e dagli enti locali. L'Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali (ANSFISA) sovrintende alla gestione dei suddetti dati. 
  2. Il Ministero delle infrastrutture e dei trasporti, entro il 19 dicembre 2011 e, successivamente, con cadenza almeno quinquennale, effettua il calcolo del costo sociale medio di un incidente mortale nonche' del costo sociale medio di un incidente grave. 
  3. Il Ministero delle infrastrutture e dei trasporti, entro il 19 dicembre 2011, e successivamente con cadenza annuale, sulla base dei dati acquisiti, effettua il calcolo del costo totale dell'incidentalita' verificatasi sulla rete stradale di cui al comma 1.».
@@ -277,10 +277,10 @@ Note all'art. 6:
 
 1.
 
-All'[articolo 9 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), dopo il comma 1, e' inserito il seguente: «1-bis. A decorrere dal 17 dicembre 2024, i programmi di formazione per i controllori della sicurezza stradale includono aspetti relativi agli utenti della strada vulnerabili e alle infrastrutture per tali utenti.».
+All'[articolo 9 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), dopo il comma 1, e' inserito il seguente: «1-bis. A decorrere dal 17 dicembre 2024, i programmi di formazione per i controllori della sicurezza stradale includono aspetti relativi agli utenti della strada vulnerabili e alle infrastrutture per tali utenti.».
 
 Note all'art. 7: 
- - Il testo dell'articolo 9 del citato [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 9 del citato [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 9 (Formazione dei controllori [articolo 9, direttiva 2008/96/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96). - 1. Il Ministro delle infrastrutture e dei trasporti, con decreto da adottarsi di intesa con il Ministro dell'istruzione, dell'universita' e della ricerca entro il 19 dicembre 2011, provvede ad adottare i programmi di formazione per i controllori della sicurezza stradale, fissando altresi' le modalita' di entrata in operativita' e di gestione dell'elenco di cui all'articolo 4, comma 7. 
  1-bis. A decorrere dal 17 dicembre 2024, i programmi di formazione per i controllori della sicurezza stradale includono aspetti relativi agli utenti della strada vulnerabili e alle infrastrutture per tali utenti. 
  2. I corsi di formazione iniziale per controllori, della durata non inferiore a centottanta ore, sono svolti, sulla base dei programmi di cui al comma 1, dal Ministero delle infrastrutture e dei trasporti ovvero, previa autorizzazione del medesimo Ministero, da universita', da organismi ed enti di ricerca, da consigli e ordini professionali, da associazioni operanti nel settore della sicurezza stradale. Il certificato di idoneita' professionale e' rilasciato, a seguito del superamento di un esame finale, dal soggetto erogatore del corso. 
@@ -295,7 +295,7 @@ Note all'art. 7:
 
 1.
 
-Dopo l'[articolo 9 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' inserito il seguente: 
+Dopo l'[articolo 9 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' inserito il seguente: 
  «Art. 9-bis (Rendicontazione). - 1. Entro il 31 ottobre 2025, e successivamente ogni cinque anni, il Ministero delle infrastrutture e della mobilita' sostenibili fornisce alla Commissione europea una relazione sulla classificazione della sicurezza dell'intera rete, valutata ai sensi dell'articolo 5. La relazione comprende anche l'elenco delle eventuali disposizioni di aggiornamento degli orientamenti nazionali, ivi compresi i miglioramenti in termini di progresso tecnologico e di protezione degli utenti vulnerabili della strada.».
 
 ## Art. 9. — Modifiche all'articolo 10 del decreto legislativo 
@@ -303,7 +303,7 @@ Dopo l'[articolo 9 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Le
 
 1.
 
-All'[articolo 10 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
+All'[articolo 10 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, la parola: «classificazione» e' sostituita dalla seguente: «valutazione», le parole: «articoli 4, 5 e 6» sono sostituite dalle seguenti: «articoli 4, 5, 6 e 6-bis» e le parole: «il Ministero delle infrastrutture e dei trasporti provvede» sono sostituite dalle seguenti: «il Ministero delle infrastrutture e della mobilita' sostenibili e l'ANSFISA provvedono»;
                         b)
@@ -311,7 +311,7 @@ All'[articolo 10 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legi
  «3. Su proposta dell'ANSFISA, le tariffe sono aggiornate almeno ogni tre anni secondo le modalita' di cui al comma 2.».
 
 Note all'art. 9: 
- - Il testo dell'[articolo 10 del decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'[articolo 10 del decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
  «Art. 10 (Disposizioni tariffarie). - 1. Alle attivita' di controllo, valutazione e ispezione, previste rispettivamente dagli articoli 4, 5, 6 e 6- bis, il Ministero delle infrastrutture e della mobilita' sostenibili e l'ANSFISA provvedono mediante tariffe da porre a carico degli enti gestori, non pubblici, da determinarsi ai sensi dell'[articolo 4, della legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md). 
  2. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto legislativo, sono individuate le tariffe di cui al comma 1 e le relative modalita' di versamento. 
  3. Su proposta dell'ANSFISA, le tariffe sono aggiornate almeno ogni tre anni secondo le modalita' di cui al comma 2. 
@@ -322,14 +322,14 @@ Note all'art. 9:
 
 1.
 
-All'allegato I del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
+All'allegato I del [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
                         a)
                             il titolo e' sostituito dal seguente: «ALLEGATO I - COMPONENTI INDICATIVE DELLE VALUTAZIONI D'IMPATTO SULLA SICUREZZA STRADALE.»;
                         b)
                             al punto 2, la lettera e) e' sostituita dalla seguente: «e) traffico (per esempio volume di traffico, categorizzazione del traffico per tipo), compresi i flussi stimati di pedoni e biciclette determinati dalle caratteristiche dell'uso del suolo adiacente.».
 
 Note all'art. 10: 
- - Il testo dell'allegato I del citato [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'allegato I del citato [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
  «ALLEGATO I - COMPONENTI INDICATIVE DELLE VALUTAZIONI D'IMPATTO SULLA SICUREZZA STRADALE. 
  1. Componenti della valutazione di impatto sulla sicurezza stradale: 
  a) definizione del problema; 
@@ -351,7 +351,7 @@ Note all'art. 10:
 
 1.
 
-All'allegato II del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
+All'allegato II del [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
                         a)
                             il titolo e' sostituito dal seguente: «ALLEGATO II - COMPONENTI INDICATIVE DEI CONTROLLI SULLA SICUREZZA STRADALE»;
                         b)
@@ -367,7 +367,7 @@ All'allegato II del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legi
                             al punto 2, alla lettera f), le parole: «utenti vulnerabili» sono sostituite dalle seguenti: «utenti della strada vulnerabili.».
 
 Note all'art. 11: 
- - Il testo dell'allegato II del citato [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'allegato II del citato [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
  «ALLEGATO II - COMPONENTI INDICATIVE DEI CONTROLLI SULLA SICUREZZA STRADALE. 
  1. Criteri applicabili nella fase della redazione del progetto di fattibilita' tecnica ed economica: 
  a) analisi della situazione geografica; 
@@ -398,7 +398,7 @@ Note all'art. 11:
 
 1.
 
-Dopo l'allegato II del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' inserito il seguente: 
+Dopo l'allegato II del [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' inserito il seguente: 
  «ALLEGATO II-bis - COMPONENTI INDICATIVE DELLE ISPEZIONI DI SICUREZZA STRADALE MIRATE. 
  1. Allineamento stradale e sezione trasversale: 
  a) visibilita' e distanze di visibilita'; 
@@ -464,7 +464,7 @@ Dopo l'allegato II del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20L
 
 1.
 
-L'allegato III del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' sostituito dal seguente. 
+L'allegato III del [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), e' sostituito dal seguente. 
  «ALLEGATO III - COMPONENTI INDICATIVE DELLE VALUTAZIONI DELLA SICUREZZA DELLE STRADE A LIVELLO DI RETE 
  1. Aspetti generali: 
  a) tipo di strada in relazione al tipo e alle dimensioni delle regioni/citta' da essa collegate; 
@@ -541,14 +541,14 @@ L'allegato III del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legis
 
 1.
 
-All'allegato IV del [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
+All'allegato IV del [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), sono apportate le seguenti modificazioni:
                         a)
                             il punto 1) e' sostituito dal seguente: «1) localizzazione dell'incidente piu' esatta possibile, comprendente le coordinate GNSS (global navigation satellite system);»;
                         b)
                             il punto 5) e' sostituito dal seguente: «5) gravita' dell'incidente;».
 
 Note all'art. 14: 
- - Il testo dell'allegato IV del citato [decreto legislativo 15 marzo 2011, n. 35](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'allegato IV del citato [decreto legislativo 15 marzo 2011, n. 35](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202008-96-CE%20sulla%20gestione%20della%20sicurezza%20delle%20infrastrutture%20stradali.md), come modificato dal presente decreto, cosi' recita: 
  
  «ALLEGATO IV 
  

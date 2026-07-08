@@ -20,7 +20,7 @@ Visto il regolamento (UE) n. 1024/2012 del Parlamento europeo e del Consiglio, d
 
 Vista la [direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36), relativa al riconoscimento delle qualifiche professionali;
 
-Visto il [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), recante attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania;
+Visto il [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), recante attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 novembre 2015;
 
@@ -38,7 +38,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 1 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md),dopo il comma 1 e' inserito il seguente: 
+All'[articolo 1 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md),dopo il comma 1 e' inserito il seguente: 
  "1-bis. Il presente decreto disciplina, altresi', il riconoscimento delle qualifiche professionali gia' acquisite in uno o piu' Stati membri dell'Unione europea e che permettono al titolare di tali qualifiche di esercitare nello Stato membro di origine la professione corrispondente, ai fini dell'accesso parziale ad una professione regolamentata sul territorio nazionale, nonche' i criteri relativi al riconoscimento dei tirocini professionali effettuati da cittadini italiani in un altro Stato membro.".
 
 Avvertenza: 
@@ -113,10 +113,10 @@ Avvertenza:
  - La [direttiva 2013/55/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;55) e' pubblicata nella G.U.U.E. 28 dicembre 2013, n. L 354. 
  - Il regolamento (UE) n. 1024/2012 e' pubblicato nella G.U.U.E. 14 novembre 2012, n. L 316. 
  - La [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) e' pubblicata nella G.U.U.E. 30 settembre 2005, n. L 255. 
- - Il [decreto legislativo 9 novembre 2007 n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md) (Attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania), e' pubblicato nella Gazzetta Ufficiale 9 novembre 2007, n. 261, S.O. 
+ - Il [decreto legislativo 9 novembre 2007 n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md) (Attuazione della [direttiva 2005/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36) relativa al riconoscimento delle qualifiche professionali, nonche' della [direttiva 2006/100/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;100) che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania), e' pubblicato nella Gazzetta Ufficiale 9 novembre 2007, n. 261, S.O. 
  
  Note all'art. 1: 
- - Il testo dell' articolo 1 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell' articolo 1 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 1 (Oggetto). - 1. Il presente decreto disciplina il riconoscimento, per l'accesso alle professioni regolamentate e il loro esercizio, con esclusione di quelle il cui svolgimento sia riservato dalla legge a professionisti in quanto partecipi sia pure occasionalmente dell'esercizio di pubblici poteri ed in particolare le attivita' riservate alla professione notarile, delle qualifiche professionali gia' acquisite in uno o piu' Stati membri dell'Unione europea, che permettono al titolare di tali qualifiche di esercitare nello Stato membro di origine la professione corrispondente. 
  1-bis. Il presente decreto disciplina, altresi', il riconoscimento delle qualifiche professionali gia' acquisite in uno o piu' Stati membri dell'Unione europea e che permettono al titolare di tali qualifiche di esercitare nello Stato membro di origine la professione corrispondente, ai fini dell'accesso parziale ad una professione regolamentata sul territorio nazionale, nonche' i criteri relativi al riconoscimento dei tirocini professionali effettuati da cittadini italiani in un altro Stato membro. 
  2. Restano salve le disposizioni vigenti che disciplinano il profilo dell'accesso al pubblico impiego.".
@@ -125,7 +125,7 @@ Avvertenza:
 
 1.
 
-All'[articolo 2 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 1 sono inseriti i seguenti: 
+All'[articolo 2 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 1 sono inseriti i seguenti: 
  "1-bis. Le disposizioni del presente decreto si applicano anche ai cittadini italiani che hanno effettuato un tirocinio professionale al di fuori del territorio nazionale. 
  1-ter. Gli articoli da 5-bis a 5-sexies si applicano: 
  a) ai cittadini italiani titolari di un qualifica professionale conseguita o riconosciuta in Italia; 
@@ -133,7 +133,7 @@ All'[articolo 2 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Le
  c) ai cittadini dell'Unione europea legalmente stabiliti in Italia, che richiedono il rilascio di una tessera professionale europea ai fini della libera prestazione di servizi o dello stabilimento in un altro Stato membro.".
 
 Note all'art. 2: 
- - Il testo dell' articolo 2 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell' articolo 2 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 2 (Ambito di applicazione). - 1. Il presente decreto si applica ai cittadini degli Stati membri dell'Unione europea che vogliano esercitare sul territorio nazionale, quali lavoratori subordinati o autonomi, compresi i liberi professionisti, una professione regolamentata in base a qualifiche professionali conseguite in uno Stato membro dell'Unione europea e che, nello Stato d'origine, li abilita all'esercizio di detta professione. 
  1-bis. Le disposizioni del presente decreto si applicano anche ai cittadini italiani che hanno effettuato un tirocinio professionale al di fuori del territorio nazionale. 
  1-ter. Gli articoli da 5-bis a 5-sexies si applicano: 
@@ -147,10 +147,10 @@ Note all'art. 2:
 
 1.
 
-All'[articolo 3, comma 2, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono aggiunte, in fine, le seguenti parole: ", fatto salvo quanto previsto all'articolo 5-septies in tema di accesso parziale".
+All'[articolo 3, comma 2, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono aggiunte, in fine, le seguenti parole: ", fatto salvo quanto previsto all'articolo 5-septies in tema di accesso parziale".
 
 Note all'art. 3: 
- - Il testo dell'articolo 3 del citato [decreto legislativo 9 novembre 2007 n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 3 del citato [decreto legislativo 9 novembre 2007 n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 3 (Effetti del riconoscimento). - 1. Il riconoscimento delle qualifiche professionali operato ai sensi del presente decreto legislativo permette di accedere, se in possesso dei requisiti specificamente previsti, alla professione corrispondente per la quale i soggetti di cui all'articolo 2, comma 1, sono qualificati nello Stato membro d'origine e di esercitarla alle stesse condizioni previste dall'ordinamento italiano. 
  2. Ai fini dell'articolo 1, comma 1, la professione che l'interessato esercitera' sul territorio italiano sara' quella per la quale e' qualificato nel proprio Stato membro d'origine, se le attivita' sono comparabili, fatto salvo quanto previsto all'articolo 5-septies in tema di accesso parziale. 
  3. Salvo quanto previsto dagli articoli 12 e 16, comma 10, con riguardo all'uso del titolo professionale, il prestatore puo' usare nella professione la denominazione del proprio titolo di studio, ed eventualmente la relativa abbreviazione, nella lingua dello Stato membro nel quale il titolo di studio e' stato conseguito. L'uso di detta denominazione o dell'abbreviazione non e' tuttavia consentito se idoneo ad ingenerare confusione con una professione regolamentata nel territorio nazionale, per la quale l'interessato non ha ottenuto il riconoscimento della qualifica professionale; in tal caso la denominazione potra' essere utilizzata a condizione che ad essa siano apportate le modifiche o aggiunte idonee alla differenziazione, stabilite dall'autorita' competente di cui all'articolo 5.".
@@ -159,7 +159,7 @@ Note all'art. 3:
 
 1.
 
-All'[articolo 4, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni: 
+All'[articolo 4, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni: 
  1) la lettera e) e' sostituita dalla seguente: "e) «formazione regolamentata»: qualsiasi formazione che, secondo le prescrizioni vigenti, e' specificamente orientata all'esercizio di una determinata professione e consiste in un ciclo di studi completato, eventualmente, da una formazione professionale, un tirocinio professionale o una pratica professionale, secondo modalita' stabilite dalla legge; 
  2) la lettera f) e' sostituita dalla seguente: "f) «esperienza professionale»: l'esercizio effettivo e legittimo della professione in uno Stato membro, a tempo pieno o a tempo parziale per un periodo equivalente;"; 
  3) la lettera h) e' sostituita dalla seguente: "h) «prova attitudinale»: una verifica riguardante le conoscenze, le competenze e le abilita' professionali del richiedente effettuata dalle autorita' competenti allo scopo di valutare l'idoneita' del richiedente ad esercitare una professione regolamentata;"; 
@@ -173,7 +173,7 @@ All'[articolo 4, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../De
  n-septies) «legalmente stabilito»: un cittadino dell'Unione europea e' legalmente stabilito nello Stato membro di residenza quando ha ottenuto il riconoscimento della qualifica professionale da parte delle Autorita' competenti di detto Stato e non e' soggetto ad alcun divieto, neppure temporaneo, all'esercizio della professione sul territorio nazionale. E' possibile essere legalmente stabiliti come lavoratore autonomo o lavoratore dipendente.".
 
 Note all'art. 4: 
- - Il testo dell'articolo 4 del citato [decreto legislativo 9 novembre 2007 n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 4 del citato [decreto legislativo 9 novembre 2007 n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 4 (Definizioni). - 1 Ai fini del presente decreto si applicano le seguenti definizioni: 
  a) «professione regolamentata»: 
  1) l'attivita', o l'insieme delle attivita', il cui esercizio e' consentito solo a seguito di iscrizione in Ordini o Collegi o in albi, registri ed elenchi tenuti da amministrazioni o enti pubblici, se la iscrizione e' subordinata al possesso di qualifiche professionali o all'accertamento delle specifiche professionalita'; 
@@ -206,7 +206,7 @@ Note all'art. 4:
 
 1.
 
-All'[articolo 5, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 5, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1: 
  1) la lettera a) e' sostituita dalla seguente: "a) la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, le autonomie e lo sport, per tutte le attivita' che riguardano il settore sportivo e per quelle esercitate con la qualifica di professionista sportivo, ad accezione di quelle di cui alla lettera l-septies);" 
@@ -235,7 +235,7 @@ All'[articolo 5, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  4) alla lettera e), le parole: "il Ministero del lavoro e della previdenza sociale" sono sostituite dalle seguenti: "il Ministero del lavoro e delle politiche sociali".
 
 Note all'art. 5: 
- - Il testo dell'articolo 5 del citato [decreto legislativo 9 novembre 2007 n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 5 del citato [decreto legislativo 9 novembre 2007 n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 5 (Autorita' competente). - 1. Ai fini del riconoscimento di cui al titolo II e al titolo III, capi II e IV, sono competenti a ricevere le domande, a ricevere le dichiarazioni e a prendere le decisioni: 
  a) la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, le autonomie e lo sport, per tutte le attivita' che riguardano il settore sportivo e per quelle esercitate con la qualifica di professionista sportivo, ad accezione di quelle di cui alla lettera l-septies); 
  b) (abrogata); 
@@ -267,7 +267,7 @@ Note all'art. 5:
 
 ## Art. 6. — Introduzione degli articoli 5-bis, 5-ter, 5-quater, 5-quinquies, 5-sexies e 5-septies nel decreto legislativo 9 novembre 2007, n. 206
 
-Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 5, sono inseriti i seguenti: 
+Al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 5, sono inseriti i seguenti: 
  "Art. 5-bis (Tessera professionale europea (EPC)) - 1. E' possibile richiedere il rilascio della tessera professionale europea alle autorita' competenti di cui all'articolo 5, per le professioni di: 
  a) infermiere responsabile dell'assistenza generale; 
  b) farmacista; 
@@ -319,7 +319,7 @@ L'autorita' competente verifica che il richiedente sia legalmente stabilito sul 
 
 ## Art. 7. — Modifiche all'articolo 6 del decreto legislativo 9 novembre 2007, n. 206
 
-L'[articolo 6 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), e' sostituito dal seguente: 
+L'[articolo 6 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), e' sostituito dal seguente: 
  "Art. 6 (Centro di assistenza) - 1. La Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee assolve i compiti di: 
  a) Coordinatore nazionale presso la Commissione europea; 
  b) Centro di assistenza per il riconoscimento delle qualifiche professionali. 
@@ -332,7 +332,7 @@ L'[articolo 6 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legi
  3. Le autorita' di cui all'articolo 5 mettono a disposizione del coordinatore di cui al comma 1, lettera a), le informazioni e i dati statistici necessari ai fini della predisposizione della relazione biennale sull'applicazione del presente decreto da trasmettere alla Commissione europea. 
  4. Il centro di assistenza di cui al comma 1, lettera b), curando il raccordo delle attivita' dei centri di assistenza di cui al comma 5 e i rapporti con la Commissione europea: 
  a) fornisce ai cittadini e ai centri di assistenza degli altri Stati membri l'assistenza necessaria in materia di riconoscimento delle qualifiche professionali interessate dal presente decreto, incluse le informazioni sulla legislazione nazionale che disciplina le professioni e il loro esercizio, compresa la legislazione sociale ed eventuali norme deontologiche; 
- b) assiste, se del caso, i cittadini per l'ottenimento dei diritti attribuiti loro dal presente decreto, eventualmente cooperando con il centro di assistenza dello Stato membro di origine nonche' con le autorita' competenti e con il punto di contatto unico di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+ b) assiste, se del caso, i cittadini per l'ottenimento dei diritti attribuiti loro dal presente decreto, eventualmente cooperando con il centro di assistenza dello Stato membro di origine nonche' con le autorita' competenti e con il punto di contatto unico di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 Su richiesta della Commissione europea, il centro di assistenza assicura le informazioni sui risultati dell'assistenza prestata, entro due mesi dalla richiesta; 
  c) valuta le questioni di particolare rilevanza o complessita', congiuntamente con un rappresentante delle regioni e province autonome designato in sede di Conferenza Stato-regioni e province autonome di Trento e di Bolzano, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente. 
  5. Le autorita' competenti di cui all'articolo 5 istituiscono un proprio centro di assistenza che, in relazione ai riconoscimenti di competenza, assicura i compiti di cui alla lettera a) e b) del comma 4. I casi trattati ai sensi del comma 4, lettera b), sono comunicati al centro di assistenza di cui al comma 1, lettera b).".
@@ -341,14 +341,14 @@ Su richiesta della Commissione europea, il centro di assistenza assicura le info
 
 1.
 
-All'[articolo 7 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 1 sono aggiunti i seguenti: 
+All'[articolo 7 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 1 sono aggiunti i seguenti: 
  "1-bis. Nel caso in cui la professione ha ripercussioni sulla sicurezza dei pazienti, le Autorita' competenti di cui all'articolo 5 devono verificare la conoscenza della lingua italiana. I controlli devono essere effettuati anche relativamente ad altre professioni, nei casi in cui sussista un serio e concreto dubbio in merito alla sussistenza di una conoscenza sufficiente della lingua italiana con riguardo all'attivita' che il professionista intende svolgere. 
  1-ter. I controlli possono essere effettuati solo dopo il rilascio di una tessera professionale europea a norma dell'articolo 5-quinquies o dopo il riconoscimento di una qualifica professionale. 
  1-quater. Il controllo linguistico e' proporzionato all'attivita' da eseguire. Il professionista puo' presentare ricorso ai sensi del diritto nazionale contro la decisione che dispone tali controlli. 
  1-quinquies. Le autorita' competenti di cui all'articolo 5 possono stabilire con successivi atti regolamentari o amministrativi, ciascuna per le professioni di propria competenza, il livello linguistico necessario per il corretto svolgimento della professione e le modalita' di verifica.".
 
 Note all'art. 8: 
- - Il testo dell'articolo 7 del citato [decreto legislativo 9 novembre 2007 n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 7 del citato [decreto legislativo 9 novembre 2007 n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 7 (Conoscenze linguistiche). - 1. Fermi restando i requisiti di cui al titolo II ed al titolo III, per l'esercizio della professione i beneficiari del riconoscimento delle qualifiche professionali devono possedere le conoscenze linguistiche necessarie. 
  1-bis. Nel caso in cui la professione ha ripercussioni sulla sicurezza dei pazienti, le Autorita' competenti di cui all'articolo 5 devono verificare la conoscenza della lingua italiana. I controlli devono essere effettuati anche relativamente ad altre professioni, nei casi in cui sussista un serio e concreto dubbio in merito alla sussistenza di una conoscenza sufficiente della lingua italiana con riguardo all'attivita' che il professionista intende svolgere. 
  1-ter. I controlli possono essere effettuati solo dopo il rilascio di una tessera professionale europea a norma dell'articolo 5-quinquies o dopo il riconoscimento di una qualifica professionale. 
@@ -359,13 +359,13 @@ Note all'art. 8:
 
 1.
 
-All'[articolo 8 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni: 
+All'[articolo 8 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni: 
  1) al comma 1, ultimo periodo, le parole: "puo' avvenire anche per via telematica secondo modalita' definite con l'Unione europea" sono sostituite dalle seguenti: "deve avvenire attraverso il sistema di Informazione del mercato interno (IMI)."; 
  2) dopo il comma 3 e' inserito il seguente: 
  "3-bis. Nell'ambito della procedura di cui al titolo II, qualora le autorita' competenti di cui all'articolo 5 decidano di procedere alla verifica delle qualifiche professionali del prestatore come disposto dall'articolo 11, comma 4, possono chiedere alle competenti autorita' dello Stato membro di stabilimento, attraverso il sistema IMI, informazioni circa i corsi di formazione seguiti dal prestatore, nella misura necessaria per la valutazione delle differenze sostanziali potenzialmente pregiudizievoli per la sicurezza o la sanita' pubblica.".
 
 Note all'art. 9: 
- - Il testo dell'articolo 8 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 8 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 8 (Cooperazione amministrativa). - 1. Ogni autorita' di cui all'articolo 5 assicura che le informazioni richieste dall'autorita' dello Stato membro d'origine nel rispetto della disciplina nazionale relativa alla protezione dei dati personali siano fornite non oltre trenta giorni. Lo scambio di informazioni deve avvenire attraverso il sistema di Informazione del mercato interno (IMI). 
  2. Lo scambio di informazioni di cui al comma 1 puo' riguardare, in particolare, le azioni disciplinari e le sanzioni penali adottate nei riguardi del professionista oggetto di specifica procedura di riconoscimento professionale di cui al titolo II e al titolo III, qualora suscettibili di incidere, anche indirettamente, sulla attivita' professionale. 
  3. Al fine di cui al comma 1 gli Ordini e Collegi professionali competenti, se esistenti, danno comunicazione all'autorita' di cui all'articolo 5 di tutte le sanzioni che incidono sull'esercizio della professione. 
@@ -378,7 +378,7 @@ Note all'art. 9:
 
 ## Art. 10. — Introduzione dell'articolo 8-bis nel decreto legislativo 9 novembre 2007, n. 206
 
-Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 8, e' inserito il seguente: 
+Al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 8, e' inserito il seguente: 
  "Art. 8-bis (Meccanismo di allerta) - 1. Gli ordini o i collegi professionali competenti e, nel caso in cui per la professione regolamentata non esistano ordini o collegi professionali, le autorita' competenti di cui all'articolo 5 informano le autorita' competenti di tutti gli altri Stati membri, mediante un'allerta attraverso il sistema IMI, dei provvedimenti che limitano o vietano ad un professionista, anche solo a titolo temporaneo, l'esercizio totale o parziale sul territorio nazionale delle seguenti attivita' professionali: 
  a) medico e medico generico, in possesso di un titolo di formazione di cui all'allegato V, punti 5.1.1 e 5.1.4; 
  b) medico specialista, in possesso di un titolo di cui all'allegato V, punto 5.1.3; 
@@ -412,7 +412,7 @@ Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuaz
 
 1.
 
-All'[articolo 9 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 9 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, lettera b), le parole: "due anni" sono sostituite dalle seguenti: "un anno";
                         b)
@@ -420,7 +420,7 @@ All'[articolo 9 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Le
  "3-bis. Nel caso di attivita' stagionali, le autorita' competenti di cui all'articolo 5 possono effettuare controlli per verificare il carattere temporaneo ed occasionale dei servizi prestati sul tutto il territorio nazionale. A tal fine possono chiedere, una volta l'anno, informazioni in merito ai servizi effettivamente prestati in Italia, qualora tali informazioni non siano gia' state comunicate su base volontaria dal prestatore di servizi.".
 
 Note all'art. 11: 
- - Il testo dell'articolo 9 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 9 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 9 (Libera prestazione di servizi e prestazione occasionale e temporanea). - 1. Fatti salvi gli articoli da 10 a 15, la libera prestazione di servizi sul territorio nazionale non puo' essere limitata per ragioni attinenti alle qualifiche professionali: 
  a) se il prestatore e' legalmente stabilito in un altro Stato membro per esercitarvi la corrispondente professione; 
  b) in caso di spostamento del prestatore; in tal caso, se nello Stato membro di stabilimento la professione non e' regolamentata, il prestatore deve aver esercitato tale professione per almeno un anno nel corso dei dieci anni che precedono la prestazione di servizi. 
@@ -433,7 +433,7 @@ Note all'art. 11:
 
 1.
 
-All'[articolo 10 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 10 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2: 
  1) alla lettera d), le parole: "due anni" sono sostituite dalle seguenti: "un anno"; 
@@ -450,7 +450,7 @@ All'[articolo 10 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  "4-bis. Le autorita' competenti di cui all'articolo 5 assicurano che tutti i requisiti, le procedure e le formalita', fatta eccezione per la prova attitudinale prevista dall'articolo 11, possano essere espletate con facilita' mediante connessione remota e per via elettronica. Cio' non impedisce alle stesse autorita' competenti di richiedere le copie autenticate in una fase successiva, in caso di dubbio fondato e ove strettamente necessario.".
 
 Note all'art. 12: 
- Il testo dell'articolo 10 del citato [decreto legislativo 9 novembre 2007 n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ Il testo dell'articolo 10 del citato [decreto legislativo 9 novembre 2007 n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 10. (Dichiarazione preventiva in caso di spostamento del prestatore) 
  1. Il prestatore che ai sensi dell'articolo 9 si sposta per la prima volta da un altro Stato membro sul territorio nazionale per fornire servizi e' tenuto ad informare in anticipo, l'autorita' di cui all'articolo 5 con una dichiarazione scritta, contenente informazioni sulla prestazione di servizi che intende svolgere, nonche' sulla copertura assicurativa o analoghi mezzi di protezione personale o collettiva per la responsabilita' professionale. Tale dichiarazione ha validita' per l'anno in corso e deve essere rinnovata, se il prestatore intende successivamente fornire servizi temporanei o occasionali in tale Stato membro. Il prestatore puo' fornire la dichiarazione con qualsiasi mezzo idoneo di comunicazione. 
  2. In occasione della prima prestazione, o in qualunque momento interviene un mutamento oggettivo della situazione attestata dai documenti, la dichiarazione di cui al comma 1 deve essere corredata di: 
@@ -470,14 +470,14 @@ Note all'art. 12:
 
 1.
 
-All'[articolo 11 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md) sono apportate le seguenti modificazioni:
+All'[articolo 11 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md) sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole "titolo III, capo IV" sono sostituite dalle seguenti: "titolo III, capi III, IV e IV-bis";
                         b)
                             al comma 4, dopo le parole: "alla sanita' pubblica" sono inserite le seguenti: "e non possa essere compensata dall'esperienza professionale del prestatore o da conoscenze, abilita' e competenze acquisite attraverso l'apprendimento permanente, formalmente convalidate a tal fine da un organismo competente,".
 
 Note all'art. 13: 
- - Il testo dell'articolo 11 del citato [decreto legislativo 9 novembre 2007 n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 11 del citato [decreto legislativo 9 novembre 2007 n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 11 (Verifica preliminare). - 1. Nel caso delle professioni regolamentate aventi ripercussioni in materia di pubblica sicurezza o di sanita' pubblica, che non beneficiano del riconoscimento ai sensi del titolo III, capi III, IV e IV-bis, all'atto della prima prestazione di servizi le Autorita' di cui all'articolo 5 possono procedere ad una verifica delle qualifiche professionali del prestatore prima della prima prestazione di servizi. 
  2. La verifica preliminare e' esclusivamente finalizzata ad evitare danni gravi per la salute o la sicurezza del destinatario del servizio per la mancanza di qualifica professionale del prestatore. 
  3. Entro un mese dalla ricezione della dichiarazione e dei documenti che la corredano, l'autorita' di cui all'articolo 5 informa il prestatore che non sono necessarie verifiche preliminari, ovvero comunica l'esito del controllo ovvero, in caso di difficolta' che causi un ritardo, il motivo del ritardo e la data entro la quale sara' adottata la decisione definitiva, che in ogni caso dovra' essere adottata entro il secondo mese dal ricevimento della documentazione completa. 
@@ -488,12 +488,12 @@ Note all'art. 13:
 
 1.
 
-All'[articolo 13 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 2 e' inserito il seguente: 
+All'[articolo 13 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 2 e' inserito il seguente: 
  "2-bis. Nel caso l'autorita' competente riceva la comunicazione, tramite IMI, del rilascio di una tessera professionale da parte di un altro Stato membro, per la prestazione temporanea in Italia, ne informa il competente Ordine o Collegio professionale, se esistente, che provvede ad una iscrizione automatica in apposita sezione degli albi istituiti e tenuti presso i consigli provinciali e il consiglio nazionale, con oneri a carico dell'Ordine o Collegio stessi.
 Parimenti l'autorita' competente che rilascia una tessera professionale per la prestazione temporanea nei casi di cui all'articolo 11, ne informa il competente Ordine o Collegio professionale per l'iscrizione automatica.".
 
 Note all'art. 14: 
- - Il testo dell'articolo 13 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 13 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 13 (Iscrizione automatica). - 1. Copia delle dichiarazioni di cui all'articolo 10, comma 1, e' trasmessa dall'autorita' competente di cui all'articolo 5 al competente Ordine o Collegio professionale, se esistente, che provvede ad una iscrizione automatica in apposita sezione degli albi istituiti e tenuti presso i consigli provinciali e il consiglio nazionale con oneri a carico dell'Ordine o Collegio stessi. 
  2. Nel caso di professioni di cui all'articolo 11, comma 1, e di cui al titolo III, capo IV, contestualmente alla dichiarazione e' trasmessa copia della documentazione di cui all'articolo 10, comma 2. 
  2-bis. Nel caso l'autorita' competente riceva la comunicazione, tramite IMI, del rilascio di una tessera professionale da parte di un altro Stato membro, per la prestazione temporanea in Italia, ne informa il competente Ordine o Collegio professionale, se esistente, che provvede ad una iscrizione automatica in apposita sezione degli albi istituiti e tenuti presso i consigli provinciali e il consiglio nazionale, con oneri a carico dell'Ordine o Collegio stessi. Parimenti l'autorita' competente che rilascia una tessera professionale per la prestazione temporanea nei casi di cui all'articolo 11, ne informa il competente Ordine o Collegio professionale per l'iscrizione automatica. 
@@ -504,7 +504,7 @@ Note all'art. 14:
 
 1.
 
-All'[articolo 16 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 16 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 3 la parola: "indice" e' sostituita dalle seguenti: "puo' indire";
                         b)
@@ -516,7 +516,7 @@ All'[articolo 16 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
 "provvedimento".
 
 Note all'art. 15: 
- - Il testo dell'articolo 16 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 16 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 16 (Procedura di riconoscimento in regime di stabilimento). - 1. Ai fini del riconoscimento professionale come disciplinato dal presente titolo, il cittadino di cui all'articolo 2 presenta apposita domanda all'autorita' competente di cui all'articolo 5. 
  2. Entro trenta giorni dal ricevimento della domanda di cui al comma 1 l'autorita' accerta la completezza della documentazione esibita, e ne da' notizia all'interessato.
  Ove necessario, l'Autorita' competente richiede le eventuali necessarie integrazioni. 
@@ -537,7 +537,7 @@ Note all'art. 15:
 
 1.
 
-All'[articolo 17 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 17 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 3, le parole "o di condanne per reati penali" sono sostituite dalle seguenti: "o di condanne penali";
                         b)
@@ -548,7 +548,7 @@ All'[articolo 17 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  "9-bis. Le autorita' competenti di cui all'articolo 5 assicurano che tutti i requisiti, le procedure e le formalita' per il riconoscimento di una qualifica professionale, fatta eccezione per lo svolgimento del periodo di adattamento o della prova attitudinale, possano essere espletate, con facilita', mediante connessione remota e per via elettronica. Cio' non impedisce alle stesse autorita' competenti di richiedere le copie autenticate dei documenti presentati in una fase successiva, in caso di dubbio fondato e ove strettamente necessario.".
 
 Note all'art. 16: 
- - Il testo dell'articolo 17 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 17 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 17 (Domanda per il riconoscimento). - 1. La domanda di cui all'articolo 16 e' corredata dei seguenti documenti: 
  a) un certificato o copia di un documento che attesti la nazionalita' del prestatore; 
  b) una copia degli attestati di competenza o del titolo di formazione che da' accesso alla professione ed eventualmente un attestato dell'esperienza professionale dell'interessato; 
@@ -567,7 +567,7 @@ Note all'art. 16:
 ## Art. 17. — Introduzione dell'articolo 17-bis nel decreto 
  legislativo 9 novembre 2007, n. 206
 
-Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 17 e' inserito il seguente: 
+Al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 17 e' inserito il seguente: 
  "Art. 17-bis (Riconoscimento del tirocinio professionale) - 1. Se l'accesso a una professione regolamentata in Italia e' subordinato al compimento di un tirocinio professionale, le autorita' competenti al rilascio delle abilitazioni per l'esercizio di una professione regolamentata riconoscono i tirocini professionali effettuati in un altro Stato membro, a condizione che il tirocinio si attenga alle linee guida di cui al comma 3 e tengono conto dei tirocini professionali svolti in un Paese terzo. Le suddette autorita' competenti stabiliscono un limite ragionevole alla durata della parte del tirocinio professionale che puo' essere svolta all'estero, fatte salve le disposizioni di legge gia' vigenti in materia. 
  2. Il riconoscimento del tirocinio professionale non sostituisce i requisiti previsti per superare un esame al fine di ottenere l'accesso alla professione in questione. 
  3. Il Ministero dell'istruzione, dell'universita' e della ricerca, per le professioni il cui tirocinio professionale e' inserito nel corso di studi universitari o post-universitari, pubblica, entro sessanta giorni dalla data di entrata in vigore del presente articolo, le linee guida sull'organizzazione e il riconoscimento dei tirocini professionali effettuati in un altro Stato membro o in un Paese terzo, in particolare sul ruolo del supervisore del tirocinio professionale. 
@@ -577,7 +577,7 @@ Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuaz
 
 1.
 
-All'[articolo 19 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 19 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1: 
  1) all'alinea, dopo le parole: "articolo 21" sono inserite le seguenti: "e all'articolo 22, comma 8-bis"; 
@@ -585,7 +585,7 @@ All'[articolo 19 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
 "2) o di una formazione o un'istruzione regolamentata o, nel caso di professione regolamentata, di una formazione a struttura particolare con competenze che vanno oltre quanto previsto al livello b, equivalenti al livello di formazione indicato al numero 1), se tale formazione conferisce un analogo livello professionale e prepara a un livello analogo di responsabilita' e funzioni, a condizione che detto diploma sia corredato di un certificato dello Stato membro di origine;".
 
 Note all'art. 18: 
- - Il testo dell'articolo 19 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 19 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 19 (Livelli di qualifica). - 1. Ai soli fini dell'applicazione delle condizioni di riconoscimento professionale di cui all'articolo 21 e all'articolo 22, comma 8-bis, le qualifiche professionali sono inquadrate nei seguenti livelli: 
  a) attestato di competenza: attestato rilasciato da un'autorita' competente dello Stato membro d'origine designata ai sensi delle disposizioni legislative, regolamentari o amministrative di tale Stato membro, sulla base: 
  1) o di una formazione non facente parte di un certificato o diploma ai sensi delle lettere b), c), d) o e), o di un esame specifico non preceduto da una formazione o dell'esercizio a tempo pieno della professione per tre anni consecutivi in uno Stato membro o a tempo parziale per un periodo equivalente nei precedenti dieci anni, 
@@ -603,10 +603,10 @@ Note all'art. 18:
 
 1.
 
-All'[articolo 20, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "se sancisce una formazione acquisita nella Comunita'," sono sostituite dalle seguenti: "che sancisce il completamento con successo di una formazione acquisita nell'Unione europea, a tempo pieno o parziale, nell'ambito o al di fuori di programmi formali, che e'".
+All'[articolo 20, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "se sancisce una formazione acquisita nella Comunita'," sono sostituite dalle seguenti: "che sancisce il completamento con successo di una formazione acquisita nell'Unione europea, a tempo pieno o parziale, nell'ambito o al di fuori di programmi formali, che e'".
 
 Note all'art. 19: 
- - Il testo dell'articolo 20 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 20 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 20 (Titoli di formazione assimilati). - 1. E' assimilato a un titolo di formazione che sancisce una formazione di cui all'articolo 19, anche per quanto riguarda il livello, ogni titolo di formazione o insieme di titoli di formazione rilasciato da un'autorita' competente di un altro Stato membro, che sancisce il completamento con successo di una formazione acquisita nell'Unione europea, a tempo pieno o parziale, nell'ambito o al di fuori di programmi formali, che e' riconosciuta da tale Stato membro come formazione di livello equivalente al livello in questione e tale da conferire gli stessi diritti d'accesso o di esercizio alla professione o tale da preparare al relativo esercizio. 
  2. E' altresi' assimilata ad un titolo di formazione, alle stesse condizioni del comma 1, ogni qualifica professionale che, pur non rispondendo ai requisiti delle norme legislative, regolamentari o amministrative dello Stato membro d'origine per l'accesso a una professione o il suo esercizio, conferisce al suo titolare diritti acquisiti in virtu' di tali disposizioni. La disposizione trova applicazione se lo Stato membro d'origine eleva il livello di formazione richiesto per l'ammissione ad una professione e per il suo esercizio, e se una persona che ha seguito una precedente formazione, che non risponde ai requisiti della nuova qualifica, beneficia dei diritti acquisiti in forza delle disposizioni nazionali legislative, regolamentari o amministrative; in tale caso, detta formazione precedente e' considerata, ai fini dell'applicazione dell'articolo 21, corrispondente al livello della nuova formazione.".
 
@@ -614,7 +614,7 @@ Note all'art. 19:
 
 1.
 
-All'[articolo 21 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 21 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1: 
  1) al secondo periodo, le parole: "soddisfano le seguenti condizioni: a) essere stati rilasciati"sono sostituite dalle seguenti: "sono rilasciati"; 
@@ -628,7 +628,7 @@ All'[articolo 21 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  d) il comma 4 e' sostituito dal seguente: "4. In deroga ai commi 1 e 2 del presente articolo e all'articolo 22, l'autorita' competente di cui all'articolo 5 puo' rifiutare l'accesso alla professione e l'esercizio della stessa ai titolari di un attestato di competenza classificato a norma dell'articolo 19, comma 1, lettera a), qualora la qualifica professionale nazionale richiesta per esercitare tale professione in Italia sia classificata a norma dell'articolo 19, comma 1, lettera e).".
 
 Note all'art. 20: 
- - Il testo dell'articolo 21 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 21 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 21 (Condizioni per il riconoscimento). - 1. Al fine dell'applicazione dell'articolo 18, comma 1, per l'accesso o l'esercizio di una professione regolamentata sono ammessi al riconoscimento professionale le qualifiche professionali che sono prescritte da un altro Stato membro per accedere alla corrispondente professione ed esercitarla. Gli attestati di competenza o i titoli di formazione ammessi al riconoscimento sono rilasciati; 
  b) (abrogata). 
  2. L'accesso e l'esercizio della professione regolamentata di cui al comma 1 sono consentiti anche ai richiedenti che abbiano esercitato a tempo pieno tale professione per un anno o, se a tempo parziale, per una durata complessiva equivalente, nel corso dei precedenti dieci, in un altro Stato membro che non la regolamenti e abbiano uno o piu' attestati di competenza o uno o piu' titoli di formazione che soddisfino le seguenti condizioni: 
@@ -642,7 +642,7 @@ Note all'art. 20:
 
 1.
 
-All'[articolo 22 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 22 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1: 
  1) la lettera a) e' abrogata; 
@@ -671,7 +671,7 @@ All'[articolo 22 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  8-ter. Al richiedente dovra' essere data la possibilita' di svolgere la prova attitudinale di cui al comma 1 entro sei mesi dalla decisione iniziale di imporre tale prova al richiedente.".
 
 Note all'art. 21: 
- - Il testo dell'articolo 22 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 22 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 22 (Misure compensative). - 1. Il riconoscimento di cui al presente capo puo' essere subordinato al compimento di un tirocinio di adattamento non superiore a tre anni o di una prova attitudinale, a scelta del richiedente, in uno dei seguenti casi: 
  a) (abrogata); 
  b) se la formazione ricevuta riguarda materie sostanzialmente diverse da quelle coperte dal titolo di formazione richiesto in Italia; 
@@ -698,11 +698,11 @@ Note all'art. 21:
 
 1.
 
-All'[articolo 23 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 2, e' inserito il seguente: 
+All'[articolo 23 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 2, e' inserito il seguente: 
  "2-bis: Nei casi di cui ai commi 1 e 2 le autorita' competenti di cui all'articolo 5 possono stabilire il numero di ripetizioni cui ha diritto il richiedente, tenendo conto della prassi seguita per ciascuna professione a livello nazionale e nel rispetto del principio di non discriminazione.".
 
 Note all'art. 22: 
- - Il testo dell'articolo 23 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 23 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 23 (Tirocinio di adattamento e prova attitudinale). - 1. Nei casi di cui all'articolo 22, la durata e le materie oggetto del tirocinio di adattamento e della prova attitudinale sono stabilite dall'Autorita' competente a seguito della Conferenza di servizi di cui all'articolo 16, se convocata. In caso di valutazione finale sfavorevole il tirocinio puo' essere ripetuto. Gli obblighi, i diritti e i benefici sociali di cui gode il tirocinante sono stabiliti dalla normativa vigente, conformemente al diritto comunitario applicabile. 
  2. La prova attitudinale si articola in una prova scritta o pratica e orale o in una prova orale sulla base dei contenuti delle materie stabilite ai sensi del comma 1.
  In caso di esito sfavorevole o di mancata presentazione dell'interessato senza valida giustificazione, la prova attitudinale non puo' essere ripetuta prima di sei mesi. 
@@ -713,10 +713,10 @@ Note all'art. 22:
 
 1.
 
-All'[articolo 24, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "decreto del Ministro competente ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988 n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)" sono sostituite dalle seguenti: "provvedimento dell'Autorita' competente".
+All'[articolo 24, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "decreto del Ministro competente ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988 n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)" sono sostituite dalle seguenti: "provvedimento dell'Autorita' competente".
 
 Note all'art. 23: 
- - Il testo dell'articolo 24 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 24 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 24 (Esecuzione delle misure compensative). - 1.
  Con riferimento all'articolo 5, comma 1, provvedimento dell'Autorita' competente, sono definite, con riferimento alle singole professioni, le procedure necessarie per assicurare lo svolgimento, la conclusione, l'esecuzione e la valutazione delle misure di cui agli articoli 23 e 11.
 
@@ -724,15 +724,15 @@ Note all'art. 23:
 
 1.
 
-All'[articolo 25, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo le parole: "delle misure previste" sono inserite le seguenti: "dagli articoli da 5-bis a 5-sexies, nonche'".
+All'[articolo 25, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo le parole: "delle misure previste" sono inserite le seguenti: "dagli articoli da 5-bis a 5-sexies, nonche'".
 
 Note all'art. 24: 
- - Il testo dell'articolo 25 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 25 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 25 (Disposizioni finanziarie). - 1. Gli eventuali oneri aggiuntivi derivanti dall'attuazione delle misure previste dagli articoli da 5-bis a cinque-sexies, nonche' dagli articoli 11 e 23 sono a carico dell'interessato sulla base del costo effettivo del servizio, secondo modalita' da stabilire con decreto del Ministro competente da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto.".
 
 ## Art. 25. — Abrogazioni
 
-Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono abrogati: 
+Al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono abrogati: 
  a) l'articolo 26; 
  b) gli allegati II e III.
 
@@ -740,7 +740,7 @@ Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuaz
 
 1.
 
-All'[articolo 31 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 31 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: "agli articoli 33, 34, 38, 41, 42, 44, 46 e 50," sono sostituite dalle seguenti: "agli articoli 33, 34, 38, 41, 42, 44, 50 e 52,";
                         b)
@@ -758,7 +758,7 @@ All'[articolo 31 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
                             dopo il comma 11 e' inserito il seguente: "11-bis. Il Ministero dell'istruzione, dell'universita' e della ricerca e il Ministero della salute, ciascuno per le professioni di propria competenza, comunicano alla Commissione europea le misure adottate per assicurare l'aggiornamento professionale continuo ai professionisti le cui qualifiche rientrano nell'ambito di applicazione del capo IV, garantendo cosi' la possibilita' di aggiornare le rispettive conoscenze, abilita' e competenze per mantenere prestazioni professionali sicure ed efficaci nonche' tenersi al passo con i progressi della professione.".
 
 Note all'art. 26: 
- - Il testo dell'articolo 31 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 31 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 31 (Principio di riconoscimento automatico). - 1.
  I titoli di formazione di medico, che danno accesso alle attivita' professionali di medico con formazione di base e medico specialista, infermiere responsabile dell'assistenza generale, odontoiatra, odontoiatra specialista, veterinario, farmacista e architetto, di cui all'allegato V e rispettivamente ai punti 5.1.1, 5.1.2, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.6.2 e 5.7.1, conformi alle condizioni minime di formazione di cui rispettivamente agli articoli 33, 34, 38, 41, 42, 44, 50 e 52, rilasciati a cittadini di cui all'articolo 2, comma 1, da altri Stati membri, sono riconosciuti dalle autorita' di cui all'articolo 5 con gli stessi effetti dei titoli rilasciati in Italia per l'accesso, rispettivamente, all'attivita' di medico chirurgo, medico chirurgo specialista, infermiere responsabile dell'assistenza generale, odontoiatra, odontoiatra specialista, veterinario, farmacista e architetto. 
  2. I titoli di formazione di cui al comma 1 devono essere rilasciati dalle autorita' competenti degli altri Stati membri e essere accompagnati dai certificati di cui all'allegato V e rispettivamente ai punti 5.1.1, 5.1.2, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.6.2 e 5.7.1. 
@@ -779,10 +779,10 @@ Note all'art. 26:
 
 1.
 
-All'[articolo 33, comma 3, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "di sei anni o un minimo di" sono sostituite dalle seguenti: "di cinque anni di studio complessivi, che possono essere espressi in aggiunta anche in crediti ECTS equivalenti, consistenti in almeno".
+All'[articolo 33, comma 3, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "di sei anni o un minimo di" sono sostituite dalle seguenti: "di cinque anni di studio complessivi, che possono essere espressi in aggiunta anche in crediti ECTS equivalenti, consistenti in almeno".
 
 Note all'art. 27: 
- - Il testo dell'articolo 33 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
+ - Il testo dell'articolo 33 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
  " Art. 33 (Formazione dei medici chirurghi). - 1.
  L'ammissione alla formazione di medico chirurgo e' subordinata al possesso del diploma di scuola secondaria superiore, che dia accesso, per tali studi, alle universita'. 
  2. La formazione di medico chirurgo garantisce l'acquisizione da parte dell'interessato delle seguenti conoscenze e competenze: 
@@ -798,14 +798,14 @@ Note all'art. 27:
 
 1.
 
-All'[articolo 34 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 34 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, la parola: "sei" e' sostituita dalla seguente: "cinque";
                         b)
                             dopo il comma 3 e' inserito il seguente: "3-bis. Ai fini del conseguimento di un titolo di medico specialista possono essere previste esenzioni parziali per alcune parti dei corsi di formazione medica specialistica, elencati al punto 5.1.3 dell'allegato V, a condizione che dette parti siano gia' state seguite in un altro corso di specializzazione figurante nell'elenco di cui al punto 5.1.3 dell'allegato V per il quale il professionista abbia gia' ottenuto la qualifica professionale in uno Stato membro. L'esenzione non puo' superare la meta' della durata minima del corso di formazione medica specialistica in questione. Il Ministero della salute, per il tramite del Dipartimento delle politiche europee della Presidenza del Consiglio dei ministri, notifica alla Commissione e agli altri Stati membri la legislazione nazionale applicabile in materia per ognuna delle citate esenzioni parziali.".
 
 Note all'art. 28: 
- - Il testo dell'articolo 34 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
+ - Il testo dell'articolo 34 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
  "Art. 34 (Formazione medica specialistica e denominazione medica specialistica). - 1. L'ammissione alla formazione medica specializzata e' subordinata al compimento e alla convalida di cinque anni di studi nel quadro del ciclo di formazione di cui all'articolo 33 durante i quali sono state acquisite appropriate conoscenze di medico chirurgo. 
  2. La formazione che permette di ottenere un diploma di medico chirurgo specialista nelle specializzazioni indicate nell'allegato V, punti 5.1.2, 5.1.3 risponde ai seguenti requisiti: 
  a) presupporre il conferimento e validita' del titolo conseguito a seguito di un ciclo di formazione di cui all'articolo 33 nel corso del quale siano state acquisite adeguate conoscenze nel campo della medicina di base; 
@@ -820,10 +820,10 @@ Note all'art. 28:
 
 1.
 
-All'[articolo 35 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 3 e' aggiunto il seguente: "3-bis. Il Ministero della salute, previi opportuni accertamenti, attesta il possesso delle qualifiche di medico specialista acquisite in Italia ed elencate ai punti 5.1.2 e 5.1.3 dell'allegato V, a chi ha iniziato la formazione specialistica in Italia dopo il 31 dicembre 1983 e prima del 1° gennaio 1991. L'attestato deve certificare che il medico specialista interessato ha effettivamente e in maniera legale esercitato l'attivita' di medico specialista in Italia, nella stessa area specialistica in questione, per almeno sette anni consecutivi durante i dieci anni che precedono il conferimento dell'attestato.".
+All'[articolo 35 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 3 e' aggiunto il seguente: "3-bis. Il Ministero della salute, previi opportuni accertamenti, attesta il possesso delle qualifiche di medico specialista acquisite in Italia ed elencate ai punti 5.1.2 e 5.1.3 dell'allegato V, a chi ha iniziato la formazione specialistica in Italia dopo il 31 dicembre 1983 e prima del 1° gennaio 1991. L'attestato deve certificare che il medico specialista interessato ha effettivamente e in maniera legale esercitato l'attivita' di medico specialista in Italia, nella stessa area specialistica in questione, per almeno sette anni consecutivi durante i dieci anni che precedono il conferimento dell'attestato.".
 
 Note all'art. 29: 
- - Il testo dell'articolo 35 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
+ - Il testo dell'articolo 35 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
  "Art. 35 (Diritti acquisiti specifici dei medici specialisti). - 1. I cittadini di cui all'articolo 2, comma 1, in possesso di un diploma di medico specialista di cui all'allegato V, punti 5.1.2 e 5.1.3 conseguito in un altro Stato membro, la cui formazione medico specialistica, svolta secondo le modalita' del tempo parziale, era disciplinata da disposizioni legislative, regolamentari e amministrative vigenti alla data del 20 giugno 1975, che hanno iniziato la loro formazione di specialisti entro il 31 dicembre 1983, possono ottenere il riconoscimento del loro titolo di medico specialista, purche' detto titolo di specializzazione sia accompagnato da un attestato rilasciato dall'autorita' competente dello Stato membro presso cui e' stato conseguito il titolo che certifichi l'effettivo e lecito esercizio da parte degli interessati dell'attivita' specialistica in questione per almeno tre anni consecutivi nei cinque precedenti il rilascio dell'attestato. 
  2. E' riconosciuto il titolo di medico specialista rilasciato in Spagna ai medici, cittadini di cui all'articolo 2, comma 1, che hanno completato una formazione specialistica prima del 1° gennaio 1995 anche se tale formazione non soddisfa i requisiti minimi di formazione di cui all'articolo 34, se ad esso si accompagna un certificato rilasciato dalle competenti autorita' spagnole attestante che gli interessati hanno superato la prova di competenza professionale specifica organizzata nel contesto delle misure eccezionali di regolarizzazione di cui al decreto reale 1497/99, al fine di verificare se detti interessati possiedono un livello di conoscenze e di competenze comparabile a quello dei medici che possiedono titoli di medico specialista menzionati per la Spagna, all'allegato V, punti 5.1.2 e 5.1.3. 
  3. Laddove siano state abrogate le disposizioni legislative, regolamentari o amministrative sul rilascio dei titoli di formazione di medico specialista di cui all'allegato V, punti 5.1.2 e 5.1.3, e siano stati adottati a favore dei cittadini italiani provvedimenti sui diritti acquisiti, e' riconosciuto ai cittadini degli altri Stati membri in possesso di un titolo di medico specialista conseguito in un Paese dell'Unione il diritto di beneficiare delle stesse misure, purche' i titoli di formazione specialistica in loro possesso siano stati rilasciati dallo Stato di provenienza prima della data a partire dalla quale l'Italia ha cessato di rilasciare i titoli di formazione per la specializzazione interessata.
@@ -834,7 +834,7 @@ Note all'art. 29:
 
 1.
 
-All'[articolo 38 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 38 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: 
  "1. L'ammissione alla formazione di infermiere responsabile dell'assistenza generale e' subordinata: 
@@ -865,7 +865,7 @@ All'[articolo 38 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  h) la competenza di analizzare la qualita' dell'assistenza in un'ottica di miglioramento della propria pratica professionale come infermiere responsabile dell'assistenza generale.".
 
 Note all'art. 30: 
- - Il testo dell'articolo 38 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
+ - Il testo dell'articolo 38 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
  " Art. 38 (Formazione d'infermiere responsabile dell'assistenza generale). - 1. L'ammissione alla formazione di infermiere responsabile dell'assistenza generale e' subordinata: 
  a) al completamento di una formazione scolastica generale di dodici anni sancita da un diploma, attestato o altro titolo rilasciato da autorita' od organi competenti di uno Stato membro, o da un certificato attestante il superamento di un esame di livello equivalente che dia accesso all'universita' o a istituti di insegnamento superiore di un livello riconosciuto come equivalente; o 
  b) al completamento di una formazione scolastica generale di almeno dieci anni sancita da un diploma, attestato o altro titolo rilasciato da autorita' od organi competenti di uno Stato membro, o da un certificato attestante il superamento di un esame di livello equivalente che dia accesso alle scuole professionali o ai programmi di formazione professionale per infermieri. 
@@ -894,7 +894,7 @@ Note all'art. 30:
 
 1.
 
-All'[articolo 40 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 40 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             i commi 2, 3 e 4 sono soppressi;
                         b)
@@ -909,7 +909,7 @@ All'[articolo 40 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  c) "Diploma de licenţa de asistent medical generalist" conseguito a seguito di corso di laurea specialistica, da cui si evinca che la formazione e' iniziata prima del 1° ottobre 2003.".
 
 Note all'art. 31: 
- - Il testo dell'articolo 40 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 40 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 40 (Diritti acquisiti specifici agli infermieri responsabili dell'assistenza generale). - 1. Se agli infermieri responsabili dell'assistenza generale si applicano le norme generali sui diritti acquisiti, le attivita' da essi svolte devono comprendere la piena responsabilita' della programmazione, organizzazione e somministrazione delle cure infermieristiche ai pazienti. 
  1-bis. Ai cittadini di cui all'articolo 2, comma 1, allo scopo di verificare che gli infermieri interessati siano in possesso di un livello di conoscenza e di competenza paragonabile a quello degli infermieri in possesso delle qualifiche di cui alla lista per la Polonia, al punto 5.2.2 dell'allegato V, sono riconosciuti i titoli di infermiere: 
  a) rilasciati in Polonia agli infermieri che abbiano completato anteriormente al 1o maggio 2004 la corrispondente formazione che non soddisfa i requisiti minimi di formazione di cui all'articolo 31; 
@@ -928,10 +928,10 @@ Note all'art. 31:
 
 1.
 
-All'[articolo 41, comma 2, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo le parole: "a tempo pieno" sono inserite le seguenti: "che possono essere espressi in aggiunta anche in crediti ECTS equivalenti e consiste in almeno 5.000 ore di insegnamento".
+All'[articolo 41, comma 2, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo le parole: "a tempo pieno" sono inserite le seguenti: "che possono essere espressi in aggiunta anche in crediti ECTS equivalenti e consiste in almeno 5.000 ore di insegnamento".
 
 Note all'art. 32: 
- - Il testo dell'articolo 41 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 41 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 41 (Formazione dell'odontoiatra). - 1.
  L'ammissione alla formazione di odontoiatra e' subordinata al possesso di un diploma di scuola secondaria superiore che dia accesso, per tali studi, alle universita'. 
  2. La formazione dell'odontoiatra comprende un percorso di studi teorici e pratici della durata minima di cinque anni svolti a tempo pieno che possono essere espressi in aggiunta anche in crediti ECTS equivalenti e consiste in almeno 5.000 ore di insegnamento. Il programma di studi, che permette il conseguimento del diploma di laurea in odontoiatria e protesi dentaria, corrisponde almeno a quello di cui all'allegato V, punto 5.3.1. Detti studi sono effettuati presso un'universita' o sotto il controllo di un'universita'. 
@@ -948,7 +948,7 @@ Note all'art. 32:
 
 1.
 
-All'[articolo 43 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 6 sono aggiunti i seguenti: 
+All'[articolo 43 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo il comma 6 sono aggiunti i seguenti: 
  "6-bis. I titoli ufficiali di formazione di odontoiatra, ottenuti in uno Stato membro, sono riconosciuti, a norma dell'articolo 31 del presente decreto, ai cittadini di cui all'articolo 2, comma 1, se hanno iniziato la propria formazione anteriormente al 18 gennaio 2016. 
  6-ter. Ai cittadini di cui all'articolo 2, comma 1, sono riconosciuti i titoli di formazione inmedicina rilasciati in Spagna ai professionisti che hanno iniziato la formazione universitaria in medicina tra il 1° gennaio 1986 e il 31 dicembre 1997, purche' accompagnati da un attestato rilasciato dalle competenti autorita' spagnole. Detto attestato deve confermare il rispetto delle tre condizioni che seguono: 
  a) il professionista interessato ha concluso proficuamente almeno tre anni di studio, certificato dalle competenti autorita' spagnole come equivalenti alla formazione di cui all'articolo 41; 
@@ -956,7 +956,7 @@ All'[articolo 43 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  c) il professionista in questione e' autorizzato a esercitare o esercita effettivamente, in maniera legale e a titolo principale le attivita' di cui all'articolo 41, comma 4, alle stesse condizioni dei titolari del titolo di formazione indicato per la Spagna all'allegato V, punto 5.3.2.".
 
 Note all'art. 33: 
- - Il testo dell'articolo 43 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 43 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 43 (Diritti acquisiti specifici degli odontoiatri). - 1. Ai fini dell'esercizio dell'attivita' professionale di odontoiatra di cui all'allegato V, punto 5.3.2, ai cittadini di cui all'articolo 2, comma 1, in possesso di un titolo di medico rilasciato in Spagna, Austria, Repubblica Ceca, Slovacchia e Romania, che hanno iniziato la formazione in medicina entro la data indicata per ciascuno dei suddetti Stati nell'allegato V, punto 5.3.2, e' riconosciuto il titolo di formazione di medico purche' accompagnato da un attestato rilasciato dalla autorita' competente dello Stato di provenienza. 
  2. Detto attestato deve certificare il contestuale rispetto delle sottoelencate condizioni: 
  a) che tali cittadini hanno esercitato effettivamente, lecitamente e a titolo principale nello Stato di provenienza l'attivita' professionale di odontoiatra, per almeno tre anni consecutivi nel corso dei cinque precedenti il rilascio dell'attestato; 
@@ -979,7 +979,7 @@ Note all'art. 33:
 
 1.
 
-All'[articolo 44 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 44 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2, dopo le parole: "a tempo pieno," sono inserite le seguenti: "che possono essere in aggiunta anche espressi in crediti ECTS equivalenti,";
                         b)
@@ -996,7 +996,7 @@ All'[articolo 44 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  8) le lettere g) ed h) sono abrogate.
 
 Note all'art. 34: 
- - Il testo dell'articolo 44 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 44 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  " Art. 44 (Formazione del medico veterinario). - 1.
  L'ammissione alla formazione del medico veterinario e' subordinata al possesso di un diploma di scuola secondaria superiore che dia accesso, per tali studi, alle Universita'. 
  2. Il diploma di laurea in medicina veterinaria si consegue a seguito di un corso di studi universitari teorici e pratici, della durata minima di cinque anni, svolti a tempo pieno, che possono essere in aggiunta anche espressi in crediti ECTS equivalenti, effettuati presso un'universita' o sotto il controllo di un'universita'. 
@@ -1015,7 +1015,7 @@ Note all'art. 34:
 
 1.
 
-All'[articolo 46 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 46 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2, lettera a), la parola: "dieci" e' sostituita dalla seguente: "dodici" e dopo le parole: "formazione scolastica generale" sono inserite le seguenti: "o possesso di un certificato che attesti il superamento di un esame, di livello equivalente, per l'ammissione a una scuola di ostetricia";
                         b)
@@ -1026,7 +1026,7 @@ All'[articolo 46 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  4) alla lettera e), le parole: "la necessaria comprensione" sono sostituite dalle seguenti: "una comprensione adeguata".
 
 Note all'art. 35: 
- - Il testo dell'articolo 46 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
+ - Il testo dell'articolo 46 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto cosi' recita: 
  "Art. 46 (Formazione di ostetrica). - 1. La formazione di ostetrica comprende almeno una delle formazioni che seguono: a) una formazione specifica a tempo pieno di ostetrica di almeno 3 anni di studi teorici e pratici (possibilita' I) vertente almeno sul programma di cui all'allegato V, punto 5.5.1.; b) una formazione specifica a tempo pieno di ostetrica di 18 mesi (possibilita' II), vertente almeno sul programma di cui all'allegato V, punto 5.5.1 le cui materie non siano comprese in un insegnamento equivalente per la formazione di infermiere responsabile dell'assistenza generale. L'ente incaricato della formazione delle ostetriche e' responsabile del coordinamento tra teoria e pratica per tutto il programma di studi. 
  2. L'accesso alla formazione di ostetrica e' subordinato a una delle condizioni che seguono: 
  a) compimento almeno dei primi dodici anni di formazione scolastica generale, o possesso di un certificato che attesti il superamento di un esame, di livello equivalente, per l'ammissione a una scuola di ostetricia per la possibilita' I, o 
@@ -1042,7 +1042,7 @@ Note all'art. 35:
 
 1.
 
-All'[articolo 47, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 47, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera a) e' sostituita dalla seguente: "a) una formazione a tempo pieno di ostetrica di almeno tre anni, che possono essere anche espressi, in aggiunta, in crediti ECTS equivalenti, consistente in almeno 4.600 ore di formazione teorica e pratica, di cui almeno un terzo della durata minima in pratica clinica diretta;";
                         b)
@@ -1051,7 +1051,7 @@ All'[articolo 47, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../D
                             alla lettera c), la parola: "o" e' sostituita dalle seguenti: "che possono essere anche espressi, in aggiunta, in crediti ECTS equivalenti, consistente in almeno".
 
 Note all'art. 36: 
- - Il testo dell'articolo 47 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 47 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 47 (Condizioni per il riconoscimento del titolo di formazione di ostetrica). - 1. I titoli di formazione di ostetrica di cui all'allegato V, punto 5.5.2, beneficiano del riconoscimento automatico ai sensi dell'articolo 31 se soddisfano uno dei seguenti requisiti: 
  a) una formazione a tempo pieno di ostetrica di almeno tre anni, che possono essere anche espressi, in aggiunta, in crediti ECTS equivalenti, consistente in almeno 4.600 ore di formazione teorica e pratica, di cui almeno un terzo della durata minima in pratica clinica diretta; 
  b) una formazione a tempo pieno di ostetrica di almeno due anni che possono essere anche espressi, in aggiunta, in crediti ECTS equivalenti, consistenti in almeno 3.600 ore subordinata al possesso di un titolo di formazione d'infermiere responsabile dell'assistenza generale di cui all'allegato V, punto 5.2.2; 
@@ -1062,10 +1062,10 @@ Note all'art. 36:
 
 1.
 
-All'[articolo 48, comma 2, lettera b), del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "diagnosticata come" e le parole: "da un soggetto abilitato alla professione medica" sono soppresse.
+All'[articolo 48, comma 2, lettera b), del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), le parole: "diagnosticata come" e le parole: "da un soggetto abilitato alla professione medica" sono soppresse.
 
 Note all'art. 37: 
- - Il testo dell'articolo 48 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 48 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 48 (Esercizio delle attivita' professionali di ostetrica). - 1. Le disposizioni della presente sezione si applicano alle attivita' di ostetrica come definite dalla legislazione vigente, fatto salvo il comma 2, ed esercitate con i titoli professionali di cui all'allegato V, punto 5.5.2. 
  2. Le ostetriche sono autorizzate all'esercizio delle seguenti attivita': 
  a) fornire una buona informazione e dare consigli per quanto concerne i problemi della pianificazione familiare; 
@@ -1084,7 +1084,7 @@ Note all'art. 37:
 
 1.
 
-All'[articolo 49 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 49 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             dopo il comma 1 e' inserito il seguente: "1-bis. Ai cittadini di cui all'articolo 2, comma 1, in possesso dei titoli di formazione in ostetricia, sono riconosciute automaticamente le qualifiche professionali se il richiedente ha iniziato la formazione prima del 18 gennaio 2016 e i criteri di ammissione prevedevano all'epoca dieci anni di formazione scolastica generale o un livello equivalente, per la possibilita' I, oppure ha completato la formazione come infermiere responsabile dell'assistenza generale confermato da un titolo di formazione di cui all'allegato V, punto 5.2.2, prima di iniziare la formazione in ostetricia, nell'ambito della possibilita' II.";
                         b)
@@ -1095,7 +1095,7 @@ All'[articolo 49 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  b) all'articolo 53, paragrafo 3, della legge del 15 luglio 2011 relativa alle professioni di infermiere e ostetrica (Gazzetta Ufficiale della Repubblica di Polonia del 2011, n. 174, pag. 1039) e al regolamento del Ministro della sanita' del 14 giugno 2012 sulle condizioni dettagliate riguardanti i corsi di insegnamento universitario impartiti agli infermieri e alle ostetriche, che sono titolari di un certificato di scuola secondaria (esame finale - maturita') e che hanno conseguito un diploma di infermiere e di ostetrica presso una scuola medica secondaria o un istituto di studi superiori per l'insegnamento di una professione di infermiere e ostetrica (Gazzetta Ufficiale della Repubblica di Polonia del 2012, pag. 770).".
 
 Note all'art. 38: 
- - Il testo dell'articolo 49 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 49 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 49 (Diritti acquisiti specifici alle ostetriche).
  - 1. Viene riconosciuta come prova sufficiente per i cittadini degli altri Stati membri dell'Unione europea, i cui titoli di formazione in ostetricia soddisfano tutti i requisiti minimi di formazione di cui all'articolo 46 ma, ai sensi dell'articolo 47, sono riconoscibili solo se accompagnati dall'attestato di pratica professionale di cui al suddetto articolo 47, comma 2, i titoli di formazione rilasciati dagli Stati membri prima della data di riferimento di cui all'allegato V, punto 5.5.2, accompagnati da un attestato che certifichi l'effettivo e lecito esercizio da parte di questi cittadini delle attivita' in questione per almeno due anni consecutivi nei cinque che precedono il rilascio dell'attestato. 
  1 bis. Ai cittadini di cui all'articolo 2, comma 1, in possesso dei titoli di formazione in ostetricia, sono riconosciute automaticamente le qualifiche professionali se il richiedente ha iniziato la formazione prima del 18 gennaio 2016 e i criteri di ammissione prevedevano all'epoca dieci anni di formazione scolastica generale o un livello equivalente, per la possibilita' I, oppure ha completato la formazione come infermiere responsabile dell'assistenza generale confermato da un titolo di formazione di cui all'allegato V, punto 5.2.2, prima di iniziare la formazione in ostetricia, nell'ambito della possibilita' II. 
@@ -1110,14 +1110,14 @@ Note all'art. 38:
 
 1.
 
-All'[articolo 50 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 50 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 2: 
  1) dopo le parole: "almeno cinque anni" sono inserite le seguenti: "che puo' essere anche espressa in aggiunta in crediti ECTS equivalenti,"; 
  2) alla lettera b) prima delle parole: "sei mesi di tirocinio" sono inserite le seguenti: "durante o al termine della formazione teorica e pratica,".
 
 Note all'art. 39: 
- - Il testo dell'articolo 50 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 50 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 50 (Formazione di farmacista). - 1. L'ammissione alla formazione di farmacista e' subordinata al possesso di un diploma di scuola secondaria superiore che dia accesso, per tali studi, alle universita'. 
  2. Il titolo di formazione di farmacista sancisce una formazione della durata di almeno cinque anni, che puo' essere anche espressa in aggiunta in crediti ECTS equivalenti, di cui almeno: a) quattro anni d'insegnamento teorico e pratico a tempo pieno in una universita', un istituto superiore di livello riconosciuto equivalente o sotto la sorveglianza di una universita'; b) durante o al termine della formazione teorica e pratica, sei mesi di tirocinio in una farmacia aperta al pubblico o in un ospedale sotto la sorveglianza del servizio farmaceutico di quest'ultimo. Tale ciclo di formazione verte almeno sul programma di cui all'allegato V, punto 5.6.1. 
  3. La formazione di farmacista garantisce l'acquisizione da parte dell'interessato delle sottoelencate conoscenze e competenze: 
@@ -1131,7 +1131,7 @@ Note all'art. 39:
 
 1.
 
-All'[articolo 51, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 51, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             la lettera e) e' sostituita dalla seguente: "e) approvvigionamento, preparazione, controllo, immagazzinamento, distribuzione e consegna di medicinali sicuri e di qualita' nelle farmacie aperte al pubblico;";
                         b)
@@ -1143,7 +1143,7 @@ All'[articolo 51, comma 1, del decreto legislativo 9 novembre 2007, n. 206](../D
  g-quater) contributo a campagne istituzionali di sanita' pubblica.".
 
 Note all'art. 40: 
- - Il testo dell'articolo 51 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 51 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 51 (Esercizio delle attivita' professionali di farmacista). - 1. I titolari del titolo di formazione universitaria di farmacista, corredato del diploma di abilitazione all'esercizio della professione di cui allegato V, punto 5.6.2, che soddisfi le condizioni di formazione di cui all'articolo 50, sono autorizzati ad accedere e ad esercitare almeno le sottoelencate attivita', fermo restando le disposizioni che prevedono, nell'ordinamento nazionale, ulteriori requisiti per l'esercizio delle stesse: 
  a) preparazione della forma farmaceutica dei medicinali; 
  b) fabbricazione e controllo dei medicinali; 
@@ -1160,7 +1160,7 @@ Note all'art. 40:
 
 1.
 
-All'[articolo 52 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 52 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: 
  "1. La formazione di un architetto prevede alternativamente: 
@@ -1184,7 +1184,7 @@ All'[articolo 52 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  1-quater. Il tirocinio professionale di cui al comma 1, lettera b), deve aver luogo solo dopo il completamento dei primi tre anni di insegnamento accademico. Almeno un anno del tirocinio professionale deve fare riferimento alle conoscenze, abilita' e competenze acquisite nel corso dell'insegnamento di cui al comma 1-bis. A tal fine il tirocinio professionale deve essere effettuato sotto la supervisione di un professionista o di un organismo professionale autorizzato dall'autorita' competente di cui all'articolo 5. Detto tirocinio puo' essere anche effettuato in un altro Stato membro a condizione che si attenga alle linee guida sul tirocinio pubblicate dal Ministero dell'istruzione, dell'universita' e della ricerca. Il tirocinio professionale e' valutato dall'autorita' competente di cui all'articolo 5.".
 
 Note all'art. 41: 
- - Il testo dell'articolo 52 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 52 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 52 (Formazione di architetto). - 1. La formazione di un architetto prevede alternativamente: 
  a) almeno cinque anni di studi a tempo pieno, in un'universita' o un istituto di insegnamento comparabile, sanciti dal superamento di un esame di livello universitario; 
  b) non meno di quattro anni di studi a tempo pieno, in un'universita' o un istituto di insegnamento comparabile, sanciti dal superamento di un esame di livello universitario, accompagnati da un attestato che certifica il completamento di due anni di tirocinio professionale a norma del comma 4. 
@@ -1207,14 +1207,14 @@ Note all'art. 41:
 
 1.
 
-All'[articolo 53 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 53 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             i commi 1 e 2 sono abrogati;
                         b)
                             al comma 3 le parole: "soddisfare l'articolo" sono sostituite dalle seguenti: "soddisfacente ai sensi dell'articolo" e, al secondo periodo, le parole: "a quello di fine di studi di cui all'articolo 52, comma 1" sono sostituite dalle seguenti: "all'esame finale di cui all'articolo 52, comma 1, lettera b).".
 
 Note all'art. 42: 
- - Il testo dell'articolo 53 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 53 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 53 (Deroghe alle condizioni della formazione di architetto). - 1. (abrogato). 
  2. (abrogato). 
  3. In deroga all'articolo 52, e' riconosciuta soddisfacente ai sensi dell'articolo 31 anche la formazione acquisita nel quadro della promozione sociale o di studi universitari a tempo parziale, nonche' la formazione sancita dal superamento di un esame in architettura da parte di chi lavori da sette anni o piu' nel settore dell'architettura sotto il controllo di un architetto o di un ufficio di architetti. L'esame deve essere di livello universitario ed equivalente all'esame finale di cui all'articolo 52, comma 1, lettera b).".
@@ -1223,7 +1223,7 @@ Note all'art. 42:
 
 1.
 
-All'[articolo 55 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
+All'[articolo 55 del decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: "I titoli di formazione" sono sostituite dalle seguenti: "Sono riconosciuti i titoli di formazione" e le parole: "all'articolo 47" sono sostituite dalle seguenti: "all'articolo 52";
                         b)
@@ -1239,7 +1239,7 @@ All'[articolo 55 del decreto legislativo 9 novembre 2007, n. 206](../Decreti%20L
  2-quater. Ai fini dell'accesso e dell'esercizio delle attivita' professionali di architetto, sono riconosciuti titoli di completamento della formazione vigente al 5 agosto 1985 e iniziata non oltre il 17 gennaio 2014, impartita da «Fachhochschulen» nella Repubblica federale di Germania per un periodo di tre anni, conforme ai requisiti di cui all'articolo 52, comma 2, e idonea all'accesso alle attivita' esercitate in detto Stato membro con il titolo professionale di «architetto» purche' la formazione sia completata da un periodo di esperienza professionale di 4 anni, nella Repubblica federale di Germania, attestato da un certificato rilasciato dall'autorita' competente cui e' iscritto l'architetto che desidera beneficiare delle disposizioni del presente decreto.".
 
 Note all'art. 43: 
- - Il testo dell'articolo 55 del citato [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'articolo 55 del citato [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), come modificato dal presente decreto, cosi' recita: 
  "Art. 55 (Diritti acquisiti specifici degli architetti). - 1. Sono riconosciuti i titoli di formazione di architetto, di cui all'allegato VI, punto 6, rilasciati dagli Stati membri, che sanciscono una formazione iniziata entro l'anno accademico di riferimento di cui al suddetto allegato, anche se non soddisfano i requisiti minimi di cui all'articolo 52, attribuendo loro ai fini dell'accesso e dell'esercizio delle attivita' professionali di architetto, lo stesso effetto sul suo territorio dei titoli di formazione di architetto che esso rilascia. 
  1-bis. Il comma 1 si applica, inoltre, ai titoli di formazione di architetto di cui all'allegato V, qualora la formazione abbia avuto inizio prima del 18 gennaio 2016. 
  2. Sono riconosciuti gli attestati delle autorita' competenti della Repubblica federale di Germania che sanciscono la rispettiva equivalenza tra i titoli di formazione rilasciati a partire dell'8 maggio 1945 dalle autorita' competenti della Repubblica democratica tedesca e quelli al suddetto allegato. 
@@ -1255,7 +1255,7 @@ Note all'art. 43:
 
 1.
 
-Al titolo III del [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 58 e' inserito il seguente Capo: 
+Al titolo III del [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 58 e' inserito il seguente Capo: 
  "Capo IV-bis 
  RICONOSCIMENTO AUTOMATICO SULLA BASE DI PRINCIPI DI FORMAZIONE COMUNI 
  Art. 58-bis (Quadro comune di formazione) - 1. Si definisce quadro comune di formazione l'insieme delle conoscenze, abilita' e competenze minime necessarie per l'esercizio di una determinata professione. 
@@ -1276,14 +1276,14 @@ Al titolo III del [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Leg
  5. L'elenco degli Stati membri in cui devono essere organizzate le prove di formazione comuni di cui al comma 2, la frequenza nel corso dell'anno e altri dettagli necessari all'organizzazione di prove di formazione comuni sono contenuti nel regolamento di esecuzione della Commissione sulle prove di formazione comuni adottato ai sensi dell'[articolo 49-ter, paragrafo 6, della direttiva 2013/55/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2013;55).".
 
 Note all'art. 44: 
- - Per i riferimenti al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), si veda nella note alle premesse.
+ - Per i riferimenti al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), si veda nella note alle premesse.
 
 ## Art. 45. — Introduzione degli articoli 59-bis e 59-ter nel decreto legislativo 9 novembre 2007, n. 206
 
 1.
 
-Al [decreto legislativo 9 novembre 2007, n. 206](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 59 sono inseriti i seguenti: 
- "Art. 59-bis (Accesso centralizzato online alle informazioni). - 1. Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e che siano regolarmente aggiornate: 
+Al [decreto legislativo 9 novembre 2007, n. 206](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-36-CE%20relativa%20al%20riconoscimento%20delle%20qualifiche%20professionali%20nonche%20della%20direttiva%202006-100-CE%20che%20adegua%20determinate%20direttive%20sulla%20libera%20circolazio_265d57eea7eb.md), dopo l'articolo 59 sono inseriti i seguenti: 
+ "Art. 59-bis (Accesso centralizzato online alle informazioni). - 1. Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'[articolo 25 del decreto legislativo 26 marzo 2010, n. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), e che siano regolarmente aggiornate: 
  a) l'elenco di tutte le professioni regolamentate, che reca gli estremi delle autorita' competenti per ciascuna professione regolamentata e dei centri di assistenza di cui all'articolo 6; 
  b) l'elenco delle professioni per le quali e' disponibile una tessera professionale europea, con indicazione delle modalita' di funzionamento della tessera, compresi i diritti a carico dei professionisti e delle autorita' competenti per il rilascio; 
  c) l'elenco di tutte le professioni per le quali si applica l'articolo 11; 

@@ -94,7 +94,7 @@ Sezione IV
 
 ### Art. 16.
 
-PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
+PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
 
 ------------
 
@@ -112,7 +112,7 @@ Capo II
 
 ### Art. 18.
 
-PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
+PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
 
 ------------
 
@@ -198,7 +198,7 @@ Titolo VI
 
 ### Art. 31.
 
-PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
+PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ((12))
 
 ------------
 

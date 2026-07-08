@@ -209,7 +209,7 @@ Presso il Ministero della sanita' e' costituita la commissione unica del farmaco
                         b)
                             esprimere parere vincolante sul valore terapeutico dei medicinali e sulla compatibilita' finanziaria delle prestazioni farmaceutiche e, a richiesta del Ministro della sanita', parere su tutte le questioni relative alla farmaceutica;
                         c)
-                            dare indicazioni di carattere generale sulla classificazione dei medicinali, secondo il [decreto legislativo 30 dicembre 1992, n. 539](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md).
+                            dare indicazioni di carattere generale sulla classificazione dei medicinali, secondo il [decreto legislativo 30 dicembre 1992, n. 539](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md).
 
 2.
 

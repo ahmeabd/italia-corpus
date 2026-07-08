@@ -18,7 +18,7 @@ Vista la [legge 1 marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE
 
 Vista la [direttiva 2002/25/CE della Commissione del 5 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;25), che modifica la [direttiva 98/18/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;18), relativa alle disposizioni e norme di sicurezza per le navi da passeggeri;
 
-Visto il [decreto legislativo 4 febbraio 2000, n. 45](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md);
+Visto il [decreto legislativo 4 febbraio 2000, n. 45](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 ottobre 2002;
 
@@ -34,7 +34,7 @@ EMANA il seguente decreto legislativo:
 
 ## Art. 1.
 
-1. A decorrere dal 1 gennaio 2003, l'allegato I al [decreto legislativo 4 febbraio 2000, n. 45](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md), e' sostituito dall'allegato al presente decreto, fatte salve le disposizioni per le quali l'allegato stesso prevede una decorrenza diversa.
+1. A decorrere dal 1 gennaio 2003, l'allegato I al [decreto legislativo 4 febbraio 2000, n. 45](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md), e' sostituito dall'allegato al presente decreto, fatte salve le disposizioni per le quali l'allegato stesso prevede una decorrenza diversa.
 
 AVVERTENZA:
 
@@ -66,11 +66,11 @@ AVVERTENZA:
  f) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate dalle direttive da attuare, la disciplina disposta sia pienamente conforme alle prescrizioni delle direttive medesime, tenuto anche conto delle eventuali modificazioni comunque intervenute fino al momento dell'esercizio della delega;
  g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diverse o comunque siano coinvolte le competenze di piu' amministrazioni statali, i decreti legislativi individueranno, attraverso le piu' opportune forme di coordinamento, rispettando i principi di sussidiarieta', differenziazione e adeguatezza e le competenze delle regioni, le procedure per salvaguardare l'unitarieta' dei processi decisionali, la trasparenza, la celerita', l'efficacia e l'economicita' nell'azione amministrativa e la chiara individuazione dei soggetti responsabili.".
  - La [direttiva 98/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;18) e' pubblicata in GUCE n. L 144 del 15 maggio 1998.
- - Il [decreto legislativo 4 febbraio 2000, n. 45](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md), reca: "Attuazione della [direttiva 98/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;18) relativa alle disposizioni e alle norme di sicurezza per le navi da passeggeri adibite a viaggi nazionali".
+ - Il [decreto legislativo 4 febbraio 2000, n. 45](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md), reca: "Attuazione della [direttiva 98/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;18) relativa alle disposizioni e alle norme di sicurezza per le navi da passeggeri adibite a viaggi nazionali".
 
  Note all'[art. 1:
 
- - Per il decreto legislativo 4 febbraio 2000, n. 45](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md), vedi note alle premesse.
+ - Per il decreto legislativo 4 febbraio 2000, n. 45](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-45-CE%20relativa%20alle%20disposizioni%20e%20norme%20di%20sicurezza%20per%20le%20navi%20da%20passeggeri.md), vedi note alle premesse.
  - L'allegato I del citato decreto che, a decorrere dal 1 gennaio 2003 e' sostituito dall'allegato al decreto qui pubblicato, fatte salve le disposizioni per le quali l'allegato stesso prevede una docorrenza diversa, e' il seguente:
 
  "ALLEGATO I (art. 1, comma 1, lettera l);art. 4,comma 3,lettera a) e comma 4,lettere a), b), c), e d); art. 5).

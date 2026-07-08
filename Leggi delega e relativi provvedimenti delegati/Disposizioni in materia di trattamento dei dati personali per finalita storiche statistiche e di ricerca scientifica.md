@@ -87,7 +87,7 @@ Nell'[articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1975, n
 
 ### Art. 9.
 
-((IL [D.LGS. 22 GENNAIO 2004, N. 42](../Decreti%20Legislativi/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 22 GENNAIO 2004, N. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## Trattamenti per scopi statistici e di ricerca scientifica
 

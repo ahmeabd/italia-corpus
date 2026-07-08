@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il secondo comma, della nota marginale all'art. 6 della tariffa allegato A al [decreto Presidenziale 25 giugno 1953, n. 492](../DPR/Nuove%20norme%20sulla%20imposta%20di%20bollo.md), e' sostituito dal seguente:
+Il secondo comma, della nota marginale all'art. 6 della tariffa allegato A al [decreto Presidenziale 25 giugno 1953, n. 492](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulla%20imposta%20di%20bollo.md), e' sostituito dal seguente:
  "Le delegazioni non negoziabili sono soggette alla imposta fissa di lire 200 per ogni foglio, prevista dagli articoli 1 e 2 della presente tariffa. Alla stessa imposta fissa di lire 200 per ogni foglio, da corrispondersi mediante marche con l'osservanza dei limiti e delle condizioni di cui all'art. 10 del decreto, sono soggette le delegazioni rilasciate dai Comuni, Province e da altri Enti pubblici a favore del Ministero del tesoro - Direzioni generali della Cassa depositi e prestiti e degli Istituti di previdenza".
 
 ## Art. 2.

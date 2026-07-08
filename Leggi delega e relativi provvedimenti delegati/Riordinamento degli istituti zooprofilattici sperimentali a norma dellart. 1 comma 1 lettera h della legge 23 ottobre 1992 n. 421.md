@@ -142,7 +142,7 @@ Il direttore generale ha la rappresentanza legale dell'istituto, lo gestisce e n
 
 4.
 
-Il collegio dei revisori dura in carica cinque anni ed e' composto da tre membri, di cui uno designato dalla regione dove l'istituto ha sede legale e scelto tra i revisori contabili iscritti nel registro previsto dall'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), uno designato dal Ministro della sanita' e uno designato dal Ministro del tesoro. (2)
+Il collegio dei revisori dura in carica cinque anni ed e' composto da tre membri, di cui uno designato dalla regione dove l'istituto ha sede legale e scelto tra i revisori contabili iscritti nel registro previsto dall'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), uno designato dal Ministro della sanita' e uno designato dal Ministro del tesoro. (2)
 
 5.
 

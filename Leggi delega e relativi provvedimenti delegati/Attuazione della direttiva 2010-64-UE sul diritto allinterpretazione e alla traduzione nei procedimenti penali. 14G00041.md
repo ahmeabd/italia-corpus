@@ -16,7 +16,7 @@ Vista la [direttiva 2010/64/UE del Parlamento europeo e del Consiglio, del 20 ot
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14);
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -38,7 +38,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 104, dopo il comma 4, e' aggiunto il seguente: 
  «4-bis. L'imputato in stato di custodia cautelare, l'arrestato e il fermato, che non conoscono la lingua italiana, hanno diritto all'assistenza gratuita di un interprete per conferire con il difensore a norma dei commi precedenti. Per la nomina dell'interprete si applicano le disposizioni del titolo IV del libro II.»;
@@ -93,7 +93,7 @@ Note all'art. 3:
  g) le spese per la demolizione di opere abusive e la riduzione in pristino dei luoghi; 
  h) le spese straordinarie; 
  i) le spese di mantenimento dei detenuti; 
- i-bis) le spese relative alle prestazioni previste dall'[art. 96 del decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e quelle funzionali all'utilizzo delle prestazioni medesime. 
+ i-bis) le spese relative alle prestazioni previste dall'[art. 96 del decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e quelle funzionali all'utilizzo delle prestazioni medesime. 
  2. Sono spese non ripetibili: 
  a) le indennita' dei magistrati onorari, dei giudici popolari nei collegi di assise e degli esperti; 
  b) le spese relative alle trasferte dei magistrati professionali di corte di assise per il dibattimento tenuto in luogo diverso da quello di normale convocazione. 

@@ -20,7 +20,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la [legge 4 agosto 2022, n. 127](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20normativi%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202021.%2022G00136.md), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti normativi dell'Unione europea - Legge di delegazione europea 2021», e, in particolare, l'articolo 1, comma 1, e l'allegato A, numero 13;
 
-Visto il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), recante «[Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md)»;
+Visto il [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), recante «[Codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md)»;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 16 febbraio 2023;
 
@@ -36,7 +36,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 285, dopo il comma 4, e' aggiunto, in fine, il seguente: 
  «4-bis. La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, un accordo con gli organismi omologhi al Fondo di garanzia per le vittime della strada degli altri Stati membri dell'Unione europea, al fine di dare attuazione alle procedure di rimborso e di rivalsa previste dall'[articolo 10-bis, paragrafo 13, della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;103). L'accordo e' notificato immediatamente alla Commissione europea.»;
@@ -56,10 +56,10 @@ NOTE
  - La [direttiva (UE) 2021/2118 del Parlamento europeo e del Consiglio, del 24 novembre 2021](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2021;2118), recante modifica della [direttiva 2009/103/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;103) concernente l'assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli e il controllo dell'obbligo di assicurare tale responsabilita' e' pubblicata nella G.U.U.E. 2 dicembre 2021, n. L 430. 
  - La [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea, e' pubblicata nella Gazzetta ufficiale della Repubblica italiana n. 3 del 4 gennaio 2013. 
  - La [legge 4 agosto 2022, n. 127](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20normativi%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202021.%2022G00136.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti normativi dell'Unione europea - legge di delegazione europea 2021, e' pubblicata nella Gazzetta ufficiale della Repubblica italiana n. 199 del 26 agosto 2022. 
- - Il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), recante [codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 239 S.O. del 13 ottobre 2005. 
+ - Il [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), recante [codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 239 S.O. del 13 ottobre 2005. 
  
  Note all'art. 1: 
- - Si riporta il testo degli articoli 285 e 296 del citato [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto: 
+ - Si riporta il testo degli articoli 285 e 296 del citato [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto: 
  «Art. 285 (Fondo di garanzia per le vittime della strada). - 1. Il Fondo di garanzia per le vittime della strada e' amministrato, sotto la vigilanza del Ministero dello sviluppo economico, dalla CONSAP con l'assistenza di un apposito comitato. 
  2. Il Ministro dello sviluppo economico disciplina, con regolamento, le condizioni e le modalita' di amministrazione, di intervento e di rendiconto del Fondo di garanzia per le vittime della strada, nonche' la composizione del comitato di cui al comma 1. 
  3. Le imprese autorizzate all'esercizio delle assicurazioni per la responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore e dei natanti sono tenute a versare annualmente alla CONSAP, gestione autonoma del Fondo di garanzia per le vittime della strada, un contributo commisurato al premio incassato per ciascun contratto stipulato in adempimento dell'obbligo di assicurazione. 

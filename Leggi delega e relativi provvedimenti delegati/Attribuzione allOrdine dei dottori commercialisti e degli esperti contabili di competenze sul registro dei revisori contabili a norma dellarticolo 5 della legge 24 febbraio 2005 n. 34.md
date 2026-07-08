@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 5.
 
@@ -61,7 +61,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 6.
 
@@ -72,7 +72,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 7.
 
@@ -83,7 +83,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 8.
 
@@ -94,7 +94,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 9.
 
@@ -105,7 +105,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 10.
 
@@ -116,7 +116,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 11.
 
@@ -127,4 +127,4 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Decreti%20Legislativi/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.Lgs. 23 gennaio 2006, n. 28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzione%20allOrdine%20dei%20dottori%20commercialisti%20e%20degli%20esperti%20contabili%20di%20competenze%20sul%20registro%20dei%20revisori%20contabili%20a%20norma%20dellarticolo%205%20della%20legge%2024%20febbraio%202005%20n.%2034.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
