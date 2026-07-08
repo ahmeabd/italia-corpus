@@ -367,9 +367,9 @@ I clienti finali hanno il diritto a che i contratti di fornitura di energia elet
                         h-ter)
                             ((il prezzo totale e, per i contratti a prezzo fisso a tempo determinato nonche' per quelli a prezzo dinamico, le singole componenti del prezzo;))
                         h-quater)
-                            ((informazioni riguardanti i pagamenti una tantum, le promozioni, i servizi aggiuntivi e gli sconti, se previsti dall'offerta, ivi compresi, nell'offerta relativa a contratti a tempo determinato e a prezzo fisso, le opportunita', i costi e i rischi derivanti dalla stipula di contratti di questo tipo, nonche' la eventuale necessita' di installare un contatore di energia elettrica adeguato»;))
+                            ((informazioni riguardanti i pagamenti una tantum, le promozioni, i servizi aggiuntivi e gli sconti, se previsti dall'offerta, ivi compresi, nell'offerta relativa a contratti a tempo determinato e a prezzo fisso, le opportunita', i costi e i rischi derivanti dalla stipula di contratti di questo tipo, nonche' la eventuale necessita' di installare un contatore di energia elettrica adeguato));
                         h-quinquies)
-                            ((la possibilita' per il cliente finale di avvalersi di una delle associazioni dei consumatori di cui all'elenco dell'articolo 137 del decreto legislativo n. 206 del 2005 che, per finalita' statutarie, operano nella tutela dei consumatori, per la gestione del proprio reclamo ovvero per l'assistenza nelle procedure per la gestione extragiudiziale delle controversie con il fornitore attraverso la conciliazione paritetica ovvero il servizio di conciliazione ARERA e le altre forme di assistenza gratuita previste;))
+                            ((la possibilita' per il cliente finale di avvalersi di una delle associazioni dei consumatori di cui all'elenco dell'articolo 137 del decreto legislativo n. 206 del 2005 che, per finalita' statutarie, operano nella tutela dei consumatori, per la gestione del proprio reclamo ovvero per l'assistenza nelle procedure per la gestione extragiudiziale delle controversie con il fornitore attraverso la conciliazione paritetica ovvero il servizio di conciliazione ARERA e le altre forme di assistenza gratuita previste)).
 
 4.
 
@@ -385,7 +385,11 @@ Nelle ipotesi indicate dal comma 5, il cliente finale puo' recedere dal contratt
 
 7.
 
-I fornitori trasmettono ai clienti finali informazioni chiare e trasparenti sui prezzi e sulle tariffe praticati, nonche' sulle condizioni contrattuali generalmente praticate. ((I clienti finali controparti di contratti di fornitura di energia elettrica a tempo determinato e a prezzo fisso hanno diritto: a) su richiesta, di partecipare alla gestione della domanda e alla condivisione dell'energia nonche' di prendere parte a meccanismi di flessibilita' del sistema elettrico nazionale;b) a che i fornitori non modifichino unilateralmente in maniera sfavorevole per i clienti le condizioni contrattuali economiche e di durata ne' risolvano i contratti prima della scadenza.))
+I fornitori trasmettono ai clienti finali informazioni chiare e trasparenti sui prezzi e sulle tariffe praticati, nonche' sulle condizioni contrattuali generalmente praticate. ((I clienti finali controparti di contratti di fornitura di energia elettrica a tempo determinato e a prezzo fisso hanno diritto:))
+                        a)
+                            ((su richiesta, di partecipare alla gestione della domanda e alla condivisione dell'energia nonche' di prendere parte a meccanismi di flessibilita' del sistema elettrico nazionale;))
+                        b)
+                            ((a che i fornitori non modifichino unilateralmente in maniera sfavorevole per i clienti le condizioni contrattuali economiche e di durata ne' risolvano i contratti prima della scadenza.))
 
 8.
 
@@ -622,7 +626,7 @@ Sono clienti vulnerabili i clienti civili:
 
 2.
 
-A decorrere dalla data di cessazione del servizio di maggior tutela di cui all'[articolo 1, comma 60, della legge 4 agosto 2017, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124#art_1-com60), i clienti vulnerabili di cui al comma 1 hanno diritto a essere riforniti di energia elettrica, nell'ambito del servizio di vulnerabilita' di cui al presente comma, secondo le condizioni disciplinate dall'Autorita' di regolazione per energia, reti e ambiente (ARERA) e a un prezzo che riflette il costo dell'energia elettrica nel mercato all'ingrosso e costi efficienti delle attivita' di commercializzazione del servizio medesimo, determinati sulla base di criteri di mercato. La societa' Acquirente unico S.p.a. svolge, secondo condizioni e modalita' ((stabilite)) dall'ARERA, la funzione di approvvigionamento centralizzato dell'energia elettrica all'ingrosso per la successiva cessione agli esercenti il servizio di vulnerabilita', utilizzando gli strumenti disponibili sui mercati regolamentati dell'energia elettrica ovvero mediante la ((stipulazione)) di contratti bilaterali a termine con operatori del mercato all'ingrosso selezionati all'esito di procedure competitive gestite dalla societa' medesima. Il servizio di vulnerabilita' e' esercito da fornitori iscritti nell'elenco dei soggetti abilitati alla vendita di energia elettrica al dettaglio di cui al decreto del Ministro della transizione ecologica 25 agosto 2022, n. 164, e individuati mediante procedure competitive svolte dalla societa' Acquirente unico Spa ai sensi del comma 2-bis, lettera b), del presente articolo.
+A decorrere dalla data di cessazione del servizio di maggior tutela di cui all'[articolo 1, comma 60, della legge 4 agosto 2017, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124#art_1-com60), i clienti vulnerabili di cui al comma 1 hanno diritto a essere riforniti di energia elettrica, nell'ambito del servizio di vulnerabilita' di cui al presente comma, secondo le condizioni disciplinate dall'Autorita' di regolazione per energia, reti e ambiente (ARERA) e a un prezzo che riflette il costo dell'energia elettrica nel mercato all'ingrosso e costi efficienti delle attivita' di commercializzazione del servizio medesimo, determinati sulla base di criteri di mercato. La societa' Acquirente unico S.p.a. svolge, secondo condizioni e modalita' stabilite dall'ARERA, la funzione di approvvigionamento centralizzato dell'energia elettrica all'ingrosso per la successiva cessione agli esercenti il servizio di vulnerabilita', utilizzando gli strumenti disponibili sui mercati regolamentati dell'energia elettrica ovvero mediante la stipulazione di contratti bilaterali a termine con operatori del mercato all'ingrosso selezionati all'esito di procedure competitive gestite dalla societa' medesima. Il servizio di vulnerabilita' e' esercito da fornitori iscritti nell'elenco dei soggetti abilitati alla vendita di energia elettrica al dettaglio di cui al decreto del Ministro della transizione ecologica 25 agosto 2022, n. 164, e individuati mediante procedure competitive svolte dalla societa' Acquirente unico Spa ai sensi del comma 2-bis, lettera b), del presente articolo.
 
 2-bis.
 
@@ -654,7 +658,27 @@ In caso di mancata aggiudicazione del servizio di vulnerabilita' all'esito delle
 
 2-quater.
 
-Nelle more dell'aggiudicazione del servizio di vulnerabilita', la fornitura di energia elettrica ai clienti vulnerabili di cui al comma 1 che non hanno scelto un fornitore continua a essere assicurata dall'esercente il servizio di cui all'articolo 1, comma 2, del decreto-legge ((18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125,)) e la societa' Acquirente unico S.p.a. svolge la relativa funzione di approvvigionamento sulla base di condizioni stabilite, in via d'urgenza, dall'ARERA entro trenta giorni dalla data di entrata in vigore della presente disposizione, con le modalita' di cui all'[articolo 1-bis del decreto-legge 17 maggio 2022, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-05-17;50#art_1bis), convertito, con modificazioni, dalla [legge 15 luglio 2022, n. 91](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20maggio%202022%20n.%2050%20recante%20misure%20urgenti%20in%20materia%20di%20politiche%20energetiche%20nazionali%20produttivita%20delle%20imprese%20e%20attrazione%20_a257a392ea1a.md), ovvero mediante la ((stipulazione)) , con operatori del mercato all'ingrosso selezionati all'esito di procedure competitive gestite dalla societa' medesima, di contratti bilaterali a termine anche a prezzi fissi, a condizione che i prezzi medesimi non siano superiori alla media dei prezzi a termine rilevabili nei mercati europei caratterizzati da maggiore liquidita' per i prodotti a termine di analoga durata.
+Nelle more dell'aggiudicazione del servizio di vulnerabilita', la fornitura di energia elettrica ai clienti vulnerabili di cui al comma 1 che non hanno scelto un fornitore continua a essere assicurata dall'esercente il servizio di cui all'[articolo 1, comma 2, del decreto-legge 18 giugno 2007, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-06-18;73#art_1-com2), convertito, con modificazioni, dalla [legge 3 agosto 2007, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20giugno%202007%20n.%2073%20recante%20misure%20urgenti%20per%20lattuazione%20di%20disposizioni%20comunitarie%20in%20materia%20di%20liberalizzazione%20dei%20mercati%20dellenergia.md), e la societa' Acquirente unico S.p.a. svolge la relativa funzione di approvvigionamento sulla base di condizioni stabilite, in via d'urgenza, dall'ARERA entro trenta giorni dalla data di entrata in vigore della presente disposizione, con le modalita' di cui all'[articolo 1-bis del decreto-legge 17 maggio 2022, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-05-17;50#art_1bis), convertito, con modificazioni, dalla [legge 15 luglio 2022, n. 91](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20maggio%202022%20n.%2050%20recante%20misure%20urgenti%20in%20materia%20di%20politiche%20energetiche%20nazionali%20produttivita%20delle%20imprese%20e%20attrazione%20_a257a392ea1a.md), ovvero mediante la stipulazione, con operatori del mercato all'ingrosso selezionati all'esito di procedure competitive gestite dalla societa' medesima, di contratti bilaterali a termine anche a prezzi fissi, a condizione che i prezzi medesimi non siano superiori alla media dei prezzi a termine rilevabili nei mercati europei caratterizzati da maggiore liquidita' per i prodotti a termine di analoga durata.
+
+2-quinquies.
+
+((In deroga a quanto previsto dai commi 2, 2-bis, 2-ter e 2-quater, i clienti finali le cui utenze sono ubicate nelle isole non interconnesse ove operano le imprese elettriche minori di cui all'articolo 7 della legge 9 gennaio 1991, n. 10, sono forniti dalle stesse imprese alle specifiche condizioni tariffarie stabilite dall'ARERA.))
+
+2-sexies.
+
+((In deroga a quanto previsto dall'articolo 18, nelle isole non interconnesse i distributori locali possono possedere, sviluppare e gestire sistemi di stoccaggio elettrico, esclusivamente in relazione all'isola in cui esercitano la concessione di distribuzione di energia elettrica, alle specifiche condizioni stabilite dall'ARERA.))
+
+2-septies.
+
+((In deroga a quanto previsto dall'articolo 1, commi da 50 a 52, della legge 30 dicembre 2024, n. 207, le concessioni di distribuzione delle imprese elettriche minori di cui all'articolo 7 della legge 9 gennaio 1991, n. 10, sono prorogate di venti anni senza oneri concessori.))
+
+2-octies.
+
+((L'attivita' di dispacciamento dell'energia elettrica nelle isole non interconnesse e' svolta dai distributori locali, ognuno esclusivamente in relazione all'isola in cui esercita la concessione di distribuzione di energia elettrica. L'ARERA definisce le modalita' e le condizioni per l'esercizio di tale attivita'.))
+
+2-novies.
+
+((L'efficacia delle disposizioni di cui ai commi 2-quinquies e 2-sexies e' subordinata alla preventiva autorizzazione da parte della Commissione europea delle pertinenti deroghe di cui all'articolo 66 della direttiva (UE) 2019/944)).
 
 3.
 
@@ -760,7 +784,7 @@ Con decreto del Ministro dell'ambiente e della sicurezza energetica, sentita l'A
 
 1-ter.
 
-(( L'ARERA, nell'ambito dei propri poteri ispettivi e sanzionatori di cui alla legge 16 novembre 1995, n. 481, verifica il rispetto delle disposizioni di cui al comma 1-bis, lettere a) e b) ))
+(( L'ARERA, nell'ambito dei propri poteri ispettivi e sanzionatori di cui alla legge 16 novembre 1995, n. 481, verifica il rispetto delle disposizioni di cui al comma 1-bis, lettere a) e b). ))
 
 2.
 
@@ -854,7 +878,8 @@ La condivisione dell'energia elettrica e' consentita nell'ambito delle comunita'
 
 8-ter.
 
-((L'organizzatore della condivisione dell'energia rinnovabile o il soggetto terzo puo' possedere o gestire un impianto di stoccaggio o di produzione di energia rinnovabile per un massimo di 6 MW, senza essere considerato un cliente attivo, tranne nel caso in cui partecipi al progetto di condivisione dell'energia.)) L'organizzatore della condivisione dell'energia fornisce servizi non discriminatori e prezzi, tariffe e condizioni di servizio trasparenti.
+((L'organizzatore della condivisione dell'energia rinnovabile o il soggetto terzo puo' possedere o gestire un impianto di stoccaggio o di produzione di energia rinnovabile per un massimo di 6 MW, senza essere considerato un cliente attivo, tranne nel caso in cui partecipi al progetto di condivisione dell'energia.
+L'organizzatore della condivisione dell'energia fornisce servizi non discriminatori e prezzi, tariffe e condizioni di servizio trasparenti.))
 
 8-quater.
 
