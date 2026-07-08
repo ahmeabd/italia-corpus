@@ -248,7 +248,7 @@ Al testo unico delle imposte sui redditi, di cui al [decreto del Presidente dell
  2. Per risultato operativo lordo si intende la differenza tra il valore e i costi della produzione di cui alle [lettere A)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2425-leta) e [B) dell'articolo 2425 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2425-letb), con esclusione delle voci di cui al numero 10), lettere a) e b), e dei canoni di locazione finanziaria di beni strumentali, cosi' come risultanti dal conto economico dell'esercizio; per i soggetti che redigono il bilancio in base ai principi contabili internazionali si assumono le voci di conto economico corrispondenti. 
  3. Ai fini del presente articolo, assumono rilevanza gli interessi passivi e gli interessi attivi, nonche' gli oneri e i proventi assimilati, derivanti da contratti di mutuo, da contratti di locazione finanziaria, dall'emissione di obbligazioni e titoli similari e da ogni altro rapporto avente causa finanziaria, con esclusione degli interessi impliciti derivanti da debiti di natura commerciale e con inclusione, tra gli attivi, di quelli derivanti da crediti della stessa natura. Nei confronti dei soggetti operanti con la pubblica amministrazione, si considerano interessi attivi rilevanti ai soli effetti del presente articolo anche quelli virtuali, calcolati al tasso ufficiale di riferimento aumentato di un punto, ricollegabili al ritardato pagamento dei corrispettivi. 
  4. Gli interessi passivi e gli oneri finanziari assimilati indeducibili in un determinato periodo d'imposta sono dedotti dal reddito dei successivi periodi d'imposta, se e nei limiti in cui in tali periodi l'importo degli interessi passivi e degli oneri assimilati di competenza eccedenti gli interessi attivi e i proventi assimilati sia inferiore al 30 per cento del risultato operativo lordo di competenza. 
- 5. Le disposizioni dei commi precedenti non si applicano alle banche e agli altri soggetti finanziari indicati nell'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 87](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), con l'eccezione delle societa' che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in societa' esercenti attivita' diversa da quelle creditizia o finanziaria, alle imprese di assicurazione nonche' alle societa' capogruppo di gruppi bancari e assicurativi. Le disposizioni dei commi precedenti non si applicano, inoltre, alle societa' consortili costituite per l'esecuzione unitaria, totale o parziale, dei lavori, ai sensi dell'articolo 96 del regolamento di cui al [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../DPR/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), alle societa' di progetto costituite ai sensi dell'[articolo 156 del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) relativi a lavori, servizi e forniture, di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e alle societa' costituite per la realizzazione e l'esercizio di interporti di cui alla [legge 4 agosto 1990, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;240), e successive modificazioni, nonche' alle societa' il cui capitale sociale e' sottoscritto prevalentemente da enti pubblici, che costruiscono o gestiscono impianti per la fornitura di acqua, energia e teleriscaldamento, nonche' impianti per lo smaltimento e la depurazione. 
+ 5. Le disposizioni dei commi precedenti non si applicano alle banche e agli altri soggetti finanziari indicati nell'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), con l'eccezione delle societa' che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in societa' esercenti attivita' diversa da quelle creditizia o finanziaria, alle imprese di assicurazione nonche' alle societa' capogruppo di gruppi bancari e assicurativi. Le disposizioni dei commi precedenti non si applicano, inoltre, alle societa' consortili costituite per l'esecuzione unitaria, totale o parziale, dei lavori, ai sensi dell'articolo 96 del regolamento di cui al [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), alle societa' di progetto costituite ai sensi dell'[articolo 156 del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) relativi a lavori, servizi e forniture, di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e alle societa' costituite per la realizzazione e l'esercizio di interporti di cui alla [legge 4 agosto 1990, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-04;240), e successive modificazioni, nonche' alle societa' il cui capitale sociale e' sottoscritto prevalentemente da enti pubblici, che costruiscono o gestiscono impianti per la fornitura di acqua, energia e teleriscaldamento, nonche' impianti per lo smaltimento e la depurazione. 
  6. Resta ferma l'applicazione prioritaria delle regole di indeducibilita' assoluta previste dall'articolo 90, comma 2, e dai commi 7 e 10 dell'articolo 110 del presente testo unico, dall'[articolo 3, comma 115, della legge 28 dicembre 1995, n. 549](Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), in materia di interessi su titoli obbligazionari, e dall'[articolo 1, comma 465, della legge 30 dicembre 2004, n. 311](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), in materia di interessi sui prestiti dei soci delle societa' cooperative. 
  7. In caso di partecipazione al consolidato nazionale di cui alla sezione H del presente capo, l'eventuale eccedenza di interessi passivi ed oneri assimilati indeducibili generatasi in capo a un soggetto puo' essere portata in abbattimento del reddito complessivo di gruppo se e nei limiti in cui altri soggetti partecipanti al consolidato presentino, per lo stesso periodo d'imposta, un risultato operativo lordo capiente non integralmente sfruttato per la deduzione. Tale regola si applica anche alle eccedenze oggetto di riporto in avanti, con esclusione di quelle generatesi anteriormente all'ingresso nel consolidato nazionale. 
  8. Ai soli effetti dell'applicazione del comma 7, tra i soggetti virtualmente partecipanti al consolidato nazionale possono essere incluse anche le societa' estere per le quali ricorrerebbero i requisiti e le condizioni previsti dagli articoli 117, comma 1, 120 e 132, comma 2, lettere b) e c). Nella dichiarazione dei redditi del consolidato devono essere indicati i dati relativi agli interessi passivi e al risultato operativo lordo della societa' estera corrispondenti a quelli indicati nel comma 2";
@@ -399,7 +399,7 @@ Al fine di semplificare le regole di determinazione della base imponibile dell'i
  2. I soggetti di cui al comma 1, in regime di contabilita' ordinaria, possono optare per la determinazione del valore della produzione netta secondo le regole di cui all'articolo 5. L'opzione e' irrevocabile per tre periodi d'imposta e deve essere comunicata con le modalita' e nei termini stabiliti con provvedimento del direttore dell'Agenzia delle entrate da emanare entro il 31 marzo 2008. Al termine del triennio l'opzione si intende tacitamente rinnovata per un altro triennio a meno che l'impresa non opti, secondo le modalita' e i termini fissati dallo stesso provvedimento direttoriale, per la determinazione del valore della produzione netta secondo le regole del comma l; anche in questo caso, l'opzione e' irrevocabile per un triennio e tacitamente rinnovabile";
                         c)
                             l'articolo 6 e' sostituito dal seguente: 
- "Art. 6. - (Determinazione del valore della produzione netta delle banche e di altri enti e societa' finanziari). - 1. Per le banche e gli altri enti e societa' finanziari indicati nell'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 87](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, salvo quanto previsto nei successivi commi, la base imponibile e' determinata dalla somma algebrica delle seguenti voci del conto economico redatto in conformita' agli schemi risultanti dai provvedimenti emessi ai sensi dell'[articolo 9, comma 1, del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_9-com1): 
+ "Art. 6. - (Determinazione del valore della produzione netta delle banche e di altri enti e societa' finanziari). - 1. Per le banche e gli altri enti e societa' finanziari indicati nell'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), e successive modificazioni, salvo quanto previsto nei successivi commi, la base imponibile e' determinata dalla somma algebrica delle seguenti voci del conto economico redatto in conformita' agli schemi risultanti dai provvedimenti emessi ai sensi dell'[articolo 9, comma 1, del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_9-com1): 
  a) margine d'intermediazione ridotto del 50 per cento dei dividendi; 
  b) ammortamenti dei beni materiali e immateriali ad uso funzionale per un importo pari al 90 per cento; 
  c) altre spese amministrative per un importo pari al 90 per cento. 
@@ -424,7 +424,7 @@ Al fine di semplificare le regole di determinazione della base imponibile dell'i
  b) i dividendi (voce 33) sono assunti nella misura del 50 per cento. 
  2. Dalla base imponibile non sono comunque ammessi in deduzione: le spese per il personale dipendente e assimilato ovunque classificate nonche' i costi, i compensi e gli utili indicati nel comma 1, lettera b), numeri da 2) a 5), dell'articolo 11; le svalutazioni, le perdite e le riprese di valore dei crediti; la quota interessi dei canoni di locazione finanziaria, desunta dal contratto; l'imposta comunale sugli immobili di cui al [decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md). 
  3. I contributi erogati in base a norma di legge, fatta eccezione per quelli correlati a costi indeducibili, nonche' le plusvalenze e le minusvalenze derivanti dalla cessione di immobili che non costituiscono beni strumentali per l'esercizio dell'impresa, ne' beni alla cui produzione o al cui scambio e' diretta l'attivita' dell'impresa, concorrono in ogni caso alla formazione del valore della produzione. Sono comunque ammesse in deduzione quote di ammortamento del costo sostenuto per l'acquisizione di marchi d'impresa e a titolo di avviamento in misura non superiore a un diciottesimo del costo indipendentemente dall'imputazione al conto economico. 
- 4. I componenti positivi e negativi si assumono cosi' come risultanti dal conto economico dell'esercizio redatto in conformita' ai criteri contenuti nel [decreto legislativo 26 maggio 1997, n. 173](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), e alle istruzioni impartite dall'ISVAP con il provvedimento n. 735 del 1° dicembre 1997, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 289 del 12 dicembre 1997";
+ 4. I componenti positivi e negativi si assumono cosi' come risultanti dal conto economico dell'esercizio redatto in conformita' ai criteri contenuti nel [decreto legislativo 26 maggio 1997, n. 173](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), e alle istruzioni impartite dall'ISVAP con il provvedimento n. 735 del 1° dicembre 1997, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 289 del 12 dicembre 1997";
                         e)
                             all'articolo 8, comma 1, e' aggiunto, in fine, il seguente periodo: "I compensi, i costi e gli altri componenti si assumono cosi' come rilevanti ai fini della dichiarazione dei redditi";
                         f)
@@ -762,7 +762,7 @@ Al [comma 2 dell'articolo 2 del decreto-legge 24 dicembre 2002, n. 282](https://
 
 92.
 
-All'[articolo 9 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), il comma 5 e' sostituito dal seguente: 
+All'[articolo 9 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), il comma 5 e' sostituito dal seguente: 
  "5. I soggetti tenuti alla sottoscrizione della dichiarazione dei redditi e ai fini dell'imposta regionale sulle attivita' produttive (IRAP), che nella relazione di revisione omettono, ricorrendone i presupposti, di esprimere i giudizi prescritti dall'[articolo 2409-ter, terzo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2409ter-com3), sono puniti, qualora da tali omissioni derivino infedelta' nella dichiarazione dei redditi o ai fini dell'IRAP, con la sanzione amministrativa fino al 30 per cento del compenso contrattuale relativo all'attivita' di redazione della relazione di revisione e, comunque, non superiore all'imposta effettivamente accertata a carico del contribuente. In caso di mancata sottoscrizione della dichiarazione dei redditi o ai fini dell'IRAP si applica, oltre alla disposizione del precedente periodo, la sanzione amministrativa da euro 258 a euro 2.065".
 
 93.
@@ -867,7 +867,7 @@ COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](Disposizioni%20per%20la%20for
 
 118.
 
-All'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), al comma 2-quater, le parole: "ovvero con altro mezzo idoneo a indicare il vincolo imposto a fini fiscali" sono soppresse.
+All'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), al comma 2-quater, le parole: "ovvero con altro mezzo idoneo a indicare il vincolo imposto a fini fiscali" sono soppresse.
 
 119.
 
@@ -875,7 +875,7 @@ Al fine di consentire la semplificazione degli adempimenti degli operatori dogan
 
 120.
 
-Ai fini delle trasmissioni telematiche gestite dal Ministero dell'economia e delle finanze, il termine di cui all'[articolo 64, comma 3, del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), e' prorogato al 31 dicembre 2009.
+Ai fini delle trasmissioni telematiche gestite dal Ministero dell'economia e delle finanze, il termine di cui all'[articolo 64, comma 3, del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), e' prorogato al 31 dicembre 2009.
 
 121.
 
@@ -908,7 +908,7 @@ All'[articolo 8, comma 2, del decreto legislativo 19 giugno 1997, n. 218](../Dec
 
 126.
 
-All'[articolo 19, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, dopo le parole: "polizza fidejussoria o fidejussione bancaria" sono aggiunte le seguenti: "ovvero rilasciata dai consorzi di garanzia collettiva dei fidi (Confidi) iscritti negli elenchi previsti dagli articoli 106 e 107 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni".
+All'[articolo 19, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, dopo le parole: "polizza fidejussoria o fidejussione bancaria" sono aggiunte le seguenti: "ovvero rilasciata dai consorzi di garanzia collettiva dei fidi (Confidi) iscritti negli elenchi previsti dagli articoli 106 e 107 del testo unico delle leggi in materia bancaria e creditizia, di cui al [decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni".
 
 127.
 
@@ -996,12 +996,12 @@ COMMA ABROGATO DAL [D.L. 29 NOVEMBRE 2008, N. 185](https://www.normattiva.it/uri
 
 141.
 
-All'[articolo 72-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, dopo il comma 1 e' inserito il seguente: 
+All'[articolo 72-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, dopo il comma 1 e' inserito il seguente: 
  "1-bis. L'atto di cui al comma 1 puo' essere redatto anche da dipendenti dell'agente della riscossione procedente non abilitati all'esercizio delle funzioni di ufficiale della riscossione e, in tal caso, reca l'indicazione a stampa dello stesso agente della riscossione e non e' soggetto all'annotazione di cui all'[articolo 44, comma 1, del decreto legislativo 13 aprile 1999, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md)".
 
 142.
 
-All'[articolo 73 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'[articolo 73 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, la parola: "Se" e' sostituita dalle seguenti: "Salvo quanto previsto dal comma 1-bis, se";
                         b)
@@ -1022,11 +1022,11 @@ Dopo l'[articolo 3 del decreto legislativo 18 dicembre 1997, n. 462](../Decreti%
  4. Il mancato pagamento anche di una sola rata comporta la decadenza dalla rateazione e l'importo dovuto per imposte, interessi e sanzioni in misura piena, dedotto quanto versato, e' iscritto a ruolo. Se e' stata prestata garanzia, l'ufficio procede all'iscrizione a ruolo dei suddetti importi a carico del contribuente e dello stesso garante o del terzo datore d'ipoteca, qualora questi ultimi non versino l'importo dovuto entro trenta giorni dalla notificazione di apposito invito contenente l'indicazione delle somme dovute e dei presupposti di fatto e di diritto della pretesa. 
  5. La notificazione delle cartelle di pagamento conseguenti alle iscrizioni a ruolo previste dal comma 4 e' eseguita entro il 31 dicembre del secondo anno successivo a quello di scadenza della rata non pagata. 
  6. Le disposizioni di cui ai commi 1, 3, 4 e 5 si applicano anche alle somme da versare, superiori a cinquecento euro, a seguito di ricevimento della comunicazione prevista dall'[articolo 1, comma 412, della legge 30 dicembre 2004, n. 311](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), relativamente ai redditi soggetti a tassazione separata. Per gli importi fino a cinquecento euro, si applicano le disposizioni di cui ai commi 2 e seguenti. 
- 7. Nei casi di decadenza dal beneficio di cui al presente articolo non e' ammessa la dilazione del pagamento delle somme iscritte a ruolo di cui all'[articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni".
+ 7. Nei casi di decadenza dal beneficio di cui al presente articolo non e' ammessa la dilazione del pagamento delle somme iscritte a ruolo di cui all'[articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni".
 
 145.
 
-All'[articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'[articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, nel secondo periodo, le parole: "cinquanta milioni di lire" sono sostituite dalle seguenti: "cinquantamila euro" e sono aggiunti, in fine, i seguenti periodi: "In alternativa alle predette garanzie, il credito iscritto a ruolo puo' essere garantito dall'ipoteca iscritta ai sensi dell'articolo 77; 
  l'ufficio puo' altresi' autorizzare che sia concessa dal contribuente, ovvero da terzo datore, ipoteca volontaria di primo grado su beni immobili di esclusiva proprieta' del concedente, per un importo pari al doppio delle somme iscritte a ruolo. A tal fine il valore dell'immobile e' determinato ai sensi dell'articolo 52, comma 4, del testo unico delle disposizioni concernenti l'imposta di registro, di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md). Il valore dell'immobile puo' essere, in alternativa, determinato sulla base di una perizia giurata di stima, cui si applica l'[articolo 64 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_64), redatta da soggetti iscritti agli albi degli ingegneri, degli architetti, dei geometri, dei dottori agronomi, dei periti agrari o dei periti industriali edili. L'ipoteca non e' assoggettata all'azione revocatoria di cui all'[articolo 67 del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_67), e successive modificazioni. Sono a carico del contribuente le spese di perizia, di iscrizione e cancellazione dell'ipoteca";
@@ -1057,7 +1057,7 @@ Con regolamenti emanati ai sensi dell'[articolo 17, comma 2, della legge 23 agos
 
 150.
 
-Con decreto del Ministro dell'economia e delle finanze, emanato ai sensi dell'[articolo 13, comma 1, della legge 13 maggio 1999, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-13;133#art_13-com1), sono stabilite le misure, anche differenziate, degli interessi per il versamento, la riscossione e i rimborsi di ogni tributo, anche in ipotesi diverse da quelle previste dall'[articolo 13 del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_13), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md), nei limiti di un punto percentuale di differenza rispetto al tasso di interesse fissato ai sensi dell'[articolo 1284 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1284), salva la determinazione degli interessi di mora ai sensi dell'[articolo 30 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni.
+Con decreto del Ministro dell'economia e delle finanze, emanato ai sensi dell'[articolo 13, comma 1, della legge 13 maggio 1999, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-13;133#art_13-com1), sono stabilite le misure, anche differenziate, degli interessi per il versamento, la riscossione e i rimborsi di ogni tributo, anche in ipotesi diverse da quelle previste dall'[articolo 13 del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_13), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md), nei limiti di un punto percentuale di differenza rispetto al tasso di interesse fissato ai sensi dell'[articolo 1284 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1284), salva la determinazione degli interessi di mora ai sensi dell'[articolo 30 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni.
 
 151.
 
@@ -1090,7 +1090,7 @@ Per i tributi e le altre entrate di spettanza delle province e dei comuni le dis
 
 155.
 
-All'[articolo 6 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), dopo il comma 9 e' aggiunto il seguente: 
+All'[articolo 6 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), dopo il comma 9 e' aggiunto il seguente: 
  "9-bis. E' punito con la sanzione amministrativa compresa fra il 100 e il 200 per cento dell'imposta, con un minimo di 258 euro, il cessionario o il committente che, nell'esercizio di imprese, arti o professioni, non assolve l'imposta relativa agli acquisti di beni o servizi mediante il meccanismo dell'inversione contabile di cui agli [articoli 17](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [74, commi settimo](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [ottavo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni.
 La medesima sanzione si applica al cedente o prestatore che ha irregolarmente addebitato l'imposta in fattura omettendone il versamento. Qualora l'imposta sia stata assolta, ancorche' irregolarmente, dal cessionario o committente ovvero dal cedente o prestatore, fermo restando il diritto alla detrazione ai sensi dell'[articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, la sanzione amministrativa e' pari al 3 per cento dell'imposta irregolarmente assolta, con un minimo di 258 euro, e comunque non oltre 10.000 euro per le irregolarita' commesse nei primi tre anni di applicazione delle disposizioni del presente periodo. Al pagamento delle sanzioni previste nel secondo e terzo periodo, nonche' al pagamento dell'imposta, sono tenuti solidalmente entrambi i soggetti obbligati all'applicazione del meccanismo dell'inversione contabile. E' punito con la sanzione di cui al comma 2 il cedente o prestatore che non emette fattura, fermo restando l'obbligo per il cessionario o committente di regolarizzare l'omissione ai sensi del comma 8, applicando, comunque, il meccanismo dell'inversione contabile".
 
@@ -1115,7 +1115,7 @@ All'[articolo 74, primo comma, del decreto del Presidente della Repubblica 26 ot
 
 159.
 
-Al [decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+Al [decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 6: 
  1) dopo il comma 3 e' inserito il seguente: 
@@ -1239,7 +1239,7 @@ Al gas naturale impiegato dalle Forze armate nazionali come combustibile per ris
 
 181.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 182.
 
@@ -1363,7 +1363,7 @@ Alla lettera i-sexies) del comma 1 dell'articolo 15 del citato testo unico di cu
 
 209.
 
-Al fine di semplificare il procedimento di fatturazione e registrazione delle operazioni imponibili, a decorrere dalla data di entrata in vigore del regolamento di cui al comma 213, l'emissione, la trasmissione, la conservazione e l'archiviazione delle fatture emesse nei rapporti con le amministrazioni pubbliche di cui all'[articolo 1, comma 2, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_1-com2), nonche' con le amministrazioni autonome, anche sotto forma di nota, conto, parcella e simili, deve essere effettuata esclusivamente in forma elettronica, con l'osservanza del [decreto legislativo 20 febbraio 2004, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-115-CE%20che%20semplifica%20ed%20armonizza%20le%20modalita%20di%20fatturazione%20in%20materia%20di%20IVA.md), e del [codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md). (67)
+Al fine di semplificare il procedimento di fatturazione e registrazione delle operazioni imponibili, a decorrere dalla data di entrata in vigore del regolamento di cui al comma 213, l'emissione, la trasmissione, la conservazione e l'archiviazione delle fatture emesse nei rapporti con le amministrazioni pubbliche di cui all'[articolo 1, comma 2, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_1-com2), nonche' con le amministrazioni autonome, anche sotto forma di nota, conto, parcella e simili, deve essere effettuata esclusivamente in forma elettronica, con l'osservanza del [decreto legislativo 20 febbraio 2004, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-115-CE%20che%20semplifica%20ed%20armonizza%20le%20modalita%20di%20fatturazione%20in%20materia%20di%20IVA.md), e del [codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md). (67)
 
 210.
 
@@ -1393,7 +1393,7 @@ Con decreto del Ministro dell'economia e delle finanze, di concerto con il Minis
                         d)
                             le eventuali deroghe agli obblighi di cui al comma 209, limitatamente a determinate tipologie di approvvigionamenti;
                         e)
-                            la disciplina dell'utilizzo, tanto da parte degli operatori economici, quanto da parte delle amministrazioni interessate, di intermediari abilitati, ivi compresi i certificatori accreditati ai sensi dell'[articolo 29 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), allo svolgimento delle attivita' informatiche necessarie all'assolvimento degli obblighi di cui ai commi da 209 al presente comma;
+                            la disciplina dell'utilizzo, tanto da parte degli operatori economici, quanto da parte delle amministrazioni interessate, di intermediari abilitati, ivi compresi i certificatori accreditati ai sensi dell'[articolo 29 del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md) di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), allo svolgimento delle attivita' informatiche necessarie all'assolvimento degli obblighi di cui ai commi da 209 al presente comma;
                         f)
                             le eventuali misure di supporto, anche di natura economica, per le piccole e medie imprese;
                         g)
@@ -1687,7 +1687,7 @@ All'onere derivante dalle disposizioni di cui ai commi 266 e 267, valutato in 20
 
 269.
 
-All'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), al comma 2, dopo le parole: "un quinquennio" la parola: "tre" e' sostituita dalla seguente: "quattro" e dopo le parole: "lo scontrino fiscale" sono inserite le seguenti: "compiute in giorni diversi,".
+All'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), al comma 2, dopo le parole: "un quinquennio" la parola: "tre" e' sostituita dalla seguente: "quattro" e dopo le parole: "lo scontrino fiscale" sono inserite le seguenti: "compiute in giorni diversi,".
 
 270.
 
@@ -1728,7 +1728,7 @@ L'[articolo 23 della legge 27 febbraio 1985, n. 52](https://www.normattiva.it/ur
 
 279.
 
-In deroga all'[articolo 2680, primo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2680-com1), fino a quando non sara' data attuazione a quanto stabilito dall'[articolo 61 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), la vidimazione del registro generale d'ordine viene eseguita dal conservatore.
+In deroga all'[articolo 2680, primo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2680-com1), fino a quando non sara' data attuazione a quanto stabilito dall'[articolo 61 del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), la vidimazione del registro generale d'ordine viene eseguita dal conservatore.
 
 280.
 
@@ -1771,7 +1771,7 @@ COMMA ABROGATO DAL [D.L. 27 MAGGIO 2008, N. 93](https://www.normattiva.it/uri-re
 
 288.
 
-A decorrere dall'anno 2009, in attesa dell'emanazione dei provvedimenti attuativi di cui all'[articolo 4, comma 1, del decreto legislativo 19 agosto 2005, n. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), il rilascio del permesso di costruire e' subordinato alla certificazione energetica dell'edificio, cosi' come previsto dall'articolo 6 del citato [decreto legislativo n. 192 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;192), nonche' delle caratteristiche strutturali dell'immobile finalizzate al risparmio idrico e al reimpiego delle acque meteoriche.
+A decorrere dall'anno 2009, in attesa dell'emanazione dei provvedimenti attuativi di cui all'[articolo 4, comma 1, del decreto legislativo 19 agosto 2005, n. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), il rilascio del permesso di costruire e' subordinato alla certificazione energetica dell'edificio, cosi' come previsto dall'articolo 6 del citato [decreto legislativo n. 192 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;192), nonche' delle caratteristiche strutturali dell'immobile finalizzate al risparmio idrico e al reimpiego delle acque meteoriche.
 
 289.
 
@@ -1912,7 +1912,7 @@ Per la predisposizione degli studi di fattibilita', dei progetti e di eventuali 
 
 320.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 321.
 
@@ -2079,7 +2079,7 @@ A valere sulle maggiori entrate derivanti dalle disposizioni dei commi da 345 a 
 
 351.
 
-Allo scopo di ridurre le spese a carico del bilancio dello Stato e di giungere ad una rapida definizione delle controversie pendenti presso la Commissione tributaria centrale, a decorrere dal 1° maggio 2008, il numero delle sezioni della predetta Commissione e' ridotto a 21; le predette sezioni hanno sede presso ciascuna commissione tributaria regionale avente sede nel capoluogo di ogni regione e presso le commissioni tributarie di secondo grado di Trento e di Bolzano. A tali sezioni sono applicati come componenti, su domanda da presentare al Consiglio di presidenza della giustizia tributaria entro il 31 gennaio 2008, i presidenti di sezione, i vice presidenti di sezione e i componenti delle commissioni tributarie regionali istituite nelle stesse sedi. In difetto di domande, il Consiglio di presidenza. della giustizia tributaria provvede d'ufficio entro il 31 marzo 2008. Qualora un componente della Commissione tributaria centrale sia assegnato ad una delle sezioni di cui al primo periodo, ne assume la presidenza. Le funzioni di segreteria sono svolte dal personale di segreteria delle commissioni tributarie regionali e delle commissioni di secondo grado di Trento e di Bolzano. I presidenti di sezione ed i componenti della Commissione tributaria centrale, nonche' il personale di segreteria, sono assegnati, anche in soprannumero rispetto a quanto previsto dall'[articolo 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), su domanda da presentare, rispettivamente, al Consiglio di presidenza della giustizia tributaria ed al Dipartimento per le politiche fiscali entro il 31 gennaio 2008, a una delle sezioni di cui al primo periodo. Ai presidenti di sezione, ai componenti e al personale di segreteria della Commissione tributaria centrale trasferiti di sede ai sensi del periodo precedente non spetta il trattamento di missione.
+Allo scopo di ridurre le spese a carico del bilancio dello Stato e di giungere ad una rapida definizione delle controversie pendenti presso la Commissione tributaria centrale, a decorrere dal 1° maggio 2008, il numero delle sezioni della predetta Commissione e' ridotto a 21; le predette sezioni hanno sede presso ciascuna commissione tributaria regionale avente sede nel capoluogo di ogni regione e presso le commissioni tributarie di secondo grado di Trento e di Bolzano. A tali sezioni sono applicati come componenti, su domanda da presentare al Consiglio di presidenza della giustizia tributaria entro il 31 gennaio 2008, i presidenti di sezione, i vice presidenti di sezione e i componenti delle commissioni tributarie regionali istituite nelle stesse sedi. In difetto di domande, il Consiglio di presidenza. della giustizia tributaria provvede d'ufficio entro il 31 marzo 2008. Qualora un componente della Commissione tributaria centrale sia assegnato ad una delle sezioni di cui al primo periodo, ne assume la presidenza. Le funzioni di segreteria sono svolte dal personale di segreteria delle commissioni tributarie regionali e delle commissioni di secondo grado di Trento e di Bolzano. I presidenti di sezione ed i componenti della Commissione tributaria centrale, nonche' il personale di segreteria, sono assegnati, anche in soprannumero rispetto a quanto previsto dall'[articolo 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), su domanda da presentare, rispettivamente, al Consiglio di presidenza della giustizia tributaria ed al Dipartimento per le politiche fiscali entro il 31 gennaio 2008, a una delle sezioni di cui al primo periodo. Ai presidenti di sezione, ai componenti e al personale di segreteria della Commissione tributaria centrale trasferiti di sede ai sensi del periodo precedente non spetta il trattamento di missione.
 
 352.
 
@@ -2542,7 +2542,7 @@ All'[articolo 1, comma 703, lettera a), della legge 27 dicembre 2006, n. 296](Di
 
 11.
 
-Per ciascuno degli anni 2008 e 2009, a valere sul fondo ordinario di cui all'[articolo 34, comma 1, lettera a), del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' disposto un intervento fino a un importo di 10 milioni di euro per la concessione di un contributo a favore dei comuni per l'attuazione della [direttiva 2004/38/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;38), relativa al diritto dei cittadini dell'Unione e dei loro familiari di circolare e di soggiornare liberamente nel territorio degli Stati membri, di cui al [decreto legislativo 6 febbraio 2007, n. 30](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-38-CE%20relativa%20al%20diritto%20dei%20cittadini%20dellUnione%20e%20dei%20loro%20familiari%20di%20circolare%20e%20di%20soggiornare%20liberamente%20nel%20territorio%20degli%20Stati%20membri.md). Con decreto del Ministro dell'interno sono determinate le modalita' di riparto ed erogazione dei contributi.
+Per ciascuno degli anni 2008 e 2009, a valere sul fondo ordinario di cui all'[articolo 34, comma 1, lettera a), del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' disposto un intervento fino a un importo di 10 milioni di euro per la concessione di un contributo a favore dei comuni per l'attuazione della [direttiva 2004/38/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;38), relativa al diritto dei cittadini dell'Unione e dei loro familiari di circolare e di soggiornare liberamente nel territorio degli Stati membri, di cui al [decreto legislativo 6 febbraio 2007, n. 30](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-38-CE%20relativa%20al%20diritto%20dei%20cittadini%20dellUnione%20e%20dei%20loro%20familiari%20di%20circolare%20e%20di%20soggiornare%20liberamente%20nel%20territorio%20degli%20Stati%20membri.md). Con decreto del Ministro dell'interno sono determinate le modalita' di riparto ed erogazione dei contributi.
 
 12.
 
@@ -2719,7 +2719,7 @@ Per il finanziamento del Fondo nazionale per la montagna, di cui all'[articolo 2
 
 41.
 
-E' istituito, presso la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, il Fondo di sviluppo delle isole minori, con una dotazione finanziaria pari a 20 milioni di euro a decorrere dall'anno 2008. Il Fondo finanzia interventi specifici nei settori dell'energia, dei trasporti e della concorrenza, diretti a migliorare le condizioni e la qualita' della vita nelle suddette zone, assegnando priorita' ai progetti realizzati nelle aree protette e nella rete "Natura 2000", prevista dall'articolo 3 del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), ovvero improntati alla sostenibilita' ambientale, con particolare riferimento all'utilizzo delle energie rinnovabili, al risparmio e all'efficienza energetica, alla gestione dei rifiuti, alla gestione delle acque, alla mobilita' e alla nautica da diporto ecosostenibili, al recupero e al riutilizzo del patrimonio edilizio esistente, al contingentamento dei flussi turistici, alla destagionalizzazione, alla protezione degli habitat prioritari e delle specie protette, alla valorizzazione dei prodotti tipici, alla certificazione ambientale dei servizi, oltre a misure dirette a favorire le imprese insulari in modo che le stesse possano essere ugualmente competitive. I criteri per l'erogazione del Fondo di sviluppo delle isole minori sono stabiliti con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per i rapporti con le regioni, di concerto con il Ministro dell'interno e con il Ministro dell'economia e delle finanze, sentite l'Associazione nazionale dei comuni delle isole minori (ANDIVI) e la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), e successive modificazioni. Con decreto del Ministro per i rapporti con le regioni, di concerto con i Ministri dell'interno e dell'economia e delle finanze, sono individuati gli interventi ammessi al relativo finanziamento, previa intesa con gli enti locali interessati .
+E' istituito, presso la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, il Fondo di sviluppo delle isole minori, con una dotazione finanziaria pari a 20 milioni di euro a decorrere dall'anno 2008. Il Fondo finanzia interventi specifici nei settori dell'energia, dei trasporti e della concorrenza, diretti a migliorare le condizioni e la qualita' della vita nelle suddette zone, assegnando priorita' ai progetti realizzati nelle aree protette e nella rete "Natura 2000", prevista dall'articolo 3 del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), ovvero improntati alla sostenibilita' ambientale, con particolare riferimento all'utilizzo delle energie rinnovabili, al risparmio e all'efficienza energetica, alla gestione dei rifiuti, alla gestione delle acque, alla mobilita' e alla nautica da diporto ecosostenibili, al recupero e al riutilizzo del patrimonio edilizio esistente, al contingentamento dei flussi turistici, alla destagionalizzazione, alla protezione degli habitat prioritari e delle specie protette, alla valorizzazione dei prodotti tipici, alla certificazione ambientale dei servizi, oltre a misure dirette a favorire le imprese insulari in modo che le stesse possano essere ugualmente competitive. I criteri per l'erogazione del Fondo di sviluppo delle isole minori sono stabiliti con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per i rapporti con le regioni, di concerto con il Ministro dell'interno e con il Ministro dell'economia e delle finanze, sentite l'Associazione nazionale dei comuni delle isole minori (ANDIVI) e la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), e successive modificazioni. Con decreto del Ministro per i rapporti con le regioni, di concerto con i Ministri dell'interno e dell'economia e delle finanze, sono individuati gli interventi ammessi al relativo finanziamento, previa intesa con gli enti locali interessati .
 
 42.
 
@@ -2847,19 +2847,19 @@ Per le politiche generali concernenti le collettivita' italiane all'estero, la l
 
 71.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 72.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 73.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 74.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 75.
 
@@ -2875,23 +2875,23 @@ Gli arruolamenti autorizzati per l'anno 2007 dall'[articolo 1, comma 574, della 
 
 78.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 79.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 80.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 81.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 82.
 
-Il Ministero della giustizia provvede entro il 31 gennaio 2008 ad avviare la realizzazione di un sistema unico nazionale, articolato su base distrettuale di corte d'appello, delle intercettazioni telefoniche, ambientali e altre forme di comunicazione informatica o telematica disposte o autorizzate dall'autorita' giudiziaria, anche attraverso la razionalizzazione delle attivita' attualmente svolte dagli uffici dell'amministrazione della giustizia. Contestualmente si procede all'adozione dei provvedimenti di cui all'[articolo 96 del codice delle comunicazioni elettroniche](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), di cui al [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni.
+Il Ministero della giustizia provvede entro il 31 gennaio 2008 ad avviare la realizzazione di un sistema unico nazionale, articolato su base distrettuale di corte d'appello, delle intercettazioni telefoniche, ambientali e altre forme di comunicazione informatica o telematica disposte o autorizzate dall'autorita' giudiziaria, anche attraverso la razionalizzazione delle attivita' attualmente svolte dagli uffici dell'amministrazione della giustizia. Contestualmente si procede all'adozione dei provvedimenti di cui all'[articolo 96 del codice delle comunicazioni elettroniche](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), di cui al [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni.
 
 83.
 
@@ -3157,7 +3157,7 @@ Per le attivita' di progettazione delle opere previste nell'ambito del Piano irr
 
 134.
 
-Le cooperative e i loro consorzi di cui all'[articolo 8 del decreto legislativo 18 maggio 2001, n. 227](../Decreti%20Legislativi/Orientamento%20e%20modernizzazione%20del%20settore%20forestale%20a%20norma%20dellarticolo%207%20della%20legge%205%20marzo%202001%20n.%2057.md), che abbiano sede ed esercitino prevalentemente le loro attivita' nei comuni montani e che, conformemente alle disposizioni del proprio statuto, esercitino attivita' di sistemazione e manutenzione agraria, forestale e, in genere, del territorio e degli ambienti rurali, possono ricevere in affidamento diretto, a condizione che l'importo dei lavori o servizi non sia superiore a 190.000 euro per anno, dagli enti locali e dagli altri enti di diritto pubblico, in deroga alle vigenti disposizioni di legge e anche tramite apposite convenzioni:
+Le cooperative e i loro consorzi di cui all'[articolo 8 del decreto legislativo 18 maggio 2001, n. 227](../Atti%20normativi%20abrogati%20%28in%20originale%29/Orientamento%20e%20modernizzazione%20del%20settore%20forestale%20a%20norma%20dellarticolo%207%20della%20legge%205%20marzo%202001%20n.%2057.md), che abbiano sede ed esercitino prevalentemente le loro attivita' nei comuni montani e che, conformemente alle disposizioni del proprio statuto, esercitino attivita' di sistemazione e manutenzione agraria, forestale e, in genere, del territorio e degli ambienti rurali, possono ricevere in affidamento diretto, a condizione che l'importo dei lavori o servizi non sia superiore a 190.000 euro per anno, dagli enti locali e dagli altri enti di diritto pubblico, in deroga alle vigenti disposizioni di legge e anche tramite apposite convenzioni:
                         a)
                             lavori attinenti alla valorizzazione e alla gestione e manutenzione dell'ambiente e del paesaggio, quali la forestazione, la selvicoltura, il riassetto idrogeologico, le opere di difesa e di consolidamento del suolo, la sistemazione idraulica, le opere e i servizi di bonifica e a verde;
                         b)
@@ -3210,7 +3210,7 @@ COMMA ABROGATO DAL [D.LGS. 3 MARZO 2011, N. 28](https://www.normattiva.it/uri-re
 
 146.
 
-All'[articolo 4, comma 1, del decreto legislativo 29 dicembre 2003, n. 387](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), le parole da: "Il Ministro delle attivita' produttive" fino alla fine del comma sono sostituite dalle seguenti: "Per il periodo 2007-2012 la medesima quota e' incrementata annualmente di 0,75 punti percentuali. Con decreti del Ministro dello sviluppo economico di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza unificata, sono stabiliti gli ulteriori incrementi della stessa quota per gli anni successivi al 2012".
+All'[articolo 4, comma 1, del decreto legislativo 29 dicembre 2003, n. 387](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), le parole da: "Il Ministro delle attivita' produttive" fino alla fine del comma sono sostituite dalle seguenti: "Per il periodo 2007-2012 la medesima quota e' incrementata annualmente di 0,75 punti percentuali. Con decreti del Ministro dello sviluppo economico di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza unificata, sono stabiliti gli ulteriori incrementi della stessa quota per gli anni successivi al 2012".
 
 147.
 
@@ -3252,7 +3252,7 @@ L'Autorita' per l'energia elettrica e il gas definisce:
 
 A decorrere dal 1° gennaio 2008 sono abrogati:
                         a)
-                            il [comma 6 dell'articolo 20 del decreto legislativo 29 dicembre 2003, n. 387](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md);
+                            il [comma 6 dell'articolo 20 del decreto legislativo 29 dicembre 2003, n. 387](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md);
                         b)
                             il comma 383 e il primo periodo del [comma 1118 dell'articolo 1 della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
 
@@ -3266,7 +3266,7 @@ COMMA ABROGATO DAL [D.LGS. 3 MARZO 2011, N. 28](https://www.normattiva.it/uri-re
 
 157.
 
-Il periodo di diritto ai certificati verdi di cui all'[articolo 14 del decreto legislativo 8 febbraio 2007, n. 20](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-8-CE%20sulla%20promozione%20della%20cogenerazione%20basata%20su%20una%20domanda%20di%20calore%20utile%20nel%20mercato%20interno%20dellenergia%20nonche%20modifica%20alla%20direttiva%2092-42-CEE.md), resta fermo in otto anni.
+Il periodo di diritto ai certificati verdi di cui all'[articolo 14 del decreto legislativo 8 febbraio 2007, n. 20](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-8-CE%20sulla%20promozione%20della%20cogenerazione%20basata%20su%20una%20domanda%20di%20calore%20utile%20nel%20mercato%20interno%20dellenergia%20nonche%20modifica%20alla%20direttiva%2092-42-CEE.md), resta fermo in otto anni.
 
 158.
 
@@ -3274,11 +3274,11 @@ Il periodo di diritto ai certificati verdi di cui all'[articolo 14 del decreto l
 
 159.
 
-Per gli impianti alimentati da fonti rinnovabili la dimostrazione di avere concretamente avviato la realizzazione dell'iniziativa ai fini del rispetto del termine di inizio dei lavori e' fornita anche con la prova di avere svolto le attivita' previste dal terzo periodo del [comma 1 dell'articolo 15 del decreto legislativo 16 marzo 1999, n. 79](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-92-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica.md), introdotto dall'[articolo 1, comma 75, della legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md).
+Per gli impianti alimentati da fonti rinnovabili la dimostrazione di avere concretamente avviato la realizzazione dell'iniziativa ai fini del rispetto del termine di inizio dei lavori e' fornita anche con la prova di avere svolto le attivita' previste dal terzo periodo del [comma 1 dell'articolo 15 del decreto legislativo 16 marzo 1999, n. 79](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-92-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica.md), introdotto dall'[articolo 1, comma 75, della legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md).
 
 160.
 
-Quando la domanda di autorizzazione unica per le opere di cui all'[articolo 12 del decreto legislativo 29 dicembre 2003, n. 387](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), e successive modificazioni, sia presentata da una amministrazione aggiudicatrice, ai sensi del [comma 25 dell'articolo 3 del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), le conseguenti attivita' sono soggette alla disciplina del medesimo [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
+Quando la domanda di autorizzazione unica per le opere di cui all'[articolo 12 del decreto legislativo 29 dicembre 2003, n. 387](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), e successive modificazioni, sia presentata da una amministrazione aggiudicatrice, ai sensi del [comma 25 dell'articolo 3 del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), le conseguenti attivita' sono soggette alla disciplina del medesimo [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
 
 161.
 
@@ -3299,7 +3299,7 @@ Il gestore di rete connette senza indugio e prioritariamente alla rete gli impia
 
 165.
 
-Al [comma 2 dell'articolo 14 del decreto legislativo 29 dicembre 2003, n. 387](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), sono aggiunte le seguenti lettere: 
+Al [comma 2 dell'articolo 14 del decreto legislativo 29 dicembre 2003, n. 387](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), sono aggiunte le seguenti lettere: 
  "f-bis) sottopongono a termini perentori le attivita' poste a carico dei gestori di rete, individuando sanzioni e procedure sostitutive in caso di inerzia; 
  f-ter) prevedono, ai sensi del [paragrafo 5 dell'articolo 23 della direttiva 2003/541 CE del Parlamento europeo e del Consiglio, del 26 giugno 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;541), e dell'[articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com24-letb), procedure di risoluzione delle controversie insorte fra produttori e gestori di rete con decisioni, adottate dall'Autorita' per l'energia elettrica e il gas, vincolanti fra le parti; 
  f-quater) prevedono l'obbligo di connessione prioritaria alla rete degli impianti alimentati da fonti rinnovabili, anche nel caso in cui la rete non sia tecnicamente in grado di ricevere l'energia prodotta ma possano essere adottati interventi di adeguamento congrui; 
@@ -3347,7 +3347,7 @@ Nell'ambito delle disponibilita' di cui all'articolo 12 del decreto del Ministro
 
 174.
 
-L'autorizzazione di cui al [comma 3 dell'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), per la costituzione e l'esercizio degli impianti fotovoltaici i cui soggetti responsabili sono enti locali, ove necessaria ai sensi della legislazione nazionale o regionale vigente e in relazione alle caratteristiche e alla ubicazione dell'impianto, e' rilasciata a seguito di un procedimento unico svolto ai sensi del comma 4 del medesimo articolo 12 per il complesso degli impianti.
+L'autorizzazione di cui al [comma 3 dell'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-77-CE%20relativa%20alla%20promozione%20dellenergia%20elettrica%20prodotta%20da%20fonti%20energetiche%20rinnovabili%20nel%20mercato%20interno%20dellelettricita.md), per la costituzione e l'esercizio degli impianti fotovoltaici i cui soggetti responsabili sono enti locali, ove necessaria ai sensi della legislazione nazionale o regionale vigente e in relazione alle caratteristiche e alla ubicazione dell'impianto, e' rilasciata a seguito di un procedimento unico svolto ai sensi del comma 4 del medesimo articolo 12 per il complesso degli impianti.
 
 175.
 
@@ -3472,7 +3472,7 @@ Al fine di monitorare la dinamica dei prezzi dei beni di largo consumo derivanti
 
 199-ter.
 
-Alla Commissione di cui al comma 199-bis partecipano un rappresentante per ciascuno dei soggetti di cui al comma 199, i responsabili delle strutture direzionali di cui il Garante si avvale ai sensi del comma 200, un rappresentante delle autorita' indipendenti competenti per settore, tre rappresentanti delle associazioni dei consumatori e degli utenti inserite nell'elenco di cui all'[articolo 137 del Codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), nominati dal Consiglio nazionale dei consumatori e degli utenti, e un rappresentante delle regioni e delle province autonome. Fermo restando quanto previsto dall'[articolo 2 del decreto-legge 9 settembre 2005, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-09;182#art_2), convertito, con modificazioni, dalla [legge 11 novembre 2005, n. 231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%202005%20n.%20182%20recante%20interventi%20urgenti%20in%20agricoltura%20e%20per%20gli%20organismi%20pubblici%20del%20settore%20nonche%20per%20contrastare%20_812419049cc9.md), ove vengano in rilievo fenomeni relativi all'anomalo andamento dei prezzi delle filiere agroalimentari, alla Commissione partecipa, altresi', un rappresentante dell'Ispettorato centrale repressione frodi del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.
+Alla Commissione di cui al comma 199-bis partecipano un rappresentante per ciascuno dei soggetti di cui al comma 199, i responsabili delle strutture direzionali di cui il Garante si avvale ai sensi del comma 200, un rappresentante delle autorita' indipendenti competenti per settore, tre rappresentanti delle associazioni dei consumatori e degli utenti inserite nell'elenco di cui all'[articolo 137 del Codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), nominati dal Consiglio nazionale dei consumatori e degli utenti, e un rappresentante delle regioni e delle province autonome. Fermo restando quanto previsto dall'[articolo 2 del decreto-legge 9 settembre 2005, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-09;182#art_2), convertito, con modificazioni, dalla [legge 11 novembre 2005, n. 231](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%202005%20n.%20182%20recante%20interventi%20urgenti%20in%20agricoltura%20e%20per%20gli%20organismi%20pubblici%20del%20settore%20nonche%20per%20contrastare%20_812419049cc9.md), ove vengano in rilievo fenomeni relativi all'anomalo andamento dei prezzi delle filiere agroalimentari, alla Commissione partecipa, altresi', un rappresentante dell'Ispettorato centrale repressione frodi del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.
 
 199-quater.
 
@@ -3613,7 +3613,7 @@ Le somme rese disponibili per pagamenti non piu' dovuti relativi all'autorizzazi
 
 230.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 231.
 
@@ -3733,7 +3733,7 @@ Per la progettazione e l'avvio della realizzazione del passante grande di Bologn
 257.
 
 Per la prosecuzione degli interventi di realizzazione delle opere strategiche di cui alla [legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), e' autorizzata la concessione di contributi quindicennali di 99,6 milioni di euro a decorrere da ciascuno degli anni 2008, 2009 e 2010.
-A valere sulle risorse stanziate dai commi 257 e 258, per la prosecuzione degli interventi di cui all'[articolo 1, comma 1008, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), sono autorizzati contributi quindicennali di 5 milioni di euro a decorrere rispettivamente dall'anno 2008 e dall'anno 2009, e si procede ai sensi degli articoli 163 e seguenti del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md). A valere sulle risorse stanziate dai commi 257 e 258, per la realizzazione delle opere accessorie agli interventi di cui all'[articolo 1, comma 981, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e' autorizzato un contributo di 3 milioni di euro per l'anno 2008 e di 2 milioni di euro per l'anno 2009, e si procede ai sensi degli articoli 163 e seguenti del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
+A valere sulle risorse stanziate dai commi 257 e 258, per la prosecuzione degli interventi di cui all'[articolo 1, comma 1008, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), sono autorizzati contributi quindicennali di 5 milioni di euro a decorrere rispettivamente dall'anno 2008 e dall'anno 2009, e si procede ai sensi degli articoli 163 e seguenti del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md). A valere sulle risorse stanziate dai commi 257 e 258, per la realizzazione delle opere accessorie agli interventi di cui all'[articolo 1, comma 981, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), e' autorizzato un contributo di 3 milioni di euro per l'anno 2008 e di 2 milioni di euro per l'anno 2009, e si procede ai sensi degli articoli 163 e seguenti del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
 
 258.
 
@@ -3741,7 +3741,7 @@ Nell'ambito delle risorse disponibili a legislazione vigente per il programma st
 
 259.
 
-L'Autostrada Nogara-Mare Adriatico e il collegamento dei sistemi tangenziali nelle tratte Peschiera del Garda/Verona e Verona/Padova, opere di competenza della regione Veneto, sono inseriti, ai soli fini dell'approvazione, nelle procedure previste dall'articolo 161 del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni.
+L'Autostrada Nogara-Mare Adriatico e il collegamento dei sistemi tangenziali nelle tratte Peschiera del Garda/Verona e Verona/Padova, opere di competenza della regione Veneto, sono inseriti, ai soli fini dell'approvazione, nelle procedure previste dall'articolo 161 del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni.
 
 260.
 
@@ -3771,9 +3771,9 @@ La dotazione iniziale del Fondo di cui al comma 264 e le successive variazioni s
 
 Il Fondo di cui al comma 264 e' finalizzato al sostegno finanziario dei lavori, di competenza dei soggetti di cui all'[articolo 5, comma 7, lettera a), del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_5-com7-leta), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), da realizzare mediante:
                         a)
-                            contratti di concessione di cui all'articolo 53, comma 1, del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md);
+                            contratti di concessione di cui all'articolo 53, comma 1, del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md);
                         b)
-                            contratti di concessione di costruzione e gestione o affidamento unitario a contraente generale di cui all'articolo 173 del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
+                            contratti di concessione di costruzione e gestione o affidamento unitario a contraente generale di cui all'articolo 173 del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md).
 
 267.
 
@@ -3844,7 +3844,7 @@ Per gli interventi di cui ai commi 276, 279 e 280 gli stanziamenti previsti sono
 
 282.
 
-Per le nuove costruzioni che rientrane fra gli edifici di cui al [decreto legislativo 19 agosto 2005, n. 192](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e successive modificazioni, il rilascio del certificato di agibilita' al permesso di costruire e' subordinato alla presentazione della certificazione energetica dell'edificio.
+Per le nuove costruzioni che rientrane fra gli edifici di cui al [decreto legislativo 19 agosto 2005, n. 192](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202018-844%20che%20modifica%20la%20direttiva%202010-31-UE%20sulla%20prestazione%20energetica%20nelledilizia%20e%20la%20direttiva%202012-27-UE%20sullefficienza%20energetica%20della%20direttiva%202_f90d70b9701a.md), e successive modificazioni, il rilascio del certificato di agibilita' al permesso di costruire e' subordinato alla presentazione della certificazione energetica dell'edificio.
 
 283.
 
@@ -3882,17 +3882,17 @@ L'[articolo 2, comma 4, della legge 9 dicembre 1998, n. 431](https://www.normatt
 
 289.
 
-COMMA ABROGATO DAL [D.LGS. 18 APRILE 2016, N. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), COME MODIFICATO DAL [D.LGS. 19 APRILE 2017, N. 56](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2018%20aprile%202016%20n.%2050.%2017G00078.md).
+COMMA ABROGATO DAL [D.LGS. 18 APRILE 2016, N. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), COME MODIFICATO DAL [D.LGS. 19 APRILE 2017, N. 56](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2018%20aprile%202016%20n.%2050.%2017G00078.md).
 
 289-bis.
 
-COMMA ABROGATO DAL [D.LGS. 18 APRILE 2016, N. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), COME MODIFICATO DAL [D.LGS. 19 APRILE 2017, N. 56](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2018%20aprile%202016%20n.%2050.%2017G00078.md).
+COMMA ABROGATO DAL [D.LGS. 18 APRILE 2016, N. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), COME MODIFICATO DAL [D.LGS. 19 APRILE 2017, N. 56](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2018%20aprile%202016%20n.%2050.%2017G00078.md).
 
 290.
 
-Le attivita' di gestione, comprese quelle di manutenzione ordinaria e straordinaria, del raccordo autostradale di collegamento tra l'Autostrada A4 - tronco Venezia-Trieste, delle opere a questo complementari, nonche' della tratta autostradale Venezia-Padova, sono trasferite, una volta completati i lavori di costruzione, ovvero scaduta la concessione assentita all'Autostrada Padova-Venezia S.p.a., ad una societa' per azioni in house costituita pariteticamente tra l'ANAS S.p.a. e la regione Veneto o soggetto da essa interamente partecipato. La societa', o il soggetto da essa interamente partecipato, esercita l'attivita' di gestione nel rispetto delle norme in materia di appalti pubblici di lavori, di forniture e di servizi ed e' sottoposta al controllo analogo congiunto dei soggetti che la partecipano, esercitato ai sensi dell'[articolo 186, comma 7, del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md). I rapporti tra la societa' ed i soggetti pubblici soci sono regolati, oltre che dagli atti deliberativi di trasferimento delle funzioni, sulla base di apposita convenzione. La societa' assume direttamente gli oneri finanziari connessi al reperimento delle risorse necessarie per la realizzazione del raccordo autostradale di collegamento tra l'Autostrada A4 - tronco Venezia-Trieste, anche subentrando nei contratti stipulati direttamente dall'ANAS S.p.a.. Alla societa' possono altresi' essere affidate le attivita' di realizzazione e di gestione, comprese quelle di progettazione e di manutenzione ordinaria e straordinaria:
+Le attivita' di gestione, comprese quelle di manutenzione ordinaria e straordinaria, del raccordo autostradale di collegamento tra l'Autostrada A4 - tronco Venezia-Trieste, delle opere a questo complementari, nonche' della tratta autostradale Venezia-Padova, sono trasferite, una volta completati i lavori di costruzione, ovvero scaduta la concessione assentita all'Autostrada Padova-Venezia S.p.a., ad una societa' per azioni in house costituita pariteticamente tra l'ANAS S.p.a. e la regione Veneto o soggetto da essa interamente partecipato. La societa', o il soggetto da essa interamente partecipato, esercita l'attivita' di gestione nel rispetto delle norme in materia di appalti pubblici di lavori, di forniture e di servizi ed e' sottoposta al controllo analogo congiunto dei soggetti che la partecipano, esercitato ai sensi dell'[articolo 186, comma 7, del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md). I rapporti tra la societa' ed i soggetti pubblici soci sono regolati, oltre che dagli atti deliberativi di trasferimento delle funzioni, sulla base di apposita convenzione. La societa' assume direttamente gli oneri finanziari connessi al reperimento delle risorse necessarie per la realizzazione del raccordo autostradale di collegamento tra l'Autostrada A4 - tronco Venezia-Trieste, anche subentrando nei contratti stipulati direttamente dall'ANAS S.p.a.. Alla societa' possono altresi' essere affidate le attivita' di realizzazione e di gestione, comprese quelle di progettazione e di manutenzione ordinaria e straordinaria:
                         a)
-                            di ulteriori tratte autostradali situate prevalentemente nel territorio della regione Veneto, nonche', previa intesa tra le regioni interessate, nel territorio delle regioni limitrofe, anche secondo le modalita' previste dal [comma 7 dell'articolo 186 del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md);
+                            di ulteriori tratte autostradali situate prevalentemente nel territorio della regione Veneto, nonche', previa intesa tra le regioni interessate, nel territorio delle regioni limitrofe, anche secondo le modalita' previste dal [comma 7 dell'articolo 186 del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md);
                         b)
                             delle infrastrutture non autostradali, anche se non soggette a pedaggio, ricadenti nel territorio regionale;
                         c)
@@ -3964,8 +3964,8 @@ All'articolo 51, comma 3, lettera d), del testo unico della radiotelevisione di 
 
 303.
 
-Dopo il [comma 5 dell'articolo 4 del decreto legislativo 22 luglio 1999, n. 261](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md), e' aggiunto il seguente: 
- "5-bis. Nell'ottica di favorire un ulteriore sviluppo del mercato postale, migliorando la qualita' dei servizi offerti e preservando il livello occupazionale delle imprese del settore, il fornitore del servizio universale puo' prorogare gli accordi in essere con operatori privati gia' titolari di concessione del Ministero delle comunicazioni ai sensi dell'articolo 29, primo comma, del testo unico di cui al [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md)".
+Dopo il [comma 5 dell'articolo 4 del decreto legislativo 22 luglio 1999, n. 261](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md), e' aggiunto il seguente: 
+ "5-bis. Nell'ottica di favorire un ulteriore sviluppo del mercato postale, migliorando la qualita' dei servizi offerti e preservando il livello occupazionale delle imprese del settore, il fornitore del servizio universale puo' prorogare gli accordi in essere con operatori privati gia' titolari di concessione del Ministero delle comunicazioni ai sensi dell'articolo 29, primo comma, del testo unico di cui al [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md)".
 
 304.
 
@@ -4336,7 +4336,7 @@ Il quarto ed il quinto periodo del [comma 8 dell'articolo 3 del decreto-legge 25
 
 387.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 388.
 
@@ -4572,7 +4572,7 @@ Al fine di sostenere l'attivita' di ricerca, il fondo di cui all'[articolo 5, co
 
 433.
 
-Al concorso per l'accesso alle scuole universitarie di specializzazione in medicina e chirurgia, di cui al [decreto legislativo 17 agosto 1999, n. 368](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-16-CEE%20in%20materia%20di%20libera%20circolazione%20dei%20medici%20e%20di%20reciproco%20riconoscimento%20dei%20loro%20diplomi%20certificati%20ed%20altri%20titoli%20e%20delle%20direttive%2097-50-CE%2098-_c47dd6e82871.md), e successive modificazioni, possono partecipare tutti i laureati in medicina e chirurgia. I laureati di cui al primo periodo, che superano il concorso ivi previsto, sono ammessi alle scuole di specializzazione a condizione che conseguano l'abilitazione per l'esercizio dell'attivita' professionale, ove non ancora posseduta, entro la data di inizio delle attivita' didattiche di dette scuole immediatamente successiva al concorso espletato.
+Al concorso per l'accesso alle scuole universitarie di specializzazione in medicina e chirurgia, di cui al [decreto legislativo 17 agosto 1999, n. 368](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-16-CEE%20in%20materia%20di%20libera%20circolazione%20dei%20medici%20e%20di%20reciproco%20riconoscimento%20dei%20loro%20diplomi%20certificati%20ed%20altri%20titoli%20e%20delle%20direttive%2097-50-CE%2098-_c47dd6e82871.md), e successive modificazioni, possono partecipare tutti i laureati in medicina e chirurgia. I laureati di cui al primo periodo, che superano il concorso ivi previsto, sono ammessi alle scuole di specializzazione a condizione che conseguano l'abilitazione per l'esercizio dell'attivita' professionale, ove non ancora posseduta, entro la data di inizio delle attivita' didattiche di dette scuole immediatamente successiva al concorso espletato.
 
 434.
 
@@ -4624,7 +4624,7 @@ Le disposizioni di cui ai commi da 446 a 449 istituiscono e disciplinano l'azion
 
 446.
 
-Dopo l'[articolo 140 del codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e' inserito il seguente: 
+Dopo l'[articolo 140 del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e' inserito il seguente: 
  "Art. 140-bis. - (Azione collettiva risarcitoria). - 1. Le associazioni di cui al comma 1 dell'articolo 139 e gli altri soggetti di cui al comma 2 del presente articolo sono legittimati ad agire a tutela degli interessi collettivi dei consumatori e degli utenti richiedendo al tribunale del luogo in cui ha sede l'impresa l'accertamento del diritto al risarcimento del danno e alla restituzione delle somme spettanti ai singoli consumatori o utenti nell'ambito di rapporti giuridici relativi a contratti stipulati ai sensi dell'[articolo 1342 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1342), ovvero in conseguenza di atti illeciti extracontrattuali, di pratiche commerciali scorrette o di comportamenti anticoncorrenziali, quando sono lesi i diritti di una pluralita' di consumatori o di utenti. 
  2. Sono legittimati ad agire ai sensi del comma 1 anche associazioni e comitati che sono adeguatamente rappresentativi degli interessi collettivi fatti valere. I consumatori o utenti che intendono avvalersi della tutela prevista dal presente articolo devono comunicare per iscritto al proponente la propria adesione all'azione collettiva. L'adesione puo' essere comunicata, anche nel giudizio di appello, fino all'udienza di precisazione delle conclusioni. Nel giudizio promosso ai sensi del comma 1 e' sempre ammesso l'intervento dei singoli consumatori o utenti per proporre domande aventi il medesimo oggetto. L'esercizio dell'azione collettiva di cui al comma 1 o, se successiva, l'adesione all'azione collettiva, produce gli effetti interruttivi della prescrizione ai sensi dell'[articolo 2945 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2945). 
  3. Alla prima udienza il tribunale, sentite le parti, e assunte quando occorre sommarie informazioni, pronuncia sull'ammissibilita' della domanda, con ordinanza reclamabile davanti alla corte di appello, che pronuncia in camera di consiglio. La domanda e' dichiarata inammissibile quando e' manifestamente infondata, quando sussiste un conflitto di interessi, ovvero quando il giudice non ravvisa l'esistenza di un interesse collettivo suscettibile di adeguata tutela ai sensi del presente articolo. Il giudice puo' differire la pronuncia sull'ammissibilita' della domanda quando sul medesimo oggetto e' in corso un'istruttoria davanti ad un'autorita' indipendente. Se ritiene ammissibile la domanda il giudice dispone, a cura di chi ha proposto l'azione collettiva, che venga data idonea pubblicita' dei contenuti dell'azione proposta e da' i provvedimenti per la prosecuzione del giudizio. 
@@ -4640,11 +4640,11 @@ Le disposizioni di cui ai commi da 445 a 449 diventano efficaci decorsi ventiqua
 448.
 
 All'[articolo 50-bis, primo comma, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_50bis-com1), dopo il numero 7) e' aggiunto il seguente: 
- "7-bis) nelle cause di cui all'[articolo 140-bis del codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md)".
+ "7-bis) nelle cause di cui all'[articolo 140-bis del codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md)".
 
 449.
 
-Al [codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), la rubrica del titolo II della parte V e' sostituita dalla seguente: "Accesso alla giustizia".
+Al [codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), la rubrica del titolo II della parte V e' sostituita dalla seguente: "Accesso alla giustizia".
 
 450.
 
@@ -4708,15 +4708,15 @@ All'[articolo 1, comma 1259, della legge 27 dicembre 2006, n. 296](Disposizioni%
 
 458.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 459.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 460.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 461.
 
@@ -4870,7 +4870,7 @@ A decorrere dall'anno 2008, al fine di assicurare il conseguimento degli obietti
 
 489.
 
-Sono comunque fatti salvi i procedimenti in corso relativi a somme accantonate per i piani di impiego approvati dai Ministeri vigilanti, a fronte dei quali non sono state assunte obbligazioni giuridicamente perfezionate; le medesime somme sono investite entro il limite di cui al comma 488. Sono, altresi', fatti salvi i procedimenti per opere per le quali siano stati gia' consegnati i lavori ai sensi dell'articolo 130 del regolamento di cui al [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../DPR/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), o per le quali si sia positivamente concluso il procedimento di valutazione di congruita' tecnico-economica con riferimento all'investimento immobiliare da realizzare da parte degli organismi deputati.
+Sono comunque fatti salvi i procedimenti in corso relativi a somme accantonate per i piani di impiego approvati dai Ministeri vigilanti, a fronte dei quali non sono state assunte obbligazioni giuridicamente perfezionate; le medesime somme sono investite entro il limite di cui al comma 488. Sono, altresi', fatti salvi i procedimenti per opere per le quali siano stati gia' consegnati i lavori ai sensi dell'articolo 130 del regolamento di cui al [decreto del Presidente della Repubblica 21 dicembre 1999, n. 554](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20della%20legge%20quadro%20in%20materia%20di%20lavori%20pubblici%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md), o per le quali si sia positivamente concluso il procedimento di valutazione di congruita' tecnico-economica con riferimento all'investimento immobiliare da realizzare da parte degli organismi deputati.
 
 490.
 
@@ -5150,7 +5150,7 @@ All'[articolo 1, comma 1156, della legge 27 dicembre 2006, n. 296](Disposizioni%
 
 550.
 
-Nel limite di spesa di 55 milioni di euro annui a decorrere dall'anno 2008, il Ministro del lavoro e della previdenza sociale e' autorizzato a stipulare apposite convenzioni con i comuni destinatari degli interventi di cui all'[articolo 1, comma 1166, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), previa intesa con le regioni competenti, anche in deroga alla normativa vigente relativa ai lavoratori socialmente utili, per lo svolgimento di attivita' socialmente utili (ASU), per l'attuazione di misure di politiche attive del lavoro finalizzate alla stabilizzazione occupazionale dei lavoratori impiegati in ASU, nella disponibilita' degli stessi comuni da almeno un triennio, nonche' dei soggetti utilizzati da questi ultimi attraverso convenzioni stipulate ai sensi dell'[articolo 10, comma 3, del decreto legislativo 1° dicembre 1997, n. 468](../Decreti%20Legislativi/Revisione%20della%20disciplina%20sui%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2022%20della%20legge%2024%20giugno%201997%20n.%20196.md), e successive modificazioni, estendendo a quest'ultima tipologia di lavoratori i benefici e gli incentivi previsti per i lavoratori socialmente utili.
+Nel limite di spesa di 55 milioni di euro annui a decorrere dall'anno 2008, il Ministro del lavoro e della previdenza sociale e' autorizzato a stipulare apposite convenzioni con i comuni destinatari degli interventi di cui all'[articolo 1, comma 1166, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), previa intesa con le regioni competenti, anche in deroga alla normativa vigente relativa ai lavoratori socialmente utili, per lo svolgimento di attivita' socialmente utili (ASU), per l'attuazione di misure di politiche attive del lavoro finalizzate alla stabilizzazione occupazionale dei lavoratori impiegati in ASU, nella disponibilita' degli stessi comuni da almeno un triennio, nonche' dei soggetti utilizzati da questi ultimi attraverso convenzioni stipulate ai sensi dell'[articolo 10, comma 3, del decreto legislativo 1° dicembre 1997, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20sui%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2022%20della%20legge%2024%20giugno%201997%20n.%20196.md), e successive modificazioni, estendendo a quest'ultima tipologia di lavoratori i benefici e gli incentivi previsti per i lavoratori socialmente utili.
 
 551.
 
@@ -5176,7 +5176,7 @@ Le economie derivanti dai provvedimenti di revoca totale o parziale delle agevol
                         d)
                             interventi per lo sviluppo delle attivita' produttive inclusi in accordi di programma in vigore e costruzione di centri destinati a Poli di innovazione situati nei territori delle regioni del Mezzogiorno non ricompresi nell'obiettivo Convergenza ai sensi del regolamento (CE) n. 1083/2006 del Consiglio, dell'11 luglio 2006, nonche' programmi di sviluppo regionale riferiti alle medesime regioni. I rapporti tra Governo e regione e le modalita' di erogazione delle predette risorse finanziarie sono regolate dalle delibere del CIPE di assegnazione delle risorse e da appositi accordi di programma quadro;
                         e)
-                            la creazione di un fondo denominato "Fondo per la gestione delle quote di emissione di gas serra di cui alla [direttiva 2003/ 87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87)", da destinare alla "riserva nuovi entranti" dei Piani nazionali di assegnazione delle quote di cui al [decreto legislativo 4 aprile 2006, n. 216](../Decreti%20Legislativi/Attuazione%20delle%20direttive%202003-87%20e%202004-101-CE%20in%20materia%20di%20scambio%20di%20quote%20di%20emissioni%20dei%20gas%20a%20effetto%20serra%20nella%20Comunita%20con%20riferimento%20ai%20meccanismi%20di%20progetto%20del%20Protocollo%20di%20Kyoto.md), secondo modalita' stabilite con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dello sviluppo economico e con il Ministro dell'ambiente e della tutela del territorio e del mare, da emanare entro sessanta giorni dalla data di entrata in vigore della presente legge;
+                            la creazione di un fondo denominato "Fondo per la gestione delle quote di emissione di gas serra di cui alla [direttiva 2003/ 87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87)", da destinare alla "riserva nuovi entranti" dei Piani nazionali di assegnazione delle quote di cui al [decreto legislativo 4 aprile 2006, n. 216](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202003-87%20e%202004-101-CE%20in%20materia%20di%20scambio%20di%20quote%20di%20emissioni%20dei%20gas%20a%20effetto%20serra%20nella%20Comunita%20con%20riferimento%20ai%20meccanismi%20di%20progetto%20del%20Protocollo%20di%20Kyoto.md), secondo modalita' stabilite con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dello sviluppo economico e con il Ministro dell'ambiente e della tutela del territorio e del mare, da emanare entro sessanta giorni dalla data di entrata in vigore della presente legge;
                         f)
                             la proroga per gli anni 2008, 2009 e 2010 della deduzione forfetaria dal reddito d'impresa in favore degli esercenti impianti di distribuzione di carburanti di cui all'[articolo 21, comma 1, della legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_21-com1);
                         g)
@@ -5255,7 +5255,7 @@ Il contributo al Comitato italiano paraolimpico (CIP) di cui all'[articolo 1, co
 
 569.
 
-Le amministrazioni statali centrali e periferiche, ad esclusione degli istituti e scuole di ogni ordine e grado, delle istituzioni educative e delle istituzioni universitarie, inviano, entro il 28 febbraio per l'anno 2008 ed entro il 31 dicembre per gli anni successivi, al Ministero dell'economia e delle finanze un prospetto contenente i dati relativi alla previsione annuale dei propri fabbisogni di beni e servizi, per il cui acquisto si applica il codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), conformemente alle modalita' e allo schema pubblicati sul portale degli acquisti in rete del Ministero dell'economia e delle finanze e di Consip Spa.
+Le amministrazioni statali centrali e periferiche, ad esclusione degli istituti e scuole di ogni ordine e grado, delle istituzioni educative e delle istituzioni universitarie, inviano, entro il 28 febbraio per l'anno 2008 ed entro il 31 dicembre per gli anni successivi, al Ministero dell'economia e delle finanze un prospetto contenente i dati relativi alla previsione annuale dei propri fabbisogni di beni e servizi, per il cui acquisto si applica il codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), conformemente alle modalita' e allo schema pubblicati sul portale degli acquisti in rete del Ministero dell'economia e delle finanze e di Consip Spa.
 
 570.
 
@@ -5271,7 +5271,7 @@ In relazione ai parametri di prezzo-qualita' di cui al [comma 3 dell'articolo 26
 
 573.
 
-Per raggiungere gli obiettivi di contenimento e di razionalizzazione della spesa pubblica, fermo restando quanto previsto dagli [articoli 26 della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), e 58 della [legge 23 dicembre 2000, n. 388, e dall'articolo 1, comma 449](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), della [legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), le stazioni appaltanti di cui all'[articolo 3, comma 33, del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) relativi a lavori, servizi e forniture, di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), possono ricorrere per l'acquisto di beni e servizi alle convenzioni stipulate da Consip Spa ai sensi dell'[articolo 26 della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), nel rispetto dei principi di tutela della concorrenza.
+Per raggiungere gli obiettivi di contenimento e di razionalizzazione della spesa pubblica, fermo restando quanto previsto dagli [articoli 26 della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), e 58 della [legge 23 dicembre 2000, n. 388, e dall'articolo 1, comma 449](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), della [legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), le stazioni appaltanti di cui all'[articolo 3, comma 33, del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) relativi a lavori, servizi e forniture, di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), possono ricorrere per l'acquisto di beni e servizi alle convenzioni stipulate da Consip Spa ai sensi dell'[articolo 26 della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), nel rispetto dei principi di tutela della concorrenza.
 
 574.
 
@@ -5287,7 +5287,7 @@ Il Ministro dell'economia e delle finanze allega al Documento di programmazione 
 
 577.
 
-Al fine di garantire una piu' incisiva azione di gestione, controllo e supervisione delle infrastrutture nazionali del Sistema pubblico di connettivita' (SPC), il Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA) sostiene i costi di cui all'[articolo 86, comma 2, del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), fino alla scadenza dei contratti-quadro stipulati con gli operatori vincitori delle gare, a valere sulle risorse disponibili previste dal comma 585.
+Al fine di garantire una piu' incisiva azione di gestione, controllo e supervisione delle infrastrutture nazionali del Sistema pubblico di connettivita' (SPC), il Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA) sostiene i costi di cui all'[articolo 86, comma 2, del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), fino alla scadenza dei contratti-quadro stipulati con gli operatori vincitori delle gare, a valere sulle risorse disponibili previste dal comma 585.
 
 578.
 
@@ -5300,11 +5300,11 @@ Nell'ambito del programma sono altresi' individuati i servizi di cooperazione ap
 
 580.
 
-Il programma, sentita la Commissione di cui all'articolo 80 del citato codice di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), e' approvato con decreto del Ministro per le riforme e le innovazioni nella pubblica amministrazione.
+Il programma, sentita la Commissione di cui all'articolo 80 del citato codice di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), e' approvato con decreto del Ministro per le riforme e le innovazioni nella pubblica amministrazione.
 
 581.
 
-Il CNIPA sviluppa il progetto esecutivo del programma sulla base delle indicazioni della Commissione di cui all'articolo 80 del citato codice di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), che lo approva in via definitiva.
+Il CNIPA sviluppa il progetto esecutivo del programma sulla base delle indicazioni della Commissione di cui all'articolo 80 del citato codice di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), che lo approva in via definitiva.
 
 582.
 
@@ -5340,7 +5340,7 @@ A decorrere dall'anno 2008 la cilindrata media delle autovetture di servizio ass
 
 589.
 
-Il Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA) effettua, anche a campione, azioni di monitoraggio e verifica del rispetto delle disposizioni di cui all'[articolo 47 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), e successive modificazioni, nonche' delle disposizioni in materia di posta elettronica certificata. Il mancato adeguamento alle predette disposizioni in misura superiore al 50 per cento del totale della corrispondenza inviata, certificato dal CNIPA, comporta, per le pubbliche amministrazioni dello Stato, comprese le aziende ed amministrazioni dello Stato ad ordinamento autonomo, e per gli enti pubblici non economici nazionali, la riduzione, nell'esercizio finanziario successivo, del 30 per cento delle risorse stanziate nell'anno in corso per spese di invio della corrispondenza cartacea.
+Il Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA) effettua, anche a campione, azioni di monitoraggio e verifica del rispetto delle disposizioni di cui all'[articolo 47 del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), e successive modificazioni, nonche' delle disposizioni in materia di posta elettronica certificata. Il mancato adeguamento alle predette disposizioni in misura superiore al 50 per cento del totale della corrispondenza inviata, certificato dal CNIPA, comporta, per le pubbliche amministrazioni dello Stato, comprese le aziende ed amministrazioni dello Stato ad ordinamento autonomo, e per gli enti pubblici non economici nazionali, la riduzione, nell'esercizio finanziario successivo, del 30 per cento delle risorse stanziate nell'anno in corso per spese di invio della corrispondenza cartacea.
 
 590.
 
@@ -5348,14 +5348,14 @@ Con decreto del Ministro per le riforme e le innovazioni nella pubblica amminist
 
 591.
 
-All'[articolo 78 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al citato [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82), sono aggiunti, in fine, i seguenti commi: 
+All'[articolo 78 del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al citato [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82), sono aggiunti, in fine, i seguenti commi: 
  "2-bis. Le pubbliche amministrazioni centrali e periferiche di cui all'articolo 1, comma 1, lettera z), del presente codice, inclusi gli istituti e le scuole di ogni ordine e grado, le istituzioni educative e le istituzioni universitarie, nei limiti di cui all'articolo 1, comma 449, secondo periodo, della [legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), sono tenute, a decorrere dal 1° gennaio 2008 e comunque a partire dalla scadenza dei contratti relativi ai servizi di fonia in corso alla data predetta ad utilizzare i servizi "Voce tramite protocollo Internet" (VoIP) previsti dal Sistema pubblico di connettivita' o da analoghe convenzioni stipulate da CONSIP. 
  2-ter. Il CNIPA effettua azioni di monitoraggio e verifica del rispetto delle disposizioni di cui al comma 2-bis. 
  2-quater. Il mancato adeguamento alle disposizioni di cui al comma 2-bis comporta la riduzione, nell'esercizio finanziario successivo, del 30 per cento delle risorse stanziate nell'anno in corso per spese di telefonia".
 
 592.
 
-Con decreto del Ministro per le riforme e le innovazioni nella pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze e con il Ministro delle comunicazioni, da adottare entro due mesi dalla data di entrata in vigore della presente legge, sono stabilite le modalita' attuative dei commi 2-bis, 2-ter e 2-quater dell'articolo 78 del citato codice di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), introdotti dal comma 591.
+Con decreto del Ministro per le riforme e le innovazioni nella pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze e con il Ministro delle comunicazioni, da adottare entro due mesi dalla data di entrata in vigore della presente legge, sono stabilite le modalita' attuative dei commi 2-bis, 2-ter e 2-quater dell'articolo 78 del citato codice di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), introdotti dal comma 591.
 
 593.
 
@@ -5385,7 +5385,7 @@ A consuntivo annuale, le amministrazioni trasmettono una relazione agli organi d
 
 598.
 
-I piani triennali di cui al comma 594 sono resi pubblici con le modalita' previste dall'[articolo 11 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e dall'[articolo 54 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al citato [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82).
+I piani triennali di cui al comma 594 sono resi pubblici con le modalita' previste dall'[articolo 11 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e dall'[articolo 54 del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al citato [decreto legislativo n. 82 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;82).
 
 599.
 
@@ -5409,39 +5409,39 @@ COMMA ABROGATO DAL [D.L. 1 LUGLIO 2009, N. 78](../DL%20proroghe/Provvedimenti%20
 
 603.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 604.
 
-IL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
+IL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
 
 605.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 606.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 607.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 608.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 609.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 610.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 611.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 612.
 
@@ -5511,23 +5511,23 @@ Il [comma 7 dell'articolo 1 della legge 23 dicembre 2005, n. 266](Disposizioni%2
 
 627.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 628.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 629.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 630.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 631.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 632.
 
@@ -6019,15 +6019,15 @@ COMMA ABROGATO DAL [D.LGS. 14 MARZO 2013, N. 33](../Decreti%20Legislativi/Riordi
 
 19.
 
-COMMA ABROGATO DAL [D.LGS. 20 MARZO 2010, N. 53](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202007-66-CE%20che%20modifica%20le%20direttive%2089-665-CEE%20e%2092-13-CEE%20per%20quanto%20riguarda%20il%20miglioramento%20dellefficacia%20delle%20procedure%20di%20ricorso%20in%20materia%20daggiudicaz_a4a5b063bbcc.md).
+COMMA ABROGATO DAL [D.LGS. 20 MARZO 2010, N. 53](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202007-66-CE%20che%20modifica%20le%20direttive%2089-665-CEE%20e%2092-13-CEE%20per%20quanto%20riguarda%20il%20miglioramento%20dellefficacia%20delle%20procedure%20di%20ricorso%20in%20materia%20daggiudicaz_a4a5b063bbcc.md).
 
 20.
 
-COMMA ABROGATO DAL [D.LGS. 20 MARZO 2010, N. 53](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202007-66-CE%20che%20modifica%20le%20direttive%2089-665-CEE%20e%2092-13-CEE%20per%20quanto%20riguarda%20il%20miglioramento%20dellefficacia%20delle%20procedure%20di%20ricorso%20in%20materia%20daggiudicaz_a4a5b063bbcc.md).
+COMMA ABROGATO DAL [D.LGS. 20 MARZO 2010, N. 53](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202007-66-CE%20che%20modifica%20le%20direttive%2089-665-CEE%20e%2092-13-CEE%20per%20quanto%20riguarda%20il%20miglioramento%20dellefficacia%20delle%20procedure%20di%20ricorso%20in%20materia%20daggiudicaz_a4a5b063bbcc.md).
 
 21.
 
-COMMA ABROGATO DAL [D.LGS. 20 MARZO 2010, N. 53](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202007-66-CE%20che%20modifica%20le%20direttive%2089-665-CEE%20e%2092-13-CEE%20per%20quanto%20riguarda%20il%20miglioramento%20dellefficacia%20delle%20procedure%20di%20ricorso%20in%20materia%20daggiudicaz_a4a5b063bbcc.md).
+COMMA ABROGATO DAL [D.LGS. 20 MARZO 2010, N. 53](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202007-66-CE%20che%20modifica%20le%20direttive%2089-665-CEE%20e%2092-13-CEE%20per%20quanto%20riguarda%20il%20miglioramento%20dellefficacia%20delle%20procedure%20di%20ricorso%20in%20materia%20daggiudicaz_a4a5b063bbcc.md).
 
 22.
 
@@ -6037,7 +6037,7 @@ Il Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia
 
 (1) 
  
- 23. All'[articolo 240 del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dopo il comma 15 e' inserito il seguente: 
+ 23. All'[articolo 240 del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dopo il comma 15 e' inserito il seguente: 
  "15-bis. Qualora i termini di cui al comma 5 e al comma 13 non siano rispettati a causa di ritardi negli adempimenti del responsabile del procedimento ovvero della commissione, il primo risponde sia sul piano disciplinare, sia a titolo di danno erariale, e la seconda perde qualsivoglia diritto al compenso di cui al comma 10".
 
 24.
@@ -6357,7 +6357,7 @@ Le disposizioni di cui ai commi 81 e 82 si applicano anche, a decorrere dall'ann
 
 85.
 
-All'[articolo 17 del decreto legislativo 8 aprile 2003, n. 66](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md), e' aggiunto, in fine, il seguente comma: 
+All'[articolo 17 del decreto legislativo 8 aprile 2003, n. 66](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md), e' aggiunto, in fine, il seguente comma: 
  "6-bis. Le disposizioni di cui all'articolo 7 non si applicano al personale del ruolo sanitario del Servizio sanitario nazionale, per il quale si fa riferimento alle vigenti disposizioni contrattuali in materia di orario di lavoro, nel rispetto dei principi generali della protezione della sicurezza e della salute dei lavoratori".
 
 86.
@@ -6396,7 +6396,7 @@ Le amministrazioni di cui al comma 90 continuano ad avvalersi del personale di c
 
 93.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 94.
 
@@ -6420,7 +6420,7 @@ Per le finalita' di cui ai commi da 90 a 96, il Fondo di cui all'[articolo 1, co
 
 98.
 
-Per le assunzioni nelle carriere iniziali delle Forze di polizia di cui al comma 89, le amministrazioni interessate provvedono, prioritariamente, mediante l'assunzione dei volontari delle Forze armate utilmente collocati nelle rispettive graduatorie dei concorsi banditi ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 2 settembre 1997, n. 332](../DPR/Regolamento%20recante%20norme%20per%20limmissione%20dei%20volontari%20delle%20Forze%20armate%20nelle%20carriere%20iniziali%20della%20Difesa%20delle%20Forze%20di%20polizia%20dei%20Vigili%20del%20fuoco%20e%20del%20Corpo%20militare%20della%20Croc_8ed8a96c9a04.md), che abbiano ultimato la ferma e, per i rimanenti posti, mediante concorsi riservati ai volontari in ferma prefissata di un anno, ovvero in rafferma annuale, di cui alla [legge 23 agosto 2004, n. 226](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Sospensione%20anticipata%20del%20servizio%20obbligatorio%20di%20leva%20e%20disciplina%20dei%20volontari%20di%20truppa%20in%20ferma%20prefissata%20nonche%20delega%20al%20Governo%20per%20il%20conseguente%20coordinamento%20con%20la%20normativa%20di%20settore.md), in servizio o in congedo, in possesso dei requisiti previsti dai rispettivi ordinamenti. In deroga a quanto previsto dall'[articolo 16, comma 4, della legge n. 226 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;226#art_16-com4), i vincitori dei concorsi sono immessi direttamente nelle carriere iniziali delle Forze di polizia di cui al comma 89.
+Per le assunzioni nelle carriere iniziali delle Forze di polizia di cui al comma 89, le amministrazioni interessate provvedono, prioritariamente, mediante l'assunzione dei volontari delle Forze armate utilmente collocati nelle rispettive graduatorie dei concorsi banditi ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 2 settembre 1997, n. 332](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20limmissione%20dei%20volontari%20delle%20Forze%20armate%20nelle%20carriere%20iniziali%20della%20Difesa%20delle%20Forze%20di%20polizia%20dei%20Vigili%20del%20fuoco%20e%20del%20Corpo%20militare%20della%20Croc_8ed8a96c9a04.md), che abbiano ultimato la ferma e, per i rimanenti posti, mediante concorsi riservati ai volontari in ferma prefissata di un anno, ovvero in rafferma annuale, di cui alla [legge 23 agosto 2004, n. 226](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Sospensione%20anticipata%20del%20servizio%20obbligatorio%20di%20leva%20e%20disciplina%20dei%20volontari%20di%20truppa%20in%20ferma%20prefissata%20nonche%20delega%20al%20Governo%20per%20il%20conseguente%20coordinamento%20con%20la%20normativa%20di%20settore.md), in servizio o in congedo, in possesso dei requisiti previsti dai rispettivi ordinamenti. In deroga a quanto previsto dall'[articolo 16, comma 4, della legge n. 226 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;226#art_16-com4), i vincitori dei concorsi sono immessi direttamente nelle carriere iniziali delle Forze di polizia di cui al comma 89.
 
 99.
 
@@ -6563,7 +6563,7 @@ Presso la Presidenza del Consiglio dei ministri - Dipartimento della funzione pu
 
 130.
 
-La banca dati di cui al comma 129 costituisce base dati di interesse nazionale ai sensi dell'[articolo 60 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+La banca dati di cui al comma 129 costituisce base dati di interesse nazionale ai sensi dell'[articolo 60 del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 131.
 

@@ -840,7 +840,7 @@ natura e gravita' delle condizioni di alterazione dei corpi medesimi;
                                 240 miliardi per l'esecuzione o il completamento di opere o 
 impianti per lo smaltimento dei rifiuti, di competenza di enti locali e di loro consorzi, che rivestano particolare importanza per il raggiungimento degli obiettivi di cui alle lettere a), b),
                             c)
-                                ed e) dell'[articolo 1 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
+                                ed e) dell'[articolo 1 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
 
 6.
 
@@ -864,7 +864,7 @@ E' autorizzata la spesa di lire 8.000 milioni per provvedere:
                             a)
                                 alla redazione di una relazione al Parlamento sullo stato dell'ambiente;
                             b)
-                                agli studi relativi al piano generale di risanamento delle acque di cui all'[articolo 1, lettera a), della legge 10 maggio 1976, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e all'esercizio delle competenze statali di cui all'[articolo 4 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
+                                agli studi relativi al piano generale di risanamento delle acque di cui all'[articolo 1, lettera a), della legge 10 maggio 1976, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), e all'esercizio delle competenze statali di cui all'[articolo 4 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
                             c)
                                 alla valutazione dei progetti di risanamento ambientale ammissibili a finanziamento statale.
 
@@ -894,7 +894,7 @@ La [L 11 marzo 1988, n.67](Disposizioni%20per%20la%20formazione%20del%20bilancio
 
 AGGIORNAMENTO (23)
 
-Il [D.P.R. 14 maggio 2007, n.90](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20dellambiente%20e%20della%20tutela%20del%20territorio%20e%20del%20mare%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%202_56b8492b8646.md) ha disposto (con l'art.2 comma 1) che "Dalla data di entrata in vigore del presente regolamento la Commissione tecnico scientifica, istituita ai sensi dell'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e del [decreto del Presidente della Repubblica 23 novembre 1991, n. 438](../DPR/Regolamento%20per%20lorganizzazione%20e%20il%20funzionamento%20della%20commissione%20tecnico-scientifica%20per%20la%20valutazione%20dei%20progetti%20di%20protezione%20e%20risanamento%20ambientale%20del%20Ministero%20dellambiente.md), e' ridenominata "Commissione di valutazione degli investimenti e di supporto alla programmazione e gestione degli interventi ambientali".
+Il [D.P.R. 14 maggio 2007, n.90](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20dellambiente%20e%20della%20tutela%20del%20territorio%20e%20del%20mare%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%202_56b8492b8646.md) ha disposto (con l'art.2 comma 1) che "Dalla data di entrata in vigore del presente regolamento la Commissione tecnico scientifica, istituita ai sensi dell'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e del [decreto del Presidente della Repubblica 23 novembre 1991, n. 438](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lorganizzazione%20e%20il%20funzionamento%20della%20commissione%20tecnico-scientifica%20per%20la%20valutazione%20dei%20progetti%20di%20protezione%20e%20risanamento%20ambientale%20del%20Ministero%20dellambiente.md), e' ridenominata "Commissione di valutazione degli investimenti e di supporto alla programmazione e gestione degli interventi ambientali".
 
 ### Art. 15.
 
@@ -1041,7 +1041,7 @@ TITOLO IX
 
 1.
 
-Il Comitato interministeriale prezzi (CIP), o la Giunta in caso di urgenza, al fine del contenimento, nel complesso, della media ponderata degli incrementi delle tariffe e dei prezzi amministrati dei beni e servizi, inclusi nell'indice ISTAT dei prezzi al consumo per l'intera collettivita' nazionale, entro il tasso massimo di inflazione indicato per ciascun anno nella Relazione previsionale e programmatica del Governo, ovvero aggiornato in sede di approvazione della Relazione previsionale e programmatica per l'anno successivo, esprime, nell'ambito dei poteri di coordinamento di cui al [decreto legislativo luogotenenziale 19 ottobre 1944, n. 347, parere](../Decreti%20legislativi%20luogotenenziali/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md) preventivo vincolante sulle proposte di incremento da deliberarsi da parte di altri organi delle Amministrazioni centrali dello Stato, anche ad ordinamento autonomo, ed emana apposite direttive alle amministrazioni regionali, provinciali e comunali ed ai comitati provinciali dei prezzi per i provvedimenti da adottarsi nell'ambito territoriale di loro competenza.
+Il Comitato interministeriale prezzi (CIP), o la Giunta in caso di urgenza, al fine del contenimento, nel complesso, della media ponderata degli incrementi delle tariffe e dei prezzi amministrati dei beni e servizi, inclusi nell'indice ISTAT dei prezzi al consumo per l'intera collettivita' nazionale, entro il tasso massimo di inflazione indicato per ciascun anno nella Relazione previsionale e programmatica del Governo, ovvero aggiornato in sede di approvazione della Relazione previsionale e programmatica per l'anno successivo, esprime, nell'ambito dei poteri di coordinamento di cui al [decreto legislativo luogotenenziale 19 ottobre 1944, n. 347, parere](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Comitato%20interministeriale%20e%20dei%20Comitati%20provinciali%20per%20il%20coordinamento%20e%20la%20disciplina%20dei%20prezzi.%20044U0347.md) preventivo vincolante sulle proposte di incremento da deliberarsi da parte di altri organi delle Amministrazioni centrali dello Stato, anche ad ordinamento autonomo, ed emana apposite direttive alle amministrazioni regionali, provinciali e comunali ed ai comitati provinciali dei prezzi per i provvedimenti da adottarsi nell'ambito territoriale di loro competenza.
 
 2.
 
@@ -1064,7 +1064,7 @@ Il [primo comma dell'articolo 2 del decreto-legge 12 marzo 1982, n. 69](https://
 
 3.
 
-Per l'anno 1986 il canone annuo da pagarsi allo Stato dalla concessionaria SIP - Societa' italiana per l'esercizio delle telecomunicazioni p.a. - in base all'articolo 275 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), modificato dall'articolo unico della [legge 22 dicembre 1984, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;870), e' stabilito nella misura del 5,5 per cento degli introiti lordi risultanti dal bilancio annuale, riferiti ai servizi dati in concessione.
+Per l'anno 1986 il canone annuo da pagarsi allo Stato dalla concessionaria SIP - Societa' italiana per l'esercizio delle telecomunicazioni p.a. - in base all'articolo 275 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), modificato dall'articolo unico della [legge 22 dicembre 1984, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-12-22;870), e' stabilito nella misura del 5,5 per cento degli introiti lordi risultanti dal bilancio annuale, riferiti ai servizi dati in concessione.
 
 4.
 
@@ -1199,7 +1199,7 @@ A decorrere dal periodo di paga in corso al 1 gennaio 1986, cessa la corresponsi
 
 5.
 
-Sono fatti salvi gli aumenti della indennita' spettante al personale del Ministero degli affari esteri allorche' in servizio all'estero ai sensi dell'[articolo 173 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), nonche' al personale in servizio nelle istituzioni scolastiche e culturali all'estero, ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](../DPR/Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md).
+Sono fatti salvi gli aumenti della indennita' spettante al personale del Ministero degli affari esteri allorche' in servizio all'estero ai sensi dell'[articolo 173 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), nonche' al personale in servizio nelle istituzioni scolastiche e culturali all'estero, ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](../Atti%20normativi%20abrogati%20%28in%20originale%29/Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md).
 
 6.
 
@@ -1542,11 +1542,11 @@ E' autorizzata a favore dell'Associazione per lo sviluppo dell'industria nel Mez
 
 20.
 
-Non possono essere approvati progetti di costruzione o ristrutturazione di opere pubbliche che non siano conformi alle disposizioni del [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../DPR/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md), in materia di superamento delle barriere architettoniche. Non possono altresi' essere erogati dallo Stato o da altri enti pubblici contributi o agevolazioni per la realizzazione di progetti in contrasto con le norme di cui al medesimo decreto.
+Non possono essere approvati progetti di costruzione o ristrutturazione di opere pubbliche che non siano conformi alle disposizioni del [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md), in materia di superamento delle barriere architettoniche. Non possono altresi' essere erogati dallo Stato o da altri enti pubblici contributi o agevolazioni per la realizzazione di progetti in contrasto con le norme di cui al medesimo decreto.
 
 21.
 
-Per gli edifici pubblici gia' esistenti non ancora adeguati alle prescrizioni del [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../DPR/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md), dovranno essere adottati da parte delle Amministrazioni competenti piani di eliminazione delle barriere architettoniche entro un anno dalla entrata in vigore della presente legge.
+Per gli edifici pubblici gia' esistenti non ancora adeguati alle prescrizioni del [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md), dovranno essere adottati da parte delle Amministrazioni competenti piani di eliminazione delle barriere architettoniche entro un anno dalla entrata in vigore della presente legge.
 
 22.
 
@@ -1554,12 +1554,12 @@ Per gli interventi di competenza dei comuni e delle province, trascorso il termi
 
 23.
 
-Nell'ambito della complessiva somma che in ciascun anno la Cassa depositi e prestiti mette a disposizione degli enti locali, per la contrazione di mutui con finalita' di investimento, una quota pari all'1 per cento e' destinata ai prestiti finalizzati ad interventi di ristrutturazione e rinnovamento in attuazione della normativa di cui al [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../DPR/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md).
+Nell'ambito della complessiva somma che in ciascun anno la Cassa depositi e prestiti mette a disposizione degli enti locali, per la contrazione di mutui con finalita' di investimento, una quota pari all'1 per cento e' destinata ai prestiti finalizzati ad interventi di ristrutturazione e rinnovamento in attuazione della normativa di cui al [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md).
 Per gli anni successivi la quota percentuale e' elevata al 2 per cento.
 
 24.
 
-A decorrere dall'anno 1986, una quota pari al 5 per cento dello stanziamento iscritto al capitolo n. 8405 dello stato di previsione del Ministero dei lavori pubblici deve essere destinata ad interventi di ristrutturazione ed adeguamento in attuazione della normativa di cui al [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../DPR/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md). La quota predetta e' iscritta in apposito capitolo dello stato di previsione del medesimo Ministero con contestuale riduzione dello stanziamento del richiamato capitolo n. 8405.
+A decorrere dall'anno 1986, una quota pari al 5 per cento dello stanziamento iscritto al capitolo n. 8405 dello stato di previsione del Ministero dei lavori pubblici deve essere destinata ad interventi di ristrutturazione ed adeguamento in attuazione della normativa di cui al [decreto del Presidente della Repubblica 27 aprile 1978, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellart.%2027%20della%20legge%2030%20marzo%201971%20n.%20118%20a%20favore%20dei%20mutilati%20e%20invalidi%20civili%20in%20materia%20di%20barriere%20architettoniche%20e%20trasporti%20pubblici.md). La quota predetta e' iscritta in apposito capitolo dello stato di previsione del medesimo Ministero con contestuale riduzione dello stanziamento del richiamato capitolo n. 8405.
 
 25.
 
@@ -1571,7 +1571,7 @@ Il contributo ordinario annuo concesso al comune di Roma ai sensi dell'[articolo
 
 ### Art. 33.
 
-((IL [D.LGS. 12 APRILE 2006, N. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 12 APRILE 2006, N. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 34.
 

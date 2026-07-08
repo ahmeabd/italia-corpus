@@ -1335,7 +1335,7 @@ Le contribuzioni di cui al comma 3 sono versate direttamente alla CONSOB in dero
 
 6.
 
-La riscossione coattiva delle contribuzioni previste dal comma 3 avviene tramite ruolo e secondo le modalita' di cui all'[articolo 67, comma 2, del D.P.R. 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
+La riscossione coattiva delle contribuzioni previste dal comma 3 avviene tramite ruolo e secondo le modalita' di cui all'[articolo 67, comma 2, del D.P.R. 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
 
 ### Art. 41. — (Modifiche alla legge 2 gennaio 1991, n. 1)
 

@@ -191,7 +191,7 @@ Chi non esegue in tutto o in parte i versamenti di cui al comma 2 e' soggetto al
 
 5-bis.
 
-Per la riscossione dei versamenti di cui al comma 2 si applicano le disposizioni di cui al decreto del Ministro delle finanze 22 novembre 1991, pubblicato nella Gazzetta Ufficiale n. 279 del 28 novembre 1991, e al [decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md); ((le banche delegate al pagamento e i concessionari devono versare negli ordinari termini e comunque non oltre il 31 dicembre le somme riscosse entro il 27 dicembre e quelle che il concessionario ha ricevuto dalla banca entro il 30 dicembre)).
+Per la riscossione dei versamenti di cui al comma 2 si applicano le disposizioni di cui al decreto del Ministro delle finanze 22 novembre 1991, pubblicato nella Gazzetta Ufficiale n. 279 del 28 novembre 1991, e al [decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md); ((le banche delegate al pagamento e i concessionari devono versare negli ordinari termini e comunque non oltre il 31 dicembre le somme riscosse entro il 27 dicembre e quelle che il concessionario ha ricevuto dalla banca entro il 30 dicembre)).
 
 5-ter.
 
