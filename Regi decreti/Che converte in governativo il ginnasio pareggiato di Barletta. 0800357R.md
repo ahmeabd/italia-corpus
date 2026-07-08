@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Voluto il testo unico delle leggi sulle norme per la conversione in governative e l'istituzione di scuole medie, approvato con [R. decreto 25 luglio 1907, n. 645](Approvazione%20del%20testo%20unico%20delle%20leggi%20sulle%20norme%20per%20la%20istituzione%20e%20conversione%20in%20governative%20di%20nuove%20scuole%20medie.%20007U0645.md) e il regolamento per l'applicazione del medesimo approvato con il [R. decreto 15 settembre 1907, n. 652](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md);
 
-Veduta la [legge 13 giugno 1907 n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md);
+Veduta la [legge 13 giugno 1907 n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md);
 
 Veduta la convenzione 5 aprile 1908 stipulata dal Ministero della pubblica istruzione con il comune di Barletta per la conversione in governativo di quel ginnasio;
 

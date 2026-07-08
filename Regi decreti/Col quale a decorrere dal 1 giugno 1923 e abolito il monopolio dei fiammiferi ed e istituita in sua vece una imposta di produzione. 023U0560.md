@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' della delegazione di poteri conferita al Governo con la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+In virtu' della delegazione di poteri conferita al Governo con la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Visto l'[art. 2 del D. L. 3 luglio 1921, n. 848](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-07-03;848#art_2), nella parte riguardante l'abolizione del monopolio di vendita dei fiammiferi istituito col [D. L. 31 agosto 1916, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1916-08-31;1090), allegato E, e la sua sostituzione con una imposta di fabbricazione;
 
@@ -53,7 +53,7 @@ A decorrere dal 1° giugno 1923 e' abolito il monopolio di vendita dei fiammifer
 
 AGGIORNAMENTO (3)
 
-Il [Regio D.L. 24 febbraio 1938, n. 71](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20prezzo%20di%20vendita%20al%20pubblico%20dei%20fiammiferi%20solforati%20e%20revisione%20della%20misura%20dellimposta%20di%20fabbricazione%20sui%20fiammiferi.%20038U0071.md), convertito senza modificazioni dalla [L. 25 aprile 1938, n. 577](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2024%20febbraio%201938-XVI%20n.%2071%20concernente%20la%20revisione%20della%20misura%20dellimposta%20di%20fabbricazione%20sui%20fiammiferi%20e%20laumento%20del%20prezzo%20di%20vendita%20_aabbbe51b64a.md), ha disposto (con l'art. 1, comma 1) che "L'imposta sulla fabbricazione dei fiammiferi per il corrente esercizio finanziario e' modificata come appresso per ognuna delle seguenti unita' di condizionamento: 
+Il [Regio D.L. 24 febbraio 1938, n. 71](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20prezzo%20di%20vendita%20al%20pubblico%20dei%20fiammiferi%20solforati%20e%20revisione%20della%20misura%20dellimposta%20di%20fabbricazione%20sui%20fiammiferi.%20038U0071.md), convertito senza modificazioni dalla [L. 25 aprile 1938, n. 577](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2024%20febbraio%201938-XVI%20n.%2071%20concernente%20la%20revisione%20della%20misura%20dellimposta%20di%20fabbricazione%20sui%20fiammiferi%20e%20laumento%20del%20prezzo%20di%20vendita%20_aabbbe51b64a.md), ha disposto (con l'art. 1, comma 1) che "L'imposta sulla fabbricazione dei fiammiferi per il corrente esercizio finanziario e' modificata come appresso per ognuna delle seguenti unita' di condizionamento: 
  Scatola di cartone contenente 100 cerini normali con sesquisolfuro di fosforo da L. 0,2851 a L. 0,2555; 
  Scatola di legno contenente 50 cerini normali con fosforo amorfo (di sicurezza) da L. 0,1434 a L. 0,1287; 
  Scatola di cartone contenente 100 cerini ridotti con sesquisolfuro di fosforo da L. 0,2876 a L. 0,2584; 
@@ -251,7 +251,7 @@ Il [Regio D.L. 26 febbraio 1930, n. 105](https://www.normattiva.it/uri-res/N2Ls?
 
 AGGIORNAMENTO (2)
 
-Il [Regio D.L. 18 gennaio 1932, n. 14](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovazione%20delle%20convenzioni%20tra%20lo%20Stato%20ed%20il%20Consorzio%20delle%20fabbriche%20di%20fiammiferi.%20032U0014.md), convertito senza modificazioni dalla [L. 7 aprile 1932, n. 356](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20gennaio%201932%20n.%2014%20relativa%20alla%20rinnovazione%20delle%20convenzioni%20tra%20lo%20Stato%20ed%20il%20Consorzio%20Industrie%20Fiammiferi.%20032U0356.md), ha disposto (con l'art. 1, comma 1 dell'Allegato) che "Del Consorzio fra le fabbriche di fiammiferi «Consorzio Industrie Fiammiferi» costituito in forza del [R. decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560), fanno parte alla data delle presenti norme le seguenti fabbriche: 
+Il [Regio D.L. 18 gennaio 1932, n. 14](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovazione%20delle%20convenzioni%20tra%20lo%20Stato%20ed%20il%20Consorzio%20delle%20fabbriche%20di%20fiammiferi.%20032U0014.md), convertito senza modificazioni dalla [L. 7 aprile 1932, n. 356](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2018%20gennaio%201932%20n.%2014%20relativa%20alla%20rinnovazione%20delle%20convenzioni%20tra%20lo%20Stato%20ed%20il%20Consorzio%20Industrie%20Fiammiferi.%20032U0356.md), ha disposto (con l'art. 1, comma 1 dell'Allegato) che "Del Consorzio fra le fabbriche di fiammiferi «Consorzio Industrie Fiammiferi» costituito in forza del [R. decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560), fanno parte alla data delle presenti norme le seguenti fabbriche: 
  Societa' anonima Fabbriche Riunite Fiammiferi, sede in Milano, con le sue fabbriche: 
  gia' Boschiero e Gastaldi - Asti; 
  gia' Schiavoni &amp; Ponzelli - Iesi; 
@@ -293,7 +293,7 @@ Il [Regio D.L. 18 gennaio 1932, n. 14](../Atti%20normativi%20abrogati%20%28in%20
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 17 aprile 1948, n. 525](../Decreti%20Legislativi/Rinnovazione%20delle%20Convenzioni%20fra%20lo%20Stato%20ed%20il%20Consorzio%20Industrie%20Fiammiferi.md) ha disposto (con l'art. 1, comma 1 dell'Allegato) che "Del Consorzio fra le fabbriche di fiammiferi "Consorzio industrie Fiammiferi" costituito in forza del [regio decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560), fanno parte, alla data delle presenti norme, le seguenti fabbriche: 
+Il [D.Lgs. 17 aprile 1948, n. 525](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rinnovazione%20delle%20Convenzioni%20fra%20lo%20Stato%20ed%20il%20Consorzio%20Industrie%20Fiammiferi.md) ha disposto (con l'art. 1, comma 1 dell'Allegato) che "Del Consorzio fra le fabbriche di fiammiferi "Consorzio industrie Fiammiferi" costituito in forza del [regio decreto-legge 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-03-11;560), fanno parte, alla data delle presenti norme, le seguenti fabbriche: 
  Ditta Sabatini Maria ved. Dolfi, con opificio in Borgo San Lorenzo (Firenze); 
  Ditta F.lli Maci Ferruccio e Aladino, con opificio in Empoli (Firenze); 
  Ditta De Nigris Giuseppe fu Luigi, con opificio in Benevento; 

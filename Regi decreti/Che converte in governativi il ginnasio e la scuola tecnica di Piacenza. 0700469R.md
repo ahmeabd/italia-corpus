@@ -18,11 +18,11 @@ Veduto il testo unico delle leggi sulle norme per la istituzione e la conversion
 
 Veduto il regolamento per l'applicazione del detto testo unico, approvato con il [R. decreto 15 settembre 1907, n. 652](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md);
 
-Veduto l'[art. 1 della legge 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), che autorizza il Nostro governo a convertire in Regi il ginnasio e la scuola tecnica di Piacenza;
+Veduto l'[art. 1 della legge 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), che autorizza il Nostro governo a convertire in Regi il ginnasio e la scuola tecnica di Piacenza;
 
 Vedute le convenzioni all'uopo stipulate con il consenso del Ministero del tesoro dal Ministero della pubblica istruzione, con il detto Comune;
 
-Veduto che la scuola tecnica di Piacenza ha goduto nell'ultimo triennio di un sussidio medio annuo di L. 3500, che a termini dell'art. 2 della precitata [legge 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), deve essere detratto dall'ammontare del contributo a carico del comune di Piacenza per la conversione in governativa della scuola medesima;
+Veduto che la scuola tecnica di Piacenza ha goduto nell'ultimo triennio di un sussidio medio annuo di L. 3500, che a termini dell'art. 2 della precitata [legge 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), deve essere detratto dall'ammontare del contributo a carico del comune di Piacenza per la conversione in governativa della scuola medesima;
 
 Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 

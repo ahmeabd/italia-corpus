@@ -150,7 +150,7 @@ I pesi e le misure e gli strumenti per pesare e per misurare di provenienza este
 
 ### Art. 22.
 
-I misuratori di gas - fatto salvo quanto previsto dal [decreto del Presidente della Repubblica 12 agosto 1982, n. 798](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2071-316%20relativa%20alle%20disposizioni%20comuni%20agli%20strumenti%20di%20misura%20ed%20ai%20metodi%20di%20controllo%20metrologico.md), e successive modificazioni, concernente l'attuazione della [direttiva n. 71/316/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1971;316) - sono soggetti alla verificazione ogni qualvolta siano posti in commercio o riparati o rimossi dal luogo ove agiscono. 
+I misuratori di gas - fatto salvo quanto previsto dal [decreto del Presidente della Repubblica 12 agosto 1982, n. 798](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2071-316%20relativa%20alle%20disposizioni%20comuni%20agli%20strumenti%20di%20misura%20ed%20ai%20metodi%20di%20controllo%20metrologico.md), e successive modificazioni, concernente l'attuazione della [direttiva n. 71/316/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1971;316) - sono soggetti alla verificazione ogni qualvolta siano posti in commercio o riparati o rimossi dal luogo ove agiscono. 
  
  I fabbricanti, gli aggiustatori e i fornitori dei misuratori di gas, che non ottemperano alla prescrizioni di cui al comma 1, sono puniti con le sanzioni di cui all'articolo 31. 
  

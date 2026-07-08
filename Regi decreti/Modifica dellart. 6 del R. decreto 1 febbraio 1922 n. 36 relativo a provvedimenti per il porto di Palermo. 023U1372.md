@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto il decreto Reale 1° febbraio 1922, n. 36, recante provvedimenti per il porto di Palermo;
 
-Vista la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+Vista la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Ritenuto che si e' ravvisata l'opportunita' di ridurre lo importo complessivo delle opere di sistemazione del porto di Palermo da L. 214,000,000.00 a L. 175,000,000.00;
 

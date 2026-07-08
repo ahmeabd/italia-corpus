@@ -20,11 +20,11 @@ Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?
 
 Veduto il [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
-Veduta la [legge 28 dicembre 1931, n. 1771](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20agosto%201931%20n.%201069%20contenente%20disposizioni%20sugli%20Istituti%20medi%20distruzione.%20031U1771.md);
+Veduta la [legge 28 dicembre 1931, n. 1771](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20agosto%201931%20n.%201069%20contenente%20disposizioni%20sugli%20Istituti%20medi%20distruzione.%20031U1771.md);
 
 Veduto il [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md);
 
-Veduto il [R. decreto-legge 28 settembre 1934, n. 1662](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20Istituti%20tecnici%20inferiori%20e%20istituzione%20di%20classi%20collaterali%20stabili%20e%20corsi%20completi%20nei%20Regi%20istituti%20tecnici%20e%20magistrali.%20034U1662.md), convertito nella [legge 1° aprile 1935, n. 955](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20settembre%201934%20n.%201662%20concernente%20listituzione%20di%20Istituti%20tecnici%20inferiori%20e%20istituzione%20di%20classi%20collaterali%20stabili%20e%20corsi%20completi%20nei_b092bd2fd635.md);
+Veduto il [R. decreto-legge 28 settembre 1934, n. 1662](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20Istituti%20tecnici%20inferiori%20e%20istituzione%20di%20classi%20collaterali%20stabili%20e%20corsi%20completi%20nei%20Regi%20istituti%20tecnici%20e%20magistrali.%20034U1662.md), convertito nella [legge 1° aprile 1935, n. 955](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2028%20settembre%201934%20n.%201662%20concernente%20listituzione%20di%20Istituti%20tecnici%20inferiori%20e%20istituzione%20di%20classi%20collaterali%20stabili%20e%20corsi%20completi%20nei_b092bd2fd635.md);
 
 Veduto il [R. decreto 20 giugno 1935, n. 1070](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-06-20;1070);
 

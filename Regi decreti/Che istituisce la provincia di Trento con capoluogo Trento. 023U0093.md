@@ -18,7 +18,7 @@ Vista la [legge 26 settembre 1920, n. 1322](https://www.normattiva.it/uri-res/N2
 
 Visto il [R. decreto-legge 17 ottobre 1922, n. 1353](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20la%20sistemazione%20politica%20ed%20amministrativa%20delle%20nuove%20Provincie.%20022U1353.md);
 
-Vista la [legge 3 dicembre 1922, n. 1601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
+Vista la [legge 3 dicembre 1922, n. 1601](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Udito il Consiglio dei ministri;
 

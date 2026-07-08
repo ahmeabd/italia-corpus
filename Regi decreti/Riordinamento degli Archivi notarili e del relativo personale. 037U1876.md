@@ -24,7 +24,7 @@ Visto il [R. decreto 30 dicembre 1923, n. 2960](Disposizioni%20sullo%20stato%20g
 
 Visto il [R. decreto 31 dicembre 1923, n. 3138](Nuovo%20ordinamento%20degli%20archivi%20notarili.%20023U3138.md), sul nuovo ordinamento degli archivi notarili;
 
-Visto il [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), convertito nella [legge 18 marzo 1926, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), contenente le norme complementari per l'attuazione del suddetto ordinamento;
+Visto il [R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), contenente le norme complementari per l'attuazione del suddetto ordinamento;
 
 Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -164,7 +164,7 @@ Per gli esami di ammissione e di promozione nel gruppo B del ruolo del personale
 
 ## Art. 16.
 
-All'[art. 10 del R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737#art_10), convertito nella [legge 18 marzo 1926, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' sostituito il seguente: 
+All'[art. 10 del R. decreto-legge 23 ottobre 1924, n. 1737](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-10-23;1737#art_10), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md), e' sostituito il seguente: 
  
  « La nomina nel ruolo del personale subalterno viene fatta con decreto Ministeriale sentito il parere di una Commissione composta di un magistrato, anche se trattenuto con funzioni amministrative presso il Ministero di grazia e giustizia, di grado non inferiore al 5°, il quale la presiede; di un magistrato, anche se trattenuto con funzioni amministrative presso il Ministero suddetto, di gradi non inferiore al 6°; di un conservatore di archivio notarile e di un segretario scelto tra i magistrati od impiegati addetti al Ministero stesso, di grado non inferiore al 9°. 
  

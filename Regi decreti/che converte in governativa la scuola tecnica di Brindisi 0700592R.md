@@ -18,11 +18,11 @@ Veduto il testo unico delle leggi sulle norme per l'istituzione e la conversione
 
 Veduto il regolamento per l'applicazione del detto testo unico approvato con il [R. decreto 15 settembre 1907, n. 652](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md);
 
-Veduta la [legge 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md)
+Veduta la [legge 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md)
 
 Veduta l'istanza in data 7 dicembre 1905 con cui il comune di Brindisi chiese la conversione in governativa della sua scuola tecnica pareggiata;
 
-Veduto che questa scuola durante l'ultimo triennio godette di un sussidio medio di annuo L. 2000, che a termini dell'art. 5 della citata [legge 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), deve essere detratta dall'ammontare del contributo a carico del comune di Brindisi per la conversione in governativa della scuola medesima;
+Veduto che questa scuola durante l'ultimo triennio godette di un sussidio medio di annuo L. 2000, che a termini dell'art. 5 della citata [legge 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), deve essere detratta dall'ammontare del contributo a carico del comune di Brindisi per la conversione in governativa della scuola medesima;
 
 Veduta la convenzione all'uopo stipulata con il consenso del Ministero del tesoro, dal Ministero della pubblica istruzione con il detto Comune;
 
