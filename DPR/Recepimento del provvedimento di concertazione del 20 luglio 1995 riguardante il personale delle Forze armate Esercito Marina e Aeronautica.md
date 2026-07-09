@@ -157,7 +157,7 @@ Livello V L. 86.000
 
 4.
 
-Dal 1 giugno 1995 al livello IX di cui al [decreto-legge 30 giugno 1995, n. 268](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20delle%20Forze%20armate%20e%20dellArma%20dei%20carabinieri.md), in luogo del livello VIII-bis, compete l'aumento mensile lordo di L. 140.000. Dal 1 settembre 1995 al livello VII-bis di cui al [decreto legislativo 12 maggio 1995, n. 196](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20modifica%20alle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20delle%20Forze%20armate.md), compete l'aumento mensile lordo di L. 114.000.
+Dal 1 giugno 1995 al livello IX di cui al [decreto-legge 30 giugno 1995, n. 268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20avanzamento%20degli%20ufficiali%20delle%20Forze%20armate%20e%20dellArma%20dei%20carabinieri.md), in luogo del livello VIII-bis, compete l'aumento mensile lordo di L. 140.000. Dal 1 settembre 1995 al livello VII-bis di cui al [decreto legislativo 12 maggio 1995, n. 196](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20dei%20ruoli%20modifica%20alle%20norme%20di%20reclutamento%20stato%20ed%20avanzamento%20del%20personale%20non%20direttivo%20delle%20Forze%20armate.md), compete l'aumento mensile lordo di L. 114.000.
 
 5.
 
