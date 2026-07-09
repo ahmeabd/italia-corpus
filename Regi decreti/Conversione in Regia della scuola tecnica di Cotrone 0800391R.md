@@ -14,13 +14,13 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vedute le [leggi 16 luglio 1904, n. 397 e 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md);
+Vedute le [leggi 16 luglio 1904, n. 397 e 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md);
 
 Veduto il regolamento approvato con il [R. decreto 15 settembre 1907, n. 652](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md);
 
 Veduto che la scuola tecnica di Cotrone godette nell'ultimo triennio di sussidi facoltativi sul bilancio del Ministero della pubblica istruzione per un ammontare medio annuo di L. 1500;
 
-Veduta la convenzione stipulata per la conversione in Regia di detta scuola, in conformita' della succitata [legge 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), fra il Ministero della pubblica istruzione ed il comune di Cotrone;
+Veduta la convenzione stipulata per la conversione in Regia di detta scuola, in conformita' della succitata [legge 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), fra il Ministero della pubblica istruzione ed il comune di Cotrone;
 
 Veduti i fondi stanziati ai capitoli 123, 133 e 150 del bilancio passivo del Ministero della pubblica istruzione per l'esercizio 1908-909;
 

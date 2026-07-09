@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Visto l'art. 5 dello Statuto fondamentale del Regno;
 
-Visto il [R. decreto legge 14 giugno 1928, n. 1647](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20della%20vita%20umana%20in%20mare.%20028U1647.md), che autorizza ad emanare norme regolamentari per la sicurezza della navigazione e della vita umana in mare, convertito nella [legge 25 dicembre 1928, n. 3041](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20giugno%201928%20n.%201647%20che%20autorizza%20ad%20emanare%20norme%20per%20la%20tutela%20della%20vita%20umana%20in%20mare.%20028U3041.md);
+Visto il [R. decreto legge 14 giugno 1928, n. 1647](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20della%20vita%20umana%20in%20mare.%20028U1647.md), che autorizza ad emanare norme regolamentari per la sicurezza della navigazione e della vita umana in mare, convertito nella [legge 25 dicembre 1928, n. 3041](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20giugno%201928%20n.%201647%20che%20autorizza%20ad%20emanare%20norme%20per%20la%20tutela%20della%20vita%20umana%20in%20mare.%20028U3041.md);
 
 Visto il regolamento per la sicurezza delle navi mercantili e della vita umana in mare approvato con [R. decreto 10 agosto 1928, n. 2752](Approvazione%20del%20regolamento%20per%20la%20sicurezza%20delle%20navi%20mercantili%20e%20della%20vita%20umana%20in%20mare.%20028U2752.md);
 

@@ -18,7 +18,7 @@ Veduto il testo unico delle leggi sulle norme per la istituzione e conversione i
 
 Veduto il regolamento per l'applicazione di detto testo unico approvato con il [R. decreto 15 settembre 1907, n. 652](Che%20approva%20lannesso%20regolamento%20per%20lapplicazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20conversione%20in%20governative%20delle%20scuole%20medie%20dipendenti%20da%20Provincie%20Comuni%20ed%20altri%20enti%20morali%20e%20su_222f9a0b508d.md);
 
-Veduto l'[art. 1 della legge 13 giugno 1907, n. 342](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), che autorizza il Governo del Re a convertire in governativo il ginnasio pareggiato di Ariano di Puglia;
+Veduto l'[art. 1 della legge 13 giugno 1907, n. 342](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), che autorizza il Governo del Re a convertire in governativo il ginnasio pareggiato di Ariano di Puglia;
 
 Veduta la convenzione all'uopo stipulata con quel Comune dal Ministero della pubblica istruzione, con il consenso del Ministero del tesoro;
 
