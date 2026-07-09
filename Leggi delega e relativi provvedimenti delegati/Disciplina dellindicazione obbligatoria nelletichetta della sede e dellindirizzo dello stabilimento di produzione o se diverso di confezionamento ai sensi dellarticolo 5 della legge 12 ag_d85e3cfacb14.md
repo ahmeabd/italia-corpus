@@ -18,7 +18,7 @@ Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri e, in particolare, l'articolo 14;
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), recante attuazione della [direttiva 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e della [direttiva 89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari e, in particolare, gli articoli 3, 11 e 18;
+Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), recante attuazione della [direttiva 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e della [direttiva 89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari e, in particolare, gli articoli 3, 11 e 18;
 
 Visto il regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio del 28 gennaio 2002 che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l'Autorita' europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare;
 
@@ -70,7 +70,7 @@ N O T E
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689) (Modifiche al sistema penale) e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, S.O. 
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri) e' pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O. 
- - Il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md) (Attuazione della [direttiva 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e della [direttiva 89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari) e' pubblicato nella Gazzetta Ufficiale 17 febbraio 1992, n. 39, S.O. 
+ - Il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md) (Attuazione della [direttiva 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e della [direttiva 89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari) e' pubblicato nella Gazzetta Ufficiale 17 febbraio 1992, n. 39, S.O. 
  - Il regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l'Autorita' europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare, e' pubblicato nella G.U.C.E. 1° febbraio 2002, n. L 31. 
  - Il regolamento (CE) n. 852/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 sull'igiene dei prodotti alimentari e' pubblicato nella G.U.U.E. 30 aprile 2004, n. L 139. 
  - Il regolamento (CE) n. 853/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 che stabilisce norme specifiche in materia di igiene per gli alimenti di origine animale, e' pubblicato nella G.U.U.E. 30 aprile 2004, n. L 139. 
@@ -204,7 +204,7 @@ Gli alimenti immessi sul mercato o etichettati in difformita' dal presente decre
 
 3.
 
-Al [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sono apportate le seguenti modificazioni:
+Al [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 3, comma 1, la lettera f) e' abrogata;
                         b)
@@ -213,7 +213,7 @@ Al [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20di
                             all'articolo 18, comma 3, la parola: «11» e' soppressa.
 
 Note all'art. 8: 
- - Il testo dell'art. 3, comma 1, del citato [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'art. 3, comma 1, del citato [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 3 (Elenco delle indicazioni dei prodotti preconfezionati). - 1. Salvo quanto disposto dagli articoli successivi, i prodotti alimentari preconfezionati destinati al consumatore devono riportare le seguenti indicazioni: 
  a) la denominazione di vendita; 
  b) l'elenco degli ingredienti; 
@@ -228,8 +228,8 @@ Note all'art. 8:
  m) il luogo di origine o di provenienza, nel caso in cui l'omissione possa indurre in errore l'acquirente circa l'origine o la provenienza del prodotto; 
  m-bis) la quantita' di taluni ingredienti o categorie di ingredienti come previsto dall'art. 8. 
  (Omissis).». 
- - L'art. 11 del citato [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), abrogato dal presente decreto, recava: «Sede dello stabilimento». 
- - Il testo dell'art. 18, comma 3, del citato [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), come modificato dal presente decreto, cosi' recita: 
+ - L'art. 11 del citato [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), abrogato dal presente decreto, recava: «Sede dello stabilimento». 
+ - Il testo dell'art. 18, comma 3, del citato [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), come modificato dal presente decreto, cosi' recita: 
  «Art. 18 (Sanzioni). - 1. La violazione delle disposizioni dell'art. 2 e' punita con la sanzione amministrativa pecuniaria da euro tremilacinquecento a euro diciottomila. 
  2. La violazione delle disposizioni degli articoli 3, 10-bis e 14 e' punita con la sanzione amministrativa pecuniaria da euro milleseicento a euro novemilacinquecento. 
  3. La violazione delle disposizioni degli articoli 4, 5, 6, 8, 9, 10, 12, 13, 15, 16 e 17 e' punita con la sanzione amministrativa pecuniaria da euro seicento a euro tremilacinquecento. 

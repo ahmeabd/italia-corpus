@@ -358,7 +358,7 @@ Per l'attuazione del presente decreto, lo Stato:
                         d)
                             definisce i criteri di monitoraggio e di valutazione dell'offerta educativa e didattica del Sistema integrato di educazione ed istruzione, d'intesa con le Regioni, le Province autonome di Trento e di Bolzano e gli Enti locali, in coerenza con il sistema nazionale di valutazione di cui al [decreto del Presidente della Repubblica 28 marzo 2013, n. 80](../DPR/Regolamento%20sul%20sistema%20nazionale%20di%20valutazione%20in%20materia%20di%20istruzione%20e%20formazione.%2013G00121.md);
                         e)
-                            attiva, sentito il parere del Garante per la protezione dei dati personali, un sistema informativo coordinato con le Regioni, le Province autonome di Trento e di Bolzano e gli Enti locali secondo quanto previsto dagli [articoli 14](../Codici/Codice%20dellamministrazione%20digitale.md) e [50 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante «[Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)»;
+                            attiva, sentito il parere del Garante per la protezione dei dati personali, un sistema informativo coordinato con le Regioni, le Province autonome di Trento e di Bolzano e gli Enti locali secondo quanto previsto dagli [articoli 14](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) e [50 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante «[Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)»;
                         f)
                             per assicurare la necessaria continuita' educativa, definisce, con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, gli orientamenti educativi nazionali per i servizi educativi per l'infanzia sulla base delle Linee guida pedagogiche proposte dalla Commissione di cui all'articolo 10, in coerenza con le Indicazioni nazionali per il curriculo della scuola dell'infanzia e del primo ciclo d'istruzione;
                         f-bis)
@@ -562,7 +562,7 @@ A decorrere dall'aggiornamento successivo all'entrata in vigore del presente dec
 
 5.
 
-I servizi socio-educativi per la prima infanzia istituiti presso enti e reparti del Ministero della difesa restano disciplinati dall'[articolo 596 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+I servizi socio-educativi per la prima infanzia istituiti presso enti e reparti del Ministero della difesa restano disciplinati dall'[articolo 596 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 6.
 

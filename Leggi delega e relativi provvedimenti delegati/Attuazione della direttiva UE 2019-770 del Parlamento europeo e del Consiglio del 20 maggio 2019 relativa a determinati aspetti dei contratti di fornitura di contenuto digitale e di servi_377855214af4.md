@@ -20,7 +20,7 @@ Vista la [legge 22 aprile 2021, n. 53](../Leggi%20contenenti%20deleghe/Delega%20
 
 Vista la [direttiva (UE) 2019/770 del Parlamento europeo e del Consiglio, del 20 maggio 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;770), relativa a determinati aspetti dei contratti di fornitura di contenuto digitale e di servizi digitali;
 
-Visto il [codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni;
+Visto il [codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 29 luglio 2021;
 
@@ -36,7 +36,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Dopo il capo I del titolo III della parte IV del [codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), recante [Codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e' inserito il seguente: 
+Dopo il capo I del titolo III della parte IV del [codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), recante [Codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e' inserito il seguente: 
  «Capo I-bis Dei contratti di fornitura di contenuto digitale e di servizi digitali 
  Art. 135-octies (Ambito di applicazione e definizioni). - 1. Il presente capo disciplina taluni aspetti dei contratti di fornitura di contenuto digitale o di servizi digitali conclusi tra consumatore e professionista, fra i quali la conformita' del contenuto digitale o del servizio digitale al contratto, i rimedi in caso di difetto di conformita' al contratto o di mancata fornitura, le modalita' di esercizio degli stessi, nonche' la modifica del contenuto digitale o del servizio digitale. 
  2. Ai fini del presente capo si intende per: 
@@ -257,24 +257,24 @@ NOTE
  38) [direttiva (UE) 2020/284 del Consiglio, del 18 febbraio 2020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2020;284), che modifica la [direttiva 2006/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;112) per quanto riguarda l'introduzione di taluni obblighi per i prestatori di servizi di pagamento (termine di recepimento: 31 dicembre 2023); 
  39) [direttiva (UE) 2020/285 del Consiglio, del 18 febbraio 2020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2020;285), che modifica la [direttiva 2006/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;112) relativa al sistema comune d'imposta sul valore aggiunto per quanto riguarda il regime speciale per le piccole imprese e il regolamento (UE) n. 904/2010 per quanto riguarda la cooperazione amministrativa e lo scambio di informazioni allo scopo di verificare la corretta applicazione del regime speciale per le piccole imprese (termine di recepimento: 31 dicembre 2024).». 
  - La [direttiva (UE) 2019/770 del Parlamento europeo e del Consiglio del 20 maggio 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;770) relativa a determinati aspetti dei contratti di fornitura di contenuto digitale e di servizi digitali e' pubblicata nella G.U.U.E. 22 maggio 2019, n. L 136. 
- - Il [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) ([Codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_7)) e' pubblicato nella Gazzetta Ufficiale 8 ottobre 2005, n. 235, S.O. 
+ - Il [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) ([Codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_7)) e' pubblicato nella Gazzetta Ufficiale 8 ottobre 2005, n. 235, S.O. 
  
  Note all'art. 1: 
- - Il capo I del titolo III della parte IV del citato [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) reca: 
+ - Il capo I del titolo III della parte IV del citato [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) reca: 
  «Della vendita dei beni di consumo».
 
 ## Art. 2. — Disposizioni finali
 
 1.
 
-Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data.
+Le modifiche apportate al [decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, comma 1](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) del presente decreto acquistano efficacia a decorrere dal 1° gennaio 2022 e si applicano alle forniture di contenuto digitale o di servizi digitali che avvengono a decorrere da tale data, fatta eccezione per gli articoli 135-quindecies e 135-vicies semel che si applicano ai contratti conclusi a decorrere da tale data.
 
 2.
 
 Il Ministero dello sviluppo economico informa la Commissione europea, entro 60 giorni dalla data di entrata in vigore del presente decreto, delle disposizioni adottate nella materia disciplinata dalla [direttiva (UE) 2019/770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;770) e qualsiasi successiva modifica della normativa interna.
 
 Note all'art. 2: 
- - Per i riferimenti del [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) si veda nelle note alle premesse. 
+ - Per i riferimenti del [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) si veda nelle note alle premesse. 
  - Per i riferimenti della [direttiva (UE) 2019/770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;770) si veda nelle note alle premesse.
 
 ## Art. 3. — Disposizioni finanziarie

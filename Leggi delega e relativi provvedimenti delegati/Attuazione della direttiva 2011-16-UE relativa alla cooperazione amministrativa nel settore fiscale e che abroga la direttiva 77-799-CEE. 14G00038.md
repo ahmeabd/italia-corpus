@@ -20,9 +20,9 @@ Visto il regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del
 
 Visto l'[articolo 23 del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
-Visto il [decreto del Presidente della Repubblica 30 gennaio 2008, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md), recante regolamento di riorganizzazione del Ministero dell'economia e delle finanze, a norma dell'[articolo 1, comma 404, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md);
+Visto il [decreto del Presidente della Repubblica 30 gennaio 2008, n. 43](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md), recante regolamento di riorganizzazione del Ministero dell'economia e delle finanze, a norma dell'[articolo 1, comma 404, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md);
 
-Visto il [decreto del Presidente della Repubblica 18 luglio 2011, n. 173](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20gennaio%202008%20n.%2043%20concernente%20la%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellartic_38911bdd404f.md), concernente regolamento recante modifiche al [decreto del Presidente della Repubblica 30 gennaio 2008, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md), concernente la riorganizzazione del Ministero dell'economia e delle finanze;
+Visto il [decreto del Presidente della Repubblica 18 luglio 2011, n. 173](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20gennaio%202008%20n.%2043%20concernente%20la%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellartic_38911bdd404f.md), concernente regolamento recante modifiche al [decreto del Presidente della Repubblica 30 gennaio 2008, n. 43](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md), concernente la riorganizzazione del Ministero dell'economia e delle finanze;
 
 Visto l'[articolo 23-quater del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_23quater), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), recante disposizioni urgenti per la revisione della spesa pubblica con invarianza dei servizi ai cittadini nonche' misure di rafforzamento patrimoniale delle imprese del settore bancario, che dispone l'incorporazione dell'Amministrazione autonoma dei Monopoli di Stato e dell'Agenzia del territorio, rispettivamente, nell'Agenzia delle dogane e nell'Agenzia delle entrate;
 
@@ -135,7 +135,7 @@ Ai fini del presente decreto si intende per:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 15 marzo 2017, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 15 marzo 2017, n. 32](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
 
 ## Art. 3. — Organizzazione
 
@@ -183,7 +183,7 @@ L'ufficio centrale di collegamento e i servizi di collegamento indicati al comma
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 18 maggio 2018, n. 60](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202016-2258-UE%20del%20Consiglio%20del%206%20dicembre%202016%20recante%20modifica%20della%20direttiva%202011-16-UE%20del%20Consiglio%20del%2015%20febbraio%202011%20per%20quanto%20riguarda%20laccesso%20da%20pa_74ed73b49974.md) ha disposto (con l'art. 3, comma 2) che le presenti modifiche si applicano alle richieste di accesso alle informazioni formulate dalla Guardia di finanza e dall'Agenzia delle entrate a decorrere dal 1° gennaio 2018.
+Il [D.Lgs. 18 maggio 2018, n. 60](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202016-2258-UE%20del%20Consiglio%20del%206%20dicembre%202016%20recante%20modifica%20della%20direttiva%202011-16-UE%20del%20Consiglio%20del%2015%20febbraio%202011%20per%20quanto%20riguarda%20laccesso%20da%20pa_74ed73b49974.md) ha disposto (con l'art. 3, comma 2) che le presenti modifiche si applicano alle richieste di accesso alle informazioni formulate dalla Guardia di finanza e dall'Agenzia delle entrate a decorrere dal 1° gennaio 2018.
 
 ## Art. 4. — Scambio di informazioni su richiesta
 
@@ -261,13 +261,13 @@ Le informazioni che devono essere comunicate ai sensi del comma 1-bis sono trasm
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 15 marzo 2017, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 15 marzo 2017, n. 32](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20UE%202015-2376%20recante%20modifica%20della%20direttiva%202011-16-UE%20per%20quanto%20riguarda%20lo%20scambio%20automatico%20obbligatorio%20di%20informazioni%20nel%20settore%20fiscale.%2017G00046.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 5-bis. — ((Rilevazione e comunicazione del numero di identificazione fiscale rilasciato da uno Stato membro o giurisdizione estera))
 
@@ -292,7 +292,7 @@ Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 10 dicembre 2025, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
+Il [D.Lgs. 10 dicembre 2025, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202023-2226-UE%20del%20Consiglio%20del%2017%20ottobre%202023%20recante%20modifica%20della%20direttiva%202011-16-UE%20relativa%20alla%20cooperazione%20amministrativa%20nel%20settore%20fiscale.%2025G00201.md), ha disposto (con l'art. 20, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2026".
 
 ## Art. 6. — Scambio spontaneo di informazioni
 
@@ -315,7 +315,7 @@ I servizi di collegamento informano tempestivamente l'autorita' richiedente circ
 
 3.
 
-Il servizio di collegamento di cui all'articolo 3, comma 4, del presente decreto, per le notifiche pervenute dall'autorita' richiedente dell'altro Stato membro si avvale degli agenti della riscossione del Gruppo Equitalia S.p.a., che eseguono l'attivita' di notifica secondo le disposizioni dell'[articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
+Il servizio di collegamento di cui all'articolo 3, comma 4, del presente decreto, per le notifiche pervenute dall'autorita' richiedente dell'altro Stato membro si avvale degli agenti della riscossione del Gruppo Equitalia S.p.a., che eseguono l'attivita' di notifica secondo le disposizioni dell'[articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
 
 4.
 
@@ -323,7 +323,7 @@ Per le spese di notifica di cui al comma 3 si applicano le previsioni di cui all
 
 Note all'art. 7: 
  Per i riferimenti alla [direttiva 2011/16/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2011;16), si veda nelle note all'art. 5. 
- Il testo dell'[art. 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) (Disposizioni sulla riscossione delle imposte sul reddito), pubblicato nella Gazzetta Ufficiale 16 ottobre 1973, n. 268, S.O. 
+ Il testo dell'[art. 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) (Disposizioni sulla riscossione delle imposte sul reddito), pubblicato nella Gazzetta Ufficiale 16 ottobre 1973, n. 268, S.O. 
  «Art. 26. (Notificazione della cartella di pagamento)  La cartella e' notificata dagli ufficiali della riscossione o da altri soggetti abilitati dal concessionario nelle forme previste dalla legge ovvero, previa eventuale convenzione tra comune e concessionario, dai messi comunali o dagli agenti della polizia municipale.
  La notifica puo' essere eseguita anche mediante invio di raccomandata con avviso di ricevimento; in tal caso, la cartella e' notificata in plico chiuso e la notifica si considera avvenuta nella data indicata nell'avviso di ricevimento sottoscritto da una delle persone previste dal secondo comma o dal portiere dello stabile dove e' l'abitazione, l'ufficio o l'azienda. 
  La notifica della cartella puo' essere eseguita, con le modalita' di cui al [decreto del Presidente della Repubblica 11 febbraio 2005, n. 68](../DPR/Regolamento%20recante%20disposizioni%20per%20lutilizzo%20della%20posta%20elettronica%20certificata%20a%20norma%20dellarticolo%2027%20della%20legge%2016%20gennaio%202003%20n.%203.md), a mezzo posta elettronica certificata, all'indirizzo risultante dagli elenchi a tal fine previsti dalla legge. Tali elenchi sono consultabili, anche in via telematica, dagli agenti della riscossione.

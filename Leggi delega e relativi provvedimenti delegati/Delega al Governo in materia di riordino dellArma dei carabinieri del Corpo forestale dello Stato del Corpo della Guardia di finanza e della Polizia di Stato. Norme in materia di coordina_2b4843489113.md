@@ -62,7 +62,7 @@ Nell'esercizio della delega di cui al comma 1, sono osservati i seguenti princip
                             a)
                                 previsione dell'esercizio delle funzioni di polizia economica e finanziaria a tutela del bilancio dello Stato e dell'Unione europea;
                             b)
-                                armonizzazione della nuova disciplina ai contenuti del [decreto legislativo 30 dicembre 1997, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20reclutamento%20dello%20stato%20giuridico%20e%20dellavanzamento%20degli%20ufficiali%20a%20norma%20dellarticolo%201%20comma%2097%20della%20legge%2023%20dicembre%201996%20n.%20662.md);
+                                armonizzazione della nuova disciplina ai contenuti del [decreto legislativo 30 dicembre 1997, n. 490](../Decreti%20Legislativi/Riordino%20del%20reclutamento%20dello%20stato%20giuridico%20e%20dellavanzamento%20degli%20ufficiali%20a%20norma%20dellarticolo%201%20comma%2097%20della%20legge%2023%20dicembre%201996%20n.%20662.md);
                             c)
                                 adeguamento dei ruoli e delle relative dotazioni organiche alle esigenze funzionali e tecnico-logistiche, nonche' alle necessita' operative connesse al nuovo ordinamento tributario ed ai compiti di natura economico-finanziaria derivanti dalla appartenenza all'Unione europea. All'adeguamento potra' procedersi mediante riordino dei ruoli normale, speciale e tecnico-operativo esistenti, l'eventuale soppressione, la non alimentazione di essi ovvero l'istituzione di nuovi ruoli, con eventuale rideterminazione delle consistenze organiche del restante personale. Tale revisione potra' riguardare anche, per ciascuno dei ruoli, le permanenze, i requisiti, i titoli e le modalita' di reclutamento ed avanzamento, nonche' le aliquote di valutazione ed il numero delle promozioni annue per ciascun grado, l'istituzione del grado apicale di Generale di corpo d'armata con consistenza organica adeguata alle funzioni da assolvere ed all'armonico sviluppo delle carriere, l'elevazione a 65 anni del limite di eta', per i Generali di corpo d'armata e di divisione, equiparando correlativamente anche quello del Comandante generale in carica, nonche', solo se necessario per la funzionalita' del servizio, innalzando i limiti di eta' per i restanti gradi; conseguentemente verranno assicurati la sovraordinazione gerarchica del Comandante generale ed il mantenimento dell'attuale posizione funzionale;
                             d)
@@ -86,7 +86,7 @@ Nota all'art. 4, comma 1:
  concorrere al mantenimento dell'ordine e della sicurezza pubblica;
  eseguire gli altri servizi e tutela per i quali sia dalla legge richiesto il suo intervento".
  Nota all'art. 4, comma 2, lettera b):
- - Per quanto concerne il [decreto legislativo 30 dicembre 1997, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20reclutamento%20dello%20stato%20giuridico%20e%20dellavanzamento%20degli%20ufficiali%20a%20norma%20dellarticolo%201%20comma%2097%20della%20legge%2023%20dicembre%201996%20n.%20662.md), si veda la nota all'art. 1, comma 2, lettera c), n. 1).
+ - Per quanto concerne il [decreto legislativo 30 dicembre 1997, n. 490](../Decreti%20Legislativi/Riordino%20del%20reclutamento%20dello%20stato%20giuridico%20e%20dellavanzamento%20degli%20ufficiali%20a%20norma%20dellarticolo%201%20comma%2097%20della%20legge%2023%20dicembre%201996%20n.%20662.md), si veda la nota all'art. 1, comma 2, lettera c), n. 1).
  Nota all'art. 4, comma 2, lettera e):
  - Il testo del [comma 3 dell'art. 27 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md) (misure per la stabilizzazione della finanza pubblica), e' il seguente:
  "3. Con regolamento da emanare ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1998, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-23;400#art_17-com2), entro dodici mesi dalla data di entrata in vigore della presente legge, e' determinata la struttura ordinativa del Corpo della Guardia di finanza in sostituzione di quella prevista dagli [art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189#art_3) e [6 della legge 23 aprile 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189#art_6), con contestuale abrogazione delle citate norme e di ogni altra che risulti in contrasto con la nuova disciplina, nei limiti degli ordinari staziamenti di bilancio per il Corpo e dei relativi organici complessivi, con l'osservanza dei seguenti criteri:
@@ -187,15 +187,15 @@ Con uno o piu' regolamenti da emanare ai sensi dell'[articolo 17, comma 2, della
 
 A decorrere dalla data di entrata in vigore dei regolamenti di cui al comma 4, sono abrogate le seguenti disposizioni:
                             a)
-                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md);
+                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md);
                             b)
                                 gli [articoli 12](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), [13](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), [14](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), [15](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md) e [28 del decreto del Presidente della Repubblica 30 aprile 1987, n. 240](../DPR/Nuovo%20ordinamento%20della%20banda%20musicale%20della%20Polizia%20di%20Stato.md), come modificato dall'[articolo 10 del decreto legislativo 12 maggio 1995, n. 197](Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20della%20Polizia%20di%20Stato.md);
                             c)
-                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md);
+                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md);
                             d)
-                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md);
+                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md);
                             e)
-                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+                                LETTERA ABROGATA DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 ### Art. 7.
 

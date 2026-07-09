@@ -225,10 +225,10 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propr
 
 1.
 
-Il [decreto legislativo 30 settembre 2005, n. 225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sanzionatorie%20in%20applicazione%20del%20regolamento%20CE%20n.%201019-2002%20relativo%20alla%20commercializzazione%20dellolio%20doliva.md), recante "Disposizioni sanzionatorie in applicazione del regolamento (CE) n. 1019/2002 relativo alla commercializzazione dell'olio d'oliva", e' abrogato.
+Il [decreto legislativo 30 settembre 2005, n. 225](../Decreti%20Legislativi/Disposizioni%20sanzionatorie%20in%20applicazione%20del%20regolamento%20CE%20n.%201019-2002%20relativo%20alla%20commercializzazione%20dellolio%20doliva.md), recante "Disposizioni sanzionatorie in applicazione del regolamento (CE) n. 1019/2002 relativo alla commercializzazione dell'olio d'oliva", e' abrogato.
 
 Note all'[art. 11: 
- - Il decreto legislativo 30 settembre 2005, n. 225](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sanzionatorie%20in%20applicazione%20del%20regolamento%20CE%20n.%201019-2002%20relativo%20alla%20commercializzazione%20dellolio%20doliva.md) (Disposizioni sanzionatorie in applicazione del regolamento (CE) n. 1019/2002 relativo alla commercializzazione dell'olio d'oliva) e' pubblicato nella Gazzetta Ufficiale 3 novembre 2005, n. 256.
+ - Il decreto legislativo 30 settembre 2005, n. 225](../Decreti%20Legislativi/Disposizioni%20sanzionatorie%20in%20applicazione%20del%20regolamento%20CE%20n.%201019-2002%20relativo%20alla%20commercializzazione%20dellolio%20doliva.md) (Disposizioni sanzionatorie in applicazione del regolamento (CE) n. 1019/2002 relativo alla commercializzazione dell'olio d'oliva) e' pubblicato nella Gazzetta Ufficiale 3 novembre 2005, n. 256.
 
 ## Art. 12. — Clausola di invarianza finanziaria
 

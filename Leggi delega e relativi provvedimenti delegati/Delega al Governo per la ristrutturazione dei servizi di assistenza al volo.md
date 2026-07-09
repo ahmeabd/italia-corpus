@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-In attesa della ristrutturazione della Direzione generale dell'aviazione civile ai sensi dell'[articolo 4-ter del decreto-legge 26 maggio 1979, n. 151](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rifinanziamento%20degli%20interventi%20urgenti%20ed%20indispensabili%20da%20attuare%20negli%20aeroporti%20aperti%20al%20traffico%20aereo%20civile.md), convertito in legge, con modificazioni, dalla [legge 27 luglio 1979, n. 299](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20maggio%201979%20n.%20151%20concernente%20rifinanziamento%20degli%20interventi%20urgenti%20ed%20indispensabili%20da%20attuare%20negli%20aeroporti%20aperti%20al%20_bc5d80145466.md), e nell'ambito della riforma delle aziende autonome di Stato, il Governo della Repubblica e' autorizzato ad emanare, entro diciotto mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti aventi valore di legge per la disciplina dell'Azienda autonoma di assistenza al volo per il traffico aereo generale.
+In attesa della ristrutturazione della Direzione generale dell'aviazione civile ai sensi dell'[articolo 4-ter del decreto-legge 26 maggio 1979, n. 151](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rifinanziamento%20degli%20interventi%20urgenti%20ed%20indispensabili%20da%20attuare%20negli%20aeroporti%20aperti%20al%20traffico%20aereo%20civile.md), convertito in legge, con modificazioni, dalla [legge 27 luglio 1979, n. 299](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20maggio%201979%20n.%20151%20concernente%20rifinanziamento%20degli%20interventi%20urgenti%20ed%20indispensabili%20da%20attuare%20negli%20aeroporti%20aperti%20al%20_bc5d80145466.md), e nell'ambito della riforma delle aziende autonome di Stato, il Governo della Repubblica e' autorizzato ad emanare, entro diciotto mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti aventi valore di legge per la disciplina dell'Azienda autonoma di assistenza al volo per il traffico aereo generale.
  Le norme delegate saranno emanate con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri della funzione pubblica, dei trasporti, della difesa e del tesoro, sentita una commissione parlamentare composta da dieci senatori e da dieci deputati designati, rispettivamente, dai Presidenti del Senato e della Camera dei deputati.
  La commissione esprimera' il proprio parere entro trenta giorni dalla richiesta.
 
@@ -60,7 +60,7 @@ Nell'esercizio del diritto di sciopero da parte del personale addetto ai servizi
 
 AGGIORNAMENTO (1)
 
-Il [D.LGS. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ha disposto (con l'art. 2268, comma 1, numero 760) l'abrogazione dell'art. 5.
+Il [D.LGS. 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ha disposto (con l'art. 2268, comma 1, numero 760) l'abrogazione dell'art. 5.
 
 ## Art. 6.
 

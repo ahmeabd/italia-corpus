@@ -22,7 +22,7 @@ Il Governo della Repubblica e' delegato ad emanare, entro diciotto mesi dall'ent
  attivita' di prevenzione e accertamento delle infrazioni alle norme relative alla polizia dei trasporti;
  procedure per l'applicazione delle sanzioni amministrative; devoluzione dei proventi delle sanzioni stesse;
  disciplina delle separazioni delle proprieta' laterali dalla sede ferroviaria, delle servitu' e dell'attivita' di terzi in prossimita' della sede ferroviaria ai fini della tutela della sicurezza dell'esercizio;
- sistemi di protezione degli attraversamenti dei passaggi a livello e prescrizioni per gli utenti, tenuto conto delle norme del [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), concernente la circolazione stradale, e successive modificazioni e aggiunte;
+ sistemi di protezione degli attraversamenti dei passaggi a livello e prescrizioni per gli utenti, tenuto conto delle norme del [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), concernente la circolazione stradale, e successive modificazioni e aggiunte;
  utilizzazione del personale e svolgimento dei servizi di trasporto in caso di mobilitazione delle forze armate e di guerra;
  interventi per la rimozione di cadaveri rinvenuti sulla sede ferroviaria e per la rimozione del materiale rotabile in caso di incidente;
  obblighi e responsabilita' dei direttori di esercizio delle ferrovie in concessione o in regime di gesti ne commissariale governativa.

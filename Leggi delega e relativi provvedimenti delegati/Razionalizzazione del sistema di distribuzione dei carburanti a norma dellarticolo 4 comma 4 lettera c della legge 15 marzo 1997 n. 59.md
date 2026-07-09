@@ -39,7 +39,7 @@ L'installazione e l'esercizio di impianti di distribuzione dei carburanti, di se
 2.
 
 L'attivita' di cui al comma 1 e' soggetta all'autorizzazione del comune in cui essa e' esercitata. L'autorizzazione e' subordinata esclusivamente alla verifica della conformita' alle disposizioni del piano regolatore, alle prescrizioni fiscali e a quelle concernenti la sicurezza sanitaria, ambientale e stradale, alle disposizioni per la tutela dei beni storici e artistici, nonche' alle norme di indirizzo programmatico delle regioni. Insieme all'autorizzazione il comune rilascia le concessioni edilizie necessarie ai sensi dell'articolo 2. 
-L'autorizzazione e' subordinata al rispetto delle prescrizioni di prevenzione incendi secondo le procedure di cui al [decreto del Presidente della Repubblica 12 gennaio 1998, n. 37](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20alla%20prevenzione%20incendi%20a%20norma%20dellarticolo%2020%20comma%208%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+L'autorizzazione e' subordinata al rispetto delle prescrizioni di prevenzione incendi secondo le procedure di cui al [decreto del Presidente della Repubblica 12 gennaio 1998, n. 37](../DPR/Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20alla%20prevenzione%20incendi%20a%20norma%20dellarticolo%2020%20comma%208%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 3.
 

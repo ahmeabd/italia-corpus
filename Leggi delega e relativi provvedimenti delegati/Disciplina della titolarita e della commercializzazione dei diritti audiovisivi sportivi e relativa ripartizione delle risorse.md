@@ -30,7 +30,7 @@ Visto il [decreto-legge 24 dicembre 2003, n. 352](https://www.normattiva.it/uri-
 
 ((Visto il [decreto legislativo 31 luglio 2005, n. 177](Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md);))
 
-Visto il [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), di recepimento delle [direttive 2002/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;19), [2002/20/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;20), [2002/21/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;21), [2002/22/CE del Parlamento europeo e del Consiglio, del 7 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;22);
+Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), di recepimento delle [direttive 2002/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;19), [2002/20/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;20), [2002/21/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;21), [2002/22/CE del Parlamento europeo e del Consiglio, del 7 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;22);
 
 Visto l'[articolo 1 della legge 19 luglio 2007, n. 106](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20della%20disciplina%20relativa%20alla%20titolarita%20ed%20al%20mercato%20dei%20diritti%20di%20trasmissione%20comunicazione%20e%20messa%20a%20disposizione%20al%20pubblico%20in%20sede%20radiotelevi_d33db19fc48c.md);
 
@@ -207,7 +207,7 @@ L'esercizio del diritto di cronaca non puo' pregiudicare lo sfruttamento normale
 
 3.
 
-E' comunque garantita alla concessionaria del servizio pubblico, limitatamente alle trasmissioni televisive, e alle altre emittenti televisive nazionali e locali la trasmissione di immagini salienti e correlate per il resoconto di attualita' nell'ambito dei telegiornali, di durata non superiore a otto minuti complessivi per giornata e comunque non superiore a quattro minuti per ciascun giorno solare, con un limite massimo di tre minuti per singolo evento, decorso un breve lasso di tempo dalla conclusione dell'evento, comunque non inferiore alle tre ore, e fino alle quarantotto ore successive alla conclusione dell'evento medesimo, nel rispetto delle modalita' e dei limiti temporali previsti da apposito regolamento dell'Autorita' per le garanzie nelle comunicazioni, sentiti i rappresentanti delle categorie interessate e le associazioni dei consumatori e degli utenti rappresentative a livello nazionale iscritte nell'elenco di cui all'[articolo 137 del decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+E' comunque garantita alla concessionaria del servizio pubblico, limitatamente alle trasmissioni televisive, e alle altre emittenti televisive nazionali e locali la trasmissione di immagini salienti e correlate per il resoconto di attualita' nell'ambito dei telegiornali, di durata non superiore a otto minuti complessivi per giornata e comunque non superiore a quattro minuti per ciascun giorno solare, con un limite massimo di tre minuti per singolo evento, decorso un breve lasso di tempo dalla conclusione dell'evento, comunque non inferiore alle tre ore, e fino alle quarantotto ore successive alla conclusione dell'evento medesimo, nel rispetto delle modalita' e dei limiti temporali previsti da apposito regolamento dell'Autorita' per le garanzie nelle comunicazioni, sentiti i rappresentanti delle categorie interessate e le associazioni dei consumatori e degli utenti rappresentative a livello nazionale iscritte nell'elenco di cui all'[articolo 137 del decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 4.
 
@@ -409,7 +409,7 @@ Sezione IV
 
 1.
 
-L'Autorita' per le garanzie nelle comunicazioni individua, periodicamente e con cadenza almeno biennale, le piattaforme emergenti, tenendo conto anche delle analisi di mercato previste dal titolo I, capo II, del [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md).
+L'Autorita' per le garanzie nelle comunicazioni individua, periodicamente e con cadenza almeno biennale, le piattaforme emergenti, tenendo conto anche delle analisi di mercato previste dal titolo I, capo II, del [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md).
 
 2.
 

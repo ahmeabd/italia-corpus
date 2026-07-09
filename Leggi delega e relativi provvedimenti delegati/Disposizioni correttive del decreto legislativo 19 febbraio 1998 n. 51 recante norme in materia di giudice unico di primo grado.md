@@ -188,7 +188,7 @@ Nota all'art. 8:
 1.
 
 Nell'allegato 3 del [decreto legislativo 19 febbraio 1998, n. 51, il n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-19;4) del "Modo di pagamento" relativo all'articolo 20, n. l, della tariffa e' sostituito dal seguente:
- " 4. Per gli originali delle sentenze e dei verbali di conciliazione nei procedimenti giurisdizionali civili, l'imposta di bollo, commisurata al numero dei fogli, e' versata, contestualmente all'imposta di registro, se dovuta, secondo le modalita' previste dal [decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), e successive modificazioni.".
+ " 4. Per gli originali delle sentenze e dei verbali di conciliazione nei procedimenti giurisdizionali civili, l'imposta di bollo, commisurata al numero dei fogli, e' versata, contestualmente all'imposta di registro, se dovuta, secondo le modalita' previste dal [decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), e successive modificazioni.".
 
 Nota all'art. 9:
  - L'allegato 3 del [decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md) (Norme in materia di istituzione del giudice unico di primo grado), sostituisce l'art. 20 della tariffa dell'imposta di bollo, allegato A, annessa al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 642](../DPR/Disciplina%20dellimposta%20di%20bollo.md).

@@ -46,7 +46,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-COMMA ABROGATO DAL. [D.LGS. 11 APRILE 2006, N. 198](../Codici/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md).
+COMMA ABROGATO DAL. [D.LGS. 11 APRILE 2006, N. 198](../Decreti%20Legislativi/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md).
 
 2.
 
@@ -60,7 +60,7 @@ COMMA ABROGATO DAL. [D.LGS. 11 APRILE 2006, N. 198](../Codici/Codice%20delle%20p
 
 2.
 
-COMMA ABROGATO DAL. [D.LGS. 11 APRILE 2006, N. 198](../Codici/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md).
+COMMA ABROGATO DAL. [D.LGS. 11 APRILE 2006, N. 198](../Decreti%20Legislativi/Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md).
 
 ## Art. 8.
 

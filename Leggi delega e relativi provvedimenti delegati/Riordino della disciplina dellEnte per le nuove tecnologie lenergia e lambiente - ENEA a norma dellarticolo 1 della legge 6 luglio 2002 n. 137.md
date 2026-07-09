@@ -325,7 +325,7 @@ La [L. 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 1.
 
-Il collegio dei revisori e' composto da tre membri effettivi e tre membri supplenti, che devono essere in possesso dei requisiti di cui al [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md). Un membro effettivo e un membro supplente sono designati dal Ministro delle attivita' produttive, un membro effettivo, con funzioni di presidente, e un membro supplente sono designati dal Ministro dell'economia e delle finanze, un membro effettivo e un membro supplente sono designati dal Ministro dell'istruzione, dell'universita' e della ricerca. Alla nomina provvede il Ministro delle attivita' produttive, con proprio decreto.
+Il collegio dei revisori e' composto da tre membri effettivi e tre membri supplenti, che devono essere in possesso dei requisiti di cui al [decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md). Un membro effettivo e un membro supplente sono designati dal Ministro delle attivita' produttive, un membro effettivo, con funzioni di presidente, e un membro supplente sono designati dal Ministro dell'economia e delle finanze, un membro effettivo e un membro supplente sono designati dal Ministro dell'istruzione, dell'universita' e della ricerca. Alla nomina provvede il Ministro delle attivita' produttive, con proprio decreto.
 
 2.
 

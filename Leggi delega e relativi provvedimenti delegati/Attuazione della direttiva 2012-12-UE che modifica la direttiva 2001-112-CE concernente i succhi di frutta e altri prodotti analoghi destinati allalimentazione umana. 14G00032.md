@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013;
 
-Visto il [decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md);
+Visto il [decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md);
 
 Vista la [direttiva 2001/112/CE del 20 dicembre 2001 del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112) concernente i succhi di frutta e altri prodotti analoghi destinati all'alimentazione umana;
 
@@ -37,7 +37,7 @@ Emana il seguente decreto legislativo:
 ## Art. 1.
 
 Modifiche all'articolo 1 «Campo di applicazione» 
- del [decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
+ del [decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
 
 1.
 
@@ -55,13 +55,13 @@ Avvertenza:
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) prevede che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
- - Il [decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), reca: «Attuazione della [direttiva 2001/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112), concernente i succhi di frutta ed altri prodotti analoghi destinati all'alimentazione umana». 
+ - Il [decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), reca: «Attuazione della [direttiva 2001/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112), concernente i succhi di frutta ed altri prodotti analoghi destinati all'alimentazione umana». 
  - La [direttiva 2002/55/CE del Consiglio, del 13 giugno 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;55), e' relativa alla commercializzazione delle sementi di ortaggi. 
  - La [direttiva 2008/72/CE del Consiglio, del 15 luglio 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;72), e' relativa alla commercializzazione delle piantine di ortaggi e dei materiali di moltiplicazione di ortaggi, ad eccezione delle sementi. 
  - La [direttiva 2009/145/CE della Commissione, del 26 novembre 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;145), prevede talune deroghe per l'ammissione di ecotipi e varieta' vegetali tradizionalmente coltivati in particolari localita' e regioni e minacciati dall'erosione genetica, nonche' di varieta' vegetali prive di valore intrinseco per la produzione vegetale a fini commerciali ma sviluppate per la coltivazione in condizioni particolari e per la commercializzazione di sementi di tali ecotipi e varieta'. 
  
  Note all'art. 1: 
- - Si riporta l'art. 1 del citato [decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), nel testo risultante dalle modifiche apportate: 
+ - Si riporta l'art. 1 del citato [decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), nel testo risultante dalle modifiche apportate: 
  «Art. 1 (Campo di applicazione). - 1. Il presente decreto si applica ai succhi di frutta e prodotti analoghi, destinati all'alimentazione umana e definiti all'allegato I, parte I. 
  1-bis. Salvo quanto espressamente stabilito dal presente decreto legislativo, i prodotti di cui al comma 1 sono soggetti alle norme comunitarie e di derivazione comunitaria applicabili agli alimenti ed in particolare al regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l'Autorita' europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare. 
  1-ter. Ai fini del presente decreto legislativo, si applicano le definizioni di cui all'allegato II. 
@@ -71,7 +71,7 @@ Avvertenza:
 ## Art. 2.
 
 Modifiche all'articolo 2 «Aggiunte» 
- del [decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
+ del [decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
 
 1.
 
@@ -81,7 +81,7 @@ L'articolo 2 e' sostituito dal seguente: «1. Ai prodotti di cui all'articolo 1,
 
 Modifiche all'articolo 3 «Trattamenti e sostanze 
  in essi utilizzati» del [decreto legislativo 
- 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
+ 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
 
 1.
 
@@ -92,7 +92,7 @@ Il comma 1 dell'articolo 3 e' sostituito dal seguente:
 
 Modifiche all'articolo 4 «Denominazioni di vendita 
  ed altre indicazioni» del [decreto legislativo 
- 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
+ 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
 
 1.
 
@@ -113,9 +113,9 @@ Tale menzione e' riportata:
  «6-bis. Ai fini della preparazione e della denominazione di succhi di frutta, purea di frutta e nettari di frutta, si applica quanto disposto nell'allegato I, parte II, punto 1.».
 
 Note all'art. 4: 
- - Si riporta l'[art. 4 del decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), nel testo risultante dalle modifiche apportate: 
+ - Si riporta l'[art. 4 del decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), nel testo risultante dalle modifiche apportate: 
  «Art. 4 (Denominazioni di vendita e altre indicazioni).
- - 1. Ai prodotti di cui all'art. 1, comma 1, si applica il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni, e le disposizioni di cui ai commi 2, 3, 4, 5 e 6. 
+ - 1. Ai prodotti di cui all'art. 1, comma 1, si applica il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni, e le disposizioni di cui ai commi 2, 3, 4, 5 e 6. 
  2. Si applicano le seguenti particolari disposizioni: 
  a) (soppressa); 
  b) la dicitura "a base di succo concentrato" o "a base di succhi concentrati" ovvero "parzialmente a base di succo concentrato" o "parzialmente a base di succhi concentrati" a seconda dei casi, deve figurare nell'etichettatura delle miscele di succo di frutta e di succo di frutta ottenuto da concentrato, e di nettare di frutta ottenuto interamente o parzialmente da concentrato; questa dicitura figura immediatamente accanto alla denominazione di vendita, bene in evidenza rispetto all'intero contesto e a caratteri chiaramente visibili; 
@@ -132,7 +132,7 @@ Note all'art. 4:
 ## Art. 5.
 
 Modifiche all'articolo 6 «Sanzioni» 
- del [decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
+ del [decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
 
 1.
 
@@ -148,7 +148,7 @@ Dopo il comma 3, e' inserito il seguente:
  «3-bis. Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui all'articolo 4, commi 6 e 6-bis, e' assoggettato alla sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila a euro novemila.».
 
 Note all'art. 5: 
- - Si riporta l'[art. 6 del decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), nel testo risultante dalle modifiche apportate: 
+ - Si riporta l'[art. 6 del decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), nel testo risultante dalle modifiche apportate: 
  «Art. 6 (Sanzioni). - 1. Salvo che il fatto costituisca reato, chiunque utilizza le denominazioni di vendita dei prodotti definiti all'allegato I e all'allegato III per prodotti non conformi alle caratteristiche per essi stabilite dal presente decreto, e' punito con la sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila ad euro novemila. 
  2. Salvo che il fatto costituisca reato, chiunque aggiunge ai prodotti di cui all'art. 1, comma 1, sostanze diverse da quelle consentite dall'allegato I, parte 2, punto 2, e' punito con la sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila ad euro novemila. 
  3. Salvo che il fatto costituisca reato, chiunque sottopone prodotti di cui all'art. 1, comma 1, a trattamenti diversi o utilizza sostanze diverse da quelli consentiti dall'allegato I, parte II, punto 3, e' punito con la sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila ad euro novemila. 
@@ -158,11 +158,11 @@ Note all'art. 5:
 ## Art. 6.
 
 Modifiche all'articolo 7 «Norme transitorie» 
- del [decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
+ del [decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md)
 
 1.
 
-All'[articolo 7 del decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), i commi 1 e 2 sono sostituiti dai seguenti: 
+All'[articolo 7 del decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), i commi 1 e 2 sono sostituiti dai seguenti: 
  «1. I prodotti di cui all'articolo 1, comma 1, e i relativi imballaggi, immessi sul mercato o etichettati conformemente alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono continuare ad essere commercializzati fino al 28 aprile 2015. 
  2. L'indicazione "Dal 28 aprile 2015 i succhi di frutta non possono contenere zuccheri aggiunti" puo' apparire sull'etichetta nello stesso campo visivo della denominazione dei prodotti di cui all'allegato I, parte I, punti da 1 a 4, fino al 28 ottobre 2016.».
 
@@ -191,7 +191,7 @@ L'allegato V e' sostituito dall'allegato V al presente decreto legislativo.
 
 6.
 
-Dopo l'[articolo 7 del decreto legislativo 21 maggio 2004, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), e' inserito il seguente: 
+Dopo l'[articolo 7 del decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), e' inserito il seguente: 
  «Art. 7-bis (Aggiornamento degli allegati). - 1. All'aggiornamento e alla modifica delle disposizioni degli allegati al presente decreto legislativo derivanti da aggiornamenti e modifiche della [direttiva 2001/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112) si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'[articolo 35, comma 3, della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md).».
 
 ## Art. 8. — Clausola di invarianza finanziaria

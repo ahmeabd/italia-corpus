@@ -22,7 +22,7 @@ Il [decreto-legge 27 agosto 1994, n. 515](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 24 febbraio 1994, n. 131](../DL%20decaduti/Provvedimenti%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201994.md), ad esclusione di quelli derivanti dall'applicazione delle disposizioni contenute nell'articolo 6, 26 aprile 1994, n. 253, e 27 giugno 1994, n. 410.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 24 febbraio 1994, n. 131](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201994.md), ad esclusione di quelli derivanti dall'applicazione delle disposizioni contenute nell'articolo 6, 26 aprile 1994, n. 253, e 27 giugno 1994, n. 410.
 
 3.
 

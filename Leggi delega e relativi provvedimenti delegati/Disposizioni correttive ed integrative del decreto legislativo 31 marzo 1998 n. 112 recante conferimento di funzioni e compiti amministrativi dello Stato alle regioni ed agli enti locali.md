@@ -450,7 +450,7 @@ Nota all'art. 16:
 
 All'articolo 119 sono apportate le seguenti modifiche:
                         a)
-                            al comma 1, dopo la lettera d), e' aggiunta la seguente lettera: " e) l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I.1.a) dell'allegato I al [decreto legislativo 13 aprile 1999, n. 123](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md).";
+                            al comma 1, dopo la lettera d), e' aggiunta la seguente lettera: " e) l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I.1.a) dell'allegato I al [decreto legislativo 13 aprile 1999, n. 123](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md).";
                         b)
                             il comma 2 e' abrogato.
 
@@ -459,7 +459,7 @@ Nota all'art. 17:
  "1. Sono conservate allo Stato le funzioni amministrative concernenti:
  a)-c) (omissis);
  d) l'autorizzazione alla pubblicita' ed informazione scientificadi medicinali e presidi medicochirurgici, dei dispositivi medici in commercio e delle caratteristiche terapeutiche delle acque minerali;
- e) l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I. 1. a) dell'allegato I al [decreto legislativo 13 aprile 1999, n. 123](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md).
+ e) l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I. 1. a) dell'allegato I al [decreto legislativo 13 aprile 1999, n. 123](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md).
  2. (Abrogato)".
 
 ## Art. 18. — Modifica all'articolo 142

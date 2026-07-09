@@ -193,9 +193,9 @@ Note all'[art. 4:
  L'installazione o l'esercizio di impianti in mancanza di concessione sono puniti con l'arresto da due mesi a due anni o con l'ammenda da lire 300.000 a 3.000.000.
  Il Ministro per l'industria, il commercio e l'artigianato, sulla base degli indirizzi fissati dal Comitato interministeriale per la programmazione economica per una razionale programmazione degli investimenti nel settore su tutto il territorio nazionale e sentito il parere delle Regioni e di una commissione consultiva da istituire presso lo stesso Ministero, determina annualmente per ciascuna provincia i criteri obiettivi per il rilascio ed il numero massimo delle nuove concessioni che possono essere rilasciate nel corso dell'anno successivo.
  L'esercizio degli impianti esistenti e funzionanti o regolarmente autorizzati alla data di entrata in vigore del presente decreto avra' termine, salvo nuova concessione, allo scadere di dodici mesi da tale data ovvero del periodo, se piu' lungo, fissato nel provvedimento originario o, in mancanza, di quello di diciotto anni dalla data di rilascio del provvedimento stesso.
- La concessione e soggetta al pagamento delle tasse sulle concessioni governative di cui al n. 134 della tabella A allegata al [D.P.R. 1 marzo 1961, n. 121](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md).
+ La concessione e soggetta al pagamento delle tasse sulle concessioni governative di cui al n. 134 della tabella A allegata al [D.P.R. 1 marzo 1961, n. 121](../DPR/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md).
  I titolari delle concessioni previste dal presente articolo possono affidare a terzi la gestione degli impianti di distribuzione di carburanti, con contratti aventi ad oggetto la cessione gratuita dell'uso degli apparecchi di distribuzione e delle attrezzature sia fisse che mobili e di durata non inferiore agli anni nove, che si risolveranno in caso di mancato rinnovo della concessione. In detti contratti dovranno prevedersi il diritto del gestore a sospendere per ferie l'esercizio dell'attivita' per un periodo non superiore a due settimane consecutive ogni anno, il divieto per il gestore di cedere il contratto d'uso o di affidare a terzi la sua esecuzione, i casi in cui il contratto si risolve di diritto ai sensi dell'[art. 1456 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1456) e le condizioni alle quali e' consentita la continuazione del rapporto instaurato con il gestore o con i familiari del medesimo, in caso di suo decesso o interdizione.
- Lo stesso contratto dovra' prevedere la continuita' della gestione nel caso di cessione e la preferenza nella gestione del nuovo impianto nel caso di revoca nella gestione della concesione relativa all'impianto in precedenza gestito. La licenza di esercizio prevista dall'[art. 3, D.L. 5 maggio 1957, n. 271](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), convertito, con modificazioni, nella [legge 2 luglio 1957, n. 474](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20maggio%201957%20n.%20271%20concernente%20disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md) e successive modificazioni, deve essere intestata al titolare della gestione dell'impianto, al quale incombe l'obbligo della tenuta del registro di carico e scarico. Il titolare della concessione ed il titolare della gestione dell'impianto sono, agli effetti fiscali, solidamente responsibili per gli obblighi derivati dalla gestione dell'impianto stesso.
+ Lo stesso contratto dovra' prevedere la continuita' della gestione nel caso di cessione e la preferenza nella gestione del nuovo impianto nel caso di revoca nella gestione della concesione relativa all'impianto in precedenza gestito. La licenza di esercizio prevista dall'[art. 3, D.L. 5 maggio 1957, n. 271](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md), convertito, con modificazioni, nella [legge 2 luglio 1957, n. 474](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20maggio%201957%20n.%20271%20concernente%20disposizioni%20per%20la%20prevenzione%20e%20la%20repressione%20delle%20frodi%20nel%20settore%20degli%20oli%20minerali.md) e successive modificazioni, deve essere intestata al titolare della gestione dell'impianto, al quale incombe l'obbligo della tenuta del registro di carico e scarico. Il titolare della concessione ed il titolare della gestione dell'impianto sono, agli effetti fiscali, solidamente responsibili per gli obblighi derivati dalla gestione dell'impianto stesso.
  La concessione puo' essere trasferita a terzi solo unitamente alla proprieta' del relativo impianto previa autorizzazione dell'autorita' che ha rilasciato la concessione stessa. Per la cessione delle concessioni da parte di chi sia proprietario di piu' impianti di distribuzione di carburanti, situati in province diverse, l'autorizzazione e' accordata dal Ministro per l'industria, il commercio e l'artigianato, sentito il Ministro per le finanze.
  I trasferimenti di impianti per la distribuzione dei carburanti da una localita' ad un'altra di una stessa provincia possono essere autorizzati dal prefetto, sentiti i pareri di cui al precedente comma secondo, fermo restando il numero degli erogatori.
  In caso di revoca della concessione per motivi di pubblico interesse, il concessionario sara' indennizzato per il solo valore residuo degli impianti, salvo che il concessionario medesimo non ottenga, su sua richiesta, che la concessione revocata sia sostituita con altra che l'amministrazione competente potra' rilasciare in aggiunta al numero massimo di concessioni fissato a norma del precedente comma quinto.
@@ -223,7 +223,7 @@ Ai sensi del presente decreto l'attivita' commerciale puo' essere esercitata con
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -231,11 +231,11 @@ L'accertamento delle condizioni di cui al comma 2 e' effettuato sulla base delle
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md). 
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md). 
  6.((COMMA ABROGATO DAL D.LGS. 26 MARZO 2010, N. 59, COME MODIFICATO DAL D.LGS. 6 AGOSTO 2012, N. 147)). 
  7. Le regioni stabiliscono le modalita' di organizzazione, la durata e le materie del corso professionale di cui al comma 5, lettera a), garantendone l'effettuazione anche tramite rapporti convenzionali con soggetti idonei. A tale fine saranno considerate in via prioritaria le camere di commercio, le organizzazioni imprenditoriali del commercio piu' rappresentative e gli enti da queste costituiti. 
  8. Il corso professionale ha per oggetto materie idonee a garantire l'apprendimento delle disposizioni relative alla salute, alla sicurezza e all'informazione del consumatore. Prevede altresi' materie che hanno riguardo agli aspetti relativi alla conservazione, manipolazione e trasformazione degli alimenti, sia freschi che conservati. 
@@ -307,7 +307,7 @@ In caso di inerzia da parte del comune, le regioni provvedono in via sostitutiva
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
@@ -556,11 +556,11 @@ Titolo VI
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -570,11 +570,11 @@ Nella ((segnalazione certificata di inizio di attivita')) deve essere dichiarata
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -588,7 +588,7 @@ La vendita mediante apparecchi automatici effettuata in apposito locale ad essa 
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
@@ -612,17 +612,17 @@ Chi effettua le vendite tramite televisione per conto terzi deve essere in posse
 
 7.
 
-COMMA ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+COMMA ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 ### Art. 19. — Vendite effettuate presso il domicilio dei consumatori
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2010, N. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md).
 
 3.
 
@@ -650,7 +650,7 @@ Il tesserino di riconoscimento di cui ai commi 5 e 6 e' obbligatorio anche per l
 
 9.
 
-COMMA ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+COMMA ABROGATO DAL [D.LGS. 6 SETTEMBRE 2005, N. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 ### Art. 20. — Propaganda a fini commerciali
 
@@ -873,7 +873,7 @@ Nel caso di cui al presente comma si applicano le disposizioni di cui ai commi 1
 
 6.
 
-Sono abrogate: la [legge 11 giugno 1971, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio.md), e successive modificazioni, ed il [decreto ministeriale 4 agosto 1988, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-08-04;375), a esclusione del comma 9 dell'articolo 56 e dell'allegato 9 e delle disposizioni concernenti il registro esercenti il commercio relativamente alla attivita' di somministrazione di alimenti e bevande di cui alla [legge 25 agosto 1991, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-25;287), e alla attivita' ricettiva di cui alla [legge 17 marzo 1983, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-17;217); la [legge 28 luglio 1971, n. 558](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellorario%20dei%20negozi%20e%20degli%20esercizi%20di%20vendita%20al%20dettaglio.md); la [legge 19 marzo 1980, n. 80](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20vendite%20straordinarie%20e%20di%20liquidazione.md), come modificata dalla [legge 12 aprile 1991, n. 130; l'articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-12;130#art_8) del [decreto-legge 1 ottobre 1982, n. 697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-10-01;697), convertito, con modificazioni, dalla [legge 29 novembre 1982, n. 887](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201982%20n.%20697%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20di%20regime%20fiscale%20delle%20manifestazioni%20sporti_d37eb0207d6c.md), come riformulato dall'[articolo 1 del decreto-legge 26 gennaio 1987, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;9#art_1) convertito, con modificazioni, dalla [legge 26 gennaio 1987, n. 121; l'articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-01-26;121#art_4) della [legge 6 febbraio 1987, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20dicembre%201986%20n.%20832%20recante%20misure%20urgenti%20in%20materia%20di%20contratti%20di%20locazione%20di%20immobili%20adibiti%20ad%20uso%20diverso%20da%20quello%20di%20abitazione.md); il [decreto del Presidente della Repubblica 18 aprile 1994, n. 384; l'articolo 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20allapertura%20ampliamento%20e%20trasferimento%20degli%20esercizi%20di%20vendita%20e%20di%20iscrizione%20nel%20registro%20degli%20esercenti%20il%20co_109bf5b8f49c.md) del [decreto ministeriale 16 settembre 1996, n. 561; l'articolo 2, commi 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-16;561#art_2-com89) e [90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-16;561#art_2-com90) della [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), nonche' ogni altra norma contraria al presente decreto o con esso incompatibile. Sono soppresse le voci numeri 50, 55 e 56 della tabella c) allegata al [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](../DPR/Regolamento%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20legge%207%20agosto%201990%20n.%20241.md), come modificata ed integrata dal [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](../DPR/Regolamento%20recante%20modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20aprile%201992%20n.%20300%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20_f88bd2527513.md)
+Sono abrogate: la [legge 11 giugno 1971, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio.md), e successive modificazioni, ed il [decreto ministeriale 4 agosto 1988, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-08-04;375), a esclusione del comma 9 dell'articolo 56 e dell'allegato 9 e delle disposizioni concernenti il registro esercenti il commercio relativamente alla attivita' di somministrazione di alimenti e bevande di cui alla [legge 25 agosto 1991, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-25;287), e alla attivita' ricettiva di cui alla [legge 17 marzo 1983, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-17;217); la [legge 28 luglio 1971, n. 558](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellorario%20dei%20negozi%20e%20degli%20esercizi%20di%20vendita%20al%20dettaglio.md); la [legge 19 marzo 1980, n. 80](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20delle%20vendite%20straordinarie%20e%20di%20liquidazione.md), come modificata dalla [legge 12 aprile 1991, n. 130; l'articolo 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-04-12;130#art_8) del [decreto-legge 1 ottobre 1982, n. 697](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-10-01;697), convertito, con modificazioni, dalla [legge 29 novembre 1982, n. 887](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%201982%20n.%20697%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20di%20regime%20fiscale%20delle%20manifestazioni%20sporti_d37eb0207d6c.md), come riformulato dall'[articolo 1 del decreto-legge 26 gennaio 1987, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-01-26;9#art_1) convertito, con modificazioni, dalla [legge 26 gennaio 1987, n. 121; l'articolo 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-01-26;121#art_4) della [legge 6 febbraio 1987, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20dicembre%201986%20n.%20832%20recante%20misure%20urgenti%20in%20materia%20di%20contratti%20di%20locazione%20di%20immobili%20adibiti%20ad%20uso%20diverso%20da%20quello%20di%20abitazione.md); il [decreto del Presidente della Repubblica 18 aprile 1994, n. 384; l'articolo 2](../DPR/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20autorizzazione%20allapertura%20ampliamento%20e%20trasferimento%20degli%20esercizi%20di%20vendita%20e%20di%20iscrizione%20nel%20registro%20degli%20esercenti%20il%20co_109bf5b8f49c.md) del [decreto ministeriale 16 settembre 1996, n. 561; l'articolo 2, commi 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-16;561#art_2-com89) e [90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-16;561#art_2-com90) della [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), nonche' ogni altra norma contraria al presente decreto o con esso incompatibile. Sono soppresse le voci numeri 50, 55 e 56 della tabella c) allegata al [decreto del Presidente della Repubblica 26 aprile 1992, n. 300](../DPR/Regolamento%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20legge%207%20agosto%201990%20n.%20241.md), come modificata ed integrata dal [decreto del Presidente della Repubblica 9 maggio 1994, n. 407](../DPR/Regolamento%20recante%20modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2026%20aprile%201992%20n.%20300%20concernente%20le%20attivita%20private%20sottoposte%20alla%20disciplina%20degli%20articoli%2019%20e%2020%20della%20_f88bd2527513.md)
 
 ## Commercio al dettaglio su aree pubbliche
 

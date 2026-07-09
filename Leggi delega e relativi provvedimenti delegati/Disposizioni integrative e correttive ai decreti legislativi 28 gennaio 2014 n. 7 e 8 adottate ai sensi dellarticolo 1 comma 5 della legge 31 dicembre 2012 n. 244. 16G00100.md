@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di seguito denominato «[codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)»;
+Visto il [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di seguito denominato «[codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)»;
 
-Vista la [legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), recante delega al Governo per la revisione dello strumento militare nazionale e norme sulla medesima materia e, in particolare, l'articolo 1, commi 5 e 6, a mente dei quali entro ventiquattro mesi dalla data di entrata in vigore dei decreti legislativi discendenti, il Governo puo' adottare disposizioni integrative e correttive secondo le medesime modalita' e nel rispetto dei medesimi principi e criteri direttivi, attraverso interventi normativi diretti ad introdurre le necessarie modificazioni al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md);
+Vista la [legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), recante delega al Governo per la revisione dello strumento militare nazionale e norme sulla medesima materia e, in particolare, l'articolo 1, commi 5 e 6, a mente dei quali entro ventiquattro mesi dalla data di entrata in vigore dei decreti legislativi discendenti, il Governo puo' adottare disposizioni integrative e correttive secondo le medesime modalita' e nel rispetto dei medesimi principi e criteri direttivi, attraverso interventi normativi diretti ad introdurre le necessarie modificazioni al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md);
 
 Visti i [decreti legislativi 28 gennaio 2014, n. 7 e 8](Disposizioni%20in%20materia%20di%20personale%20militare%20e%20civile%20del%20Ministero%20della%20difesa%20nonche%20misure%20per%20la%20funzionalita%20della%20medesima%20amministrazione%20a%20norma%20degli%20articoli%202%20comma%201%20lettere_a878be25db3c.md), recanti, rispettivamente: «Disposizioni in materia di revisione in senso riduttivo dell'assetto strutturale e organizzativo delle Forze armate ai sensi dell'[articolo 2, comma 1, lettere a)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), [b)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) e [d) della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md)» e «Disposizioni in materia di personale militare e civile del Ministero della difesa, nonche' misure per la funzionalita' della medesima amministrazione, a norma degli articoli 2, comma 1, lettere c) ed e), 3, [commi 1](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) e [2, e 4](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), [comma 1, lettera e) della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md)»;
 
@@ -40,7 +40,7 @@ Capo I
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 24-bis: 
  1) al comma 2, la parola: «, annualmente,» e' soppressa; 
@@ -142,11 +142,11 @@ Avvertenza:
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - Il [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ([Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 8 maggio 2010, n. 106. 
+ - Il [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ([Codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 8 maggio 2010, n. 106. 
  Il testo dell'[art. 1, commi 5](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) e [6, della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) (Delega al Governo per la revisione dello strumento militare nazionale e norme sulla medesima materia), pubblicata nella Gazzetta Ufficiale 16 gennaio 2013, n. 13, e' il seguente: 
  «Art. 1 (Oggetto e modalita' di esercizio della delega). - 1.-4. (Omissis). 
  5. Entro ventiquattro mesi dalla data di entrata in vigore dei decreti legislativi di cui al comma 1, il Governo puo' adottare disposizioni integrative e correttive, con le medesime modalita' e nel rispetto dei medesimi principi e criteri direttivi. Una quota parte non superiore al 50 per cento dei risparmi di spesa di parte corrente di natura permanente, di cui all'art. 4, comma 1, lettere c) e d), della presente legge, anche tenuto conto di quanto previsto dall' art. 3, comma 155 , ultimo periodo, della [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) , e successive modificazioni, e' utilizzata per adottare, entro il 1º luglio 2017, ulteriori disposizioni integrative, con le medesime procedure di cui al comma 3 del presente articolo, al fine di assicurare la sostanziale equiordinazione nel rispetto dei principi di cui agli [articoli 2 , comma 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), e [3, comma 3, della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md) , e dei criteri direttivi di cui all' [art. 8 , comma 1, lettera a), numero 1), della legge 7 agosto 2015, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124#art_8-com1-leta-num1) . 
- 6. Gli interventi normativi previsti dalle disposizioni dei decreti legislativi di cui al presente articolo sono effettuati introducendo le necessarie modificazioni al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) , di seguito denominato «[codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)». 
+ 6. Gli interventi normativi previsti dalle disposizioni dei decreti legislativi di cui al presente articolo sono effettuati introducendo le necessarie modificazioni al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) , di seguito denominato «[codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)». 
  7. (Omissis).». 
  - Il [decreto legislativo 28 gennaio 2014, n. 7](Disposizioni%20in%20materia%20di%20revisione%20in%20senso%20riduttivo%20dellassetto%20strutturale%20e%20organizzativo%20delle%20Forze%20armate%20ai%20sensi%20dellarticolo%202%20comma%201%20lettere%20a%20b%20e%20d%20della%20legge%2031%20dicembre%20_389ff5e9643c.md) (Disposizioni in materia di revisione in senso riduttivo dell'assetto strutturale e organizzativo delle Forze armate ai sensi dell'[art. 2, comma 1, lettere a)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), [b)](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) e [d) della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md)) e il [decreto legislativo 28 gennaio 2014, n. 8](Disposizioni%20in%20materia%20di%20personale%20militare%20e%20civile%20del%20Ministero%20della%20difesa%20nonche%20misure%20per%20la%20funzionalita%20della%20medesima%20amministrazione%20a%20norma%20degli%20articoli%202%20comma%201%20lettere_a878be25db3c.md) (Disposizioni in materia di personale militare e civile del Ministero della difesa, nonche' misure per la funzionalita' della medesima amministrazione, a norma degli articoli 2, comma 1, lettere c) ed e), 3, [commi 1](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md) e [2, e 4](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md), [comma 1, lettera e) della legge 31 dicembre 2012, n. 244](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20la%20revisione%20dello%20strumento%20militare%20nazionale%20e%20norme%20sulla%20medesima%20materia.%2013G00013.md)) sono pubblicati nel supplemento ordinario alla Gazzetta Ufficiale 11 febbraio 2014, n. 12. 
  - Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md) ([Testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), a norma dell'[art. 14 della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 18 giugno 2010, n. 140. 
@@ -240,7 +240,7 @@ Capo II
 
 1.
 
-A decorrere dal 1° gennaio 2017, al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+A decorrere dal 1° gennaio 2017, al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 118 e' sostituito dal seguente: 
  «Art. 118 (Corpi della Marina militare). - 1. L'organizzazione della Marina militare e' suddivisa in: 
@@ -404,7 +404,7 @@ Note all'art. 2:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 dopo l'articolo 2214, sono inseriti i seguenti: 
  «Art. 2214-bis (Unificazione e riordino dei ruoli normali e speciali degli ufficiali appartenenti al Corpo del genio navale ed al Corpo delle armi navali della Marina militare). - 1. Gli allievi e gli aspiranti ufficiali del Corpo del genio navale e del Corpo delle armi navali della Marina militare frequentatori del corso normale presso l'Accademia navale alla data del 1° gennaio 2017 all'atto della nomina a ufficiale sono immessi nel Corpo del genio della Marina, nelle specialita' genio navale, armi navali e infrastrutture, in relazione all'iter di studi frequentato. 
@@ -433,7 +433,7 @@ L'ordine di iscrizione in ruolo dei predetti ufficiali e' stabilito ai sensi del
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 643, dopo il comma 4, e' aggiunto il seguente: 
  «4-bis. Nei concorsi per il reclutamento del personale delle Forze armate, i termini di validita' delle graduatorie finali approvate, ai fini dell'arruolamento di candidati risultati idonei ma non vincitori, sono prorogabili solo nei casi e nei termini previsti dal presente codice.»;
@@ -627,7 +627,7 @@ Note all'art. 4:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 1067, il comma 4 e' abrogato;
                             b)
@@ -679,7 +679,7 @@ Note all'art. 5:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 2233-bis, al comma 1, dopo la lettera c), e' inserita la seguente: 
  «c-bis) per gli anni 2017 e 2018, in relazione a specifiche esigenze di ciascuna Forza armata, in deroga ai criteri di cui al comma 1, lettere a) e b), il decreto che fissa il numero delle promozioni a scelta puo' prevedere una riduzione del numero delle promozioni annuali al grado di colonnello o grado corrispondente stabilite dalle tabelle 1, 2 e 3 allegate al presente codice, nel limite massimo del 30 per cento con arrotondamento all'unita' per difetto. Il numero di promozioni non conferite non puo' essere riportato in aumento per l'anno successivo.»;
@@ -706,7 +706,7 @@ Note all'art. 6:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 682: 
  1) al comma 4, lettera a), n. 3), dopo la parola: «concorso» sono aggiunte le seguenti: «, fermo restando che, per il reclutamento delle professioni sanitarie, i concorrenti devono sostenere una specifica prova di selezione su argomenti attinenti a materie indicate dal Ministero dell'istruzione, dell'universita' e della ricerca, superata la quale, ove risultino vincitori di concorso, acquisiscono titolo all'ammissione ai corsi di laurea nei limiti numerici programmati a livello nazionale, che tengono conto delle esigenze numeriche della Difesa»; 
@@ -792,7 +792,7 @@ Note all'art. 7:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 2197: 
  1) al comma 1, lettera b), le parole: «di un terzo» sono sostituite dalle seguenti: «della meta'»; 
@@ -813,7 +813,7 @@ Note all'art. 8:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 842, dopo il comma 3, sono aggiunti, infine, i seguenti: 
  «3-bis. I volontari in ferma prefissata sono impiegati secondo le esigenze operative, addestrative e di servizio dei reparti, prevedendo turni di riposo per l'attivita' effettuata oltre il normale orario di servizio, disciplinati da apposita normativa di Forza armata. 
@@ -856,7 +856,7 @@ Note all'art. 9:
 
 Disposizioni transitorie intese a realizzare con gradualita' la riduzione delle dotazioni organiche del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare 
  
- 1. Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni: 
+ 1. Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni: 
  a) all'articolo 2209-septies: 
  1) al comma 1, le parole: «abbia maturato i requisiti utili per l'accesso al trattamento pensionistico anticipato e» sono soppresse; 
  2) al comma 2, lettera a), dopo le parole: «di ciascun anno» sono inserite le seguenti: «, per il personale che al 1° gennaio dell'anno di riferimento sia a non piu' di sette anni dal raggiungimento del limite di eta' previsto per il grado e il corpo di appartenenza»; 
@@ -920,7 +920,7 @@ Note all'art. 10:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 36, comma 1: 
  1) dopo le parole: «e assistenti, il personale», sono aggiunte le seguenti: «militare e civile»; 
@@ -970,7 +970,7 @@ Revisione della disciplina comune in materia di sanita' militare, misure di assi
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 dopo l'articolo 206, e' inserito il seguente: 
  «Art. 206-bis (Profilassi vaccinale del personale militare). - 1.
@@ -990,7 +990,7 @@ Note all'art. 12:
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 168, comma 4, le parole: «; su delega del Comandante generale effettua ispezioni agli Alti Comandi dell'Arma, e' membro ordinario con diritto di voto del Consiglio superiore delle Forze armate, presiede la commissione ordinaria di avanzamento degli ufficiali dei carabinieri.» sono sostituite dalle seguenti: «; presiede la commissione ordinaria di avanzamento degli ufficiali dei carabinieri e su delega del Comandante generale effettua ispezioni agli Alti Comandi dell'Arma.»;
                             b)
@@ -1073,7 +1073,7 @@ Note all'art. 13:
  a) 478 unita', in ciascuno degli anni dal 2006 al 2011; 
  b) 406 unita', in ciascuno degli anni dal 2012 al 2020.». 
  - Si riporta il testo del comma 1, lettera v) dell'art. 2136 del citato [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), come modificato dal presente decreto: 
- «Art. 2136 (Disposizioni applicabili al personale della Guardia di finanza). - 1. Si applicano al personale del Corpo della Guardia di finanza, in quanto compatibili, le seguenti disposizioni del libro IV del [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ «Art. 2136 (Disposizioni applicabili al personale della Guardia di finanza). - 1. Si applicano al personale del Corpo della Guardia di finanza, in quanto compatibili, le seguenti disposizioni del libro IV del [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
  (Omissis).; 
  v) (soppressa).; 
  (Omissis).». 
@@ -1110,12 +1110,12 @@ Alla [legge 12 gennaio 1991, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:n
                             a)
                                 all'articolo 1, comma 1: 
  1) la lettera o) e' sostituita dalla seguente: 
- «o) nomine di militari delle Forze armate, compresa l'Arma dei carabinieri, per le quali il [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e successive modificazioni, prevede l'emanazione del decreto del Presidente della Repubblica;»; 
+ «o) nomine di militari delle Forze armate, compresa l'Arma dei carabinieri, per le quali il [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e successive modificazioni, prevede l'emanazione del decreto del Presidente della Repubblica;»; 
  2) le lettere p), q), t) e v) sono soppresse.
 
 2.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 29, dopo il comma 1 e' inserito il seguente: 
  «1-bis. Il comandante del Comando operativo di vertice interforze e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro della difesa sentito il Capo di stato maggiore della difesa, tra gli ufficiali con il grado di generale di corpo d'armata, ammiraglio di squadra o generale di quadra aerea in servizio permanente effettivo.»;
@@ -1143,7 +1143,7 @@ Note all'art. 14:
  - Si riporta il testo dell'[art. 1, comma 1, lettere o)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13#art_1-com1-leto), [p)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13#art_1-com1-letp), [q)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13#art_1-com1-letq), [t)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13#art_1-com1-lett) e [v) della legge 12 gennaio 1991, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-12;13#art_1-com1-letv) (Determinazione degli atti amministrativi da adottarsi nella forma del decreto del Presidente della Repubblica) che e' pubblicato nella Gazzetta Ufficiale del 17 gennaio 1991, n. 14, come modificato dal presente decreto: 
  «Art. 1. - 1. Il Presidente della Repubblica, oltre gli atti previsti espressamente dalla Costituzione o da norme costituzionali e quelli relativi all'organizzazione e al personale del Segretariato generale della Presidenza della Repubblica, emana i seguenti altri atti, su proposta del Presidente del Consiglio dei ministri o del Ministro competente: 
  a) - n) (Omissis).; 
- o) nomine di militari delle Forze armate, compresa l'Arma dei carabinieri, per le quali il [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e successive modificazioni, prevede l'emanazione del decreto del Presidente della Repubblica; 
+ o) nomine di militari delle Forze armate, compresa l'Arma dei carabinieri, per le quali il [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e successive modificazioni, prevede l'emanazione del decreto del Presidente della Repubblica; 
  p) (soppressa); 
  q) (soppressa); 
  r) - s) (Omissis); 

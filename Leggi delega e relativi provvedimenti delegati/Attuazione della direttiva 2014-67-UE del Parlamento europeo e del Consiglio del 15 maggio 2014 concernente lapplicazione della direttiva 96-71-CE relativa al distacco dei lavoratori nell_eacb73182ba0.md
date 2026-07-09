@@ -24,7 +24,7 @@ Visto il regolamento (CE) n. 1072/2009 del Parlamento europeo e del Consiglio, d
 
 Visto il regolamento (UE) n. 1024/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, relativo alla cooperazione amministrativa attraverso il sistema di informazione del mercato interno («regolamento IMI»);
 
-Visto il [decreto legislativo 25 febbraio 2000, n. 72](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md), recante attuazione della [direttiva 96/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;71) in materia di distacco dei lavoratori nell'ambito di una prestazione di servizi;
+Visto il [decreto legislativo 25 febbraio 2000, n. 72](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md), recante attuazione della [direttiva 96/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;71) in materia di distacco dei lavoratori nell'ambito di una prestazione di servizi;
 
 Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), recante attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla [legge 14 febbraio 2003, n. 30](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md);
 
@@ -455,7 +455,7 @@ In ogni caso, le sanzioni di cui ai commi 1, 2 e 3-ter non possono essere superi
 AGGIORNAMENTO (2)
 
 La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
- 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
+ 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
 
 ## Disposizioni specifiche per le prestazioni transnazionali   di servizi di trasporto su strada))
 
@@ -953,10 +953,10 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
 
 1.
 
-E' abrogato il [decreto legislativo 25 febbraio 2000, n.72](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md).
+E' abrogato il [decreto legislativo 25 febbraio 2000, n.72](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md).
 
 Note all'art. 26: 
- - Per i riferimenti al [decreto legislativo 25 febbraio 2000, n. 72](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md), si veda nelle note alle premesse.
+ - Per i riferimenti al [decreto legislativo 25 febbraio 2000, n. 72](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md), si veda nelle note alle premesse.
 
 ### Art. 27. — Entrata in vigore
 

@@ -26,11 +26,11 @@ Visto il regolamento (UE) n. 1007/2011 del Parlamento europeo e del Consiglio, d
 
 Vista la [legge 26 novembre 1973, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883), recante disciplina della denominazione e della etichettatura dei prodotti tessili;
 
-Visto il [decreto legislativo 22 maggio 1999, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), recante attuazione della [direttiva 96/74/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;74) relativa alle denominazioni del settore tessile;
+Visto il [decreto legislativo 22 maggio 1999, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), recante attuazione della [direttiva 96/74/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;74) relativa alle denominazioni del settore tessile;
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
-Visto il [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), recante [Codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_7);
+Visto il [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), recante [Codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_7);
 
 Visto il regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93;
 
@@ -56,7 +56,7 @@ Il presente decreto reca la disciplina sanzionatoria per la violazione delle dis
 
 2.
 
-Sono fatte salve le disposizioni in materia di sicurezza generale dei prodotti e pratiche commerciali scorrette di cui al [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni, recante [Codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
+Sono fatte salve le disposizioni in materia di sicurezza generale dei prodotti e pratiche commerciali scorrette di cui al [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), e successive modificazioni, recante [Codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md).
 
 NOTE 
  
@@ -82,15 +82,15 @@ NOTE
  - Il decreto del Ministro dell'industria, del commercio e dell'artigianato 30 gennaio 2001, recante modifica al decreto dell'11 aprile 1996, e' pubblicato nella Gazzetta Ufficiale n. 37 del 14 febbraio 2001. 
  - Il regolamento (UE) n. 1007/2011 del Parlamento europeo e del Consiglio, del 27 settembre 2011, relativo alle denominazioni delle fibre tessili e all'etichettatura e al contrassegno della composizione fibrosa dei prodotti tessili e che abroga la [direttiva 73/44/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;44) e le [direttive del Parlamento europeo e del Consiglio 96/73/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;73) e [2008/121/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;121) e' pubblicato nella G.U.U.E. 18 ottobre 2011, n. L 272. 
  - La [legge 26 novembre 1973, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883) (Disciplina della denominazione e della etichettatura dei prodotti tessili), e' pubblicata nella Gazzetta Ufficiale 8 gennaio 1974, n. 7. 
- - Il [decreto legislativo 22 maggio 1999, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), recante attuazione della [direttiva 96/74/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;74) relativa alle denominazioni del settore tessile e' pubblicato nella Gazzetta Ufficiale 24 giugno 1999, n. 146. 
+ - Il [decreto legislativo 22 maggio 1999, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), recante attuazione della [direttiva 96/74/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;74) relativa alle denominazioni del settore tessile e' pubblicato nella Gazzetta Ufficiale 24 giugno 1999, n. 146. 
  - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689) recante modifiche al sistema penale e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, S.O. 
- - Il [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), recante [Codice del consumo](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_7) e' pubblicato nella Gazzetta Ufficiale 8 ottobre 2005, n. 235, S.O. 
+ - Il [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), recante [Codice del consumo](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_7) e' pubblicato nella Gazzetta Ufficiale 8 ottobre 2005, n. 235, S.O. 
  - Il regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 e' pubblicato nella G.U.U.E. 13 agosto 2008, n. L 218. 
  
  Note all'art. 1: 
  - Per i riferimenti normativi della [direttiva 94/11/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;11) si veda nelle note alle premesse. 
  - Per i riferimenti normativi del regolamento (UE) n. 1007/2011 si veda nelle note alle premesse. 
- - Per i riferimenti normativi del [decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) si veda nelle note alle premesse.
+ - Per i riferimenti normativi del [decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md) si veda nelle note alle premesse.
 
 ## Art. 2. — Definizioni
 
@@ -239,7 +239,7 @@ Note all'art. 5:
  Ove la revisione sia risultata favorevole al richiedente, questi ha diritto al rimborso del deposito.». 
  «Art. 24. Quando dalle analisi risultino violazioni alle norme della presente legge, l'autorita' che ha eseguito il prelievo, in caso di mancata presentazione nei termini della istanza di revisione, o nel caso che l'analisi di revisione confermi quella di prima istanza, trasmette entro quindici giorni le denunce all'autorita' giudiziaria.». 
  - Il [decreto del Presidente della Repubblica 30 aprile 1976, n. 515](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2026%20novembre%201973%20n.%20883%20sulla%20etichettatura%20dei%20prodotti%20tessili.md) e' pubblicato nella Gazzetta Ufficiale 29 luglio 1976, n. 199, S.O. 
- - Il testo dell'articolo 13 del citato [decreto legislativo 22 maggio 1999, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), cosi' recita: 
+ - Il testo dell'articolo 13 del citato [decreto legislativo 22 maggio 1999, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), cosi' recita: 
  «Art. 13 (Controlli). - 1. I controlli della conformita' dei prodotti tessili alle indicazioni di composizione previste dal presente decreto sono effettuati secondo i metodi di analisi previsti dalla normativa vigente. A tal fine le percentuali in fibre di cui agli articoli 4, 5 e 6 vengono determinate applicando alla massa anidra di ciascuna fibra il relativo tasso convenzionale di cui all'allegato II, previa eliminazione degli elementi indicati all'articolo 12, comma 1, lettere a), b), c), d) ed e) e comma 3.».
 
 ## Art. 6. — Vigilanza del mercato
@@ -304,14 +304,14 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
 
 Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni:
                         a)
-                            [articolo 15 del decreto legislativo 22 maggio 1999, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md);
+                            [articolo 15 del decreto legislativo 22 maggio 1999, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md);
                         b)
                             [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883#art_14), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883#art_17), [23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883#art_23), [25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883#art_25) e [26 della legge 26 novembre 1973, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883#art_26);
                         c)
                             articolo 6, comma 2, del decreto del Ministro dell'industria, del commercio e dell'artigianato 11 aprile 1996.
 
 Note all'art. 10: 
- - Per i riferimenti al citato [decreto legislativo 22 maggio 1999, n. 194](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), modificato dal presente decreto, si veda nelle note alle premesse. 
+ - Per i riferimenti al citato [decreto legislativo 22 maggio 1999, n. 194](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2096-74-CE%20relativa%20alle%20denominazioni%20del%20settore%20tessile.md), modificato dal presente decreto, si veda nelle note alle premesse. 
  - Per i riferimenti alla citata [legge 26 novembre 1973, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;883), si veda nelle note alle premesse. 
  - Per i riferimenti, al citato decreto del Ministro dell'industria, del commercio e dell'artigianato 11 aprile 1996, modificato dal presente decreto, si veda nelle note alle premesse.
 
