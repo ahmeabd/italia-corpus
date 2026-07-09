@@ -16,7 +16,7 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [R. decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), istitutivo della imposta generale sull'entrata, convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md);
+Visto il [R. decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), istitutivo della imposta generale sull'entrata, convertito, con modificazioni, nella [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md);
 
 Visto il [decreto-legge 3 giugno 1943, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1943-06-03;452), recante provvedimenti in materia d'imposta generale sull'entrata;
 
@@ -40,7 +40,7 @@ Sulla proposta del Ministro per le finanze, d'intesa con il Ministro per la graz
 
 ## Art. 3.
 
-Non costituiscono entrata imponibile ai sensi della [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), le somme introitate in dipendenza della vendita di giornali quotidiani di ogni genere e di giornali periodici aventi carattere prevalentemente politico. 
+Non costituiscono entrata imponibile ai sensi della [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), le somme introitate in dipendenza della vendita di giornali quotidiani di ogni genere e di giornali periodici aventi carattere prevalentemente politico. 
  
  E' abrogata la disposizione dell'art. 1, lettera m), della legge suddetta.
 
@@ -72,7 +72,7 @@ Per la importazione di pubblicazioni dall'estero l'imposta, nella misura del 2 %
 
 L'imposta sull'entrata del 2 % pagata a norma dei precedenti articoli 4 a 6 per la vendita o consegna delle pubblicazioni da parte dell'editore ovvero all'atto della importazione delle medesime, e' comprensiva di quella che sarebbe dovuta per i passaggi successivi delle pubblicazioni stesse, compresa la vendita al pubblico, ed assorbe altresi' il tributo relativo alte spese di imballaggio e di trasporto, limitatamente all'addebito fattone all'acquirente nello stesso documento di vendita o consegna delle pubblicazioni. 
  
- Le note o fatture che siano rilasciate per i detti passaggi successivi, sono soggette alla tassa di bollo stabilita dall'[art. 24 della legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni.
+ Le note o fatture che siano rilasciate per i detti passaggi successivi, sono soggette alla tassa di bollo stabilita dall'[art. 24 della legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), e successive modificazioni.
 
 ## Art. 8.
 
@@ -93,13 +93,13 @@ Per le vendite, fornitore e prestazioni in genere fatte a corpi, comandi ed uffi
 
 ## Art. 11.
 
-E' attribuita alla Intendenza di finanza la facolta' conferita al Ministero delle finanze dall'ultimo comma dell'art. 114 del regolamento approvato col [R. decreto 26 gennaio 1940, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), intesa ad autorizzare, quando la particolare organizzazione contabile amministrativa della ditta lo richieda, sistemi e modalita' di numerazione delle fatture in deroga al disposto del penultimo comma dell'[art. 26 della legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md). 
+E' attribuita alla Intendenza di finanza la facolta' conferita al Ministero delle finanze dall'ultimo comma dell'art. 114 del regolamento approvato col [R. decreto 26 gennaio 1940, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20istitutivo%20di%20una%20imposta%20generale%20sullentrata.%20040U0010.md), intesa ad autorizzare, quando la particolare organizzazione contabile amministrativa della ditta lo richieda, sistemi e modalita' di numerazione delle fatture in deroga al disposto del penultimo comma dell'[art. 26 della legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md). 
  
  Le Intendenze di finanza decidono sulle relative richieste delle ditte interessate, sentiti gli organi di vigilanza tributaria.
 
 ## Art. 12.
 
-Per le violazioni delle disposizioni stabilite dal presente decreto e dai decreti emanati dal Ministro per le finanze a norma dell'art. 9 si applicano le sanzioni previste dalla [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), dal [R. decreto legge 3 giugno 1943, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Addizionale%20straordinaria%20di%20guerra%20allimposta%20generale%20sullentrata.%20043U0452.md), e dal [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 348](Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md).
+Per le violazioni delle disposizioni stabilite dal presente decreto e dai decreti emanati dal Ministro per le finanze a norma dell'art. 9 si applicano le sanzioni previste dalla [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), dal [R. decreto legge 3 giugno 1943, n. 452](../Atti%20normativi%20abrogati%20%28in%20originale%29/Addizionale%20straordinaria%20di%20guerra%20allimposta%20generale%20sullentrata.%20043U0452.md), e dal [decreto legislativo Luogotenenziale 19 ottobre 1944, n. 348](Provvedimenti%20in%20materia%20di%20imposta%20generale%20sullentrata%20e%20di%20addizionale%20straordinaria%20di%20guerra.%20044U0348.md).
 
 ## Art. 13.
 

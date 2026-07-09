@@ -28,7 +28,7 @@ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e g
 
 ## Art. 1.
 
-E' abrogato il [R. decreto-legge 27 ottobre 1927, numero 1983](../Atti%20normativi%20abrogati%20%28in%20originale%29/Omissione%20nei%20certificati%20del%20casellario%20giudiziale%20delle%20condanne%20per%20reati%20commessi%20per%20fine%20nazionale.%20027U1983.md), convertito nella [legge 29 novembre 1928, n. 2686](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20ottobre%201927%20n.%201983%20riguardante%20lomissione%20nei%20certificati%20del%20casellario%20giudiziale%20delle%20condanne%20per%20reati%20commessi%20per%20fine%20nazionale.%20028U2686.md), il quale stabilisce di non fare menzione nei certificati del casellario giudiziale delle decisioni penali per determinati reati.
+E' abrogato il [R. decreto-legge 27 ottobre 1927, numero 1983](../Atti%20normativi%20abrogati%20%28in%20originale%29/Omissione%20nei%20certificati%20del%20casellario%20giudiziale%20delle%20condanne%20per%20reati%20commessi%20per%20fine%20nazionale.%20027U1983.md), convertito nella [legge 29 novembre 1928, n. 2686](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20ottobre%201927%20n.%201983%20riguardante%20lomissione%20nei%20certificati%20del%20casellario%20giudiziale%20delle%20condanne%20per%20reati%20commessi%20per%20fine%20nazionale.%20028U2686.md), il quale stabilisce di non fare menzione nei certificati del casellario giudiziale delle decisioni penali per determinati reati.
 
 ## Art. 2.
 
