@@ -28,7 +28,7 @@ ALIMENTARI, FORESTALI E DEL TURISMO
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[articolo 241 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), ai sensi del quale «il regolamento relativo agli interventi di bonifica, ripristino ambientale e di messa in sicurezza, d'emergenza, operativa e permanente, delle aree destinate alla produzione agricola e all'allevamento e' adottato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare di concerto con i Ministri delle attivita' produttive, della salute e delle politiche agricole e forestali»;
+Visto l'[articolo 241 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), ai sensi del quale «il regolamento relativo agli interventi di bonifica, ripristino ambientale e di messa in sicurezza, d'emergenza, operativa e permanente, delle aree destinate alla produzione agricola e all'allevamento e' adottato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare di concerto con i Ministri delle attivita' produttive, della salute e delle politiche agricole e forestali»;
 
 Visto la [legge 11 novembre 2011, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-11;180);
 
@@ -42,7 +42,7 @@ Acquisito il concerto del Ministro della salute reso con nota del 4 febbraio 201
 
 Acquisito il concerto del Ministro delle politiche agricole alimentari e forestali reso con nota del 26 novembre 2015;
 
-Acquisito il parere favorevole della Conferenza unificata di cui all'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella riunione del 17 dicembre 2015;
+Acquisito il parere favorevole della Conferenza unificata di cui all'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella riunione del 17 dicembre 2015;
 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nelle adunanze del 24 marzo 2016 e del 28 settembre 2016;
 
@@ -56,7 +56,7 @@ Oggetto, finalita' e campo di applicazione
 
 1.
 
-Il presente regolamento disciplina, in conformita' alla parte quarta, titolo V, del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e al principio comunitario «chi inquina paga», gli interventi di messa in sicurezza, bonifica e di ripristino ambientale delle aree destinate alla produzione agricola e all'allevamento oggetto di eventi che possono averne cagionato, anche potenzialmente, la contaminazione.
+Il presente regolamento disciplina, in conformita' alla parte quarta, titolo V, del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e al principio comunitario «chi inquina paga», gli interventi di messa in sicurezza, bonifica e di ripristino ambientale delle aree destinate alla produzione agricola e all'allevamento oggetto di eventi che possono averne cagionato, anche potenzialmente, la contaminazione.
 
 2.
 
@@ -79,14 +79,14 @@ N O T E
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
  (Omissis).». 
- - Si riporta il testo dell'[articolo 241 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale) pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88 - S.O. n. 96: 
+ - Si riporta il testo dell'[articolo 241 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale) pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88 - S.O. n. 96: 
  «Art. 241 (Regolamento aree agricole). - 1. Il regolamento relativo agli interventi di bonifica, ripristino ambientale e di messa in sicurezza, d'emergenza, operativa e permanente, delle aree destinate alla produzione agricola e all'allevamento e' adottato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare di concerto con i Ministri delle attivita' produttive, della salute e delle politiche agricole e forestali.». 
  - La [legge 11 novembre 2011, n. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-11;180) (Norme per la tutela della liberta' d'impresa. Statuto delle imprese) e' pubblicata nella Gazzetta Ufficiale 14 novembre 2011, n. 265. 
  - Si riporta il testo dell'[articolo 2, comma 4-ter del decreto-legge 10 dicembre 2013, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-10;136#art_2-com4ter) (Disposizioni urgenti dirette a fronteggiare emergenze ambientali e industriali ed a favorire lo sviluppo delle aree interessate), pubblicato nella Gazzetta Ufficiale 10 dicembre 2013, n. 289, convertito, con modificazioni, dalla [legge 6 febbraio 2014, n. 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20dicembre%202013%20n.%20136%20recante%20disposizioni%20urgenti%20dirette%20a%20fronteggiare%20emergenze%20ambientali%20e%20industriali%20ed%20a%20favorire%20lo%20sv_c73444966b92.md): 
  «Art. 2 (Azioni e interventi di monitoraggio, anche di tipo sanitario, nei territori della regione Campania e nei comuni di Taranto e Statte). - (Omissis). 
- 4-ter. Anche ai fini degli opportuni interventi di bonifica dei terreni inquinati, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dello sviluppo economico, della salute e delle politiche agricole alimentari e forestali, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), e successive modificazioni, adotta il regolamento relativo agli interventi di bonifica, ripristino ambientale e di messa in sicurezza, d'emergenza, operativa e permanente, delle aree destinate alla produzione agricola e all'allevamento, di cui all'[articolo 241 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md). 
+ 4-ter. Anche ai fini degli opportuni interventi di bonifica dei terreni inquinati, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dello sviluppo economico, della salute e delle politiche agricole alimentari e forestali, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), e successive modificazioni, adotta il regolamento relativo agli interventi di bonifica, ripristino ambientale e di messa in sicurezza, d'emergenza, operativa e permanente, delle aree destinate alla produzione agricola e all'allevamento, di cui all'[articolo 241 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md). 
  (Omissis).». 
- - Si riporta il testo dell'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md) (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali) pubblicato nella Gazzetta Ufficiale 30 agosto 1997, n. 202: 
+ - Si riporta il testo dell'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md) (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali) pubblicato nella Gazzetta Ufficiale 30 agosto 1997, n. 202: 
  «Art. 8 (Conferenza Stato-citta' ed autonomie locali e Conferenza unificata). - 1. La Conferenza Stato-citta' ed autonomie locali e' unificata per le materie ed i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunita' montane, con la Conferenza Stato-regioni. 
  2. La Conferenza Stato-citta' ed autonomie locali e' presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali nella materia di rispettiva competenza; ne fanno parte altresi' il Ministro del tesoro e del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanita', il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunita' ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI.
  Dei quattordici sindaci designati dall'ANCI cinque rappresentano le citta' individuate dall'[articolo 17 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md). Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici. 
@@ -101,7 +101,7 @@ N O T E
 
 1.
 
-Ai fini dell'applicazione del presente regolamento si applicano le definizioni di cui all'[articolo 240 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), nonche' le seguenti:
+Ai fini dell'applicazione del presente regolamento si applicano le definizioni di cui all'[articolo 240 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), nonche' le seguenti:
                         a)
                             area agricola: la porzione di territorio destinata alle produzioni agroalimentari;
                         b)
@@ -143,7 +143,7 @@ Note all'art. 2:
 
 1.
 
-Al verificarsi di un evento che sia potenzialmente in grado di contaminare un'area agricola, il responsabile dall'inquinamento pone tempestivamente in essere le necessarie misure di prevenzione e ne da' immediata comunicazione, ai sensi e con le modalita' di cui all'[articolo 304, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), alla regione, alla provincia, al comune, all'Agenzia regionale per la protezione dell'ambiente (ARPA) e all'Azienda sanitaria locale (ASL) territorialmente competenti nonche', per le aree ricadenti all'interno del perimetro di Siti di interesse nazionale (SIN), anche al Ministero dell'ambiente e della tutela del territorio e del mare.
+Al verificarsi di un evento che sia potenzialmente in grado di contaminare un'area agricola, il responsabile dall'inquinamento pone tempestivamente in essere le necessarie misure di prevenzione e ne da' immediata comunicazione, ai sensi e con le modalita' di cui all'[articolo 304, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), alla regione, alla provincia, al comune, all'Agenzia regionale per la protezione dell'ambiente (ARPA) e all'Azienda sanitaria locale (ASL) territorialmente competenti nonche', per le aree ricadenti all'interno del perimetro di Siti di interesse nazionale (SIN), anche al Ministero dell'ambiente e della tutela del territorio e del mare.
 La medesima procedura si applica all'atto di individuazione di contaminazioni storiche.
 
 2.
@@ -215,7 +215,7 @@ Gli eventuali vincoli e restrizioni all'utilizzo dell'area individuati all'esito
 
 5.
 
-La conformita' degli interventi attuati rispetto al progetto approvato e' certificata ai sensi dell'[articolo 248, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), con il supporto tecnico di ARPA e di ASL per i rispettivi profili di competenza.
+La conformita' degli interventi attuati rispetto al progetto approvato e' certificata ai sensi dell'[articolo 248, comma 2, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), con il supporto tecnico di ARPA e di ASL per i rispettivi profili di competenza.
 
 Note all'art. 5: 
  
@@ -233,7 +233,7 @@ Fatti salvi gli obblighi del responsabile dell'inquinamento, il proprietario o i
 
 2.
 
-E' riconosciuta al proprietario o ad altro operatore interessato la facolta' di intervenire in qualunque momento per la realizzazione degli interventi necessari nell'ambito del sito in proprieta' o nella disponibilita' ai sensi dell'[articolo 245 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
+E' riconosciuta al proprietario o ad altro operatore interessato la facolta' di intervenire in qualunque momento per la realizzazione degli interventi necessari nell'ambito del sito in proprieta' o nella disponibilita' ai sensi dell'[articolo 245 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 Note all'art. 6: 
  
@@ -246,7 +246,7 @@ Note all'art. 6:
 
 1.
 
-I procedimenti di bonifica e messa in sicurezza di aree agricole gia' avviati ai sensi della disciplina di cui alla parte quarta, titolo V, del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e non conclusi alla data di entrata in vigore del presente regolamento restano disciplinati dalle relative disposizioni. Si intendono conclusi i procedimenti per i quali e' stato emanato dall'autorita' competente un decreto di approvazione degli interventi. Per i procedimenti non conclusi il proponente puo' avviare le procedure di cui al presente regolamento, entro centottanta giorni dalla data di entrata in vigore del medesimo.
+I procedimenti di bonifica e messa in sicurezza di aree agricole gia' avviati ai sensi della disciplina di cui alla parte quarta, titolo V, del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e non conclusi alla data di entrata in vigore del presente regolamento restano disciplinati dalle relative disposizioni. Si intendono conclusi i procedimenti per i quali e' stato emanato dall'autorita' competente un decreto di approvazione degli interventi. Per i procedimenti non conclusi il proponente puo' avviare le procedure di cui al presente regolamento, entro centottanta giorni dalla data di entrata in vigore del medesimo.
 
 2.
 
@@ -258,7 +258,7 @@ Ai fini di cui all'[articolo 7, comma 1, della legge 11 novembre 2011, n. 180](h
 
 4.
 
-Le integrazioni e le modifiche degli allegati al presente regolamento sono adottate con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro della salute e con il Ministro delle politiche agricole alimentari, forestali e del turismo, sentita la Conferenza unificata di cui all'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
+Le integrazioni e le modifiche degli allegati al presente regolamento sono adottate con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro della salute e con il Ministro delle politiche agricole alimentari, forestali e del turismo, sentita la Conferenza unificata di cui all'[articolo 8, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
 
 Note all'art. 7: 
  

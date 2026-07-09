@@ -65,7 +65,7 @@ Il presente regolamento stabilisce i criteri e le modalita' per il rilascio dell
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 2. — Valutazione della conformita'
 
@@ -82,7 +82,7 @@ L'autorizzazione puo' essere concessa in base ai requisiti posseduti dal richied
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 3. — R e q u i s i t i
 
@@ -147,7 +147,7 @@ Gli organismi notificati ai sensi dell'articolo 7, comma 2, devono comunicare al
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 4. — Presentazione della domanda
 
@@ -168,7 +168,7 @@ Nella domanda di cui al comma 1 devono essere riportate le seguenti indicazioni:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 5. — Documentazione da allegare alla domanda per l'autorizzazione alla valutazione della conformita' dei prodotti
 
@@ -207,7 +207,7 @@ Il Ministero delle attivita' produttive, di concerto con il Ministero delle infr
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 6. — Documentazione da allegare alla domanda per l'autorizzazione alla valutazione della conformita' dei sistemi di qualita' aziendali
 
@@ -254,7 +254,7 @@ Il Ministero delle attivita' produttive, di concerto con il Ministero delle infr
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 7. — Autorizzazioni e verifiche
 
@@ -300,7 +300,7 @@ Qualora l'apposita struttura tecnica, di cui al comma 5, accerti che un organism
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 8. — Obbligo di comunicazioni
 
@@ -313,7 +313,7 @@ Gli organismi autorizzati ai sensi dell'articolo 7, comma 2, debbono comunicare,
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 9. — T a r i f f e
 
@@ -325,7 +325,7 @@ Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 ## Art. 10. — Norme transitorie
 
@@ -346,7 +346,7 @@ Le autorizzazioni provvisorie non revocate conservano la loro validita' fino al 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 gennaio 2016, n. 5](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
+Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-53-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20novembre%202013%20relativa%20alle%20unita%20da%20diporto%20e%20alle%20moto%20dacqua%20e%20che%20abroga%20la%20direttiva%2094-25-CE.%2016G00001.md) ha disposto (con l'art. 46, comma 5) che "Il [decreto del Ministero delle attivita' produttive 30 aprile 2003, n. 175](Regolamento%20recante%20disposizioni%20per%20il%20rilascio%20dellautorizzazione%20agli%20organismi%20di%20certificazione%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20dipor_c3932ddf970f.md) e' abrogato a decorrere dall'entrata in vigore del decreto di cui all'articolo 31, comma 3".
 
 Il presente regolamento, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

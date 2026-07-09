@@ -80,7 +80,7 @@ La segreteria e' articolata nei seguenti settori di attivita' a cui sono prepost
 
 I settori (( . . . )) provvedono agli adempimenti assegnati ai sensi dell'art. 3, comma 1.
 
-(( 4. Fermo restando quanto disposto dall'[art. 19, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), al settore di cui alla lettera a) del comma 1, possono essere assegnati, in posizione di studio e ricerca, funzionari e dirigenti, anche dipendenti dalle regioni e province autonome, in possesso di comprovata professionalita' nello studio, consulenza e ricerca giuridico-legislativa ))
+(( 4. Fermo restando quanto disposto dall'[art. 19, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), al settore di cui alla lettera a) del comma 1, possono essere assegnati, in posizione di studio e ricerca, funzionari e dirigenti, anche dipendenti dalle regioni e province autonome, in possesso di comprovata professionalita' nello studio, consulenza e ricerca giuridico-legislativa ))
 
 ## Art. 3. — Funzionamento
 

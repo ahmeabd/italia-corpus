@@ -316,7 +316,7 @@ Per quanto previsto dall'art. 20, comma 1, lettera d), della legge, l'impresa do
 L'impresa richiedente dovra' altresi' produrre una pianta planimetrica delle strutture aziendali con l'indicazione delle singole strutture impiantistiche.
 
 Note all'art. 5:
- - L'art. 275 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [D.P.R. 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), cosi' recita:
+ - L'art. 275 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [D.P.R. 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), cosi' recita:
  "Art. 275 (Registro d'iscrizione). - Il personale tecnico delle costruzioni navali e' iscritto in registri conformi al modello approvato dal Ministro per la marina mercantile, tenuti dagli uffici di compartimento e di circondario.
  Ogni iscrizione nel registro prende un numero progressivo, riporta la data sotto la quale si effettua e indica:
  a) le generalita' dell'iscritto;

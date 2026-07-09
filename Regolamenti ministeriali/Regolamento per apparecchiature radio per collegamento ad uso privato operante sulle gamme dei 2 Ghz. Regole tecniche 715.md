@@ -22,7 +22,7 @@ Vista la [legge 12 marzo 1968, n. 325](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il regolamento per il collaudo di materiali e di impianti forniti all'Amministrazione delle poste e delle telecomunicazioni e all'Azienda di Stato per i servizi telefonici, approvato con [decreto del Presidente della Repubblica 26 settembre 1973, n. 1143](../DPR/Approvazione%20del%20regolamento%20per%20il%20collaudo%20di%20materiali%20e%20di%20impianti%20forniti%20allAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20ed%20allAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md);
+Visto il regolamento per il collaudo di materiali e di impianti forniti all'Amministrazione delle poste e delle telecomunicazioni e all'Azienda di Stato per i servizi telefonici, approvato con [decreto del Presidente della Repubblica 26 settembre 1973, n. 1143](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20il%20collaudo%20di%20materiali%20e%20di%20impianti%20forniti%20allAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20ed%20allAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md);
 
 Vista la [legge 10 febbraio 1982, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-10;39);
 

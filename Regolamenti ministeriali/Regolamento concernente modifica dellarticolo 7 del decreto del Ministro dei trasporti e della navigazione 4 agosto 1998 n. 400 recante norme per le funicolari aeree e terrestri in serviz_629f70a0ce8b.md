@@ -14,7 +14,7 @@ Visto il [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20
 
 Vista la [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110), sui provvedimenti per la concessione all'industria privata dell'impianto e dell'esercizio di funicolari aeree e di ascensori in servizio pubblico;
 
-Visto il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1367](../DPR/Regolamento%20generale%20per%20le%20funicolari%20aeree%20in%20servizio%20pubblico%20destinate%20al%20trasporto%20di%20persone.md), che disciplina, mediante norme generali, la costruzione e l'esercizio delle funicolari aeree in servizio pubblico destinate al trasporto di persone;
+Visto il [decreto del Presidente della Repubblica 18 ottobre 1957, n. 1367](../Regolamenti%20governativi/Regolamento%20generale%20per%20le%20funicolari%20aeree%20in%20servizio%20pubblico%20destinate%20al%20trasporto%20di%20persone.md), che disciplina, mediante norme generali, la costruzione e l'esercizio delle funicolari aeree in servizio pubblico destinate al trasporto di persone;
 
 Visti gli [articoli 1](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md) e [95 del decreto del Presidente della Repubblica 11 luglio 1980, n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), che fissa nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto;
 
@@ -22,9 +22,9 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto il [decreto del Ministro dei trasporti e della navigazione del 4 agosto 1998, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:1998-08-04;400), recante "Regolamento generale per le funicolari aeree e terrestri in servizio pubblico destinato al trasporto di persone";
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante "Riforma dell'organizzazione del Governo, a norma dell'[articolo 11, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)";
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante "Riforma dell'organizzazione del Governo, a norma dell'[articolo 11, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)";
 
-Visto il [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md), recante "Regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti";
+Visto il [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md), recante "Regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti";
 
 Ritenuta la necessita' di adeguare le norme generali di costruzione e di esercizio delle funicolari aeree e terrestri in relazione all'evoluzione della tecnica, alla introduzione di nuove tecnologie ed all'esperienza nel settore;
 

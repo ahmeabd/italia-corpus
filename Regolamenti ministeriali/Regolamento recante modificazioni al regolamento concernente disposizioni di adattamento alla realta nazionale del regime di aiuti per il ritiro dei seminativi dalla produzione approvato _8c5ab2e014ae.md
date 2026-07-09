@@ -20,7 +20,7 @@ Visto il proprio [regolamento n. 63 del 19 febbraio 1991](https://www.normattiva
 
 Vista la [legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183), in materia di coordinamento delle politiche riguardanti l'appartenenza dell'Italia alle Comunita' europee ed adeguamento dell'ordinamento interno agli atti normativi comunitari;
 
-Visto il [decreto del Presidente della Repubblica 29 dicembre 1988, n. 568](../DPR/Approvazione%20del%20regolamento%20per%20lorganizzazione%20e%20le%20procedure%20amministrative%20del%20Fondo%20di%20rotazione%20per%20lattuazione%20delle%20politiche%20comunitarie%20in%20esecuzione%20dellart.%208%20della%20legge%2016%20a_98912192427e.md), recante il regolamento concernente l'organizzazione e le pro- cedure amministrative del Fondo di rotazione per l'attuazione delle politiche comunitarie;
+Visto il [decreto del Presidente della Repubblica 29 dicembre 1988, n. 568](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lorganizzazione%20e%20le%20procedure%20amministrative%20del%20Fondo%20di%20rotazione%20per%20lattuazione%20delle%20politiche%20comunitarie%20in%20esecuzione%20dellart.%208%20della%20legge%2016%20a_98912192427e.md), recante il regolamento concernente l'organizzazione e le pro- cedure amministrative del Fondo di rotazione per l'attuazione delle politiche comunitarie;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

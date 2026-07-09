@@ -388,7 +388,7 @@ Nota all'[art. 22:
 
 1.
 
-Per tutti i casi non contemplati nel presente regolamento si osservano, in quanto applicabili, le disposizioni contenute nel regolamento per l'esecuzione della [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), approvato con [decreto del Presidente della Repubblica 6 novembre 1960, n. 1926](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2021%20marzo%201958%20n.%20253%20relativa%20alla%20disciplina%20della%20professione%20di%20mediatore.md).
+Per tutti i casi non contemplati nel presente regolamento si osservano, in quanto applicabili, le disposizioni contenute nel regolamento per l'esecuzione della [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), approvato con [decreto del Presidente della Repubblica 6 novembre 1960, n. 1926](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2021%20marzo%201958%20n.%20253%20relativa%20alla%20disciplina%20della%20professione%20di%20mediatore.md).
 
 Nota all'[art. 23:
  - Il D.P.R. n. 1926/1960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1960;1926#art_23) approva il regolamento per l'esecuzione della [legge 21 marzo 1958, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20professione%20di%20mediatore.md), sulla disciplina della professione di mediatore, abrogata dall'[art. 10 della legge 3 febbraio 1989, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-03;39#art_10).

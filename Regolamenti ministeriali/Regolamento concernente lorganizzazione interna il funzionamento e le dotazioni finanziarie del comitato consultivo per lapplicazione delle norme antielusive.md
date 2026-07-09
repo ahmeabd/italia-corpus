@@ -14,7 +14,7 @@ Vista la [legge 29 ottobre 1991, n. 358](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 21, comma 6, della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md);
 
-Visto il regolamento degli uffici e del personale del Ministero delle finanze, emanato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../DPR/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md);
+Visto il regolamento degli uffici e del personale del Ministero delle finanze, emanato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../Regolamenti%20governativi/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md);
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -28,7 +28,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Il comitato previsto dall'[articolo 21 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), si avvale dell'ufficio per l'informazione del contribuente, costituito presso il Segretariato generale, per i compiti di cui all'[articolo 9 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../DPR/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md).
+Il comitato previsto dall'[articolo 21 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), si avvale dell'ufficio per l'informazione del contribuente, costituito presso il Segretariato generale, per i compiti di cui all'[articolo 9 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287](../Regolamenti%20governativi/Regolamento%20degli%20uffici%20e%20del%20personale%20del%20Ministero%20delle%20finanze.md).
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposioni di legge alle quali e' operato il rinvio. Restano invariati i valori e l'efficacia degli atti legislativi qui' trascritti. 

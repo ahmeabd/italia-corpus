@@ -42,11 +42,11 @@ Visto il [decreto-legge 12 luglio 2018, n. 86](https://www.normattiva.it/uri-res
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), e successive modifiche e integrazioni, recante «Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi»;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../DPR/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), recante «Approvazione del nuovo regolamento anagrafico della popolazione residente»;
+Visto il [decreto del Presidente della Repubblica 30 maggio 1989, n. 223](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20anagrafico%20della%20popolazione%20residente.md), recante «Approvazione del nuovo regolamento anagrafico della popolazione residente»;
 
 Visto il [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante il «[Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md)»;
 
@@ -60,7 +60,7 @@ Visto il decreto del Presidente del Consiglio dei ministri 24 ottobre 2014, reca
 
 Vista la [legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato» (Legge finanziaria 2008);
 
-Visto il [decreto legislativo 30 giugno 2003, n. 196](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante «[Codice in materia di protezione dei dati personali](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)»;
+Visto il [decreto legislativo 30 giugno 2003, n. 196](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante «[Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)»;
 
 Sentito il Garante per la protezione dei dati personali;
 

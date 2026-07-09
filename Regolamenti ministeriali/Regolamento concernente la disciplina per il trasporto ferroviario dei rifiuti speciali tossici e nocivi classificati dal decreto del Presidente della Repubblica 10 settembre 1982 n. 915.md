@@ -20,7 +20,7 @@ Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di 
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
+Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
 
 Vista la [legge 3 marzo 1987, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente;
 
@@ -50,9 +50,9 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../DPR/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md).
+Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../Regolamenti%20governativi/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md).
 
-(( 2. L'attivita' di trasporto di cui al comma precedente deve ritenersi comprensiva delle c omplementari attivita' di carrellamento dei carri ferroviari per mezzo di carrelli stradali provvisti di tutte le autorizzazioni prescritte per la circolazione stradale delle merci pericolose di cui all'art. 168 del decreto legislativo 30 aprile 1992. n. 285, e successive modifiche, concernente il Nuovo [codice della strada, ed all'art. 368, comma 2](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), del relativo regolamento di attuazione e di esecuzione ))
+(( 2. L'attivita' di trasporto di cui al comma precedente deve ritenersi comprensiva delle c omplementari attivita' di carrellamento dei carri ferroviari per mezzo di carrelli stradali provvisti di tutte le autorizzazioni prescritte per la circolazione stradale delle merci pericolose di cui all'art. 168 del decreto legislativo 30 aprile 1992. n. 285, e successive modifiche, concernente il Nuovo [codice della strada, ed all'art. 368, comma 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), del relativo regolamento di attuazione e di esecuzione ))
 
 ## Art. 2.
 

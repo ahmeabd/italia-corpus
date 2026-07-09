@@ -36,7 +36,7 @@ Vista la [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn
 
 Vista la [legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md);
 
-Visto il [decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../DPR/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md);
+Visto il [decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../Regolamenti%20governativi/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md);
 
 Vista la [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720);
 
@@ -44,7 +44,7 @@ Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 23 febbraio 1995;
 
@@ -74,7 +74,7 @@ L'Istituto postelegrafonici ha sede in Roma.
  Nota alle premesse:
  - Il testo vigente dell'[art. 6 del decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487#art_6), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md), e' il seguente:
  "Art. 6 (Rapporti giuridici). - 1. L'ente e' titolare dei rapporti attivi e passivi, nonche' dei diritti e dei beni dell'Amministrazione delle poste e delle telecomunicazioni, ivi compresi quelli in corso di realizzazione e quelli per i quali sono stati emessi ordini di acquisto, ad eccezione dei beni da destinare a sedi e uffici del Ministero.
- 2. Il personale dell'Amministrazione delle poste e delle telecomunicazioni resta alle dipendenze dell'ente, con rapporto di diritto privato, ad eccezione del seguente personale, che viene assegnato al Ministero delle poste e delle telecomunicazioni in attesa dell'inquadramento nei ruoli organici dello stesso secondo la disciplina del [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sulla base di un quadro di equiparazione da approvare con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro per la funzione pubblica, sentite le organizzazioni sindacali maggiormente rappresentative:
+ 2. Il personale dell'Amministrazione delle poste e delle telecomunicazioni resta alle dipendenze dell'ente, con rapporto di diritto privato, ad eccezione del seguente personale, che viene assegnato al Ministero delle poste e delle telecomunicazioni in attesa dell'inquadramento nei ruoli organici dello stesso secondo la disciplina del [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), sulla base di un quadro di equiparazione da approvare con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro per la funzione pubblica, sentite le organizzazioni sindacali maggiormente rappresentative:
  a) personale per il funzionamento delle segreterie particolari del Ministro, del Sottosegretario di Stato e del Gabinetto;
  b) personale dell'Ispettorato generale delle telecomunicazioni, nei limiti dell'organico delle divisioni I, II e III;
  c) personale dell'Istituto superiore delle poste e delle telecomunicazioni, nei limiti dell'organico degli uffici I, II, III, IV, V, VI e VIII;

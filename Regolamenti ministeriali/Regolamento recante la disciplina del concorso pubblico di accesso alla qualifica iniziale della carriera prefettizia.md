@@ -14,7 +14,7 @@ di concerto con
 
 IL MINISTRO PER LA FUNZIONE PUBBLICA
 
-Visto l'[articolo 4, comma 2, del decreto legislativo 19 maggio 2000, n. 139](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md), che demanda ad apposito regolamento la disciplina del concorso pubblico di accesso alla qualifica iniziale della carriera prefettizia;
+Visto l'[articolo 4, comma 2, del decreto legislativo 19 maggio 2000, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md), che demanda ad apposito regolamento la disciplina del concorso pubblico di accesso alla qualifica iniziale della carriera prefettizia;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -66,10 +66,10 @@ I titoli di studio conseguiti all'estero presso universita' e istituti di istruz
 
 1.
 
-Per la riserva del dieci per cento dei posti messi a concorso, si applicano le disposizioni dell'[articolo 4, comma 4, del decreto legislativo 19 maggio 2000, n. 139](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md).
+Per la riserva del dieci per cento dei posti messi a concorso, si applicano le disposizioni dell'[articolo 4, comma 4, del decreto legislativo 19 maggio 2000, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md).
 
 Note all'art. 3:
- - Il testo dell'[art. 4, comma 4, del decreto legislativo 19 maggio 2000, n. 139](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md) "Disposizioni in materia di rapporto di impiego del personale della carriera prefettizia, a norma dell'[art. 10 della legge 28 luglio 1999, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md)", e' il seguente:
+ - Il testo dell'[art. 4, comma 4, del decreto legislativo 19 maggio 2000, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20della%20carriera%20prefettizia%20a%20norma%20dellarticolo%2010%20della%20legge%2028%20luglio%201999%20n.%20266.md) "Disposizioni in materia di rapporto di impiego del personale della carriera prefettizia, a norma dell'[art. 10 della legge 28 luglio 1999, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md)", e' il seguente:
  "4. Nel concorso il dieci per cento dei posti e' riservato ai dipendenti dell'amministrazione civile dell'interno inquadrati nell'area funzionale C in possesso di una delle lauree indicate agli specifici fini dal decreto del Ministro dell'interno di cui al comma 2, e con almeno due anni di effettivo servizio in posizione funzionale per il cui accesso e' richiesto il possesso di uno dei medesimi titoli di studio. l posti riservati non utilizzati a favore dei candidati interni sono conferiti agli idonei.".
 
 ### Art. 4. — Commissione giudicatrice
@@ -268,10 +268,10 @@ Le comunicazioni dell'amministrazione relative alle procedure concorsuali si int
 
 1.
 
-Per quanto non previsto nel presente regolamento si rinvia alle norme in materia di accesso agli impieghi nelle pubbliche amministrazioni, contenute nel [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni.
+Per quanto non previsto nel presente regolamento si rinvia alle norme in materia di accesso agli impieghi nelle pubbliche amministrazioni, contenute nel [decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), e successive modifiche ed integrazioni.
 
 Note all'[art. 16:
- - Per il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../DPR/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), vedi nota all'art. 6.
+ - Per il decreto del Presidente della Repubblica 9 maggio 1994, n. 487](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sullaccesso%20agli%20impieghi%20nelle%20pubbliche%20amministrazioni%20e%20le%20modalita%20di%20svolgimento%20dei%20concorsi%20dei%20concorsi%20unici%20e%20delle%20altre%20forme%20di%20assunzione%20nei%20pubblici%20impieghi.md), vedi nota all'art. 6.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

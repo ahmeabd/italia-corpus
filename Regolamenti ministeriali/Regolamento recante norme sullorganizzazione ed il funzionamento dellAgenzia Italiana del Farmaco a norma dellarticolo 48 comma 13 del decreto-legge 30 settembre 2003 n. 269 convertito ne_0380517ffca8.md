@@ -20,11 +20,11 @@ Visto l'[articolo 48 del decreto-legge 30 settembre 2003, n. 269](https://www.no
 
 Visto in particolare il comma 13 dell'articolo 48 del citato [decreto-legge n. 269 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003;269), che rinvia ad apposito decreto di natura regolamentare da adottarsi dal Ministro della salute di concerto con il Ministro della funzione pubblica e con il Ministro dell'economia e delle finanze al fine della definizione delle norme concernenti l'organizzazione e il funzionamento della Agenzia stessa;
 
-Visti gli [articoli 8](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [9 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visti gli [articoli 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [9 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 marzo 2003, n. 129](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20salute.md), recante il regolamento di organizzazione del Ministero della salute;
+Visto il [decreto del Presidente della Repubblica 28 marzo 2003, n. 129](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20del%20Ministero%20della%20salute.md), recante il regolamento di organizzazione del Ministero della salute;
 
 Acquisita l'intesa della Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome, in data 20 maggio 2004;
 
@@ -83,7 +83,7 @@ Il Ministro della salute, in particolare:
 
 3.
 
-Ai sensi dell'[articolo 8, comma 4, lettera e) del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e dell'articolo 48 della legge di riferimento, il Ministro della salute stipula con l'Agenzia la convenzione di durata triennale, che puo' essere aggiornata annualmente, ove, in particolare, sono definiti gli obiettivi ((...)) per le tematiche di seguito indicate:
+Ai sensi dell'[articolo 8, comma 4, lettera e) del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e dell'articolo 48 della legge di riferimento, il Ministro della salute stipula con l'Agenzia la convenzione di durata triennale, che puo' essere aggiornata annualmente, ove, in particolare, sono definiti gli obiettivi ((...)) per le tematiche di seguito indicate:
                             a)
                                 garanzie del mantenimento dell'unitarieta' del sistema farmaceutico per assicurare l'accesso ai farmaci innovativi, ai farmaci per le malattie rare e ((favorire)) la ricerca;
                             b)
@@ -606,7 +606,7 @@ Le variazioni del ruolo organico di cui al precedente comma 3 ed i regolamenti d
 
 5.
 
-Per l'approvazione degli atti di programmazione dei bilanci si applicano le disposizioni del [decreto del Presidente della Repubblica 9 novembre 1998, n. 439](../DPR/Regolamento%20recante%20norme%20di%20semplificazione%20dei%20procedimenti%20di%20approvazione%20e%20di%20rilascio%20di%20pareri%20da%20parte%20dei%20Ministeri%20vigilanti%20in%20ordine%20alle%20delibere%20adottate%20dagli%20organi%20colleg_9b722b02bf1a.md).
+Per l'approvazione degli atti di programmazione dei bilanci si applicano le disposizioni del [decreto del Presidente della Repubblica 9 novembre 1998, n. 439](../Regolamenti%20governativi/Regolamento%20recante%20norme%20di%20semplificazione%20dei%20procedimenti%20di%20approvazione%20e%20di%20rilascio%20di%20pareri%20da%20parte%20dei%20Ministeri%20vigilanti%20in%20ordine%20alle%20delibere%20adottate%20dagli%20organi%20colleg_9b722b02bf1a.md).
 
 ### Art. 23. — Amministrazione e contabilita'
 
@@ -679,7 +679,7 @@ Con apposito regolamento deliberato dal Consiglio di amministrazione, sara' disc
 
 Nota all'art. 25:
  - Si riporta il testo dell'[art. 7, della legge 14 ottobre 1999, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-10-14;362#art_7) (Disposizioni urgenti in materia sanitaria):
- «Art. 7 (Incentivazione sperimentale del personale non appartenente al ruolo sanitario di livello dirigenziale del Ministero della sanita). - 1. In relazione all'accresciuta complessita' dei compiti assegnati al Ministero della sanita' in materia di vigilanza, ispezione e controllo, di prevenzione, di sicurezza e di profilassi, e allo scopo anche di armonizzare i trattamenti economici di tutti i dipendenti non appartenenti al ruolo sanitario di livello dirigenziale, sono destinate alle sperimentazioni e relative contrattazioni collettive previste dall'[art. 8 del decreto legislativo 4 novembre 1997, n. 396](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20in%20materia%20di%20contrattazione%20collettiva%20e%20di%20rappresentativita%20sindacale%20nel%20settore%20del%20pubblico%20impiego%20a%20norma%20dellarticolo%201_7f60a594dafb.md), riguardanti il predetto personale, oltre alle economie di gestione, anche quote delle entrate di cui all'[art. 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), con conseguente riduzione degli interventi ivi previsti».
+ «Art. 7 (Incentivazione sperimentale del personale non appartenente al ruolo sanitario di livello dirigenziale del Ministero della sanita). - 1. In relazione all'accresciuta complessita' dei compiti assegnati al Ministero della sanita' in materia di vigilanza, ispezione e controllo, di prevenzione, di sicurezza e di profilassi, e allo scopo anche di armonizzare i trattamenti economici di tutti i dipendenti non appartenenti al ruolo sanitario di livello dirigenziale, sono destinate alle sperimentazioni e relative contrattazioni collettive previste dall'[art. 8 del decreto legislativo 4 novembre 1997, n. 396](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20in%20materia%20di%20contrattazione%20collettiva%20e%20di%20rappresentativita%20sindacale%20nel%20settore%20del%20pubblico%20impiego%20a%20norma%20dellarticolo%201_7f60a594dafb.md), riguardanti il predetto personale, oltre alle economie di gestione, anche quote delle entrate di cui all'[art. 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), con conseguente riduzione degli interventi ivi previsti».
 
 ### Art. 26. — Personale a contratto e comandato
 

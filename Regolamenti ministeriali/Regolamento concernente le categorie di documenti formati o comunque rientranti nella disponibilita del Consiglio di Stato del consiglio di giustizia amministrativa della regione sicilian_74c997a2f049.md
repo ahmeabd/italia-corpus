@@ -16,7 +16,7 @@ Visto l'[art. 24, comma 4, della legge 7 agosto 1990, n. 241](https://www.normat
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md);
+Visto l'[art. 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md);
 
 Udito il parere della commissione per l'accesso ai documenti amministrativi presso la Presidenza del Consiglio dei Ministri di cui all'[art. 27 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_27), espresso in data 16 febbraio 1993;
 
@@ -28,7 +28,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Il presente regolamento individua, in conformita' all'[art. 24, comma 4, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24-com4), le categorie di documenti formati o comunque rientranti nella disponibilita' del Consiglio di Stato, del consiglio di giustizia amministrativa della regione siciliana, dei tribunali amministrativi regionali e del tribunale regionale di giustizia amministrativa per il Trentino-Alto Adige, sottratti all'accesso ai sensi dell'art. 24, comma 2, della medesima [legge n. 241 del 1990 e dell'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_8) del [decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md).
+Il presente regolamento individua, in conformita' all'[art. 24, comma 4, della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24-com4), le categorie di documenti formati o comunque rientranti nella disponibilita' del Consiglio di Stato, del consiglio di giustizia amministrativa della regione siciliana, dei tribunali amministrativi regionali e del tribunale regionale di giustizia amministrativa per il Trentino-Alto Adige, sottratti all'accesso ai sensi dell'art. 24, comma 2, della medesima [legge n. 241 del 1990 e dell'art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;241#art_8) del [decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md).
 
 2.
 
@@ -78,7 +78,7 @@ Note alle premesse:
 
 1.
 
-Ai sensi dell'[art. 8, comma 5, lettera c), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), ed in relazione all'esigenza di salvaguardare la sicurezza e l'ordine pubblico, sono sottratte all'accesso le seguenti categorie di documenti:
+Ai sensi dell'[art. 8, comma 5, lettera c), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), ed in relazione all'esigenza di salvaguardare la sicurezza e l'ordine pubblico, sono sottratte all'accesso le seguenti categorie di documenti:
                         a)
                             atti e documenti concernenti gli impianti di sicurezza degli edifici destinati a sede dell'Amministrazione;
                         b)
@@ -96,7 +96,7 @@ Nota all'art. 2:
 
 1.
 
-Ai sensi dell'[art. 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), nonche' dell'[art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi ed imprese, garantendo peraltro ai medesimi la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
+Ai sensi dell'[art. 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), nonche' dell'[art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../Regolamenti%20governativi/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md), ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi ed imprese, garantendo peraltro ai medesimi la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
                         a)
                             rapporti informativi sul personale dipendente, nonche' note caratteristiche a qualsiasi titolo compilate sul predetto personale;
                         b)

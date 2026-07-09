@@ -14,7 +14,7 @@ di concerto con
 
 IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante la riforma dell'organizzazione del Governo;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante la riforma dell'organizzazione del Governo;
 
 Vista la [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante "Misure di razionalizzazione della finanza pubblica" ed in particolare l'articolo 2, comma 100, lettera a), che prevede la costituzione di un fondo di garanzia presso il Mediocredito Centrale S.p.a. allo scopo di assicurare una parziale assicurazione ai crediti concessi dagli istituti di credito a favore delle piccole e medie imprese;
 

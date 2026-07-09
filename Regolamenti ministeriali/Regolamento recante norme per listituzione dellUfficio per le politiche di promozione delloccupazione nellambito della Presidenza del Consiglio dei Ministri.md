@@ -14,7 +14,7 @@ DEL CONSIGLIO DEI MINISTRI
 
 Visti gli [articoli 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), e [21, comma 5, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_21-com5);
 
-Visto il [decreto del Presidente della Repubblica 3 luglio 1997, n. 520](../DPR/Regolamento%20recante%20norme%20per%20lorganizzazione%20dei%20dipartimenti%20e%20degli%20uffici%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20e%20per%20la%20disciplina%20delle%20funzioni%20dirigenziali.md), avente ad oggetto "Regolamento recante norme per l'organizzazione dei dipartimenti e degli uffici della Presidenza del Consiglio dei Ministri e per la disciplina delle funzioni dirigenziali";
+Visto il [decreto del Presidente della Repubblica 3 luglio 1997, n. 520](../Regolamenti%20governativi/Regolamento%20recante%20norme%20per%20lorganizzazione%20dei%20dipartimenti%20e%20degli%20uffici%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20e%20per%20la%20disciplina%20delle%20funzioni%20dirigenziali.md), avente ad oggetto "Regolamento recante norme per l'organizzazione dei dipartimenti e degli uffici della Presidenza del Consiglio dei Ministri e per la disciplina delle funzioni dirigenziali";
 
 Visto il decreto del Presidente del Consiglio dei Ministri 6 agosto 1998, recante "Ordinamente transitorio delle strutture del Segretario generale della Presidenza del Consiglio dei Ministri";
 

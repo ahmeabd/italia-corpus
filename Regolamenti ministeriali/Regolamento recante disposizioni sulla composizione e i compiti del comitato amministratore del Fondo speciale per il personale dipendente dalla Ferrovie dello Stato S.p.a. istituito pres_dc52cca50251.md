@@ -34,7 +34,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 17, comma 25, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com25);
 
-Visto il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../DPR/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), recante il regolamento per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale;
+Visto il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20governativi/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), recante il regolamento per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale;
 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 18 settembre 2000;
 

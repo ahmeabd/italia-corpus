@@ -18,9 +18,9 @@ Vista la [legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
 
-Vista la [legge 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md);
+Vista la [legge 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Visto il [decreto legislativo 17 agosto 1999, n. 368](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-16-CEE%20in%20materia%20di%20libera%20circolazione%20dei%20medici%20e%20di%20reciproco%20riconoscimento%20dei%20loro%20diplomi%20certificati%20ed%20altri%20titoli%20e%20delle%20direttive%2097-50-CE%2098-_c47dd6e82871.md), e successive modificazioni;
 

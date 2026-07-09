@@ -16,7 +16,7 @@ Visto il testo unico delle disposizioni legislative in materia doganale, approva
 
 Vista la [legge 22 dicembre 1960, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-22;1612);
 
-Visto il [decreto legislativo 8 novembre 1990, n. 374](../Decreti%20Legislativi/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
+Visto il [decreto legislativo 8 novembre 1990, n. 374](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
 
 Ritenuta la necessita' di dettare le occorrenti disposizioni di attuazione del comma 1-septies, nonche' quelle di cui al comma 1-octies;
 
@@ -158,7 +158,7 @@ Gli operatori possono presentare ai centri di assistenza doganale le dichiarazio
 
 2.
 
-Le dichiarazioni doganali ricevute o emesse, asseverate dal centro di assistenza doganale, vengono presentate, corredate dalla relativa documentazione, alla dogana competente, che le accetta e ne dispone la visita totale o parziale secondo i programmi ed i criteri selettivi per la visita totale o parziale delle merci stabiliti con decreto del Ministro delle finanze, ai sensi dell' [art. 8, comma 5, del decreto legislativo 8 novembre 1990, n. 374](../Decreti%20Legislativi/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md).
+Le dichiarazioni doganali ricevute o emesse, asseverate dal centro di assistenza doganale, vengono presentate, corredate dalla relativa documentazione, alla dogana competente, che le accetta e ne dispone la visita totale o parziale secondo i programmi ed i criteri selettivi per la visita totale o parziale delle merci stabiliti con decreto del Ministro delle finanze, ai sensi dell' [art. 8, comma 5, del decreto legislativo 8 novembre 1990, n. 374](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md).
 
 3.
 

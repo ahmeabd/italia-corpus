@@ -26,7 +26,7 @@ Vista la comunicazione della Commissione delle Comunita' europee 2000/C 28/02 in
 
 Visto il regolamento (CE) n. 70/2001 della Commissione del 12 gennaio 2001 relativo all'applicazione degli articoli 87 e 88 del trattato CE agli aiuti di Stato a favore delle piccole e medie imprese, pubblicato nella Gazzetta Ufficiale delle Comunita' europee L 13 del 13 gennaio 2001;
 
-Visto il [decreto del Presidente della Repubblica 31 marzo 2001, n. 200](../DPR/Regolamento%20recante%20riordino%20dellISMEA%20e%20revisione%20del%20relativo%20statuto.md), recante riordino dell'ISMEA e relativo statuto, ed in particolare l'articolo 2, comma 1, lettera c);
+Visto il [decreto del Presidente della Repubblica 31 marzo 2001, n. 200](../Regolamenti%20governativi/Regolamento%20recante%20riordino%20dellISMEA%20e%20revisione%20del%20relativo%20statuto.md), recante riordino dell'ISMEA e relativo statuto, ed in particolare l'articolo 2, comma 1, lettera c);
 
 Visto il [decreto legislativo 18 maggio 2001, n. 228](../Decreti%20Legislativi/Orientamento%20e%20modernizzazione%20del%20settore%20agricolo%20a%20norma%20dellarticolo%207%20della%20legge%205%20marzo%202001%20n.%2057.md), recante «Orientamento e modernizzazione del settore agricolo» pubblicato nella Gazzetta Ufficiale del 15 giugno 2001, n. 137;
 

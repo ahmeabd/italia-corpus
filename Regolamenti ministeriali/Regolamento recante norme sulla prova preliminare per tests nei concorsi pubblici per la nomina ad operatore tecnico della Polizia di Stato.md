@@ -69,7 +69,7 @@ Il predetto calendario sara' pubblicato nella Gazzetta Ufficiale della Repubblic
 
 1.
 
-Per la composizione della commissione tecnica per lo svolgimento della prova preliminare di cui all'art. 1 del presente regolamento, si applicano le disposizioni dell'[art. 7 del decreto del Presidente della Repubblica 21 luglio 1989, n. 299](../DPR/Regolamento%20per%20lespletamento%20dei%20concorsi%20pubblici%20per%20lassunzione%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md).
+Per la composizione della commissione tecnica per lo svolgimento della prova preliminare di cui all'art. 1 del presente regolamento, si applicano le disposizioni dell'[art. 7 del decreto del Presidente della Repubblica 21 luglio 1989, n. 299](../Regolamenti%20governativi/Regolamento%20per%20lespletamento%20dei%20concorsi%20pubblici%20per%20lassunzione%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md).
 
 2.
 
@@ -123,7 +123,7 @@ La prova preliminare si intende superata dai candidati che abbiano riportato la 
 
 1.
 
-Per quanto non previsto dal presente decreto, si applicano, in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 21 luglio 1989, n. 299](../DPR/Regolamento%20per%20lespletamento%20dei%20concorsi%20pubblici%20per%20lassunzione%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md).
+Per quanto non previsto dal presente decreto, si applicano, in quanto compatibili, le disposizioni del [decreto del Presidente della Repubblica 21 luglio 1989, n. 299](../Regolamenti%20governativi/Regolamento%20per%20lespletamento%20dei%20concorsi%20pubblici%20per%20lassunzione%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md).
 
 Nota all'[art. 6:
  - Con il D.P.R. n. 299/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989;299#art_6), gia' citato, e' stato approvato il regolamento per l'espletamento dei concorsi pubblici per l'assunzione del personale della Polizia di Stato che espleta funzioni di polizia.

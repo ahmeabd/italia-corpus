@@ -20,7 +20,7 @@ Visto l'[art. 14, comma 4, della legge n. 257/1992](https://www.normattiva.it/ur
 
 Vista in particolare la delibera del Comitato interministeriale per il coordinamento della politica industriale (CIPI) del 28 dicembre 1993, pubblicato nella Gazzetta Ufficiale del 30 marzo 1994;
 
-Visto l'[art. 2, comma 1, lettera h), del decreto del Presidente della Repubblica 20 aprile 1994, n. 373](../DPR/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), che attribuisce al CIPE l'emanazione delle direttive di cui all'art. 14, comma 4, della citata [legge 27 febbraio 1992, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-27;257);
+Visto l'[art. 2, comma 1, lettera h), del decreto del Presidente della Repubblica 20 aprile 1994, n. 373](../Regolamenti%20governativi/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), che attribuisce al CIPE l'emanazione delle direttive di cui all'art. 14, comma 4, della citata [legge 27 febbraio 1992, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-27;257);
 
 Visto l'[art. 14, comma 6, della legge n. 257/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;257#art_14-com6), che stabilisce che il Ministero dell'industria, con proprio regolamento, fissa le modalita' e i termini per la presentazione delle domande di finanziamento e per la erogazione dei contributi;
 
@@ -138,7 +138,7 @@ La valutazione delle domande di contributo e' svolta dal Ministero dell'industri
 
 2.
 
-Fermo restando quanto disposto dall'[art. 2, comma 1, lettera h), del decreto del Presidente della Repubblica 20 aprile 1994, n. 373](../DPR/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), si applicano i criteri di priorita' di cui alla delibera del Comitato interministeriale per il coordinamento della politica industriale (CIPI) del 28 dicembre 1993, pubblicata nella Gazzetta Ufficiale del 30 marzo 1994.
+Fermo restando quanto disposto dall'[art. 2, comma 1, lettera h), del decreto del Presidente della Repubblica 20 aprile 1994, n. 373](../Regolamenti%20governativi/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md), si applicano i criteri di priorita' di cui alla delibera del Comitato interministeriale per il coordinamento della politica industriale (CIPI) del 28 dicembre 1993, pubblicata nella Gazzetta Ufficiale del 30 marzo 1994.
 
 3.
 
@@ -157,7 +157,7 @@ Nel caso in cui l'importo globale dei contributi supera la disponibilita' del Fo
 Nel caso in cui tutte le imprese realizzano programmi con le caratteristiche di cui ai commi precedenti e l'ammontare dei contributi supera la disponibilita' del Fondo, il Ministero dell'industria del commercio e dell'artigianato diminuisce il contributo in misura percentuale fino alla concorrenza dei 50 miliardi del Fondo.
 
 Note all'art. 3:
- - Si trascrive il testo dell'[art. 2, comma 1, lettera h), del D.P.R. 20 aprile 1994, n. 373](../DPR/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md):
+ - Si trascrive il testo dell'[art. 2, comma 1, lettera h), del D.P.R. 20 aprile 1994, n. 373](../Regolamenti%20governativi/Regolamento%20recante%20definizione%20delle%20funzioni%20dei%20Comitati%20interministeriali%20soppressi%20e%20per%20il%20riordino%20della%20relativa%20disciplina.md):
  "1. Sono attribuite al Comitato interministeriale per la programmazione economica (CIPE) le funzioni del soppresso Comitato dei Ministri per il coordinamento della politica industriale (CIPI) di seguito indicate:
  a) - g) (omissis);
  h) emanazione delle direttive di cui all'[art. 14, comma 4, della legge 27 marzo 1992, n. 257](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-03-27;257#art_14-com4)".

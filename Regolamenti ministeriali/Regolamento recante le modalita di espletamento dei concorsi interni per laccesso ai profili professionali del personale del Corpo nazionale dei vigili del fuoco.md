@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELL'INTERNO
 
-Visto il [decreto del Presidente della Repubblica 4 agosto 1990, n. 335](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md), concernente il regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo 10 febbraio 1990 che reca, tra l'altro, la definizione dei nuovi profili professionali del personale del Corpo nazionale dei vigili del fuoco;
+Visto il [decreto del Presidente della Repubblica 4 agosto 1990, n. 335](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md), concernente il regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo 10 febbraio 1990 che reca, tra l'altro, la definizione dei nuovi profili professionali del personale del Corpo nazionale dei vigili del fuoco;
 
 Visto l'art. 70 del citato [decreto del Presidente della Repubblica n. 335/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990;335) che rinvia ad apposito decreto ministeriale la regolamentazione delle modalita', delle materie di esame e delle prove per l'ammissione ai menzionati profili, ai quali si accede dall'interno;
 

@@ -12,9 +12,9 @@ IL MINISTRO DELLO SVILUPPO ECONOMICO
 
 VISTO l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-VISTO il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
+VISTO il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
-VISTO il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni dalla [legge 17 luglio 2006, n. 233](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
+VISTO il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181), convertito, con modificazioni dalla [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
 
 VISTO il [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md) recante "Codice della proprieta' industriale, a norma dell'[articolo 15 della legge 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273#art_15)";
 
@@ -1274,7 +1274,7 @@ Al temine del procedimento di opposizione l'Ufficio italiano brevetti e marchi i
 
 1.
 
-Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md).
+Ultimata la fase istruttoria di cui agli articoli 48 e 49, il dirigente responsabile dell'Ufficio Opposizione assegna l'opposizione o le eventuali opposizioni plurime, riunite ai sensi dell'articolo 178, comma 6, del Codice, agli esaminatori secondo l'ordine cronologico ai sensi dell'[articolo 12 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md).
 
 ))
 
@@ -1481,7 +1481,7 @@ Gli esaminatori, provenienti dall'Ufficio italiano brevetti e marchi, devono ast
 
 2.
 
-Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../DPR/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
+Gli esaminatori sono tenuti al rispetto del [decreto del Presidente della Repubblica 16 aprile 2013, n. 62](../Regolamenti%20governativi/Regolamento%20recante%20codice%20di%20comportamento%20dei%20dipendenti%20pubblici%20a%20norma%20dellarticolo%2054%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165.%2013G00104.md), provvedono al deposito della decisione entro sessanta giorni dall'assegnazione del fascicolo da parte della Divisione competente e riferiscono sullo stato delle opposizioni assegnate con relazione semestrale al dirigente della stessa Divisione.
 
 ))
 

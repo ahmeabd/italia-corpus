@@ -66,7 +66,7 @@ AVVERTENZA:
  4) sono computati, tranne uno, i soci che svolgono il prevalente lavoro personale nell'impresa artigiana;
  5) non sono computati i portatori di handicaps, fisici, psichici o sensoriali;
  6) sono computati i dipendenti qualunque sia la mansione svolta".
- - L'[art. 2359 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359) definisce le societa' controllate e le societa' collegate. Se ne trascrive il testo, come sostituito dall'[art. 1 del D.Lgs. 9 aprile 1991, n. 127](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md):
+ - L'[art. 2359 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359) definisce le societa' controllate e le societa' collegate. Se ne trascrive il testo, come sostituito dall'[art. 1 del D.Lgs. 9 aprile 1991, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md):
  "Art. 2359 (Societa' controllate e societa' collegate).
  - Sono considerate societa' controllate:
  1) le societa' in cui un'altra societa' dispone della maggioranza dei voti esercitabili nell'assemblea ordinaria;

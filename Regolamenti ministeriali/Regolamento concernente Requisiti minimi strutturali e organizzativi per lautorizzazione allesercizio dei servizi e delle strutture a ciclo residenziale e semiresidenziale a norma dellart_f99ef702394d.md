@@ -18,7 +18,7 @@ Visti in particolare gli [articoli 9, comma 1, lettera c)](https://www.normattiv
 
 Visto l'articolo 8, comma 3, lettera f), della medesima [legge n. 328 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;328) che prevede che le regioni, sulla base dei requisiti minimi fissati dallo Stato, definiscano i criteri per l'autorizzazione, l'accreditamento e la vigilanza delle strutture e dei servizi a gestione pubblica o dei soggetti di cui all'articolo 1, commi 4 e 5;
 
-Sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Sentiti i Ministri della sanita' e per gli affari regionali;
 

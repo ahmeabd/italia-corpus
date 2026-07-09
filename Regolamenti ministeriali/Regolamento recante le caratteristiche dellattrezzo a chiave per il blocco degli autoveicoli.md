@@ -79,7 +79,7 @@ AVVERTENZA:
 
 1.
 
-I prototipi dell'attrezzo a chiave di cui all'art. 1 sono soggetti all'approvazione rilasciata dal Ministero dei lavori pubblici ai sensi dell'[art. 607 del decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), recante il regolamento di esecuzione del testo unico sulla disciplina della circolazione stradale.
+I prototipi dell'attrezzo a chiave di cui all'art. 1 sono soggetti all'approvazione rilasciata dal Ministero dei lavori pubblici ai sensi dell'[art. 607 del decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), recante il regolamento di esecuzione del testo unico sulla disciplina della circolazione stradale.
 
 Nota all'art. 2:
  - L'art. 607 del regolamento per l'esecuzione del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [D.P.R. n. 420/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;420), e' cosi' formulato:

@@ -16,7 +16,7 @@ IL MINISTRO DEI LAVORI PUBBLICI
 
 Visto il [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), con il quale viene approvato il testo unico delle norme sulla disciplina della circolazione stradale;
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), con il quale viene approvato il regolamento per l'esecuzione del testo unico delle norme sulla disciplina della circolazione stradale;
+Visto il [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), con il quale viene approvato il regolamento per l'esecuzione del testo unico delle norme sulla disciplina della circolazione stradale;
 
 Vista la [legge 10 febbraio 1982, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20ad%20alcuni%20articoli%20del%20codice%20della%20strada%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393%20e%20successive%20modificazioni%20riguardanti%20i%20pesi%20e%20le%20misure%20_e71a5450987f.md);
 

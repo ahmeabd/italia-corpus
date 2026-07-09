@@ -20,7 +20,7 @@ Vista la parte prima, titolo II, del regolamento n. 1612/68 del Consiglio delle 
 
 Vista la comunicazione della Commissione delle Comunita' europee n. 88/C72/02 del 18 marzo 1988;
 
-Visto l'[art. 37, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), in applicazione del quale i cittadini degli Stati membri della Comunita' economica europea possono accedere ai posti di lavoro presso le amministrazioni pubbliche che non implicano esercizio diretto o indiretto di pubblici poteri, ovvero non attengono alla tutela degli interessi nazionali;
+Visto l'[art. 37, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), in applicazione del quale i cittadini degli Stati membri della Comunita' economica europea possono accedere ai posti di lavoro presso le amministrazioni pubbliche che non implicano esercizio diretto o indiretto di pubblici poteri, ovvero non attengono alla tutela degli interessi nazionali;
 
 Visto l'art. 37, comma 2, del citato decreto, che prevede che con decreto del Presidente del Consiglio dei Ministri, ai sensi dell'art.
 
@@ -42,7 +42,7 @@ Visto il decreto del Presidente del Consiglio dei Ministri in data 13 maggio 199
 
 I posti delle amministrazioni pubbliche per l'accesso ai quali non puo' prescindersi dal possesso della cittadinanza italiana sono i seguenti:
                         a)
-                            i posti dei livelli dirigenziali delle amministrazioni dello Stato, anche ad ordinamento autonomo, individuati ai sensi dell'[art. 6 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nonche' i posti dei corrispondenti livelli delle altre pubbliche amministrazioni;
+                            i posti dei livelli dirigenziali delle amministrazioni dello Stato, anche ad ordinamento autonomo, individuati ai sensi dell'[art. 6 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), nonche' i posti dei corrispondenti livelli delle altre pubbliche amministrazioni;
                         b)
                             i posti con funzioni di vertice amministrativo delle strutture periferiche delle amministrazioni pubbliche dello Stato, anche ad ordinamento autonomo, degli enti pubblici non economici, delle province e dei comuni nonche' delle regioni e della Banca d'Italia;
                         c)
@@ -50,7 +50,7 @@ I posti delle amministrazioni pubbliche per l'accesso ai quali non puo' prescind
 
 2.
 
-Resta fermo il disposto di cui all'[art. 1, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Resta fermo il disposto di cui all'[art. 1, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 ## Art. 2.
 
@@ -68,7 +68,7 @@ Il Presidente del Consiglio dei Ministri, su proposta del Ministro per la funzio
 
 3.
 
-Resta fermo il disposto di cui all'[art. 1, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Resta fermo il disposto di cui all'[art. 1, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 Nota all'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_2):
  - Per l'[art. 1, comma 3, del D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_1-com3) si veda in nota all'art. 1.

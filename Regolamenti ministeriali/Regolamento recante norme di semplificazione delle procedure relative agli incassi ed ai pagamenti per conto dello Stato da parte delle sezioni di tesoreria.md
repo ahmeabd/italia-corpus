@@ -18,7 +18,7 @@ Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Visto l'[art. 5 della legge 28 marzo 1991, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-28;104#art_5);
 
-Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md);
+Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md);
 
 Sentita la Banca d'Italia che ha espresso il proprio assenso con nota n. 00145082 del 19 maggio 1994;
 
@@ -41,7 +41,7 @@ Dopo il [comma 2 dell'art. 230 del regio decreto 23 maggio 1924, n. 827](https:/
 AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 2, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note all'art. 1: 
- - Il testo dell'[art. 230 del R.D. 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_230), come sostituito dall'[art. 1 del D.P.R. 6 luglio 1993, n. 343](../DPR/Regolamento%20recante%20modificazioni%20a%20talune%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%208%20luglio%201986%20n.%20429.md) e integrato dal presente articolo, risulta il seguente: 
+ - Il testo dell'[art. 230 del R.D. 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_230), come sostituito dall'[art. 1 del D.P.R. 6 luglio 1993, n. 343](../Regolamenti%20governativi/Regolamento%20recante%20modificazioni%20a%20talune%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato%20e%20al%20decreto%20del%20Presidente%20della%20Repubblica%208%20luglio%201986%20n.%20429.md) e integrato dal presente articolo, risulta il seguente: 
  "Art. 230. - I versamenti di somme nelle tesorerie devono essere fatti in denaro effettivo. 
  Le somme da versarsi in denaro possono anche essere spedite alla tesoreria col mezzo dei titoli postali la cui spesa pero' resta, di regola, a carico dei mittenti. 
  Le ricevute di conto corrente postale hanno potere liberatorio nei confronti dei debitori e tengono luogo delle quietanze di tesoreria ai fini dei conti amministrativi e giudiziali. 
@@ -78,7 +78,7 @@ Il [comma 2 dell'art. 346 del regio decreto 23 maggio 1924, n. 827](https://www.
  "Essi devono limitare tali prelevamenti, nei limiti autorizzati, alle sole somme occorrenti per i pagamenti d'importo non superiore a L. 20.000 e per quelli che non sia possibile disporre mediante ordinativi a favore dei creditori.".
 
 Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_3):
- - L'[art. 346 del R.D. 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_346), come modificato dall'articolo unico del [D.P.R. 20 settembre 1955, n. 1096](../DPR/Sostituzione%20dellart.%20346%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto%2023%20maggio%201924%20n.%20827.md), e dal presente articolo, risulta il seguente:
+ - L'[art. 346 del R.D. 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_346), come modificato dall'articolo unico del [D.P.R. 20 settembre 1955, n. 1096](../Regolamenti%20governativi/Sostituzione%20dellart.%20346%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto%2023%20maggio%201924%20n.%20827.md), e dal presente articolo, risulta il seguente:
  "Art. 346. - I funzionari delegati sono personalmente responsabili delle somme prelevate in proprio sulle aperture di credito disposte a loro favore.
  Essi devono limitare tali prelevamenti, nei limiti autorizzati, alle sole somme occorrenti per i pagamenti d'importo non superiori a L. 20.000 e per quelli che non sia possibile disporre mediante ordinativi a favore dei creditori.
  Delle somme prelevate non possono fare uso diverso da quello per cui vennero autorizzati ad effettuare il prelevamento e sono soggetti agli obblighi imposti ai depositari delle leggi civili.

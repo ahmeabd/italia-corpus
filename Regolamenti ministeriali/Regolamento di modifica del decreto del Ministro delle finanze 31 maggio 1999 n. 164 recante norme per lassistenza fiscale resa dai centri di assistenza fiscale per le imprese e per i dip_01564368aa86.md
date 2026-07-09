@@ -18,7 +18,7 @@ Visto il regolamento recante norme per l'assistenza fiscale resa dai centri di a
 
 Vista la [legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212), recante disposizioni in materia di statuto dei diritti del contribuente;
 
-Visto l'[articolo 23 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), che ha istituito il Ministero dell'economia e delle finanze e gli ha trasferito le funzioni dei Ministeri del tesoro, bilancio e programmazione economica e delle finanze;
+Visto l'[articolo 23 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), che ha istituito il Ministero dell'economia e delle finanze e gli ha trasferito le funzioni dei Ministeri del tesoro, bilancio e programmazione economica e delle finanze;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

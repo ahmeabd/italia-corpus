@@ -24,9 +24,9 @@ Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR
 
 Vista la [legge 29 dicembre 1993, n. 580](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-29;580), per il riordino delle camere di commercio, industria, artigianato e agricoltura ed in particolare l'art. 20 relativo ai segretari generali;
 
-Visto il comma 4 del predetto art. 20, che prevede la istituzione di un elenco di nominativi per la designazione e la nomina dei segretari generali, nonche' il comma 4 dello stesso articolo, che prevede l'emanazione da parte del Ministro dell'industria, del commercio e dell'artigianato di un decreto per la definizione di criteri e di modalita' per l'iscrizione nell'elenco e per la sua tenuta in conformita' ai principi di cui all'[art. 19, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il comma 4 del predetto art. 20, che prevede la istituzione di un elenco di nominativi per la designazione e la nomina dei segretari generali, nonche' il comma 4 dello stesso articolo, che prevede l'emanazione da parte del Ministro dell'industria, del commercio e dell'artigianato di un decreto per la definizione di criteri e di modalita' per l'iscrizione nell'elenco e per la sua tenuta in conformita' ai principi di cui all'[art. 19, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
-Visto il citato [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ed in particolare gli articoli 19, comma 1, e 23;
+Visto il citato [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ed in particolare gli articoli 19, comma 1, e 23;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -144,7 +144,7 @@ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai 
 
 1.
 
-In conformita' ai principi stabiliti dall'[art. 19, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), i requisiti professionali per l'iscrizione nell'elenco sono individuati: 
+In conformita' ai principi stabiliti dall'[art. 19, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), i requisiti professionali per l'iscrizione nell'elenco sono individuati: 
  1) nell'attitudine all'esercizio delle funzioni di vertice dell'amministrazione delle camere di commercio; il predetto requisito attitudinale si intende acquisito con l'esperienza maturata nell'esercizio di funzioni di direzione di unita' organizzative complesse, comportanti assunzioni di autonome responsabilita' gestionali, per un periodo complessivo di almeno tre anni nel quinquennio precedente la data della domanda; 
  2) nelle capacita' professionali acquisite in almeno due delle seguenti aree di attivita':
                         a)
@@ -166,7 +166,7 @@ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai 
 1.
 
 I dirigenti delle camere di commercio, dell'unioncamere e di altre amministrazioni o enti pubblici attestano il possesso dei requisiti professionali di cui all'art. 6 mediante apposita dichiarazione rilasciata dall'amministrazione o ente di appartenenza, da allegare alla domanda di iscrizione nell'elenco, dalla quale risultino le funzioni di fatto esercitate, i periodi di svolgimento delle stesse e le qualifiche rivestite in ciascun periodo.
-L'attestato deve, altresi', riportare gli estremi dell'iscrizione all'albo di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+L'attestato deve, altresi', riportare gli estremi dell'iscrizione all'albo di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -214,7 +214,7 @@ La cancellazione dall'elenco e' disposta:
 
 2.
 
-La cancellazione dall'albo di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e la cessazione da oltre due anni del rapporto di lavoro con imprese pubbliche o private comporta la cancellazione dall'elenco.
+La cancellazione dall'albo di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e la cessazione da oltre due anni del rapporto di lavoro con imprese pubbliche o private comporta la cancellazione dall'elenco.
 
 3.
 
@@ -256,7 +256,7 @@ L'iscritto nell'elenco, nominato segretario generale di camera di commercio e' e
 
 3.
 
-Sino a quando non verra' formato l'albo, di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), i dirigenti pubblici potranno presentare domanda di iscrizione nell'elenco, senza il possesso del requisito di iscrizione all'albo, fatti salvi l'accertamento d'ufficio da parte della direzione generale del commercio una volta realizzato l'albo stesso e il potere di disporre la cancellazione dall'elenco in caso di mancata iscrizione all'albo.
+Sino a quando non verra' formato l'albo, di cui all'[art. 23 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), i dirigenti pubblici potranno presentare domanda di iscrizione nell'elenco, senza il possesso del requisito di iscrizione all'albo, fatti salvi l'accertamento d'ufficio da parte della direzione generale del commercio una volta realizzato l'albo stesso e il potere di disporre la cancellazione dall'elenco in caso di mancata iscrizione all'albo.
 
 ((1))
 

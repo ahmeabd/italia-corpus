@@ -16,7 +16,7 @@ E DEL MARE
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[articolo 184-ter, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e, in particolare, il comma 2 il quale prevede che «i criteri di cui al comma 1 del medesimo articolo sono adottati in conformita' a quanto stabilito dalla disciplina comunitaria ovvero, in mancanza, di criteri comunitari, caso per caso per specifiche tipologie di rifiuto attraverso uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)» nonche' il comma 3, il quale prevede che «Nelle more dell'adozione di uno o piu' decreti di cui al comma 2, continuano ad applicarsi le disposizioni di cui ai decreti del Ministro dell'ambiente e della tutela del territorio in data 5 febbraio 1998, [12 giugno 2002, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2002-06-12;161), e [17 novembre 2005, n. 269 e l'art. 9-bis, lett. a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2005-11-17;269#art_9bis-leta) e [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2005-11-17;269#art_9bis-letb), del [decreto-legge 6 novembre 2008, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-06;172), convertito, con modificazioni, dalla [legge 30 dicembre 2008, n. 210](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%202008%20n.%20172%20recante%20misure%20straordinarie%20per%20fronteggiare%20lemergenza%20nel%20settore%20dello%20smaltimento%20dei%20rifiuti%20nella%20re_e6e31333ea0a.md)»;
+Visto l'[articolo 184-ter, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e, in particolare, il comma 2 il quale prevede che «i criteri di cui al comma 1 del medesimo articolo sono adottati in conformita' a quanto stabilito dalla disciplina comunitaria ovvero, in mancanza, di criteri comunitari, caso per caso per specifiche tipologie di rifiuto attraverso uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)» nonche' il comma 3, il quale prevede che «Nelle more dell'adozione di uno o piu' decreti di cui al comma 2, continuano ad applicarsi le disposizioni di cui ai decreti del Ministro dell'ambiente e della tutela del territorio in data 5 febbraio 1998, [12 giugno 2002, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2002-06-12;161), e [17 novembre 2005, n. 269 e l'art. 9-bis, lett. a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2005-11-17;269#art_9bis-leta) e [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2005-11-17;269#art_9bis-letb), del [decreto-legge 6 novembre 2008, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-06;172), convertito, con modificazioni, dalla [legge 30 dicembre 2008, n. 210](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%202008%20n.%20172%20recante%20misure%20straordinarie%20per%20fronteggiare%20lemergenza%20nel%20settore%20dello%20smaltimento%20dei%20rifiuti%20nella%20re_e6e31333ea0a.md)»;
 
 Visto l'[articolo 40 della direttiva 2008/98/CE del Parlamento europeo e del Consiglio del 19 novembre 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;98);
 
@@ -36,11 +36,11 @@ Adotta il seguente regolamento:
 
 1.
 
-Il presente regolamento stabilisce i criteri specifici in presenza dei quali il conglomerato bituminoso cessa di essere qualificato come rifiuto ai sensi e per gli effetti dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
+Il presente regolamento stabilisce i criteri specifici in presenza dei quali il conglomerato bituminoso cessa di essere qualificato come rifiuto ai sensi e per gli effetti dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 2.
 
-Le disposizioni del presente regolamento non si applicano al conglomerato bituminoso qualificato come sottoprodotto ai sensi e per gli effetti dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
+Le disposizioni del presente regolamento non si applicano al conglomerato bituminoso qualificato come sottoprodotto ai sensi e per gli effetti dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 NOTE 
  
@@ -56,7 +56,7 @@ NOTE
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
  (Omissis).». 
- - Si riporta il testo dell'[art. 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale), pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88 - S.O. n. 96: 
+ - Si riporta il testo dell'[art. 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale), pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88 - S.O. n. 96: 
  «Art. 184-ter (Cessazione della qualifica di rifiuto).
  - 1. Un rifiuto cessa di essere tale, quando e' stato sottoposto a un'operazione di recupero, incluso il riciclaggio e la preparazione per il riutilizzo, e soddisfi i criteri specifici, da adottare nel rispetto delle seguenti condizioni: 
  a) la sostanza o l'oggetto e' comunemente utilizzato per scopi specifici; 
@@ -87,13 +87,13 @@ NOTE
 
 1.
 
-Ai fini del presente regolamento, si applicano le definizioni di cui all'[articolo 183 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), nonche' le seguenti:
+Ai fini del presente regolamento, si applicano le definizioni di cui all'[articolo 183 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), nonche' le seguenti:
                         a)
                             «conglomerato bituminoso»: il rifiuto costituito dalla miscela di inerti e leganti bituminosi identificata con il codice EER 17.03.02 proveniente: 
  1) da operazioni di fresatura a freddo degli strati di pavimentazione realizzate in conglomerato bituminoso; 
  2) dalla demolizione di pavimentazioni realizzate in conglomerato bituminoso;
                         b)
-                            «granulato di conglomerato bituminoso»: il conglomerato bituminoso che ha cessato di essere rifiuto a seguito di una o piu' operazioni di recupero di cui all'[articolo 184-ter, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e nel rispetto delle disposizioni del presente decreto;
+                            «granulato di conglomerato bituminoso»: il conglomerato bituminoso che ha cessato di essere rifiuto a seguito di una o piu' operazioni di recupero di cui all'[articolo 184-ter, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e nel rispetto delle disposizioni del presente decreto;
                         c)
                             «lotto»: un quantitativo non superiore a 3.000 m³ di granulato di conglomerato bituminoso;
                         d)
@@ -101,7 +101,7 @@ Ai fini del presente regolamento, si applicano le definizioni di cui all'[artico
                         e)
                             «dichiarazione di conformita'»: dichiarazione sostitutiva dell'atto di notorieta' rilasciata dal produttore, attestante le caratteristiche del granulato di conglomerato bituminoso, di cui all'articolo 4;
                         f)
-                            «autorita' competente»: l'autorita' che rilascia l'autorizzazione ai sensi del Titolo III-bis della Parte II o del Titolo I, Capo IV, della Parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), ovvero l'autorita' destinataria della comunicazione di cui all'articolo 216 del medesimo decreto.
+                            «autorita' competente»: l'autorita' che rilascia l'autorizzazione ai sensi del Titolo III-bis della Parte II o del Titolo I, Capo IV, della Parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), ovvero l'autorita' destinataria della comunicazione di cui all'articolo 216 del medesimo decreto.
 
 Note all'art. 2: 
  
@@ -148,7 +148,7 @@ Note all'art. 2:
  hh) "scarichi idrici": le immissioni di acque reflue di cui all'art. 74, comma 1, lettera ff); 
  ii) "inquinamento atmosferico": ogni modifica atmosferica di cui all'art. 268, comma 1, lettera a); 
  ll) "gestione integrata dei rifiuti": il complesso delle attivita', ivi compresa quella di spazzamento delle strade come definita alla lettera oo), volte ad ottimizzare la gestione dei rifiuti; 
- mm) "centro di raccolta": area presidiata ed allestita, senza nuovi o maggiori oneri a carico della finanza pubblica, per l'attivita' di raccolta mediante raggruppamento differenziato dei rifiuti urbani per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento. La disciplina dei centri di raccolta e' data con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza unificata, di cui al [decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md); 
+ mm) "centro di raccolta": area presidiata ed allestita, senza nuovi o maggiori oneri a carico della finanza pubblica, per l'attivita' di raccolta mediante raggruppamento differenziato dei rifiuti urbani per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento. La disciplina dei centri di raccolta e' data con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza unificata, di cui al [decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md); 
  nn) "migliori tecniche disponibili": le migliori tecniche disponibili quali definite all'art. 5, comma 1, lettera l-ter) del presente decreto; 
  oo) "spazzamento delle strade": modalita' di raccolta dei rifiuti mediante operazione di pulizia delle strade, aree pubbliche e aree private ad uso pubblico escluse le operazioni di sgombero della neve dalla sede stradale e sue pertinenze, effettuate al solo scopo di garantire la loro fruibilita' e la sicurezza del transito; 
  pp) "circuito organizzato di raccolta": sistema di raccolta di specifiche tipologie di rifiuti organizzato dai Consorzi di cui ai titoli II e III della parte quarta del presente decreto e alla normativa settoriale, o organizzato sulla base di un accordo di programma stipulato tra la pubblica amministrazione ed associazioni imprenditoriali rappresentative sul piano nazionale, o loro articolazioni territoriali, oppure sulla base di una convenzione-quadro stipulata tra le medesime associazioni ed i responsabili della piattaforma di conferimento, o dell'impresa di trasporto dei rifiuti, dalla quale risulti la destinazione definitiva dei rifiuti. All'accordo di programma o alla convenzione-quadro deve seguire la stipula di un contratto di servizio tra il singolo produttore ed il gestore della piattaforma di conferimento, o dell'impresa di trasporto dei rifiuti, in attuazione del predetto accordo o della predetta convenzione; 
@@ -162,7 +162,7 @@ Note all'art. 2:
 
 1.
 
-Ai fini dell'articolo 1 e ai sensi dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), il conglomerato bituminoso cessa di essere qualificato come rifiuto ed e' qualificato granulato di conglomerato bituminoso se soddisfa tutti i seguenti criteri:
+Ai fini dell'articolo 1 e ai sensi dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), il conglomerato bituminoso cessa di essere qualificato come rifiuto ed e' qualificato granulato di conglomerato bituminoso se soddisfa tutti i seguenti criteri:
                         a)
                             e' utilizzabile per gli scopi specifici di cui alla parte a) dell'Allegato 1;
                         b)
@@ -247,7 +247,7 @@ Note all'art. 5:
 
 1.
 
-Ai fini dell'adeguamento ai criteri di cui al presente regolamento, il produttore, entro centoventi giorni dall'entrata in vigore dello stesso, presenta all'autorita' competente un aggiornamento della comunicazione effettuata ai sensi dell'articolo 216 o un'istanza di aggiornamento dell'autorizzazione ai sensi del Titolo III-bis della Parte II e del Titolo I, Capo IV, della Parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
+Ai fini dell'adeguamento ai criteri di cui al presente regolamento, il produttore, entro centoventi giorni dall'entrata in vigore dello stesso, presenta all'autorita' competente un aggiornamento della comunicazione effettuata ai sensi dell'articolo 216 o un'istanza di aggiornamento dell'autorizzazione ai sensi del Titolo III-bis della Parte II e del Titolo I, Capo IV, della Parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 2.
 

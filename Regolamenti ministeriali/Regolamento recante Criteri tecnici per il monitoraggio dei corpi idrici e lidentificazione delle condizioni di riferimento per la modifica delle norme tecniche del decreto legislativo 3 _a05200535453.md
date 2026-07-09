@@ -14,7 +14,7 @@ DEL TERRITORIO E DEL MARE
 
 Vista la [Direttiva 2000/60/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;60) che istituisce un quadro per l'azione comunitaria in materia di acque e, in particolare l'Allegato II;
 
-Visto il [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), «Norme in materia ambientale» e successive modifiche ed integrazioni e in particolare, l'articolo 75, comma 3, che prevede l'adozione di regolamenti, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n, 400, su proposta del Ministro dell'ambiente e della tutela del territorio, previa intesa con la Conferenza Stato-Regioni, per modificare gli allegati alla parte terza dello stesso decreto legislativo 3 aprile 2006;
+Visto il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), «Norme in materia ambientale» e successive modifiche ed integrazioni e in particolare, l'articolo 75, comma 3, che prevede l'adozione di regolamenti, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n, 400, su proposta del Ministro dell'ambiente e della tutela del territorio, previa intesa con la Conferenza Stato-Regioni, per modificare gli allegati alla parte terza dello stesso decreto legislativo 3 aprile 2006;
 
 Viste le linee guida emanate dalla Commissione Europea che forniscono criteri tecnici sulle modalita' di svolgimento dei programmi di monitoraggio e per la definizione delle condizioni di riferimento dei corpi idrici superficiali;
 
@@ -32,7 +32,7 @@ Adotta il seguente regolamento:
 
 1.
 
-L'Allegato 1 della parte terza del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e' sostituito con l'Allegato 1 del presente decreto;
+L'Allegato 1 della parte terza del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e' sostituito con l'Allegato 1 del presente decreto;
 
 2.
 
@@ -43,8 +43,8 @@ Avvertenza:
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea. (GUUE)
  Note alle premesse:
  - La [Direttiva 2000/60/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;60), che istituisce un quadro per l'azione comunitaria in materia di acque e' pubblicata nella Gazzetta Ufficiale n. L 327 del 22 dicembre 2000, pag. 0001-0073.
- - Il [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», e successive modifiche ed integrazioni, e' pubblicato nella Gazzetta Ufficiale n. 88 del 14 aprile 2006.
- - Si riporta il comma 3, dell'articolo 75, del citato [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md):
+ - Il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», e successive modifiche ed integrazioni, e' pubblicato nella Gazzetta Ufficiale n. 88 del 14 aprile 2006.
+ - Si riporta il comma 3, dell'articolo 75, del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md):
  «3. Le prescrizioni tecniche necessarie all'attuazione della parte terza del presente decreto sono stabilite negli Allegati al decreto stesso e con uno o piu' regolamenti adottati ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), su proposta del Ministro dell'ambiente e della tutela del territorio previa intesa con la Conferenza Stato-regioni; attraverso i medesimi regolamenti possono altresi' essere modificati gli Allegati alla parte terza del presente decreto per adeguarli a sopravvenute esigenze o a nuove acquisizioni scientifiche o tecnologiche.».
  - Si riporta il [comma 3, dell'articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, supplemento ordinario:
  «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
@@ -54,10 +54,10 @@ Avvertenza:
 
 1.
 
-All'Allegato 3 della parte terza del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), il punto 1.1.1 e' sostituito dal punto 1.1.1 di cui all'Allegato 2 del presente decreto.
+All'Allegato 3 della parte terza del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), il punto 1.1.1 e' sostituito dal punto 1.1.1 di cui all'Allegato 2 del presente decreto.
 
 Nota all'art. 2:
- - Si riporta l'allegato 3 della parte terza del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), punto 1.1.1 come modificato dall'articolo 2 del presente regolamento:
+ - Si riporta l'allegato 3 della parte terza del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), punto 1.1.1 come modificato dall'articolo 2 del presente regolamento:
 
  1.1.1 - FISSAZIONE DELLE CONDIZIONI DI RIFERIMENTO
  TIPO-SPECIFICHE PER I CORPI IDRICI SUPERFICIALI

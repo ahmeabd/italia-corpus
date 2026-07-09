@@ -18,7 +18,7 @@ Vista la legge 1 aprile 1981, n. 121;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visti gli articoli 51, 52 e 53 del regolamento di servizio dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md);
+Visti gli articoli 51, 52 e 53 del regolamento di servizio dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md);
 
 Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 748](../DPR/Disciplina%20delle%20funzioni%20dirigenziali%20nelle%20Amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo.md);
 
@@ -119,7 +119,7 @@ Gli alloggi non possono essere concessi al personale che:
 
 1.
 
-Per l'assegnazione degli alloggi si osservano le disposizioni dell'art. 8, comma 1, della legge 1 dicembre 1986, n. 831, in quanto applicabili al personale della Polizia di Stato, dell'art. 52, commi primo, secondo, terzo e quinto, e dell'art. 53 del regolamento di servizio dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), nonche' le disposizioni del presente regolamento.
+Per l'assegnazione degli alloggi si osservano le disposizioni dell'art. 8, comma 1, della legge 1 dicembre 1986, n. 831, in quanto applicabili al personale della Polizia di Stato, dell'art. 52, commi primo, secondo, terzo e quinto, e dell'art. 53 del regolamento di servizio dell'Amministrazione della pubblica sicurezza, approvato con [decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), nonche' le disposizioni del presente regolamento.
 
 2.
 
@@ -340,7 +340,7 @@ Nota all'art. 14:
 
 1.
 
-Le concessioni di alloggi a qualsiasi titolo antecedentemente disposte, decadono, ove gia' non decadute, all'entrata in vigore del presente regolamento, fatte salve le concessioni effettuate ai sensi degli [articoli 52](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md) e [53 del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../DPR/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), e quelle relative agli alloggi gratuiti connessi all'incarico di cui all'art. 1, comma 1, lettera a), del presente regolamento.
+Le concessioni di alloggi a qualsiasi titolo antecedentemente disposte, decadono, ove gia' non decadute, all'entrata in vigore del presente regolamento, fatte salve le concessioni effettuate ai sensi degli [articoli 52](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md) e [53 del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20servizio%20dellAmministrazione%20della%20pubblica%20sicurezza.md), e quelle relative agli alloggi gratuiti connessi all'incarico di cui all'art. 1, comma 1, lettera a), del presente regolamento.
 
 2.
 

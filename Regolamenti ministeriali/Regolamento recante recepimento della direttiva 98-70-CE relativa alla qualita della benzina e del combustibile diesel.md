@@ -22,7 +22,7 @@ Visto il decreto del Ministro per le politiche comunitarie 28 maggio 1988, n. 21
 
 Visto il decreto del Ministro dell'ambiente, di concerto con il Ministro delle finanze, 10 febbraio 2000, pubblicato nella Gazzetta Ufficiale n. 47 del 26 febbraio 2000;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)";
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)";
 
 Vista la [direttiva 98/70/CE del 28 dicembre 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;70), relativa alla qualita' della benzina e del combustibile diesel e recante modificazione della [direttiva 93/12/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;12);
 

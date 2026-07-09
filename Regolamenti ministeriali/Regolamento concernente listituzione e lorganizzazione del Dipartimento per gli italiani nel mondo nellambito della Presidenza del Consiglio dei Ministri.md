@@ -71,7 +71,7 @@ Il Ministro e' coadiuvato dal capo di gabinetto, dal capo del settore legislativ
 
 3.
 
-Il Ministro puo' avvalersi della collaborazione di consiglieri ed esperti nominati in base agli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_29), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31) e [37 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_37), nei limiti consentiti dalle tabelle allegate alla legge stessa, ovvero in base al [decreto del Presidente della Repubblica 18 aprile 1994 n. 338](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md).
+Il Ministro puo' avvalersi della collaborazione di consiglieri ed esperti nominati in base agli [articoli 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_29), [31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_31) e [37 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_37), nei limiti consentiti dalle tabelle allegate alla legge stessa, ovvero in base al [decreto del Presidente della Repubblica 18 aprile 1994 n. 338](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20conferimento%20di%20incarichi%20individuali%20ad%20esperti%20da%20parte%20dei%20Ministri.md).
 
 4.
 
@@ -157,7 +157,7 @@ Qualifiche ad esaurimento.... 16 4
 
 1.
 
-Nell'ambito dell'ufficio centrale per il coordinamento dell'iniziativa legislativa e dell'attivita' normativa del Governo, di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../DPR/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), e' costituito presso il Ministro per gli italiani nel mondo un apposito settore legislativo che provvede all'attivita' di studio, di progettazione e razionalizzazione normativa nelle materie relative alle funzioni delegate al Ministro stesso, nonche' di consulenza in ordine ai problemi giuridici nelle materie di competenza del Dipartimento.
+Nell'ambito dell'ufficio centrale per il coordinamento dell'iniziativa legislativa e dell'attivita' normativa del Governo, di cui al [decreto del Presidente della Repubblica 19 luglio 1989, n. 366](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellart.%2023%20della%20legge%2023%20agosto%201988%20n.%20400%20concernente%20istituzione%20nellambito%20del%20Segretariato%20generale%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20dellUffici_832fc11b4915.md), e' costituito presso il Ministro per gli italiani nel mondo un apposito settore legislativo che provvede all'attivita' di studio, di progettazione e razionalizzazione normativa nelle materie relative alle funzioni delegate al Ministro stesso, nonche' di consulenza in ordine ai problemi giuridici nelle materie di competenza del Dipartimento.
 
 2.
 
@@ -277,7 +277,7 @@ Nota all'art. 6:
  Servizio per il coordinamento organizzativo;
  Servizio per le attivita' formative e di studio.
  8. Il capo del Dipartimento si avvale di una propria struttura di segreteria che assicura anche il collegamento con le organizzazioni pubbliche e private, italiane ed estere in ordine ai compiti del Dipartimento.
- 9. Il capo del Dipartimento predispone un programma annuale, da sottoporre all'approvazione del Presidente del Consiglio dei Ministri, delle attivita' di cui al [comma 4, dell'art. 12 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+ 9. Il capo del Dipartimento predispone un programma annuale, da sottoporre all'approvazione del Presidente del Consiglio dei Ministri, delle attivita' di cui al [comma 4, dell'art. 12 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
  10. Le attivita' del Dipartimento che abbiano attinenza con l'informazione relativa all'attualita' politica sono coordinate con l'Ufficio stampa, per il tramite del Segretario generale".
  "Art. 20 (Comitati istituiti presso il Dipartimento), comma 1, lettere d) e f). - 1. Presso il Dipartimento hanno sede:
  a)-c) (omissis);

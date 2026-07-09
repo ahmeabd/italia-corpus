@@ -12,7 +12,7 @@ IL MINISTRO DEI TRASPORTI
 
 Visto l'[art. 731 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dall'[art. 3 della legge 13 maggio 1983, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-13;213#art_3);
 
-Visto l'[art. 24 del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](../DPR/Approvazione%20del%20regolamento%20in%20materia%20di%20licenze%20attestati%20ed%20abilitazioni%20aeronautiche%20ai%20sensi%20dellart.%20731%20del%20codice%20della%20navigazione%20come%20modificato%20dallart.%203%20della%20legge%2013%20magg_edc4c32e3ec3.md);
+Visto l'[art. 24 del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20in%20materia%20di%20licenze%20attestati%20ed%20abilitazioni%20aeronautiche%20ai%20sensi%20dellart.%20731%20del%20codice%20della%20navigazione%20come%20modificato%20dallart.%203%20della%20legge%2013%20magg_edc4c32e3ec3.md);
 
 Considerata la necessita' di stabilire le modalita' del rilascio dei titoli aeronautici italiani corrispondenti a quelli rilasciati da un Paese membro dell'Organizzazione dell'aviazione civile internazionale;
 

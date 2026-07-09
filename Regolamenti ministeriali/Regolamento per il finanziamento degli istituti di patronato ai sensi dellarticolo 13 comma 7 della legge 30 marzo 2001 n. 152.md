@@ -138,7 +138,7 @@ Il mandato rilasciato all'istituto di patronato, agli effetti della tutela in se
                         c)
                             l'indicazione della sede dell'istituto di patronato delegata a trattare la pratica;
                         d)
-                            le esplicite dichiarazioni sulla tutela dei dati personali di cui al [decreto legislativo 30 giugno 2003, n. 196](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni ed integrazioni.
+                            le esplicite dichiarazioni sulla tutela dei dati personali di cui al [decreto legislativo 30 giugno 2003, n. 196](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni ed integrazioni.
 
 2.
 
@@ -169,7 +169,7 @@ Ai fini dell'attribuzione della pratica svolta, puo' essere rilasciato un succes
 La revoca non opera rispetto all'intervento gia' svolto, se definito positivamente.
 
 Nota all'[art. 4:
- - Il decreto legislativo 30 giugno 2003, n. 196](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ([Codice in materia di protezione dei dati personali](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)), e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O.
+ - Il decreto legislativo 30 giugno 2003, n. 196](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ([Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)), e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O.
 
 ## Art. 5.
 

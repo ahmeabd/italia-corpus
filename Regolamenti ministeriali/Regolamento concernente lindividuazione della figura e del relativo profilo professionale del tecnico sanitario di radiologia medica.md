@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Visto l'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante: "Riordino della disciplina in materia sanitaria, a norma dell'[art. 1 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)", nel testo modificato dal [decreto legislativo 7 dicembre 1993, n. 517](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto l'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante: "Riordino della disciplina in materia sanitaria, a norma dell'[art. 1 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)", nel testo modificato dal [decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Ritenuto che, in ottemperanza alle precitate disposizioni, spetta al Ministro della sanita' di individuare con proprio decreto le figure professionali da formare ed i relativi profili, relativamente alle aree del personale sanitario infermieristico, tecnico e della riabilitazione;
 
@@ -62,7 +62,7 @@ Con decreto del Ministero della sanita' e' disciplinata la formazione complement
 
 1.
 
-Il diploma universitario di tecnico sanitario di radiologia medica conseguito ai sensi dell'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, abilita all'esercizio della professione previa iscrizione all'albo professionale.
+Il diploma universitario di tecnico sanitario di radiologia medica conseguito ai sensi dell'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, abilita all'esercizio della professione previa iscrizione all'albo professionale.
 
 Nota all'art. 3:
  - Per il testo del [comma 3 dell'art. 6 del D.Lgs. n. 502/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502#art_6-com3) si veda in nota alle premesse.

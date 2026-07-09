@@ -12,7 +12,7 @@ IL MINISTRO DELLA SANITA' di concerto con
 
 IL MINISTRO PER LE POLITICHE AGRICOLE
 
-Visto il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), concernente il regolamento di polizia veterinaria;
+Visto il [decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../Regolamenti%20governativi/Regolamento%20di%20polizia%20veterinaria.md), concernente il regolamento di polizia veterinaria;
 
 Visto l'[articolo 2 della legge 9 giugno 1964, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-06-09;615#art_2), concernente la bonifica sanitaria degli allevamenti dalla tubercolosi e dalla brucellosi;
 
@@ -38,7 +38,7 @@ Visto il [decreto ministeriale 2 maggio 1996, n. 358](https://www.normattiva.it/
 
 Considerata la necessita' di giungere nei tempi stabiliti alla eradicazione della brucellosi dei bovini, della brucellosi degli ovicaprini e della leucosi bovina enzootica;
 
-Sentita la conferenza dei servizi che, ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608](../DPR/Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md), ha sostituito la commissione centrale prevista dall'[articolo 2 della legge 23 gennaio 1968, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-23;33#art_2), nella seduta del 18 settembre 1996;
+Sentita la conferenza dei servizi che, ai sensi dell'[articolo 3 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608](../Regolamenti%20governativi/Regolamento%20recante%20norme%20sul%20riordino%20degli%20organi%20collegiali%20dello%20Stato.md), ha sostituito la commissione centrale prevista dall'[articolo 2 della legge 23 gennaio 1968, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-23;33#art_2), nella seduta del 18 settembre 1996;
 
 Visto il parere del Consiglio superiore di sanita' espresso nella seduta del 20 novembre 1996;
 

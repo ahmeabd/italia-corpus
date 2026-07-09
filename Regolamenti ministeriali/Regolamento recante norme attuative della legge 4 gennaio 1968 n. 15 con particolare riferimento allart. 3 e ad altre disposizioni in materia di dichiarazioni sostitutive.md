@@ -16,7 +16,7 @@ Visto l'[art. 18 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/ur
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 8 del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../DPR/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md);
+Visto l'[art. 8 del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../Regolamenti%20governativi/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md);
 
 Udito il parere del Consiglio di Stato espresso dall'adunanza generale del 23 febbraio 1995;
 
@@ -28,7 +28,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Fatto salvo quanto disposto dal [decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../DPR/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), la dichiarazione temporaneamente sostitutiva di cui all'[art. 3 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), puo' riguardare per i procedimenti annotativi di competenza del Ministero di grazia e giustizia i seguenti stati, fatti o qualita' personali:
+Fatto salvo quanto disposto dal [decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../Regolamenti%20governativi/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), la dichiarazione temporaneamente sostitutiva di cui all'[art. 3 della legge 4 gennaio 1968, n. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20documentazione%20amministrativa%20e%20sulla%20legalizzazione%20e%20autenticazione%20di%20firme.md), puo' riguardare per i procedimenti annotativi di competenza del Ministero di grazia e giustizia i seguenti stati, fatti o qualita' personali:
                         a)
                             cariche sociali ricoperte; inesistenza delle cause di ineleggibilita' e di decadenza relative all'ufficio di amministrazione di societa', indicate nell'[art. 2382 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2382) o in altre leggi speciali; iscrizione nel registro degli esercenti il commercio tenuto dalle camere di commercio; iscrizione nel registro delle ditte tenuto presso la camera di commercio;
                         b)
@@ -96,7 +96,7 @@ Nota al titolo:
 
 1.
 
-L'invito di cui all'[art. 4, comma 2, del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../DPR/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), contiene l'indicazione che il provvedimento favorevole non potra' essere emesso fino a che i documenti richiesti non siano presentati in forma regolare e completa.
+L'invito di cui all'[art. 4, comma 2, del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../Regolamenti%20governativi/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), contiene l'indicazione che il provvedimento favorevole non potra' essere emesso fino a che i documenti richiesti non siano presentati in forma regolare e completa.
 
 2.
 
@@ -106,7 +106,7 @@ Se l'interessato non presenta i documenti nel termine fissato e' sospesa la deco
 
 1.
 
-La regolarizzazione ed il completamento della dichiarazione di cui all'[art. 5 del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../DPR/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), avviene con le stesse modalita' previste per la sua presentazione, entro un termine di quindici giorni. Fino a che la rettificazione o il completamento non sia avvenuto il provvedimento favorevole non puo' essere emanato.
+La regolarizzazione ed il completamento della dichiarazione di cui all'[art. 5 del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../Regolamenti%20governativi/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), avviene con le stesse modalita' previste per la sua presentazione, entro un termine di quindici giorni. Fino a che la rettificazione o il completamento non sia avvenuto il provvedimento favorevole non puo' essere emanato.
 
 2.
 
@@ -123,7 +123,7 @@ Nota agli articoli 3 e 4:
 
 1.
 
-La mancata rettificazione o regolarizzazione dei documenti ai sensi dell'[art. 5 del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../DPR/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), entro il termine di quindici giorni, quando causi incertezza sugli elementi da considerare essenziali ai fini dell'emanazione del provvedimento al quale la documentazione si riferisce, equivale a mancanta presentazione della documentazione prescritta.
+La mancata rettificazione o regolarizzazione dei documenti ai sensi dell'[art. 5 del decreto del Presidente della Repubblica 25 gennaio 1994, n. 130](../Regolamenti%20governativi/Regolamento%20recante%20norme%20attuative%20della%20legge%204%20gennaio%201968%20n.%2015%20con%20particolare%20riferimento%20allart.%203%20e%20ad%20altre%20disposizioni%20in%20materia%20di%20dichiarazioni%20sostitutive.md), entro il termine di quindici giorni, quando causi incertezza sugli elementi da considerare essenziali ai fini dell'emanazione del provvedimento al quale la documentazione si riferisce, equivale a mancanta presentazione della documentazione prescritta.
 
 Nota agli articoli 3 e 4:
  - Si trascrive il testo dell'art. 5 del citato [D.P.R. n. 130/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994;130):

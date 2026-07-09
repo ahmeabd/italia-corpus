@@ -18,7 +18,7 @@ Visto il regolamento (CEE) n. 2261/84 del Consiglio del 17 luglio 1984, come mod
 
 Visto il regolamento (CE) n. 2366/98 della Commissione del 30 ottobre 1998, recante modalita' di applicazione del regime di aiuto alla produzione di olio di oliva per le campagne di commercializzazione 1998/1999 - 2000/2001;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Visto l'[articolo 4, comma 3, della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), sull'attuazione delle decisioni della Comunita' europea in materia di politica agricola comune;
 
@@ -116,7 +116,7 @@ Il Decreto 22 novembre 2001, n. 486 ha disposto (con l'art. 1, comma 1) che "Le 
 
 1.
 
-A decorrere dalla data di entrata in vigore del presente decreto, le regioni e le province autonome di Trento e di Bolzano esercitano, in coerenza con quanto disposto dal [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), le funzioni ed i compiti relativi al riconoscimento dei frantoi oleari previsto nell'ambito del regime di aiuto alla produzione di olio d'oliva di cui agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1966-09-22;136#art_5) e 20-quater, paragrafo 1, del regolamento (CEE) n. 136/66 del Consiglio del 22 settembre 1966 e successive modificazioni ed integrazioni ed all'articolo 13 del regolamento (CEE) n. 2261/84 del Consiglio del 17 luglio 1984 e successive modificazioni ed integrazioni.
+A decorrere dalla data di entrata in vigore del presente decreto, le regioni e le province autonome di Trento e di Bolzano esercitano, in coerenza con quanto disposto dal [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), le funzioni ed i compiti relativi al riconoscimento dei frantoi oleari previsto nell'ambito del regime di aiuto alla produzione di olio d'oliva di cui agli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1966-09-22;136#art_5) e 20-quater, paragrafo 1, del regolamento (CEE) n. 136/66 del Consiglio del 22 settembre 1966 e successive modificazioni ed integrazioni ed all'articolo 13 del regolamento (CEE) n. 2261/84 del Consiglio del 17 luglio 1984 e successive modificazioni ed integrazioni.
 
 2.
 
@@ -131,7 +131,7 @@ Il Ministero delle politiche agricole e forestali provvede a consegnare, entro t
 Restano in capo al Ministero delle politiche agricole e forestali le liti pendenti alla data di entrata in vigore del presente decreto.
 
 Note all'[art. 6:
- - Per il decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), si rinvia alle note alle premesse.
+ - Per il decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), si rinvia alle note alle premesse.
  - Il testo dell'art. 5 del regolamento (CEE) n. 136/66 e' riportato nelle note alle premesse.
  - Si trascrive il testo dell'art. 20-quater del regolamento (CEE) n. 136/66:
  "1. Le organizzazioni di produttori riconosciute ai sensi del presente regolamento devono:

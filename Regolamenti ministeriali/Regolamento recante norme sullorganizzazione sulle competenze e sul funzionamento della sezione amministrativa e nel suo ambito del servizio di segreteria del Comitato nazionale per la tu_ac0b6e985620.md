@@ -14,9 +14,9 @@ PER LE POLITICHE AGRICOLE
 
 Vista la [legge 10 febbraio 1992, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20delle%20denominazioni%20dorigine%20dei%20vini.md), recante disposizioni sulla "Nuova disciplina delle denominazioni di origine dei vini";
 
-Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 348](../DPR/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20riconocimento%20di%20denominazione%20dorigine%20dei%20vini.md) con il quale e' stato emanato il "Regolamento recante disciplina del procedimento di riconoscimento di denominazione d'origine dei vini";
+Visto il [decreto del Presidente della Repubblica 20 aprile 1994, n. 348](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20riconocimento%20di%20denominazione%20dorigine%20dei%20vini.md) con il quale e' stato emanato il "Regolamento recante disciplina del procedimento di riconoscimento di denominazione d'origine dei vini";
 
-Visto il [decreto legislativo 4 giugno 1997, n. 143](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md) con il quale e' stato istituito il Ministero per le politiche agricole;
+Visto il [decreto legislativo 4 giugno 1997, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md) con il quale e' stato istituito il Ministero per le politiche agricole;
 
 Visto l'[articolo 17, comma 3 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

@@ -26,7 +26,7 @@ Visto l'[articolo 1, comma 164, lettera d), della legge 23 dicembre 1996, n. 662
 
 Visto l'[articolo 31, comma 12, della legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_31-com12);
 
-Sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Visto il parere espresso dalla Sezione consultiva per gli atti normativi del Consiglio di Stato nell'adunanza del 27 luglio 2000;
 
@@ -73,7 +73,7 @@ COMMA ABROGATO DAL DECRETO 1 OTTOBRE 2004, N. 289.
 
 3.
 
-Il contributo determinato secondo i criteri di cui ai commi 1 e 2 e' aumentato del 5 per cento ove l'unione di comuni coincida esattamente con gli ambiti territoriali ottimali di esercizio delle funzioni individuati ai sensi dell'[articolo 3, comma 2, del decreto legislativo 31 marzo 1998, n. 112](../Decreti%20Legislativi/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md). A tale fine gli enti interessati attestano l'esistenza della predetta condizione secondo i modelli di certificazione da definire con il decreto del Ministero dell'interno di cui all'articolo 5, comma 2.
+Il contributo determinato secondo i criteri di cui ai commi 1 e 2 e' aumentato del 5 per cento ove l'unione di comuni coincida esattamente con gli ambiti territoriali ottimali di esercizio delle funzioni individuati ai sensi dell'[articolo 3, comma 2, del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md). A tale fine gli enti interessati attestano l'esistenza della predetta condizione secondo i modelli di certificazione da definire con il decreto del Ministero dell'interno di cui all'articolo 5, comma 2.
 
 4.
 
@@ -182,7 +182,7 @@ Le percentuali di cui al comma 3 sono elevate del 5 per cento per le spese certi
 
 4-bis.
 
-Ove vengano conferite integralmente in gestione associata una o piu' funzioni, composte da piu' di due servizi individuati ai sensi dell'[articolo 2 del decreto del Presidente della Repubblica 31 gennaio 1996, n. 194](../DPR/Regolamento%20per%20lapprovazione%20dei%20modelli%20di%20cui%20allart.%20114%20del%20decreto%20legislativo%2025%20febbraio%201995%20n.%2077%20concernente%20lordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), il contributo determinato ai sensi dei commi 3 e 4 ad esse riferibile e' incrementato del 10 per cento.
+Ove vengano conferite integralmente in gestione associata una o piu' funzioni, composte da piu' di due servizi individuati ai sensi dell'[articolo 2 del decreto del Presidente della Repubblica 31 gennaio 1996, n. 194](../Regolamenti%20governativi/Regolamento%20per%20lapprovazione%20dei%20modelli%20di%20cui%20allart.%20114%20del%20decreto%20legislativo%2025%20febbraio%201995%20n.%2077%20concernente%20lordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), il contributo determinato ai sensi dei commi 3 e 4 ad esse riferibile e' incrementato del 10 per cento.
 
 4-ter.
 

@@ -16,7 +16,7 @@ Visto il [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](../DPR
 
 Visto il decreto del Ministro della sanita' 22 febbraio 1984, pubblicato sulla Gazzetta Ufficiale n. 77, del 17 marzo 1984, con il quale sono stati fissati i livelli delle prestazioni sanitarie e delle prestazioni economiche accessorie a quelle di malattia assicurate al personale di cui sopra;
 
-Visto l'[articolo 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il quale stabilisce che i rapporti con il personale sanitario per l'assistenza sanitaria e medico-legale al personale navigante sono disciplinati con regolamento ministeriale in conformita', per la parte compatibile, alle disposizioni di cui all'articolo 8 dello stesso decreto legislativo;
+Visto l'[articolo 18, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, il quale stabilisce che i rapporti con il personale sanitario per l'assistenza sanitaria e medico-legale al personale navigante sono disciplinati con regolamento ministeriale in conformita', per la parte compatibile, alle disposizioni di cui all'articolo 8 dello stesso decreto legislativo;
 
 Vista la [legge 13 novembre 2009, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-11-13;172), concernente l'istituzione del Ministero della salute;
 
@@ -48,7 +48,7 @@ Adotta il seguente regolamento:
 
 1.
 
-E' reso esecutivo l'Accordo Collettivo Nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico - infermieri e tecnici - operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile - parte giuridica -, ai sensi dell'[articolo 18, comma 7 del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, periodo 1° gennaio 2007 - 31 dicembre 2009, riportato nel testo allegato, che e' parte integrante del presente decreto.
+E' reso esecutivo l'Accordo Collettivo Nazionale per la disciplina dei rapporti convenzionali tra il Ministero della salute ed il personale sanitario non medico - infermieri e tecnici - operante negli ambulatori direttamente gestiti dal Ministero della salute per l'assistenza sanitaria e medico-legale al personale navigante, marittimo e dell'aviazione civile - parte giuridica -, ai sensi dell'[articolo 18, comma 7 del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, periodo 1° gennaio 2007 - 31 dicembre 2009, riportato nel testo allegato, che e' parte integrante del presente decreto.
 
 2.
 

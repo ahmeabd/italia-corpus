@@ -144,11 +144,11 @@ Qualora, durante il periodo di osservazione di cui all'art. 4, si verifichi la c
 
 1.
 
-Le modalita' relative alla visita del medico necroscopo e la connessa certificazione di morte in caso di arresto cardiaco accertato secondo quanto previsto dall'art. 1, seguono le disposizioni contenute negli articoli 4, 8 e 9 del regolamento di polizia mortuaria approvato con [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../DPR/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md). Nel caso nel quale il rilievo elettrocardiografico sia stato eseguito da un medico necroscopo, egli provvedera' direttamente alla compilazione del certificato di morte.
+Le modalita' relative alla visita del medico necroscopo e la connessa certificazione di morte in caso di arresto cardiaco accertato secondo quanto previsto dall'art. 1, seguono le disposizioni contenute negli articoli 4, 8 e 9 del regolamento di polizia mortuaria approvato con [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md). Nel caso nel quale il rilievo elettrocardiografico sia stato eseguito da un medico necroscopo, egli provvedera' direttamente alla compilazione del certificato di morte.
 
 2.
 
-L'accertamento della morte eseguito con le modalita' indicate negli articoli 3 e 4 esclude ogni ulteriore accertamento previsto dall'[art. 141 del regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sull'ordinamento dello stato civile, e dagli articoli 4, 8 e 9 del regolamento di polizia mortuaria approvato con [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../DPR/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md).
+L'accertamento della morte eseguito con le modalita' indicate negli articoli 3 e 4 esclude ogni ulteriore accertamento previsto dall'[art. 141 del regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20dello%20stato%20civile.%20039U1238.md), sull'ordinamento dello stato civile, e dagli articoli 4, 8 e 9 del regolamento di polizia mortuaria approvato con [decreto del Presidente della Repubblica 10 settembre 1990, n. 285](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20polizia%20mortuaria.md).
 
 3.
 

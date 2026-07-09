@@ -137,7 +137,7 @@ Nota all'art. 2:
 
 1.
 
-L'attivita' di pescaturismo puo' essere svolta con i sistemi di pesca previsti nella prescritta licenza di pesca, nel rispetto delle norme di comportamento di cui all'[articolo 96 del decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md).
+L'attivita' di pescaturismo puo' essere svolta con i sistemi di pesca previsti nella prescritta licenza di pesca, nel rispetto delle norme di comportamento di cui all'[articolo 96 del decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md).
 
 2.
 
@@ -148,7 +148,7 @@ Gli armatori di unita' munite di licenza di pesca riportanti sistemi a traino, p
 Quando l'attivita' di pescaturismo e' effettuata utilizzando gli attrezzi da pesca sportiva, l'armatore ne cura la sistemazione in maniera che non rechino intralcio al normale svolgimento dell'attivita' di bordo durante la navigazione.
 
 Note all'art. 3:
- - Si riporta il testo dell'[art. 96 del D.P.R. 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md) (Regolamento per l'esecuzione della [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md)):
+ - Si riporta il testo dell'[art. 96 del D.P.R. 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md) (Regolamento per l'esecuzione della [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md)):
  "Art. 96 (Norme di comportamento). - I pescatori debbono tenersi a conveniente distanza gli uni dagli altri, in conformita' del tipo di attrezzo impiegato, secondo le consuetudini locali salva la osservanza di diverse disposizioni di legge o regolamento.
  Il capo del compartimento, sentito il parere della commissione consultiva locale per la pesca marittima, al fine di assicurare il disciplinato esercizio della pesca nella zona di mare della rispettiva circoscrizione, puo' stabilire norme particolari per l'uso degli attrezzi e fissare turni per il loro impiego".
  - Si riporta il testo dell'art. 19 del decreto ministeriale 26 luglio 1995 (Disciplina delle licenze di pesca):

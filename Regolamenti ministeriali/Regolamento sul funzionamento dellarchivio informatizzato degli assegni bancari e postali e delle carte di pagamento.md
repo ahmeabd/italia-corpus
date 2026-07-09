@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA GIUSTIZIA
 
-Visto l'[articolo 36, comma 2, del decreto legislativo 30 dicembre 1999, n. 507](../Decreti%20Legislativi/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), che prevede l'emanazione del regolamento per la disciplina delle modalita' di trasmissione, rettifica ed aggiornamento dei dati da inserire nell'archivio previsto dal comma 1 del medesimo articolo, nonche' le modalita' con cui la Banca d'Italia provvede al trattamento dei dati trasmessi e ne consente la consultazione;
+Visto l'[articolo 36, comma 2, del decreto legislativo 30 dicembre 1999, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), che prevede l'emanazione del regolamento per la disciplina delle modalita' di trasmissione, rettifica ed aggiornamento dei dati da inserire nell'archivio previsto dal comma 1 del medesimo articolo, nonche' le modalita' con cui la Banca d'Italia provvede al trattamento dei dati trasmessi e ne consente la consultazione;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -26,7 +26,7 @@ Adotta il seguente regolamento:
 
 1.
 
-L'archivio informatizzato degli assegni bancari e postali e delle carte di pagamento, istituito presso la Banca d'Italia dall'[articolo 10-bis della legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386#art_10bis), introdotto dall'[articolo 36 del decreto legislativo 30 dicembre 1999, n. 507](../Decreti%20Legislativi/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), costituisce un servizio di interesse economico generale, finalizzato ad assicurare il regolare funzionamento del sistema dei pagamenti.
+L'archivio informatizzato degli assegni bancari e postali e delle carte di pagamento, istituito presso la Banca d'Italia dall'[articolo 10-bis della legge 15 dicembre 1990, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;386#art_10bis), introdotto dall'[articolo 36 del decreto legislativo 30 dicembre 1999, n. 507](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), costituisce un servizio di interesse economico generale, finalizzato ad assicurare il regolare funzionamento del sistema dei pagamenti.
 
 2.
 

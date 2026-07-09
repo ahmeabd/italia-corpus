@@ -24,7 +24,7 @@ Visto in particolare l'[articolo 8 del decreto legislativo 30 dicembre 1992, n. 
 
 Visto il decreto ministeriale 31 gennaio 1996, pubblicato nel supplemento ordinario n. 33 alla Gazzetta Ufficiale n. 41 del 19 febbraio 1996, concernente le misure di protezione contro l'introduzione e la diffusione nel territorio della Repubblica italiana di organismi nocivi ai vegetali o ai prodotti vegetali;
 
-Visto il [decreto legislativo 4 giugno 1997, n. 143](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), recante "Conferimento alle regioni delle funzioni amministrative in materia di agricoltura e pesca e riorganizzazione dell'amministrazione centrale" e, in particolare, l'articolo 2, comma 2;
+Visto il [decreto legislativo 4 giugno 1997, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), recante "Conferimento alle regioni delle funzioni amministrative in materia di agricoltura e pesca e riorganizzazione dell'amministrazione centrale" e, in particolare, l'articolo 2, comma 2;
 
 Vista la decisione della Commissione U.E. n. 1999/181/CE del 24 febbraio 1999 che autorizza gli Stati membri a prevedere deroghe a determinate disposizioni della [direttiva 77/93/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;93) sopraindicata per quanto riguarda le piantine di fragole (Fragaria L.) destinate alla piantagione, tranne le sementi, originarie dell'Argentina;
 

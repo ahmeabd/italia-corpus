@@ -26,7 +26,7 @@ Ritenuto che il controllo sull'osservanza delle disposizioni concernenti l'allev
 
 Considerato, parimenti, che nelle regioni in cui opera una autorita' pubblica regionale designata ai controlli, detto organismo, previa comunicazione al Ministero per le politiche agricole, possa provvedere ai sensi dell'[articolo 53, comma 1, della legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), al controllo dei macelli e dei produttori della carne di pollame con particolari diciture;
 
-Visto il parere favorevole espresso dalla conferenza Statoregioni nella seduta del 4 marzo 1999, ai sensi dell'[articolo 2, comma 1, del decreto legislativo 4 giugno 1997, n. 143](../Decreti%20Legislativi/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md);
+Visto il parere favorevole espresso dalla conferenza Statoregioni nella seduta del 4 marzo 1999, ai sensi dell'[articolo 2, comma 1, del decreto legislativo 4 giugno 1997, n. 143](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md);
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

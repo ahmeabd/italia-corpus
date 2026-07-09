@@ -14,17 +14,17 @@ E DEI TRASPORTI
 
 Visto la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) e successive modificazioni;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni, di seguito denominato «[codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)»;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, di seguito denominato «[codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)»;
 
-Visto, in particolare, l'[articolo 115 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), come da ultimo modificato dall'[articolo 16, comma 1, della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_16-com1), recante «Disposizioni in materia di sicurezza stradale», che ha introdotto i commi da 1-bis a 1-septies, prevedendo, tra l'altro, la possibilita', per i minori gia' titolari di patente di guida che hanno compiuto diciassette anni, di condurre a fini di esercitazione, di seguito definita «guida accompagnata», autoveicoli di massa complessiva a pieno carico non superiore a 3,5 t, con esclusione del traino di qualunque tipo di rimorchio, e comunque nel rispetto dei limiti di potenza specifica riferita alla tara di cui all'articolo 117, comma 2-bis, dello stesso [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), nonche' nel rispetto delle disposizioni di cui al comma 1-quater del predetto articolo 115;
+Visto, in particolare, l'[articolo 115 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), come da ultimo modificato dall'[articolo 16, comma 1, della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_16-com1), recante «Disposizioni in materia di sicurezza stradale», che ha introdotto i commi da 1-bis a 1-septies, prevedendo, tra l'altro, la possibilita', per i minori gia' titolari di patente di guida che hanno compiuto diciassette anni, di condurre a fini di esercitazione, di seguito definita «guida accompagnata», autoveicoli di massa complessiva a pieno carico non superiore a 3,5 t, con esclusione del traino di qualunque tipo di rimorchio, e comunque nel rispetto dei limiti di potenza specifica riferita alla tara di cui all'articolo 117, comma 2-bis, dello stesso [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), nonche' nel rispetto delle disposizioni di cui al comma 1-quater del predetto articolo 115;
 
 Visto l'articolo 16, comma 2, della predetta [legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120), che rinvia ad un regolamento del Ministro delle infrastrutture e dei trasporti le norme di attuazione delle disposizioni introdotte dal comma 1 del medesimo articolo 16, con particolare riferimento alle condizioni soggettive, oggettive e procedimentali necessarie alla richiesta ed al rilascio dell'autorizzazione del minore alla guida accompagnata, ai contenuti ed alle modalita' di certificazione del prescritto percorso didattico da seguirsi presso un'autoscuola, ai requisiti soggettivi dell'accompagnatore, alle condizioni di espletamento delle attivita' di guida accompagnata nonche' alle caratteristiche del contrassegno che deve essere apposto sull'autoveicolo adibito a tale guida;
 
-Visti altresi' gli [articoli 121](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [122](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), [123](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [180 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
+Visti altresi' gli [articoli 121](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [122](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [123](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [180 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)»;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)»;
 
-Ritenuto che il corso pratico di guida, obbligatorio e propedeutico alla guida accompagnata, svolto presso un'autoscuola con istruttore abilitato e autorizzato, come prescritto dal comma 1-ter del citato [articolo 115 del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), nulla innova sotto il profilo della competenza delle province in materia di vigilanza amministrativa e tecnica sull'esercizio dell'attivita' di autoscuola, sancito dal predetto [articolo 123, comma 2, del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md);
+Ritenuto che il corso pratico di guida, obbligatorio e propedeutico alla guida accompagnata, svolto presso un'autoscuola con istruttore abilitato e autorizzato, come prescritto dal comma 1-ter del citato [articolo 115 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), nulla innova sotto il profilo della competenza delle province in materia di vigilanza amministrativa e tecnica sull'esercizio dell'attivita' di autoscuola, sancito dal predetto [articolo 123, comma 2, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
 
 Visto il [decreto del Ministro delle infrastrutture e dei trasporti 17 maggio 1995, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:1995-05-17;317), Regolamento recante la disciplina delle attivita' delle autoscuole;
 
@@ -66,7 +66,7 @@ Avvertenza:
  - La [legge 23 agosto 1988, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;240) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' pubblicata nella Gazz. Uff. 12 settembre 1988, n. 214, S.O.
  - Si riporta il testo dell'[art. 16, comma 2, della legge 29 luglio 2010, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-29;120#art_16-com2):
  «2. Con regolamento del Ministro delle infrastrutture e dei trasporti, da emanare, ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), entro quattro mesi dalla data di entrata in vigore della presente legge, sono stabilite le norme di attuazione dei [commi da 1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_115-com1bis) [a 1-septies dell'art. 115 del decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_115-com1septies), introdotti dal comma 1 del presente articolo, con particolare riferimento alle condizioni soggettive e oggettive in presenza delle quali l'autorizzazione puo' essere richiesta e alle modalita' di rilascio della medesima, alle condizioni di espletamento dell'attivita' di guida autorizzata, ai contenuti e alle modalita' di certificazione del percorso didattico che il minore autorizzato deve seguire presso un'autoscuola, ai requisiti soggettivi dell'accompagnatore nonche' alle caratteristiche del contrassegno di cui al comma 1-quater del citato art. 115.».
- - Il [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).), e' pubblicato nella Gazz. Uff. 18 maggio 1992, n. 114, S.O.
+ - Il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) (Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).), e' pubblicato nella Gazz. Uff. 18 maggio 1992, n. 114, S.O.
  - Si riporta il testo degli articoli 115, 117, 121, 122, 123 e 180 del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285):
  «Art. 115 (Requisiti per la guida dei veicoli e la conduzione di animali). (Testo applicabile fino al 18 gennaio 2013). - 1. Chi guida veicoli o conduce animali deve essere idoneo per requisiti fisici e psichici e aver compiuto:
  a) anni quattordici per guidare veicoli a trazione animale o condurre animali da tiro, da soma o da sella, ovvero armenti, greggi o altri raggruppamenti di animali;
@@ -354,11 +354,11 @@ Fermo restando quanto previsto dal comma 1, la ricevuta di cui all'articolo 1, c
 
 3.
 
-Il rilascio della ricevuta di cui all'articolo 1, comma 4 - che riconosce al minore il diritto di guidare un autoveicolo nell'ambito dei corsi di formazione propedeutica alla guida accompagnata di cui all'articolo 3 - e' annotato nell'anagrafe nazionale degli abilitati alla guida di cui all'[articolo 225, comma 1, lettera c), del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), anche ai fini del controllo da parte delle forze dell'ordine su tutto il territorio nazionale, attraverso il collegamento telematico con l'anagrafe stessa.
+Il rilascio della ricevuta di cui all'articolo 1, comma 4 - che riconosce al minore il diritto di guidare un autoveicolo nell'ambito dei corsi di formazione propedeutica alla guida accompagnata di cui all'articolo 3 - e' annotato nell'anagrafe nazionale degli abilitati alla guida di cui all'[articolo 225, comma 1, lettera c), del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), anche ai fini del controllo da parte delle forze dell'ordine su tutto il territorio nazionale, attraverso il collegamento telematico con l'anagrafe stessa.
 
 4.
 
-Nel caso in cui, durante l'attivita' di guida di cui al comma 3, il minore commette violazioni per le quali, ai sensi delle disposizioni del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) sono previste le sanzioni amministrative accessorie di cui agli articoli 218 e 219 dello stesso codice, il diritto di cui al comma 3 e' revocato ed e' inserito apposito ostativo nell'anagrafe nazionale degli abilitati alla guida.
+Nel caso in cui, durante l'attivita' di guida di cui al comma 3, il minore commette violazioni per le quali, ai sensi delle disposizioni del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) sono previste le sanzioni amministrative accessorie di cui agli articoli 218 e 219 dello stesso codice, il diritto di cui al comma 3 e' revocato ed e' inserito apposito ostativo nell'anagrafe nazionale degli abilitati alla guida.
 Analogamente si procede nel caso in cui la patente posseduta dal minore sia sospesa di validita' o revocata. In entrambi i casi il minore non puo' ripresentare l'istanza di cui all'articolo 1, comma 1.
 
 Note all'art. 2: 
@@ -412,7 +412,7 @@ Il corso di formazione, la cui durata e' di almeno dieci ore effettive di guida,
 5.
 
 Le lezioni sono individuali. Ciascuna lezione non puo' avere durata superiore a due ore giornaliere ed ha inizio e termine presso la sede dell'autoscuola o del centro di istruzione automobilistica.
-Durante le lezioni sul veicolo non puo' prendere posto, oltre al conducente, altra persona che non sia l'istruttore autorizzato ed abilitato. Nel caso di violazione della disposizione di cui al periodo precedente si applicano le sanzioni di cui all'[articolo 122, comma 9, del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
+Durante le lezioni sul veicolo non puo' prendere posto, oltre al conducente, altra persona che non sia l'istruttore autorizzato ed abilitato. Nel caso di violazione della disposizione di cui al periodo precedente si applicano le sanzioni di cui all'[articolo 122, comma 9, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 6.
 
@@ -480,11 +480,11 @@ Qualora ricorra l'ipotesi di cui all'articolo 2, comma 2, l'Ufficio della motori
 
 8.
 
-Oltre che nei casi previsti dall'[articolo 115, comma 1-sexies, del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), l'autorizzazione alla guida accompagnata e' revocata qualora, nel periodo di esercizio della stessa, la patente posseduta dal minore sia sospesa di validita' ovvero sia revocata. In tal caso il minore non puo' conseguire di nuovo l'autorizzazione di cui al comma 1.
+Oltre che nei casi previsti dall'[articolo 115, comma 1-sexies, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), l'autorizzazione alla guida accompagnata e' revocata qualora, nel periodo di esercizio della stessa, la patente posseduta dal minore sia sospesa di validita' ovvero sia revocata. In tal caso il minore non puo' conseguire di nuovo l'autorizzazione di cui al comma 1.
 
 9.
 
-Il rilascio dell'autorizzazione alla guida e' annotato nell'anagrafe nazionale degli abilitati alla guida di cui all'[articolo 225, comma 1, lettera c), del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), anche ai fini del controllo da parte delle forze dell'ordine su tutto il territorio nazionale, attraverso il collegamento telematico con l'anagrafe stessa.
+Il rilascio dell'autorizzazione alla guida e' annotato nell'anagrafe nazionale degli abilitati alla guida di cui all'[articolo 225, comma 1, lettera c), del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), anche ai fini del controllo da parte delle forze dell'ordine su tutto il territorio nazionale, attraverso il collegamento telematico con l'anagrafe stessa.
 
 Note all'art. 5: 
  - Per il testo dell'art. 115 del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), si veda nelle note alle premesse. 
@@ -499,7 +499,7 @@ I soggetti designati quali accompagnatori nell'autorizzazione alla guida accompa
 
 2.
 
-I soggetti di cui al comma 1, inoltre, non devono aver subito provvedimenti di sospensione della patente di guida, a titolo di sanzione amministrativa accessoria conseguente a violazione di norme del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), registrate nell'anagrafe nazionale degli abilitati alla guida negli ultimi cinque anni.
+I soggetti di cui al comma 1, inoltre, non devono aver subito provvedimenti di sospensione della patente di guida, a titolo di sanzione amministrativa accessoria conseguente a violazione di norme del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), registrate nell'anagrafe nazionale degli abilitati alla guida negli ultimi cinque anni.
 
 3.
 
@@ -507,7 +507,7 @@ Un soggetto gia' designato non puo' piu' accompagnare il minore nella guida acco
 
 4.
 
-In caso di violazione della presente disposizione si applicano le sanzioni previste dall'articolo 122, comma 8, primo e secondo periodo, del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
+In caso di violazione della presente disposizione si applicano le sanzioni previste dall'articolo 122, comma 8, primo e secondo periodo, del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 6: 
  - Per il testo dell'art. 122 del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), si veda nelle note alle premesse.
@@ -528,7 +528,7 @@ La persona che funge da accompagnatore, durante le esercitazioni di guida accomp
 
 4.
 
-Nel caso di violazione delle disposizioni di cui al presente articolo si applicano le sanzioni previste dall'articolo 180, comma 7, primo periodo, del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md). Si applicano altresi' le disposizioni dell'[articolo 180, comma 8, del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
+Nel caso di violazione delle disposizioni di cui al presente articolo si applicano le sanzioni previste dall'articolo 180, comma 7, primo periodo, del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Si applicano altresi' le disposizioni dell'[articolo 180, comma 8, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 7: 
  - Per il testo dell'art. 180 del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), si veda nelle note alle premesse.
@@ -541,7 +541,7 @@ Gli autoveicoli utilizzati per la guida accompagnata sono muniti, nella parte an
 
 2.
 
-In luogo del contrassegno di cui al comma 1, i veicoli delle autoscuole, o se del caso del centro di istruzione automobilistica, sono muniti della scritta «scuola guida», sia durante le lezioni di guida di cui al corso di formazione propedeutico di cui all'articolo 3, sia nelle ipotesi di cui all'articolo 5, comma 6. Nel caso di violazione delle disposizioni di cui al presente comma si applicano le sanzioni previste dall'[articolo 122, comma 9, del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
+In luogo del contrassegno di cui al comma 1, i veicoli delle autoscuole, o se del caso del centro di istruzione automobilistica, sono muniti della scritta «scuola guida», sia durante le lezioni di guida di cui al corso di formazione propedeutico di cui all'articolo 3, sia nelle ipotesi di cui all'articolo 5, comma 6. Nel caso di violazione delle disposizioni di cui al presente comma si applicano le sanzioni previste dall'[articolo 122, comma 9, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 Note all'art. 8: 
  - Per il testo dell'art. 122 del citato [decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285), si veda nelle note alle premesse.
@@ -550,7 +550,7 @@ Note all'art. 8:
 
 1.
 
-Qualora un candidato gia' titolare di autorizzazione alla guida accompagnata, presenti istanza per il conseguimento della patente di guida della categoria B o B speciale, entro sei mesi dal compimento della maggiore eta', le ore di corso pratico di guida di cui all'allegato 4, lettere C, D ed E, si computano ai fini dell'applicazione della disciplina di cui agli [articoli 122, comma 5-bis, del codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md).
+Qualora un candidato gia' titolare di autorizzazione alla guida accompagnata, presenti istanza per il conseguimento della patente di guida della categoria B o B speciale, entro sei mesi dal compimento della maggiore eta', le ore di corso pratico di guida di cui all'allegato 4, lettere C, D ed E, si computano ai fini dell'applicazione della disciplina di cui agli [articoli 122, comma 5-bis, del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 2.
 

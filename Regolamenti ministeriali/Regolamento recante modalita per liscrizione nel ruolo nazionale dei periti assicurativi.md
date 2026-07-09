@@ -394,7 +394,7 @@ Per i periti assicurativi il programma d'esame verte su nozioni giuridiche e mat
  In particolare le nozioni giuridiche riguardano:
  1) elementi di diritto e di procedura civile e penale;
  2) cenni di diritto e tecnica delle assicurazioni;
- 3) elementi di diritto della circolazione ([codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)).
+ 3) elementi di diritto della circolazione ([codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)).
  Le materie tecniche concernono:
  1) elementi di fisica e di meccanica;
  2) elementi di topografia e di fotogrammetria;
@@ -419,7 +419,7 @@ I candidati all'esame devono fornire la prova di avere la conoscenza teorica e p
  b) assicurazione obbligatoria r.c. auto e natanti: ([legge n. 990/1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969;990) e successive modifiche);
  c) assicurazione contro i danni: r.c. auto, furto e incendio;
  d) convenzione indennizzo diretto; accordo terzi estranei; accordo tamponamenti multipli.
- 3) Elementi di diritto della circolazione ([codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e della navigazione).
+ 3) Elementi di diritto della circolazione ([codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e della navigazione).
  MATERIE TECNICHE
  1) Elementi di fisica e di meccanica:
  a) Elementi di meccanica dei corpi rigidi:

@@ -14,7 +14,7 @@ di concerto con
 
 IL MINISTRO DELL'ECONOMIA E DELLE FINANZE
 
-Visto il [decreto legislativo 20 ottobre 1998, n. 368](../Decreti%20Legislativi/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -45,7 +45,7 @@ avvertenza:
  Nota al titolo:
  - Il testo dell'[art. 146 della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' riportato nelle note alle premesse.
  Note alle premesse:
- - Il [decreto legislativo 20 ottobre 1998, n. 368](../Decreti%20Legislativi/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante: "Istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)", e' pubblicato nella Gazzetta Ufficiale 26 ottobre 1998, n. 250.
+ - Il [decreto legislativo 20 ottobre 1998, n. 368](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante: "Istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)", e' pubblicato nella Gazzetta Ufficiale 26 ottobre 1998, n. 250.
  - Il testo del [comma 3 dell'art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.".

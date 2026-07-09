@@ -1051,7 +1051,7 @@ In mancanza di altro dipendente di ruolo, le funzioni di consegnatario dei beni 
 
 In caso di sostituzione del consegnatario, la consegna ha luogo previa materiale ricognizione dei beni. Il relativo verbale e' sottoscritto dal cessante e dal subentrante.
 
-3. Si applica, in quanto compatibile, il [decreto del Presidente della Repubblica 4 settembre 2002, n. 254](../DPR/Regolamento%20concernente%20le%20gestioni%20dei%20consegnatari%20e%20dei%20cassieri%20delle%20amministrazioni%20dello%20Stato.md).))
+3. Si applica, in quanto compatibile, il [decreto del Presidente della Repubblica 4 settembre 2002, n. 254](../Regolamenti%20governativi/Regolamento%20concernente%20le%20gestioni%20dei%20consegnatari%20e%20dei%20cassieri%20delle%20amministrazioni%20dello%20Stato.md).))
 
 ((1))
 

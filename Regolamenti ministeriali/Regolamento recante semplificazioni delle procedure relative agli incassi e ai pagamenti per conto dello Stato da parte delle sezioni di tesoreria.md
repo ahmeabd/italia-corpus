@@ -100,7 +100,7 @@ AVVERTENZA:
 
 1.
 
-L'[art. 370, sesto comma, del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_370-com6), come da ultimo modificato dal [decreto del Presidente della Repubblica 28 febbraio 1974, n. 119](../DPR/Modifica%20dellart.%20370%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto%2023%20maggio%201924%20n.%20827.md), e' cosi' sostituito:
+L'[art. 370, sesto comma, del regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827#art_370-com6), come da ultimo modificato dal [decreto del Presidente della Repubblica 28 febbraio 1974, n. 119](../Regolamenti%20governativi/Modifica%20dellart.%20370%20del%20regolamento%20per%20lamministrazione%20del%20patrimonio%20e%20per%20la%20contabilita%20generale%20dello%20Stato%20approvato%20con%20regio%20decreto%2023%20maggio%201924%20n.%20827.md), e' cosi' sostituito:
  "In caso di particolari esigenze connesse con il funzionamento del servizio di tesoreria, il Ministro del tesoro puo' consentire con proprio decreto che il pagamento diretto dello stipendio e degli altri assegni fissi e continuativi al personale statale, nonche' le relative operazioni di accreditamento conseguenti alla richiesta da parte del personale stesso delle modalita' agevolative di riscossione previste dal [decreto del Presidente della Repubblica 10 febbraio 1984, n. 21](../DPR/Modalita%20agevolative%20per%20la%20riscossione%20dei%20titoli%20di%20spesa%20dello%20Stato.md), abbiano inizio in data anteriore di non oltre sette giorni a quella di cui al comma 2".
 
 ## Art. 3.

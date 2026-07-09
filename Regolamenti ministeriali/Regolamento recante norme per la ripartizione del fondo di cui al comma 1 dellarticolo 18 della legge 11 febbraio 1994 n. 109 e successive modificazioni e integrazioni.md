@@ -24,7 +24,7 @@ Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 Visto il verbale dell'accordo raggiunto il 24 ottobre 2001 in sede di contrattazione decentrata di amministrazione con il quale sono stati stabiliti le modalita' ed i criteri di ripartizione del predetto fondo;
 
-Considerato che il Consiglio centrale della rappresentanza militare non ha espresso il proprio parere nel termine previsto dall'[articolo 38 del decreto del Presidente della Repubblica 4 novembre 1979, n. 691](../DPR/Regolamento%20che%20disciplina%20lattuazione%20della%20rappresentanza%20militare.md);
+Considerato che il Consiglio centrale della rappresentanza militare non ha espresso il proprio parere nel termine previsto dall'[articolo 38 del decreto del Presidente della Repubblica 4 novembre 1979, n. 691](../Regolamenti%20governativi/Regolamento%20che%20disciplina%20lattuazione%20della%20rappresentanza%20militare.md);
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva degli atti normativi nell'adunanza del 15 luglio 2002;
 

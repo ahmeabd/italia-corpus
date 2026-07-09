@@ -12,7 +12,7 @@ IL MINISTRO DELLA SANITA'
 
 Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), come modificata dalla [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441), concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande;
 
-Visti gli articoli 43, 44, 49 e 51 del relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md);
+Visti gli articoli 43, 44, 49 e 51 del relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md);
 
 Visto l'[art. 11 del decreto del Presidente della Repubblica 10 agosto 1972, n. 967](../DPR/Disciplina%20sanitaria%20della%20produzione%20e%20del%20commercio%20dei%20volatili%20dei%20conigli%20allevati%20e%20della%20selvaggina.md), sulla disciplina sanitaria della produzione e del commercio dei volatili, dei conigli allevati e della selvaggina;
 
@@ -95,7 +95,7 @@ Nota all'[art. 2:
 
 1.
 
-Ai fini del mantenimento delle condizioni di temperatura prescritte ai sensi dell'[art. 51, comma 1 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), i contenitori di cui all'art. 1 devono possedere le seguenti caratteristiche tecnico-costruttive:
+Ai fini del mantenimento delle condizioni di temperatura prescritte ai sensi dell'[art. 51, comma 1 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), i contenitori di cui all'art. 1 devono possedere le seguenti caratteristiche tecnico-costruttive:
                         a)
                             fra il rivestimento esterno e quello interno deve trovarsi materiale per coibentazione dello spessore minimo di 60 mm, avente un coefficiente di conducibilita' termica non superiore a 0,032 W/mK.
 Tale valore deve essere dedotto dalla tabella UNI 7357/74 con relativi aggiornamenti UNI FA 83 ed UNI FA 101, tenuto conto dei criteri correttivi, ovvero deve essere certificato da un laboratorio statale o da un laboratorio del Consiglio nazionale delle ricerche o dall'istituto sperimentale dell'Ente ferrovie dello Stato;
@@ -123,7 +123,7 @@ Nota all'[art. 3:
 1.
 
 I contenitori di cui all'art. 1 utilizzabili nell'ambito comunale, da parte degli esercizi di vendita di sole carni di volatili, conigli allevati e selvaggina, e degli esercizi di
-somministrazione di cui all'[art. 31 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), sono soggetti ad autorizzazione sanitaria, eventualmente sul prototipo, da parte dell'autorita' di cui all'[art. 44 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), che la rilascia secondo le modalita' di cui all'art. 45 dello stesso decreto.
+somministrazione di cui all'[art. 31 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), sono soggetti ad autorizzazione sanitaria, eventualmente sul prototipo, da parte dell'autorita' di cui all'[art. 44 del decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md), che la rilascia secondo le modalita' di cui all'art. 45 dello stesso decreto.
 
 2.
 

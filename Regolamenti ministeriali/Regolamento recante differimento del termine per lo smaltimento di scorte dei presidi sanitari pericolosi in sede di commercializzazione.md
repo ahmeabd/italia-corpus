@@ -14,7 +14,7 @@ Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Visto l'[art. 6 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_6), modificata dalla [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441);
 
-Visto il [decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../DPR/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), concernente il regolamento sui fitofarmaci e presidi delle derrate alimentari immagazzinate;
+Visto il [decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Regolamenti%20governativi/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md), concernente il regolamento sui fitofarmaci e presidi delle derrate alimentari immagazzinate;
 
 Visto il [decreto del Presidente della Repubblica 24 maggio 1988, n. 223](../DPR/Attuazione%20delle%20direttive%20CEE%20numeri%2078-631%2081-187%20e%2084-291%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20classificazione%20allimballaggio%20e%20alletichett_5434cd3355d3.md), concernente l'attuazione delle [direttive CEE numeri 78/631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;631), [81/187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1981;187) e [84/291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;291);
 

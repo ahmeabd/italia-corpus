@@ -20,7 +20,7 @@ Visto l'art. 21, lettere i) ed n), del regolamento di sicurezza per la navigazio
 
 Vista la regola 1, lettera e), parte A del regolamento internazionale del 1972 per prevenire gli abbordi in mare (Convention on the International Regulations for Preventing Collisions at Sea 1972 - COLREG '72), ratificato con [legge 27 dicembre 1977, n. 1085](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20regolamento%20internazionale%20del%201972%20per%20prevenire%20gli%20abbordi%20in%20mare%20con%20annessi%20firmata%20a%20Londra%20il%2020%20ottobre%201972.md), che da' facolta' ai Governi interessati di prescrivere, in sostituzione di quanto stabilito dalle pertinenti regole, altre disposizioni, con le stesse il meno possibile contrastanti;
 
-Visto l'[art. 13, primo comma, lettera c), del decreto del Presidente della Repubblica 14 novembre 1972, n. 1154](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare.md), che include le navi da diporto tra quelle destinate a servizi speciali;
+Visto l'[art. 13, primo comma, lettera c), del decreto del Presidente della Repubblica 14 novembre 1972, n. 1154](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare.md), che include le navi da diporto tra quelle destinate a servizi speciali;
 
 Considerato che alcune unita' da diporto di lunghezza non superiore a 50 metri, per le loro caratteristiche costruttive, non possono attenersi completamente alle Regole contenute nel citato Regolamento internazionale del 1972 per quanto riguarda la sistemazione dei fanali e le specifiche tecniche degli apparecchi di segnalazione sonora;
 

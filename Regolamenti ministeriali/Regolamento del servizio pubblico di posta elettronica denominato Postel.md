@@ -16,7 +16,7 @@ Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Pr
 
 Visto il regolamento per i servizi di telecomunicazione, approvato con [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
-Visto il regolamento di esecuzione dei libri primo e secondo del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md);
+Visto il regolamento di esecuzione dei libri primo e secondo del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md);
 
 Vista la convenzione internazionale delle telecomunicazioni adottata dall'U.I.T. (Unione internazionale delle telecomunicazioni) a Nairobi il 6 novembre 1982, resa esecutiva con [legge 9 maggio 1986, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md);
 

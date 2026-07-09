@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../DPR/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md), contenente la disciplina del procedimento di concessione di brevetto di nuove varieta' vegetali;
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md), contenente la disciplina del procedimento di concessione di brevetto di nuove varieta' vegetali;
 
 Considerata l'opportunita' di estendere le disposizioni recate dal citato [decreto del Presidente della Repubblica n. 974 del 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975;974) ad altri generi e specie botanici;
 

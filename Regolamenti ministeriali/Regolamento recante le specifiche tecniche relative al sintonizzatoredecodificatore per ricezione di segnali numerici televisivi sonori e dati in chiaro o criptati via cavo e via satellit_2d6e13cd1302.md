@@ -20,7 +20,7 @@ Vista la [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%2
 
 Vista la [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), concernente la disciplina del sistema radiotelevisivo pubblico e privato;
 
-Visto il regolamento di attuazione della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), approvato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../DPR/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md);
+Visto il regolamento di attuazione della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), approvato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md);
 
 Visto il decreto 28 agosto 1995, n. 548, concernente l'eliminazione dei disturbi radioelettrici per ricevitori di radiodiffusione sonora e televisiva;
 

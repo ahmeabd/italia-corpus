@@ -70,7 +70,7 @@ L'importo dei biglietti integrati, qualora non definito nell'ambito degli accord
 
 5-quater.
 
-Il Direttore generale Musei, sulla base delle indicazioni fornite dal Ministro, determina l'eventuale percentuale dei proventi dei biglietti da assegnare ai sensi dell'[articolo 103, comma 3, lettera d) del Codice dei beni culturali e del paesaggio](../Decreti%20Legislativi/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), per l'assistenza e la previdenza di pittori, scultori, musicisti, scrittori ed autori drammatici, nel limite massimo dello 0,50 per cento.
+Il Direttore generale Musei, sulla base delle indicazioni fornite dal Ministro, determina l'eventuale percentuale dei proventi dei biglietti da assegnare ai sensi dell'[articolo 103, comma 3, lettera d) del Codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), per l'assistenza e la previdenza di pittori, scultori, musicisti, scrittori ed autori drammatici, nel limite massimo dello 0,50 per cento.
 
 ---------------
 

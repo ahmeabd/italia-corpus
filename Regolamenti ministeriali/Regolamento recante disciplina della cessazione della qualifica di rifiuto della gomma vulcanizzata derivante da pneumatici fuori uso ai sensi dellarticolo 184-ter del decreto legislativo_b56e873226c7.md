@@ -16,7 +16,7 @@ E DEL MARE
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e, in particolare, il comma 2, il quale prevede che «I criteri di cui al comma 1 sono adottati in conformita' a quanto stabilito dalla disciplina comunitaria ovvero, in mancanza, di criteri comunitari, caso per caso per specifiche tipologie di rifiuto attraverso uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)»;
+Visto l'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e, in particolare, il comma 2, il quale prevede che «I criteri di cui al comma 1 sono adottati in conformita' a quanto stabilito dalla disciplina comunitaria ovvero, in mancanza, di criteri comunitari, caso per caso per specifiche tipologie di rifiuto attraverso uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)»;
 
 Visto il regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio approvato il 18 dicembre 2006;
 
@@ -44,11 +44,11 @@ Oggetto e finalita'
 
 1.
 
-Il presente regolamento stabilisce i criteri specifici nel rispetto dei quali la gomma vulcanizzata derivante da pneumatici fuori uso cessa di essere qualificata come rifiuto ai sensi e per gli effetti dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
+Il presente regolamento stabilisce i criteri specifici nel rispetto dei quali la gomma vulcanizzata derivante da pneumatici fuori uso cessa di essere qualificata come rifiuto ai sensi e per gli effetti dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 2.
 
-Le disposizioni del presente regolamento non si applicano alla gomma vulcanizzata qualificata come sottoprodotto ai sensi e per gli effetti dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md).
+Le disposizioni del presente regolamento non si applicano alla gomma vulcanizzata qualificata come sottoprodotto ai sensi e per gli effetti dell'[articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md).
 
 N O T E 
  
@@ -61,7 +61,7 @@ N O T E
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione. 
  (Omissis).». 
- - Si riporta il testo dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale), pubblicato nella Gazz. Uff. 14 aprile 2006, n. 88, S.O.: 
+ - Si riporta il testo dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale), pubblicato nella Gazz. Uff. 14 aprile 2006, n. 88, S.O.: 
  «Art. 184-ter (Cessazione della qualifica di rifiuto) . - 1. Un rifiuto cessa di essere tale, quando e' stato sottoposto a un'operazione di recupero, incluso il riciclaggio e la preparazione per il riutilizzo, e soddisfi i criteri specifici, da adottare nel rispetto delle seguenti condizioni: 
  a) la sostanza o l'oggetto sono destinati a essere utilizzati per scopi specifici; 
  b) esiste un mercato o una domanda per tale sostanza od oggetto; 
@@ -105,7 +105,7 @@ N O T E
 
 1.
 
-Ai fini del presente regolamento, si applicano le definizioni di cui all'[articolo 183 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), nonche' le seguenti:
+Ai fini del presente regolamento, si applicano le definizioni di cui all'[articolo 183 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), nonche' le seguenti:
                         a)
                             «pneumatici»: componenti delle ruote costituiti da un involucro prevalentemente in gomma e destinati a contenere fluidi;
                         b)
@@ -113,7 +113,7 @@ Ai fini del presente regolamento, si applicano le definizioni di cui all'[artico
                         c)
                             «gomma vulcanizzata»: la gomma derivante dalla frantumazione dei PFU e gli sfridi di gomma vulcanizzata, qualificati come rifiuto, provenienti sia dalla produzione di pneumatici nuovi che dall'attivita' di ricostruzione degli pneumatici;
                         d)
-                            «gomma vulcanizzata granulare (GVG)»: la gomma vulcanizzata che ha cessato di essere rifiuto a seguito di una o piu' operazioni di recupero di cui all'[articolo 184-ter, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e nel rispetto delle disposizioni del presente decreto;
+                            «gomma vulcanizzata granulare (GVG)»: la gomma vulcanizzata che ha cessato di essere rifiuto a seguito di una o piu' operazioni di recupero di cui all'[articolo 184-ter, comma 1, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e nel rispetto delle disposizioni del presente decreto;
                         e)
                             «lotto»: un quantitativo, non superiore a 1.000 tonnellate di gomma vulcanizzata granulare (GVG);
                         f)
@@ -121,7 +121,7 @@ Ai fini del presente regolamento, si applicano le definizioni di cui all'[artico
                         g)
                             «dichiarazione di conformita'»: dichiarazione sostitutiva dell'atto di notorieta' rilasciata dal produttore attestante le caratteristiche della gomma vulcanizzata granulare (GVG), di cui all'articolo 4;
                         h)
-                            «autorita' competente»: l'autorita' che rilascia l'autorizzazione ai sensi del titolo III-bis della parte II o del titolo I, capo IV, della parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), ovvero l'autorita' destinataria della comunicazione di cui all'articolo 216 del medesimo decreto.
+                            «autorita' competente»: l'autorita' che rilascia l'autorizzazione ai sensi del titolo III-bis della parte II o del titolo I, capo IV, della parte IV del [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), ovvero l'autorita' destinataria della comunicazione di cui all'articolo 216 del medesimo decreto.
 
 Note all'art. 2: 
  - Si riporta il testo dell'articolo 183 del citato [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152): 
@@ -165,7 +165,7 @@ Note all'art. 2:
  hh) "scarichi idrici": le immissioni di acque reflue di cui all'articolo 74, comma 1, lettera ff); 
  ii) "inquinamento atmosferico": ogni modifica atmosferica di cui all'articolo 268, comma 1, lettera a); 
  ll) "gestione integrata dei rifiuti": il complesso delle attivita', ivi compresa quella di spazzamento delle strade come definita alla lettera oo), volte ad ottimizzare la gestione dei rifiuti; 
- mm) "centro di raccolta": area presidiata ed allestita, senza nuovi o maggiori oneri a carico della finanza pubblica, per l'attivita' di raccolta mediante raggruppamento differenziato dei rifiuti urbani per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento. La disciplina dei centri di raccolta e' data con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza unificata, di cui al [decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md); 
+ mm) "centro di raccolta": area presidiata ed allestita, senza nuovi o maggiori oneri a carico della finanza pubblica, per l'attivita' di raccolta mediante raggruppamento differenziato dei rifiuti urbani per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento. La disciplina dei centri di raccolta e' data con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza unificata, di cui al [decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md); 
  nn) "migliori tecniche disponibili": le migliori tecniche disponibili quali definite all'articolo 5, comma 1, lett. l-ter) del presente decreto; 
  oo) "spazzamento delle strade": modalita' di raccolta dei rifiuti mediante operazione di pulizia delle strade, aree pubbliche e aree private ad uso pubblico escluse le operazioni di sgombero della neve dalla sede stradale e sue pertinenze, effettuate al solo scopo di garantire la loro fruibilita' e la sicurezza del transito; 
  pp) "circuito organizzato di raccolta": sistema di raccolta di specifiche tipologie di rifiuti organizzato dai Consorzi di cui ai titoli II e III della parte quarta del presente decreto e alla normativa settoriale, o organizzato sulla base di un accordo di programma stipulato tra la pubblica amministrazione ed associazioni imprenditoriali rappresentative sul piano nazionale, o loro articolazioni territoriali, oppure sulla base di una convenzione-quadro stipulata tra le medesime associazioni ed i responsabili della piattaforma di conferimento, o dell'impresa di trasporto dei rifiuti, dalla quale risulti la destinazione definitiva dei rifiuti. All'accordo di programma o alla convenzione-quadro deve seguire la stipula di un contratto di servizio tra il singolo produttore ed il gestore della piattaforma di conferimento, o dell'impresa di trasporto dei rifiuti, in attuazione del predetto accordo o della predetta convenzione; 
@@ -221,7 +221,7 @@ Criteri ai fini della cessazione della qualifica di rifiuto. Scopi specifici di 
 
 1.
 
-Ai fini dell'articolo 1 e ai sensi dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), la gomma vulcanizzata cessa di essere qualificata come rifiuto ed e' qualificata gomma vulcanizzata granulare (GVG) se e' conforme ai requisiti tecnici di cui all'allegato 1.
+Ai fini dell'articolo 1 e ai sensi dell'[articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), la gomma vulcanizzata cessa di essere qualificata come rifiuto ed e' qualificata gomma vulcanizzata granulare (GVG) se e' conforme ai requisiti tecnici di cui all'allegato 1.
 
 2.
 
@@ -289,7 +289,7 @@ Note all'art. 5:
 
 1.
 
-Ai fini dell'adeguamento ai criteri di cui al presente regolamento, il produttore, entro centoventi giorni dall'entrata in vigore dello stesso, presenta all'autorita' competente un aggiornamento della comunicazione effettuata ai sensi dell'[art. 216 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), o un'istanza di aggiornamento dell'autorizzazione ai sensi del titolo III-bis della parte II e del titolo I, capo IV, della parte IV del medesimo decreto legislativo.
+Ai fini dell'adeguamento ai criteri di cui al presente regolamento, il produttore, entro centoventi giorni dall'entrata in vigore dello stesso, presenta all'autorita' competente un aggiornamento della comunicazione effettuata ai sensi dell'[art. 216 del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), o un'istanza di aggiornamento dell'autorizzazione ai sensi del titolo III-bis della parte II e del titolo I, capo IV, della parte IV del medesimo decreto legislativo.
 
 2.
 

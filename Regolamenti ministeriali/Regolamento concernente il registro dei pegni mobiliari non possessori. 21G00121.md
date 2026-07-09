@@ -26,7 +26,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 3 novembre 2020;
 
-Sentito il Garante per la protezione dei dati personali, ai sensi dell'[articolo 154, comma 4, del Codice in materia di protezione dei dati personali](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), di cui al [decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196), che ha espresso parere all'adunanza del 21 giugno 2018;
+Sentito il Garante per la protezione dei dati personali, ai sensi dell'[articolo 154, comma 4, del Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), di cui al [decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196), che ha espresso parere all'adunanza del 21 giugno 2018;
 
 Acquisito il formale concerto del Ministero della giustizia;
 
@@ -86,7 +86,7 @@ NOTE
  «Art. 17 (Regolamenti). - (Omissis). 
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. 
  (Omissis).». 
- - Il testo dell'[art. 154, comma 4, del decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196#art_154-com4), recante «[Codice in materia di protezione dei dati personali](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)», e' il seguente: 
+ - Il testo dell'[art. 154, comma 4, del decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196#art_154-com4), recante «[Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)», e' il seguente: 
  «Art. 154 (Compiti). - (Omissis). 
  4. Il Garante collabora con altre autorita' amministrative indipendenti nazionali nello svolgimento dei rispettivi compiti. 
  (Omissis).». 

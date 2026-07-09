@@ -220,7 +220,7 @@ La revoca dell'agevolazione comporta per il beneficiario l'obbligo di rimborsare
 
 3.
 
-Nel caso in cui il beneficiario non ottemperi al versamento, il Gestore procede al recupero coattivo della somma da esso dovuta, avvalendosi anche della procedura di iscrizione a ruolo, ai sensi del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e del [decreto legislativo 26 febbraio 1999, n. 46](../Decreti%20Legislativi/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md).
+Nel caso in cui il beneficiario non ottemperi al versamento, il Gestore procede al recupero coattivo della somma da esso dovuta, avvalendosi anche della procedura di iscrizione a ruolo, ai sensi del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e del [decreto legislativo 26 febbraio 1999, n. 46](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md).
 
 ## Art. 8. — Risorse finanziarie del Fondo
 
