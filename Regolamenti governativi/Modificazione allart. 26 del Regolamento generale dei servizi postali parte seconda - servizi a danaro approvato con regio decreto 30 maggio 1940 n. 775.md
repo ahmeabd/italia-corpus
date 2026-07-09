@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
- Visto il [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), che approva il regolamento generale dei servizi postali (parte seconda - servizi a danaro), e successive modificazioni;
+ Visto il [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), che approva il regolamento generale dei servizi postali (parte seconda - servizi a danaro), e successive modificazioni;
  Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;
@@ -21,7 +21,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- L'art. 26 del regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e' sostituito dal seguente:
+ L'art. 26 del regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e' sostituito dal seguente:
  "La validita' delle tessere e' di cinque anni dal giorno dell'emissione. Le tessere scadute possono essere rinnovate, per una sola volta, da qualunque ufficio che sia autorizzato ad emetterne.
  La tassa per il rinnovo e' eguale a quella stabilita per la prima emissione ed anche le modalita' sono le stesse, fatta eccezione per quanto riguarda l'accertamento della identita' del titolare, la quale si intende comprovata senza altre formalita' quando la firma risultante dal documento scaduto sia uguale a quella che e' dal richiedente apposta sul nuovo e quando la fotografia esistente sul documento scaduto riproduca l'immagine del richiedente medesimo".
 

@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
-Visto l'[articolo 100 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto l'[articolo 100 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, ed in particolare l'articolo 256 e l'appendice XI;
 
@@ -57,7 +57,7 @@ Avvertenza:
  - L'[art. 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 12 settembre 1988, n. 214, cosi' recita:
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a) l'esecuzione delle leggi e dei decreti legislativi, nonche' dei regolamenti comunitari;".
- - L'[art. 100 del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) recante "Nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 18 maggio 1992, n. 114, cosi' recita:
+ - L'[art. 100 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) recante "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 18 maggio 1992, n. 114, cosi' recita:
  "Art. 100 (Targhe di immatricolazione degli autoveicoli, dei motoveicoli e dei rimorchi). - 1. Gli autoveicoli devono essere muniti, anteriormente e posteriormente, di una targa contenente i dati di immatricolazione.
  2. I motoveicoli devono essere muniti posteriormente di una targa contenente i dati di immatricolazione.
  3. I rimorchi devono essere muniti di una targa posteriore contenente i dati di immatricolazione.
@@ -74,9 +74,9 @@ Avvertenza:
  11. Chiunque viola le disposizioni dei commi 1, 2, 3, 4 e 9, lettera b) e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 74 a euro 296.
  12. Chiunque circola con un veicolo munito di targa non propria o contraffatta e' punito con la sanzione amministrativa del pagamento di una somma da euro 1.754 a euro 7.018.
  13. Chiunque viola le disposizioni dei commi 5 e 10 e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 22 a euro 88.
- 14. Chiunque falsifica, manomette o altera targhe automobilistiche ovvero usa targhe manomesse, falsificate o alterate e' punito ai sensi del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ 14. Chiunque falsifica, manomette o altera targhe automobilistiche ovvero usa targhe manomesse, falsificate o alterate e' punito ai sensi del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  15. Dalle violazioni di cui ai commi precedenti deriva la sanzione amministrativa accessoria del ritiro della targa non rispondente ai requisiti indicati. Alle violazioni di cui al comma 12 consegue la sanzione accessoria del fermo amministrativo del veicolo o, in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo. La durata del fermo amministrativo e' di tre mesi, salvo nei casi in cui tale sanzione accessoria e' applicata a seguito del ritiro della targa. Si osservano le norme di cui al capo I, sezione II, del titolo VI.".
- - L'art. 256 e l'appendice XI, come modificato dal presente regolamento, del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) recante: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 28 dicembre 1992, n. 303, cosi' recitano:
+ - L'art. 256 e l'appendice XI, come modificato dal presente regolamento, del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) recante: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 28 dicembre 1992, n. 303, cosi' recitano:
  "Art. 256 (Art. 100 Cod. Str.) (Definizione delle targhe di immatricolazione, ripetitrici, e di riconoscimento). - 1. Agli effetti del presente regolamento, si definiscono targhe d'immatricolazione:
  a) quelle posteriori ed anteriori degli autoveicoli, di cui all'art. 100, comma 1, del codice;
  b) quelle posteriori dei rimorchi, di cui all'art. 100, comma 3, del codice;
@@ -94,7 +94,7 @@ Avvertenza:
  a) quelle di cui devono essere munite le autovetture e gli autoveicoli ad uso promiscuo di cui all'art. 131, comma 2, del codice;
  b) quelle di cui devono essere muniti gli autoveicoli, i motoveicoli ed i rimorchi di cui all'art. 134, comma 1, del codice;
  c) i contrassegni di identificazione, di cui devono essere muniti i ciclomotori ai sensi dell'art. 97, comma 1, del codice.
- 4-bis. Fermo restando che anche ai fini dell'applicazione delle sanzioni previste dall'[art. 100, commi 11 e seguenti, del decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), i dati identificativi dei veicoli sono quelli stabiliti nell'appendice XII, alle targhe e' aggiunta la sigla di identificazione della provincia, come riportata nell'appendice XI al presente titolo.".
+ 4-bis. Fermo restando che anche ai fini dell'applicazione delle sanzioni previste dall'[art. 100, commi 11 e seguenti, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), i dati identificativi dei veicoli sono quelli stabiliti nell'appendice XII, alle targhe e' aggiunta la sigla di identificazione della provincia, come riportata nell'appendice XI al presente titolo.".
  "Appendice XI - Articoli 255 e 256
  (Sigle di individuazione degli uffici provinciali della M.C.T.C. e sigle di individuazione delle province
 

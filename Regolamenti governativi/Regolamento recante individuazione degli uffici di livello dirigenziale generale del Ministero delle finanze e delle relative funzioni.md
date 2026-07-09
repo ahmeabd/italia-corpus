@@ -20,7 +20,7 @@ Visto il regolamento concernente l'organizzazione della scuola centrale tributar
 
 Visto l'[art. 1, commi 10](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) e [11, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, ed in particolare l'art. 6, comma 1, primo periodo;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, ed in particolare l'art. 6, comma 1, primo periodo;
 
 Visto il [decreto del Ministro delle finanze 5 giugno 1995, n. 241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20listituzione%20del%20servizio%20per%20il%20controllo%20interno.md), recante il regolamento istitutivo del servizio per il controllo interno del Ministero delle finanze, adottato in applicazione dell'[art. 20, comma 2, del decreto legislativo n. 29 del 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29#art_20-com2);
 

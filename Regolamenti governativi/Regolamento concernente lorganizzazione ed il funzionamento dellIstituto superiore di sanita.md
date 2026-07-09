@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto l'[art. 2, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -28,7 +28,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-L'Istituto superiore di sanita' (I.S.S.), oltre alle funzioni di cui all'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
+L'Istituto superiore di sanita' (I.S.S.), oltre alle funzioni di cui all'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md):
                         a)
                             svolge attivita' di ricerca scientifica ai fini della tutela della salute pubblica;
                         b)
@@ -67,7 +67,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-Il direttore dell'Istituto stipula le convenzioni relative agli accordi previsti dal precedente articolo 1, comma 1, lettera i), indicando il responsabile scientifico dello studio o ricerca, sentita l'apposita commissione del comitato scientifico ai sensi dell'[articolo 2, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), secondo criteri stabiliti dal comitato amministrativo, sentito il comitato scientifico.
+Il direttore dell'Istituto stipula le convenzioni relative agli accordi previsti dal precedente articolo 1, comma 1, lettera i), indicando il responsabile scientifico dello studio o ricerca, sentita l'apposita commissione del comitato scientifico ai sensi dell'[articolo 2, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), secondo criteri stabiliti dal comitato amministrativo, sentito il comitato scientifico.
 
 2.
 
@@ -96,7 +96,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-L'Istituto ha facolta' di conferire incarichi o affidare servizi a soggetti idoneamente qualificati, scelti tra persone anche estranee alla pubblica amministrazione, ovvero di cittadinanza straniera, per l'attuazione dei programmi scientifici di cui agli accordi di collaborazione del precedente articolo, nonche' per la realizzazione dei progetti d'interesse nazionale di cui all'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e degli altri programmi di ricerca finalizzata, individuati dal comitato scientifico ai sensi dell'art. 7, comma 5, lettera a), del presente regolamento.
+L'Istituto ha facolta' di conferire incarichi o affidare servizi a soggetti idoneamente qualificati, scelti tra persone anche estranee alla pubblica amministrazione, ovvero di cittadinanza straniera, per l'attuazione dei programmi scientifici di cui agli accordi di collaborazione del precedente articolo, nonche' per la realizzazione dei progetti d'interesse nazionale di cui all'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e degli altri programmi di ricerca finalizzata, individuati dal comitato scientifico ai sensi dell'art. 7, comma 5, lettera a), del presente regolamento.
 
 2.
 
@@ -104,7 +104,7 @@ Le prestazioni di cui al precedente comma sono espletate senza vincolo di subord
 
 3.
 
-Le somme necessarie alla retribuzione degli incarichi di cui al presente articolo sono interamente a carico dei contributi accreditati all'Istituto superiore di sanita' nell'ambito degli accordi di collaborazione di cui al precedente art. 2, ovvero dei fondi di cui all'[art. 18 della legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559#art_18), nonche' dei fondi all'uopo stanziati dall'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Le somme necessarie alla retribuzione degli incarichi di cui al presente articolo sono interamente a carico dei contributi accreditati all'Istituto superiore di sanita' nell'ambito degli accordi di collaborazione di cui al precedente art. 2, ovvero dei fondi di cui all'[art. 18 della legge 23 dicembre 1993, n. 559](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-23;559#art_18), nonche' dei fondi all'uopo stanziati dall'[art. 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 4.
 
@@ -326,7 +326,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-L'ufficio di direttore dell'Istituto e' conferito, ai sensi e con le modalita' di cui all'[art. 21 del decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ad una personalita' scientifica, con esperienza nei settori di competenza dell'Istituto stesso.
+L'ufficio di direttore dell'Istituto e' conferito, ai sensi e con le modalita' di cui all'[art. 21 del decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), ad una personalita' scientifica, con esperienza nei settori di competenza dell'Istituto stesso.
 
 2.
 
@@ -352,7 +352,7 @@ Il direttore dell'Istituto:
                         f)
                             predispone, entro il primo semestre dell'anno successivo, una relazione sull'attivita' svolta dall'Istituto nell'anno precedente; 
  h) esercita ogni altro potere di gestione non espressamente attribuito ad altri organi dell'Istituto; 
- i) conferisce gli incarichi di direttore dei dipartimenti, sentito il comitato scientifico, e di direttore dei laboratori, dei servizi tecnici, di reparto e di ogni altra struttura interna, ai sensi degli articoli 35, 36 e 37 della legge 7 agosto l973, n. 519, fatto salvo quanto previsto dall'[art. 19 del decreto legislativo 2 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-02;29#art_19), cosi' come modificato dall'[art. 11 del decreto legislativo 23 dicembre 1993, n. 546](../Decreti%20Legislativi/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
+ i) conferisce gli incarichi di direttore dei dipartimenti, sentito il comitato scientifico, e di direttore dei laboratori, dei servizi tecnici, di reparto e di ogni altra struttura interna, ai sensi degli articoli 35, 36 e 37 della legge 7 agosto l973, n. 519, fatto salvo quanto previsto dall'[art. 19 del decreto legislativo 2 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-02;29#art_19), cosi' come modificato dall'[art. 11 del decreto legislativo 23 dicembre 1993, n. 546](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md).
 
 5.
 
@@ -444,10 +444,10 @@ Le maggiori entrate e le economie di spesa risultanti alla chiusura di ciascun e
 
 L'Istituto provvede all'autonoma gestione delle entrate derivanti dalle seguenti voci:
                         a)
-                            tariffe dei servizi a pagamento resi dall'Istituto ai sensi dell'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+                            tariffe dei servizi a pagamento resi dall'Istituto ai sensi dell'[art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         b)
-                            quote di cui all'[art. 12, comma 2, lettera a), del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 
-14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Decreti%20Legislativi/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+                            quote di cui all'[art. 12, comma 2, lettera a), del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), cosi' come modificato dall'[art. 
+14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modificazioni%20al%20decreto%20legislativo%2030%20dicembre%201992%20n.%20502%20recante%20riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         c)
                             proventi dei contratti di licenza di sfruttamento di brevetti per invenzioni industriali, per modelli di utilita' e per le cessioni di "know-how" i cui diritti economici appartengono all'Istituto;
                         d)
@@ -467,7 +467,7 @@ L'istituto, inoltre, provvede all'autonoma gestione delle spese derivanti dalle 
                         d)
                             spese per liti;
                         e)
-                            i contributi di cui all'[art. 1, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+                            i contributi di cui all'[art. 1, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         f)
                             ogni eventuale spesa idonea per realizzare i compiti dell'Istituto. ((1))
 
@@ -482,7 +482,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-Gli impegni di spesa sono assunti dai dirigenti amministrativi secondo la rispettiva competenza sulla base delle assegnazioni disposte dal direttore dell'Istituto ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Gli impegni di spesa sono assunti dai dirigenti amministrativi secondo la rispettiva competenza sulla base delle assegnazioni disposte dal direttore dell'Istituto ai sensi del [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 2.
 
@@ -598,7 +598,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-L'Istituto rende a pagamento servizi inerenti alle proprie funzioni. I predetti servizi e le relative tariffe sono determinati con provvedimento del Ministro della sanita', le tariffe devono essere non inferiori ai costi complessivi della prestazione, cosi' come disposto dall'[art. 2, comma 2, lettera g), del decreto legislativo 30 giugno 1993, n. 267](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+L'Istituto rende a pagamento servizi inerenti alle proprie funzioni. I predetti servizi e le relative tariffe sono determinati con provvedimento del Ministro della sanita', le tariffe devono essere non inferiori ai costi complessivi della prestazione, cosi' come disposto dall'[art. 2, comma 2, lettera g), del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
@@ -843,7 +843,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](../Decreti%20Legislativi/Riorganizzazione%20d
 
 1.
 
-A norma di quanto previsto dall'[art. 2, comma 3, del decreto legislativo 30 giugno 1993, n. 267](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), l'Istituto superiore di sanita' resta disciplinato dalle seguenti disposizioni: 
+A norma di quanto previsto dall'[art. 2, comma 3, del decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), l'Istituto superiore di sanita' resta disciplinato dalle seguenti disposizioni: 
  articoli 2, 3, 10 (ad eccezione del comma 3, n. 4, abrogato), 11, 15, 17, 18, 24, 25, 35, 36, 50, 51, 62 della [legge 7 agosto 1973, n. 519](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-07;519), concernente: "Modifiche ai compiti, all'ordinamento ed alle strutture dell'Istituto superiore di sanita'"; 
  [art. 8 della legge 6 dicembre 1964, n. 1332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-06;1332#art_8), concernente l'ospitalita' presso l'Istituto superiore di sanita'; 
  [art. 9 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_9), concernente l'istituzione del Servizio sanitario nazionale; 

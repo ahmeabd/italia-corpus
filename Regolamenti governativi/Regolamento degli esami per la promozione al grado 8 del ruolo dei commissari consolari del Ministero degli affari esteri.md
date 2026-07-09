@@ -10,15 +10,15 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
-Visto l'art. 18 del regolamento approvato con [regio decreto 20 marzo 1924, n. 385](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20attribuzioni%20dei%20Commissari%20consolari.%20024U0385.md) e concernente l'ordinamento e le attribuzioni dei commissari consolari;
+Visto l'art. 18 del regolamento approvato con [regio decreto 20 marzo 1924, n. 385](../Regi%20decreti/Ordinamento%20e%20attribuzioni%20dei%20Commissari%20consolari.%20024U0385.md) e concernente l'ordinamento e le attribuzioni dei commissari consolari;
 
-Visto il [regio decreto 20 novembre 1930, n. 1482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md), contenente norme per gli esami di promozione nei ruoli del personale civile di gruppo A;
+Visto il [regio decreto 20 novembre 1930, n. 1482](../Regi%20decreti/Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md), contenente norme per gli esami di promozione nei ruoli del personale civile di gruppo A;
 
-Visto il [regio decreto 11 luglio 1941, n. 832](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ruolo%20dei%20commissari%20consolari.%20041U0832.md), concernente il ruolo dei commissari consolari
+Visto il [regio decreto 11 luglio 1941, n. 832](../Regi%20decreti/Ruolo%20dei%20commissari%20consolari.%20041U0832.md), concernente il ruolo dei commissari consolari
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

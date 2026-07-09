@@ -26,7 +26,7 @@ Viste le disposizioni dell'[articolo 1, commi 8](../Leggi%20finanziarie%20e%20di
 
 Vista la Convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS 74/78), firmata a Londra il 1 novembre 1974, resa esecutiva con [legge 23 maggio 1980, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;313), e con [legge 4 giugno 1982, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-06-04;488), che ha approvato il successivo protocollo del 17 febbraio 1978, e successivi emendamenti;
 
-Vista la Convenzione internazionale per la prevenzione dall'inquinamento causato da navi (MARPOL 73/78), firmata a Londra il 2 novembre 1973, emendata con il protocollo adottato a Londra il 17 febbraio 1978, ratificata con [legge 29 settembre 1980, n. 662](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20prevenzione%20dellinquinamento%20causato%20da%20navi%20e%20del%20protocollo%20sullintervento%20in%20alto%20mare%20in%20caso%20di%20inquinamento%20causato%20da_d57208fb4996.md), e, per quanto riguarda il protocollo, con [legge 4 giugno 1982, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-06-04;438), entrata in vigore in Italia il 2 ottobre 1983, e successivi emendamenti;
+Vista la Convenzione internazionale per la prevenzione dall'inquinamento causato da navi (MARPOL 73/78), firmata a Londra il 2 novembre 1973, emendata con il protocollo adottato a Londra il 17 febbraio 1978, ratificata con [legge 29 settembre 1980, n. 662](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20per%20la%20prevenzione%20dellinquinamento%20causato%20da%20navi%20e%20del%20protocollo%20sullintervento%20in%20alto%20mare%20in%20caso%20di%20inquinamento%20causato%20da_d57208fb4996.md), e, per quanto riguarda il protocollo, con [legge 4 giugno 1982, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-06-04;438), entrata in vigore in Italia il 2 ottobre 1983, e successivi emendamenti;
 
 Vista la risoluzione OMI A.648(16) recante principi generali dei sistemi di rapporto e delle prescrizioni per la compilazione dei rapporti, che comprende le linee guida, per rapportare gli incidenti in cui sono coinvolte le merci pericolose, le sostanze nocive e/o le sostanze inquinanti marine, adottata nel corso della XVI assemblea dell'Organizzazione marittima internazionale (OMI) il 19 ottobre 1989;
 
@@ -159,7 +159,7 @@ L'agente marittimo di una nave proveniente da un porto extracomunitario e dirett
 
 3.
 
-Il comandante della nave allega alla nota informativa di cui all'[articolo 179 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'elenco di controllo per le navi di cui all'allegato II. Tale elenco e' messo a disposizione del pilota al momento del suo imbarco.
+Il comandante della nave allega alla nota informativa di cui all'[articolo 179 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'elenco di controllo per le navi di cui all'allegato II. Tale elenco e' messo a disposizione del pilota al momento del suo imbarco.
 
 4.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 11 febbraio 1941, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md);
+Visto il [regio decreto 11 febbraio 1941, n. 229](../Regi%20decreti/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md);
 
 Vista la [legge 15 dicembre 1955, n. 1440](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md);
 
@@ -37,7 +37,7 @@ Ritenuta la necessita' di emanare le norme per lo svolgimento; degli esami di ab
 ## Art. 1.
 
 L'abilitazione all'esercizio professionale dell'insegnamento nella scuola media, istituita con la [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859), si consegue per esame di Stato con l'osservanza delle norme stabilite dal [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), salvo quanto e' diversamente disposto dal presente decreto.
- Sono abolite le classi di concorso a cattedre di cui alle tabelle annesse al [regio decreto 11 febbraio 1941, n. 229](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md), nonche' le classi e sottoclassi di esami di abilitazione di cui alla tabella A annessa al [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), che si riferiscono alle scuole secondarie di avviamento professionale e alla scuola media secondo l'ordinamento precedente a quello previsto dalla [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859).
+ Sono abolite le classi di concorso a cattedre di cui alle tabelle annesse al [regio decreto 11 febbraio 1941, n. 229](../Regi%20decreti/Approvazione%20delle%20nuove%20tabelle%20delle%20classi%20di%20concorsi%20-%20esami%20di%20Stato%20per%20linsegnamento%20negli%20Istituti%20dellOrdine%20medio%20e%20dellOrdine%20superiore%20classico%20e%20tecnico%20dei%20titoli%20dammissio_2846c2e85547.md), nonche' le classi e sottoclassi di esami di abilitazione di cui alla tabella A annessa al [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), che si riferiscono alle scuole secondarie di avviamento professionale e alla scuola media secondo l'ordinamento precedente a quello previsto dalla [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1859).
  Le abilitazioni che si conseguono per le restanti classi e sottoclassi di esame, di cui alla medesima tabella A annessa al [decreto del Presidente della Repubblica 29 aprile 1957, n. 972](Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20degli%20esami%20di%20Stato%20per%20labilitazione%20allesercizio%20professionale%20dellinsegnamento%20medio.md), non estendono la propria validita' agli insegnamenti impartiti nella scuola media.
 
 ## Art. 2.
@@ -56,7 +56,7 @@ Le Commissioni giudicatrici per le classi di esami di abilitazione di cui alla l
 
 ## Art. 4.
 
-Per lo svolgimento degli esami di concorso a cattedre di cui alla lettera a) del precedente art. 2 sono valide le norme generali contenute nel [regio decreto 9 dicembre 1926, n. 2480](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md), e successive modificazioni.
+Per lo svolgimento degli esami di concorso a cattedre di cui alla lettera a) del precedente art. 2 sono valide le norme generali contenute nel [regio decreto 9 dicembre 1926, n. 2480](../Regi%20decreti/Regolamento%20per%20i%20concorsi%20a%20cattedre%20nei%20Regi%20istituti%20medi%20distruzione%20e%20per%20le%20abilitazioni%20allesercizio%20professionale%20dellinsegnamento%20medio.%20026U2480.md), e successive modificazioni.
 
 Disposizioni transitorie
 

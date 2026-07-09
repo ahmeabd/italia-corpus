@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il regio decreto 13 novembre 1924, che approva il regolamento di disciplina per i Corpi militari della Marina, e successive modificazioni;
 
-Visto il [regio decreto 24 agosto 1941, n. 1236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md) che approva il regolamento per i documenti matricolari e caratteristici del personale militare della Marina, e successive modificazioni;
+Visto il [regio decreto 24 agosto 1941, n. 1236](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md) che approva il regolamento per i documenti matricolari e caratteristici del personale militare della Marina, e successive modificazioni;
 
 Vista la [legge 31 ottobre 1955, n. 1064](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-10-31;1064), recante disposizioni relative alle generalita' in estratti, atti e documenti, e modificazioni all'ordinamento dello stato civile;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-Al regolamento per i documenti matricolari e caratteristici del personale militare della Marina, approvato con [regio decreto 24 agosto 1941, n. 1236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md), e successive modificazioni, sono apportate le seguenti modifiche.
+Al regolamento per i documenti matricolari e caratteristici del personale militare della Marina, approvato con [regio decreto 24 agosto 1941, n. 1236](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md), e successive modificazioni, sono apportate le seguenti modifiche.
 
  I. - L'art. 6 e' cosi' sostituito:
 "Rilascio, conservazione e ritiro dei libretti personali degli ufficiali".
@@ -96,7 +96,7 @@ Al regolamento per i documenti matricolari e caratteristici del personale milita
 
  IX. - Gli articoli 61 e 63 sono abrogati.
 
- X. - Il modello 12 allegato al regolamento approvato con [regio decreto 24 agosto 1941, n. 1236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md), e' sostituito da quello annesso al presente decreto.
+ X. - Il modello 12 allegato al regolamento approvato con [regio decreto 24 agosto 1941, n. 1236](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md), e' sostituito da quello annesso al presente decreto.
  Il modello 13 e' soppresso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il proprio decreto 15 febbraio 1952, n. 328, che approva il regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
+Visto il proprio decreto 15 febbraio 1952, n. 328, che approva il regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
 
 Visto il proprio decreto 4 settembre 1980, n. 896, con il quale sono state apportate alcune modifiche a detto regolamento;
 
@@ -28,7 +28,7 @@ EMANA il seguente decreto:
 
 1.
 
-Gli articoli 99, 102, 109 e 122 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e modificato con [decreto del Presidente della Repubblica 4 settembre 1980, n. 896](Modificazioni%20agli%20articoli%2099%20101%20102%20104%20105%20106%20107%20108%20110%20111%20112%20113%20114%20115%20116%20120%20121%20122%20123%20124%20126%20130%20133%20e%20134%20del%20regolamento%20per%20lesecuzione%20del%20codice%20della%20navigazione%20n_bf7bc3092a90.md), sono sostituiti dai seguenti:
+Gli articoli 99, 102, 109 e 122 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e modificato con [decreto del Presidente della Repubblica 4 settembre 1980, n. 896](Modificazioni%20agli%20articoli%2099%20101%20102%20104%20105%20106%20107%20108%20110%20111%20112%20113%20114%20115%20116%20120%20121%20122%20123%20124%20126%20130%20133%20e%20134%20del%20regolamento%20per%20lesecuzione%20del%20codice%20della%20navigazione%20n_bf7bc3092a90.md), sono sostituiti dai seguenti:
  "Art. 99 (Navi destinate al pilotaggio ed uso di altri mezzi). - Per la esplicazione del servizio di pilotaggio ogni corporazione deve essere provvista, ai sensi dell'art. 110, di navi determinate nel numero, nel tipo e nelle caratteristiche dai regolamenti locali di pilotaggio.
  Le navi di cui al precedente comma sono condotte dai piloti effettivi delle corporazioni o da marittimi in possesso almeno del titolo professionale di conduttore per il traffico locale.
  In caso di necessita' e in via temporanea il comandante del porto puo' autorizzare la corporazione a prendere le navi predette od altro mezzo idoneo in locazione".

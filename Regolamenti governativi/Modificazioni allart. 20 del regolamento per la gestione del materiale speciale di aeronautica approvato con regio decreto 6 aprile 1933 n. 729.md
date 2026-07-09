@@ -16,7 +16,7 @@ Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20dis
 
 Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), e successive modificazioni;
 
-Visto il regolamento per la gestione del materiale speciale di aeronautica, approvato con [regio decreto 6 aprile 1933, n. 729](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20gestione%20del%20materiale%20speciale%20aeronautico.%20033U0729.md);
+Visto il regolamento per la gestione del materiale speciale di aeronautica, approvato con [regio decreto 6 aprile 1933, n. 729](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20gestione%20del%20materiale%20speciale%20aeronautico.%20033U0729.md);
 
 Vista la [legge 8 giugno 1961, n. 509](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellAeronautica%20militare.md), recante modifiche all'ordinamento dell'Aeronautica militare;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la difesa di concerto con il Ministro per il tes
 
 ## Articolo unico.
 
-Il secondo comma dell'art. 20 del regolamento per la gestione del materiale speciale di aeronautica, approvato con [regio decreto 6 aprile 1933, n. 729](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20gestione%20del%20materiale%20speciale%20aeronautico.%20033U0729.md), e' sostituito dal seguente:
+Il secondo comma dell'art. 20 del regolamento per la gestione del materiale speciale di aeronautica, approvato con [regio decreto 6 aprile 1933, n. 729](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20gestione%20del%20materiale%20speciale%20aeronautico.%20033U0729.md), e' sostituito dal seguente:
  "Tutte le contabilita' devono essere trasmesse al Ministero o alle Direzioni territoriali presso i Comandi di regione nel termine di ottanta giorni dalla chiusura di ogni esercizio finanziario".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

@@ -26,7 +26,7 @@ Visto il [decreto del Presidente della Repubblica 29 maggio 1963, n. 1497](Appro
 
 Visto l'[articolo 2 del decreto-legge 30 giugno 1982, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-06-30;390#art_2), convertito, con modificazioni, dalla [legge 12 agosto 1982, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%201982%20n.%20390%20recante%20disciplina%20delle%20funzioni%20prevenzionali%20ed%20omologative%20delle%20unita%20sanitarie%20locali%20e%20dellIstituto%20s_b3d6948d0cec.md);
 
-Visto il [decreto legislativo 30 giugno 1993, n. 268](../Decreti%20Legislativi/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 30 giugno 1993, n. 268](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20prevenzione%20e%20sicurezza%20del%20lavoro%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 441](Regolamento%20concernente%20lorganizzazione%20il%20funzionamento%20e%20la%20disciplina%20delle%20attivita%20relative%20ai%20compiti%20dellISPESL%20in%20attuazione%20dellart.%202%20comma%202%20del%20decreto%20legislativo%2030%20giugno%201993%20n.%20268.md);
 
@@ -36,7 +36,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 settembre 1998;
 
-Sentita la conferenza unificata ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Sentita la conferenza unificata ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Acquisito il parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati;
 
@@ -1151,7 +1151,7 @@ E', inoltre, vietato l'uso degli ascensori a cabine multiple a moto continuo ai 
 
 3.
 
-Resta fermo il divieto di occupazione dei fanciulli e delle donne minorenni in lavori di manovra degli ascensori, montacarichi ed apparecchi di sollevamento a trazione meccanica, ai sensi della voce 69, della tabella A annessa al [regio decreto 7 agosto 1936, n. 1720](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tabelle%20indicanti%20i%20lavori%20per%20i%20quali%20e%20vietata%20loccupazione%20dei%20fanciulli%20e%20delle%20donne%20minorenni%20e%20quelli%20per%20i%20quali%20ne%20e%20consentita%20loccupazione%20con%20le%20cautele%20e%20l_fb513707d645.md).
+Resta fermo il divieto di occupazione dei fanciulli e delle donne minorenni in lavori di manovra degli ascensori, montacarichi ed apparecchi di sollevamento a trazione meccanica, ai sensi della voce 69, della tabella A annessa al [regio decreto 7 agosto 1936, n. 1720](../Regi%20decreti/Approvazione%20delle%20tabelle%20indicanti%20i%20lavori%20per%20i%20quali%20e%20vietata%20loccupazione%20dei%20fanciulli%20e%20delle%20donne%20minorenni%20e%20quelli%20per%20i%20quali%20ne%20e%20consentita%20loccupazione%20con%20le%20cautele%20e%20l_fb513707d645.md).
 
 ### Art. 17-bis. — (( (Accordo preventivo per installazione di impianti di ascensori in deroga). ))
 

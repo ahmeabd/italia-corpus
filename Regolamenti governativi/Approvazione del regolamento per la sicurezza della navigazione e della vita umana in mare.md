@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616#art_7) e [35, lettera a), della legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-05;616#art_35-leta);
 
-Visto l'art. 1, lettera b), dell'allegato A all'atto finale della convenzione internazionale per la salvaguardia della vita umana in mare firmata a Londra il 17 giugno 1960 e resa esecutiva con [legge 26 maggio 1966, n. 538](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20per%20la%20salvaguardia%20della%20vita%20umana%20in%20mare%20firmata%20a%20Londra%20il%2017%20giugno%201960.md);
+Visto l'art. 1, lettera b), dell'allegato A all'atto finale della convenzione internazionale per la salvaguardia della vita umana in mare firmata a Londra il 17 giugno 1960 e resa esecutiva con [legge 26 maggio 1966, n. 538](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20per%20la%20salvaguardia%20della%20vita%20umana%20in%20mare%20firmata%20a%20Londra%20il%2017%20giugno%201960.md);
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

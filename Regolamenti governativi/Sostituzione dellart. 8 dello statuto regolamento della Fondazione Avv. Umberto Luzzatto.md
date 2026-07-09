@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 N. 658 Decreto del Presidente della Repubblica 29 luglio 1949, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, l'art. 8 dello statuto regolamento della Fondazione "Avv.
- Umberto Luzzatto" modificato con il [regio decreto 19 ottobre 1938, n. 1667](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellart.%208%20dello%20statuto-regolamento%20della%20Fondazione%20Avv.%20Umberto%20Luzzatto%20in%20Venezia.%20038U1667.md) viene sostituito.
+ Umberto Luzzatto" modificato con il [regio decreto 19 ottobre 1938, n. 1667](../Regi%20decreti/Modificazione%20dellart.%208%20dello%20statuto-regolamento%20della%20Fondazione%20Avv.%20Umberto%20Luzzatto%20in%20Venezia.%20038U1667.md) viene sostituito.
 
 Visto, il Guardasigilli GRASSI
  Registrato alla Corte dei conti, addi' 8 settembre 1949

@@ -14,9 +14,9 @@ Veduto il [regio decreto 6 maggio 1923, n. 1054](../Regi%20decreti/Relativo%20al
 
 Veduto il [regio decreto 1 settembre 1925, n. 2009](../Regi%20decreti/Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md);
 
-Veduto il [regio decreto 23 dicembre 1929, n. 2392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20029U2392.md);
+Veduto il [regio decreto 23 dicembre 1929, n. 2392](../Regi%20decreti/Riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20029U2392.md);
 
-Veduto il [regio decreto 1 ottobre 1931, n. 1312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md);
+Veduto il [regio decreto 1 ottobre 1931, n. 1312](../Regi%20decreti/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md);
 
 Veduto il [regio decreto 27 ottobre 1932, n. 1437](../Regi%20decreti/Modificazione%20dellart.%20174%20del%20regolamento%201%20settembre%201925%20n.%202009%20per%20i%20Convitti%20nazionali.%20032U1437.md);
 
@@ -26,9 +26,9 @@ Veduto il [regio decreto-legge 18 maggio 1924, n. 848](../Atti%20normativi%20abr
 
 Veduto il [regio decreto-legge 5 aprile 1925, n. 559](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20posti%20gratuiti%20presso%20il%20Convitto%20Silvio%20Pellico%20in%20Ala.%20025U0559.md);
 
-Veduto il [regio decreto 31 marzo 1927, n. 622](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20posti%20gratuiti%20presso%20il%20Regio%20conservatorio%20di%20SantElisabetta%20in%20Barga%20027U0622.md);
+Veduto il [regio decreto 31 marzo 1927, n. 622](../Regi%20decreti/Istituzione%20di%20posti%20gratuiti%20presso%20il%20Regio%20conservatorio%20di%20SantElisabetta%20in%20Barga%20027U0622.md);
 
-Veduto il [regio decreto 27 maggio 1929, n. 1248](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riduzione%20e%20trasformazione%20di%20posti%20gratuiti%20in%20alcuni%20istituti%20di%20educazione%20femminile%20e%20soppressione%20di%20posti%20semigratuiti.%20029U1248.md);
+Veduto il [regio decreto 27 maggio 1929, n. 1248](../Regi%20decreti/Riduzione%20e%20trasformazione%20di%20posti%20gratuiti%20in%20alcuni%20istituti%20di%20educazione%20femminile%20e%20soppressione%20di%20posti%20semigratuiti.%20029U1248.md);
 
 Veduta la [legge 27 giugno 1961, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-27;549);
 

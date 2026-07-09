@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) della Repubblica;
 
-Vista la [legge 4 agosto 1955, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;727), relativa alla esecuzione della Convenzione internazionale n. 69, concernente il diploma di capacita' professionale dei cuochi di bordo adottata a Seattle il 27 giugno 1946, ratificata e resa esecutiva con la [legge 2 agosto 1952, n. 1305](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md);
+Vista la [legge 4 agosto 1955, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;727), relativa alla esecuzione della Convenzione internazionale n. 69, concernente il diploma di capacita' professionale dei cuochi di bordo adottata a Seattle il 27 giugno 1946, ratificata e resa esecutiva con la [legge 2 agosto 1952, n. 1305](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20di%20ventisette%20convenzioni%20internazionali%20del%20lavoro.md);
 
 Udito il parere del Consiglio di Stato;
 

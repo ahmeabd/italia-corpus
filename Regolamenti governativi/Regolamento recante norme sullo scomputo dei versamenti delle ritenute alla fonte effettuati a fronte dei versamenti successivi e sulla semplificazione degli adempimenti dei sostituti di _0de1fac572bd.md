@@ -58,7 +58,7 @@ Sull'eccedenza computata in diminuzione dei versamenti non competono interessi. 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](../Decreti%20Legislativi/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 15, comma 1, alinea) che la presente modifica si applica a decorrere dal 1° gennaio 2015.
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 15, comma 1, alinea) che la presente modifica si applica a decorrere dal 1° gennaio 2015.
 
 ## Art. 2. — Semplificazione degli adempimenti
  di alcuni sostituti di imposta

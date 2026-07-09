@@ -16,13 +16,13 @@ Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20dis
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, e successive modificazioni;
 
-Visto il [regio decreto 20 ottobre 1924, n. 1796](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md), che approva il regolamento per le gestioni affidate ai consegnatari cassieri delle amministrazioni centrali dello Stato, e successive modificazioni;
+Visto il [regio decreto 20 ottobre 1924, n. 1796](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md), che approva il regolamento per le gestioni affidate ai consegnatari cassieri delle amministrazioni centrali dello Stato, e successive modificazioni;
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sul nuovo ordinamento dell'Amministrazione postale e telegrafica, e successive modificazioni;
 
-Visto il [regio decreto 2 luglio 1925, n. 1196](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzioni%20del%20direttore%20generale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20relative%20allesercizio%20del%20bilancio.%20025U1196.md);
+Visto il [regio decreto 2 luglio 1925, n. 1196](../Regi%20decreti/Attribuzioni%20del%20direttore%20generale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi%20relative%20allesercizio%20del%20bilancio.%20025U1196.md);
 
-Visto il [regio decreto 8 maggio 1933, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' dell'Amministrazione delle poste e delle telecomunicazioni;
+Visto il [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), che approva il regolamento per l'amministrazione del patrimonio e per la contabilita' dell'Amministrazione delle poste e delle telecomunicazioni;
 
 Visto il [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md), che approva il testo unico delle leggi sull'ordinamento della Corte dei conti, e successive modificazioni;
 
@@ -44,7 +44,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Articolo unico
 
-L'art. 104 del regolamento per l'amministrazione del patrimonio e per la contabilita' dell'Amministrazione delle poste e delle telecomunicazioni, approvato con [regio decreto 8 maggio 1933, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), e' sostituito dal seguente: 
+L'art. 104 del regolamento per l'amministrazione del patrimonio e per la contabilita' dell'Amministrazione delle poste e delle telecomunicazioni, approvato con [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md), e' sostituito dal seguente: 
  "Le ragionerie provinciali, per tutto il personale di ruolo dell'Amministrazione delle poste e delle telecomunicazioni, compreso quello degli uffici locali e delle agenzie, comunicano al Centro nazionale elaborazione dati p.t. le notizie riguardanti l'apertura di nuovi conti individuali, nonche' le variazioni di quelli esistenti. 
  Il Centro, in base a tali comunicazioni, provvede alla elaborazione ed alla stampa delle note nominative per gli stipendi e per le retribuzioni fisse mensili del predetto personale. 
  Le note nominative sono inviate alle ragionerie provinciali in tempo utile per il riscontro e per l'ordine di pagamento. 

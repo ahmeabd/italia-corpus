@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'articolo 104 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
 
-Visto l'[articolo 1, comma 19, lettera b), del decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com19-letb), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
+Visto l'[articolo 1, comma 19, lettera b), del decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-05-18;181#art_1-com19-letb), convertito, con modificazioni, dalla [legge 17 luglio 2006, n. 233](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20maggio%202006%20n.%20181%20recante%20disposizioni%20urgenti%20in%20materia%20di%20riordino%20delle%20attribuzioni%20della%20Presidenza%20del%20Consiglio%20dei%20Mi_b54721a56e19.md);
 
 Ravvisata l'esigenza di disciplinare l'organizzazione, il funzionamento e l'ordinamento contabile della Scuola superiore per la formazione e la specializzazione di dirigenti della pubblica amministrazione locale;
 

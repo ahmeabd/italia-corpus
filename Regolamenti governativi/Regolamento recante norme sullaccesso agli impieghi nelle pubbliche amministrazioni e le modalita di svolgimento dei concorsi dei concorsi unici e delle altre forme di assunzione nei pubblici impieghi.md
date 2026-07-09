@@ -16,7 +16,7 @@ Vista la [legge 29 marzo 1983, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn
 
 Visto l'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
 
 Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e relative modifiche ed integrazioni;
 
@@ -126,7 +126,7 @@ Non possono essere assunti nelle pubbliche amministrazioni coloro che siano stat
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 3), comma 1 del presente articolo.
+Il [D.L. 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69) convertito con modificazioni dalla [L. 9 agosto 2013, n. 98](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202013%20n.%2069%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20delleconomia.%2013G00140.md) ha disposto (con l'art. 42, comma 1, lettera d)) che, fermi restando gli obblighi di certificazione previsti dal [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md) per i lavoratori soggetti a sorveglianza sanitaria, e' abrogata la disposizione concernente l'obbligo del certificato di idoneita' fisica per l'assunzione nel pubblico impiego di cui al numero 3), comma 1 del presente articolo.
 
 ### Art. 3. — (( (Bando di concorso). ))
 
@@ -211,7 +211,7 @@ All'atto della registrazione al Portale l'interessato compila il proprio curricu
 
 3.
 
-La registrazione al Portale comporta il consenso al trattamento dei dati personali nel rispetto della disciplina del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e del [decreto legislativo 30 giugno 2003, n. 196](../Decreti%20Legislativi/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
+La registrazione al Portale comporta il consenso al trattamento dei dati personali nel rispetto della disciplina del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, e del [decreto legislativo 30 giugno 2003, n. 196](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
 
 4.
 

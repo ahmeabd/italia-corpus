@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 5 dicembre 1911, n. 1476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-12-05;1476), recante disposizioni per le concessioni di viaggio sulle Ferrovie dello Stato;
 
-Visto il [regio decreto 29 gennaio 1942, n. 286](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20le%20concessioni%20di%20viaggio%20sulle%20Ferrovie%20dello%20Stato.%20042U0286.md), che approva il Regolamento per le concessioni di viaggio sulle ferrovie dello Stato;
+Visto il [regio decreto 29 gennaio 1942, n. 286](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20concessioni%20di%20viaggio%20sulle%20Ferrovie%20dello%20Stato.%20042U0286.md), che approva il Regolamento per le concessioni di viaggio sulle ferrovie dello Stato;
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con il Ministro per il 
 
 ## Art. 1.
 
-L'art. 9 del Regolamento per le concessioni di carte di libera circolazione, di biglietti di servizio, di biglietti gratuiti ed a tariffa ridotta, di buoni bagaglio, di trasporto, di compartimenti riservati e di carrozze-salone sulle ferrovie dello Stato, approvato con [regio decreto 29 gennaio 1942, n. 286](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20le%20concessioni%20di%20viaggio%20sulle%20Ferrovie%20dello%20Stato.%20042U0286.md), citato nelle premesse, e' modificato come appresso: 
+L'art. 9 del Regolamento per le concessioni di carte di libera circolazione, di biglietti di servizio, di biglietti gratuiti ed a tariffa ridotta, di buoni bagaglio, di trasporto, di compartimenti riservati e di carrozze-salone sulle ferrovie dello Stato, approvato con [regio decreto 29 gennaio 1942, n. 286](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20concessioni%20di%20viaggio%20sulle%20Ferrovie%20dello%20Stato.%20042U0286.md), citato nelle premesse, e' modificato come appresso: 
  1) il punto a) della parte 2ª e' sostituito dal seguente: 
  a) al personale delle Ferrovie dello Stato dei seguenti gradi indicati nei quadri di classificazione di cui ai [regi decreti-legge 7 aprile 1925, n. 405](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md), e [17 novembre 1938, n. 1785](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggiunte%20e%20modificazioni%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato%20approvato%20con%20R.%20decreto-legge%207%20aprile%201925%20n.%20405%20convertito%20nella%20legge%2021%20marzo%201926%20n.%20597%20e%20successi_a90e48c94169.md): grado sesto, grado settimo con almeno sei anni di anzianita' nei grado ed agli allievi ispettori, nonche' agli specialisti, medici aiuti e medici di riparto delle ferrovie stesse; 
  2) l'ultimo comma del punto b) e' sostituito dal seguente: 

@@ -16,11 +16,11 @@ Visto il [decreto luogotenenziale 27 ottobre 1918, n. 1895](https://www.normatti
 
 Vista la [legge 15 gennaio 1922, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20in%20Roma%20un%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte.%20022U0010.md);
 
-Visto il [regio decreto 30 settembre 1923, n. 2102](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
+Visto il [regio decreto 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md);
 
 Visto il [regio decreto 10 novembre 1924, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-10;2359);
 
-Visto il [regio decreto 5 luglio 1928, n. 1841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20testo%20di%20disposizioni%20concernenti%20il%20Regio%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte%20in%20Roma.%20028U1841.md);
+Visto il [regio decreto 5 luglio 1928, n. 1841](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20di%20disposizioni%20concernenti%20il%20Regio%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte%20in%20Roma.%20028U1841.md);
 
 Visto l'[articolo 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
@@ -44,9 +44,9 @@ Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - Il [decreto luogotenenziale 27 ottobre 1918, n. 1895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-10-27;1895), e' pubblicato nella Gazzetta Ufficiale n. 299 del 20 dicembre 1918.
  - La [legge 15 gennaio 1922, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20in%20Roma%20un%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte.%20022U0010.md), e' pubblicata nella Gazzetta Ufficiale n. 24 del 30 gennaio 1922.
- - Il [R.D. 30 settembre 1923, n. 2102](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' pubblicato nella Gazzetta Ufficiale n. 239 dell'11 ottobre 1923.
+ - Il [R.D. 30 settembre 1923, n. 2102](../Regi%20decreti/Ordinamento%20della%20istruzione%20superiore.%20023U2102.md), e' pubblicato nella Gazzetta Ufficiale n. 239 dell'11 ottobre 1923.
  - Il [R.D. 10 novembre 1924, n. 2359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-10;2359), e' pubblicato nella Gazzetta Ufficiale n. 68 del 23 marzo 1925.
- - Il [R.D. 5 luglio 1928, n. 1841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20testo%20di%20disposizioni%20concernenti%20il%20Regio%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte%20in%20Roma.%20028U1841.md), e' pubblicato nella Gazzetta Ufficiale n. 199 del 27 agosto 1928.
+ - Il [R.D. 5 luglio 1928, n. 1841](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20di%20disposizioni%20concernenti%20il%20Regio%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte%20in%20Roma.%20028U1841.md), e' pubblicato nella Gazzetta Ufficiale n. 199 del 27 agosto 1928.
  - Il [comma 1, lettera a), dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com1-leta) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolamenti per disciplinare l'esecuzione delle leggi e dei decreti legislativi. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2.
@@ -193,7 +193,7 @@ Il consiglio direttivo dell'Istituto, delibera, entro sei mesi dalla nomina, lo 
 
 1.
 
-E' abrogato il [regio decreto 5 luglio 1928, n. 1841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20testo%20di%20disposizioni%20concernenti%20il%20Regio%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte%20in%20Roma.%20028U1841.md).
+E' abrogato il [regio decreto 5 luglio 1928, n. 1841](../Regi%20decreti/Approvazione%20del%20nuovo%20testo%20di%20disposizioni%20concernenti%20il%20Regio%20Istituto%20italiano%20di%20archeologia%20e%20storia%20dellarte%20in%20Roma.%20028U1841.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -10,11 +10,11 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
-Visto il [regio decreto 5 settembre 1940, n. 1497](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md), sull'istituzione del ruolo dei commissari tecnici per l'Oriente;
+Visto il [regio decreto 5 settembre 1940, n. 1497](../Regi%20decreti/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md), sull'istituzione del ruolo dei commissari tecnici per l'Oriente;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
@@ -46,7 +46,7 @@ La Commissione esaminatrice e' nominata con decreto del Ministro per gli affari 
 
 ## Art. 4.
 
-I titoli speciali di servizio di cui all'[art. 4 del regio decreto 5 settembre 1940, n. 1497](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md), sono:
+I titoli speciali di servizio di cui all'[art. 4 del regio decreto 5 settembre 1940, n. 1497](../Regi%20decreti/Istituzione%20del%20ruolo%20dei%20commissari%20tecnici%20per%20lOriente.%20040U1497.md), sono:
  a) la qualita' del servizio;
  b) la prolungata permanenza nelle sedi disagiate determinate o da determinarsi ai sensi dell'[art. 11 della legge 2 giugno 1927, n. 862](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20carriera%20diplomatico-consolare.%20027U0862.md), modificato dall'[art. 18 della legge 13 febbraio 1952, n. 106](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20della%20carriera%20diplomatica.md);
  c) l'acquisita conoscenza di lingue straniere, diverse da quelle richieste come obbligatorie nell'esame di concorso per l'ammissione in carriera e da quella prevista dalla lettera b) del successivo art. 5;

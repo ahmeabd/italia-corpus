@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 33, comma secondo, della legge 29 aprile 1949, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-04-29;264#art_33-com2);
 
-Visto l'[art 9 del decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), modificato dall'articolo unico del [decreto legislativo del Capo provvisorio dello Stato 31 ottobre 1947, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-31;1378);
+Visto l'[art 9 del decreto legislativo luogotenenziale 1 marzo 1945, n. 177](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20e%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), modificato dall'articolo unico del [decreto legislativo del Capo provvisorio dello Stato 31 ottobre 1947, n. 1378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-10-31;1378);
 
 Visti gli [articoli 17, comma quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_17-com5), e [21, comma terzo, della legge 4 aprile 1952, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-04-04;218#art_21-com3);
 

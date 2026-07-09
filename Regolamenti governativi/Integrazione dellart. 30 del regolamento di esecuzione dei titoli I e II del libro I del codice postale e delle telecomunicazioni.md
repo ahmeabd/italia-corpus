@@ -16,7 +16,7 @@ Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abro
 
 Visto il codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), con cui venne approvato il regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni;
+Visto il [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), con cui venne approvato il regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni;
 
 Sentito il consiglio di amministrazione delle poste e delle telecomunicazioni;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Articolo unico
 
-All'art. 30 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' aggiunto il seguente comma: "Potranno, inoltre, essere messe in vendita, in relazione alle esigenze del piano regolatore della meccanizzazione postale, buste per lettere, col francobollo gia' impresso, di formato standardizzato senza alcun onere aggiuntivo per l'utente e con eventuale tariffa preferenziale".
+All'art. 30 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' aggiunto il seguente comma: "Potranno, inoltre, essere messe in vendita, in relazione alle esigenze del piano regolatore della meccanizzazione postale, buste per lettere, col francobollo gia' impresso, di formato standardizzato senza alcun onere aggiuntivo per l'utente e con eventuale tariffa preferenziale".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

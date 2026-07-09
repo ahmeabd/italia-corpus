@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visti gli articoli 263, 264, 265, 266 e 267 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
+Visti gli articoli 263, 264, 265, 266 e 267 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 
 Sentito il consiglio di amministrazione del Ministero delle poste e delle telecomunicazioni;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-L'art. 264 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' sostituito dal seguente:
+L'art. 264 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' sostituito dal seguente:
  "Gli oggetti da recapitarsi per espresso sono spediti con i mezzi normali; il loro recapito a domicilio e' fatto nel modo piu' sollecito per opera di agenti dell'amministrazione, o con mezzi speciali.
  L'amministrazione pero' non garantisce il recapito per espresso nelle localita' difficilmente accessibili a causa delle condizioni atmosferiche o della viabilita'.
  Gli oggetti che non si possono consegnare per assenza del destinatario o per altre cause sono successivamente recapitati con i mezzi ordinari.
@@ -35,11 +35,11 @@ L'art. 264 del regolamento di esecuzione dei titoli I e II del libro I del codic
 
 ## Art. 2.
 
-L'art. 267 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, numero 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' sostituito dal seguente: "Il destinatario puo' richiedere il recapito per espresso delle corrispondenze e dei pacchi, a lui diretti, anticipando la sopratassa di espresso".
+L'art. 267 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, numero 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' sostituito dal seguente: "Il destinatario puo' richiedere il recapito per espresso delle corrispondenze e dei pacchi, a lui diretti, anticipando la sopratassa di espresso".
 
 ## Art. 3.
 
-Gli articoli 263, lettera e), 265 e 266 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), sono abrogati.
+Gli articoli 263, lettera e), 265 e 266 del regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), sono abrogati.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

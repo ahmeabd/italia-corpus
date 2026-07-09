@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 194 del regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e modificato con [decreto del Presidente della Repubblica 26 aprile 1964, n. 414](Modifiche%20allart.%20194%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione.md);
+Visto l'art. 194 del regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e modificato con [decreto del Presidente della Repubblica 26 aprile 1964, n. 414](Modifiche%20allart.%20194%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta dei Ministri per la grazia e giustizia e per la marina mercantile
 
 ## Art. 1.
 
-L'art. 194 del regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e modificato con [decreto del Presidente della Repubblica 26 aprile 1964, n. 414](Modifiche%20allart.%20194%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione.md), e' sostituito dai seguenti articoli:
+L'art. 194 del regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e modificato con [decreto del Presidente della Repubblica 26 aprile 1964, n. 414](Modifiche%20allart.%20194%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione.md), e' sostituito dai seguenti articoli:
  Art. 194 (Lavoratori avventizi). - Nei porti dove se ne manifesti la necessita', il capo del Compartimento marittimo puo', con proprio decreto, sentito il Consiglio o la Commissione del lavoro portuale, istituire un registro di lavoratori portuali avventizi.
  Il registro e' tenuto dall'autorita' preposta alla disciplina del lavoro portuale, secondo le disposizioni stabilite per la tenuta dei registri di cui all'art. 150.
  Nel registro sono ammessi coloro che abbiano superato apposito concorso.

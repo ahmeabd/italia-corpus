@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 4 gennaio 1937, n. 35](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20Cassa%20ufficiali%20della%20Regia%20aeronautica.%20037U0035.md), che istituisce la Cassa ufficiali dell'Aeronautica militare;
 
-Visto il regolamento della Cassa predetta, approvato con [regio decreto 25 novembre 1937, n. 2616](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20della%20%20Cassa%20ufficiali%20della%20Regia%20aeronautica%20.%20037U2616.md);
+Visto il regolamento della Cassa predetta, approvato con [regio decreto 25 novembre 1937, n. 2616](../Regi%20decreti/Approvazione%20del%20regolamento%20della%20%20Cassa%20ufficiali%20della%20Regia%20aeronautica%20.%20037U2616.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Articolo unico.
 
-L'art. 18 del regolamento della "Cassa ufficiali dell'Aeronautica militare", approvato con [regio decreto 25 novembre 1937, n. 2616](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20della%20%20Cassa%20ufficiali%20della%20Regia%20aeronautica%20.%20037U2616.md), e' sostituito dal seguente:
+L'art. 18 del regolamento della "Cassa ufficiali dell'Aeronautica militare", approvato con [regio decreto 25 novembre 1937, n. 2616](../Regi%20decreti/Approvazione%20del%20regolamento%20della%20%20Cassa%20ufficiali%20della%20Regia%20aeronautica%20.%20037U2616.md), e' sostituito dal seguente:
  "Entro il mese di luglio di ciascun esercizio finanziario il Ministero difesa-Aeronautica dispone il versamento di un acconto dei contributi dovuti alla Cassa ufficiali mediante emissione di mandato diretto sulla Tesoreria centrale da estinguersi con accreditamento a favore del conto corrente postale intestato alla Cassa predetta.
 L'acconto e' determinato dal Ministero della difesa nella misura dei quattro quinti dell'importo delle ritenute per contributi alla Cassa che si prevede saranno effettuate nel corso dell'esercizio finanziario.
  Alla fine dell'esercizio finanziario si procede, in relazione ai pagamenti corrisposti agli ufficiali e contabilizzati dalle tesorerie, all'accertamento dell'importo effettivamente dovuto alla Cassa ufficiali per contributi e al conguaglio con la somma versata all'inizio dello esercizio".

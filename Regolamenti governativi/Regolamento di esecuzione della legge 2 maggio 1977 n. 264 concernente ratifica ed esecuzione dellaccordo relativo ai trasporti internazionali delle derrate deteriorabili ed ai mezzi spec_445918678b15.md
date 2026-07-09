@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 2 maggio 1977, n. 264](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20relativo%20ai%20trasporti%20internazionali%20delle%20derrate%20deteriorabili%20ed%20ai%20mezzi%20speciali%20da%20usare%20per%20tali%20trasporti%20ATP%20con%20allegati%20concluso%20a%20Ginevra%20il_36ea356d3bde.md), concernente ratifica ed esecuzione dell'accordo relativo ai trasporti internazionali delle derrate deteriorabili ed ai mezzi speciali da usare per tali trasporti, concluso a Ginevra il 1 settembre 1970 ed appresso denominato accordo ATP;
+Vista la [legge 2 maggio 1977, n. 264](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20relativo%20ai%20trasporti%20internazionali%20delle%20derrate%20deteriorabili%20ed%20ai%20mezzi%20speciali%20da%20usare%20per%20tali%20trasporti%20ATP%20con%20allegati%20concluso%20a%20Ginevra%20il_36ea356d3bde.md), concernente ratifica ed esecuzione dell'accordo relativo ai trasporti internazionali delle derrate deteriorabili ed ai mezzi speciali da usare per tali trasporti, concluso a Ginevra il 1 settembre 1970 ed appresso denominato accordo ATP;
 
 Considerata la necessita' di procedere alla emanazione delle norme regolamentari secondo quanto previsto all'art. 3 della suddetta legge;
 

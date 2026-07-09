@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 52 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[art. 52 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visti gli articoli 42 e 48 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visti gli articoli 42 e 48 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,11 +24,11 @@ Sulla proposta dei Ministri per la grazia e giustizia e per la marina mercantile
 
 ## Art. 1.
 
-L'art. 42 del regolamento al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) e' abrogato.
+L'art. 42 del regolamento al [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) e' abrogato.
 
 ## Art. 2.
 
-L'art. 48 del regolamento al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) e' cosi' modificato:
+L'art. 48 del regolamento al [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) e' cosi' modificato:
  "Art. 48 (Commissioni di collaudo). - Gli stabilimenti e i depositi costieri non possono essere messi, in tutto o in parte, in esercizio se non siano stati collaudati.
  Al collaudo procede una commissione composta da un funzionario del Ministero della marina mercantile, da un funzionario del Ministero dell'industria, del commercio e dell'artigianato, da un rappresentante del Ministero dell'interno, designati dai rispettivi Ministeri, nonche' dal capo del compartimento marittimo, dall'ingegnere capo dell'ufficio del genio civile, dal comandante del corpo provinciale dei vigili del fuoco competenti per territorio o dai loro delegati.
  Le funzioni di segretario della commissione sono espletate da un funzionario del Ministero della marina mercantile all'uopo designato.

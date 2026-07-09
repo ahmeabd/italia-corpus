@@ -494,7 +494,7 @@ Le istituzioni adeguano gli ordinamenti didattici dei propri corsi alle disposiz
 
 3.
 
-Gli Istituti superiori di studi musicali e coreutici possono continuare a organizzare corsi propedeutici e attivita' non curricolari di cui al decreto adottato ai sensi dell'[articolo 15 del decreto legislativo 13 aprile 2017, n. 60](../Decreti%20Legislativi/Norme%20sulla%20promozione%20della%20cultura%20umanistica%20sulla%20valorizzazione%20del%20patrimonio%20e%20delle%20produzioni%20culturali%20e%20sul%20sostegno%20della%20creativita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20let_20c656cb6457.md).
+Gli Istituti superiori di studi musicali e coreutici possono continuare a organizzare corsi propedeutici e attivita' non curricolari di cui al decreto adottato ai sensi dell'[articolo 15 del decreto legislativo 13 aprile 2017, n. 60](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20sulla%20promozione%20della%20cultura%20umanistica%20sulla%20valorizzazione%20del%20patrimonio%20e%20delle%20produzioni%20culturali%20e%20sul%20sostegno%20della%20creativita%20a%20norma%20dellarticolo%201%20commi%20180%20e%20181%20let_20c656cb6457.md).
 
 ))
 

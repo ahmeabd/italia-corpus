@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
+Visto il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md);
 
 Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), e successive modificazioni ed integrazioni;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Articolo unico.
 
-L'art. 162 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e' sostituito dal seguente:
+L'art. 162 del regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli uffici direttivi finanziari, approvato con [regio decreto 23 marzo 1933, n. 185](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20il%20personale%20degli%20uffici%20dipendenti%20dal%20Ministero%20delle%20finanze%20e%20per%20lordinamento%20degli%20uffici%20direttivi%20finanziari%20033U0185.md), e' sostituito dal seguente:
  "Art. 162. - Ogni Ufficio del registro ha un unico titolare.
  Salvo quanto disposto dalla [legge 15 maggio 1954, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-05-15;270), relativamente all'istituzione del servizio autonomo di cassa, gli uffici di prima e seconda categoria sono ordinati in reparti amministrativi, a ciascuno dei quali e' preposto un impiegato della carriera speciale direttiva con qualifica non superiore a direttore di 1ª classe.
  In mancanza di un funzionario direttivo, l'incarico di cui sopra puo' essere temporaneamente affidato ad un impiegato della carriera speciale di concetto del personale dei procuratori delle tasse e delle imposte indirette sugli affari.

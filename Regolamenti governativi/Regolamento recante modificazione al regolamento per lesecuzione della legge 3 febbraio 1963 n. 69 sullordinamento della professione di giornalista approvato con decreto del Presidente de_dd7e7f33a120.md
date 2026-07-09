@@ -64,7 +64,7 @@ AVVERTENZA:
  - Il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) 
  (Disciplina dell'attivita' di Governo e ordinamento della 
  Presidenza del Consiglio dei Ministri), come modificato 
- dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Decreti%20Legislativi/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il 
+ dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il 
  seguente: 
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente 
  della Repubblica, previa deliberazione del Consiglio dei 

@@ -14,7 +14,7 @@ Visto il [regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20dis
 
 Visto il regolamento per l'Amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con [regio decreto 10 febbraio 1927, n. 443](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20027U0443.md), e successive modificazioni;
 
-Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e successive modificazioni;
+Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 28 giugno 1955, n. 1106](../DPR/Decentramento%20di%20servizi%20del%20Ministero%20della%20difesa.md), sul decentramento dei servizi del Ministero della difesa;
 
@@ -124,18 +124,18 @@ L'art. 451 e' sostituito dal seguente:
 
 ## Art. 16.
 
-L'art. 527, quale risulta sostituito dal [regio decreto 17 ottobre 1935, n. 2005](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20nelle%20modalita%20di%20costituzione%20del%20fondo%20vitto%20dei%20carabinieri%20Reali.%20035U2005.md), e' sostituito dal seguente:
+L'art. 527, quale risulta sostituito dal [regio decreto 17 ottobre 1935, n. 2005](../Regi%20decreti/Modificazioni%20nelle%20modalita%20di%20costituzione%20del%20fondo%20vitto%20dei%20carabinieri%20Reali.%20035U2005.md), e' sostituito dal seguente:
  "Per sopperire principalmente alle spese per l'acquisto dei viveri e del combustibile, e' istituito per ogni militare, all'atto della incorporazione nelle legioni territoriali un fondo permanente di lire 14.000 che e' dato in consegna al comandante della stazione".
 
 ## Art. 17.
 
-L'art. 528, quale risulta sostituito dal [regio decreto 17 ottobre 1935, n. 2005](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20nelle%20modalita%20di%20costituzione%20del%20fondo%20vitto%20dei%20carabinieri%20Reali.%20035U2005.md) e' sostituito dal seguente:
+L'art. 528, quale risulta sostituito dal [regio decreto 17 ottobre 1935, n. 2005](../Regi%20decreti/Modificazioni%20nelle%20modalita%20di%20costituzione%20del%20fondo%20vitto%20dei%20carabinieri%20Reali.%20035U2005.md) e' sostituito dal seguente:
  "Alla costituzione del fondo permanente la legione territoriale provvede con un'anticipazione sugli assegni dovuti al militare: tale anticipazione e' recuperata con ritenute mensili di lire 1.000.
  L'importo dell'anticipazione e' poi trasmesso direttamente dalla legione territoriale al comandante della stazione alla quale il carabiniere sara' assegnato".
 
 ## Art. 18.
 
-L'art. 535, quale risulta sostituito dal [regio decreto 17 ottobre 1935, n. 2005](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20nelle%20modalita%20di%20costituzione%20del%20fondo%20vitto%20dei%20carabinieri%20Reali.%20035U2005.md), e' sostituito dal seguente:
+L'art. 535, quale risulta sostituito dal [regio decreto 17 ottobre 1935, n. 2005](../Regi%20decreti/Modificazioni%20nelle%20modalita%20di%20costituzione%20del%20fondo%20vitto%20dei%20carabinieri%20Reali.%20035U2005.md), e' sostituito dal seguente:
  "All'atto della cessazione dal servizio, il fondo permanente viene restituito al militare dal comandante di stazione che ne aveva avuto la consegna.
  Per i morti e i disertori la restituzione del fondo e' effettuata al momento della sistemazione dei conti con gli aventi diritto".
 

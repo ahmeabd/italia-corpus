@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 18 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visto l'art. 18 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta dei Ministri per la grazia e giustizia e per la marina mercantile
 
 ## Articolo unico
 
-L'art. 18 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' cosi' modificato:
+L'art. 18 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' cosi' modificato:
 
  "Quando si tratti di concessioni di particolare importanza per l'entita' o per lo scopo, il capo del compartimento ordina la pubblicazione della domanda mediante affissione nell'albo del comune ove e' situato il bene richiesto e la inserzione della domanda per estratto nel Foglio degli annunzi legali della provincia.
  Il provvedimento del capo del compartimento che ordina la pubblicazione della domanda deve contenere un sunto, indicare i giorni dell'inizio e della fine della pubblicazione ed invitare tutti coloro che possono avervi interesse a presentare entro il termine indicato nel provvedimento stesso le osservazioni che credano opportune.

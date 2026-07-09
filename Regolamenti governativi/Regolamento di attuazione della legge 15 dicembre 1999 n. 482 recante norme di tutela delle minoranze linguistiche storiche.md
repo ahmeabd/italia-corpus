@@ -203,7 +203,7 @@ Note all'art. 7:
 
 1.
 
-Con decreto del Presidente del Consiglio dei Ministri sono definiti, ogni tre anni, entro il 31 dicembre dell'anno precedente a ciascun triennio, i criteri per l'attribuzione e la ripartizione dei fondi previsti dagli articoli 9 e 15 della legge, sentiti il Comitato consultivo di cui all'articolo 12 del presente regolamento e la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
+Con decreto del Presidente del Consiglio dei Ministri sono definiti, ogni tre anni, entro il 31 dicembre dell'anno precedente a ciascun triennio, i criteri per l'attribuzione e la ripartizione dei fondi previsti dagli articoli 9 e 15 della legge, sentiti il Comitato consultivo di cui all'articolo 12 del presente regolamento e la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
 
 2.
 
@@ -261,7 +261,7 @@ L'applicazione dell'articolo 10 della legge, e' disciplinata dagli statuti e dai
 
 2.
 
-Nel caso siano previsti segnali indicatori di localita' anche nella lingua ammessa a tutela, si applicano le normative del [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), con pari dignita' grafica delle due lingue.
+Nel caso siano previsti segnali indicatori di localita' anche nella lingua ammessa a tutela, si applicano le normative del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), con pari dignita' grafica delle due lingue.
 
 Nota all'art. 9:
  - Il testo dell'[art. 10, della legge 15 dicembre 1999, n. 482](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-15;482#art_10), e' il seguente:

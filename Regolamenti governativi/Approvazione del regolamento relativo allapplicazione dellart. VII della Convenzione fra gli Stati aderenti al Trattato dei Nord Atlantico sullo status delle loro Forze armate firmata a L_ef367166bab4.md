@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 30 novembre 1955, n. 1335](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20gli%20Stati%20partecipanti%20al%20Trattato%20Nord%20Atlantico%20sullo%20statuto%20delle%20loro%20Forze%20armate%20firmata%20a%20Londra%20il%2019%20giugno%201951.md), relativa alla ratifica ed all'esecuzione della Convenzione tra gli Stati partecipanti al Trattato del Nord Atlantico sullo statuto delle loro Forze armate, firmata a Londra il 19 giugno 1951;
+Vista la [legge 30 novembre 1955, n. 1335](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20tra%20gli%20Stati%20partecipanti%20al%20Trattato%20Nord%20Atlantico%20sullo%20statuto%20delle%20loro%20Forze%20armate%20firmata%20a%20Londra%20il%2019%20giugno%201951.md), relativa alla ratifica ed all'esecuzione della Convenzione tra gli Stati partecipanti al Trattato del Nord Atlantico sullo statuto delle loro Forze armate, firmata a Londra il 19 giugno 1951;
 
 Udito il parere del Consiglio di Stato;
 

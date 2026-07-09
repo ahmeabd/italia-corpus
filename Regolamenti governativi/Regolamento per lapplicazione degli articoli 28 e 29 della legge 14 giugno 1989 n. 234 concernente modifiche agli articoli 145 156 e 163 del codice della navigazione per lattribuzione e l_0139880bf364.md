@@ -14,9 +14,9 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 28, terzo comma, della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_28-com3), che dispone l'adozione di norme regolamentari per l'istituzione dei registri speciali per le navi iscritte in registri stranieri ed in regime di sospensione a seguito di locazione a scafo nudo, nonche' per l'attuazione ed il completamento delle disposizioni di cui allo stesso comma;
 
-Visti gli [articoli 149](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [155](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [156](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [163 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1943, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-03-30;327);
+Visti gli [articoli 149](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [155](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [156](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [163 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1943, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-03-30;327);
 
-Visti gli articoli da 313 a 336 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), di seguito denominato "regolamento";
+Visti gli articoli da 313 a 336 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), di seguito denominato "regolamento";
 
 Visto il decreto del Ministro della marina mercantile 1° dicembre 1953, con il quale e' stato approvato il modello dell'atto di nazionalita';
 
@@ -38,7 +38,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Sono istituiti, presso gli uffici di cui all'[art. 146, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) i registri speciali delle navi locate, di seguito denominati "registri speciali", in conformita' al modello di cui all'allegato A.
+Sono istituiti, presso gli uffici di cui all'[art. 146, primo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) i registri speciali delle navi locate, di seguito denominati "registri speciali", in conformita' al modello di cui all'allegato A.
 
 2.
 
@@ -49,16 +49,16 @@ AVVERTENZA:
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Nota al titolo: 
  Il testo degli [articoli 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;234#art_28) e [29 della legge n. 234/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;234#art_29) (Disposizioni concernenti l'industria navalmeccanica ed armatoriale e provvedimenti a favore della ricerca applicata al settore navale) e' il seguente: 
- "Art. 28. - 1. All'[art. 156 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dopo il quinto comma, e' inserito il seguente: 
+ "Art. 28. - 1. All'[art. 156 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dopo il quinto comma, e' inserito il seguente: 
  'Le disposizioni dei precedenti commi si applicano anche nei casi di locazione della nave a scafo nudo a straniero qualora la nave venga iscritta nel registro di uno Stato che consente la temporanea iscrizione di nave straniera limitatamente al periodo di locazione, con sospensione dell'abilitazione alla navigazione di cui all'art. 149.
  L'ufficio di iscrizione provvede all'annotazione dell'autorizzazione nel registro d'iscrizione della nave e sull'atto di nazionalita''. 
- 2. La [lettera d) del primo comma dell'art. 163 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituita dalla seguente: 
+ 2. La [lettera d) del primo comma dell'art. 163 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituita dalla seguente: 
  ' d) e' stata iscritta in un registro straniero, salvo il caso che risulti in regime di sospensione a seguito di locazione a scafo nudo'. 
- 3. L'[art. 145 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
+ 3. L'[art. 145 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' sostituito dal seguente: 
  'Art. 145 (Navi iscritte in registri stranieri). - 1.
  Non possono ottenere l'iscrizione nelle matricole o nei registri nazionali le navi che risultino gia' iscritte in registro straniero. 
- 2. Agli effetti degli [articoli 149](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [155 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) possono ottenere l'iscrizione in speciali registri nazionali, le navi che risultino gia' iscritte in un registro straniero ed in regime di sospensione a seguito di locazione a scafo nudo. 
- 3. Per l'istituzione dei registri speciali di cui al comma 2, per l'attuazione e il completamento delle disposizioni in esso contenute, nel rispetto della riserva di cui all'[art. 224 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), si provvede con decreto del Ministro della marina mercantile'". 
+ 2. Agli effetti degli [articoli 149](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [155 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) possono ottenere l'iscrizione in speciali registri nazionali, le navi che risultino gia' iscritte in un registro straniero ed in regime di sospensione a seguito di locazione a scafo nudo. 
+ 3. Per l'istituzione dei registri speciali di cui al comma 2, per l'attuazione e il completamento delle disposizioni in esso contenute, nel rispetto della riserva di cui all'[art. 224 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), si provvede con decreto del Ministro della marina mercantile'". 
  "Art. 29. 1. - Le disposizioni contenute nei commi 1 e 2 dell'art. 28 sono applicabili alle navi per le quali viene chiesta l'autorizzazione a dismettere temporaneamente la bandiera da parte del Ministro della marina mercantile.
  Sulla richiesta viene sentito il parere di una commissione paritetica composta da tre membri designati dalle associazioni sindacali dei lavoratori maggiormente rappresentative sul piano nazionale, da tre membri designati dalle associazioni sindacali dei datori di lavoro maggiormente rappresentative sul piano nazionale e da un dirigente del Ministero della marina mercantile che la presiede. 
  2. Il rilascio dell'autorizzazione di cui al comma 1 e' subordinato all'accertamento da parte del Ministero della marina mercantile che il contratto di locazione a scafo nudo a straniero preveda l'obbligo, a carico del locatario straniero, di applicare al personale marittimo imbarcato le condizioni economiche e normative di cui al comma 3. 
@@ -98,15 +98,15 @@ Per ottenere l'iscrizione di una nave nei registri speciali il conduttore deve p
                             d)
                                 copia autentica del documento da cui risulta il consenso del proprietario della nave, nonche' del documento da cui risulta il consenso dei titolari dei diritti di garanzia trascritti, se quest'ultimo e' richiesto dallo Stato d'iscrizione della nave;
                             e)
-                                documentazione comprovante che il conduttore possiede i requisiti di cui agli [articoli 143](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [144 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+                                documentazione comprovante che il conduttore possiede i requisiti di cui agli [articoli 143](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [144 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                             f)
                                 copia del contratto collettivo di lavoro per la gente di mare stipulato in sede nazionale;
                             g)
-                                copia autentica dell'atto di approvazione del nome a norma dell'[art. 150 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+                                copia autentica dell'atto di approvazione del nome a norma dell'[art. 150 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
-La richiesta di iscrizione della nave nei registri speciali tiene luogo della dichiarazione di armatore di cui all'[art. 265 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+La richiesta di iscrizione della nave nei registri speciali tiene luogo della dichiarazione di armatore di cui all'[art. 265 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 ### Art. 4.
 
@@ -140,7 +140,7 @@ L'iscrizione della nave nei registri speciali ha effetto per il periodo della lo
 
 1.
 
-Ai fini dell'applicazione dell'[art. 224 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le navi iscritte nei registri speciali non sono considerate navi nazionali.
+Ai fini dell'applicazione dell'[art. 224 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) le navi iscritte nei registri speciali non sono considerate navi nazionali.
 
 ### Art. 7.
 
@@ -154,7 +154,7 @@ L'autorita' che procede alla cancellazione della nave dal registro speciale riti
 
 Nota all'art. 7:
  Il testo dell'[art. 15 della legge n. 413/1984](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984;413#art_15) (Riordinamento pensionistico dei lavoratori marittimi) e' il seguente:
- "Art. 15 (Dismissione di bandiera per vendita della nave a stranieri o per demolizione). - Non puo' essere accordata dalle autorita' marittime l'autorizzazione alla dismissione di bandiera per vendita della nave a stranieri o per demolizione della nave stessa, di cui agli [articoli 156](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [160 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), se non previo accertamento, presso l'Istituto,' dell'avvenuto pagamento di tutti i crediti contributivi relativi agli equipaggi della nave interessata dalle procedure anzidette, assistiti dal privilegio di cui all'art. 552 del predetto codice, o dell'avvenuta costituzione a favore dell'Istituto stesso di un congruo deposito cauzionale o di idonea garanzia dei crediti stessi nella misura e con le modalita' determinate dall'Istituto".
+ "Art. 15 (Dismissione di bandiera per vendita della nave a stranieri o per demolizione). - Non puo' essere accordata dalle autorita' marittime l'autorizzazione alla dismissione di bandiera per vendita della nave a stranieri o per demolizione della nave stessa, di cui agli [articoli 156](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [160 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), se non previo accertamento, presso l'Istituto,' dell'avvenuto pagamento di tutti i crediti contributivi relativi agli equipaggi della nave interessata dalle procedure anzidette, assistiti dal privilegio di cui all'art. 552 del predetto codice, o dell'avvenuta costituzione a favore dell'Istituto stesso di un congruo deposito cauzionale o di idonea garanzia dei crediti stessi nella misura e con le modalita' determinate dall'Istituto".
 
 ### Art. 8.
 
@@ -162,11 +162,11 @@ Nota all'art. 7:
 
 Durante il periodo di temporanea abilitazione alla navigazione ed all'uso della bandiera italiana:
                             a)
-                                ai fini di cui all'[art. 4 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) la nave e' considerata italiana;
+                                ai fini di cui all'[art. 4 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) la nave e' considerata italiana;
                             b)
-                                ai fini di cui agli [articoli 5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [8](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [10](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [11](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [12](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [13 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella italiana;
+                                ai fini di cui agli [articoli 5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [8](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [10](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [11](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [12](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [13 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella italiana;
                             c)
-                                ai fini dell'[art. 6 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella dello Stato responsabile del registro sottostante.
+                                ai fini dell'[art. 6 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella dello Stato responsabile del registro sottostante.
 
 ### Art. 9.
 
@@ -176,17 +176,17 @@ Il proprietario, che intende ottenere la sospensione temporanea dell'abilitazion
 
 2.
 
-La dichiarazione deve indicare le generalita' e la nazionalita' del soggetto estero, al quale la nave viene data in locazione, e l'apposito registro straniero, nel quale la nave sara' temporaneamente iscritta. L'ufficio che riceve la dichiarazione procede alla sua pubblicazione, a norma dell'[art. 156, secondo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+La dichiarazione deve indicare le generalita' e la nazionalita' del soggetto estero, al quale la nave viene data in locazione, e l'apposito registro straniero, nel quale la nave sara' temporaneamente iscritta. L'ufficio che riceve la dichiarazione procede alla sua pubblicazione, a norma dell'[art. 156, secondo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 3.
 
-L'ufficio, che ha proceduto alla pubblicazione della dichiarazione, ne da' immediata comunicazione al Ministero della marina mercantile, dopo aver constatato che sono state soddisfatte le condizioni di cui all'[art. 15 della legge 26 luglio 1984, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-26;413#art_15), e, nei casi in esso previsti, sono state osservate le prescrizioni dell'[art. 156, terzo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ovvero, se esistono diritti reali o di garanzia sulla nave, che vi e' il consenso scritto di tutti gli aventi diritto.
+L'ufficio, che ha proceduto alla pubblicazione della dichiarazione, ne da' immediata comunicazione al Ministero della marina mercantile, dopo aver constatato che sono state soddisfatte le condizioni di cui all'[art. 15 della legge 26 luglio 1984, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-07-26;413#art_15), e, nei casi in esso previsti, sono state osservate le prescrizioni dell'[art. 156, terzo comma, del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ovvero, se esistono diritti reali o di garanzia sulla nave, che vi e' il consenso scritto di tutti gli aventi diritto.
 
 ### Art. 10.
 
 1.
 
-Il proprietario della nave, al fine di ottenere la sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera italiana di cui agli [articoli 149](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [155 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), deve rivolgere istanza al Ministero della marina mercantile.
+Il proprietario della nave, al fine di ottenere la sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera italiana di cui agli [articoli 149](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [155 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), deve rivolgere istanza al Ministero della marina mercantile.
 
 2.
 
@@ -230,7 +230,7 @@ L'ufficio di iscrizione annota nelle matricole e sull'atto di nazionalita' gli e
 
 5.
 
-L'annotazione sull'atto di nazionalita' degli estremi dell'autorizzazione e' fatta dall'ufficio consolare a norma dell'[art. 255 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), se la nave si trova all'estero.
+L'annotazione sull'atto di nazionalita' degli estremi dell'autorizzazione e' fatta dall'ufficio consolare a norma dell'[art. 255 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), se la nave si trova all'estero.
 
 6.
 
@@ -238,11 +238,11 @@ L'atto di nazionalita', munito dell'annotazione di cui ai commi 4 e 5, e gli alt
 
 7.
 
-La trascrizione nelle matricole degli atti costitutivi, traslativi o estintivi di proprieta' o di altri diritti reali o di garanzia sulla nave, cosi' come la relativa annotazione sull'atto di nazionalita', continuano ad essere fatti in conformita' delle disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del regolamento.
+La trascrizione nelle matricole degli atti costitutivi, traslativi o estintivi di proprieta' o di altri diritti reali o di garanzia sulla nave, cosi' come la relativa annotazione sull'atto di nazionalita', continuano ad essere fatti in conformita' delle disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e del regolamento.
 
 8.
 
-La sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera italiana ha effetto dalla data dell'annotazione nelle matricole e sull'atto di nazionalita' della relativa autorizzazione o, se l'annotazione sull'atto di nazionalita' e' fatta dall'ufficio consolare a norma dell'[art. 255 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dalla data della stessa.
+La sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera italiana ha effetto dalla data dell'annotazione nelle matricole e sull'atto di nazionalita' della relativa autorizzazione o, se l'annotazione sull'atto di nazionalita' e' fatta dall'ufficio consolare a norma dell'[art. 255 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), dalla data della stessa.
 
 Nota all'[art. 11:
  La legge n. 15/1968](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968;15#art_11) reca: "Norme sulla documentazione amministrativa e sulla legalizzazione e autenticazione di firme".
@@ -273,17 +273,17 @@ Il Ministero della marina mercantile da' comunicazione della revoca della sospen
 
 Durante il periodo di sospensione temporanea dell'abilitazione alla navigazione ed all'uso della bandiera:
                             a)
-                                ai fini di cui all'[art. 4 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) la nave non e' considerata italiana;
+                                ai fini di cui all'[art. 4 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) la nave non e' considerata italiana;
                             b)
-                                fatte salve le disposizioni di cui all'[art. 29, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_29-com2) e [3, della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_29-com3), in materia di lavoro marittimo, ai fini di cui agli [articoli 5](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [7](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [8](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [10](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [11](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [12](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [13 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella dello Stato straniero nei cui appositi registri la nave e' iscritta;
+                                fatte salve le disposizioni di cui all'[art. 29, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_29-com2) e [3, della legge 14 giugno 1989, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-06-14;234#art_29-com3), in materia di lavoro marittimo, ai fini di cui agli [articoli 5](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [7](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [8](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [10](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [11](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [12](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [13 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella dello Stato straniero nei cui appositi registri la nave e' iscritta;
                             c)
-                                ai fini di cui all'[art. 6 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella italiana.
+                                ai fini di cui all'[art. 6 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) si intende per "legge nazionale della nave" quella italiana.
 
 ### Art. 15.
 
 1.
 
-Le disposizioni di cui agli articoli 8 e 14 si applicano anche alle convenzioni internazionali di cui l'Italia e' parte contraente, nei casi in cui e' da esse attribuita rilevanza alla nazionalita' della nave, con riferimento alle materie di cui agli articoli del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) indicate in tali disposizioni.
+Le disposizioni di cui agli articoli 8 e 14 si applicano anche alle convenzioni internazionali di cui l'Italia e' parte contraente, nei casi in cui e' da esse attribuita rilevanza alla nazionalita' della nave, con riferimento alle materie di cui agli articoli del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) indicate in tali disposizioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

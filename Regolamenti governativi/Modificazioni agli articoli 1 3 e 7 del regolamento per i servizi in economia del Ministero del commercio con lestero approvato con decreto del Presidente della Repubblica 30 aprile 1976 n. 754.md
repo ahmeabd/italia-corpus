@@ -38,7 +38,7 @@ Il regolamento per i servizi in economia del Ministero del commercio con l'ester
                             il secondo comma dell'art. 3 e' sostituito dal seguente: 
  "I lavori di manutenzione e le forniture necessarie all'Amministrazione centrale possono essere disposte direttamente dal consegnatario cassiere fino al limite di L. 400.000.";
                         c)
-                            le parole contenute nel primo comma dell'art. 7 "ai sensi dell'[art. 3, comma quarto, del regio decreto 20 ottobre 1924, n. 1796](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md)" sono sostituite dalle seguenti: "ai sensi degli articoli 6, ultimo comma, e 7 del [decreto del Presidente della Repubblica 30 novembre 1979, n. 718](Approvazione%20del%20regolamento%20per%20le%20gestioni%20dei%20cassieri%20e%20dei%20consegnatari%20delle%20amministrazioni%20dello%20Stato.md)";
+                            le parole contenute nel primo comma dell'art. 7 "ai sensi dell'[art. 3, comma quarto, del regio decreto 20 ottobre 1924, n. 1796](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20gestioni%20affidate%20ai%20consegnatari-cassieri%20delle%20Amministrazioni%20centrali.%20024U1796.md)" sono sostituite dalle seguenti: "ai sensi degli articoli 6, ultimo comma, e 7 del [decreto del Presidente della Repubblica 30 novembre 1979, n. 718](Approvazione%20del%20regolamento%20per%20le%20gestioni%20dei%20cassieri%20e%20dei%20consegnatari%20delle%20amministrazioni%20dello%20Stato.md)";
                         d)
                             il secondo comma dell'art. 7 e' soppresso.
 

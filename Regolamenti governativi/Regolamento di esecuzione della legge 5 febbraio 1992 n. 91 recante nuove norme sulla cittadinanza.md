@@ -479,7 +479,7 @@ Note all'art. 18:
 
 1.
 
-E' abrogato il [regio decreto 2 agosto 1912, n. 949](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md), dalla data di entrata in vigore del presente regolamento.
+E' abrogato il [regio decreto 2 agosto 1912, n. 949](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md), dalla data di entrata in vigore del presente regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

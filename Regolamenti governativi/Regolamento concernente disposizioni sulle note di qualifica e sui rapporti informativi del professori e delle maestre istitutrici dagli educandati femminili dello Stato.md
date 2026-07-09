@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-10;1036#art_2) e [8 della legge 10 ottobre 1957, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-10;1036#art_8), che detta norme sullo stato giuridico ed economico del personale degli educandati femminili dello Stato e le disposizioni ivi richiamate;
 
-Visti i [regi decreti 23 dicembre 1929, n. 2392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20029U2392.md) e [1 ottobre 1931, n. 1312](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md), sull'ordinamento degli aducandati femminili dello Stato;
+Visti i [regi decreti 23 dicembre 1929, n. 2392](../Regi%20decreti/Riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20029U2392.md) e [1 ottobre 1931, n. 1312](../Regi%20decreti/Approvazione%20delle%20norme%20modificative%20integrative%20ed%20interpretative%20del%20R.%20decreto%2023%20dicembre%201929%20n.%202392%20concernente%20il%20riordinamento%20degli%20istituti%20pubblici%20di%20educazione%20femminile.%20031U1312.md), sull'ordinamento degli aducandati femminili dello Stato;
 
 Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sullo statuto degli impiegati civili dello Stato;
 

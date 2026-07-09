@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sull'ordinamento dell'Amministrazione postale telegrafica;
 
-Visto il [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), che approva il regolamento generale dei servizi postali (parte seconda - servizi a danaro);
+Visto il [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), che approva il regolamento generale dei servizi postali (parte seconda - servizi a danaro);
 
-Visto l'[art. 2 del regio decreto 31 ottobre 1942, n. 1849](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sostituzione%20del%20vaglia%20postale%20per%20tasse%20e%20concessioni%20governative%20con%20operazioni%20del%20servizio%20dei%20conti%20correnti%20Postali%20ed%20altri%20provvedimenti%20interessanti%20il%20servizio%20stesso.%20042U1849.md), che sopprime il capo IV, contenente gli articoli da 50 a 53 del predetto regolamento;
+Visto l'[art. 2 del regio decreto 31 ottobre 1942, n. 1849](../Regi%20decreti/Sostituzione%20del%20vaglia%20postale%20per%20tasse%20e%20concessioni%20governative%20con%20operazioni%20del%20servizio%20dei%20conti%20correnti%20Postali%20ed%20altri%20provvedimenti%20interessanti%20il%20servizio%20stesso.%20042U1849.md), che sopprime il capo IV, contenente gli articoli da 50 a 53 del predetto regolamento;
 
 Vista la [legge 5 dicembre 1955, n. 1288](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dei%20vaglia%20postali%20a%20taglio%20fisso.md), che istituisce il servizio dei vaglia postali a taglio fisso;
 
@@ -36,7 +36,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-Il capo IV del regolamento generale dei servizi postali (parte seconda - servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni, e' sostituito dal seguente. 
+Il capo IV del regolamento generale dei servizi postali (parte seconda - servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni, e' sostituito dal seguente. 
  
  CAPO IV 
  Vaglia a taglio fisso 

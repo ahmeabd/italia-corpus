@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto-legge 12 maggio 1938, n. 908](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20trattamento%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20alle%20gestioni%20appaltate%20delle%20imposte%20di%20consumo.%20038U0908.md), concernente il trattamento di previdenza del personale addetto alle gestioni delle imposte di consumo appaltate convertito nella [legge 19 gennaio 1939, n. 264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20maggio%201938-XVI%20n.%20908%20recante%20modificazioni%20al%20trattamento%20di%20previdenza%20a%20favore%20del%20personale%20addetto%20alle%20gestioni%20appaltate%20delle%20imposte_0794adb68479.md);
 
-Visto il [regio decreto 20 ottobre 1939, n. 1863](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.%20039U1863.md), che approva il regolamento per il fondo di previdenza, del personale predetto;
+Visto il [regio decreto 20 ottobre 1939, n. 1863](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.%20039U1863.md), che approva il regolamento per il fondo di previdenza, del personale predetto;
 
-Visto il [decreto legislativo luogotenenziale 23 marzo 1946, n. 313](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20trattamento%20di%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.md), recante modifiche al trattamento di previdenza del personale stesso;
+Visto il [decreto legislativo luogotenenziale 23 marzo 1946, n. 313](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20trattamento%20di%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.md), recante modifiche al trattamento di previdenza del personale stesso;
 
 Sentito il Comitato speciale per l'amministrazione del Fondo di previdenza del personale predetto;
 
@@ -30,7 +30,7 @@ Sulla proposta del Ministro Segretario di Stato per il lavoro e la previdenza so
 
 ## Art. 1.
 
-All'art. 4 del regolamento di previdenza per il personale addetto alle gestioni delle imposte di consumo appaltate, approvato con [regio decreto 20 ottobre 1939, numero 1863](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.%20039U1863.md), e' aggiunto il seguente comma: "Inoltre e' dovuto dall'appaltatore un contributo straordinario integrativo del 2,30%, la cui misura potra' essere variata nel tempo con le norme di cui al successivo art. 34".
+All'art. 4 del regolamento di previdenza per il personale addetto alle gestioni delle imposte di consumo appaltate, approvato con [regio decreto 20 ottobre 1939, numero 1863](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20previdenza%20del%20personale%20addetto%20alle%20gestioni%20delle%20imposte%20di%20consumo.%20039U1863.md), e' aggiunto il seguente comma: "Inoltre e' dovuto dall'appaltatore un contributo straordinario integrativo del 2,30%, la cui misura potra' essere variata nel tempo con le norme di cui al successivo art. 34".
 
 ## Art. 2.
 

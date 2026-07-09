@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto il codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto il regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
+Visto il regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
 
 Vista la [legge 30 luglio 1951, n. 948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-07-30;948), in materia di ammortamento di titoli rappresentativi di depositi bancari;
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Articolo unico
 
-Gli articoli 175, 176, 177, 178, 215, 216, 219 e 220 del regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni, sono sostituiti dai seguenti:
+Gli articoli 175, 176, 177, 178, 215, 216, 219 e 220 del regolamento generale dei servizi postali (parte seconda - servizi a danaro), approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni, sono sostituiti dai seguenti:
 
  Art. 175. - In caso di smarrimento, distruzione o sottrazione di un libretto al portatore con un credito superiore a lire 30.000, il proprietario deve presentarne denuncia in doppio esemplare all'ufficio postale di emissione, oppure, se cio' non sia possibile, ad altro ufficio postale.
  Nel primo caso l'ufficio appone immediatamente la annotazione di fermo sulla partita di conto del libretto, inviando in giornata e con piego raccomandato un esemplare della denuncia, insieme con la copia del conto suddetto, all'amministrazione centrale, alla quale deve anche dare immediata notizia per telegrafo, a spesa del denunciante, della denuncia ricevuta.

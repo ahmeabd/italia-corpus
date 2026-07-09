@@ -55,7 +55,7 @@ Al [decreto del Presidente della Repubblica n. 358 del 2000](https://www.normatt
 All'Ufficio provinciale ACI di ................
 DICHIARAZIONE SOSTITUTIVA AI SENSI DEL DECRETO DEL [PRESIDENTE DELLA REPUBBLICA 28 DICEMBRE 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::2000-12-28;445), RELATIVA ALLA PRIMA ISCRIZIONE DEL VEICOLO AL P.R.A. ([articolo 80, comma 57, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md))
 
-Il sottoscritto ...., consapevole delle pene stabilite dal [Codice Penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi speciali in materia per le false attestazioni e le mendaci dichiarazioni, dichiara di essere il VENDITORE per la Soc.
+Il sottoscritto ...., consapevole delle pene stabilite dal [Codice Penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e dalle leggi speciali in materia per le false attestazioni e le mendaci dichiarazioni, dichiara di essere il VENDITORE per la Soc.
 .... .... (concessionaria) del veicolo .... fabbrica.... tipo .... telaio n. .... in data.... al Sig./Sig.ra....per il prezzo di euro.... vendita soggetta/non soggetta ad IVA (cancellare il dato che non interessa), come da dichiarazione sottoscritta dall'acquirente.
 GENERALITA' DEL VENDITORE:
 Cognome....Nome.... in qualita' di (specificare se legale rappresentante o procuratore)....della Ditta.... Ragione Sociale....Data di nascita .... Luogo di nascita .... Stato....Codice Fiscale.... Residente a ....Via/P.za.... Provincia .... CAP....

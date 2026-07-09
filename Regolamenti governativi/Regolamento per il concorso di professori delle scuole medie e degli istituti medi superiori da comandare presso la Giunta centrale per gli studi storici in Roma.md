@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduto il [regio decreto-legge 29 aprile 1937, n. 770](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-29;770), convertito in legge con la [legge 20 dicembre 1937, numero 2278](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2029%20aprile%201937-XV%20n.%20770%20concernente%20listituzione%20della%20carica%20di%20vice%20presidente%20in%20seno%20alla%20Giunta%20centrale%20per%20gli%20studi%20storici.%20037U2278.md);
- Veduto il [regio decreto 14 dicembre 1942, n. 1766](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20lassegnazione%20in%20servizio%20presso%20la%20Giunta%20centrale%20per%20gli%20studi%20storici%20di%20professori%20dei%20Regi%20Istituti%20dellordine%20medio%20e%20superiore.%20042U1766.md);
+ Veduto il [regio decreto 14 dicembre 1942, n. 1766](../Regi%20decreti/Disposizioni%20per%20lassegnazione%20in%20servizio%20presso%20la%20Giunta%20centrale%20per%20gli%20studi%20storici%20di%20professori%20dei%20Regi%20Istituti%20dellordine%20medio%20e%20superiore.%20042U1766.md);
  Veduto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
  Udito il parere del Consiglio di Stato;
  Sentito il Consiglio dei Ministri;

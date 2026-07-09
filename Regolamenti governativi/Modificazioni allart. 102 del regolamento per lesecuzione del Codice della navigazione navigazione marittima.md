@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), che approva il regolamento per la esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
+Visto il [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), che approva il regolamento per la esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,12 +20,12 @@ Sulla proposta dei Ministri per la grazia e giustizia e per la marina mercantile
 
 ## Art. 1.
 
-Il n. 3 dell'art. 102 del regolamento per la esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' sostituito dal seguente:
+Il n. 3 dell'art. 102 del regolamento per la esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' sostituito dal seguente:
  "3) sei anni di navigazione in servizio di coperta sui navi nazionali e, per le corporazioni di prima e di seconda categoria, un periodo di almeno tre anni di navigazione come ufficiale di coperta su navi mercantili di stazza lorda non inferiore alle 500 tonnellate oppure come ufficiale di vascello su navi militari di dislocamento non inferiore alle 300 tonnellate, di cui - per le corporazioni di prima categoria - uno come primo ufficiale su navi mercantili o come ufficiale in 2ª su navi militari".
 
 ## Art. 2.
 
-All'art. 102 del regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), sono aggiunti i seguenti commi:
+All'art. 102 del regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), sono aggiunti i seguenti commi:
  "Nel caso che il concorso per l'ammissione in una corporazione di piloti sia andato deserto, il Ministro per la marina mercantile potra' autorizzare il capo del compartimento a conferire l'incarico di pilotaggio, per tutti o parte dei posti vacanti, ad altrettanti marittimi che siano in possesso dei requisiti di cui ai numeri 1, 4, 5 e 6 del presente articolo.
  I marittimi di cui al precedente comma, i quali abbiano prestato cinque anni di lodevole servizio, potranno essere nominati piloti effettivi con provvedimento del capo del compartimento previa autorizzazione del Ministro per la marina mercantile".
 

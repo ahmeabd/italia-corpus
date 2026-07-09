@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), recante l'ordinamento finanziario e contabile degli enti locali;
+Visto il [decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), recante l'ordinamento finanziario e contabile degli enti locali;
 
 Visto l'art. 114 di detto decreto legislativo, ai sensi del quale deve provvedersi con regolamento all'approvazione della modulistica relativa agli strumenti e documenti contabili;
 
@@ -110,7 +110,7 @@ Sono approvati i seguenti modelli e schemi contabili, allegati al presente regol
 
 1.
 
-Ai fini di cui all'[articolo 67, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Decreti%20Legislativi/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), l'ente locale deposita presso la 
+Ai fini di cui all'[articolo 67, comma 3, del decreto legislativo 25 febbraio 1995, n. 77](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20finanziario%20e%20contabile%20degli%20enti%20locali.md), l'ente locale deposita presso la 
 competente sezione giurisdizionale della Corte dei conti i seguenti atti e documenti:
                         a)
                             notizie e verbali relativi alle verificazioni effettuate sui 

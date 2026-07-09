@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 19 gennaio 1942, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Ente%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0022.md), sulla istituzione dell'Ente nazionale di previdenza ed assistenza per i dipendenti statali;
 
-Visto il [regio decreto 26 luglio 1942, n. 917](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2022%20concernente%20listituzione%20dellEnte%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0917.md), concernente l'approvazione del regolamento per l'esecuzione della legge predetta;
+Visto il [regio decreto 26 luglio 1942, n. 917](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2022%20concernente%20listituzione%20dellEnte%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0917.md), concernente l'approvazione del regolamento per l'esecuzione della legge predetta;
 
 Vista la [legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro Segretario di Stato per il lavoro e la previdenza so
 
 ## Art. 1.
 
-Le lettere h) ed i) dell'art. 43 ed e) e f) dell'art. 45 del regolamento per l'esecuzione della [legge 19 gennaio 1942, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Ente%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0022.md), approvato con [regio decreto 26 luglio 1942, n. 917](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2022%20concernente%20listituzione%20dellEnte%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0917.md), sono rispettivamente sostituite dalle seguenti:
+Le lettere h) ed i) dell'art. 43 ed e) e f) dell'art. 45 del regolamento per l'esecuzione della [legge 19 gennaio 1942, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Ente%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0022.md), approvato con [regio decreto 26 luglio 1942, n. 917](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2019%20gennaio%201942-XX%20n.%2022%20concernente%20listituzione%20dellEnte%20nazionale%20fascista%20di%20previdenza%20ed%20assistenza%20per%20i%20dipendenti%20statali.%20042U0917.md), sono rispettivamente sostituite dalle seguenti:
  art. 43, lett. h) "dispone, entro i limiti del bilancio, le spese superiori a L. 1.000.000";
  art. 43, lett. i) "approva i contratti per le forniture di importo superiore a L. 1.000.000 e ne determina le modalita' di concessione e di esecuzione";
  art. 45, lett. e) "ordinare, nei limiti del bilancio, le spese inferiori a L. 1.000.000";

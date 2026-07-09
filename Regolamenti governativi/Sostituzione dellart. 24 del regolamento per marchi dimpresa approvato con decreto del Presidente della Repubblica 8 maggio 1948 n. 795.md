@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), contenente il testo delle disposizioni legislative in materia di brevetti per marchi d'impresa;
+Visto il [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), contenente il testo delle disposizioni legislative in materia di brevetti per marchi d'impresa;
 
 Visto il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md), col quale venne approvato il testo delle disposizioni regolamentari in materia di brevetti per marchi di impresa;
 

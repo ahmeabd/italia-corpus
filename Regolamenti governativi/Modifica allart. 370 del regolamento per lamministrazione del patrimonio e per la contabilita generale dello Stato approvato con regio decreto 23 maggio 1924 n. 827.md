@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti il [regio decreto 18 aprile 1940, n. 411, e l'art. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellultimo%20comma%20dellart.%20370%20del%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20concernente%20il%20pagamento%20delle%20pensioni.%20040U0411.md) del decreto del Capo provvisorio, dello Stato 5 novembre 1946, n. 341, recanti modifiche all'art. 370 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+Visti il [regio decreto 18 aprile 1940, n. 411, e l'art. 1](../Regi%20decreti/Modificazione%20dellultimo%20comma%20dellart.%20370%20del%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20concernente%20il%20pagamento%20delle%20pensioni.%20040U0411.md) del decreto del Capo provvisorio, dello Stato 5 novembre 1946, n. 341, recanti modifiche all'art. 370 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
 Uditi i pareri della Corte dei conti e del Consiglio di Stato;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 ## Art. 1.
 
-Il [regio decreto 18 aprile 1940, n. 411 e l'art. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dellultimo%20comma%20dellart.%20370%20del%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20concernente%20il%20pagamento%20delle%20pensioni.%20040U0411.md) del [decreto del Capo provvisorio dello Stato 5 novembre 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-05;511), sono abrogati.
+Il [regio decreto 18 aprile 1940, n. 411 e l'art. 1](../Regi%20decreti/Modificazione%20dellultimo%20comma%20dellart.%20370%20del%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20concernente%20il%20pagamento%20delle%20pensioni.%20040U0411.md) del [decreto del Capo provvisorio dello Stato 5 novembre 1946, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-05;511), sono abrogati.
 
 ## Art. 2.
 

@@ -20,7 +20,7 @@ Visto il [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 30 aprile 1999 e del 7 luglio 2000;
 
-Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Consultato il Garante per la protezione dei dati personali;
 
@@ -657,15 +657,15 @@ Se la nascita avviene durante un viaggio marittimo, il relativo atto deve essere
 
 2.
 
-Si osservano le disposizioni degli articoli 203, 205, 207, 208, e 210 del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o, in caso si tratti di navi militari, quelle del relativo regolamento per il servizio di bordo, in quanto compatibili con il presente regolamento.
+Si osservano le disposizioni degli articoli 203, 205, 207, 208, e 210 del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o, in caso si tratti di navi militari, quelle del relativo regolamento per il servizio di bordo, in quanto compatibili con il presente regolamento.
 
 3.
 
-Se la nascita avviene durante un viaggio aereo, si osservano le disposizioni degli [articoli 835](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [836 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in quanto compatibili con il presente regolamento.
+Se la nascita avviene durante un viaggio aereo, si osservano le disposizioni degli [articoli 835](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [836 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in quanto compatibili con il presente regolamento.
 
 Note all'art. 39:
 
- - Si riporta il testo degli [articoli 203](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [205](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [207](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [208](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [210](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [835](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [836 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
+ - Si riporta il testo degli [articoli 203](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [205](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [207](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [208](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [210](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [835](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [836 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md):
  "Art. 203 (Funzioni di ufficiale dello stato civile). - Durante la navigazione, il comandante della nave marittima esercita le funzioni di ufficiale dello stato civile, secondo le disposizioni sull'ordinamento dello stato civile.
  Le stesse funzioni il comandante esercita anche quando la nave trovasi ancorata in un porto, se sia impossibile promuovere l'intervento della competente autorita' nella Repubblica, o di quella consolare all'estero.
  Art. 205 (Atti di stato civile compilati a bordo). - Gli alti di stato civile compilati a bordo delle navi devono essere iscritti sul ruolo di equipaggio.
@@ -1112,7 +1112,7 @@ Nei medesimi archivi l'ufficiale dello stato civile trascrive:
                             d)
                                 gli atti dei matrimoni celebrati ((o le unioni civili costituite)) dinanzi all'autorita' diplomatica o consolare straniera in Italia fra cittadini stranieri quando esistono convenzioni in materia;
                             e)
-                                gli atti e i processi verbali dei matrimoni celebrati in caso di imminente pericolo di vita di uno degli sposi ((e gli atti e i processi verbali di costituzione delle unioni civili avvenute in caso di imminente pericolo di vita di una delle parti dell'unione civile)), a norma degli [articoli 204](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [208](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [834 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+                                gli atti e i processi verbali dei matrimoni celebrati in caso di imminente pericolo di vita di uno degli sposi ((e gli atti e i processi verbali di costituzione delle unioni civili avvenute in caso di imminente pericolo di vita di una delle parti dell'unione civile)), a norma degli [articoli 204](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [208](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [834 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                             f)
                                 le sentenze dalle quali risulta la esistenza del matrimonio ((o dell'unione civile));
                             g)
@@ -1120,7 +1120,7 @@ Nei medesimi archivi l'ufficiale dello stato civile trascrive:
                             g-bis)
                                 le sentenze e gli altri atti con cui si pronuncia all'estero la nullita', lo scioglimento di unioni civili ovvero si rettifica in qualsiasi modo un atto dell'unione civile gia' iscritto o trascritto negli archivi di cui all'articolo 10;
                             h)
-                                le sentenze della corte di appello previste dall'[articolo 17 della legge 27 maggio 1929, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;847#art_17), e dall'articolo 8, comma 2, dell'accordo del 18 febbraio 1984 tra la Repubblica italiana e la Santa Sede ratificato dalla [legge 25 marzo 1985, n. 121](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md);
+                                le sentenze della corte di appello previste dall'[articolo 17 della legge 27 maggio 1929, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-05-27;847#art_17), e dall'articolo 8, comma 2, dell'accordo del 18 febbraio 1984 tra la Repubblica italiana e la Santa Sede ratificato dalla [legge 25 marzo 1985, n. 121](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md);
                             h-bis)
                                 gli accordi raggiunti a seguito di convenzione di negoziazione assistita da uno o piu' avvocati conclusi tra coniugi al fine di raggiungere una soluzione consensuale di separazione personale, di cessazione degli effetti civili del matrimonio, di scioglimento del matrimonio, nonche' di modifica delle condizioni di separazione o di divorzio;
                             h-ter)
@@ -1165,7 +1165,7 @@ Ugualmente si provvede nel caso di scelta del regime di separazione dei beni o d
 
 1.
 
-Se il matrimonio, nell'imminente pericolo di vita di uno degli sposi, e' celebrato durante un viaggio marittimo o aereo, ((o se l'unione civile e' costituita nell'imminente pericolo di vita di una delle parti, durante un viaggio marittimo o aereo,)) si osservano, rispettivamente le disposizioni degli [articoli 204](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [205](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [207](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [208](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [210](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [834 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Se il matrimonio, nell'imminente pericolo di vita di uno degli sposi, e' celebrato durante un viaggio marittimo o aereo, ((o se l'unione civile e' costituita nell'imminente pericolo di vita di una delle parti, durante un viaggio marittimo o aereo,)) si osservano, rispettivamente le disposizioni degli [articoli 204](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [205](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [207](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [208](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [210](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [834 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
@@ -1621,11 +1621,11 @@ La relativa azione e' promossa dal procuratore della Repubblica.
 
 1.
 
-Se la morte avviene durante un viaggio marittimo, si osservano le disposizioni degli [articoli 203](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [212 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o, in caso si tratti di navi militari, quelle del relativo regolamento per il servizio di bordo, in quanto compatibili con il presente regolamento.
+Se la morte avviene durante un viaggio marittimo, si osservano le disposizioni degli [articoli 203](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [212 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o, in caso si tratti di navi militari, quelle del relativo regolamento per il servizio di bordo, in quanto compatibili con il presente regolamento.
 
 2.
 
-Se la morte avviene durante un viaggio aereo, si osservano le disposizioni degli [articoli 835](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [838 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in quanto compatibili con il presente regolamento.
+Se la morte avviene durante un viaggio aereo, si osservano le disposizioni degli [articoli 835](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [838 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), in quanto compatibili con il presente regolamento.
 
 3.
 
@@ -1633,11 +1633,11 @@ Per la trascrizione degli atti e dei processi verbali relativi a morti avvenute 
 
 4.
 
-L'estratto delle annotazioni fatte nel giornale generale e di contabilita' di cui agli articoli 205, secondo comma, e 207 del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e ogni altro documento trasmesso, sono annotati negli archivi di cui all'articolo 10.
+L'estratto delle annotazioni fatte nel giornale generale e di contabilita' di cui agli articoli 205, secondo comma, e 207 del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e ogni altro documento trasmesso, sono annotati negli archivi di cui all'articolo 10.
 
 Note all'art. 79:
 
- - Per il testo degli [articoli 203](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [205](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [207](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [835 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), vedi le note all'articolo 39; si riporta il testo degli articoli 212 e 838 del citato codice:
+ - Per il testo degli [articoli 203](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [205](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [207](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [835 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), vedi le note all'articolo 39; si riporta il testo degli articoli 212 e 838 del citato codice:
  "Art. 212 (Autorizzazione del tribunale). - Le autorizzazioni di cui all'articolo precedente sono date dal tribunale con decreto, assunte, ove sia ritenuto necessario, le informazioni del caso.
  Art. 838 (Conseguenze della scomparizione). - Le conseguenze della scomparizione da bordo o per perdita dell'aeromobile sono regolate dagli articoli 211 e 212.".
 
@@ -1820,14 +1820,14 @@ L'interessato puo' comunque richiedere il riconoscimento del diritto al mantenim
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 96. — (Procedimento)
 
@@ -1897,14 +1897,14 @@ Avverso i provvedimenti di cui al presente articolo, il procuratore della Repubb
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 99. — Correzione e ricostituzione degli atti dell'autorita' diplomatica o consolare
 
@@ -1920,14 +1920,14 @@ Le disposizioni di cui all'articolo 98 si applicano, altresi', per gli atti di c
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 100. — (Competenza)
 
@@ -2093,7 +2093,7 @@ Note all'art. 109
  Alle dette commissioni spettano, limitatamente agli atti suddetti, le attribuzioni dell'autorita' giudiziaria ai sensi dell'articolo precedente.
  Esse, su domanda di parte o di ufficio, procedono agli accertamenti e alle indagini necessarie, richiedono atti e notizie, raccolgono documenti, informazioni ed ogni altro elemento occorrente ed hanno facolta' di sentire testimoni sotto il vincolo del giuramento. In seguito agli accertamenti fatti deliberano la ricostituzione degli atti da trascrivere nei registri dello stato civile, la quale pero' avviene soltanto dopo che alla deliberazione e' stata data conveniente pubblicita' ed e' trascorso il termine fissato nella deliberazione stessa, entro il quale sia gli interessati sia il pubblico ministero possono fare opposizione davanti al tribunale.
  Gli atti ricostituiti ai sensi dei commi precedenti tengono luogo di quelli distrutti salvo all'autorita' giudiziaria, su richiesta del pubblico ministero o delle parti, di ordinare l'annullamento o la rettifica dell'atto ricostituito, in base a copia o certificato autentici legalmente estratti dall'originale, che siano successivamente ritrovati.
- Art. 59. - Nei registri di cittadinanza sono iscritte dall'ufficiale dello stato civile tutte le dichiarazioni relative alla cittadinanza prevedute nella [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555), e successive modificazioni, e che sono a lui fatte a norma dell'art. 16 della legge stessa e dell'[art. 8 del regio decreto 2 agosto 1912, n. 949](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md).
+ Art. 59. - Nei registri di cittadinanza sono iscritte dall'ufficiale dello stato civile tutte le dichiarazioni relative alla cittadinanza prevedute nella [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555), e successive modificazioni, e che sono a lui fatte a norma dell'art. 16 della legge stessa e dell'[art. 8 del regio decreto 2 agosto 1912, n. 949](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md).
 
  Art. 60. - Nei registri di cittadinanza si trascrivono:
 
@@ -2103,7 +2103,7 @@ Note all'art. 109
  4) le dichiarazioni di rinuncia alla cittadinanza italiana, prevedute nell'[art. 7 della legge 31 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-31;555#art_7);
  5) i decreti e gli altri provvedimenti con i quali uno Stato estero concede la propria cittadinanza ad un cittadino italiano:
  6) i decreti con i quali il Ministro per l'interno inibisce il riacquisto della cittadinanza italiana;
- 7) le dichiarazioni indicate nell'articolo precedente, quando sono state fatte all'estero alla regia autorita' diplomatica o consolare ovvero al capitano della nave, a norma dell'[art. 8, comma secondo, del regio decreto 2 agosto 1912, n. 949](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md).
+ 7) le dichiarazioni indicate nell'articolo precedente, quando sono state fatte all'estero alla regia autorita' diplomatica o consolare ovvero al capitano della nave, a norma dell'[art. 8, comma secondo, del regio decreto 2 agosto 1912, n. 949](../Regi%20decreti/Col%20quale%20vengono%20approvate%20le%20norme%20per%20la%20esecuzione%20della%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza%20italiana.%20012U0949.md).
 
  Art. 124. - Nella prima parte dei registri di matrimonio l'ufficiale dello stato civile iscrive gli atti dei matrimoni celebrati davanti a lui, eccetto quelli indicati nel comma quarto dell'articolo seguente.
  Art. 125. - La parte seconda dei registri di matrimonio e' suddivisa in tre serie, distinte rispettivamente con le lettere A, B, C.

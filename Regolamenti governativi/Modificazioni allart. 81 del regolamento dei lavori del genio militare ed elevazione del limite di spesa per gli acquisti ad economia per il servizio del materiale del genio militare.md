@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il regolamento sui lavori del genio militare, approvato con [regio decreto 17 marzo 1932, n. 365](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md);
+Visto il regolamento sui lavori del genio militare, approvato con [regio decreto 17 marzo 1932, n. 365](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md);
 
 Visto il [regio decreto 16 novembre 1941, n. 1557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-11-16;1557), ed il [decreto luogotenenziale 24 agosto 1914, n. 235](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1914-08-24;235), che apportano modifiche all'art. 81 di detto regolamento Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), contenente disposizioni sulla amministrazione del patrimonio e sulla contabilita' generale dello Stato;
 
@@ -32,7 +32,7 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-L'[art. 81 del regio decreto 17 marzo 1932, n. 365](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), e' sostituito dal seguente "Ai comandanti del genio e' devoluto il collaudo di tutti i lavori del genio militare nel territorio di loro competenza, tanto se eseguiti ad impresa quanto se eseguiti ad economia (in amministrazione, a cottimo o con le truppe).
+L'[art. 81 del regio decreto 17 marzo 1932, n. 365](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20lavori%20del%20genio%20militare.%20032U0365.md), e' sostituito dal seguente "Ai comandanti del genio e' devoluto il collaudo di tutti i lavori del genio militare nel territorio di loro competenza, tanto se eseguiti ad impresa quanto se eseguiti ad economia (in amministrazione, a cottimo o con le truppe).
  La designazione del collaudatore e' fatta invece dal Ministero della difesa:
  a) nei casi di prolungata, assenza del comandante del genio titolare; ed in questi casi la designazione deve essere provocata in tempo utile da chi fa le veci del titolare;
  b) nei casi speciali in cui, a giudizio del Ministero stesso, il comandante del genio abbia avuto diretta, ingerenza nella condotta dei lavori;

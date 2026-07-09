@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze; Decreta:
 
 ## Art. 1.
 
-Il secondo comma dell'art. 59 del regolamento per la coltivazione indigena del tabacco, approvato con il [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), gia' modificato dall'[art. 1 del decreto luogotenenziale 28 settembre 1944, n. 275](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20del%20tabacco%20circa%20la%20costituzione%20della%20Commissione%20di%20perizia%20dei%20tabacci%20provenienti%20da%20concessioni%20di%20manifesto.%20044U0275.md), e' sostituito dal seguente comma:
+Il secondo comma dell'art. 59 del regolamento per la coltivazione indigena del tabacco, approvato con il [regio decreto 12 ottobre 1924, n. 1590](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20coltivazione%20indigena%20del%20tabacco.%20024U1590.md), gia' modificato dall'[art. 1 del decreto luogotenenziale 28 settembre 1944, n. 275](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20al%20vigente%20regolamento%20per%20la%20coltivazione%20del%20tabacco%20circa%20la%20costituzione%20della%20Commissione%20di%20perizia%20dei%20tabacci%20provenienti%20da%20concessioni%20di%20manifesto.%20044U0275.md), e' sostituito dal seguente comma:
  "Perche' la nomina abbia luogo, occorre che alla prima adunanza intervenga almeno la meta' dei concessionari, nel qual caso la nomina stessa cadra' sul candidato che avra' riportato il maggior numero di voti, e, a parita' di voti, sul piu' anziano di eta'".
 
 ## Art. 2.

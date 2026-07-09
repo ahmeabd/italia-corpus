@@ -18,7 +18,7 @@ Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/
 
 Vista la [direttiva 91/672/CEE del Consiglio del 16 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), relativa al riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto merci e persone nel settore della navigazione interna;
 
-Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il regolamento per la navigazione interna, approvato con [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md);
 

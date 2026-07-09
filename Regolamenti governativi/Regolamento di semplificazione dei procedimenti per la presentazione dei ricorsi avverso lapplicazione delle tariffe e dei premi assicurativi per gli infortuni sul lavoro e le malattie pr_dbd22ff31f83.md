@@ -20,7 +20,7 @@ Visti i decreti del Ministero del lavoro e della previdenza sociale in data 18 g
 
 Visto il [decreto legislativo 30 giugno 1994, n. 479](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2032%20della%20legge%2024%20dicembre%201993%20n.%20537%20in%20materia%20di%20riordino%20e%20soppressione%20di%20enti%20pubblici%20di%20previdenza%20e%20assistenza.md), ed in particolare l'articolo 8, comma 3;
 
-Visto il [decreto legislativo 23 febbraio 2000, n. 38](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), ed in particolare l'articolo 2, comma 3;
+Visto il [decreto legislativo 23 febbraio 2000, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), ed in particolare l'articolo 2, comma 3;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 gennaio 2001;
 
@@ -40,7 +40,7 @@ Emana il seguente regolamento:
 
 1.
 
-Il datore di lavoro puo' ricorrere alla direzione regionale, alla sede regionale di Aosta, alla direzione provinciale di Trento o alla direzione provinciale di Bolzano dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), in relazione alla loro competenza per territorio, contro i provvedimenti emessi dalle sedi territoriali dell'Istituto in materia di applicazione delle tariffe dei premi assicurativi per gli infortuni sul lavoro e le malattie professionali approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), riguardanti:
+Il datore di lavoro puo' ricorrere alla direzione regionale, alla sede regionale di Aosta, alla direzione provinciale di Trento o alla direzione provinciale di Bolzano dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), in relazione alla loro competenza per territorio, contro i provvedimenti emessi dalle sedi territoriali dell'Istituto in materia di applicazione delle tariffe dei premi assicurativi per gli infortuni sul lavoro e le malattie professionali approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md), riguardanti:
                         a)
                             la classificazione delle lavorazioni;
                         b)
@@ -58,7 +58,7 @@ Il datore di lavoro puo' ricorrere alla direzione regionale, alla sede regionale
 
 1.
 
-Il datore di lavoro puo' ricorrere alla sede territoriale dell'INAIL contro i provvedimenti emessi dalla stessa sede concernenti l'oscillazione del tasso medio di tariffa per andamento infortunistico, adottati secondo le modalita' di applicazione delle tariffe dei premi approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md).
+Il datore di lavoro puo' ricorrere alla sede territoriale dell'INAIL contro i provvedimenti emessi dalla stessa sede concernenti l'oscillazione del tasso medio di tariffa per andamento infortunistico, adottati secondo le modalita' di applicazione delle tariffe dei premi approvate ai sensi dell'[articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20assicurazione%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali%20a%20norma%20dellarticolo%2055%20comma%201%20della%20legge%2017%20maggio%201999%20n.%20144.md).
 
 2.
 

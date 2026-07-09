@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 123 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[art. 123 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visti gli articoli 248, 249, 250, 251, 267, 270, 272, 282, 283 e 284 del regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visti gli articoli 248, 249, 250, 251, 267, 270, 272, 282, 283 e 284 del regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Visto il [decreto del Presidente della Repubblica 29 aprile 1956, n. 651](Modifiche%20agli%20articoli%20267%20270%20e%20298%20del%20regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20navigazione%20marittima%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20febbraio%201952%20n.%20328.md);
 
@@ -28,7 +28,7 @@ Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri
 
 ## Art. 1.
 
-L'espressione "provenienti dai corsi normali dell'Accademia navale", contenuta negli articoli 248 (ultimo comma), 250 (ultimo comma) e 251 (ultimo comma) del regolamento per l'esecuzione del [Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' soppressa e sostituita dalla seguente: "provenienti dal servizio permanente".
+L'espressione "provenienti dai corsi normali dell'Accademia navale", contenuta negli articoli 248 (ultimo comma), 250 (ultimo comma) e 251 (ultimo comma) del regolamento per l'esecuzione del [Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' soppressa e sostituita dalla seguente: "provenienti dal servizio permanente".
 
 ## Art. 2.
 

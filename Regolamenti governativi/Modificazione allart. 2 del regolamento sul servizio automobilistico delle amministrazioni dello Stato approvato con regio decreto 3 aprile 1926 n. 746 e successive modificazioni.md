@@ -49,7 +49,7 @@ AVVERTENZA:
  "Art. 2. - Puo' essere assegnata una vettura automobile esclusivamente a ciascuna delle seguenti autorita':
  a) ministri e sottosegretari di Stato;
  b) marescialli d'Italia e grandi ammiragli;
- c) funzionari appartenenti ai gradi 1 e 2 dell'ordinamento gerarchico stabilito dal [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
+ c) funzionari appartenenti ai gradi 1 e 2 dell'ordinamento gerarchico stabilito dal [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md);
  d) segretario generale del Ministero degli affari esteri;
  e) generali di corpo d'armata, vice-ammiragli di squadra e generali di squadra aerea, ricoprenti effettivamente una delle cariche previste per il loro grado; capo e sotto-capo di stato maggiore generale; capo di stato maggiore della Marina e dell'Aeronautica; comandante generale dell'Arma dei reali carabinieri; comandante generale della Regia guardia di finanza;
  f) capo della polizia;

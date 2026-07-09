@@ -91,7 +91,7 @@ La prova di esame per l'iscrizione nella sezione ordinaria del ruolo e' orale e 
  c) nozioni relative alla costruzione ed all'esercizio della nave; 
  d) conoscenza delle caratteristiche e dell'andamento del mercato dei noli e della compra-vendita di navi; 
  e) conoscenza dei principali contratti tipo in uso, delle clausole e degli usi marittimi locali e nazionali, nonche' delle principali consuetudini internazionali relative ai trasporti marittimi; 
- f) conoscenza delle principali disposizioni del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) in materia di amministrazione della navigazione marittima, di regime amministrativo delle navi, di costruzione e proprieta' della nave, di impresa di navigazione, di privilegi e di ipoteche; 
+ f) conoscenza delle principali disposizioni del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) in materia di amministrazione della navigazione marittima, di regime amministrativo delle navi, di costruzione e proprieta' della nave, di impresa di navigazione, di privilegi e di ipoteche; 
  g) nozioni sulle assicurazioni marittime, corpi e merci; 
  h) nozioni sulle avarie marittime e sui loro regolamenti; 
  i) conoscenza delle operazioni e dei servizi portuali, nonche' delle funzioni che svolgono i vari ausiliari del traffico marittimo nella fase portuale (agenti marittimi, spedizionieri, imprese portuali, compagnie portuali, ecc.); 
@@ -109,7 +109,7 @@ L'esame per l'iscrizione nella sezione speciale del ruolo consta di due prove sc
  Prova orale: 
  a) tutte le materie indicate per la iscrizione nella sezione ordinaria del ruolo; 
  b) nozioni sui costi delle imprese di navigazione; 
- c) nozioni sull'esecuzione forzata e le misure cautelari di cui al titolo V del libro IV della parte prima del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); 
+ c) nozioni sull'esecuzione forzata e le misure cautelari di cui al titolo V del libro IV della parte prima del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md); 
  d) nozioni di merceologia e di stivaggio delle navi; 
  e) trattamento fiscale e registrazione dei contratti di utilizzazione della nave; 
  f) nozioni sulle clausole compromissorie e sull'arbitrato libero. 
