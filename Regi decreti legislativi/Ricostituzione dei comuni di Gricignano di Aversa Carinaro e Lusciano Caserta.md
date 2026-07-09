@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 febbraio 1929, n. 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Frignano%20Maggiore%20e%20Frignano%20Piccolo%20e%20di%20parte%20del%20comune%20di%20San%20Marcellino%20nellunico%20comune%20di%20Frignano%20aggregazione%20a%20Trentola%20della%20rimanente%20parte%20di%20San%20Marce_9fad5c51a0aa.md);
+Visto il [R. decreto 18 febbraio 1929, n. 303](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Frignano%20Maggiore%20e%20Frignano%20Piccolo%20e%20di%20parte%20del%20comune%20di%20San%20Marcellino%20nellunico%20comune%20di%20Frignano%20aggregazione%20a%20Trentola%20della%20rimanente%20parte%20di%20San%20Marce_9fad5c51a0aa.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,13 +22,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-I comuni di Gricignano di Aversa, Carinaro e Lusciano, aggregati con [R. decreto 18 febbraio 1929, numero 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Frignano%20Maggiore%20e%20Frignano%20Piccolo%20e%20di%20parte%20del%20comune%20di%20San%20Marcellino%20nellunico%20comune%20di%20Frignano%20aggregazione%20a%20Trentola%20della%20rimanente%20parte%20di%20San%20Marce_9fad5c51a0aa.md), al comune di Aversa, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Gricignano di Aversa, Carinaro e Lusciano, aggregati con [R. decreto 18 febbraio 1929, numero 303](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Frignano%20Maggiore%20e%20Frignano%20Piccolo%20e%20di%20parte%20del%20comune%20di%20San%20Marcellino%20nellunico%20comune%20di%20Frignano%20aggregazione%20a%20Trentola%20della%20rimanente%20parte%20di%20San%20Marce_9fad5c51a0aa.md), al comune di Aversa, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Caserta, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Gricignano di Aversa, Carinaro e Lusciano ed il nuovo organico dei comune di Aversa saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione, disposta con [R. decreto 18 febbraio 1929, numero 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riunione%20dei%20comuni%20di%20Frignano%20Maggiore%20e%20Frignano%20Piccolo%20e%20di%20parte%20del%20comune%20di%20San%20Marcellino%20nellunico%20comune%20di%20Frignano%20aggregazione%20a%20Trentola%20della%20rimanente%20parte%20di%20San%20Marce_9fad5c51a0aa.md). 
+ Il numero dei posti ed i gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione, disposta con [R. decreto 18 febbraio 1929, numero 303](../Regi%20decreti/Riunione%20dei%20comuni%20di%20Frignano%20Maggiore%20e%20Frignano%20Piccolo%20e%20di%20parte%20del%20comune%20di%20San%20Marcellino%20nellunico%20comune%20di%20Frignano%20aggregazione%20a%20Trentola%20della%20rimanente%20parte%20di%20San%20Marce_9fad5c51a0aa.md). 
  Al personale gia' in servizio presso il comune di Aversa che eventualmente sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.

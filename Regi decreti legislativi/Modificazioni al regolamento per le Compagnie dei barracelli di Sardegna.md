@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto l'[art. 3 della legge 2 agosto 1897, n. 382](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20estende%20per%20lisola%20di%20Sardegna%20le%20disposizioni%20di%20alcuni%20articoli%20di%20quella%20in%20data%2030%20luglio%201896%20n.%20345%20concernente%20listituzione%20di%20un%20R.%20Commissario%20civile%20per%20la%20Sicilia.%20097U0382.md), portante provvedimenti per la Sardegna, nonche' il [R. decreto 14 luglio 1898, n. 403](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20le%20Compagnie%20dei%20Barracelli.%20098U0403.md), con il quale fu approvato il regolamento per le Compagnie dei barracelli;
+Visto l'[art. 3 della legge 2 agosto 1897, n. 382](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20estende%20per%20lisola%20di%20Sardegna%20le%20disposizioni%20di%20alcuni%20articoli%20di%20quella%20in%20data%2030%20luglio%201896%20n.%20345%20concernente%20listituzione%20di%20un%20R.%20Commissario%20civile%20per%20la%20Sicilia.%20097U0382.md), portante provvedimenti per la Sardegna, nonche' il [R. decreto 14 luglio 1898, n. 403](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20le%20Compagnie%20dei%20Barracelli.%20098U0403.md), con il quale fu approvato il regolamento per le Compagnie dei barracelli;
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per l'interno, di concerto con i Ministri per la gra
 
 ## Art. 1.
 
-Il limite della competenza per valore per la risoluzione da parte del sindaco delle controversie di cui agli articoli 50, 51 e 53 del regolamento per le Compagnie dei barracelli della Sardegna, approvato con [R. decreto 14 luglio 1898, n. 403](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20le%20Compagnie%20dei%20Barracelli.%20098U0403.md), e' elevato da L. 100 a L.
+Il limite della competenza per valore per la risoluzione da parte del sindaco delle controversie di cui agli articoli 50, 51 e 53 del regolamento per le Compagnie dei barracelli della Sardegna, approvato con [R. decreto 14 luglio 1898, n. 403](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20le%20Compagnie%20dei%20Barracelli.%20098U0403.md), e' elevato da L. 100 a L.
 1000.
 
 ## Art. 2.

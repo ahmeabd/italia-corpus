@@ -20,7 +20,7 @@ Visto il [R. decreto-legge 4 ottobre 1935, n. 1988](../Atti%20normativi%20abroga
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio del Ministri;
 
@@ -350,7 +350,7 @@ I punti a) e b) dell'[art. 2 del R. decreto-legge 4 ottobre 1935, n. 1988](../At
 
 ## Art. 4.
 
-I gradi e le qualifiche del personale delle Ferrovie dello Stato citati nel presente decreto, sono quelli di cui il [R. decreto 12 ottobre 1942, n. 1210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md).
+I gradi e le qualifiche del personale delle Ferrovie dello Stato citati nel presente decreto, sono quelli di cui il [R. decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md).
 
 ## Art. 5.
 

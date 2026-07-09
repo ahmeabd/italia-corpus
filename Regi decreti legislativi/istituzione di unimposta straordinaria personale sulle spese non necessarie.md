@@ -12,13 +12,13 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
+Visto il testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](../Regi%20decreti/Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md), e successive modificazioni;
 
 Visto il testo unico della legge comunale e provinciale, approvato con [R. decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md), e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [R. decreto legislativo 10 maggio 1946, n. 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
@@ -65,7 +65,7 @@ Non sono comprese fra le spese imponibili le somme destinate alla conservazione 
 
 ## Art. 6.
 
-Il fitto si valuta con i criteri indicati all'[art. 15 del decreto legislativo Luogotenenziale 8 marzo 1945, numero 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md).
+Il fitto si valuta con i criteri indicati all'[art. 15 del decreto legislativo Luogotenenziale 8 marzo 1945, numero 62](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20in%20materia%20di%20finanza%20locale.%20045U0062.md).
  La spesa annua per la remunerazione ed il mantenimento del personale addetto al servizio domestico del contribuente si presume non inferiore a L. 30.000 ne' superiore a L. 80.000 per ciascun dipendente.
  La spesa annua per l'uso di una autovettura o di una imbarcazione a motore, si presume non inferiore a lire 60.000; quella per l'uso di un motociclo non inferiore a L. 15.000; quella per l'uso di ogni vettura a cavalli non inferiore a L. 40.000 e quella per ogni imbarcazione a remi od a vela non inferiore a L. 10.000.
  La spesa annua per il mantenimento di ogni cavallo da sella si presume non inferiore a L. 40.000 per ogni cavallo; quella per ogni cane di lusso e da caccia non inferiore a L. 10.000.

@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), che approva il testo della legge sulle concessioni governative, modificato dai [R. decreto 20 marzo 1936, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-20;1418);
+Visto il [R. decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), che approva il testo della legge sulle concessioni governative, modificato dai [R. decreto 20 marzo 1936, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-20;1418);
 
 Visto il [R. decreto-legge 26 settembre 1935, n. 1749](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20035U1749.md), allegato F portante provvedimenti in materia di tasse sulle concessioni governative, convertito nella [legge 28 maggio 1936, n. 1027](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201749%20concernente%20provvedimenti%20in%20materia%20di%20tasse%20sugli%20affari.%20036U1027.md);
 
@@ -26,7 +26,7 @@ Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.norm
 
 Visto il [decreto legislativo Luogotenenziale 8 dicembre 1944, n. 428](../Decreti%20legislativi%20luogotenenziali/Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), sull'aumento della tariffa degli onorari e dei diritti notarili;
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Ritenute la necessita' e l'urgenza di adottare provvedimenti in materia di tasse sulle concessioni governative.
 
@@ -56,7 +56,7 @@ Per i provvedimenti amministrativi soggetti a tassa annuale di rilascio o di vid
  Allorche' la somma dei dodicesimi dovuti, presenti una frazione minore di una lira, questa frazione sara' computata per una lira intera; ed allorche' la data di scadenza presenti una frazione di mese, questa frazione sara' computata per un mese intero.
  Tale differenza di tassa dovra' essere corrisposta nel modo indicato dalle rispettive voci della tabella A, e non oltre quattro mesi dalla data di entrata in vigore del presente decreto.
  Per le tasse pagate con carta bollata speciale, la differenza sara' corrisposta con marche.
- Per il mancato pagamento nei termini stabiliti della differenza di tassa dovuta, si incorre nella pena pecuniaria prevista dall'[art. 9 del R. decreto 30 dicembre 1923, n. 3279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), modificato dal [R. decreto 26 marzo 1936, n. 1418](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), salvo che nella tabella A non sia stabilita una diversa sanzione.
+ Per il mancato pagamento nei termini stabiliti della differenza di tassa dovuta, si incorre nella pena pecuniaria prevista dall'[art. 9 del R. decreto 30 dicembre 1923, n. 3279](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20tributaria%20sulle%20concessioni%20governative.%20023U3279.md), modificato dal [R. decreto 26 marzo 1936, n. 1418](../Regi%20decreti/Modificazioni%20alle%20disposizioni%20tributarie%20sulle%20concessioni%20governative.%20036U1418.md), salvo che nella tabella A non sia stabilita una diversa sanzione.
 
 ## Art. 6.
 

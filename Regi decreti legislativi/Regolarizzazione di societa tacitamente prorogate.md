@@ -12,13 +12,13 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che ha approvato il testo del la legge dell'imposta del registro e successive modificazioni, Visto il [R. decreto-legge 5 marzo 1942, n. 192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0192.md), recante provvedimenti tributari in materia di societa'.
+Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che ha approvato il testo del la legge dell'imposta del registro e successive modificazioni, Visto il [R. decreto-legge 5 marzo 1942, n. 192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0192.md), recante provvedimenti tributari in materia di societa'.
 
 convertito, con modificazioni, nella [legge 21 giugno 1942, n. 830](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20marzo%201942-XX%20n.%20192%20recante%20provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0830.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [R. decreto legislativo 10 maggio 1946, numero 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 

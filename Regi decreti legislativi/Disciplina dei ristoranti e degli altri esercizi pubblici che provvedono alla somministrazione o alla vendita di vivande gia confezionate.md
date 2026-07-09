@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [decreto legislativo Luogotenenziale 1° marzo 1945, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20ordine%20alla%20disciplina%20dei%20ristoranti%20e%20delle%20rosticcerie.%20045U0099.md);
+Visto il [decreto legislativo Luogotenenziale 1° marzo 1945, n. 99](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20in%20ordine%20alla%20disciplina%20dei%20ristoranti%20e%20delle%20rosticcerie.%20045U0099.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

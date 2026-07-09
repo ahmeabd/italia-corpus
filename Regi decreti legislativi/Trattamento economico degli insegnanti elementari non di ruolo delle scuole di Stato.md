@@ -18,11 +18,11 @@ Visto il regolamento generale sui servizi dell'istruzione elementare, approvato 
 
 Vista la [legge 1° giugno 1942, n. 675](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20degli%20insegnanti%20dellordine%20elementare%20nel%20gruppo%20B%20dellordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20042U0675.md);
 
-Visto il [R. decreto 24 agosto 1942, n. 1192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20calendario%20scolastico.%20042U1192.md);
+Visto il [R. decreto 24 agosto 1942, n. 1192](../Regi%20decreti/Modificazioni%20al%20calendario%20scolastico.%20042U1192.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](../Decreti%20legislativi%20luogotenenziali/Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Visto il [decreto legislativo Luogotenenziale 21 novembre 1945, n. 722](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md);
 

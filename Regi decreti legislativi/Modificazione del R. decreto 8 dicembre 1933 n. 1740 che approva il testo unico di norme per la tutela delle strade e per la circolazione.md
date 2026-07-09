@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), con il quale e' stato approvato il testo unico di norme per la tutela delle strade e per la' circolazione;
+Visto il [R. decreto 8 dicembre 1933, n. 1740](../Regi%20decreti/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), con il quale e' stato approvato il testo unico di norme per la tutela delle strade e per la' circolazione;
 
 Ritenuta la necessita' urgente di adeguare alla presente situazione economica le tariffe per esami di conducenti e per visite e prove di automobili;
 
@@ -22,7 +22,7 @@ Sulla proposta del Ministro per i trasporti e dei Ministro per il tesoro; Abbiam
 
 ## Art. 1.
 
-Le misure delle indennita' stabilite con l'[art. 108 del R. decreto 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), vengono aumentate del 200% (duecento per cento).
+Le misure delle indennita' stabilite con l'[art. 108 del R. decreto 8 dicembre 1933, n. 1740](../Regi%20decreti/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), vengono aumentate del 200% (duecento per cento).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

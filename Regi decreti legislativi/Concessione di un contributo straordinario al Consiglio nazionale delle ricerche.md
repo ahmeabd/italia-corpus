@@ -14,7 +14,7 @@ RE D'ITALIA
 
 Visto il [decreto legislativo Luogotenenziale 1° marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md);
 
-Visto il [decreto legislativo Luogotenenziale 10 agosto 1945, n. 481](../Atti%20normativi%20abrogati%20%28in%20originale%29/Stato%20di%20previsione%20dellentrata%20e%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%20dal%201%20luglio%201945%20al%2030%20giugno%201946.%20045U0481.md);
+Visto il [decreto legislativo Luogotenenziale 10 agosto 1945, n. 481](../Decreti%20legislativi%20luogotenenziali/Stato%20di%20previsione%20dellentrata%20e%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%20dal%201%20luglio%201945%20al%2030%20giugno%201946.%20045U0481.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

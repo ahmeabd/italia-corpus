@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 23 marzo 1931, n. 249](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
+Visto il [R. decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
 
 Visti gli [articoli 60](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), [61](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e [62 del R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 
@@ -20,7 +20,7 @@ Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https:
 
 Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;58);
 
-Visto l'[art. 1 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 146](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Consulta%20Nazionale.%20045U0146.md), e l'[art. 28 del decreto legislativo Luogotenenziale 31 agosto 1945, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;539#art_28);
+Visto l'[art. 1 del decreto legislativo Luogotenenziale 5 aprile 1945, n. 146](../Decreti%20legislativi%20luogotenenziali/Istituzione%20della%20Consulta%20Nazionale.%20045U0146.md), e l'[art. 28 del decreto legislativo Luogotenenziale 31 agosto 1945, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-31;539#art_28);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
