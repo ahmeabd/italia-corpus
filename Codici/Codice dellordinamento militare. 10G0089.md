@@ -6458,12 +6458,21 @@ Il Ministro della difesa di concerto con quello dell'interno stabilisce, con il 
                             a)
                                 alloggi di servizio gratuiti connessi all'incarico;
                             b)
-                                alloggi di servizio in temporanea concessione.
+                                alloggi di servizio in temporanea concessione;
+                            b-bis)
+                                ((alloggi di servizio per esigenze temporanee)).
 
 2.
 
-La concessione dell'alloggio di servizio di cui al comma 1, lettera a) e' autorizzata dal Comando generale dell'Arma dei carabinieri e decade con la cessazione dell'incarico. 
- I criteri per la determinazione dei canoni di concessione degli alloggi di cui alla lettera b) del comma 1 sono stabiliti con il regolamento sulla base delle disposizioni di legge vigenti in materia di definizione dell'equo canone; sulle relative norme e' acquisito il concerto con il Ministro dell'interno. Il canone e' aggiornato, annualmente, in misura pari al 75 per cento della variazione accertata dall'Istituto nazionale di statistica dell'ammontare dei prezzi al consumo per le famiglie degli operai e impiegati, verificatasi nell'anno precedente, con decreto del Ministro della difesa, d'intesa con il Ministro dell'economia e delle finanze e con il Ministro dell'interno. 
+La concessione dell'alloggio di servizio di cui al comma 1, lettera a) e' autorizzata dal Comando generale dell'Arma dei carabinieri e decade con la cessazione dell'incarico.
+
+3.
+
+I criteri per la determinazione dei canoni di concessione degli alloggi di cui alla lettera b) del comma 1 sono stabiliti con il regolamento sulla base delle disposizioni di legge vigenti in materia di definizione dell'equo canone; sulle relative norme e' acquisito il concerto con il Ministro dell'interno. Il canone e' aggiornato, annualmente, in misura pari al 75 per cento della variazione accertata dall'Istituto nazionale di statistica dell'ammontare dei prezzi al consumo per le famiglie degli operai e impiegati, verificatasi nell'anno precedente, con decreto del Ministro della difesa, d'intesa con il Ministro dell'economia e delle finanze e con il Ministro dell'interno.
+
+3-bis.
+
+((Gli alloggi di cui al comma 1, lettera b-bis), sono concessi prioritariamente al personale dell'Arma dei carabinieri nell'interesse dell'amministrazione, per motivate esigenze di carattere temporaneo connesse al servizio, individuate con determinazione del Comandante generale dell'Arma dei carabinieri. Per eccezionali e documentate esigenze connesse alle attivita' istituzionali dell'Arma dei carabinieri, gli alloggi possono essere concessi anche al personale appartenente alle Forze armate nazionali e alle Forze armate e di polizia estere, ovvero al personale appartenente ad altre amministrazioni dello Stato)). 
  
 --------------- 
 Nota redazionale 
@@ -6475,6 +6484,24 @@ Nota redazionale
 1.
 
 Il Ministro della difesa di concerto con quello dell'interno, con proprio decreto, emana le norme regolamentari per la ripartizione tra ufficiali, sottufficiali, appuntati e carabinieri degli alloggi di cui alla lettera b) dell'articolo 295, le modalita' di assegnazione degli alloggi stessi, il calcolo del canone e degli altri oneri, i tempi di adeguamento dei canoni per gli alloggi preesistenti, la formazione delle graduatorie, con particolare riferimento al punteggio, che e' determinato in base alla composizione e al reddito del nucleo familiare, nonche' ai benefici gia' goduti o alle condizioni di disagio di arrivo in una nuova sede, e la composizione, d'intesa con ((le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478)), di commissioni per l'assegnazione degli alloggi stessi. Sono comunque a carico del concessionario, che vi provvede direttamente, le spese per le piccole riparazioni di cui all'[articolo 1609 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1609), nonche' le spese per il consumo di acqua, luce e riscaldamento dell'alloggio ed eventuali altri servizi necessari, ivi comprese, in rapporto alla consistenza millesimale dell'alloggio, le spese di gestione e funzionamento degli ascensori, di pulizia delle parti in comune e della loro illuminazione. ((Le associazioni professionali a carattere sindacale tra militari rappresentative del personale dell'Arma dei carabinieri ai sensi dell'articolo 1478 sono chiamate)) preventivamente a esprimere il parere sulle norme regolamentari emanate ai sensi del presente articolo, da comunicare al Comando generale dell'Arma dei carabinieri entro il termine di quindici giorni dalla richiesta, termine oltre il quale il parere si intende acquisito.
+
+### Art. 296-bis. — (( (Criteri di concessione degli alloggi di servizio per esigenze temporanee dell'Arma dei carabinieri e determinazione della retta).))
+
+1.
+
+((I concessionari degli alloggi di cui all'articolo 295, comma 1, lettera b-bis), corrispondono una retta giornaliera commisurata ai costi di gestione dei servizi e per l'uso della mobilia.))
+
+2.
+
+((La concessione degli alloggi di cui al comma 1 non rileva ai fini dell'applicazione delle norme relative al trattamento economico di trasferimento del personale appartenente alle Forze armate.))
+
+3.
+
+((I criteri per le concessioni degli alloggi di cui al comma 1 e per la determinazione delle rispettive rette a carico dei concessionari sono stabiliti con il regolamento.))
+
+4.
+
+((Al fine di garantire l'efficienza e il miglioramento delle condizioni infrastrutturali degli alloggi di servizio dell'Arma dei carabinieri di cui alla presente sezione, il Ministro dell'economia e delle finanze e' autorizzato a provvedere, con propri decreti, alla riassegnazione delle somme derivanti dalla concessione dei medesimi alloggi, versate all'entrata del bilancio dello Stato, sui pertinenti programmi dello stato di previsione del Ministero della difesa)).
 
 ## SEZIONE III ALLOGGI DI SERVIZIO CONNESSI AL NUOVO MODELLO DELLE FORZE ARMATE
 
