@@ -30,7 +30,7 @@ Piena ed intera esecuzione e' data all'Atto di cui all'articolo 1, a decorrere d
 
 1.
 
-L'articolo 155 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), e' sostituito dal seguente: 
+L'articolo 155 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), e' sostituito dal seguente: 
  «Art. 155. (Deposito di domande internazionali di disegni e modelli). - 1. Le persone fisiche e giuridiche italiane o quelle che abbiano il domicilio o una effettiva organizzazione in Italia possono depositare le domande internazionali per la protezione dei disegni o modelli direttamente presso l'Ufficio internazionale oppure presso l'Ufficio italiano brevetti e marchi, ai sensi dell'articolo 4, paragrafo 1, dell'Atto di Ginevra dell'Accordo dell'Aja concernente la registrazione internazionale dei disegni e modelli industriali, fatto a Ginevra il 2 luglio 1999, di seguito denominato «Accordo del 1999».
 
 2.
@@ -53,7 +53,7 @@ La domanda internazionale designante l'Italia deve contenere gli elementi indica
 
 1.
 
-Ai sensi di quanto previsto dall'articolo 17, paragrafo 3, lettera b), dell'Atto di cui all'articolo 1, la protezione internazionale del disegno o modello puo' durare fino a un massimo di venticinque anni dalla data di deposito della domanda di registrazione, a condizione che la registrazione internazionale sia rinnovata, conformemente alla durata massima della protezione disposta dall'articolo 37 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md).
+Ai sensi di quanto previsto dall'articolo 17, paragrafo 3, lettera b), dell'Atto di cui all'articolo 1, la protezione internazionale del disegno o modello puo' durare fino a un massimo di venticinque anni dalla data di deposito della domanda di registrazione, a condizione che la registrazione internazionale sia rinnovata, conformemente alla durata massima della protezione disposta dall'articolo 37 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md).
 
 ## Art. 5. — Clausola di invarianza finanziaria
 

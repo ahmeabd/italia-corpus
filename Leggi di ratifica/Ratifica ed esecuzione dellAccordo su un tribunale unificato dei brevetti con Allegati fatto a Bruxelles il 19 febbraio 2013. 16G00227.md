@@ -33,11 +33,11 @@ Modifica all'[articolo 3 del decreto legislativo 27 giugno 2003, n. 168](../Decr
 
 ## Art. 4.
 
-Modifiche all'articolo 66 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), in materia di diritto di brevetto
+Modifiche all'articolo 66 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), in materia di diritto di brevetto
 
 1.
 
-Dopo il comma 2 dell'articolo 66 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Codici/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), sono aggiunti i seguenti: 
+Dopo il comma 2 dell'articolo 66 del codice della proprieta' industriale, di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md), sono aggiunti i seguenti: 
  «2-bis. Il brevetto conferisce al titolare anche il diritto esclusivo di vietare ai terzi, salvo proprio consenso, di fornire o di offrire di fornire a soggetti diversi dagli aventi diritto all'utilizzazione dell'invenzione brevettata i mezzi relativi a un elemento indispensabile di tale invenzione e necessari per la sua attuazione nel territorio di uno Stato in cui la medesima sia protetta, qualora il terzo abbia conoscenza dell'idoneita' e della destinazione di detti mezzi ad attuare l'invenzione o sia in grado di averla con l'ordinaria diligenza. 
  2-ter. Il comma 2-bis non si applica quando i mezzi sono costituiti da prodotti che si trovano correntemente in commercio, a meno che il terzo non induca il soggetto a cui sono forniti a compiere gli atti vietati ai sensi del comma 2. 
  2-quater. Ai fini di cui al comma 2-bis non si considerano aventi diritto all'utilizzazione dell'invenzione i soggetti che compiono gli atti di cui all'articolo 68, comma 1».

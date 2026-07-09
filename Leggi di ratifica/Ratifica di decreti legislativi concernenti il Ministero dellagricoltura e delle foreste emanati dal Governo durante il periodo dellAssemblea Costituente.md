@@ -27,7 +27,7 @@ I seguenti decreti legislativi sono ratificati, salvi gli effetti degli atti leg
  2 agosto 1946, n. 75 - Disposizioni relative al settore lattiero caseario.
  12 agosto 1946, n. 76 - Competenza territoriale del Credito fondiario sarda.
  27 giugno 1946, n. 98 - Esenzione dalla imposta fondiaria e sul reddito agrario per i terreni montani.
- 13 settembre 1946, n. 178 - Estensione all'Italia settentrionale delle disposizioni di cui al [decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md), e successive modificazioni, riguardante i prezzi del pane e della pasta e la concessione di una indennita' caropane.
+ 13 settembre 1946, n. 178 - Estensione all'Italia settentrionale delle disposizioni di cui al [decreto legislativo luogotenenziale 22 febbraio 1945, n. 38](../Decreti%20legislativi%20luogotenenziali/Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md), e successive modificazioni, riguardante i prezzi del pane e della pasta e la concessione di una indennita' caropane.
  5 ottobre 1946, n. 193 - Sanzioni relative alla disciplina dei consumi, del commercio e del conferimento di prodotti agricoli soggetti a vincolo.
  23 agosto 1946, n. 259 - Concessione di agevolazioni tributarie per le operazioni finanziarie occorrenti per la liquidazione degli Enti economici dell'agricoltura e della loro associazione.
  23 agosto 1946, n. 310 - Abolizione dell'ammasso obbligatorio dei bozzoli e concessione di particolari provvidenze per l'ammasso volontario di detto prodotto.
@@ -55,7 +55,7 @@ I seguenti decreti legislativi sono ratificati, salvi gli effetti degli atti leg
  1 aprile 1947, n. 273 - Proroga dei contratti agrari.
  1 aprile 1947, n. 277 - Provvedimenti in materia di affitto di fondi rustici.
  18 marzo 1947, n. 313 - Garanzia solidale degli Enti economici dell'agricoltura e della loro associazione nelle operazioni finanziarie occorrenti per la loro liquidazione.
- 1 aprile 1947, n. 337 - Modificazioni al [decreto legislativo luogotenenziale 8 maggio 1946, n. 339](../Atti%20normativi%20abrogati%20%28in%20originale%29/norme%20e%20premi%20per%20il%20conferimento%20ai%20Granai%20del%20popolo%20di%20alcuni%20cereali.md), concernente la concessione di premi per il conferimento ai "Granai del popolo" di alcuni cereali.
+ 1 aprile 1947, n. 337 - Modificazioni al [decreto legislativo luogotenenziale 8 maggio 1946, n. 339](../Decreti%20legislativi%20luogotenenziali/norme%20e%20premi%20per%20il%20conferimento%20ai%20Granai%20del%20popolo%20di%20alcuni%20cereali.md), concernente la concessione di premi per il conferimento ai "Granai del popolo" di alcuni cereali.
  12 maggio 1947, n. 356 - Rivalutazione degli estimi catastali dei terreni e del reddito agrario.
  13 maggio 1947, n. 383 - Provvedimenti a favore del Segretariato nazionale della montagna.
  18 marzo 1947, n. 410 - Determinazione del prezzo delle barbabietole da zucchero di produzione 1946.
@@ -94,7 +94,7 @@ studi e ricerche necessari alla redazione del piano generale e dei progetti di b
 competenza del Ministero dell'agricoltura e delle foreste delle norme che disciplinano le opere pubbliche di competenza del Ministero dei lavori pubblici.
  31 dicembre 1947, n. 1744 - Modificazioni alle disposizioni in materia di bonifica.
  19 febbraio 1948, n. 82 - Modificazioni ed integrazioni ai provvedimenti legislativi in materia di contratti agrari.
- 4 marzo 1948, n. 143 - Modificazioni al [decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), istitutivo dell'Ente regionale per la lotta antianofelica in Sardegna.
+ 4 marzo 1948, n. 143 - Modificazioni al [decreto legislativo luogotenenziale 12 aprile 1946, n. 174](../Decreti%20legislativi%20luogotenenziali/Costituzione%20dellEnte%20per%20la%20lotta%20antianofelica%20in%20Sardegna.md), istitutivo dell'Ente regionale per la lotta antianofelica in Sardegna.
  26 gennaio 1948, n. 169 - Assunzione a carico dello Stato dell'onere risultante dalle importazioni di cereali derivati e prodotti comunque destinati alla panipastificazione a decorrere dalla campagna cerealicola 1946-47.
  19 marzo 1948, n. 232 - Autorizzazione di spesa per provvedere alle esigenze relative alla lotta contro le cavallette nella campagna 1947.
  17 marzo 1948, n. 319 - Autorizzazione di spesa per la concessione di contributi per la ripresa dell'efficienza produttiva delle aziende agricole.

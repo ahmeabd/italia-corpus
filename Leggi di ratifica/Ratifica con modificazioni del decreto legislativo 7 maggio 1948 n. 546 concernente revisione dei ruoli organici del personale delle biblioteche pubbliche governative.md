@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 7 maggio 1948, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md), e' ratificato con la seguente modificazione:
+Il [decreto legislativo 7 maggio 1948, n. 546](../Decreti%20Legislativi/Revisione%20dei%20ruoli%20organici%20del%20personale%20delle%20Biblioteche%20pubbliche%20governative.md), e' ratificato con la seguente modificazione:
  Art. 16-bis (nuovo). - "Le vedove di guerra, in servizio da almeno due anni nelle biblioteche pubbliche governative, quali avventizie di prima, seconda, terza e quarta categoria, potranno essere assunte nei ruoli rispettivamente di gruppo A, B, o C o del personale subalterno, ove vi sia la disponibilita' di posti, previo giudizio favorevole del Consiglio di amministrazione".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

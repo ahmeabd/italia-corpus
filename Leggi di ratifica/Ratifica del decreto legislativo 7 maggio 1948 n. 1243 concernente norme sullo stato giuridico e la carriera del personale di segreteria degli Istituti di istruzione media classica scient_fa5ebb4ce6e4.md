@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Articolo unico.
 
-Il [decreto legislativo 7 maggio 1948, n. 1243](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md), e' ratificato.
+Il [decreto legislativo 7 maggio 1948, n. 1243](../Decreti%20Legislativi/Norme%20sulla%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md), e' ratificato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

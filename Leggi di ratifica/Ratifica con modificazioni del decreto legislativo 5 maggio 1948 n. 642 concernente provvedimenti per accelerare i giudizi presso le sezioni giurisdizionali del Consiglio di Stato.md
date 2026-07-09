@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 5 maggio 1948, n. 642](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20accelerare%20i%20giudizi%20presso%20le%20Sezioni%20giurisdizionali%20del%20Consiglio%20di%20Stato.md), e' ratificato con la seguente modificazione:
+Il [decreto legislativo 5 maggio 1948, n. 642](../Decreti%20Legislativi/Provvedimenti%20per%20accelerare%20i%20giudizi%20presso%20le%20Sezioni%20giurisdizionali%20del%20Consiglio%20di%20Stato.md), e' ratificato con la seguente modificazione:
  Articolo 3. - E' soppresso.
 
 ## Art. 2.

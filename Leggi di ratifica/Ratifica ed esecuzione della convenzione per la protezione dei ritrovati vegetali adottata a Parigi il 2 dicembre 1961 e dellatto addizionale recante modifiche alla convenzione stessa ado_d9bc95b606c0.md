@@ -46,7 +46,7 @@ Il decreto di cui all'articolo precedente dovra' rispondere ai seguenti principi
 ## Art. 5.
 
 Il decreto di cui al precedente articolo 3 dovra' altresi' stabilire:
- a) le, aggiunte di apportare al n. 136 della tabella, allegato A, al testo unico approvato con [decreto del Presidente della Repubblica 1 marzo 1961, n. 121](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni, al fine di introdurre una tassa di esame di L. 100.000 per le domande di brevetto per varieta' vegetali, nonche' una tassa di domanda di L. 60.000 e una tassa di concessione di L. 200.000 per le licenze obbligatorie speciali;
+ a) le, aggiunte di apportare al n. 136 della tabella, allegato A, al testo unico approvato con [decreto del Presidente della Repubblica 1 marzo 1961, n. 121](../DPR/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni, al fine di introdurre una tassa di esame di L. 100.000 per le domande di brevetto per varieta' vegetali, nonche' una tassa di domanda di L. 60.000 e una tassa di concessione di L. 200.000 per le licenze obbligatorie speciali;
  b) le spese necessarie per l'applicazione delle nuove disposizioni legislative concernenti la tutela dei ritrovati vegetali, spese alle quali si dovra' provvedere con le entrate derivanti dalle tasse previste alla lettera a) del presente articolo.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque setti di osservarla e di farla osservare come legge dello Stato.

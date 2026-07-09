@@ -31,7 +31,7 @@ Piena ed intera esecuzione e' data allo Scambio di lettere di cui all'articolo 1
 
 1.
 
-Al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 1549, comma 1, le parole: «non avere meno di ventotto anni e piu' di quaranta anni» sono sostituite dalle seguenti: «avere compiuto il venticinquesimo anno di eta'»;
                         b)

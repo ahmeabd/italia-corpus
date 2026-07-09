@@ -16,10 +16,10 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 8 maggio 1948, n. 1204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ai%20ruoli%20tecnici%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), e' ratificato con le seguenti modificazioni:
+Il [decreto legislativo 8 maggio 1948, n. 1204](../Decreti%20Legislativi/Modificazioni%20ai%20ruoli%20tecnici%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), e' ratificato con le seguenti modificazioni:
  Art. 6-bis (nuovo). - "Il posto di archivista capodisegnatore, al Consiglio superiore di sanita' (gruppo C, grado 9°) e' trasferito nel ruolo degli applicati tecnici di sanita' (gruppo C). Detto posto puo' essere conferito dall'Alto Commissario per l'igiene e la sanita', sentito il Consiglio di amministrazione, al primo applicato tecnico di sanita' (gruppo C, grado 9°) dopo tre anni di effettivo servizio, oppure, a scelta, agli applicati tecnici di sanita' di prima classe (gruppo (1, grado 10°) dopo sette anni di effettivo servizio.
 L'archivista capo-disegnatore di cui al precedente comma, consegue la promozione al grado B°, con la qualifica di coadiutore tecnico del Consiglio superiore di sanita', previo parere del Consiglio di amministrazione dell'Alto Commissariato per l'igiene e la sanita' pubblica, dopo tre anni di effettivo servizio".
- Al ruolo organico del personale tecnico dell'Alto Commissariato per l'igiene e la sanita' pubblica annesso al [decreto legislativo 8 maggio 1948, n. 1204](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ai%20ruoli%20tecnici%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), sono apportate le seguenti modificazioni:
+ Al ruolo organico del personale tecnico dell'Alto Commissariato per l'igiene e la sanita' pubblica annesso al [decreto legislativo 8 maggio 1948, n. 1204](../Decreti%20Legislativi/Modificazioni%20ai%20ruoli%20tecnici%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), sono apportate le seguenti modificazioni:
 
  Ruolo applicati tecnici di sanita' (gruppo C)
  Numero

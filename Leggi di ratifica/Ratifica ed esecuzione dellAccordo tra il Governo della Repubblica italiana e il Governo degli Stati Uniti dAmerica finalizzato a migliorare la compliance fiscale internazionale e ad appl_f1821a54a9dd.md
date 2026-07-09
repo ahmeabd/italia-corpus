@@ -141,7 +141,7 @@ Le regole tecniche per l'applicazione delle disposizioni del comma 1 del present
 
 1.
 
-Nei casi di violazione degli obblighi di cui all'articolo 5 della presente legge si applica la sanzione amministrativa prevista per la violazione degli obblighi degli operatori finanziari dall'[articolo 10, comma 1-bis, del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
+Nei casi di violazione degli obblighi di cui all'articolo 5 della presente legge si applica la sanzione amministrativa prevista per la violazione degli obblighi degli operatori finanziari dall'[articolo 10, comma 1-bis, del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md).
 
 2.
 

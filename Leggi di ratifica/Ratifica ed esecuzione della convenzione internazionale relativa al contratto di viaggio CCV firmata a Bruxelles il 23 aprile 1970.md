@@ -26,7 +26,7 @@ Il Presidente della Repubblica e' autorizzato a ratificare la convenzione intern
 
  
 AGGIORNAMENTO (1) 
- Il [D.Lgs. 23 maggio 2011, n. 79](../Codici/Codice%20della%20normativa%20statale%20in%20tema%20di%20ordinamento%20e%20mercato%20del%20turismo%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246%20nonche%20attuazione%20della%20direttiva%202008-122-CE%20relat_2346b7135fe2.md) ha disposto (con l'art. 3, comma 2) che la presente legge e' abrogata a decorrere dal momento in cui diviene efficace la denuncia dello Stato italiano della Convenzione internazionale sul contratto di viaggio del 23 aprile 1970, in conformita' a quanto disposto dall'articolo 37 della medesima.
+ Il [D.Lgs. 23 maggio 2011, n. 79](../Decreti%20Legislativi/Codice%20della%20normativa%20statale%20in%20tema%20di%20ordinamento%20e%20mercato%20del%20turismo%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246%20nonche%20attuazione%20della%20direttiva%202008-122-CE%20relat_2346b7135fe2.md) ha disposto (con l'art. 3, comma 2) che la presente legge e' abrogata a decorrere dal momento in cui diviene efficace la denuncia dello Stato italiano della Convenzione internazionale sul contratto di viaggio del 23 aprile 1970, in conformita' a quanto disposto dall'articolo 37 della medesima.
 
 ## Art. 2.
 

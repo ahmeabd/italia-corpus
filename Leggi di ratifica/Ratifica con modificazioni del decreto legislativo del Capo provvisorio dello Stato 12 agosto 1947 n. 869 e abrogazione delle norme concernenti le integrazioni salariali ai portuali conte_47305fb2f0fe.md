@@ -31,7 +31,7 @@ All'[art. 8 del decreto legislativo 9 novembre 1945, n. 788](https://www.normatt
 
 ## Art. 4.
 
-Il primo e il [secondo comma dell'art. 14 del decreto legislativo luogotenenziale 9 novembre 1945, n. 788](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md), sono abrogati.
+Il primo e il [secondo comma dell'art. 14 del decreto legislativo luogotenenziale 9 novembre 1945, n. 788](../Decreti%20legislativi%20luogotenenziali/Istituzione%20della%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria%20e%20disposizioni%20transitorie%20a%20favore%20dei%20lavoratori%20dellindustria%20dellAlta%20Italia.%20045U0788.md), sono abrogati.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

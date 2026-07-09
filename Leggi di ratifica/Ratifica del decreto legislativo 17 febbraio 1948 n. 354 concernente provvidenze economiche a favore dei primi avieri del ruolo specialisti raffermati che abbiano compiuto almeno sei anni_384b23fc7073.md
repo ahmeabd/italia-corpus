@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Il [decreto legislativo 17 febbraio 1948, n. 354](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvidenze%20economiche%20a%20favore%20dei%20primi%20avieri%20del%20ruolo%20specialisti%20raffermati%20che%20abbiano%20compiuto%20almeno%20sei%20anni%20di%20effettivo%20servizio.md), e' ratificato.
+Il [decreto legislativo 17 febbraio 1948, n. 354](../Decreti%20Legislativi/Provvidenze%20economiche%20a%20favore%20dei%20primi%20avieri%20del%20ruolo%20specialisti%20raffermati%20che%20abbiano%20compiuto%20almeno%20sei%20anni%20di%20effettivo%20servizio.md), e' ratificato.
 
 ## Art. 2.
 
