@@ -138,7 +138,7 @@ Chiunque vanti diritti ereditari puo', mediante ricorso con sottoscrizione auten
  
  Ove nell'eredita' siano compresi beni immobili, la richiesta del certificato e' obbligatoria. (6) ((7)) 
  
- Sono applicabili alle richieste dei certificati di eredita' e di legato le disposizioni dell'[articolo 49, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 637](../DPR/Disciplina%20dellimposta%20sulle%20successioni%20e%20donazioni.md).
+ Sono applicabili alle richieste dei certificati di eredita' e di legato le disposizioni dell'[articolo 49, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 637](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellimposta%20sulle%20successioni%20e%20donazioni.md).
 
 --------------
 
