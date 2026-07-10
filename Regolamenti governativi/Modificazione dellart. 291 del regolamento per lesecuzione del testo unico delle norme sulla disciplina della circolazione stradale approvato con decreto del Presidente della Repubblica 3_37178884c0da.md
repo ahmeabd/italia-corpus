@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visti gli articoli 48 e 78 del testo unico delle norme sulla disciplina stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md);
+Visti gli articoli 48 e 78 del testo unico delle norme sulla disciplina stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md);
 
 Visto l'art. 291 del regolamento di esecuzione del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), e modificato con [decreto del Presidente della Repubblica 4 novembre 1977, n. 922](Sostituzione%20dellart.%20291%20del%20regolamento%20per%20lesecuzione%20del%20codice%20della%20strada%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2030%20giugno%201959%20n.%20420.md);
 

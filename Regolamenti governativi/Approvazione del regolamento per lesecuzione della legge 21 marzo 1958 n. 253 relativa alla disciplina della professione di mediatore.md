@@ -57,8 +57,8 @@ Gli aspiranti alla iscrizione nei ruoli debbono essere di eta' maggiore, avere i
 ## Art. 6.
 
 Gli aspiranti alla iscrizione nei ruoli debbono presentare domanda alla Camera di commercio, industria e agricoltura indicando il ruolo e le categorie di merci o servizi per cui chiedono di essere iscritti.
- Alla domanda deve essere unita la quietanza rilasciata dall'Ufficio del registro, o l'attestazione del versamento in conto corrente postale della tassa di concessione governativa di iscrizione prevista al n. 202 della tabella allegato A al testo unico approvato con [decreto del Presidente della Repubblica 20 marzo 1953, n. 112](../DPR/Testo%20unico%20delle%20leggi%20vigenti%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni.
- Ai fini della documentazione relativa alle singole domande, le Camere di commercio, industria e agricoltura osserveranno le norme di cui al [decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../DPR/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md).
+ Alla domanda deve essere unita la quietanza rilasciata dall'Ufficio del registro, o l'attestazione del versamento in conto corrente postale della tassa di concessione governativa di iscrizione prevista al n. 202 della tabella allegato A al testo unico approvato con [decreto del Presidente della Repubblica 20 marzo 1953, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20leggi%20vigenti%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), e successive modificazioni.
+ Ai fini della documentazione relativa alle singole domande, le Camere di commercio, industria e agricoltura osserveranno le norme di cui al [decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md).
 
 ## Art. 7.
 

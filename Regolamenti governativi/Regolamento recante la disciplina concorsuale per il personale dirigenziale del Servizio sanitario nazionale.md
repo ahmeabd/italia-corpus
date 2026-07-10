@@ -807,7 +807,7 @@ Per la valutazione delle pubblicazioni, dei titoli scientifici e del curriculum 
  sulle materie inerenti alla disciplina a concorso nonche' sui compiti connessi alla funzione da conferire.
 
 Nota all'[art. 27:
- - Il D.Lgs. n. 257/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;257#art_27) reca: Attuazione della [direttiva n. 87/1976/CEE del Consiglio del 26 gennaio 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;1976), recante modifica di precedenti direttive in tema di formazione dei medici specialisti, a norma dell'[art. 6 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md) (legge comunitaria 1990).
+ - Il D.Lgs. n. 257/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;257#art_27) reca: Attuazione della [direttiva n. 87/1976/CEE del Consiglio del 26 gennaio 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;1976), recante modifica di precedenti direttive in tema di formazione dei medici specialisti, a norma dell'[art. 6 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md) (legge comunitaria 1990).
 
 ### Art. 28. — Concorso, per titoli ed esami, per il primo livello dirigenziale odontoiatra - Requisiti specifici di ammissione.
 

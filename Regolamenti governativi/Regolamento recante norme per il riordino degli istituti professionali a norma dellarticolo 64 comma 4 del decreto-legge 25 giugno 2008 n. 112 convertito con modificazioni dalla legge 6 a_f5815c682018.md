@@ -94,7 +94,7 @@ Le classi seconde e terze degli istituti professionali continuano a funzionare, 
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -124,7 +124,7 @@ Agli istituti professionali si riferiscono gli istituti tecnici superiori second
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -154,7 +154,7 @@ Le ore di compresenza in laboratorio relative ai percorsi di cui al comma 1, son
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -184,7 +184,7 @@ Gli istituti professionali per il settore industria ed artigianato sono dotati d
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -265,7 +265,7 @@ Nella fase transitoria gli istituti professionali di Stato possono svolgere dett
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -300,7 +300,7 @@ Attraverso specifiche intese tra il Ministero dell'istruzione, dell'universita' 
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -326,7 +326,7 @@ I risultati di apprendimento sono oggetto di valutazione periodica da parte dell
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -374,7 +374,7 @@ I posti relativi all'Ufficio tecnico di cui all'articolo 4, comma 3, sono copert
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -404,7 +404,7 @@ Il presente regolamento entra in vigore il giorno successivo a quello della sua 
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
@@ -427,7 +427,7 @@ A decorrere dalla data di entrata in vigore del presente regolamento, all'[artic
 AGGIORNAMENTO (1)
 
 Il [D.Lgs. 13 aprile 2017, n. 61](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20dei%20percorsi%20dellistruzione%20professionale%20nel%20rispetto%20dellarticolo%20117%20della%20Costituzione%20nonche%20raccordo%20con%20i%20percorsi%20dellistruzione%20e%20formazione%20professionale%20a%20norma%20della_6d32209126dc.md) ha disposto (con l'art. 13, comma 1) che il presente provvedimento e' abrogato a decorrere dall'anno scolastico 2022/2023. 
- Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
+ Ha inoltre disposto (con l'art. 14, comma 1) che "Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 87](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md), e successive modificazioni, continua ad applicarsi esclusivamente: 
  a) per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
  b) per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
  c) per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 

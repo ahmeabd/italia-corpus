@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](../DPR/Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sull'ordinamento delle carriere degli impiegati civili dello Stato;
+Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sull'ordinamento delle carriere degli impiegati civili dello Stato;
 
-Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 17](../DPR/Statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sullo statuto degli impiegati civili dello Stato;
+Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 17](../Atti%20normativi%20abrogati%20%28in%20originale%29/Statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sullo statuto degli impiegati civili dello Stato;
 
 Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), con il quale, e' stato approvato il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, Visto il [regio decreto-legge 16 giugno 1938, n. 962](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dei%20servizi%20e%20del%20personale%20delle%20imposte%20di%20fabbricazione%20e%20conseguente%20modificazione%20dellordinamento%20dei%20servizi%20o%20del%20personale%20del%20Catasto%20e%20dei%20Servizi%20tecnici%20erar_9d51e75eada9.md), convertito nella [legge 19 gennaio 1939, n. 210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2016%20giugno%201938-XVI%20n.%20962%20contenente%20il%20nuovo%20ordinamento%20dei%20servizi%20e%20del%20personale%20delle%20imposte%20di%20fabbricazione%20e%20in%20relazione%20ad%20esso%20la%20mo_6128ff10a22a.md), concernente l'ordinamento dei servizi e del personale delle imposte di fabbricazione;
 

@@ -10,20 +10,20 @@ vigente: true
 
 ## Art. 1.
 
-(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../DPR/Regolamento%20recante%20la%20disciplina%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ))
+(( PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) ))
 
 ## Art. 2.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../DPR/Regolamento%20recante%20la%20disciplina%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) ))
 
 ## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../DPR/Regolamento%20recante%20la%20disciplina%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) ))
 
 ## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../DPR/Regolamento%20recante%20la%20disciplina%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) ))
 
 ## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../DPR/Regolamento%20recante%20la%20disciplina%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministero%20dellistruzione%20delluniversita%20e%20della%20ricerca.md) ))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 1 DICEMBRE 1999, N. 477](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20lorganizzazione%20del%20Ministero%20delluniversita%20e%20della%20ricerca%20scientifica%20e%20tecnologica.md) ))

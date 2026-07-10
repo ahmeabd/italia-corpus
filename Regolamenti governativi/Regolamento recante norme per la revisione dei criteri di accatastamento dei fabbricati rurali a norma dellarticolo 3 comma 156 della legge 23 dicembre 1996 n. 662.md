@@ -56,7 +56,7 @@ Per l'accatastamento delle nuove costruzioni e delle variazioni di costruzioni p
 
 2.
 
-COMMA SOPPRESSO DAL [D.P.R. 30 DICEMBRE 1999, N. 536](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2023%20marzo%201998%20n.%20139%20concernente%20la%20revisione%20dei%20criteri%20di%20accatastamento%20dei%20fabbricati%20rurali.md).
+COMMA SOPPRESSO DAL [D.P.R. 30 DICEMBRE 1999, N. 536](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2023%20marzo%201998%20n.%20139%20concernente%20la%20revisione%20dei%20criteri%20di%20accatastamento%20dei%20fabbricati%20rurali.md).
 
 3.
 

@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), sulla assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti;
 
-Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
+Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
 
 Sentita la commissione consultiva per le assicurazioni private;
 
@@ -87,7 +87,7 @@ Il certificato di assicurazione per i veicoli di cui all'art. 1 della legge deve
  e) periodo di assicurazione per il quale sono stati pagati il premio o la rata di premio;
  f) numero del contratto di assicurazione.
 
- Il certificato relativo ai veicoli che circolino a scopo di prova tecnica o di dimostrazione per la vendita, a norma dell'[art. 63 del decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), deve contenere, in sostituzione dei dati indicati nella lettera d) del precedente comma, i dati della targa di prova.
+ Il certificato relativo ai veicoli che circolino a scopo di prova tecnica o di dimostrazione per la vendita, a norma dell'[art. 63 del decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), deve contenere, in sostituzione dei dati indicati nella lettera d) del precedente comma, i dati della targa di prova.
  Per le assicurazioni relative a veicoli con rimorchio debbono essere rilasciati certificati distinti per la motrice e il rimorchio.
 
 ### Art. 10. — (Requisiti del certificato di assicurazione per i natanti)
@@ -494,7 +494,7 @@ I rischi relativi ai contratti in corso alla data di entrata in vigore dell'obbl
 
 ### Art. 69. — (Partecipazione dei rappresentanti degli utenti alla commissione consultiva per le assicurazioni private)
 
-Nel caso in cui la commissione consultiva per le assicurazioni private sia richiesta di esprimere pareri in materia di tariffe per l'assicurazione della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, il Ministro per l'industria, il commercio e l'artigianato, chiama a partecipare alle riunioni, a norma dell'art. 79, secondo comma, del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), esperti di particolare competenza scelti fra le diverse categorie di utenti per coadiuvare la commissione nell'assolvimento del suo compito.
+Nel caso in cui la commissione consultiva per le assicurazioni private sia richiesta di esprimere pareri in materia di tariffe per l'assicurazione della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, il Ministro per l'industria, il commercio e l'artigianato, chiama a partecipare alle riunioni, a norma dell'art. 79, secondo comma, del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), esperti di particolare competenza scelti fra le diverse categorie di utenti per coadiuvare la commissione nell'assolvimento del suo compito.
 
 ### Art. 70. — (Modalita' per la determinazione dei sinistri avvenuti
  nell'esercizio)

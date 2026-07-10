@@ -179,7 +179,7 @@ Il Ministro, riconosciuta la regolarita' del procedimento, approva le graduatori
 ### Art. 18.
 
 Con provvedimenti aventi effetto dal 1 ottobre dello anno al quale si riferisce l'accertamento del numero dei posti messi a concorso i vincitori conguono il passaggio anticipato alla classe di stipendio superiore a quella di appartenenza all'atto dell'ammissione al concorso cui hanno partecipato.
- Per gli insegnanti degli Istituti d'istruzione secondaria i provvedimenti previsti dal precedente comma sono adottati, ai sensi dell'[art. 5 del decreto del Presidente della Repubblica 30 giugno 1955, n. 766](../DPR/Decentramento%20dei%20servizi%20del%20Ministero%20della%20pubblica%20istruzione.md), dai provveditori agli studi; per gli insegnanti degli Istituti di istruzione artistica gli stessi provvedimenti sono adottati dal Ministro per la pubblica istruzione.
+ Per gli insegnanti degli Istituti d'istruzione secondaria i provvedimenti previsti dal precedente comma sono adottati, ai sensi dell'[art. 5 del decreto del Presidente della Repubblica 30 giugno 1955, n. 766](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20dei%20servizi%20del%20Ministero%20della%20pubblica%20istruzione.md), dai provveditori agli studi; per gli insegnanti degli Istituti di istruzione artistica gli stessi provvedimenti sono adottati dal Ministro per la pubblica istruzione.
 
 ### Art. 19.
 
@@ -250,7 +250,7 @@ Agli insegnanti compresi nell'elenco di cui al precedente articolo l'aumento ant
 
 ### Art. 29.
 
-L'aumento periodico anticipato di cui al precedente articolo e' attribuito agli insegnanti degli Istituti di istruzione secondaria dal provveditore agli studi competente per territorio, ai sensi dell'[art. 5 del decreto del Presidente della Repubblica del 30 giugno 1955, n. 766](../DPR/Decentramento%20dei%20servizi%20del%20Ministero%20della%20pubblica%20istruzione.md). Agli insegnamenti degli Istituti d'istruzione artistica l'aumento e' attribuito dal Ministero della pubblica istruzione.
+L'aumento periodico anticipato di cui al precedente articolo e' attribuito agli insegnanti degli Istituti di istruzione secondaria dal provveditore agli studi competente per territorio, ai sensi dell'[art. 5 del decreto del Presidente della Repubblica del 30 giugno 1955, n. 766](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20dei%20servizi%20del%20Ministero%20della%20pubblica%20istruzione.md). Agli insegnamenti degli Istituti d'istruzione artistica l'aumento e' attribuito dal Ministero della pubblica istruzione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

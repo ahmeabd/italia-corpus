@@ -480,7 +480,7 @@ Sono abrogati l'[articolo 11 del decreto legislativo 27 gennaio 1992, n. 111](..
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 marzo 2013, n. 44](../DPR/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera a)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione unica per la dietetica e la nutrizione di cui al presente articolo.
+Il [D.P.R. 28 marzo 2013, n. 44](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera a)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione unica per la dietetica e la nutrizione di cui al presente articolo.
 
 ## Art. 8. — Commissione interministeriale di valutazione in materia di biotecnologie
 

@@ -56,7 +56,7 @@ Ferma restando la disciplina sostanziale in materia di assunzioni obbligatorie d
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 24 febbraio 2026, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), ha disposto (con l'art. 27, comma 3) che "L'[articolo 1, comma 2, del decreto del Presidente della Repubblica 10 ottobre 2000, n. 333](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2012%20marzo%201999%20n.%2068%20recante%20norme%20per%20il%20diritto%20al%20lavoro%20dei%20disabili.md), si interpreta nel senso che i familiari dell'invalido riconosciuto vittima del dovere possono iscriversi negli elenchi del collocamento obbligatorio di cui all'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8), purche' il dante causa non risulti contestualmente iscritto".
+Il [D.L. 24 febbraio 2026, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), ha disposto (con l'art. 27, comma 3) che "L'[articolo 1, comma 2, del decreto del Presidente della Repubblica 10 ottobre 2000, n. 333](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20della%20legge%2012%20marzo%201999%20n.%2068%20recante%20norme%20per%20il%20diritto%20al%20lavoro%20dei%20disabili.md), si interpreta nel senso che i familiari dell'invalido riconosciuto vittima del dovere possono iscriversi negli elenchi del collocamento obbligatorio di cui all'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8), purche' il dante causa non risulti contestualmente iscritto".
 
 ## Art. 2. — Obbligo di riserva
 

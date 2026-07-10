@@ -74,7 +74,7 @@ AGGIORNAMENTO (2)
 
 ## Art. 3.
 
-ARTICOLO ABROGATO DAL [D.P.R. 18 APRILE 1994, N. 392](../DPR/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20riconoscimento%20delle%20imprese%20ai%20fini%20della%20installazione%20ampliamento%20e%20trasformazione%20degli%20impianti%20nel%20rispetto%20delle%20norme%20di%20sicurezza.md) ((2))
+ARTICOLO ABROGATO DAL [D.P.R. 18 APRILE 1994, N. 392](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20riconoscimento%20delle%20imprese%20ai%20fini%20della%20installazione%20ampliamento%20e%20trasformazione%20degli%20impianti%20nel%20rispetto%20delle%20norme%20di%20sicurezza.md) ((2))
 
 ---------------
 
@@ -186,7 +186,7 @@ La dichiarazione di conformita' e' rilasciata anche sugli impianti realizzati da
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 18 APRILE 1994, N. 392](../DPR/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20riconoscimento%20delle%20imprese%20ai%20fini%20della%20installazione%20ampliamento%20e%20trasformazione%20degli%20impianti%20nel%20rispetto%20delle%20norme%20di%20sicurezza.md). 
+COMMA ABROGATO DAL [D.P.R. 18 APRILE 1994, N. 392](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20riconoscimento%20delle%20imprese%20ai%20fini%20della%20installazione%20ampliamento%20e%20trasformazione%20degli%20impianti%20nel%20rispetto%20delle%20norme%20di%20sicurezza.md). 
  ((2))
 
 ---------------

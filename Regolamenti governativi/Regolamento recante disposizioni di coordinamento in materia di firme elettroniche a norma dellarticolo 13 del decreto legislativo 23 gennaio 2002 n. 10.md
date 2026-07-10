@@ -14,11 +14,11 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[articolo 4, comma 5, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
+Visto l'[articolo 4, comma 5, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
 
 Visto l'[articolo 7 della legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50#art_7), come modificato dall'[articolo 1, comma 6, lettera e), della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_1-com6-lete);
 
-Vista la [legge 29 dicembre 2000, n. 422](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md);
+Vista la [legge 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md);
 
 Visto il [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), recante [testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) (testo A);
 

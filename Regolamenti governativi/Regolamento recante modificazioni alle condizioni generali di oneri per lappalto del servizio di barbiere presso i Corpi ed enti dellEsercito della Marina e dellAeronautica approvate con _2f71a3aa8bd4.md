@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto del Presidente della Repubblica 8 gennaio 1977, n. 64](../DPR/Approvazione%20delle%20condizioni%20generali%20doneri%20per%20lappalto%20del%20servizio%20di%20barbiere%20presso%20i%20corpi%20ed%20enti%20dello%20Esercito%20della%20Marina%20e%20dellAeronautica.md), recante approvazione delle condizioni generali d'oneri per l'appalto del servizio di barbiere presso i Corpi ed enti dell'Esercito, della Marina e dell'Aeronautica;
+Visto il [decreto del Presidente della Repubblica 8 gennaio 1977, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20condizioni%20generali%20doneri%20per%20lappalto%20del%20servizio%20di%20barbiere%20presso%20i%20corpi%20ed%20enti%20dello%20Esercito%20della%20Marina%20e%20dellAeronautica.md), recante approvazione delle condizioni generali d'oneri per l'appalto del servizio di barbiere presso i Corpi ed enti dell'Esercito, della Marina e dell'Aeronautica;
 
 Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -30,7 +30,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Alle condizioni generali d'oneri per l'appalto del servizio di barbiere presso i Corpi ed enti dell'Esercito, della Marina e dell'Aeronautica, approvate con [decreto del Presidente della Repubblica 8 gennaio 1977, n. 64](../DPR/Approvazione%20delle%20condizioni%20generali%20doneri%20per%20lappalto%20del%20servizio%20di%20barbiere%20presso%20i%20corpi%20ed%20enti%20dello%20Esercito%20della%20Marina%20e%20dellAeronautica.md), sono apportate le modifiche di cui ai successivi commi.
+Alle condizioni generali d'oneri per l'appalto del servizio di barbiere presso i Corpi ed enti dell'Esercito, della Marina e dell'Aeronautica, approvate con [decreto del Presidente della Repubblica 8 gennaio 1977, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20condizioni%20generali%20doneri%20per%20lappalto%20del%20servizio%20di%20barbiere%20presso%20i%20corpi%20ed%20enti%20dello%20Esercito%20della%20Marina%20e%20dellAeronautica.md), sono apportate le modifiche di cui ai successivi commi.
 
 2.
 

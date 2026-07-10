@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 3.
 
@@ -38,7 +38,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 4.
 
@@ -48,7 +48,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 5.
 
@@ -58,7 +58,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 6.
 
@@ -68,7 +68,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 7.
 
@@ -78,7 +78,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 8.
 
@@ -88,7 +88,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 9.
 
@@ -99,7 +99,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 10.
 
@@ -109,7 +109,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 11.
 
@@ -119,7 +119,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 12.
 
@@ -129,7 +129,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 13.
 
@@ -139,7 +139,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 14.
 
@@ -149,7 +149,7 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
 
 ## Art. 15.
 
@@ -159,4 +159,4 @@ Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 1 febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.
+Il [D.P.R. 1 febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md), ha disposto (con l'art. 41, comma 2) che la disciplina prevista dal medesimo regolamento ha efficacia dalla data di entrata in vigore della legge di bilancio relativa all'esercizio finanziario 2011.

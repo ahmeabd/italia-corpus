@@ -14,7 +14,7 @@ Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.i
 
 Visto l'articolo 14 delle disposizioni preliminari alla tariffa doganale della Repubblica italiana approvate con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), e successive modificazioni;
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visti il decreto del Ministro delle poste e delle telecomunicazioni 31 gennaio 1983, con il quale e' stato approvato il piano nazionale di ripartizione delle radiofrequenze, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983, e le successive modificazioni ed in particolare quelle di cui al decreto del Ministro delle poste e delle telecomunicazioni 26 marzo 1998, pubblicato nella Gazzetta Ufficiale n. 93 del 22 aprile 1998;
 

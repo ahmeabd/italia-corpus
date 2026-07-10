@@ -16,7 +16,7 @@ Visto l'[articolo 16 del codice della navigazione](../Regi%20decreti/Approvazion
 
 Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), navigazione marittima, approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
-Vista la tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione, approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../DPR/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni;
+Vista la tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione, approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni;
 
 Visto l'[articolo 17, comma 1, lettera d), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-letd);
 
@@ -50,7 +50,7 @@ Avvertenza:
  Con decreto del Presidente della Repubblica e' altresi' stabilita, agli effetti previsti dal codice e da altre leggi o regolamenti, la ripartizione del territorio interno dello Stato rispetto alle circoscrizioni marittime".
  "Art. 2 (Denominazione degli uffici marittimi). - L'ufficio della zona marittima e' denominato direzione marittima, l'ufficio del compartimento o capitaneria di porto, l'ufficio del circondario ufficio circondariale marittimo.
  Gli uffici che sono istituiti negli approdi di maggiore importanza in cui non hanno sede ne' l'ufficio del compartimento ne' l'ufficio del circondario sono denominati ufficio locale marittimo o delegazione di spiaggia".
- - Il testo del [D.P.R. 9 agosto 1956, n. 1250](../DPR/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), recante: "Approvazione della nuova tabella delle circoscrizioni territoriali della marina mercantile", pubblicato nella Gazzetta Ufficiale n. 288 del 13 novembre 1956, e' ora sostituito dal D.P.R. 5 ottobre 1994, n. 699, pubblicato nella Gazzetta Ufficiale n. 299 del 23 dicembre 1994.
+ - Il testo del [D.P.R. 9 agosto 1956, n. 1250](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), recante: "Approvazione della nuova tabella delle circoscrizioni territoriali della marina mercantile", pubblicato nella Gazzetta Ufficiale n. 288 del 13 novembre 1956, e' ora sostituito dal D.P.R. 5 ottobre 1994, n. 699, pubblicato nella Gazzetta Ufficiale n. 299 del 23 dicembre 1994.
  - Il testo dell'[art. 17, comma 1, lettera d), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-letd), pubblicata nella Gazzetta Ufficiale n. 214 del 12 settembre 1988 - supplemento ordinario, e' il seguente:
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:
  a)-c) (omissis);
@@ -60,7 +60,7 @@ Avvertenza:
 
 1.
 
-Il limite della circoscrizione territoriale dell'ufficio di cui all'articolo 1, nell'ambito della zona marittima di appartenenza, e' individuato nella tabella allegata al presente decreto che, vistata dal Ministro proponente, ne forma parte integrante e che integra e modifica la tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione, approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../DPR/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni.
+Il limite della circoscrizione territoriale dell'ufficio di cui all'articolo 1, nell'ambito della zona marittima di appartenenza, e' individuato nella tabella allegata al presente decreto che, vistata dal Ministro proponente, ne forma parte integrante e che integra e modifica la tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione, approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni.
 
 Nota all'art. 2:
  - Per quanto concerne il [D.P.R. n. 1250/1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956;1250) v. nelle note alle premesse.

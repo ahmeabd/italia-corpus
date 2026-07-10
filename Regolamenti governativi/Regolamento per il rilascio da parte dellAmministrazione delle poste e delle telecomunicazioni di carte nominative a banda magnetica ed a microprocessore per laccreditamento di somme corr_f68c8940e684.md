@@ -20,9 +20,9 @@ Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abro
 
 Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e delle telecomunicazioni, approvato con [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md);
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto l'[art. 7, comma dodicesimo, della legge 26 aprile 1983, n. 130](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), con cui viene stabilito che le tariffe postali, di bancoposta e di telecomunicazioni devono essere fissate con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro;
+Visto l'[art. 7, comma dodicesimo, della legge 26 aprile 1983, n. 130](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), con cui viene stabilito che le tariffe postali, di bancoposta e di telecomunicazioni devono essere fissate con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro;
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 

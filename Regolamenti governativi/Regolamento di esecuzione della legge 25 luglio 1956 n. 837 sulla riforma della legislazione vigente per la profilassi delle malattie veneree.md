@@ -262,7 +262,7 @@ I ricoveri dei malati venerei a carico dello Stato devono essere di norma autori
 
 ### Art. 32.
 
-Fermo restando il riparto di quattro quinti del fondo stanziato per le spese di cura delle malattie veneree, ai sensi dell'[art. 29 del decreto del Presidente della Repubblica 10 giugno 1955, n. 854](../DPR/Decentramento%20dei%20servizi%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), il rimanente quinto del fondo medesimo e' erogato a seguito di ulteriori giustificate richieste di accreditamento
+Fermo restando il riparto di quattro quinti del fondo stanziato per le spese di cura delle malattie veneree, ai sensi dell'[art. 29 del decreto del Presidente della Repubblica 10 giugno 1955, n. 854](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20dei%20servizi%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), il rimanente quinto del fondo medesimo e' erogato a seguito di ulteriori giustificate richieste di accreditamento
 
 ## Capo I Esami seriologici
 

@@ -53,7 +53,7 @@ La croce, conforme al modello annesso al [decreto del Presidente della Repubblic
 
 2.
 
-Si porta appesa al petto con un nastro di seta color verde scuro, tramezzato e limitato ai margini da una lista gialla in palo delle dimensioni di quello della croce per anzianita' di servizio dell'Esercito di cui al [decreto del Presidente della Repubblica 10 febbraio 1953, n. 331](../DPR/Modificazione%20dei%20modelli%20del%20distintivo%20di%20onore%20per%20i%20mutilati%20di%20guerra%20della%20croce%20per%20anzianita%20di%20servizio%20della%20medaglia%20militare%20al%20merito%20di%20lungo%20comando%20della%20medaglia%20al%20valor_aca9f14f93e1.md).
+Si porta appesa al petto con un nastro di seta color verde scuro, tramezzato e limitato ai margini da una lista gialla in palo delle dimensioni di quello della croce per anzianita' di servizio dell'Esercito di cui al [decreto del Presidente della Repubblica 10 febbraio 1953, n. 331](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20dei%20modelli%20del%20distintivo%20di%20onore%20per%20i%20mutilati%20di%20guerra%20della%20croce%20per%20anzianita%20di%20servizio%20della%20medaglia%20militare%20al%20merito%20di%20lungo%20comando%20della%20medaglia%20al%20valor_aca9f14f93e1.md).
 
 3.
 

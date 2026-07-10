@@ -238,7 +238,7 @@ Il tariffario relativo alle consulenze, ai dati ed ai pareri richiesti ai Serviz
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 5 aprile 1993, n. 106](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md) ha disposto (con l'art. 10, comma 7) che "Sono fatti salvi gli effetti prodotti dall'art. 18, comma 3, del regolamento approvato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md)."
+Il [D.P.R. 5 aprile 1993, n. 106](../Regolamenti%20di%20delegificazione/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md) ha disposto (con l'art. 10, comma 7) che "Sono fatti salvi gli effetti prodotti dall'art. 18, comma 3, del regolamento approvato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 85](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20geologico%20idrografico%20e%20mareografico%20sismico%20e%20dighe%20nellambito%20della%20Presidenza%20del%20Consigli_22dd683b662a.md)."
 
 ### Art. 19. — Trattamento giuridico ed economico
 
@@ -435,7 +435,7 @@ Il Servizio nazionale dighe, fermo restando quanto disposto dall'art. 9, comma 3
 
 Il Servizio nazionale dighe altresi':
                             a)
-                                LETTERA ABROGATA DAL [D.P.R. 5 APRILE 1993, N. 106](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md);
+                                LETTERA ABROGATA DAL [D.P.R. 5 APRILE 1993, N. 106](../Regolamenti%20di%20delegificazione/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md);
                             b)
                                 collabora con il Ministero dei lavori pubblici e con il Consiglio superiore dei lavori pubblici per l'aggiornamento delle norme tecniche per la progettazione e costruzione delle dighe di ritenuta.
 
@@ -538,7 +538,7 @@ Agli uffici sono preposti primi dirigenti tecnici.
 
 4.
 
-COMMA ABROGATO DAL [D.P.R. 5 APRILE 1993, N. 106](../DPR/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md). ((4))
+COMMA ABROGATO DAL [D.P.R. 5 APRILE 1993, N. 106](../Regolamenti%20di%20delegificazione/Regolamento%20concernente%20la%20riorganizzazione%20ed%20il%20potenziamento%20dei%20Servizi%20tecnici%20nazionali%20nellambito%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20ai%20sensi%20dellart.%209%20della%20legge%2018%20mag_1ef0eb6066ac.md). ((4))
 
 --------------
 

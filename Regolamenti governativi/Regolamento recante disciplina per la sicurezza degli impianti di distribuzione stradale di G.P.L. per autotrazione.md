@@ -20,7 +20,7 @@ Visto l'[articolo 1 della legge 13 maggio 1961, n. 469](https://www.normattiva.i
 
 Visto l'[articolo 2 della legge 26 luglio 1965, n. 966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-26;966#art_2);
 
-Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md);
+Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md);
 
 Visto il [decreto legislativo 19 settembre 1994, n. 626](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md);
 

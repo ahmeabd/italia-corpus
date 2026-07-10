@@ -14,7 +14,7 @@ Visto il [regio decreto-legge 19 ottobre 1938, n. 1933](https://www.normattiva.i
 
 Visto il regolamento sui servizi del lotto e sul personale delle ricevitorie approvato con [regio decreto 25 luglio 1940, n. 1077](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-07-25;1077), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 25 giugno 1953, n. 492](../DPR/Nuove%20norme%20sulla%20imposta%20di%20bollo.md);
+Visto il [decreto del Presidente della Repubblica 25 giugno 1953, n. 492](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulla%20imposta%20di%20bollo.md);
 
 Viste le [leggi 4 agosto 1955, n. 722 e 8 marzo 1968, n. 246](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20dei%20limiti%20previsti%20dalla%20legge%20sul%20lotto%20relativi%20alle%20tombole%20alle%20lotterie%20e%20alle%20pesche%20o%20banchi%20di%20beneficenza.md);
 

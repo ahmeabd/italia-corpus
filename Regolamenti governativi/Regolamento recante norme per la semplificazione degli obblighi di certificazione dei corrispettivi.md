@@ -272,7 +272,7 @@ Non sono altresi' soggette all'obbligo di documentazione disposto dall'[articolo
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 30 dicembre 1999, n. 544](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md) ha disposto (con l'art. 11, comma 2) che le disposizioni in esso contenute si applicano ai rapporti posti in essere a decorrere dal 1 gennaio 2000.
+Il [D.P.R. 30 dicembre 1999, n. 544](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md) ha disposto (con l'art. 11, comma 2) che le disposizioni in esso contenute si applicano ai rapporti posti in essere a decorrere dal 1 gennaio 2000.
 
 ---------------
 

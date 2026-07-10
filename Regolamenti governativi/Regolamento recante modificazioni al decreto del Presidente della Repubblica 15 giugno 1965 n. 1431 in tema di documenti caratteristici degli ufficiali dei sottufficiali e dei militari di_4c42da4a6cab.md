@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 5 novembre 1962, n. 1695](../Atti%20normativi%20abrogati%20%28in%20originale%29/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20dellAeronautica%20e%20della%20Guardia%20di%20finanza.md), riguardante documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina, dell'Aeronautica e del Corpo della guardia di finanza;
 
-Visto il [decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../DPR/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), quale risulta modificato dal [decreto del Presidente della Repubblica 14 agosto 1971, n. 1302](../DPR/Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201965%20n.%201431%20sui%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20_edf82901b3c2.md), concernente i documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina e dell'Aeronautica;
+Visto il [decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), quale risulta modificato dal [decreto del Presidente della Repubblica 14 agosto 1971, n. 1302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201965%20n.%201431%20sui%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20_edf82901b3c2.md), concernente i documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa dell'Esercito, della Marina e dell'Aeronautica;
 
 Uditi i pareri del Consiglio superiore delle Forze armate;
 
@@ -32,7 +32,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Il [comma quarto dell'art. 4 del decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../DPR/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), introdotto dall'[art. 3 del decreto del Presidente della Repubblica 14 agosto 1971, n. 1302](../DPR/Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201965%20n.%201431%20sui%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20_edf82901b3c2.md), e' sostituito dal seguente:
+Il [comma quarto dell'art. 4 del decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), introdotto dall'[art. 3 del decreto del Presidente della Repubblica 14 agosto 1971, n. 1302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201965%20n.%201431%20sui%20documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20_edf82901b3c2.md), e' sostituito dal seguente:
  "Gli elementi di informazione di cui ai precedenti commi primo e secondo sono limitati agli aspetti tecnici, quelli di cui al comma terzo, oltre agli aspetti tecnici, sono riferiti anche alle qualita' fisiche, morali e di carattere, culturali ed intellettuali, professionali, militari (eccetto, per queste ultime, il caso in cui il militare dipenda da autorita' civile). Gli elementi di informazione non contengono qualifica".
  AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -60,7 +60,7 @@ Nota all'art. 1:
 
 1.
 
-Il [secondo comma dell'art. 10 del decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../DPR/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), e' sostituito dal seguente:
+Il [secondo comma dell'art. 10 del decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), e' sostituito dal seguente:
  "Per gli ufficiali dell'Arma dei carabinieri e del Corpo delle capitanerie di porto e' redatto un terzo esemplare che e' custodito, rispettivamente, dal Comando generale dell'Arma e dall'Ispettorato generale delle capitanerie di porto".
 
 Nota all'art. 2:
@@ -75,7 +75,7 @@ Nota all'art. 2:
 
 1.
 
-L'[art. 16 del decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../DPR/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), e' sostituito dal seguente:
+L'[art. 16 del decreto del Presidente della Repubblica 15 giugno 1965, n. 1431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Documenti%20caratteristici%20degli%20ufficiali%20dei%20sottufficiali%20e%20dei%20militari%20di%20truppa%20dellEsercito%20della%20Marina%20e%20della%20Aeronautica.md), e' sostituito dal seguente:
  "Art. 16 - 1. I documenti caratteristici dei sottufficiali sono redatti in duplice esemplare e custoditi:
  a) un esemplare presso il comando di corpo, per i sottufficiali dell'Esercito e dell'Aeronautica; presso il Ministero per i sottufficiali della Marina;
  b) un esemplare presso l'autorita' cui ne e' devoluta la compilazione.

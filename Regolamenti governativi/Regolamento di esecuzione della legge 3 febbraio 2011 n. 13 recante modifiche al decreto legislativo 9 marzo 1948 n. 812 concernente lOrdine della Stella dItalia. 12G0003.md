@@ -187,10 +187,10 @@ La revoca e' disposta, previo parere del Consiglio dell'Ordine e su proposta del
 
 1.
 
-Con effetto dalla data di entrata in vigore del presente Regolamento e' abrogato il [decreto del Presidente della Repubblica 20 gennaio 1949, n. 61](../DPR/Norme%20per%20lesecuzione%20del%20decreto%20legislativo%209%20marzo%201948%20n.%20812%20relativo%20allistituzione%20dellOrdine%20della%20Stella%20della%20solidarieta%20italiana.md), e successive modificazioni.
+Con effetto dalla data di entrata in vigore del presente Regolamento e' abrogato il [decreto del Presidente della Repubblica 20 gennaio 1949, n. 61](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lesecuzione%20del%20decreto%20legislativo%209%20marzo%201948%20n.%20812%20relativo%20allistituzione%20dellOrdine%20della%20Stella%20della%20solidarieta%20italiana.md), e successive modificazioni.
 
 Note all'[art. 13: 
- Il decreto del Presidente della Repubblica 20 gennaio 1949, n. 61](../DPR/Norme%20per%20lesecuzione%20del%20decreto%20legislativo%209%20marzo%201948%20n.%20812%20relativo%20allistituzione%20dellOrdine%20della%20Stella%20della%20solidarieta%20italiana.md) (Norme per l'esecuzione del [decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md), relativo all'istituzione dell'Ordine della «Stella della solidarieta' italiana»), abrogato dal presente regolamento, e' stato pubblicato nella Gazz. Uff. 17 marzo 1949, n. 63.
+ Il decreto del Presidente della Repubblica 20 gennaio 1949, n. 61](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lesecuzione%20del%20decreto%20legislativo%209%20marzo%201948%20n.%20812%20relativo%20allistituzione%20dellOrdine%20della%20Stella%20della%20solidarieta%20italiana.md) (Norme per l'esecuzione del [decreto legislativo 9 marzo 1948, n. 812](../Decreti%20Legislativi/Nuove%20norme%20relative%20allOrdine%20della%20Stella%20dItalia.md), relativo all'istituzione dell'Ordine della «Stella della solidarieta' italiana»), abrogato dal presente regolamento, e' stato pubblicato nella Gazz. Uff. 17 marzo 1949, n. 63.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

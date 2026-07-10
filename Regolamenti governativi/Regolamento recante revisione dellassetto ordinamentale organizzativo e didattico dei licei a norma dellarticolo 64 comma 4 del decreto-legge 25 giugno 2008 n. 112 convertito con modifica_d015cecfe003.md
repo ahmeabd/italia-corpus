@@ -535,7 +535,7 @@ Il passaggio al nuovo ordinamento e' accompagnato da misure nazionali di sistema
 
 AGGIORNAMENTO (1)
 
-Il Decreto 7 ottobre 2010, n. 211 ha disposto (con l'art. 1, comma 1) che "Le Indicazioni nazionali di cui al [decreto del Presidente della Repubblica 15 marzo 2010, n. 89, articolo 13, comma 10, lettera a)](../DPR/Regolamento%20recante%20revisione%20dellassetto%20ordinamentale%20organizzativo%20e%20didattico%20dei%20licei%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modifica_d015cecfe003.md), comprendono la nota introduttiva di cui all'allegato A e la declinazione degli obiettivi di apprendimento di cui agli allegati B, C, D, E, F, G del presente decreto del quale fanno parte integrante"
+Il Decreto 7 ottobre 2010, n. 211 ha disposto (con l'art. 1, comma 1) che "Le Indicazioni nazionali di cui al [decreto del Presidente della Repubblica 15 marzo 2010, n. 89, articolo 13, comma 10, lettera a)](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20revisione%20dellassetto%20ordinamentale%20organizzativo%20e%20didattico%20dei%20licei%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modifica_d015cecfe003.md), comprendono la nota introduttiva di cui all'allegato A e la declinazione degli obiettivi di apprendimento di cui agli allegati B, C, D, E, F, G del presente decreto del quale fanno parte integrante"
 
 ## Art. 14. — Regioni a statuto speciale e province autonome 
  di Trento e di Bolzano

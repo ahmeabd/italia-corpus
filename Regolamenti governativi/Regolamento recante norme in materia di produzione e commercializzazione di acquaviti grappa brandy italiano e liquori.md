@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 50 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), il quale prevede che, con la procedura dell'[articolo 4, comma 5, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), il Governo emana, con uno o piu' regolamenti, norme intese a rivedere e riordinare la materia della produzione e commercializzazione dei prodotti alimentari conservati e non, anche se disciplinata con legge;
+Visto l'[articolo 50 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), il quale prevede che, con la procedura dell'[articolo 4, comma 5, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), il Governo emana, con uno o piu' regolamenti, norme intese a rivedere e riordinare la materia della produzione e commercializzazione dei prodotti alimentari conservati e non, anche se disciplinata con legge;
 
 Visto il regolamento (CEE) n. 1576/89, del Consiglio del 29 maggio 1989, che stabilisce le regole generali relative alla definizione, alla designazione e alla presentazione delle bevande spiritose;
 
@@ -55,7 +55,7 @@ Ferme restando le norme contenute nel regolamento (CEE) n. 1576/89 del Consiglio
 Note alle premesse:
  - L'[art. 50 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md) e' il seguente:
  "Art. 50. - 1. Il Governo emana, con uno o piu' regolamenti, norme intese a rivedere e riordinare la materia della produzione e commercializzazione dei prodotti alimentari conservati e non, anche se disciplinata con legge.
- 2. I regolamenti di cui al comma 1 sono adottati con la procedura prevista dall'[art. 4, comma 5, della legge 9 marzo 1989, n. 86](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
+ 2. I regolamenti di cui al comma 1 sono adottati con la procedura prevista dall'[art. 4, comma 5, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
  3. La disciplina della produzione e commercializzazione dei prodotti alimentari conservati o trasformati:
  a) si conforma ai principi e alle norme di diritto comunitario con particolare riferimento alla libera circolazione delle merci, tenuto conto dell'art. 36 del trattato istitutivo della Comunita' economica europea;
  b) tutela gli interessi relativi alla salute, all'ambiente, alla protezione del consumatore e alla qualita' dei prodotti, alla sanita' degli animali e dei vegetali, nel rispetto dei principi ispiratori della legislazione vigente.
@@ -192,10 +192,10 @@ Per poter essere immesso al consumo il brandy italiano deve avere un titolo alco
 
 2.
 
-Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
+Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
 
 Nota all'[articolo 7:
- - Il D.P.R. 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
+ - Il D.P.R. 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
 
 ### Art. 8. — Limiti delle sostanze volatili
 
@@ -247,10 +247,10 @@ Per poter essere immessa al consumo la grappa deve avere un titolo alcolometrico
 
 2.
 
-Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
+Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
 
 Nota all'[articolo 11:
- - Il D.P.R. 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
+ - Il D.P.R. 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
 
 ### Art. 12. — Aggiunte
 
@@ -438,7 +438,7 @@ Sono abrogati:
                             b)
                                 gli articoli 1, quarto comma, 2, 3, 4, 5, 6, 7, 8, 9, commi primo, secondo, terzo, quarto e quinto, 10, 11 e 12 del [decreto del Presidente della Repubblica 19 aprile 1956, n. 1019](../DPR/Norme%20di%20esecuzione%20della%20legge%207%20dicembre%201951%20n.%201559%20che%20disciplina%20la%20produzione%20ed%20il%20commercio%20delle%20acqueviti.md);
                             c)
-                                l'[articolo 34 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md);
+                                l'[articolo 34 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md);
                             d)
                                 i decreti del Ministro dell'industria, del commercio e dell'artigianato 19 luglio 1969, 4 gennaio 1973 e 25 maggio 1980, relativi alle tolleranze normali nella composizione delle acquaviti, pubblicati nella Gazzetta Ufficiale della Repubblica italiana rispettivamente n. 196 del 4 agosto 1969, n. 56 del 1 marzo 1973 e n. 174 del 26 giugno 1980;
                             e)

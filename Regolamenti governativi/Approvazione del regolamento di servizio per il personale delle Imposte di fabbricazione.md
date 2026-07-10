@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](../DPR/Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sull'ordinamento delle carriere degli impiegati civili dello Stato;
+Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 16](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20carriere%20degli%20impiegati%20civili%20dello%20Stato.md), sull'ordinamento delle carriere degli impiegati civili dello Stato;
 
-Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 17](../DPR/Statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sullo statuto degli impiegati civili dello Stato;
+Visto il [decreto del Presidente della Repubblica 11 gennaio 1956, n. 17](../Atti%20normativi%20abrogati%20%28in%20originale%29/Statuto%20degli%20impiegati%20civili%20dello%20Stato.md), sullo statuto degli impiegati civili dello Stato;
 
 Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), con il quale e' stato approvato il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato;
 

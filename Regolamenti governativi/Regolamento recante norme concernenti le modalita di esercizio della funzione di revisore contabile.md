@@ -21,7 +21,7 @@ Titolo primo
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 2.
 
@@ -32,7 +32,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 3.
 
@@ -43,7 +43,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 4.
 
@@ -54,7 +54,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Tirocinio
 
@@ -69,7 +69,7 @@ Titolo II
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 6.
 
@@ -80,7 +80,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 7.
 
@@ -91,7 +91,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 8.
 
@@ -102,7 +102,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 9.
 
@@ -113,7 +113,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 10.
 
@@ -124,7 +124,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 11.
 
@@ -135,7 +135,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 12.
 
@@ -146,7 +146,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 13.
 
@@ -157,7 +157,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 14.
 
@@ -168,7 +168,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Esame per l'iscrizione nel registro dei revisori contabili
 
@@ -183,7 +183,7 @@ Titolo III
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 16.
 
@@ -194,7 +194,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 17.
 
@@ -205,7 +205,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 18.
 
@@ -216,7 +216,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 19.
 
@@ -227,7 +227,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 20.
 
@@ -238,7 +238,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 21.
 
@@ -249,7 +249,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 22.
 
@@ -260,7 +260,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 23.
 
@@ -271,7 +271,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 24.
 
@@ -282,7 +282,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Modalita' di iscrizione nel registro dei revisori contabili
 
@@ -297,7 +297,7 @@ Titolo IV
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 26.
 
@@ -308,7 +308,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 27.
 
@@ -319,7 +319,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 28.
 
@@ -330,7 +330,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 29.
 
@@ -341,7 +341,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 30.
 
@@ -352,7 +352,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Esercizio del potere di vigilanza sospensione e cancellazione
 
@@ -367,7 +367,7 @@ Titolo V
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 32.
 
@@ -378,7 +378,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 33.
 
@@ -389,7 +389,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 34.
 
@@ -400,7 +400,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 35.
 
@@ -411,7 +411,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 36.
 
@@ -422,7 +422,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 37.
 
@@ -433,7 +433,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 38.
 
@@ -444,7 +444,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 39.
 
@@ -455,7 +455,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 40.
 
@@ -466,7 +466,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 41.
 
@@ -477,7 +477,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Disposizioni transitorie e finali
 
@@ -492,7 +492,7 @@ Titolo VI
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 43.
 
@@ -503,7 +503,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 44.
 
@@ -514,7 +514,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 45.
 
@@ -525,7 +525,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ### Art. 46.
 
@@ -536,4 +536,4 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../DPR/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1) che il D.P.R. 6 marzo 1998, n. 99](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20concernenti%20le%20modalita%20di%20esercizio%20della%20funzione%20di%20revisore%20contabile.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.

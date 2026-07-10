@@ -36,7 +36,7 @@ Entro il giorno 16 di ciascun mese, il contribuente determina la differenza tra 
 
 1-bis.
 
-Le disposizioni di cui al comma 1, ultimo periodo, si applicano anche ai soggetti di cui all'[articolo 7 del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542](../DPR/Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md).
+Le disposizioni di cui al comma 1, ultimo periodo, si applicano anche ai soggetti di cui all'[articolo 7 del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md).
 
 1-ter.
 
@@ -44,15 +44,15 @@ Resta ferma la possibilita' per gli aventi diritto di presentare istanza di rimb
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
+COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
 
 2-bis.
 
-COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
+COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
 
 2-ter.
 
-COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
+COMMA ABROGATO DAL [D.P.R. 7 DICEMBRE 2001, N. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md).
 
 3.
 
@@ -60,7 +60,7 @@ A partire dal periodo di imposta in corso alla data di entrata in vigore del pre
 
 4.
 
-Entro il termine stabilito nel comma 1, il contribuente versa l'importo della differenza nei modi di cui all'[articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md). Se l'importo dovuto non supera il limite di euro 100, il versamento e' effettuato insieme a quello relativo al mese successivo e comunque entro il 16 dicembre dello stesso anno. ((Il versamento relativo al mese di dicembre e' effettuato entro il giorno 16 del mese successivo.)) PERIODO SOPPRESSO DAL [D.P.R. 14 OTTOBRE 1999, N. 542](../DPR/Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md). (5)
+Entro il termine stabilito nel comma 1, il contribuente versa l'importo della differenza nei modi di cui all'[articolo 38 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md). Se l'importo dovuto non supera il limite di euro 100, il versamento e' effettuato insieme a quello relativo al mese successivo e comunque entro il 16 dicembre dello stesso anno. ((Il versamento relativo al mese di dicembre e' effettuato entro il giorno 16 del mese successivo.)) PERIODO SOPPRESSO DAL [D.P.R. 14 OTTOBRE 1999, N. 542](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md). (5)
 
 5.
 
@@ -70,7 +70,7 @@ Le disposizioni di cui ai commi 1, 2, 2-bis, 2-ter e 4 si applicano anche nei co
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che gli effetti delle presenti modifiche decorrono dalle liquidazioni relative al 2002.
+Il [D.P.R. 7 dicembre 2001, n. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che gli effetti delle presenti modifiche decorrono dalle liquidazioni relative al 2002.
 
 ---------------
 

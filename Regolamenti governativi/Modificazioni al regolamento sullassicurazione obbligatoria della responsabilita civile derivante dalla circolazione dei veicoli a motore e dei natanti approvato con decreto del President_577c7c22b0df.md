@@ -16,7 +16,7 @@ Visto il [decreto-legge 23 dicembre 1976, n. 857](../Atti%20normativi%20abrogati
 
 Visti la [legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), sull'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti e il relativo regolamento di esecuzione approvato con [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201969%20n.%20990%20sullassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md);
 
-Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
+Visto il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), che approva il testo unico delle leggi sull'esercizio delle assicurazioni private;
 
 Vista la [legge 10 giugno 1978, n. 295](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20contro%20i%20danni.md), recante nuove norme per l'esercizio delle assicurazioni private contro i danni;
 

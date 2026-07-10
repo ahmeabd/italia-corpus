@@ -138,7 +138,7 @@ Restano validi, per gli edifici di cui al comma 1 dell'art. 1, i provvedimenti d
 
 5.
 
-I termini utilizzati nel presente regolamento vanno interpretati sulla base delle definizioni generali contenute nel decreto ministeriale 30 novembre 1983 (pubblicato nella Gazzetta Ufficiale del 12 dicembre 1983 n. 339). Per la segnaletica di sicurezza antincendi si applicano le disposizioni previste dal [decreto del Presidente della Repubblica 8 giugno 1982, n. 524](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md) (pubblicato nella Gazzetta Ufficiale del 10 agosto 1982 n. 218).
+I termini utilizzati nel presente regolamento vanno interpretati sulla base delle definizioni generali contenute nel decreto ministeriale 30 novembre 1983 (pubblicato nella Gazzetta Ufficiale del 12 dicembre 1983 n. 339). Per la segnaletica di sicurezza antincendi si applicano le disposizioni previste dal [decreto del Presidente della Repubblica 8 giugno 1982, n. 524](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md) (pubblicato nella Gazzetta Ufficiale del 10 agosto 1982 n. 218).
 
 6.
 
@@ -305,7 +305,7 @@ Detti piani, definiti caso per caso in relazione alle caratteristiche dell'attiv
 
 3.
 
-Le istruzioni relative al comportamento del pubblico e del personale in caso di emergenza vanno esposte ben in vista in appositi cartelli, anche in conformita' a quanto disposto dal [decreto del Presidente della Repubblica 8 giugno 1982, n. 524](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), e successive modifiche e integrazioni.
+Le istruzioni relative al comportamento del pubblico e del personale in caso di emergenza vanno esposte ben in vista in appositi cartelli, anche in conformita' a quanto disposto dal [decreto del Presidente della Repubblica 8 giugno 1982, n. 524](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), e successive modifiche e integrazioni.
 
 4.
 

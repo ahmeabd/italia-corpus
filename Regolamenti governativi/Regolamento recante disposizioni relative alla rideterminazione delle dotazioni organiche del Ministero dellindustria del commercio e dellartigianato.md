@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 26 marzo 2001, n. 175](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20attivita%20produttive.md) ha disposto (con l'art. 16, comma 1, lettera c)) che e' o resta abrogato il [decreto del Presidente della Repubblica 28 luglio 2000, n. 276](../DPR/Regolamento%20recante%20disposizioni%20relative%20alla%20rideterminazione%20delle%20dotazioni%20organiche%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato.md), concernente le dotazioni organiche del Ministero dell'industria, del commercio e dell'artigianato, salva l'applicazione delle disposizioni transitorie di cui all'articolo 1, comma 2, ultimo periodo, e comma 3, ultimo e penultimo periodo, fino al loro originario termine di efficacia.
+Il [D.P.R. 26 marzo 2001, n. 175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20attivita%20produttive.md) ha disposto (con l'art. 16, comma 1, lettera c)) che e' o resta abrogato il [decreto del Presidente della Repubblica 28 luglio 2000, n. 276](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disposizioni%20relative%20alla%20rideterminazione%20delle%20dotazioni%20organiche%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato.md), concernente le dotazioni organiche del Ministero dell'industria, del commercio e dell'artigianato, salva l'applicazione delle disposizioni transitorie di cui all'articolo 1, comma 2, ultimo periodo, e comma 3, ultimo e penultimo periodo, fino al loro originario termine di efficacia.
 
 ## Art. 2.
 

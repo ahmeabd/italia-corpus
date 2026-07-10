@@ -44,7 +44,7 @@ In caso di proposizione di ricorso da parte del contribuente avverso il provvedi
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che "Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002."
+Il [D.P.R. 7 dicembre 2001, n. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che "Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002."
 
 ## Art. 2. — Inapplicabilita' degli interessi
 

@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto il [regio decreto 21 giugno 1942, n. 929](../Regi%20decreti/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20marchi%20registrati.%20042U0929.md), contenente il testo delle disposizioni legislative in materia di brevetti per marchi d'impresa;
 
-Visto il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md), col quale venne approvato il testo delle disposizioni regolamentari in materia di brevetti per marchi di impresa;
+Visto il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), col quale venne approvato il testo delle disposizioni regolamentari in materia di brevetti per marchi di impresa;
 
 Udito il parere del Consiglio di Stato;
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro Segretario di Stato per l'industria ed il commercio,
 
 ## Articolo unico.
 
-Il testo dell'art. 24 del regolamento approvato col [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md), e' sostituito dal seguente:
+Il testo dell'art. 24 del regolamento approvato col [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md), e' sostituito dal seguente:
  "La rivendicazione dei diritti di priorita' deve essere menzionata nella domanda di brevetto.
  Il brevetto viene in ogni caso concesso senza menzione della priorita', qualora, entro sei mesi dal deposito della domanda, non vengano prodotti, nelle forme dovute, i prescritti documenti".
 

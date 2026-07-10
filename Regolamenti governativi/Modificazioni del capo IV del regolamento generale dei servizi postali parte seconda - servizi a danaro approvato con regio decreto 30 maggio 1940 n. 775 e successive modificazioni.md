@@ -22,7 +22,7 @@ Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](../DPR/
 
 Visto il [decreto del Presidente della Repubblica 15 luglio 1957, n. 858](Integrazione%20del%20regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20%20Servizi%20a%20danaro%20con%20le%20norme%20inerenti%20ai%20vaglia%20postali%20a%20taglio%20fisso.md), che integra il regolamento generale dei servizi postali (parte seconda - servizi a danaro) con le norme inerenti ai vaglia postali a taglio fisso;
 
-Visto il [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](../DPR/Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md), concernente nuove tariffe postali e telegrafiche per l'interno della Repubblica;
+Visto il [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md), concernente nuove tariffe postali e telegrafiche per l'interno della Repubblica;
 
 Visto il [decreto del Presidente della Repubblica 27 dicembre 1966, n. 1365](../DPR/Nuova%20determinazione%20dei%20tagli%20di%20vaglia%20postali%20a%20taglio%20fisso%20e%20delle%20relative%20tasse.md), che apporta modificazioni ai tagli dei ripetuti vaglia postali e alle relative tasse;
 

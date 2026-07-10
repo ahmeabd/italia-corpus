@@ -46,7 +46,7 @@ vigente: true
 
 ## Art. 10.
 
-((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](../DPR/Regolamento%20di%20organizzazione%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20difesa_2.md)))
+((PROVVEDIMENTO ABROGATO DAL [D.P.R. 24 FEBBRAIO 2006, N. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20degli%20uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20difesa_2.md)))
 
 ## Art. 11.
 

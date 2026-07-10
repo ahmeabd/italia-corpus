@@ -76,11 +76,11 @@ Capo I
 
 ### Art. 6.
 
-((IL [D.P.R. 30 GENNAIO 2008, N. 43](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.P.R. 30 GENNAIO 2008, N. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 7.
 
-((IL [D.P.R. 30 GENNAIO 2008, N. 43](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.P.R. 30 GENNAIO 2008, N. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riorganizzazione%20del%20Ministero%20delleconomia%20e%20delle%20finanze%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 8.
 
