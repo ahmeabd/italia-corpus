@@ -391,7 +391,7 @@ L'esercizio dell'opzione di cui al comma 59 si considera effettuato dalla data d
 
 62.
 
-Nel caso in cui l'imposta risulti non dovuta, si applicano le disposizioni del [comma 2 dell'articolo 30-ter del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e il diritto al rimborso spetta al committente a condizione che esso dimostri l'effettivo versamento dell'imposta. Nei confronti del committente e' applicabile la sanzione di cui all'articolo 6, comma 9-bis.1, primo periodo, del [decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). Al
+Nel caso in cui l'imposta risulti non dovuta, si applicano le disposizioni del [comma 2 dell'articolo 30-ter del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e il diritto al rimborso spetta al committente a condizione che esso dimostri l'effettivo versamento dell'imposta. Nei confronti del committente e' applicabile la sanzione di cui all'articolo 6, comma 9-bis.1, primo periodo, del [decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md). Al
 
 63.
 
@@ -456,7 +456,7 @@ Il [comma 3 dell'articolo 2 del decreto legislativo 5 agosto 2015, n. 127](../Le
 
 75.
 
-All'[articolo 11 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), concernente sanzioni amministrative per violazioni in materia di imposte dirette e di imposta sul valore aggiunto, sono apportate le seguenti modificazioni:
+All'[articolo 11 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), concernente sanzioni amministrative per violazioni in materia di imposte dirette e di imposta sul valore aggiunto, sono apportate le seguenti modificazioni:
                             a)
                                 al comma 2-quinquies e' aggiunto, in fine, il seguente periodo: «Le disposizioni dei periodi precedenti si applicano anche nei casi di violazione degli obblighi di memorizzazione o trasmissione dei pagamenti elettronici di cui all'[articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md)»;
                             b)
@@ -464,7 +464,7 @@ All'[articolo 11 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20nor
 
 76.
 
-All'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), concernente sanzioni accessorie in materia di imposte dirette e di imposta sul valore aggiunto, sono apportate le seguenti modificazioni:
+All'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 471](../Decreti%20Legislativi/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), concernente sanzioni accessorie in materia di imposte dirette e di imposta sul valore aggiunto, sono apportate le seguenti modificazioni:
                             a)
                                 al comma 2, ultimo periodo, le parole «commi 1, 1-bis e 2,» sono sostituite dalle seguenti: «commi 1, 1-bis, 2 e 3,»;
                             b)
@@ -524,7 +524,7 @@ Le disposizioni di cui al comma 84 si applicano con riferimento ai pagamenti da 
 86.
 
 Il [comma 2 dell'articolo 38-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e' sostituito dal seguente: 
- «2. Con provvedimenti del direttore dell'Agenzia delle entrate, d'intesa con il Comandante generale della Guardia di finanza, e' disciplinata la procedura di sottoscrizione dei processi verbali redatti nel corso e al termine delle attivita' amministrative di controllo fiscale in materia di imposte dirette e indirette, anche disponendo la possibilita' che i verbalizzanti possano firmare digitalmente la copia informatica del documento preventivamente sottoscritto, anche in via analogica, dal contribuente. In caso di firma analogica del documento da parte del contribuente, i verbalizzanti attestano la conformita' della copia informatica al documento analogico ai sensi dell'[articolo 22 del codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md)».
+ «2. Con provvedimenti del direttore dell'Agenzia delle entrate, d'intesa con il Comandante generale della Guardia di finanza, e' disciplinata la procedura di sottoscrizione dei processi verbali redatti nel corso e al termine delle attivita' amministrative di controllo fiscale in materia di imposte dirette e indirette, anche disponendo la possibilita' che i verbalizzanti possano firmare digitalmente la copia informatica del documento preventivamente sottoscritto, anche in via analogica, dal contribuente. In caso di firma analogica del documento da parte del contribuente, i verbalizzanti attestano la conformita' della copia informatica al documento analogico ai sensi dell'[articolo 22 del codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)».
 
 87.
 
@@ -1347,7 +1347,7 @@ Al testo unico delle leggi in materia di disciplina degli stupefacenti e sostanz
  e) i laboratori delle Forze di polizia; 
  f) le strutture pubbliche di base individuate ai sensi dell'articolo 75, comma 10; 
  g) gli enti, le agenzie e le associazioni scientifiche ovvero i soggetti pubblici o privati operanti nell'ambito della prevenzione, della cura e della riabilitazione delle dipendenze da sostanze stupefacenti, individuati, sulla base di criteri specifici, dal Dipartimento per le politiche antidroga della Presidenza del Consiglio dei ministri. 
- 5. Al fine di garantire la piena operativita' del Sistema di cui al comma 1 e la tempestiva individuazione di nuove sostanze stupefacenti e psicoattive, nonche' i loro effetti sulla salute, il Dipartimento per le politiche antidroga della Presidenza del Consiglio dei ministri e' autorizzato, anche in deroga alle disposizioni contenute nel [codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), a stipulare convenzioni e contratti con strutture private in possesso dei requisiti di cui al comma 3, lettera b). 
+ 5. Al fine di garantire la piena operativita' del Sistema di cui al comma 1 e la tempestiva individuazione di nuove sostanze stupefacenti e psicoattive, nonche' i loro effetti sulla salute, il Dipartimento per le politiche antidroga della Presidenza del Consiglio dei ministri e' autorizzato, anche in deroga alle disposizioni contenute nel [codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), a stipulare convenzioni e contratti con strutture private in possesso dei requisiti di cui al comma 3, lettera b). 
  6. Con decreto del Presidente del Consiglio dei ministri, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono definiti i compiti e l'organizzazione del Sistema di cui al comma 1».
 
 244.
@@ -1766,12 +1766,12 @@ Agli oneri derivanti dal comma 333, pari a 0,2 milioni di euro per l'anno 2025, 
 
 336.
 
-All'[articolo 39 del decreto legislativo 17 agosto 1999, n. 368](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-16-CEE%20in%20materia%20di%20libera%20circolazione%20dei%20medici%20e%20di%20reciproco%20riconoscimento%20dei%20loro%20diplomi%20certificati%20ed%20altri%20titoli%20e%20delle%20direttive%2097-50-CE%2098-_c47dd6e82871.md), dopo il comma 3 e' inserito il seguente: 
+All'[articolo 39 del decreto legislativo 17 agosto 1999, n. 368](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-16-CEE%20in%20materia%20di%20libera%20circolazione%20dei%20medici%20e%20di%20reciproco%20riconoscimento%20dei%20loro%20diplomi%20certificati%20ed%20altri%20titoli%20e%20delle%20direttive%2097-50-CE%2098-_c47dd6e82871.md), dopo il comma 3 e' inserito il seguente: 
  «3-bis. A decorrere dall'anno accademico 2025-2026, la parte fissa del trattamento economico e' aumentata di una percentuale pari al 5 per cento per tutte le specializzazioni e la parte variabile del medesimo trattamento e' aumentata di una percentuale pari al 50 per cento per le seguenti specializzazioni: anatomia patologica, anestesia rianimazione, terapia intensiva e del dolore, audiologia e foniatria, chirurgia generale, chirurgia toracica, farmacologia e tossicologia clinica, genetica medica, geriatria, igiene e medicina preventiva, malattie infettive e tropicali, medicina di comunita' e delle cure primarie, medicina d'emergenza-urgenza, medicina e cure palliative, medicina interna, medicina nucleare, microbiologia e virologia, nefrologia, patologia clinica e biochimica clinica, radioterapia, statistica sanitaria e biometria».
 
 337.
 
-Per le finalita' di cui all'[articolo 39, comma 3-bis, del decreto legislativo 17 agosto 1999, n. 368](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-16-CEE%20in%20materia%20di%20libera%20circolazione%20dei%20medici%20e%20di%20reciproco%20riconoscimento%20dei%20loro%20diplomi%20certificati%20ed%20altri%20titoli%20e%20delle%20direttive%2097-50-CE%2098-_c47dd6e82871.md), introdotto dal comma 336 del presente articolo, e' autorizzata l'ulteriore spesa di 120 milioni di euro annui a decorrere dall'anno 2026.
+Per le finalita' di cui all'[articolo 39, comma 3-bis, del decreto legislativo 17 agosto 1999, n. 368](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-16-CEE%20in%20materia%20di%20libera%20circolazione%20dei%20medici%20e%20di%20reciproco%20riconoscimento%20dei%20loro%20diplomi%20certificati%20ed%20altri%20titoli%20e%20delle%20direttive%2097-50-CE%2098-_c47dd6e82871.md), introdotto dal comma 336 del presente articolo, e' autorizzata l'ulteriore spesa di 120 milioni di euro annui a decorrere dall'anno 2026.
 
 338.
 
@@ -2035,7 +2035,7 @@ Agli oneri derivanti dall'attuazione del comma 392, pari a 500.000 euro annui a 
 
 395.
 
-Al fine di garantire la stabilita' occupazionale e di sopperire all'eccezionale mancanza di offerta di lavoro nel settore turistico, ricettivo e termale, per il periodo dal 1° gennaio 2025 al 30 settembre 2025, ai lavoratori degli esercizi di somministrazione di alimenti e bevande di cui all'[articolo 5 della legge 25 agosto 1991, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-25;287#art_5), e ai lavoratori del comparto del turismo, ivi compresi gli stabilimenti termali, e' riconosciuto un trattamento integrativo speciale, che non concorre alla formazione del reddito, pari al 15 per cento delle retribuzioni lorde corrisposte in relazione al lavoro notturno e alle prestazioni di lavoro straordinario, ai sensi del [decreto legislativo 8 aprile 2003, n. 66](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md), effettuate nei giorni festivi.
+Al fine di garantire la stabilita' occupazionale e di sopperire all'eccezionale mancanza di offerta di lavoro nel settore turistico, ricettivo e termale, per il periodo dal 1° gennaio 2025 al 30 settembre 2025, ai lavoratori degli esercizi di somministrazione di alimenti e bevande di cui all'[articolo 5 della legge 25 agosto 1991, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-25;287#art_5), e ai lavoratori del comparto del turismo, ivi compresi gli stabilimenti termali, e' riconosciuto un trattamento integrativo speciale, che non concorre alla formazione del reddito, pari al 15 per cento delle retribuzioni lorde corrisposte in relazione al lavoro notturno e alle prestazioni di lavoro straordinario, ai sensi del [decreto legislativo 8 aprile 2003, n. 66](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2093-104-CE%20e%202000-34-CE%20concernenti%20taluni%20aspetti%20dellorganizzazione%20dellorario%20di%20lavoro.md), effettuate nei giorni festivi.
 
 396.
 
@@ -2952,7 +2952,7 @@ All'[articolo 18 della legge 11 febbraio 1992, n. 157](https://www.normattiva.it
                                 al comma 3, le parole: «sentito l'Istituto nazionale per la fauna selvatica» sono sostituite dalle seguenti: «sentiti l'ISPRA e il Comitato tecnico faunistico-venatorio nazionale»;
                             d)
                                 il comma 4 e' sostituito dal seguente: 
- «4. Il termine di impugnazione dei calendari venatori e' di trenta giorni decorrenti dalla data della loro pubblicazione nel Bollettino ufficiale della regione. In caso di impugnazione del calendario venatorio, le associazioni venatorie riconosciute sono parti necessarie del giudizio. Qualora sia proposta la domanda cautelare, si applica l'[articolo 119, comma 3, del codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), di cui all'allegato 1 al [decreto legislativo 2 luglio 2010, n. 104](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md). Qualora la domanda cautelare sia accolta, fino alla pubblicazione della sentenza che definisce il merito, l'attivita' venatoria e' consentita nei termini di cui ai commi 1 e 1-bis e riacquistano efficacia i limiti di prelievo e gli orari giornalieri fissati da ciascuna regione con l'ultimo calendario venatorio legittimamente applicato».
+ «4. Il termine di impugnazione dei calendari venatori e' di trenta giorni decorrenti dalla data della loro pubblicazione nel Bollettino ufficiale della regione. In caso di impugnazione del calendario venatorio, le associazioni venatorie riconosciute sono parti necessarie del giudizio. Qualora sia proposta la domanda cautelare, si applica l'[articolo 119, comma 3, del codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), di cui all'allegato 1 al [decreto legislativo 2 luglio 2010, n. 104](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md). Qualora la domanda cautelare sia accolta, fino alla pubblicazione della sentenza che definisce il merito, l'attivita' venatoria e' consentita nei termini di cui ai commi 1 e 1-bis e riacquistano efficacia i limiti di prelievo e gli orari giornalieri fissati da ciascuna regione con l'ultimo calendario venatorio legittimamente applicato».
 
 552.
 
@@ -3050,7 +3050,7 @@ Allo scopo di garantire la continuita' didattica per gli alunni con disabilita',
 
 568.
 
-Al fine di garantire, a decorrere dall'anno scolastico 2025/2026, il supporto alle istituzioni scolastiche nell'espletamento delle attivita' in materia di affidamento ed esecuzione dei contratti di lavori, servizi e forniture, anche mediante lo svolgimento delle attivita' disciplinate dall'[articolo 62 del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), il Ministero dell'istruzione e del merito e' autorizzato a bandire un concorso pubblico, su base territoriale, per titoli ed esami, per l'assunzione a tempo indeterminato, a decorrere dall'anno 2025, di 101 unita' di personale non dirigenziale da inquadrare nell'Area dei funzionari del contratto collettivo nazionale di lavoro 2019-2021 - Comparto funzioni centrali, da destinare agli uffici scolastici regionali. La procedura concorsuale di cui al primo periodo si svolge secondo le modalita' previste dall'[articolo 35-quater, comma 3-bis, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), anche avvalendosi della Commissione per l'attuazione del progetto di riqualificazione delle pubbliche amministrazioni (RIPAM), di cui all'articolo 35, comma 5, del medesimo [decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165).
+Al fine di garantire, a decorrere dall'anno scolastico 2025/2026, il supporto alle istituzioni scolastiche nell'espletamento delle attivita' in materia di affidamento ed esecuzione dei contratti di lavori, servizi e forniture, anche mediante lo svolgimento delle attivita' disciplinate dall'[articolo 62 del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), il Ministero dell'istruzione e del merito e' autorizzato a bandire un concorso pubblico, su base territoriale, per titoli ed esami, per l'assunzione a tempo indeterminato, a decorrere dall'anno 2025, di 101 unita' di personale non dirigenziale da inquadrare nell'Area dei funzionari del contratto collettivo nazionale di lavoro 2019-2021 - Comparto funzioni centrali, da destinare agli uffici scolastici regionali. La procedura concorsuale di cui al primo periodo si svolge secondo le modalita' previste dall'[articolo 35-quater, comma 3-bis, del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), anche avvalendosi della Commissione per l'attuazione del progetto di riqualificazione delle pubbliche amministrazioni (RIPAM), di cui all'articolo 35, comma 5, del medesimo [decreto legislativo n. 165 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165).
 
 569.
 
@@ -4247,7 +4247,7 @@ Al [testo unico delle disposizioni legislative e regolamentari in materia di spe
 
 813.
 
-Al fine di consentire lo spedito svolgimento del giudizio, il comma 5 dell'articolo 13-ter delle norme di attuazione del [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), di cui all'allegato 2 annesso al [decreto legislativo 2 luglio 2010, n. 104](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), e' sostituito dai seguenti: 
+Al fine di consentire lo spedito svolgimento del giudizio, il comma 5 dell'articolo 13-ter delle norme di attuazione del [codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), di cui all'allegato 2 annesso al [decreto legislativo 2 luglio 2010, n. 104](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), e' sostituito dai seguenti: 
  «5. Indipendentemente dall'esito del giudizio, la parte che in qualsiasi atto del processo superi, senza avere ottenuto una preventiva autorizzazione, i limiti dimensionali stabiliti ai sensi del presente articolo puo' essere tenuta al pagamento di una somma complessiva per l'intero grado del giudizio fino al doppio del contributo unificato previsto in relazione all'oggetto del giudizio medesimo e, ove occorra, in aggiunta al contributo gia' versato. 
  5-bis. Il giudice, con la decisione che definisce il giudizio, determina l'importo di cui al comma 5 tenendo conto dell'entita' del superamento dei limiti dimensionali stabiliti ai sensi del presente articolo nonche' della complessita' ovvero della dimensione degli atti impugnati o della sentenza impugnata. 
  5-ter. Si applica l'articolo 15».
@@ -4302,7 +4302,7 @@ Al fine di razionalizzare i costi conseguenti alla violazione del termine di rag
                                 al comma 6, le parole: «, ove possibile,» sono soppresse;
                             g)
                                 il comma 8 e' sostituito dal seguente: 
- «8. Qualora i creditori di somme liquidate a norma della presente legge propongano l'azione di ottemperanza di cui al titolo I del libro quarto del [codice del processo amministrativo](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), di cui all'allegato 1 annesso al [decreto legislativo 2 luglio 2010, n. 104](../Codici/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), il giudice amministrativo nomina, ove occorra, commissario ad acta un funzionario dell'amministrazione soccombente, a cui e' riconosciuto come compenso per l'attivita' svolta un importo non superiore a 150 euro lordi per ciascun incarico definito, nei limiti dello stanziamento previsto»;
+ «8. Qualora i creditori di somme liquidate a norma della presente legge propongano l'azione di ottemperanza di cui al titolo I del libro quarto del [codice del processo amministrativo](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), di cui all'allegato 1 annesso al [decreto legislativo 2 luglio 2010, n. 104](../Decreti%20Legislativi/Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), il giudice amministrativo nomina, ove occorra, commissario ad acta un funzionario dell'amministrazione soccombente, a cui e' riconosciuto come compenso per l'attivita' svolta un importo non superiore a 150 euro lordi per ciascun incarico definito, nei limiti dello stanziamento previsto»;
                             h)
                                 il comma 9 e' sostituito dal seguente: 
  «9. Le operazioni di pagamento delle somme dovute a norma della presente legge si effettuano mediante accreditamento sui conti correnti o di pagamento dei creditori. Il creditore puo' delegare alla ricezione del pagamento un legale rappresentante con il rilascio di procura speciale»;
@@ -4340,7 +4340,7 @@ All'[articolo 3, comma 1, della legge 19 giugno 2019, n. 56](https://www.normatt
 
 824.
 
-All'[articolo 584, comma 3-bis, del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+All'[articolo 584, comma 3-bis, del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 al primo periodo, le parole: «e del 12 per cento a decorrere dall'anno 2016» sono sostituite dalle seguenti: «, del 12 per cento dall'anno 2016 all'anno 2024 e del 15,58 per cento a decorrere dall'anno 2025»;
                             b)
@@ -4407,7 +4407,7 @@ Al fine di consentire interventi urgenti e straordinari di conto capitale per il
 
 837.
 
-Al fine di mantenere gli attuali livelli operativi, di efficienza e di efficacia del Corpo delle capitanerie di porto, al [codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
+Al fine di mantenere gli attuali livelli operativi, di efficienza e di efficacia del Corpo delle capitanerie di porto, al [codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 585, comma 1, le lettere da h-novies) a h-vicies-bis) sono sostituite dalle seguenti: 
  «h-novies) per l'anno 2025: 106.096.389,27; 
@@ -4936,7 +4936,7 @@ Nell'elenco n. 5, allegato allo stato di previsione del Ministero dell'economia 
 
 16.
 
-Il numero massimo degli ufficiali ausiliari del Corpo della guardia di finanza di cui alla [lettera c) del comma 1 dell'articolo 937 del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), da mantenere in servizio nell'anno 2025, ai sensi dell'articolo 803 del medesimo codice, e' stabilito in 70 unita'.
+Il numero massimo degli ufficiali ausiliari del Corpo della guardia di finanza di cui alla [lettera c) del comma 1 dell'articolo 937 del codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), da mantenere in servizio nell'anno 2025, ai sensi dell'articolo 803 del medesimo codice, e' stabilito in 70 unita'.
 
 17.
 
@@ -5090,7 +5090,7 @@ Al fine di consentire la corresponsione, nell'ambito del sistema di erogazione u
 
 12.
 
-Il Ministro dell'economia e delle finanze e' autorizzato a trasferire, con propri decreti, su proposta del Ministro dell'interno, agli stati di previsione dei Ministeri interessati, per l'anno finanziario 2025, le risorse iscritte nel capitolo 2501, piano gestionale 21, istituito nel programma «Contrasto al crimine, tutela dell'ordine e della sicurezza pubblica», nell'ambito della missione «Ordine pubblico e sicurezza» dello stato di previsione del Ministero dell'interno, unitamente ai corrispondenti oneri riflessi, in attuazione dell'articolo 1808, comma 1, del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+Il Ministro dell'economia e delle finanze e' autorizzato a trasferire, con propri decreti, su proposta del Ministro dell'interno, agli stati di previsione dei Ministeri interessati, per l'anno finanziario 2025, le risorse iscritte nel capitolo 2501, piano gestionale 21, istituito nel programma «Contrasto al crimine, tutela dell'ordine e della sicurezza pubblica», nell'ambito della missione «Ordine pubblico e sicurezza» dello stato di previsione del Ministero dell'interno, unitamente ai corrispondenti oneri riflessi, in attuazione dell'articolo 1808, comma 1, del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 ### Art. 10.
 
@@ -5112,11 +5112,11 @@ Sono autorizzati l'impegno e il pagamento delle spese del Ministero delle infras
 
 2.
 
-Il numero massimo degli ufficiali ausiliari del Corpo delle capitanerie di porto da mantenere in servizio come forza media nell'anno 2025, ai sensi dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilito come segue: 245 ufficiali in ferma prefissata o in rafferma, di cui alla lettera c) del comma 1 dell'articolo 937 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66); 35 ufficiali piloti di complemento, di cui alla lettera b) del comma 1 dell'articolo 937 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66); 6 ufficiali delle forze di completamento, di cui alla lettera d) del comma 1 dell'articolo 937 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66).
+Il numero massimo degli ufficiali ausiliari del Corpo delle capitanerie di porto da mantenere in servizio come forza media nell'anno 2025, ai sensi dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilito come segue: 245 ufficiali in ferma prefissata o in rafferma, di cui alla lettera c) del comma 1 dell'articolo 937 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66); 35 ufficiali piloti di complemento, di cui alla lettera b) del comma 1 dell'articolo 937 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66); 6 ufficiali delle forze di completamento, di cui alla lettera d) del comma 1 dell'articolo 937 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66).
 
 3.
 
-Il numero massimo degli allievi del Corpo delle capitanerie di porto da mantenere alla frequenza dei corsi presso l'Accademia navale e le Scuole sottufficiali della Marina militare di cui alle lettere b) e b-bis) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e' fissato, per l'anno 2025, in 136 unita'.
+Il numero massimo degli allievi del Corpo delle capitanerie di porto da mantenere alla frequenza dei corsi presso l'Accademia navale e le Scuole sottufficiali della Marina militare di cui alle lettere b) e b-bis) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e' fissato, per l'anno 2025, in 136 unita'.
 
 4.
 
@@ -5154,7 +5154,7 @@ Sono autorizzati l'impegno e il pagamento delle spese del Ministero della difesa
 
 2.
 
-Il numero massimo degli ufficiali ausiliari da mantenere in servizio come forza media nell'anno 2025, ai sensi dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilito come segue:
+Il numero massimo degli ufficiali ausiliari da mantenere in servizio come forza media nell'anno 2025, ai sensi dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilito come segue:
                             a)
                                 ufficiali ausiliari, di cui alle lettere a) e c) del comma 1 dell'articolo 937 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66): 
  1) Esercito n. 112; 
@@ -5175,7 +5175,7 @@ Il numero massimo degli ufficiali ausiliari da mantenere in servizio come forza 
 
 3.
 
-La consistenza organica degli allievi ufficiali delle accademie delle Forze armate, compresa l'Arma dei carabinieri, di cui alla lettera b) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e' fissata, per l'anno 2025, come segue: 
+La consistenza organica degli allievi ufficiali delle accademie delle Forze armate, compresa l'Arma dei carabinieri, di cui alla lettera b) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e' fissata, per l'anno 2025, come segue: 
  1) Esercito n. 322; 
  2) Marina n. 393; 
  3) Aeronautica n. 371; 
@@ -5183,14 +5183,14 @@ La consistenza organica degli allievi ufficiali delle accademie delle Forze arma
 
 4.
 
-La consistenza organica degli allievi delle scuole sottufficiali delle Forze armate, esclusa l'Arma dei carabinieri, di cui alla lettera b-bis) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilita, per l'anno 2025, come segue: 
+La consistenza organica degli allievi delle scuole sottufficiali delle Forze armate, esclusa l'Arma dei carabinieri, di cui alla lettera b-bis) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilita, per l'anno 2025, come segue: 
  1) Esercito n. 277; 
  2) Marina n. 380; 
  3) Aeronautica n. 600.
 
 5.
 
-La consistenza organica degli allievi delle scuole militari, di cui alla lettera b-ter) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilita, per l'anno 2025, come segue: 
+La consistenza organica degli allievi delle scuole militari, di cui alla lettera b-ter) del comma 1 dell'articolo 803 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), e' stabilita, per l'anno 2025, come segue: 
  1) Esercito n. 480; 
  2) Marina n. 200; 
  3) Aeronautica n. 120.
@@ -5201,7 +5201,7 @@ Alle spese per le infrastrutture multinazionali dell'Alleanza atlantica (NATO), 
 
 7.
 
-Negli elenchi n. 1 e n. 2 allegati allo stato di previsione del Ministero della difesa sono descritte le spese per le quali si possono effettuare, per l'anno finanziario 2025, con decreti del Ragioniere generale dello Stato, i prelevamenti dai fondi a disposizione relativi rispettivamente alle tre Forze armate e all'Arma dei carabinieri, ai sensi dell'articolo 613 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+Negli elenchi n. 1 e n. 2 allegati allo stato di previsione del Ministero della difesa sono descritte le spese per le quali si possono effettuare, per l'anno finanziario 2025, con decreti del Ragioniere generale dello Stato, i prelevamenti dai fondi a disposizione relativi rispettivamente alle tre Forze armate e all'Arma dei carabinieri, ai sensi dell'articolo 613 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 8.
 
@@ -5213,11 +5213,11 @@ Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decre
 
 10.
 
-Il Ministro della difesa, sentito il Ministro dell'economia e delle finanze per gli aspetti finanziari, e' autorizzato a ripartire, con propri decreti, le somme iscritte nell'anno 2025 nel pertinente capitolo dello stato di previsione del Ministero della difesa da destinare alle associazioni combattentistiche, di cui all'articolo 2195 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+Il Ministro della difesa, sentito il Ministro dell'economia e delle finanze per gli aspetti finanziari, e' autorizzato a ripartire, con propri decreti, le somme iscritte nell'anno 2025 nel pertinente capitolo dello stato di previsione del Ministero della difesa da destinare alle associazioni combattentistiche, di cui all'articolo 2195 del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 11.
 
-Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, su proposta del Ministro della difesa, per l'anno finanziario 2025, le variazioni compensative, in termini di competenza e di cassa, tra il fondo per l'efficienza dei servizi istituzionali delle Forze armate e il fondo per la retribuzione della produttivita' del personale civile dello stato di previsione del Ministero della difesa in applicazione dell'articolo 1805-bis del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, su proposta del Ministro della difesa, per l'anno finanziario 2025, le variazioni compensative, in termini di competenza e di cassa, tra il fondo per l'efficienza dei servizi istituzionali delle Forze armate e il fondo per la retribuzione della produttivita' del personale civile dello stato di previsione del Ministero della difesa in applicazione dell'articolo 1805-bis del codice di cui al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 12.
 
@@ -5432,7 +5432,7 @@ Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decre
 
 29.
 
-Al fine di dare attuazione, per le amministrazioni centrali dello Stato, alle disposizioni di cui all'[articolo 113 del codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 18 aprile 2016, n. 50, e all'articolo 45](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) del [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), il Ragioniere generale dello Stato, per l'anno finanziario 2025, e' autorizzato a riassegnare, con propri decreti, su proposta dell'amministrazione competente, ai pertinenti capitoli di spesa iscritti nello stato di previsione della medesima amministrazione le somme versate all'entrata del bilancio dello Stato riguardanti le risorse allo scopo destinate per ciascun appalto di lavori, servizi o forniture da parte della struttura ministeriale che opera come stazione appaltante, ferma restando l'adozione del regolamento che ciascuna amministrazione deve adottare per la ripartizione degli incentivi alle funzioni tecniche.
+Al fine di dare attuazione, per le amministrazioni centrali dello Stato, alle disposizioni di cui all'[articolo 113 del codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 18 aprile 2016, n. 50, e all'articolo 45](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) del [decreto legislativo 31 marzo 2023, n. 36](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), il Ragioniere generale dello Stato, per l'anno finanziario 2025, e' autorizzato a riassegnare, con propri decreti, su proposta dell'amministrazione competente, ai pertinenti capitoli di spesa iscritti nello stato di previsione della medesima amministrazione le somme versate all'entrata del bilancio dello Stato riguardanti le risorse allo scopo destinate per ciascun appalto di lavori, servizi o forniture da parte della struttura ministeriale che opera come stazione appaltante, ferma restando l'adozione del regolamento che ciascuna amministrazione deve adottare per la ripartizione degli incentivi alle funzioni tecniche.
 
 30.
 

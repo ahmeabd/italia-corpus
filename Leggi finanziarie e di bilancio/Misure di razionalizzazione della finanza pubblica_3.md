@@ -479,11 +479,11 @@ Il Governo, sentite le rappresentanze del personale, trasmette alla Camera dei d
 
 101.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 102.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 103.
 
@@ -491,31 +491,31 @@ Per l'assunzione di mano d'opera da utilizzare nei reparti di lavoro del Genio m
 
 104.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 105.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 106.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 107.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 108.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 109.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 110.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 111.
 
@@ -535,7 +535,7 @@ COMMA ABROGATO DAL [D.L. 21 APRILE 1999, N. 110](https://www.normattiva.it/uri-r
 
 115.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 116.
 
@@ -543,11 +543,11 @@ A decorrere dal 1 gennaio 1997 al personale che espleta servizio ausiliario di l
 
 117.
 
-Al personale di cui al comma 116 e' corrisposta l'indennita' aggiuntiva prevista dall'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md).
+Al personale di cui al comma 116 e' corrisposta l'indennita' aggiuntiva prevista dall'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20luglio%201992%20n.%20349%20recante%20misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md).
 
 118.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 119.
 
@@ -1493,7 +1493,7 @@ Per i programmi che non hanno ottenuto il rilascio della concessione, il segreta
  66. Ai programmi di edilizia sovvenzionata di cui al comma 65, per i quali i lavori non siano iniziati alla data di entrata in vigore della presente legge, ovvero, pur essendo iniziati, non siano stati completati, si applicano, in deroga alle procedure finanziarie gia' stabilite nelle convenzioni stipulate tra il segretario generale del CER e gli operatori affidatari dei programmi suddetti, le disposizioni del decreto del Ministro dei lavori pubblici 5 agosto 1994, pubblicato nella Gazzetta Ufficiale n. 194 del 20 agosto 1994.
 Per la quota parte di lavori gia' eseguiti alla data di entrata in vigore della presente legge, si applicano i massimali di costo di cui ai decreti ministeriali vigenti nel periodo di esecuzione dei lavori.
 Alla copertura finanziaria delle disposizioni di cui sopra si provvede con le disponibilita' derivanti dai fondi residui e dalle economie gia' realizzate sui programmi stessi, nonche' con le minori spese derivanti dalle rinunce e revoche dai programmi di edilizia sovvenzionata ed agevolata, previsti dall'[articolo 4 del decreto- legge 23 gennaio 1982, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-01-23;9#art_4), convertito, con modificazioni, dalla [legge 25 marzo 1982, n. 94](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201982%20n.%209%20concernente%20norme%20per%20ledilizia%20residenziale%20e%20provvidenze%20in%20materia%20di%20sfratti.md). Fatti salvi gli accantonamenti per adeguamento delle aliquote IVA, eventuali somme non utilizzate sono destinate alle finalita' di cui all'[articolo 2, comma primo, lettera f), della legge 5 agosto 1978, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457#art_2-com1-letf). 
- 67. I finanziamenti per l'edilizia agevolata gia' assegnati in attuazione dei programmi straordinari previsti dall'[articolo 3, comma 7-bis, del decreto-legge 7 febbraio 1985, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-07;12#art_3-com7bis), convertito, con modificazioni, dalla [legge 5 aprile 1985, n. 118, e dall'articolo 22, comma 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20febbraio%201985%20n.%2012%20recante%20misure%20finanziarie%20in%20favore%20delle%20aree%20ad%20alta%20tensione%20abitativa.%20Regolamentazione%20degli%20atti%20e%20de_a73dc2a7f603.md), della [legge 11 marzo 1988, n. 67](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), resisi disponibili per effetto di provvedimenti di revoca o a seguito di rinuncia da parte dei soggetti beneficiari, sono utilizzati per l'assegnazione definitiva di contributi che sono stati gia' deliberati ai sensi delle stesse leggi. Eventuali somme non utilizzate sono destinate alle finalita' di cui all'[articolo 2, comma primo, lettera f), della legge 5 agosto 1978, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457#art_2-com1-letf). Entro 30 giorni dalla data di entrata in vigore della presente legge, il Ministro dei lavori pubblici, con proprio decreto, provvede ad accreditare al comune di Ancona il finanziamento di lire 30 miliardi, gia' stanziato con deliberazione CIPE 30 luglio 1991, pubblicata nella Gazzetta Ufficiale del 13 agosto 1991, n. 189, per l'attuazione del programma di cui al [decreto-legge 14 dicembre 1974, n. 658](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dei%20contributi%20previsti%20dalla%20legge%2014%20febbraio%201963%20n.%2060%20e%20modifiche%20e%20integrazioni%20alla%20legge%2027%20giugno%201974%20n.%20247.md), convertito, con modificazioni, dalla [legge 15 febbraio 1975, n. 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%201974%20n.%20658%20concernente%20proroga%20dei%20contributi%20previsti%20dalla%20legge%2014%20febbraio%201963%20n.%2060%20e%20modifiche%20ed%20integrazioni_d7b31f8663bb.md). Il decreto e' emanato nelle stesse modalita' dei decreti di accredito gia' disposti a favore del comune di Ancona, che dovra' provvedere all'utilizzo delle somme con le stesse modalita' attuate in precedenza nel rispetto delle leggi emanate in conseguenza degli eventi sismici del gennaio 1972. 
+ 67. I finanziamenti per l'edilizia agevolata gia' assegnati in attuazione dei programmi straordinari previsti dall'[articolo 3, comma 7-bis, del decreto-legge 7 febbraio 1985, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-07;12#art_3-com7bis), convertito, con modificazioni, dalla [legge 5 aprile 1985, n. 118, e dall'articolo 22, comma 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20febbraio%201985%20n.%2012%20recante%20misure%20finanziarie%20in%20favore%20delle%20aree%20ad%20alta%20tensione%20abitativa.%20Regolamentazione%20degli%20atti%20e%20de_a73dc2a7f603.md), della [legge 11 marzo 1988, n. 67](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), resisi disponibili per effetto di provvedimenti di revoca o a seguito di rinuncia da parte dei soggetti beneficiari, sono utilizzati per l'assegnazione definitiva di contributi che sono stati gia' deliberati ai sensi delle stesse leggi. Eventuali somme non utilizzate sono destinate alle finalita' di cui all'[articolo 2, comma primo, lettera f), della legge 5 agosto 1978, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457#art_2-com1-letf). Entro 30 giorni dalla data di entrata in vigore della presente legge, il Ministro dei lavori pubblici, con proprio decreto, provvede ad accreditare al comune di Ancona il finanziamento di lire 30 miliardi, gia' stanziato con deliberazione CIPE 30 luglio 1991, pubblicata nella Gazzetta Ufficiale del 13 agosto 1991, n. 189, per l'attuazione del programma di cui al [decreto-legge 14 dicembre 1974, n. 658](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dei%20contributi%20previsti%20dalla%20legge%2014%20febbraio%201963%20n.%2060%20e%20modifiche%20e%20integrazioni%20alla%20legge%2027%20giugno%201974%20n.%20247.md), convertito, con modificazioni, dalla [legge 15 febbraio 1975, n. 7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20dicembre%201974%20n.%20658%20concernente%20proroga%20dei%20contributi%20previsti%20dalla%20legge%2014%20febbraio%201963%20n.%2060%20e%20modifiche%20ed%20integrazioni_d7b31f8663bb.md). Il decreto e' emanato nelle stesse modalita' dei decreti di accredito gia' disposti a favore del comune di Ancona, che dovra' provvedere all'utilizzo delle somme con le stesse modalita' attuate in precedenza nel rispetto delle leggi emanate in conseguenza degli eventi sismici del gennaio 1972. 
  68. Gli affidamenti degli interventi di sperimentazione nel settore dell'edilizia residenziale di cui all'[articolo 2, primo comma, lettera f), della legge 5 agosto 1978, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;457#art_2-com1-letf), per i quali e' stata data applicazione alle disposizioni di cui all'[articolo 8, comma 2, del decreto-legge 5 ottobre 1993, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;398#art_8-com2), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 493](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20398%20recante%20disposizioni%20per%20laccelerazione%20degli%20investimenti%20a%20sostegno%20delloccupazione%20e%20per%20la%20semplificazio_99f0122da236.md), sono revocati qualora i lavori, relativi a detti interventi, non siano iniziati entro e non oltre il 1 aprile 1997. 
  69. Per i programmi indicati ai commi 65, 66, 67 e 68, nel caso di mancato inizio dei lavori nei termini fissati dai commi 65 e 68, il Ministro dei lavori pubblici puo' promuovere, su motivata richiesta presentata dagli enti locali entro il 30 giugno 1999, l'accordo di programma di cui al comma 75. 
  70. L'ultimo comma dell'[articolo 2 della legge 28 gennaio 1977, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10#art_2), e successive modificazioni, da ultimo prorogato dall'[articolo 22, comma 1, della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_22-com1), e' abrogato. 
@@ -1530,8 +1530,8 @@ Le somme non utilizzate in ciascun esercizio possono esserlo nel biennio success
  91. Sono abrogate tutte le disposizioni, anche di carattere speciale, che consentono, per i contratti stipulati dalle amministrazioni pubbliche, anticipazioni del prezzo in misura superiore al 5 per cento dell'importo dei lavori, servizi e forniture, esclusa l'imposta sul valore aggiunto. La misura delle anticipazioni e' fissata, entro il predetto limite massimo, con le modalita' stabilite dal [sesto comma dell'articolo 12 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), come sostituito dall'[articolo 2, comma 1, del decreto-legge 2 marzo 1989, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;65#art_2-com1), convertito, con modificazioni, dalla [legge 26 aprile 1989, n. 155](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2065%20recante%20disposizioni%20in%20materia%20di%20finanza%20pubblica.md). Rimane ferma, tranne che per la misura dell'anticipazione, fissata nel 5 per cento dell'importo contrattuale, la disciplina di cui all'[articolo 26, comma 1, della legge 11 febbraio 1994, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Legge%20quadro%20in%20materia%20di%20lavori%20pubblici.md). 
  92. La disposizione di cui al comma 91 non si applica ai contratti gia' aggiudicati alla data di entrata in vigore della presente legge.
 Rimangono ferme le disposizioni dell'[articolo 7 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md). 
- 93. COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md). 
- 94. COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md). 
+ 93. COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md). 
+ 94. COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md). 
  95. Il limite di valore fissato in lire 100 milioni di cui all'[articolo 12, comma 4, del decreto-legge 27 aprile 1990, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-27;90#art_12-com4), convertito, con modificazioni, dalla [legge 26 giugno 1990, n. 165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), e' elevato a lire 900 milioni. I limiti di valore previsti dal predetto articolo possono essere adeguati, in relazione all'andamento dei valori di mercato nel settore immobiliare, con decreto da emanare, ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), su proposta del Ministro delle finanze. 
  96. Il Ministro del bilancio e della programmazione economica, sentite le amministrazioni dello Stato e su conforme parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, propone alla Commissione UE la riprogrammazione delle risorse dei fondi strutturali comunitari, programmate per gli esercizi 1994, 1995 e 1996 per le quali, alla data del 31 dicembre 1996, non si sia ancora provveduto all'impegno contabile ed all'individuazione dei soggetti attuatori, e la conseguente ridestinazione delle stesse ad altri interventi, compatibili con i termini temporali previsti dalla normativa comunitaria, assicurando il rispetto dell'originaria allocazione territoriale delle risorse. 
  97. Per le somme impegnate entro il 31 dicembre 1996 in relazione a programmi approvati dalla Commissione UE, che non abbiano dato luogo ad erogazioni almeno nella misura del 20 per cento alla data del 31 dicembre 1997 a causa dell'inerzia dell'amministrazione aggiudicatrice dei lavori, il Ministro del bilancio e della programmazione economica ne propone alla medesima Commissione la riprogrammazione e la conseguente destinazione ad altri interventi, sulla base dei criteri di cui al comma 96. 
@@ -2133,7 +2133,7 @@ L'offerta al pubblico deve concludersi entro diciotto mesi dalla data dell'ultim
 
 112.
 
-COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md).
+COMMA ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md).
 
 113.
 
@@ -2616,7 +2616,7 @@ Il Governo e' delegato ad emanare, entro nove mesi dalla data di entrata in vigo
                         a)
                             previsione, per le plusvalenze realizzate relative ad aziende, complessi aziendali, partecipazioni in societa' controllate o collegate, sempreche' possedute per un periodo non inferiore a tre anni solari, di un regime opzionale di imposizione sostitutiva delle imposte sui redditi, con un'aliquota non superiore a quella applicata alla cessione di partecipazioni qualificate di cui al comma 160, lettera e);
                         b)
-                            armonizzazione del regime tributario delle operazioni di conferimento di aziende o di complessi aziendali e di quelle di scambio di partecipazioni con il regime previsto dal [decreto legislativo 30 dicembre 1992, n. 544](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20Consiglio%2090-434-CEE%20relativa%20al%20regime%20fiscale%20comune%20da%20applicare%20alle%20fusioni%20alle%20scissioni%20ai%20conferimenti%20dattivo%20ed%20agli%20altri%20scambi%20di%20azioni%20conce_31dae87fa221.md), per le operazioni poste in essere tra soggetti residenti nel territorio dello Stato e soggetti residenti in altri Stati membri dell'Unione europea;
+                            armonizzazione del regime tributario delle operazioni di conferimento di aziende o di complessi aziendali e di quelle di scambio di partecipazioni con il regime previsto dal [decreto legislativo 30 dicembre 1992, n. 544](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20del%20Consiglio%2090-434-CEE%20relativa%20al%20regime%20fiscale%20comune%20da%20applicare%20alle%20fusioni%20alle%20scissioni%20ai%20conferimenti%20dattivo%20ed%20agli%20altri%20scambi%20di%20azioni%20conce_31dae87fa221.md), per le operazioni poste in essere tra soggetti residenti nel territorio dello Stato e soggetti residenti in altri Stati membri dell'Unione europea;
                         c)
                             previsione, per le plusvalenze realizzate in dipendenza delle operazioni indicate nella lettera b) nonche' per quelle iscritte a seguito di operazioni di fusione e di scissione, di un regime di imposizione sostitutiva delle imposte sui redditi, da applicare a scelta del contribuente ed in alternativa al regime indicato nella lettera b), con un'aliquota pari a quella indicata alla lettera a);
                         d)
@@ -2626,7 +2626,7 @@ Il Governo e' delegato ad emanare, entro nove mesi dalla data di entrata in vigo
                         f)
                             revisione del trattamento tributario delle riserve in sospensione di imposta anche per armonizzarlo con le disposizioni del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e con i principi contabili in materia di conti annuali;
                         g)
-                            revisione dei criteri di individuazione delle operazioni di natura elusiva indicate nell'[articolo 10 della legge 29 dicembre 1990, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;408#art_10), anche in funzione di un miglior coordinamento con le operazioni indicate nelle precedenti lettere e con le disposizioni contenute nel testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e nel [decreto legislativo 30 dicembre 1992, n. 544](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20Consiglio%2090-434-CEE%20relativa%20al%20regime%20fiscale%20comune%20da%20applicare%20alle%20fusioni%20alle%20scissioni%20ai%20conferimenti%20dattivo%20ed%20agli%20altri%20scambi%20di%20azioni%20conce_31dae87fa221.md).
+                            revisione dei criteri di individuazione delle operazioni di natura elusiva indicate nell'[articolo 10 della legge 29 dicembre 1990, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;408#art_10), anche in funzione di un miglior coordinamento con le operazioni indicate nelle precedenti lettere e con le disposizioni contenute nel testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e nel [decreto legislativo 30 dicembre 1992, n. 544](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20del%20Consiglio%2090-434-CEE%20relativa%20al%20regime%20fiscale%20comune%20da%20applicare%20alle%20fusioni%20alle%20scissioni%20ai%20conferimenti%20dattivo%20ed%20agli%20altri%20scambi%20di%20azioni%20conce_31dae87fa221.md).
 
 162.
 
@@ -2956,7 +2956,7 @@ Il [D.L. 31 dicembre 1996, n. 669](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 19 maggio 1997, n. 130](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20prevenire%20e%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale%20nonche%20interventi%20in%20materia%20di%20protezione%20civile%20ambiente%20e%20agricoltura.md), convertito con modificazioni dalla [L. 16 luglio 1997, n. 228](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%201997%20n.%20130%20recante%20disposizioni%20urgenti%20per%20prevenire%20e%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale%20nonc_79c5bb309dd7.md), ha disposto (con l'art. 4-quinquies, comma 6) che i limiti e le condizioni di cui al comma 214 del presente articolo, riguardanti i pagamenti ed i prelevamenti sui conti aperti presso la Tesoreria dello Stato, non si applicano ai fondi pubblici assegnati alla Cassa per il credito alle imprese artigiane spa - Artigiancassa ed al Mediocredito centrale spa.
+Il [D.L. 19 maggio 1997, n. 130](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20prevenire%20e%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale%20nonche%20interventi%20in%20materia%20di%20protezione%20civile%20ambiente%20e%20agricoltura.md), convertito con modificazioni dalla [L. 16 luglio 1997, n. 228](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20maggio%201997%20n.%20130%20recante%20disposizioni%20urgenti%20per%20prevenire%20e%20fronteggiare%20gli%20incendi%20boschivi%20sul%20territorio%20nazionale%20nonc_79c5bb309dd7.md), ha disposto (con l'art. 4-quinquies, comma 6) che i limiti e le condizioni di cui al comma 214 del presente articolo, riguardanti i pagamenti ed i prelevamenti sui conti aperti presso la Tesoreria dello Stato, non si applicano ai fondi pubblici assegnati alla Cassa per il credito alle imprese artigiane spa - Artigiancassa ed al Mediocredito centrale spa.
 
 ---------------
 
@@ -3032,4 +3032,4 @@ Il [D.P.R. 14 maggio 2007, n. 88](../Atti%20normativi%20abrogati%20%28in%20origi
 
 AGGIORNAMENTO (63)
 
-Il [D.Lgs. 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) ha disposto (con l'art. 2268, comma 1, n. 924)) che il comma 114 del presente articolo e' abrogato limitatamente alle dismissioni della difesa.
+Il [D.Lgs. 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) ha disposto (con l'art. 2268, comma 1, n. 924)) che il comma 114 del presente articolo e' abrogato limitatamente alle dismissioni della difesa.
