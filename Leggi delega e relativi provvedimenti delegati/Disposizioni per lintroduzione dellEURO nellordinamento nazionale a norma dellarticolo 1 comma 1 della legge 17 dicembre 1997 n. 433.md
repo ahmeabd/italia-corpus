@@ -853,7 +853,7 @@ TITOLO V
 
 2.
 
-Ai titoli di Stato appartenenti a prestiti vigenti non si applicano le norme speciali del testo unico approvato con [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md) e successive modificazioni, se incompatibili con le disposizioni del presente decreto.
+Ai titoli di Stato appartenenti a prestiti vigenti non si applicano le norme speciali del testo unico approvato con [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md) e successive modificazioni, se incompatibili con le disposizioni del presente decreto.
 
 3.
 

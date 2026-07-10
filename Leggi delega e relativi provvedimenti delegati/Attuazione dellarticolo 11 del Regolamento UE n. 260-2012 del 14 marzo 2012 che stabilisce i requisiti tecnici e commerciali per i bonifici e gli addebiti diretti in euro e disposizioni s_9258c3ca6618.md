@@ -171,7 +171,7 @@ Il [D.Lgs. 15 dicembre 2017, n. 218](../Decreti%20Legislativi/Recepimento%20dell
 
 Nella determinazione delle sanzioni amministrative pecuniarie si applica l'[articolo 144-quater del decreto legislativo 1° settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md).
 
-2. Le sanzioni di cui agli articoli 3 e 4 si riscuotono secondo i termini e le modalita' previsti dal [Decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e i relativi proventi affluiscono all'entrata del bilancio dello Stato.))
+2. Le sanzioni di cui agli articoli 3 e 4 si riscuotono secondo i termini e le modalita' previsti dal [Decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e i relativi proventi affluiscono all'entrata del bilancio dello Stato.))
 
 ((1))
 

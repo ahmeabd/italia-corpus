@@ -3953,7 +3953,7 @@ Sono abrogate le seguenti disposizioni:
 - legge 12 luglio 1999, n. 237](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-12;237#art_153), limitatamente all'[articolo 9;
 - decreto legislativo 30 luglio 1999, n. 281](Disposizioni%20in%20materia%20di%20trattamento%20dei%20dati%20personali%20per%20finalita%20storiche%20statistiche%20e%20di%20ricerca%20scientifica.md), limitatamente agli articoli 8, comma 2, e 9;
 - [decreto legislativo 29 ottobre 1999, n. 490](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md) e successive modificazioni e integrazioni;
-- [decreto del Presidente della Repubblica 7 settembre 2000, n. 283](../DPR/Regolamento%20recante%20disciplina%20delle%20alienazioni%20di%20beni%20immobili%20del%20demanio%20storico%20e%20artistico.md);
+- [decreto del Presidente della Repubblica 7 settembre 2000, n. 283](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20delle%20alienazioni%20di%20beni%20immobili%20del%20demanio%20storico%20e%20artistico.md);
 - [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), limitatamente all'[articolo 179, comma 4;
 - legge 8 luglio 2003, n. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-08;172#art_179-com4), limitatamente all'articolo 7.
 

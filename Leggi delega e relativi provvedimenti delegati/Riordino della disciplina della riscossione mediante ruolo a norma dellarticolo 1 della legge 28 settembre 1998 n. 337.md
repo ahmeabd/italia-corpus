@@ -34,7 +34,7 @@ Capo I
 
 1.
 
-Nel titolo I del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), sono introdotte le seguenti partizioni interne:
+Nel titolo I del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), sono introdotte le seguenti partizioni interne:
                             a)
                                 prima dell'articolo 1: "Capo I - Versamenti diretti";
                             b)
@@ -69,7 +69,7 @@ Avvertenza:
  m) revisione delle procedure di sgravio e rimborso di iscrizioni a ruolo non dovute;
  n) individuazione di procedure che consentano la definizione automatica, per i concessionari ed i commissari governativi che ne facciano richiesta, delle domande di rimborso e di discarico per inesigibilita' presentate dagli stessi fino al 31 dicembre 1997 e giacenti presso gli uffici e gli enti impositori e non ancora esaminate, per le quote di rimborso non superiori a cinquecento milioni di lire, nonche' il rimborso delle anticipazioni in essere effettuate in virtu' dell'obbligo del non riscosso come riscosso, secondo percentuali non inferiori all'uno per cento ne' superiori al 5 per cento correlate al rapporto fra l'ammontare delle anticipazioni e quello delle domande di rimborso presentate. Il rimborso sara' effettuato, per i crediti erariali, mediante assegnazione di titoli di Stato, in misura non superiore a lire 4000 miliardi complessive e a lire 1000 miliardi annue, utilizzando le proiezioni per gli anni 1999 e 2000 dello stanziamento iscritto, ai fini del bilancio triennale 1998-2000, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1998, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero medesimo;
  o) revisione, con eventuale modifica della normativa di contabilita' generale dello Stato, dei criteri e delle procedure di contabilizzazione e quietanziamento delle somme riscosse dai concessionari, anche con previsione dell'utilizzo di strumenti informatici;
- p) revisione delle sanzioni amministrative a carico dei concessionari, anche al fine di potenziarne l'efficacia deterrente per le violazioni diverse dagli omessi o tardivi versamenti, tenendo conto anche dei tempi necessari per l'adeguamento delle procedure ad eventuali nuove disposizioni, e ridefinizione delle ipotesi di revoca e decadenza dalla concessione per gli inadempimenti di particolare gravita', mantenendo comunque ferma l'ipotesi di decadenza prevista dall'[articolo 20, comma 1, lettera e), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md);
+ p) revisione delle sanzioni amministrative a carico dei concessionari, anche al fine di potenziarne l'efficacia deterrente per le violazioni diverse dagli omessi o tardivi versamenti, tenendo conto anche dei tempi necessari per l'adeguamento delle procedure ad eventuali nuove disposizioni, e ridefinizione delle ipotesi di revoca e decadenza dalla concessione per gli inadempimenti di particolare gravita', mantenendo comunque ferma l'ipotesi di decadenza prevista dall'[articolo 20, comma 1, lettera e), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md);
  q) definizione, anche nell'ambito dei processi di ristrutturazione aziendale conseguenti all'applicazione delle disposizioni dei decreti legislativi emanati ai sensi della presente legge, di procedure volte a:
  1) consentire lo svolgimento, previa adeguata formazione, di durata non inferiore a trenta giorni lavorativi, delle funzioni di ufficiale della riscossione da parte di dipendenti delle societa' concessionarie che abbiano un'anzianita' di servizio non inferiore a cinque anni;
  2) realizzare misure di sostegno del reddito e dell'occupazione, con le modalita' di cui all'[art. 2, comma 28, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), per il personale delle societa' concessionarie della riscossione, dell'associazione nazionale di categoria e del Consorzio nazionale obbligatorio tra i concessionari del servizio di riscossione di cui al [decreto del Presidente della Repubblica 28 gennaio 1988, n. 44](../DPR/Adeguamento%20del%20Consorzio%20nazionale%20obbligatorio%20tra%20gli%20esattori%20delle%20imposte%20dirette%20alla%20nuova%20disciplina%20del%20servizio%20di%20riscossione%20ai%20sensi%20dellart.%202%20comma%201%20lettera%20c%20della%20legge_d875e703f9db.md);
@@ -78,15 +78,15 @@ Avvertenza:
  s) fissazione di un termine per la durata dell'incarico di commissario governativo provvisoriamente delegato alla riscossione, con previsione di rimborso delle spese di gestione dallo stesso sostenute durante la gestione commissariale, di norma entro i limiti determinati per il precedente concessionario o commissario;
  t) previsione della possibilita', per le societa' concessionarie, di esercitare l'attivita' di recupero crediti secondo le ordinarie procedure civilistiche; tali attivita' dovranno essere svolte e contabilizzate in modo separato da quelle della riscossione dei tributi, senza incidere sul regolare svolgimento dell'attivita' primaria di riscossione delle entrate dello Stato, degli enti territoriali e degli altri enti pubblici;
  u) coordinamento delle disposizioni recate dai decreti legislativi emanati ai sensi della presente legge con quelle di cui ai decreti legislativi emanati ai sensi dell'[art. 3 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), in quanto applicabili;
- v) applicazione della disciplina recata dai decreti legislativi emanati ai sensi della presente legge ai rapporti concessori e commissariali in atto per la residua durata del periodo di gestione, con facolta', per i concessionari ed i commissari, di costituire societa' per azioni di cui all'[art. 31, comma 1, lettera c), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), e successive modificazioni, attribuendo a tali societa' i rapporti concessori in atto; previsione, per i primi due anni successivi alla data di entrata in vigore dei decreti legislativi, di un meccanismo di salvaguardia del risultato economico delle singole gestioni dell'ultimo biennio precedente, tenendo conto dei maggiori ricavi della riscossione mediante ruolo e dei minori costi di gestione derivanti, entrambi, dall'applicazione della nuova disciplina della riscossione, anche alla luce dei criteri direttivi di cui alla lettera e); previsione, per i soggetti cui sia gia' affidato in concessione il servizio di riscossione, del termine di due anni dalla data di entrata in vigore dei decreti legislativi, per l'adeguamento del capitale sociale alla misura prevista dalla lettera d)".
+ v) applicazione della disciplina recata dai decreti legislativi emanati ai sensi della presente legge ai rapporti concessori e commissariali in atto per la residua durata del periodo di gestione, con facolta', per i concessionari ed i commissari, di costituire societa' per azioni di cui all'[art. 31, comma 1, lettera c), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), e successive modificazioni, attribuendo a tali societa' i rapporti concessori in atto; previsione, per i primi due anni successivi alla data di entrata in vigore dei decreti legislativi, di un meccanismo di salvaguardia del risultato economico delle singole gestioni dell'ultimo biennio precedente, tenendo conto dei maggiori ricavi della riscossione mediante ruolo e dei minori costi di gestione derivanti, entrambi, dall'applicazione della nuova disciplina della riscossione, anche alla luce dei criteri direttivi di cui alla lettera e); previsione, per i soggetti cui sia gia' affidato in concessione il servizio di riscossione, del termine di due anni dalla data di entrata in vigore dei decreti legislativi, per l'adeguamento del capitale sociale alla misura prevista dalla lettera d)".
  Nota all'[art. 1:
- - Il decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), reca: "Disposizioni sulla riscossione delle imposte sul reddito".
+ - Il decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), reca: "Disposizioni sulla riscossione delle imposte sul reddito".
 
 ### Art. 2. — Definizioni
 
 1.
 
-L'[articolo 10 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 10 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 10 (Definizioni). - 1. Ai fini del presente decreto si intende per:
  a) ''concessionario'': il soggetto cui e' affidato in concessione il servizio di riscossione o il commissario governativo che gestisce il servizio stesso;
  b) ''ruolo'': l'elenco dei debitori e delle somme da essi dovute formato dall'ufficio ai fini della riscossione a mezzo del concessionario.".
@@ -98,7 +98,7 @@ Nota all'art. 2:
 
 1.
 
-L'[articolo 11 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 11 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 11 (Oggetto e specie dei ruoli). - 1. Nei ruoli sono iscritte le imposte, le sanzioni e gli interessi.
  2. I ruoli si distinguono in ordinari e straordinari.
  3. I ruoli straordinari sono formati quando vi e' fondato pericolo per la riscossione.".
@@ -111,7 +111,7 @@ Nota all'art. 3:
 
 1.
 
-L'[articolo 12 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dai seguenti:
+L'[articolo 12 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dai seguenti:
  "Art. 12 (Formazione e contenuto dei ruoli). - 1. L'ufficio competente forma ruoli distinti per ciascuno degli ambiti territoriali in cui i concessionari operano. In ciascun ruolo sono iscritte tutte le somme dovute dai contribuenti che hanno il domicilio fiscale in comuni compresi nell'ambito territoriale cui il ruolo si riferisce.
  2. Con decreto del Ministero delle finanze, di concerto con il Ministero del tesoro, del bilancio e della programmazione economica, sono stabiliti i dati che il ruolo deve contenere, i tempi e le procedure della sua formazione, nonche' le modalita' dell'intervento in tali procedure del consorzio nazionale obbligatorio fra i concessionari.
  3. Nel ruolo deve essere comunque indicato il numero del codice fiscale del contribuente; in difetto non puo' farsi luogo all'iscrizione.
@@ -127,17 +127,17 @@ Note all'art. 4:
 
 1.
 
-Dopo l'[articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' inserito il seguente:
+Dopo l'[articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' inserito il seguente:
  "Art. 15-bis (Iscrizioni nei ruoli straordinari). - 1. In deroga all'articolo 15, nei ruoli straordinari le imposte, gli interessi e le sanzioni sono iscritti per l'intero importo risultante dall'avviso di accertamento, anche se non definitivo.".
 
 Nota all'art. 5:
- - Per il testo dell'art. 15 del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si rinvia alle note all'art. 37.
+ - Per il testo dell'art. 15 del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si rinvia alle note all'art. 37.
 
 ### Art. 6. — Termini di decadenza per l'iscrizione a ruolo
 
 1.
 
-L'[articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 17 (Termini di decadenza per l'iscrizione a ruolo). - 1. Le somme dovute dai contribuenti sono iscritte in ruoli resi esecutivi a pena di decadenza:
  a) entro il 31 dicembre del secondo anno successivo a quello di presentazione della dichiarazione, per le somme che risultano dovute a seguito dell'attivita' di liquidazione prevista dall'[articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md);
  b) entro il 31 dicembre del terzo anno successivo a quello di presentazione della dichiarazione, per le somme che risultano dovute a seguito dell'attivita' di controllo formale prevista dall'[articolo 36-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md);
@@ -171,7 +171,7 @@ Nota all'art. 6:
 
 1.
 
-L'[articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dai seguenti:
+L'[articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dai seguenti:
  "Art. 19 (Dilazione del pagamento). - 1. L'ufficio, su richiesta del contribuente, puo' concedere, nelle ipotesi di temporanea situazione di obiettiva difficolta' dello stesso, la ripartizione del pagamento delle somme iscritte a ruolo fino ad un massimo di sessanta rate mensili ovvero la sospensione della riscossione per un anno e, successivamente, la ripartizione del pagamento fino ad un massimo di quarantotto rate mensili. Se l'importo iscritto a ruolo e' superiore a cinquanta milioni di lire, il riconoscimento di tali benefici e' subordinato alla prestazione di idonea garanzia mediante polizza fidejussoria o fidejussione bancaria.
  2. La richiesta, di rateazione deve essere presentata, a pena di decadenza, prima dell'inizio della procedura esecutiva.
  3. In caso di mancato pagamento della prima rata o, successivamente, di due rate:
@@ -188,7 +188,7 @@ Nota agli articoli 7 e 8:
 
 1.
 
-L'[articolo 20 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 20 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 20 (Interessi per ritardata iscrizione a ruolo). - Sulle imposte o sulle maggiori imposte dovute in base alla liquidazione ed al controllo formale della dichiarazione od all'accertamento d'ufficio si applicano, a partire dalla scadenza del termine di presentazione della dichiarazione e fino alla data di consegna al concessionario dei ruoli nei quali tali imposte sono iscritte, gli interessi al tasso del cinque per cento annuo".
 
 Nota agli articoli 7 e 8:
@@ -198,7 +198,7 @@ Nota agli articoli 7 e 8:
 
 1.
 
-All'[articolo 21 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), sono apportate le seguenti modificazioni:
+All'[articolo 21 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), sono apportate le seguenti modificazioni:
                             a)
                                 la rubrica e' sostituita dalla seguente: "Interessi per dilazione del pagamento";
                             b)
@@ -206,17 +206,17 @@ All'[articolo 21 del decreto del Presidente della Repubblica 29 settembre 1973, 
  "Sulle somme il cui pagamento e' stato rateizzato o sospeso ai sensi dell'articolo 19, comma 1, si applicano gli interessi al tasso del sei per cento annuo.".
 
 Note all'art. 9:
- - Si riporta il testo dell'art. 21 del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), cosi' come da ultimo modificato dal presente decreto:
+ - Si riporta il testo dell'art. 21 del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), cosi' come da ultimo modificato dal presente decreto:
  "Art. 21 (Interessi per dilazione del pagamento). - Sulle somme il cui pagamento e' stato rateizzato o sospeso ai sensi dell'art. 19, comma 1, si applicano gli interessi al tasso del sei per cento annuo.
  L'ammontare degli interessi dovuto e' determinato nel provvedimento con il quale viene accordata la prolungata rateazione dell'imposta ed e' riscosso unitamente all'imposta alle scadenze stabilite.
  I privilegi generali e speciali che assistono le imposte sui redditi sono estesi a tutto il periodo per il quale la rateazione e' prolungata e riguardano anche gli interessi previsti dall'art. 20 e dal presente articolo".
- - Per il testo dell'[art. 19, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si veda l'art. 7 del presente decreto.
+ - Per il testo dell'[art. 19, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si veda l'art. 7 del presente decreto.
 
 ### Art. 10. — Consegna del ruolo al concessionario
 
 1.
 
-L'[articolo 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 24 (Consegna del ruolo al concessionario). - 1. L'ufficio consegna il ruolo al concessionario dell'ambito territoriale cui esso si riferisce secondo le modalita' indicate con decreto del Ministero delle finanze, di concerto con il Ministero del tesoro del bilancio e della programmazione economica.
  2. Con lo stesso o con separato decreto sono individuati i compiti che possono essere affidati al consorzio nazionale obbligatorio fra i concessionari relativamente alla consegna dei ruoli e le ipotesi nelle quali l'affidamento dei ruoli ai concessionari avviene esclusivamente con modalita' telematiche.".
 
@@ -227,7 +227,7 @@ Nota agli articoli 10 e 11:
 
 1.
 
-L'[articolo 25 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 25 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 25 (Cartella di pagamento). - 1. Il concessionario notifica la cartella di pagamento, entro l'ultimo giorno del quarto mese successivo a quello di consegna del ruolo, al debitore iscritto a ruolo o al coobbligato nei confronti dei quali procede.
  2. La cartella di pagamento, redatta in conformita' al modello approvato con decreto del Ministero delle finanze, contiene l'intimazione ad adempiere l'obbligo risultante dal ruolo entro il termine di sessanta giorni dalla notificazione, con l'avvertimento che, in mancanza, si procedera' ad esecuzione forzata.
  3. Ai fini della scadenza del termine di pagamento il sabato e' considerato giorno festivo.".
@@ -239,11 +239,11 @@ Nota agli articoli 10 e 11:
 
 1.
 
-Il [primo comma dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+Il [primo comma dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "La cartella e' notificata dagli ufficiali della riscossione o da altri soggetti abilitati dal concessionario nelle forme previste dalla legge ovvero, previa eventuale convenzione tra comune e concessionario, dai messi comunali o dagli agenti della polizia municipale. La notifica puo' essere eseguita anche mediante invio di raccomandata con avviso di ricevimento; in tal caso, la cartella e' notificata in plico chiuso e la notifica si considera avvenuta nella data indicata nell'avviso di ricevimento sottoscritto da una delle persone previste dal secondo comma.".
 
 Nota all'art. 12:
- - Si riporta il testo dell'art. 26 del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), cosi' come da ultimo modificato dal presente decreto:
+ - Si riporta il testo dell'art. 26 del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), cosi' come da ultimo modificato dal presente decreto:
  "Art. 26 (Notificazione della cartella di pagamento). - La cartella e' notificata dagli ufficiali della riscossione o da altri soggetti abilitati dal concessionario nelle forme previste dalla legge ovvero,
  previa eventuale convenzione tra comune e concessionario, dai messi comunali o dagli agenti della polizia municipale.
  La notifica puo' essere eseguita anche mediante invio di raccomandata con avviso di ricevimento; in tal caso, la cartella e' notificata in plico chiuso e la notifica si considera avvenuta nella data indicata nell'avviso di ricevimento sottoscritto da una delle persone previste dal secondo comma.
@@ -256,7 +256,7 @@ Nota all'art. 12:
 
 1.
 
-L'[articolo 28 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 28 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 28 (Modalita' di pagamento). - 1. Il pagamento delle somme iscritte a ruolo puo' essere effettuato presso gli sportelli del concessionario, le agenzie postali e le banche. In caso di versamento presso le agenzie postali e le banche i costi dell'operazione sono a carico del contribuente.
  2. Fuori del territorio nazionale, il pagamento puo' essere effettuato mediante bonifico bancario sul conto corrente bancario indicato dal concessionario nella cartella di pagamento.
  3. Con decreto del Ministero delle finanze sono stabilite le modalita' di pagamento, anche con mezzi diversi dal contante; in ogni caso, tali modalita' devono essere tali da assicurare l'indicazione del codice fiscale del contribuente e gli estremi identificativi dell'imposta pagata.".
@@ -268,17 +268,17 @@ Nota all'art. 13:
 
 1.
 
-L'[articolo 30 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 30 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 30 (Interessi di mora). - 1. Decorso inutilmente il termine previsto dall'articolo 25, comma 2, sulle somme iscritte a ruolo si applicano, a partire dalla data della notifica della cartella e fino alla data del pagamento, gli interessi di mora al tasso determinato annualmente con decreto del Ministero delle finanze con riguardo alla media dei tassi bancari attivi.".
 
 Nota all'art. 14:
- - Per il testo dell'art. 25, comma 2, del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), vedi l'art. 11 del presente decreto.
+ - Per il testo dell'art. 25, comma 2, del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), vedi l'art. 11 del presente decreto.
 
 ### Art. 15. — Sospensione amministrativa della riscossione
 
 1.
 
-L'[articolo 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+L'[articolo 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Art. 39 (Sospensione amministrativa della riscossione). - 1. Il ricorso contro il ruolo di cui all'[articolo 19 del decreto legislativo 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), non sospende la riscossione; tuttavia, l'ufficio delle entrate o il centro di servizio ha facolta' di disporla in tutto o in parte fino alla data di pubblicazione della sentenza della commissione tributaria provinciale, con provvedimento motivato notificato al concessionario e al contribuente. Il provvedimento puo' essere revocato ove sopravvenga fondato pericolo per la riscossione.
  2. Sulle somme il cui pagamento e' stato sospeso ai sensi del comma 1 e che risultano dovute dal debitore a seguito della sentenza della commissione tributaria provinciale si applicano gli interessi al tasso del sette per cento annuo; tali interessi sono riscossi mediante ruolo formato dall'ufficio che ha emesso il provvedimento di sospensione.".
 
@@ -301,7 +301,7 @@ Note all'art. 15:
 
 ### Art. 16. — Riscossione coattiva
 
-1. Il titolo II del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
+1. Il titolo II del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' sostituito dal seguente:
  "Titolo II
  RISCOSSIONE COATTIVA
  Capo I
@@ -592,7 +592,7 @@ In caso di emanazione dell'autorizzazione di cui al comma 3-bis, la societa' int
 
 1.
 
-Salvo quanto previsto dagli articoli seguenti, le disposizioni di cui al capo II del titolo I e al titolo II del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come modificate dal presente decreto, si applicano, nel rispetto degli ambiti di competenza, anche interna, dei singoli soggetti creditori anche alle entrate riscosse mediante ruolo a norma dell'articolo 17 del presente decreto ed alle relative sanzioni ed accessori.
+Salvo quanto previsto dagli articoli seguenti, le disposizioni di cui al capo II del titolo I e al titolo II del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come modificate dal presente decreto, si applicano, nel rispetto degli ambiti di competenza, anche interna, dei singoli soggetti creditori anche alle entrate riscosse mediante ruolo a norma dell'articolo 17 del presente decreto ed alle relative sanzioni ed accessori.
 
 Nota all'art. 18:
  - Per il titolo del [D.P.R. n. 602/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;602) v. in nota all'art. 1.
@@ -610,21 +610,21 @@ Il [D.Lgs. 26 gennaio 2001, n. 32](../Decreti%20Legislativi/Disposizioni%20corre
 
 1.
 
-Le disposizioni previste dagli articoli 14, 15, 32, 33, 34, 35 ((...)), 37, 38, 41, 42-bis, 43-bis, 43-ter, 44 e 44-bis del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si applicano alle sole imposte sui redditi.
+Le disposizioni previste dagli articoli 14, 15, 32, 33, 34, 35 ((...)), 37, 38, 41, 42-bis, 43-bis, 43-ter, 44 e 44-bis del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si applicano alle sole imposte sui redditi.
 
 ### Art. 20. — Disposizioni applicabili
  alle sole entrate tributarie dello Stato
 
 1.
 
-Le disposizioni contenute negli articoli (( 15-bis, )) 20, come sostituito dall'articolo 8 del presente decreto, e 28-bis del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si applicano esclusivamente alle entrate tributarie dello Stato.
+Le disposizioni contenute negli articoli (( 15-bis, )) 20, come sostituito dall'articolo 8 del presente decreto, e 28-bis del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si applicano esclusivamente alle entrate tributarie dello Stato.
 
 ### Art. 20-bis.
 
 (Ambito di applicazione dell'[articolo 28-ter del 
-decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md)). 
+decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md)). 
  
- 1. Puo' essere effettuato mediante la compensazione volontaria di cui all'[articolo 28-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), il pagamento di tutte le entrate iscritte a ruolo dall'Agenzia delle entrate ((nonche' dagli altri enti titolari del credito che si avvalgono dell'Agenzia delle entrate-riscossione.)). Tuttavia, l'agente della riscossione, una volta ricevuta la segnalazione di cui al comma 1 dello stesso articolo 28-ter, formula la proposta di compensazione con riferimento a tutte le somme iscritte a ruolo a carico del soggetto indicato in tale segnalazione.((14)) 
+ 1. Puo' essere effettuato mediante la compensazione volontaria di cui all'[articolo 28-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), il pagamento di tutte le entrate iscritte a ruolo dall'Agenzia delle entrate ((nonche' dagli altri enti titolari del credito che si avvalgono dell'Agenzia delle entrate-riscossione.)). Tuttavia, l'agente della riscossione, una volta ricevuta la segnalazione di cui al comma 1 dello stesso articolo 28-ter, formula la proposta di compensazione con riferimento a tutte le somme iscritte a ruolo a carico del soggetto indicato in tale segnalazione.((14)) 
  2. Le altre Agenzie fiscali e gli enti previdenziali possono stipulare una convenzione con l'Agenzia delle entrate per disciplinare la trasmissione, da parte di quest'ultima, della segnalazione di cui al citato art. 28-ter, comma 1, anche nel caso in cui il beneficiario di un credito d'imposta sia iscritto a ruolo da uno dei predetti enti creditori. Con tale convenzione e' regolata anche la suddivisione, tra gli stessi enti creditori, dei rimborsi spese spettanti all'agente della riscossione.((14))
 
 --------------
@@ -647,7 +647,7 @@ Salvo che sia diversamente disposto da particolari disposizioni di legge, e salv
 
 1.
 
-I decreti previsti dagli [articoli 12, comma 2](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [24](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [commi 1](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [2](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [25, comma 2](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [28](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [comma 3](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [30](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [50](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [comma 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituiti dal presente decreto, sono adottati dal Ministero delle finanze anche per le entrate diverse dalle imposte sui redditi.
+I decreti previsti dagli [articoli 12, comma 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [24](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [25, comma 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [comma 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [30](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [comma 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituiti dal presente decreto, sono adottati dal Ministero delle finanze anche per le entrate diverse dalle imposte sui redditi.
 
 2.
 
@@ -658,9 +658,9 @@ I decreti attuativi previsti dal presente decreto sono adottati entro sessanta g
 Resta fermo quanto disposto dal [comma 3 dell'articolo 13 del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_13-com3), convertito, con modificazioni, dalla [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md).
 
 Note all'art. 22:
- - Per il testo degli artt. 12, comma 2, 24, commi 1 e 2, 25, comma 2, 28, comma 3, 30 e 50, comma 3, del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), vedi, rispettivamente, gli articoli 4, 10, 11, 13, 14 e 16 del presente decreto.
+ - Per il testo degli artt. 12, comma 2, 24, commi 1 e 2, 25, comma 2, 28, comma 3, 30 e 50, comma 3, del citato [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), vedi, rispettivamente, gli articoli 4, 10, 11, 13, 14 e 16 del presente decreto.
  - Si riporta il testo dell'[art. 13 del decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557#art_13) (Ulteriori interventi correttivi di finanza pubblica per l'anno 1994):
- "Art. 13 (Interessi per rapporti di credito e debito di imposta). - 1. Gli interessi per la riscossione o per il rimborso di imposte previsti dagli [articoli 9](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [20](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [21](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [39](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [44 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, nelle misure del 9 per cento annuo e del 4,5 per cento semestrale, sono dovuti a decorrere dal 1 gennaio 1994, rispettivamente, nelle misure del 6 e del 3 per cento.
+ "Art. 13 (Interessi per rapporti di credito e debito di imposta). - 1. Gli interessi per la riscossione o per il rimborso di imposte previsti dagli [articoli 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [20](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [21](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [39](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [44 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, nelle misure del 9 per cento annuo e del 4,5 per cento semestrale, sono dovuti a decorrere dal 1 gennaio 1994, rispettivamente, nelle misure del 6 e del 3 per cento.
  2. Gli interessi previsti dalla [legge 26 gennaio 1961, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20disciplina%20della%20riscossione%20dei%20carichi%20in%20materia%20di%20tasse%20e%20di%20imposte%20indirette%20sugli%20affari.md), e successive modificazioni, nella misura semestrale del 4,5 per cento, sono dovuti, a decorrere dal 1 gennaio 1994, nella misura del 3 per cento. Dalla stessa data gli interessi previsti in materia di imposta sul valore aggiunto nella misura del 9 per cento annuo sono dovuti nella misura del 6 per cento.
  3. Il Ministro delle finanze e' autorizzato a determinare, con proprio decreto, di concerto con il Ministro del tesoro, la misura degli interessi di cui ai commi 1 e 2, dovuti a decorrere dal 1 gennaio 1995.".
  - La [legge 26 febbraio 1994, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201993%20n.%20557%20recante%20ulteriori%20interventi%20correttivi%20di%20finanza%20pubblica%20per%20lanno%201994.md), di conversione, con modificazioni, del [decreto-legge 30 dicembre 1993, n. 557](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-30;557), sopra citato, e' pubblicata nella Gazzetta Ufficiale 28 febbraio 1994, n. 48.
@@ -674,7 +674,7 @@ Note all'art. 22:
 
 1.
 
-Le disposizioni previste dall'[articolo 15, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'[articolo 4 del decreto legislativo 18 dicembre 1997, n. 462](../Decreti%20Legislativi/Unificazione%20ai%20fini%20fiscali%20e%20contributivi%20delle%20procedure%20di%20liquidazione%20riscossione%20e%20accertamento%20a%20norma%20dellarticolo%203%20comma%20134%20lettera%20b%20della%20legge%2023%20dicembre%201996%20n.%20662.md), nonche' i termini di decadenza di cui all'[articolo 25, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si applicano anche all'imposta sul valore aggiunto )).
+Le disposizioni previste dall'[articolo 15, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'[articolo 4 del decreto legislativo 18 dicembre 1997, n. 462](../Decreti%20Legislativi/Unificazione%20ai%20fini%20fiscali%20e%20contributivi%20delle%20procedure%20di%20liquidazione%20riscossione%20e%20accertamento%20a%20norma%20dellarticolo%203%20comma%20134%20lettera%20b%20della%20legge%2023%20dicembre%201996%20n.%20662.md), nonche' i termini di decadenza di cui all'[articolo 25, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si applicano anche all'imposta sul valore aggiunto )).
 
 ### Art. 24. — Iscrizioni a ruolo dei crediti degli enti previdenziali
 
@@ -739,7 +739,7 @@ Le rate scadono l'ultimo giorno del mese.
 
 1.
 
-In deroga all'[articolo 30 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 14 del presente decreto, sui contributi o premi dovuti agli enti pubblici previdenziali, decorso il termine previsto dall'[articolo 25 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 11 del presente decreto, le sanzioni e le somme aggiuntive dovute sono calcolate, secondo le disposizioni che le regolano, dalla data della notifica e fino alla data del pagamento.
+In deroga all'[articolo 30 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 14 del presente decreto, sui contributi o premi dovuti agli enti pubblici previdenziali, decorso il termine previsto dall'[articolo 25 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 11 del presente decreto, le sanzioni e le somme aggiuntive dovute sono calcolate, secondo le disposizioni che le regolano, dalla data della notifica e fino alla data del pagamento.
 
 2.
 
@@ -779,18 +779,18 @@ Per le entrate tributarie diverse da quelle elencate dall'[articolo 2 del decret
 
 2.
 
-Alle entrate indicate nel comma 1 non si applica la disposizione del [comma 1 dell'articolo 57 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto e le opposizioni all'esecuzione ed agli atti esecutivi si propongono nelle forme ordinarie. ((Il ricorso e' notificato all'ente impositore presso la sede territoriale nella cui circoscrizione risiedono i soggetti privati interessati)).
+Alle entrate indicate nel comma 1 non si applica la disposizione del [comma 1 dell'articolo 57 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto e le opposizioni all'esecuzione ed agli atti esecutivi si propongono nelle forme ordinarie. ((Il ricorso e' notificato all'ente impositore presso la sede territoriale nella cui circoscrizione risiedono i soggetti privati interessati)).
 
 3.
 
-Ad esecuzione iniziata il giudice puo' sospendere la riscossione solo in presenza dei presupposti di cui all'[art. 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto.
+Ad esecuzione iniziata il giudice puo' sospendere la riscossione solo in presenza dei presupposti di cui all'[art. 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto.
 
 ### Art. 30. — Esito negativo del terzo incanto
  nell'espropriazione forzata immobiliare
 
 1.
 
-La disposizione prevista dall'[art. 85 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto, si applica solo se si procede per entrate tributarie dello Stato.
+La disposizione prevista dall'[art. 85 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto, si applica solo se si procede per entrate tributarie dello Stato.
 
 2.
 
@@ -804,7 +804,7 @@ Nota agli articoli 29, 30 e 31:
 
 1.
 
-Le disposizioni previste dagli [articoli 88](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [90, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituiti dall'articolo 16 del presente decreto, non si applicano se le contestazioni relative alle somme iscritte a ruolo sono devolute alla giurisdizione del giudice ordinario.
+Le disposizioni previste dagli [articoli 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [90, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituiti dall'articolo 16 del presente decreto, non si applicano se le contestazioni relative alle somme iscritte a ruolo sono devolute alla giurisdizione del giudice ordinario.
 
 Nota agli articoli 29, 30 e 31:
  - Per il titolo del [D.P.R. n. 602/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;602) v. in nota all'art. 1.
@@ -884,7 +884,7 @@ Nota all'art. 34:
 
 1.
 
-Nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), le parole: "esattore" e: "esattoria" sono sostituite, dove compaiono, dalla parola: "concessionario".
+Nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), le parole: "esattore" e: "esattoria" sono sostituite, dove compaiono, dalla parola: "concessionario".
 
 Nota all'art. 3:
  - Per il titolo del [D.P.R. n. 602/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;602) v. in nota all'art. 1.
@@ -894,13 +894,13 @@ Nota all'art. 3:
 1.
 
 Fino all'entrata in vigore del regolamento previsto
- nell'[articolo 12-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), introdotto dall'articolo 4 del presente decreto, per le entrate tributarie dello Stato e degli enti locali non si fa luogo all'iscrizione a ruolo per gli importi individuati con il regolamento previsto nell'[articolo 16, comma 2, della legge 8 maggio 1998, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-08;146#art_16-com2).
+ nell'[articolo 12-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), introdotto dall'articolo 4 del presente decreto, per le entrate tributarie dello Stato e degli enti locali non si fa luogo all'iscrizione a ruolo per gli importi individuati con il regolamento previsto nell'[articolo 16, comma 2, della legge 8 maggio 1998, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-05-08;146#art_16-com2).
 
 ((
 
 2.
 
-In deroga all'[articolo 25, comma 1, lettera a), del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), per le somme che risultano dovute a seguito dell'attivita' di liquidazione delle dichiarazioni, la cartella di pagamento e' notificata, a pena di decadenza, entro il 31 dicembre:
+In deroga all'[articolo 25, comma 1, lettera a), del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), per le somme che risultano dovute a seguito dell'attivita' di liquidazione delle dichiarazioni, la cartella di pagamento e' notificata, a pena di decadenza, entro il 31 dicembre:
                             a)
                                 del quarto anno successivo a quello di presentazione della dichiarazione, relativamente alle dichiarazioni presentate negli anni 2002 e 2003;
                             b)
@@ -910,19 +910,19 @@ In deroga all'[articolo 25, comma 1, lettera a), del decreto del Presidente dell
 
 2-bis.
 
-Fino al 30 settembre 1999 i ruoli possono essere formati e resi esecutivi secondo le disposizioni in vigore al 30 giugno 1999. A tali ruoli e a quelli resi esecutivi antecedentemente al 1 luglio 1999 si applicano gli [articoli 24](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [25](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [26](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [27](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [28](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [29](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [30](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [46 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), nel testo vigente prima di tale data; in deroga all'[articolo 68, comma 1, del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), su tali ruoli sono dovuti i compensi e gli interessi semestrali di mora di cui all'[articolo 61, comma 6, del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
+Fino al 30 settembre 1999 i ruoli possono essere formati e resi esecutivi secondo le disposizioni in vigore al 30 giugno 1999. A tali ruoli e a quelli resi esecutivi antecedentemente al 1 luglio 1999 si applicano gli [articoli 24](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [26](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [27](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [28](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [30](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [46 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), nel testo vigente prima di tale data; in deroga all'[articolo 68, comma 1, del decreto legislativo 13 aprile 1999, n. 112](../Decreti%20Legislativi/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), su tali ruoli sono dovuti i compensi e gli interessi semestrali di mora di cui all'[articolo 61, comma 6, del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
 
 3.
 
-Per le entrate amministrate dal dipartimento delle entrate del Ministero delle finanze, fino all'attivazione degli uffici delle entrate la sospensione prevista dall'[articolo 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 15 del presente decreto, e' disposta dalla sezione staccata della direzione regionale delle entrate, sentito l'ufficio che ha provveduto all'iscrizione a ruolo.
+Per le entrate amministrate dal dipartimento delle entrate del Ministero delle finanze, fino all'attivazione degli uffici delle entrate la sospensione prevista dall'[articolo 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 15 del presente decreto, e' disposta dalla sezione staccata della direzione regionale delle entrate, sentito l'ufficio che ha provveduto all'iscrizione a ruolo.
 
 4.
 
-Il divieto stabilito nell'[articolo 55 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto, non si applica se il concessionario e' una banca che procede all'espropriazione di beni immobili anche per la tutela di crediti propri, non portati dal ruolo, e che ha ottenuto il nulla osta del servizio di vigilanza.
+Il divieto stabilito nell'[articolo 55 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto, non si applica se il concessionario e' una banca che procede all'espropriazione di beni immobili anche per la tutela di crediti propri, non portati dal ruolo, e che ha ottenuto il nulla osta del servizio di vigilanza.
 
 5.
 
-In via transitoria, e fino all'attivazione degli uffici del territorio, i compiti agli stessi affidati dall'[articolo 79, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto, sono svolti dagli uffici tecnici erariali.
+In via transitoria, e fino all'attivazione degli uffici del territorio, i compiti agli stessi affidati dall'[articolo 79, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come sostituito dall'articolo 16 del presente decreto, sono svolti dagli uffici tecnici erariali.
 
 6.
 
@@ -934,7 +934,7 @@ I privilegi dei crediti dello Stato per le imposte sui redditi portati da ruoli 
 
 8.
 
-In via transitoria, e fino alla data di efficacia delle disposizioni del [decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), le funzioni di giudice dell'esecuzione nelle procedure di espropriazione promosse a norma del titolo II del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come modificato dal presente decreto, sono svolte dal pretore.
+In via transitoria, e fino alla data di efficacia delle disposizioni del [decreto legislativo 19 febbraio 1998, n. 51](Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), le funzioni di giudice dell'esecuzione nelle procedure di espropriazione promosse a norma del titolo II del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), come modificato dal presente decreto, sono svolte dal pretore.
 
 9.
 
@@ -950,7 +950,7 @@ Entro il 31 dicembre 2002, l'ente creditore procede automaticamente all'annullam
                             a)
                                 le somme iscritte in tali ruoli non siano oggetto di provvedimenti di sospensione;
                             b)
-                                non siano scaduti i termini di cui all'[articolo 77 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), per la presentazione, da parte del concessionario, delle domande di rimborso o di discarico delle quote iscritte nei predetti ruoli.
+                                non siano scaduti i termini di cui all'[articolo 77 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), per la presentazione, da parte del concessionario, delle domande di rimborso o di discarico delle quote iscritte nei predetti ruoli.
 
 10-ter.
 
@@ -964,7 +964,7 @@ Le disposizioni di cui ai commi 10-bis e 10-ter non devono comportare oneri a ca
 
 1.
 
-Sono abrogati (( l'articolo 60, commi dal secondo al quinto, e 61 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, gli articoli )) 9, 13, 15, secondo comma, 18, 23, 27, 29, secondo comma, 40, e [42, settimo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), l'articolo 35, quinto comma, secondo periodo, e [nono comma della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_com9), l'articolo 2, ad eccezione dei [commi 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com12), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com16), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com17), [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com18) e [19, del decreto-legge 9 ottobre 1989, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com19), convertito, con modificazioni, dalla [legge 7 dicembre 1989, n. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md), e l'articolo (( 11, commi 4-bis e 5 )), del [decreto-legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20151%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20pubblica.md).
+Sono abrogati (( l'articolo 60, commi dal secondo al quinto, e 61 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, gli articoli )) 9, 13, 15, secondo comma, 18, 23, 27, 29, secondo comma, 40, e [42, settimo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), l'articolo 35, quinto comma, secondo periodo, e [nono comma della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_com9), l'articolo 2, ad eccezione dei [commi 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com12), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com16), [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com17), [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com18) e [19, del decreto-legge 9 ottobre 1989, n. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-10-09;338#art_com19), convertito, con modificazioni, dalla [legge 7 dicembre 1989, n. 389](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20ottobre%201989%20n.%20338%20recante%20disposizioni%20urgenti%20in%20materia%20di%20evasione%20contributiva%20di%20fiscalizzazione%20degli%20oneri%20sociali%20di%20s_803fd82e1fcd.md), e l'articolo (( 11, commi 4-bis e 5 )), del [decreto-legge 13 maggio 1991, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;151), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 202](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%201991%20n.%20151%20recante%20provvedimenti%20urgenti%20per%20la%20finanza%20pubblica.md).
 
 ### Art. 38. — Norma di coordinamento
 
@@ -972,9 +972,9 @@ Sono abrogati (( l'articolo 60, commi dal secondo al quinto, e 61 del decreto de
 
 Dalla data di entrata in vigore del presente decreto:
                             a)
-                                i rinvii contenuti in norme vigenti alle disposizioni del [decreto Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), abrogate dal presente decreto, si intendono riferiti alle corrispondenti disposizioni del presente decreto;
+                                i rinvii contenuti in norme vigenti alle disposizioni del [decreto Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), abrogate dal presente decreto, si intendono riferiti alle corrispondenti disposizioni del presente decreto;
                             b)
-                                i riferimenti contenuti nelle norme ai ruoli principali, suppletivi e speciali, gia' disciplinati dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si intendono effettuati ai ruoli ordinari di cui all'articolo 11 del medesimo decreto n. 602 del 1973, come sostituito dall'articolo 3 del presente decreto.
+                                i riferimenti contenuti nelle norme ai ruoli principali, suppletivi e speciali, gia' disciplinati dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), si intendono effettuati ai ruoli ordinari di cui all'articolo 11 del medesimo decreto n. 602 del 1973, come sostituito dall'articolo 3 del presente decreto.
 
 Nota all'art. 38:
  - Per il titolo del [D.P.R. n. 602/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;602) v. in nota all'art. 1.

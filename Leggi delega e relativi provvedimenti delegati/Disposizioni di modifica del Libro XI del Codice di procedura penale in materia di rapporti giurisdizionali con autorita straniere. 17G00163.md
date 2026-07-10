@@ -18,7 +18,7 @@ Vista la convenzione europea giudiziaria in materia penale, firmata a Strasburgo
 
 Vista la [legge 21 luglio 2016, n. 149](../Leggi%20contenenti%20deleghe/Ratifica%20ed%20esecuzione%20della%20Convenzione%20relativa%20allassistenza%20giudiziaria%20in%20materia%20penale%20tra%20gli%20Stati%20membri%20dellUnione%20europea%20fatta%20a%20Bruxelles%20il%2029%20maggio%202000%20e%20delega%20al%20Gover_b707e7150b03.md), recante ratifica ed esecuzione della Convenzione relativa all'assistenza giudiziaria in materia penale tra gli Stati membri dell'Unione europea, fatta a Bruxelles il 29 maggio 2000, e delega al Governo per la riforma del Libro XI del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447). Modifiche alle disposizioni in materia di estradizione per l'estero: termine per la consegna e durata massima delle misure coercitive, e in particolare l'articolo 4;
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 21 luglio 2017;
 
@@ -135,7 +135,7 @@ Capo II
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447, l'articolo 696](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md) e' sostituito dal seguente: 
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447, l'articolo 696](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md) e' sostituito dal seguente: 
  «Art. 696 (Prevalenza del diritto dell'Unione europea, delle convenzioni e del diritto internazionale generale). - 1. Nei rapporti con gli Stati membri dell'Unione europea le estradizioni, le domande di assistenza giudiziaria internazionali, gli effetti delle sentenze penali straniere, l'esecuzione all'estero delle sentenze penali italiane e gli altri rapporti con le autorita' straniere, relativi all'amministrazione della giustizia in materia penale, sono disciplinati dalle norme del Trattato sull'Unione europea e del Trattato sul funzionamento dell'Unione europea, nonche' dagli atti normativi adottati in attuazione dei medesimi. Se tali norme mancano o non dispongono diversamente, si applicano le norme delle convenzioni internazionali in vigore per lo Stato e le norme di diritto internazionale generale. 
  2. Nei rapporti con Stati diversi da quelli membri dell'Unione europea le estradizioni, le domande di assistenza giudiziaria internazionali, gli effetti delle sentenze penali straniere, l'esecuzione all'estero delle sentenze penali italiane e gli altri rapporti con le autorita' straniere, relativi all'amministrazione della giustizia in materia penale, sono disciplinati dalle norme delle convenzioni internazionali in vigore per lo Stato e dalle norme di diritto internazionale generale. 
  3. Se le norme indicate ai commi 1 e 2 mancano o non dispongono diversamente, si applicano le norme del presente libro. 
@@ -145,7 +145,7 @@ Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:p
 
 1.
 
-Al [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 al Libro XI, dopo il titolo I, e' inserito il seguente: 
  
@@ -175,7 +175,7 @@ PRINCIPI GENERALI DEL MUTUO RICONOSCIMENTO DELLE DECISIONI E DEI PROVVEDIMENTI G
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 697: 
  1) al comma 1, le parole: «La consegna» sono sostituite dalle seguenti: «Salvo che sia diversamente stabilito, la consegna»; 
@@ -332,7 +332,7 @@ Note all'art. 4:
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 720: 
  1) al comma 1, le parole: «ministro di grazia e giustizia» sono sostituite dalle seguenti: «Ministro della giustizia»; 
@@ -372,7 +372,7 @@ Note all'art. 5:
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 723 e' sostituito dal seguente: 
  «Art. 723 (Poteri del Ministro della giustizia). - 1. Il Ministro della giustizia provvede sulla domanda di assistenza giudiziaria di un'autorita' straniera, trasmettendola per l'esecuzione all'autorita' giudiziaria competente entro trenta giorni dalla ricezione della stessa, salvo quanto previsto dal comma 3. 
@@ -432,7 +432,7 @@ Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:p
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 727 e' sostituito dal seguente: 
  «Art. 727 (Trasmissione di rogatorie ad autorita' straniere). - 1.
@@ -481,7 +481,7 @@ Nei casi in cui lo Stato estero abbia posto condizioni all'utilizzabilita' degli
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 730: 
  1) al comma 1, primo periodo, le parole: «Ministro di grazia e giustizia» sono sostituite dalle seguenti: «Ministro della giustizia» e dopo le parole: «il provvedimento giudiziario straniero, o» sono inserite le seguenti: «, se questo e' sconosciuto,»; 
@@ -568,7 +568,7 @@ Note all'art. 8:
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 742: 
  1) nella rubrica le parole: «ministro di grazia e giustizia» sono sostituite dalle seguenti: «Ministro della giustizia»; 
@@ -603,7 +603,7 @@ Note all'art. 9:
 
 ### Art. 10. — Disposizioni in materia di trasferimento dei procedimenti penali
 
-1. Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni: 
+1. Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni: 
  a) al Libro XI, dopo il titolo IV, e' inserito il seguente: 
  
  «Titolo IV-bis 

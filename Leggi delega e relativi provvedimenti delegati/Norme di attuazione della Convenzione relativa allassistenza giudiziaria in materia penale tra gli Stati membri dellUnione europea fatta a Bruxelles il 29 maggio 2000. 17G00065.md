@@ -22,7 +22,7 @@ Vista la [legge 16 marzo 2006, n. 146](../DL%20e%20leggi%20di%20conversione/Rati
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -62,7 +62,7 @@ N O T E
  - La convenzione relativa all'assistenza giudiziaria in materia penale tra gli stati membri dell'Unione europea, fatta a Bruxelles il 29 maggio 2000 e' pubblicata nella Gazzetta. Ufficiale 4 agosto 2016, n. 181. 
  - La [legge 16 marzo 2006, n. 146](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20e%20dei%20Protocolli%20delle%20Nazioni%20Unite%20contro%20il%20crimine%20organizzato%20transnazionale%20adottati%20dallAssemblea%20generale%20il%2015%20novembre%202000%20ed%20il%2031%20maggio%202001.md) (Ratifica ed esecuzione della Convenzione e dei Protocolli delle Nazioni Unite contro il crimine organizzato transnazionale, adottati dall'Assemblea generale il 15 novembre 2000 ed il 31 maggio 2001.) e' pubblicata nella Gazzetta Ufficiale 11 aprile 2006, n. 85, S.O. 
  - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689) (Modifiche al sistema penale) e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, S.O. 
- - Il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md) (Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. 
+ - Il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md) (Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. 
  - Il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) (Norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 5 agosto 1989, n. 182, S.O. 
  
  Note all'art. 1: 

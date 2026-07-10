@@ -587,7 +587,7 @@ Non e' ammessa ripetizione delle somme versate in applicazione delle disposizion
 
 1.
 
-Dopo l'articolo 295 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e' inserito il seguente:
+Dopo l'articolo 295 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e' inserito il seguente:
  "Art. 295-bis (Sanzioni amministrative per le violazioni di lieve entita'). - Nei casi previsti dagli articoli 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292 e 294, se l'ammontare dei diritti di confine dovuti non supera lire sette milioni e non ricorrono le circostanze indicate dall'articolo 295, secondo comma, si applica, in luogo della pena stabilita dai medesimi articoli, la sanzione amministrativa pecuniaria non minore di due e non maggiore di dieci volte i diritti di confine dovuti. Nei casi previsti dall'articolo 294, la sanzione non puo' essere comunque inferiore a lire un milione.
  La sanzione puo' essere aumentata fino alla meta' se ricorre la circostanza indicata dall'articolo 295, primo comma.
  Le disposizioni degli articoli 301, 301-bis e 333 si osservano anche con riguardo alle violazioni previste dal presente articolo. I provvedimenti per i quali, in base alle medesime disposizioni, e' competente l'autorita' giudiziaria sono adottati dal capo della dogana nella cui circoscrizione la violazione e' stata accertata.
@@ -598,7 +598,7 @@ Dopo l'articolo 295 del testo unico delle disposizioni legislative in materia do
 
 1.
 
-Nell'articolo 297 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), le parole "lire cinquantamila" sono sostituite dalle parole alire ventuno milioni".
+Nell'articolo 297 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), le parole "lire cinquantamila" sono sostituite dalle parole alire ventuno milioni".
 
 ### Art. 27. — Depenalizzazione del reato previsto dall'articolo 2,
  comma 26, del decreto-legge 19 dicembre 1984, n. 853
