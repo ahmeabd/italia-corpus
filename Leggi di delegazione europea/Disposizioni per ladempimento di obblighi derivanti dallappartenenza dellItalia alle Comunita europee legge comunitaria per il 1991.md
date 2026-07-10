@@ -802,7 +802,7 @@ L'etichettatura dei formaggi per i quali non e' previsto un contenuto minimo di 
 
 3.
 
-Il [regio decreto-legge 17 maggio 1938, n. 1177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20della%20disciplina%20della%20produzione%20e%20della%20vendita%20dei%20formaggi.%20038U1177.md), convertito, con modificazioni, dalla [legge 2 febbraio 1939, n. 396](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20maggio%201938-XVI%20n.%201177%20recante%20disposizioni%20integrative%20della%20disciplina%20della%20produzione%20e%20delle%20vendita%20dei%20formaggi.%20039U0396.md), e' abrogato.
+Il [regio decreto-legge 17 maggio 1938, n. 1177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20della%20disciplina%20della%20produzione%20e%20della%20vendita%20dei%20formaggi.%20038U1177.md), convertito, con modificazioni, dalla [legge 2 febbraio 1939, n. 396](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20maggio%201938-XVI%20n.%201177%20recante%20disposizioni%20integrative%20della%20disciplina%20della%20produzione%20e%20delle%20vendita%20dei%20formaggi.%20039U0396.md), e' abrogato.
 
 ### Art. 54. — (Burro)
 

@@ -1020,7 +1020,7 @@ L'imposta erariale di consumo sulle banane fresche e secche e le farine di banan
 
 Nota all'[art. 32:
  - La legge 9 ottobre 1964, n.986](../Atti%20normativi%20abrogati%20%28in%20originale%29/Abolizione%20del%20Monopolio%20statale%20delle%20banane.md), abolisce il monopolio statale delle banane l'art. 1 recitava:
- "Art. 1. - Il monopolio del trasporto marittimo delle banane, del commercio delle stesse e della loro lavorazione industriale, compresa quella dei sottoprodotti, istituto con [regio decreto-legge 2 dicembre 1935, n. 2085](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Monopolio%20statale%20delle%20banane.%20035U2085.md), convertito nella [legge 6 aprile 1936, n. 899](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), e successive modificazioni, e' abolito con effetto dal 1 gennaio 1965.
+ "Art. 1. - Il monopolio del trasporto marittimo delle banane, del commercio delle stesse e della loro lavorazione industriale, compresa quella dei sottoprodotti, istituto con [regio decreto-legge 2 dicembre 1935, n. 2085](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Monopolio%20statale%20delle%20banane.%20035U2085.md), convertito nella [legge 6 aprile 1936, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), e successive modificazioni, e' abolito con effetto dal 1 gennaio 1965.
  A decorrere dall'anzidetta data, e' istitutita una imposta erariale di consumo sulle banane fresche e secche e sulle farine di banane.
  La misura di detta imposta e' stabilita in lire 70 per chilogrammo di banane fresche ed in lire 350 per chilogrammo di banane secche di farina di banane.
  Per le banane di produzione nazionale, l'imposta e' corrisposta dal produttore all'atto della vendita ed e' accertata e riscossa, per conto dello Stato, dagli uffici comunali delle imposte di consumo competenti per territorio. Ai comuni ed agli applatatori del servizio di riscossione delle imposte di consumo, compete l'aggio del 2 per cento sull'ammontare lordo delle riscossioni.
@@ -1362,7 +1362,7 @@ Il [D.L.9 settembre 1997, n. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 2 febbraio 2001, n. 18](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-50-CE%20relativa%20al%20mantenimento%20dei%20diritti%20dei%20lavoratori%20in%20caso%20di%20trasferimento%20di%20imprese%20di%20stabilimenti%20o%20di%20parti%20di%20stabilimenti.md) ha disposto (con l'art. 3, comma 1) che le modifiche apportate trovano applicazione a decorrere dal 1° luglio 2001.
+Il [D.Lgs. 2 febbraio 2001, n. 18](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-50-CE%20relativa%20al%20mantenimento%20dei%20diritti%20dei%20lavoratori%20in%20caso%20di%20trasferimento%20di%20imprese%20di%20stabilimenti%20o%20di%20parti%20di%20stabilimenti.md) ha disposto (con l'art. 3, comma 1) che le modifiche apportate trovano applicazione a decorrere dal 1° luglio 2001.
 
 --------------
 
