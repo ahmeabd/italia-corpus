@@ -277,7 +277,7 @@ Nota all'art. 2, comma 1, lettera n):
  Nota all'art. 2, comma 1, lettera ccc):
  - La [direttiva 97/24/CE del Parlamento europeo e del Consiglio del 17 giugno 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;24), relativa a taluni elementi o caratteristiche dei veicoli a motore a due o tre ruote, e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 226 del 18 agosto 1997.
  Nota all'art. 2, comma 1, lettera ggg) e hhh):
- - Il regolamento di esecuzione e di attuazione e del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) ([decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md)) e' pubblicato nella Gazzetta Ufficiale del 28 dicembre 1992, n. 303, Supplemento Ordinario.
+ - Il regolamento di esecuzione e di attuazione e del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) ([decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md)) e' pubblicato nella Gazzetta Ufficiale del 28 dicembre 1992, n. 303, Supplemento Ordinario.
  Note all'art. 2, comma 1, lettera iii):
  - Per l'[art. 32 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), si veda nella nota all'art. 2, comma 1, lettera vv).
  - Il testo dell'art. 208 del citato [decreto legislativo 30 aprile 1992, n. 285](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md) e' il seguente:
@@ -324,7 +324,7 @@ Nota all'art. 3, comma 1:
 
 1.
 
-Il Governo, ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), adotta entro lo stesso termine di cui all'articolo 1, comma 1, della presente legge, norme integrative e modificative del regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni.
+Il Governo, ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), adotta entro lo stesso termine di cui all'articolo 1, comma 1, della presente legge, norme integrative e modificative del regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md), di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni.
 
 Note all'art. 4, comma 1:
  - Il testo dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", e successive modificazioni, (pubblicato nella Gazzetta Ufficiale, 12 settembre 1988, n. 214, S.O.) e' il seguente:
@@ -335,7 +335,7 @@ Note all'art. 4, comma 1:
  c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
  d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;
  e) abrogata.".
- - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) recante "Regolamento di esecuzione e di attuazione e del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)" e' pubblicato nella Gazzetta Ufficiale del 28 dicembre 1992, n. 303, supplemento ordinario.
+ - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) recante "Regolamento di esecuzione e di attuazione e del nuovo [codice della strada](../Decreti%20Legislativi/Nuovo%20codice%20della%20strada.md)" e' pubblicato nella Gazzetta Ufficiale del 28 dicembre 1992, n. 303, supplemento ordinario.
 
 ## Art. 5. — (Parere parlamentare)
 
