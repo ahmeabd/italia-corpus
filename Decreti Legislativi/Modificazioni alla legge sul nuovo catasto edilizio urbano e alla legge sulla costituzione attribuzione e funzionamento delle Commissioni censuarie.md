@@ -90,7 +90,7 @@ Al [regio decreto-legge 13 aprile 1939, n. 652](https://www.normattiva.it/uri-re
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md) ha disposto (con l'art. 46, comma 1) che "A decorrere dalla data stabilita a norma del secondo comma dell'art. 42 sono abrogati: [...] l'[art. 5 del decreto legislativo 8 aprile 1948, n. 514](Modificazioni%20alla%20legge%20sul%20nuovo%20catasto%20edilizio%20urbano%20e%20alla%20legge%20sulla%20costituzione%20attribuzione%20e%20funzionamento%20delle%20Commissioni%20censuarie.md)".
+Il [D.P.R. 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md) ha disposto (con l'art. 46, comma 1) che "A decorrere dalla data stabilita a norma del secondo comma dell'art. 42 sono abrogati: [...] l'[art. 5 del decreto legislativo 8 aprile 1948, n. 514](Modificazioni%20alla%20legge%20sul%20nuovo%20catasto%20edilizio%20urbano%20e%20alla%20legge%20sulla%20costituzione%20attribuzione%20e%20funzionamento%20delle%20Commissioni%20censuarie.md)".
 
 ## Art. 6.
 

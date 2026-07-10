@@ -69,14 +69,14 @@ La determinazione ministeriale sulla richiesta deve essere comunicata all'intere
 
 4.
 
-Ai fini del rilascio della concessione si applicano, in quanto compatibili, le norme vigenti in materia di opere e lavori pubblici, nonche' quelle vigenti sulle concessioni di servizi di telecomunicazioni ad uso pubblico di cui al libro IV del [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
+Ai fini del rilascio della concessione si applicano, in quanto compatibili, le norme vigenti in materia di opere e lavori pubblici, nonche' quelle vigenti sulle concessioni di servizi di telecomunicazioni ad uso pubblico di cui al libro IV del [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
 
 5.
 
 Il decreto di concessione definisce le modalita' di distribuzione dei programmi agli utenti, nonche' gli obblighi di allacciamento dei residenti.
 
 Nota all'art. 4:
- - Il libro quarto del codice postale e delle telecomunicazioni, approvato con [D.P.R. 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' dedicato alla disciplina dei servizi di telecomunicazioni.
+ - Il libro quarto del codice postale e delle telecomunicazioni, approvato con [D.P.R. 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' dedicato alla disciplina dei servizi di telecomunicazioni.
 
 ### Art. 5. — Durata della concessione
 
@@ -232,7 +232,7 @@ Le misure dei canoni dovuti dagli utenti, autorizzati a norma dell'art. 10, dell
 
 1.
 
-Non sono soggetti alle concessioni ed alle autorizzazioni previste dal presente decreto l'installazione e l'esercizio degli impianti, destinati ad uso privato ed esclusivo del proprietario, di cui all'[art. 183 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), cosi' come sostituito dall'[art. 45 della legge 14 aprile 1975, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-14;103#art_45).
+Non sono soggetti alle concessioni ed alle autorizzazioni previste dal presente decreto l'installazione e l'esercizio degli impianti, destinati ad uso privato ed esclusivo del proprietario, di cui all'[art. 183 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), cosi' come sostituito dall'[art. 45 della legge 14 aprile 1975, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-14;103#art_45).
 
 2.
 

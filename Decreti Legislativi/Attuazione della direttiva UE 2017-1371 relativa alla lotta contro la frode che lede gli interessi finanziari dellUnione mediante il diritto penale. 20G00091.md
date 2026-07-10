@@ -170,14 +170,14 @@ Note all'art. 2:
 
 1.
 
-All'[articolo 295 del decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md):
+All'[articolo 295 del decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md):
                         a)
                             al secondo comma, alla lettera d) il segno di interpunzione «.» e' sostituito dal seguente: «;» e dopo la lettera d), e' inserita la seguente: «d-bis) quando l'ammontare dei diritti di confine dovuti e' superiore a centomila euro.»;
                         b)
                             il terzo comma e' sostituito dal seguente: «Per gli stessi delitti, alla multa e' aggiunta la reclusione fino a tre anni quando l'ammontare dei diritti di confine dovuti e' maggiore di cinquantamila euro e non superiore a centomila euro.».
 
 Note all'art. 3: 
- - Il testo dell'[art. 295 del decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md) (Approvazione del testo unico delle disposizioni legislative in materia doganale), pubblicato nella Gazzetta Ufficiale 28 marzo 1973, n. 80, Supplemento ordinario, come modificato dal presente decreto, cosi' recita: 
+ - Il testo dell'[art. 295 del decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md) (Approvazione del testo unico delle disposizioni legislative in materia doganale), pubblicato nella Gazzetta Ufficiale 28 marzo 1973, n. 80, Supplemento ordinario, come modificato dal presente decreto, cosi' recita: 
  «Art. 295 (Circostanze aggravanti del contrabbando). - Per i delitti preveduti negli articoli precedenti, e' punito con la multa non minore di cinque e non maggiore di dieci volte i diritti di confine dovuti chiunque, per commettere il contrabbando, adopera mezzi di trasporto appartenenti a persona estranea al reato. 
  Per gli stessi delitti, alla multa e' aggiunta la reclusione da tre a cinque anni: 
  a) quando nel commettere il reato, o immediatamente dopo nella zona di vigilanza, il colpevole sia sorpreso a mano armata; 
@@ -191,14 +191,14 @@ Note all'art. 3:
 
 1.
 
-All'[articolo 1, comma 4, del decreto legislativo 15 gennaio 2016, n. 8](Disposizioni%20in%20materia%20di%20depenalizzazione%20a%20norma%20dellarticolo%202%20comma%202%20della%20legge%2028%20aprile%202014%20n.%2067.%2016G00011.md), dopo le parole «[decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md)» sono aggiunte le seguenti: «, nonche' ai reati di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), quando l'ammontare dei diritti di confine dovuti e' superiore a euro diecimila».
+All'[articolo 1, comma 4, del decreto legislativo 15 gennaio 2016, n. 8](Disposizioni%20in%20materia%20di%20depenalizzazione%20a%20norma%20dellarticolo%202%20comma%202%20della%20legge%2028%20aprile%202014%20n.%2067.%2016G00011.md), dopo le parole «[decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md)» sono aggiunte le seguenti: «, nonche' ai reati di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), quando l'ammontare dei diritti di confine dovuti e' superiore a euro diecimila».
 
 Note all'art. 4: 
  - Il testo dell'[art. 1 del decreto legislativo 15 gennaio 2016, n. 8](Disposizioni%20in%20materia%20di%20depenalizzazione%20a%20norma%20dellarticolo%202%20comma%202%20della%20legge%2028%20aprile%202014%20n.%2067.%2016G00011.md) (Disposizioni in materia di depenalizzazione, a norma dell'[art. 2, comma 2, della legge 28 aprile 2014, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-28;67#art_2-com2)), pubblicato nella Gazzetta Ufficiale 22 gennaio 2016, n. 17, come modificato dal presente decreto, cosi' recita: 
  «Art. 1 (Depenalizzazione di reati puniti con la sola pena pecuniaria ed esclusioni). - 1. Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro tutte le violazioni per le quali e' prevista la sola pena della multa o dell'ammenda. 
  2. La disposizione del comma 1 si applica anche ai reati in esso previsti che, nelle ipotesi aggravate, sono puniti con la pena detentiva, sola, alternativa o congiunta a quella pecuniaria. In tal caso, le ipotesi aggravate sono da ritenersi fattispecie autonome di reato. 
  3. La disposizione del comma 1 non si applica ai reati previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), fatto salvo quanto previsto dall'art. 2, comma 6, e a quelli compresi nell'elenco allegato al presente decreto. 
- 4. La disposizione del comma 1 non si applica ai reati di cui al [decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), nonche' ai reati di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), quando l'ammontare dei diritti di confine dovuti e' superiore a euro diecimila. 
+ 4. La disposizione del comma 1 non si applica ai reati di cui al [decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), nonche' ai reati di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), quando l'ammontare dei diritti di confine dovuti e' superiore a euro diecimila. 
  5. La sanzione amministrativa pecuniaria, di cui al primo comma, e' cosi' determinata: 
  a) da euro 5.000 a euro 10.000 per i reati puniti con la multa o l'ammenda non superiore nel massimo a euro 5.000; 
  b) da euro 5.000 a euro 30.000 per i reati puniti con la multa o l'ammenda non superiore nel massimo a euro 20.000; 
@@ -229,7 +229,7 @@ Al [decreto legislativo 8 giugno 2001, n. 231](Disciplina%20della%20responsabili
  3) al comma 3, le parole «commi 1 e 2» sono sostituite dalle seguenti: «commi 1, 1-bis e 2»;
                         d)
                             dopo l'articolo 25-quinquiesdecies e' aggiunto il seguente: 
- «Art. 25-sexiesdecies (Contrabbando). - 1. In relazione alla commissione dei reati previsti dal [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), si applica all'ente la sanzione pecuniaria fino a duecento quote. 
+ «Art. 25-sexiesdecies (Contrabbando). - 1. In relazione alla commissione dei reati previsti dal [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), si applica all'ente la sanzione pecuniaria fino a duecento quote. 
  2. Quando i diritti di confine dovuti superano centomila euro si applica all'ente la sanzione pecuniaria fino a quattrocento quote. 
  3. Nei casi previsti dai commi 1 e 2 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, lettere c), d) ed e).».
 

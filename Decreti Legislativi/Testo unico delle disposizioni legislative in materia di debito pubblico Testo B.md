@@ -990,7 +990,7 @@ La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal 
 
 1.
 
-Con l'entrata in vigore del presente testo unico sono abrogati l'articolo 1, gli articoli dal 4 al 10, gli articoli 12 e 13, gli articoli dal 15 al 18, l'articolo 24, l'articolo 26, dall'articolo 33 al 40, dall'articolo 41 al 47, l'articolo 59, dall'articolo 62 al 68, l'articolo 70, l'articolo 72, l'articolo 74, gli articoli 78 e 79, l'articolo 81, gli articoli 83 e 84, dall'articolo 86 all'88, dall'articolo 90 al 95 del [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md); il decreto ministeriale 27 maggio 1993, cosi' come modificato dall'articolo 3 del decreto ministeriale 5 gennaio 1995.
+Con l'entrata in vigore del presente testo unico sono abrogati l'articolo 1, gli articoli dal 4 al 10, gli articoli 12 e 13, gli articoli dal 15 al 18, l'articolo 24, l'articolo 26, dall'articolo 33 al 40, dall'articolo 41 al 47, l'articolo 59, dall'articolo 62 al 68, l'articolo 70, l'articolo 72, l'articolo 74, gli articoli 78 e 79, l'articolo 81, gli articoli 83 e 84, dall'articolo 86 all'88, dall'articolo 90 al 95 del [decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20in%20materia%20di%20debito%20pubblico.md); il decreto ministeriale 27 maggio 1993, cosi' come modificato dall'articolo 3 del decreto ministeriale 5 gennaio 1995.
 
 ### Art. 83. — (L)
  Entrata in vigore del testo unico

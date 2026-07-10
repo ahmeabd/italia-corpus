@@ -28,14 +28,14 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-Il [terzo comma dell'art. 2 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' sostituito dal seguente:
+Il [terzo comma dell'art. 2 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' sostituito dal seguente:
  "Salvo che il fatto costituisca piu' grave reato, i contravventori alle disposizioni di cui alla lettera a) del primo comma sono puniti con l'arresto fino ad un anno e con l'ammenda da lire cinquemilioni a lire quindicimilioni; i contravventori alle disposizioni di cui alla lettera b) del primo comma sono puniti con l'arresto fino a tre mesi o con l'ammenda da lire cinquemilioni a lire quindicimilioni".
 
 ## Art. 2.
 
 1.
 
-Dopo l'[articolo 2 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' aggiunto il seguente:
+Dopo l'[articolo 2 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' aggiunto il seguente:
  "Art. 2- bis . - 1. E' vietato produrre, detenere per vendere, porre in commercio o usare materiali e oggetti che allo stato di prodotti finiti siano destinati a venire a contatto con le sostanze alimentari o con l'acqua destinata al consumo umano, che siano:
  a) di piombo, di zinco o di leghe contenenti piu' del 10 per cento di piombo;
  b) stagnati internamente con stagno contenente piombo al di sopra dell'1 per cento;
@@ -48,7 +48,7 @@ Dopo l'[articolo 2 del decreto del Presidente della Repubblica 23 agosto 1982, n
 
 1.
 
-L'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' sostituito dal seguente:
+L'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' sostituito dal seguente:
  "Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale.
  2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e 1' giugno 1988, n. 243.
  3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2.
@@ -58,7 +58,7 @@ L'[articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777
 
 1.
 
-L'[articolo 4 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' sostituito dal seguente:
+L'[articolo 4 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), e' sostituito dal seguente:
  "Art. 4. - 1. I materiali e gli oggetti non ancora venuti a contatto con i prodotti alimentari devono riportare, all'atto della loro immissione in commercio, le seguenti indicazioni:
  a) la dicitura 'per alimenti' ovvero 'puo' venire a contatto con gli alimenti' oppure una menzione specifica circa il loro uso, quale 'macchina per caffe'', 'bottiglia per vino', 'cucchiaio per minestra' oppure il simbolo di cui all'allegato 2;
  b) le condizioni particolari che devono essere osservate al momento del loro impiego, qualora tali indicazioni si rendano necessarie;
@@ -78,7 +78,7 @@ L'[articolo 4 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777
 
 1.
 
-Dopo l'[articolo 5 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), sono aggiunti i seguenti:
+Dopo l'[articolo 5 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), sono aggiunti i seguenti:
  "Art. 5- bis . - 1. L'utilizzazione in sede industriale o commerciale dei materiali e degli oggetti destinati a venire a contatto con le sostanze alimentari e' subordinata all'accertamento della loro conformita' alle norme del presente decreto nonche' della idoneita' tecnologica allo scopo cui sono destinati.
  2. L'impresa deve essere fornita della dichiarazione di conformita' di cui all'art. 4, commi 5 e 6, ed essere sempre in grado di consentire ai competenti organi di controllo di identificare il fornitore o il produttore dei materiali o degli oggetti impiegati.
  3. I contravventori agli obblighi di cui al comma 2 sono puniti con la sanzione amministrativa pecuniaria del pagamento di una somma da lire cinquemilioni a lire quindicimilioni".

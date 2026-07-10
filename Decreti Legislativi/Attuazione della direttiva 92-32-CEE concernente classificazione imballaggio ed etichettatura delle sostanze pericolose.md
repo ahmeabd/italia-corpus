@@ -426,7 +426,7 @@ Con regolamento interno, da emanarsi con decreto del Ministro della sanita' entr
 
 7.
 
-La commissione di cui al comma 1 sostituisce quella prevista all'[articolo 10 del decreto del Presidente della Repubblica 24 novembre 1981, n. 927](../DPR/Recepimento%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%2079-831%20del%2018%20settembre%201979%20recante%20la%20sesta%20modifica%20della%20direttiva%20n.%2067-548-CEE%20relativa%20alla%20classificazione%20imba_37f22edc20a2.md).
+La commissione di cui al comma 1 sostituisce quella prevista all'[articolo 10 del decreto del Presidente della Repubblica 24 novembre 1981, n. 927](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%2079-831%20del%2018%20settembre%201979%20recante%20la%20sesta%20modifica%20della%20direttiva%20n.%2067-548-CEE%20relativa%20alla%20classificazione%20imba_37f22edc20a2.md).
 
 ### Art. 27.
 
@@ -585,7 +585,7 @@ I decreti di cui al comma 1, salvo che sia diversamente indicato dalle direttive
 
 1.
 
-Le disposizioni di cui alla [legge 29 maggio 1974, n. 256](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), e successive modificazioni, e quelle di cui ai [decreti del Presidente della Repubblica 24 novembre 1981, n. 927](../DPR/Recepimento%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%2079-831%20del%2018%20settembre%201979%20recante%20la%20sesta%20modifica%20della%20direttiva%20n.%2067-548-CEE%20relativa%20alla%20classificazione%20imba_37f22edc20a2.md), e [20 febbraio 1988, n. 141](../DPR/Modificazioni%20allart.%208%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20novembre%201981%20n.%20927%20e%20recepimento%20delle%20direttive%20CEE%20n.%2083-467%20e%20n.%2086-431%20che%20adeguano%20per%20la%20quinta%20e%20la%20settima_6a30eedaa6b2.md), non si applicano alle sostanze di cui all'articolo 1, comma 1.
+Le disposizioni di cui alla [legge 29 maggio 1974, n. 256](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), e successive modificazioni, e quelle di cui ai [decreti del Presidente della Repubblica 24 novembre 1981, n. 927](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%2079-831%20del%2018%20settembre%201979%20recante%20la%20sesta%20modifica%20della%20direttiva%20n.%2067-548-CEE%20relativa%20alla%20classificazione%20imba_37f22edc20a2.md), e [20 febbraio 1988, n. 141](../Atti%20di%20recepimento%20direttive%20UE/Modificazioni%20allart.%208%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20novembre%201981%20n.%20927%20e%20recepimento%20delle%20direttive%20CEE%20n.%2083-467%20e%20n.%2086-431%20che%20adeguano%20per%20la%20quinta%20e%20la%20settima_6a30eedaa6b2.md), non si applicano alle sostanze di cui all'articolo 1, comma 1.
 
 2.
 
@@ -597,7 +597,7 @@ E' consentita fino al 31 dicembre 2000 l'immissione sul mercato di sostanze la c
 
 4.
 
-Sono abrogati gli [articoli 10 e il del decreto del Presidente della Repubblica 24 novembre 1981, n. 927](../DPR/Recepimento%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%2079-831%20del%2018%20settembre%201979%20recante%20la%20sesta%20modifica%20della%20direttiva%20n.%2067-548-CEE%20relativa%20alla%20classificazione%20imba_37f22edc20a2.md).
+Sono abrogati gli [articoli 10 e il del decreto del Presidente della Repubblica 24 novembre 1981, n. 927](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%2079-831%20del%2018%20settembre%201979%20recante%20la%20sesta%20modifica%20della%20direttiva%20n.%2067-548-CEE%20relativa%20alla%20classificazione%20imba_37f22edc20a2.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -499,12 +499,12 @@ Il [decreto legislativo 6 novembre 2007, n. 201](Attuazione%20della%20direttiva%
 
 2.
 
-Resta ferma l'abrogazione del punto 2 del comma 3 dell'articolo 6 dell'allegato I, nonche' dell'allegato II del [decreto del Presidente della Repubblica 15 novembre 1996, n. 660](../DPR/Regolamento%20per%20lattuazione%20della%20direttiva%2092-42-CEE%20concernente%20i%20requisiti%20di%20rendimento%20delle%20nuove%20caldaie%20ad%20acqua%20calda%20alimentate%20con%20combustibili%20liquidi%20o%20gassosi.md).
+Resta ferma l'abrogazione del punto 2 del comma 3 dell'articolo 6 dell'allegato I, nonche' dell'allegato II del [decreto del Presidente della Repubblica 15 novembre 1996, n. 660](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20per%20lattuazione%20della%20direttiva%2092-42-CEE%20concernente%20i%20requisiti%20di%20rendimento%20delle%20nuove%20caldaie%20ad%20acqua%20calda%20alimentate%20con%20combustibili%20liquidi%20o%20gassosi.md).
 
 Note all'art. 18: 
  - Il decreto legislativo 6 novembre 2007, abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 9 novembre 2007, n. 261, S.O. 
  - La [direttiva 2005/32/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;32) e' pubblicata nella G.U.U.E. 22 luglio 2005, n. L 191. 
- - Il [decreto del Presidente della Repubblica del 15 novembre 1996, n. 660](../DPR/Regolamento%20per%20lattuazione%20della%20direttiva%2092-42-CEE%20concernente%20i%20requisiti%20di%20rendimento%20delle%20nuove%20caldaie%20ad%20acqua%20calda%20alimentate%20con%20combustibili%20liquidi%20o%20gassosi.md) (Regolamento per l'attuazione della [direttiva 92/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;42) concernente i requisiti di rendimento delle nuove caldaie ad acqua calda, alimentate con combustibili liquidi o gassosi) e' pubblicato nella Gazzetta Ufficiale del 27 dicembre 1996, n. 302, S.O.
+ - Il [decreto del Presidente della Repubblica del 15 novembre 1996, n. 660](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20per%20lattuazione%20della%20direttiva%2092-42-CEE%20concernente%20i%20requisiti%20di%20rendimento%20delle%20nuove%20caldaie%20ad%20acqua%20calda%20alimentate%20con%20combustibili%20liquidi%20o%20gassosi.md) (Regolamento per l'attuazione della [direttiva 92/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;42) concernente i requisiti di rendimento delle nuove caldaie ad acqua calda, alimentate con combustibili liquidi o gassosi) e' pubblicato nella Gazzetta Ufficiale del 27 dicembre 1996, n. 302, S.O.
 
 ## Art. 19. — Aggiornamento
 

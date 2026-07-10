@@ -143,7 +143,7 @@ Il [D.Lgs. 30 dicembre 2025, n. 207](../Atti%20di%20recepimento%20direttive%20UE
 
 1.
 
-E' abrogato il [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e successive modificazioni.
+E' abrogato il [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e successive modificazioni.
 
 ## Art. 6. — Sanzioni
 

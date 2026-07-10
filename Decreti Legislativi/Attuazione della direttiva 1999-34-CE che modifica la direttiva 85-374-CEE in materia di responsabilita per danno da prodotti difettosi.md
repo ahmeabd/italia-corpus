@@ -16,7 +16,7 @@ Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive
 
 Vista la [direttiva 1999/34/CE del Parlamento europeo e del Consiglio, del 10 maggio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;34), che modifica la [direttiva 85/374/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;374) relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di responsabilita' per danno da prodotti difettosi;
 
-Visto il [decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), con il quale e' stata data attuazione alla [direttiva 85/374/CEE del Consiglio del 25 luglio 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;374), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), con il quale e' stata data attuazione alla [direttiva 85/374/CEE del Consiglio del 25 luglio 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;374), e successive modificazioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 gennaio 2001;
 
@@ -32,7 +32,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al [decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), sono apportate le seguenti modifiche:
+Al [decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), sono apportate le seguenti modifiche:
                         a)
                             il comma 3 dell'articolo 2 e' abrogato;
                         b)
@@ -66,9 +66,9 @@ Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministraz
  - L'allegato A della citata legge riporta l'elenco delle direttive da attuare con decreto legislativo.
  - La [direttiva 1999/34/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;34) e' pubblicata in GUCE n. L. 141 del 4 giugno 1999.
  - La [direttiva 85/374/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;374) e' pubblicata in GUCE n. L. 210 del 7 agosto 1985.
- - Il [decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), reca: "Attuazione della [direttiva CEE n. 85/374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;374) relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di responsabilita', per danno da prodotti difettosi, ai sensi dell'[art. 15 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_15)".
+ - Il [decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), reca: "Attuazione della [direttiva CEE n. 85/374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;374) relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di responsabilita', per danno da prodotti difettosi, ai sensi dell'[art. 15 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_15)".
  Note all'[art. 1:
- - Per il decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), vedasi le premesse.
+ - Per il decreto del Presidente della Repubblica 24 maggio 1988, n. 224](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2085-374%20relativa%20al%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20e%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20responsabilita%20per%20danno_7e6f26199dc2.md), vedasi le premesse.
  - Il testo vigente dell'art. 2, del citato decreto del Presidente della Repubblica cosi' come modificato dal presente decreto, cosi' recita:
  "Art. 2 (Prodotto). - 1. Prodotto, ai fini delle presenti disposizioni, e' ogni bene mobile, anche se incorporato in altro bene mobile o immobile.
  2. Si considera prodotto anche l'elettricita'.

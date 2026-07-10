@@ -30,7 +30,7 @@ Vista la [legge 5 giugno 1962, n. 616](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 11 febbraio 1971, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-02-11;50);
 
-Visto il [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la Convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS), firmata a Londra nel 1974 e resa esecutiva con [legge 23 maggio 1980, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;313), e i successivi emendamenti;
 
@@ -44,7 +44,7 @@ Visto il [decreto legislativo 2 maggio 1994, n. 289](Attuazione%20della%20dirett
 
 Visto il [decreto legislativo 17 marzo 1995, n. 103](Recepimento%20della%20direttiva%2090-388-CEE%20relativa%20alla%20concorrenza%20nei%20mercati%20dei%20servizi%20di%20telecomunicazioni.md);
 
-Visto il [decreto del Presidente della Repubblica 4 settembre 1995, n. 420](../DPR/Regolamento%20recante%20determinazione%20delle%20caratteristiche%20e%20delle%20modalita%20di%20svolgimento%20dei%20servizi%20di%20telecomunicazioni%20di%20cui%20allart.%202%20comma%201%20del%20decreto%20legislativo%2017%20marzo%201995%20n.%20103.md);
+Visto il [decreto del Presidente della Repubblica 4 settembre 1995, n. 420](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20determinazione%20delle%20caratteristiche%20e%20delle%20modalita%20di%20svolgimento%20dei%20servizi%20di%20telecomunicazioni%20di%20cui%20allart.%202%20comma%201%20del%20decreto%20legislativo%2017%20marzo%201995%20n.%20103.md);
 
 Vista la [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md);
 
@@ -54,7 +54,7 @@ Vista la [legge 1° luglio 1997, n. 189](../Atti%20normativi%20abrogati%20%28in%
 
 Vista la [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249);
 
-Visto il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md);
+Visto il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md);
 
 Visto il [decreto legislativo 17 maggio 1999, n. 191](Attuazione%20della%20direttiva%2095-47-CE%20in%20materia%20di%20emissione%20di%20segnali%20televisivi.md);
 
@@ -62,7 +62,7 @@ Visto il [decreto legislativo 15 novembre 2000, n. 373](Attuazione%20della%20dir
 
 Visto il [decreto legislativo 23 novembre 2000, n. 427](Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md);
 
-Visto il [decreto del Presidente della Repubblica 11 gennaio 2001, n. 77](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2097-51-CE%20e%2098-10-CE%20in%20materia%20di%20telecomunicazioni.md);
+Visto il [decreto del Presidente della Repubblica 11 gennaio 2001, n. 77](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20delle%20direttive%2097-51-CE%20e%2098-10-CE%20in%20materia%20di%20telecomunicazioni.md);
 
 Vista la [legge 20 marzo 2001, n. 66](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%202001%20n.%205%20recante%20disposizioni%20urgenti%20per%20il%20differimento%20di%20termini%20in%20materia%20di%20trasmissioni%20radiotelevisive%20analog_fff59a772662.md), ed, in particolare, l'articolo 2-bis, comma 10;
 
@@ -70,7 +70,7 @@ Visto il [decreto legislativo 9 maggio 2001, n. 269](Attuazione%20della%20dirett
 
 Vista la [legge 3 agosto 2001, n. 317](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20giugno%202001%20n.%20217%20recante%20modificazioni%20al%20decreto%20legislativo%2030%20luglio%201999%20n.%20300%20nonche%20alla%20legge%2023%20agosto%201988%20n.%20400%20i_3dbac4caf843.md);
 
-Visto il [decreto del Presidente della Repubblica 5 ottobre 2001, n. 447](../DPR/Regolamento%20recante%20disposizioni%20in%20materia%20di%20licenze%20individuali%20e%20di%20autorizzazioni%20generali%20per%20i%20servizi%20di%20telecomunicazione%20ad%20uso%20privato.md);
+Visto il [decreto del Presidente della Repubblica 5 ottobre 2001, n. 447](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disposizioni%20in%20materia%20di%20licenze%20individuali%20e%20di%20autorizzazioni%20generali%20per%20i%20servizi%20di%20telecomunicazione%20ad%20uso%20privato.md);
 
 Visto il Regolamento delle radiocomunicazioni (edizione 2001), dell'Unione internazionale delle telecomunicazioni (UIT), che integra le disposizioni della costituzione e della convenzione dell'UIT, adottata a Ginevra il 22 dicembre 1992, e ratificata con [legge 31 gennaio 1996, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;313);
 
@@ -5978,7 +5978,7 @@ Chiunque usi indebitamente il segnale di soccorso riservato alle navi od alle ae
 
 1.
 
-Al [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 1, primo comma, sono soppresse le parole da: "i servizi di telecomunicazioni" fino a: "diffusione sonora e televisiva via cavo"; nella rubrica, sono soppresse le parole: "e delle comunicazioni",
                             b)
@@ -6016,7 +6016,7 @@ Al [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approv
 
 2.
 
-Dall'entrata in vigore del regolamento di cui all'articolo 163, comma 1, sono abrogati gli articoli 341, 342, 343, 344, 345, 346, 347, 348, 349 e 351 del predetto [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), nonche' il [decreto ministeriale 28 dicembre 1995, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-12-28;584), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 42 del 20 febbraio 1996 ed il [decreto ministeriale 25 luglio 2002, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2002-07-25;214), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 227 del 27 settembre 2002.
+Dall'entrata in vigore del regolamento di cui all'articolo 163, comma 1, sono abrogati gli articoli 341, 342, 343, 344, 345, 346, 347, 348, 349 e 351 del predetto [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), nonche' il [decreto ministeriale 28 dicembre 1995, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-12-28;584), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 42 del 20 febbraio 1996 ed il [decreto ministeriale 25 luglio 2002, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2002-07-25;214), pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 227 del 27 settembre 2002.
 
 3.
 
@@ -6046,7 +6046,7 @@ Sono o restano abrogati:
                             n)
                                 il [decreto legislativo 17 marzo 1995, n. 103](Recepimento%20della%20direttiva%2090-388-CEE%20relativa%20alla%20concorrenza%20nei%20mercati%20dei%20servizi%20di%20telecomunicazioni.md);
                             o)
-                                il [decreto del Presidente della Repubblica 4 settembre 1995, n. 420](../DPR/Regolamento%20recante%20determinazione%20delle%20caratteristiche%20e%20delle%20modalita%20di%20svolgimento%20dei%20servizi%20di%20telecomunicazioni%20di%20cui%20allart.%202%20comma%201%20del%20decreto%20legislativo%2017%20marzo%201995%20n.%20103.md);
+                                il [decreto del Presidente della Repubblica 4 settembre 1995, n. 420](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20determinazione%20delle%20caratteristiche%20e%20delle%20modalita%20di%20svolgimento%20dei%20servizi%20di%20telecomunicazioni%20di%20cui%20allart.%202%20comma%201%20del%20decreto%20legislativo%2017%20marzo%201995%20n.%20103.md);
                             p)
                                 il decreto ministeriale 18 dicembre 1996, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 34 dell'11 febbraio 1997;
                             q)
@@ -6058,7 +6058,7 @@ Sono o restano abrogati:
                             t)
                                 gli [articoli 1, comma 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com16), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com4) e [5 della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com5);
                             u)
-                                il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md);
+                                il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md);
                             v)
                                 il decreto ministeriale 25 novembre 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 283 del 4 dicembre 1997;
                             z)
@@ -6078,18 +6078,18 @@ Sono o restano abrogati:
                             gg)
                                 la deliberazione dell'Autorita' 19 luglio 2000, n. 467/00/CONS, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 184 dell'8 agosto 2000;
                             hh)
-                                il [decreto del Presidente della Repubblica 11 gennaio 2001, n. 77](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2097-51-CE%20e%2098-10-CE%20in%20materia%20di%20telecomunicazioni.md);
+                                il [decreto del Presidente della Repubblica 11 gennaio 2001, n. 77](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20delle%20direttive%2097-51-CE%20e%2098-10-CE%20in%20materia%20di%20telecomunicazioni.md);
                             ii)
                                 la deliberazione dell'Autorita' 21 marzo 2001, n. 131/01/CONS, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 101 del 3 maggio 2001;
                             ll)
-                                il [decreto del Presidente della Repubblica 5 ottobre 2001, n. 447](../DPR/Regolamento%20recante%20disposizioni%20in%20materia%20di%20licenze%20individuali%20e%20di%20autorizzazioni%20generali%20per%20i%20servizi%20di%20telecomunicazione%20ad%20uso%20privato.md);
+                                il [decreto del Presidente della Repubblica 5 ottobre 2001, n. 447](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disposizioni%20in%20materia%20di%20licenze%20individuali%20e%20di%20autorizzazioni%20generali%20per%20i%20servizi%20di%20telecomunicazione%20ad%20uso%20privato.md);
                             mm)
                                 il [decreto legislativo 4 marzo 2002, n. 21](Attuazione%20della%20direttiva%201999-64-CE%20che%20modifica%20la%20direttiva%2090-388-CEE%20in%20materia%20di%20reti%20di%20telecomunicazioni%20e%20reti%20televisive%20via%20cavo.md);
                             nn)
                                 il decreto ministeriale 11 febbraio 2003, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 45 del 24 febbraio 2003.
 
 Note all'art. 218:
- - Il testo vigente degli articoli 1, 2, 7, 8, 9, 10, 11, 12, 13, Titolo II, 17, 20, 22, 23, 25, 26 e Titolo II del [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), recante: «Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni» cosi' come modificati dal presente decreto legislativo, recitano:
+ - Il testo vigente degli articoli 1, 2, 7, 8, 9, 10, 11, 12, 13, Titolo II, 17, 20, 22, 23, 25, 26 e Titolo II del [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), recante: «Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni» cosi' come modificati dal presente decreto legislativo, recitano:
  «Art. 1 (Esclusivita' dei servizi postali). - Appartengono in esclusiva allo Stato nei limiti previsti dal presente decreto:
  i servizi di raccolta, trasporto e distribuzione della corrispondenza epistolare;
  i servizi di trasporto di pacchi e colli.».
@@ -6132,11 +6132,11 @@ Note all'art. 218:
  - Per il [decreto legislativo 11 febbraio 1997, n. 55](Attuazione%20della%20direttiva%2094-46-CE%20che%20modifica%20le%20direttive%2088-301-CEE%20e%2090-388-CEE%20nella%20parte%20relativa%20alle%20comunicazioni%20via%20satellite.md), si vedano le note alle premesse.
  - Per la [legge 1° luglio 1997, n. 189](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md), si vedano le note alle premesse.
  - Per l'[art. 1 della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1), si vedano le note all'art. 25.
- - Per il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), si vedano le note alla premesse.
- - L'[art. 25 della legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 1995-1997)», pubblicata nella Gazzetta Ufficiale 7 maggio 1998, n. 104, supplemento ordinario, abrogato dal presente decreto, cosi' recava: «Sanzioni per le violazioni delle disposizioni di cui al [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md)».
+ - Per il [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), si vedano le note alla premesse.
+ - L'[art. 25 della legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 1995-1997)», pubblicata nella Gazzetta Ufficiale 7 maggio 1998, n. 104, supplemento ordinario, abrogato dal presente decreto, cosi' recava: «Sanzioni per le violazioni delle disposizioni di cui al [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md)».
  - Per il [decreto legislativo 17 maggio 1999, n. 191](Attuazione%20della%20direttiva%2095-47-CE%20in%20materia%20di%20emissione%20di%20segnali%20televisivi.md), si vedano le note alla premesse.
- - Per il [decreto del Presidente della Repubblica 11 gennaio 2001, n. 77](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2097-51-CE%20e%2098-10-CE%20in%20materia%20di%20telecomunicazioni.md), si vedano le note alla premesse.
- - Per il [decreto del Presidente della Repubblica 5 ottobre 2001, n. 447](../DPR/Regolamento%20recante%20disposizioni%20in%20materia%20di%20licenze%20individuali%20e%20di%20autorizzazioni%20generali%20per%20i%20servizi%20di%20telecomunicazione%20ad%20uso%20privato.md), si vedano le note alle premesse.
+ - Per il [decreto del Presidente della Repubblica 11 gennaio 2001, n. 77](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20delle%20direttive%2097-51-CE%20e%2098-10-CE%20in%20materia%20di%20telecomunicazioni.md), si vedano le note alla premesse.
+ - Per il [decreto del Presidente della Repubblica 5 ottobre 2001, n. 447](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disposizioni%20in%20materia%20di%20licenze%20individuali%20e%20di%20autorizzazioni%20generali%20per%20i%20servizi%20di%20telecomunicazione%20ad%20uso%20privato.md), si vedano le note alle premesse.
  - Per il [decreto legislativo 4 marzo 2002, n. 21](Attuazione%20della%20direttiva%201999-64-CE%20che%20modifica%20la%20direttiva%2090-388-CEE%20in%20materia%20di%20reti%20di%20telecomunicazioni%20e%20reti%20televisive%20via%20cavo.md), si vedano le note alle premesse.
 
 ### Art. 219. — Disposizione finanziaria

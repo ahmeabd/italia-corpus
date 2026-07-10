@@ -139,7 +139,7 @@ Il [D.Lgs. 30 dicembre 2025, n. 207](../Atti%20di%20recepimento%20direttive%20UE
 
 1.
 
-E' abrogato il [decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e successive modificazioni.
+E' abrogato il [decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e successive modificazioni.
 
 ## Art. 5. — Sanzioni
 

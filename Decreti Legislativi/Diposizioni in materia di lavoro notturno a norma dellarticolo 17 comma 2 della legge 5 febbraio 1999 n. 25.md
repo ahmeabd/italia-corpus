@@ -159,7 +159,7 @@ II. Processi e lavori:
  5) Lavori comportanti la manipolazione di apparecchiature di produzione, di immagazzinamento o di impiego di gas compressi, liquidi o in soluzione.
  6) Lavori su tini, bacini, serbatoi, damigiane o bombole contenenti agenti chimici di cui al punto I.3.
  7) Lavori edili di demolizione, allestimento e smontaggio delle armature esterne ed interne delle costruzioni.
- 8) Lavori comportanti rischi elettrici da alta tensione come definita dall'[art. 268 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md).
+ 8) Lavori comportanti rischi elettrici da alta tensione come definita dall'[art. 268 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md).
  9) Lavori il cui ritmo e' determinato dalla macchina e che sono pagati a cottimo.
  10) Esercizio dei forni a temperatura superiore a 500oC come ad esempio quelli per la produzione di ghisa, ferro-leghe, ferro o acciaio; operazioni di demolizione, ricostruzione e riparazione degli stessi; lavoro ai laminatoi.
  11) Lavorazioni nelle fonderie.

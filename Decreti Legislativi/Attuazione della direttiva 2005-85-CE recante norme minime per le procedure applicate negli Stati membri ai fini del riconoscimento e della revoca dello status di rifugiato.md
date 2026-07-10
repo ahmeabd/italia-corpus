@@ -22,7 +22,7 @@ Visto il [decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Visto il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../DPR/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), recante il regolamento relativo alle procedure per il riconoscimento dello status di rifugiato;
+Visto il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), recante il regolamento relativo alle procedure per il riconoscimento dello status di rifugiato;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 luglio 2007;
 
@@ -1205,7 +1205,7 @@ Con uno o piu' regolamenti da emanare ai sensi dell'[articolo 17, comma 1, della
 
 2.
 
-Fino alla data di entrata in vigore dei regolamenti di cui al comma 1, continuano a trovare applicazione in quanto compatibili le disposizioni di cui al [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../DPR/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), ed i riferimenti ivi contenuti alla domanda per il riconoscimento dello status di rifugiato, si intendono sostituiti con domanda di protezione internazionale come definita dal presente decreto.
+Fino alla data di entrata in vigore dei regolamenti di cui al comma 1, continuano a trovare applicazione in quanto compatibili le disposizioni di cui al [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), ed i riferimenti ivi contenuti alla domanda per il riconoscimento dello status di rifugiato, si intendono sostituiti con domanda di protezione internazionale come definita dal presente decreto.
 
 Note all'art. 38:
  - Si riporta il testo dell'art. 17 della citata [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400):
@@ -1231,7 +1231,7 @@ Note all'art. 38:
  Dei quattordici sindaci designati dall'ANCI cinque rappresentano le citta' individuate dall'[art. 17 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md). Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici.
  3. La Conferenza Stato-citta' ed autonomie locali e' convocata almeno ogni tre mesi, e comunque in tutti i casi il presidente ne ravvisi la necessita' o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM.
  4. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
- - Per il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../DPR/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), si vedano le note alle premesse.
+ - Per il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), si vedano le note alle premesse.
 
 ### Art. 39. — Disposizioni finanziarie
 
@@ -1281,12 +1281,12 @@ Sono abrogate le seguenti disposizioni:
                             a)
                                 articoli 1, commi 4, 5 e 6, 1-bis, 1-ter, 1-quater e 1-quinquies del [decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416), convertito, con modificazioni, dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md);
                             b)
-                                il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../DPR/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), a decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 38.
+                                il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), a decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 38.
 
 Note all'art. 40:
  Le rubriche degli [articoli 1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1bis), [1-ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1ter), [1-quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1quater) e [1-quinquies del decreto-legge 30 dicembre 1989, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-12-30;416#art_1quinquies), convertito, con modificazione dalla [legge 28 febbraio 1990, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201989%20n.%20416%20recante%20norme%20urgenti%20in%20materia%20di%20asilo%20politico%20di%20ingresso%20e%20soggiorno%20dei%20cittadini%20extracomunitari%20e_466cfea5d540.md), abrogati dal presente decreto, recavano, rispettivamente:
  «Casi di trattenimento», «Procedura semplificata», «Commissioni territoriali», «Commissione nazionale per il diritto di asilo».
- - Per il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../DPR/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), si vedano le note alle premesse.
+ - Per il [decreto del Presidente della Repubblica 16 settembre 2004, n. 303](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20relativo%20alle%20procedure%20per%20il%20riconoscimento%20dello%20status%20di%20rifugiato.md), si vedano le note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -1942,7 +1942,7 @@ Sono inoltre, abrogati
                             c)
                                 gli articoli 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 15 bis, 16, 17, 18, 19, 20, 21, 22, 23, 28, 29, 30, 31, 32, 33, 38, 39, 40, 41, 42, 43, 44, 46, 47, 54, 192, nonche' il Titolo II, Capi VI, VII, e VIII, e il Titolo III della [legge 12 novembre 1955, n. 1137](../Atti%20normativi%20abrogati%20%28in%20originale%29/Avanzamento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), estesa al Corpo ai sensi della [legge 24 ottobre 1966, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-24;887),
                             d)
-                                il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1006](../DPR/Approvazione%20del%20regolamento%20sul%20reclutamento%20degli%20ufficiali%20della%20Guardia%20di%20finanza.md),
+                                il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1006](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20sul%20reclutamento%20degli%20ufficiali%20della%20Guardia%20di%20finanza.md),
                             e)
                                 la [legge 18 ottobre 1962, n. 1551](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sullammissione%20allAccademia%20della%20guardia%20di%20finanza.md),
                             f)

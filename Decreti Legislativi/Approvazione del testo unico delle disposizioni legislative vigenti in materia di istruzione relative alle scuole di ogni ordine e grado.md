@@ -3651,7 +3651,7 @@ Il [D.L. 31 gennaio 2007, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
  
  
 AGGIORNAMENTO (53) 
- Il [D.P.R. 15 marzo 2010, n. 87](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md) ha disposto (con l'art. 10, comma 1) che: 
+ Il [D.P.R. 15 marzo 2010, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20il%20riordino%20degli%20istituti%20professionali%20a%20norma%20dellarticolo%2064%20comma%204%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla%20legge%206%20a_f5815c682018.md) ha disposto (con l'art. 10, comma 1) che: 
  "1. A decorrere dalla data di entrata in vigore del presente regolamento, all'[articolo 191, comma 3, del decreto legislativo 16 aprile 1994, n. 297](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni, sono apportate le seguenti modificazioni: 
  a) al primo periodo, le parole: "gli istituti professionali hanno per fine precipuo quello di fornire la specifica preparazione teorico-pratica per l'esercizio di mansioni qualificate nei settori commerciale e dei servizi, industriale e artigiano, agrario e nautico" sono soppresse; 
  b) l'ultimo periodo."
@@ -11685,11 +11685,11 @@ Note all'art. 612:
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 3.
 
@@ -11699,7 +11699,7 @@ Alle spese per la fornitura e la manutenzione dei locali, e per la fornitura del
 
 AGGIORNAMENTO (29)
 
-Il [D.P.R. 6 novembre 2000, n. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 6,comma
+Il [D.P.R. 6 novembre 2000, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 6,comma
 1) che "In ciascun capoluogo di regione e' istituito l'ufficio scolastico regionale, di livello dirigenziale generale, che costituisce un autonomo centro di responsabilita' amministrativa, al quale sono assegnate tutte le funzioni gia' spettanti agli uffici periferici dell'amministrazione della pubblica istruzione a norma della vigente legislazione. Esso assorbe gli uffici scolastici regionali di cui all'articolo 613 del testo unico approvato con [decreto legislativo n. 297 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;297), che sono soppressi alla data di entrata in vigore del presente regolamento, ed esercita le funzioni non trasferite alle istituzioni scolastiche o non riservate all'amministrazione centrale dal presente regolamento, o non conferite alle regioni e agli enti locali"; ha inoltre disposto (con
 l'art. 9,comma 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del medesimo testo unico si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
@@ -11718,21 +11718,21 @@ Il [D.P.R. 11 agosto 2003, n. 319](../DPR/Regolamento%20di%20organizzazione%20de
 
  
 AGGIORNAMENTO (47) 
- Il [D.P.R. 21 dicembre 2007, n.260](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
+ Il [D.P.R. 21 dicembre 2007, n.260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
 ### Art. 614. — Provveditorato agli studi
 
 1.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 2.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 3.
 
-COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
+COMMA ABROGATO DAL [D.P.R. 6 NOVEMBRE 2000, N. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md).
 
 4.
 
@@ -11742,7 +11742,7 @@ L'Amministrazione provinciale e' tenuta a fornire i locali per il provveditorato
 
 AGGIORNAMENTO (29)
 
-Il [D.P.R. 6 novembre 2000, n. 347](../DPR/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 9,comma
+Il [D.P.R. 6 novembre 2000, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20organizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto (con l'art. 9,comma
 1) che "gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del medesimo testo unico si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
 
@@ -11758,7 +11758,7 @@ AGGIORNAMENTO (37)
 
  
 AGGIORNAMENTO (47) 
- Il [D.P.R. 21 dicembre 2007, n.260](../DPR/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
+ Il [D.P.R. 21 dicembre 2007, n.260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20riorganizzazione%20del%20Ministero%20della%20pubblica%20istruzione.md) ha disposto ( con l'art. 10,comma 1) che "Gli obblighi di cui agli articoli 613, comma 3, e 614, comma 4, del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado, approvato con [decreto legislativo 16 aprile 1994, n. 297](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), si intendono riferiti alle sedi dei nuovi uffici periferici dell'amministrazione".
 
 ### Art. 615. — Personale
 

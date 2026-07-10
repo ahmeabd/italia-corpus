@@ -335,7 +335,7 @@ Le spese di istituzione e di funzionamento dell'Agenzia, valutate in lire 7 mili
 
 2.
 
-Per l'amministrazione e la contabilita' dell'Agenzia si applicano le disposizioni contenute nel [decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../DPR/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md). I bilanci preventivi, le relative variazioni ed i conti consuntivi sono trasmessi alla amministrazione vigilante.
+Per l'amministrazione e la contabilita' dell'Agenzia si applicano le disposizioni contenute nel [decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md). I bilanci preventivi, le relative variazioni ed i conti consuntivi sono trasmessi alla amministrazione vigilante.
 
 3.
 
@@ -346,7 +346,7 @@ L'Agenzia e' sottoposta alle disposizioni di cui alla [legge 29 ottobre 1984, n.
 Si applicano gli [articoli 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md) e [30 della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni ed integrazioni.
 
 Note all'[art. 15:
- - Il decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../DPR/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md), reca: "Approvazione del nuovo regolamento per la classificazione delle entrate e delle spese e per l'amministrazione e la contabilita' degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70)".
+ - Il decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20nuovo%20regolamento%20per%20la%20classificazione%20delle%20entrate%20e%20delle%20spese%20e%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md), reca: "Approvazione del nuovo regolamento per la classificazione delle entrate e delle spese e per l'amministrazione e la contabilita' degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70)".
  - La [legge 29 ottobre 1984, n. 720](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-29;720), reca: "Istituzione del sistema di tesoreria unica per enti ed organismi pubblici"; la tabella A cosi' recita:
  "Tabella A Province.
  Comuni, con esclusione di quelli con popolazione inferiore a 5.000 abitanti.

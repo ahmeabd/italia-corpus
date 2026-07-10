@@ -337,7 +337,7 @@ TITOLO I
 
 1.
 
-La Commissione di cui all'[articolo 393 del decreto del Presidente della Repubblica 27/4/55, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), come sostituito dall'[articolo 26 del decreto legislativo n. 626 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626#art_26), e' integrata, per le questioni riguardanti le attivita' estrattive, da:
+La Commissione di cui all'[articolo 393 del decreto del Presidente della Repubblica 27/4/55, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), come sostituito dall'[articolo 26 del decreto legislativo n. 626 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626#art_26), e' integrata, per le questioni riguardanti le attivita' estrattive, da:
                             a)
                                 il direttore del Servizio per la sicurezza mineraria della Direzione generale delle miniere;
                             b)
@@ -629,7 +629,7 @@ Le attrezzature e gli impianti meccanici, elettrici ed elettromeccanici devono e
 
 3.
 
-Le attrezzature e gli impianti meccanici, elettrici ed elettromeccanici devono essere adatti al tipo di impiego e alla classe di rischio dell'area, nonche' rispondere in particolare alle norme per l'utilizzo di apparecchiature elettriche in atmosfera esplosiva di cui ai [decreti del Presidente della Repubblica 21 luglio 1982, nn. 675](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%20196%20del%201979%20relativa%20al%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato%20in%20atmosfera%20esplosiva%20per%20il%20quale%20si%20applicano%20taluni%20metodi%20di%20protezione.md) e [727](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-117%20relativa%20al%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato%20in%20atmosfera%20esplosiva.md), nonche' alla [legge 17 aprile 1989, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-17;150), inerente il materiale elettrico destinato ad essere utilizzato in atmosfera esplosiva.
+Le attrezzature e gli impianti meccanici, elettrici ed elettromeccanici devono essere adatti al tipo di impiego e alla classe di rischio dell'area, nonche' rispondere in particolare alle norme per l'utilizzo di apparecchiature elettriche in atmosfera esplosiva di cui ai [decreti del Presidente della Repubblica 21 luglio 1982, nn. 675](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%20196%20del%201979%20relativa%20al%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato%20in%20atmosfera%20esplosiva%20per%20il%20quale%20si%20applicano%20taluni%20metodi%20di%20protezione.md) e [727](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-117%20relativa%20al%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato%20in%20atmosfera%20esplosiva.md), nonche' alla [legge 17 aprile 1989, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-17;150), inerente il materiale elettrico destinato ad essere utilizzato in atmosfera esplosiva.
 
 4.
 

@@ -136,7 +136,7 @@ Note all'art. 2:
  i) (omissis);
  l) falsificazione o alterazione di qualsiasi licenza o certificato rilasciati in conformita' del presente regolamento;".
  - Il capo III, titolo VII, libro II, del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), reca: "Della falsita' in atti".
- - Il [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), reca: "Approvazione del testo unico delle disposizioni legislative in materia doganale".
+ - Il [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), reca: "Approvazione del testo unico delle disposizioni legislative in materia doganale".
 
 ## Art. 3. — Integrazione della legge 7 febbraio 1992, n. 150
 
@@ -144,7 +144,7 @@ Note all'art. 2:
 
 Dopo l'[articolo 3 della legge 7 febbraio 1992, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150#art_3), modificata dal [decreto-legge 12 gennaio 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-12;2), convertito, con modificazioni, dalla [legge 13 marzo 1993, n. 59](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20gennaio%201993%20n.%202%20recante%20modifiche%20ed%20integrazioni%20alla%20legge%207%20febbraio%201992%20n.%20150%20in%20materia%20di%20commercio%20e%20detenzione%20di%20e_159da9eec611.md), e' inserito il seguente:
  "Art. 3-bis. - 1. Alle fattispecie previste dall'articolo 16, paragrafo 1, lettere a), c), d), e), ed l), del Regolamento (CE) n. 338/97 del Consiglio, del 9 dicembre 1996, e successive modificazioni, in materia di falsificazione o alterazione di certificati, licenze, notifiche di importazione, dichiarazioni, comunicazioni di informazioni al fine di acquisizione di una licenza o di un certificato, di uso di certificati o licenze falsi o alterati si applicano le pene di cui al libro II, titolo VII, capo III del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
- 2. In caso di violazione delle norme del [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), le stesse concorrono con quelle di cui agli articoli 1, 2 e del presente articolo.".
+ 2. In caso di violazione delle norme del [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), le stesse concorrono con quelle di cui agli articoli 1, 2 e del presente articolo.".
 
 ## Art. 4. — Modifica all'articolo 4 della legge 7 febbraio 1992, n. 150
 

@@ -20,7 +20,7 @@ Visto l'Accordo sullo spazio economico europeo firmato dagli Stati AELS (EFTA ad
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689);
 
-Visto il [decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../DPR/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md);
+Visto il [decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md);
 
 Considerato il parere motivato espresso dalla Commissione europea in data 8 marzo 1996 a seguito della procedura d'infrazione 92/2116 avviata nei confronti del Governo italiano in materia di libera circolazione degli oggetti in metallo prezioso;
 
@@ -61,7 +61,7 @@ Avvertenza:
  4. Il personale e le dotazioni tecniche degli uffici metrici provinciali e degli uffici provinciali per l'industria, il commercio e l'artigianato sono trasferiti alle camere di commercio, industria, artigianato e agricoltura".
  - La [legge 28 luglio 1993, n. 300](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20sullo%20Spazio%20economico%20europeo%20con%20protocolli%20allegati%20e%20dichiarazioni%20fatto%20a%20Oporto%20il%202%20maggio%201992%20e%20del%20protocollo%20di%20adattamento%20di%20detto%20accordo%20_e276372f7d8a.md), reca ratifica ed esecuzione dell'accordo spazio economico europeo con protocolli, allegati e dichiarazioni, fatto a Oporto il 2 maggio 1992, e del protocollo di adattamento di detto accordo, con allegato, firmato a Bruxelles il 17 marzo 1993.
  - La [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), reca modifiche al sistema penale.
- Il [decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../DPR/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), reca approvazione del regolamento per l'applicazione della [legge 30 gennaio 1968, n. 46](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi.
+ Il [decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), reca approvazione del regolamento per l'applicazione della [legge 30 gennaio 1968, n. 46](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi.
 
 ### Art. 2.
 
@@ -523,10 +523,10 @@ Entro 6 mesi dalla data di entrata in vigore del presente decreto, con decreto d
 
 2.
 
-Nelle more dell'emanazione del suddetto regolamento, si applica il regolamento approvato con [decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../DPR/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), e successive modifiche ed integrazioni.
+Nelle more dell'emanazione del suddetto regolamento, si applica il regolamento approvato con [decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), e successive modifiche ed integrazioni.
 
 Nota all'[art. 27:
- - Per il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../DPR/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lapplicazione%20della%20legge%2030%20gennaio%201968%20n.%2046%20sulla%20disciplina%20dei%20titoli%20e%20dei%20marchi%20di%20identificazione%20dei%20metalli%20preziosi.md), vedi note alle premesse.
 
 ### Art. 28.
 

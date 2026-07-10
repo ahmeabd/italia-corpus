@@ -1220,7 +1220,7 @@ I controlli sull'osservanza dell'obbligo previsto dal comma 1 sono esercitati da
 
 1.
 
-Le sanzioni di cui al presente Capo si riscuotono secondo i termini e le modalita' previsti dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e i relativi proventi affluiscono all'entrata del bilancio dello Stato.
+Le sanzioni di cui al presente Capo si riscuotono secondo i termini e le modalita' previsti dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e i relativi proventi affluiscono all'entrata del bilancio dello Stato.
 
 ))
 
@@ -1626,7 +1626,7 @@ Nel caso di servizi offerti da schemi di carte di pagamento la cui sede legale o
 
 Nel caso di servizi offerti da schemi di carte di pagamento la cui sede legale e operativa e' ubicata in altri Stati membri, la Banca d'Italia informa la autorita' competente di questi Stati membri delle riscontrate violazioni del Regolamento (UE) 751/2015.
 
-4. Le sanzioni di cui al presente Capo si riscuotono secondo i termini e le modalita' previsti dal [Decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e i relativi proventi affluiscono all'entrata del bilancio dello Stato.))
+4. Le sanzioni di cui al presente Capo si riscuotono secondo i termini e le modalita' previsti dal [Decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e i relativi proventi affluiscono all'entrata del bilancio dello Stato.))
 
 ((3))
 

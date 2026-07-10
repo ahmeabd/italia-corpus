@@ -26,7 +26,7 @@ Visto il decreto del Ministro della sanita' in data 13 novembre 1985, pubblicato
 
 Visto il [decreto legislativo 13 aprile 1999, n. 123](Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md);
 
-Visto il [decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md);
+Visto il [decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md);
 
 Visto il [decreto del Ministro della salute 23 dicembre 2002, n. 317](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20interministeriale%20recante%20norme%20di%20attuazione%20della%20direttiva%201999-29-CE%20relativa%20alle%20sostanze%20ed%20ai%20prodotti%20indesiderabili%20nellalimentazione%20degli%20animali.md), concernente regolamento recante norme di attuazione della [direttiva 1999/29/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;29);
 
@@ -54,7 +54,7 @@ Il presente decreto legislativo disciplina le sostanze indesiderabili nei prodot
 
 Sono fatte salve le disposizioni relative:
                         a)
-                            agli additivi nell'alimentazione degli animali, disciplinati dal [decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md);
+                            agli additivi nell'alimentazione degli animali, disciplinati dal [decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md);
                         b)
                             alla commercializzazione dei mangimi, disciplinati dalla [legge 15 febbraio 1963, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-15;281), e successive modificazioni;
                         c)
@@ -110,7 +110,7 @@ Avvertenza:
 
  - Il decreto del Ministro della sanita' in data 13 novembre 1985, pubblicato nel supplemento ordinano n. 102 alla Gazzetta Ufficiale n. 293 del 13 dicembre 1985, reca: «Prodotti di origine minerale e chimico industriali impiegati nell'alimentazione degli animali».
  - Il [decreto legislativo 13 aprile 1999, n. 123](Attuazione%20della%20direttiva%2095-69-CE%20che%20fissa%20le%20condizioni%20e%20le%20modalita%20per%20il%20riconoscimento%20e%20la%20registrazione%20di%20taluni%20stabilimenti%20ed%20intermediari%20operanti%20nel%20settore%20dellalimenta_1c7852ad8f1d.md) reca: «Attuazione delle [direttive 95/69/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;69) che fissa le condizioni e le modalita' per il riconoscimento e la registrazione di taluni stabilimenti ed intermediari operanti nel settore dell'alimentazione degli animali.»
- - Il [decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md), reca:
+ - Il [decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md), reca:
  «Regolamento di attuazione delle [direttive 96/51/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;51), [98/51/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;51) e [1999/20/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;20) n materia di additivi nell'alimentazione degli animali».
  - Il [decreto del Ministro della salute 23 dicembre 2002, n. 317](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20interministeriale%20recante%20norme%20di%20attuazione%20della%20direttiva%201999-29-CE%20relativa%20alle%20sostanze%20ed%20ai%20prodotti%20indesiderabili%20nellalimentazione%20degli%20animali.md), reca: «Regolamento interministeriale recante norme di attuazione della [direttiva 1999/29/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;29), relativa alle sostanze ed ai prodotti indesiderabili nell'alimentazione degli animali».
  - La [legge 15 febbraio 1963, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-15;281), reca: «Disciplina della preparazione e del commercio dei mangimi.».
@@ -118,7 +118,7 @@ Avvertenza:
  L'articolo 2, comma 3, cosi' recita:
  3. «La Conferenza Stato-regioni e' obbligatoriamente sentita in ordine agli schemi di disegni di legge e di decreto legislativo o di regolamento del Governo nelle materie di competenza delle regioni o delle province autonome di Trento e di Bolzano che si pronunzia entro venti giorni; decorso tale termine, i provvedimenti recanti attuazione di direttive comunitarie sono emanati anche in mancanza di detto parere. Resta fermo quanto previsto in ordine alle procedure di approvazione delle norme di attuazione degli statuti delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano.».
  Note all'[art. 1:
- - Per il decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md), vedi note alle premesse.
  - Per la [legge 15 febbraio 1963, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-15;281), vedi note alle premesse.
  Il decreto del Ministro della sanita' 19 maggio 2000, pubblicato nel supplemento ordinario nella Gazzetta Ufficiale n. 207 del 5 settembre 2000, reca: «Limiti massimi di residui di sostanze attive dei prodotti fitosanitari tollerati nei prodotti destinati all'alimentazione. (Recepimento delle [direttive n. 97/41/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;41), [n. 1999/65/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;65) e [n. 1999/71/CE)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;71)».
  - Per il decreto del Ministro della sanita' in data 13 novembre 1985, vedi note alle premesse.
@@ -134,7 +134,7 @@ Ai fini del presente decreto legislativo si intende per:
                         b)
                             «materie prime per mangimi»: i diversi prodotti di origine vegetale o animale, allo stato naturale, freschi o conservati, nonche' i derivati della loro trasformazione industriale, come pure le sostanze organiche o inorganiche, comprendenti o no additivi, destinati all'alimentazione degli animali per via orale, direttamente come tali o previa trasformazione, alla preparazione di mangimi composti oppure ad essere usati come supporto delle premiscele;
                         c)
-                            «additivo»: additivo quale definito dall'[articolo 2, comma 1, lettera a), del decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md);
+                            «additivo»: additivo quale definito dall'[articolo 2, comma 1, lettera a), del decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md);
                         d)
                             «premiscele»: le miscele di additivi o le miscele di uno o piu' additivi con sostanze usate come supporto, destinate alla fabbricazione di mangimi;
                         e)
@@ -155,7 +155,7 @@ Ai fini del presente decreto legislativo si intende per:
                             «sostanza indesiderabile»: qualsiasi sostanza o prodotto, ad eccezione dei microrganismi patogeni, presente nel prodotto o sul prodotto destinato all'alimentazione degli animali che costituisce un pericolo potenziale per la salute animale o umana, o per l'ambiente, o che puo' influire sfavorevolmente sull'allevamento.
 
 Note all'[art. 2:
- - Per il decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md), vedi note alle premesse. L'art. 2, comma 1, lettera a), cosi' recita:
+ - Per il decreto del Presidente della Repubblica 2 novembre 2001, n. 433](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20delle%20direttive%2096-51-CE%2098-51-CE%20e%201999-20-CE%20in%20materia%20di%20additivi%20nellalimentazione%20degli%20animali.md), vedi note alle premesse. L'art. 2, comma 1, lettera a), cosi' recita:
  «1. Ai fini del presente regolamento si intende per:
  a) «additivi»: le sostanze o le preparazioni utilizzate nell'alimentazione degli animali che hanno una piu' delle seguenti finalita' di seguito elencate: omissis»
 

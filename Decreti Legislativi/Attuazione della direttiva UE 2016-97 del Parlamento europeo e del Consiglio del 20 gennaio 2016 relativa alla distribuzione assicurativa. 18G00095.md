@@ -603,7 +603,7 @@ L'IVASS comunica all'AEAP le sanzioni applicate per le violazioni relative alla 
  60. All'[articolo 328 del decreto legislativo 7 settembre 2005, n. 209](Codice%20delle%20assicurazioni%20private.md), sono apportate le seguenti modificazioni: 
  a) il comma 1 e' abrogato; 
  b) il comma 2 e' abrogato; 
- c) il comma 3 e' sostituito dal seguente: «3. L'IVASS, con regolamento, determina le modalita' e i termini di pagamento delle sanzioni amministrative pecuniarie. Alla riscossione coattiva delle sanzioni amministrative pecuniarie si provvede mediante ruolo secondo i termini e le modalita' previsti dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).»; 
+ c) il comma 3 e' sostituito dal seguente: «3. L'IVASS, con regolamento, determina le modalita' e i termini di pagamento delle sanzioni amministrative pecuniarie. Alla riscossione coattiva delle sanzioni amministrative pecuniarie si provvede mediante ruolo secondo i termini e le modalita' previsti dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).»; 
  d) il comma 4 e' sostituito dai seguenti: «4. Sono versati alla CONSAP Spa - Gestione autonoma del Fondo di garanzia per le vittime della strada i proventi derivanti dalle sanzioni amministrative pecuniarie irrogate in applicazione dei seguenti articoli: 
  a) 310, comma 1, lettera b), ad eccezione di quelli derivanti dalle sanzioni irrogate per violazioni degli articoli 10-quater e 182; 
  b) 310, comma 1, lettera c), ad eccezione di quelli derivanti dalle sanzioni irrogate per violazione dell'articolo 183; 
@@ -1032,7 +1032,7 @@ N O T E
  "Art. 328. Norme sul pagamento delle sanzioni amministrative pecuniarie 
  1. (abrogato). 
  2. (abrogato). 
- 3. L'IVASS, con regolamento, determina le modalita' e i termini di pagamento delle sanzioni amministrative pecuniarie. Alla riscossione coattiva delle sanzioni amministrative pecuniarie si provvede mediante ruolo secondo i termini e le modalita' previsti dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). 
+ 3. L'IVASS, con regolamento, determina le modalita' e i termini di pagamento delle sanzioni amministrative pecuniarie. Alla riscossione coattiva delle sanzioni amministrative pecuniarie si provvede mediante ruolo secondo i termini e le modalita' previsti dal [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). 
  4. Sono versati alla CONSAP Spa - Gestione autonoma del Fondo di garanzia per le vittime della strada i proventi derivanti dalle sanzioni amministrative pecuniarie irrogate in applicazione dei seguenti articoli: 
  a) 310, comma 1, lettera b), ad eccezione di quelli derivanti dalle sanzioni irrogate per violazioni degli articoli 10-quater e 182; 
  b) 310, comma 1, lettera c), ad eccezione di quelli derivanti dalle sanzioni irrogate per violazione dell'articolo 183; 

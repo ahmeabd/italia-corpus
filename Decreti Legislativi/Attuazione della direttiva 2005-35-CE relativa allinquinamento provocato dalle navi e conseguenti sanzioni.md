@@ -272,7 +272,7 @@ I controlli sul rispetto delle disposizioni del presente decreto nonche' l'accer
 L'attivita' di controllo di cui al comma 1 e' effettuata sotto la direzione del comandante del porto.
 
 Note all'[art. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_12):
- - L'[art. 57 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_57), approvato dal [decreto del Presidente della Repubblica 22 settembre 1988 n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. cosi' dispone:
+ - L'[art. 57 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_57), approvato dal [decreto del Presidente della Repubblica 22 settembre 1988 n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. cosi' dispone:
  «Art. 57 (Ufficiali e agenti di polizia giudiziaria). - 1. Salve le disposizioni delle leggi speciali, sono ufficiali di polizia giudiziaria:
  a) i dirigenti, i commissari, gli ispettori, i sovrintendenti e gli altri appartenenti alla polizia di Stato ai quali l'ordinamento dell'amministrazione della pubblica sicurezza riconosce tale qualita';
  b) gli ufficiali superiori e inferiori e i sottufficiali dei carabinieri, della guardia di finanza, degli agenti di custodia e del corpo forestale dello Stato nonche' gli altri appartenenti alle predette forze di polizia ai quali l'ordinamento delle rispettive amministrazioni riconosce tale qualita';

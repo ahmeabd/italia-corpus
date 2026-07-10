@@ -16,13 +16,13 @@ Vista la [direttiva 97/67/CE del Parlamento europeo e del Consiglio del 15 dicem
 
 Visto l'[articolo 1, commi 1](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md) e [3, della legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), che ha delegato il Governo a recepire la predetta [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67);
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md), che ha approvato il regolamento riguardante i servizi delle corrispondenze e dei pacchi;
 
 Visto il [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md);
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), concernente il regolamento di riorganizzazione del Ministero delle poste e delle telecomunicazioni;
+Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), concernente il regolamento di riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
 Visto il decreto del Ministro delle comunicazioni in data 5 agosto 1997, recante proroga delle concessioni postali, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 260 del 7 novembre 1997;
 
@@ -565,7 +565,7 @@ Gli invii postali rientranti nel servizio universale e nei servizi riservati, pe
 
 2.
 
-Sono abrogati gli articoli 41, 44 e 54 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
+Sono abrogati gli articoli 41, 44 e 54 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
 
 3.
 

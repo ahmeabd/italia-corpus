@@ -1208,7 +1208,7 @@ I beni sequestrati nel corso di operazioni di polizia finalizzate alla prevenzio
 
 8-bis.
 
-Nel caso che non siano state presentate istanze di affidamento per mezzi di trasporto sequestrati, si applicano le disposizioni dell'articolo 301-bis, comma 3, del testo unico delle disposizioni legislative in materia doganale, di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e successive modificazioni.
+Nel caso che non siano state presentate istanze di affidamento per mezzi di trasporto sequestrati, si applicano le disposizioni dell'articolo 301-bis, comma 3, del testo unico delle disposizioni legislative in materia doganale, di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e successive modificazioni.
 
 8-ter.
 
@@ -1220,7 +1220,7 @@ Con il provvedimento che dispone la distruzione ai sensi del comma 8-ter sono al
 
 8-quinquies.
 
-I beni acquisiti dallo Stato a seguito di provvedimento definitivo di confisca sono, a richiesta, assegnati in via prioritaria all'amministrazione o trasferiti all'ente o, in subordine, agli enti del Terzo settore di cui al comma 8 che ne abbiano avuto l'uso ai sensi del comma 8 ovvero sono alienati o distrutti. Resta fermo che gli enti del Terzo settore di cui al comma 8 provvedono con oneri a proprio carico allo smaltimento delle imbarcazioni eventualmente loro trasferite, previa autorizzazione dell'autorita' giudiziaria competente. I mezzi di trasporto non assegnati, o trasferiti per le finalita' di cui al comma 8, sono comunque distrutti. Si osservano, in quanto applicabili, le disposizioni vigenti in materia di gestione e destinazione dei beni confiscati. Ai fini della determinazione dell'eventuale indennita', si applica il comma 5 dell'articolo 301-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e successive modificazioni.
+I beni acquisiti dallo Stato a seguito di provvedimento definitivo di confisca sono, a richiesta, assegnati in via prioritaria all'amministrazione o trasferiti all'ente o, in subordine, agli enti del Terzo settore di cui al comma 8 che ne abbiano avuto l'uso ai sensi del comma 8 ovvero sono alienati o distrutti. Resta fermo che gli enti del Terzo settore di cui al comma 8 provvedono con oneri a proprio carico allo smaltimento delle imbarcazioni eventualmente loro trasferite, previa autorizzazione dell'autorita' giudiziaria competente. I mezzi di trasporto non assegnati, o trasferiti per le finalita' di cui al comma 8, sono comunque distrutti. Si osservano, in quanto applicabili, le disposizioni vigenti in materia di gestione e destinazione dei beni confiscati. Ai fini della determinazione dell'eventuale indennita', si applica il comma 5 dell'articolo 301-bis del citato testo unico di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e successive modificazioni.
 
 9.
 
@@ -3231,7 +3231,7 @@ Il diritto a mantenere o a riacquistare l'unita' familiare nei confronti dei fam
 
 2.
 
-Ai familiari stranieri di cittadini italiani o di uno Stato membro dell'Unione Europea continuano ad applicarsi le disposizioni el [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1656](../DPR/Norme%20sulla%20circolazione%20e%20il%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20della%20C.E.E.md), fatte salve quelle piu' favorevoli della presente legge o del regolamento di attuazione.
+Ai familiari stranieri di cittadini italiani o di uno Stato membro dell'Unione Europea continuano ad applicarsi le disposizioni el [decreto del Presidente della Repubblica 30 dicembre 1965, n. 1656](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20circolazione%20e%20il%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20della%20C.E.E.md), fatte salve quelle piu' favorevoli della presente legge o del regolamento di attuazione.
 
 3.
 
@@ -3253,7 +3253,7 @@ Lo straniero puo' chiedere il ricongiungimento per i seguenti familiari:
 
 1-bis.
 
-Ove gli stati di cui al comma 1, lettere b), c) e d), non possano essere documentati in modo certo mediante certificati o attestazioni rilasciati da competenti autorita' straniere, in ragione della mancanza di una autorita' riconosciuta o comunque quando sussistano fondati dubbi sulla autenticita' della predetta documentazione, le rappresentanze diplomatiche o consolari provvedono al rilascio di certificazioni, ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), sulla base dell'esame del DNA (acido desossiribonucleico), effettuato a spese degli interessati.
+Ove gli stati di cui al comma 1, lettere b), c) e d), non possano essere documentati in modo certo mediante certificati o attestazioni rilasciati da competenti autorita' straniere, in ragione della mancanza di una autorita' riconosciuta o comunque quando sussistano fondati dubbi sulla autenticita' della predetta documentazione, le rappresentanze diplomatiche o consolari provvedono al rilascio di certificazioni, ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), sulla base dell'esame del DNA (acido desossiribonucleico), effettuato a spese degli interessati.
 
 1-ter.
 
@@ -3323,7 +3323,7 @@ Lo straniero al quale e' stato riconosciuto lo status di rifugiato puo' richiede
 
 2.
 
-Qualora un rifugiato non possa fornire documenti ufficiali che provino i suoi vincoli familiari, in ragione del suo status, ovvero della mancanza di un'autorita' riconosciuta o della presunta inaffidabilita' dei documenti rilasciati dall'autorita' locale, rilevata anche in sede di cooperazione consolare Schengen locale, ai sensi della decisione del Consiglio europeo del 22 dicembre 2003, le rappresentanze diplomatiche o consolari provvedono al rilascio di certificazioni, ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), sulla base delle verifiche ritenute necessarie, effettuate a spese degli interessati. Puo' essere fatto ricorso, altresi', ad altri mezzi atti a provare l'esistenza del vincolo familiare, tra cui elementi tratti da documenti rilasciati dagli organismi internazionali ritenuti idonei dal Ministero degli affari esteri. Il rigetto della domanda non puo' essere motivato unicamente dall'assenza di documenti probatori.
+Qualora un rifugiato non possa fornire documenti ufficiali che provino i suoi vincoli familiari, in ragione del suo status, ovvero della mancanza di un'autorita' riconosciuta o della presunta inaffidabilita' dei documenti rilasciati dall'autorita' locale, rilevata anche in sede di cooperazione consolare Schengen locale, ai sensi della decisione del Consiglio europeo del 22 dicembre 2003, le rappresentanze diplomatiche o consolari provvedono al rilascio di certificazioni, ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), sulla base delle verifiche ritenute necessarie, effettuate a spese degli interessati. Puo' essere fatto ricorso, altresi', ad altri mezzi atti a provare l'esistenza del vincolo familiare, tra cui elementi tratti da documenti rilasciati dagli organismi internazionali ritenuti idonei dal Ministero degli affari esteri. Il rigetto della domanda non puo' essere motivato unicamente dall'assenza di documenti probatori.
 
 3.
 

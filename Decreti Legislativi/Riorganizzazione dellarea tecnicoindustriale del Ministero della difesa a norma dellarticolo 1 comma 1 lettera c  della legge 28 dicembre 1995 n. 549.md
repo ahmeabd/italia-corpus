@@ -73,7 +73,7 @@ Il Ministro della difesa entro venti giorni trasmette al Parlamento la relazione
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 15 novembre 2000, n. 424](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20industrie%20difesa%20a%20norma%20dellarticolo%2022%20del%20decreto%20legislativo%2030%20luglio%201999%20n.%20300.md) ha disposto (con l'art. 14, comma 3) che "L'[articolo 4 del decreto legislativo 28 novembre 1997, n. 459](Riorganizzazione%20dellarea%20tecnicoindustriale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20c%20%20della%20legge%2028%20dicembre%201995%20n.%20549.md), cessa di avere efficacia a decorrere dalla data di eventuale chiusura ovvero di trasferimento all'agenzia dell'ultimo degli enti dipendenti dal Segretario generale della Difesa di cui al medesimo articolo 4".
+Il [D.P.R. 15 novembre 2000, n. 424](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20sullorganizzazione%20ed%20il%20funzionamento%20dellAgenzia%20industrie%20difesa%20a%20norma%20dellarticolo%2022%20del%20decreto%20legislativo%2030%20luglio%201999%20n.%20300.md) ha disposto (con l'art. 14, comma 3) che "L'[articolo 4 del decreto legislativo 28 novembre 1997, n. 459](Riorganizzazione%20dellarea%20tecnicoindustriale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20c%20%20della%20legge%2028%20dicembre%201995%20n.%20549.md), cessa di avere efficacia a decorrere dalla data di eventuale chiusura ovvero di trasferimento all'agenzia dell'ultimo degli enti dipendenti dal Segretario generale della Difesa di cui al medesimo articolo 4".
 
 ## Art. 5.
 

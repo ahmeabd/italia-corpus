@@ -42,7 +42,7 @@ Le amministrazioni interessate adottano i relativi provvedimenti, evidenziando l
 
 4.
 
-I provvedimenti di cui al comma 3 sono trasmessi al Dipartimento della funzione pubblica ed al Ministero del tesoro ai fini di verifiche sulla sussistenza dei presupposti, da effettuare, nel rispetto delle competenze regionali, anche a mezzo dei servizi ispettivi e degli organi di controllo interno di cui all'[art. 9 del decreto-legge 17 luglio 1993, n. 232](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_2.md).
+I provvedimenti di cui al comma 3 sono trasmessi al Dipartimento della funzione pubblica ed al Ministero del tesoro ai fini di verifiche sulla sussistenza dei presupposti, da effettuare, nel rispetto delle competenze regionali, anche a mezzo dei servizi ispettivi e degli organi di controllo interno di cui all'[art. 9 del decreto-legge 17 luglio 1993, n. 232](../DL%20decaduti/Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_2.md).
 
 5.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto l'[art. 7 della legge 16 febbraio 1987, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20lemanazione%20del%20nuovo%20codice%20di%20procedura%20penale_2.md), recante delega legislativa al Governo della Repubblica per l'emanazione del nuovo [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -30,7 +30,7 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-Il [comma 5 dell'art. 125 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_125-com5), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), e' sostituito dal seguente:
+Il [comma 5 dell'art. 125 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_125-com5), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), e' sostituito dal seguente:
  "5. Nel caso di provvedimenti collegiali, se lo richiede un componente del collegio che non ha espresso voto conforme alla decisione, e' compilato sommario verbale contenente l'indicazione del dissenziente, della questione o delle questioni alle quali si riferisce il dissenso e dei motivi dello stesso, succintamente esposti. Il verbale, redatto dal meno anziano dei componenti togati del collegio e sottoscritto da tutti i componenti, e' conservato a cura del presidente in plico sigillato presso la cancelleria dell'ufficio.".
 
 AVVERTENZA:

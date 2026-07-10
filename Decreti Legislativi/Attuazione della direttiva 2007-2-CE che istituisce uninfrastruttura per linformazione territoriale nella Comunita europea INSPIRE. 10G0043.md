@@ -22,7 +22,7 @@ VISTA la decisione n. 2009/442/CE della Commissione, del 5 giugno 2009, recante 
 
 VISTA la [legge 2 febbraio 1960, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-02-02;68), recante norme sulla cartografia ufficiale dello Stato e sulla disciplina della produzione e dei rilevamenti terrestri e idrografici;
 
-VISTO il [decreto del Presidente della Repubblica 3 agosto 2009, n. 140](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20dellambiente%20e%20della%20tutela%20del%20territorio%20e%20del%20mare.%2009G0149.md), recante regolamento di riorganizzazione del Ministero dell'ambiente e della tutela del territorio e del mare;
+VISTO il [decreto del Presidente della Repubblica 3 agosto 2009, n. 140](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20dellambiente%20e%20della%20tutela%20del%20territorio%20e%20del%20mare.%2009G0149.md), recante regolamento di riorganizzazione del Ministero dell'ambiente e della tutela del territorio e del mare;
 
 VISTO il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante [codice in materia di protezione dei dati personali](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 

@@ -752,7 +752,7 @@ Nota all'art. 18:
  o di:
  dieci anni di servizio complessivo in qualita' di biologo, chimico, fisico o psicologo coadiutore o collaboratore o in posizioni equipollenti presso amministrazioni pubbliche;
  c) iscrizione ai rispettivi ordini professionali, ove esistenti, attestato da certificato in data non anteriore a tre mesi rispetto a quella di scadenza del bando.
- Per il concorso per la posizione funzionale di fisico dirigente puo' essere richiesta, altresi', la certificazione comprovante l'iscrizione all'elenco nazionale di esperti qualificati di cui al [decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), nei casi in cui sia attribuita la relativa funzione".
+ Per il concorso per la posizione funzionale di fisico dirigente puo' essere richiesta, altresi', la certificazione comprovante l'iscrizione all'elenco nazionale di esperti qualificati di cui al [decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), nei casi in cui sia attribuita la relativa funzione".
 
 ## Art. 19.
 

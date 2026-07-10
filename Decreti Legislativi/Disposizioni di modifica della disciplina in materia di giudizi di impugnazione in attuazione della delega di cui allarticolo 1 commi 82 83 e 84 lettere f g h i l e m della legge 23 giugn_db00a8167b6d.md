@@ -16,7 +16,7 @@ Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.
 
 Vista la [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103), recante modifiche al [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e all'ordinamento penitenziario, contenente la delega al Governo per la riforma della disciplina in materia di giudizi di impugnazione, e in particolare l'articolo 1, commi 82, 83 e 84, lettere f), g), h), i), l) e m);
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [decreto legislativo 28 agosto 2000, n. 274](Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), recante disposizioni sulla competenza penale del giudice di pace, a norma dell'[articolo 14 della legge 24 novembre 1999, n. 468](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%2021%20novembre%201991%20n.%20374%20recante%20istituzione%20del%20giudice%20di%20pace.%20Delega%20al%20Governo%20in%20materia%20di%20competenza%20penale%20del%20giudice%20di%20pace%20e%20modifica%20dellarticolo%20593%20del_ab2519664973.md);
 
@@ -35,12 +35,12 @@ Emana il seguente decreto legislativo:
 
 1.
 
-All'[articolo 568 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_568), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo il comma 4 e' inserito il seguente: 
+All'[articolo 568 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_568), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo il comma 4 e' inserito il seguente: 
  «4-bis. Il pubblico ministero propone impugnazione diretta a conseguire effetti favorevoli all'imputato solo con ricorso per cassazione.».
 
 2.
 
-All'articolo 570, comma 1, secondo periodo, del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), le parole: «Il procuratore generale» sono sostituite dalle seguenti: «Salvo quanto previsto dall'articolo 593-bis, comma 2, il procuratore generale».
+All'articolo 570, comma 1, secondo periodo, del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), le parole: «Il procuratore generale» sono sostituite dalle seguenti: «Salvo quanto previsto dall'articolo 593-bis, comma 2, il procuratore generale».
 
 N O T E 
  
@@ -83,7 +83,7 @@ N O T E
 
 1.
 
-All'[articolo 593 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_593), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+All'[articolo 593 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_593), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                         a)
                             i commi 1 e 2 sono sostituiti dai seguenti: 
  «1. Salvo quanto previsto dagli articoli 443, comma 3, 448, comma 2, 579 e 680, l'imputato puo' appellare contro le sentenze di condanna mentre il pubblico ministero puo' appellare contro le medesime sentenze solo quando modificano il titolo del reato o escludono la sussistenza di una circostanza aggravante ad effetto speciale o stabiliscono una pena di specie diversa da quella ordinaria del reato. 
@@ -93,7 +93,7 @@ All'[articolo 593 del codice di procedura penale](https://www.normattiva.it/uri-
 
 2.
 
-All'[articolo 428 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_428), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo il comma 3-ter e' aggiunto il seguente: 
+All'[articolo 428 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_428), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo il comma 3-ter e' aggiunto il seguente: 
  «3-quater. Sono inappellabili le sentenze di non luogo a procedere relative a contravvenzioni punite con la sola pena dell'ammenda o con pena alternativa.».
 
 Note all'art. 2: 
@@ -116,20 +116,20 @@ Note all'art. 2:
 
 1.
 
-Dopo l'[articolo 593 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_593), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), e' inserito il seguente: 
+Dopo l'[articolo 593 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_593), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), e' inserito il seguente: 
  «Art. 593-bis (Appello del pubblico ministero). - 1. Nei casi consentiti, contro le sentenze del giudice per le indagini preliminari, della corte d'assise e del tribunale puo' appellare il procuratore della Repubblica presso il tribunale. 
  2. Il procuratore generale presso la corte d'appello puo' appellare soltanto nei casi di avocazione o qualora il procuratore della Repubblica abbia prestato acquiescenza al provvedimento.».
 
 2.
 
-All'[articolo 428, comma 1, lettera a), del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_428-com1-leta), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo le parole: «e il procuratore generale» sono aggiunte le seguenti: «nei casi di cui all'articolo 593-bis, comma 2.».
+All'[articolo 428, comma 1, lettera a), del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_428-com1-leta), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo le parole: «e il procuratore generale» sono aggiunte le seguenti: «nei casi di cui all'articolo 593-bis, comma 2.».
 
 ## Art. 4. — Modifiche alla disciplina 
  in materia di appello incidentale
 
 1.
 
-All'[articolo 595 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_595), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+All'[articolo 595 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_595), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                         a)
                             il comma 1 e' sostituito dal seguente: 
  «1. L'imputato che non ha proposto impugnazione puo' proporre appello incidentale entro quindici giorni da quello in cui ha ricevuto la notificazione prevista dall'articolo 584.»;
@@ -149,7 +149,7 @@ Note all'art. 4:
 
 1.
 
-All'[articolo 606 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_606), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo il comma 2 e' inserito il seguente: 
+All'[articolo 606 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_606), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), dopo il comma 2 e' inserito il seguente: 
  «2-bis. Contro le sentenze di appello pronunciate per reati di competenza del giudice di pace, il ricorso puo' essere proposto soltanto per i motivi di cui al comma 1, lettere a), b) e c).».
 
 Note all'art. 5: 

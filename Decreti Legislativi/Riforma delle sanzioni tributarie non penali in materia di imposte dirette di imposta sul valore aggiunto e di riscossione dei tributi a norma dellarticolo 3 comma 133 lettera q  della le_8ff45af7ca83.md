@@ -1017,7 +1017,7 @@ Sono abrogati:
                             b)
                                 gli articoli da 46 a 55 e 57, ultimo comma, del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md);
                             c)
-                                gli articoli da 92 a 96, 97, ad eccezione del sesto comma, e 98 del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md);
+                                gli articoli da 92 a 96, 97, ad eccezione del sesto comma, e 98 del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md);
                             d)
                                 l'articolo 8, commi dal quarto al nono, della [legge 10 maggio 1976, n. 249](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20marzo%201976%20n.%2046%20concernente%20misure%20urgenti%20in%20materia%20tributaria.md), aggiunti dall'[articolo 1 della legge 13 marzo 1980, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-13;71#art_1);
                             e)

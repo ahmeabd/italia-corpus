@@ -95,7 +95,7 @@ E' vietata l'utilizzazione dei fanghi sui terreni agricoli se non ricorrono le c
 
 2.
 
-E' vietata l'utilizzazione dei fanghi tossici e nocivi in riferimento alle sostanze elencate nell'allegato al [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), con le concentrazioni limite stabilite nella delibera del 27 luglio 1984, anche se miscelati e diluiti con fanghi rientranti nelle presenti disposizioni.
+E' vietata l'utilizzazione dei fanghi tossici e nocivi in riferimento alle sostanze elencate nell'allegato al [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), con le concentrazioni limite stabilite nella delibera del 27 luglio 1984, anche se miscelati e diluiti con fanghi rientranti nelle presenti disposizioni.
 
 3.
 
@@ -149,13 +149,13 @@ Le regioni:
 
 1.
 
-Le province provvedono al controllo sulle attivita' di raccolta, trasporto, stoccaggio e condizionamento dei fanghi, ai sensi del [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), nonche' delle attivita' di utilizzazione dei fanghi, ai sensi del presente decreto.
+Le province provvedono al controllo sulle attivita' di raccolta, trasporto, stoccaggio e condizionamento dei fanghi, ai sensi del [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), nonche' delle attivita' di utilizzazione dei fanghi, ai sensi del presente decreto.
 
 ## Art. 8. — Autorizzazioni e disciplina
 
 1.
 
-Le attivita' di raccolta, trasporto, stoccaggio e condizionamento dei fanghi sono disciplinate e autorizzate ai sensi della normativa prevista dal [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e successive integrazioni, dalla [legge 20 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-20;441), dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md), e dal presente decreto.
+Le attivita' di raccolta, trasporto, stoccaggio e condizionamento dei fanghi sono disciplinate e autorizzate ai sensi della normativa prevista dal [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e successive integrazioni, dalla [legge 20 ottobre 1987, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-20;441), dalla [legge 9 novembre 1988, n. 475](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20settembre%201988%20n.%20397%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti%20industriali.md), e dal presente decreto.
 
 2.
 
@@ -304,7 +304,7 @@ Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md
 
 1.
 
-Il produttore di fanghi destinati all'agricoltura, deve annotare sul registro di carico e scarico di cui all'[art. 19 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md) e all'[art. 3 comma 5 della legge n. 475/88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;475#art_3-com5);
+Il produttore di fanghi destinati all'agricoltura, deve annotare sul registro di carico e scarico di cui all'[art. 19 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md) e all'[art. 3 comma 5 della legge n. 475/88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;475#art_3-com5);
                         a)
                             i quantitativi di fango prodotto e quelli forniti per uso agricolo;
                         b)
@@ -348,7 +348,7 @@ Si applica la pena dell'arresto se sono utilizzati fanghi tossici o nocivi.
 
 3.
 
-Alle attivita' di raccolta, trasporto, stoccaggio e condizionamento dei fanghi, previsti dal presente decreto, restano applicabili le sanzioni penali sullo smaltimento dei rifiuti di cui al [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e successive modifiche ed integrazioni.
+Alle attivita' di raccolta, trasporto, stoccaggio e condizionamento dei fanghi, previsti dal presente decreto, restano applicabili le sanzioni penali sullo smaltimento dei rifiuti di cui al [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), e successive modifiche ed integrazioni.
 
 4.
 

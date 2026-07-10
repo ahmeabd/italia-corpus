@@ -119,7 +119,7 @@ PROTEZIONE DEI LAVORATORI CONTRO I RISCHI CONNESSI ALL'ESPOSIZIONE AD AMIANTO
  c) incapsulamento e confinamento di materiali contenenti amianto che si trovano in buono stato;
  d) sorveglianza e controllo dell'aria e prelievo dei campioni ai fini dell'individuazione della presenza di amianto in un determinato materiale.
  3. Il datore di lavoro effettua nuovamente la valutazione ogni qualvolta si verifichino modifiche che possono comportare un mutamento significativo dell'esposizione dei lavoratori alla polvere proveniente dall'amianto o dai materiali contenenti amianto.
- 4. La Commissione consultiva permanente di cui all'[articolo 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), provvede a definire orientamenti pratici per la determinazione delle esposizioni sporadiche e di debole intensita', di cui al comma 2.
+ 4. La Commissione consultiva permanente di cui all'[articolo 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), provvede a definire orientamenti pratici per la determinazione delle esposizioni sporadiche e di debole intensita', di cui al comma 2.
 
  Art. 59-sexies.
  Notifica

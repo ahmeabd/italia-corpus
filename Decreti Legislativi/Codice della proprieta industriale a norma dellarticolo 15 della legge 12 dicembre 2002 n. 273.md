@@ -28,13 +28,13 @@ Visto il [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%2
 
 Visto il [decreto del Presidente della Repubblica 8 giugno 1948, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-06-08;795);
 
-Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../DPR/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20per%20modelli%20di%20utilita%20modelli%20e%20disegni%20ornamentali%20e%20in%20materia%20di%20registrazione%20di%20marchi%20dimpresa.md);
+Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../Atti%20normativi%20abrogati%20%28in%20originale%29/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md);
 
-Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md);
+Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md);
 
-Visto il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../DPR/Norme%20di%20applicazione%20per%20i%20brevetti%20europei%20e%20per%20i%20brevetti%20comunitari.md);
+Visto il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20della%20legge%2025%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazionali%20in%20materia%20di%20brevetti.md);
 
-Visto il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../DPR/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
+Visto il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
 
 Vista la [legge 3 maggio 1985, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20di%20norme%20del%20decreto%20del%20Presidente%20della%20Repubblica%208%20gennaio%201979%20n.%2032%20di%20applicazione%20della%20legge%2026%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazio_d86ff246262b.md);
 
@@ -46,11 +46,11 @@ Vista la [legge 21 febbraio 1989, n. 70](../Atti%20normativi%20abrogati%20%28in%
 
 Vista la [legge 19 ottobre 1991, n. 349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20rilascio%20di%20un%20certificato%20complementare%20di%20protezione%20per%20i%20medicamenti%20o%20i%20relativi%20componenti%20oggetto%20di%20brevetto.md);
 
-Visto il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../DPR/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
+Visto il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../DPR/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
 
 Vista la [legge 21 dicembre 1984, n. 890](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20del%20trattato%20di%20cooperazione%20internazionale%20in%20materia%20di%20brevetti.md);
 
@@ -6076,7 +6076,7 @@ Nota all'[art. 241:
 
 1.
 
-Le disposizioni dell'articolo 109 del presente codice si applicano ai brevetti per nuove varieta' vegetali concessi conformemente al [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), non scaduti o decaduti alla data di entrata in vigore del [decreto legislativo 3 novembre 1998, n. 455](Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md).
+Le disposizioni dell'articolo 109 del presente codice si applicano ai brevetti per nuove varieta' vegetali concessi conformemente al [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), non scaduti o decaduti alla data di entrata in vigore del [decreto legislativo 3 novembre 1998, n. 455](Norme%20di%20adeguamento%20alle%20prescrizioni%20dellatto%20di%20revisione%20del%201991%20della%20convenzione%20internazionale%20per%20la%20protezione%20delle%20novita%20vegetali.md).
 
 2.
 
@@ -6193,21 +6193,21 @@ Sono abrogate le seguenti disposizioni:
                             e)
                                 il [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md);
                             f)
-                                il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md);
+                                il [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20di%20impresa.md);
                             g)
                                 l'[articolo 34 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
                             h)
-                                il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../DPR/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20per%20modelli%20di%20utilita%20modelli%20e%20disegni%20ornamentali%20e%20in%20materia%20di%20registrazione%20di%20marchi%20dimpresa.md);
+                                il [decreto del Presidente della Repubblica 30 giugno 1972, n. 540](../Atti%20normativi%20abrogati%20%28in%20originale%29/Semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20brevetti%20per%20invenzioni%20industriali%20modelli%20industriali%20e%20marchi%20di%20impresa.md);
                             i)
                                 il decreto del Ministro dell'industria, del commercio e dell'artigianato 22 febbraio 1973, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 69 del 15 marzo 1973;
                             l)
-                                il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), fatto salvo l'articolo 18;
+                                il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), fatto salvo l'articolo 18;
                             m)
                                 il decreto del Ministro dell'industria, del commercio e dell'artigianato 22 ottobre 1976, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 15 del 18 febbraio 1977;
                             n)
-                                il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../DPR/Norme%20di%20applicazione%20per%20i%20brevetti%20europei%20e%20per%20i%20brevetti%20comunitari.md);
+                                il [decreto del Presidente della Repubblica 8 gennaio 1979, n. 32](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20della%20legge%2025%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazionali%20in%20materia%20di%20brevetti.md);
                             o)
-                                il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../DPR/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
+                                il [decreto del Presidente della Repubblica 22 giugno 1979, n. 338](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20legislazione%20nazionale%20in%20materia%20di%20brevetti%20in%20applicazione%20della%20delega%20di%20cui%20alla%20legge%2026%20maggio%201978%20n.%20260.md);
                             p)
                                 la [legge 3 maggio 1985, n. 194](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20di%20norme%20del%20decreto%20del%20Presidente%20della%20Repubblica%208%20gennaio%201979%20n.%2032%20di%20applicazione%20della%20legge%2026%20maggio%201978%20n.%20260%20concernente%20ratifica%20ed%20esecuzione%20di%20atti%20internazio_d86ff246262b.md);
                             q)
@@ -6225,11 +6225,11 @@ Sono abrogate le seguenti disposizioni:
                             z)
                                 la [legge 19 ottobre 1991, n. 349](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20rilascio%20di%20un%20certificato%20complementare%20di%20protezione%20per%20i%20medicamenti%20o%20i%20relativi%20componenti%20oggetto%20di%20brevetto.md); il [decreto legislativo 4 dicembre 1992, n. 480](Attuazione%20della%20direttiva%20n.%2089-104-CEE%20del%20Consiglio%20del%2021%20dicembre%201988%20recante%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20in%20materia%20di%20marchi%20di%20impresa.md); la [legge 26 luglio 1993, n. 302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ratifica%20ed%20esecuzione%20dellaccordo%20sul%20brevetto%20comunitario%20della%20convenzione%20sul%20brevetto%20europeo%20per%20il%20mercato%20comune%20e%20relativo%20regolamento%20di%20esecuzione%20con%20quattro%20protocolli%20anness_f138a48f76e5.md);
                             aa)
-                                il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../DPR/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
+                                il [decreto del Presidente della Repubblica 1° dicembre 1993, n. 595](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20modificazioni%20al%20testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%208%20maggio%201948%20n.%20795.md);
                             bb)
-                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../DPR/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
+                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 360](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20del%20procedimento%20di%20concessione%20di%20licenza%20obbligatoria%20per%20uso%20non%20esclusivo%20del%20brevetto%20di%20invenzione.md);
                             cc)
-                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../DPR/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
+                                il [decreto del Presidente della Repubblica 18 aprile 1994, n. 391](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20del%20procedimento%20di%20concessione%20di%20brevetto%20di%20nuova%20varieta%20vegetale.md);
                             dd)
                                 la [legge 21 dicembre 1984, n. 890](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20del%20trattato%20di%20cooperazione%20internazionale%20in%20materia%20di%20brevetti.md);
                             ee)

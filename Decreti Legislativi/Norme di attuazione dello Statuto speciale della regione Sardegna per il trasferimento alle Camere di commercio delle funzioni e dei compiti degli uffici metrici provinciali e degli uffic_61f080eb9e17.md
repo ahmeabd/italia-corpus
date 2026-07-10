@@ -88,7 +88,7 @@ Sono fatti salvi i diritti acquisiti a seguito di concorsi interni indetti dal M
 
 4.
 
-La dotazione organica del Ministero delle attivita' produttive di cui al decreto del [Presidente della Repubblica 28 luglio 2000, n. 276](../DPR/Regolamento%20recante%20disposizioni%20relative%20alla%20rideterminazione%20delle%20dotazioni%20organiche%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato.md), viene ridotta in corrispondenza dei posti resi vacanti dalle unita' trasferite.
+La dotazione organica del Ministero delle attivita' produttive di cui al decreto del [Presidente della Repubblica 28 luglio 2000, n. 276](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disposizioni%20relative%20alla%20rideterminazione%20delle%20dotazioni%20organiche%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato.md), viene ridotta in corrispondenza dei posti resi vacanti dalle unita' trasferite.
 
 Note all'art. 3:
  - Il decreto del Presidente del Consiglio dei Ministri 6 luglio 1999, e' citato nelle note all'art. 2. Il testo del comma 5, dell'art. 2 nonche' della tabella A allegata al decreto medesimo e' il seguente:
@@ -108,7 +108,7 @@ Note all'art. 3:
  Tabella A 
  ----> Vedere Tabella alle pagg. 10 - 11 - 12 <----
 
- - Il [decreto del Presidente della Repubblica 28 luglio 2000, n. 276](../DPR/Regolamento%20recante%20disposizioni%20relative%20alla%20rideterminazione%20delle%20dotazioni%20organiche%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato.md) (Regolamento recante disposizioni relative alla rideterminazione delle dotazioni organiche del Ministero dell'industria, del commercio e dell'artigianato) e' pubblicato nella Gazzetta Ufficiale 10 ottobre 2000, n. 237.
+ - Il [decreto del Presidente della Repubblica 28 luglio 2000, n. 276](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disposizioni%20relative%20alla%20rideterminazione%20delle%20dotazioni%20organiche%20del%20Ministero%20dellindustria%20del%20commercio%20e%20dellartigianato.md) (Regolamento recante disposizioni relative alla rideterminazione delle dotazioni organiche del Ministero dell'industria, del commercio e dell'artigianato) e' pubblicato nella Gazzetta Ufficiale 10 ottobre 2000, n. 237.
 
 ## Art. 4. — Trasferimento funzioni e compiti degli UU.PP.I.C.A.
 

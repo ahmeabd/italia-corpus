@@ -1797,7 +1797,7 @@ Note all'art. 36:
  Ministero della transizione ecologica, Ministero dello sviluppo economico e Ministero della Salute. 
  2. Equipaggiamento marittimo. 
  - [direttiva 2014/90/UE del Parlamento europeo e del Consiglio, del 23 luglio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;90), sull'equipaggiamento marittimo e che abroga la [direttiva 96/98/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;98). 
- - [decreto del Presidente della Repubblica 20 dicembre 2017, n. 239](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%202014-90-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20luglio%202014%20sullequipaggiamento%20marittimo%20che%20abroga%20la%20direttiva%2096-98-CE.%2018G00039.md). 
+ - [decreto del Presidente della Repubblica 20 dicembre 2017, n. 239](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%202014-90-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20luglio%202014%20sullequipaggiamento%20marittimo%20che%20abroga%20la%20direttiva%2096-98-CE.%2018G00039.md). 
  - Amministrazioni con competenza concorrente:
  Ministero delle infrastrutture e della mobilita' sostenibili, Ministero dello sviluppo economico e Ministero della transizione ecologica, Ministero dell'interno dell'interno - Corpo nazionale dei Vigili del fuoco per gli aspetti attinenti alla sicurezza antincendio. 
  3. Sostanze chimiche. 
@@ -1850,7 +1850,7 @@ Note all'art. 36:
  - [decreto legislativo 28 giugno 2012, n. 104](Attuazione%20della%20direttiva%202010-30-UE%20relativa%20allindicazione%20del%20consumo%20di%20energia%20e%20di%20altre%20risorse%20dei%20prodotti%20connessi%20allenergia%20mediante%20letichettatura%20ed%20informazioni%20uniformi%20r_4fd07742b1f2.md). 
  18. Nuove caldaie ad acqua calda, alimentate con combustibili liquidi o gassosi. 
  - [direttiva 92/42/CEE del Consiglio, del 21 maggio 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;42), concernente i requisiti di rendimento per le nuove caldaie ad acqua calda alimentate con combustibili liquidi o gassosi. 
- - [decreto del Presidente della Repubblica 15 novembre 1996, n. 660](../DPR/Regolamento%20per%20lattuazione%20della%20direttiva%2092-42-CEE%20concernente%20i%20requisiti%20di%20rendimento%20delle%20nuove%20caldaie%20ad%20acqua%20calda%20alimentate%20con%20combustibili%20liquidi%20o%20gassosi.md). 
+ - [decreto del Presidente della Repubblica 15 novembre 1996, n. 660](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20per%20lattuazione%20della%20direttiva%2092-42-CEE%20concernente%20i%20requisiti%20di%20rendimento%20delle%20nuove%20caldaie%20ad%20acqua%20calda%20alimentate%20con%20combustibili%20liquidi%20o%20gassosi.md). 
  19. Batterie e rifiuti di batterie. 
  - regolamento (UE) 2023/1542 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo alle batterie e ai rifiuti di batterie, che modifica la [direttiva 2008/98/CE e il regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;98) [(UE) 2019/1020](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;1020) e abroga la [direttiva 2006/66/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;66).».
 

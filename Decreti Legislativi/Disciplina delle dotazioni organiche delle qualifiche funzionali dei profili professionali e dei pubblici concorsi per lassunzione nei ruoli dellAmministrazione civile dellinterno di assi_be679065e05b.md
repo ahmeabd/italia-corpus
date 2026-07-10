@@ -74,7 +74,7 @@ La prova orale verte sulle materie oggetto della prova scritta di cui alla lette
 
 4.
 
-Per quanto non previsto espressamente dal presente articolo, per la disciplina del concorso pubblico si applicano le norme regolamentari relative al personale dell'Amministrazione civile dell'interno di cui all'[articolo 13 e seguenti del decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../DPR/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md).
+Per quanto non previsto espressamente dal presente articolo, per la disciplina del concorso pubblico si applicano le norme regolamentari relative al personale dell'Amministrazione civile dell'interno di cui all'[articolo 13 e seguenti del decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md).
 
 5.
 
@@ -98,7 +98,7 @@ Nota all'art. 2;
 
 1.
 
-Nei concorsi pubblici di accesso al profilo di esperto in problemi sociali della VIII qualifica funzionale, la riserva del 30 per cento prevista dall'[articolo 20, secondo comma, del decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../DPR/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), e' applicata al personale appartenente al profilo professionale di assistente sociale coordinatore.
+Nei concorsi pubblici di accesso al profilo di esperto in problemi sociali della VIII qualifica funzionale, la riserva del 30 per cento prevista dall'[articolo 20, secondo comma, del decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), e' applicata al personale appartenente al profilo professionale di assistente sociale coordinatore.
 
 Nota all'art. 3:
  - Per il testo del [secondo comma dell'art. 20 del D.P.R.
@@ -131,7 +131,7 @@ Note all'art. 4:
  2. Per le esigenze connesse ai compiti attribuiti al prefetto il Governo e' delegato ad emanare, nel termine di novanta giorni dalla data di entrata in vigore della presente legge, un decreto legislativo con l'osservanza dei seguenti princi'pi e criteri direttivi:
  a) previsione della istituzione nei ruoli dell'Amministrazione civile dell'interno di una apposita dotazione organica di assistenti sociali, complessivamente non superiore a duecento unita', per l'espletamento nell'ambito delle prefetture degli adempimenti di cui all'[art. 72 della legge 22 dicembre 1975, n. 685](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685#art_72), come sostituito dal comma 1 del presente articolo, e delle attivita' da svolgere in collaborazione con il servizio pubblico per le tossicodipendenze e con le altre strutture operanti nella provincia;
  b) previsione delle qualifiche funzionali e dei relativi profili professionali riferiti al personale di cui alla lettera a) in conformita' ai princi'pi stabiliti dalla normativa vigente per i ruoli dell'Amministrazione civile dell'interno;
- c) previsione che per la copertura dei posti di nuova istituzione il Ministro dell'interno e' autorizzato a bandire pubblici concorsi e a procedere alle relative assunzioni in servizio con l'osservanza delle procedure previste dagli articoli 20, ultimo comma, e 13 del [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../DPR/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md);
+ c) previsione che per la copertura dei posti di nuova istituzione il Ministro dell'interno e' autorizzato a bandire pubblici concorsi e a procedere alle relative assunzioni in servizio con l'osservanza delle procedure previste dagli articoli 20, ultimo comma, e 13 del [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md);
  d) previsione che il prefetto possa anche avvalersi di personale volontario, previa verifica di una comprovata competenza nel campo del recupero delle tossicodipendenze.
  3. L'onere derivante dall'attuazione del comma 2, lettera a), del presente articolo e' determinato in lire 6.050 milioni annui a decorrere dal 1991".
  - Il testo dell'[art. 93 della legge n. 685/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;685#art_93) come modificato dall'[art. 28 della legge n. 162/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990;162#art_28), e' il seguente:

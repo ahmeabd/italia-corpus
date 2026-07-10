@@ -204,7 +204,7 @@ Il progetto di cui all'art. 2 deve indicare i termini e le condizioni dell'opera
 
 2.
 
-Una societa' di revisione iscritta all'albo di cui all'[art. 8 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), deve attestare, con una relazione sottoscritta a norma dell'art. 4, comma 2, del suddetto decreto, la congruita' del rapporto di cambio.
+Una societa' di revisione iscritta all'albo di cui all'[art. 8 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), deve attestare, con una relazione sottoscritta a norma dell'art. 4, comma 2, del suddetto decreto, la congruita' del rapporto di cambio.
 
 3.
 

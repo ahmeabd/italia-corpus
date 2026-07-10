@@ -16,7 +16,7 @@ Vista la [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Di
 
 Vista la [direttiva 2006/7/CE del Parlamento europeo e del Consiglio, del 15 febbraio 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;7), relativa alla gestione della qualita' delle acque di balneazione e che abroga la [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160);
 
-Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, recante attuazione della [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione;
+Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, recante attuazione della [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione;
 
 Visto il [decreto legislativo 11 luglio 2007, n. 94](Attuazione%20della%20direttiva%202006-7-CE%20concernente%20la%20gestione%20delle%20acque%20di%20balneazione%20nella%20parte%20relativa%20allossigeno%20disciolto.md), recante attuazione della [direttiva 2006/7/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;7), concernente la gestione delle acque di balneazione, nella parte relativa all'ossigeno disciolto;
 
@@ -80,7 +80,7 @@ Avvertenza:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - La [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202006.md), e' pubblicata nella Gazzetta Ufficiale del 17 febbraio 2007, n. 40, supplemento ordinario.
  - La [direttiva 2006/7/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;7) relativa alla gestione della qualita' delle acque di balneazione e che abroga la [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160) e' pubblicata nella G.U.U.E. 4 marzo 2006.
- - Il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e' pubblicato nella Gazzetta Ufficiale del 26 luglio 1982, n. 203.
+ - Il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e' pubblicato nella Gazzetta Ufficiale del 26 luglio 1982, n. 203.
  - Il [decreto legislativo 11 luglio 2007, n. 94](Attuazione%20della%20direttiva%202006-7-CE%20concernente%20la%20gestione%20delle%20acque%20di%20balneazione%20nella%20parte%20relativa%20allossigeno%20disciolto.md), e' pubblicato nella Gazzetta Ufficiale del 16 luglio 2007, n. 163.
  - Si riporta il testo degli [articoli 76](Norme%20in%20materia%20ambientale.md) e [77 del decreto legislativo del 3 aprile 2006, n. 152](Norme%20in%20materia%20ambientale.md), pubblicato nella Gazzetta Ufficiale del 14 aprile 2006, n. 88:
  «Art. 76 (Disposizioni generali). - 1. Al fine della tutela e del risanamento delle acque superficiali e sotterranee, la parte terza del presente decreto individua gli obiettivi minimi di qualita' ambientale per i corpi idrici significativi e gli obiettivi di qualita' per specifica destinazione per i corpi idrici di cui all'art. 78, da garantirsi su tutto il territorio nazionale.
@@ -262,7 +262,7 @@ Le regioni e le province autonome di Trento e di Bolzano individuano ogni anno, 
 2.
 
 Le regioni e le province autonome provvedono affinche' il monitoraggio dei parametri indicati nell'allegato I, colonna A, sia effettuato secondo le modalita' dell'allegato VI. Il primo programma di monitoraggio dei parametri indicati nell'allegato I, colonna A, avviene a decorrere dalla stagione balneare 2009. I risultati di tale monitoraggio possono essere utilizzati per determinare la serie di dati sulla qualita' delle acque di balneazione di cui all'articolo 7.
-Non appena viene avviato il monitoraggio ai sensi del presente decreto, puo' cessare il monitoraggio dei parametri di cui al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni.
+Non appena viene avviato il monitoraggio ai sensi del presente decreto, puo' cessare il monitoraggio dei parametri di cui al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni.
 
 3.
 
@@ -294,7 +294,7 @@ Tutte le informazioni pertinenti sui metodi o sulle procedure applicate e sulla 
 I risultati dei programmi di monitoraggio, eseguiti almeno con la frequenza indicata negli allegati di cui al presente decreto, sono trasmessi tempestivamente al Ministero del lavoro, della salute e delle politiche sociali e ai comuni interessati, anche ai fini delle disposizioni di cui agli articoli 14, comma 2, e 15, comma 3.
 
 Nota all'[art. 6:
- - Per il decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), si vedano le note alle premesse.
+ - Per il decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), si vedano le note alle premesse.
 
 ### Art. 7. — Valutazione della qualita' delle acque di balneazione
 
@@ -330,7 +330,7 @@ Purche' siano soddisfatti i requisiti di cui al comma 4 o qualora la serie di da
                             b)
                                 si sono verificate modifiche tali da poter influire sulla classificazione di dette acque di balneazione. In tale caso la valutazione e' effettuata sulla base di una serie di dati sulla qualita' delle acque di balneazione consistenti unicamente nei risultati di campioni raccolti successivamente alle modifiche verificatesi;
                             c)
-                                le acque di balneazione risultano gia' valutate ai sensi del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md). In tale caso i parametri 2 e 3 di cui all'allegato I del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), sono ritenuti equivalenti ai parametri 2 e 1 dell'allegato I, colonna A, del presente decreto.
+                                le acque di balneazione risultano gia' valutate ai sensi del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md). In tale caso i parametri 2 e 3 di cui all'allegato I del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), sono ritenuti equivalenti ai parametri 2 e 1 dell'allegato I, colonna A, del presente decreto.
 
 6.
 
@@ -343,7 +343,7 @@ Le regioni e le province autonome possono suddividere o raggruppare acque di bal
                                 hanno profili che identificano fattori di rischio comuni o assenza degli stessi.
 
 Nota all'art. 7:
- - Si riporta l'allegato I del [decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md):
+ - Si riporta l'allegato I del [decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md):
 
  Allegato 1 
  REQUISITI DI QUALITA' DELLE ACQUE DI BALNEAZIONE
@@ -570,22 +570,22 @@ Il Ministero del lavoro, della salute e delle politiche sociali notifica annualm
 
 3.
 
-Dopo l'avvio del monitoraggio delle acque di balneazione ai sensi del presente decreto, le comunicazioni inviate ogni anno alla Commissione europea ai sensi del comma 1 continuano ad essere trasmesse a norma del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, fino a che non e' possibile presentare una prima valutazione ai sensi del presente decreto. Nel periodo summenzionato il parametro 1 dell'allegato I del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), non viene preso in considerazione nella relazione annuale ed i parametri 2 e 3 dell'allegato I del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), vengono considerati equivalenti ai parametri 2 e 1 dell'allegato I, colonna A, del presente decreto.
+Dopo l'avvio del monitoraggio delle acque di balneazione ai sensi del presente decreto, le comunicazioni inviate ogni anno alla Commissione europea ai sensi del comma 1 continuano ad essere trasmesse a norma del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, fino a che non e' possibile presentare una prima valutazione ai sensi del presente decreto. Nel periodo summenzionato il parametro 1 dell'allegato I del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), non viene preso in considerazione nella relazione annuale ed i parametri 2 e 3 dell'allegato I del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), vengono considerati equivalenti ai parametri 2 e 1 dell'allegato I, colonna A, del presente decreto.
 
 Note all'[articolo 16:
- - Per il decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), si vedano le note alle premesse.
- - Per il testo dell'allegato I del [decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), si vedano le note all'art. 7.
+ - Per il decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), si vedano le note alle premesse.
+ - Per il testo dell'allegato I del [decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), si vedano le note all'art. 7.
 
 ### Art. 17. — Norme transitorie e finali
 
 1.
 
-Le disposizioni di cui al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), cessano di avere efficacia a decorrere dal 31 dicembre 2014. Le norme tecniche adottate ai sensi del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), restano in vigore, ove compatibili, con le disposizioni del presente decreto, fino all'adozione di diverse specifiche tecniche in materia.
+Le disposizioni di cui al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), cessano di avere efficacia a decorrere dal 31 dicembre 2014. Le norme tecniche adottate ai sensi del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), restano in vigore, ove compatibili, con le disposizioni del presente decreto, fino all'adozione di diverse specifiche tecniche in materia.
 Il parametro dell'ossigeno disciolto non rileva ai fini del giudizio sulla balneabilita' ma deve essere sempre monitorato dalle strutture tecniche che effettuano il programma di sorveglianza. Sono in ogni caso adottate misure di gestione adeguate, che includano la prosecuzione delle attivita' di controllo algale, sulla base delle vigenti disposizioni e l'informazione al pubblico.
 
 2.
 
-Ai fini del giudizio di idoneita' per l'individuazione delle zone di balneazione delle acque, in sede di svolgimento delle indagini per determinare i potenziali rischi per la salute umana non rileva la valutazione dei parametri pH, colorazione, trasparenza, di cui all'articolo 6 e all'allegato 1 del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md). Sono in ogni caso adottate misure di gestione adeguate, che includano la prosecuzione delle attivita' di controllo algale, sulla base delle vigenti disposizioni e l'informazione al pubblico.
+Ai fini del giudizio di idoneita' per l'individuazione delle zone di balneazione delle acque, in sede di svolgimento delle indagini per determinare i potenziali rischi per la salute umana non rileva la valutazione dei parametri pH, colorazione, trasparenza, di cui all'articolo 6 e all'allegato 1 del [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md). Sono in ogni caso adottate misure di gestione adeguate, che includano la prosecuzione delle attivita' di controllo algale, sulla base delle vigenti disposizioni e l'informazione al pubblico.
 
 3.
 
