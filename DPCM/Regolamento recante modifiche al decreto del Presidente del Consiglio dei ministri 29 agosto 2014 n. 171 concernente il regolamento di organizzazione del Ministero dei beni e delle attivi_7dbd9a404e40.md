@@ -271,7 +271,7 @@ Note all'art. 2:
  «Art. 13 (Direzione generale "Educazione e ricerca"). - (Omissis). 
  2. In particolare, il Direttore generale: 
  (Omissis). 
- t) cura, raccordandosi con la Direzione generale Archeologia, belle arti e paesaggio la tenuta e il funzionamento dell'elenco, disciplinato dal decreto ministeriale 20 marzo 2009, degli istituti e dei dipartimenti archeologici universitari, nonche' dei soggetti in possesso di diploma di laurea e specializzazione in archeologia o di dottorato di ricerca in archeologia di cui all'[art. 95 del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni; 
+ t) cura, raccordandosi con la Direzione generale Archeologia, belle arti e paesaggio la tenuta e il funzionamento dell'elenco, disciplinato dal decreto ministeriale 20 marzo 2009, degli istituti e dei dipartimenti archeologici universitari, nonche' dei soggetti in possesso di diploma di laurea e specializzazione in archeologia o di dottorato di ricerca in archeologia di cui all'[art. 95 del decreto legislativo 12 aprile 2006, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni; 
  (Omissis).». 
  «Art. 30 (Istituti centrali e dotati di autonomia speciale). - 1. Sono istituti centrali: 
  a) l'Istituto centrale per il catalogo e la documentazione; 

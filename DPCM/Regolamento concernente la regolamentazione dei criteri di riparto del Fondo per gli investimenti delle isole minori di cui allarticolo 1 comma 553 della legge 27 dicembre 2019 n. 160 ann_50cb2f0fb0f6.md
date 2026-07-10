@@ -212,9 +212,9 @@ Entro il mese di agosto 2022, possono essere presentate domande aventi ad oggett
 
 Alle domande di finanziamento per la realizzazione di progetti immediatamente eseguibili e' allegata:
                         a)
-                            la progettazione svolta all'ultimo livello previsto in materia di lavori pubblici dal [comma 1 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md);
+                            la progettazione svolta all'ultimo livello previsto in materia di lavori pubblici dal [comma 1 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md);
                         b)
-                            la progettazione concernente i servizi e forniture, svolta fino ai livelli previsti dal [comma 14 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
+                            la progettazione concernente i servizi e forniture, svolta fino ai livelli previsti dal [comma 14 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md).
 
 7.
 
@@ -229,7 +229,7 @@ I comuni che prevedono cofinanziamenti pubblici o privati sugli interventi proge
 Alla domanda e' allegata una dichiarazione che attesti l'inserimento delle iniziative proposte nel Programma triennale dei lavori pubblici dell'ente, nei casi previsti.
 
 Note all'art. 5: 
- - Si riportano i [commi 1](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) e [14 dell'art. 23 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ([Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)), pubblicato nella Gazzetta Ufficiale 19 aprile 2016, n. 91, S.O.: 
+ - Si riportano i [commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md) e [14 dell'art. 23 del decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md) ([Codice dei contratti pubblici](../Atti%20normativi%20abrogati%20%28in%20originale%29/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)), pubblicato nella Gazzetta Ufficiale 19 aprile 2016, n. 91, S.O.: 
  «1. La progettazione in materia di lavori pubblici si articola, secondo tre livelli di successivi approfondimenti tecnici, in progetto di fattibilita' tecnica ed economica, progetto definitivo e progetto esecutivo ed e' intesa ad assicurare: 
  a) il soddisfacimento dei fabbisogni della collettivita'; 
  b) la qualita' architettonica e tecnico funzionale e di relazione nel contesto dell'opera; 
@@ -309,9 +309,9 @@ Ciascuna progettazione ammessa al finanziamento e' avviata entro quattro mesi da
 
 Ciascuna progettazione e' svolta:
                         a)
-                            per i progetti infrastrutturali, fino al completamento dei tre livelli - progetto di fattibilita' tecnica ed economica, progetto definitivo e progetto esecutivo - previsti per la progettazione in materia di lavori pubblici dal [comma 1 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md);
+                            per i progetti infrastrutturali, fino al completamento dei tre livelli - progetto di fattibilita' tecnica ed economica, progetto definitivo e progetto esecutivo - previsti per la progettazione in materia di lavori pubblici dal [comma 1 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md);
                         b)
-                            per i servizi e per le forniture fino ai livelli previsti dal [comma 14 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
+                            per i servizi e per le forniture fino ai livelli previsti dal [comma 14 dell'articolo 23 del decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md).
 
 3.
 
@@ -322,7 +322,7 @@ In caso di mancato avvio della progettazione entro quattro mesi dall'effettiva e
 Le progettazioni svolte secondo quanto previsto dal comma 2, possono essere oggetto di domanda di finanziamento, ai sensi dell'articolo 5, commi 5 e 6.
 
 Note all'art. 9: 
- - Per i [commi 1](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) e [14 dell'art. 23 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), si veda nelle note all'art. 5.
+ - Per i [commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md) e [14 dell'art. 23 del decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md), si veda nelle note all'art. 5.
 
 ## Art. 10. — Tempi di avvio e conduzione dei progetti immediatamente eseguibili
 
