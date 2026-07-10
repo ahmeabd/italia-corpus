@@ -507,7 +507,7 @@ I termini di cui ai [commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 1.
 
-Al [codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), sono apportate le seguenti modificazioni:
+Al [codice dei contratti pubblici](../Atti%20normativi%20abrogati%20%28in%20originale%29/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 31 marzo 2023, n. 36](../Codici/Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 16, comma 1, le parole: "concreta ed effettiva" sono soppresse;
                         b)

@@ -99,7 +99,7 @@ All'[articolo 9, comma 2, del decreto-legge 30 dicembre 2016, n. 244](https://ww
 
 3.
 
-Le disposizioni di cui all'[articolo 39, comma 1, lettera b), del decreto legislativo 18 luglio 2005, n. 171](../Codici/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md), relative all'obbligatorieta' della patente nautica per la conduzione di unita' aventi motore di cilindrata superiore a 750 cc a iniezione a due tempi, si applicano a decorrere dal 1° gennaio 2019.
+Le disposizioni di cui all'[articolo 39, comma 1, lettera b), del decreto legislativo 18 luglio 2005, n. 171](../Atti%20di%20recepimento%20direttive%20UE/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md), relative all'obbligatorieta' della patente nautica per la conduzione di unita' aventi motore di cilindrata superiore a 750 cc a iniezione a due tempi, si applicano a decorrere dal 1° gennaio 2019.
 
 ((
 
