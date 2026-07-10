@@ -223,7 +223,7 @@ Le dichiarazioni previste dal presente decreto, compresa quella unificata, sono 
 
 2-bis.
 
-Nell'ambito dei gruppi in cui almeno una societa' o ente rientra tra i soggetti di cui al comma precedente, la presentazione in via telematica delle dichiarazioni di soggetti appartenenti al gruppo puo' essere effettuata da uno o piu' soggetti dello stesso gruppo avvalendosi del servizio telematico Entratel. Si considerano appartenenti al gruppo l'ente o la societa' controllante e le societa' da questi controllate come definite dall'[articolo 43-ter, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). (8)
+Nell'ambito dei gruppi in cui almeno una societa' o ente rientra tra i soggetti di cui al comma precedente, la presentazione in via telematica delle dichiarazioni di soggetti appartenenti al gruppo puo' essere effettuata da uno o piu' soggetti dello stesso gruppo avvalendosi del servizio telematico Entratel. Si considerano appartenenti al gruppo l'ente o la societa' controllante e le societa' da questi controllate come definite dall'[articolo 43-ter, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). (8)
 
 2-ter.
 

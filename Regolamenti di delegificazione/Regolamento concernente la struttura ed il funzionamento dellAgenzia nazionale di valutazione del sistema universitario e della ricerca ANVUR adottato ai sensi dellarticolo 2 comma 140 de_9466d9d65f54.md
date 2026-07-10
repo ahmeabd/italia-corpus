@@ -30,7 +30,7 @@ Visto l'[articolo 2 della legge 19 ottobre 1999, n. 370](https://www.normattiva.
 
 Visto l'[articolo 2, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;508#art_2-com7) e [8, della legge 21 dicembre 1999, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;508#art_2-com8);
 
-Visto il [decreto del Presidente della Repubblica 21 febbraio 2008, n. 64](../DPR/Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR.md);
+Visto il [decreto del Presidente della Repubblica 21 febbraio 2008, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR.md);
 
 Visto l'[articolo 2, comma 634, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md);
 
@@ -430,7 +430,7 @@ Capo III
 
 1.
 
-A decorrere dalla data di entrata in vigore del presente regolamento, e' abrogato il [decreto del Presidente della Repubblica 21 febbraio 2008, n. 64](../DPR/Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR.md).
+A decorrere dalla data di entrata in vigore del presente regolamento, e' abrogato il [decreto del Presidente della Repubblica 21 febbraio 2008, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR.md).
 
 2.
 

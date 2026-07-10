@@ -18,7 +18,7 @@ Visto l'[art. 3, comma 7, del decreto-legge 17 settembre 1994, n. 538](../DL%20d
 
 Visti i decreti del Ministro delle finanze 3 e 9 maggio 1991, pubblicati, rispettivamente, nella Gazzetta Ufficiale n. 103 del 4 maggio 1991 e n. 110 del 13 maggio 1991, che riguardano, tra l'altro, le modalita' di pagamento di alcune imposte sostitutive mediante versamento al concessionario o mediante delega alle aziende di credito;
 
-Visti gli [articoli 6](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [7 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), che stabiliscono le modalita' dei versamenti diretti di imposte e ritenute al concessionario;
+Visti gli [articoli 6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [7 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), che stabiliscono le modalita' dei versamenti diretti di imposte e ritenute al concessionario;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 22 settembre 1994;
 
@@ -36,7 +36,7 @@ Possono formare oggetto di definizione ai sensi dell'[art. 3 del decreto-legge 1
 
 2.
 
-Si intendono pendenti, ai fini della definizione, le liti fiscali per le quali non e' intervenuto, alla data del 18 settembre 1994, il deposito in segreteria del dispositivo della decisione ai sensi dell'[art. 20, quinto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
+Si intendono pendenti, ai fini della definizione, le liti fiscali per le quali non e' intervenuto, alla data del 18 settembre 1994, il deposito in segreteria del dispositivo della decisione ai sensi dell'[art. 20, quinto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
 
 AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -171,7 +171,7 @@ Il presidente della commissione tributaria, o il presidente della sezione alla q
 
 2.
 
-Effettuati i previsti controlli, gli uffici, nei termini previsti dall'art. 6, comunicano ai soggetti di cui al comma 1, i motivi di invalidita' delle domande dai quali consegue la mancata estinzione del giudizio; in tali casi e' revocata l'ordinanza di estinzione e si applicano le disposizioni degli [articoli 19 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
+Effettuati i previsti controlli, gli uffici, nei termini previsti dall'art. 6, comunicano ai soggetti di cui al comma 1, i motivi di invalidita' delle domande dai quali consegue la mancata estinzione del giudizio; in tali casi e' revocata l'ordinanza di estinzione e si applicano le disposizioni degli [articoli 19 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
 
 3.
 

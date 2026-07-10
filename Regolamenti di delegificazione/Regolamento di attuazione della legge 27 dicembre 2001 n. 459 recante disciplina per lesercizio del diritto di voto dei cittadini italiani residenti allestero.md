@@ -493,7 +493,7 @@ Nota all'art. 16:
  - Si riporta il testo dell'[art. 4, comma 1, della legge 27 ottobre 1988, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470#art_4-com1):
  «1. La cancellazione dalle anagrafi degli italiani residenti all'estero viene effettuata:
  a) per iscrizione nell'anagrafe della popolazione residente a seguito di trasferimento dall'estero;
- b) per immigrazione dall'estero in altro comune della Repubblica, segnalata a norma del [secondo comma dell'articolo 14 del decreto del Presidente della Repubblica 31 gennaio 1958, n. 136](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201954%20n.%201228%20sullordinamento%20delle%20anagrafi%20della%20popolazione%20residente.md);
+ b) per immigrazione dall'estero in altro comune della Repubblica, segnalata a norma del [secondo comma dell'articolo 14 del decreto del Presidente della Repubblica 31 gennaio 1958, n. 136](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20esecuzione%20della%20legge%2024%20dicembre%201954%20n.%201228%20sullordinamento%20delle%20anagrafi%20della%20popolazione%20residente.md);
  c) per morte, compresa la morte presunta giudizialmente dichiarata;
  d) per irreperibilita' presunta, salvo prova contraria:
  1. trascorsi cento anni dalla nascita;

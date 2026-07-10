@@ -28,7 +28,7 @@ Visto il [decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](../DP
 
 Visto il decreto del Presidente della Repubblica 7 aprile 1959, pubblicato nella Gazzetta Ufficiale n. 137 dell'11 giugno 1959, e successive modifiche e integrazioni, recante norme sullo svolgimento degli esami e la composizione delle rispettive commissioni esaminatrici per il conferimento dei titoli professionali e delle qualifiche di autorizzato della navigazione;
 
-Visto il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), con il quale e' stata data attuazione alla [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), relativa al riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e persone nel settore della navigazione interna;
+Visto il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), con il quale e' stata data attuazione alla [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), relativa al riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e persone nel settore della navigazione interna;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1998, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-23;400#art_17-com2);
 
@@ -159,7 +159,7 @@ Il "certificato" puo' essere dei seguenti tipi:
 
 5.
 
-I certificati di conduzione soggetti a riconoscimento reciproco ai sensi dell'allegato al [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), di attuazione della [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), restano validi senza obbligo di sostituzione se rilasciati entro il 6 aprile 1998.
+I certificati di conduzione soggetti a riconoscimento reciproco ai sensi dell'allegato al [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), di attuazione della [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), restano validi senza obbligo di sostituzione se rilasciati entro il 6 aprile 1998.
 
 Note all'[art. 2:
  - La direttiva 91/672/CEE del Consiglio, del 16 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672) riguarda il riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e di persone nel settore della navigazione interna ed e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee L 373 del 31 dicembre 1991. L'allegato 2 cosi' recita:
@@ -167,7 +167,7 @@ Note all'[art. 2:
  Regno del Belgio Schelda marittima.
  Repubblica federale di Germania zona 1 e zona 2 dell'allegato I della [direttiva 82/714/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1982;714).
  Regno dei Paesi Bassi Dollard, Eems, Waddenzee, Ijsselmeer, Schelda orientale e Schelda occidentale".
- - Il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), concerne:
+ - Il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), concerne:
  "Regolamento recante norme di attuazione della [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672) relativa al riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e persone nel settore della navigazione interna". L'allegato cosi' recita:
  "Certificati ritenuti validi:
  1) Regno del Belgio: Brevet de conduire A (arrete' royal n. ....... du ....................................);
