@@ -106,7 +106,7 @@ Il presente decreto detta disposizioni in materia di commercio, importazione, co
 
 2.
 
-Ai fini del presente decreto, si applicano le seguenti definizioni di cui all'[articolo 2, comma 1, del decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md):
+Ai fini del presente decreto, si applicano le seguenti definizioni di cui all'[articolo 2, comma 1, del decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md):
                         a)
                             specie: insieme di individui (o di popolazioni) attualmente o potenzialmente interfecondi, illimitatamente ed in natura, isolato riproduttivamente da altre specie;
                         b)
@@ -566,7 +566,7 @@ All'[articolo 727-bis del Codice penale](../Codici/Approvazione%20del%20testo%20
                             alla rubrica, dopo la parola «detenzione» sono inserite le seguenti: «e commercio»;
                         b)
                             dopo il secondo comma e' aggiunto il seguente: 
- «Salvo che il fatto costituisca piu' grave reato, chiunque, fuori dai casi consentiti, viola i divieti di commercializzazione di cui all'[articolo 8, comma 2, del decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), e' punito con l'arresto da due a otto mesi e con l'ammenda fino a 10.000 euro.».
+ «Salvo che il fatto costituisca piu' grave reato, chiunque, fuori dai casi consentiti, viola i divieti di commercializzazione di cui all'[articolo 8, comma 2, del decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), e' punito con l'arresto da due a otto mesi e con l'ammenda fino a 10.000 euro.».
 
 Note all'[art. 15](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md): 
  - L'[art. 727-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) cosi' recita: 

@@ -1122,7 +1122,7 @@ I medici di Polizia, fermo restando quanto disposto dall'[articolo 6, lettera z)
                             n)
                                 svolgono, presso gli istituti di istruzione, gli enti e reparti della Polizia di Stato, attivita' didattica nel settore di competenza;
                             o)
-                                fanno parte delle commissioni mediche locali di cui all'[articolo 330 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), come modificato dal [decreto del Presidente della Repubblica 16 aprile 2013, n. 68](../DPR/Regolamento%20recante%20modifiche%20allarticolo%20330%20del%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20in%20materia%20di%20commissioni%20mediche%20locali.%2013G00111.md);
+                                fanno parte delle commissioni mediche locali di cui all'[articolo 330 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), come modificato dal [decreto del Presidente della Repubblica 16 aprile 2013, n. 68](../DPR/Regolamento%20recante%20modifiche%20allarticolo%20330%20del%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20in%20materia%20di%20commissioni%20mediche%20locali.%2013G00111.md);
                             p)
                                 svolgono accertamenti e attivita' peritale e medico-legale per conto dell'Amministrazione;
                             q)

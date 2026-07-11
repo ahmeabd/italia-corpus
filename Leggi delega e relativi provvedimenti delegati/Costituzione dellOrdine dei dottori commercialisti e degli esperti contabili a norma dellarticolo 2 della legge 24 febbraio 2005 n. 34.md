@@ -1170,7 +1170,7 @@ CAPO VI
 
 1.
 
-A fare data dal 1° gennaio 2008, gli Ordini dei dottori commercialisti, gia' istituiti in un circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed i collegi dei ragionieri e periti commerciali, gia' istituiti nel medesimo circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. Nello stesso circondario di tribunale e' istituito, a decorrere dalla medesima data, l'Ordine territoriale dei dottori commercialisti e degli esperti contabili.
+A fare data dal 1° gennaio 2008, gli Ordini dei dottori commercialisti, gia' istituiti in un circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../DPR/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed i collegi dei ragionieri e periti commerciali, gia' istituiti nel medesimo circondario di tribunale a norma dell'[articolo 6 del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../DPR/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. Nello stesso circondario di tribunale e' istituito, a decorrere dalla medesima data, l'Ordine territoriale dei dottori commercialisti e degli esperti contabili.
 
 2.
 
@@ -1181,7 +1181,7 @@ Qualora in un circondario di tribunale sia costituito solo l'Ordine dei dottori 
 
 1.
 
-A fare data dal l° gennaio 2008, il Consiglio nazionale dei dottori commercialisti, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed il Consiglio nazionale dei ragionieri e periti commerciali, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. A decorrere dalla medesima data, e' istituito l'ente pubblico non economico denominato Consiglio nazionale dei dottori commercialisti e degli esperti contabili.
+A fare data dal l° gennaio 2008, il Consiglio nazionale dei dottori commercialisti, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067](../DPR/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), ed il Consiglio nazionale dei ragionieri e periti commerciali, gia' istituito a norma del [decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068](../DPR/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md), sono soppressi. A decorrere dalla medesima data, e' istituito l'ente pubblico non economico denominato Consiglio nazionale dei dottori commercialisti e degli esperti contabili.
 
 ### Art. 60. — Successione nei rapporti giuridici
  e nella titolarita' delle pubbliche funzioni
@@ -1619,7 +1619,7 @@ CAPO VII
 
 1.
 
-Sono abrogati i [decreti del Presidente della Repubblica 27 ottobre 1953, n. 1067](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), e [27 ottobre 1953, n. 1068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md).
+Sono abrogati i [decreti del Presidente della Repubblica 27 ottobre 1953, n. 1067](../DPR/Ordinamento%20della%20professione%20di%20dottore%20commercialista.md), e [27 ottobre 1953, n. 1068](../DPR/Ordinamento%20della%20professione%20di%20ragioniere%20e%20perito%20commerciale.md).
 
 ### Art. 77. — Notificazioni e comunicazioni
 

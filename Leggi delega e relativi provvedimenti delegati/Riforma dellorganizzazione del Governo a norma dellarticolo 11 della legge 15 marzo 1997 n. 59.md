@@ -1132,7 +1132,7 @@ Il ministero si articola in dipartimenti, disciplinati ai sensi degli articoli 4
 
 2.
 
-Il Ministero si articola in un numero non superiore a 16 direzioni generali e in uffici di funzioni dirigenziali di livello generale, alla cui individuazione e organizzazione si provvede ai sensi dell'articolo 4, nei limiti di posti di funzione individuati dalla pianta organica di cui al [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md). La dotazione organica dei dirigenti di seconda fascia di cui alla tabella A allegata al citato [decreto del Presidente della Repubblica n. 177 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001;177) e' ridotta di due unita'.
+Il Ministero si articola in un numero non superiore a 16 direzioni generali e in uffici di funzioni dirigenziali di livello generale, alla cui individuazione e organizzazione si provvede ai sensi dell'articolo 4, nei limiti di posti di funzione individuati dalla pianta organica di cui al [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md). La dotazione organica dei dirigenti di seconda fascia di cui alla tabella A allegata al citato [decreto del Presidente della Repubblica n. 177 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001;177) e' ridotta di due unita'.
 
 2-bis.
 
@@ -1449,7 +1449,7 @@ A seguito del verificarsi di eventi calamitosi di cui all'[articolo 2, comma 1, 
 
 AGGIORNAMENTO (31)
 
-Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262), convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), ha disposto (con l'art. 2, comma 95) che "Fino all'adozione del nuovo regolamento di organizzazione restano comunque in vigore le disposizioni del regolamento di cui al [decreto del Presidente della Repubblica 10 giugno 2004, n. 173](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), in quanto compatibili con l'articolazione del Ministero".
+Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262), convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), ha disposto (con l'art. 2, comma 95) che "Fino all'adozione del nuovo regolamento di organizzazione restano comunque in vigore le disposizioni del regolamento di cui al [decreto del Presidente della Repubblica 10 giugno 2004, n. 173](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali.md), in quanto compatibili con l'articolazione del Ministero".
 
 --------------
 

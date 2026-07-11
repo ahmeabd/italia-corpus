@@ -32,7 +32,7 @@ Le ((corti di giustizia tributaria di primo e secondo grado))
 
 1.
 
-Gli organi di giurisdizione in materia tributaria previsti dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), sono riordinati in ((corti di giustizia tributaria di primo grado)), aventi sede nel capoluogo di ogni provincia, ed in ((corti di giustizia tributaria di secondo grado)), aventi sede nel capoluogo di ogni regione. Fino al 31 dicembre 1996, sezioni delle commissioni provinciali e regionali possono essere ubicate, ove occorra, presso le sedi delle attuali commissioni di primo e di secondo grado. Entro il 31 dicembre 1993, con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro e con il Ministro di grazia e giustizia, in relazione alle esigenze di reperimento dei locali, sono individuate dette sezioni le quali costituiscono mera articolazione interna delle ((corti di giustizia tributaria di primo e secondo grado)) non rilevante ai fini della competenza e della validita' degli atti processuali. Con decreto del presidente della commissione provinciale o regionale sono determinati i criteri e le modalita' di funzionamento delle sezioni. ((27))
+Gli organi di giurisdizione in materia tributaria previsti dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), sono riordinati in ((corti di giustizia tributaria di primo grado)), aventi sede nel capoluogo di ogni provincia, ed in ((corti di giustizia tributaria di secondo grado)), aventi sede nel capoluogo di ogni regione. Fino al 31 dicembre 1996, sezioni delle commissioni provinciali e regionali possono essere ubicate, ove occorra, presso le sedi delle attuali commissioni di primo e di secondo grado. Entro il 31 dicembre 1993, con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro e con il Ministro di grazia e giustizia, in relazione alle esigenze di reperimento dei locali, sono individuate dette sezioni le quali costituiscono mera articolazione interna delle ((corti di giustizia tributaria di primo e secondo grado)) non rilevante ai fini della competenza e della validita' degli atti processuali. Con decreto del presidente della commissione provinciale o regionale sono determinati i criteri e le modalita' di funzionamento delle sezioni. ((27))
 
 1-bis.
 
@@ -1202,7 +1202,7 @@ Le commissioni tributarie provinciali e regionali sono insediate in unica data e
 
 2.
 
-Dalla stessa data sono soppresse le ((corti di giustizia tributaria di primo e secondo grado)) di primo e di secondo grado previste dal [decreto del Presidente della Repubblica 26 ottobre 1972, numero 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
+Dalla stessa data sono soppresse le ((corti di giustizia tributaria di primo e secondo grado)) di primo e di secondo grado previste dal [decreto del Presidente della Repubblica 26 ottobre 1972, numero 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md).
 
 3.
 
@@ -1236,7 +1236,7 @@ La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 1.
 
-I componenti delle ((corti di giustizia tributaria di primo e secondo grado)) di primo e di secondo grado e della ((corte di giustizia tributaria di primo e secondo grado)) centrale, previste dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), in possesso dei requisiti di cui agli articoli 3, 4 e 5, in relazione a ciascun incarico da conferire, sono nominati a domanda componenti delle commissioni tributarie provinciali e regionali con precedenza rispetto agli altri aspiranti e fino alla concorrenza dei posti disponibili, anche se hanno superato il limite di eta' di cui all'art. 7, comma 1, lettera d). ((27))
+I componenti delle ((corti di giustizia tributaria di primo e secondo grado)) di primo e di secondo grado e della ((corte di giustizia tributaria di primo e secondo grado)) centrale, previste dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), in possesso dei requisiti di cui agli articoli 3, 4 e 5, in relazione a ciascun incarico da conferire, sono nominati a domanda componenti delle commissioni tributarie provinciali e regionali con precedenza rispetto agli altri aspiranti e fino alla concorrenza dei posti disponibili, anche se hanno superato il limite di eta' di cui all'art. 7, comma 1, lettera d). ((27))
 
 2.
 
@@ -1276,7 +1276,7 @@ COMMA ABROGATO DAL [D.L. 26 SETTEMBRE 1995, N. 403](https://www.normattiva.it/ur
 
 10.
 
-Prima della costituzione del consiglio di presidenza della giustizia tributaria, le nomine dei giudici tributari sono effettuate secondo le disposizioni contenute nel [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), con l'osservanza dei requisiti previsti dagli articoli 3, 4 e 5 del presente decreto legislativo; in tali ipotesi si applica il disposto del primo periodo del comma 4.
+Prima della costituzione del consiglio di presidenza della giustizia tributaria, le nomine dei giudici tributari sono effettuate secondo le disposizioni contenute nel [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), con l'osservanza dei requisiti previsti dagli articoli 3, 4 e 5 del presente decreto legislativo; in tali ipotesi si applica il disposto del primo periodo del comma 4.
 
 ---------------
 
@@ -1346,11 +1346,11 @@ Personale addetto alle segreterie delle ((corti di giustizia tributaria di primo
 
 1.
 
-Il personale in servizio alla data del 1 ottobre 1993 presso le segreterie delle ((corti di giustizia tributaria di primo e secondo grado)) di primo e di secondo grado previste dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), e' assegnato dalla stessa data al contingente di cui all'art. 32 e destinato alle commissioni provinciali e regionali nella cui circoscrizione e' la residenza di ognuno nei limiti dei posti disponibili. ((27))
+Il personale in servizio alla data del 1 ottobre 1993 presso le segreterie delle ((corti di giustizia tributaria di primo e secondo grado)) di primo e di secondo grado previste dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), e' assegnato dalla stessa data al contingente di cui all'art. 32 e destinato alle commissioni provinciali e regionali nella cui circoscrizione e' la residenza di ognuno nei limiti dei posti disponibili. ((27))
 
 2.
 
-Il personale in servizio alla data del 31 dicembre 1995 presso la segreteria della ((corte di giustizia tributaria di primo e secondo grado)) centrale prevista dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), e' assegnato dal 1 gennaio 1996 al contingente di cui all'art. 32 e destinato alle commissioni provinciali o regionali aventi sede in Roma. ((27))
+Il personale in servizio alla data del 31 dicembre 1995 presso la segreteria della ((corte di giustizia tributaria di primo e secondo grado)) centrale prevista dal [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), e' assegnato dal 1 gennaio 1996 al contingente di cui all'art. 32 e destinato alle commissioni provinciali o regionali aventi sede in Roma. ((27))
 
 3.
 
@@ -1400,7 +1400,7 @@ Nota all'[art. 48:
  Con la lettera raccomandata di cui al comma precedente, i candidati sono, altresi', invitati a consegnare al capo dell'ufficio di destinazione, all'atto dell'assunzione in servizio, la documentazione relativa al possesso dei requisiti per la nomina prescritta nel bando di concorso e, ove occorra, dei titoli preferenziali e di precedenza, dichiarati nella domanda di ammissione.
  Eventuali irregolarita' sanabili della documentazione di cui al terzo comma, accertate dal competente ufficio del Ministero delle finanze, al quale la documentazione stessa e' trasmessa dal funzionario che ha immesso in servizio il vincitore del concorso, possono essere regolarizzate, a cura dell'interessato, entro trenta giorni dalla data di ricezione dell'apposito invito.
  La mancata assunzione di servizio entro il termine di cui al secondo comma o la mancata o incompleta consegna della documentazione di cui al terzo comma o la omessa regolarizzazione della documentazione stessa nel termine prescritto, implicano la decadenza dal diritto alla nomina in prova.
- Si applicano le disposizioni di cui ai [commi secondo](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md), [terzo](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) e [quinto dell'art. 8 del decreto del Presidente della Repubblica 16 settembre 1972, n. 593](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md).
+ Si applicano le disposizioni di cui ai [commi secondo](../DPR/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md), [terzo](../DPR/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md) e [quinto dell'art. 8 del decreto del Presidente della Repubblica 16 settembre 1972, n. 593](../DPR/Attuazione%20dellart.%2011%20numeri%204%20e%204-bis%20della%20legge%209%20ottobre%201971%20n.%20825%20relativamente%20ai%20ruoli%20del%20personale%20dei%20servizi%20meccanografici%20del%20Ministero%20delle%20finanze.md).
  Nei casi in cui, dopo l'assunzione di cui al secondo comma, non possa aver corso la definitiva nomina in ruolo, l'assunzione medesima cessa di avere ogni efficacia.
  Gli impiegati di cui al presente articolo sono nominati in prova, con decorrenza dalla data di assunzione in servizio, al termine delle operazioni di accertamento del possesso dei requisiti prescritti per la nomina.
  Al pagamento dello stipendio degli impiegati assunti in servizio con la procedura di cui al precedente articolo si provvede con apertura di partite provvisorie di spesa fissa.
@@ -1412,11 +1412,11 @@ Nota all'[art. 48:
 
 1.
 
-A decorrere dalla data di insediamento delle commissioni tributarie provinciali e regionali sono abrogati gli [articoli da 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md) [a 14 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), salvo quanto disposto dal comma 2. ((27))
+A decorrere dalla data di insediamento delle commissioni tributarie provinciali e regionali sono abrogati gli [articoli da 2](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md) [a 14 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), salvo quanto disposto dal comma 2. ((27))
 
 2.
 
-Gli articoli 4, 5, 6, 7, 8, 9, 10, 11, 12, quarto comma, 13, 13- bis e 14 del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), continuano ad applicarsi relativamente alla ((corte di giustizia tributaria di primo e secondo grado)) centrale fino alla cessazione del suo funzionamento.
+Gli articoli 4, 5, 6, 7, 8, 9, 10, 11, 12, quarto comma, 13, 13- bis e 14 del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), continuano ad applicarsi relativamente alla ((corte di giustizia tributaria di primo e secondo grado)) centrale fino alla cessazione del suo funzionamento.
 
 ---------------
 

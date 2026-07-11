@@ -48,7 +48,7 @@ Fino alla adozione del decreto di cui al comma 1 si utilizzano i modelli dei dat
 
 3.
 
-Sono soppresse le liste di collocamento ordinarie e speciali, ad eccezione di quelle previste dall'[articolo 1 del decreto del Presidente della Repubblica 24 settembre 1963, n. 2053](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20del%20servizio%20di%20collocamento%20per%20i%20lavoratori%20dello%20spettacolo.md), dall'[articolo 6 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_6), dall'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8).
+Sono soppresse le liste di collocamento ordinarie e speciali, ad eccezione di quelle previste dall'[articolo 1 del decreto del Presidente della Repubblica 24 settembre 1963, n. 2053](../DPR/Riordinamento%20del%20servizio%20di%20collocamento%20per%20i%20lavoratori%20dello%20spettacolo.md), dall'[articolo 6 della legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223#art_6), dall'[articolo 8 della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_8).
 
 4.
 

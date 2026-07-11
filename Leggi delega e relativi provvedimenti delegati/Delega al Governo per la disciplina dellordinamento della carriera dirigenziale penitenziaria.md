@@ -79,7 +79,7 @@ In attuazione del comma 1 del presente articolo, dopo il [comma 1-bis dell'artic
 
 Nota all'art. 2:
  - Si riporta il testo del [comma 1-bis dell'art. 3 del decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche.):
- «1-bis. In deroga all'art. 2, commi 2 e 3, il rapporto di impiego del personale, anche di livello dirigenziale, del Corpo nazionale dei vigili del fuoco, esclusi il personale volontario previsto dal regolamento di cui al [decreto del Presidente della Repubblica 2 novembre 2000, n. 362](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20sul%20reclutamento%20avanzamento%20ed%20impiego%20del%20personale%20volontario%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), e il personale volontario di leva, e' disciplinato in regime di diritto pubblico secondo autonome disposizioni.».
+ «1-bis. In deroga all'art. 2, commi 2 e 3, il rapporto di impiego del personale, anche di livello dirigenziale, del Corpo nazionale dei vigili del fuoco, esclusi il personale volontario previsto dal regolamento di cui al [decreto del Presidente della Repubblica 2 novembre 2000, n. 362](../DPR/Regolamento%20recante%20norme%20sul%20reclutamento%20avanzamento%20ed%20impiego%20del%20personale%20volontario%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md), e il personale volontario di leva, e' disciplinato in regime di diritto pubblico secondo autonome disposizioni.».
 
 ## Art. 3. — Esecuzione penale esterna
 

@@ -369,7 +369,7 @@ Con effetto dalla data di entrata in vigore del regolamento previsto dall'artico
                             m)
                                 l'[articolo 1, comma 4, lettera b), del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md);
                             n)
-                                l'[articolo 3 del decreto del Presidente della Repubblica 18 aprile 1994, n. 573](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20di%20aggiudicazione%20di%20pubbliche%20forniture%20di%20valore%20inferiore%20alla%20soglia%20di%20rilievo%20comunitario.md).
+                                l'[articolo 3 del decreto del Presidente della Repubblica 18 aprile 1994, n. 573](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20di%20aggiudicazione%20di%20pubbliche%20forniture%20di%20valore%20inferiore%20alla%20soglia%20di%20rilievo%20comunitario.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
