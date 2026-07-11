@@ -165,7 +165,7 @@ Alle attivita' in materia di spettacolo si applica la disciplina prevista dall'a
 
 1.
 
-All'[articolo 180 del decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'[articolo 180 del decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, le parole: "30 giugno 2005" sono sostituite dalle seguenti: "31 dicembre 2005";
                         b)
