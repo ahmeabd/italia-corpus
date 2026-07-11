@@ -58,7 +58,7 @@ Il [primo comma dell'articolo 142 del codice di procedura civile](https://www.no
 ## Art. 9.
 
 All'[articolo 142 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_142) e' aggiunto, in fine, il seguente comma:
- "Le disposizioni di cui ai commi precedenti si applicano soltanto nei casi in cui risulta impossibile eseguire la notificazione in uno dei modi consentiti dalle Convenzioni internazionali e dagli [articoli 30](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) e [75 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md)".
+ "Le disposizioni di cui ai commi precedenti si applicano soltanto nei casi in cui risulta impossibile eseguire la notificazione in uno dei modi consentiti dalle Convenzioni internazionali e dagli [articoli 30](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) e [75 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md)".
 
 ## Art. 10.
 
