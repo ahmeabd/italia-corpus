@@ -157,10 +157,10 @@ Il procedimento di conciliazione puo' svolgersi anche secondo modalita' telemati
 
 9.
 
-I dati raccolti sono trattati nel rispetto delle disposizioni del [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni.
+I dati raccolti sono trattati nel rispetto delle disposizioni del [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni.
 
 Note all'[art. 3: 
- - Il decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ([Codice in materia di protezione dei dati personali](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)) e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O. n. 123/L.
+ - Il decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ([Codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)) e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O. n. 123/L.
 
 ## Art. 4. — Designazione del conciliatore e del consulente tecnico
 
@@ -361,14 +361,14 @@ Note all'[art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.ci
 
 1.
 
-Chiunque presti la propria opera o il proprio servizio nell'Organismo, ivi compresi i componenti dell'ufficio di segreteria, o comunque nell'ambito del procedimento di conciliazione, e' tenuto all'obbligo di riservatezza rispetto alle dichiarazioni rese e alle informazioni acquisite durante il procedimento stesso, ai sensi delle disposizioni del [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni.
+Chiunque presti la propria opera o il proprio servizio nell'Organismo, ivi compresi i componenti dell'ufficio di segreteria, o comunque nell'ambito del procedimento di conciliazione, e' tenuto all'obbligo di riservatezza rispetto alle dichiarazioni rese e alle informazioni acquisite durante il procedimento stesso, ai sensi delle disposizioni del [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni.
 
 2.
 
 Rispetto alle dichiarazioni rese e alle informazioni acquisite nel corso delle sessioni separate di cui all'articolo 6, comma 2, e salvo consenso della parte dichiarante o dalla quale provengono le informazioni, il conciliatore e', altresi', tenuto alla riservatezza nei confronti delle altre parti.
 
 Note all'[art. 7: 
- - Il decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ([Codice in materia di protezione dei dati personali](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)) e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O. n. 123/L.
+ - Il decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) ([Codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)) e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O. n. 123/L.
 
 ## Art. 8. — Spese di conciliazione
 
