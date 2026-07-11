@@ -24,7 +24,7 @@ Vista la [legge 11 aprile 1938, n. 331](../Atti%20normativi%20abrogati%20%28in%2
 
 Vista la [Legge 5 maggio 1939, n. 661](../Atti%20normativi%20abrogati%20%28in%20originale%29/Dichiarazione%20di%20festa%20nazionale%20del%20giorno%209%20maggio%20anniversario%20della%20fondazione%20dellImpero%20considerato%20festivo%20a%20tutti%20gli%20effetti%20civili.%20039U0661.md);
 
-Visto il [R. decreto-legge 24 luglio 1941, n. 781](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md), convertito nella [legge 17 ottobre 1941, n. 1165](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md);
+Visto il [R. decreto-legge 24 luglio 1941, n. 781](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md), convertito nella [legge 17 ottobre 1941, n. 1165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md);
 
 Visto l'[art. 10 del decreto legislativo Luogotenenziale 25 gennaio 1945, n. 13](Provvidenze%20economiche%20di%20carattere%20straordinario%20ai%20lavoratori.%20045U0013.md);
 
@@ -42,7 +42,7 @@ A celebrazione della totale liberazione del territorio italiano, il 25 aprile 19
 
 ## Art. 2.
 
-L'efficacia del [R. decreto-legge 24 luglio 1941, n. 781](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md), convertito nella [legge 17 ottobre 1941, n. 1165](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md), e' prorogata di sei mesi.
+L'efficacia del [R. decreto-legge 24 luglio 1941, n. 781](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20delle%20solennita%20previsti%20dalle%20vigenti%20disposizioni.%20041U0781.md), convertito nella [legge 17 ottobre 1941, n. 1165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20luglio%201941-XIX%20n.%20781%20concernente%20la%20sospensione%20per%20la%20durata%20della%20guerra%20della%20celebrazione%20delle%20feste%20nazionali%20dei%20giorni%20festivi%20e%20del_9b41a95080fc.md), e' prorogata di sei mesi.
 
 ## Art. 3.
 
