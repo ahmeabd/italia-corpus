@@ -98,7 +98,7 @@ Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
                             v)
                                 "sanzione amministrativa pecuniaria" e' la sanzione pecuniaria, anche derivante da conversione della sanzione interdittiva, dovuta dalle persone giuridiche, dalle societa' e dalle associazioni anche prive di personalita' giuridica, ai sensi del [decreto legislativo 8 giugno 2001, n. 231](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20della%20responsabilita%20amministrativa%20delle%20persone%20giuridiche%20delle%20societa%20e%20delle%20associazioni%20anche%20prive%20di%20personalita%20giuridica%20a%20norma%20dellarticolo%2011%20della%20legge%2029%20sett_48a6c2b5fc9a.md);
                             z)
-                                "concessionario" e' il soggetto incaricato ai sensi dell'[articolo 4, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md).
+                                "concessionario" e' il soggetto incaricato ai sensi dell'[articolo 4, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md).
 
 ## Disposizioni generali relative al processo penale
 
@@ -1049,7 +1049,7 @@ Titolo IV
 
 1.
 
-In applicazione dell'[articolo 48, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), per la procedura esecutiva relativa a tutte le entrate iscritte a ruolo, il concessionario annota come prenotati a debito il contributo unificato, le spese per le notificazioni a richiesta d'ufficio e i diritti di copia.
+In applicazione dell'[articolo 48, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), per la procedura esecutiva relativa a tutte le entrate iscritte a ruolo, il concessionario annota come prenotati a debito il contributo unificato, le spese per le notificazioni a richiesta d'ufficio e i diritti di copia.
 
 2.
 
@@ -1201,7 +1201,7 @@ ART. 176(R)
 
 1.
 
-Il pagamento e' effettuato in via ordinaria mediante accreditamento sul conto corrente bancario o postale, ovvero mediante altri mezzi di pagamento disponibili sui circuiti bancario e postale, a scelta del creditore; il creditore puo' chiedere il pagamento in contanti sino all'importo indicato dall'[articolo 13, del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../DPR/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), come eventualmente modificato con decreto del Ministro dell'economia e delle finanze ai sensi dello stesso articolo.
+Il pagamento e' effettuato in via ordinaria mediante accreditamento sul conto corrente bancario o postale, ovvero mediante altri mezzi di pagamento disponibili sui circuiti bancario e postale, a scelta del creditore; il creditore puo' chiedere il pagamento in contanti sino all'importo indicato dall'[articolo 13, del decreto del Presidente della Repubblica 20 aprile 1994, n. 367](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20accelerazione%20delle%20procedure%20di%20spesa%20e%20contabili.md), come eventualmente modificato con decreto del Ministro dell'economia e delle finanze ai sensi dello stesso articolo.
 
 2.
 
@@ -1415,7 +1415,7 @@ Le somme indebitamente pagate non ascrivibili a responsabilita' del concessionar
 
 2.
 
-Le somme indebitamente pagate ascrivibili a responsabilita' del concessionario o dell'ufficio postale sono escluse dagli ordinativi di pagamento emessi dal funzionario delegato, previa rettifica dei modelli riepilogativi e, qualora gia' comprese negli ordinativi di pagamento, sono stornate unitamente ai relativi compensi, maggiorate dalle sanzioni previste dall'[articolo 14, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), negli ordinativi di pagamento successivi.
+Le somme indebitamente pagate ascrivibili a responsabilita' del concessionario o dell'ufficio postale sono escluse dagli ordinativi di pagamento emessi dal funzionario delegato, previa rettifica dei modelli riepilogativi e, qualora gia' comprese negli ordinativi di pagamento, sono stornate unitamente ai relativi compensi, maggiorate dalle sanzioni previste dall'[articolo 14, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), negli ordinativi di pagamento successivi.
 
 ## Compensi ai soggetti che eseguono il pagamento
 
@@ -1678,7 +1678,7 @@ Titolo II
 
 1.
 
-In applicazione dell'[articolo 3, comma 1, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), il funzionario addetto all'ufficio quantifica l'importo dovuto per spese sulla base degli atti, dei registri, delle norme che individuano la somma da recuperare, e prende atto degli importi stabiliti nei provvedimenti giurisdizionali per le pene pecuniarie, per le sanzioni amministrative pecuniarie e per le sanzioni pecuniarie processuali, specificando le varie voci dell'importo complessivo.
+In applicazione dell'[articolo 3, comma 1, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), il funzionario addetto all'ufficio quantifica l'importo dovuto per spese sulla base degli atti, dei registri, delle norme che individuano la somma da recuperare, e prende atto degli importi stabiliti nei provvedimenti giurisdizionali per le pene pecuniarie, per le sanzioni amministrative pecuniarie e per le sanzioni pecuniarie processuali, specificando le varie voci dell'importo complessivo.
 
 2.
 
@@ -1839,7 +1839,7 @@ Titolo III
 
 1.
 
-Per l'importo previsto dall'[articolo 12-bis, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), l'ufficio non effettua l'iscrizione a ruolo in caso di inadempimento di crediti relativi a sanzioni pecuniarie processuali.
+Per l'importo previsto dall'[articolo 12-bis, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), l'ufficio non effettua l'iscrizione a ruolo in caso di inadempimento di crediti relativi a sanzioni pecuniarie processuali.
 
 ## Discarico e reiscrizione a ruolo
 
@@ -1883,7 +1883,7 @@ Capo IV
 
 1.
 
-Ai sensi dell'[articolo 48, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), le spese delle procedure esecutive relative a tutte le entrate iscritte a ruolo sono riscosse dal concessionario nel processo in corso per la riscossione coattiva del credito principale.
+Ai sensi dell'[articolo 48, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), le spese delle procedure esecutive relative a tutte le entrate iscritte a ruolo sono riscosse dal concessionario nel processo in corso per la riscossione coattiva del credito principale.
 
 ## Disposizioni particolari per pene pecuniarie
 
@@ -2071,7 +2071,7 @@ Restano invariate le disposizioni sull'imposta di bollo relative al processo con
 
 1.
 
-Nel processo contabile di responsabilita' e di conto le spese relative agli atti disposti dal magistrato sono anticipate dall'erario e sono riscosse, unitamente al credito principale, con le modalita' di cui al [decreto del Presidente della Repubblica 24 giugno 1998, n. 260](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20di%20esecuzione%20delle%20decisioni%20di%20condanna%20e%20risarcimento%20di%20danno%20erariale%20a%20norma%20dellarticolo%2020%20comma%208%20della%20legge%2015_5bba630e0534.md).
+Nel processo contabile di responsabilita' e di conto le spese relative agli atti disposti dal magistrato sono anticipate dall'erario e sono riscosse, unitamente al credito principale, con le modalita' di cui al [decreto del Presidente della Repubblica 24 giugno 1998, n. 260](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20per%20la%20semplificazione%20dei%20procedimenti%20di%20esecuzione%20delle%20decisioni%20di%20condanna%20e%20risarcimento%20di%20danno%20erariale%20a%20norma%20dellarticolo%2020%20comma%208%20della%20legge%2015_5bba630e0534.md).
 
 ### Art. 256.
 
@@ -2381,7 +2381,7 @@ Titolo V
 
 1.
 
-Sino all'emanazione del regolamento previsto dall'articolo 228, per l'importo previsto dall'[articolo 12-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), l'ufficio non effettua l'iscrizione a ruolo in caso di inadempimento di crediti relativi a spese processuali e di mantenimento.
+Sino all'emanazione del regolamento previsto dall'articolo 228, per l'importo previsto dall'[articolo 12-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), l'ufficio non effettua l'iscrizione a ruolo in caso di inadempimento di crediti relativi a spese processuali e di mantenimento.
 
 ### Art. 288.
 
@@ -2473,18 +2473,18 @@ Dalla data di entrata in vigore del presente testo unico sono abrogate le seguen
 - l'[articolo 131, del regio decreto 14 dicembre 1865, n. 2641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-14;2641#art_131);
 - il decreto del Ministro di grazia e giustizia 28 giugno 1866 (istruzioni per l'esecuzione della tariffa in materia civile), non pubblicato in G.U.;
 - il decreto del Ministro di grazia e giustizia 28 giugno 1866 (istruzioni per l'eseguimento della tariffa in materia penale), non pubblicato in G.U.;
-- il [regio decreto 15 novembre 1868, n. 4708](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%2026%20agosto%201868%20n.%204548%20per%20la%20riscossione%20delle%20pene%20pecuniarie%20delle%20spese%20di%20giustizia%20nei%20giudizi%20contravvenzionali%20ed%20altri%20cred_87643e7583b7.md);
-- il [regio decreto 10 dicembre 1882, n. 1103](../Regi%20decreti/Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md);
+- il [regio decreto 15 novembre 1868, n. 4708](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%2026%20agosto%201868%20n.%204548%20per%20la%20riscossione%20delle%20pene%20pecuniarie%20delle%20spese%20di%20giustizia%20nei%20giudizi%20contravvenzionali%20ed%20altri%20cred_87643e7583b7.md);
+- il [regio decreto 10 dicembre 1882, n. 1103](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20regolamento%20concernente%20la%20contabilita%20delle%20cancellerie%20giudiziarie%20ed%20altre%20parti%20del%20servizio.%20082U1103.md);
 - il [regio decreto 9 febbraio 1896, n. 25;
-- l'articolo 38](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), del [regio decreto 23 dicembre 1897, n. 549;
-- gli articoli da 454](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulle%20tasse%20di%20registro.%20097U0549.md) [a 463](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulle%20tasse%20di%20registro.%20097U0549.md), del [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
-- il [regio decreto 22 ottobre 1936, n. 1981](../Regi%20decreti/Norme%20regolamentari%20per%20lapplicazione%20del%20R.%20decreto-legge%2016%20aprile%201936-XIV%20n.%20771%20sul%20diritto%20durgenza%20per%20il%20rilascio%20dei%20certificati%20del%20casellario%20giudiziale.%20036U1981.md)
+- l'articolo 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20lattuazione%20della%20Legge%208%20agosto%201895%20n.%20556%20sui%20proventi%20delle%20Cancellerie%20e%20spese%20e%20tasse%20giudiziarie.%20096U0025.md), del [regio decreto 23 dicembre 1897, n. 549;
+- gli articoli da 454](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulle%20tasse%20di%20registro.%20097U0549.md) [a 463](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20sulle%20tasse%20di%20registro.%20097U0549.md), del [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
+- il [regio decreto 22 ottobre 1936, n. 1981](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20regolamentari%20per%20lapplicazione%20del%20R.%20decreto-legge%2016%20aprile%201936-XIV%20n.%20771%20sul%20diritto%20durgenza%20per%20il%20rilascio%20dei%20certificati%20del%20casellario%20giudiziale.%20036U1981.md)
 - il decreto ministeriale 19 febbraio 1940, non pubblicato in G.U.;
 - il decreto del Ministro di grazia e giustizia 19 febbraio 1942, non pubblicato in G.U.;
-- del decreto del Ministro per le finanze 19 maggio 1943, non pubblicato in G.U.: gli [articoli da 104](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tabelle%20contenenti%20la%20misura%20degli%20onorari%20fissi%20e%20di%20quelli%20variabili%20dei%20periti%20e%20dei%20consulenti%20tecnici%20per%20le%20operazioni%20eseguite%20su%20disposizione%20dellautorita%20giudi_c48e6c0ca8c0.md) [a 110;
-- il decreto del Presidente della Repubblica 14 novembre 1983, n. 820](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tabelle%20contenenti%20la%20misura%20degli%20onorari%20fissi%20e%20di%20quelli%20variabili%20dei%20periti%20e%20dei%20consulenti%20tecnici%20per%20le%20operazioni%20eseguite%20su%20disposizione%20dellautorita%20giudi_c48e6c0ca8c0.md);
+- del decreto del Ministro per le finanze 19 maggio 1943, non pubblicato in G.U.: gli [articoli da 104](../DPR/Approvazione%20delle%20tabelle%20contenenti%20la%20misura%20degli%20onorari%20fissi%20e%20di%20quelli%20variabili%20dei%20periti%20e%20dei%20consulenti%20tecnici%20per%20le%20operazioni%20eseguite%20su%20disposizione%20dellautorita%20giudi_c48e6c0ca8c0.md) [a 110;
+- il decreto del Presidente della Repubblica 14 novembre 1983, n. 820](../DPR/Approvazione%20delle%20tabelle%20contenenti%20la%20misura%20degli%20onorari%20fissi%20e%20di%20quelli%20variabili%20dei%20periti%20e%20dei%20consulenti%20tecnici%20per%20le%20operazioni%20eseguite%20su%20disposizione%20dellautorita%20giudi_c48e6c0ca8c0.md);
 - il [decreto del Presidente della Repubblica 30 marzo 1984, n.103;
-- gli articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md), [2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md) e [3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md), del [decreto del Presidente della Repubblica 27 luglio 1988, n. 352](../DPR/Adeguamento%20dei%20compensi%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20disposizione%20dellautorita%20giudiziaria%20in%20materia%20civile%20e%20penale.md);
+- gli articoli 1](../DPR/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md), [2](../DPR/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md) e [3](../DPR/Adeguamento%20degli%20onorari%20commisurati%20al%20tempo%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20richiesta%20dellautorita%20giudiziaria%20in%20materia%20p_aca7466a55f5.md), del [decreto del Presidente della Repubblica 27 luglio 1988, n. 352](../DPR/Adeguamento%20dei%20compensi%20spettanti%20ai%20periti%20consulenti%20tecnici%20interpreti%20e%20traduttori%20per%20le%20operazioni%20eseguite%20su%20disposizione%20dellautorita%20giudiziaria%20in%20materia%20civile%20e%20penale.md);
 - il [decreto del Presidente della Repubblica 5 dicembre 1988, n. 564;
 - gli articoli 11, comma 2](../DPR/Regolamento%20sul%20trattamento%20economico%20spettante%20ai%20componenti%20privati%20dei%20tribunali%20di%20sorveglianza.md); 12; 22 e 30 del [decreto del Ministro di grazia e giustizia 30 settembre 1989, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.grazia.giustizia:decreto:1989-09-30;334);
 - il decreto del Ministro delle finanze, di concerto con il [Ministro di grazia e giustizia 11 ottobre 1989, n. 347;
@@ -2492,11 +2492,11 @@ Dalla data di entrata in vigore del presente testo unico sono abrogate le seguen
 - il decreto del Ministro di grazia e giustizia 14 febbraio 1990, non pubblicato in G.U.;
 - il decreto del Ministro di grazia e giustizia, di concerto con il Ministro del tesoro e il [Ministro delle finanze 3 novembre 1990, n. 327;
 - il decreto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1990-11-03;327) del [Presidente della Repubblica 17 ottobre 1996, n. 601;
-- del decreto](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20variazione%20della%20misura%20dellindennita%20di%20trasferta%20spettante%20agli%20ufficiali%20giudiziari%20ed%20agli%20aiutanti%20ufficiali%20giudiziari.md) del [Ministro della Giustizia 27 marzo 2000, n. 264: l'articolo 6, comma 1](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20la%20tenuta%20dei%20registri%20presso%20gli%20uffici%20giudiziari.md), limitatamente alle parole: "((dall'articolo 160 del regio decreto 23 dicembre 1865, n. 2701, dagli articoli 22, 47-51 e 52 delle disposizioni per l'attuazione del codice civile, approvate con regio decreto 18 dicembre 1941, n. 1368, dagli articoli 3 e 4 della legge 28 novembre 1965, n. 1329, dall'articolo 50 del regio decreto 16 marzo 1942, n. 267;))";
+- del decreto](../DPR/Regolamento%20concernente%20variazione%20della%20misura%20dellindennita%20di%20trasferta%20spettante%20agli%20ufficiali%20giudiziari%20ed%20agli%20aiutanti%20ufficiali%20giudiziari.md) del [Ministro della Giustizia 27 marzo 2000, n. 264: l'articolo 6, comma 1](../Regolamenti%20ministeriali/Regolamento%20recante%20norme%20per%20la%20tenuta%20dei%20registri%20presso%20gli%20uffici%20giudiziari.md), limitatamente alle parole: "((dall'articolo 160 del regio decreto 23 dicembre 1865, n. 2701, dagli articoli 22, 47-51 e 52 delle disposizioni per l'attuazione del codice civile, approvate con regio decreto 18 dicembre 1941, n. 1368, dagli articoli 3 e 4 della legge 28 novembre 1965, n. 1329, dall'articolo 50 del regio decreto 16 marzo 1942, n. 267;))";
  l'articolo 13, limitatamente alle parole: al comma 1: "n. 29) registro per l'annotazione delle spese anticipate dall'erario nelle procedure fallimentari"; "n. 39) registro per le istanze di ammissione al gratuito patrocinio"; "n. 40) registro dei verbali di adunanza della commissione per il gratuito patrocinio"; "n. 41) registro delle spese di giustizia anticipate dall'erario"; "n. 42) registro delle spese concernenti le cause in cui siano parti persone o enti ammessi alla prenotazione a debito"; "n. 48) registro dei ruoli"; al comma 2: numeri "40" e "41"; al comma 3:
  numeri "41", "42" e "48"; al comma 4: numeri "39", "40", "41", "42" e "48"; al comma 5: "n. 5) registro delle spese inerenti alle cause riflettenti persone o enti giuridici ammessi alla prenotazione a debito"; al comma 6: "n. 9) registro delle spese di giustizia anticipate dall'erario"; "n. 10) registro delle spese concernenti le cause in cui siano parti persone o enti ammessi alla prenotazione a debito"; "n. 12) registro dei ruoli";
-- il [decreto del Presidente della Repubblica 1 marzo 2001, n. 126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari%20a%20norma%20dellarticolo%209%20comma%206%20della%20legge%2023%20dicembre%201999%20n.%20488.md), come modificato dal [decreto del Presidente della Repubblica 11 dicembre 2001, n. 466;
-- l'articolo 18](../DPR/Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%201%20marzo%202001%20n.%20126%20in%20materia%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari.md), del [decreto del Ministro della giustizia 6 aprile 2001, n. 204](../Regolamenti%20ministeriali/Regolamento%20di%20esecuzione%20del%20decreto%20legislativo%2028%20agosto%202000%20n.%20274%20recante%20disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace.md).
+- il [decreto del Presidente della Repubblica 1 marzo 2001, n. 126](../DPR/Regolamento%20recante%20disciplina%20delle%20modalita%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari%20a%20norma%20dellarticolo%209%20comma%206%20della%20legge%2023%20dicembre%201999%20n.%20488.md), come modificato dal [decreto del Presidente della Repubblica 11 dicembre 2001, n. 466;
+- l'articolo 18](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%201%20marzo%202001%20n.%20126%20in%20materia%20di%20versamento%20del%20contributo%20unificato%20per%20le%20spese%20degli%20atti%20giudiziari.md), del [decreto del Ministro della giustizia 6 aprile 2001, n. 204](../Regolamenti%20ministeriali/Regolamento%20di%20esecuzione%20del%20decreto%20legislativo%2028%20agosto%202000%20n.%20274%20recante%20disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace.md).
 
 ### Art. 302.
 

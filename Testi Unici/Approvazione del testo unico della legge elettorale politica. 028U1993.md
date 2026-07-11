@@ -102,7 +102,7 @@ Sono inscritti d'ufficio nelle liste elettorali, quando abbiano compiuto o compi
 
 Non piu' tardi del 1° novembre un estratto dell'elenco di cui all'articolo precedente, comprendente i nati nella circoscrizione dei vari tribunali, e' trasmesso al rispettivo cancelliere capo. Per gli stranieri che abbiano ottenuto la cittadinanza italiana e per i cittadini italiani nati all'estero, l'estratto dell'elenco e' trasmesso al cancelliere capo del Tribunale di Roma. 
  
- L'ufficiale addetto al casellario giudiziario unisce per ciascun individuo compreso nell'estratto il certificato delle inscrizioni esistenti al nome della persona designata, a norma dell'[art. 624 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_624) e dell'art. 48 delle disposizioni regolamentari pel casellario giudiziario, approvate con [Regio decreto 5 ottobre 1913, n. 1178](../Regi%20decreti/Contenente%20le%20disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20013U1178.md). 
+ L'ufficiale addetto al casellario giudiziario unisce per ciascun individuo compreso nell'estratto il certificato delle inscrizioni esistenti al nome della persona designata, a norma dell'[art. 624 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_624) e dell'art. 48 delle disposizioni regolamentari pel casellario giudiziario, approvate con [Regio decreto 5 ottobre 1913, n. 1178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20le%20disposizioni%20regolamentari%20per%20il%20servizio%20del%20casellario%20giudiziale.%20013U1178.md). 
  
  Gli estratti sono restituiti al comune non piu' tardi del 15 dicembre. 
  
@@ -118,7 +118,7 @@ Entro il 15 dicembre le associazioni sindacali legalmente riconosciute sono tenu
  
  Le associazioni sindacali legalmente riconosciute sono tenute parimenti a fornire agl'interessati, che ne facciano richiesta, un certificato da cui risulti l'obbligo al pagamento del contributo sindacale di cui sopra. 
  
- In caso di inadempienza da parte delle associazioni sindacali, sono adottati i Provvedimenti previsti dal 1° capoverso dell'[articolo 30 del R. decreto 1° luglio 1926, n. 1130](../Regi%20decreti/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
+ In caso di inadempienza da parte delle associazioni sindacali, sono adottati i Provvedimenti previsti dal 1° capoverso dell'[articolo 30 del R. decreto 1° luglio 1926, n. 1130](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20della%20legge%203%20aprile%201926%20n.%20563%20sulla%20disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U1130.md).
 
 ### Art. 14. — (T. U. 1926, art. 10).
 
@@ -538,7 +538,7 @@ Possono altresi' proporre candidati gli enti morali legalmente riconosciuti e le
 
 AGGIORNAMENTO (2)
 
-La [L.	28 dicembre 1931, n. 1685](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20la%20prima%20revisione%20dellelenco%20degli%20Enti%20ed%20Associazioni%20che%20hanno%20facolta%20di%20proporre%20candidati%20per%20le%20elezioni%20politiche.%20031U1685.md), ha disposto (con l'articolo unico, comma 1) che "Agli effetti della prima revisione del [R. decreto 17 gennaio 1929, n. 13](../Regi%20decreti/Riconoscimento%20agli%20enti%20ed%20associazioni%20di%20cui%20allart.%2051%20della%20legge%20elettorale%20politica%20della%20facolta%20di%20proporre%20candidati.%20029U0013.md), relativo al riconoscimento della facolta' di proporre candidati da parte degli Enti morali e delle Associazioni, di cui all'art. 51 della legge elettorale politica, e' prorogato di un anno il termine stabilito nel secondo comma dell'articolo stesso".
+La [L.	28 dicembre 1931, n. 1685](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20per%20la%20prima%20revisione%20dellelenco%20degli%20Enti%20ed%20Associazioni%20che%20hanno%20facolta%20di%20proporre%20candidati%20per%20le%20elezioni%20politiche.%20031U1685.md), ha disposto (con l'articolo unico, comma 1) che "Agli effetti della prima revisione del [R. decreto 17 gennaio 1929, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riconoscimento%20agli%20enti%20ed%20associazioni%20di%20cui%20allart.%2051%20della%20legge%20elettorale%20politica%20della%20facolta%20di%20proporre%20candidati.%20029U0013.md), relativo al riconoscimento della facolta' di proporre candidati da parte degli Enti morali e delle Associazioni, di cui all'art. 51 della legge elettorale politica, e' prorogato di un anno il termine stabilito nel secondo comma dell'articolo stesso".
 
 --------------
 
@@ -625,7 +625,7 @@ In ciascuna sezione e' costituito un ufficio elettorale composto di un president
  
  Delle designazioni, di cui sopra, e' data notizia ai magistrati ed ai cancellieri e segretari degli uffici giudiziari per mezzo dei rispettivi capi gerarchici, ed agli altri designati mediante notificazione da eseguirsi dagli ufficiali giudiziari di pretura o dagli uscieri dell'ufficio di conciliazione. 
  
- Al presidente dell'ufficio elettorale deve essere corrisposta dal comune, in cui l'ufficio stesso ha sede, l'indennita' di viaggio e di soggiorno spettante agli impiegati dello Stato dei gradi 5° e 6° di cui al [Regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
+ Al presidente dell'ufficio elettorale deve essere corrisposta dal comune, in cui l'ufficio stesso ha sede, l'indennita' di viaggio e di soggiorno spettante agli impiegati dello Stato dei gradi 5° e 6° di cui al [Regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md).
 
 ### Art. 60. — (T. U. 1926, art. 49).
 
@@ -659,7 +659,7 @@ Il segretario del seggio e' scelto, in antecedenza all'insediamento dell'ufficio
  
  La enumerazione delle prime quattro categorie non implica ordine di precedenza fra di loro per la designazione. 
  
- Il segretario dev'essere rimunerato dal comune, in cui ha sede l'ufficio elettorale, con l'onorario di lire quaranta, se vi abita, e, in caso diverso, ha diritto alle indennita' di viaggio e di soggiorno spettanti agli impiegati dello Stato del grado 9° di cui al [R. decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
+ Il segretario dev'essere rimunerato dal comune, in cui ha sede l'ufficio elettorale, con l'onorario di lire quaranta, se vi abita, e, in caso diverso, ha diritto alle indennita' di viaggio e di soggiorno spettanti agli impiegati dello Stato del grado 9° di cui al [R. decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md). 
  
  Il processo verbale e' redatto dal segretario in due esemplari e in esso deve essere tenuto conto di tutte le operazioni prescritte dalla presente legge. Il processo verbale riveste per ogni effetto di legge la qualita' di atto pubblico.
 
@@ -924,7 +924,7 @@ E' riservato alla Camera dei deputati di pronunciare il giudizio definitivo sull
  
  Le Commissioni e i Comitati d'inchiesta della Camera hanno diritto di far citare i testimoni, concedendo loro, se occorra, la indennita' commisurata sulla tariffa penale. 
  
- Ai testimoni sono applicabili le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsita' in giudizio e sul rifiuto di deporre in materia civile, salvo le maggiori pene secondo il codice stesso cadendo la falsita' od il rifiuto su materia punibile. 
+ Ai testimoni sono applicabili le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sulla falsita' in giudizio e sul rifiuto di deporre in materia civile, salvo le maggiori pene secondo il codice stesso cadendo la falsita' od il rifiuto su materia punibile. 
  
  Nessuna decisione puo' essere dalla Camera adottata sull'elezione, prima che siano trascorsi venti giorni dalla proclamazione.
 
@@ -1125,7 +1125,7 @@ Oltre quanto e' stabilito negli articoli 108, 109 e 118, incorrono nella perdita
  
  6° i condannati all'interdizione temporanea dai pubblici uffici per tutto il tempo della sua durata; 
  
- 7° i condannati per delitti contro la liberta' individuale previsti dagli [articoli 145](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [146](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [147 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per peculato, concussione e corruzione, calunnia, falsita' in giudizio, associazione a delinquere prevista dall'[articolo 248 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevaricazione, falsita' in monete e in carte di pubblico credito, falsita' in sigilli, bolli pubblici e loro impronte, falsita' in atti, frodi negli incanti, per i delitti contro l'incolumita' pubblica, esclusi i colposi e quelli previsti dall'[articolo 310 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), violenza carnale, corruzione di minorenni, oltraggio pubblico al pudore, lenocinio, omicidio, lesione personale seguita da morte, e quella prevista dai [numeri 1](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2 dell'art. 372 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), esclusi pero' il primo e l'ultimo comma dell'articolo stesso, furto, eccetto quando la condanna sia dovuta al reato previsto dall'[articolo 405 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o ad abuso di usi civici, rapina, estorsione e ricatto, truffa, altre frodi, appropriazione indebita e danneggiamento previsto dall'[articolo 424 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sia per l'uno che per l'altro delitto, nei casi nei quali si procede d'ufficio, ricettazione e bancarotta fraudolenta; 
+ 7° i condannati per delitti contro la liberta' individuale previsti dagli [articoli 145](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [146](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [147 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), per peculato, concussione e corruzione, calunnia, falsita' in giudizio, associazione a delinquere prevista dall'[articolo 248 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), prevaricazione, falsita' in monete e in carte di pubblico credito, falsita' in sigilli, bolli pubblici e loro impronte, falsita' in atti, frodi negli incanti, per i delitti contro l'incolumita' pubblica, esclusi i colposi e quelli previsti dall'[articolo 310 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), violenza carnale, corruzione di minorenni, oltraggio pubblico al pudore, lenocinio, omicidio, lesione personale seguita da morte, e quella prevista dai [numeri 1](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [2 dell'art. 372 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), esclusi pero' il primo e l'ultimo comma dell'articolo stesso, furto, eccetto quando la condanna sia dovuta al reato previsto dall'[articolo 405 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o ad abuso di usi civici, rapina, estorsione e ricatto, truffa, altre frodi, appropriazione indebita e danneggiamento previsto dall'[articolo 424 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sia per l'uno che per l'altro delitto, nei casi nei quali si procede d'ufficio, ricettazione e bancarotta fraudolenta; 
  
  8° i condannati per delitti che, secondo le cessate legislazioni penali, corrispondono ai delitti contemplati nel numero precedente;  
  9° coloro che, a norma di quanto dispone l'[articolo 11 della legge 19 giugno 1913, n. 632](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recante%20provvedimenti%20per%20combattere%20lalcoolismo.%20013U0632.md), furono per due volte condannati per essere stati colti in istato di ubbriachezza molesta e ripugnante ovvero per delitto commesso in istato di ubbriachezza. Tale incapacita' avra' la durata di cinque anni dal giorno in cui fu scontata o altrimenti estinta l'ultima condanna definitiva. In caso di recidiva entro il termine suddetto decorrera' un nuovo quinquennio dalla estinzione della seconda condanna; 
@@ -1143,7 +1143,7 @@ Tale incapacita' cessa cinque anni dopo compiuto il termine dell'ammonizione, de
 
 Chiunque, essendovi legalmente obbligato, non compie, nei tempi e nei modi prescritti, le operazioni relative alla formazione, revisione o pubblicazione degli elenchi o delle liste elettorali o non fa eseguire le relative notificazioni o forma in tutto o in parte liste o elenchi falsi o altera o sopprime in qualsiasi modo le liste o elenchi medesimi o i relativi documenti ovvero esegue indebitamente la iscrizione o cancellazione dovute, o ottiene indebitamente per se' o per altri la iscrizione negli elenchi o nelle liste o la cancellazione di uno o piu' elettori, e' punito con l'ammenda da lire cinquanta a lire duemila. 
  
- Se il fatto o l'omissione siano dolosi, la pena e' della detenzione sino ad un anno o della multa da lire 100 sino a lire 3000, oltre la interdizione del diritto di elettore e di eleggibile da due a sei anni, salvo sempre le maggiori pene comminate dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati di falso.
+ Se il fatto o l'omissione siano dolosi, la pena e' della detenzione sino ad un anno o della multa da lire 100 sino a lire 3000, oltre la interdizione del diritto di elettore e di eleggibile da due a sei anni, salvo sempre le maggiori pene comminate dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per i reati di falso.
 
 ### Art. 109. — (T. U. 1926, art. 109).
 
@@ -1217,7 +1217,7 @@ Qualunque elettore puo' promuovere l'azione penale, costituendosi parte civile, 
  
  L'azione penale si prescrive nel termine di due anni dalla data della deliberazione definitiva della Camera sulla elezione o dall'ultimo atto del processo, ma l'effetto interruttivo non puo' prolungare la durata dell'azione penale per un tempo che superi la meta' del detto termine di due anni. 
  
- Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge non sono applicabili le disposizioni degli [articoli 8](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md) e [158 del Regio decreto 4 febbraio 1915, n. 148](../Regi%20decreti/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), testo unico della legge comunale e provinciale.
+ Ai pubblici ufficiali imputati di taluno dei reati contemplati nella presente legge non sono applicabili le disposizioni degli [articoli 8](../Atti%20normativi%20abrogati%20%28in%20originale%29/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md) e [158 del Regio decreto 4 febbraio 1915, n. 148](../Atti%20normativi%20abrogati%20%28in%20originale%29/E%20approvato%20lannesso%20nuovo%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20015U0148.md), testo unico della legge comunale e provinciale.
 
 ### Art. 118. — (T. U. 1926, art. 118).
 
@@ -1227,9 +1227,9 @@ Nei reati elettorali, ove la presente legge non abbia specificatamente contempla
  
  Ove la detta condanna colpisca il candidato, la privazione del diritto elettorale e di eleggibilita' sara' pronunziata per un tempo non minore di cinque ne' maggiore di dieci anni. 
  
- Ai reati elettorali si applicano le disposizioni del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
+ Ai reati elettorali si applicano le disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) intorno al tentativo, alla complicita', alla recidiva, al concorso di piu' reati ed alle circostanze attenuanti. 
  
- Resta sempre salva l'applicazione delle maggiori pene stabilite nel [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge. 
+ Resta sempre salva l'applicazione delle maggiori pene stabilite nel [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) per reati piu' gravi non puniti dalla presente legge. 
  
  Ai reati elettorali non sono applicabili le disposizioni degli [articoli 423 e seguenti del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_423) relative alla sospensione dell'esecuzione della condanna.
 
@@ -1274,7 +1274,7 @@ All'uopo il podesta' ne fa loro invito, nell'avviso di cui all'articolo 14.
 
 AGGIORNAMENTO (3)
 
-Il [Regio Decreto 20 ottobre 1932, n. 1370](../Regi%20decreti/Revisione%20straordinaria%20delle%20liste%20elettorali%20politiche%20prevista%20dallart.%20122%20del%20testo%20unico%202%20settembre%201928%20n.%201993.%20032U1370.md), ha disposto (con l'art. 1, comma 1) che "In coincidenza e nei termini della revisione annuale ordinaria delle liste elettorali politiche pel 1933 sara' anche effettuata la revisione generale straordinaria delle liste elettorali permanenti".
+Il [Regio Decreto 20 ottobre 1932, n. 1370](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20straordinaria%20delle%20liste%20elettorali%20politiche%20prevista%20dallart.%20122%20del%20testo%20unico%202%20settembre%201928%20n.%201993.%20032U1370.md), ha disposto (con l'art. 1, comma 1) che "In coincidenza e nei termini della revisione annuale ordinaria delle liste elettorali politiche pel 1933 sara' anche effettuata la revisione generale straordinaria delle liste elettorali permanenti".
 
 ## Disposizioni finali e transitorie.
 
@@ -1304,11 +1304,11 @@ Oltre quanto e' stabilito nell'art. 107, incorrono nella perdita della qualita' 
  
  3° coloro che, per titolo di poverta', sono abitualmente a carico della carita' o beneficenza pubblica; 
  
- 4° le persone condannate a una pena per crimine o per la contravvenzione di furto, d'infedelta', di partecipazione a tali reati, di truffa, di ruffianesimo ([paragrafi 460, 461](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [463](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [464](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [512 codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco), per i reati previsti dai paragrafi 2, 3, 4, 5, 6 della legge 12 ottobre 1914 (B. L. I., n. 275) e dal paragrafo 1 della legge 25 maggio 1883 (B. L. I., n. 78) o per le contravvenzioni previste dai paragrafi 1, 2, 3, 4, 5, penultimo alinea, della legge 24 maggio 1885 (B. L. I., n. 89). 
+ 4° le persone condannate a una pena per crimine o per la contravvenzione di furto, d'infedelta', di partecipazione a tali reati, di truffa, di ruffianesimo ([paragrafi 460, 461](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [463](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) [464](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [512 codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco), per i reati previsti dai paragrafi 2, 3, 4, 5, 6 della legge 12 ottobre 1914 (B. L. I., n. 275) e dal paragrafo 1 della legge 25 maggio 1883 (B. L. I., n. 78) o per le contravvenzioni previste dai paragrafi 1, 2, 3, 4, 5, penultimo alinea, della legge 24 maggio 1885 (B. L. I., n. 89). 
  
  Tale effetto della condanna non ha luogo in caso: 
  
- a) di condanna per i reati preveduti dai paragrafi 58, lettere a), b), c), 60, 61, 63, 64, 65, 66 [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco, dall'art. 1 della legge 17 dicembre 1862 (B. L. I., n. 8 ex 1863) e dai corrispondenti articoli del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare austriaco; 
+ a) di condanna per i reati preveduti dai paragrafi 58, lettere a), b), c), 60, 61, 63, 64, 65, 66 [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) austriaco, dall'art. 1 della legge 17 dicembre 1862 (B. L. I., n. 8 ex 1863) e dai corrispondenti articoli del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) militare austriaco; 
  
  b) di condanne inflitte per un delitto di natura specificamente militare, in base a legge del cessato regime; 
  

@@ -202,7 +202,7 @@ Le campagne informative nazionali sono realizzate attraverso i mezzi di comunica
 
 14.
 
-COMMA ABROGATO DAL [D.LGS. 12 APRILE 1996, N. 258](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2092-109-CEE%20relativa%20alla%20fabbricazione%20e%20allimmissione%20in%20commercio%20di%20talune%20sostanze%20impiegate%20nella%20fabbricazione%20illecita%20di%20stupefacenti%20o%20di%20sostanze%20psi_2b6435427b81.md).
+COMMA ABROGATO DAL [D.LGS. 12 APRILE 1996, N. 258](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2092-109-CEE%20relativa%20alla%20fabbricazione%20e%20allimmissione%20in%20commercio%20di%20talune%20sostanze%20impiegate%20nella%20fabbricazione%20illecita%20di%20stupefacenti%20o%20di%20sostanze%20psi_2b6435427b81.md).
 
 15.
 
@@ -2290,7 +2290,7 @@ La pena e' aumentata se ricorre la circostanza di cui alla lettera e) del comma 
 
 6.
 
-Se l'associazione e' costituita per commettere i fatti descritti dal comma 5 dell'articolo 73, si applicano il primo e il [secondo comma dell'articolo 416 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Se l'associazione e' costituita per commettere i fatti descritti dal comma 5 dell'articolo 73, si applicano il primo e il [secondo comma dell'articolo 416 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 7.
 
@@ -2403,7 +2403,7 @@ Il [D.Lgs. 1 settembre 2011, n. 150](../Decreti%20Legislativi/Disposizioni%20com
 
 1.
 
-Qualora in relazione alle modalita' od alle circostanze dell'uso, dalla condotta di cui al comma 1 dell'articolo 75 possa derivare pericolo per la sicurezza pubblica, l'interessato che risulti gia' condannato, anche non definitivamente, per reati contro la persona, contro il patrimonio o per quelli previsti dalle disposizioni del presente [testo unico o dalle norme sulla circolazione](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, oppure sanzionato per violazione delle norme del presente testo unico o destinatario di misura di prevenzione o di sicurezza, puo' essere inoltre sottoposto ((...)) ad una o piu' delle seguenti misure:
+Qualora in relazione alle modalita' od alle circostanze dell'uso, dalla condotta di cui al comma 1 dell'articolo 75 possa derivare pericolo per la sicurezza pubblica, l'interessato che risulti gia' condannato, anche non definitivamente, per reati contro la persona, contro il patrimonio o per quelli previsti dalle disposizioni del presente [testo unico o dalle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, oppure sanzionato per violazione delle norme del presente testo unico o destinatario di misura di prevenzione o di sicurezza, puo' essere inoltre sottoposto ((...)) ad una o piu' delle seguenti misure:
                             a)
                                 obbligo di presentarsi almeno due volte a settimana presso il locale ufficio della Polizia di Stato o presso il comando dell'Arma dei carabinieri territorialmente competente;
                             b)
@@ -2510,7 +2510,7 @@ Le pene previste per i delitti di cui all'articolo 73 sono aumentate da un terzo
                             a)
                                 nei casi in cui le sostanze stupefacenti e psicotrope sono consegnate o comunque destinate a persona di eta' minore;
                             b)
-                                nei casi previsti dai [numeri 2)](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3)](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4) del primo comma dell'art. 112 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                                nei casi previsti dai [numeri 2)](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [3)](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [4) del primo comma dell'art. 112 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                             c)
                                 per chi ha indotto a commettere il reato, o a cooperare nella commissione del reato, persona dedita all'uso di sostanze stupefacenti o psicotrope;
                             d)
@@ -2532,7 +2532,7 @@ Lo stesso aumento di pena si applica se il colpevole per commettere il delitto o
 
 4.
 
-Si applica la disposizione del [secondo comma dell'art. 112 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Si applica la disposizione del [secondo comma dell'art. 112 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 5.
 
@@ -2543,10 +2543,10 @@ Prestazioni di soccorso in caso di pericolo di morte o lesioni dell'assuntore
 
 1.
 
-Quando l'uso di sostanze stupefacenti o psicotrope abbia cagionato la morte o lesioni personali dell'assuntore e taluno, per aver determinato o comunque agevolato l'uso di sostanze, debba risponderne ai sensi degli articoli 586, 589 o 590 del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le pene stabilite da tali articoli, nonche' quelle stabilite per i reati previsti dal presente testo unico, eventualmente commessi nella predetta attivita' di determinazione o agevolazione, sono ridotte dalla meta' a due terzi se il colpevole ha prestato assistenza alla persona offesa ed ha tempestivamente informato l'autorita' sanitaria o di polizia.
+Quando l'uso di sostanze stupefacenti o psicotrope abbia cagionato la morte o lesioni personali dell'assuntore e taluno, per aver determinato o comunque agevolato l'uso di sostanze, debba risponderne ai sensi degli articoli 586, 589 o 590 del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), le pene stabilite da tali articoli, nonche' quelle stabilite per i reati previsti dal presente testo unico, eventualmente commessi nella predetta attivita' di determinazione o agevolazione, sono ridotte dalla meta' a due terzi se il colpevole ha prestato assistenza alla persona offesa ed ha tempestivamente informato l'autorita' sanitaria o di polizia.
 
 Nota all'art. 81:
- - Il testo degli [articoli 586](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [589](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo degli [articoli 586](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [589](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [590 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 586 (Morte o lesioni come conseguenza di altro delitto). Quando da un fatto preveduto come delitto doloso deriva, quale conseguenza non voluta dal colpevole, la morte o la lesione di una persona, si applicano le disposizioni dell'art. 83, ma le pene stabilite negli articoli 589 e 590 sono aumentate".
  "Art. 589 (come sostituito dall'[art. 1 della legge 11 maggio 1966, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-05-11;296#art_1)) (Omicidio colposo). - Chiunque cagiona, per colpa, la morte di una persona e' punito con la reclusione da sei mesi a cinque anni.
  Se il fatto e' commesso con violazione delle norme sulla disciplina della circolazione stradale o di quelle per la prevenzione dagli infortuni sul lavoro la pena e' della reclusione da uno a cinque anni.
@@ -2617,14 +2617,14 @@ Con la sentenza di condanna per uno dei fatti di cui agli articoli 73, 74, 79 e 
 
 2.
 
-Le stesse disposizioni si applicano nel caso di riconoscimento, effettuato a norma dell'[art. 12 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), di sentenza penale straniera di condanna per uno dei delitti sopra indicati.
+Le stesse disposizioni si applicano nel caso di riconoscimento, effettuato a norma dell'[art. 12 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), di sentenza penale straniera di condanna per uno dei delitti sopra indicati.
 
 3.
 
 Il provvedimento che applica le sanzioni amministrative, nonche' quello che definisce o sospende il procedimento ai sensi del presente testo unico, dispone comunque la confisca delle sostanze.
 
 Nota all'art. 85:
- - Il testo dell'[art. 12 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
+ - Il testo dell'[art. 12 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e' il seguente:
  "Art. 12 (Riconoscimento delle sentenze penali straniere). - Alla sentenza penale straniera pronunciata per un delitto puo' essere dato riconoscimento:
  1) per stabilire la recidiva o un altro effetto penale della condanna, ovvero per dichiarare l'abitualita' o la professionalita' nel reato o la tendenza a delinquere;
  2) quando la condanna importerebbe, secondo la legge italiana, una pena accessoria;
@@ -2636,7 +2636,7 @@ Nota all'art. 85:
 
 1.
 
-Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per taluno dei delitti previsti dall'articolo 73, ((...)) si applica l'[articolo 240-bis del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+Nei casi di condanna o di applicazione della pena su richiesta a norma dell'[articolo 444 del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_444), per taluno dei delitti previsti dall'articolo 73, ((...)) si applica l'[articolo 240-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
 
 ### Art. 86. — (Legge 26 giugno 1990, n. 162, art. 23, comma 1) 
  Espulsione dello straniero condannato
@@ -2703,15 +2703,15 @@ Il Servizio centrale antidroga, istituito nell'ambito del Dipartimento di pubbli
 
 1.
 
-Qualora ricorrano i presupposti per la custodia cautelare in carcere il giudice, ove non sussistano esigenze cautelari di eccezionale rilevanza, dispone gli arresti domiciliari quando imputata e' una persona tossicodipendente o alcooldipendente che abbia in corso un programma terapeutico di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti, ovvero nell'ambito di una struttura privata autorizzata ai sensi dell'articolo 116, e l'interruzione del programma puo' pregiudicare il recupero dell'imputato. Quando si procede per i delitti di cui agli [articoli 628, terzo comma](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [629, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e comunque nel caso sussistano particolari esigenze cautelari, il provvedimento e' subordinato alla prosecuzione del programma terapeutico in una struttura residenziale. Con lo stesso provvedimento, o con altro successivo, il giudice stabilisce i controlli necessari per accertare che il tossicodipendente o l'alcooldipendente prosegua il programma di recupero ed indica gli orari ed i giorni nei quali lo stesso puo' assentarsi per l'attuazione del programma.
+Qualora ricorrano i presupposti per la custodia cautelare in carcere il giudice, ove non sussistano esigenze cautelari di eccezionale rilevanza, dispone gli arresti domiciliari quando imputata e' una persona tossicodipendente o alcooldipendente che abbia in corso un programma terapeutico di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti, ovvero nell'ambito di una struttura privata autorizzata ai sensi dell'articolo 116, e l'interruzione del programma puo' pregiudicare il recupero dell'imputato. Quando si procede per i delitti di cui agli [articoli 628, terzo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [629, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e comunque nel caso sussistano particolari esigenze cautelari, il provvedimento e' subordinato alla prosecuzione del programma terapeutico in una struttura residenziale. Con lo stesso provvedimento, o con altro successivo, il giudice stabilisce i controlli necessari per accertare che il tossicodipendente o l'alcooldipendente prosegua il programma di recupero ed indica gli orari ed i giorni nei quali lo stesso puo' assentarsi per l'attuazione del programma.
 
-2. Se una persona tossicodipendente o alcooldipendente, che e' in custodia cautelare in carcere, intende sottoporsi ad un programma di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti, ovvero una struttura privata autorizzata ai sensi dell'articolo 116, la misura cautelare e' sostituita con quella degli arresti domiciliari ove non ricorrano esigenze cautelari di eccezionale rilevanza. La sostituzione e' concessa su istanza dell'interessato; all'istanza e' allegata certificazione, rilasciata da un servizio pubblico per le tossicodipendenze o da una struttura privata accreditata per l'attivita' di diagnosi prevista dal comma 2, lettera d), dell'articolo 116, attestante lo stato di tossicodipendenza o di alcooldipendenza, la procedura con la quale e' stato accertato l'uso abituale di sostanze stupefacenti, psicotrope o alcoliche, nonche' la dichiarazione di disponibilita' all'accoglimento rilasciata dalla struttura. Il servizio pubblico e' comunque tenuto ad accogliere la richiesta dell'interessato di sottoporsi a programma terapeutico. L'autorita' giudiziaria, quando si procede per i delitti di cui agli [articoli 628, terzo comma](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [629, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e comunque nel caso sussistano particolari esigenze cautelari, subordina l'accoglimento dell'istanza all'individuazione di una struttura residenziale))
+2. Se una persona tossicodipendente o alcooldipendente, che e' in custodia cautelare in carcere, intende sottoporsi ad un programma di recupero presso i servizi pubblici per l'assistenza ai tossicodipendenti, ovvero una struttura privata autorizzata ai sensi dell'articolo 116, la misura cautelare e' sostituita con quella degli arresti domiciliari ove non ricorrano esigenze cautelari di eccezionale rilevanza. La sostituzione e' concessa su istanza dell'interessato; all'istanza e' allegata certificazione, rilasciata da un servizio pubblico per le tossicodipendenze o da una struttura privata accreditata per l'attivita' di diagnosi prevista dal comma 2, lettera d), dell'articolo 116, attestante lo stato di tossicodipendenza o di alcooldipendenza, la procedura con la quale e' stato accertato l'uso abituale di sostanze stupefacenti, psicotrope o alcoliche, nonche' la dichiarazione di disponibilita' all'accoglimento rilasciata dalla struttura. Il servizio pubblico e' comunque tenuto ad accogliere la richiesta dell'interessato di sottoporsi a programma terapeutico. L'autorita' giudiziaria, quando si procede per i delitti di cui agli [articoli 628, terzo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), o [629, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e comunque nel caso sussistano particolari esigenze cautelari, subordina l'accoglimento dell'istanza all'individuazione di una struttura residenziale))
 
 3.
 
 Il giudice dispone la custodia cautelare in carcere o ne dispone il ripristino quando accerta che la persona ha interrotto l'esecuzione del programma, ovvero mantiene un comportamento incompatibile con la corretta esecuzione, o quando accerta che la persona non ha collaborato alla definizione del programma o ne ha rifiutato l'esecuzione.
 
-((4. Le disposizioni di cui ai commi 1 e 2 non si applicano quando si procede per uno dei delitti previsti dall'[articolo 4-bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_4bis), e successive modificazioni, ad eccezione di quelli di cui agli [articoli 628, terzo comma](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [629, secondo comma, del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) purche' non siano ravvisabili elementi di collegamento con la criminalita' organizzata od eversiva))
+((4. Le disposizioni di cui ai commi 1 e 2 non si applicano quando si procede per uno dei delitti previsti dall'[articolo 4-bis della legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354#art_4bis), e successive modificazioni, ad eccezione di quelli di cui agli [articoli 628, terzo comma](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), e [629, secondo comma, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) purche' non siano ravvisabili elementi di collegamento con la criminalita' organizzata od eversiva))
 
 5.
 
@@ -3780,7 +3780,7 @@ TITOLO XII
 
 1.
 
-Sono abrogati la [legge 22 ottobre 1954, n. 1041](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-22;1041), ad eccezione dell'art. 1, per quanto concerne l'Ufficio centrale stupefacenti, gli [articoli 447](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [729 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e ogni altra forma in contrasto con il presente testo unico.
+Sono abrogati la [legge 22 ottobre 1954, n. 1041](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-22;1041), ad eccezione dell'art. 1, per quanto concerne l'Ufficio centrale stupefacenti, gli [articoli 447](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [729 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e ogni altra forma in contrasto con il presente testo unico.
 
 2.
 
