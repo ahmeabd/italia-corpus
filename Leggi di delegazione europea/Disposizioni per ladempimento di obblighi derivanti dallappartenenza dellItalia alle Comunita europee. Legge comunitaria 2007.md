@@ -243,7 +243,7 @@ Avvertenza:
  e) 0,25 per cento per la parte del prezzo di vendita superiore a 500.000,00 euro.
  3. L'importo totale del compenso non puo' essere comunque superiore a 12.500,00 euro.».
  Note all'art. 12:
- - Il testo dell'[art. 2 del decreto del Presidente della Repubblica 10 settembre 1982, n. 904](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-769%20relativa%20alla%20immissione%20sul%20mercato%20ed%20alluso%20di%20talune%20sostanze%20e%20preparati%20pericolosi.md), pubblicato nella Gazzetta Ufficciale 7 dicembre 1982, n. 336, come modificato dalla presente legge, cosi' recita:
+ - Il testo dell'[art. 2 del decreto del Presidente della Repubblica 10 settembre 1982, n. 904](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-769%20relativa%20alla%20immissione%20sul%20mercato%20ed%20alluso%20di%20talune%20sostanze%20e%20preparati%20pericolosi.md), pubblicato nella Gazzetta Ufficciale 7 dicembre 1982, n. 336, come modificato dalla presente legge, cosi' recita:
  «Art. 2. - Agli effetti del presente decreto si intendono per:
  sostanze: gli elementi chimici ed i loro composti allo stato naturale ovvero ottenuti mediante lavorazioni industriali;
  preparati: i miscugli e le soluzioni composti da due o piu' sostanze;
@@ -536,7 +536,7 @@ All'[articolo 3, comma 4, della legge 8 luglio 1997, n. 213](https://www.normatt
 
 1.
 
-All'[articolo 2 del decreto del Presidente della Repubblica 10 settembre 1982, n. 904](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-769%20relativa%20alla%20immissione%20sul%20mercato%20ed%20alluso%20di%20talune%20sostanze%20e%20preparati%20pericolosi.md), e' aggiunto il seguente capoverso:
+All'[articolo 2 del decreto del Presidente della Repubblica 10 settembre 1982, n. 904](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-769%20relativa%20alla%20immissione%20sul%20mercato%20ed%20alluso%20di%20talune%20sostanze%20e%20preparati%20pericolosi.md), e' aggiunto il seguente capoverso:
  "articoli di puericultura: qualsiasi prodotto destinato a conciliare il sonno, il rilassamento, l'igiene, il nutrimento e il succhiare dei bambini, ovverosia destinato alla cura delle attivita' giornaliere dei bambini e le cui parti accessibili possono essere messe in bocca".
 
 ### Art. 13. — (Modifica dell'articolo 2449

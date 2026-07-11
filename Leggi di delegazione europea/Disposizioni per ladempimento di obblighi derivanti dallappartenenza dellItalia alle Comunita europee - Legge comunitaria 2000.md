@@ -387,7 +387,7 @@ Nota all'[art. 16:
 
 1.
 
-Al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 4, primo comma, lettera a), le parole: "a cura dei presidi e servizi multizonali previsti dall'[articolo 22 della legge n. 833/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833#art_22) e, fino all'attivazione degli stessi, dai laboratori provinciali di igiene e profilassi" sono sostituite dalle seguenti: "a cura delle agenzie regionali per la protezione dell'ambiente, ove istituite, o dai presidi e servizi multizonali";
                             b)
@@ -422,7 +422,7 @@ Al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%
 Le disposizioni di cui al presente articolo si applicano a decorrere dall'inizio del periodo di campionamento relativo all'anno 2001.
 
 Note all'art. 18:
- - Il testo vigente dell'[articolo 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), di attuazione della [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione, cosi' come modificato dalla presente legge e' il seguente:
+ - Il testo vigente dell'[articolo 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), di attuazione della [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione, cosi' come modificato dalla presente legge e' il seguente:
  "Art. - 4. Alle regioni competono:
  a) la redazione e l'invio al Ministero della sanita', entro 12 mesi dall'entrata in vigore del presente decreto, della mappa degli scarichi, dei corsi d'acqua e dei punti in cui saranno effettuati i campionamenti e le analisi a cura delle agenzie regionali per la protezione dell'ambiente, ove istituite, o dai presidi e servizi multizonali;
  b) l'individuazione delle zone idonee alla balneazione sulla base dei risultati delle analisi e delle eventuali ispezioni effettuate durante il periodo di campionamento relativo all'anno precedente. Tale individuazione e' portata a conoscenza del Ministero della sanita' e del Ministero dell'ambiente entro il 31 dicembre dell'anno al quale si riferiscono i risultati delle analisi, nonche' delle amministrazioni comunali interessate almeno un mese prima dell'inizio della stagione balneare;
@@ -433,14 +433,14 @@ Note all'art. 18:
  Le successive modificazioni delle mappe di cui ai precedente punto a) nonche' i provvedimenti adottati ai sensi dei precedenti punti c), d) ed f) dovranno essere trasmessi tempestivamente al Ministero della sanita'.
  I risultati delle analisi eseguite almeno con la frequenza indicata nella tabella (allegato 1) saranno trasmessi mensilmente al Ministero della sanita' a cura delle agenzie regionali per la protezione dell'ambiente, ove istituite, o dai presidi e servizi multizonali.
  I compiti che dal presente decreto sono attribuiti alle regioni si intendono conferiti, per il Trentino-Alto Adige, alle province autonome di Trento e Bolzano".
- - Il testo vigente dell'articolo 5 del succitato [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), cosi' come modificato dalla presente legge, e' il seguente:
+ - Il testo vigente dell'articolo 5 del succitato [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), cosi' come modificato dalla presente legge, e' il seguente:
  "Art. 5. - Ai comuni competono:
  a) la delimitazione, prima dell'inizio della stagione balneare, a mezzo di ordinanza del sindaco, delle zone non idonee alla balneazione ricadenti nel proprio territorio;
  b) la delimitazione, a mezzo di ordinanza del sindaco, delle zone temporaneamente non idonee alla balneazione qualora nel corso della stagione balneare i risultati delle analisi non risultano conformi alle prescrizioni di cui ai successivi articoli 6 e 7;
  c) la revoca, a mezzo di ordinanza del sindaco, su segnalazione dell'autorita' competente, dei provvedimenti di cui ai precedenti punti a) e b);
  d) l'apposizione, nelle zone interessate, di segnaletica che indichi il divieto di balneazione sia per la delimitazione delle zone non idonee di cui al precedente punto a), sia per la delimitazione delle zone soggette al provvedimento di divieto temporaneo di cui al precedente punto b);
  e) l'immediata segnalazione alle agenzie regionali per la protezione dell'ambiente, ove istituite, o dai presidi e servizi multizonali di nuove situazioni di inquinamento massivo delle acque di balneazione ricadenti nel proprio territorio.".
- - Il testo vigente dell'articolo 6 del succitato [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), cosi' come modificato dalla presente legge, e' il seguente:
+ - Il testo vigente dell'articolo 6 del succitato [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), cosi' come modificato dalla presente legge, e' il seguente:
  "Art. 6. - Per l'applicazione di quanto previsto ai precedenti articoli 4, punto b), e 5 punto a), il giudizio di idoneita' alla balneazione e' subordinato ai risultati favorevoli delle analisi effettuate nel periodo di campionamento di cui all'articolo 2, relativo all'anno precedente.
  Le acque si considerano idonee alla balneazione quando per il periodo di campionamento relativo all'anno precedente le analisi dei campioni prelevati almeno con la frequenza fissata nella tabella (allegato 1), indicano che i parametri delle acque in questione sono conformi a quelli della tabella stessa per almeno il 90% dei casi e quando nei casi di non conformita' i valori dei parametri numerici non si discostino piu' del 50% dai corrispondenti valori.
  Per i parametri microbiologici, il pH e l'ossigeno disciolto, non si applica detta limitazione del 50%.
@@ -551,7 +551,7 @@ Note all'[art. 22:
  b) la data di nascita;
  c) il sesso;
  d) la razza o il mantello;
- e) il codice di identificazione della madre o, nel caso di animale importato da un Paese terzo, il numero di identificazione attribuito conformemente alle disposizioni di cui al [decreto del Presidente dello Repubblica 30 aprile 1996, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%2092-102-CEE%20relativa%20allidentificazione%20e%20alla%20registrazione%20degli%20animali.md), e successive modifiche, nonche' il numero di identificazione di origine;
+ e) il codice di identificazione della madre o, nel caso di animale importato da un Paese terzo, il numero di identificazione attribuito conformemente alle disposizioni di cui al [decreto del Presidente dello Repubblica 30 aprile 1996, n. 317](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%2092-102-CEE%20relativa%20allidentificazione%20e%20alla%20registrazione%20degli%20animali.md), e successive modifiche, nonche' il numero di identificazione di origine;
  f) il numero di identificazione dell'azienda di nascita;
  g) i movimenti di ciascun animale a partire dall'azienda di nascita e, per gli animali importati da Paesi terzi, dall'azienda di importazione;
  h) la data del decesso o della macellazione;
