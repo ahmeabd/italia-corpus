@@ -89,7 +89,7 @@ Per le integrazioni della rete autostradale e stradale di interesse nazionale co
 
 5.
 
-Per i tratti di strada della rete autostradale e stradale di interesse nazionale, dismessi a seguito della realizzazione di varianti di cui al comma 4, ovvero che attraversano i centri abitati con popolazione superiore a 10.000 abitanti, si applica quanto previsto dall'articolo 4, commi da 3 a 7, del regolamento di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+Per i tratti di strada della rete autostradale e stradale di interesse nazionale, dismessi a seguito della realizzazione di varianti di cui al comma 4, ovvero che attraversano i centri abitati con popolazione superiore a 10.000 abitanti, si applica quanto previsto dall'articolo 4, commi da 3 a 7, del regolamento di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
 
 6. Con decreto del Ministro delle infrastrutture e dei trasporti, entro il 28 febbraio di ogni anno, sono aggiornate le tabelle di cui al presente decreto con le variazioni di cui ai commi 4 e 5, avvenute nell'anno solare precedente))
 

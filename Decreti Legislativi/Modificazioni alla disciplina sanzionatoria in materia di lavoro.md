@@ -75,7 +75,7 @@ Note all'art. 2:
  Le violazioni delle disposizioni del presente articolo sono punite con la sanzione amministrativa da lire cinquantamila a lire trecentomila. Se l'inosservanza si riferisce a piu' di cinque lavoratori, ovvero si e' verificata nel corso dell'anno solare per piu' di cinquanta giorni, si applica la sanzione amministrativa da lire trecentomila a lire due milioni".
  - Si trascrive il testo dell'[art. 16 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16) (Modifiche al sistema penale):
  "Art. 16 (Pagamento in misura ridotta). - E' ammesso il pagamento di una somma in misura ridotta pari alla terza parte del massimo della sanzione prevista per la violazione commessa o, se piu' favorevole, al doppio del minimo della sanzione edittale, oltre alle spese del procedimento, entro il termine di sessanta giorni dalla contestazione immediata o, se questa non vi e' stata, dalla notificazione degli estremi della violazione.
- Nei casi di violazione del [testo unico delle norme sulla circolazione](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale e dei regolamenti comunali e provinciali continuano ad applicarsi, rispettivamente, l'art. 138 del t.u. approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), con le modifiche apportate dall'[art. 11 della legge 14 febbraio 1974, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md), e l'art. 107 del t.u. delle leggi comunali e provinciali approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
+ Nei casi di violazione del [testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale e dei regolamenti comunali e provinciali continuano ad applicarsi, rispettivamente, l'art. 138 del t.u. approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), con le modifiche apportate dall'[art. 11 della legge 14 febbraio 1974, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md), e l'art. 107 del t.u. delle leggi comunali e provinciali approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md).
  Il pagamento in misura ridotta e' ammesso anche nei casi in cui le norme antecedenti all'entrata in vigore della presente legge non consentivano l'oblazione.".
  Il secondo comma e' stato abrogato dall'[art. 231 del d.Lgs. 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), per la parte relativa al [D.P.R. n. 393/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;393).
 
@@ -339,7 +339,7 @@ Note all'art. 19:
  f) dalla [legge 29 marzo 1951, n. 327](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md), sulla disciplina degli alimenti per la prima infanzia e dei prodotti dietetici; 
  g) dalla [legge 10 maggio 1976, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20acque%20dallinquinamento.md), sulla tutela delle acque dall'inquinamento; 
  h) dalla [legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), concernente provvedimenti contro l'inquinamento atmosferico; 
- i) dalla [legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860), e dal [decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), relativi all'impiego pacifico dell'energia nucleare; 
+ i) dalla [legge 31 dicembre 1962, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-31;1860), e dal [decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), relativi all'impiego pacifico dell'energia nucleare; 
  l) dalle leggi in materia urbanistica ed edilizia; 
  m) dalle leggi relative ai rapporti di lavoro, anche per quanto riguarda l'assunzione dei lavoratori e le assicurazioni sociali, salvo quanto previsto dal successivo art. 35; 
  n) dalle leggi relative alla prevenzione degli infortuni sul lavoro ed all'igiene del lavoro; 
@@ -507,7 +507,7 @@ regolamento e' punito con l'arresto fino ad un mese o con l'ammenda da lire trec
 
 2.
 
-Nel [primo comma dell'art. 8 del regio decreto-legge 23 dicembre 1920, n. 1881](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20vieta%20limpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20dei%20fiammiferi%20020U1881.md), convertito dalla [legge 15 maggio 1924, n. 891](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20decreto%20Luogotenenziale%208%20luglio%201915%20n.%201079%20e%20del%20R.%20decreto%2023%20dicembre%201920%20n.%201881%20concernenti%20il%20divieto%20dellimpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20_d9b8e4ebe31b.md), le parole: "con la multa da lire duecentomila a lire quattrocentomila" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni".
+Nel [primo comma dell'art. 8 del regio decreto-legge 23 dicembre 1920, n. 1881](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20vieta%20limpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20dei%20fiammiferi%20020U1881.md), convertito dalla [legge 15 maggio 1924, n. 891](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto%20Luogotenenziale%208%20luglio%201915%20n.%201079%20e%20del%20R.%20decreto%2023%20dicembre%201920%20n.%201881%20concernenti%20il%20divieto%20dellimpiego%20del%20fosforo%20bianco%20nella%20fabbricazione%20_d9b8e4ebe31b.md), le parole: "con la multa da lire duecentomila a lire quattrocentomila" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni".
 
 3.
 
@@ -516,7 +516,7 @@ Nel [primo comma dell'art. 69 del regio decreto 9 gennaio 1927, n. 147](../Regi%
 4.
 
 Il [primo comma dell'art. 389 del decreto del Presidente della 
-Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' cosi' modificato:
+Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 1.000.000 a lire 1.500.000" sono sostituite dalle parole: "con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni", e l'ultimo periodo e' soppresso;
                             b)
@@ -526,12 +526,12 @@ Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20orig
 
 5.
 
-Nel [primo comma dell'art. 390 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), le parole: "con l'ammenda da lire 250.000 a lire 1.500.000" sono sostituite dalle parole: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire sei milioni".
+Nel [primo comma dell'art. 390 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), le parole: "con l'ammenda da lire 250.000 a lire 1.500.000" sono sostituite dalle parole: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire sei milioni".
 
 6.
 
 Il [primo comma dell'art. 391 del decreto del Presidente della 
-Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' cosi' modificato:
+Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 50.000 a lire 100.000" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni", e l'ultimo periodo e' soppresso;
                             b)
@@ -540,7 +540,7 @@ Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20orig
 7.
 
 Il [primo comma dell'art. 392 del decreto del Presidente della 
-Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' cosi' modificato:
+Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 12.500 a lire 25.000" sono sostituite dalle seguenti: "con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milionecinquecentomila", e l'ultimo periodo e' soppresso;
                             b)
@@ -550,7 +550,7 @@ lire 12.500" sono sostituite dalle seguenti: "con l'arresto fino a quindici gior
 8.
 
 Il [primo comma dell'art. 77 del decreto del Presidente della 
-Repubblica 7 gennaio 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), e' cosi' modificato:
+Repubblica 7 gennaio 1956, n. 164](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 1.000.000 a lire 1.500.000" sono sostituite dalle parole: "con l'arresto da tre mesi a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni", e l'ultimo periodo e' soppresso;
                             b)
@@ -561,7 +561,7 @@ Repubblica 7 gennaio 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20orig
 9.
 
 Il [primo comma dell'art. 78 del decreto del Presidente della 
-Repubblica 7 gennaio 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), e' cosi' modificato:
+Repubblica 7 gennaio 1956, n. 164](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "da lire 50.000 a lire 100.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire cinquecentomila a lire due milioni", e l'ultimo periodo e' soppresso;
                             b)
@@ -570,7 +570,7 @@ Repubblica 7 gennaio 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20orig
 10.
 
 Il [primo comma dell'art. 79 del decreto del Presidente della 
-Repubblica 7 gennaio 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), e' cosi' modificato:
+Repubblica 7 gennaio 1956, n. 164](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 12.500 a lire 25.000" sono sostituite dalle seguenti: "con l'arresto fino ad un mese o con l'ammenda da lire trecentomila a lire un milionecinquecentomila", e l'ultimo periodo e' soppresso;
                             b)
@@ -865,7 +865,7 @@ lire 9.000.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi
 
 42.
 
-Il [primo comma dell'art. 133 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
+Il [primo comma dell'art. 133 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 3.000.000 a lire 15.000.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi o con l'ammenda da lire dieci milioni a lire sessanta milioni", e l'ultimo periodo e' soppresso;
                             b)
@@ -875,7 +875,7 @@ Il [primo comma dell'art. 133 del decreto del Presidente della Repubblica 13 feb
 
 43.
 
-Il [primo comma dell'art. 134 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
+Il [primo comma dell'art. 134 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 600.000 a lire 900.000" sono sostituite dalle seguenti: "con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire quattro milioni", e il secondo periodo e' soppresso;
                             b)
@@ -885,7 +885,7 @@ Il [primo comma dell'art. 134 del decreto del Presidente della Repubblica 13 feb
 
 44.
 
-Il [primo comma dell'art. 135 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
+Il [primo comma dell'art. 135 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
                             a)
                                 nella lettera a), le parole: "con l'ammenda da lire 60.000 a lire 300.000" sono sostituite dalle seguenti: "con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni", e l'ultimo periodo e' soppresso;
                             b)
@@ -894,7 +894,7 @@ Il [primo comma dell'art. 135 del decreto del Presidente della Repubblica 13 feb
 45.
 
 L'[art. 136 del decreto del Presidente della Repubblica 13 
-febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
+febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), e' cosi' modificato:
                             a)
                                 nel primo comma, le parole: "con l'ammenda da lire 900.000 a lire 6.000.000" sono sostituite dalle seguenti: "con l'arresto fino a sei mesi o con l'ammenda da lire quattro milioni a lire ventiquattro milioni";
                             b)
@@ -985,7 +985,7 @@ Note all'art. 26:
  "Art. 69 (Contravvenzioni). - Le contravvenzioni alle 
  disposizioni del presente regolamento sono punite con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni". 
  - Il testo vigente dell'[art. 389 del D.P.R. 27 aprile 
- 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante norme per la prevenzione degli infortuni sul lavoro, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
+ 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante norme per la prevenzione degli infortuni sul lavoro, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 389 (Contravvenzioni commesse dai datori di lavoro 
  e dai dirigenti). - I datori di lavoro e dirigenti sono puniti: 
  a) con l'arresto da tre a sei mesi o con l'ammenda da  lire tre milioni a lire otto milioni per la inosservanza delle norme di cui agli articoli 27, 73, 115, 120, 121, 132, 133, 159, 160, 188, 193, 276 primo comma, 319; 
@@ -993,18 +993,18 @@ Note all'art. 26:
  c) con l'arresto sino a tre mesi o con l'ammenda da 
  lire cinquecentomila a lire due milioni per la inosservanza di tutte le altre norme". 
  - Il testo vigente dell'[art. 390 del D.P.R. 27 aprile 
- 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante norme per la prevenzione degli infortuni sul lavoro, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
+ 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante norme per la prevenzione degli infortuni sul lavoro, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 390 (Contravvenzioni commesse dai costruttori e 
  dai commercianti). - I costruttori, i commercianti ed i noleggiatori di macchine, di parti di macchine, di attrezzature, di utensili, di apparecchi in genere, nonche' gli installatori di impianti, che non osservano le disposizioni di cui all'art. 7, sono puniti con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire sei milioni.". 
  - Il testo vigente dell'[art. 391 del D.P.R. 27 aprile 
- 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante norme per la prevenzione degli infortuni sul lavoro, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
+ 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante norme per la prevenzione degli infortuni sul lavoro, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 391 (Contravvenzioni commesse dai preposti). - I  preposti sono puniti: 
  a) con l'arresto fino a tre mesi o con l'ammenda da 
  lire cinquecentomila a lire due milioni per la inosservanza delle norme di cui agli articoli 47 secondo e terzo comma, 345 e 346 ultimo comma, nonche' per non avere esercitato ai sensi dell'art. 4, la dovuta vigilanza sui lavoratori per la osservanza da parte di questi delle norme indicate alla lettera a) dell'articolo seguente; 
  b) con l'arresto fino a due mesi o con l'ammenda da 
  lire trecentomila a lire un milione per l'inosservanza della norma di cui all'art. 5 primo comma, nonche' per non avere esercitato, ai sensi dell'art. 4, la dovuta vigilanza sui lavoratori per la osservanza da parte di questi delle norme indicate alla lettera b) dell'articolo seguente. 
  - Il testo vigente dell'[art. 392 del D.P.R. 27 aprile 
- 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), sulla prevenzione degli infortuni sul lavoro come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
+ 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), sulla prevenzione degli infortuni sul lavoro come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 392 (Contravvenzioni commesse dai lavoratori). - I 
  lavoratori sono puniti: 
  a) con l'arresto sino ad un mese o con l'ammenda da 
@@ -1012,14 +1012,14 @@ Note all'art. 26:
  b) con l'arresto fino a quindici giorni o con l'ammenda 
  da lire duecentomila a lire ottocentomila per l'inosservanza delle norme di cui agli articoli 6, lettere a), b) e c), 19, 20, lettere a), b) e c), 24, 47 ultimo comma, 217 ultimo comma, e 388 primo comma.". 
  - Il testo vigente dell'[art. 77 del D.P.R. 7 gennaio 
- 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), recante norme per la prevenzione degli infortuni sul lavoro nelle costruzioni, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
+ 1956, n. 164](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), recante norme per la prevenzione degli infortuni sul lavoro nelle costruzioni, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 77 (Contravvenzioni commesse dai datori di lavoro  e dai dirigenti). - I datori di lavoro e i dirigenti sono puniti: 
  a) con l'arresto da tre a sei mesi o con l'ammenda da  lire tre milioni a lire otto milioni per l'inosservanza delle norme di cui agli articoli 12, 15, 17, 24 primo comma, 27 primo comma, 29 quarto comma, 41, 49 secondo comma, 56 primo comma, 57 primo e secondo comma, 67 primo e secondo comma; 
  b) con l'arresto da due a quattro mesi o con l'ammenda  da lire un milione a lire cinque milioni per l'inosservanza delle norme di cui agli articoli 4 sesto comma, 10, 11, 13, 20, primo, secondo e terzo comma, 23 primo e secondo comma, 25, 26, 28 primo comma, 35, 36, 40, 42, 43, 44, 49 primo comma, 55, 56 secondo, terzo e quarto comma, 57 terzo comma, 58, 59, 60 quarto comma, 62 secondo comma, 70, 72 primo comma, 73 primo comma, 75.". 
  c) con l'arresto fino a tre mesi o con l'ammenda da 
  lire cinquecentomila a lire due milioni per l'inosservanza di tutte le altre norme.". 
  - Il testo vigente dell'[art. 78 del D.P.R. 7 gennaio 
- 1956, n. 164](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), recante norme per la prevenzione degli infortuni sul lavoro nelle costruzioni, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
+ 1956, n. 164](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro%20nelle%20costruzioni.md), recante norme per la prevenzione degli infortuni sul lavoro nelle costruzioni, come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 78 (Contravvenzioni commesse dai preposti). - I 
  preposti sono puniti: 
  a) con l'arresto fino a due mesi o con l'ammenda da 
@@ -1034,7 +1034,7 @@ Note all'art. 26:
  b) con l'arresto fino a quindici giorni o con l'ammenda 
  da lire duecentomila a lire ottocentomila per l'inosservanza delle norme di cui agli articoli 10 primo comma, 18, 38 secondo e terzo comma, 54 quarto comma, 57 quinto comma, 60 ultimo comma, 62 primo comma, 73 terzo comma.". 
  - Il [D.P.R. 19 marzo 1956, n. 302](../DPR/Norme%20di%20prevenzione%20degli%20infortuni%20sul%20lavoro%20integrative%20di%20quelle%20generali%20emanate%20con%20decreto%20del%20Presidente%20della%20Repubblica%2027%20aprile%201955%20n.%20547.md), reca: "Norme di 
- prevenzione degli infortuni sul lavoro integrative di quelle generali emanate con [D.P.R. 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md).". 
+ prevenzione degli infortuni sul lavoro integrative di quelle generali emanate con [D.P.R. 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md).". 
  - Il testo vigente dell'[art. 53 del D.P.R. 19 marzo 
  1956, n. 302](../DPR/Norme%20di%20prevenzione%20degli%20infortuni%20sul%20lavoro%20integrative%20di%20quelle%20generali%20emanate%20con%20decreto%20del%20Presidente%20della%20Repubblica%2027%20aprile%201955%20n.%20547.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente: 
  "Art. 53 (Contravvenzioni commesse dai datori di lavoro  e dai dirigenti). - I datori di lavoro e i dirigenti sono puniti: 
@@ -1193,23 +1193,23 @@ Note all'art. 26:
  3) i committenti a domicilio ai sensi della [legge 13 marzo 1958, n. 264](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20del%20lavoro%20a%20domicilio.md), sono puniti:
  a) con l'arresto da due a quattro mesi o con l'ammenda da lire due milioni a lire dieci milioni per l'inosservanza della norma di cui all'art. 10, primo e terzo comma;
  b) con l'arresto fino a tre mesi o con l'ammenda da lire un milione a lire cinque milioni per l'inosservanza delle norme di cui all'art. 10, secondo comma".
- - Il [D.P.R. 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), reca: "Sicurezza degli impianti e protezione sanitaria dei lavoratori e delle popolazioni contro i pericoli delle radiazioni ionizzanti derivanti dall'impiego pacifico dell'energia nucleare"
- - Il testo vigente dell'[art. 133 del D.P.R. 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il [D.P.R. 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), reca: "Sicurezza degli impianti e protezione sanitaria dei lavoratori e delle popolazioni contro i pericoli delle radiazioni ionizzanti derivanti dall'impiego pacifico dell'energia nucleare"
+ - Il testo vigente dell'[art. 133 del D.P.R. 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 133 (Contravvenzioni commesse da datori di lavoro, dai dirigenti e dai direttori delle miniere). - I datori di lavoro, i dirigenti, i direttori delle miniere sono puniti:
  a) con l'arresto da tre a sei mesi o con l'ammenda da
  lire dieci milioni a lire sessanta milioni per l'inosservanza delle norme di cui agli articoli 20, primo comma, 61, lettera a), 62, quarto comma, 65, primo comma, 66, primo comma, 67, lettere a) e b), 68, 69, 70, primo comma, 75, primo comma, 77, settimo comma, 79, primo comma, 80, primo e secondo comma;
  b) con l'arresto da due a sei mesi o con l'ammenda da lire otto milioni a lire quarantotto milioni per l'inosservanza delle norme di cui agli articoli 18, quarto comma, 19, 21, primo comma, 22, 24, primo comma, 25, 61, lettera c), 62, secondo comma, 65, terzo comma, 67, lettera c) 72, ultimo comma, 74, 77, primo comma, 78, primo, quarto e quinto comma, 81, primo comma;
  c) con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire ventiquattro milioni per l'inosservanza di tutte le altre norme contenute nei capi IV e VIII della presente legge".
- - Il testo vigente dell'[art. 134 del D.P.R. 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 134 del D.P.R. 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 134 (Contravvenzioni commesse dai preposti). - I preposti sono puniti:
  a) con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire quattro milioni per l'inosservanza delle norme di cui agli articoli 61, lettere d) ed e), 62, primo e secondo comma, 67, lettere a) e b);
  b) con l'arresto da un mese a tre mesi o con l'ammenda da lire cinquecentomila a lire tre milioni per l'inosservanza delle norme di cui all'art. 61, lettere a), b), c);
  c) con l'arresto fino a tre mesi o con l'ammenda da lire trecentomila a lire due milioni per l'inosservanza di tutte le altre norme di cui ai capi IV e VIII della presente legge".
- - Il testo vigente dell'[art. 135 del D.P.R. 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 135 del D.P.R. 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 135 (Contravvenzioni commesse da lavoratori). - I lavoratori sono puniti:
  a) con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire due milioni per l'inosservanza delle norme di cui agli articoli 29, lettere b), d), e), 64, lettere b), d), e);
  b) con l'arresto fino a un mese o con l'ammenda da lire trecentomila a lire un milione cinquecentomila per l'inosservanza delle norme di cui agli articoli 29, lettere a), c), 64, lettere a), c), 65, secondo comma".
- - Il testo vigente dell'[art. 136 del D.P.R. 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il testo vigente dell'[art. 136 del D.P.R. 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 136 (Contravvenzioni commesse dagli esperti qualificati e dai medici autorizzati). - Gli esperti qualificati incaricati della sorveglianza fisica ed i medici autorizzati incaricati della sorveglianza medica, sono puniti con l'arresto fino a sei mesi o con l'ammenda da lire quattro milioni a lire ventiquattro milioni per l'inosservanza delle norme contenute nei capi IV e VIII della presente legge".
  - Il testo vigente dell'art. 139 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, approvato con [D.P.R. 30 giugno 1965, n. 1124](../DPR/Testo%20unico%20delle%20disposizioni%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20e%20le%20malattie%20professionali.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 139. - E' obbligatoria per ogni medico, che ne riconosca la esistenza, la denuncia delle malattie professionali, che saranno indicate in un elenco da approvarsi con decreto del Ministro per il lavoro e la previdenza sociale di concerto con quello per la sanita', sentito il Consiglio superiore di sanita'.
@@ -1245,11 +1245,11 @@ Note all'art. 26:
 
 1.
 
-Nell'[art. 7 del decreto del Presidente della Repubblica 8 giugno 1982, n. 524](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), le parole: "con l'ammenda da lire 100.000 a lire 500.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire duecentomila a lire un milione".
+Nell'[art. 7 del decreto del Presidente della Repubblica 8 giugno 1982, n. 524](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), le parole: "con l'ammenda da lire 100.000 a lire 500.000" sono sostituite dalle seguenti: "con l'arresto fino a due mesi o con l'ammenda da lire duecentomila a lire un milione".
 
 2.
 
-L'[art. 13 del decreto del presidente della Repubblica 10 settembre 1982, n. 962](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), e cosi modificato:
+L'[art. 13 del decreto del presidente della Repubblica 10 settembre 1982, n. 962](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), e cosi modificato:
                             a)
                                 nel comma 1, alla lettera a), le parole: "con l'ammenda da lire 1.500.000 a lire 3.000.000" sono sostituite dalle seguenti: "con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni", e l'ultimo periodo e' soppresso;
                             b)
@@ -1346,11 +1346,11 @@ Il [comma 1 dell'art. 93 del decreto legislativo 19 settembre 1994, n. 626](Attu
                                 nella lettera b) sono inserite all'inizio le seguenti parole: "con l'arresto fino a quindici giorni o".
 
 Note all'[art. 27:
- - Il D.P.R. 8 giugno 1982, n. 524](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), reca: "Segnaletica di sicurezza sul posto di lavoro. Attuazione della [direttiva CEE numero 77/576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;576) per il ravvicinamento della disposizione legislative, regolamentari ed amministrative degli Stati membri in materia di segnaletica di sicurezza sul posto di lavoro e della direttiva (CEE) che modifica gli allegati della direttiva suddetta".
- - Il testo vigente dell'[art. 7 del D.P.R. 8 giugno 1982, n. 524](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il D.P.R. 8 giugno 1982, n. 524](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), reca: "Segnaletica di sicurezza sul posto di lavoro. Attuazione della [direttiva CEE numero 77/576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;576) per il ravvicinamento della disposizione legislative, regolamentari ed amministrative degli Stati membri in materia di segnaletica di sicurezza sul posto di lavoro e della direttiva (CEE) che modifica gli allegati della direttiva suddetta".
+ - Il testo vigente dell'[art. 7 del D.P.R. 8 giugno 1982, n. 524](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-576%20per%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amministrative%20degli%20Stati%20membri%20in%20materia%20di%20segnaletica%20di%20sicurezza%20sul_82e99cf9c403.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 7. - Le violazioni alle disposizioni del presente decreto sono punite con l'arresto fino a due mesi o con l'ammenda da lire duecentomila a lire un milione".
- - Il [D.P.R. 10 settembre 1982, n. 962](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), reca: "Attuazione della [direttiva CEE n. 78/610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;610) relativa alla protezione sanitaria dei lavoratori esposti al cloruro di vinile monomero".
- - Il testo vigente dell'[art. 13 del D.P.R. 10 settembre 1982, n. 962](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
+ - Il [D.P.R. 10 settembre 1982, n. 962](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), reca: "Attuazione della [direttiva CEE n. 78/610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;610) relativa alla protezione sanitaria dei lavoratori esposti al cloruro di vinile monomero".
+ - Il testo vigente dell'[art. 13 del D.P.R. 10 settembre 1982, n. 962](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), come modificato dal decreto legislativo qui pubblicato, e' il seguente:
  "Art. 13. - I datori di lavoro e i dirigenti sono puniti:
  a) con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire otto milioni per l'inosservanza delle disposizioni di cui agli articoli 3, primo e secondo comma, 5, 6, 10, primo e secondo comma, e 11;
  b) con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni per l'inosservanza di tutte le altre norme. I preposti sono puniti con l'arresto da uno a tre mesi o con l'ammenda da lire un milione a lire quattro milioni per l'inosservanza delle disposizioni di cui all'art. 11 e, nei casi di particolare gravita', con l'arresto fino a tre mesi. I lavoratori sono puniti con l'arresto fino a quindici giorni o con l'ammenda da lire duecentomila a lire ottocentomila per l'inosservanza delle norme di cui all'art. 12".

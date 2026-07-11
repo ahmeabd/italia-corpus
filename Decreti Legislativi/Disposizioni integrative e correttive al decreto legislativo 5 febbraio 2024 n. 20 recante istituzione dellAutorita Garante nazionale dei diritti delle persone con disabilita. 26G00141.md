@@ -1,0 +1,149 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 123
+data: 2026-06-18
+titolo: "Disposizioni integrative e correttive al decreto legislativo 5 febbraio 2024, n. 20, recante istituzione dell'Autorita' Garante nazionale dei diritti delle persone con disabilita'. (26G00141)"
+urn: urn:nir:stato:decreto.legislativo:2026-06-18;123
+codice_redazionale: 26G00141
+vigente: true
+---
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
+
+Vista la Convenzione delle Nazioni Unite sui diritti delle persone con disabilita' ed il relativo Protocollo opzionale, firmata a New York il 13 dicembre 2006, ratificata e resa esecutiva ai sensi della [legge 3 marzo 2009, n. 18](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20delle%20Nazioni%20Unite%20sui%20diritti%20delle%20persone%20con%20disabilita%20con%20Protocollo%20opzionale%20fatta%20a%20New%20York%20il%2013%20dicembre%202006%20e%20istituzione%20dellOsser_895b3dd0dfb9.md);
+
+Visto il Protocollo opzionale alla Convenzione delle Nazioni Unite contro la tortura e altri trattamenti o pene crudeli, inumani o degradanti, fatto a New York il 18 dicembre 2002 e ratificato e reso esecutivo ai sensi della [legge 9 novembre 2012, n. 195](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20opzionale%20alla%20Convenzione%20delle%20Nazioni%20Unite%20contro%20la%20tortura%20e%20altri%20trattamenti%20o%20pene%20crudeli%20inumani%20o%20degradanti%20fatto%20a%20New%20York%20il%2018%20dicem_b54e3d3af6e2.md);
+
+Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri», e, in particolare, l'articolo 14;
+
+Vista la [legge 22 dicembre 2021, n. 227](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20disabilita.%2021G00254.md), recante «Delega al Governo in materia di disabilita'», e, in particolare, l'articolo 1, comma 4, che prevede che, entro ventiquattro mesi dalla data di entrata in vigore dei relativi decreti, possano essere adottati i decreti recanti disposizioni integrative e correttive;
+
+Visto il [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), recante «Istituzione dell'Autorita' Garante nazionale dei diritti delle persone con disabilita', in attuazione della delega conferita al Governo»;
+
+Vista la [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104), recante «Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate»;
+
+Visto il [decreto legislativo 30 marzo 2001, n. 165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche»;
+
+Visto il [decreto legislativo 2 luglio 2010, n. 104](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), concernente «Attuazione dell'[articolo 44 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_44), recante delega al governo per il riordino del processo amministrativo»;
+
+Visto il [decreto-legge 23 dicembre 2013, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;146), convertito, con modificazioni, dalla [legge 21 febbraio 2014, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202013%20n.%20146%20recante%20misure%20urgenti%20in%20tema%20di%20tutela%20dei%20diritti%20fondamentali%20dei%20detenuti%20e%20di%20riduzione%20controllata%20_1df193fdcc8d.md), recante «Misure urgenti in tema di tutela dei diritti fondamentali dei detenuti e di riduzione controllata della popolazione carceraria»;
+
+Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 18 febbraio 2026;
+
+Acquisita l'intesa raggiunta in sede di Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), nella riunione del 13 aprile 2026;
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 28 aprile 2026;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 4 giugno 2026;
+
+Sulla proposta del Ministro per le disabilita', di concerto con i Ministri dell'economia e delle finanze, del lavoro e delle politiche sociali, della salute, della giustizia, per la pubblica amministrazione e per la famiglia, la natalita' e le pari opportunita';
+
+Emana il seguente decreto legislativo:
+
+## Art. 1.
+
+Modifiche al [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), in materia di Istituzione dell'Autorita' Garante nazionale dei diritti delle persone con disabilita'
+
+1.
+
+Al [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), sono apportate le seguenti modificazioni:
+                        a)
+                            all'articolo 1: 
+ 1) al comma 2, primo periodo, le parole: «e per il monitoraggio della sua applicazione» sono sostituite dalle seguenti: «, per il monitoraggio della sua applicazione» e dopo le parole: «della medesima Convenzione,» sono inserite le seguenti: «nonche' per il controllo delle strutture e dei programmi destinati alle persone con disabilita', ai sensi dell'articolo 16, paragrafo 3, della medesima Convenzione»; 
+ 2) dopo il comma 2 e' inserito il seguente: 
+ «2-bis. Fermo restando quanto previsto dall'[articolo 7 del decreto-legge 23 dicembre 2013, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;146#art_7), convertito, con modificazioni, dalla [legge 21 febbraio 2014, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202013%20n.%20146%20recante%20misure%20urgenti%20in%20tema%20di%20tutela%20dei%20diritti%20fondamentali%20dei%20detenuti%20e%20di%20riduzione%20controllata%20_1df193fdcc8d.md), il Garante esercita le proprie funzioni nelle strutture sanitarie, sociosanitarie e assistenziali al fine di tutelare i diritti delle persone con disabilita'.»;
+                        b)
+                            all'articolo 3: 
+ 1) al comma 3, primo periodo, le parole: «20 unita' di personale non dirigenziale di cui 10 unita' di categoria A e 10 unita' di categoria B» sono sostituite dalle seguenti: «19 unita' di personale non dirigenziale di cui 12 unita' di categoria A e 7 unita' di categoria B»; 
+ 2) al comma 5, le parole: «fino a un massimo di otto» sono sostituite dalle seguenti: «fino a un massimo di quindici»;
+                        c)
+                            all'articolo 4, al comma 1: 
+ 1) dopo la lettera b) e' inserita la seguente: 
+ «b-bis) formula, su richiesta delle Amministrazioni pubbliche e dei concessionari di pubblici servizi proponenti, pareri non vincolanti con riferimento ai regolamenti e atti di natura generale che abbiano incidenza diretta e immediata sui diritti delle persone con disabilita'. Il parere deve essere reso entro trenta giorni dalla richiesta;»; 
+ 2) alla lettera r), dopo la parola: «nazionali» sono aggiunte le seguenti: «e internazionali»;
+                        d)
+                            all'articolo 5, comma 3, dopo il primo periodo e' aggiunto il seguente: «Nel caso di mancata ottemperanza, il Garante puo' agire in giudizio ai sensi dell'articolo 6, anche al fine di chiedere la nomina di un commissario ad acta.»;
+                        e)
+                            l'articolo 6 e' sostituito dal seguente: 
+ «Art. 6 (Azione processuale del Garante). - 1. Il Garante e' legittimato ad agire in giudizio: 
+ a) per l'annullamento degli atti o provvedimenti che non si siano conformati, o l'abbiano fatto in maniera inadeguata, alle indicazioni del parere emesso ai sensi dell'articolo 5, comma 2; 
+ b) contro l'inerzia serbata sulle indicazioni cronoprogrammatiche di cui all'articolo 5, comma 3; 
+ c) nel caso di mancato recepimento della proposta di adozione di misure provvisorie ai sensi dell'articolo 5, comma 4; 
+ d) per l'annullamento dei regolamenti e degli atti di natura generale adottati in difformita' al parere di cui all'articolo 4, comma 1, lettera b-bis); 
+ e) nelle ipotesi di cui all'[articolo 1, comma 4, del decreto legislativo 20 dicembre 2009, n. 198](Attuazione%20dellarticolo%204%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ricorso%20per%20lefficienza%20delle%20amministrazioni%20e%20dei%20concessionari%20di%20servizi%20pubblici.%2009G0207.md). 
+ 2. Nei casi in cui la persona che ha interesse abbia agito in giudizio ai sensi dell'[articolo 29](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md) o dell'[articolo 31 del codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), di cui all'Allegato 1 al [decreto legislativo 2 luglio 2010, n. 104](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), o ai sensi dell'[articolo 28 del decreto legislativo 1° settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md), il Garante puo' intervenire nel relativo giudizio. 
+ 3. Ai giudizi instaurati ai sensi del comma 1, lettere a), b), c), e d), si applica la disciplina prevista per i riti abbreviati relativi a speciali controversie dal libro IV, titolo V, del [codice del processo amministrativo](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md) di cui all'Allegato 1 al [decreto legislativo 2 luglio 2010, n. 104](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md).».
+
+NOTE 
+ 
+ Avvertenza: 
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+ Note alle premesse: 
+ - Si riporta l'[art. 76 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76): 
+ «Art. 76. - L'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.» 
+ - L'[art. 87 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
+ - La [legge 3 marzo 2009, n. 18](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20delle%20Nazioni%20Unite%20sui%20diritti%20delle%20persone%20con%20disabilita%20con%20Protocollo%20opzionale%20fatta%20a%20New%20York%20il%2013%20dicembre%202006%20e%20istituzione%20dellOsser_895b3dd0dfb9.md), recante «Ratifica ed esecuzione della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', con Protocollo opzionale, fatta a New York il 13 dicembre 2006 e istituzione dell'Osservatorio nazionale sulla condizione delle persone con disabilita'», e' pubblicata nella Gazzetta Ufficiale 14 marzo 2009, n. 61. 
+ - La [legge 9 novembre 2012, n. 195](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20opzionale%20alla%20Convenzione%20delle%20Nazioni%20Unite%20contro%20la%20tortura%20e%20altri%20trattamenti%20o%20pene%20crudeli%20inumani%20o%20degradanti%20fatto%20a%20New%20York%20il%2018%20dicem_b54e3d3af6e2.md), recante «Ratifica ed esecuzione del Protocollo opzionale alla Convenzione delle Nazioni Unite contro la tortura e altri trattamenti o pene crudeli, inumani o degradanti fatto a New York il 18 dicembre 2002», e' pubblicata nella Gazzetta Ufficiale 19 novembre 2012 n. 270. 
+ - Si riporta l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri», pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214: 
+ «Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) sono emanati dal Presidente della Repubblica con la denominazione di «decreto legislativo» e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione. 
+ 2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo e' trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza. 
+ 3. Se la delega legislativa si riferisce ad una pluralita' di oggetti distinti suscettibili di separata disciplina, il Governo puo' esercitarla mediante piu' atti successivi per uno o piu' degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega. 
+ 4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.» 
+ - Si riporta l'[articolo 1, comma 4, della legge 22 dicembre 2021, n. 227](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20in%20materia%20di%20disabilita.%2021G00254.md), recante «Delega al Governo in materia di disabilita'», pubblicata nella Gazzetta Ufficiale 30 dicembre 2021, n. 309: 
+ «Art 1 (Oggetto e finalita' della delega). - Omissis. 
+ 4. Entro ventiquattro mesi dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, possono essere adottati decreti legislativi recanti disposizioni integrative e correttive, nel rispetto dei principi e criteri direttivi previsti dalla presente legge e con la procedura di cui al comma 2. 
+ Omissis.». 
+ - Il [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), recante «Istituzione dell'Autorita' Garante nazionale dei diritti delle persone con disabilita'», e' pubblicato nella Gazzetta Ufficiale 5 marzo 2024, n. 54. 
+ - La [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104), recante «Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate», e' pubblicata nella Gazzetta Ufficiale 17 febbraio 1992, n. 39. 
+ - Il [decreto legislativo 30 marzo 2001, n. 165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche», e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106. 
+ - Il [decreto legislativo 2 luglio 2010, n. 104](Attuazione%20dellarticolo%2044%20della%20legge%2018%20giugno%202009%20n.%2069%20recante%20delega%20al%20governo%20per%20il%20riordino%20del%20processo%20amministrativo.%2010G0127.md), recante «Attuazione dell'[articolo 44 della legge 18 giugno 2009, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69#art_44), recante delega al governo per il riordino del processo amministrativo», e' pubblicato nella Gazzetta Ufficiale 7 luglio 2010, n. 156. 
+ - Il [decreto-legge 23 dicembre 2013, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;146), convertito, con modificazioni, dalla [legge 21 febbraio 2014, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202013%20n.%20146%20recante%20misure%20urgenti%20in%20tema%20di%20tutela%20dei%20diritti%20fondamentali%20dei%20detenuti%20e%20di%20riduzione%20controllata%20_1df193fdcc8d.md), recante «Misure urgenti in tema di tutela dei diritti fondamentali dei detenuti e di riduzione controllata della popolazione carceraria», e' pubblicato nella Gazzetta Ufficiale 23 dicembre 2013, n. 300. 
+ - Si riporta l'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), recante «Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali», pubblicato in Gazzetta Ufficiale del 30 agosto 1997 n. 202: 
+ «Art. 8 (Conferenza Stato-citta' ed autonomie locali e Conferenza unificata). - 1. La Conferenza Stato-citta' ed autonomie locali e' unificata per le materie ed i compiti di interesse comune delle regioni, delle province, dei comuni e delle comunita' montane, con la Conferenza Stato-regioni. 
+ 2. La Conferenza Stato-citta' ed autonomie locali e' presieduta dal Presidente del Consiglio dei Ministri o, per sua delega, dal Ministro dell'interno o dal Ministro per gli affari regionali nella materia di rispettiva competenza; ne fanno parte altresi' il Ministro del tesoro e del bilancio e della programmazione economica, il Ministro delle finanze, il Ministro dei lavori pubblici, il Ministro della sanita', il presidente dell'Associazione nazionale dei comuni d'Italia - ANCI, il presidente dell'Unione province d'Italia - UPI ed il presidente dell'Unione nazionale comuni, comunita' ed enti montani - UNCEM. Ne fanno parte inoltre quattordici sindaci designati dall'ANCI e sei presidenti di provincia designati dall'UPI.
+ Dei quattordici sindaci designati dall'ANCI cinque rappresentano le citta' individuate dall'[articolo 17 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md). Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici. 
+ 3. La Conferenza Stato-citta' ed autonomie locali e' convocata almeno ogni tre mesi, e comunque in tutti i casi il presidente ne ravvisi la necessita' o qualora ne faccia richiesta il presidente dell'ANCI, dell'UPI o dell'UNCEM. 
+ 4. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.». 
+ 
+ Note all'art. 1: 
+ - Si riporta l'articolo 1, comma 2, del citato [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), come modificato dal presente decreto: 
+ «Art. 1 (Istituzione dell'Autorita' "Garante nazionale dei diritti delle persone con disabilita'"). - Omissis 
+ 2. Il Garante costituisce un'articolazione del sistema nazionale per la promozione e la protezione dei diritti delle persone con disabilita', in attuazione della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', fatta a New York il 13 dicembre 2006 e ratificata e resa esecutiva conlegge 3 marzo 2009, n. 18, per il monitoraggio della sua applicazione, ai sensi dell'articolo 33, paragrafo 2, della medesima Convenzione, nonche' per il controllo delle strutture e dei programmi destinati alle persone con disabilita', ai sensi dell'articolo 16, paragrafo 3, della medesima Convenzione, e opera in collaborazione con l'Osservatorio nazionale sulla condizione delle persone con disabilita'. Il Garante, con riguardo alle persone con disabilita' che sono private della liberta' personale, individua, ferme restando le rispettive competenze, forme di collaborazione con il Garante nazionale dei diritti delle persone private della liberta' personale, di cui all'[articolo 7 del decreto-legge 23 dicembre 2013, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;146#art_7), convertito, con modificazioni, dallalegge 21 febbraio 2014, n. 10. 
+ 2-bis. Fermo restando quanto previsto dall'[articolo 7 del decreto-legge 23 dicembre 2013, n. 1461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-12-23;1461#art_7), convertito, con modificazioni, dalla [legge 21 febbraio 2014, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%202013%20n.%20146%20recante%20misure%20urgenti%20in%20tema%20di%20tutela%20dei%20diritti%20fondamentali%20dei%20detenuti%20e%20di%20riduzione%20controllata%20_1df193fdcc8d.md), il Garante esercita le proprie funzioni nelle strutture sanitarie, sociosanitarie e assistenziali al fine di tutelare i diritti delle persone con disabilita'. 
+ Omissis.». 
+ - Si riporta l'articolo 3, commi 3 e 5, del citato [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), come modificato dal presente decreto: 
+ «Art. 3 (Ufficio del Garante). - Omissis. 
+ 3. La relativa dotazione organica, con decorrenza non anteriore al 1° gennaio 2026, e' costituita da una unita' dirigenziale di livello generale e una unita' dirigenziale di livello non generale e 19 unita' di personale non dirigenziale di cui 12 unita' di categoria A e 7 unita' di categoria B, in possesso delle competenze e dei requisiti di professionalita' necessari in relazione alle funzioni e alle caratteristiche di indipendenza e imparzialita' del Garante. L'assunzione del personale avviene per pubblico concorso. 
+ Omissis. 
+ 5. L'Ufficio del Garante puo' avvalersi di esperti, fino ad un massimo di quindici, di elevata competenza in ambito giuridico, amministrativo, contabile o di comprovata esperienza in materia di disabilita'. Gli esperti possono prestare la propria opera professionale a titolo gratuito.
+ Il Garante, nei limiti delle risorse disponibili, puo' prevedere un compenso, fino a un importo massimo di euro 25.000 lordi annui per singolo incarico, entro il limite di spesa complessivo non superiore a 200.000 euro lordi annui. 
+ Omissis.» 
+ - Si riporta l'articolo 4, comma 1, del citato [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), come modificato dal presente decreto: 
+ «Art. 4 (Funzioni e prerogative del Garante). - 1. Il Garante esercita le seguenti funzioni: 
+ a) vigila sul rispetto dei diritti e sulla conformita' ai principi stabiliti dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', fatta a New York il 13 dicembre 2006 e ratificata e resa esecutiva conlegge 3 marzo 2009, n. 18, e dagli altri trattati internazionali dei quali l'Italia e' parte in materia di protezione dei diritti delle persone con disabilita', dalla Costituzione, dalle leggi dello Stato e dai regolamenti nella medesima materia; 
+ b) contrasta i fenomeni di discriminazione diretta, indiretta o di molestie in ragione della condizione di disabilita' e del rifiuto dell'accomodamento ragionevole di cui all'articolo 5, comma 2; 
+ b-bis) formula, su richiesta delle Amministrazioni pubbliche e dei concessionari di pubblici servizi proponenti, pareri non vincolanti con riferimento ai regolamenti e atti di natura generale che abbiano incidenza diretta e immediata sui diritti delle persone con disabilita'. Il parere deve essere reso entro trenta giorni dalla richiesta; 
+ Omissis. 
+ r) collabora con gli organismi indipendenti nazionali e internazionali nello svolgimento dei rispettivi compiti. 
+ Omissis.» 
+ - Si riporta l'articolo 5, comma 3, del citato [decreto legislativo 5 febbraio 2024, n. 20](Istituzione%20dellAutorita%20Garante%20nazionale%20dei%20diritti%20delle%20persone%20con%20disabilita%20in%20attuazione%20della%20delega%20conferita%20al%20Governo.%2024G00034.md), come modificato dal presente decreto: 
+ «Art. 5 (Pareri del Garante). - Omissis. 
+ 3. Quando le verifiche di cui al comma 1 hanno ad oggetto il mancato adeguamento a quanto previsto dai piani per l'eliminazione di barriere architettoniche dagli edifici pubblici e aperti al pubblico e da quelli privati che forniscono strutture e servizi aperti o forniti al pubblico, nonche' l'eliminazione delle barriere sensopercettive e di ogni altra barriera che impedisce alle persone con disabilita' di potervi accedere in condizione di pari opportunita' con gli altri cittadini o ne limiti la loro fruizione in modo significativo, il Garante puo' proporre all'amministrazione competente un cronoprogramma per rimuovere le barriere e vigilare sugli stati di avanzamento. Nel caso di mancata ottemperanza, il Garante puo' agire in giudizio ai sensi dell'articolo 6, anche al fine di chiedere la nomina di un commissario ad acta. 
+ Omissis.»
+
+## Art. 2. — Clausola di invarianza finanziaria
+
+1.
+
+Le amministrazioni interessate provvedono alle attivita' previste dal presente decreto mediante l'utilizzo delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 giugno 2026
+
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Locatelli, Ministro per le disabilita' Giorgetti, Ministro dell'economia e delle finanze Calderone, Ministro del lavoro e delle politiche sociali Schillaci, Ministro della salute Nordio, Ministro della giustizia Zangrillo, Ministro per la pubblica amministrazione Roccella, Ministro per la famiglia, la natalita' e le pari opportunita' Visto, il Guardasigilli: Nordio

@@ -20,7 +20,7 @@ Vista la [direttiva 2003/59/CE del Parlamento europeo e del Consiglio, del 15 lu
 
 Visto il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), recante nuovo [codice della strada](Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), concernente regolamento di esecuzione e di attuazione del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), concernente regolamento di esecuzione e di attuazione del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 settembre 2005;
 
@@ -116,7 +116,7 @@ Avvertenza:
  2004/101/CE del Parlamento europeo e del Consiglio, del 27 ottobre 2004, recante modifica della [direttiva n. 2003/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87) che istituisce un sistema per lo scambio di quote di emissioni dei gas a effetto serra nella Comunita', riguardo ai meccanismi di progetto del Protocollo di Kyoto.».
  - La [direttiva n. 2003/59/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;59) e' pubblicata in GUCE n. L. 226 del 10 settembre 2003.
  - Il [decreto legislativo 30 aprile 1992, n 285](Nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, supplemento ordinario.
- - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, supplemento ordinario.
+ - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, supplemento ordinario.
  Nota all'[art. 1:
  - Per la legge 1° marzo 2005, n. 32](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md) e gli articoli 1, comma 1, lettera b) e 2, comma 2, lettera b), vedi note alle premesse.
 
@@ -154,7 +154,7 @@ Dalla data di cui al comma 1, la determinazione del corrispettivo per l'esecuzio
                             d)
                                 gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82#art_3) e [4 del decreto-legge 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82#art_4), convertito, con modificazioni, dalla [legge 27 maggio 1993, n. 162](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201993%20n.%2082%20recante%20misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md);
                             e)
-                                il [decreto del Presidente della Repubblica 9 gennaio 1978, n. 56](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20esecuzione%20relative%20al%20titolo%20III%20della%20legge%206%20giugno%201974%20n.%20298%20concernente%20istituzione%20dellAlbo%20nazionale%20degli%20autotrasportatori%20di%20cose%20per%20conto%20di%20terzi%20disciplina%20degli%20_b0e2ac59ac6d.md);
+                                il [decreto del Presidente della Repubblica 9 gennaio 1978, n. 56](../DPR/Norme%20di%20esecuzione%20relative%20al%20titolo%20III%20della%20legge%206%20giugno%201974%20n.%20298%20concernente%20istituzione%20dellAlbo%20nazionale%20degli%20autotrasportatori%20di%20cose%20per%20conto%20di%20terzi%20disciplina%20degli%20_b0e2ac59ac6d.md);
                             f)
                                 il decreto del Ministro dei trasporti in data 18 novembre 1982, e successive modificazioni, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 342 del 14 dicembre 1982;
                             g)
@@ -173,7 +173,7 @@ Note all'art. 3:
  Alle violazioni di cui al primo comma consegue la sanzione accessoria del fermo amministrativo del veicolo per un periodo di tre mesi ovvero, in caso di reiterazione delle violazioni, la sanzione accessoria della confisca amministrativa del veicolo, con l'osservanza delle norme di cui al capo I, sezione II, del titolo VI del [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md).».
  - La [legge 22 agosto 1985, n. 450](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-22;450), recante: «Norme relative al risarcimento dovuto dal vettore stradale per perdita o avaria delle cose trasportate», e' pubblicata nella Gazzetta Ufficiale 28 agosto 1985, n. 202.
  - Il [decreto-legge 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82), convertito con modificazioni, dalla [legge 27 maggio 1993, n. 162](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2029%20marzo%201993%20n.%2082%20recante%20misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md), recante: «Misure urgenti per il settore dell'autotrasporto di cose per conto di terzi», e' pubblicata nella Gazzetta Ufficiale 28 maggio 1993, n. 123.
- - Il [decreto del Presidente della Repubblica 9 gennaio 1978, n. 56](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20esecuzione%20relative%20al%20titolo%20III%20della%20legge%206%20giugno%201974%20n.%20298%20concernente%20istituzione%20dellAlbo%20nazionale%20degli%20autotrasportatori%20di%20cose%20per%20conto%20di%20terzi%20disciplina%20degli%20_b0e2ac59ac6d.md), recante: «Norme di esecuzione relative al titolo III della [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298)», e' pubblicato nella Gazzetta Ufficiale 18 marzo 1978, n. 77.
+ - Il [decreto del Presidente della Repubblica 9 gennaio 1978, n. 56](../DPR/Norme%20di%20esecuzione%20relative%20al%20titolo%20III%20della%20legge%206%20giugno%201974%20n.%20298%20concernente%20istituzione%20dellAlbo%20nazionale%20degli%20autotrasportatori%20di%20cose%20per%20conto%20di%20terzi%20disciplina%20degli%20_b0e2ac59ac6d.md), recante: «Norme di esecuzione relative al titolo III della [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298)», e' pubblicato nella Gazzetta Ufficiale 18 marzo 1978, n. 77.
 
 ### Art. 4. — Contrattazione dei prezzi
 
@@ -786,7 +786,7 @@ L'accesso alla rete e' protetto. Lo scambio di informazioni sulla rete dell'Unio
 
 1.
 
-La disciplina sanzionatoria prevista dall'[articolo 126-bis del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), e successive modificazioni, si applica anche alla carta di qualificazione del conducente di cui all'articolo 14, nonche' al certificato di abilitazione professionale di tipo KB previsto dall'[articolo 311 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+La disciplina sanzionatoria prevista dall'[articolo 126-bis del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), e successive modificazioni, si applica anche alla carta di qualificazione del conducente di cui all'articolo 14, nonche' al certificato di abilitazione professionale di tipo KB previsto dall'[articolo 311 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
 
 2.
 

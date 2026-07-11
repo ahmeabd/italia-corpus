@@ -52,7 +52,7 @@ Visto il [decreto legislativo 14 marzo 2013, n. 33](Riordino%20della%20disciplin
 
 Visto il [decreto legislativo 18 maggio 2015, n. 102](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md);
 
-Visto il [decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md);))
+Visto il [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md);))
 
 Acquisito il parere del Garante per la protezione dei dati personali;
 
@@ -82,7 +82,7 @@ Il presente decreto si applica ai dati della ricerca conformemente alle condizio
 
 Fatto salvo quanto previsto all'articolo 3, comma 1, lettera a-bis), il presente decreto disciplina, altresi', il riutilizzo dei documenti nella disponibilita' delle imprese pubbliche:
                         a)
-                            attive nei settori di cui agli [articoli da 115](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md) [a 121 del decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md);
+                            attive nei settori di cui agli [articoli da 115](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) [a 121 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md);
                         b)
                             che agiscono in qualita' di operatori di servizio pubblico ai sensi dell'articolo 2 del regolamento (CE) n. 1370/2007;
                         c)

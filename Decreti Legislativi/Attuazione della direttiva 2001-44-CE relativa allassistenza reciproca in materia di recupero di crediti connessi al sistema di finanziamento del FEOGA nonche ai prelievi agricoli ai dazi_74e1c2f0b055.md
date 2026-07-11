@@ -18,7 +18,7 @@ Vista la [direttiva 2001/44/CE del Consiglio, del 15 giugno 2001](https://www.no
 
 Visto l'[articolo 23 del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
-Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md);
+Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md);
 
 Visto il [decreto legislativo 26 febbraio 1999, n. 46](Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md);
 
@@ -78,7 +78,7 @@ Avvertenza:
  «Art. 23 (Istituzione del Ministero e attribuzioni) - 1. E' istituito il Ministero dell'economia e delle finanze.
  2. Al Ministero sono attribuite le funzioni e i compiti spettanti allo Stato in materia di politica economica, finanziaria e di bilancio, programmazione degli investimenti pubblici, coordinamento della spesa pubblica e verifica dei suoi andamenti, politiche fiscali e sistema tributario, demanio e patrimonio statale, catasto e dogane, programmazione, coordinamento e verifica degli interventi per lo sviluppo economico, territoriale e settoriale e politiche di coesione. Il Ministero svolge altresi' i compiti di vigilanza su enti e attivita' e le funzioni relative ai rapporti con autorita' di vigilanza e controllo previsti dalla legge.
  3. Al Ministero sono trasferite, con le inerenti risorse, le funzioni dei Ministeri del tesoro, bilancio e programmazione economica e delle finanze, eccettuate quelle attribuite, anche dal presente decreto, ad altri Ministeri o ad agenzie fatte in ogni caso salve, ai sensi e per gli effetti degli [articoli 1, comma 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e [3, comma 1, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [b) della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), le funzioni conferite dalla vigente legislazione alle regioni ed agli enti locali e alle autonomie funzionali».
- - Il [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), reca: «Disposizioni sulla riscossione delle imposte sul reddito.». Pubblicato nella Gazzetta Ufficiale 16 ottobre 1973, n. 268, S.O. n. 2.
+ - Il [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), reca: «Disposizioni sulla riscossione delle imposte sul reddito.». Pubblicato nella Gazzetta Ufficiale 16 ottobre 1973, n. 268, S.O. n. 2.
  - Il [decreto legislativo 26 febbraio 1999, n. 46](Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md), reca: «Riordino della disciplina della riscossione mediante ruolo, a norma dell'[art. 1 della legge 28 settembre 1998, n. 337](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20della%20disciplina%20relativa%20alla%20riscossione.md).». Pubblicato nella Gazzetta Ufficiale 5 marzo 1999, n. 53, S.O.
 
 ## Art. 2. — Definizioni
@@ -95,7 +95,7 @@ Ai fini del presente decreto si intende per:
                         d)
                             "dazi all'esportazione", i dazi doganali e gli oneri che hanno effetto equivalente sulle esportazioni, nonche' gli oneri previsti all'esportazione nell'ambito della politica agricola comune o le disposizioni specifiche relative a determinati prodotti derivanti dalla trasformazione di prodotti agricoli;
                         e)
-                            "imposte sul reddito e sul capitale", le imposte di cui al combinato disposto dell'[articolo 1, paragrafi 3 e 4 della direttiva 77/799/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;799), recepita con [decreto del Presidente della Repubblica 5 giugno 1982, n. 506](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20n.%2077-799%20e%20n.%2079-1070%20relative%20alla%20reciproca%20assistenza%20tra%20gli%20Stati%20membri%20nei%20settori%20delle%20imposte%20dirette%20e%20dellimposta%20sul%20valore%20aggiunto.md);
+                            "imposte sul reddito e sul capitale", le imposte di cui al combinato disposto dell'[articolo 1, paragrafi 3 e 4 della direttiva 77/799/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;799), recepita con [decreto del Presidente della Repubblica 5 giugno 1982, n. 506](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2077-799%20e%20n.%2079-1070%20relative%20alla%20reciproca%20assistenza%20tra%20gli%20Stati%20membri%20nei%20settori%20delle%20imposte%20dirette%20e%20dellimposta%20sul%20valore%20aggiunto.md);
                         f)
                             "imposte sui premi assicurativi", le imposte di cui all'allegato A, nonche' i crediti relativi a quelle di natura identica o analoga che saranno aggiunte a dette imposte o ad esse sostituite.
 
@@ -109,7 +109,7 @@ L'autorita' nazionale abilitata, nell'ambito delle vigenti norme, a formulare e 
 
 Note all'[art. 2:
  - La direttiva 77/799/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;799) e' pubblicata in G.U.C.E. 27 dicembre 1977, n. 336.
- - Il [decreto del Presidente della Repubblica 5 giugno 1982, n. 506](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20n.%2077-799%20e%20n.%2079-1070%20relative%20alla%20reciproca%20assistenza%20tra%20gli%20Stati%20membri%20nei%20settori%20delle%20imposte%20dirette%20e%20dellimposta%20sul%20valore%20aggiunto.md), reca: «Attuazione delle [direttive (CEE) n. 77/99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;77) e [n. 79/1070](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;1070) relative alla reciproca assistenza tra gli Stati membri nei settori delle imposte dirette e dell'imposta sul valore aggiunto.». Pubblicato nella Gazzetta Ufficiale 6 agosto 1982, n. 215. Atto di recepimento della [direttiva 77/99/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;99).
+ - Il [decreto del Presidente della Repubblica 5 giugno 1982, n. 506](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2077-799%20e%20n.%2079-1070%20relative%20alla%20reciproca%20assistenza%20tra%20gli%20Stati%20membri%20nei%20settori%20delle%20imposte%20dirette%20e%20dellimposta%20sul%20valore%20aggiunto.md), reca: «Attuazione delle [direttive (CEE) n. 77/99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;77) e [n. 79/1070](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;1070) relative alla reciproca assistenza tra gli Stati membri nei settori delle imposte dirette e dell'imposta sul valore aggiunto.». Pubblicato nella Gazzetta Ufficiale 6 agosto 1982, n. 215. Atto di recepimento della [direttiva 77/99/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;99).
 
 ## Art. 3. — Assistenza per le richieste di informazioni
 
@@ -147,7 +147,7 @@ Il Ministero dell'economia e delle finanze informa immediatamente l'autorita' ri
 
 1.
 
-Su domanda dell'autorita' richiedente, il Ministero dell'economia e delle finanze da' corso, sulla base dei titoli esecutivi ricevuti, al recupero dei crediti di cui all'articolo 1 sorti nello Stato membro in cui essa ha sede, secondo la normativa vigente per il recupero dei crediti analoghi sorti nel territorio nazionale; detti titoli, che hanno diretta ed immediata efficacia esecutiva, sono equiparati ai ruoli di cui al [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
+Su domanda dell'autorita' richiedente, il Ministero dell'economia e delle finanze da' corso, sulla base dei titoli esecutivi ricevuti, al recupero dei crediti di cui all'articolo 1 sorti nello Stato membro in cui essa ha sede, secondo la normativa vigente per il recupero dei crediti analoghi sorti nel territorio nazionale; detti titoli, che hanno diretta ed immediata efficacia esecutiva, sono equiparati ai ruoli di cui al [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
 
 2.
 
@@ -195,7 +195,7 @@ Il Ministero dell'economia e delle finanze recupera i crediti dal debitore e tra
 
 8.
 
-Per il recupero dei crediti di cui al presente decreto, si applicano, in quanto compatibili, le disposizioni contenute nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modifiche e nel [decreto legislativo 26 febbraio 1999, n. 46](Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md), e successive modificazioni.
+Per il recupero dei crediti di cui al presente decreto, si applicano, in quanto compatibili, le disposizioni contenute nel [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modifiche e nel [decreto legislativo 26 febbraio 1999, n. 46](Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md), e successive modificazioni.
 
 9.
 
@@ -206,7 +206,7 @@ Qualora il recupero dei crediti presenti una difficolta' particolare o l'importo
 Il Ministero dell'economia e delle finanze informa l'autorita' richiedente del seguito dato alla domanda di recupero dei crediti.
 
 Note all'[art. 5:
- - Per il decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), vedi note alle premesse.
  - Per il [decreto legislativo 26 febbraio 1999, n. 46](Riordino%20della%20disciplina%20della%20riscossione%20mediante%20ruolo%20a%20norma%20dellarticolo%201%20della%20legge%2028%20settembre%201998%20n.%20337.md), vedi note alle premesse.
 
 ## Art. 6. — Contestazioni del credito
@@ -293,10 +293,10 @@ Note all'[art. 10:
 
 1.
 
-Con effetto dalla data di entrata in vigore del presente decreto sono abrogati gli articoli da 346-bis a 346-quinquies del capo I-bis del titolo VIII del testo unico delle disposizioni legislative in materia doganale di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), ed i [commi sesto](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [settimo dell'articolo 62 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md).
+Con effetto dalla data di entrata in vigore del presente decreto sono abrogati gli articoli da 346-bis a 346-quinquies del capo I-bis del titolo VIII del testo unico delle disposizioni legislative in materia doganale di cui al [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), ed i [commi sesto](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [settimo dell'articolo 62 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md).
 
 Note all'[art. 11:
- - Il decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), reca:
+ - Il decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), reca:
  «Approvazione del testo unico delle disposizioni legislative in materia doganale.». Pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 28 marzo 1973, n. 80.
  - Il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), reca: «Istituzione e disciplina dell'imposta sul valore aggiunto». Pubblicato nella Gazzetta Ufficiale 11 novembre 1972, n. 292, S.O.
 

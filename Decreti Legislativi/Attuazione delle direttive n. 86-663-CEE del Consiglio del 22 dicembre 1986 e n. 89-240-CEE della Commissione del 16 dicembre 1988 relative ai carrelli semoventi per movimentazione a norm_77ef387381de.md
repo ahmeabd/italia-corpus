@@ -72,7 +72,7 @@ Le prove di stabilita', visibilita' e funzionamento per i carrelli semoventi per
 
 3.
 
-Le prescrizioni tecniche previste dall'allegato I sostituiscono quelle di cui al [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), in caso di contrasto o di diversita'.
+Le prescrizioni tecniche previste dall'allegato I sostituiscono quelle di cui al [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), in caso di contrasto o di diversita'.
 
 4.
 

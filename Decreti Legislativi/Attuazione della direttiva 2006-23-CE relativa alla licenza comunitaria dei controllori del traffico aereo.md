@@ -474,10 +474,10 @@ Con decreto del Ministro della giustizia, di concerto con i Ministri dell'econom
 
 1.
 
-Il [decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md), recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo, e' abrogato.
+Il [decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../DPR/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md), recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo, e' abrogato.
 
 Nota all'[art. 17:
- - Il decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md) recante «Regolamento recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo» e' pubblicato nella Gazzetta Ufficiale 9 agosto 2000, n. 185.
+ - Il decreto del Presidente della Repubblica 10 maggio 2000, n. 223](../DPR/Regolamento%20recante%20norme%20di%20licenze%20attestati%20e%20abilitazioni%20per%20il%20personale%20addetto%20al%20controllo%20del%20traffico%20aereo.md) recante «Regolamento recante norme di licenze, attestati e abilitazioni per il personale addetto al controllo del traffico aereo» e' pubblicato nella Gazzetta Ufficiale 9 agosto 2000, n. 185.
 
 ## Art. 18. — Disposizioni finanziarie
 

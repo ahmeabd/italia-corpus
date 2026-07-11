@@ -341,10 +341,10 @@ L'accesso all'attivita' di un prestatore di un servizio della societa' dell'info
 
 2.
 
-Sono fatte salve le disposizioni sui regimi di autorizzazione che non riguardano specificatamente ed esclusivamente i servizi della societa' dell'informazione o i regimi di autorizzazione nel settore dei servizi delle telecomunicazioni di cui al [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), dalla cui applicazione sono esclusi i servizi della societa' dell'informazione.
+Sono fatte salve le disposizioni sui regimi di autorizzazione che non riguardano specificatamente ed esclusivamente i servizi della societa' dell'informazione o i regimi di autorizzazione nel settore dei servizi delle telecomunicazioni di cui al [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), dalla cui applicazione sono esclusi i servizi della societa' dell'informazione.
 
 Note all'[art. 6:
- - Il decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), reca: «Regolamento per l'attuazione di direttive comunitarie nel settore delle telecomunicazioni».
+ - Il decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), reca: «Regolamento per l'attuazione di direttive comunitarie nel settore delle telecomunicazioni».
 
 ## Art. 7. — (Informazioni generali obbligatorie)
 

@@ -914,7 +914,7 @@ Sono abrogate le seguenti norme:
                                 (( gli articoli 5 e 6 della legge 21 dicembre 1978, n. 843; ))
                             f)
                                 il [decreto del Presidente della Repubblica n. 421 del 19 giugno 
- 1979](../Atti%20normativi%20abrogati%20%28in%20originale%29/Coordinamento%20delle%20disposizioni%20regolanti%20la%20contabilita%20delle%20province%20e%20dei%20comuni%20con%20le%20disposizioni%20di%20cui%20alla%20legge%205%20agosto%201978%20n.%20468%20e%20di%20cui%20alla%20legge%2019%20maggio%201976%20n.%20335.md);
+ 1979](../DPR/Coordinamento%20delle%20disposizioni%20regolanti%20la%20contabilita%20delle%20province%20e%20dei%20comuni%20con%20le%20disposizioni%20di%20cui%20alla%20legge%205%20agosto%201978%20n.%20468%20e%20di%20cui%20alla%20legge%2019%20maggio%201976%20n.%20335.md);
                             g)
                                 l'[articolo 15 del decreto-legge 28 febbraio 1981, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-02-28;38#art_15), e 
  l'articolo 5, comma 1, della legge di conversione 23 aprile 1981, n. 153;

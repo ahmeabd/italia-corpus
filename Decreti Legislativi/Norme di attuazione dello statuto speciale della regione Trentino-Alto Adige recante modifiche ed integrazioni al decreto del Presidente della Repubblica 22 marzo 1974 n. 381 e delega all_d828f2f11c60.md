@@ -76,7 +76,7 @@ Note alle premesse:
  g) effettuare e partecipare, a studi, ricerche e sperimentazioni in materia di viabilita', traffico e circolazione;
  h) costituire e partecipare a societa' per lo svolgimento all'estero di attivita' infrastrutturali, previa autorizzazione del Ministro dei lavori pubblici;
  i) effettuare, a pagamento, consulenze e progettazioni per conto di altre amministrazioni od enti italiani e stranieri;
- l) espletare, mediante il proprio personale, i compiti di cui al [comma 3 dell'art. 12 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md) e dell'[art. 23 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+ l) espletare, mediante il proprio personale, i compiti di cui al [comma 3 dell'art. 12 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md) e dell'[art. 23 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
  2. L'approvazione, da parte dei competenti organi dell'Ente, dei progetti relativi ai lavori di cui al comma 1 equivale a dichiarazione di pubblica utilita' ed urgenza, al fine dell'applicazione delle leggi in materia di espriazione per pubblica utilita'.
  3. L'Ente esercita ogni competenza gia' attribuita nelle materie di cui al comma 1 ad uffici ed amministrazioni dello Stato.
  4. L'Ente puo' avvalersi del patrocinio dell'Avvocatura dello Stato".

@@ -185,7 +185,7 @@ La violazione dell'obbligo di comunicazione di cui al comma 1, e' punita con la 
 
 5.
 
-Nel caso in cui gli uffici accertino che gli intermediari di cui al comma 2 dell'art. 2 non abbiano applicato in tutto o in parte l'imposta sostitutiva sugli interessi, premi ed altri frutti, al pagamento della stessa nonche' degli interessi di cui all'[art. 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), sono tenuti in solido sia l'intermediario che il contribuente, ferma restando l'applicazione delle sanzioni previste dal comma 4 nei confronti degli intermediari medesimi.
+Nel caso in cui gli uffici accertino che gli intermediari di cui al comma 2 dell'art. 2 non abbiano applicato in tutto o in parte l'imposta sostitutiva sugli interessi, premi ed altri frutti, al pagamento della stessa nonche' degli interessi di cui all'[art. 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), sono tenuti in solido sia l'intermediario che il contribuente, ferma restando l'applicazione delle sanzioni previste dal comma 4 nei confronti degli intermediari medesimi.
 
 ## Art. 5. — Casi particolari di assolvimento dell'imposta sostitutiva
 

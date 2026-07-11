@@ -120,7 +120,7 @@ Il presente decreto si applica:
 
 Sono esclusi dall'ambito d'applicazione del presente decreto:
                         a)
-                            gli ascensori di cui al [decreto del Presidente della Repubblica 30 aprile 1999, n. 162](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%202014-33-UE%20relativa%20agli%20ascensori%20ed%20ai%20componenti%20di%20sicurezza%20degli%20ascensori%20nonche%20per%20lesercizio%20degli%20ascensori.md);
+                            gli ascensori di cui al [decreto del Presidente della Repubblica 30 aprile 1999, n. 162](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%202014-33-UE%20relativa%20agli%20ascensori%20ed%20ai%20componenti%20di%20sicurezza%20degli%20ascensori%20nonche%20per%20lesercizio%20degli%20ascensori.md);
                         b)
                             le tranvie a funi di tipo tradizionale;
                         c)
@@ -137,7 +137,7 @@ Sono esclusi dall'ambito d'applicazione del presente decreto:
                             gli impianti trainati mediante catene.
 
 Note all'[art. 3:
- - Il decreto del Presidente della Repubblica 30 aprile 1999, n. 162](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%202014-33-UE%20relativa%20agli%20ascensori%20ed%20ai%20componenti%20di%20sicurezza%20degli%20ascensori%20nonche%20per%20lesercizio%20degli%20ascensori.md), reca: «Regolamento recante norme per l'attuazione della [direttiva 95/16/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;16) sugli ascensori e di semplificazione dei procedimenti per la concessione del nulla-osta per ascensori e montacarichi, nonche' della relativa licenza di esercizio».
+ - Il decreto del Presidente della Repubblica 30 aprile 1999, n. 162](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%202014-33-UE%20relativa%20agli%20ascensori%20ed%20ai%20componenti%20di%20sicurezza%20degli%20ascensori%20nonche%20per%20lesercizio%20degli%20ascensori.md), reca: «Regolamento recante norme per l'attuazione della [direttiva 95/16/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;16) sugli ascensori e di semplificazione dei procedimenti per la concessione del nulla-osta per ascensori e montacarichi, nonche' della relativa licenza di esercizio».
 
 ## Art. 4. — D e f i n i z i o n i
 

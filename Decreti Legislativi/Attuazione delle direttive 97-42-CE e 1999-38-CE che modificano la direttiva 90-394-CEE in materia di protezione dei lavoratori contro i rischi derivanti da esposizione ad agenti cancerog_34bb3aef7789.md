@@ -234,10 +234,10 @@ I datori di lavoro che gia' svolgono, alla data di entrata in vigore del present
 
 1.
 
-Il [decreto del Presidente della Repubblica 10 settembre 1982, n. 962](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), e' abrogato.
+Il [decreto del Presidente della Repubblica 10 settembre 1982, n. 962](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), e' abrogato.
 
 Nota all'[art. 13:
- - Il decreto del Presidente della Repubblica 10 settembre 1982, n. 962](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), concerne l'attuazione della [direttiva (CEE) n. 78/610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;610) relativa alla protezione sanitaria dei lavoratori esposti al cloruro di vinile di monomero.
+ - Il decreto del Presidente della Repubblica 10 settembre 1982, n. 962](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2078-610%20relativa%20alla%20protezione%20sanitaria%20dei%20lavoratori%20esposti%20al%20cloruro%20di%20vinile%20monomero.md), concerne l'attuazione della [direttiva (CEE) n. 78/610](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;610) relativa alla protezione sanitaria dei lavoratori esposti al cloruro di vinile di monomero.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

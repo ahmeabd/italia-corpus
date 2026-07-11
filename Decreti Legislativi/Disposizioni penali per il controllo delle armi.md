@@ -58,7 +58,7 @@ La [L. 23 luglio 1948, n. 970](../DL%20e%20leggi%20di%20conversione/Ratifica%20e
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 27 dicembre 1948, n. 1464](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20amnistia%20e%20di%20indulto%20in%20materia%20di%20abusiva%20detenzione%20di%20armi.md) ha disposto (con l'art. 1, comma 1) che "E' concessa amnistia per il reato previsto dall'[art. 3 del decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi".
+Il [D.P.R. 27 dicembre 1948, n. 1464](../DPR/Concessione%20di%20amnistia%20e%20di%20indulto%20in%20materia%20di%20abusiva%20detenzione%20di%20armi.md) ha disposto (con l'art. 1, comma 1) che "E' concessa amnistia per il reato previsto dall'[art. 3 del decreto legislativo 5 febbraio 1948, n. 100](Disposizioni%20penali%20per%20il%20controllo%20delle%20armi.md), recante disposizioni penali per il controllo delle armi".
 
 ## Art. 4.
 

@@ -16,7 +16,7 @@ Visto l'[articolo 1, comma 28, lettera c), della legge 20 maggio 2016, n. 76](ht
 
 Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 4 ottobre 2016;
 
@@ -69,7 +69,7 @@ Avvertenza:
 
 1.
 
-All'[articolo 199, comma 3, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_199-com3), approvato con il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+All'[articolo 199, comma 3, del codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_199-com3), approvato con il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                         a)
                             al secondo periodo, dopo le parole: «convivenza coniugale» sono inserite le seguenti: «o derivante da un'unione civile tra persone dello stesso sesso»;
                         b)

@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md);
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md);
 
 Vista la [legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246), ed in particolare l'articolo 14, comma 18;
 
@@ -104,7 +104,7 @@ Avvertenza:
  La legge regionale ratifica le intese della Regione con altre Regioni per il migliore esercizio delle proprie funzioni, anche con individuazione di organi comuni. 
  Nelle materie di sua competenza la Regione puo' concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato.». 
  - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md) (Ordinamento dell'Amministrazione degli affari esteri) e' stato pubblicato nella Gazzetta Ufficiale 18 febbraio 1967, n. 44, supplemento ordinario. 
- - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), abrogato dal presente decreto, recava: «Disposizioni sulle funzioni e sui poteri consolari» ed e' stato pubblicato nella Gazzetta Ufficiale 19 aprile 1967, n. 98, supplemento ordinario. 
+ - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), abrogato dal presente decreto, recava: «Disposizioni sulle funzioni e sui poteri consolari» ed e' stato pubblicato nella Gazzetta Ufficiale 19 aprile 1967, n. 98, supplemento ordinario. 
  - Il testo dell'[art. 14, comma 18 della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14-com18) (Semplificazione e riassetto normativo per l'anno 2005), pubblicata nella Gazzetta Ufficiale 1 dicembre 2005, n. 280, e' il seguente: 
  «18. Entro due anni dalla data di entrata in vigore dei decreti legislativi di cui al comma 14, possono essere emanate, con uno o piu' decreti legislativi, disposizioni integrative, di riassetto o correttive, esclusivamente nel rispetto dei principi e criteri direttivi di cui al comma 15 e previo parere della Commissione di cui al comma 19». 
  - La [legge 2 maggio 1983, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20tabella%20dei%20diritti%20da%20riscuotersi%20dagli%20uffici%20diplomatici%20e%20consolari.md), abrogata dal presente decreto, recava: «Modifica della tabella dei diritti da riscuotersi dagli uffici diplomatici e consolari» ed e' stata pubblicata nella Gazzetta Ufficiale 18 maggio 1983, n. 134. 
@@ -1482,12 +1482,12 @@ Le notificazioni cui l'ufficio consolare provvede direttamente sono eseguite med
 
 Sono abrogati i seguenti testi normativi:
                             a)
-                                [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md);
+                                [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md);
                             b)
                                 [legge 2 maggio 1983, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20tabella%20dei%20diritti%20da%20riscuotersi%20dagli%20uffici%20diplomatici%20e%20consolari.md).
 
 Note all'art. 79: 
- - Per i riferimenti al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), e alla [legge 2 maggio 1983, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20tabella%20dei%20diritti%20da%20riscuotersi%20dagli%20uffici%20diplomatici%20e%20consolari.md) si vedano le note alle premesse.
+ - Per i riferimenti al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), e alla [legge 2 maggio 1983, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20tabella%20dei%20diritti%20da%20riscuotersi%20dagli%20uffici%20diplomatici%20e%20consolari.md) si vedano le note alle premesse.
 
 ### Art. 80. — Clausola di invarianza finanziaria
 

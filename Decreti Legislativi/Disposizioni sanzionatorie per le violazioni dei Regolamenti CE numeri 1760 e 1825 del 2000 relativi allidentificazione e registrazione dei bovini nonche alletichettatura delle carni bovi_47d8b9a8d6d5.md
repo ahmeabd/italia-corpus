@@ -22,7 +22,7 @@ Visto il Regolamento (CE) 1760/2000 del Parlamento europeo e del Consiglio, del 
 
 Visto il Regolamento (CE) 1825/2000 della Commissione, del 25 agosto 2000;
 
-Visto il [decreto del Presidente della Repubblica 30 aprile 1996, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%2092-102-CEE%20relativa%20allidentificazione%20e%20alla%20registrazione%20degli%20animali.md), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 30 aprile 1996, n. 317](../DPR/Regolamento%20recante%20norme%20per%20lattuazione%20della%20direttiva%2092-102-CEE%20relativa%20allidentificazione%20e%20alla%20registrazione%20degli%20animali.md), e successive modificazioni;
 
 Visto il [decreto legislativo 22 maggio 1999, n. 196](Attuazione%20della%20direttiva%2097-12-CE%20che%20modifica%20e%20aggiorna%20la%20direttiva%2064-432-CEE%20relativa%20ai%20problemi%20di%20polizia%20sanitaria%20in%20materia%20di%20scambi%20intracomunitari%20di%20animali%20delle%20specie%20_56dc3f3a64a6.md);
 

@@ -88,7 +88,7 @@ Vista la [legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bila
 
 Vista la [legge 30 dicembre 2023, n. 213](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202024%20e%20bilancio%20pluriennale%20per%20il%20triennio%202024-2026.%2023G00223.md), recante «Bilancio di previsione dello Stato per l'anno finanziario 2024 e bilancio pluriennale per il triennio 2024-2026» e, in particolare, l'articolo 1, comma 209;
 
-Visto il [decreto del Presidente della Repubblica 15 marzo 2017, n. 57](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20del%20lavoro%20e%20delle%20politiche%20sociali.%2017G00076.md), recante «Regolamento di organizzazione del Ministero del lavoro e delle politiche sociali»;
+Visto il [decreto del Presidente della Repubblica 15 marzo 2017, n. 57](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20del%20lavoro%20e%20delle%20politiche%20sociali.%2017G00076.md), recante «Regolamento di organizzazione del Ministero del lavoro e delle politiche sociali»;
 
 Visto il [decreto del Presidente del Consiglio dei ministri 24 giugno 2021, n. 140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2021-06-24;140), recante «Regolamento concernente modifiche al regolamento di organizzazione del Ministero del lavoro e delle politiche sociali»;
 

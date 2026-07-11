@@ -356,7 +356,7 @@ Note all'art. 6:
  1) gli ingegneri navali;
  2) i costruttori navali;
  3) i maestri d'ascia e i calafati".
- - Il testo dell'art. 275 del regolamento al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Codici/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' il seguente:
+ - Il testo dell'art. 275 del regolamento al [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' il seguente:
  "Art. 275 (Registro d'iscrizione). - Il personale tecnico delle costruzioni navali e' iscritto in registri conformi al modello approvato dal Ministro per la marina mercantile, tenuti dagli uffici di compartimento e di circondario.
  Ogni iscrizione nel registro prende un numero progressivo, riporta la data sotto la quale si effettua e indica:
  a) le generalita' dell'iscritto;
@@ -495,7 +495,7 @@ Note all'art. 9:
  d) struttura economico-finanziaria desunta dai bilanci
  certificati da societa' di revisione autorizzate ai sensi
  dell'[art.8 del decreto del Presidente della Repubblica 31
- marzo 1975, n.136](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), o dalle risultanze contabili per i
+ marzo 1975, n.136](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), o dalle risultanze contabili per i
  soggetti non tenuti alla redazione del bilancio.
  2. Al fine di consentire il controllo della evoluzione
  della capacita' produttiva del settore, nell'ambito degli
@@ -591,7 +591,7 @@ Nelle situazioni in cui il lavoratore marittimo si trovi in disponibilita' alle 
 
 6.
 
-I periodi di riposo per il personale di guardia impiegato a bordo delle navi mercantili sono quelli stabiliti all'[articolo 12 del decreto del Presidente della Repubblica 9 maggio 2001, n. 324](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20delle%20direttive%2094-58-CE%20e%2098-35-CE%20relative%20ai%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.md), fatte comunque salve le misure minime di cui al comma 3.
+I periodi di riposo per il personale di guardia impiegato a bordo delle navi mercantili sono quelli stabiliti all'[articolo 12 del decreto del Presidente della Repubblica 9 maggio 2001, n. 324](../DPR/Regolamento%20di%20attuazione%20delle%20direttive%2094-58-CE%20e%2098-35-CE%20relative%20ai%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.md), fatte comunque salve le misure minime di cui al comma 3.
 
 7.
 
@@ -1044,7 +1044,7 @@ I componenti di cui al comma 2 sono nominati con decreto del Ministro dei traspo
 Nota all'art. 30:
  - Il testo dell'[art. 26 del decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md), e' il seguente:
  "Art. 26 (Commissione consultiva e permanente per la prevenzione degli infortuni e l'igiene del lavoro). - 1.
- L'[art. 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' sostituito dal seguente:
+ L'[art. 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' sostituito dal seguente:
  "[Art. 393 (Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_393) della commissione). - 1. Presso il Ministero del lavoro e della previdenza sociale e istituita una commissione consultiva permanente per la prevenzione degli infortuni e per l'igiene del lavoro. Essa e' presieduta dal Ministro del lavoro e della previdenza sociale o dal direttore generale della Direzione generale dei rapporti di lavoro da lui delegato, ed e' composta da:
  a) cinque funzionari esperti designati dal Ministro del lavoro e della previdenza sociale, di cui tre ispettori del lavoro, laureati uno in ingegneria, uno in medicina e chirurgia e uno in chimica o fisica;
  b) il direttore e tre funzionari dell'Istituto superiore per la prevenzione e sicurezza del lavoro;
@@ -1060,7 +1060,7 @@ Nota all'art. 30:
  4. La commissione puo' chiamare a far parte dei comitati di cui al comma 3 persone particolarmente esperte, anche su designazione delle associazioni professionali, dell'universita' e degli enti di ricerca, in relazione alle materie trattate.
  5. Le funzioni inerenti alla segreteria della commissione sono disimpegnate da due funzionari del Ministero del lavoro e della previdenza sociale.
  6. I componenti della commissione consultiva permanente ed i segretari sono nominati con decreto del Ministro del lavoro e della previdenza sociale su designazione degli organismi competenti e durano in carica tre anni".
- 2. L'[art. 394 dei decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md); e' sostituito dal seguente:
+ 2. L'[art. 394 dei decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md); e' sostituito dal seguente:
  "Art 394 (Compiti della commissione). - 1. La commissione consultiva permanente ha il compito di:
  a) esaminare i problemi applicativi della normativa in materia di sicurezza e salute sul posto di lavoro e predisporre una relazione annuale al riguardo;
  b) formulare proposte per lo sviluppo e il perfezionamento della legislazione vigente e per il suo coordinamento con altre disposizioni concernenti la sicurezza e la protezione della salute dei lavoratori, nonche' per il coordinamento degli organi preposti alla vigilanza;

@@ -252,7 +252,7 @@ In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzi
 
 2.
 
-A decorrere dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Presidente della Repubblica 24 maggio 1988, n. 233](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2086-113%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20delle%20galline%20ovaiole%20in%20batteria%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), recante attuazione della [direttiva 86/113/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;113), che stabilisce norme minime per la protezione delle galline ovaiole in batteria.
+A decorrere dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Presidente della Repubblica 24 maggio 1988, n. 233](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2086-113%20che%20stabilisce%20le%20norme%20minime%20per%20la%20protezione%20delle%20galline%20ovaiole%20in%20batteria%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), recante attuazione della [direttiva 86/113/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;113), che stabilisce norme minime per la protezione delle galline ovaiole in batteria.
 
 3.
 

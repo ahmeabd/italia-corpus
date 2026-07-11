@@ -653,7 +653,7 @@ Al termine del terzo anno l'area e' ridotta del 25%.
 
 6.
 
-Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica del 18 aprile 1994, n. 526](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure dell'articolo 2 del citato [decreto presidenziale n. 526 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994;526).
+Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica del 18 aprile 1994, n. 526](../DPR/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure dell'articolo 2 del citato [decreto presidenziale n. 526 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1994;526).
 
 ### Art. 29. — (Attribuzione delle concessioni di coltivazione)
 
@@ -685,7 +685,7 @@ L'obbligo di corrispondere le aliquote di prodotto della coltivazione di cui al 
 
 5.
 
-Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica 18 aprile 1994, n. 526](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure di cui agli articoli 3 o 4, comma 2, del citato decreto presidenziale n. 526 de) 1994, ove ricorrano le condizioni ivi stabilite.
+Se il programma di cui al comma 1 prevede opere o attivita' per le quali non e' stata attivata la procedura di cui agli articoli 4 o 10 del [decreto del Presidente della Repubblica 18 aprile 1994, n. 526](../DPR/Regolamento%20recante%20norme%20per%20disciplinare%20la%20valutazione%20dellimpatto%20ambientale%20relativa%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi%20liquidi%20e%20gassosi.md), l'inizio dei lavori e' subordinato alle procedure di cui agli articoli 3 o 4, comma 2, del citato decreto presidenziale n. 526 de) 1994, ove ricorrano le condizioni ivi stabilite.
 
 ### Art. 31. — (Attribuzione delle concessioni di stoccaggio)
 

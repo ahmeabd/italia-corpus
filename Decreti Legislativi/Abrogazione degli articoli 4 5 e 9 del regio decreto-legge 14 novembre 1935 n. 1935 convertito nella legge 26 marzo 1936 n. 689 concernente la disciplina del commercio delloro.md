@@ -22,7 +22,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
 
 ## Articolo unico.
 
-Gli [articoli 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio%20delloro.%20035U1935.md), [5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio%20delloro.%20035U1935.md) e [9 del regio decreto-legge 14 novembre 1935, n. 1935](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio%20delloro.%20035U1935.md), convertito nella [legge 26 marzo 1936, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20novembre%201935-XIV%20n.%201935%20concernente%20la%20disciplina%20del%20commercio%20delloro.%20036U0689.md), sono abrogati.
+Gli [articoli 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio%20delloro.%20035U1935.md), [5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio%20delloro.%20035U1935.md) e [9 del regio decreto-legge 14 novembre 1935, n. 1935](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20commercio%20delloro.%20035U1935.md), convertito nella [legge 26 marzo 1936, n. 689](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20novembre%201935-XIV%20n.%201935%20concernente%20la%20disciplina%20del%20commercio%20delloro.%20036U0689.md), sono abrogati.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

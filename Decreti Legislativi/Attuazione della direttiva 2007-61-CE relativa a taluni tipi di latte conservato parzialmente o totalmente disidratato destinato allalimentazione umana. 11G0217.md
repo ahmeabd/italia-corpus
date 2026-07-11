@@ -149,7 +149,7 @@ Sono o restano abrogati:
                         a)
                             il [decreto legislativo 20 febbraio 2004, n. 49](Attuazione%20della%20direttiva%202001-114-CE%20relativa%20a%20taluni%20tipi%20di%20latte%20conservato%20destinato%20allalimentazione%20umana.md);
                         b)
-                            il [decreto del Presidente della Repubblica 10 maggio 1982, n. 514](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2076-118%20relativa%20a%20taluni%20tipi%20di%20latte%20conservato%20parzialmente%20o%20totalmente%20disidratato%20destinato%20allalimentazione%20umana.md).
+                            il [decreto del Presidente della Repubblica 10 maggio 1982, n. 514](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-118%20relativa%20a%20taluni%20tipi%20di%20latte%20conservato%20parzialmente%20o%20totalmente%20disidratato%20destinato%20allalimentazione%20umana.md).
 
 2.
 
@@ -157,7 +157,7 @@ Sono fatte salve le disposizioni di cui alla [legge 11 aprile 1974, n. 138](http
 
 Note all'art. 6: 
  - Per i riferimenti al citato [decreto legislativo n. 49 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;49), si veda nelle note alle premesse. 
- - Il [decreto del Presidente della Repubblica 10 maggio 1982, n. 514](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2076-118%20relativa%20a%20taluni%20tipi%20di%20latte%20conservato%20parzialmente%20o%20totalmente%20disidratato%20destinato%20allalimentazione%20umana.md) (Attuazione della [direttiva (CEE) n. 76/118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;118) relativa a taluni tipi di latte conservato parzialmente o totalmente disidratato destinato all'alimentazione umana), pubblicato nella Gazzetta Ufficiale 7 agosto 1982, n. 216, resta abrogato. 
+ - Il [decreto del Presidente della Repubblica 10 maggio 1982, n. 514](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-118%20relativa%20a%20taluni%20tipi%20di%20latte%20conservato%20parzialmente%20o%20totalmente%20disidratato%20destinato%20allalimentazione%20umana.md) (Attuazione della [direttiva (CEE) n. 76/118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;118) relativa a taluni tipi di latte conservato parzialmente o totalmente disidratato destinato all'alimentazione umana), pubblicato nella Gazzetta Ufficiale 7 agosto 1982, n. 216, resta abrogato. 
  - La [legge 11 aprile 1974, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-11;138) (Nuove norme concernenti il divieto di ricostituzione del latte in polvere per l'alimentazione umana), e' pubblicata nella Gazzetta Ufficiale 7 maggio 1974, n. 117.
 
 ## Art. 7. — Sanzioni

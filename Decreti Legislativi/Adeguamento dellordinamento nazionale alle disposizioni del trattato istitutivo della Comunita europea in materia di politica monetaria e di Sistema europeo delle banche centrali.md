@@ -107,7 +107,7 @@ La Banca d'Italia emette banconote in applicazione di quanto previsto dagli arti
 Sono o restano abrogati: 
  gli articoli 4, 111, 120, 122, 124, lettere a) , b) e c), e 130 del testo unico; 
  la [legge 31 marzo 1966, n. 171](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20al%20Tesoro%20dello%20Stato%20a%20fabbricare%20ed%20emettere%20biglietti%20di%20Stato%20da%20L.%20500.md); 
- il [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20fabbricazione%20e%20la%20emissione%20dei%20biglietti%20di%20banca.md).
+ il [decreto del Presidente della Repubblica 9 ottobre 1981, n. 811](../DPR/Approvazione%20del%20regolamento%20per%20la%20fabbricazione%20e%20la%20emissione%20dei%20biglietti%20di%20banca.md).
 
 3.
 

@@ -218,7 +218,7 @@ Il Segretario Generale coadiuva il Presidente e attua le delibere del Comitato d
                             f)
                                 individua le risorse finanziarie da assegnare agli uffici secondo quanto previsto dal documento di programmazione;
                             g)
-                                approva l'indizione delle procedure concorsuali in materia di servizi, lavori e forniture che superino le soglie di cui all'[articolo 35 del codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 18 aprile 2016, n. 50](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202014-23-UE%202014-24-UE%20e%202014-25-UE%20sullaggiudicazione%20dei%20contratti%20di%20concessione%20sugli%20appalti%20pubblici%20e%20sulle%20procedure%20dappalto%20degli%20enti%20erogatori%20nei%20se_4ea48442d066.md);
+                                approva l'indizione delle procedure concorsuali in materia di servizi, lavori e forniture che superino le soglie di cui all'[articolo 35 del codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md);
                             h)
                                 nomina i dirigenti della Scuola.
 

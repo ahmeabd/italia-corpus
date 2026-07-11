@@ -31,7 +31,7 @@ Chiunque, al fine di impedire od ostacolare la libera circolazione, depone o abb
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 ottobre 1968, n. 1084](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20di%20amnistia%20e%20di%20indulto_2.md) ha disposto: 
+Il [D.P.R. 25 ottobre 1968, n. 1084](../DPR/Concessione%20di%20amnistia%20e%20di%20indulto_5.md) ha disposto: 
  - (con l'art. 1, comma 1, lettera c))che "E' concessa amnistia per i seguenti reati, se commessi, anche con finalita' politiche, a causa ed in occasione di agitazioni e manifestazioni studentesche o sindacali [...] reati di cui all'[articolo 1 del decreto legislativo 22 gennaio 1948, n. 66](Norme%20per%20assicurare%20la%20libera%20circolazione%20sulle%20strade%20ferrate%20ed%20ordinarie%20e%20la%20libera%20navigazione.md)". 
  - (con l'art. 3, comma 1) che "L'amnistia ha efficacia per i reati commessi fino al 27 giugno 1968". 
  - (con l'art. 5, comma 1) che " E' concesso indulto, per i reati di cui all'articolo 1 commessi fino al 27 giugno 1968, in misura non superiore a due anni per le pene detentive, e per l'intera pena pecuniaria, in favore di quanti non beneficiano dell'amnistia". 

@@ -16,7 +16,7 @@ Vista la [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Di
 
 Vista la [direttiva 2006/7/CE del Parlamento europeo e del Consiglio, del 15 febbraio 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;7), relativa alla gestione della qualita' delle acque di balneazione e che abroga la [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160);
 
-Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, recante attuazione della [direttiva 76/160/CEE dell'8 dicembre 1975, del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione;
+Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e successive modificazioni, recante attuazione della [direttiva 76/160/CEE dell'8 dicembre 1975, del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160), relativa alla qualita' delle acque di balneazione;
 
 Considerato che le evidenze scientifiche relativamente al parametro dell'ossigeno disciolto, di per se' considerato, non hanno mai rilevato pericoli per la tutela della salute pubblica e che, conseguentemente, il [decreto del Presidente della Repubblica n. 470 del 1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;470) e' stato piu' volte derogato per tale parametro;
 
@@ -40,7 +40,7 @@ Il presente decreto reca disposizioni in materia di gestione della qualita' dell
 
 2.
 
-Ai fini del giudizio di idoneita' per l'individuazione delle zone di balneazione delle acque, in sede di svolgimento delle indagini per determinare i potenziali rischi per la salute umana non rileva la valutazione del parametro dell'ossigeno disciolto di cui al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md). Sono in ogni caso adottate misure di gestione adeguate, che includono la prosecuzione delle attivita' di controllo algale, sulla base della vigente normativa, e l'informazione al pubblico.
+Ai fini del giudizio di idoneita' per l'individuazione delle zone di balneazione delle acque, in sede di svolgimento delle indagini per determinare i potenziali rischi per la salute umana non rileva la valutazione del parametro dell'ossigeno disciolto di cui al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md). Sono in ogni caso adottate misure di gestione adeguate, che includono la prosecuzione delle attivita' di controllo algale, sulla base della vigente normativa, e l'informazione al pubblico.
 
 Avvertenza:
 
@@ -80,9 +80,9 @@ Avvertenza:
  2006/49/CE del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativa all'adeguatezza patrimoniale delle imprese di investimento e degli enti creditizi (rifusione). 2006/54/CE del Parlamento europeo e del Consiglio, del 5 luglio 2006, riguardante l'attuazione del principio delle pari opportunita' e della parita' di trattamento fra uomini e donne in materia di occupazione e impiego (rifusione).
  La [direttiva 2006/7/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;7) e' pubblicata nella G.U.C.E. del 4 marzo 2006, n. L 64.
  La [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160) e' pubblicata nella G.U.C.E. n. L 31 del 5 febbraio 1976.
- Il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e' pubblicato nella Gazzetta Ufficiale 26 luglio 1982, n. 203.».
+ Il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e' pubblicato nella Gazzetta Ufficiale 26 luglio 1982, n. 203.».
  Nota all'[art. 1:
- - Per il decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), vedi note alle premesse.
 
 ## Art. 2. — Entrata in vigore
 

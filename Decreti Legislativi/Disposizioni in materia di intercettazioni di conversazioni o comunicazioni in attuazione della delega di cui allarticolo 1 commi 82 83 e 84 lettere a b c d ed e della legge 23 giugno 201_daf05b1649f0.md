@@ -16,7 +16,7 @@ Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.
 
 Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante approvazione del testo definitivo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -65,7 +65,7 @@ N O T E
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 103, comma 7, e' aggiunto, in fine, il seguente periodo: «Fermo il divieto di utilizzazione di cui al primo periodo, quando le comunicazioni e conversazioni sono comunque intercettate, il loro contenuto non puo' essere trascritto, neanche sommariamente, e nel verbale delle operazioni sono indicate soltanto la data, l'ora e il dispositivo su cui la registrazione e' intervenuta.»;
                         b)
@@ -116,7 +116,7 @@ Note all'art. 2:
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 242, comma 2, le parole: «a norma dell'articolo 268 comma 7» sono sostituite dalle seguenti: «a norma dell'articolo 493-bis, comma 2»;
                         b)
@@ -225,7 +225,7 @@ Note all'art. 3:
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 266: 
  1) al comma 2, primo periodo, sono aggiunte, in fine, le seguenti parole: «, che puo' essere eseguita anche mediante l'inserimento di un captatore informatico su un dispositivo elettronico portatile»; 

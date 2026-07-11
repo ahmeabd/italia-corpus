@@ -96,7 +96,7 @@ La [L. 1 febbraio 1956, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 ## Art. 10.
 
 E' autorizzata la spesa di L. 5 miliardi, da servire:
- a) per L. 3 miliardi, in ragione di L. 100 milioni all'anno per trenta anni, a decorrere dall'esercizio finanziario 1947-48, in aumento del fondo per concorso negli interessi su mutui di miglioramento a termini della [legge 5 luglio 1928, n. 1760](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), e successive; ((3))
+ a) per L. 3 miliardi, in ragione di L. 100 milioni all'anno per trenta anni, a decorrere dall'esercizio finanziario 1947-48, in aumento del fondo per concorso negli interessi su mutui di miglioramento a termini della [legge 5 luglio 1928, n. 1760](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2029%20luglio%201927%20n.%201509%20concernente%20provvedimenti%20per%20lordinamento%20del%20credito%20agrario%20nel%20Regno.%20028U1760.md), e successive; ((3))
  b) per L. 2 miliardi per sussidi a norma delle leggi di bonifica, nelle spese delle opere di miglioramento fondiario nei fondi acquistati a norma degli articoli 1, 3, 4 e 5 del presente decreto. (1a)
 
 -----------------

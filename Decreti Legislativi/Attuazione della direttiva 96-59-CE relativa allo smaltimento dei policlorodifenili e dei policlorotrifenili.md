@@ -136,7 +136,7 @@ I detentori di apparecchi contenenti PCB per un volume superiore a 5 dm(elevato 
                         e)
                             quantitativo e concentrazione di PCB detenuto;
                         f)
-                            data della denuncia effettuata ai sensi dell'[articolo 5 del decreto del Presidente della Repubblica 24 maggio 1988, n. 216](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2085-467%20recante%20sesta%20modifica%20PCB-PCT%20della%20direttiva%20CEE%20n.%2076-769%20concernente%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amminis_09d6c76779a8.md).
+                            data della denuncia effettuata ai sensi dell'[articolo 5 del decreto del Presidente della Repubblica 24 maggio 1988, n. 216](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2085-467%20recante%20sesta%20modifica%20PCB-PCT%20della%20direttiva%20CEE%20n.%2076-769%20concernente%20il%20ravvicinamento%20delle%20disposizioni%20legislative%20regolamentari%20ed%20amminis_09d6c76779a8.md).
 
 2.
 

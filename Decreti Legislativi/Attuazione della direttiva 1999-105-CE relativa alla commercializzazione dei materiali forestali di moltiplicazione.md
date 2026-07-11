@@ -24,7 +24,7 @@ Vista la [legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%2
 
 Visto il decreto del Ministro per l'agricoltura e le foreste, in data 15 novembre 1974, pubblicato nella Gazzetta Ufficiale n. 49 del 20 febbraio 1975, relativo ai periodi di raccolta ed all'eta' minima delle piante;
 
-Visto il [decreto del Presidente della Repubblica 10 maggio 1982, n. 494](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-445%20relativa%20alla%20commercializzazione%20dei%20materiali%20forestali%20di%20moltiplicazione.md);
+Visto il [decreto del Presidente della Repubblica 10 maggio 1982, n. 494](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2075-445%20relativa%20alla%20commercializzazione%20dei%20materiali%20forestali%20di%20moltiplicazione.md);
 
 Vista la [direttiva 1999/105/CE del Consiglio, del 22 dicembre 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;105), relativa alla commercializzazione dei materiali forestali di moltiplicazione;
 
@@ -119,7 +119,7 @@ Avvertenza:
  - Il Ministero delle politiche agricole ha pubblicato con la stessa data e nella medesima Gazzetta i seguenti decreti:
  decreto ministeriale 15 novembre 1974 recante: «Registro di carico e scarico riguardante i materiali forestali di propagazione destinati ai rimboschimenti». (Pubblicato nella Gazzetta Ufficiale 20 febbraio 1975, n. 49);
  decreto ministeriale 15 novembre 1974 recante: «Modalita' di raccolta delle sementi delle specie forestali destinate al rimboschimento». (Pubblicato nella Gazzetta Ufficiale 20 febbraio 1975, n. 49).
- - Il [decreto del Presidente della Repubblica 10 maggio 1982, n. 494](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2075-445%20relativa%20alla%20commercializzazione%20dei%20materiali%20forestali%20di%20moltiplicazione.md), reca: «Attuazione della [direttiva (CEE) n. 75/445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;445) relativa alla commercializzazione dei materiali forestali di moltiplicazione».
+ - Il [decreto del Presidente della Repubblica 10 maggio 1982, n. 494](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2075-445%20relativa%20alla%20commercializzazione%20dei%20materiali%20forestali%20di%20moltiplicazione.md), reca: «Attuazione della [direttiva (CEE) n. 75/445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;445) relativa alla commercializzazione dei materiali forestali di moltiplicazione».
  - La [direttiva 1999/105/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;105) e' pubblicata in GUCE 15 gennaio 2000, n. L 11.
  - La [direttiva 2001/18/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;18) e' pubblicata in GUCE 17 aprile 2001, n. L 106.
  - La [direttiva 90/220/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;220) e' pubblicata in GUCE 8 maggio 1990, n. L 117.

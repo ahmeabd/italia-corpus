@@ -321,7 +321,7 @@ Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con 
 Con la stessa procedura di cui al comma 1, si provvede ad adeguare ed integrare la disciplina contenuta nel decreto di cui al comma 1, nonche' a modificare ed integrare gli elenchi di cui agli allegati B e C, in conformita' alle modifiche alle linee direttrici e alle altre modifiche adottate in sede comunitaria.
 
 Nota all'art. 13, comma 1:
- - L'art. 26, comma 1, del citato [decreto legislativo n. 626/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626) sostituisce l'[art. 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md) che si riporta di seguito:
+ - L'art. 26, comma 1, del citato [decreto legislativo n. 626/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626) sostituisce l'[art. 393 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md) che si riporta di seguito:
  "Art. 26 (Commissione consultiva permanente per la prevenzione degli infortuni e l'igiene del lavoro).
  [Art. 393 (Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_393) della commissione). - 1. Presso il Ministero del lavoro e della previdenza sociale e' istituita una commissione consultiva permanente per la prevenzione degli infortuni e per l'igiene del lavoro. Essa e' presieduta dal Ministro del lavoro e della previdenza sociale o dal direttore generale della Direzione generale dei rapporti di lavoro da lui delegato, ed e' composta da:
  a) cinque funzionari esperti designati dal Ministro del lavoro e della previdenza sociale, di cui tre ispettori del lavoro, laureati uno in ingegneria, uno in medicina e chirurgia e uno in chimica o fisica;
@@ -355,7 +355,7 @@ Nota all'art. 13, comma 1:
  2. La relazione di cui al comma precedente, lettera a), e' resa pubblica ed e' trasmessa alle commissioni parlamentari competenti ed ai presidenti delle regioni.
  3. La commissione, per l'espletamento dei suoi compiti, puo' chiedere dati o promuovere indagini e, su richiesta o autorizzazione del Ministero del lavoro e della previdenza sociale, effettuare sopralluoghi.".
  - L'art. 26, comma 3, del citato [decreto legislativo n. 626/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626), reca:
- "3. L'[art. 395 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md) e' soppresso.
+ "3. L'[art. 395 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md) e' soppresso.
  Nota all'art 15:
  - Per il titolo del [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md), e successive modificazioni, si veda in note all'art. 11, comma 1.
 

@@ -134,7 +134,7 @@ I vincitori del concorso sono nominati allievi agenti del Corpo forestale dello 
 
 4-bis.
 
-Sono altresi' nominati allievi agenti del Corpo forestale dello Stato i volontari che abbiano prestato servizio senza demerito per almeno tre anni nelle Forze armate, secondo la percentuale e le modalita' stabilite dal [decreto del Presidente della Repubblica 2 settembre 1997, n. 332](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20norme%20per%20limmissione%20dei%20volontari%20delle%20Forze%20armate%20nelle%20carriere%20iniziali%20della%20Difesa%20delle%20Forze%20di%20polizia%20dei%20Vigili%20del%20fuoco%20e%20del%20Corpo%20militare%20della%20Croc_8ed8a96c9a04.md).
+Sono altresi' nominati allievi agenti del Corpo forestale dello Stato i volontari che abbiano prestato servizio senza demerito per almeno tre anni nelle Forze armate, secondo la percentuale e le modalita' stabilite dal [decreto del Presidente della Repubblica 2 settembre 1997, n. 332](../DPR/Regolamento%20recante%20norme%20per%20limmissione%20dei%20volontari%20delle%20Forze%20armate%20nelle%20carriere%20iniziali%20della%20Difesa%20delle%20Forze%20di%20polizia%20dei%20Vigili%20del%20fuoco%20e%20del%20Corpo%20militare%20della%20Croc_8ed8a96c9a04.md).
 
 4-ter.
 

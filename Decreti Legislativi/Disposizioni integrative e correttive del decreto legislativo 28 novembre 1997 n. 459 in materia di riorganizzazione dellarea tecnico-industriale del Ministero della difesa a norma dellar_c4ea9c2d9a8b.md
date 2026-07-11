@@ -20,7 +20,7 @@ Visto il [decreto legislativo 28 novembre 1997, n. 459](Riorganizzazione%20della
 
 Vista la [legge 18 febbraio 1997, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attribuzioni%20del%20Ministro%20della%20difesa%20ristrutturazione%20dei%20vertici%20delle%20Forze%20armate%20e%20dellAmministrazione%20della%20difesa.md), e successive modificazioni, recante attribuzioni del Ministro della difesa, ristrutturazione dei vertici delle Forze armate e dell'Amministrazione della difesa;
 
-Visto il regolamento, di cui al [decreto del Presidente della Repubblica 25 ottobre 1999, n. 556](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md), e successive modificazioni, concernente le attribuzioni dei vertici militari;
+Visto il regolamento, di cui al [decreto del Presidente della Repubblica 25 ottobre 1999, n. 556](../DPR/Regolamento%20di%20attuazione%20dellarticolo%2010%20della%20legge%2018%20febbraio%201997%20n.%2025%20concernente%20le%20attribuzioni%20dei%20vertici%20militari.md), e successive modificazioni, concernente le attribuzioni dei vertici militari;
 
 Udito il parere del Consiglio superiore delle Forze armate;
 

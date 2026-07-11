@@ -84,7 +84,7 @@ L'Ente provvede a:
                         i)
                             effettuare, a pagamento, consulenze e progettazioni per conto di altre amministrazioni od enti italiani e stranieri;
                         l)
-                            espletare, mediante il proprio personale, i compiti di cui al [comma 3 dell'art. 12 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md) e dell'[art. 23 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+                            espletare, mediante il proprio personale, i compiti di cui al [comma 3 dell'art. 12 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md) e dell'[art. 23 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
 
 2.
 

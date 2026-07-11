@@ -51,7 +51,7 @@ AVVERTENZA:
 
 1.
 
-Ai fini del presente decreto sono applicabili, ove necessario, le definizioni che figurano nell'[art. 3 del decreto del Presidente della Repubblica 10 settembre 1991, n. 312](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%20CEE%20numeri%2083-90%2085-323%2085-325%2086-587%20e%2088-288%20relative%20a%20problemi%20sanitari%20in%20materia%20di%20scambi%20intracomunitari%20di%20carni%20fresche.md).
+Ai fini del presente decreto sono applicabili, ove necessario, le definizioni che figurano nell'[art. 3 del decreto del Presidente della Repubblica 10 settembre 1991, n. 312](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%20CEE%20numeri%2083-90%2085-323%2085-325%2086-587%20e%2088-288%20relative%20a%20problemi%20sanitari%20in%20materia%20di%20scambi%20intracomunitari%20di%20carni%20fresche.md).
 
 2.
 
@@ -74,7 +74,7 @@ I prodotti a base di carne provenienti dai Paesi terzi per essere importati devo
                             rispondenti ai requisiti prescritti dall'[art. 2, comma 1, lettera C), del decreto legislativo 30 dicembre 1992, n. 537](Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md);
                         b)
                             originarie di uno Stato membro, purche':
- 1) rispondano ai requisiti del [decreto del Presidente della Repubblica 10 settembre 1991, n. 312](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%20CEE%20numeri%2083-90%2085-323%2085-325%2086-587%20e%2088-288%20relative%20a%20problemi%20sanitari%20in%20materia%20di%20scambi%20intracomunitari%20di%20carni%20fresche.md), e del [decreto legislativo 30 dicembre 1992, n. 537](Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md);
+ 1) rispondano ai requisiti del [decreto del Presidente della Repubblica 10 settembre 1991, n. 312](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%20CEE%20numeri%2083-90%2085-323%2085-325%2086-587%20e%2088-288%20relative%20a%20problemi%20sanitari%20in%20materia%20di%20scambi%20intracomunitari%20di%20carni%20fresche.md), e del [decreto legislativo 30 dicembre 1992, n. 537](Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md);
  2) siano state inviate, sotto controllo veterinario, nello stabilimento di trasformazione o direttamente o dopo essere state immagazzinate in un deposito frigorifero riconosciuto;
  3) siano state, prima del trattamento, oggetto di un controllo da parte di un veterinario ufficiale per accertare che queste carni fresche siano ancora adatte ad essere sottoposte ad un trattamento in conformita' al [decreto legislativo 30 dicembre 1992, n. 537](Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md).
 

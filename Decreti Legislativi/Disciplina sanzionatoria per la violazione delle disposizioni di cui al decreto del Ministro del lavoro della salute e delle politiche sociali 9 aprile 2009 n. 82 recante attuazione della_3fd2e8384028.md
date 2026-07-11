@@ -376,7 +376,7 @@ Valina 21 88
  PARTE 4 
  Additivi alimentari ammessi negli alimenti dietetici destinati ai lattanti 
  ed alla prima infanzia per scopi medici speciali di cui al [decreto 
- del Presidente della Repubblica 20 marzo 2002, n. 57](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20della%20direttiva%201999-21-CE%20sugli%20alimenti%20dietetici%20destinati%20a%20fini%20medici%20speciali.md) 
+ del Presidente della Repubblica 20 marzo 2002, n. 57](../DPR/Regolamento%20di%20attuazione%20della%20direttiva%201999-21-CE%20sugli%20alimenti%20dietetici%20destinati%20a%20fini%20medici%20speciali.md) 
  Si applicano le tabelle contenute nelle parti 1, 2 e 3 del presente allegato 
 
  Parte di provvedimento in formato grafico

@@ -20,7 +20,7 @@ Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20a
 
 Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), recante Approvazione del testo definitivo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Vista la [legge 11 agosto 2003, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-11;228), recante Misure contro la tratta di persone;
 
@@ -114,7 +114,7 @@ Avvertenza:
  2012/52/UE della Commissione, del 20 dicembre 2012, comportante misure destinate ad agevolare il riconoscimento delle ricette mediche emesse in un altro Stato membro (termine di recepimento 25 ottobre 2013); 
  2013/1/UE del Consiglio, del 20 dicembre 2012, recante modifica della [direttiva 93/109/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;109) relativamente a talune modalita' di esercizio del diritto di eleggibilita' alle elezioni del Parlamento europeo per i cittadini dell'Unione che risiedono in uno Stato membro di cui non sono cittadini (termine di recepimento 28 gennaio 2014).». 
  - Il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (Approvazione del testo definitivo del [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).) e' pubblicato nella Gazzetta Ufficiale del 26 ottobre 1930, n. 251, Supplemento Straordinario. 
- - Il [decreto del Presidente della Repubblica del 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md) (Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).) e' pubblicato nella Gazzetta Ufficiale del 24 ottobre 1988, n. 250. 
+ - Il [decreto del Presidente della Repubblica del 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md) (Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).) e' pubblicato nella Gazzetta Ufficiale del 24 ottobre 1988, n. 250. 
  - La [legge 11 agosto 2003, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-08-11;228) (Misure contro la tratta di persone.) e' pubblicata nella Gazzetta Ufficiale del 23 agosto 2003, n. 195. 
  - Il [decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero.) e' pubblicato nella Gazzetta Ufficiale del 18 agosto 1998, n. 191. 
  - Il [decreto legislativo 19 novembre 2007, n. 251](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md) (Attuazione della [direttiva 2004/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;83) recante norme minime sull'attribuzione, a cittadini di Paesi terzi o apolidi, della qualifica del rifugiato o di persona altrimenti bisognosa di protezione internazionale, nonche' norme minime sul contenuto della protezione riconosciuta.) e' pubblicato nella Gazzetta Ufficiale del 4 gennaio 2008, n. 3. 
@@ -147,12 +147,12 @@ Note all'[art. 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codi
 
 ## Art. 3. — Modifica al codice di procedura penale
 
-Al [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), e' apportata la seguente modifica: 
+Al [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), e' apportata la seguente modifica: 
  all'articolo 398, dopo il comma 5-bis e' aggiunto il seguente comma: 
  «5-ter. Il giudice, su richiesta di parte, applica le disposizioni di cui al comma 5-bis quando fra le persone interessate all'assunzione della prova vi siano maggiorenni in condizione di particolare vulnerabilita', desunta anche dal tipo di reato per cui si procede».
 
-Note all'[art. 3](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md): 
- - L'[art. 398 del decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), gia' citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
+Note all'[art. 3](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md): 
+ - L'[art. 398 del decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), gia' citato nelle note alle premesse, come modificato dal presente decreto, cosi' recita: 
  «Art. 398 (Provvedimenti sulla richiesta di incidente probatorio). - 1. Entro due giorni dal deposito della prova della notifica e comunque dopo la scadenza del termine previsto dall'art. 396 comma 1, il giudice pronuncia ordinanza con la quale accoglie, dichiara inammissibile o rigetta la richiesta di incidente probatorio. L'ordinanza di inammissibilita' o di rigetto e' immediatamente comunicata al pubblico ministero e notificata alle persone interessate. 
  2. Con l'ordinanza che accoglie la richiesta il giudice stabilisce: 
  a) l'oggetto della prova nei limiti della richiesta e delle deduzioni; 

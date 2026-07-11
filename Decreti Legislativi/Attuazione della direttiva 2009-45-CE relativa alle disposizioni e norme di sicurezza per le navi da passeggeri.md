@@ -28,7 +28,7 @@ Visto il [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DP
 
 Visto il [decreto del Presidente della Repubblica 16 aprile 1997, n. 293](../DPR/Regolamento%20recante%20norme%20per%20la%20disciplina%20delle%20nuove%20unita%20veloci%20di%20navigazione%20nazionale%20o%20minore.md);
 
-Visto il [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md);
+Visto il [decreto del Presidente della Repubblica 6 ottobre 1999, n. 407](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20delle%20direttive%2096-98-CE%20e%2098-85-CE%20relative%20allequipaggiamento%20marittimo.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 gennaio 2000;
 
@@ -431,7 +431,7 @@ Sono validi il certificato di sicurezza per unita' veloci da passeggeri e l'auto
 
 ((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2020, N. 43)).
 
-((8. Tutto l'equipaggiamento marittimo di cui al [decreto del Presidente della Repubblica 20 dicembre 2017, n. 239](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%202014-90-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20luglio%202014%20sullequipaggiamento%20marittimo%20che%20abroga%20la%20direttiva%2096-98-CE.%2018G00039.md), conforme alle disposizioni del medesimo decreto, e' considerato conforme anche alle disposizioni del presente decreto.))
+((8. Tutto l'equipaggiamento marittimo di cui al [decreto del Presidente della Repubblica 20 dicembre 2017, n. 239](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%202014-90-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20luglio%202014%20sullequipaggiamento%20marittimo%20che%20abroga%20la%20direttiva%2096-98-CE.%2018G00039.md), conforme alle disposizioni del medesimo decreto, e' considerato conforme anche alle disposizioni del presente decreto.))
 
 ## Art. 8-bis. — (( (Sanzioni). ))
 

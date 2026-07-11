@@ -187,7 +187,7 @@ All'[articolo 35, secondo comma, del decreto-legge 18 marzo 1976, n. 46](https:/
 
 6.
 
-All'articolo 8, comma 1, numero 3-bis), del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), le parole: "nel termine di un mese dalla chiusura del periodo d'imposta" sono sostituite dalle seguenti: "entro il sedicesimo giorno del secondo mese successivo alla chiusura del periodo d'imposta".
+All'articolo 8, comma 1, numero 3-bis), del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), le parole: "nel termine di un mese dalla chiusura del periodo d'imposta" sono sostituite dalle seguenti: "entro il sedicesimo giorno del secondo mese successivo alla chiusura del periodo d'imposta".
 
 7.
 

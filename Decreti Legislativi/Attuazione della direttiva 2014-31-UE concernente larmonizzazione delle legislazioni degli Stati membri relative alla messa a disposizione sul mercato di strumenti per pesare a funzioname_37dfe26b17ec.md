@@ -384,14 +384,14 @@ AVVERTENZA
 
 1.
 
-Resta abrogato il [decreto del Presidente della Repubblica 23 agosto 1982, n. 845](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2073-360%20e%20n.%2076-696%20relative%20a%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico.md).
+Resta abrogato il [decreto del Presidente della Repubblica 23 agosto 1982, n. 845](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-360%20e%20n.%2076-696%20relative%20a%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico.md).
 
 2.
 
 E' abrogato il [decreto legislativo 24 febbraio 1997, n. 40](Attuazione%20direttiva%2093-68-CEE%20nella%20parte%20che%20modifica%20la%20direttiva%2090-384-CEE%20in%20materia%20di%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico.md).
 
 NOTE ALL'ARTICOLO 2 
- Il [decreto del Presidente della Repubblica 23 agosto 1982, n. 845](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2073-360%20e%20n.%2076-696%20relative%20a%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico.md) (Attuazione delle [direttive (CEE) n. 73/360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;360) e [n. 76/696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;696) relative a strumenti per pesare a funzionamento non automatico), del quale il presente decreto ne conferma l'abrogazione, e' pubblicato nella Gazzetta Ufficiale 17 novembre 1982 n.316. 
+ Il [decreto del Presidente della Repubblica 23 agosto 1982, n. 845](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-360%20e%20n.%2076-696%20relative%20a%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico.md) (Attuazione delle [direttive (CEE) n. 73/360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;360) e [n. 76/696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;696) relative a strumenti per pesare a funzionamento non automatico), del quale il presente decreto ne conferma l'abrogazione, e' pubblicato nella Gazzetta Ufficiale 17 novembre 1982 n.316. 
  Per i riferimenti normativi del [decreto legislativo 24 febbraio 1997, n. 40](Attuazione%20direttiva%2093-68-CEE%20nella%20parte%20che%20modifica%20la%20direttiva%2090-384-CEE%20in%20materia%20di%20strumenti%20per%20pesare%20a%20funzionamento%20non%20automatico.md) si vedano le note alle premesse.
 
 ## Art. 3. — Disposizioni finali

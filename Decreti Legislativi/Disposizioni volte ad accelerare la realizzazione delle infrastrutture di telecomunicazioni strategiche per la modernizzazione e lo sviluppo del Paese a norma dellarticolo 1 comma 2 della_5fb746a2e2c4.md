@@ -64,7 +64,7 @@ La Corte costituzionale, con sentenza 25 settembre-1° ottobre 2003, n. 303 (in 
 
 1.
 
-La terminologia tecnica utilizzata nel presente decreto legislativo deve intendersi nel significato suo proprio desumibile dalla normativa di riferimento ed, in particolare, dal [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), dal [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), dalla direttiva del Presidente del Consiglio dei Ministri 3 marzo 1999, pubblicata nella Gazzetta Ufficiale n. 58 dell'11 marzo 1999, nonche' dalla [legge 22 febbraio 2001, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36), e successive modificazioni. ((1))
+La terminologia tecnica utilizzata nel presente decreto legislativo deve intendersi nel significato suo proprio desumibile dalla normativa di riferimento ed, in particolare, dal [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), dal [decreto del Presidente della Repubblica 19 settembre 1997, n. 318](../DPR/Regolamento%20per%20lattuazione%20di%20direttive%20comunitarie%20nel%20settore%20delle%20telecomunicazioni.md), dalla direttiva del Presidente del Consiglio dei Ministri 3 marzo 1999, pubblicata nella Gazzetta Ufficiale n. 58 dell'11 marzo 1999, nonche' dalla [legge 22 febbraio 2001, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36), e successive modificazioni. ((1))
 
 ---------------
 
@@ -269,7 +269,7 @@ La Corte costituzionale, con sentenza 25 settembre-1° ottobre 2003, n. 303 (in 
 
 1.
 
-Al fine di accelerare l'installazione delle infrastrutture di telecomunicazioni, all'articolo 232 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' aggiunto, in fine, il seguente comma:
+Al fine di accelerare l'installazione delle infrastrutture di telecomunicazioni, all'articolo 232 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' aggiunto, in fine, il seguente comma:
 "L'operatore di telecomunicazioni incaricato del servizio puo' agire direttamente in giudizio per far cessare eventuali impedimenti e turbative al passaggio ed alla installazione delle infrastrutture." ((1))
 
 ---------------
@@ -294,7 +294,7 @@ I gestori delle reti radiomobili di comunicazione pubblica provvedono ad inviare
 
 4.
 
-E' abrogato l'[articolo 2-bis della legge 1 luglio 1997, n. 189](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md).
+E' abrogato l'[articolo 2-bis della legge 1 luglio 1997, n. 189](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20maggio%201997%20n.%20115%20recante%20disposizioni%20urgenti%20per%20il%20recepimento%20della%20direttiva%2096-2-CE%20sulle%20comunicazioni%20mobili%20e%20personali.md).
 
 ---------------
 

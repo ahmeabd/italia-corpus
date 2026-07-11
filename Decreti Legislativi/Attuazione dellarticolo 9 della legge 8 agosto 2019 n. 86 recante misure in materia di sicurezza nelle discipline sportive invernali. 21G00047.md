@@ -22,7 +22,7 @@ Vista la [legge 21 marzo 2001, n. 74](https://www.normattiva.it/uri-res/N2Ls?urn
 
 Vista la [legge 24 dicembre 2003, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;363);
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e, in particolare, l'articolo 379;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e, in particolare, l'articolo 379;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 24 novembre 2020;
 
@@ -77,7 +77,7 @@ NOTE
  «Art. 4. (Attivita' specialistiche). - (Omissis). 
  5-bis. Le societa' esercenti o concessionarie di impianti funicolari aerei in servizio pubblico stipulano apposite convenzioni con il CNSAS per l'evacuazione e per la messa in sicurezza dei passeggeri.». 
  - La [legge 24 dicembre 2003, n. 363](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;363), recante «Norme in materia di sicurezza nella pratica degli sport invernali da discesa e da fondo», e' pubblicata nella Gazzetta Ufficiale 5 gennaio 2004, n. 3. 
- - Si riporta il testo dell'[articolo 379 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md)», pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303 del - S.O. n. 134: 
+ - Si riporta il testo dell'[articolo 379 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md)», pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303 del - S.O. n. 134: 
  «Art. 379. (Guida sotto l'influenza dell'alcool). - 1.
  L'accertamento dello stato di ebbrezza ai sensi dell'articolo 186, comma 4, del codice, si effettua mediante l'analisi dell'aria alveolare espirata: qualora, in base al valore della concentrazione di alcool nell'aria alveolare espirata, la concentrazione alcolemica corrisponda o superi 0,8 grammi per litro (g/l), il soggetto viene ritenuto in stato di ebbrezza. 
  2. La concentrazione di cui al comma 1 dovra' risultare da almeno due determinazioni concordanti effettuate ad un intervallo di tempo di 5 minuti. 
@@ -635,10 +635,10 @@ Gli organi accertatori, nel rispetto della riservatezza personale e senza pregiu
 
 3.
 
-Quando gli accertamenti qualitativi di cui al comma 2 hanno dato esito positivo ovvero quando si abbia altrimenti motivo di ritenere che lo sciatore si trovi in stato di alterazione psicofisica derivante dall'influenza dell'alcool o di droghe, gli organi accertatori, anche accompagnandolo presso il piu' vicino ufficio o comando, hanno la facolta' di effettuare l'accertamento con gli strumenti e le procedure previste dall'[articolo 379 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+Quando gli accertamenti qualitativi di cui al comma 2 hanno dato esito positivo ovvero quando si abbia altrimenti motivo di ritenere che lo sciatore si trovi in stato di alterazione psicofisica derivante dall'influenza dell'alcool o di droghe, gli organi accertatori, anche accompagnandolo presso il piu' vicino ufficio o comando, hanno la facolta' di effettuare l'accertamento con gli strumenti e le procedure previste dall'[articolo 379 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
 
 Note all'art. 31: 
- - Per i riferimenti normativi del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md)», pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303 - S.O. n. 134, si veda nelle note alle premesse.
+ - Per i riferimenti normativi del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante «Regolamento di esecuzione e di attuazione del nuovo [codice della strada](Nuovo%20codice%20della%20strada.md)», pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303 - S.O. n. 134, si veda nelle note alle premesse.
 
 ### Art. 32.
 

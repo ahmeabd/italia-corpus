@@ -20,7 +20,7 @@ Visto il [regio decreto 19 ottobre 1930, n. 1398](../Codici/Approvazione%20del%2
 
 Vista la [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), recante norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta';
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
@@ -193,7 +193,7 @@ Note all'art. 3:
 
 1.
 
-Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
+Al [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), sono apportate le seguenti modificazioni:
                             a)
                                 all'articolo 656, al comma 6 il periodo: «Il tribunale di sorveglianza decide entro quarantacinque giorni dal ricevimento dell'istanza.» e' sostituito dal seguente: «Il tribunale di sorveglianza decide non prima del trentesimo e non oltre il quarantacinquesimo giorno dalla ricezione della richiesta.»;
                             b)
@@ -210,7 +210,7 @@ Quando non e' stata emessa o confermata l'ordinanza provvisoria, o e' stata prop
  3.2. L'avviso di fissazione dell'udienza, notificato all'interessato, contiene, a pena di nullita', l'avvertimento della facolta' di parteciparvi personalmente. Se l'interessato detenuto o internato ne fa richiesta, il giudice dispone la traduzione. Si applicano in ogni caso le forme e le modalita' di partecipazione a distanza nei procedimenti in camera di consiglio previste dalla legge. La partecipazione all'udienza avviene a distanza anche quando l'interessato, detenuto o internato, ne fa richiesta ovvero quando lo stesso e' detenuto o internato in un luogo posto fuori dalla circoscrizione del giudice. Ove lo ritenga opportuno, il giudice dispone la traduzione dell'interessato.».
 
 Note all'[art. 4: 
- - Il decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md) (Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. 
+ - Il decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md) (Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)) e' pubblicato nella Gazzetta Ufficiale 24 ottobre 1988, n. 250, S.O. 
  - Si riporta il testo dell'[art. 656 del CPP](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447#art_656), come modificato dal presente decreto legislativo: 
  «Art. 656 (Esecuzione delle pene detentive). - (Omissis). 
  6. L'istanza deve essere presentata dal condannato o dal difensore di cui al comma 5 ovvero allo scopo nominato al pubblico ministero, il quale la trasmette, unitamente alla documentazione, al tribunale di sorveglianza competente in relazione al luogo in cui ha sede l'ufficio del pubblico ministero. Se l'istanza non e' corredata dalla documentazione utile, questa, salvi i casi di inammissibilita', puo' essere depositata nella cancelleria del tribunale di sorveglianza fino a cinque giorni prima dell'udienza fissata a norma dell'articolo 666, comma 3.
