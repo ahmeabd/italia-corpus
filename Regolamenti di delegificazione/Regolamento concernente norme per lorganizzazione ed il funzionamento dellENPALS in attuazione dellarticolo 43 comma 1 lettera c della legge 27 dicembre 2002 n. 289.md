@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-16;708), ratificato con [legge 29 novembre 1952, n. 2388](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2016%20luglio%201947%20n.%20708%20concernente%20disposizioni%20sullEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo%20E.N.P.A.L.S.md), concernente la costituzione dell'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo (ENPALS);
 
-Visto il [decreto del Presidente della Repubblica 5 gennaio 1950, n. 26](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo.md), concernente l'ordinamento e il funzionamento dell'ENPALS;
+Visto il [decreto del Presidente della Repubblica 5 gennaio 1950, n. 26](../DPR/Ordinamento%20e%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo.md), concernente l'ordinamento e il funzionamento dell'ENPALS;
 
 Vista la [legge 14 giugno 1973, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-06-14;366), concernente l'estensione ai calciatori ed agli allenatori di calcio della previdenza ed assistenza gestite dall'ENPALS;
 
@@ -68,7 +68,7 @@ Avvertenza:
  «Art. 87. - Il Presidente della Repubblica promulga le leggi ed emana i decreti aveni valore di legge e i regolamenti».
  - Il testo del [decreto legislativo 16 luglio 1947, n. 708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-16;708) (Disposizioni concernenti l'Ente nazionale di previdenza e di assistenza per i lavoratori dello spettacolo), e' pubblicato nella Gazzetta Ufficiale 6 agosto 1947, n. 178.
  - Il testo della [legge 29 novembre 1952, n. 2388](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2016%20luglio%201947%20n.%20708%20concernente%20disposizioni%20sullEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo%20E.N.P.A.L.S.md) (Ratifica, con modificazioni, del [decreto legislativo 16 luglio 1947, n. 708](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-07-16;708), concernente disposizioni sull'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo (E.N.P.A.L.S.), e' pubblicato nella Gazzetta Ufficiale 31 dicembre 1952, n. 302.
- - Il testo del [decreto del Presidente della Repubblica 5 gennaio 1950, n. 26](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo.md) (Ordinamento e funzionamento dell'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo), e' pubblicato nella Gazzetta Ufficiale 18 febbraio 1950, n. 41.
+ - Il testo del [decreto del Presidente della Repubblica 5 gennaio 1950, n. 26](../DPR/Ordinamento%20e%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo.md) (Ordinamento e funzionamento dell'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo), e' pubblicato nella Gazzetta Ufficiale 18 febbraio 1950, n. 41.
  - Il testo della [legge 14 giugno 1973, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-06-14;366) (Estensione ai calciatori ed agli allenatori di calcio della previdenza ed assistenza gestite dall'Ente nazionale di previdenza e di assistenza per i lavoratori dello spettacolo), e' pubblicato nella Gazzetta Ufficiale 9 luglio 1973, n. 173.
  - Il testo della [legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91) (Norme in materia di rapporti tra societa' e sportivi professionisti), e' pubblicato nella Gazzetta Ufficiale 27 marzo 1981, n. 86.
  - Il testo del [decreto del Presidente della Repubblica 19 gennaio 1983, n. 90](../DPR/Estensione%20dellassistenza%20ENPALS%20agli%20organizzatori%20generali%20delle%20imprese%20di%20produzione%20cinematografica.md) (Estensione dell'assistenza ENPALS agli organizzatori generali delle imprese di produzione cinematografica), e' pubblicato nella Gazzetta Ufficiale 5 aprile 1983, n. 92.
@@ -474,7 +474,7 @@ Note all'art. 8:
 
 1.
 
-Il [decreto del Presidente della Repubblica 5 gennaio 1950, n. 26](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo.md), e' abrogato.
+Il [decreto del Presidente della Repubblica 5 gennaio 1950, n. 26](../DPR/Ordinamento%20e%20funzionamento%20dellEnte%20nazionale%20di%20previdenza%20ed%20assistenza%20per%20i%20lavoratori%20dello%20spettacolo.md), e' abrogato.
 
 2.
 

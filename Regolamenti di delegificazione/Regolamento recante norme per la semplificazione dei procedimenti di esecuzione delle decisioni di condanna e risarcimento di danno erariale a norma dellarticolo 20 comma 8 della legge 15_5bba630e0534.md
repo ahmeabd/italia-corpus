@@ -16,11 +16,11 @@ Visto l'articolo 20, comma 8, della legge 15 marzo l997, n. 59, allegato 1, n. 2
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto il [regio decreto 5 settembre 1909, n. 776](../Regi%20decreti/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md);
+Visto il [regio decreto 5 settembre 1909, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md);
 
 Visto il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827);
 
-Visto il regolamento approvato con [regio decreto 13 agosto 1933, n. 1038](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md);
+Visto il regolamento approvato con [regio decreto 13 agosto 1933, n. 1038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20procedura%20per%20i%20giudizi%20innanzi%20alla%20Corte%20dei%20conti.%20033U1038.md);
 
 Visto il testo unico approvato con [regio decreto 12 luglio 1934, n. 1214](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sulla%20Corte%20dei%20conti.%20034U1214.md);
 
@@ -74,14 +74,14 @@ I crediti liquidati ed ogni altra somma connessa ai medesimi sono iscritti in ap
 
 1.
 
-Ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e dell'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento e' abrogato il [regio decreto 5 settembre 1909, n. 776](../Regi%20decreti/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md).
+Ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e dell'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), dalla data di entrata in vigore del presente regolamento e' abrogato il [regio decreto 5 settembre 1909, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md).
 
 2.
 
-Le disposizioni del presente regolamento si applicano ogni qualvolta altre disposizioni richiamano il [regio decreto 5 settembre 1909, n. 776](../Regi%20decreti/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md).
+Le disposizioni del presente regolamento si applicano ogni qualvolta altre disposizioni richiamano il [regio decreto 5 settembre 1909, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md).
 
 Nota all'[art. 8:
- - Il regio decreto 5 settembre 1909, n. 776](../Regi%20decreti/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md), recava: "Norme per la esecuzione delle decisioni di condanna pronunciate dalla Corte dei conti in giudizio di responsabilita' a carico di funzionari pubblici o di agenti contabili dello Stato".
+ - Il regio decreto 5 settembre 1909, n. 776](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20le%20norme%20per%20la%20esecuzione%20delle%20decisioni%20di%20condanna%20pronunziate%20dalla%20Corte%20dei%20conti%20in%20giudizi%20di%20responsabilita%20a%20carico%20di%20funzionari%20pubblici%20o%20di%20agenti%20contabili%20del_bddf1ca35046.md), recava: "Norme per la esecuzione delle decisioni di condanna pronunciate dalla Corte dei conti in giudizio di responsabilita' a carico di funzionari pubblici o di agenti contabili dello Stato".
 
 ## Art. 9. — Entrata in vigore
 

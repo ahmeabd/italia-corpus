@@ -24,7 +24,7 @@ Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/
 
 Visto il [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md), e successive modificazioni, ed in particolare gli articoli 9 e 35;
 
-Visto il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md);
+Visto il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md);
 
 Visto il [decreto del Presidente della Repubblica 9 novembre 2005, n. 243](../DPR/Regolamento%20recante%20la%20disciplina%20ordinamentale%20del%20Consiglio%20superiore%20delle%20comunicazioni.md);
 
@@ -214,7 +214,7 @@ Sono, inoltre, confermati i seguenti organismi che operano presso il Ministero d
                             a)
                                 il Comitato di controllo in materia di televendite e spot di televendita di beni e servizi di astrologia, di cartomanzia ed assimilabili, di servizi relativi ai pronostici concernenti il gioco del lotto, enalotto, superenalotto, totocalcio, totogol, totip, lotterie e giochi similari, di cui all'articolo 9 del testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md);
                             b)
-                                l'Osservatorio per la sicurezza delle reti e la tutela delle comunicazioni, di cui all'[articolo 7, comma 1, lettera e), del decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md).
+                                l'Osservatorio per la sicurezza delle reti e la tutela delle comunicazioni, di cui all'[articolo 7, comma 1, lettera e), del decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md).
 
 3.
 
@@ -224,7 +224,7 @@ Note all'art. 7:
  - Per il testo dell'art. 29 del citato [decreto-legge 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), per il testo dell'art. 32-quater del citato [decreto legislativo n. 300 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;300) e per il testo dell'art. 9 del citato [decreto legislativo n. 177 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;177), si vedano le note alle premesse.
  - Il testo dell'[art. 14 del decreto legislativo 9 maggio 2001, n. 269](../Decreti%20Legislativi/Attuazione%20della%20direttiva%201999-5-CE%20riguardante%20le%20apparecchiature%20radio%20le%20apparecchiature%20terminali%20di%20telecomunicazione%20ed%20il%20reciproco%20riconoscimento%20della%20loro%20conformita.md), recante: «Attuazione della [direttiva 1999/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;5) riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita», pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 7 luglio 2001, n. 156, e' il seguente:
  «Art. 14 (Composizione). - 1. Il Ministero delle comunicazioni, a mezzo di provvedimento dirigenziale, istituisce una commissione consultiva nazionale con il compito di fornire pareri in ordine alla applicazione delle disposizioni di cui al presente decreto. La commissione e' costituita da funzionari dei Ministeri delle comunicazioni, dell'industria, del commercio e dell'artigianato e dell'interno.».
- - Il testo dell'art. 7, comma 1, lettera e) del citato [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md), e' il seguente:
+ - Il testo dell'art. 7, comma 1, lettera e) del citato [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md), e' il seguente:
  «Art. 7 (Direzione generale per la gestione delle risorse strumentali ed informative). - 1. La Direzione generale per la gestione delle risorse strumentali ed informative:
  (omissis);
  e) provvede all'attuazione dei compiti in materia di sicurezza delle reti e di tutela delle comunicazioni, anche telematiche; gestisce i rapporti nelle predette materie con organismi nazionali e internazionali ad esclusione di quelli relativi alle materie di competenza dell'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione e coordina l'Osservatorio per la sicurezza delle reti e la tutela delle comunicazioni;».

@@ -16,7 +16,7 @@ Vista la [direttiva 96/50/CE del Consiglio del 23 luglio 1996](https://www.norma
 
 Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), recante: "Disposizioni derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1995-1997" ed in particolare l'articolo 5 e l'allegato C;
 
-Visto l'[articolo 134 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[articolo 134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visti gli articoli da 49 a 53 del regolamento per la navigazione interna approvato con [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](../DPR/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md);
 
@@ -28,7 +28,7 @@ Visto il [decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](../DP
 
 Visto il decreto del Presidente della Repubblica 7 aprile 1959, pubblicato nella Gazzetta Ufficiale n. 137 dell'11 giugno 1959, e successive modifiche e integrazioni, recante norme sullo svolgimento degli esami e la composizione delle rispettive commissioni esaminatrici per il conferimento dei titoli professionali e delle qualifiche di autorizzato della navigazione;
 
-Visto il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), con il quale e' stata data attuazione alla [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), relativa al riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e persone nel settore della navigazione interna;
+Visto il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), con il quale e' stata data attuazione alla [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), relativa al riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e persone nel settore della navigazione interna;
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1998, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-08-23;400#art_17-com2);
 
@@ -69,7 +69,7 @@ Avvertenza:
  "Allegato C
  (Omissis). 96/50/CE: direttiva del Consiglio del 23 luglio 1996, riguardante l'armonizzazione dei requisiti per il conseguimento dei certificati nazionali di conduzione di navi per il trasporto di merci e di persone nella Comunita' nel settore della navigazione interna.
  (Omissis)"
- - L'[art. 134 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;137), cosi' recita:
+ - L'[art. 134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;137), cosi' recita:
  "Art. 134 (Titoli professionali del personale). - Per i servizi di coperta i titoli professionali sono:
  a) capitano;
  b) capo timoniere;
@@ -159,7 +159,7 @@ Il "certificato" puo' essere dei seguenti tipi:
 
 5.
 
-I certificati di conduzione soggetti a riconoscimento reciproco ai sensi dell'allegato al [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), di attuazione della [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), restano validi senza obbligo di sostituzione se rilasciati entro il 6 aprile 1998.
+I certificati di conduzione soggetti a riconoscimento reciproco ai sensi dell'allegato al [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), di attuazione della [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672), restano validi senza obbligo di sostituzione se rilasciati entro il 6 aprile 1998.
 
 Note all'[art. 2:
  - La direttiva 91/672/CEE del Consiglio, del 16 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672) riguarda il riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e di persone nel settore della navigazione interna ed e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee L 373 del 31 dicembre 1991. L'allegato 2 cosi' recita:
@@ -167,7 +167,7 @@ Note all'[art. 2:
  Regno del Belgio Schelda marittima.
  Repubblica federale di Germania zona 1 e zona 2 dell'allegato I della [direttiva 82/714/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1982;714).
  Regno dei Paesi Bassi Dollard, Eems, Waddenzee, Ijsselmeer, Schelda orientale e Schelda occidentale".
- - Il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), concerne:
+ - Il [decreto del Presidente della Repubblica 12 gennaio 1998, n. 24](../DPR/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2091-672-CEE%20relativa%20al%20riconoscimento%20reciproco%20dei%20certificati%20nazionali%20di%20conduzioni%20di%20navi%20per%20il%20trasporto%20di%20merci%20e%20persone_5bada9ee9d4f.md), concerne:
  "Regolamento recante norme di attuazione della [direttiva 91/672/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;672) relativa al riconoscimento reciproco dei certificati nazionali di conduzione di navi per il trasporto di merci e persone nel settore della navigazione interna". L'allegato cosi' recita:
  "Certificati ritenuti validi:
  1) Regno del Belgio: Brevet de conduire A (arrete' royal n. ....... du ....................................);

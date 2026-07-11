@@ -22,7 +22,7 @@ Vista la [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni, recante norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche;
 
-Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20iscrizione%20nellelenco%20di%20cui%20allart.%202%20della%20legge%2030%20ottobre%201986%20n.%20738%20di%20istituzioni%20scolastiche%20associate%20al%20sistema%20I.B.O.md), recante regolamento recante semplificazione dei procedimenti di iscrizione nell'elenco, di cui all'[articolo 2 della legge 30 ottobre 1986, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-30;738#art_2), di Istituzioni scolastiche associate al sistema I.B.O.;
+Visto il [decreto del Presidente della Repubblica 18 aprile 1994, n. 777](../DPR/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20iscrizione%20nellelenco%20di%20cui%20allart.%202%20della%20legge%2030%20ottobre%201986%20n.%20738%20di%20istituzioni%20scolastiche%20associate%20al%20sistema%20I.B.O.md), recante regolamento recante semplificazione dei procedimenti di iscrizione nell'elenco, di cui all'[articolo 2 della legge 30 ottobre 1986, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-30;738#art_2), di Istituzioni scolastiche associate al sistema I.B.O.;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 marzo 2010;
 
@@ -146,10 +146,10 @@ L'iscrizione all'elenco puo' essere sospesa o revocata, con provvedimento motiva
 
 1.
 
-A decorrere dalla data di entrata in vigore del presente regolamento e' abrogato il [decreto del Presidente della Repubblica 18 aprile 1994, n. 777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20iscrizione%20nellelenco%20di%20cui%20allart.%202%20della%20legge%2030%20ottobre%201986%20n.%20738%20di%20istituzioni%20scolastiche%20associate%20al%20sistema%20I.B.O.md).
+A decorrere dalla data di entrata in vigore del presente regolamento e' abrogato il [decreto del Presidente della Repubblica 18 aprile 1994, n. 777](../DPR/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20iscrizione%20nellelenco%20di%20cui%20allart.%202%20della%20legge%2030%20ottobre%201986%20n.%20738%20di%20istituzioni%20scolastiche%20associate%20al%20sistema%20I.B.O.md).
 
 Note all'[art. 4: 
- - Il decreto del Presidente della Repubblica 18 aprile 1994, n. 777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20iscrizione%20nellelenco%20di%20cui%20allart.%202%20della%20legge%2030%20ottobre%201986%20n.%20738%20di%20istituzioni%20scolastiche%20associate%20al%20sistema%20I.B.O.md), concerne: «Regolamento recante semplificazione dei procedimenti di iscrizione nell'elenco di cui all'[art. 2 della legge 30 ottobre 1986, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-30;738#art_2), di istituzioni scolastiche associate al sistema I.B.O.».
+ - Il decreto del Presidente della Repubblica 18 aprile 1994, n. 777](../DPR/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20di%20iscrizione%20nellelenco%20di%20cui%20allart.%202%20della%20legge%2030%20ottobre%201986%20n.%20738%20di%20istituzioni%20scolastiche%20associate%20al%20sistema%20I.B.O.md), concerne: «Regolamento recante semplificazione dei procedimenti di iscrizione nell'elenco di cui all'[art. 2 della legge 30 ottobre 1986, n. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-30;738#art_2), di istituzioni scolastiche associate al sistema I.B.O.».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -16,7 +16,7 @@ Vista la [legge 26 ottobre 1962, n. 1612](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49);
 
-Visto il [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20febbraio%201987%20n.%2049%20sulla%20disciplina%20della%20cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md);
+Visto il [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20febbraio%201987%20n.%2049%20sulla%20disciplina%20della%20cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md);
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), e successive modificazioni;
 
