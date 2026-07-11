@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), concernente l'istituzione dell'imposta generale sull'entrata e successive disposizioni;
+Visto il [regio decreto-legge 9 gennaio 1940, n. 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20generale%20sullentrata.%20040U0002.md), convertito nella [legge 19 giugno 1940, n. 762](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%209%20gennaio%201940-XVIII%20n.%202%20che%20istituisce%20una%20imposta%20generale%20sullentrata.%20040U0762.md), concernente l'istituzione dell'imposta generale sull'entrata e successive disposizioni;
 
 Visto il [decreto del Presidente della Repubblica 20 marzo 1953, n. 112](Testo%20unico%20delle%20leggi%20vigenti%20in%20materia%20di%20tasse%20sulle%20concessioni%20governative.md), che approva il testo unico delle leggi vigenti in materia di tasse sulle concessioni governative;
 

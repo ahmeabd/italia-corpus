@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 1 maggio 1925, n. 582](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellOpera%20nazionale%20del%20dopolavoro.%20025U0582.md), convertito nella [legge 18 marzo 1926, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
+Visto il [regio decreto-legge 1 maggio 1925, n. 582](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20dellOpera%20nazionale%20del%20dopolavoro.%20025U0582.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
 Vista la [legge 24 maggio 1937, n. 817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20norme%20sullordinamento%20dellOpera%20Nazionale%20Dopolavoro.%20037U0817.md);
 

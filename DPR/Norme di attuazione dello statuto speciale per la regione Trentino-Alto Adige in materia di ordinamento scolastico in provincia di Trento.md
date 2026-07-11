@@ -111,7 +111,7 @@ A far data dal 1 settembre 1996 il personale avente titolo alla nomina in ruolo 
 
 1.
 
-Sono esercitate dalla provincia di Trento le attribuzioni degli organi dello Stato concernenti il Consorzio provinciale per l'istruzione tecnica di cui al [regio decreto-legge 26 settembre 1935, n. 1946](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20035U1946.md), convertito nella [legge 2 gennaio 1936, n. 82](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201946%20relativo%20al%20riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20036U0082.md), e successive modificazioni ed integrazioni.
+Sono esercitate dalla provincia di Trento le attribuzioni degli organi dello Stato concernenti il Consorzio provinciale per l'istruzione tecnica di cui al [regio decreto-legge 26 settembre 1935, n. 1946](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20035U1946.md), convertito nella [legge 2 gennaio 1936, n. 82](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201946%20relativo%20al%20riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20036U0082.md), e successive modificazioni ed integrazioni.
 
 2.
 

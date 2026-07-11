@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [decreto del Presidente della Repubblica 12 giugno 1955, n. 537](Classifica%20e%20trasformazione%20delle%20Scuole%20darte%20a%20norma%20della%20legge%209%20agosto%201954%20n.%20651.md), con il quale e' stata approvata la pianta organica della Scuola d'arte di Mantova;
 
-Vista la [legge 12 agosto 1957, n. 799](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20cattedre%20di%20ruolo%20ordinario%20dei%20posti%20di%20ruolo%20speciale%20transitorio%20e%20collocazione%20nei%20ruoli%20ordinari%20di%20insegnanti%20inscritti%20nei%20ruoli%20speciali%20transitori.md);
+Vista la [legge 12 agosto 1957, n. 799](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20cattedre%20di%20ruolo%20ordinario%20dei%20posti%20di%20ruolo%20speciale%20transitorio%20e%20collocazione%20nei%20ruoli%20ordinari%20di%20insegnanti%20inscritti%20nei%20ruoli%20speciali%20transitori.md);
 
 Vista la [legge 9 aprile 1962, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-09;163), concernente l'ordinamento amministrativo e didattico degli Istituti e Scuole d'arte;
 

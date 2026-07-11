@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 17 novembre 1938, numero 1826](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20provinciale%20dellAmministrazione%20del%20catasto%20o%20dei%20servizi%20tecnici%20erariali.%20038U1826.md), convertito nella [legge 5 gennaio 1939, n. 12](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2017%20novembre%201938-XVII%20n.%201826%20relativo%20allistituzione%20di%20un%20fondo%20di%20previdenza%20a%20favore%20del%20personale%20provinciale%20dellAmministrazione%20del%20cat_11e2df506106.md), che ha istituito il Fondo di previdenza a favore del personale dell'Amministrazione provinciale del catasto e dei servizi tecnici erariali;
+Visto il [regio decreto-legge 17 novembre 1938, numero 1826](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20un%20Fondo%20di%20previdenza%20a%20favore%20del%20personale%20provinciale%20dellAmministrazione%20del%20catasto%20o%20dei%20servizi%20tecnici%20erariali.%20038U1826.md), convertito nella [legge 5 gennaio 1939, n. 12](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20Regio%20decreto-legge%2017%20novembre%201938-XVII%20n.%201826%20relativo%20allistituzione%20di%20un%20fondo%20di%20previdenza%20a%20favore%20del%20personale%20provinciale%20dellAmministrazione%20del%20cat_11e2df506106.md), che ha istituito il Fondo di previdenza a favore del personale dell'Amministrazione provinciale del catasto e dei servizi tecnici erariali;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

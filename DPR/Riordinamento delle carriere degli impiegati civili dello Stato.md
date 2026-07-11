@@ -2504,7 +2504,7 @@ Le carriere del personale direttivo sono distinte come segue:
 Direttore dell'A.S.S.T. (a) . . . . . . . . . . . . . . . . . 1
 
 -------------
- (a) Compete l'indennita' di cui all'[art. 3 del regio decreto - legge 14 giugno 1925, n. 884](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md).
+ (a) Compete l'indennita' di cui all'[art. 3 del regio decreto - legge 14 giugno 1925, n. 884](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellAzienda%20per%20i%20servizi%20telefonici.%20025U0884.md), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md).
 
 
  TABELLA II

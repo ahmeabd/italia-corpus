@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Veduta la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione tecnica;
- Veduta la [legge 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sul riordinamento delle Scuole secondarie di avviamento professionale;
+ Veduta la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sul riordinamento delle Scuole secondarie di avviamento professionale;
  Veduto il [decreto del Presidente della Repubblica 30 settembre 1957, n. 1512](Istituzione%20di%20un%20Istituto%20professionale%20di%20Stato%20per%20lindustria%20e%20lartigianato%20in%20Mantova.md), con il quale e' stato istituito in Mantova, a decorrere dal 1 ottobre 1957, un Istituto professionale di Stato per l'industria e l'artigianato;
  Riconosciuta la necessita' di aggregare al predetto l'Istituto professionale la Scuola secondaria di avviamento professionale a tipo industriale "Bertazzolo" di Mantova;
  Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;

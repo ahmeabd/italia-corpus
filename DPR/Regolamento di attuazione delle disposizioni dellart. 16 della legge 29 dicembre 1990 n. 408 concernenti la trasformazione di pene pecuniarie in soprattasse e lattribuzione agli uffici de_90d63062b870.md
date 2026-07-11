@@ -67,7 +67,7 @@ AVVERTENZA:
  
  Nota all'art. 1: 
  - Si riporta il testo dell'[art. 1 del D.P.R. n. 636/1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;636#art_1) (Revisione della disciplina del contenzioso tributario): 
- "Art. 1. - Le commissioni tributarie di cui al [R.D.L. 7 agosto 1936, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), e successive modificazioni, sono riordinate in commissioni tributarie di primo grado; commissioni tributarie di secondo grado; commissione tributaria centrale. 
+ "Art. 1. - Le commissioni tributarie di cui al [R.D.L. 7 agosto 1936, n. 1639](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20degli%20ordinamenti%20tributari.%20036U1639.md), convertito nella [legge 7 giugno 1937, n. 1016](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazione%20del%20R.%20decreto-legge%207%20agosto%201936-XIV%20n.%201639%20concernente%20riforma%20degli%20ordinamenti%20tributari.%20037U1016.md), e successive modificazioni, sono riordinate in commissioni tributarie di primo grado; commissioni tributarie di secondo grado; commissione tributaria centrale. 
  Appartengono alla competenza delle commissioni tributarie le controversie in materia di: 
  a) imposta sul reddito delle persone fisiche; 
  b) imposta sul reddito delle persone giuridiche; 

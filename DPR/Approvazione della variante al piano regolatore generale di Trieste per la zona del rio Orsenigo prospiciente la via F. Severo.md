@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visto il [regio decreto-legge 10 maggio 1934, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-05-10;889), convertito in [legge 4 aprile 1935, n. 613](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20maggio%201934%20n.%20989%20con%20il%20quale%20sono%20stati%20approvati%20il%20piano%20regolatore%20generale%20di%20massima%20edilizio%20e%20di%20ampliamento%20della%20citta%20di%20Trieste%20_4307c22c77a0.md), con il quale e' stato approvato il piano regolatore generale di massima edilizio e di ampliamento della citta' di Trieste;
+ Visto il [regio decreto-legge 10 maggio 1934, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-05-10;889), convertito in [legge 4 aprile 1935, n. 613](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20maggio%201934%20n.%20989%20con%20il%20quale%20sono%20stati%20approvati%20il%20piano%20regolatore%20generale%20di%20massima%20edilizio%20e%20di%20ampliamento%20della%20citta%20di%20Trieste%20_4307c22c77a0.md), con il quale e' stato approvato il piano regolatore generale di massima edilizio e di ampliamento della citta' di Trieste;
  Vista l'istanza in data 23 dicembre 1959 con la quale il Sindaco di Trieste, in base a delibera consiliare 26 giugno 1959, n. 39, ha chiesto l'approvazione di un progetto di variante al suddetto piano regolatore per la zona del rio Orsenigo prospiciente la via F.
 Severo;
  Ritenuto che il procedimento seguito e' regolare e che, a seguito della pubblicazione degli atti non sono state presentate opposizioni;

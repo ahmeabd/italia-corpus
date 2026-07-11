@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[art. 2 del regio decreto-legge 27 maggio 1929, n. 1285](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, numero 2238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), recante modifiche all'ordinamento dell'Istituto centrale di statistica;
+Visto l'[art. 2 del regio decreto-legge 27 maggio 1929, n. 1285](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, numero 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md), recante modifiche all'ordinamento dell'Istituto centrale di statistica;
 
 Visto l'[art. 3 della legge 18 gennaio 1934, n. 120](../Atti%20normativi%20abrogati%20%28in%20originale%29/Periodicita%20dei%20censimenti%20agricoli%20industriali%20e%20commerciali.034U0120.md), sulla periodicita' dei censimenti agricoli, industriali e commerciali;
 
@@ -114,7 +114,7 @@ Entro il 15 giugno 1961 gli Uffici comunali di censimento provvederanno a spedir
 
 ## Art. 18.
 
-Il segreto d'ufficio delle notizie raccolte in occasione del presente censimento e' tutelato dall'[art. 19 del regio decreto-legge 27 maggio 1929, n. 1285](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md) modificato dall'art. 7, secondo comma, del decreto legislativo 21 ottobre 1947,
+Il segreto d'ufficio delle notizie raccolte in occasione del presente censimento e' tutelato dall'[art. 19 del regio decreto-legge 27 maggio 1929, n. 1285](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellIstituto%20centrale%20di%20statistica%20del%20Regno.%20029U1285.md), convertito nella [legge 21 dicembre 1929, n. 2238](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2027%20maggio%201929%20n.%201285%20concernente%20modificazioni%20allordinamento%20dellIstituto%20centrale%20di%20statistica.%20029U2238.md) modificato dall'art. 7, secondo comma, del decreto legislativo 21 ottobre 1947,
 
 ## Art. 19.
 

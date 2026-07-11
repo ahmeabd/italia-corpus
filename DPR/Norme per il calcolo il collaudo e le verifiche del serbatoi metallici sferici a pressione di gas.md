@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), convertito nella [legge 16 giugno 1927, n. 1132](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20luglio%201926%20numero%201331%20relativo%20al%20controllo%20sulla%20combustione.%20027U1132.md);
+Visto il [regio decreto-legge 9 luglio 1926, n. 1331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1331), convertito nella [legge 16 giugno 1927, n. 1132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%209%20luglio%201926%20numero%201331%20relativo%20al%20controllo%20sulla%20combustione.%20027U1132.md);
 
 Visto il [regio decreto 12 maggio 1927, n. 824](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%209%20luglio%201926%20n.%201331%20che%20costituisce%20lAssociazione%20nazionale%20per%20il%20controllo%20sulla%20combustione.%20027U0824.md), concernente l'approvazione del regolamento per l'esecuzione del regio decreto-legge n. 1331 suddetto;
 

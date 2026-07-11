@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 2 dicembre 1935, n. 2085](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Monopolio%20statale%20delle%20banane.%20035U2085.md), convertito nella [legge 6 aprile 1936, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), riguardante l'istituzione del Monopolio statale delle banane;
+Visto il [regio decreto-legge 2 dicembre 1935, n. 2085](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Monopolio%20statale%20delle%20banane.%20035U2085.md), convertito nella [legge 6 aprile 1936, n. 899](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%202%20dicembre%201935-XIV%20n.%202085%20riguardante%20listituzione%20del%20Monopolio%20statale%20delle%20banane.%20036U0899.md), riguardante l'istituzione del Monopolio statale delle banane;
 
 Visti gli articoli 2, 10, 11 dell'ordinamento amministrativo contabile dell'Azienda Monopolio Banane, approvato con [regio decreto 18 giugno 1936, n. 1508](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20amministrativo-contabile%20della%20Regia%20Azienda%20Monopolio%20Banane.%20036U1508.md);
 

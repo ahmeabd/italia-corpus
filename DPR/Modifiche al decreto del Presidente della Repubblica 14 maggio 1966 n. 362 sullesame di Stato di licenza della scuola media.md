@@ -14,7 +14,7 @@ Vista la [legge 31 dicembre 1962, n. 1859](https://www.normattiva.it/uri-res/N2L
 
 Visto il [decreto del Presidente della Repubblica 14 maggio 1966, n. 362](Norme%20di%20esecuzione%20della%20legge%2031%20dicembre%201962%20n.%201859%20concernenti%20lesame%20di%20Stato%20di%20licenza%20della%20scuola%20media.md);
 
-Visto il [decreto-legge 15 febbraio 1969, n. 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md), convertito con modificazioni, nella [legge 5 aprile 1969, n. 119](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20febbraio%201969%20n.%209%20riguardante%20il%20riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md);
+Visto il [decreto-legge 15 febbraio 1969, n. 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md), convertito con modificazioni, nella [legge 5 aprile 1969, n. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20febbraio%201969%20n.%209%20riguardante%20il%20riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md);
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

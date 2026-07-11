@@ -16,7 +16,7 @@ Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogat
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md);
 
-Visto l'[art. 36 del regio decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_36), convertito nella [legge 18 marzo 1926, n. 562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
+Visto l'[art. 36 del regio decreto 4 settembre 1925, n. 1604](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-04;1604#art_36), convertito nella [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

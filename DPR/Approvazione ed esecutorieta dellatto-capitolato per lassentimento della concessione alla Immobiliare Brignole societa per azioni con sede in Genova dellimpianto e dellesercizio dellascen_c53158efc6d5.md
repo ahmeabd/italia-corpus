@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110);
- Visto il [regio decreto 24 novembre 1930, n. 1632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-24;1632), convertito nella [legge 17 aprile 1931, n. 526](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20novembre%201930%20n.%201632%20concernente%20modificazioni%20alla%20legge%20sulle%20funicolari%20aeree%20ed%20ascensori%20in%20servizio%20pubblico.%20031U0526.md);
+ Visto il [regio decreto 24 novembre 1930, n. 1632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-24;1632), convertito nella [legge 17 aprile 1931, n. 526](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20novembre%201930%20n.%201632%20concernente%20modificazioni%20alla%20legge%20sulle%20funicolari%20aeree%20ed%20ascensori%20in%20servizio%20pubblico.%20031U0526.md);
  Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con [regio decreto 9 maggio 1912, n. 1447](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20testo%20unico%20delle%20disposizioni%20di%20legge%20per%20le%20ferrovie%20concesse%20allindustria%20privata%20le%20tranvie%20a%20trazione%20meccanica%20e%20gli%20automobili.%20012U1447.md), e successive modificazioni;
  Udito il parere della Commissione per le funicolari aeree e terrestri;
  Sulla proposta del Ministro per i trasporti;

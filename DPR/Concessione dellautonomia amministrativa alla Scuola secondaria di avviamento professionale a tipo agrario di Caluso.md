@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889);
 
-Vista la [legge 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
+Vista la [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
 Visto il [regio decreto-legge 21 settembre 1938, n. 2038](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20soppressione%20e%20regificazione%20di%20istituti%20distruzione%20media%20tecnica%20e%20norme%20di%20carattere%20generale%20sullistituzione%20e%20sul%20funzionamento%20degli%20istituti%20medesimi.%20038U2038.md), convertito nella [legge 2 giugno 1939, n. 739](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20dei%20Regi%20decreti-legge%20emanati%20fino%20al%2010%20marzo%201939-XVII%20e%20convalida%20dei%20Regi%20decreti%20emanati%20fino%20alla%20data%20anzidetta%20per%20prelevazioni%20_8f817d3bee75.md);
 
@@ -20,11 +20,11 @@ Visto il [regio decreto 31 agosto 1933, n. 1968](../Atti%20normativi%20abrogati%
 
 Considerato che la Scuola predetta ha cessato il suo funzionamento dall'anno scolastico 1947-1948;
 
-Tenuto presente che, a norma dell'art. 2 dello statuto approvato con il regio decreto 31 agosto 1933 anzidetto era aggregata alla Scuola tecnica di cui trattasi una Scuola secondaria di avviamento professionale a tipo agrario presentemente funzionante in conformita' della [legge 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
+Tenuto presente che, a norma dell'art. 2 dello statuto approvato con il regio decreto 31 agosto 1933 anzidetto era aggregata alla Scuola tecnica di cui trattasi una Scuola secondaria di avviamento professionale a tipo agrario presentemente funzionante in conformita' della [legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md);
 
 Considerato che in base alla convenzione del 28 marzo 1950 stipulata tra il comune di Caluso e il Ministero della pubblica istruzione, e' stata assegnata a detta Scuola di avviamento un'azienda agraria, costituita dal podere "Convento" completo di scorte vive e morte;
 
-Riconosciuto che con la cessione predetta vengono a realizzarsi le condizioni previste dal penultimo comma dell'[art. 5 della legge 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), per cui alla Scuola predetta puo' essere riconosciuta l'autonomia amministrativa per cio' che riguarda la gestione delle proprie rendite e azienda annessa;
+Riconosciuto che con la cessione predetta vengono a realizzarsi le condizioni previste dal penultimo comma dell'[art. 5 della legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), per cui alla Scuola predetta puo' essere riconosciuta l'autonomia amministrativa per cio' che riguarda la gestione delle proprie rendite e azienda annessa;
 
 Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello ad interim per il tesoro; Decreta:
 
