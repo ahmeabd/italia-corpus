@@ -14168,7 +14168,7 @@ Qualora non sia possibile eseguire la confisca a norma del comma 1, la stessa pu
 
 3.
 
-Per quanto non stabilito nei commi 1 e 2 si applicano le disposizioni dell'[articolo 240 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+Per quanto non stabilito nei commi 1 e 2 si applicano le disposizioni dell'[articolo 240 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  
  (12)
 
@@ -16998,7 +16998,7 @@ Sono o restano abrogati, salvo quanto previsto dai commi 2 e 3:
                             d)
                                 il [regio decreto-legge 9 aprile 1925, n. 375](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20sul%20riordinamento%20delle%20Borse.%20025U0375.md), convertito dalla [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md);
                             e)
-                                il [regio decreto 9 aprile 1925, n. 376](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md);
+                                il [regio decreto 9 aprile 1925, n. 376](../Regi%20decreti/Approvazione%20del%20regolamento%20sulle%20Borse.%20025U0376.md);
                             f)
                                 gli [articoli 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20sulla%20esecutorieta%20dei%20contratti%20di%20Borsa%20a%20termine.%20025U0601.md), [6](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20sulla%20esecutorieta%20dei%20contratti%20di%20Borsa%20a%20termine.%20025U0601.md) e [7 del regio decreto-legge 14 maggio 1925, n. 601](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20sulla%20esecutorieta%20dei%20contratti%20di%20Borsa%20a%20termine.%20025U0601.md), convertito dalla [legge 18 marzo 1926, n. 562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0562.md);
                             g)
