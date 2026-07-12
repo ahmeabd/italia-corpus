@@ -118,9 +118,9 @@ Avvertenza:
  [codice civile, articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_16) e [17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_17);
  disposizioni attuative del [codice civile, articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_5) e [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_7);
  legge 5 giugno 1850, n. 1037, e successive modificazioni;
- [regio-decreto 26 giugno 1864, n. 1817](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
+ [regio-decreto 26 giugno 1864, n. 1817](../Regi%20decreti/Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
  [legge 21 giugno 1896, n. 218](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riflettente%20laccettazione%20da%20parte%20delle%20Provincie%20Comuni%20e%20Istituzioni%20pubbliche%20di%20lasciti%20o%20donazioni%20di%20qualsiasi%20natura%20o%20valore.%20096U0218.md), e successive modificazioni;
- [regio-decreto 26 luglio 1896, n. 361](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20conferisce%20ai%20Prefetti%20la%20competenza%20ad%20autorizzare%20le%20Provincie%20i%20Comuni%20e%20le%20istituzioni%20pubbliche%20di%20beneficenza%20ad%20accettare%20lasciti%20e%20donazioni%20e%20ad%20acquistare%20stabili.%20096U0361.md), e successive modificazioni;
+ [regio-decreto 26 luglio 1896, n. 361](../Regi%20decreti/Che%20conferisce%20ai%20Prefetti%20la%20competenza%20ad%20autorizzare%20le%20Provincie%20i%20Comuni%20e%20le%20istituzioni%20pubbliche%20di%20beneficenza%20ad%20accettare%20lasciti%20e%20donazioni%20e%20ad%20acquistare%20stabili.%20096U0361.md), e successive modificazioni;
  [legge 30 aprile 1969, n. 153, art. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_65), e successive modificazioni".
  - Il titolo II del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) reca:
  "Titolo II

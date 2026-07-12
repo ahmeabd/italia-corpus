@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [regio decreto-legge 8 febbraio 1923, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-08;501), convertito dalla [legge 17 aprile 1925, n. 473](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20025U0473.md), concernente disposizioni per l'industria e il commercio delle conserve alimentari preparate con sostanze vegetali;
 
-Visto il [regio decreto 31 agosto 1928, n. 2126](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20funzionamento%20dellIstituto%20nazionale%20per%20le%20conserve%20alimentari%20e%20della%20Regia%20stazione%20sperimentale%20per%20lindustria%20delle%20conserve%20alimentari.%20028U2126.md), recante norme per il funzionamento dell'Istituto nazionale per le conserve alimentari e della Stazione sperimentale per l'industria delle conserve alimentari;
+Visto il [regio decreto 31 agosto 1928, n. 2126](../Regi%20decreti/Norme%20per%20il%20funzionamento%20dellIstituto%20nazionale%20per%20le%20conserve%20alimentari%20e%20della%20Regia%20stazione%20sperimentale%20per%20lindustria%20delle%20conserve%20alimentari.%20028U2126.md), recante norme per il funzionamento dell'Istituto nazionale per le conserve alimentari e della Stazione sperimentale per l'industria delle conserve alimentari;
 
 Visto il regio decreto 15 ottobre 1931, con il quale e' stato approvato lo statuto dell'Istituto nazionale per le conserve alimentari;
 

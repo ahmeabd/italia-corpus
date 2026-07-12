@@ -83,7 +83,7 @@ Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:198
  n. 37/1934](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934;37#art_17bis) (per il titolo si veda nelle note all'art. 5) del seguente tenore:
  "Art. 17- bis. - 1. Le prove scritte sono tre. Esse vengono svolte sui temi formulati dal Ministro di grazia e giustizia ed hanno per oggetto:
  a) la redazione di un parere motivato, da scegliersi tra due questioni in materia regolata dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262);
- b) la redazione di un parere motivato, da scegliersi tra due questioni in materia regolata dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ b) la redazione di un parere motivato, da scegliersi tra due questioni in materia regolata dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  c) la redazione di un atto giudiziario che postuli conoscenze di diritto sostanziale e di diritto processuale, su un quesito proposto, in materia scelta dal candidato tra il diritto privato, il diritto penale ed il diritto amministrativo.
  2. Per ciascuna prova scritta ogni componente delle commissioni d'esame dispone di 10 punti di merito; alla prova orale sono ammessi i candidati che abbiano conseguito, nelle tre prove scritte, un punteggio complessivo di almeno 90 punti e con un punteggio non inferiore a 30 punti per almeno due prove.
  3. Le prove orali consistono:

@@ -16,7 +16,7 @@ Vista la [direttiva 96/50/CE del Consiglio del 23 luglio 1996](https://www.norma
 
 Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), recante: "Disposizioni derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1995-1997" ed in particolare l'articolo 5 e l'allegato C;
 
-Visto l'[articolo 134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto l'[articolo 134 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visti gli articoli da 49 a 53 del regolamento per la navigazione interna approvato con [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](../DPR/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md);
 
@@ -69,7 +69,7 @@ Avvertenza:
  "Allegato C
  (Omissis). 96/50/CE: direttiva del Consiglio del 23 luglio 1996, riguardante l'armonizzazione dei requisiti per il conseguimento dei certificati nazionali di conduzione di navi per il trasporto di merci e di persone nella Comunita' nel settore della navigazione interna.
  (Omissis)"
- - L'[art. 134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;137), cosi' recita:
+ - L'[art. 134 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;137), cosi' recita:
  "Art. 134 (Titoli professionali del personale). - Per i servizi di coperta i titoli professionali sono:
  a) capitano;
  b) capo timoniere;

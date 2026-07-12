@@ -159,7 +159,7 @@ L'agente marittimo di una nave proveniente da un porto extracomunitario e dirett
 
 3.
 
-Il comandante della nave allega alla nota informativa di cui all'[articolo 179 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'elenco di controllo per le navi di cui all'allegato II. Tale elenco e' messo a disposizione del pilota al momento del suo imbarco.
+Il comandante della nave allega alla nota informativa di cui all'[articolo 179 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) l'elenco di controllo per le navi di cui all'allegato II. Tale elenco e' messo a disposizione del pilota al momento del suo imbarco.
 
 4.
 

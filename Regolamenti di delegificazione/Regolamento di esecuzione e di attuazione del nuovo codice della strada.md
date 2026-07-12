@@ -5304,7 +5304,7 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
 ### Art. 371.
 
 (Persone e carichi trasportabili) 
- 1. Il numero massimo di persone trasportabili sulle autovetture, anche se adibite al trasporto di persone e di cose, gia' immatricolate alla data del 23 giugno 1966, e' quello indicato sulle relative carte di circolazione tra le caratteristiche tecniche alla voce "posti totali n. .." oppure sulle licenze di circolazione rilasciate ai sensi del [regio decreto 8 dicembre 1933, n.1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), alla analoga voce "posti n. .. compreso il conducente". 
+ 1. Il numero massimo di persone trasportabili sulle autovetture, anche se adibite al trasporto di persone e di cose, gia' immatricolate alla data del 23 giugno 1966, e' quello indicato sulle relative carte di circolazione tra le caratteristiche tecniche alla voce "posti totali n. .." oppure sulle licenze di circolazione rilasciate ai sensi del [regio decreto 8 dicembre 1933, n.1740](../Regi%20decreti/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), alla analoga voce "posti n. .. compreso il conducente". 
  2. Le annotazioni del tipo: posti 2+2, o simili, si devono considerare equivalenti a: posti totali pari alla somma dei due numeri indicati. 
  3. Le annotazioni del tipo: posti 4/5, o simili, si devono considerare equivalenti a: posti totali pari al maggiore dei due numeri indicati. 
  4. Le eventuali variazioni a detto numero di persone trasportabili che dovessero essere autorizzate a seguito di ulteriori verifiche e prove effettuate sui prototipi degli autoveicoli, qualora non comportino modifiche al veicolo originale, verranno annotate sulle carte di circolazione degli autoveicoli dello stesso tipo a cura degli uffici provinciali della Direzione generale della M.C.T.C. senza che sia effettuata visita sui singoli veicoli. 
@@ -5312,7 +5312,7 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
  6. Ai fini della determinazione della massa complessiva trasportabile sui veicoli di cui all'articolo 167, comma 1, del codice, si tiene conto del corrispondente limite contenuto nel documento di circolazione dei veicoli medesimi.
 
 Nota all'[art. 371:
- - Il R.D. 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), reca: "Testo unico di norme per la tutela delle strade e per la circolazione".
+ - Il R.D. 8 dicembre 1933, n. 1740](../Regi%20decreti/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md), reca: "Testo unico di norme per la tutela delle strade e per la circolazione".
 
 ## (Artt. 175-176 Codice della Strada)
 
