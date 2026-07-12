@@ -192,10 +192,10 @@ Per poter essere immesso al consumo il brandy italiano deve avere un titolo alco
 
 2.
 
-Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
+Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
 
 Nota all'[articolo 7:
- - Il D.P.R. 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
+ - Il D.P.R. 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
 
 ### Art. 8. — Limiti delle sostanze volatili
 
@@ -247,10 +247,10 @@ Per poter essere immessa al consumo la grappa deve avere un titolo alcolometrico
 
 2.
 
-Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
+Il titolo alcolometrico volumico per il consumo e' ottenuto mediante diluizione con acqua conforme alle disposizioni di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
 
 Nota all'[articolo 11:
- - Il D.P.R. 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
+ - Il D.P.R. 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), concerne la qualita' delle acque destinate al consumo umano.
 
 ### Art. 12. — Aggiunte
 
@@ -438,7 +438,7 @@ Sono abrogati:
                             b)
                                 gli articoli 1, quarto comma, 2, 3, 4, 5, 6, 7, 8, 9, commi primo, secondo, terzo, quarto e quinto, 10, 11 e 12 del [decreto del Presidente della Repubblica 19 aprile 1956, n. 1019](../DPR/Norme%20di%20esecuzione%20della%20legge%207%20dicembre%201951%20n.%201559%20che%20disciplina%20la%20produzione%20ed%20il%20commercio%20delle%20acqueviti.md);
                             c)
-                                l'[articolo 34 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md);
+                                l'[articolo 34 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md);
                             d)
                                 i decreti del Ministro dell'industria, del commercio e dell'artigianato 19 luglio 1969, 4 gennaio 1973 e 25 maggio 1980, relativi alle tolleranze normali nella composizione delle acquaviti, pubblicati nella Gazzetta Ufficiale della Repubblica italiana rispettivamente n. 196 del 4 agosto 1969, n. 56 del 1 marzo 1973 e n. 174 del 26 giugno 1980;
                             e)

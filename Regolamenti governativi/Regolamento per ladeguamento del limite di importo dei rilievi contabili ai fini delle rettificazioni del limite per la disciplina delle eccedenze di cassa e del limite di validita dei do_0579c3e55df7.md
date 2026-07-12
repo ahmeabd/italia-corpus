@@ -32,7 +32,7 @@ Vista la [legge 10 dicembre 1953, n. 936](https://www.normattiva.it/uri-res/N2Ls
 
 Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 422](Adeguamento%20degli%20originari%20limiti%20di%20somma%20previsti%20nella%20legge%20e%20nel%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20nel%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20Corte%20dei%20conti%20e%20_978eccc3e118.md);
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto del Presidente della Repubblica 1 giugno 1989, n. 256, concernente il regolamento di esecuzione del libro terzo del codice postale e delle telecomunicazioni (servizi bancoposta);
 
@@ -167,7 +167,7 @@ Il comma 2 dell'art. 117 del regolamento approvato con decreto del Presidente de
  2-bis. Per ogni assegno rimborsato deve essere corrisposto il diritto fisso previsto dall'art. 134 del codice postale e delle telecomunicazioni, salvo quanto stabilito dai successivi commi del presente articolo.".
 
 Nota all'art. 6:
- - Si trascrive il testo dell'art. 117 del regolamento approvato con D.P.R. 1 giugno 1989, n. 256, come modificato dall'art. 6 del presente decreto, nonche' dell'art. 134 del codice postale e delle telecomunicazioni, approvato con [D.P.R. 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md):
+ - Si trascrive il testo dell'art. 117 del regolamento approvato con D.P.R. 1 giugno 1989, n. 256, come modificato dall'art. 6 del presente decreto, nonche' dell'art. 134 del codice postale e delle telecomunicazioni, approvato con [D.P.R. 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md):
  "[Art. 117 D.P.R. n. 256/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1989;256#art_117) (Rimborso degli assegni scaduti). -
  1. Gli assegni trasferibili e non trasferibili, presentati all'incasso dopo il periodo di validita' e non ancora caduti in prescrizione, sono rimborsabili all'avente diritto, dietro domanda da redigersi su apposito modulo fornito dall'amministrazione.
  2. Il rimborso degli assegni scaduti di validita' puo' avvenire:

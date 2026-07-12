@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il regolamento del servizio telegrafico diretto fra utenti telegrafici (telex), approvato con [decreto del Presidente della Repubblica 7 febbraio 1963, n. 735](Approvazione%20del%20regolamento%20recante%20la%20disciplina%20del%20servizio%20telegrafico%20diretto%20fra%20utenti%20telegrafici%20telex.md);
 
@@ -40,7 +40,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Per l'espletamento del servizio telex di cui all'art. 251 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), di seguito denominato codice p.t., gli apparecchi terminali da collegare alla rete telegrafica pubblica a commutazione possono essere acquisiti direttamente dal richiedente il servizio oppure forniti in uso dall'Amministrazione delle poste e delle telecomunicazioni, di seguito denominata Amministrazione.
+Per l'espletamento del servizio telex di cui all'art. 251 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), di seguito denominato codice p.t., gli apparecchi terminali da collegare alla rete telegrafica pubblica a commutazione possono essere acquisiti direttamente dal richiedente il servizio oppure forniti in uso dall'Amministrazione delle poste e delle telecomunicazioni, di seguito denominata Amministrazione.
 
 2.
 
@@ -182,7 +182,7 @@ Note all'art. 5:
  - Il testo dell'art. 253 del codice postale e delle telecomunicazioni e' riportato in nota all'art. 3.
  - L'art. 7 del codice postale e delle telecomunicazioni e' stato abrogato dall'[art. 7, comma dodicesimo, della legge 26 aprile 1983, n. 130](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201983.md), il quale ha previsto, nel contempo, che le tariffe postali, di bancoposta e di telecomunicazioni per l'interno debbano essere stabilite con decreto del Ministro delle poste e delle telecomunicazioni di concerto con il Ministro del tesoro.
  Se ne trascrive, ad ogni buon conto, il testo:
- "Le tariffe postali, di bancoposta e di telecomunicazioni per l'interno sono stabilite con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro, fatta salva la competenza dello stesso Ministro delle poste e delle telecomunicazioni nei casi previsti dal codice postale e delle telecomunicazioni. Sono abrogate le disposizioni di cui all'art. 7 del codice postale e delle telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md)".
+ "Le tariffe postali, di bancoposta e di telecomunicazioni per l'interno sono stabilite con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro, fatta salva la competenza dello stesso Ministro delle poste e delle telecomunicazioni nei casi previsti dal codice postale e delle telecomunicazioni. Sono abrogate le disposizioni di cui all'art. 7 del codice postale e delle telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md)".
  - Si riporta il testo dell'art. 8 del ripetuto codice postale e delle telecomunicazioni:
  "Art. 8 (Tariffe per i servizi postali, di bancoposta e di telecomunicazioni internazionali). - Le tariffe per i servizi postali e di bancoposta internazionali sono stabilite dal Ministro per le poste e le telecomunicazioni, di concerto con quello per il tesoro, in base alle convenzioni internazionali o agli accordi con le amministrazioni estere interessate.
  Con uguale provvedimento sono stabilite le tariffe per i servizi internazionali di telecomunicazioni per la quota- parte terminale o di transito".

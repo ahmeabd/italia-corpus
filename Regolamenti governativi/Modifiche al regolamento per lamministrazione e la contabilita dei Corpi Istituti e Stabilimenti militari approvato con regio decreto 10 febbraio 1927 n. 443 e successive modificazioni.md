@@ -16,7 +16,7 @@ Visto il regolamento per l'Amministrazione e la contabilita' dei Corpi, Istituti
 
 Visto il testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con [regio decreto 2 febbraio 1928, n. 263](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20lamministrazione%20e%20la%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari.%20028U0263.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 28 giugno 1955, n. 1106](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20di%20servizi%20del%20Ministero%20della%20difesa.md), sul decentramento dei servizi del Ministero della difesa;
+Visto il [decreto del Presidente della Repubblica 28 giugno 1955, n. 1106](../DPR/Decentramento%20di%20servizi%20del%20Ministero%20della%20difesa.md), sul decentramento dei servizi del Ministero della difesa;
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 

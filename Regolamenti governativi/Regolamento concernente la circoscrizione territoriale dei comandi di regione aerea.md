@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto-legge 22 febbraio 1937, n. 220](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), concernente l'ordinamento dell'Aeronautica militare, e successive modificazioni;
+Visto il [regio decreto-legge 22 febbraio 1937, n. 220](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), concernente l'ordinamento dell'Aeronautica militare, e successive modificazioni;
 
 Vista la [legge 8 giugno 1961, n. 509](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20allordinamento%20dellAeronautica%20militare.md), recante modifiche all'ordinamento dell'Aeronautica militare;
 
-Visto il [decreto del Presidente della Repubblica 20 aprile 1959, n. 364](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20della%20circoscrizione%20territoriale%20dellAeronautica%20militare.md), concernente modificazione della circoscrizione territoriale dell'Aeronautica militare;
+Visto il [decreto del Presidente della Repubblica 20 aprile 1959, n. 364](../DPR/Modificazione%20della%20circoscrizione%20territoriale%20dellAeronautica%20militare.md), concernente modificazione della circoscrizione territoriale dell'Aeronautica militare;
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -47,7 +47,7 @@ La circoscrizione territoriale degli enti dipendenti dai comandi di regione aere
 
 3.
 
-Il [decreto del Presidente della Repubblica 20 aprile 1959, n. 364](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazione%20della%20circoscrizione%20territoriale%20dellAeronautica%20militare.md), e' abrogato.
+Il [decreto del Presidente della Repubblica 20 aprile 1959, n. 364](../DPR/Modificazione%20della%20circoscrizione%20territoriale%20dellAeronautica%20militare.md), e' abrogato.
 
 Nota all'art. 1:
  - Il testo del [primo comma dell'art. 2 della legge n. 509/1961](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961;509#art_2-com1) e' il seguente:

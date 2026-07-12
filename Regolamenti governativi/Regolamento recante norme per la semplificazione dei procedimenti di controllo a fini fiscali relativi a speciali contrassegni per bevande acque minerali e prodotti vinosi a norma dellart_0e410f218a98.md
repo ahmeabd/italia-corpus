@@ -86,8 +86,8 @@ Avvertenza:
  [legge 2 maggio 1976, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201976%20n.%2030%20recante%20norme%20in%20materia%20di%20riscossione%20delle%20imposte%20sul%20reddito.md).
  (Omissis).
  83. Procedimenti relativi alla vendita e al confezionamento di mosti, vini e aceto:
- [decreto del Presidente della Repubblica 12 luglio 1963, n. 930](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md);
- [decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md);
+ [decreto del Presidente della Repubblica 12 luglio 1963, n. 930](../DPR/Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md);
+ [decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md);
  [legge 2 maggio 1976, n. 160](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20marzo%201976%20n.%2030%20recante%20norme%20in%20materia%20di%20riscossione%20delle%20imposte%20sul%20reddito.md).
  84. Procedimento di controllo su tappi di chiusura e contenitori:
  [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md)".

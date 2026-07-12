@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito dalla [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sul nuovo ordinamento dell'Amministrazione delle poste e delle telecomunicazioni;
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto del Presidente della Repubblica 1 giugno 1989, n. 256, concernente il regolamento di esecuzione del libro terzo del codice postale e delle telecomunicazioni (servizi di bancoposta);
 

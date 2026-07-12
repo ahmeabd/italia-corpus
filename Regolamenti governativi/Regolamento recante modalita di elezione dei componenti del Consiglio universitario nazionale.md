@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto-legge 7 gennaio 1995, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20concernenti%20il%20Consiglio%20universitario%20nazionale_3.md), convertito, con modificazioni, dalla [legge 8 marzo 1995, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201995%20n.%204%20recante%20disposizioni%20urgenti%20concernenti%20il%20Consiglio%20universitario%20nazionale.md), recante disposizioni urgenti concernenti il Consiglio universitario nazionale;
+Visto il [decreto-legge 7 gennaio 1995, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20concernenti%20il%20Consiglio%20universitario%20nazionale_3.md), convertito, con modificazioni, dalla [legge 8 marzo 1995, n. 63](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201995%20n.%204%20recante%20disposizioni%20urgenti%20concernenti%20il%20Consiglio%20universitario%20nazionale.md), recante disposizioni urgenti concernenti il Consiglio universitario nazionale;
 
 Vista la [legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341), ed in particolare l'art. 10, comma 6, che prevede l'emanazione di un regolamento per la disciplina delle modalita' di elezione e di designazione dei componenti del Consiglio universitario nazionale (CUN), nonche' dell'organizzazione interna e del funzionamento del medesimo Consiglio;
 

@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md);
 
-Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md);
+Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md);
 
 Visto l'[articolo 3, comma 137, lettere e)](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ed [f), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), che autorizza il Governo all'emanazione del regolamento concernente la disciplina dei versamenti delle ritenute alla fonte effettuati in eccedenza rispetto alla somma dovuta, consentendone lo scomputo a fronte dei versamenti successivi e la semplificazione degli adempimenti dei sostituti di imposta che effettuano ritenute alla fonte su redditi di lavoro autonomo di ammontare non significativo;
 
@@ -48,7 +48,7 @@ La parte dell'eccedenza riportata che non e' utilizzata in compensazione ai sens
 
 5.
 
-Se l'eccedenza riportata non e' computata in diminuzione nella dichiarazione relativa al periodo di imposta successivo, o se la dichiarazione non e' presentata, il sostituto di imposta puo' chiederne il rimborso a norma dell'[articolo 38 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
+Se l'eccedenza riportata non e' computata in diminuzione nella dichiarazione relativa al periodo di imposta successivo, o se la dichiarazione non e' presentata, il sostituto di imposta puo' chiederne il rimborso a norma dell'[articolo 38 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
 
 6.
 

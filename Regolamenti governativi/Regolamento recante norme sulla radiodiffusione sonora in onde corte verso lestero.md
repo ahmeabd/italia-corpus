@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Vista la [legge 4 agosto 1955, n. 848](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20per%20la%20salvaguardia%20dei%20diritti%20delluomo%20e%20delle%20liberta%20fondamentali%20firmata%20a%20Roma%20il%204%20novembre%201950%20e%20del%20Protocollo%20addizionale%20alla%20Convenzi_bf6f8824c55a.md), di ratifica della convenzione per la salvaguardia dei diritti dell'uomo e della liberta' fondamentali;
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 14 aprile 1975, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-14;103);
 
@@ -327,7 +327,7 @@ Note all'art. 12:
 
 1.
 
-La sanzione prevista dall'art. 195, comma 3, del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), modificato dall'[art. 30, comma 7, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_30-com7), si applica a chiunque stabilisce o esercita un impianto di cui all'art. 1, comma 1, del presente regolamento senza aver ottenuto la relativa autorizzazione.
+La sanzione prevista dall'art. 195, comma 3, del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), modificato dall'[art. 30, comma 7, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_30-com7), si applica a chiunque stabilisce o esercita un impianto di cui all'art. 1, comma 1, del presente regolamento senza aver ottenuto la relativa autorizzazione.
 
 2.
 
@@ -421,9 +421,9 @@ Note all'art. 17:
  f) tipo dell'antenna utilizzata, diagramma di irradiazione, guadagno nella direzione di massima;
  g) nominativo di identificazione della stazione;
  g-bis) le ore di trasmissione dei programmi e loro variazioni.
- 2. La comunicazione di cui sopra integra la denuncia di detenzione prevista dall'art. 403 del codice postale, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), ed ha lo scopo di mettere a disposizione degli organi preposti alla pianificazione elementi idonei per la definizione del piano di assegnazione delle frequenze di cui al precedente art. 2 e per la determinazione dei bacini di utenza.
+ 2. La comunicazione di cui sopra integra la denuncia di detenzione prevista dall'art. 403 del codice postale, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), ed ha lo scopo di mettere a disposizione degli organi preposti alla pianificazione elementi idonei per la definizione del piano di assegnazione delle frequenze di cui al precedente art. 2 e per la determinazione dei bacini di utenza.
  3. Nel caso in cui detta comunicazione non sia stata presentata nei termini o le emittenti diffondano trasmissioni meramente ripetitive o consistenti in immagini fisse, gli impianti sono disattivati.
- 3-bis. La presentazione, nei termini, della comunicazione di cui al comma 1 rende non punibili le violazioni amministrative e penali, di cui all'art. 195 del codice postale approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), commesse anteriormente alla data di entrata in vigore del presente decreto".
+ 3-bis. La presentazione, nei termini, della comunicazione di cui al comma 1 rende non punibili le violazioni amministrative e penali, di cui all'art. 195 del codice postale approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), commesse anteriormente alla data di entrata in vigore del presente decreto".
  - Si riporta il testo del decreto del Ministro delle poste e delle telecomunicazioni 13 dicembre 1984:
  "Art. 1. - La comunicazione prevista dall'[art. 4 del decreto-legge 6 dicembre 1984, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-06;807#art_4), deve essere inoltrata al Ministero delle poste e delle telecomunicazioni - Direzione centrale dei servizi radioelettrici - Viale Europa n. 160 - 00100 Roma, in duplice copia e secondo lo schema allegato al presente decreto.
  "Art. 2. Alla comunicazione devono essere allegate, in duplice copia, le schede tecniche relative a ciascun impianto compilate secondo le avvertenze e le note esplicative allegate al presente decreto.

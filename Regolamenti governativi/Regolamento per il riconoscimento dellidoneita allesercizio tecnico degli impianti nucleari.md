@@ -44,7 +44,7 @@ Ai fini dell'applicazione delle disposizioni di cui al presente regolamento:
 
 ### Art. 4. — Determinazione della classe dell'attestato di idoneita' richiesto per la direzione
 
-Per ciascuno degli impianti di cui al precedente art. 1, il Comitato nazionale per l'energia nucleare determina la classe dell'attestato di idoneita' richiesto dal capo II del presente regolamento, sentita la commissione tecnica per la sicurezza nucleare e la protezione sanitaria del C.N.E.N., di cui all'[art. 11 del decreto del Presidente della Repubblica 13 febbraio 1964, numero 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), la quale sara' integrata da un esperto di impianti nucleari, designato dal Ministero della pubblica istruzione.
+Per ciascuno degli impianti di cui al precedente art. 1, il Comitato nazionale per l'energia nucleare determina la classe dell'attestato di idoneita' richiesto dal capo II del presente regolamento, sentita la commissione tecnica per la sicurezza nucleare e la protezione sanitaria del C.N.E.N., di cui all'[art. 11 del decreto del Presidente della Repubblica 13 febbraio 1964, numero 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), la quale sara' integrata da un esperto di impianti nucleari, designato dal Ministero della pubblica istruzione.
  Ai fini della detta determinazione, i soggetti di cui agli articoli 37 e 38 del citato decreto del Presidente della Repubblica dovranno presentare apposita istanza, corredata dalla descrizione dell'impianto.
 
 ## ATTESTATO DI IDONEITA' PER LA DIREZIONE TECNICA DEGLI IMPIANTI NUCLEARI
@@ -270,7 +270,7 @@ Con provvedimento del presidente del C.N.E.N. e' istituita una commissione medic
 ### Art. 31. — Accertamenti
 
 L'idoneita' psico-fisica va riconosciuta a seguito di giudizio positivo di tutti i membri della commissione di cui al precedente articolo.
- L'interessato puo', durante gli accertamenti sanitari, essere assistito da un medico di propria fiducia, iscritto nell'elenco di cui all'[art. 76 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md).
+ L'interessato puo', durante gli accertamenti sanitari, essere assistito da un medico di propria fiducia, iscritto nell'elenco di cui all'[art. 76 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md).
 
 ### Art. 32. — Commissione tecnica
 
@@ -310,7 +310,7 @@ Con decreto del Ministro per il lavoro e la previdenza sociale, di concerto con 
 
 ### Art. 37. — Scelta del medico di cui agli articoli 30 e 31
 
-Fino all'emanazione del decreto di cui all'[art. 76 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), il medico membro della commissione di cui all'art. 30 e il medico di fiducia di cui all'art. 31, dovranno essere scelti tra medici specialisti in medicina del lavoro.
+Fino all'emanazione del decreto di cui all'[art. 76 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185](../DPR/Sicurezza%20degli%20impianti%20e%20protezione%20sanitaria%20dei%20lavoratori%20e%20delle%20popolazioni%20contro%20i%20pericoli%20delle%20radiazioni%20ionizzanti%20derivanti%20dallimpiego%20pacifico%20dellenergia%20nucleare.md), il medico membro della commissione di cui all'art. 30 e il medico di fiducia di cui all'art. 31, dovranno essere scelti tra medici specialisti in medicina del lavoro.
 
 ### Art. 38. — Norme transitorie per la direzione degli impianti
 

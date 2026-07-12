@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 30 giugno 1955, n. 1544](../DP
 
 Vista la [legge 23 marzo 1956, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-03-23;182);
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md);
+Visto il [decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../DPR/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md);
 
 Vista la [legge 12 agosto 1957, n. 752](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-08-12;752);
 
@@ -38,7 +38,7 @@ Sulla proposta del Ministro per il tesoro; Decreta:
 
 E' ammessa, senza speciali formalita', la rettifica delle domande di intestazione di titoli del Debito pubblico, quando l'errore sia avvertito prima che l'iscrizione al nome sia stata eseguita sui registri integrativi del Gran libro.
  Quando l'errore sia avvertito dopo l'avvenuta iscrizione, la domanda di rettifica deve essere corredata da un atto di notorieta', formato dinanzi al pretore o al cancelliere da esso delegato o ad un notaio, col quale si dichiari e si spieghi l'errore avvenuto, salva la facolta' dell'Amministrazione, di richiedere quegli altri documenti che, a conferma, essa ritenga, a seconda dei casi, necessari.
- L'atto di notorieta' puo' essere supplito da dichiarazione dell'interessato, ai sensi dell'[art. 7 del decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md).
+ L'atto di notorieta' puo' essere supplito da dichiarazione dell'interessato, ai sensi dell'[art. 7 del decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../DPR/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md).
  Quando si tratti di titoli intestati ad ente soggetto a vigilanza governativa, le rettifiche possono essere effettuate in base a dichiarazione dell'ente stesso, confermata dalla competente autorita'.
 
 ## Art. 2.

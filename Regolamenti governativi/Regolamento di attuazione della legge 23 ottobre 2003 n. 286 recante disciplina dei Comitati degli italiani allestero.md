@@ -915,10 +915,10 @@ Nota all'art. 33:
 
 1.
 
-Gli atti rilasciati dagli uffici consolari ai fini dell'applicazione della legge sono esenti da qualsiasi diritto consolare, ai sensi dell'[articolo 59 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md).
+Gli atti rilasciati dagli uffici consolari ai fini dell'applicazione della legge sono esenti da qualsiasi diritto consolare, ai sensi dell'[articolo 59 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md).
 
 Nota all'art. 34:
- - Si riporta il testo dell'[art. 59 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) (Disposizioni sulle funzioni e sui poteri consolari):
+ - Si riporta il testo dell'[art. 59 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) (Disposizioni sulle funzioni e sui poteri consolari):
  «Art. 59 (Adeguamento di voci della tariffa). - I diritti stabiliti in una o piu' voci della tariffa possono essere modificati o soppressi per i non cittadini, a titolo di reciprocita', con decreto del Ministro per gli affari esteri, d'intesa con il Ministro per il tesoro.
  Il Ministro per gli affari esteri puo', con proprio decreto, disporre l'esenzione o la diminuzione dei diritti stabiliti nella tariffa limitatamente a quelle voci che presentino un piu' diretto interesse per i lavoratori residenti all'estero e per i loro familiari.
  Il Ministro per gli affari esteri, qualora per motivi di convenienza internazionale o nazionale ravvisi la opportunita' di agevolare l'ingresso di non cittadini in Italia, puo' disporre che alcuni atti o vidimazioni consolari siano rilasciati mediante pagamento di diritti inferiori a quelli stabiliti nella tariffa od anche in esenzione dai diritti stessi».

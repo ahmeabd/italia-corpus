@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Visto il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), recante ordinamento dell'Amministrazione degli affari esteri, ed in particolare gli articoli 173 e 174, quarto comma;
 
-Visto il [decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](../Atti%20normativi%20abrogati%20%28in%20originale%29/Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md), concernente il personale in servizio nelle istituzioni scolastiche e culturali all'estero, ed in particolare l'art. 12, ottavo comma;
+Visto il [decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](../DPR/Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md), concernente il personale in servizio nelle istituzioni scolastiche e culturali all'estero, ed in particolare l'art. 12, ottavo comma;
 
 Vista la [legge 27 dicembre 1973, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20degli%20uffici%20degli%20addetti%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20servizio%20allestero%20e%20trattamento%20economico%20del%20personale%20della%20Difesa%20ivi%20destinato.md), recante ordinamento degli uffici degli addetti dell'Esercito, della Marina e dell'Aeronautica in servizio all'estero e trattamento economico del personale della Difesa ivi destinato;
 
@@ -40,7 +40,7 @@ Le norme del presente regolamento si applicano al seguente personale in servizio
                         c)
                             persone estranee all'Amministrazione degli affari esteri di cui essa si avvale ai sensi dell'[art. 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md);
                         d)
-                            personale ispettivo, direttivo ed insegnante dei ruoli del Ministero della pubblica istruzione, professori universitari e funzionari di ruolo dello Stato, di cui al [decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](../Atti%20normativi%20abrogati%20%28in%20originale%29/Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md);
+                            personale ispettivo, direttivo ed insegnante dei ruoli del Ministero della pubblica istruzione, professori universitari e funzionari di ruolo dello Stato, di cui al [decreto del Presidente della Repubblica 23 gennaio 1967, n. 215](../DPR/Personale%20in%20servizio%20nelle%20istituzioni%20scolastiche%20e%20culturali%20allestero.md);
                         e)
                             personale che fa parte degli uffici degli addetti dell'Esercito, della Marina e dell'Aeronautica, di cui alla [legge 27 dicembre 1973, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20degli%20uffici%20degli%20addetti%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20servizio%20allestero%20e%20trattamento%20economico%20del%20personale%20della%20Difesa%20ivi%20destinato.md);
                         f)

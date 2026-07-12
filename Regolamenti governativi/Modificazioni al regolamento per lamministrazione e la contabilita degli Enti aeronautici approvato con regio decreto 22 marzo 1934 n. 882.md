@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il [regio decreto 22 marzo 1934, n. 882](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20aeronautici.%20034U0882.md), che approva il regolamento per l'amministrazione e la contabilita' degli Enti aeronautici, e successive modificazioni;
 
-Visto il [regio decreto-legge 22 febbraio 1937, n. 220](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), concernente l'ordinamento dell'Aeronautica militare, e successive modificazioni;
+Visto il [regio decreto-legge 22 febbraio 1937, n. 220](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20Regia%20aeronautica.%20037U0220.md), convertito nella [legge 25 giugno 1937, n. 1501](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20febbraio%201937-XV%20n.%20220%20che%20approva%20lordinamento%20della%20Regia%20aeronautica.%20037U1501.md), concernente l'ordinamento dell'Aeronautica militare, e successive modificazioni;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

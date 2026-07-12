@@ -16,7 +16,7 @@ Visto l'[articolo 16 del codice della navigazione](../Regi%20decreti/Approvazion
 
 Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), navigazione marittima, approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
-Vista la tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione, approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni;
+Vista la tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione, approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../DPR/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni;
 
 Visto l'[articolo 17, comma 1, lettera d), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-letd);
 
@@ -61,7 +61,7 @@ Avvertenza:
 
 1.
 
-Il limite della circoscrizione territoriale dell'ufficio di cui all'articolo 1 nell'ambito della zona marittima di appartenenza, e' individuato nella tabella, vistata dal Ministro proponente, allegata al presente decreto, di cui forma parte integrante. Detta tabella sostituisce la corrispondente tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni.
+Il limite della circoscrizione territoriale dell'ufficio di cui all'articolo 1 nell'ambito della zona marittima di appartenenza, e' individuato nella tabella, vistata dal Ministro proponente, allegata al presente decreto, di cui forma parte integrante. Detta tabella sostituisce la corrispondente tabella delle circoscrizioni territoriali marittime del Ministero dei trasporti e della navigazione approvata con [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](../DPR/Approvazione%20della%20nuova%20tabella%20delle%20circoscrizioni%20territoriali%20della%20marina%20mercantile.md), e successive modificazioni.
 
 Nota all'art. 2:
  - Per quanto concerne il [D.P.R. n. 1250/1956](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1956;1250) v. nelle note alle premesse.

@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA 
  
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5); 
- Visto il [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), che ha approvato il testo unico delle norme sulla disciplina della circolazione stradale; 
+ Visto il [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), che ha approvato il testo unico delle norme sulla disciplina della circolazione stradale; 
  Visto il [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), concernente l'approvazione del regolamento per l'esecuzione del testo unico suddetto; 
  Udito il parere del Consiglio di Stato; 
  Sentito il Consiglio dei Ministri; 

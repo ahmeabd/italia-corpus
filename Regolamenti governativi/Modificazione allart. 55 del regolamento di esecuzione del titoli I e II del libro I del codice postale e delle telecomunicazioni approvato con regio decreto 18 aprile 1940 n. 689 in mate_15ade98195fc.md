@@ -16,9 +16,9 @@ Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abro
 
 Visto il regolamento di esecuzione dei titoli I e II del libro I del codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e successive modificazioni;
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [decreto del Presidente della Repubblica 24 febbraio 1975, n. 37](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ristrutturazione%20e%20revisione%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
+Visto il [decreto del Presidente della Repubblica 24 febbraio 1975, n. 37](../DPR/Ristrutturazione%20e%20revisione%20delle%20tariffe%20postali%20e%20telegrafiche%20per%20linterno%20della%20Repubblica.md);
 
 Considerata l'opportunita' di modificare la disciplina concernente i biglietti postali contenuta nell'art. 55 del citato regolamento dei servizi postali, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md);
 

@@ -144,7 +144,7 @@ TITOLO IV
 
 ### Art. 21.
 
-Le disposizioni della [legge 23 febbraio 1960, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-02-23;186), non si applicano alle armi destinate a collezioni e musei. Non si applicano neppure alle armi introdotte dall'estero per esclusivo uso personale, contemplate dall'art. 14, n. 3, delle disposizioni preliminari della, tariffa dei dazi doganali di importazione, approvata con [decreto del Presidente della Repubblica 21 dicembre 1961, n. 1339](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20con%20linquadramento%20delle%20sottovoci%20della%20tariffa%20nazionale%20in%20quelle%20corrispondenti%20della%20tariffa%20doganale%20esterna%20della_6d5109dff4f2.md).
+Le disposizioni della [legge 23 febbraio 1960, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-02-23;186), non si applicano alle armi destinate a collezioni e musei. Non si applicano neppure alle armi introdotte dall'estero per esclusivo uso personale, contemplate dall'art. 14, n. 3, delle disposizioni preliminari della, tariffa dei dazi doganali di importazione, approvata con [decreto del Presidente della Repubblica 21 dicembre 1961, n. 1339](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20di%20importazione%20con%20linquadramento%20delle%20sottovoci%20della%20tariffa%20nazionale%20in%20quelle%20corrispondenti%20della%20tariffa%20doganale%20esterna%20della_6d5109dff4f2.md).
 
 ### Art. 22.
 

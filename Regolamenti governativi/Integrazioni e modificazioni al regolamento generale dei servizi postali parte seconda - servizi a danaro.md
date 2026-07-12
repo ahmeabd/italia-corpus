@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il regolamento generale dei servizi postali (parte seconda - servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni e, in particolare, il [regio decreto 31 ottobre 1942, n. 1849](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-10-31;1849), e il [decreto del Presidente della Repubblica 22 novembre 1965, n. 1646](Modifiche%20allart.%209%20del%20regolamento%20generale%20dei%20servizi%20postali%20-%20parte%20seconda%20-%20servizi%20a%20danaro%20approvato%20con%20regio%20decreto%2030%20maggio%201940%20n.%20775.md);
 

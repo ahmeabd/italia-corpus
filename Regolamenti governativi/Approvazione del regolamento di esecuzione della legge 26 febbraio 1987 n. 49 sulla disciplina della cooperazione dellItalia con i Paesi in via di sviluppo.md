@@ -35,7 +35,7 @@ E' approvato, vistato dal Ministro proponente, il regolamento di esecuzione dell
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera c)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- c) il [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20febbraio%201987%20n.%2049%20sulla%20disciplina%20della%20cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md)". 
+ c) il [decreto del Presidente della Repubblica 12 aprile 1988, n. 177](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20febbraio%201987%20n.%2049%20sulla%20disciplina%20della%20cooperazione%20dellItalia%20con%20i%20Paesi%20in%20via%20di%20sviluppo.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

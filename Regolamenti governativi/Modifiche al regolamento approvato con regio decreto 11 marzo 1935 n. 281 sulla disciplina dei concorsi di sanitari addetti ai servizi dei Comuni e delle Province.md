@@ -18,7 +18,7 @@ Visto l'art. 358 del citato [testo unico delle leggi sanitarie](../Testi%20Unici
 
 Visto il regolamento dei concorsi a posti di sanitari addetti ai servizi dei Comuni e delle Province approvato con [regio decreto 11 marzo 1935, n. 281](../Regi%20decreti/Approvazione%20del%20regolamento%20dei%20concorsi%20a%20posti%20di%20sanitari%20addetti%20ai%20servizi%20dei%20Comuni%20e%20delle%20Provincie.%20035U0281.md);
 
-Visto il [decreto Presidente della Repubblica 10 giugno 1955, n. 854](../Atti%20normativi%20abrogati%20%28in%20originale%29/Decentramento%20dei%20servizi%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), sui decentramento dei servizi dell'Alto Commissariato per l'igiene e la sanita' pubblica;
+Visto il [decreto Presidente della Repubblica 10 giugno 1955, n. 854](../DPR/Decentramento%20dei%20servizi%20dellAlto%20Commissariato%20per%20ligiene%20e%20la%20sanita%20pubblica.md), sui decentramento dei servizi dell'Alto Commissariato per l'igiene e la sanita' pubblica;
 
 Vista la [legge 13 marzo 1958, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-13;296), istitutiva del Ministero della sanita';
 

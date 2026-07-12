@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto del Presidente della Repubblica 28 settembre 1978, n. 818](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), recante riordinamento dell'Istituto nazionale per il commercio estero;
+Visto il [decreto del Presidente della Repubblica 28 settembre 1978, n. 818](../DPR/Riordinamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), recante riordinamento dell'Istituto nazionale per il commercio estero;
 
 Visto l'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -627,7 +627,7 @@ Salvo che per le cause in corso alla data di entrata in vigore del presente stat
 
 1.
 
-Fino all'emanazione del regolamento del personale e sino alla data dalla quale avranno decorrenza gli effetti delle deliberazioni di cui all'[art. 5, comma 1, della legge 18 marzo 1989, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-18;106#art_5-com1), deliberazioni i cui effetti non potranno avere decorrenza retroattiva in sede di prima applicazione, lo stato giuridico del personale dell'Istituto e, rispettivamente, il trattamento economico dello stesso e gli aspetti dell'organizzazione del lavoro e del rapporto di impiego di cui all'art. 18, comma 3, restano disciplinati dalle disposizioni di cui alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70), e successive modificazioni ed integrazioni, dal [decreto del Presidente della Repubblica 5 dicembre 1987, n. 551](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20della%20disciplina%20dei%20dirigenti%20del%20parastato%20a%20quella%20dei%20dirigenti%20delle%20amministrazioni%20statali%20ai%20sensi%20dellart.%202%20terzo%20comma%20della%20legge%208%20marzo%201985%20n.%2072.md), e successive modificazioni ed integrazioni, nonche' dalle altre disposizioni legislative applicabili al personale dell'Istituto.
+Fino all'emanazione del regolamento del personale e sino alla data dalla quale avranno decorrenza gli effetti delle deliberazioni di cui all'[art. 5, comma 1, della legge 18 marzo 1989, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-18;106#art_5-com1), deliberazioni i cui effetti non potranno avere decorrenza retroattiva in sede di prima applicazione, lo stato giuridico del personale dell'Istituto e, rispettivamente, il trattamento economico dello stesso e gli aspetti dell'organizzazione del lavoro e del rapporto di impiego di cui all'art. 18, comma 3, restano disciplinati dalle disposizioni di cui alla [legge 20 marzo 1975, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70), e successive modificazioni ed integrazioni, dal [decreto del Presidente della Repubblica 5 dicembre 1987, n. 551](../DPR/Adeguamento%20della%20disciplina%20dei%20dirigenti%20del%20parastato%20a%20quella%20dei%20dirigenti%20delle%20amministrazioni%20statali%20ai%20sensi%20dellart.%202%20terzo%20comma%20della%20legge%208%20marzo%201985%20n.%2072.md), e successive modificazioni ed integrazioni, nonche' dalle altre disposizioni legislative applicabili al personale dell'Istituto.
 
 2.
 
@@ -643,7 +643,7 @@ La disposizione di cui all'art. 3, comma 6, si applica anche ai fondi destinati 
 
 5.
 
-Il [decreto del Presidente della Repubblica 28 settembre 1978, n. 818](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), e' abrogato.
+Il [decreto del Presidente della Repubblica 28 settembre 1978, n. 818](../DPR/Riordinamento%20dellIstituto%20nazionale%20per%20il%20commercio%20estero.md), e' abrogato.
 
 Note all'art. 20:
  - Il testo dell'[art. 5 della legge n. 106/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;106#art_5) e' riportato in nota all'art. 18.

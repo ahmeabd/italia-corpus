@@ -20,7 +20,7 @@ Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abro
 
 Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e delle telecomunicazioni, approvato con [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md);
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il [decreto del Presidente della Repubblica 1 giugno 1989, n. 256](Approvazione%20del%20regolamento%20di%20esecuzione%20del%20libro%20terzo%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20servizi%20di%20bancoposta.md), concernente il regolamento di esecuzione del libro terzo del codice postale e delle telecomunicazioni (servizi di bancoposta);
 
@@ -52,7 +52,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Sulle somme accreditate sulla carta nominativa a banda magnetica ed a microprocessore e' corrisposto un interesse, il cui saggio e' stabilito con le modalita' di cui all'art. 153 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md). Il saggio non puo' essere inferiore a quello vigente per i libretti di risparmio della serie ordinaria.
+Sulle somme accreditate sulla carta nominativa a banda magnetica ed a microprocessore e' corrisposto un interesse, il cui saggio e' stabilito con le modalita' di cui all'art. 153 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md). Il saggio non puo' essere inferiore a quello vigente per i libretti di risparmio della serie ordinaria.
 
 2.
 

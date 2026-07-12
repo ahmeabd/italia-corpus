@@ -26,10 +26,10 @@ vigente: true
 
 ## Art. 5. — Uffici di diretta collaborazione
 
-1.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
- 2.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
- 3.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
- 4.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
+1.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
+ 2.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
+ 3.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
+ 4.COMMA ABROGATO DAL [D.P.R. 9 GENNAIO 2008, N. 18](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20politiche%20agricole%20alimentari%20e%20forestali%20a%20norma%20dellarticolo%201%20comma%20404%20della%20legge%2027%20dicembre%202006%20n.%20296.md).
  5.((COMMA ABROGATO DAL D.P.R. 22 LUGLIO 2009, N. 129)).
 
 ## Art. 6.

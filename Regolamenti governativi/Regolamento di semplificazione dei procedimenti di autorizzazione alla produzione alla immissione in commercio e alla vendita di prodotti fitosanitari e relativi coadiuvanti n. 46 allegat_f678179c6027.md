@@ -20,7 +20,7 @@ Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md);
 
-Visto il [decreto del Presidente della Repubblica 24 maggio 1988, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20numeri%2078-631%2081-187%20e%2084-291%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20classificazione%20allimballaggio%20e%20alletichett_5434cd3355d3.md);
+Visto il [decreto del Presidente della Repubblica 24 maggio 1988, n. 223](../DPR/Attuazione%20delle%20direttive%20CEE%20numeri%2078-631%2081-187%20e%2084-291%20concernenti%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20classificazione%20allimballaggio%20e%20alletichett_5434cd3355d3.md);
 
 Visto il [decreto legislativo 30 giugno 1993, n. 267](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20dellIstituto%20superiore%20di%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 

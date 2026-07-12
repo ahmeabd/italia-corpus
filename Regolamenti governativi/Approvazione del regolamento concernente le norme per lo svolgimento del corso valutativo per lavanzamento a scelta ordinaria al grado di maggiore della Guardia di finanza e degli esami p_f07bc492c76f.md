@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116), convertito nella [legge 7 giugno 1937, n. 993](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20che%20reca%20modificazioni%20allordinamento%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0993.md), che reca modificazioni all'ordinamento del Corpo della guardia di finanza;
+Visto il [regio decreto-legge 25 gennaio 1937, n. 116](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-01-25;116), convertito nella [legge 7 giugno 1937, n. 993](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2025%20gennaio%201937-XV%20n.%20116%20che%20reca%20modificazioni%20allordinamento%20del%20Corpo%20della%20Regia%20guardia%20di%20finanza.%20037U0993.md), che reca modificazioni all'ordinamento del Corpo della guardia di finanza;
 
 Vista la [legge 7 giugno 1934, n. 899](../Atti%20normativi%20abrogati%20%28in%20originale%29/Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20034U0899.md), e successive modificazioni, sull'avanzamento degli ufficiali dell'Esercito;
 
