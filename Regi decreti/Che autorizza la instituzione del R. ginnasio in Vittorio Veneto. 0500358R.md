@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 16 luglio 1904, n. 397](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20regi%20degli%20Istituti%20secondari.%20004U0397.md);
+Veduta la [legge 16 luglio 1904, n. 397](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20regi%20degli%20Istituti%20secondari.%20004U0397.md);
 
 Veduta l'istanza del comune di Vittorio (Veneto) per l'istituzione di un ginnasio e i documenti che la corredano;
 

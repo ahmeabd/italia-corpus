@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto-legge 10 marzo 1938, n. 330](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), portante provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento, convertito in legge con la [legge 5 gennaio 1939, n. 245](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md);
+Visto il [R. decreto-legge 10 marzo 1938, n. 330](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), portante provvedimenti a favore dell'industria delle costruzioni navali e dell'armamento, convertito in legge con la [legge 5 gennaio 1939, n. 245](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md);
 
 Ritenuta la necessita' di provvedere all'emanazione del regolamento per l'esecuzione della suindicata legge;
 
@@ -30,7 +30,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 ## Articolo unico.
 
-E' approvato l'unito regolamento per l'esecuzione del [Regio decreto-legge 10 marzo 1938, n. 330](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito in legge con la [legge 5 gennaio 1939, n. 245](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md), regolamento firmato, d'ordine Nostro, dal Ministro Segretario di Stato per le comunicazioni. 
+E' approvato l'unito regolamento per l'esecuzione del [Regio decreto-legge 10 marzo 1938, n. 330](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20038U0330.md), convertito in legge con la [legge 5 gennaio 1939, n. 245](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2010%20marzo%201938-XVI%20n.%20330%20che%20reca%20provvedimenti%20a%20favore%20dellindustria%20delle%20costruzioni%20navali%20e%20dellarmamento.%20039U0245.md), regolamento firmato, d'ordine Nostro, dal Ministro Segretario di Stato per le comunicazioni. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  
