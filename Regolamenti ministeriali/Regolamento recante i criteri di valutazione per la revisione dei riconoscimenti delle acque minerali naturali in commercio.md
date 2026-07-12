@@ -14,7 +14,7 @@ Visto il [decreto legislativo 25 gennaio 1992, n. 105](../Decreti%20Legislativi/
 
 Visti in particolare il primo e il secondo comma dell'art. 2 del citato decreto, che prevedono l'emanazione di provvedimenti concernenti i criteri di valutazione delle caratteristiche delle acque minerali naturali, ed il primo comma dell'art. 21 che prevede la revisione dei riconoscimenti delle acque minerali naturali in vendita alla data di entrata in vigore del decreto stesso;
 
-Visto l'[art. 6, comma 10, del decreto-legge 22 giugno 1996, n. 332](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20interventi%20in%20campo%20economico%20e%20sociale_8.md), in materia di differimento di termini previsti da disposizioni legislative;
+Visto l'[art. 6, comma 10, del decreto-legge 22 giugno 1996, n. 332](../DL%20decaduti/Differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20in%20materia%20di%20interventi%20in%20campo%20economico%20e%20sociale_8.md), in materia di differimento di termini previsti da disposizioni legislative;
 
 Ritenuto di dover procedere alla modifica del [decreto ministeriale 12 novembre 1992, n. 542](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-11-12;542), al punto 4) dell'art. 16 per riportare a coerenza normativa i criteri di valutazione per la revisione dei riconoscimenti delle acque minerali naturali in commercio, fruendo del differimento del termine gia' fissato (3 marzo 1995) per la revisione delle acque minerali;
 

@@ -32,7 +32,7 @@ Visto il [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it
 
 Vista la [direttiva 95/62/CE del Parlamento europeo e del Consiglio del 13 dicembre 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;62) sull' applicazione del regime di fornitura di una rete aperta (ONP) alla telefonia vocale;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l(elevato a)' adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994;
+Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l(elevato a)' adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994;
 
 Vista la [legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481), recante norme per la concorrenza e la regolazione dei servizi di pubblica utilita'.
 

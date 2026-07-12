@@ -26,7 +26,7 @@ Visto l'[art. 1 della legge 26 febbraio 1991, n. 58](../DL%20e%20leggi%20di%20co
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [decreto-legge 6 febbraio 1991, n. 35](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito nella [legge 4 aprile 1991, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md), recante norme sulla gestione transitoria delle unita' sanitarie locali;
+Visto il [decreto-legge 6 febbraio 1991, n. 35](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali_2.md), convertito nella [legge 4 aprile 1991, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201991%20n.%2035%20recante%20norme%20sulla%20gestione%20transitoria%20delle%20unita%20sanitarie%20locali.md), recante norme sulla gestione transitoria delle unita' sanitarie locali;
 
 Sentite le organizzazioni sindacali di categoria maggiormente rappresentative su base nazionale;
 
@@ -36,7 +36,7 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 21 no
 
 Visto, altresi', l'[art. 4, comma 7, della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), recante: "Disposizioni in materia di finanza pubblica";
 
-Visto da ultimo l'[art. 6, comma 1, del decreto-legge 20 gennaio 1992, n. 12](../Atti%20normativi%20abrogati%20%28in%20originale%29/Finanziamento%20della%20maggiore%20spesa%20sanitaria%20relativa%20allanno%201991%20e%20disposizioni%20urgenti%20per%20il%20funzionamento%20del%20Servizio%20sanitario%20nazionale.md), recante: "Finanziamento della maggiore spesa sanitaria relativa all'anno 1991 e disposizioni urgenti per il funzionamento del Servizio sanitario nazionale";
+Visto da ultimo l'[art. 6, comma 1, del decreto-legge 20 gennaio 1992, n. 12](../DL%20decaduti/Finanziamento%20della%20maggiore%20spesa%20sanitaria%20relativa%20allanno%201991%20e%20disposizioni%20urgenti%20per%20il%20funzionamento%20del%20Servizio%20sanitario%20nazionale.md), recante: "Finanziamento della maggiore spesa sanitaria relativa all'anno 1991 e disposizioni urgenti per il funzionamento del Servizio sanitario nazionale";
 
 A D O T T A il seguente regolamento:
 

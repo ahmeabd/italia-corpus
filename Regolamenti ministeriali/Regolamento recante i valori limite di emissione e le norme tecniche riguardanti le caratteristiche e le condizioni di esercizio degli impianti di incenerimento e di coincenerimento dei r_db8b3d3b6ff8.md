@@ -20,7 +20,7 @@ e
 
 IL MINISTRO DELLA SANITA'
 
-Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 6;
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare l'articolo 6;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -96,7 +96,7 @@ Avvertenza:
  "2. Sono inoltre di competenza dello Stato:
  a) l'adozione delle norme tecniche per la gestione dei rifiuti, dei rifiuti pericolosi e di specifiche tipologie di rifiuti, nonche' delle norme e delle condizioni per l'applicazione delle procedure semplificate di cui agli articoli 31, 32 e 33".
  Note alle premesse:
- - L'[art. 6 delle legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md) [Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 1995-1997)], e' il seguente:
+ - L'[art. 6 delle legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md) [Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 1995-1997)], e' il seguente:
  "6 (Attuazione di direttive comunitarie in via regolamentare o amministrativa). - 1. L'allegato D elenca le direttive attuate o da attuare mediante regolamento ministeriale da emanare ai sensi dell'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), o atto amministrativo, nel rispetto del termine indicato nelle direttive stesse. Resta fermo il disposto degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_11) e [20 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_20).
  2. Le amministrazioni competenti informano costantemente la Presidenza del Consiglio dei Ministri - Dipartimento per il coordinamento delle politiche comunitarie, sulle fasi dei procedimenti connessi all'emanazione dei provvedimenti di cui al comma 1.
  3. Le regioni e le province autonome di Trento e di Bolzano, nelle materie di loro competenza possono, entro trenta giorni dalla data di entrata in vigore della presente legge, indirizzare alla Presidenza del Consiglio dei Ministri - Dipartimento per il coordinamento delle politiche comunitarie, proposte in merito al contenuto dei provvedimenti da emanare ai sensi del comma 1.

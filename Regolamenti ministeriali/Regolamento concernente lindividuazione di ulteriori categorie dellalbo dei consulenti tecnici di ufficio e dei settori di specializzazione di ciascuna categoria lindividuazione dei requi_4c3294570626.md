@@ -28,7 +28,7 @@ Visto l'[articolo 39, del decreto legislativo 10 ottobre 2022, n. 149](../Leggi%
 
 Visto l'articolo 32, del testo unico approvato con [regio decreto 20 settembre 1934, n. 2011](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20sui%20Consigli%20provinciali%20delleconomia%20corporativa%20e%20sugli%20Uffici%20provinciali%20delleconomia%20corporativa.%20034U2011.md), che disciplina le attribuzioni delle camere di commercio, industria, artigianato e agricoltura;
 
-Visto l'[articolo 16, della legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), che detta norme in materia di domicilio professionale;
+Visto l'[articolo 16, della legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), che detta norme in materia di domicilio professionale;
 
 Visto il [decreto legislativo 30 giugno 2003, n. 196](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), «[Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante disposizioni per l'adeguamento dell'ordinamento nazionale al regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la [direttiva 95/46/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;46)»;
 
@@ -113,7 +113,7 @@ Ai sensi dell'articolo 15 delle disposizioni di attuazione, possono essere iscri
                         d)
                             sono dotati di speciale competenza tecnica nelle materie oggetto della categoria di interesse;
                         e)
-                            hanno residenza anagrafica o domicilio professionale ai sensi dell'[articolo 16 della legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md) nel circondario del tribunale.
+                            hanno residenza anagrafica o domicilio professionale ai sensi dell'[articolo 16 della legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md) nel circondario del tribunale.
 
 2.
 
@@ -151,7 +151,7 @@ Ai fini dell'iscrizione nella categoria e nel settore di specializzazione richie
 
 Note all'art. 4: 
  - Per l'art. 15 del citato [regio decreto 18 dicembre 1941, n. 1368](../Codici/Disposizioni%20per%20lattuazione%20del%20Codice%20di%20procedura%20civile%20e%20disposizioni%20transitorie.%20041U1368.md), si veda nelle note alle premesse. 
- - Per l'art. 16 della citata [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), si veda nelle note alle premesse. 
+ - Per l'art. 16 della citata [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), si veda nelle note alle premesse. 
  - Si riporta il testo dell'[art. 2 della legge 14 gennaio 2013, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4#art_2) (Disposizioni in materia di professioni non organizzate): 
  «Art. 2 (Associazioni professionali). - 1. Coloro che esercitano la professione di cui all'art. 1, comma 2, possono costituire associazioni a carattere professionale di natura privatistica, fondate su base volontaria, senza alcun vincolo di rappresentanza esclusiva, con il fine di valorizzare le competenze degli associati e garantire il rispetto delle regole deontologiche, agevolando la scelta e la tutela degli utenti nel rispetto delle regole sulla concorrenza. 
  2. Gli statuti e le clausole associative delle associazioni professionali garantiscono la trasparenza delle attivita' e degli assetti associativi, la dialettica democratica tra gli associati, l'osservanza dei principi deontologici, nonche' una struttura organizzativa e tecnico-scientifica adeguata all'effettivo raggiungimento delle finalita' dell'associazione. 

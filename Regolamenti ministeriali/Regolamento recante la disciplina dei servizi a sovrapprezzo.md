@@ -16,7 +16,7 @@ Visto il [decreto del Ministro delle poste e delle telecomunicazioni 13 luglio 1
 
 Vista la [legge 31 gennaio 1996, n. 61](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), recante «Ratifica ed esecuzione degli atti finali della conferenza addizionale dei plenipotenziari relativi alla costituzione e convenzione dell'Unione Internazionale delle Telecomunicazioni (UIT) con protocollo facoltativo, risoluzioni e raccomandazioni, adottati a Ginevra il 22 dicembre 1992», e in particolare gli articoli 34, comma 2, e 35;
 
-Visto il decreto ministeriale 28 febbraio 1996, recante «Disposizioni e criteri generali per l'applicazione del [decreto-legge 26 febbraio 1996, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20accesso%20ai%20servizi%20audiotex%20e%20videotex_2.md)»;
+Visto il decreto ministeriale 28 febbraio 1996, recante «Disposizioni e criteri generali per l'applicazione del [decreto-legge 26 febbraio 1996, n. 87](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20accesso%20ai%20servizi%20audiotex%20e%20videotex_2.md)»;
 
 Visto il [decreto-legge 23 ottobre 1996, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-23;545), recante «Disposizioni urgenti per l'esercizio dell'attivita' radiotelevisiva e delle telecomunicazioni», convertito, con modificazioni, dalla [legge 23 dicembre 1996, n. 650](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20ottobre%201996%20n.%20545%20recante%20disposizioni%20urgenti%20per%20lesercizio%20dellattivita%20radiotelevisiva.%20Interventi%20per%20il%20riordino%20della%20_45a184592461.md), ed in particolare l'articolo 1, commi 25, 26 e 27;
 
@@ -772,7 +772,7 @@ Alla data di entrata in vigore del presente regolamento sono abrogati:
                             a)
                                 il [decreto del Ministro delle poste e delle telecomunicazioni 13 luglio 1995, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.poste.telecomunicazioni:decreto:1995-07-13;385);
                             b)
-                                il decreto ministeriale 28 febbraio 1996, recante «Disposizioni e criteri generali per l'applicazione del [decreto-legge 26 febbraio 1996, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20accesso%20ai%20servizi%20audiotex%20e%20videotex_2.md)»;
+                                il decreto ministeriale 28 febbraio 1996, recante «Disposizioni e criteri generali per l'applicazione del [decreto-legge 26 febbraio 1996, n. 87](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20accesso%20ai%20servizi%20audiotex%20e%20videotex_2.md)»;
                             c)
                                 il decreto del Ministro delle poste e delle telecomunicazioni 26 maggio 1998, concernente disposizioni sui servizi audiotex pubblicato nella Gazzetta Ufficiale n. 136 del 13 giugno 1998.
 

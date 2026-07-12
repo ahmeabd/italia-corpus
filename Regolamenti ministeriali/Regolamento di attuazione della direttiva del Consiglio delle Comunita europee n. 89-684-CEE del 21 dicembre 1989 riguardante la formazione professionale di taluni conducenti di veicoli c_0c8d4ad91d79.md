@@ -18,7 +18,7 @@ Vista la [legge 12 agosto 1962, n. 1839](../Leggi%20di%20ratifica/Ratifica%20ed%
 
 Vista la [direttiva CEE n. 89/684 del 21 dicembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684) relativa alla formazione professionale di taluni conducenti che trasportano merci pericolose su strada;
 
-Vista la [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), ed in particolare l'art. 11, nel quale e' previsto che il Ministro dei trasporti con proprio decreto da' attuazione alla [direttiva n. 89/684/CEE del 21 dicembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684) in precedenza indicata;
+Vista la [legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), ed in particolare l'art. 11, nel quale e' previsto che il Ministro dei trasporti con proprio decreto da' attuazione alla [direttiva n. 89/684/CEE del 21 dicembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;684) in precedenza indicata;
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in particolare l'art. 17, commi 3 e 4;
 

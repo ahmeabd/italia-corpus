@@ -18,7 +18,7 @@ I MINISTRI DELLA SANITA', DEL LAVORO E DELLA PREVIDENZA SOCIALE E
 
 DELL'AMBIENTE
 
-Visto l'[art. 67 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) relativa al livello di potenza acustica ammesso dalle gru a torre;
+Visto l'[art. 67 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) relativa al livello di potenza acustica ammesso dalle gru a torre;
 
 Visto il [decreto legislativo 27 gennaio 1992, n. 137](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2087-405-CEE%20relativa%20al%20livello%20di%20potenza%20acustica%20ammesso%20delle%20gru%20a%20torre.md), di attuazione della [direttiva 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) relativa al livello di potenza acustica ammesso delle gru a torre ed, in particolare, l'art. 7;
 

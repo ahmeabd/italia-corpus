@@ -28,7 +28,7 @@ Visto il [decreto-legge del 27 ottobre 1986, n. 701](https://www.normattiva.it/u
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), sulla "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio", ed in particolare l'articolo 17 che disciplina la potesta' regolamentare del Governo;
 
-Vista la [legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea (legge comunitaria per il 1990)", ed in particolare l'articolo 4, comma 3;
+Vista la [legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea (legge comunitaria per il 1990)", ed in particolare l'articolo 4, comma 3;
 
 Visto il parere della conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano espresso nella riunione del 30 luglio 1998;
 

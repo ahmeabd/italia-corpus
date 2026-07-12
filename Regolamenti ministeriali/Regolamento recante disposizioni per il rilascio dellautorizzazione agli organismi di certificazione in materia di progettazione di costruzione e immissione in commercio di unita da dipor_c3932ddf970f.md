@@ -16,7 +16,7 @@ IL MINISTRO DELLE INFRASTRUTTURE E DEI TRASPORTI
 
 Vista la [direttiva 94/25/CE del Parlamento europeo e del Consiglio del 16 giugno 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;25) concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri riguardanti le unita' da diporto;
 
-Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria 1994 ed, in particolare, l'articolo 49 e l'allegato A;
+Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria 1994 ed, in particolare, l'articolo 49 e l'allegato A;
 
 Visto il [decreto legislativo 14 agosto 1996, n. 436](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2094-25-CE%20in%20materia%20di%20progettazione%20di%20costruzione%20e%20immissione%20in%20commercio%20di%20unita%20da%20diporto.md), di attuazione della predetta [direttiva 94/25/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;25) e successive modificazioni;
 
@@ -317,7 +317,7 @@ Il [D.Lgs. 11 gennaio 2016, n. 5](../Leggi%20delega%20e%20relativi%20provvedimen
 
 ## Art. 9. — T a r i f f e
 
-1. Le tariffe relative all'autorizzazione ed al controllo degli organismi abilitati ad effettuare le procedure di certificazione ed attestazione della conformita', nonche' le modalita' di riscossione, sono determinate con decreto del Ministro delle attivita' produttive di concerto con il Ministro delle infrastrutture e dei trasporti e del Ministro dell'economia e finanze ai sensi dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md). 
+1. Le tariffe relative all'autorizzazione ed al controllo degli organismi abilitati ad effettuare le procedure di certificazione ed attestazione della conformita', nonche' le modalita' di riscossione, sono determinate con decreto del Ministro delle attivita' produttive di concerto con il Ministro delle infrastrutture e dei trasporti e del Ministro dell'economia e finanze ai sensi dell'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md). 
  2. Gli oneri relativi all'attivita' ispettiva di autorizzazione o rinnovo e quelli di vigilanza periodica sono a carico dell'organismo interessato. 
  ((1))
 

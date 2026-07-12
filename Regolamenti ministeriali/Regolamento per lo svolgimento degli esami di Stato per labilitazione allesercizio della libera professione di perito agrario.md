@@ -383,7 +383,7 @@ Potranno inoltre essere discussi aspetti tecnici relativi alle pubblicazioni pre
 
 1.
 
-Per quanto non previsto dal presente regolamento si applicano, nella parte compatibile, le norme di cui al decreto ministeriale 9 settembre 1957, e successive modificazioni, concernente il regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni, ed alla [legge 5 aprile 1969, n. 119](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20febbraio%201969%20n.%209%20riguardante%20il%20riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md).
+Per quanto non previsto dal presente regolamento si applicano, nella parte compatibile, le norme di cui al decreto ministeriale 9 settembre 1957, e successive modificazioni, concernente il regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni, ed alla [legge 5 aprile 1969, n. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20febbraio%201969%20n.%209%20riguardante%20il%20riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

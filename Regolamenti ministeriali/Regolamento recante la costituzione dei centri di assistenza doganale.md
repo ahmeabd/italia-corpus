@@ -121,7 +121,7 @@ La rappresentanza legale puo' essere concessa esclusivamente ad uno o piu' soci 
 
 Note all'art. 3:
  - Il regolamento CEE n. 2137/85, del Consiglio pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L/199 del 31 luglio 1985, reca: "Istituzione di un gruppo europeo di interesse economico (GEIE)".
- Il [D.Lgs. n. 240/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;240) reca: "Norme per l'applicazione del regolamento n. 85/2137/CEE relativa all'istituzione di un Gruppo europeo di interesse economico (GEIE), ai sensi dell'[art. 17 della legge 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md)".
+ Il [D.Lgs. n. 240/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991;240) reca: "Norme per l'applicazione del regolamento n. 85/2137/CEE relativa all'istituzione di un Gruppo europeo di interesse economico (GEIE), ai sensi dell'[art. 17 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md)".
  - Per l'art. 47 del testo unico delle disposizioni leg- islative in materia doganale, approvato con [D.P.R. n. 43/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43), si veda in nota all'art. 12.
 
 ## Art. 4.

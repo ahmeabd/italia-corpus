@@ -16,7 +16,7 @@ Visti gli articoli 41-69; 129-137; 162-165 del regolamento per la navigazione in
 
 Visto il [decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](../DPR/Norme%20relative%20agli%20accertamenti%20sanitari%20per%20liscrizione%20nelle%20matricole%20del%20personale%20navigante%20della%20navigazione%20interna%20e%20per%20il%20conseguimento%20dei%20rispettivi%20titoli%20professionali.md), ed il decreto del Presidente della Repubblica 7 aprile 1959;
 
-Vista la [legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), concernente le disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alla Comunita' europea (legge comunitaria 1991);
+Vista la [legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), concernente le disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alla Comunita' europea (legge comunitaria 1991);
 
 Ritenuta la necessita' di dare attuazione alla [direttiva CEE n. 87/540](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;540), concernente l'accesso alla professione di trasportatore di merci per via navigabile nel settore dei trasporti nazionali ed internazionali ed il riconoscimento reciproco dei diplomi, certificati ed altri titoli relativi a tale professione;
 

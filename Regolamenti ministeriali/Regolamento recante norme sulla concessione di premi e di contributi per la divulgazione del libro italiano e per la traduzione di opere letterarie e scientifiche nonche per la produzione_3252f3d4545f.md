@@ -28,7 +28,7 @@ Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20re
 
 Visto il decreto del Presidente del Consiglio dei Ministri del 12 marzo 1994 che istituisce il Dipartimento dello spettacolo;
 
-Visto il [decreto-legge 30 novembre 1994, n. 661](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport_9.md), che disciplina le funzioni della Presidenza del Consiglio dei Ministri in materia di spettacolo;
+Visto il [decreto-legge 30 novembre 1994, n. 661](../DL%20decaduti/Riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport_9.md), che disciplina le funzioni della Presidenza del Consiglio dei Ministri in materia di spettacolo;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 

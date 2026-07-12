@@ -14,7 +14,7 @@ Visto l'[art. 35 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20
 
 Visto l'art. 37 della citata legge concernente l'indebitamento degli enti locali dissestati;
 
-Visto l'[art. 5 del decreto-legge 25 maggio 1996, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201996_3.md), in base al quale il suindicato [art. 35 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), si interpreta nel senso che agli enti locali ivi previsti e' consentito emettere prestiti obbligazionari anche in valuta e sui mercati esteri;
+Visto l'[art. 5 del decreto-legge 25 maggio 1996, n. 287](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201996_3.md), in base al quale il suindicato [art. 35 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), si interpreta nel senso che agli enti locali ivi previsti e' consentito emettere prestiti obbligazionari anche in valuta e sui mercati esteri;
 
 Visto il [regolamento del Ministro del tesoro 29 gennaio 1996, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro:regolamento:1996-01-29;152);
 
@@ -48,7 +48,7 @@ Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.norma
 
 Visto l'[art. 3 della legge 14 gennaio 1994, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20#art_3), e successive modificazioni ed integrazioni;
 
-Considerato che ai sensi del suindicato [art. 5 del decreto-legge 25 maggio 1996, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201996_3.md), occorre modificare le disposizioni contenute nel predetto regolamento in materia di emissioni di titoli obbligazionari da parte degli enti locali, adottato con decreto ministeriale 29 gennaio 1996;
+Considerato che ai sensi del suindicato [art. 5 del decreto-legge 25 maggio 1996, n. 287](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201996_3.md), occorre modificare le disposizioni contenute nel predetto regolamento in materia di emissioni di titoli obbligazionari da parte degli enti locali, adottato con decreto ministeriale 29 gennaio 1996;
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 giugno 1996;
 
@@ -143,7 +143,7 @@ Note all'art. 1:
  1. Per tutti gli investimenti degli enti locali, comunque finanziati, l'organo deliberante, nell'approvare il progetto od il piano esecutivo dell'investimento, da' atto della copertura delle maggiori spese derivanti dallo stesso nel bilancio pluriennale originario, eventualmente modificato dall'organo consiliare, ed assume impegno di inserire nei bilanci pluriennali successivi le ulteriori o maggiori previsioni di spesa relative ad esercizi futuri, delle quali e' redatto apposito elenco.
  2. Ove si rientri nelle ipotesi di cui all'[articolo 46 del decreto legislativo 30 dicembre 1992, n. 504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), gli enti locali provvedono, per gli investimenti finanziari con l'assunzione di mutui alla redazione del piano economico-finanziario di cui al citato articolo 46.
  3. La deliberazione consiliare che approva il piano economico- finanziario costituisce presupposto di legittimita' delle deliberazioni di approvazione dei progetti esecutivi dell'investimento e delle deliberazioni di assunzione dei relativi mutui".
- Il testo dell'[art. 5 del decreto legge 25 maggio 1996, n. 287](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201996_3.md) (Disposizioni urgenti in materia di finanza locale per l'anno 1996) e' il seguente:
+ Il testo dell'[art. 5 del decreto legge 25 maggio 1996, n. 287](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20locale%20per%20lanno%201996_3.md) (Disposizioni urgenti in materia di finanza locale per l'anno 1996) e' il seguente:
  "Art. 5 (Emissione di prestiti obbligazionari) -
  1. L'[articolo 35 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), e successive modificazioni, si interpreta nel senso che agli enti locali ivi previsti e' consentito emettere prestiti obbligazionari anche in valuta e sui mercati esteri; a tal fine la delibera di approvazione del prestito deve prevedere l'obbligo della copertura del rischio di cambio ed attestare che il costo effettivo sopportato dall'ente non e' superiore al rendimento lordo dei corrispondenti titoli di Stato emessi sul mercato interno, aumentato di un punto, secondo quanto stabilito dal comma 6 del citato articolo 35.
 

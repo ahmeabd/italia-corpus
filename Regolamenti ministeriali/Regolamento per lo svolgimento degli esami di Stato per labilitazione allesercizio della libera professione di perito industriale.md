@@ -398,7 +398,7 @@ Note all'art. 17:
 
 1.
 
-Per quanto non previsto dal presente regolamento si applicano nella parte compatibile le norme di cui al decreto ministeriale 9 settembre 1957, e successive modificazioni, concernente il regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni ed alla [legge 5 aprile 1969, n. 119](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20febbraio%201969%20n.%209%20riguardante%20il%20riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md).
+Per quanto non previsto dal presente regolamento si applicano nella parte compatibile le norme di cui al decreto ministeriale 9 settembre 1957, e successive modificazioni, concernente il regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni ed alla [legge 5 aprile 1969, n. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20febbraio%201969%20n.%209%20riguardante%20il%20riordinamento%20degli%20esami%20di%20Stato%20di%20maturita%20di%20abilitazione%20e%20di%20licenza%20della%20scuola%20media.md).
 
 Note all'art. 18:
  - Il D.M. 9 settembre 1957, pubblicato nella Gazzetta Ufficiale n. 271 del 2 novembre 1957, approva il regolamento sugli esami di Stato di abilitazione all'esercizio delle professioni.
