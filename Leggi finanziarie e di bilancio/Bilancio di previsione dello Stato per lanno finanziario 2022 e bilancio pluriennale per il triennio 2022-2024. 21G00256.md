@@ -3714,7 +3714,7 @@ Al fine di garantire il rispetto dell'ordine e della sicurezza in ambito carcera
 
 653.
 
-Le disposizioni che prevedono, in conseguenza dell'emergenza epidemiologica da COVID-19, l'erogazione da parte dell'Agenzia delle entrate di contributi a fondo perduto si interpretano nel senso che a tali erogazioni non si applicano le disposizioni di cui all'[articolo 48-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
+Le disposizioni che prevedono, in conseguenza dell'emergenza epidemiologica da COVID-19, l'erogazione da parte dell'Agenzia delle entrate di contributi a fondo perduto si interpretano nel senso che a tali erogazioni non si applicano le disposizioni di cui all'[articolo 48-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md).
 
 654.
 
@@ -3988,7 +3988,7 @@ Per il ristoro ai comuni delle minori entrate derivanti dal comma 706 e' istitui
 
 708.
 
-Le disposizioni di cui all'articolo 373, comma 2, lettera d), del regolamento di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Codici/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono estese anche ai veicoli del Corpo valdostano dei vigili del fuoco, del Corpo forestale della Valle d'Aosta e della Protezione civile della Valle d'Aosta.
+Le disposizioni di cui all'articolo 373, comma 2, lettera d), del regolamento di cui al [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono estese anche ai veicoli del Corpo valdostano dei vigili del fuoco, del Corpo forestale della Valle d'Aosta e della Protezione civile della Valle d'Aosta.
 
 709.
 
@@ -4570,11 +4570,11 @@ L'agevolazione di cui ai commi da 831 a 833 e' concessa ai sensi e nei limiti de
 
 835.
 
-Al fine di analizzare le condizioni che determinano il divieto di immissione di specie ittiche non autoctone di cui all'articolo 12 del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), e' istituito presso il Ministero della transizione ecologica il Nucleo di ricerca e valutazione composto da rappresentanti del Ministero della transizione ecologica, del Ministero delle politiche agricole alimentari e forestali, di SNPA/ISPRA e da sei rappresentanti delle regioni e delle province autonome di Trento e di Bolzano, per un massimo di dodici componenti, operativo fino al 30 settembre 2024. Ai componenti del Nucleo di ricerca e valutazione non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
+Al fine di analizzare le condizioni che determinano il divieto di immissione di specie ittiche non autoctone di cui all'articolo 12 del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), e' istituito presso il Ministero della transizione ecologica il Nucleo di ricerca e valutazione composto da rappresentanti del Ministero della transizione ecologica, del Ministero delle politiche agricole alimentari e forestali, di SNPA/ISPRA e da sei rappresentanti delle regioni e delle province autonome di Trento e di Bolzano, per un massimo di dodici componenti, operativo fino al 30 settembre 2024. Ai componenti del Nucleo di ricerca e valutazione non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
 836.
 
-Al fine dell'adeguamento al divieto di immissione in natura di specie non autoctone di cui all'articolo 12, comma 3, del citato [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), le regioni e le province autonome di Trento e di Bolzano conformano i rispettivi sistemi di gestione ittica entro centottanta giorni dalla conclusione dei lavori del Nucleo di ricerca e valutazione di cui al comma 835 consentendo l'immissione delle sole specie riconosciute come autoctone dalle rispettive carte ittiche.
+Al fine dell'adeguamento al divieto di immissione in natura di specie non autoctone di cui all'articolo 12, comma 3, del citato [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), le regioni e le province autonome di Trento e di Bolzano conformano i rispettivi sistemi di gestione ittica entro centottanta giorni dalla conclusione dei lavori del Nucleo di ricerca e valutazione di cui al comma 835 consentendo l'immissione delle sole specie riconosciute come autoctone dalle rispettive carte ittiche.
 
 837.
 
@@ -4582,7 +4582,7 @@ Tenuto conto dei lavori del Nucleo di ricerca e valutazione, sentiti la Conferen
 
 837-bis.
 
-Al fine di consentire un'adeguata politica di gestione delle specie ittiche alieutiche, fino al 31 dicembre 2026 non trova applicazione l'articolo 12, comma 1, del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), per le sole disposizioni riguardanti l'immissione in natura nelle acque interne di specie non autoctone la cui immissione era autorizzata in data antecedente all'applicazione del decreto del Ministero dell'ambiente e della tutela del territorio e del mare 2 aprile 2020, pubblicato nella Gazzetta Ufficiale n. 98 del 14 aprile 2020.
+Al fine di consentire un'adeguata politica di gestione delle specie ittiche alieutiche, fino al 31 dicembre 2026 non trova applicazione l'articolo 12, comma 1, del regolamento di cui al [decreto del Presidente della Repubblica 8 settembre 1997, n. 357](../DPR/Regolamento%20recante%20attuazione%20della%20direttiva%2092-43-CEE%20relativa%20alla%20conservazione%20degli%20habitat%20natuali%20e%20seminaturali%20nonche%20della%20flora%20e%20della%20fauna%20selvatiche.md), per le sole disposizioni riguardanti l'immissione in natura nelle acque interne di specie non autoctone la cui immissione era autorizzata in data antecedente all'applicazione del decreto del Ministero dell'ambiente e della tutela del territorio e del mare 2 aprile 2020, pubblicato nella Gazzetta Ufficiale n. 98 del 14 aprile 2020.
 
 838.
 
@@ -4909,7 +4909,7 @@ All'[articolo 1 della legge 30 dicembre 2020, n. 178](Bilancio%20di%20previsione
 
 913.
 
-Con riferimento alle cartelle di pagamento notificate dall'agente della riscossione dal 1° gennaio al 31 marzo 2022, il termine per l'adempimento dell'obbligo risultante dal ruolo, previsto dall'[articolo 25, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' fissato, ai fini di cui agli articoli 30 e 50, comma 1, dello stesso decreto, in centottanta giorni.
+Con riferimento alle cartelle di pagamento notificate dall'agente della riscossione dal 1° gennaio al 31 marzo 2022, il termine per l'adempimento dell'obbligo risultante dal ruolo, previsto dall'[articolo 25, comma 2, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e' fissato, ai fini di cui agli articoli 30 e 50, comma 1, dello stesso decreto, in centottanta giorni.
 
 914.
 

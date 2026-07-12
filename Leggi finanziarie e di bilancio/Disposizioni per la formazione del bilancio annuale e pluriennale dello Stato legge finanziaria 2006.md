@@ -2450,7 +2450,7 @@ Le disposizioni degli [articoli da 10](Misure%20in%20materia%20fiscale.md) [a 15
 
 474.
 
-La disposizione di cui al comma 473 si applica a condizione che l'utilizzazione edificatoria dell'area, ancorche' previa demolizione del fabbricato esistente, avvenga entro i cinque anni successivi all'effettuazione della rivalutazione; trovano applicazione le disposizioni di cui all'[articolo 34, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). I termini di accertamento di cui all'[articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, decorrono dalla data di utilizzazione edificatoria dell'area.
+La disposizione di cui al comma 473 si applica a condizione che l'utilizzazione edificatoria dell'area, ancorche' previa demolizione del fabbricato esistente, avvenga entro i cinque anni successivi all'effettuazione della rivalutazione; trovano applicazione le disposizioni di cui all'[articolo 34, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). I termini di accertamento di cui all'[articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, decorrono dalla data di utilizzazione edificatoria dell'area.
 
 475.
 

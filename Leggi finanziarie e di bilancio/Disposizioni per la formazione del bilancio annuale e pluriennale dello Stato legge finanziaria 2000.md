@@ -917,7 +917,7 @@ Alle predette convenzioni e ai relativi contratti stipulati da amministrazioni d
 
 3.
 
-Le amministrazioni pubbliche possono ricorrere alle convenzioni stipulate ai sensi del comma 1, ovvero ne utilizzano i parametri di prezzo-qualita', come limiti massimi, per l'acquisto di beni e servizi comparabili oggetto delle stesse, anche utilizzando procedure telematiche per l'acquisizione di beni e servizi ai sensi del [decreto del Presidente della Repubblica 4 aprile 2002, n. 101](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20criteri%20e%20modalita%20per%20lespletamento%20da%20parte%20delle%20amministrazioni%20pubbliche%20di%20procedure%20telematiche%20di%20acquisto%20per%20lapprovvigionamento%20di%20beni%20e%20servizi.md). La stipulazione di un contratto in violazione del presente comma e' causa di responsabilita' amministrativa; ai fini della determinazione del danno erariale si tiene anche conto della differenza tra il prezzo previsto nelle convenzioni e quello indicato nel contratto. Le disposizioni di cui al presente comma non si applicano ai comuni con popolazione fino a 1.000 abitanti e ai comuni montani con popolazione fino a 5.000 abitanti.
+Le amministrazioni pubbliche possono ricorrere alle convenzioni stipulate ai sensi del comma 1, ovvero ne utilizzano i parametri di prezzo-qualita', come limiti massimi, per l'acquisto di beni e servizi comparabili oggetto delle stesse, anche utilizzando procedure telematiche per l'acquisizione di beni e servizi ai sensi del [decreto del Presidente della Repubblica 4 aprile 2002, n. 101](../DPR/Regolamento%20recante%20criteri%20e%20modalita%20per%20lespletamento%20da%20parte%20delle%20amministrazioni%20pubbliche%20di%20procedure%20telematiche%20di%20acquisto%20per%20lapprovvigionamento%20di%20beni%20e%20servizi.md). La stipulazione di un contratto in violazione del presente comma e' causa di responsabilita' amministrativa; ai fini della determinazione del danno erariale si tiene anche conto della differenza tra il prezzo previsto nelle convenzioni e quello indicato nel contratto. Le disposizioni di cui al presente comma non si applicano ai comuni con popolazione fino a 1.000 abitanti e ai comuni montani con popolazione fino a 5.000 abitanti.
 
 3-bis.
 
@@ -1315,7 +1315,7 @@ L'importo massimo della spesa per il Servizio sanitario nazionale ammonta, per l
 
 19.
 
-Alla riscossione dei ruoli non erariali sottoscritti entro il 30 giugno 2000 non si applicano le disposizioni di cui all'[articolo 12, comma 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). I termini scadenti il 31 dicembre 1999, previsti per la sottoscrizione e la consegna dei ruoli non erariali, sono prorogati al 29 febbraio 2000 e, limitatamente alla tassa per lo smaltimento dei rifiuti solidi urbani, al 31 dicembre 2000.
+Alla riscossione dei ruoli non erariali sottoscritti entro il 30 giugno 2000 non si applicano le disposizioni di cui all'[articolo 12, comma 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md). I termini scadenti il 31 dicembre 1999, previsti per la sottoscrizione e la consegna dei ruoli non erariali, sono prorogati al 29 febbraio 2000 e, limitatamente alla tassa per lo smaltimento dei rifiuti solidi urbani, al 31 dicembre 2000.
 
 20.
 
@@ -1638,7 +1638,7 @@ Entro nove mesi dalla data di entrata in vigore della presente legge il Ministro
 
 1.
 
-Dopo l'articolo 178 del testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' inserito il seguente:
+Dopo l'articolo 178 del testo unico approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), e' inserito il seguente:
  " ART. 178-bis - (Ulteriori forme di rimborso anticipato dei buoni). - 1. Il Ministro del tesoro del bilancio e della programmazione economica, con proprio decreto, su proposta del direttore generale della Cassa depositi e prestiti, puo' definire, per i sottoscrittori che ne facciano richiesta, forme di rimborso anticipato dei buoni postali fruttiferi, diverse da quelle previste dal presente capo, e la sostituzione, integrale o parziale, della quota capitale, inizialmente sottoscritta, con apposite serie di buoni postali fruttiferi denominati in euro ".
 
 2.
