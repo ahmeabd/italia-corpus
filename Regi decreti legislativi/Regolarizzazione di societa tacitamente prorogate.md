@@ -14,7 +14,7 @@ RE D'ITALIA
 
 Visto il [R. decreto 30 dicembre 1923, n. 3269](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20registro.%20023U3269.md), che ha approvato il testo del la legge dell'imposta del registro e successive modificazioni, Visto il [R. decreto-legge 5 marzo 1942, n. 192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0192.md), recante provvedimenti tributari in materia di societa'.
 
-convertito, con modificazioni, nella [legge 21 giugno 1942, n. 830](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20marzo%201942-XX%20n.%20192%20recante%20provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0830.md);
+convertito, con modificazioni, nella [legge 21 giugno 1942, n. 830](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%205%20marzo%201942-XX%20n.%20192%20recante%20provvedimenti%20tributari%20in%20materia%20di%20fusione%20concentrazione%20e%20trasformazione%20di%20societa.%20042U0830.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

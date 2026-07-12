@@ -118,7 +118,7 @@ Per il trattamento economico degli istruttori pratici incaricati o supplenti del
 
 ## Art. 11.
 
-L'orario d'obbligo del personale tecnico di ruolo di cui all'[art. 41 della legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889#art_41), e degli istruttori pratici di ruolo di cui all'[art. 19 della legge 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), viene fissato in 7 ore giornaliere.
+L'orario d'obbligo del personale tecnico di ruolo di cui all'[art. 41 della legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889#art_41), e degli istruttori pratici di ruolo di cui all'[art. 19 della legge 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), viene fissato in 7 ore giornaliere.
 
 ## Art. 12.
 

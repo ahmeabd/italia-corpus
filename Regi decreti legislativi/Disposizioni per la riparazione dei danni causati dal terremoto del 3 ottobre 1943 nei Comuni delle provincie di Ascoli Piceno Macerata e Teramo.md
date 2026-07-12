@@ -92,7 +92,7 @@ I finanziamenti che le Casse di risparmio sono autorizzate a concedere agli effe
 
 ## Art. 12.
 
-Con decreto del Ministro per i lavori pubblici, sentito il Ministro per l'interno, saranno indicati in apposito elenco i Comuni nei quali dovranno osservarsi le norme tecniche di edilizia asismica approvate con [decreto-legge 22 novembre 1937, n. 2105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-11-22;2105), convertito nella [legge 25 aprile 1938, n. 710](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2022%20novembre%201937-XVI%20n.%202105%20contenente%20norme%20tecniche%20di%20edilizia%20con%20speciali%20prescrizioni%20per%20le%20localita%20colpite%20dai%20terremoti.%20038U0710.md).
+Con decreto del Ministro per i lavori pubblici, sentito il Ministro per l'interno, saranno indicati in apposito elenco i Comuni nei quali dovranno osservarsi le norme tecniche di edilizia asismica approvate con [decreto-legge 22 novembre 1937, n. 2105](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1937-11-22;2105), convertito nella [legge 25 aprile 1938, n. 710](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2022%20novembre%201937-XVI%20n.%202105%20contenente%20norme%20tecniche%20di%20edilizia%20con%20speciali%20prescrizioni%20per%20le%20localita%20colpite%20dai%20terremoti.%20038U0710.md).
  Gli elenchi saranno pubblicati nella Gazzetta Ufficiale del Regno.
 
 ## Art. 13.

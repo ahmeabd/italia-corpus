@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 21 novembre 1938, n. 2163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), convertito nella [legge 1° giugno 1939, n. 928](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%2021%20novembre%201938-XVII%20n.%202163%20contenente%20norme%20per%20la%20nomina%20e%20le%20attribuzioni%20del%20Regi%20provveditori%20agli%20studi%20e%20per%20lattuazio_f2afe2fbdedc.md);
+Visto il [R. decreto-legge 21 novembre 1938, n. 2163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), convertito nella [legge 1° giugno 1939, n. 928](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%2021%20novembre%201938-XVII%20n.%202163%20contenente%20norme%20per%20la%20nomina%20e%20le%20attribuzioni%20del%20Regi%20provveditori%20agli%20studi%20e%20per%20lattuazio_f2afe2fbdedc.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -60,7 +60,7 @@ Le funzioni di consigliere scolastico provinciale sono gratuite.
 
 ## Art. 5.
 
-I Consigli provinciali dell'educazione, istituiti presso ogni Provveditorato agli studi, ai sensi del [R. Decretolegge 21 novembre 1938, n. 2163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), convertito nella [legge 1° giugno 1939, n. 928](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%2021%20novembre%201938-XVII%20n.%202163%20contenente%20norme%20per%20la%20nomina%20e%20le%20attribuzioni%20del%20Regi%20provveditori%20agli%20studi%20e%20per%20lattuazio_f2afe2fbdedc.md), sono disciolti.
+I Consigli provinciali dell'educazione, istituiti presso ogni Provveditorato agli studi, ai sensi del [R. Decretolegge 21 novembre 1938, n. 2163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20nomina%20e%20le%20attribuzioni%20dei%20Regi%20provveditori%20agli%20studi%20e%20per%20listituzione%20del%20Consiglio%20provinciale%20delleducazione%20e%20del%20Consiglio%20di%20disciplina%20per%20gli%20insegnanti%20elementari.%20038U2163.md), convertito nella [legge 1° giugno 1939, n. 928](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto%20legge%2021%20novembre%201938-XVII%20n.%202163%20contenente%20norme%20per%20la%20nomina%20e%20le%20attribuzioni%20del%20Regi%20provveditori%20agli%20studi%20e%20per%20lattuazio_f2afe2fbdedc.md), sono disciolti.
 
 ## Art. 6.
 

@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto-legge 7 settembre 1935, n. 1627](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), convertito, con modificazioni, nella [legge 13 gennaio 1936, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), e successive modificazioni;
+Visto il [R. decreto-legge 7 settembre 1935, n. 1627](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), convertito, con modificazioni, nella [legge 13 gennaio 1936, n. 76](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), e successive modificazioni;
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il t
 
 ## Art. 1.
 
-L'imposta sui frutti dei titoli istituita col [R. decretolegge 7 settembre 1935, n. 1627](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), convertito nella [legge 13 gennaio 1936, n. 76](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), e successive modificazioni, cessa di avere applicazione per i frutti relativi agli esercizi chiusi dopo la data di entrata in vigore del presente decreto.
+L'imposta sui frutti dei titoli istituita col [R. decretolegge 7 settembre 1935, n. 1627](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20del%2010%20per%20cento%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20societa%20istituti%20ed%20enti%20diversi%20dallo%20Stato.%20035U1627.md), convertito nella [legge 13 gennaio 1936, n. 76](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%207%20settembre%201935-XIII%20n.%201627%20concernente%20listituzione%20di%20una%20imposta%20del%2010%20sui%20frutti%20dei%20titoli%20al%20portatore%20emessi%20da%20socie_c6b003ff42a4.md), e successive modificazioni, cessa di avere applicazione per i frutti relativi agli esercizi chiusi dopo la data di entrata in vigore del presente decreto.
 
 ## Art. 2.
 

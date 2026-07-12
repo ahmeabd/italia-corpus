@@ -68,7 +68,7 @@ E' autorizzata l'inscrizione delle somme seguenti negli stati di previsione dell
 
 ## Art. 5.
 
-E' ulteriormente aumentato di L. 130.000.000 il fondo consolidato per le pensioni privilegiate di guerra di cui al [R. decreto-legge 26 settembre 1935, n. 1795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Consolidamento%20della%20spesa%20per%20pensioni%20di%20guerra.%20035U1795.md) convertito nella [legge 6 aprile 1936, n. 630](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201795%20concernente%20il%20consolidamento%20della%20spesa%20per%20pensioni%20di%20guerra.%20036U0630.md).
+E' ulteriormente aumentato di L. 130.000.000 il fondo consolidato per le pensioni privilegiate di guerra di cui al [R. decreto-legge 26 settembre 1935, n. 1795](../Atti%20normativi%20abrogati%20%28in%20originale%29/Consolidamento%20della%20spesa%20per%20pensioni%20di%20guerra.%20035U1795.md) convertito nella [legge 6 aprile 1936, n. 630](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201795%20concernente%20il%20consolidamento%20della%20spesa%20per%20pensioni%20di%20guerra.%20036U0630.md).
 
 ## Art. 6.
 
