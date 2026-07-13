@@ -24,7 +24,7 @@ Visto il [decreto-legge 18 maggio 2006, n. 181](https://www.normattiva.it/uri-re
 
 Visto il [decreto legislativo 1° dicembre 2009, n. 179](Disposizioni%20legislative%20statali%20anteriori%20al%201%20gennaio%201970%20di%20cui%20si%20ritiene%20indispensabile%20la%20permanenza%20in%20vigore%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2009G0187.md), recante disposizioni legislative statali anteriori al 1° gennaio 1970, di cui si ritiene indispensabile la permanenza in vigore;
 
-Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009, ed, in particolare, gli articoli 1 e 2, e l'allegato B;
+Vista la [legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009, ed, in particolare, gli articoli 1 e 2, e l'allegato B;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 ottobre 2010;
 

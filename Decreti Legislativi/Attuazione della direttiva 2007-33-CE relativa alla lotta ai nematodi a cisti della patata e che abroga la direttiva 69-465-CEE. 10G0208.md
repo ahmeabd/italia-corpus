@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009, ed in particolare l'allegato A;
+Vista la [legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - Legge comunitaria 2009, ed in particolare l'allegato A;
 
 Visto il [decreto legislativo 19 agosto 2005, n. 214](Attuazione%20della%20direttiva%202002-89-CE%20concernente%20le%20misure%20di%20protezione%20contro%20lintroduzione%20e%20la%20diffusione%20nella%20Comunita%20di%20organismi%20nocivi%20ai%20vegetali%20o%20ai%20prodotti%20vegetali.md), relativo all'attuazione della [direttiva 2002/89/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;89) concernente le misure di protezione contro l'introduzione e la diffusione nella Comunita' di organismi nocivi ai vegetali o ai prodotti vegetali, e successive modificazioni;
 

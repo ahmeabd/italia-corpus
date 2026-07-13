@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 5.
 
@@ -61,7 +61,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 6.
 
@@ -72,7 +72,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 7.
 
@@ -83,7 +83,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 8.
 
@@ -94,7 +94,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 9.
 
@@ -105,7 +105,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 10.
 
@@ -116,7 +116,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 11.
 
@@ -127,7 +127,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 12.
 
@@ -138,7 +138,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 13.
 
@@ -149,7 +149,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 14.
 
@@ -160,7 +160,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 15.
 
@@ -171,7 +171,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 16.
 
@@ -182,7 +182,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 17.
 
@@ -193,7 +193,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 18.
 
@@ -204,7 +204,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 19.
 
@@ -215,7 +215,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 20.
 
@@ -226,7 +226,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 21.
 
@@ -237,7 +237,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 22.
 
@@ -248,7 +248,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 23.
 
@@ -259,7 +259,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 24.
 
@@ -270,7 +270,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 25.
 
@@ -281,7 +281,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 26.
 
@@ -292,7 +292,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 27.
 
@@ -303,7 +303,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 28.
 
@@ -314,7 +314,7 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
 ## Art. 29.
 
@@ -325,4 +325,4 @@ Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+Il [D.Lgs. 27 gennaio 2010, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;39) ha disposto (con l'[art. 43, comma 1, lettera a)) che il decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md) e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
