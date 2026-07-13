@@ -1725,7 +1725,7 @@ Con decreto del Ministro della salute, di concerto con il Ministro dell'economia
 
 1.
 
-Dal 1° gennaio 2020, all'[articolo 8 del decreto legislativo 18 maggio 2018, n. 65](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md), sono apportate le seguenti modificazioni: 
+Dal 1° gennaio 2020, all'[articolo 8 del decreto legislativo 18 maggio 2018, n. 65](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md), sono apportate le seguenti modificazioni: 
  ((0a) al comma 1, dopo le parole: "presso la Presidenza del Consiglio dei ministri" sono inserite le seguenti: "- Dipartimento delle informazioni per la sicurezza"));
                             a)
                                 al comma 2, il secondo e il terzo periodo sono soppressi;
@@ -1734,7 +1734,7 @@ Dal 1° gennaio 2020, all'[articolo 8 del decreto legislativo 18 maggio 2018, n.
 
 2.
 
-Le risorse di cui all'[articolo 8, commi 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md) e [10, del decreto legislativo 18 maggio 2018, n. 65](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md), relative agli anni 2018 e 2019, per complessivi 6 milioni di euro, gia' trasferite al bilancio autonomo della Presidenza del Consiglio dei ministri, sono trasferite nell'anno 2020 al Dipartimento delle informazioni per la sicurezza.
+Le risorse di cui all'[articolo 8, commi 2](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md) e [10, del decreto legislativo 18 maggio 2018, n. 65](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-1148%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%206%20luglio%202016%20recante%20misure%20per%20un%20livello%20comune%20elevato%20di%20sicurezza%20delle%20reti%20e%20dei%20sistemi%20informa_4c10a7730421.md), relative agli anni 2018 e 2019, per complessivi 6 milioni di euro, gia' trasferite al bilancio autonomo della Presidenza del Consiglio dei ministri, sono trasferite nell'anno 2020 al Dipartimento delle informazioni per la sicurezza.
 
 ### Art. 26-bis. — (( (Modifica all'articolo 2 del decreto legislativo 31 marzo 1998, n. 143). ))
 

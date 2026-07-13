@@ -413,7 +413,7 @@ Inquinamento acustico). - 1. Le regioni disciplinano, con proprio provvedimento,
 
 1.
 
-All'[articolo 17, comma 10, del decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), come da ultimo modificato dall'[articolo 17 del decreto-legge 31 dicembre 2007, n. 248](Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), le parole: «e comunque non oltre il 31 dicembre 2008» sono sostituite dalle seguenti: «e comunque non oltre il 31 dicembre 2009».
+All'[articolo 17, comma 10, del decreto legislativo 8 luglio 2003, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), come da ultimo modificato dall'[articolo 17 del decreto-legge 31 dicembre 2007, n. 248](Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito, con modificazioni, dalla [legge 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), le parole: «e comunque non oltre il 31 dicembre 2008» sono sostituite dalle seguenti: «e comunque non oltre il 31 dicembre 2009».
 
 ### Art. 26. — Proroghe convenzioni Tirrenia
 
@@ -670,7 +670,7 @@ All'articolo 3, comma 2, secondo periodo, del [decreto legislativo 9 aprile 2008
 
 1.
 
-All'[articolo 24 del decreto legislativo 6 aprile 2006, n. 193](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), le parole: «31 dicembre 2008» sono sostituite dalle seguenti: «31 dicembre 2009».
+All'[articolo 24 del decreto legislativo 6 aprile 2006, n. 193](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), le parole: «31 dicembre 2008» sono sostituite dalle seguenti: «31 dicembre 2009».
 
 ### Art. 34. — Proroga in materia di farmaci
 

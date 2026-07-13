@@ -553,7 +553,7 @@ Il Governo provvede ad adeguare il termine di sessanta mesi, disposto dall'artic
 
 7-sexies.
 
-Il Governo provvede ad adeguare la durata del periodo di cui all'articolo 3, comma 2, del regolamento di cui al [decreto del Presidente della Repubblica 31 marzo 2009, n. 55](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20della%20direttiva%202005-45-CE%20che%20modifica%20la%20direttiva%202001-25-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.%2009G0064.md), in materia di personale marittimo, disponendo che lo stesso periodo abbia termine alla data di entrata in vigore del decreto di cui all'[articolo 292-bis del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e comunque non oltre il 31 dicembre 2010. (6) (8)
+Il Governo provvede ad adeguare la durata del periodo di cui all'articolo 3, comma 2, del regolamento di cui al [decreto del Presidente della Repubblica 31 marzo 2009, n. 55](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20di%20attuazione%20della%20direttiva%202005-45-CE%20che%20modifica%20la%20direttiva%202001-25-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.%2009G0064.md), in materia di personale marittimo, disponendo che lo stesso periodo abbia termine alla data di entrata in vigore del decreto di cui all'[articolo 292-bis del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e comunque non oltre il 31 dicembre 2010. (6) (8)
 
 7-septies.
 
@@ -614,7 +614,7 @@ Il termine per procedere alle assunzioni di personale, secondo le modalita' di c
 
 3.
 
-All'articolo 24 ((, comma 1,)) del [decreto legislativo 6 aprile 2006, n. 193](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), e successive modificazioni, le parole: "31 dicembre 2009" sono sostituite dalle seguenti: "31 dicembre 2011".
+All'articolo 24 ((, comma 1,)) del [decreto legislativo 6 aprile 2006, n. 193](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), e successive modificazioni, le parole: "31 dicembre 2009" sono sostituite dalle seguenti: "31 dicembre 2011".
 
 4.
 

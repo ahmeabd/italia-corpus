@@ -197,11 +197,11 @@ All'[articolo 1, comma 626, della legge 11 dicembre 2016, n. 232](../Leggi%20fin
 
 1.
 
-All'articolo 118, comma 1-bis, secondo periodo, del [decreto legislativo 6 aprile 2006, n. 193](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), le parole «A decorrere dal 1° settembre 2018» sono sostituite dalle seguenti: «A decorrere dal ((1° gennaio 2019))».
+All'articolo 118, comma 1-bis, secondo periodo, del [decreto legislativo 6 aprile 2006, n. 193](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202004-28-CE%20recante%20codice%20comunitario%20dei%20medicinali%20veterinari.md), le parole «A decorrere dal 1° settembre 2018» sono sostituite dalle seguenti: «A decorrere dal ((1° gennaio 2019))».
 
 2.
 
-All'articolo 8, comma 1-bis, secondo periodo, del [decreto legislativo 3 marzo 1993, n. 90](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2090-167-CEE%20con%20la%20quale%20sono%20stabilite%20le%20condizioni%20di%20preparazione%20immissione%20sul%20mercato%20ed%20utilizzazione%20dei%20mangimi%20medicati%20nella%20Comunita.md), le parole «A decorrere dal 1° settembre 2018» sono sostituite dalle seguenti: «A decorrere dal ((1° gennaio 2019))».
+All'articolo 8, comma 1-bis, secondo periodo, del [decreto legislativo 3 marzo 1993, n. 90](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2090-167-CEE%20con%20la%20quale%20sono%20stabilite%20le%20condizioni%20di%20preparazione%20immissione%20sul%20mercato%20ed%20utilizzazione%20dei%20mangimi%20medicati%20nella%20Comunita.md), le parole «A decorrere dal 1° settembre 2018» sono sostituite dalle seguenti: «A decorrere dal ((1° gennaio 2019))».
 
 3.
 

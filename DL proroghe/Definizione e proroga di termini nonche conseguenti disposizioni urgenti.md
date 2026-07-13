@@ -178,7 +178,7 @@ All'[articolo 3, comma 1, del decreto-legge 31 gennaio 2005, n. 7](https://www.n
 
 1.
 
-All'[articolo 17, comma 10, del decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), le parole: "e comunque non oltre il 31 dicembre 2005" sono sostituite dalle seguenti: "e comunque non oltre il 30 giugno 2006".
+All'[articolo 17, comma 10, del decreto legislativo 8 luglio 2003, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), le parole: "e comunque non oltre il 31 dicembre 2005" sono sostituite dalle seguenti: "e comunque non oltre il 30 giugno 2006".
 
 ## Art. 16. — Permanenza in carica del Consiglio nazionale
  degli studenti universitari
@@ -299,13 +299,13 @@ All'[articolo 26, comma 1, del decreto legislativo 5 ottobre 2000, n. 298](../At
 
 1.
 
-All'[articolo 21, commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md) e [9, del decreto legislativo 11 maggio 2005, n. 133](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md), le parole: "28 dicembre 2005" sono sostituite dalle seguenti: "28 febbraio 2006".
+All'[articolo 21, commi 1](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md) e [9, del decreto legislativo 11 maggio 2005, n. 133](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md), le parole: "28 dicembre 2005" sono sostituite dalle seguenti: "28 febbraio 2006".
 
 ((
 
 1-bis.
 
-All'[articolo 21 del decreto legislativo 11 maggio 2005, n. 133](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md), dopo il comma 10 e' aggiunto il seguente: "10-bis. Per gli impianti la cui funzione principale consiste nella produzione di energia elettrica e che utilizzano come combustibile accessorio prodotti trasformati di categoria 1, 2 e 3 ai sensi degli [art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2002-10-03;1774#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2002-10-03;1774#art_5) e 6 del regolamento (CE) n. 1774/2002 del Parlamento europeo e del Consiglio, del 3 ottobre 2002, il termine di cui ai commi 1 e 9 e' fissato al 28 dicembre 2007".
+All'[articolo 21 del decreto legislativo 11 maggio 2005, n. 133](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md), dopo il comma 10 e' aggiunto il seguente: "10-bis. Per gli impianti la cui funzione principale consiste nella produzione di energia elettrica e che utilizzano come combustibile accessorio prodotti trasformati di categoria 1, 2 e 3 ai sensi degli [art. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2002-10-03;1774#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::2002-10-03;1774#art_5) e 6 del regolamento (CE) n. 1774/2002 del Parlamento europeo e del Consiglio, del 3 ottobre 2002, il termine di cui ai commi 1 e 9 e' fissato al 28 dicembre 2007".
 
 ))
 
@@ -382,7 +382,7 @@ Gli incarichi conferiti ai sensi dell'[articolo 9, comma 4, della legge 18 novem
 
 1.
 
-All'[articolo 23, comma 6-bis, del decreto legislativo 11 maggio 1999, n. 152](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "30 giugno 2006".
+All'[articolo 23, comma 6-bis, del decreto legislativo 11 maggio 1999, n. 152](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20sulla%20tutela%20delle%20acque%20dallinquinamento%20e%20recepimento%20della%20direttiva%2091-271-CEE%20concernente%20il%20trattamento%20delle%20acque%20reflue%20urbane%20e%20della%20direttiva%2091-676-CEE%20relativa%20_2e8d984f823c.md), le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "30 giugno 2006".
 
 ))
 
@@ -632,7 +632,7 @@ All'[articolo 118, comma 16, della legge 23 dicembre 2000, n. 388](../Leggi%20fi
 
 1.
 
-Il documento unico di regolarita' contributiva di cui all'[articolo 3, comma 8, del decreto legislativo 14 agosto 1996, n. 494](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-57-CEE%20concernente%20le%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20da%20attuare%20nei%20cantieri%20temporanei%20o%20mobili.md), ha validita' di tre mesi.
+Il documento unico di regolarita' contributiva di cui all'[articolo 3, comma 8, del decreto legislativo 14 agosto 1996, n. 494](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-57-CEE%20concernente%20le%20prescrizioni%20minime%20di%20sicurezza%20e%20di%20salute%20da%20attuare%20nei%20cantieri%20temporanei%20o%20mobili.md), ha validita' di tre mesi.
 
 ))
 
