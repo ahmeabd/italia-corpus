@@ -473,7 +473,7 @@ Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri
 
 AGGIORNAMENTO (4)
 
-Successivamente la Corte Costituzionale, con sentenza 22 - 29 maggio 2013, n. 103 (in G.U. 1a s.s. 5/6/2013, n. 23), ha dichiarato l'illegittimita' costituzionale dell'[art. 15, comma 1, lettera c), della legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), che ha sostituito il comma 5 del presente articolo.
+Successivamente la Corte Costituzionale, con sentenza 22 - 29 maggio 2013, n. 103 (in G.U. 1a s.s. 5/6/2013, n. 23), ha dichiarato l'illegittimita' costituzionale dell'[art. 15, comma 1, lettera c), della legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), che ha sostituito il comma 5 del presente articolo.
 
 ### Art. 12. — (Modifica all'articolo 5 della legge 10 febbraio 1992, n. 164, recante nuova disciplina delle denominazioni di origine)
 
