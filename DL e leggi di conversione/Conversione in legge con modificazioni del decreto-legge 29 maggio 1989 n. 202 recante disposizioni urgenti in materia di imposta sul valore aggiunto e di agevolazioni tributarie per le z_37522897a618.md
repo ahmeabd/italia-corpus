@@ -22,7 +22,7 @@ Il [decreto-legge 29 maggio 1989, n. 202](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1988, n. 303, 27 settembre 1988, n. 417, 28 novembre 1988, n. 512, 27 gennaio 1989, n. 21, e 30 marzo 1989, n. 114](../DL%20decaduti/Disposizioni%20in%20materia%20di%20aliquote%20dellimposta%20sul%20valore%20aggiunto%20dellimposta%20di%20fabbricazione%20su%20taluni%20prodotti%20petroliferi%20e%20dellimposta%20di%20consumo%20sul%20gas%20metano%20usato%20come%20combusti_be4af9ed6db5_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1988, n. 303, 27 settembre 1988, n. 417, 28 novembre 1988, n. 512, 27 gennaio 1989, n. 21, e 30 marzo 1989, n. 114](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20aliquote%20dellimposta%20sul%20valore%20aggiunto%20dellimposta%20di%20fabbricazione%20su%20taluni%20prodotti%20petroliferi%20e%20dellimposta%20di%20consumo%20sul%20gas%20metano%20usato%20come%20combusti_be4af9ed6db5_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 29 maggio 1989, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-05-29;202), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 124 del 30 maggio 1989.

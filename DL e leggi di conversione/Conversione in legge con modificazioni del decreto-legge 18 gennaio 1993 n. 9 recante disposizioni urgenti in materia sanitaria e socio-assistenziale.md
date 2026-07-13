@@ -22,7 +22,7 @@ Il [decreto-legge 18 gennaio 1993, n. 9](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 dicembre 1991, n. 388, 20 gennaio 1992, n. 12, 17 marzo 1992, n. 234, 20 maggio 1992, n. 290, 20 luglio 1992, n. 343, e 19 novembre 1992, n. 441, nonche' dell'articolo 18](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md) del [decreto-legge 18 settembre 1992, n. 382](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 dicembre 1991, n. 388, 20 gennaio 1992, n. 12, 17 marzo 1992, n. 234, 20 maggio 1992, n. 290, 20 luglio 1992, n. 343, e 19 novembre 1992, n. 441, nonche' dell'articolo 18](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20sanitaria%20e%20socio-assistenziale.md) del [decreto-legge 18 settembre 1992, n. 382](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

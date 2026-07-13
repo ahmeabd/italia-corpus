@@ -22,7 +22,7 @@ Il [decreto-legge 27 maggio 1994, n. 318](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 26 marzo 1994, n. 209](../DL%20decaduti/Disposizioni%20urgenti%20per%20garantire%20il%20proseguimento%20degli%20interventi%20in%20favore%20degli%20sfollati%20dai%20territori%20della%20ex%20Jugoslavia%20dei%20minori%20soggetti%20a%20rischio%20di%20coinvolgimento%20in%20attivita_d4b311071cb4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 26 marzo 1994, n. 209](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20garantire%20il%20proseguimento%20degli%20interventi%20in%20favore%20degli%20sfollati%20dai%20territori%20della%20ex%20Jugoslavia%20dei%20minori%20soggetti%20a%20rischio%20di%20coinvolgimento%20in%20attivita_d4b311071cb4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

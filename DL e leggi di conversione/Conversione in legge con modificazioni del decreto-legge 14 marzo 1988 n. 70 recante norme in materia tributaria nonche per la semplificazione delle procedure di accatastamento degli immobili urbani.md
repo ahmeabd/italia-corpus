@@ -92,7 +92,7 @@ azioni. . . . . . . . .. . . . . . . . . . . . . . . . . . 100
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base delle disposizioni contenute negli articoli 1, 2, 7, 12, commi 5 e 6, 13, 14, 15, 16, 17 e 30 del [decreto-legge 29 dicembre 1987, n. 533](../DL%20decaduti/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti.md), nonche' nel [decreto-legge 13 gennaio 1988, n. 4](../DL%20decaduti/Norme%20in%20materia%20tributaria%20e%20per%20lammodernamento%20dellAmministrazione%20finanziaria.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base delle disposizioni contenute negli articoli 1, 2, 7, 12, commi 5 e 6, 13, 14, 15, 16, 17 e 30 del [decreto-legge 29 dicembre 1987, n. 533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti.md), nonche' nel [decreto-legge 13 gennaio 1988, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20tributaria%20e%20per%20lammodernamento%20dellAmministrazione%20finanziaria.md).
 
 3.
 

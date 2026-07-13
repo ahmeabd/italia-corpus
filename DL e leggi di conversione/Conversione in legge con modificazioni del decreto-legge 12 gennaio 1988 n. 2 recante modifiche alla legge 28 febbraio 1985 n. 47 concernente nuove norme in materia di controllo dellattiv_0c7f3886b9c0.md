@@ -47,7 +47,7 @@ Il [decreto-legge 12 gennaio 1988, n. 2](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 28 marzo 1986, n. 76, 30 settembre 1986, n. 605, 9 dicembre 1986, n. 823, 9 marzo 1987, n. 71, 8 maggio 1987, n. 178, 9 luglio 1987, n. 264, 4 settembre 1987, n. 367, e 7 novembre 1987, n. 458](../DL%20decaduti/Modifiche%20alla%20legge%2028%20febbraio%201985%20n.%2047%20concernente%20nuove%20norme%20in%20materia%20di%20controllo%20dellattivita%20urbanistico-edilizia%20sanzioni%20recupero%20e%20sanatoria%20delle%20opere%20abusive_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 28 marzo 1986, n. 76, 30 settembre 1986, n. 605, 9 dicembre 1986, n. 823, 9 marzo 1987, n. 71, 8 maggio 1987, n. 178, 9 luglio 1987, n. 264, 4 settembre 1987, n. 367, e 7 novembre 1987, n. 458](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20alla%20legge%2028%20febbraio%201985%20n.%2047%20concernente%20nuove%20norme%20in%20materia%20di%20controllo%20dellattivita%20urbanistico-edilizia%20sanzioni%20recupero%20e%20sanatoria%20delle%20opere%20abusive_3.md).
 
 3.
 

@@ -54,7 +54,7 @@ E' convertito in legge il [decreto-legge 26 novembre 1981, n. 678](https://www.n
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dalla applicazione dei [decreti-legge 29 luglio 1981, numeri 398, 399 e 400](../DL%20decaduti/Blocco%20degli%20organici%20delle%20unita%20sanitarie%20locali_2.md), nonche' del [decreto-legge 26 settembre 1981, n. 538](../DL%20decaduti/Provvedimenti%20urgenti%20in%20materia%20di%20assistenza%20sanitaria.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dalla applicazione dei [decreti-legge 29 luglio 1981, numeri 398, 399 e 400](../Atti%20normativi%20abrogati%20%28in%20originale%29/Blocco%20degli%20organici%20delle%20unita%20sanitarie%20locali_2.md), nonche' del [decreto-legge 26 settembre 1981, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20in%20materia%20di%20assistenza%20sanitaria.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

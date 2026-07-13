@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 27 marzo 1995, n. 89](https://www.norma
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 luglio 1994, n. 469, 27 settembre 1994, n. 552, 25 novembre 1994, n. 650, e 26 gennaio 1995, n. 25](../DL%20decaduti/Misure%20urgenti%20in%20materia%20di%20trattamento%20economico%20del%20personale%20statale%20e%20in%20materia%20di%20pubblico%20impiego_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 luglio 1994, n. 469, 27 settembre 1994, n. 552, 25 novembre 1994, n. 650, e 26 gennaio 1995, n. 25](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20trattamento%20economico%20del%20personale%20statale%20e%20in%20materia%20di%20pubblico%20impiego_4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -60,7 +60,7 @@ E' convertito in legge il [decreto-legge 27 settembre 1982, n. 681](https://www.
 
 ## Art. 2.
 
-Sono fatti salvi gli effetti e i rapporti giuridici sorti sulla base del [decreto-legge 20 luglio 1982, n. 453](../DL%20decaduti/Adeguamento%20provvisorio%20del%20trattamento%20economico%20dei%20dirigenti%20delle%20amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo%20e%20del%20personale%20ad%20essi%20collegato.md), non convertito in legge.
+Sono fatti salvi gli effetti e i rapporti giuridici sorti sulla base del [decreto-legge 20 luglio 1982, n. 453](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20provvisorio%20del%20trattamento%20economico%20dei%20dirigenti%20delle%20amministrazioni%20dello%20Stato%20anche%20ad%20ordinamento%20autonomo%20e%20del%20personale%20ad%20essi%20collegato.md), non convertito in legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

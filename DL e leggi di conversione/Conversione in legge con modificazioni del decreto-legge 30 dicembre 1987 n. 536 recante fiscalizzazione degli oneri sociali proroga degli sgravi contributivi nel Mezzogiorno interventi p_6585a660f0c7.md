@@ -34,7 +34,7 @@ Il [decreto-legge 30 dicembre 1987, n. 536](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 dicembre 1986, n. 882, 25 febbraio 1987, n. 48, 28 aprile 1987, n. 156, 27 giugno 1987, n. 244, 28 agosto 1987, n. 358, e 30 ottobre 1987, n. 442](../DL%20decaduti/Fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20per%20settori%20in%20crisi%20e%20norme%20in%20materia%20di%20organizzazione%20dellINPS.md).
+Restano validi gli atti ed i provedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 dicembre 1986, n. 882, 25 febbraio 1987, n. 48, 28 aprile 1987, n. 156, 27 giugno 1987, n. 244, 28 agosto 1987, n. 358, e 30 ottobre 1987, n. 442](../Atti%20normativi%20abrogati%20%28in%20originale%29/Fiscalizzazione%20degli%20oneri%20sociali%20proroga%20degli%20sgravi%20contributivi%20nel%20Mezzogiorno%20interventi%20per%20settori%20in%20crisi%20e%20norme%20in%20materia%20di%20organizzazione%20dellINPS.md).
 
 3.
 

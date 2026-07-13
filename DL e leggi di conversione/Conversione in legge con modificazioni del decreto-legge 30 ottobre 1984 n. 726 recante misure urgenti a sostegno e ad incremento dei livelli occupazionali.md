@@ -84,7 +84,7 @@ Nel caso di richieste singole o dispari ovvero di cessazione di rapporto durante
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti nonche' i rapporti giuridici sorti sulla base dei [decreti-legge 21 febbraio 1984, n. 12, 27 aprile 1984, n. 94, 29 giugno 1984, n. 273 e 29 agosto 1984, n. 519](../DL%20decaduti/Misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti nonche' i rapporti giuridici sorti sulla base dei [decreti-legge 21 febbraio 1984, n. 12, 27 aprile 1984, n. 94, 29 giugno 1984, n. 273 e 29 agosto 1984, n. 519](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20a%20sostegno%20e%20ad%20incremento%20dei%20livelli%20occupazionali_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

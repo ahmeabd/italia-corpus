@@ -24,7 +24,7 @@ E' convertito in legge il [decreto-legge 12 giugno 1982, n. 350](https://www.nor
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle norme del [decreto-legge 9 aprile 1982, n. 157](../DL%20decaduti/Stanziamenti%20a%20favore%20del%20Fondo%20centrale%20di%20garanzia%20per%20le%20autostrade%20e%20per%20le%20ferrovie%20metropolitane%20per%20lattuazione%20dellarticolo%205%20del%20decreto-legge%2031%20luglio%201981%20n.%20414%20convertito%20co_44213fc4bd45.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle norme del [decreto-legge 9 aprile 1982, n. 157](../Atti%20normativi%20abrogati%20%28in%20originale%29/Stanziamenti%20a%20favore%20del%20Fondo%20centrale%20di%20garanzia%20per%20le%20autostrade%20e%20per%20le%20ferrovie%20metropolitane%20per%20lattuazione%20dellarticolo%205%20del%20decreto-legge%2031%20luglio%201981%20n.%20414%20convertito%20co_44213fc4bd45.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

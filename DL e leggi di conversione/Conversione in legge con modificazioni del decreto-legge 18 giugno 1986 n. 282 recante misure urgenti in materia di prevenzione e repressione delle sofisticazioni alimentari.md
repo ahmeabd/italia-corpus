@@ -75,7 +75,7 @@ PROMULGA la seguente legge:
 
 1.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 11 aprile 1986, n. 104](../DL%20decaduti/Misure%20urgenti%20in%20materia%20di%20prevenzione%20e%20repressione%20delle%20sofisticazioni%20alimentari.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 11 aprile 1986, n. 104](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20prevenzione%20e%20repressione%20delle%20sofisticazioni%20alimentari.md).
 
 ## Art. 3.
 

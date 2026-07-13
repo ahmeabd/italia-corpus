@@ -22,7 +22,7 @@ Il [decreto-legge 28 novembre 1988, n. 511](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1988, n. 304, e 27 settembre 1988, n. 416](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20regionale%20e%20locale_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 luglio 1988, n. 304, e 27 settembre 1988, n. 416](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20finanza%20regionale%20e%20locale_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 28 novembre 1988, n. 511](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-11-28;511), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 280 del 29 novembre 1988.

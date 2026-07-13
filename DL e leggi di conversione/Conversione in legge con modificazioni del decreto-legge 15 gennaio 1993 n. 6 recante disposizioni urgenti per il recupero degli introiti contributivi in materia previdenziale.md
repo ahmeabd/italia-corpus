@@ -22,7 +22,7 @@ Il [decreto-legge 15 gennaio 1993, n. 6](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 settembre 1992, n. 373, e 14 novembre 1992, n. 435](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20recupero%20degli%20introiti%20contributivi%20in%20materia%20previdenziale_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 settembre 1992, n. 373, e 14 novembre 1992, n. 435](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20recupero%20degli%20introiti%20contributivi%20in%20materia%20previdenziale_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

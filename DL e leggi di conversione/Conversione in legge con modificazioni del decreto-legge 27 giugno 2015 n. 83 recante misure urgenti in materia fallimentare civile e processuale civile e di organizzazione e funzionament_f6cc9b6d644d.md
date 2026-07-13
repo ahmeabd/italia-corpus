@@ -22,7 +22,7 @@ Il [decreto-legge 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-L'[articolo 3 del decreto-legge 4 luglio 2015, n. 92](../DL%20decaduti/Misure%20urgenti%20in%20materia%20di%20rifiuti%20e%20di%20autorizzazione%20integrata%20ambientale%20nonche%20per%20lesercizio%20dellattivita%20dimpresa%20di%20stabilimenti%20industriali%20di%20interesse%20strategico%20nazionale.%2015G00115.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [articolo 3 del decreto-legge n. 92 del 2015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015;92#art_3). ((1))
+L'[articolo 3 del decreto-legge 4 luglio 2015, n. 92](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20rifiuti%20e%20di%20autorizzazione%20integrata%20ambientale%20nonche%20per%20lesercizio%20dellattivita%20dimpresa%20di%20stabilimenti%20industriali%20di%20interesse%20strategico%20nazionale.%2015G00115.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [articolo 3 del decreto-legge n. 92 del 2015](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015;92#art_3). ((1))
 
 3.
 

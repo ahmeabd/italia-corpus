@@ -98,7 +98,7 @@ Il veicolo verra' restituito dopo un mese al proprietario o all'intestatario del
  "16) rilascio o rinnovo di autorizzazioni per il trasporto di merci per conto di terzi per ciascun veicolo: L. 10.000".
  2. Al numero 17) della tabella 3 allegata alla suddetta [legge 1 dicembre 1986, n. 870](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-01;870), la parola: "autorizzazioni" e' sostituita dalla seguente: "licenze".
  Art. 17-quater. - 1. Entro 120 giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro dell'interno, d'intesa con i Ministri dei trasporti, dei lavori pubblici, della difesa e delle finanze dispone, con proprio decreto, un piano per il potenziamento degli organici delle forze addette ai servizi di polizia stradale". L'articolo 18 e' soppresso.
- 2. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 3 ottobre 1986, n. 627, e 5 dicembre 1986, n. 818](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale_2.md).
+ 2. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 3 ottobre 1986, n. 627, e 5 dicembre 1986, n. 818](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale_2.md).
  3. La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
 
 AVVERTENZA:

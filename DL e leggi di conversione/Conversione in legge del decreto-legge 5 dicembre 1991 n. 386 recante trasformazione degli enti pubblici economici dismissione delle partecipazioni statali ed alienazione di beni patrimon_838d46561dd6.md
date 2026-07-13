@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 5 dicembre 1991, n. 386](https://www.no
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 3 ottobre 1991, n. 309](../DL%20decaduti/Trasformazione%20degli%20enti%20pubblici%20economici%20e%20dismissioni%20delle%20partecipazioni%20statali.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 3 ottobre 1991, n. 309](../Atti%20normativi%20abrogati%20%28in%20originale%29/Trasformazione%20degli%20enti%20pubblici%20economici%20e%20dismissioni%20delle%20partecipazioni%20statali.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

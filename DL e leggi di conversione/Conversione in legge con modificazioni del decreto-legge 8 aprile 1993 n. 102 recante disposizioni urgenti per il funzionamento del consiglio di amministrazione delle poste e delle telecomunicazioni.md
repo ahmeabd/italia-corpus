@@ -22,7 +22,7 @@ Il [decreto-legge 8 aprile 1993, n. 102](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 8 febbraio 1993, n. 30](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20funzionamento%20del%20consiglio%20di%20amministrazione%20delle%20poste%20e%20delle%20telecomunicazioni.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 8 febbraio 1993, n. 30](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20funzionamento%20del%20consiglio%20di%20amministrazione%20delle%20poste%20e%20delle%20telecomunicazioni.md).
 
 AVVERTENZA:
  Il [decreto-legge 8 aprile 1993, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-08;102), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 82 dell'8 aprile 1993.

@@ -22,7 +22,7 @@ Il [decreto-legge 6 novembre 1989, n. 357](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 10 luglio 1989, n. 249, e 2 settembre 1989, n. 315](../DL%20decaduti/Norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 10 luglio 1989, n. 249, e 2 settembre 1989, n. 315](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20di%20reclutamento%20del%20personale%20della%20scuola_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 6 novembre 1989, n. 357](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-11-06;357), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 260 del 7 novembre 1989.

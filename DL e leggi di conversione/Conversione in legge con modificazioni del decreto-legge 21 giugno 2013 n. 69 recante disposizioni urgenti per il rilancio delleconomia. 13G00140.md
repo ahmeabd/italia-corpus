@@ -22,7 +22,7 @@ Il [decreto-legge 21 giugno 2013, n. 69](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base delle norme del [decreto-legge 24 giugno 2013, n. 72](../DL%20decaduti/Misure%20urgenti%20per%20i%20pagamenti%20dei%20debiti%20degli%20enti%20del%20Servizio%20sanitario%20nazionale.%2013G00118.md), recante misure urgenti per i pagamenti dei debiti degli enti del Servizio sanitario nazionale, non convertite in legge.
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base delle norme del [decreto-legge 24 giugno 2013, n. 72](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20i%20pagamenti%20dei%20debiti%20degli%20enti%20del%20Servizio%20sanitario%20nazionale.%2013G00118.md), recante misure urgenti per i pagamenti dei debiti degli enti del Servizio sanitario nazionale, non convertite in legge.
 
 3.
 

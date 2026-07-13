@@ -22,7 +22,7 @@ Il [decreto-legge 23 giugno 1995, n. 244](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 24 aprile 1995, n. 123](../DL%20decaduti/Misure%20dirette%20ad%20accelerare%20il%20completamento%20degli%20interventi%20pubblici%20e%20la%20realizzazione%20dei%20nuovi%20interventi%20nelle%20aree%20depresse.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 24 aprile 1995, n. 123](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20dirette%20ad%20accelerare%20il%20completamento%20degli%20interventi%20pubblici%20e%20la%20realizzazione%20dei%20nuovi%20interventi%20nelle%20aree%20depresse.md).
 
 AVVERTENZA:
  Il [decreto-legge 23 giugno 1995, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 146 del 24 giugno 1995.

@@ -22,7 +22,7 @@ Il [decreto-legge 29 settembre 1998, n. 335](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 27 luglio 1998, n. 248](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20lavoro%20straordinario%20nonche%20di%20sostegno%20al%20reddito.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 27 luglio 1998, n. 248](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20lavoro%20straordinario%20nonche%20di%20sostegno%20al%20reddito.md).
 
 3.
 

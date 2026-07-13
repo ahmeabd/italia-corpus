@@ -24,7 +24,7 @@ E' convertito in legge il [decreto-legge 26 novembre 1981, n. 679](https://www.n
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle norme del [decreto-legge 28 settembre 1981, n. 541](../DL%20decaduti/Proroga%20della%20disciplina%20dellintervento%20straordinario%20nel%20Mezzogiorno.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle norme del [decreto-legge 28 settembre 1981, n. 541](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20della%20disciplina%20dellintervento%20straordinario%20nel%20Mezzogiorno.md).
 
 ## Art. 3.
 

@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 24 settembre 1992, n. 387](https://www.
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-leggi 29 gennaio 1992, n. 37, 26 marzo 1992, n. 241, 26 maggio 1992, n. 295, e 24 luglio 1992, n. 346](../DL%20decaduti/Spese%20per%20il%20funzionamento%20del%20Ministero%20di%20grazia%20e%20giustizia_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-leggi 29 gennaio 1992, n. 37, 26 marzo 1992, n. 241, 26 maggio 1992, n. 295, e 24 luglio 1992, n. 346](../Atti%20normativi%20abrogati%20%28in%20originale%29/Spese%20per%20il%20funzionamento%20del%20Ministero%20di%20grazia%20e%20giustizia_4.md).
 
 AVVERTENZA:
  Il [decreto-legge 24 settembre 1992, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-24;387), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 225 del 24 settembre 1992.

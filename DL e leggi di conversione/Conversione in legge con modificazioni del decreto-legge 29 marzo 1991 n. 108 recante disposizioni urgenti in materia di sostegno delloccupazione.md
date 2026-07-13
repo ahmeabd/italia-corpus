@@ -24,11 +24,11 @@ Il [decreto-legge 29 marzo 1991, n. 108](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1° aprile 1989, n. 119, 5 giugno 1989, n. 215, 4 agosto 1989, n. 275, 9 ottobre 1989, n. 337, 7 dicembre 1989, n. 390, 13 febbraio 1990, n. 20, 24 aprile 1990, n. 82, 4 luglio 1990, n. 170, 15 settembre 1990, n. 259, 22 novembre 1990, n. 337, e 28 gennaio 1991, n. 29](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione_2.md), ad eccezione dell'articolo 11.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 1° aprile 1989, n. 119, 5 giugno 1989, n. 215, 4 agosto 1989, n. 275, 9 ottobre 1989, n. 337, 7 dicembre 1989, n. 390, 13 febbraio 1990, n. 20, 24 aprile 1990, n. 82, 4 luglio 1990, n. 170, 15 settembre 1990, n. 259, 22 novembre 1990, n. 337, e 28 gennaio 1991, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20sostegno%20delloccupazione_2.md), ad eccezione dell'articolo 11.
 
 3.
 
-Restano altresi' validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 4 ottobre 1990, n. 275](../DL%20decaduti/Disposizioni%20urgenti%20a%20favore%20delle%20maestranze%20del%20cantiere%20ENEL%20di%20Gioia%20Tauro.md), recante disposizioni urgenti a favore delle maestranze del cantiere ENEL di Gioia Tauro.
+Restano altresi' validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 4 ottobre 1990, n. 275](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20a%20favore%20delle%20maestranze%20del%20cantiere%20ENEL%20di%20Gioia%20Tauro.md), recante disposizioni urgenti a favore delle maestranze del cantiere ENEL di Gioia Tauro.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

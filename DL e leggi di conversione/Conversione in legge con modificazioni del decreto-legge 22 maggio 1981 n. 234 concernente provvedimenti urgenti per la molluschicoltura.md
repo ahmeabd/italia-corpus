@@ -22,7 +22,7 @@ Il [decreto-legge 22 maggio 1981, n. 234](https://www.normattiva.it/uri-res/N2Ls
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione dei [decreti-legge 2 gennaio 1981, n. 3, e 12 marzo 1981, n. 60](../DL%20decaduti/Provvedimenti%20urgenti%20per%20la%20molluschicoltura_2.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione dei [decreti-legge 2 gennaio 1981, n. 3, e 12 marzo 1981, n. 60](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20urgenti%20per%20la%20molluschicoltura_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

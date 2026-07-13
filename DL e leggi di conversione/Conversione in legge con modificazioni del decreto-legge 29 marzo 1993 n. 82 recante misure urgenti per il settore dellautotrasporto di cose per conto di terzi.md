@@ -22,7 +22,7 @@ Il [decreto-legge 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 novembre 1992, n. 463, e 26 gennaio 1993, n. 19](../DL%20decaduti/Misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 novembre 1992, n. 463, e 26 gennaio 1993, n. 19](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 29 marzo 1993, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-03-29;82), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 73 del 29 marzo 1993.

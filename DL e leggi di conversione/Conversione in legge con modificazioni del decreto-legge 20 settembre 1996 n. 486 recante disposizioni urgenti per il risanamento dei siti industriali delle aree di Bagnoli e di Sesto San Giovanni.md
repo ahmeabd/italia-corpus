@@ -22,7 +22,7 @@ Il [decreto-legge 20 settembre 1996, n. 486](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 20 novembre 1995, n. 492, 19 gennaio 1996, n. 27, 19 marzo 1996, n. 134, 17 maggio 1996, n. 274, e 22 luglio 1996, n. 384](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20risanamento%20dei%20siti%20industriali%20dellarea%20di%20Bagnoli_5.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 20 novembre 1995, n. 492, 19 gennaio 1996, n. 27, 19 marzo 1996, n. 134, 17 maggio 1996, n. 274, e 22 luglio 1996, n. 384](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20risanamento%20dei%20siti%20industriali%20dellarea%20di%20Bagnoli_5.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 
