@@ -1997,7 +1997,7 @@ All'[articolo 1 del decreto-legge 20 gennaio 1998, n. 4](https://www.normattiva.
 
 6.
 
-Il [decreto-legge 2 novembre 1999, n. 390](../DL%20decaduti/Disposizioni%20per%20il%20finanziamento%20di%20lavori%20socialmente%20utili.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 390 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1999;390).
+Il [decreto-legge 2 novembre 1999, n. 390](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20il%20finanziamento%20di%20lavori%20socialmente%20utili.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 390 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1999;390).
 
 ---------------
 

@@ -177,7 +177,7 @@ Resta ferma al 25 per cento la ritenuta sugli interessi, premi ed altri frutti s
 
 11.
 
-Sono fatti salvi gli effetti prodotti dai [decreti-legge 29 dicembre 1987, n. 533, e 13 gennaio 1988, n. 3](../DL%20decaduti/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti_2.md), nei confronti dei certificati di deposito e dei depositi estinti nel periodo di vigenza dei predetti decreti-legge.
+Sono fatti salvi gli effetti prodotti dai [decreti-legge 29 dicembre 1987, n. 533, e 13 gennaio 1988, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti_2.md), nei confronti dei certificati di deposito e dei depositi estinti nel periodo di vigenza dei predetti decreti-legge.
 
 12.
 
@@ -1804,7 +1804,7 @@ La presente legge entra in vigore il giorno stesso della sua pubblicazione nella
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti, prima dell'entrata in vigore della presente legge, sulla base delle disposizioni contenute nei [decreti-legge 13 gennaio 1988, nn. 3 e 5, 15 gennaio 1988, nn. 8 e 9, e 29 dicembre 1987, n. 533](../DL%20decaduti/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti.md), sostituite da quelle della presente legge.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti, prima dell'entrata in vigore della presente legge, sulla base delle disposizioni contenute nei [decreti-legge 13 gennaio 1988, nn. 3 e 5, 15 gennaio 1988, nn. 8 e 9, e 29 dicembre 1987, n. 533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti.md), sostituite da quelle della presente legge.
 
 Note all'[art. 31, comma 3:
  - Il D.L. n. 533/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;533#art_31-com3), non convertito in legge perche' respinto dalla Camera dei deputati nella seduta del 12 gennaio 1988 (il relativo comunicato e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 9 del 13 gennaio 1988), recava norme in materia tributaria, di previdenza, di assunzioni nella pubblica amministrazione ed altre disposizioni urgenti.

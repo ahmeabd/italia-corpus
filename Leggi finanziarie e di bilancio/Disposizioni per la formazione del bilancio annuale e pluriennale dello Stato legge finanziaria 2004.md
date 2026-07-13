@@ -1194,7 +1194,7 @@ Al [comma 1 dell'articolo 1 del decreto-legge 11 giugno 2002, n. 108](https://ww
 
 139.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 24 novembre 2003, n. 328](../DL%20decaduti/Interventi%20urgenti%20in%20materia%20di%20ammortizzatori%20sociali%20e%20di%20formazione%20professionale.md). La presente disposizione acquista efficacia a decorrere dal 25 gennaio 2004.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 24 novembre 2003, n. 328](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20in%20materia%20di%20ammortizzatori%20sociali%20e%20di%20formazione%20professionale.md). La presente disposizione acquista efficacia a decorrere dal 25 gennaio 2004.
 
 140.
 

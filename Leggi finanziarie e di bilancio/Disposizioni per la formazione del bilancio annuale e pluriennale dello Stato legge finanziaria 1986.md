@@ -1646,7 +1646,7 @@ La presente legge entra in vigore il giorno stesso della sua pubblicazione sulla
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti, prima dell'entrata in vigore della presente legge, sulla base del [decreto-legge 30 dicembre 1985, n. 790](../DL%20decaduti/Misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20nel%20settore%20pubblico.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti, prima dell'entrata in vigore della presente legge, sulla base del [decreto-legge 30 dicembre 1985, n. 790](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20contenimento%20del%20fabbisogno%20nel%20settore%20pubblico.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

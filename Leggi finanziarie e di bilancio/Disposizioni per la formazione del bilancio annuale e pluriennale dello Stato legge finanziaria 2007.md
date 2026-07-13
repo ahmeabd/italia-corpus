@@ -3814,7 +3814,7 @@ All'[articolo 1, comma 3, lettera c), del decreto legislativo 5 dicembre 2005, n
 
 752.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 13 novembre 2006, n. 279](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20previdenza%20complementare.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 13 novembre 2006, n. 279](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20previdenza%20complementare.md).
 
 753.
 

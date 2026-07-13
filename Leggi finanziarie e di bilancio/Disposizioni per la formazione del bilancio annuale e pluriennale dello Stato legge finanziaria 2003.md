@@ -3110,7 +3110,7 @@ In caso di effettuazione della compensazione del credito in violazione di quanto
 
 7.
 
-Sono abrogati gli [articoli 1](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20tributaria.md) e [2 del decreto-legge 12 novembre 2002, n. 253](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20tributaria.md); restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottosi e i rapporti giuridici sorti sulla base delle predette disposizioni.
+Sono abrogati gli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20tributaria.md) e [2 del decreto-legge 12 novembre 2002, n. 253](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20tributaria.md); restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottosi e i rapporti giuridici sorti sulla base delle predette disposizioni.
 
 --------------
 

@@ -657,7 +657,7 @@ La disposizione contenuta nel terzo periodo del [comma 8 dell'articolo 36 del de
 
 82.
 
-Sono fatti salvi gli effetti prodotti dall'applicazione delle norme, oggetto di mancata conversione, di cui all'[articolo 1 del decreto-legge 3 agosto 2007, n. 118](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20ammortamento%20di%20immobili%20strumentali.md).
+Sono fatti salvi gli effetti prodotti dall'applicazione delle norme, oggetto di mancata conversione, di cui all'[articolo 1 del decreto-legge 3 agosto 2007, n. 118](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20ammortamento%20di%20immobili%20strumentali.md).
 
 83.
 
@@ -2775,7 +2775,7 @@ La disposizione di cui al comma 52 si applica anche in relazione alle ripartizio
 
 54.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 29 novembre 2007, n. 223](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20riparto%20di%20risorse%20finanziarie%20tra%20le%20regioni.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 29 novembre 2007, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20riparto%20di%20risorse%20finanziarie%20tra%20le%20regioni.md).
 
 55.
 
