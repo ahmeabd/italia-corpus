@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 14 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md);
+Visto l'[art. 14 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md);
 
 Visto l'[art. 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1-leta);
 
@@ -28,7 +28,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Ai fini delle disposizioni del presente regolamento, per "decreto legislativo" si intende il [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
+Ai fini delle disposizioni del presente regolamento, per "decreto legislativo" si intende il [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

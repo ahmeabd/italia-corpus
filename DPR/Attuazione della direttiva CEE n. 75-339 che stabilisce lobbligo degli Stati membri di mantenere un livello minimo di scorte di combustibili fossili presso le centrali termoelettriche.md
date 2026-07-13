@@ -18,7 +18,7 @@ vigente: true
 
 ## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-93-CE%20che%20modifica%20la%20direttiva%2068-414-CEE%20concernente%20lobbligo%20per%20gli%20Stati%20membri%20di%20mantenere%20un%20livello%20minimo%20di%20scorte%20di%20petrolio%20greggio%20e-o%20di%20prod_4781b0d019a4.md) ))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 31 GENNAIO 2001 N. 22](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-93-CE%20che%20modifica%20la%20direttiva%2068-414-CEE%20concernente%20lobbligo%20per%20gli%20Stati%20membri%20di%20mantenere%20un%20livello%20minimo%20di%20scorte%20di%20petrolio%20greggio%20e-o%20di%20prod_4781b0d019a4.md) ))
 
 ## Art. 4.
 

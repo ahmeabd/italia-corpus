@@ -20,7 +20,7 @@ Visto il [decreto del Presidente della Repubblica 5 maggio 1975, n. 146](Regolam
 
 Vista la [legge 18 novembre 1975, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-11-18;613);
 
-Visto il [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
+Visto il [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
 
 Visto l'accordo intervenuto nei giorni 4 e 5 dicembre 1978 fra il Governo ed i rappresentanti della Federazione unitaria Cgil-Cisl-Uil, in merito alla vertenza dei vigili del fuoco;
 
@@ -34,7 +34,7 @@ A decorrere dal 1 gennaio 1979 la misura dell'indennita' di rischio spettante al
 
 ## Art. 2.
 
-Alla copertura della maggiore spesa derivante dalla applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
+Alla copertura della maggiore spesa derivante dalla applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

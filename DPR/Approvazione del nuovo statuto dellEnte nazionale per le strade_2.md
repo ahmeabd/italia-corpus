@@ -16,7 +16,7 @@ Visto l'[articolo 1, comma 3, del decreto legislativo 26 febbraio 1994, n. 143](
 
 Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
-Visto l'[articolo 9 del decreto-legge 27 marzo 1995, n. 88](../DL%20decaduti/Misure%20urgenti%20per%20il%20rilancio%20economico%20ed%20occupazionale%20dei%20lavori%20pubblici%20e%20delledilizia%20privata_5.md);
+Visto l'[articolo 9 del decreto-legge 27 marzo 1995, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20rilancio%20economico%20ed%20occupazionale%20dei%20lavori%20pubblici%20e%20delledilizia%20privata_5.md);
 
 Visti gli [articoli 7](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), [10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
@@ -79,7 +79,7 @@ Avvertenza:
  c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;
  d) indicazione e revisione periodica della consistenza delle piante organiche;
  e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
- - Si riporta il testo dell'[art. 9 del decreto-legge 27 marzo 1995, n. 88](../DL%20decaduti/Misure%20urgenti%20per%20il%20rilancio%20economico%20ed%20occupazionale%20dei%20lavori%20pubblici%20e%20delledilizia%20privata_5.md):
+ - Si riporta il testo dell'[art. 9 del decreto-legge 27 marzo 1995, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20rilancio%20economico%20ed%20occupazionale%20dei%20lavori%20pubblici%20e%20delledilizia%20privata_5.md):
  "Art. 9 (Misure urgenti per il funzionamento dell'ANAS). - 1. L'Ente nazionale per le strade, ente pubblico economico istituito con [decreto legislativo 26 febbraio 1994, n. 143](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20le%20strade.md), mantiene la denominazione di ANAS.
  2. Sino al termine di cui all'[art. 11, comma 8, del decreto legislativo 26 febbraio 1994, n. 143](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20le%20strade.md), l'ANAS ha facolta' di assumere, attraverso pubblica selezione con procedura abbreviata fino a venticinque unita' con qualifica di dirigente tecnico, fino a quindici unita' con qualifica di dirigente amministrativo, fino a venti unita' con qualifica di funzionario tecnico e fino a dieci unita' con qualifica di funzionario amministrativo. Ai fini della copertura finanziaria delle assunzioni di cui al presente comma, con decreto del Ministro del tesoro, possono essere apportate variazioni compensative nel bilancio dell'ANAS.
  3. L'amministratore straordinario dell'ANAS adotta un bilancio di previsione per l'esercizio 1995, che sara' sottoposto all'approvazione del consiglio di amministrazione al momento della sua istituzione nella prima seduta utile successiva alla sua costituzione. Gli importi iscritti sugli appositi capitoli dello stato di previsione della spesa del Ministero dei lavori pubblici per l'anno finanziario 1995, a titolo di trasferimenti a favore dell'Ente nazionale per le strade in relazione all'[art. 3, comma 1, del decreto legislativo 26 febbraio 1994, n. 143](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20le%20strade.md), ed alle altre leggi speciali, continuano ad essere erogati all'ANAS cui vengono attribuiti altresi' i residui passivi accertati al 31 dicembre 1994 nel bilancio dell'Azienda nazionale autonoma delle strade.
@@ -413,14 +413,14 @@ Un componente effettivo, con funzioni di presidente, ed uno supplente, sono desi
 
 4.
 
-I membri del collegio sono scelti tra iscritti al registro dei revisori contabili di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), e successive modificazioni ed integrazioni o tra persone in possesso di specifica professionalita'.
+I membri del collegio sono scelti tra iscritti al registro dei revisori contabili di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), e successive modificazioni ed integrazioni o tra persone in possesso di specifica professionalita'.
 
 5.
 
 Le indennita' dei componenti il collegio dei revisori sono determinate con decreto del Ministro vigilante, sentito il Ministro dell'economia e delle finanze.
 
 Nota all'art. 10:
- - Si riporta il testo dell'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
+ - Si riporta il testo dell'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
  "Art. 1 (Registro dei revisori contabili). - 1. E' istituito presso il Ministero di grazia e giustizia il registro dei revisori contabili.
  2. L'iscrizione nel registro da' diritto all'uso del titolo di revisore contabile".
 

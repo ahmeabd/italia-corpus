@@ -285,7 +285,7 @@ Il decreto di concessione di coltivazione ha, altresi', valore di dichiarazione 
 
 4.
 
-L'iniezione di acque e la reiniezione dei fluidi geotermici nelle stesse formazioni di provenienza sono autorizzate, nel caso di risorse geotermiche di interesse nazionale, dall'ingegnere capo della competente sezione Unmig ovvero della corrispondente autorita' regionale in caso di risorse geotermiche di interesse locale. Tale autorizzazione e' resa anche ai sensi e per gli effetti dell'[art. 8 del decreto legislativo 27 gennaio 1992, n. 132](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2080-68-CEE%20concernente%20la%20protezione%20delle%20acque%20sotterranee%20dallinquinamento%20provocato%20da%20certe%20sostanze%20pericolose.md).
+L'iniezione di acque e la reiniezione dei fluidi geotermici nelle stesse formazioni di provenienza sono autorizzate, nel caso di risorse geotermiche di interesse nazionale, dall'ingegnere capo della competente sezione Unmig ovvero della corrispondente autorita' regionale in caso di risorse geotermiche di interesse locale. Tale autorizzazione e' resa anche ai sensi e per gli effetti dell'[art. 8 del decreto legislativo 27 gennaio 1992, n. 132](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2080-68-CEE%20concernente%20la%20protezione%20delle%20acque%20sotterranee%20dallinquinamento%20provocato%20da%20certe%20sostanze%20pericolose.md).
 
 Note all'art. 14:
  - Il testo dell'[art. 21 del R.D. n. 1775/1933](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933;1775#art_21) e' il seguente:

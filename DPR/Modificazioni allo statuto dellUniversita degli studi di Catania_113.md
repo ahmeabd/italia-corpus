@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](../Atti%20normativi%20abrog
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](Riordinamento%20della%20docenza%20universitaria%20relativa%20fascia%20di%20formazione%20nonche%20sperimentazione%20organizzativa%20e%20didattica.md);
 
-Veduto il [decreto-legge 26 settembre 1981, n. 539](../DL%20decaduti/Contenimento%20della%20spesa%20del%20bilancio%20statale%20e%20di%20quelli%20regionali_3.md);
+Veduto il [decreto-legge 26 settembre 1981, n. 539](../Atti%20normativi%20abrogati%20%28in%20originale%29/Contenimento%20della%20spesa%20del%20bilancio%20statale%20e%20di%20quelli%20regionali_3.md);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 

@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 9 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_9);
 
-Visto il [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
+Visto il [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
 
 Visti gli accordi per il triennio contrattuale 1976-78, conclusi il 2 marzo 1979 tra il Governo ed i rappresentanti della Federazione unitaria Cgil-Cisl-Uil ed i sindacati di categoria Cgil scuola, Cisl universita', Uil scuola, Cnu e Cisapuni, e i rappresentanti della intesa delle organizzazioni sindacali autonome dei lavoratori Cisal e Snals e quelli delle organizzazioni sindacali di categoria (Cisas-Fisafi, Sindu e Modis) e il 14 marzo 1979 con i rappresentanti della Federazione nazionale Cisnal scuola, con i quali si e' convenuto di corrispondere al personale docente delle universita', con decorrenza 1 novembre 1978 e al personale non docente delle universita' e degli osservatori astronomici e vesuviano, con decorrenza 1 marzo 1978, l'importo annuo di L. 9.600 per ogni anno di servizio comunque prestato nelle amministrazioni statali, importo che costituisce maturato economico ai fini dell'inquadramento del personale nei nuovi livelli funzionali-retributivi;
 
@@ -50,7 +50,7 @@ Le operazioni connesse alla liquidazione ed al pagamento delle somme di cui al p
 
 ## Art. 7.
 
-Alla copertura della maggiore spesa si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
+Alla copertura della maggiore spesa si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

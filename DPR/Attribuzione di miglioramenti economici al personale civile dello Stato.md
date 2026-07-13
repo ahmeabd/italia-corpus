@@ -14,7 +14,7 @@ Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 9 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_9);
 
-Visto il [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
+Visto il [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
 
 Visti gli accordi per il triennio contrattuale 1976-78 intervenuti il 20 dicembre 1978 tra il Governo ed i rappresentanti della Federazione unitaria Cgil-Cisl-Uil, dell'intesa dei sindacati autonomi e della Cisnal, con i quali si e' convenuto di corrispondere al personale statale dal 1 gennaio 1978 l'importo di L. 800 annue per ogni mese o frazione di mese superiore a quindici giorni di servizio di ruolo e non di ruolo comunque prestato alle dipendenze dello Stato; importo che costituisce maturato economico ai fini dell'inquadramento del personale nei nuovi livelli funzionali-retributivi;
 
@@ -46,7 +46,7 @@ L'importo di L. 800 di cui al presente decreto e' assoggettato alle ritenute pre
 
 ## Art. 6.
 
-Alla copertura della maggiore spesa derivante dall'applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
+Alla copertura della maggiore spesa derivante dall'applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
