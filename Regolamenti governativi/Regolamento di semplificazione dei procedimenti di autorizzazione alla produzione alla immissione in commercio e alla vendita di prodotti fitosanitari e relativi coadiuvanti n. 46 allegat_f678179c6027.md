@@ -1223,7 +1223,7 @@ La Commissione consultiva di cui all'[articolo 20 del decreto legislativo 17 mar
 
 AGGIORNAMENTO (6)
 
-Il [D.P.R. 28 marzo 2013, n. 44](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera b)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione consultiva per i fitosanitari di cui al presente articolo.
+Il [D.P.R. 28 marzo 2013, n. 44](../DPR/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera b)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione consultiva per i fitosanitari di cui al presente articolo.
 
 ### Art. 40. — (( (Banca dati) ))
 

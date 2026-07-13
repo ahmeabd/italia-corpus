@@ -268,7 +268,7 @@ Nota all'art. 8:
  provvedimento del Garante per la radiodiffusione e l'editoria 26 gennaio 1994 (Gazzetta Ufficiale n. 21 del 27 gennaio 1994);
  deliberazione del Senato della Repubblica 21 luglio 1994 (Gazzetta Ufficiale n. 172 del 25 luglio 1994);
  decreto della Camera dei deputati 26 luglio 1994 (Gazzetta Ufficiale n. 174 del 27 luglio 1994);
- [decreto-legge n. 182/1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;182) (non convertito in legge, sostituito, da ultimo, con il [decreto-legge 18 settembre 1995, n. 386](../DL%20decaduti/Disposizioni%20urgenti%20per%20la%20parita%20di%20accesso%20ai%20mezzi%20di%20informazione%20durante%20le%20campagne%20elettorali%20e%20referendarie_4.md), in corso di conversione in legge).
+ [decreto-legge n. 182/1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;182) (non convertito in legge, sostituito, da ultimo, con il [decreto-legge 18 settembre 1995, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20la%20parita%20di%20accesso%20ai%20mezzi%20di%20informazione%20durante%20le%20campagne%20elettorali%20e%20referendarie_4.md), in corso di conversione in legge).
 
 ## Art. 9. — D i v i e t i
 

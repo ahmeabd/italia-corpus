@@ -326,7 +326,7 @@ I contribuenti che nell'anno solare precedente hanno realizzato un volume d'affa
                             a)
                                 l'effettuazione delle liquidazioni periodiche, di cui all'[articolo 1, comma 1, del decreto del Presidente della Repubblica 23 marzo 1998, n. 100](Regolamento%20recante%20norme%20per%20la%20semplificazione%20e%20la%20razionalizzazione%20di%20alcuni%20adempimenti%20contabili%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20ai%20sensi%20dellarticolo%203%20comma%20136%20della%20l_aae262ae7a64.md), e dei relativi versamenti dell'imposta entro il 16 del secondo mese successivo a ciascuno dei primi tre trimestri solari; qualora l'imposta non superi il limite di euro 100 il versamento e' effettuato insieme a quello dovuto per il trimestre successivo e comunque entro il ((16 novembre)) dello stesso anno; (8)
                             b)
-                                il versamento dell'imposta dovuta entro il 16 di marzo di ciascun anno, ovvero entro il termine previsto dall'articolo 17, comma 1, del regolamento di cui al [decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md), maggiorando le somme da versare degli interessi nella misura dello 0.40 per cento per ogni mese o frazione di mese successivo alla predetta data.
+                                il versamento dell'imposta dovuta entro il 16 di marzo di ciascun anno, ovvero entro il termine previsto dall'articolo 17, comma 1, del regolamento di cui al [decreto del Presidente della Repubblica 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md), maggiorando le somme da versare degli interessi nella misura dello 0.40 per cento per ogni mese o frazione di mese successivo alla predetta data.
 
 2.
 
@@ -344,7 +344,7 @@ I soggetti che esercitano l'opzione di cui al comma 1, lettera a), possono annot
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 7 dicembre 2001, n. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che " Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002".
+Il [D.P.R. 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che " Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002".
 
 ---------------
 
@@ -370,7 +370,7 @@ I contribuenti in possesso dei requisiti indicati dal [secondo comma dell'artico
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 7 dicembre 2001, n. 435](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che " Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002".
+Il [D.P.R. 7 dicembre 2001, n. 435](../DPR/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2022%20luglio%201998%20n.%20322%20nonche%20disposizioni%20per%20la%20semplificazione%20e%20razionalizzazione%20di%20adempimenti%20tributari.md) ha disposto (con l'art. 19, comma 4) che " Gli effetti delle disposizioni di cui all'articolo 11 decorrono dalle liquidazioni relative al 2002".
 
 ### Art. 9. — Dichiarazione unificata
 

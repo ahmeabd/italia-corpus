@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regol
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 ## Art. 3. — Procedura valutativa Ammissione al contributo a carico dello Stato
 
@@ -96,7 +96,7 @@ Il contratto di mutuo ha una durata massima di dieci anni comprensiva di un peri
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 ## Art. 4.
 
@@ -107,7 +107,7 @@ Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regol
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 ## Art. 5.
 
@@ -118,7 +118,7 @@ Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regol
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 ## Art. 6.
 
@@ -129,7 +129,7 @@ Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regol
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 ## Art. 7. — Soggetti beneficiari
 
@@ -160,7 +160,7 @@ Le agevolazioni di cui agli articoli 5, 6 e 7 non sono cumulabili con le altre a
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 ## Art. 10. — Disposizioni finali e transitorie
 
@@ -181,7 +181,7 @@ Possono essere ammessi al contributo gli investimenti gia' realizzati nell'anno 
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 novembre 2010, n. 223](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+Il [D.P.R. 25 novembre 2010, n. 223](../DPR/Regolamento%20recante%20semplificazione%20e%20riordino%20dellerogazione%20dei%20contributi%20alleditoria%20a%20norma%20dellarticolo%2044%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20convertito%20con%20modificazioni%20dalla_b0e44db62923.md) ha disposto (con l'art. 22, comma 2) che "Ai sensi del [comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99#art_56-com1), il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

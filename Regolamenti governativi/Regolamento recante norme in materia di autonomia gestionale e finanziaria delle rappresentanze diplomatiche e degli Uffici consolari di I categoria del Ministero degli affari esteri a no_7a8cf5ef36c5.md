@@ -568,7 +568,7 @@ I rendiconti di cui al comma 3 sono resi dal titolare dell'ufficio all'estero, n
 AGGIORNAMENTO (1)
 
 - La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 31, comma 1, lettera g)) che "Dal primo giorno del sesto mese successivo alla data di entrata in vigore del regolamento di cui all'articolo 17, comma 13, sono abrogati: [...] 
- g) l'articolo 25 del regolamento di cui al [decreto del Presidente della Repubblica 1º febbraio 2010, n. 54](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md)". 
+ g) l'articolo 25 del regolamento di cui al [decreto del Presidente della Repubblica 1º febbraio 2010, n. 54](../DPR/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20gestionale%20e%20finanziaria%20delle%20rappresentanze%20diplomatiche%20e%20degli%20Uffici%20consolari%20di%20I%20categoria%20del%20Ministero%20degli%20affari%20esteri%20a%20no_7a8cf5ef36c5.md)". 
  - Il regolamento di cui all'art. 31, comma 1, alinea della [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) e' stato emanato con Decreto 22 luglio 2015, n. 113, pubblicato in G.U. 30/07/2015, n. 175.
 
 ### Art. 26. — Erogazione di spese su finanziamenti 

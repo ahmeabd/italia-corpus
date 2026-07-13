@@ -464,7 +464,7 @@ A decorrere dall'anno accademico 2025/2026 e fino all'entrata in vigore del rego
 
 2.
 
-L'autorizzazione e' concessa, su parere del CNAM, in ordine alla qualificazione dell'istituzione e alla conformita' dell'ordinamento didattico per i corsi proposti, e dell'ANVUR, in ordine all'adeguatezza delle strutture, delle risorse finanziarie e del personale alla tipologia dei corsi da attivare. A tale fine l'ANVUR puo' avvalersi di esperti della valutazione ai sensi e nei limiti di cui all'[articolo 12, comma 4, lettera d, del decreto del Presidente della Repubblica 1° febbraio 2010, n. 76](../Regolamenti%20di%20delegificazione/Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR%20adottato%20ai%20sensi%20dellarticolo%202%20comma%20140%20de_9466d9d65f54.md).
+L'autorizzazione e' concessa, su parere del CNAM, in ordine alla qualificazione dell'istituzione e alla conformita' dell'ordinamento didattico per i corsi proposti, e dell'ANVUR, in ordine all'adeguatezza delle strutture, delle risorse finanziarie e del personale alla tipologia dei corsi da attivare. A tale fine l'ANVUR puo' avvalersi di esperti della valutazione ai sensi e nei limiti di cui all'[articolo 12, comma 4, lettera d, del decreto del Presidente della Repubblica 1° febbraio 2010, n. 76](../DPR/Regolamento%20concernente%20la%20struttura%20ed%20il%20funzionamento%20dellAgenzia%20nazionale%20di%20valutazione%20del%20sistema%20universitario%20e%20della%20ricerca%20ANVUR%20adottato%20ai%20sensi%20dellarticolo%202%20comma%20140%20de_9466d9d65f54.md).
 
 ))
 

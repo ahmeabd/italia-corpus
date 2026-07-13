@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md), e successive modificazioni, concernente costituzione e ordinamento del Comitato olimpico nazionale italiano (CONI);
 
-Visto il [decreto-legge 2 febbraio 1994, n. 80](../DL%20decaduti/Riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport_4.md), recante riordino delle funzioni in materia di turismo, spettacolo e sport;
+Visto il [decreto-legge 2 febbraio 1994, n. 80](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20delle%20funzioni%20in%20materia%20di%20turismo%20spettacolo%20e%20sport_4.md), recante riordino delle funzioni in materia di turismo, spettacolo e sport;
 
 Visto il [decreto del Presidente della Repubblica 28 marzo 1986, n. 157](../DPR/Nuove%20norme%20di%20attuazione%20della%20legge%2016%20febbraio%201942%20n.%20426%20recante%20costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I.md), recante nuove norme di attuazione della citata [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md);
 

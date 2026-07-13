@@ -230,7 +230,7 @@ sanita' pubblica
 
 AGGIORNAMENTO (1)
 
-Il Decreto 27 settembre 2022 (in G.U. 18/10/2022, n. 244) ha disposto (con l'art. 1, comma 1) che "Per le motivazioni di cui in premessa, la denominazione della disciplina di «medicina e chirurgia d'accettazione e d'urgenza» istituita dall'art. 4, comma 2, lettera A - Area medica e delle specialita' mediche, punto 13, del [decreto del Presidente della Repubblica 10 dicembre 1997, n. 484](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20la%20determinazione%20dei%20requisiti%20per%20laccesso%20alla%20direzione%20sanitaria%20aziendale%20e%20dei%20requisiti%20e%20dei%20criteri%20per%20laccesso%20al%20secondo%20livello%20dirigenziale%20per%20il%20perso_749a9e7089b1.md), e' modificata in «medicina d'emergenza-urgenza»".
+Il Decreto 27 settembre 2022 (in G.U. 18/10/2022, n. 244) ha disposto (con l'art. 1, comma 1) che "Per le motivazioni di cui in premessa, la denominazione della disciplina di «medicina e chirurgia d'accettazione e d'urgenza» istituita dall'art. 4, comma 2, lettera A - Area medica e delle specialita' mediche, punto 13, del [decreto del Presidente della Repubblica 10 dicembre 1997, n. 484](../DPR/Regolamento%20recante%20la%20determinazione%20dei%20requisiti%20per%20laccesso%20alla%20direzione%20sanitaria%20aziendale%20e%20dei%20requisiti%20e%20dei%20criteri%20per%20laccesso%20al%20secondo%20livello%20dirigenziale%20per%20il%20perso_749a9e7089b1.md), e' modificata in «medicina d'emergenza-urgenza»".
 
 ### Art. 5. — R e q u i s i t i
 
