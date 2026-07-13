@@ -46,7 +46,7 @@ Gli [articoli 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:195
 
 2.
 
-L'[art. 42 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_42), come sostituito dall'[art. 1, comma 10, del decreto-legge 14 settembre 1993, n. 359](../DL%20decaduti/Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_3.md), e' abrogato.
+L'[art. 42 della legge 10 febbraio 1953, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;62#art_42), come sostituito dall'[art. 1, comma 10, del decreto-legge 14 settembre 1993, n. 359](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20legittimita%20dellazione%20amministrativa_3.md), e' abrogato.
 
 3.
 

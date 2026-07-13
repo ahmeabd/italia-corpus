@@ -38,7 +38,7 @@ Fino al 30 giugno 1989, l'imposta di fabbricazione e la corrispondente sovrimpos
 
 1.
 
-Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 40 miliardi, si provvede con le maggiori entrate derivanti dall'attuazione del [decreto-legge 14 aprile 1989, n. 129](../DL%20decaduti/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_2.md).
+Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 40 miliardi, si provvede con le maggiori entrate derivanti dall'attuazione del [decreto-legge 14 aprile 1989, n. 129](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_4.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
