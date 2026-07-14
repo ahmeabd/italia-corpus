@@ -22,7 +22,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 8 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352](../DPR/Regolamento%20per%20la%20disciplina%20delle%20modalita%20di%20esercizio%20e%20dei%20casi%20di%20esclusione%20del%20diritto%20di%20accesso%20ai%20documenti%20amministrativi%20in%20attuazione%20dellart.%2024%20comma%202%20della%20legge%207%20agost_62c2e2a651ce.md);
 
-Visto il [decreto legislativo 24 febbraio 1997, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20direttiva%2090-313-CEE%20concernente%20la%20liberta%20di%20accesso%20alle%20informazioni%20in%20materia%20di%20ambiente.md);
+Visto il [decreto legislativo 24 febbraio 1997, n. 39](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20direttiva%2090-313-CEE%20concernente%20la%20liberta%20di%20accesso%20alle%20informazioni%20in%20materia%20di%20ambiente.md);
 
 Visti i pareri della commissione per l'accesso ai documenti amministrativi espressi nelle sedute del 4 novembre 1997 e del 18 novembre 1998;
 
@@ -72,7 +72,7 @@ Nota al titolo:
  b) quando possa arrecarsi pregiudizio ai processi di formazione, di determinazione e di attuazione della politica monetaria e valutaria;
  c) quando i documenti riguardino le strutture, i mezzi, le dotazioni, il personale e le azioni strettamente strumentali alla tutela dell'ordine pubblico, alla prevenzione e alla repressione della criminalita' con particolare riferimento alle tecniche investigative, alla identita' delle fonti di informazione e alla sicurezza dei beni e delle persone coinvolte, nonche' all'attivita' di polizia giudiziaria e di conduzione delle indagini;
  d) quando i documenti riguardino la vita privata o la riservatezza di persone fisiche, di persone giuridiche, gruppi, imprese e associazioni, con particolare riferimento agli interessi epistolare, sanitario, professionale, finanziario, industriale e commerciale di cui siano in concreto titolari, ancorche' i relativi dati siano forniti all'amministrazione dagli stessi soggetti cui si riferiscono. Deve comunque essere garantita ai richiedenti la visione degli atti dei procedimenti amministrativi la cui conoscenza sia necessaria per curare o per difendere i loro stessi interessi giuridici".
- - Il [decreto legislativo 24 febbraio 1997, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20direttiva%2090-313-CEE%20concernente%20la%20liberta%20di%20accesso%20alle%20informazioni%20in%20materia%20di%20ambiente.md), reca: "Attuazione della [direttiva 90/313/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;313), concernente la liberta' di accesso alle informazioni in materia di ambiente".
+ - Il [decreto legislativo 24 febbraio 1997, n. 39](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20direttiva%2090-313-CEE%20concernente%20la%20liberta%20di%20accesso%20alle%20informazioni%20in%20materia%20di%20ambiente.md), reca: "Attuazione della [direttiva 90/313/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;313), concernente la liberta' di accesso alle informazioni in materia di ambiente".
  Nota all'art. 1:
  - Per il testo del [comma 4 dell'art. 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24-com4), si vedano le note alle premesse.
 
