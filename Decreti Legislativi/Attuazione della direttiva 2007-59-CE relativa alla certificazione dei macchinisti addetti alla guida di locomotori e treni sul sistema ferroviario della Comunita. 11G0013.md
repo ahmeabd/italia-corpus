@@ -18,7 +18,7 @@ Vista la decisione n. 2010/17/CE della Commissione, del 29 ottobre 2009 sull'ado
 
 Visto il Regolamento (CE) n. 36/2010 della Commissione, del 3 dicembre 2009, relativo ai modelli comunitari di licenza di conduzione treni, certificato complementare, copia autenticata del certificato complementare e i moduli di domanda di licenza di conduzione treni, a norma della [direttiva 2007/59/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;59);
 
-Vista la [legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria per il 2009, ed, in particolare, l'allegato B;
+Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria per il 2009, ed, in particolare, l'allegato B;
 
 Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 753](../DPR/Nuove%20norme%20in%20materia%20di%20polizia%20sicurezza%20e%20regolarita%20dellesercizio%20delle%20ferrovie%20e%20di%20altri%20servizi%20di%20trasporto.md), recante nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto;
 
@@ -71,7 +71,7 @@ Avvertenza:
  La [direttiva 2007/59/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;59) e' pubblicata nella G.U.U.E. 3 dicembre 2007, n. L 315. 
  La decisione 2010/17/CE e' pubblicata nella G.U.U.E. 13 gennaio 2010, n. L 8. 
  Il regolamento (CE) n.36/2010 e' pubblicata nella G.U.U.E. 19 gennaio 2010, n. L 13. 
- Il testo dell'allegato B della [legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2009).» e' pubblicata nella Gazzetta Ufficiale 25 giugno 2010, n. 146, S.O., cosi' recita: 
+ Il testo dell'allegato B della [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2009).» e' pubblicata nella Gazzetta Ufficiale 25 giugno 2010, n. 146, S.O., cosi' recita: 
  «Allegato B 
  (Art. 1, commi 1 e 3) 
  2005/47/CE del Consiglio, del 18 luglio 2005, concernente l'accordo tra la Comunita' delle ferrovie europee (CER) e la Federazione europea dei lavoratori dei trasporti (ETF) su taluni aspetti delle condizioni di lavoro dei lavoratori mobili che effettuano servizi di interoperabilita' transfrontaliera nel settore ferroviario; 

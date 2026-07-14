@@ -545,7 +545,7 @@ L'esercizio dei servizi di trasporto pubblico regionale e locale, con qualsiasi 
 
 1-bis.
 
-I servizi di trasporto pubblico ferroviario, qualora debbano essere svolti anche sulla rete infrastrutturale nazionale, sono affidati dalle regioni ai soggetti in possesso del titolo autorizzatorio di cui all'[articolo 3, comma 1, lettera r), del decreto legislativo 8 luglio 2003, n. 188](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), ovvero della apposita licenza valida in ambito nazionale rilasciata con le procedure previste dal medesimo [decreto legislativo n. 188 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;188).
+I servizi di trasporto pubblico ferroviario, qualora debbano essere svolti anche sulla rete infrastrutturale nazionale, sono affidati dalle regioni ai soggetti in possesso del titolo autorizzatorio di cui all'[articolo 3, comma 1, lettera r), del decreto legislativo 8 luglio 2003, n. 188](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202001-12-CE%202001-13-CE%20e%202001-14-CE%20in%20materia%20ferroviaria.md), ovvero della apposita licenza valida in ambito nazionale rilasciata con le procedure previste dal medesimo [decreto legislativo n. 188 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;188).
 
 2.
 

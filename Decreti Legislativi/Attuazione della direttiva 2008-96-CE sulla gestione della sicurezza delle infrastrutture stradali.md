@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2008/96/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;96), relativa alla gestione della sicurezza delle infrastrutture stradali;
 
-Vista la [legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee e, in particolare, l'articolo 1 e l'allegato B;
+Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee e, in particolare, l'articolo 1 e l'allegato B;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 dicembre 2010;
 
@@ -344,7 +344,7 @@ La relazione comprende anche l'elenco delle eventuali disposizioni di aggiorname
 
 1.
 
-Alle attivita' di controllo, ((valutazione)) e ispezione, previste rispettivamente dagli ((articoli 4, 5, 6 e 6-bis)), ((il Ministero delle infrastrutture e della mobilita' sostenibili e l'ANSFISA provvedono)) mediante tariffe da porre a carico degli enti gestori, non pubblici, da determinarsi ai sensi dell'[articolo 4, della legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md).
+Alle attivita' di controllo, ((valutazione)) e ispezione, previste rispettivamente dagli ((articoli 4, 5, 6 e 6-bis)), ((il Ministero delle infrastrutture e della mobilita' sostenibili e l'ANSFISA provvedono)) mediante tariffe da porre a carico degli enti gestori, non pubblici, da determinarsi ai sensi dell'[articolo 4, della legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md).
 
 2.
 

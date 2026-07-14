@@ -177,7 +177,7 @@ PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](../Codici/Codice%20
 AGGIORNAMENTO (12)
 
 Il Provvedimento 13 febbraio 2007, (in G.U. 26/02/2007, n. 47), ha disposto (con l'art. 1, comma 1) che "Le imprese di assicurazione, al fine di tener conto delle variazioni dell'indice europeo dei prezzi al consumo pubblicato da Eurostat, adeguano gli importi relativi alla determinazione della quota di garanzia e del margine di solvibilita' come di seguito indicato: 
- [...] l'importo della quota di premi o contributi ai fini del calcolo del margine di solvibilita' fissato dall'[art. 36, comma 3, del decreto legislativo 17 marzo 1995, n. 175](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md) in euro 50.000.000 e' aumentato a euro 53.100.000;".
+ [...] l'importo della quota di premi o contributi ai fini del calcolo del margine di solvibilita' fissato dall'[art. 36, comma 3, del decreto legislativo 17 marzo 1995, n. 175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md) in euro 50.000.000 e' aumentato a euro 53.100.000;".
 
 ### Art. 37.
 
@@ -188,7 +188,7 @@ PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](../Codici/Codice%20
 AGGIORNAMENTO (12)
 
 Il Provvedimento 13 febbraio 2007, (in G.U. 26/02/2007, n. 47), ha disposto (con l'art. 1, comma 1) che "Le imprese di assicurazione, al fine di tener conto delle variazioni dell'indice europeo dei prezzi al consumo pubblicato da Eurostat, adeguano gli importi relativi alla determinazione della quota di garanzia e del margine di solvibilita' come di seguito indicato: 
- [...] l'importo della quota di sinistri ai fini del calcolo del margine di solvibilita' fissato dall'[art. 37, comma 5, del decreto legislativo 17 marzo 1995, n. 175](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md) in euro 35.000.000 e' aumentato a euro 37.200.000.
+ [...] l'importo della quota di sinistri ai fini del calcolo del margine di solvibilita' fissato dall'[art. 37, comma 5, del decreto legislativo 17 marzo 1995, n. 175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md) in euro 35.000.000 e' aumentato a euro 37.200.000.
 
 ### Art. 37-bis.
 
@@ -207,7 +207,7 @@ ARTICOLO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](../Codici/Codice%20delle
 AGGIORNAMENTO (12)
 
 Il Provvedimento 13 febbraio 2007, (in G.U. 26/02/2007, n. 47), ha disposto (con l'art. 1, comma 1) che "Le imprese di assicurazione, al fine di tener conto delle variazioni dell'indice europeo dei prezzi al consumo pubblicato da Eurostat, adeguano gli importi relativi alla determinazione della quota di garanzia e del margine di solvibilita' come di seguito indicato: 
- [...] l'importo minimo della quota di garanzia fissato dall'[art. 39, comma 2, del decreto legislativo 17 marzo 1995, n. 175](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md) in euro 2.000.000 e' aumentato a euro 2.200.000. Qualora l'impresa sia autorizzata all'esercizio dei rami 10, 11, 12, 13, 14 e 15 di cui all'[art. 2, terzo comma, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md) la quota di garanzia non puo' in nessun caso essere inferiore a euro 3.200.000;".
+ [...] l'importo minimo della quota di garanzia fissato dall'[art. 39, comma 2, del decreto legislativo 17 marzo 1995, n. 175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md) in euro 2.000.000 e' aumentato a euro 2.200.000. Qualora l'impresa sia autorizzata all'esercizio dei rami 10, 11, 12, 13, 14 e 15 di cui all'[art. 2, terzo comma, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md) la quota di garanzia non puo' in nessun caso essere inferiore a euro 3.200.000;".
 
 ### Art. 39-bis.
 

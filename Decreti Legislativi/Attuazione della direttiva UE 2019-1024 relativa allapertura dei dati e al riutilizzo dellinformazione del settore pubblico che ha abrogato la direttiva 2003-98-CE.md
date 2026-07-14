@@ -156,7 +156,7 @@ Ai fini del presente decreto si intende per:
                         e)
                             quelli comunque nella disponibilita' degli organismi di cui ((alla legge 3 agosto 2007, n. 124));
                         f)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
                         g)
                             quelli esclusi dall'accesso ai sensi dell'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), ((nonche' ai sensi dell'articolo 5-bis del decreto legislativo 14 marzo 2013, n. 33,)) o per motivi di tutela del segreto statistico, quali disciplinati dall'articolo 9 del decreto legislativo 6 settembre 1989. n. 322;
                         h)
@@ -168,7 +168,7 @@ Ai fini del presente decreto si intende per:
                         h-quater)
                             quelli il cui accesso, ai sensi delle previsioni del [regolamento UE 2016/679](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679) e del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) nonche' del [decreto legislativo 18 maggio 2018, n. 51](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20UE%202016-680%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2027%20aprile%202016%20relativa%20alla%20protezione%20delle%20persone%20fisiche%20con%20riguardo%20al%20trattamento%20dei%20dati%20person_64bbd5b37b8b.md), e' escluso o limitato, ovvero risulti pregiudizievole per la tutela della vita privata e dell'integrita' degli individui, nonche' alle parti di documenti accessibili che contengono dati personali il cui riutilizzo e' stato definito per legge incompatibile con le previsioni delle suddette disposizioni normative;
                         h-quinquies)
-                            quelli il cui accesso e' escluso o limitato per motivi di protezione delle informazioni sensibili relative alle infrastrutture critiche definite all'[articolo 2 del decreto legislativo 11 aprile 2011, n. 61](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20Direttiva%202008-114-CE%20recante%20lindividuazione%20e%20la%20designazione%20delle%20infrastrutture%20critiche%20europee%20e%20la%20valutazione%20della%20necessita%20di%20migliorarne%20la%20protezione.%2011G0101.md);
+                            quelli il cui accesso e' escluso o limitato per motivi di protezione delle informazioni sensibili relative alle infrastrutture critiche definite all'[articolo 2 del decreto legislativo 11 aprile 2011, n. 61](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20Direttiva%202008-114-CE%20recante%20lindividuazione%20e%20la%20designazione%20delle%20infrastrutture%20critiche%20europee%20e%20la%20valutazione%20della%20necessita%20di%20migliorarne%20la%20protezione.%2011G0101.md);
                         h-sexies)
                             documenti diversi da quelli di cui all'articolo 2, comma 1, lettera c-septies), nella disponibilita' di organizzazioni che svolgono attivita' di ricerca e di organizzazioni che finanziano la ricerca, comprese le organizzazioni preposte al trasferimento dei risultati della ricerca.
 
@@ -192,11 +192,11 @@ Sono fatte salve:
                         c)
                             la disciplina in materia di accesso ai documenti amministrativi, di cui al Capo V della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
                         d)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
                         e)
                             le disposizioni in materia di proprieta' industriale di cui al [decreto legislativo 10 febbraio 2005, n. 30](Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md);
                         f)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md).
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md).
 
 ## Art. 5. — (( (Richiesta di riutilizzo di documenti). ))
 

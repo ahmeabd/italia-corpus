@@ -347,7 +347,7 @@ Nei successivi aggiornamenti della strategia di ristrutturazione a lungo termine
 
 AGGIORNAMENTO (1a)
 
-Il [D.Lgs. 6 novembre 2007, n. 201](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-32-CE%20relativa%20allistituzione%20di%20un%20quadro%20per%20lelaborazione%20di%20specifiche%20per%20la%20progettazione%20ecocompatibile%20dei%20prodotti%20che%20consumano%20energia.md) ha disposto (con l'art. 120, comma 1) che le disposizioni relative ai rendimenti minimi degli impianti termici per la climatizzazione invernale degli edifici e per la preparazione dell'acqua calda per usi igienici e sanitari di cui al comma 1, lettera a), del presente articolo si applicano fino alla data di entrata in vigore della eventuale misura di esecuzione relativa al prodotto in questione.
+Il [D.Lgs. 6 novembre 2007, n. 201](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202005-32-CE%20relativa%20allistituzione%20di%20un%20quadro%20per%20lelaborazione%20di%20specifiche%20per%20la%20progettazione%20ecocompatibile%20dei%20prodotti%20che%20consumano%20energia.md) ha disposto (con l'art. 120, comma 1) che le disposizioni relative ai rendimenti minimi degli impianti termici per la climatizzazione invernale degli edifici e per la preparazione dell'acqua calda per usi igienici e sanitari di cui al comma 1, lettera a), del presente articolo si applicano fino alla data di entrata in vigore della eventuale misura di esecuzione relativa al prodotto in questione.
 
 -------------
 
