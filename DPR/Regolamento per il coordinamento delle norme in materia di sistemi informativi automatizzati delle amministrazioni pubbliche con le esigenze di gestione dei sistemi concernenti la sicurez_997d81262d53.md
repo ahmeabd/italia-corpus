@@ -278,7 +278,7 @@ Per gli Organismi, sono predisposti, a norma dell'art. 12 del decreto legislativ
 
 2.
 
-Per i contratti di cui all'[art. 4, comma 1, lettera c), del decreto legislativo 24 luglio 1992, n. 358](../Atti%20di%20recepimento%20direttive%20UE/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20appalti%20pubblici%20di%20forniture%20in%20attuazione%20delle%20direttive%2077-62-CEE%2080-767-CEE%20e%2088-295-CEE.md), gli Organismi comunicano all'Autorita', tramite il CESIS, le linee essenziali dei progetti e le informazioni che consentano comunque di esprimere il parere di cui all'art. 8 del decreto legislativo.
+Per i contratti di cui all'[art. 4, comma 1, lettera c), del decreto legislativo 24 luglio 1992, n. 358](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20appalti%20pubblici%20di%20forniture%20in%20attuazione%20delle%20direttive%2077-62-CEE%2080-767-CEE%20e%2088-295-CEE.md), gli Organismi comunicano all'Autorita', tramite il CESIS, le linee essenziali dei progetti e le informazioni che consentano comunque di esprimere il parere di cui all'art. 8 del decreto legislativo.
 
 Note all'art. 11:
  - Il testo dell'art. 12 del citato [D.Lgs. n. 39/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;39) e' il seguente:

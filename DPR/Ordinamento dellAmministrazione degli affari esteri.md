@@ -936,7 +936,7 @@ Per i funzionari con il grado di ministro plenipotenziario, la prima relazione s
 ### Art. 107. — (Promozione al grado di consigliere di legazione)
 
 Le promozioni al grado di consigliere di legazione sono effettuate fra i segretari di legazione che abbiano compiuto un periodo complessivo di dieci anni e mezzo di servizio effettivo nella carriera diplomatica, nel corso del quale: 
- a) LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md); (31) 
+ a) LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md); (31) 
  b) abbiano prestato servizio, fatta eccezione per i funzionari indicati nella lettera c), per almeno quattro anni negli uffici all'estero o nelle delegazioni diplomatiche speciali o, previa autorizzazione dell'Amministrazione, in organizzazioni internazionali o presso Stati esteri, di cui almeno due nell'esercizio ((delle seguenti funzioni: 
  1) della specializzazione per i funzionari specializzati; 
  2) commerciali, consolari, di capo di cancelleria consolare o di vicario di rappresentanza diplomatica per i funzionari non specializzati)); (23) 
@@ -991,7 +991,7 @@ La commissione a sua volta trasmette al Ministro degliaffari esteri gli elementi
 
 AGGIORNAMENTO (43)
 
-La [L. 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), ha disposto (con l'art. 51, comma 1, lettera e)) che l'articolo 109 primo comma e' sostituito come sopra, nell'ambito delle dotazioni organiche vigenti.
+La [L. 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), ha disposto (con l'art. 51, comma 1, lettera e)) che l'articolo 109 primo comma e' sostituito come sopra, nell'ambito delle dotazioni organiche vigenti.
 
 ### Art. 109-bis. — (Nomina al grado di ambasciatore)
 

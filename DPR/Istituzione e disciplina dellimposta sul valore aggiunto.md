@@ -4986,7 +4986,7 @@ modifiche al presente articolo hanno effetto dal 1 aprile 1979.
 
 1.
 
-Le operazioni effettuate dalle agenzie di viaggio e di turismo per la organizzazione di pacchetti turistici costituiti, ai sensi dell'[articolo 2 del decreto legislativo 17 marzo 1995, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2090-314-CEE%20concernente%20i%20viaggi%20le%20vacanze%20ed%20i%20circuiti%20tutto%20compreso.md), da viaggi, vacanze, circuiti tutto compreso e connessi servizi, verso il pagamento di un corrispettivo globale sono considerate come una prestazione di servizi unica. Le disposizioni del presente articolo si applicano anche qualora le suddette prestazioni siano rese dalle agenzie di viaggio e turismo tramite mandatari; le stesse disposizioni non si applicano alle agenzie di viaggio e turismo che agiscono in nome e per conto dei clienti.
+Le operazioni effettuate dalle agenzie di viaggio e di turismo per la organizzazione di pacchetti turistici costituiti, ai sensi dell'[articolo 2 del decreto legislativo 17 marzo 1995, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2090-314-CEE%20concernente%20i%20viaggi%20le%20vacanze%20ed%20i%20circuiti%20tutto%20compreso.md), da viaggi, vacanze, circuiti tutto compreso e connessi servizi, verso il pagamento di un corrispettivo globale sono considerate come una prestazione di servizi unica. Le disposizioni del presente articolo si applicano anche qualora le suddette prestazioni siano rese dalle agenzie di viaggio e turismo tramite mandatari; le stesse disposizioni non si applicano alle agenzie di viaggio e turismo che agiscono in nome e per conto dei clienti.
 
 2.
 
@@ -5006,7 +5006,7 @@ Per le prestazioni rese dalle agenzie di viaggio e turismo che agiscono in nome 
 
 5-bis.
 
-Per le operazioni rese dalle agenzie di viaggio e turismo relative a prestazioni di servizi turistici effettuati da altri soggetti, che non possono essere considerati pacchetti turistici ai sensi dell'[articolo 2 del decreto legislativo 17 marzo 1995, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2090-314-CEE%20concernente%20i%20viaggi%20le%20vacanze%20ed%20i%20circuiti%20tutto%20compreso.md), qualora precedentemente acquisite nella disponibilita' dell'agenzia, l'imposta si applica, sempreche' dovuta, con le stesse modalita' previste dal comma 5.
+Per le operazioni rese dalle agenzie di viaggio e turismo relative a prestazioni di servizi turistici effettuati da altri soggetti, che non possono essere considerati pacchetti turistici ai sensi dell'[articolo 2 del decreto legislativo 17 marzo 1995, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2090-314-CEE%20concernente%20i%20viaggi%20le%20vacanze%20ed%20i%20circuiti%20tutto%20compreso.md), qualora precedentemente acquisite nella disponibilita' dell'agenzia, l'imposta si applica, sempreche' dovuta, con le stesse modalita' previste dal comma 5.
 
 6.
 

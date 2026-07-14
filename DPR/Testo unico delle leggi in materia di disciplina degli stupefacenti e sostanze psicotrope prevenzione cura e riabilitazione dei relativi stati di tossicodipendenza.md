@@ -2154,7 +2154,7 @@ L'allegato III puo' essere modificato con decreto del Ministero della salute, di
 
 21.
 
-Alle attivita' di rilascio della licenza, di registrazione e di autorizzazione di cui ai commi 3, 5 e 9, il Ministero della salute provvede mediante tariffe a carico degli operatori, da determinarsi ai sensi dell'[articolo 4 della legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md). Con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dall'entrata in vigore del presente decreto legislativo, sono individuate le tariffe di cui al presente comma e le relative modalita' di versamento. Le tariffe sono aggiornate almeno ogni due anni.
+Alle attivita' di rilascio della licenza, di registrazione e di autorizzazione di cui ai commi 3, 5 e 9, il Ministero della salute provvede mediante tariffe a carico degli operatori, da determinarsi ai sensi dell'[articolo 4 della legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md). Con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dall'entrata in vigore del presente decreto legislativo, sono individuate le tariffe di cui al presente comma e le relative modalita' di versamento. Le tariffe sono aggiornate almeno ogni due anni.
 
 --------------
 

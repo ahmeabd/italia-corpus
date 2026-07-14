@@ -276,14 +276,14 @@ Il bilancio e' redatto dal direttore generale ed e' deliberato, entro quattro me
 
 3.
 
-Il bilancio dell'Istituto e' redatto in conformita' alle disposizioni di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md).
+Il bilancio dell'Istituto e' redatto in conformita' alle disposizioni di cui al [decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md).
 
 4.
 
 Gli utili netti risultanti dal bilancio sono destinati, per una quota non inferiore all'ottanta per cento, alla riserva non distribuibile ai partecipanti al fondo di dotazione; la restante quota e' destinata dal consiglio di amministrazione alle finalita' istituzionali.
 
 Nota all'[art. 9:
- - Il decreto legislativo 27 gennaio 1992, n. 87](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), recante "Attuazione della [direttiva n. 86/635/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;635), relativa ai conti annuali ed ai conti consolidati delle banche e degli altri istituti finanziari, e della [direttiva n. 89/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;117), relativa agli obblighi in materia di pubblicita' dei documenti contabili delle succursali, stabilite in uno Stato membro, di enti creditizi ed istituti finanziari con sede sociali fuori di tale Stato membro" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 37 del 14 febbraio 1992.
+ - Il decreto legislativo 27 gennaio 1992, n. 87](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2086-635-CEE%20relativa%20ai%20conti%20annuali%20ed%20ai%20conti%20consolidati%20delle%20banche%20e%20degli%20altri%20istituti%20finanziari%20e%20della%20direttiva%20n.%2089-117-CEE%20relativa%20agli%20obb_72f7dc94213c.md), recante "Attuazione della [direttiva n. 86/635/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1986;635), relativa ai conti annuali ed ai conti consolidati delle banche e degli altri istituti finanziari, e della [direttiva n. 89/117/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;117), relativa agli obblighi in materia di pubblicita' dei documenti contabili delle succursali, stabilite in uno Stato membro, di enti creditizi ed istituti finanziari con sede sociali fuori di tale Stato membro" e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 37 del 14 febbraio 1992.
 
 ## Art. 10. — Fondo per la concessione di contributi in conto interessi
 

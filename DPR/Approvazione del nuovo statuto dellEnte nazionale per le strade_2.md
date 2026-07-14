@@ -413,14 +413,14 @@ Un componente effettivo, con funzioni di presidente, ed uno supplente, sono desi
 
 4.
 
-I membri del collegio sono scelti tra iscritti al registro dei revisori contabili di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), e successive modificazioni ed integrazioni o tra persone in possesso di specifica professionalita'.
+I membri del collegio sono scelti tra iscritti al registro dei revisori contabili di cui all'[articolo 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), e successive modificazioni ed integrazioni o tra persone in possesso di specifica professionalita'.
 
 5.
 
 Le indennita' dei componenti il collegio dei revisori sono determinate con decreto del Ministro vigilante, sentito il Ministro dell'economia e delle finanze.
 
 Nota all'art. 10:
- - Si riporta il testo dell'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
+ - Si riporta il testo dell'[art. 1 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md).
  "Art. 1 (Registro dei revisori contabili). - 1. E' istituito presso il Ministero di grazia e giustizia il registro dei revisori contabili.
  2. L'iscrizione nel registro da' diritto all'uso del titolo di revisore contabile".
 
