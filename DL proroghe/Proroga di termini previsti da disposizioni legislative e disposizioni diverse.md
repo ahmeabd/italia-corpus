@@ -411,7 +411,7 @@ Il termine di cui all'[articolo 52, comma 12, della legge 27 dicembre 2002, n. 2
 
 8-duodecies.
 
-All'[articolo 21, comma 10-bis, del decreto legislativo 11 maggio 2005, n. 133](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md), le parole: "28 dicembre 2007" sono sostituite dalle seguenti: "28 dicembre 2009".
+All'[articolo 21, comma 10-bis, del decreto legislativo 11 maggio 2005, n. 133](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%202000-76-CE%20in%20materia%20di%20incenerimento%20dei%20rifiuti.md), le parole: "28 dicembre 2007" sono sostituite dalle seguenti: "28 dicembre 2009".
 
 8-terdecies.
 

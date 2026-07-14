@@ -150,7 +150,7 @@ Il termine di cui all'[articolo 9, comma 1, del decreto-legge 9 novembre 2004, n
 
 1.
 
-Al fine di assicurare il regolare svolgimento dell'attivita' dell'Associazione italiana della Croce Rossa, la medesima e' autorizzata a prorogare, fino al 31 dicembre 2005, i contratti di lavoro a tempo determinato, sottoscritti in attuazione del [decreto legislativo 6 settembre 2001, n. 368](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%201999-70-CE%20relativa%20allaccordo%20quadro%20sul%20lavoro%20a%20tempo%20determinato%20concluso%20dallUNICE%20dal%20CEEP%20e%20dal%20CES.md), in applicazione delle convenzioni con il Servizio sanitario nazionale che li hanno determinati.
+Al fine di assicurare il regolare svolgimento dell'attivita' dell'Associazione italiana della Croce Rossa, la medesima e' autorizzata a prorogare, fino al 31 dicembre 2005, i contratti di lavoro a tempo determinato, sottoscritti in attuazione del [decreto legislativo 6 settembre 2001, n. 368](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%201999-70-CE%20relativa%20allaccordo%20quadro%20sul%20lavoro%20a%20tempo%20determinato%20concluso%20dallUNICE%20dal%20CEEP%20e%20dal%20CES.md), in applicazione delle convenzioni con il Servizio sanitario nazionale che li hanno determinati.
 
 ## Art. 6. — Contributi allo spettacolo dal vivo
 
