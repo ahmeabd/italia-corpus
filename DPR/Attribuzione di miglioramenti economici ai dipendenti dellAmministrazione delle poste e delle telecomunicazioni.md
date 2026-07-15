@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'[art. 9 della legge 22 luglio 1975, n. 382](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-22;382#art_9);
 
-Visto il [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
+Visto il [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md);
 
 Visto l'accordo del 5 gennaio 1977 intervenuto tra il Governo e le organizzazioni sindacali, che ha fissato in lire cinquantamila mensili il miglioramento economico pro-capite da assicurare al personale statale per il rinnovo contrattuale 1976-78;
 
@@ -45,7 +45,7 @@ L'importo di L. 10.000 mensili si corrisponde in quanto competa lo stipendio, pa
 
 ## Art. 4.
 
-Alla copertura della maggiore spesa derivante dalla applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
+Alla copertura della maggiore spesa derivante dalla applicazione del presente decreto si provvede ai sensi del [decreto-legge 29 maggio 1979, n. 163](../DL%20decaduti/Nuovo%20assetto%20retributivo-funzionale%20del%20personale%20civile%20e%20militare%20dello%20Stato.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

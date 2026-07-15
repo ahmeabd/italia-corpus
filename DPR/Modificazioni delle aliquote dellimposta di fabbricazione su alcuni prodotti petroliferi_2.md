@@ -26,7 +26,7 @@ EMANA il seguente decreto:
 
 1.
 
-A partire dal 12 aprile 1986, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi, gia' stabilite con i [decreti-legge 28 febbraio 1986, n. 40, 5 marzo 1986, n. 58, e 13 marzo 1986, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi_2.md), sono ulteriormente aumentate:
+A partire dal 12 aprile 1986, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi, gia' stabilite con i [decreti-legge 28 febbraio 1986, n. 40, 5 marzo 1986, n. 58, e 13 marzo 1986, n. 63](../DL%20decaduti/Modificazioni%20delle%20aliquote%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi.md), sono ulteriormente aumentate:
                         a)
                             da L. 78.130 a L. 78.728 per ettolitro, alla temperatura di 15° centigradi, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverse da quello lampante;
                         b)
