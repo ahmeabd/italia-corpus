@@ -18,7 +18,7 @@ Vista la [legge 9 febbraio 1963, n. 82](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 14 agosto 1971, n. 822](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-08-14;822);
 
-Vista la [legge 6 marzo 1987, n. 110](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20fra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20dAustria%20per%20lutilizzazione%20del%20porto%20di%20Trieste%20firmato%20a%20Trieste%20il%204%20ottobre%201985%20con%20scambio%20di%20lettere%20e_40cc6993dc01.md), recante ratifica dell'Accordo tra Italia ed Austria del 4 ottobre 1985 per l'utilizzazione del porto di Trieste;
+Vista la [legge 6 marzo 1987, n. 110](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20fra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20dAustria%20per%20lutilizzazione%20del%20porto%20di%20Trieste%20firmato%20a%20Trieste%20il%204%20ottobre%201985%20con%20scambio%20di%20lettere%20e_40cc6993dc01.md), recante ratifica dell'Accordo tra Italia ed Austria del 4 ottobre 1985 per l'utilizzazione del porto di Trieste;
 
 Visto il [decreto-legge 13 marzo 1988, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-13;69), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20marzo%201988%20n.%2069%20recante%20norme%20in%20materia%20previdenziale%20per%20il%20miglioramento%20delle%20gestioni%20degli%20enti%20portuali%20ed%20altre%20dispos_4f05ffe1dd97.md);
 
@@ -179,7 +179,7 @@ L'adeguamento viene effettuato, per il periodo intercorrente tra il 1° gennaio 
 
 3.
 
-Ferme restando le disposizioni dell'Accordo tra Italia ed Austria del 4 ottobre 1985 per l'utilizzazione del porto di Trieste, ratificato con [legge 6 marzo 1987, n. 110](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20fra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20dAustria%20per%20lutilizzazione%20del%20porto%20di%20Trieste%20firmato%20a%20Trieste%20il%204%20ottobre%201985%20con%20scambio%20di%20lettere%20e_40cc6993dc01.md), al fine di riequilibrare il rapporto differenziale tra la misura della tassazione da applicarsi al porto franco di Trieste e quella relativa alla generalita' dei porti nazionali ed evitare possibili distorsioni di concorrenza, alle operazioni commerciali che si svolgono presso i punti franchi di detto porto si applicano i criteri di adeguamento di cui al comma 2, prendendo tuttavia a base il 100 per cento del tasso ufficiale d'inflazione.
+Ferme restando le disposizioni dell'Accordo tra Italia ed Austria del 4 ottobre 1985 per l'utilizzazione del porto di Trieste, ratificato con [legge 6 marzo 1987, n. 110](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20fra%20la%20Repubblica%20italiana%20e%20la%20Repubblica%20dAustria%20per%20lutilizzazione%20del%20porto%20di%20Trieste%20firmato%20a%20Trieste%20il%204%20ottobre%201985%20con%20scambio%20di%20lettere%20e_40cc6993dc01.md), al fine di riequilibrare il rapporto differenziale tra la misura della tassazione da applicarsi al porto franco di Trieste e quella relativa alla generalita' dei porti nazionali ed evitare possibili distorsioni di concorrenza, alle operazioni commerciali che si svolgono presso i punti franchi di detto porto si applicano i criteri di adeguamento di cui al comma 2, prendendo tuttavia a base il 100 per cento del tasso ufficiale d'inflazione.
 
 -------------
 
