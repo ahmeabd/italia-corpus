@@ -22,7 +22,7 @@ Il [decreto-legge 27 agosto 1994, n. 513](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 16 dicembre 1993, n. 526, 18 febbraio 1994, n. 110, 22 aprile 1994, n. 245, e 27 giugno 1994, n. 409](../Atti%20normativi%20abrogati%20%28in%20originale%29/Liquidazione%20dellEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 16 dicembre 1993, n. 526, 18 febbraio 1994, n. 110, 22 aprile 1994, n. 245, e 27 giugno 1994, n. 409](../DL%20decaduti/Liquidazione%20dellEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta_4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -38,7 +38,7 @@ Il [decreto-legge 28 febbraio 1986, n. 48](../DL%20proroghe/Proroga%20di%20termi
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 30 dicembre 1985, n. 788](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20di%20termini%20e%20interventi%20urgenti%20per%20la%20rinascita%20delle%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 30 dicembre 1985, n. 788](../DL%20decaduti/Proroga%20di%20termini%20e%20interventi%20urgenti%20per%20la%20rinascita%20delle%20zone%20terremotate%20della%20Campania%20e%20della%20Basilicata.md).
 
 AVVERTENZA:
 

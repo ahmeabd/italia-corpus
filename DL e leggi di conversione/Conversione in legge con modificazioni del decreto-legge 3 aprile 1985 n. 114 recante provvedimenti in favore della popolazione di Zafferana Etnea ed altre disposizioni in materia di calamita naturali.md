@@ -42,7 +42,7 @@ Il [decreto-legge 3 aprile 1985, n. 114](https://www.normattiva.it/uri-res/N2Ls?
 
 ## Art. 2.
 
-Restano validi gli atti posti in essere ed i rapporti giuridici sorti in attuazione dei [decreti-legge 29 giugno 1984, n. 271, 29 novembre 1984, n. 793, e 1 febbraio 1985, n. 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20in%20favore%20della%20popolazione%20di%20Zafferana%20Etnea%20ed%20altre%20disposizioni%20in%20materia%20di%20calamita%20naturali.md).
+Restano validi gli atti posti in essere ed i rapporti giuridici sorti in attuazione dei [decreti-legge 29 giugno 1984, n. 271, 29 novembre 1984, n. 793, e 1 febbraio 1985, n. 9](../DL%20decaduti/Provvedimenti%20in%20favore%20della%20popolazione%20di%20Zafferana%20Etnea%20ed%20altre%20disposizioni%20in%20materia%20di%20calamita%20naturali.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

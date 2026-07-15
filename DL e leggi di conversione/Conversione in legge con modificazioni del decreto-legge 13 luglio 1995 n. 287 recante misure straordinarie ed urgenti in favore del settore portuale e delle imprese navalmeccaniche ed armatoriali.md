@@ -22,7 +22,7 @@ Il [decreto-legge 13 luglio 1995, n. 287](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 17 gennaio 1995, n. 10, 17 marzo 1995, n. 80, e 19 maggio 1995, n. 179](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20straordinarie%20ed%20urgenti%20in%20favore%20del%20settore%20portuale%20delle%20imprese%20navalmeccaniche%20ed%20armatoriali_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 17 gennaio 1995, n. 10, 17 marzo 1995, n. 80, e 19 maggio 1995, n. 179](../DL%20decaduti/Misure%20straordinarie%20ed%20urgenti%20in%20favore%20del%20settore%20portuale%20delle%20imprese%20navalmeccaniche%20ed%20armatoriali_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

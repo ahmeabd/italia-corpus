@@ -22,7 +22,7 @@ Il [decreto-legge 2 luglio 2007, n. 81](https://www.normattiva.it/uri-res/N2Ls?u
 
 2.
 
-Sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 28 maggio 2007, n. 67](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20fiscale.md).
+Sono fatti salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 28 maggio 2007, n. 67](../DL%20decaduti/Misure%20urgenti%20in%20materia%20fiscale.md).
 
 3.
 

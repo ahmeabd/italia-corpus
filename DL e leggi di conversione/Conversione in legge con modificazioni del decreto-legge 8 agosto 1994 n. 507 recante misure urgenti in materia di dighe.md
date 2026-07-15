@@ -22,7 +22,7 @@ Il [decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 12 agosto 1993, n. 309, 19 ottobre 1993, n. 417, 16 dicembre 1993, n. 524, 14 febbraio 1994, n. 107, 14 aprile 1994, n. 237, e 20 giugno 1994, n. 398](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20dighe_6.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 12 agosto 1993, n. 309, 19 ottobre 1993, n. 417, 16 dicembre 1993, n. 524, 14 febbraio 1994, n. 107, 14 aprile 1994, n. 237, e 20 giugno 1994, n. 398](../DL%20decaduti/Misure%20urgenti%20in%20materia%20di%20dighe_6.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

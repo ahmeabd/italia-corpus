@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 3 giugno 1996, n. 310](https://www.norm
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 febbraio 1996, n. 44, e 4 aprile 1996, n. 189](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20straordinari%20per%20la%20ricostruzione%20del%20teatro%20La%20Fenice%20di%20Venezia%20nonche%20per%20levento%20disastroso%20verificatosi%20a%20Napoli-Secondigliano_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 6 febbraio 1996, n. 44, e 4 aprile 1996, n. 189](../DL%20decaduti/Interventi%20straordinari%20per%20la%20ricostruzione%20del%20teatro%20La%20Fenice%20di%20Venezia%20nonche%20per%20levento%20disastroso%20verificatosi%20a%20Napoli-Secondigliano_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

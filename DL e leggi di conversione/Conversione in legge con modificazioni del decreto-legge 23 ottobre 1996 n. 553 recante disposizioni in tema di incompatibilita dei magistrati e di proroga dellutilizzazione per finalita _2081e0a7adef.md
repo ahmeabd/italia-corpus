@@ -22,11 +22,11 @@ Il [decreto-legge 23 ottobre 1996, n. 553](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 23 dicembre 1995, n. 552, 26 febbraio 1996, n. 83, e 26 aprile 1996, n. 218](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dellutilizzazione%20per%20finalita%20di%20detenzione%20degli%20istituti%20penitenziari%20di%20Pianosa%20e%20dellAsinara_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 23 dicembre 1995, n. 552, 26 febbraio 1996, n. 83, e 26 aprile 1996, n. 218](../DL%20decaduti/Proroga%20dellutilizzazione%20per%20finalita%20di%20detenzione%20degli%20istituti%20penitenziari%20di%20Pianosa%20e%20dellAsinara_3.md).
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 10 maggio 1996, n. 250, 8 luglio 1996, n. 355, e 6 settembre 1996, n. 464](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20tema%20di%20incompatibilita%20dei%20magistrati%20e%20di%20proroga%20dellutilizzazione%20per%20finalita%20di%20detenzione%20degli%20istituti%20penitenziari%20di%20Pianosa%20e%20dellAsinara_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 10 maggio 1996, n. 250, 8 luglio 1996, n. 355, e 6 settembre 1996, n. 464](../DL%20decaduti/Disposizioni%20in%20tema%20di%20incompatibilita%20dei%20magistrati%20e%20di%20proroga%20dellutilizzazione%20per%20finalita%20di%20detenzione%20degli%20istituti%20penitenziari%20di%20Pianosa%20e%20dellAsinara_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

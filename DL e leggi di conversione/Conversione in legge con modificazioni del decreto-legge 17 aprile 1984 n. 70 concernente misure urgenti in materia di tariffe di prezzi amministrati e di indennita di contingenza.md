@@ -35,7 +35,7 @@ Il [decreto-legge 17 aprile 1984, n. 70](https://www.normattiva.it/uri-res/N2Ls?
  L'articolo 4 e' soppresso. 
  
  La tabella e' sostituita da quella allegata. 
- Restano validi gli atti ed i provvedimenti adottati e sono salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 15 febbraio 1984, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20di%20tariffe%20di%20prezzi%20amministrati%20e%20di%20indennita%20di%20contingenza.md).
+ Restano validi gli atti ed i provvedimenti adottati e sono salvi gli effetti prodotti e i rapporti giuridici sorti sulla base del [decreto-legge 15 febbraio 1984, n. 10](../DL%20decaduti/Misure%20urgenti%20in%20materia%20di%20tariffe%20di%20prezzi%20amministrati%20e%20di%20indennita%20di%20contingenza.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

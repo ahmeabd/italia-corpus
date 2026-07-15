@@ -22,7 +22,7 @@ Il [decreto-legge 23 maggio 2008, n. 90](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-E' abrogato il [decreto-legge 17 giugno 2008, n. 107](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriori%20norme%20per%20assicurare%20lo%20smaltimento%20dei%20rifiuti%20in%20Campania.md). Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 107 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008;107).
+E' abrogato il [decreto-legge 17 giugno 2008, n. 107](../DL%20decaduti/Ulteriori%20norme%20per%20assicurare%20lo%20smaltimento%20dei%20rifiuti%20in%20Campania.md). Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 107 del 2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008;107).
 
 3.
 

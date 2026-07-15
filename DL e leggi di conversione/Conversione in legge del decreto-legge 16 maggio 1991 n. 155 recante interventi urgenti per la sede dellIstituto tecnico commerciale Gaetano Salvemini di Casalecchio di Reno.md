@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 16 maggio 1991, n. 155](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 31 dicembre 1990, n. 425, e 11 marzo 1991, n. 75](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20ledilizia%20scolastica%20e%20universitaria%20e%20per%20larredamento%20scolastico_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 31 dicembre 1990, n. 425, e 11 marzo 1991, n. 75](../DL%20decaduti/Interventi%20urgenti%20per%20ledilizia%20scolastica%20e%20universitaria%20e%20per%20larredamento%20scolastico_2.md).
 
 AVVERTENZA:
  Il [decreto-legge 16 maggio 1991, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-16;155), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 113 del 16 maggio 1991.

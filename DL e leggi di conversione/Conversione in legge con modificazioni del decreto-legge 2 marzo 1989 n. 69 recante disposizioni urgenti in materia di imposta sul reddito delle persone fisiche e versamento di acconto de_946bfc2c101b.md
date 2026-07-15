@@ -22,7 +22,7 @@ Il [decreto-legge 2 marzo 1989, n. 69](https://www.normattiva.it/uri-res/N2Ls?ur
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 30 dicembre 1988, n. 550](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20la%20revisione%20delle%20aliquote%20IRPEF%20e%20lelevazione%20di%20talune%20detrazioni%20ai%20fini%20dellIRPEF%20nonche%20per%20la%20determinazione%20forfetaria%20del%20reddito%20e%20dellIVA%20dovuta%20da%20par_00cd9ca66cb4.md), esclusi quelli in materia di imposta sul valore aggiunto relativi ai giornali quotidiani, ai libri, ai periodici e alle assegnazioni, anche in godimento, di case di abitazione fatte ai soci da cooperative edilizie.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 30 dicembre 1988, n. 550](../DL%20decaduti/Disposizioni%20urgenti%20per%20la%20revisione%20delle%20aliquote%20IRPEF%20e%20lelevazione%20di%20talune%20detrazioni%20ai%20fini%20dellIRPEF%20nonche%20per%20la%20determinazione%20forfetaria%20del%20reddito%20e%20dellIVA%20dovuta%20da%20par_00cd9ca66cb4.md), esclusi quelli in materia di imposta sul valore aggiunto relativi ai giornali quotidiani, ai libri, ai periodici e alle assegnazioni, anche in godimento, di case di abitazione fatte ai soci da cooperative edilizie.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

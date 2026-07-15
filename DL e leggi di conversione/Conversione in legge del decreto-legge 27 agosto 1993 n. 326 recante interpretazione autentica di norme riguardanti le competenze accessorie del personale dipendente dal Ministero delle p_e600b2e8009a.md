@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 27 agosto 1993, n. 326](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 28 giugno 1993, n. 211](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interpretazione%20autentica%20di%20norme%20riguardanti%20le%20competenze%20accessorie%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 28 giugno 1993, n. 211](../DL%20decaduti/Interpretazione%20autentica%20di%20norme%20riguardanti%20le%20competenze%20accessorie%20del%20personale%20dipendente%20dal%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

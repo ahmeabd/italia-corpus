@@ -22,7 +22,7 @@ Il [decreto-legge 1 dicembre 1997, n. 411](../Atti%20normativi%20abrogati%20%28i
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 15 settembre 1997, n. 305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20tema%20di%20impegni%20finanziari%20dellA.I.M.A.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 15 settembre 1997, n. 305](../DL%20decaduti/Disposizioni%20urgenti%20in%20tema%20di%20impegni%20finanziari%20dellA.I.M.A.md).
 
 3.
 

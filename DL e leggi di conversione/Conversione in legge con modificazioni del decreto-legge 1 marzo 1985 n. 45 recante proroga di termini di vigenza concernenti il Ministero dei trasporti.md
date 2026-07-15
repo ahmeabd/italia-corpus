@@ -23,7 +23,7 @@ Il [decreto-legge 1 marzo 1985, n. 45](https://www.normattiva.it/uri-res/N2Ls?ur
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti in applicazione del [decreto-legge 22 dicembre 1984, n. 903](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20di%20termini%20di%20vigenza%20concernenti%20il%20Ministero%20dei%20trasporti.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti in applicazione del [decreto-legge 22 dicembre 1984, n. 903](../DL%20decaduti/Proroga%20di%20termini%20di%20vigenza%20concernenti%20il%20Ministero%20dei%20trasporti.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

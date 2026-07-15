@@ -94,7 +94,7 @@ PROMULGA la seguente legge:
  "8. All'onere derivante dall'applicazione del comma 5, valutato in lire 25 miliardi per l'anno 1988 e in lire 50 miliardi per l'anno 1989, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1987-1989, al capitolo 9001 dello stato di previsione del Ministero del tesoro per il 1987, parzialmente utilizzando l'accantonamento "Giacimenti ambientali"".
  Dopo l'articolo 17, e' aggiunto il seguente:
  "Art. 17-bis. - 1. Nelle attrezzature sanitarie di cui all'[articolo 4, secondo comma, lettera g), della legge 29 settembre 1964, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-09-29;847#art_4-com2-letg), sono ricomprese le opere, le costruzioni e gli impianti destinati allo smaltimento, al riciclaggio o alla distruzione dei rifiuti urbani solidi e liquidi, eseguiti per conto degli enti territoriali".
- 2. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 31 dicembre 1986, n. 924, 28 febbraio 1987, n. 54, 2 maggio 1987, n. 168 e 30 giugno 1987, n. 258](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti_4.md).
+ 2. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 31 dicembre 1986, n. 924, 28 febbraio 1987, n. 54, 2 maggio 1987, n. 168 e 30 giugno 1987, n. 258](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti_4.md).
  3. La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
 
 AVVERTENZA

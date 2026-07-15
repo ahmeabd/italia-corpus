@@ -22,7 +22,7 @@ Il [decreto-legge 1 luglio 1996, n. 347](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 gennaio 1996, n. 2, 1 marzo 1996, n. 100, e 29 aprile 1996, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20concernenti%20il%20Ministero%20degli%20affari%20esteri%20e%20norme%20relative%20ad%20impegni%20internazionali_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 gennaio 1996, n. 2, 1 marzo 1996, n. 100, e 29 aprile 1996, n. 237](../DL%20decaduti/Differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative%20concernenti%20il%20Ministero%20degli%20affari%20esteri%20e%20norme%20relative%20ad%20impegni%20internazionali_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

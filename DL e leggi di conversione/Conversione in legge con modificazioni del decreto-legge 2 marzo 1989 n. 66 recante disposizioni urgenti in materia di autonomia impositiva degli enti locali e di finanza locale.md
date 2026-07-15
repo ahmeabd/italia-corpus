@@ -22,7 +22,7 @@ Il [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?ur
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 30 dicembre 1988, n. 549](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 30 dicembre 1988, n. 549](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

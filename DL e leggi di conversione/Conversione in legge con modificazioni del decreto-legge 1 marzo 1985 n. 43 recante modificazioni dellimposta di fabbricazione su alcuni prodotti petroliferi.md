@@ -63,12 +63,12 @@ Nota all'art. 4:
 
 ## Art. 5.
 
-Conservano efficacia gli atti ed i provvedimenti adottati in applicazione delle disposizioni del [decreto-legge 22 dicembre 1984, n. 864](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi.md), e del [decreto-legge 21 febbraio 1985, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi_5.md), e restano fermi i rapporti giuridici sorti sulla base dei medesimi decreti.
+Conservano efficacia gli atti ed i provvedimenti adottati in applicazione delle disposizioni del [decreto-legge 22 dicembre 1984, n. 864](../DL%20decaduti/Modificazioni%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi.md), e del [decreto-legge 21 febbraio 1985, n. 22](../DL%20decaduti/Modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi_5.md), e restano fermi i rapporti giuridici sorti sulla base dei medesimi decreti.
 
 Note all'art. 5:
- Il caducato [decreto-legge 22 dicembre 1984, n. 864](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi.md), recava il seguente titolo:
+ Il caducato [decreto-legge 22 dicembre 1984, n. 864](../DL%20decaduti/Modificazioni%20dellimposta%20di%20fabbricazione%20su%20alcuni%20prodotti%20petroliferi.md), recava il seguente titolo:
  "Modificazioni dell'imposta di fabbricazione su alcuni prodotti petroliferi".
- Il caducato [decreto-legge 21 febbraio 1985, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi_5.md), recava il seguente titolo:
+ Il caducato [decreto-legge 21 febbraio 1985, n. 22](../DL%20decaduti/Modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi_5.md), recava il seguente titolo:
  "Modificazioni al regime fiscale di alcuni prodotti petroliferi".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

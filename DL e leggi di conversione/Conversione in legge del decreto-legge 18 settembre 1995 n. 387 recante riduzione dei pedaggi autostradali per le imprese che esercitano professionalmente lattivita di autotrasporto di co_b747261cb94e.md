@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 18 settembre 1995, n. 387](https://www.
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 luglio 1995, n. 290](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riduzione%20dei%20pedaggi%20autostradali%20per%20le%20imprese%20che%20esercitano%20professionalmente%20lattivita%20di%20autotrasporto%20di%20cose%20per%20conto%20di%20terzi.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 luglio 1995, n. 290](../DL%20decaduti/Riduzione%20dei%20pedaggi%20autostradali%20per%20le%20imprese%20che%20esercitano%20professionalmente%20lattivita%20di%20autotrasporto%20di%20cose%20per%20conto%20di%20terzi.md).
 
 AVVERTENZA:
  Il [decreto-legge 18 settembre 1995, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-09-18;387), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 219 del 19 settembre 1995.

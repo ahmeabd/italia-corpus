@@ -22,7 +22,7 @@ Il [decreto-legge 7 ottobre 1994, n. 571](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 16 dicembre 1993, n. 521, 14 febbraio 1994, n. 105, 14 aprile 1994, n. 235, 18 giugno 1994, n. 380, e 8 agosto 1994, n. 493](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20delle%20leggi%2021%20novembre%201991%20n.%20374%20istitutiva%20del%20giudice%20di%20pace%20e%2026%20novembre%201990%20n.%20353%20concernente%20provvedimenti%20urgenti%20per%20il%20processo%20civile_5.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 16 dicembre 1993, n. 521, 14 febbraio 1994, n. 105, 14 aprile 1994, n. 235, 18 giugno 1994, n. 380, e 8 agosto 1994, n. 493](../DL%20decaduti/Modificazioni%20delle%20leggi%2021%20novembre%201991%20n.%20374%20istitutiva%20del%20giudice%20di%20pace%20e%2026%20novembre%201990%20n.%20353%20concernente%20provvedimenti%20urgenti%20per%20il%20processo%20civile_5.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di asservarla e di farla osservare come legge dello Stato.
 

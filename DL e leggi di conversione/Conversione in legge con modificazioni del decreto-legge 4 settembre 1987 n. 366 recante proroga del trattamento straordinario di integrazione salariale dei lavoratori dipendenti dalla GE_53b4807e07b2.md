@@ -36,7 +36,7 @@ Il [decreto-legge 4 settembre 1987, n. 366](https://www.normattiva.it/uri-res/N2
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 3 gennaio 1987, n. 3, 6 marzo 1987, n. 66, 7 maggio 1987, n. 174, e 3 luglio 1987, n. 262](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20trattamento%20straordinario%20di%20integrazione%20salariale%20dei%20lavoratori%20dipendenti%20dalla%20GEPI%20disciplina%20del%20reimpiego%20di%20dipendenti%20licenziati%20da%20imprese%20meridionali%20misure%20per%20la_2710aa2f3440_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 3 gennaio 1987, n. 3, 6 marzo 1987, n. 66, 7 maggio 1987, n. 174, e 3 luglio 1987, n. 262](../DL%20decaduti/Proroga%20del%20trattamento%20straordinario%20di%20integrazione%20salariale%20dei%20lavoratori%20dipendenti%20dalla%20GEPI%20disciplina%20del%20reimpiego%20di%20dipendenti%20licenziati%20da%20imprese%20meridionali%20misure%20per%20la_2710aa2f3440_3.md).
 
 3.
 

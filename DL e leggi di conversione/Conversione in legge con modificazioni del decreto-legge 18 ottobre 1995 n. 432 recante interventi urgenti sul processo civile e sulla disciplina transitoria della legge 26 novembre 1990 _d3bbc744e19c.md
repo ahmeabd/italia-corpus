@@ -22,7 +22,7 @@ Il [decreto-legge 18 ottobre 1995, n. 432](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 aprile 1995, n. 121, 21 giugno 1995, n. 238, e 9 agosto 1995, n. 347](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20sul%20processo%20civile%20e%20sulla%20disciplina%20transitoria%20della%20legge%2026%20novembre%201990%20n.%20353%20relativa%20al%20medesimo%20processo_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 21 aprile 1995, n. 121, 21 giugno 1995, n. 238, e 9 agosto 1995, n. 347](../DL%20decaduti/Interventi%20urgenti%20sul%20processo%20civile%20e%20sulla%20disciplina%20transitoria%20della%20legge%2026%20novembre%201990%20n.%20353%20relativa%20al%20medesimo%20processo_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

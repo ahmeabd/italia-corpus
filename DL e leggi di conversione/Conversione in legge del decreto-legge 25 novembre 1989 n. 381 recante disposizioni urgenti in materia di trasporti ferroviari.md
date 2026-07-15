@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 25 novembre 1989, n. 381](https://www.n
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 25 marzo 1989, n. 109, 29 maggio 1989, n. 195, 28 luglio 1989, n. 264, e 25 settembre 1989, n. 328](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20trasporti%20ferroviari_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 25 marzo 1989, n. 109, 29 maggio 1989, n. 195, 28 luglio 1989, n. 264, e 25 settembre 1989, n. 328](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20trasporti%20ferroviari_4.md).
 
 AVVERTENZA:
  Il [decreto-legge 25 novembre 1989, n. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-11-25;381), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 277 del 27 novembre 1989.

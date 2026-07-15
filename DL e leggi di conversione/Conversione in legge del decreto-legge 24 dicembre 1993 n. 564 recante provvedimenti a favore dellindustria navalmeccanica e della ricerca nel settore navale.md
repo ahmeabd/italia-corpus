@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 24 dicembre 1993, n. 564](https://www.n
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 29 ottobre 1993, n. 431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20a%20favore%20dellindustria%20navalmeccanica%20e%20della%20ricerca%20nel%20settore%20navale.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 29 ottobre 1993, n. 431](../DL%20decaduti/Provvedimenti%20a%20favore%20dellindustria%20navalmeccanica%20e%20della%20ricerca%20nel%20settore%20navale.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

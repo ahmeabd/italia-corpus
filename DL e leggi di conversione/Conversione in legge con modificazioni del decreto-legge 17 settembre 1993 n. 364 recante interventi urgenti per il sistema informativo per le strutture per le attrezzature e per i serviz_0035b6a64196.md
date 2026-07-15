@@ -22,7 +22,7 @@ Il [decreto-legge 17 settembre 1993, n. 364](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 luglio 1993, n. 241](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20il%20sistema%20informativo%20per%20le%20strutture%20per%20le%20attrezzature%20e%20per%20i%20servizi%20dellAmministrazione%20giudiziaria.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 luglio 1993, n. 241](../DL%20decaduti/Interventi%20urgenti%20per%20il%20sistema%20informativo%20per%20le%20strutture%20per%20le%20attrezzature%20e%20per%20i%20servizi%20dellAmministrazione%20giudiziaria.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

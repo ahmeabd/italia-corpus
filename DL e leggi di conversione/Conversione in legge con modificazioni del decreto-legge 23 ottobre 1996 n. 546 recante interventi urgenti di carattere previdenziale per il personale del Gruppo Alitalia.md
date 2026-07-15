@@ -22,7 +22,7 @@ Il [decreto-legge 23 ottobre 1996, n. 546](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 ottobre 1995, n. 450, 29 dicembre 1995, n. 555, 26 febbraio 1996, n. 85, 26 aprile 1996, n. 220, 29 giugno 1996, n. 340, e 30 agosto 1996, n. 448](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20di%20carattere%20previdenziale%20per%20il%20personale%20del%20Gruppo%20Alitalia_6.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 30 ottobre 1995, n. 450, 29 dicembre 1995, n. 555, 26 febbraio 1996, n. 85, 26 aprile 1996, n. 220, 29 giugno 1996, n. 340, e 30 agosto 1996, n. 448](../DL%20decaduti/Interventi%20urgenti%20di%20carattere%20previdenziale%20per%20il%20personale%20del%20Gruppo%20Alitalia_6.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

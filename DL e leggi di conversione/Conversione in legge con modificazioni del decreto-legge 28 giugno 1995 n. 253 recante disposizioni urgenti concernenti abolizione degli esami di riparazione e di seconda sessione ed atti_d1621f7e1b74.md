@@ -22,7 +22,7 @@ Il [decreto-legge 28 giugno 1995, n. 253](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 agosto 1994, n. 523, 29 ottobre 1994, n. 607, 23 dicembre 1994, n. 729, 25 febbraio 1995, n. 58, e 29 aprile 1995, n. 136](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20attivazione%20dei%20relativi%20interventi%20di%20sostegno%20e%20di%20recupero_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 agosto 1994, n. 523, 29 ottobre 1994, n. 607, 23 dicembre 1994, n. 729, 25 febbraio 1995, n. 58, e 29 aprile 1995, n. 136](../DL%20decaduti/Disposizioni%20urgenti%20concernenti%20abolizione%20degli%20esami%20di%20riparazione%20e%20di%20seconda%20sessione%20ed%20attivazione%20dei%20relativi%20interventi%20di%20sostegno%20e%20di%20recupero_4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

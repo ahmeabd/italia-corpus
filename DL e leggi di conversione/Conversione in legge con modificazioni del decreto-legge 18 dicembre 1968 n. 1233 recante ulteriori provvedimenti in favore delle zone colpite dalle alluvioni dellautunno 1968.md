@@ -152,7 +152,7 @@ Dell'affissione e' data notizia nei modi previsti dall'articolo 3, quarto comma.
 
 ## Art. 2.
 
-Restano validi gli atti e i provvedimenti adottati in applicazione del [decreto-legge 19 novembre 1968, numero 1149](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriori%20provvedimenti%20in%20favore%20delle%20zone%20colpite%20dalla%20alluvione%20dellautunno%201968.md), nonche' i decreti emanati ai sensi dell'[articolo 1 del decreto-legge 18 dicembre 1968, n. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233#art_1).
+Restano validi gli atti e i provvedimenti adottati in applicazione del [decreto-legge 19 novembre 1968, numero 1149](../DL%20decaduti/Ulteriori%20provvedimenti%20in%20favore%20delle%20zone%20colpite%20dalla%20alluvione%20dellautunno%201968.md), nonche' i decreti emanati ai sensi dell'[articolo 1 del decreto-legge 18 dicembre 1968, n. 1233](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1968-12-18;1233#art_1).
 
 ## Art. 3.
 

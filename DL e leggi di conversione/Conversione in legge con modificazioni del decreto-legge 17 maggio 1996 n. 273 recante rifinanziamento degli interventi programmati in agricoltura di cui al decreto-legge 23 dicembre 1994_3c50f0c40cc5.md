@@ -22,7 +22,7 @@ Il [decreto-legge 17 maggio 1996, n. 273](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 20 novembre 1995, n. 491, 19 gennaio 1996, n. 26, e 19 marzo 1996, n. 133](../Atti%20normativi%20abrogati%20%28in%20originale%29/Rifinanziamento%20degli%20interventi%20programmati%20in%20agricoltura%20di%20cui%20al%20decreto-legge%2023%20dicembre%201994%20n.%20727%20convertito%20con%20modificazioni%20dalla%20legge%2024%20febbraio%201995%20n.%2046_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 20 novembre 1995, n. 491, 19 gennaio 1996, n. 26, e 19 marzo 1996, n. 133](../DL%20decaduti/Rifinanziamento%20degli%20interventi%20programmati%20in%20agricoltura%20di%20cui%20al%20decreto-legge%2023%20dicembre%201994%20n.%20727%20convertito%20con%20modificazioni%20dalla%20legge%2024%20febbraio%201995%20n.%2046_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

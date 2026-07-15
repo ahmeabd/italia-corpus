@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 4 dicembre 1992, n. 469](https://www.no
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 31 gennaio 1992, n. 45, 26 marzo 1992, n. 243, 26 maggio 1992, n. 297, 24 luglio 1992, n. 347, e 29 settembre 1992, n. 392](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20di%20trattamento%20economico%20dei%20sottufficiali%20delle%20Forze%20armate%20nonche%20di%20spese%20connesse%20alla%20crisi%20del%20Golfo%20Persico_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 31 gennaio 1992, n. 45, 26 marzo 1992, n. 243, 26 maggio 1992, n. 297, 24 luglio 1992, n. 347, e 29 settembre 1992, n. 392](../DL%20decaduti/Norme%20in%20materia%20di%20trattamento%20economico%20dei%20sottufficiali%20delle%20Forze%20armate%20nonche%20di%20spese%20connesse%20alla%20crisi%20del%20Golfo%20Persico_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

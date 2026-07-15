@@ -22,7 +22,7 @@ Il [decreto-legge 11 gennaio 2001, n. 1](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-E' abrogato il [decreto-legge 14 febbraio 2001, n. 8](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ulteriori%20interventi%20urgenti%20per%20fronteggiare%20lemergenza%20derivante%20dallencefalopatia%20spongiforme%20bovina.md). Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 8 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;8).
+E' abrogato il [decreto-legge 14 febbraio 2001, n. 8](../DL%20decaduti/Ulteriori%20interventi%20urgenti%20per%20fronteggiare%20lemergenza%20derivante%20dallencefalopatia%20spongiforme%20bovina.md). Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 8 del 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001;8).
 
 3.
 

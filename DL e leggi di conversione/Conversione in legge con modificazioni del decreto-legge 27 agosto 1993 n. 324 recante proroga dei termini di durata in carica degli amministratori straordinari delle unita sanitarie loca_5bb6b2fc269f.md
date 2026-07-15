@@ -22,7 +22,7 @@ Il [decreto-legge 27 agosto 1993, n. 324](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 25 giugno 1992, n. 320, 26 agosto 1992, n. 368, 26 ottobre 1992, n. 418, 30 dicembre 1992, n. 510, 2 marzo 1993, n. 45, 28 aprile 1993, n. 128, e 28 giugno 1993, n. 209](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dei%20termini%20di%20durata%20in%20carica%20degli%20amministratori%20straordinari%20delle%20unita%20sanitarie%20locali%20nonche%20norme%20per%20le%20attestazioni%20da%20parte%20delle%20unita%20sanitarie%20locali%20della%20condizi_cddee8bc53c1_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 25 giugno 1992, n. 320, 26 agosto 1992, n. 368, 26 ottobre 1992, n. 418, 30 dicembre 1992, n. 510, 2 marzo 1993, n. 45, 28 aprile 1993, n. 128, e 28 giugno 1993, n. 209](../DL%20decaduti/Proroga%20dei%20termini%20di%20durata%20in%20carica%20degli%20amministratori%20straordinari%20delle%20unita%20sanitarie%20locali%20nonche%20norme%20per%20le%20attestazioni%20da%20parte%20delle%20unita%20sanitarie%20locali%20della%20condizi_cddee8bc53c1_2.md).
 
 AVVERTENZA: 
  Il [decreto-legge 27 agosto 1993, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;324), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 202 del 28 agosto 1993. 

@@ -46,7 +46,7 @@ Il [decreto-legge 6 febbraio 1986, n. 20](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 10 dicembre 1985, n. 706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20settore%20siderurgico.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 10 dicembre 1985, n. 706](../DL%20decaduti/Misure%20urgenti%20per%20il%20settore%20siderurgico.md).
 
 AVVERTENZA:
 
