@@ -2469,7 +2469,7 @@ Note all'[art. 68](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20d
  per matrimonio, limitatamente a giorni 15;
  per gravidanza e puerperio, si applicano le norme sulla tutela delle lavoratrici madri;
  per esami attinenti alla carriera e per esami attinenti al perfezionamento professionale, limitatamente al tempo necessario per sostenere le prove stesse ivi compreso il tempo strettamente necessario per il trasferimento alla e dalla sede di esame;
- qualora trattasi di mutilato o invalido di guerra o per servizio, che debba attendere alle cure richieste dallo stato di invalidita' limitatamente ad un periodo di 30 giorni. Per le cure termali resta ferma la disciplina di cui all'[art. 9 del decreto-legge 11 maggio 1983, n. 176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20per%20il%20contenimento%20della%20spesa%20pubblica%20e%20disposizioni%20per%20taluni%20settori%20della%20pubblica%20amministrazione.md);
+ qualora trattasi di mutilato o invalido di guerra o per servizio, che debba attendere alle cure richieste dallo stato di invalidita' limitatamente ad un periodo di 30 giorni. Per le cure termali resta ferma la disciplina di cui all'[art. 9 del decreto-legge 11 maggio 1983, n. 176](../DL%20decaduti/Misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20per%20il%20contenimento%20della%20spesa%20pubblica%20e%20disposizioni%20per%20taluni%20settori%20della%20pubblica%20amministrazione.md);
  per i periodi contumaciali previsti per le malattie
  infettive;
  per infermita' temporaneamente invalidante;

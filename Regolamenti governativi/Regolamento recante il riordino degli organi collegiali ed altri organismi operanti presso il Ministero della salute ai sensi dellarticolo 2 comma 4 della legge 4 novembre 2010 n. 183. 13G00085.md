@@ -243,7 +243,7 @@ Sono trasferite ad un unico organo collegiale, denominato: «Comitato tecnico pe
                         e)
                             Commissione tecnica mangimi, di cui all'[articolo 9, comma 1, della legge 15 febbraio 1963, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-15;281#art_9-com1), e successive modificazioni;
                         f)
-                            Commissione tecnica nazionale per la protezione degli animali da allevamento e da macello, di cui all'[articolo 4 della legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md).
+                            Commissione tecnica nazionale per la protezione degli animali da allevamento e da macello, di cui all'[articolo 4 della legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md).
 
 -----------
 

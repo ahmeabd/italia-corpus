@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Visto l'[art. 3, comma 7, del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), che demanda ad apposito regolamento la determinazione delle modalita' per la presentazione delle domande per la chiusura delle liti fiscali pendenti, delle procedure per il controllo delle stesse, delle modalita' per l'estinzione dei giudizi e delle altre norme occorrenti per l'applicazione del medesimo art. 3;
+Visto l'[art. 3, comma 7, del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), che demanda ad apposito regolamento la determinazione delle modalita' per la presentazione delle domande per la chiusura delle liti fiscali pendenti, delle procedure per il controllo delle stesse, delle modalita' per l'estinzione dei giudizi e delle altre norme occorrenti per l'applicazione del medesimo art. 3;
 
 Visti i decreti del Ministro delle finanze 3 e 9 maggio 1991, pubblicati, rispettivamente, nella Gazzetta Ufficiale n. 103 del 4 maggio 1991 e n. 110 del 13 maggio 1991, che riguardano, tra l'altro, le modalita' di pagamento di alcune imposte sostitutive mediante versamento al concessionario o mediante delega alle aziende di credito;
 
@@ -32,7 +32,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Possono formare oggetto di definizione ai sensi dell'[art. 3 del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), le liti fiscali, concernenti l'avviso di accertamento, il provvedimento che irroga le sanzioni e ogni altro atto di imposizione, pendenti, alla data del 18 settembre 1994, dinanzi alla commissione tributaria di primo grado anche a seguito di rinvio da parte di altro organo giudicante.
+Possono formare oggetto di definizione ai sensi dell'[art. 3 del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), le liti fiscali, concernenti l'avviso di accertamento, il provvedimento che irroga le sanzioni e ogni altro atto di imposizione, pendenti, alla data del 18 settembre 1994, dinanzi alla commissione tributaria di primo grado anche a seguito di rinvio da parte di altro organo giudicante.
 
 2.
 
@@ -107,7 +107,7 @@ L'attestazione di pagamento, ovvero una copia della distinta di versamento di cu
 
 1.
 
-Il pagamento della somma di cui all'[art. 3, comma 1, lettera a), del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), puo' essere effettuato mediante versamento su apposito conto corrente postale intestato alla tesoreria provinciale dello Stato di Viterbo, utilizzando il bollettino Mod. ch-8 quater. Sul retro del bollettino vanno indicati il codice fiscale del contribuente e la commissione tributaria presso la quale pende la lite.
+Il pagamento della somma di cui all'[art. 3, comma 1, lettera a), del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), puo' essere effettuato mediante versamento su apposito conto corrente postale intestato alla tesoreria provinciale dello Stato di Viterbo, utilizzando il bollettino Mod. ch-8 quater. Sul retro del bollettino vanno indicati il codice fiscale del contribuente e la commissione tributaria presso la quale pende la lite.
 
 Nota all'art. 4:
  - Per il testo dell'[art. 3 del D.L. n. 538/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994;538#art_3) si veda in nota al titolo.
@@ -117,7 +117,7 @@ Nota all'art. 4:
 
 1.
 
-Il pagamento dell'importo di cui all'[art. 3, comma 1, lettera b), del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), e' effettuato al concessionario della riscossione competente secondo il domicilio fiscale del contribuente al momento del pagamento, utilizzando la distinta di versamento Mod. 8, Modulario F., Riscossione n. 8 o il bollettino di conto corrente postale Mod. 11, Modulario F., Riscossione n. 11; le persone fisiche e le societa' di persone possono effettuare il versamento anche mediante delega alle aziende di credito, utilizzando l'attestazione di pagamento di cui al decreto del Ministro delle finanze 9 maggio 1991, pubblicato nella Gazzetta Ufficiale n. 110 del 13 maggio 1991, contraddistinta da carta bianca e grafica di colore nero.
+Il pagamento dell'importo di cui all'[art. 3, comma 1, lettera b), del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), e' effettuato al concessionario della riscossione competente secondo il domicilio fiscale del contribuente al momento del pagamento, utilizzando la distinta di versamento Mod. 8, Modulario F., Riscossione n. 8 o il bollettino di conto corrente postale Mod. 11, Modulario F., Riscossione n. 11; le persone fisiche e le societa' di persone possono effettuare il versamento anche mediante delega alle aziende di credito, utilizzando l'attestazione di pagamento di cui al decreto del Ministro delle finanze 9 maggio 1991, pubblicato nella Gazzetta Ufficiale n. 110 del 13 maggio 1991, contraddistinta da carta bianca e grafica di colore nero.
 
 2.
 
@@ -175,7 +175,7 @@ Effettuati i previsti controlli, gli uffici, nei termini previsti dall'art. 6, c
 
 3.
 
-Per le udienze di discussione fissate per una data successiva al 15 dicembre 1994, qualora il contribuente dichiari di essersi avvalso delle disposizioni di cui all'[art. 3 del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), e indichi gli estremi della domanda di definizione, il giudizio e' sospeso fino all'invio della documentazione di cui all'art. 6, comma 1, da parte dell'ufficio tributario.
+Per le udienze di discussione fissate per una data successiva al 15 dicembre 1994, qualora il contribuente dichiari di essersi avvalso delle disposizioni di cui all'[art. 3 del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), e indichi gli estremi della domanda di definizione, il giudizio e' sospeso fino all'invio della documentazione di cui all'art. 6, comma 1, da parte dell'ufficio tributario.
 
 Note all'art. 7:
  - Le disposizioni degli [articoli 19 e seguenti del D.P.R. n. 636/1972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972;636#art_19) concernono il procedimento dinanzi alle commissioni tributarie.

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'art. 7 dell'accordo di modificazioni del Concordato Lateranense con la Santa Sede, firmato a Roma il 18 febbraio 1984, e ratificato con la [legge 25 marzo 1985, n. 121](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md);
+Visto l'art. 7 dell'accordo di modificazioni del Concordato Lateranense con la Santa Sede, firmato a Roma il 18 febbraio 1984, e ratificato con la [legge 25 marzo 1985, n. 121](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md);
 
 Visto l'[art. 75 della legge 20 maggio 1985, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-05-20;222#art_75), recante disposizioni sugli enti e beni ecclesiastici in Italia e per il sostentamento del clero cattolico in servizio nelle diocesi;
 

@@ -16,7 +16,7 @@ Visto l'art. 17, comma 2, della legge 23 agosto 1988,
 
 n. 400;
 
-Visto l'[art. 4 del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), concernente la conciliazione giudiziale, e, in particolare, il comma 7 che demanda ad apposito regolamento l'emanazione di disposizioni per l'applicazione della disciplina contenuta nello stesso articolo;
+Visto l'[art. 4 del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), concernente la conciliazione giudiziale, e, in particolare, il comma 7 che demanda ad apposito regolamento l'emanazione di disposizioni per l'applicazione della disciplina contenuta nello stesso articolo;
 
 Visti i decreti del Ministro delle finanze 3 e 9 maggio 1991, publicati, rispettivamente, nella Gazzetta Ufficiale n. 103 del 4 maggio 1991 e n. 110 del 13 maggio 1991, che riguardano, tra l'altro, le modalita' di pagamento di alcune imposte sostitutive mediante versamento al concessionario o mediante delega alle aziende di credito;
 
@@ -34,7 +34,7 @@ Sulla proposta del Ministro delle finanze; E M A N A il seguente regolamento:
 
 1.
 
-Possono formare oggetto di conciliazione le controversie pendenti, anche a seguito di rinvio, dinanzi agli organi del contenzioso tributario, con esclusione di quelle pendenti dinanzi alla Corte di cassazione e di quelle di cui all'[art. 3 del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md).
+Possono formare oggetto di conciliazione le controversie pendenti, anche a seguito di rinvio, dinanzi agli organi del contenzioso tributario, con esclusione di quelle pendenti dinanzi alla Corte di cassazione e di quelle di cui all'[art. 3 del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md).
 
 2.
 
@@ -145,7 +145,7 @@ Il collegio, o il consigliere istruttore, verifica la sussistenza delle condizio
 
 1.
 
-Il processo verbale di cui all'[art. 20-bis, comma 4, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), introdotto dall'[art. 4 del decreto-legge 17 settembre 1994, n. 538](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), e' sottoscritto dal presidente del collegio o dal consigliere istruttore e dalle parti o dal loro procuratore costituito con i relativi poteri; copia autentica del processo verbale e' rilasciata alle parti medesime.
+Il processo verbale di cui all'[art. 20-bis, comma 4, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md), introdotto dall'[art. 4 del decreto-legge 17 settembre 1994, n. 538](../DL%20decaduti/Disposizioni%20fiscali%20urgenti%20in%20materia%20di%20accertamento%20contenzioso%20potenziamento%20degli%20organici%20controlli%20e%20anagrafe%20patrimoniale%20dei%20dipendenti%20al%20fine%20di%20contrastare%20levasione%20e%20la%20corruzione_2.md), e' sottoscritto dal presidente del collegio o dal consigliere istruttore e dalle parti o dal loro procuratore costituito con i relativi poteri; copia autentica del processo verbale e' rilasciata alle parti medesime.
 
 2.
 

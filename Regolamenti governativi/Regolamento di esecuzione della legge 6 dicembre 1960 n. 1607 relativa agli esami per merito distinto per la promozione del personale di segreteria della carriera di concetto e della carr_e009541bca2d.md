@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto legislativo 7 maggio 1948, n. 1243](../Decreti%20Legislativi/Norme%20sulla%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md), ratificato con [legge 21 marzo 1953, n. 219](../Leggi%20di%20ratifica/Ratifica%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201243%20concernente%20norme%20sullo%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scient_fa5ebb4ce6e4.md);
+Visto il [decreto legislativo 7 maggio 1948, n. 1243](../Decreti%20Legislativi/Norme%20sulla%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md), ratificato con [legge 21 marzo 1953, n. 219](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201243%20concernente%20norme%20sullo%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scient_fa5ebb4ce6e4.md);
 
 Vista la [legge 22 novembre 1954, n. 1122](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sullo%20stato%20giuridico%20e%20la%20carriera%20del%20personale%20di%20segreteria%20degli%20Istituti%20di%20istruzione%20media%20classica%20scientifica%20e%20magistrale.md);
 

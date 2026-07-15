@@ -83,7 +83,7 @@ Con decreto del Ministro per i beni e le attivita' culturali sono stabiliti il n
 
 AGGIORNAMENTO (2)
 
-La [L. 22 novembre 2017, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-11-22;175) ha disposto (con l'art. 3, comma 7) che "A decorrere dalla data del primo insediamento del Consiglio superiore e' soppressa la Consulta per lo spettacolo prevista dal regolamento di cui al [decreto del Presidente della Repubblica 14 maggio 2007, n. 89](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20m_f5eaa475d4ce.md), e le relative attribuzioni sono assegnate al Consiglio superiore".
+La [L. 22 novembre 2017, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-11-22;175) ha disposto (con l'art. 3, comma 7) che "A decorrere dalla data del primo insediamento del Consiglio superiore e' soppressa la Consulta per lo spettacolo prevista dal regolamento di cui al [decreto del Presidente della Repubblica 14 maggio 2007, n. 89](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20m_f5eaa475d4ce.md), e le relative attribuzioni sono assegnate al Consiglio superiore".
 
 ## Art. 2. — Commissioni consultive per lo spettacolo dal vivo
 
@@ -282,7 +282,7 @@ I componenti degli organismi restano in carica fino alla scadenza del termine di
 
 AGGIORNAMENTO (1)
 
-Il D.P.C.M. 3 agosto 2011 (in G.U. 14/10/2011, n. 240) ha disposto (con l'art. 1, comma 1) che "Gli organismi di cui agli articoli 1, 2, 3, 4 e 6, comma 1, lettere a), d), e), f), g), del citato [decreto del Presidente della Repubblica 14 maggio 2007, n. 89](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20m_f5eaa475d4ce.md), sono prorogati per un biennio".
+Il D.P.C.M. 3 agosto 2011 (in G.U. 14/10/2011, n. 240) ha disposto (con l'art. 1, comma 1) che "Gli organismi di cui agli articoli 1, 2, 3, 4 e 6, comma 1, lettere a), d), e), f), g), del citato [decreto del Presidente della Repubblica 14 maggio 2007, n. 89](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20m_f5eaa475d4ce.md), sono prorogati per un biennio".
 
 ## Art. 10. — Disposizioni finali e abrogazioni
 

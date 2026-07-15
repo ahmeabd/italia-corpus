@@ -16,7 +16,7 @@ Vista la [legge 5 giugno 1951, n. 376](../Atti%20normativi%20abrogati%20%28in%20
 
 Considerata la necessita' di emanare norme per adeguare ai regolamenti del personale dell'Amministrazione autonoma dei monopoli di Stato le disposizioni dei predetti provvedimenti legislativi;
 
-Visto il [decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md), ratificato, con modificazioni, con [legge 10 agosto 1950, n. 668, e l'art. 12](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2022%20aprile%201948%20n.%20723%20sullorganico%20del%20personale%20dei%20Monopoli%20di%20Stato.md) del decreto Ministeriale 29 febbraio 1928, registrato alla Corte dei conti l'8 marzo 1928;
+Visto il [decreto legislativo 22 aprile 1948, n. 723](../Decreti%20Legislativi/Variazioni%20allorganico%20del%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.md), ratificato, con modificazioni, con [legge 10 agosto 1950, n. 668, e l'art. 12](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2022%20aprile%201948%20n.%20723%20sullorganico%20del%20personale%20dei%20Monopoli%20di%20Stato.md) del decreto Ministeriale 29 febbraio 1928, registrato alla Corte dei conti l'8 marzo 1928;
 
 Visto il [regio decreto 24 novembre 1932, n. 1627](../Regi%20decreti/Modificazioni%20al%20vigente%20ordinamento%20organico%20per%20il%20personale%20dellAmministrazione%20dei%20monopoli%20di%20Stato.%20032U1627.md);
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md), ratificato, con modificazioni, dalla [legge 4 maggio 1951, n. 538](../Leggi%20di%20ratifica/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2012%20marzo%201948%20n.%20804%20concernente%20norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md);
+Visto il [decreto legislativo 12 marzo 1948, n. 804](../Decreti%20Legislativi/Norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md), ratificato, con modificazioni, dalla [legge 4 maggio 1951, n. 538](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2012%20marzo%201948%20n.%20804%20concernente%20norme%20di%20attuazione%20per%20il%20ripristino%20del%20Corpo%20forestale%20dello%20Stato.md);
 
 Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md);
 

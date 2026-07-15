@@ -101,7 +101,7 @@ La valutazione del comportamento concorre alla determinazione dei crediti scolas
 
 3.
 
-La valutazione dell'insegnamento della religione cattolica resta disciplinata dall'[articolo 309 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), ed e' comunque espressa senza attribuzione di voto numerico, fatte salve eventuali modifiche all'intesa di cui al punto 5 del Protocollo addizionale alla [legge 25 marzo 1985, n. 121](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md).
+La valutazione dell'insegnamento della religione cattolica resta disciplinata dall'[articolo 309 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), ed e' comunque espressa senza attribuzione di voto numerico, fatte salve eventuali modifiche all'intesa di cui al punto 5 del Protocollo addizionale alla [legge 25 marzo 1985, n. 121](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20con%20protocollo%20addizionale%20firmato%20a%20Roma%20il%2018%20febbraio%201984%20che%20apporta%20modificazioni%20al%20Concordato%20lateranense%20dell11%20febbraio%201929%20tra%20la%20Repubblica_9de9b54bd290.md).
 
 4.
 

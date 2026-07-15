@@ -177,7 +177,7 @@ Qualora i componenti del Consiglio superiore non rivestano la qualifica di dipen
 
 11.
 
-COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md).
+COMMA ABROGATO DAL [D.P.R. 14 MAGGIO 2007, N. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md).
 
 12.
 
@@ -187,13 +187,13 @@ Le dimissioni dei singoli membri del Consiglio superiore non comportano la decad
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 14 maggio 2007, n. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md) ha disposto (con l'art. 5, comma 2) che "A decorrere dal 1° luglio 2006, l'importo della indennita' fissa spettante al Presidente ed ai componenti del Consiglio superiore delle comunicazioni ai sensi dell'articolo 2, comma 9, del citato [decreto del Presidente della Repubblica n. 243 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005;243), e' ridotta, rispettivamente, del 15 per cento e del 25 per cento."
+Il [D.P.R. 14 maggio 2007, n. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md) ha disposto (con l'art. 5, comma 2) che "A decorrere dal 1° luglio 2006, l'importo della indennita' fissa spettante al Presidente ed ai componenti del Consiglio superiore delle comunicazioni ai sensi dell'articolo 2, comma 9, del citato [decreto del Presidente della Repubblica n. 243 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005;243), e' ridotta, rispettivamente, del 15 per cento e del 25 per cento."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare l'[art. 1 del D.P.R. 14 maggio 2007, n. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
+Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare l'[art. 1 del D.P.R. 14 maggio 2007, n. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
 
 ## Art. 3. — Ordinamento
 
@@ -317,7 +317,7 @@ Dalla data di entrata in vigore del presente regolamento i componenti del Consig
 
 AGGIORNAMENTO (3)
 
-Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare il [D.P.R. 14 maggio 2007, n. 72](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
+Il D.P.C.M. 25 maggio 2011 (in G.U. 14/10/2011, n. 240), nel modificare il [D.P.R. 14 maggio 2007, n. 72](../Regolamenti%20di%20delegificazione/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20delle%20comunicazioni%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20convertito%20con%20modificazioni%20da_73ed4d9428d6.md), ha conseguentemente disposto (con l'art. 1, comma 1) che gli organismi di cui al presente articolo sono prorogati per un biennio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

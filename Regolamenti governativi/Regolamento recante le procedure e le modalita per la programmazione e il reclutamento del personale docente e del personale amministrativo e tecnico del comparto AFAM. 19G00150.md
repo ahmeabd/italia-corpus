@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
 
 ## Art. 5.
 
@@ -61,7 +61,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
 
 ## Art. 6.
 
@@ -72,7 +72,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
 
 ## Art. 7.
 
@@ -83,7 +83,7 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
 
 ## Art. 8.
 
@@ -94,4 +94,4 @@ Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%
 
 AGGIORNAMENTO (10)
 
-Il [D.P.R. 24 aprile 2024, n. 83](../DPR/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.
+Il [D.P.R. 24 aprile 2024, n. 83](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20le%20procedure%20e%20le%20modalita%20per%20la%20programmazione%20e%20il%20reclutamento%20del%20personale%20docente%20e%20del%20personale%20amministrativo%20e%20tecnico%20del%20comparto%20AFAM.%2024G00099.md), ha disposto (con l'art. 18, comma 1, alinea)) che l'abrogazione del presente provvedimento decorre dall'anno accademico 2025/2026.

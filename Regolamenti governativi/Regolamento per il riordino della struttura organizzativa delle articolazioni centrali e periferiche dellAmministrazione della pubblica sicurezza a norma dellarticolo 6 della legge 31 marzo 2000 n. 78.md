@@ -133,7 +133,7 @@ Oltre a quanto previsto dagli articoli 4 e 5 della legge 1 o aprile 1981. n. 121
  ((4. centri interregionali o regionali di polizia scientifica, anche con funzioni di coordinamento territoriale dei centri provinciali di polizia scientifica e delle sezioni di polizia scientifica, istituiti alle dipendenze del dipartimento della pubblica sicurezza;)) 
  5. ((centri per le tecnologie dell'informazione e della comunicazione, centri elettronici ed informatici, centri logistici di raccolta di materiali e mezzi, centri motorizzazione e centri infrastrutture,)), istituiti alle dipendenze del dipartimento della pubblica sicurezza, e ogni altro ufficio, centro o magazzino posto alle dipendenze dell'ufficio o reparto presso cui sono istituiti, per le esigenze logistiche, strumentali e di supporto della Polizia di Stato e per quelle tecniche del Ministero dell'interno;
                         c)
-                            LETTERA SOPPRESSA DAL [D.P.R. 22 GIUGNO 2009, N. 96](../DPR/Regolamento%20recante%20modifiche%20allassetto%20organizzativo%20dellAmministrazione%20della%20pubblica%20sicurezza%20a%20norma%20dellarticolo%201%20comma%20430%20e%20seguenti%20della%20legge%2027%20dicembre%202006%20n.%20296.%2009G0105.md).
+                            LETTERA SOPPRESSA DAL [D.P.R. 22 GIUGNO 2009, N. 96](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20allassetto%20organizzativo%20dellAmministrazione%20della%20pubblica%20sicurezza%20a%20norma%20dellarticolo%201%20comma%20430%20e%20seguenti%20della%20legge%2027%20dicembre%202006%20n.%20296.%2009G0105.md).
 
 2.
 

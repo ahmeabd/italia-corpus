@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 4 agosto 1955, n. 848](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20Convenzione%20per%20la%20salvaguardia%20dei%20diritti%20delluomo%20e%20delle%20liberta%20fondamentali%20firmata%20a%20Roma%20il%204%20novembre%201950%20e%20del%20Protocollo%20addizionale%20alla%20Convenzi_bf6f8824c55a.md), di ratifica della convenzione per la salvaguardia dei diritti dell'uomo e della liberta' fondamentali;
+Vista la [legge 4 agosto 1955, n. 848](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20Convenzione%20per%20la%20salvaguardia%20dei%20diritti%20delluomo%20e%20delle%20liberta%20fondamentali%20firmata%20a%20Roma%20il%204%20novembre%201950%20e%20del%20Protocollo%20addizionale%20alla%20Convenzi_bf6f8824c55a.md), di ratifica della convenzione per la salvaguardia dei diritti dell'uomo e della liberta' fondamentali;
 
 Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
@@ -22,11 +22,11 @@ Visto il decreto ministeriale 16 luglio 1975, contenente il regolamento di attua
 
 Visto il [decreto del Presidente della Repubblica 27 luglio 1981, n. 740](../DPR/Esecuzione%20degli%20atti%20finali%20della%20Conferenza%20amministrativa%20mondiale%20delle%20radiocomunicazioni%20CAMR%20adottati%20a%20Ginevra%20il%206%20dicembre%201979.md), che ha reso esecutivo il regolamento delle radiocomunicazioni;
 
-Vista la [legge 4 giugno 1982, n. 375](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellaccordo%20europeo%20per%20la%20repressione%20delle%20emissioni%20di%20radiodiffusione%20effettuate%20da%20stazioni%20fuori%20dai%20territori%20nazionali%20adottato%20a%20Strasburgo%20il%2022%20gennaio%201965.md), di ratifica dell'accordo per la repressione delle emissioni di radiodiffusione effettuate da stazioni fuori dai territori nazionali, adottato a Strasburgo il 22 gennaio 1965;
+Vista la [legge 4 giugno 1982, n. 375](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellaccordo%20europeo%20per%20la%20repressione%20delle%20emissioni%20di%20radiodiffusione%20effettuate%20da%20stazioni%20fuori%20dai%20territori%20nazionali%20adottato%20a%20Strasburgo%20il%2022%20gennaio%201965.md), di ratifica dell'accordo per la repressione delle emissioni di radiodiffusione effettuate da stazioni fuori dai territori nazionali, adottato a Strasburgo il 22 gennaio 1965;
 
 Vista la [legge 4 febbraio 1985, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%201984%20n.%20807%20recante%20disposizioni%20urgenti%20in%20materia%20di%20trasmissioni%20radiotelevisive.md);
 
-Vista la [legge 9 maggio 1986, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), di ratifica della convenzione internazionale delle telecomunicazioni;
+Vista la [legge 9 maggio 1986, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), di ratifica della convenzione internazionale delle telecomunicazioni;
 
 Vista la sentenza della Corte costituzionale n. 153 del 1987;
 
@@ -249,7 +249,7 @@ Il richiedente deve provvedere ad effettuare i seguenti versamenti a favore del 
 1.
 
 Il titolare dell'autorizzazione, di cui all'art. 1, comma 1, del presente regolamento, e' responsabile delle trasmissioni effettuate.
-Egli risponde dei danni cagionati a terzi, in dipendenza sia della realizzazione che dell'esercizio dell'impianto, come pure in dipendenza delle trasmissioni effettuate. Lo stesso titolare e' responsabile anche agli effetti della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), e della [legge 22 novembre 1973, n. 866](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20relativa%20alla%20protezione%20degli%20artisti%20interpreti%20o%20esecutori%20dei%20produttori%20di%20fonogrammi%20e%20degli%20organismi%20di%20radiodiffusione%20fir_aa88fd49fabd.md).
+Egli risponde dei danni cagionati a terzi, in dipendenza sia della realizzazione che dell'esercizio dell'impianto, come pure in dipendenza delle trasmissioni effettuate. Lo stesso titolare e' responsabile anche agli effetti della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), e della [legge 22 novembre 1973, n. 866](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20relativa%20alla%20protezione%20degli%20artisti%20interpreti%20o%20esecutori%20dei%20produttori%20di%20fonogrammi%20e%20degli%20organismi%20di%20radiodiffusione%20fir_aa88fd49fabd.md).
 
 Nota all'[art. 7:
  - La legge n. 633/1941](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941;633#art_7) detta le norme generali sul diritto d'autore e la [legge n. 866/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973;866) autorizza la ratifica della convenzione internazionale relativa alla protezione degli artisti interpreti o esecutori, dei produttori di fonogrammi e degli organismi di radiodiffusione.
@@ -268,7 +268,7 @@ Nota all'art. 8:
  provvedimento del Garante per la radiodiffusione e l'editoria 26 gennaio 1994 (Gazzetta Ufficiale n. 21 del 27 gennaio 1994);
  deliberazione del Senato della Repubblica 21 luglio 1994 (Gazzetta Ufficiale n. 172 del 25 luglio 1994);
  decreto della Camera dei deputati 26 luglio 1994 (Gazzetta Ufficiale n. 174 del 27 luglio 1994);
- [decreto-legge n. 182/1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;182) (non convertito in legge, sostituito, da ultimo, con il [decreto-legge 18 settembre 1995, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20la%20parita%20di%20accesso%20ai%20mezzi%20di%20informazione%20durante%20le%20campagne%20elettorali%20e%20referendarie_4.md), in corso di conversione in legge).
+ [decreto-legge n. 182/1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995;182) (non convertito in legge, sostituito, da ultimo, con il [decreto-legge 18 settembre 1995, n. 386](../DL%20decaduti/Disposizioni%20urgenti%20per%20la%20parita%20di%20accesso%20ai%20mezzi%20di%20informazione%20durante%20le%20campagne%20elettorali%20e%20referendarie_4.md), in corso di conversione in legge).
 
 ## Art. 9. — D i v i e t i
 
@@ -312,7 +312,7 @@ Allo scopo di accertare l'osservanza degli obblighi da parte del soggetto autori
 
 1.
 
-Ai sensi degli articoli 19 e 20 della convenzione internazionale delle telecomunicazioni, resa esecutiva con [legge 9 maggio 1986, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), e in ogni altro caso nel quale emergano situazioni che avrebbero potuto giustificare il diniego dell'autorizzazione o che, con riferimento agli stessi interessi pubblici, ne rendano anche temporaneamente inopportuno il mantenimento, il Ministero delle poste e delle telecomunicazioni, su richiesta del Ministero degli affari esteri o della difesa o dell'interno, previo avviso ai sensi dell'[art. 7 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_7), procede alla sospensione ed, ove necessario, alla revoca dell'autorizzazione di cui all'art. 1, comma 1, del presente regolamento.
+Ai sensi degli articoli 19 e 20 della convenzione internazionale delle telecomunicazioni, resa esecutiva con [legge 9 maggio 1986, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), e in ogni altro caso nel quale emergano situazioni che avrebbero potuto giustificare il diniego dell'autorizzazione o che, con riferimento agli stessi interessi pubblici, ne rendano anche temporaneamente inopportuno il mantenimento, il Ministero delle poste e delle telecomunicazioni, su richiesta del Ministero degli affari esteri o della difesa o dell'interno, previo avviso ai sensi dell'[art. 7 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_7), procede alla sospensione ed, ove necessario, alla revoca dell'autorizzazione di cui all'art. 1, comma 1, del presente regolamento.
 
 Note all'art. 12:
  - Si riporta il testo degli articoli 19 e 20 della convenzione internazionale delle telecomunicazioni, resa esecutiva con [legge n. 149/1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986;149):

@@ -50,7 +50,7 @@ Sono confermati e continuano ad operare per la durata indicata nell'articolo 9, 
                         f)
                             Comitato rappresentanza degli assistiti di cui all'[articolo 11 del decreto del Presidente della Repubblica 31 luglio 1980, n. 620](../DPR/Disciplina%20dellassistenza%20sanitaria%20al%20personale%20navigante%20marittimo%20e%20dellaviazione%20civile%20art.%2037%20ultimo%20comma%20della%20legge%20n.%20833%20del%201978.md);
                         g)
-                            Commissione tecnica nazionale per la protezione degli animali da allevamento e da macello di cui all'[articolo 4 della legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md);
+                            Commissione tecnica nazionale per la protezione degli animali da allevamento e da macello di cui all'[articolo 4 della legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md);
                         h)
                             Comitato per le pari opportunita' di cui all'[articolo 41, comma 2, del decreto del Presidente della Repubblica 8 maggio 1987, n. 266](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2026%20marzo%201987%20concernente%20il%20comparto%20del%20personale%20dipendente%20dai%20Ministeri.md);
                         i)
@@ -157,7 +157,7 @@ Avvertenza:
  Il comitato elegge tra i suoi componenti due vicepresidenti.
  Il comitato esprime pareri consultivi sui regolamenti e sui decreti relativi all'assistenza sanitaria al personale navigante e formula proposte per il miglioramento della prevenzione e dell'assistenza stessa.
  Il comitato si riunisce almeno ogni semestre ed altresi' ogni qualvolta il Ministro della sanita' lo ritenga opportuno.».
- - L'[art. 4 della legge 14 ottobre 1985, n. 623](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md) (Ratifica ed esecuzione delle convenzioni sulla protezione degli animali negli allevamenti e sulla protezione degli animali da macello, adottate a Strasburgo rispettivamente il 10 marzo 1976 e il 10 maggio 1979) reca:
+ - L'[art. 4 della legge 14 ottobre 1985, n. 623](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20sulla%20protezione%20degli%20animali%20negli%20allevamenti%20e%20sulla%20protezione%20degli%20animali%20da%20macello%20adottate%20a%20Strasburgo%20rispettivamente%20il%2010%20marzo%20197_266dde09f045.md) (Ratifica ed esecuzione delle convenzioni sulla protezione degli animali negli allevamenti e sulla protezione degli animali da macello, adottate a Strasburgo rispettivamente il 10 marzo 1976 e il 10 maggio 1979) reca:
  «Art. 4. - E' istituita con decreto del Ministro della sanita' una commissione tecnica nazionale per la protezione degli animali da allevamento e da macello, con funzioni consultive, presieduta dal direttore generale dei servizi veterinari del Ministero della sanita' o da un funzionario da lui delegato e composta come segue:
  a) tre funzionari del Ministero della sanita' di cui uno in rappresentanza del direttore generale dei servizi per l'igiene pubblica;
  b) tre rappresentanti del Ministero dell'agricoltura e delle foreste;
@@ -480,7 +480,7 @@ Sono abrogati l'[articolo 11 del decreto legislativo 27 gennaio 1992, n. 111](..
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 28 marzo 2013, n. 44](../DPR/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera a)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione unica per la dietetica e la nutrizione di cui al presente articolo.
+Il [D.P.R. 28 marzo 2013, n. 44](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20il%20riordino%20degli%20organi%20collegiali%20ed%20altri%20organismi%20operanti%20presso%20il%20Ministero%20della%20salute%20ai%20sensi%20dellarticolo%202%20comma%204%20della%20legge%204%20novembre%202010%20n.%20183.%2013G00085.md) ha disposto (con l'art. 2, comma 2, lettera a)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione unica per la dietetica e la nutrizione di cui al presente articolo.
 
 ## Art. 8. — Commissione interministeriale di valutazione in materia di biotecnologie
 

@@ -421,7 +421,7 @@ Con provvedimento del presidente, sentita la commissione, e' nominato un funzion
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 19 settembre 2013, n. 127](../DPR/Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20novembre%201998%20n.%20442%20concernente%20le%20norme%20per%20lamministrazione%20e%20la%20contabilita%20della%20commissio_5623dad3c31c.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettera e), non si applicano fino alla scadenza dell'incarico di coordinatore generale in corso alla data di entrata in vigore del presente regolamento".
+Il [D.P.R. 19 settembre 2013, n. 127](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20ed%20integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20novembre%201998%20n.%20442%20concernente%20le%20norme%20per%20lamministrazione%20e%20la%20contabilita%20della%20commissio_5623dad3c31c.md) ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettera e), non si applicano fino alla scadenza dell'incarico di coordinatore generale in corso alla data di entrata in vigore del presente regolamento".
 
 ### Art. 20. — Pagamento delle spese
 
