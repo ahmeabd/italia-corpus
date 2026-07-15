@@ -760,11 +760,11 @@ Societa' in perdita sistematica
 
 1.
 
-All'[articolo 2, comma 36-decies, del decreto-legge 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138#art_2-com36decies), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), le parole: «tre» e «quarto» sono sostituite rispettivamente dalle seguenti: «cinque» e «sesto».
+All'[articolo 2, comma 36-decies, del decreto-legge 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138#art_2-com36decies), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), le parole: «tre» e «quarto» sono sostituite rispettivamente dalle seguenti: «cinque» e «sesto».
 
 2.
 
-All'[articolo 2, comma 36-undecies, del decreto-legge 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138#art_2-com36undecies), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), la parola: «due» e' sostituita dalla seguente:
+All'[articolo 2, comma 36-undecies, del decreto-legge 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138#art_2-com36undecies), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), la parola: «due» e' sostituita dalla seguente:
 «quattro».
 
 3.

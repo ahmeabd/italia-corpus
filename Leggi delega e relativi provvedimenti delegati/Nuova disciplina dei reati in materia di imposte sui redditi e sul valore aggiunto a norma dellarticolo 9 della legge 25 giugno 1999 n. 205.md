@@ -81,13 +81,13 @@ Il fatto si considera commesso avvalendosi di fatture o altri documenti per oper
 
 3.
 
-COMMA ABROGATO DAL [D.L. 13 AGOSTO 2011, N. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), CONVERTITO CON MODIFICAZIONI DALLA [L. 14 SETTEMBRE 2011, N. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md). (4)
+COMMA ABROGATO DAL [D.L. 13 AGOSTO 2011, N. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), CONVERTITO CON MODIFICAZIONI DALLA [L. 14 SETTEMBRE 2011, N. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md). (4)
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ---------------
 
@@ -117,7 +117,7 @@ Ai fini dell'applicazione della disposizione del comma 1, non costituiscono mezz
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ---------------
 
@@ -148,7 +148,7 @@ Degli importi compresi in tale percentuale non si tiene conto nella verifica del
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ---------------
 
@@ -175,7 +175,7 @@ Ai fini della disposizione prevista dai commi 1 e 1-bis non si considera omessa 
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ---------------
 
@@ -223,13 +223,13 @@ Ai fini dell'applicazione della disposizione prevista dal comma 1, l'emissione o
 
 3.
 
-COMMA ABROGATO DAL [D.L. 13 AGOSTO 2011, N. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), CONVERTITO CON MODIFICAZIONI DALLA [L. 14 SETTEMBRE 2011, N. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md). (4)
+COMMA ABROGATO DAL [D.L. 13 AGOSTO 2011, N. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), CONVERTITO CON MODIFICAZIONI DALLA [L. 14 SETTEMBRE 2011, N. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md). (4)
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ---------------
 
@@ -349,7 +349,7 @@ b) l'ammontare dell'imposta evasa sia superiore a tre milioni di euro))
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ### Art. 12-bis. — ((Sequestro e confisca))
 
@@ -407,7 +407,7 @@ d) la situazione di crisi ai sensi dell'articolo 2, comma 1, lettera a), del cod
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ---------------
 
@@ -495,7 +495,7 @@ Il corso della prescrizione per i delitti previsti dal presente decreto e' inter
 
 AGGIORNAMENTO (4)
 
-Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito con modificazioni dalla [L. 14 settembre 2011, n. 148](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), ha disposto (con l'art. 2, comma 36-vicies bis) che "Le norme di cui al comma 36-vicies semel si applicano ai fatti successivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
 ### Art. 18. — Competenza per territorio
 
