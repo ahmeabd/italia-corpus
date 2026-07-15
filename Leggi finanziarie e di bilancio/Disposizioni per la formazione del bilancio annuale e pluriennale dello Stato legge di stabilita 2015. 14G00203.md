@@ -1919,7 +1919,7 @@ Agli oneri di cui al comma 353 si provvede mediante corrispondente riduzione del
 
 355.
 
-L'autorizzazione di spesa di cui all'[articolo 3, comma 1, della legge 14 febbraio 1994, n. 124](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20biodiversita%20con%20annessi%20fatta%20a%20Rio%20de%20Janeiro%20il%205%20giugno%201992.md), a decorrere dall'anno 2015 e' ridotta di 1 milione di euro.
+L'autorizzazione di spesa di cui all'[articolo 3, comma 1, della legge 14 febbraio 1994, n. 124](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sulla%20biodiversita%20con%20annessi%20fatta%20a%20Rio%20de%20Janeiro%20il%205%20giugno%201992.md), a decorrere dall'anno 2015 e' ridotta di 1 milione di euro.
 
 356.
 
@@ -3012,7 +3012,7 @@ Dopo il [comma 12-ter dell'articolo 3 del decreto-legge 12 settembre 2014, n. 13
 
 550.
 
-A decorrere dal 12 novembre 2014, all'[articolo 23-ter, comma 2, del decreto-legge 24 giugno 2014, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;90#art_23ter-com2), convertito, con modificazioni, dalla [legge 11 agosto 2014, n. 114](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202014%20n.%2090%20recante%20misure%20urgenti%20per%20la%20semplificazione%20e%20la%20trasparenza%20amministrativa%20e%20per%20lefficienza%20degli%20uffici%20_e082673dd6db.md), le parole: «dell'Abruzzo» e le parole: «dell'Emilia-Romagna» sono soppresse. Il [decreto-legge 11 novembre 2014, n. 165](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20di%20correzione%20a%20recenti%20norme%20in%20materia%20di%20bonifica%20e%20messa%20in%20sicurezza%20di%20siti%20contaminati%20e%20misure%20finanziarie%20relative%20ad%20enti%20territoriali.%2014G00180.md), e' abrogato.
+A decorrere dal 12 novembre 2014, all'[articolo 23-ter, comma 2, del decreto-legge 24 giugno 2014, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;90#art_23ter-com2), convertito, con modificazioni, dalla [legge 11 agosto 2014, n. 114](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202014%20n.%2090%20recante%20misure%20urgenti%20per%20la%20semplificazione%20e%20la%20trasparenza%20amministrativa%20e%20per%20lefficienza%20degli%20uffici%20_e082673dd6db.md), le parole: «dell'Abruzzo» e le parole: «dell'Emilia-Romagna» sono soppresse. Il [decreto-legge 11 novembre 2014, n. 165](../DL%20decaduti/Disposizioni%20urgenti%20di%20correzione%20a%20recenti%20norme%20in%20materia%20di%20bonifica%20e%20messa%20in%20sicurezza%20di%20siti%20contaminati%20e%20misure%20finanziarie%20relative%20ad%20enti%20territoriali.%2014G00180.md), e' abrogato.
 
 551.
 
@@ -3398,7 +3398,7 @@ I [commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2
 
 618.
 
-Il presidente dell'Autorita' di sistema portuale del Mare Adriatico orientale, previa intesa con il presidente della regione Friuli Venezia Giulia e con il sindaco di Trieste, adotta, d'intesa con le istituzioni competenti, i provvedimenti necessari per spostare il regime giuridico internazionale di punto franco ai sensi dell'allegato VIII del Trattato di pace fra l'Italia e le Potenze alleate ed associate, firmato a Parigi il 10 febbraio 1947, reso esecutivo dal [decreto legislativo del Capo provvisorio dello Stato 28 novembre 1947, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-28;1430), ratificato ai sensi della [legge 25 novembre 1952, n. 3054](../Leggi%20di%20ratifica/Ratifica%20del%20decreto%20legislativo%2028%20novembre%201947%20n.%201430%20concernente%20esecuzione%20del%20Trattato%20di%20pace%20fra%20lItalia%20e%20le%20Potenze%20alleate%20ed%20associate%20firmato%20a%20Parigi%20il%2010%20febbraio%201947.md), dal Porto vecchio di Trieste ad altre zone opportunamente individuate, funzionalmente e logisticamente legate alle attivita' portuali.
+Il presidente dell'Autorita' di sistema portuale del Mare Adriatico orientale, previa intesa con il presidente della regione Friuli Venezia Giulia e con il sindaco di Trieste, adotta, d'intesa con le istituzioni competenti, i provvedimenti necessari per spostare il regime giuridico internazionale di punto franco ai sensi dell'allegato VIII del Trattato di pace fra l'Italia e le Potenze alleate ed associate, firmato a Parigi il 10 febbraio 1947, reso esecutivo dal [decreto legislativo del Capo provvisorio dello Stato 28 novembre 1947, n. 1430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-28;1430), ratificato ai sensi della [legge 25 novembre 1952, n. 3054](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%2028%20novembre%201947%20n.%201430%20concernente%20esecuzione%20del%20Trattato%20di%20pace%20fra%20lItalia%20e%20le%20Potenze%20alleate%20ed%20associate%20firmato%20a%20Parigi%20il%2010%20febbraio%201947.md), dal Porto vecchio di Trieste ad altre zone opportunamente individuate, funzionalmente e logisticamente legate alle attivita' portuali.
 
 619.
 

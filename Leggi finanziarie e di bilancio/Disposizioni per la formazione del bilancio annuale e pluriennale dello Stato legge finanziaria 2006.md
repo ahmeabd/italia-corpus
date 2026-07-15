@@ -2272,7 +2272,7 @@ Il Fondo da ripartire per esigenze di tutela ambientale di cui all'[articolo 1, 
 
 433.
 
-Per l'attuazione delle misure previste dal Protocollo di Kyoto, ratificato ai sensi della [legge 1° giugno 2002, n. 120](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20Kyoto%20alla%20Convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20fatto%20a%20Kyoto%20l11%20dicembre%201997.md), e ricomprese nella delibera CIPE n. 123 del 19 dicembre 2002, pubblicata nella Gazzetta Ufficiale n. 68 del 22 marzo 2003, e' autorizzata la spesa di 100 milioni di euro per l'anno 2006.
+Per l'attuazione delle misure previste dal Protocollo di Kyoto, ratificato ai sensi della [legge 1° giugno 2002, n. 120](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20Kyoto%20alla%20Convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20fatto%20a%20Kyoto%20l11%20dicembre%201997.md), e ricomprese nella delibera CIPE n. 123 del 19 dicembre 2002, pubblicata nella Gazzetta Ufficiale n. 68 del 22 marzo 2003, e' autorizzata la spesa di 100 milioni di euro per l'anno 2006.
 
 434.
 

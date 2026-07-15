@@ -657,7 +657,7 @@ La disposizione contenuta nel terzo periodo del [comma 8 dell'articolo 36 del de
 
 82.
 
-Sono fatti salvi gli effetti prodotti dall'applicazione delle norme, oggetto di mancata conversione, di cui all'[articolo 1 del decreto-legge 3 agosto 2007, n. 118](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20ammortamento%20di%20immobili%20strumentali.md).
+Sono fatti salvi gli effetti prodotti dall'applicazione delle norme, oggetto di mancata conversione, di cui all'[articolo 1 del decreto-legge 3 agosto 2007, n. 118](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20ammortamento%20di%20immobili%20strumentali.md).
 
 83.
 
@@ -2775,7 +2775,7 @@ La disposizione di cui al comma 52 si applica anche in relazione alle ripartizio
 
 54.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 29 novembre 2007, n. 223](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20riparto%20di%20risorse%20finanziarie%20tra%20le%20regioni.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del [decreto-legge 29 novembre 2007, n. 223](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20riparto%20di%20risorse%20finanziarie%20tra%20le%20regioni.md).
 
 55.
 
@@ -2831,7 +2831,7 @@ Piena e diretta esecuzione e' data alla decisione n. 2007/436/CE/Euratom del Con
 
 67.
 
-Il contributo all'Accademia delle scienze del Terzo Mondo (TWAS), di cui alla [legge 10 gennaio 2004, n. 17](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20lOrganizzazione%20delle%20Nazioni%20Unite%20per%20leducazione%20la%20scienza%20e%20la%20cultura%20UNESCO%20e%20il%20Governo%20della%20Repubblica%20italiana%20concernente%20lAccademia%20del_e0c8018c576b.md), e' incrementato di 500.000 euro annui a decorrere dall'anno 2008 per sostenere l'attivita' dell'Inter Academy Medical Panel (IAMP).
+Il contributo all'Accademia delle scienze del Terzo Mondo (TWAS), di cui alla [legge 10 gennaio 2004, n. 17](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellAccordo%20tra%20lOrganizzazione%20delle%20Nazioni%20Unite%20per%20leducazione%20la%20scienza%20e%20la%20cultura%20UNESCO%20e%20il%20Governo%20della%20Repubblica%20italiana%20concernente%20lAccademia%20del_e0c8018c576b.md), e' incrementato di 500.000 euro annui a decorrere dall'anno 2008 per sostenere l'attivita' dell'Inter Academy Medical Panel (IAMP).
 
 68.
 
