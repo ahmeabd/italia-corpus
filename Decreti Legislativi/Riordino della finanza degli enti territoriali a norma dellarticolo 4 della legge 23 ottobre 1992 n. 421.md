@@ -800,7 +800,7 @@ Con decreti del Ministro delle finanze, di concerto con i Ministri del tesoro e 
 
 5.
 
-Per l'anno 1993, ai fini della determinazione della base imponibile ai sensi dell'articolo 5, comma 2, si applica un moltiplicatore pari a cento per le unita' immobiliari classificate nei gruppi catastali A, B e C, con esclusione delle categorie A/10 e C/1, pari a cinquanta per quelle classificate nel gruppo D e nella categoria A/10 e pari a trentaquattro per quelle classificate nella categoria C/1; resta fermo quanto disposto dal terzo periodo del [comma 1 dell'articolo 2 del decreto-legge 24 novembre 1992, n. 455](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di%20termini%20per%20la%20definizione%20agevolata%20delle%20situazioni%20e%20pendenze%20tributarie%20per%20la%20sop_74e83c377ef3.md).
+Per l'anno 1993, ai fini della determinazione della base imponibile ai sensi dell'articolo 5, comma 2, si applica un moltiplicatore pari a cento per le unita' immobiliari classificate nei gruppi catastali A, B e C, con esclusione delle categorie A/10 e C/1, pari a cinquanta per quelle classificate nel gruppo D e nella categoria A/10 e pari a trentaquattro per quelle classificate nella categoria C/1; resta fermo quanto disposto dal terzo periodo del [comma 1 dell'articolo 2 del decreto-legge 24 novembre 1992, n. 455](../DL%20decaduti/Disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di%20termini%20per%20la%20definizione%20agevolata%20delle%20situazioni%20e%20pendenze%20tributarie%20per%20la%20sop_74e83c377ef3.md).
 
 6.
 
