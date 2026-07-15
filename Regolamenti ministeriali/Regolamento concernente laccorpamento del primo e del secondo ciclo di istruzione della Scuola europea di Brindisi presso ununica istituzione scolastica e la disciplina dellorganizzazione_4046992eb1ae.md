@@ -12,7 +12,7 @@ IL MINISTRO DELL'ISTRUZIONE
 
 Vista la convenzione recante statuto delle Scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994;
 
-Vista la [legge 6 marzo 1996, n. 151](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) di «Ratifica ed esecuzione della convenzione recante statuto delle Scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994»;
+Vista la [legge 6 marzo 1996, n. 151](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) di «Ratifica ed esecuzione della convenzione recante statuto delle Scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994»;
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri» e, in particolare, l'articolo 17, commi 3 e 4;
 
@@ -66,7 +66,7 @@ Ai fini del presente regolamento si adottano le seguenti definizioni:
                         e)
                             insegnamento della Lingua 1, per indicare l'insegnamento della lingua madre o lingua dominante per tutti gli alunni;
                         f)
-                            Consiglio superiore, Segretario generale, Consigli di ispezione, per indicare i tre organi delle Scuole europee previsti dall'[articolo 7 della legge 6 marzo 1996, n. 151](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) di «Ratifica ed esecuzione della convenzione recante Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», e citati nel testo;
+                            Consiglio superiore, Segretario generale, Consigli di ispezione, per indicare i tre organi delle Scuole europee previsti dall'[articolo 7 della legge 6 marzo 1996, n. 151](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) di «Ratifica ed esecuzione della convenzione recante Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», e citati nel testo;
                         g)
                             Regolamento generale delle scuole europee, per indicare il regolamento generale delle scuole europee, approvato dal Board of Governors delle scuole europee (General Rules of the European Schools - Ref.: 2014-03-D-14-en-11);
                         h)
@@ -82,7 +82,7 @@ N O T E
  
  Note alle premesse: 
  - La convenzione recante statuto delle Scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994, e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 212 del 17 agosto 1994. 
- - La [legge 6 marzo 1996, n. 151](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) «Ratifica ed esecuzione della convenzione recante statuto delle Scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», e' pubblicata nella Gazzetta Ufficiale 23 marzo 1996, n. 70, S.O. 
+ - La [legge 6 marzo 1996, n. 151](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) «Ratifica ed esecuzione della convenzione recante statuto delle Scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», e' pubblicata nella Gazzetta Ufficiale 23 marzo 1996, n. 70, S.O. 
  - Si riportano i [commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4 dell'articolo 17, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri», pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O. 
  «Art. 17 (Regolamenti). - Omissis. 
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
@@ -128,7 +128,7 @@ N O T E
  - Il [decreto del Presidente della Repubblica 8 marzo 1999, n. 275](../Regolamenti%20governativi/Regolamento%20recante%20norme%20in%20materia%20di%20autonomia%20delle%20istituzioni%20scolastiche%20ai%20sensi%20dellart.%2021%20della%20legge%2015%20marzo%201997%20n.%2059.md) «Regolamento recante norme in materia di autonomia delle istituzioni scolastiche, ai sensi dell'[art. 21 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)», e' pubblicato nella Gazzetta Ufficiale 10 agosto 1999, n. 186, S.O. 
  
  Note all'art. 1: 
- - Si riporta il testo dell'[art. 7 della legge 6 marzo 1996, n. 151](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) «Ratifica ed esecuzione della convenzione recante Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», pubblicata nella Gazzetta Ufficiale 23 marzo 1996, n. 70, S.O.: 
+ - Si riporta il testo dell'[art. 7 della legge 6 marzo 1996, n. 151](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) «Ratifica ed esecuzione della convenzione recante Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», pubblicata nella Gazzetta Ufficiale 23 marzo 1996, n. 70, S.O.: 
  «Art. 7 (Organi della Scuola). - Gli organi comuni a tutte le Scuole sono i seguenti: 
  1. il Consiglio superiore; 
  2. il Segretario generale; 
@@ -158,14 +158,14 @@ La Scuola si struttura in un ciclo materno (dell'infanzia) di due anni; in un ci
 
 3.
 
-In conformita' a quanto disposto nell'[articolo 5 della legge 6 marzo 1996, n. 151](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md), gli anni di studio compiuti con buon esito nella Scuola, nonche' i diplomi e i certificati di studio hanno valore nel territorio degli Stati membri dell'Unione europea, alle condizioni e con gli effetti ivi disciplinati.
+In conformita' a quanto disposto nell'[articolo 5 della legge 6 marzo 1996, n. 151](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md), gli anni di studio compiuti con buon esito nella Scuola, nonche' i diplomi e i certificati di studio hanno valore nel territorio degli Stati membri dell'Unione europea, alle condizioni e con gli effetti ivi disciplinati.
 
 4.
 
 Le sezioni della Scuola sono funzionanti presso un'unica istituzione scolastica statale individuata, tramite il Piano di dimensionamento scolastico della Regione Puglia, tra quelle che hanno ottenuto una positiva valutazione da parte del Segretariato generale.
 
 Note all'art. 3: 
- - Si riporta il testo dell'[art. 5 della legge 6 marzo 1996, n. 151](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) «Ratifica ed esecuzione della convenzione recante Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», pubblicata nella Gazzetta Ufficiale 23 marzo 1996, n. 70, S.O.: 
+ - Si riporta il testo dell'[art. 5 della legge 6 marzo 1996, n. 151](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20recante%20Statuto%20delle%20scuole%20europee%20con%20allegati%20fatta%20a%20Lussemburgo%20il%2021%20giugno%201994.md) «Ratifica ed esecuzione della convenzione recante Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», pubblicata nella Gazzetta Ufficiale 23 marzo 1996, n. 70, S.O.: 
  «Art. 5. - 1. Gli anni di studio compiuti con buon esito nella Scuola, nonche' i diplomi e i certificati di studi hanno valore nel territorio degli Stati membri conformemente ad una tabella di equivalenze e alle condizioni stabilite dal Consiglio superiore come previsto all'articolo 11, previo accordo degli organi nazionali competenti. 
  2. Il ciclo completo di studi secondari e' sanzionato dal rilascio della licenza liceale europea, che e' oggetto dell'accordo dell'11 aprile 1984 che modifica l'allegato allo statuto della Scuola europea relativo al regolamento della licenza liceale europea, in seguito denominato «accordo sulla licenza liceale europea». Il Consiglio superiore, con votazione all'unanimita' dei rappresentanti degli Stati membri, adotta le eventuali necessarie modifiche dell'accordo precitato. 
  I titolari della licenza liceale europea conseguite presso la Scuola: 

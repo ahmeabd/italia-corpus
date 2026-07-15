@@ -101,11 +101,11 @@ Possono accedere alle risorse del fondo di cui all'articolo 1 tutti i soggetti c
 
 2.
 
-Ai fini del presente decreto, per bambini si intendono i soggetti di cui all'articolo 1 della Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata e resa esecutiva ai sensi della [legge 27 maggio 1991, n. 176](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md).
+Ai fini del presente decreto, per bambini si intendono i soggetti di cui all'articolo 1 della Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata e resa esecutiva ai sensi della [legge 27 maggio 1991, n. 176](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md).
 
 Note all'art. 2: 
  
- - Si riporta l'[art. 1, della legge 27 maggio 1991, n. 176](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md) (Ratifica ed esecuzione della convenzione sui diritti del fanciullo, fatta a New York il 20 novembre 1989): 
+ - Si riporta l'[art. 1, della legge 27 maggio 1991, n. 176](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md) (Ratifica ed esecuzione della convenzione sui diritti del fanciullo, fatta a New York il 20 novembre 1989): 
  «Art. 1. - Ai sensi della presente Convenzione si intende per fanciullo ogni essere umano avente un'eta' inferiore a diciott'anni, salvo se abbia raggiunto prima la maturita' in virtu' della legislazione applicabile.».
 
 ## Art. 3. — Utilizzo del fondo

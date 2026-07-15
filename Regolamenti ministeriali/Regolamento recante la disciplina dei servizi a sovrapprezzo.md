@@ -14,7 +14,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto il [decreto del Ministro delle poste e delle telecomunicazioni 13 luglio 1995, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.poste.telecomunicazioni:decreto:1995-07-13;385), concernente il regolamento recante norme sulle modalita' di espletamento dei servizi audiotex e videotex;
 
-Vista la [legge 31 gennaio 1996, n. 61](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), recante «Ratifica ed esecuzione degli atti finali della conferenza addizionale dei plenipotenziari relativi alla costituzione e convenzione dell'Unione Internazionale delle Telecomunicazioni (UIT) con protocollo facoltativo, risoluzioni e raccomandazioni, adottati a Ginevra il 22 dicembre 1992», e in particolare gli articoli 34, comma 2, e 35;
+Vista la [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), recante «Ratifica ed esecuzione degli atti finali della conferenza addizionale dei plenipotenziari relativi alla costituzione e convenzione dell'Unione Internazionale delle Telecomunicazioni (UIT) con protocollo facoltativo, risoluzioni e raccomandazioni, adottati a Ginevra il 22 dicembre 1992», e in particolare gli articoli 34, comma 2, e 35;
 
 Visto il decreto ministeriale 28 febbraio 1996, recante «Disposizioni e criteri generali per l'applicazione del [decreto-legge 26 febbraio 1996, n. 87](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20accesso%20ai%20servizi%20audiotex%20e%20videotex_2.md)»;
 
@@ -109,7 +109,7 @@ Avvertenza:
  «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».
  - Il [decreto del Ministro delle poste e delle telecomunicazioni 13 luglio 1995, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.poste.telecomunicazioni:decreto:1995-07-13;385), abrogato dal presente regolamento e' pubblicato nella Gazzetta Ufficiale 18 settembre 1995, n. 218.
- - Gli articoli 34, comma 2, e 35 della [legge 31 gennaio 1996, n. 61](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 17 febbraio 1996, n. 40, sono i seguenti:
+ - Gli articoli 34, comma 2, e 35 della [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 17 febbraio 1996, n. 40, sono i seguenti:
  «Art. 34 (Interruzione delle telecomunicazioni). - 1. (Omissis).
  2. I membri si riservano inoltre il diritto di interrompere ogni altra telecomunicazione privata che possa sembrare pericolosa per la sicurezza dello Stato o contraria alle sue leggi, all'ordine pubblico o alla moralita' pubblica.».
  «Art. 35 (Sospensione del servizio). - 1. Ciascun membro si riserva il diritto di sospendere il servizio internazionale di telecomunicazione, sia in linea generale, sia solo per alcuni collegamenti o per alcuni tipi di corrispondenze in partenza, in arrivo o in transito, e si incarica di avvisarne immediatamente ciascuno dei membri tramite il segretario generale.».
@@ -715,7 +715,7 @@ Capo VII
 
 1.
 
-Per i servizi internazionali il Ministero delle comunicazioni applica gli articoli 34, comma 2, e 35 della [legge 31 gennaio 1996, n. 61](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), concernente la ratifica della costituzione dell'Unione internazionale delle telecomunicazioni (UIT).
+Per i servizi internazionali il Ministero delle comunicazioni applica gli articoli 34, comma 2, e 35 della [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), concernente la ratifica della costituzione dell'Unione internazionale delle telecomunicazioni (UIT).
 
 2.
 
@@ -730,7 +730,7 @@ Le numerazioni internazionali differenti da quelle individuate per erogare servi
 Ai servizi a sovrapprezzo internazionali si applicano le disposizioni di cui agli articoli 15 e 19.
 
 Nota all'art. 24:
- - Per gli articoli 34, comma 2, e 35 della [legge 31 gennaio 1996, n. 61](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), si vedano note alle premesse.
+ - Per gli articoli 34, comma 2, e 35 della [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md), si vedano note alle premesse.
 
 ### Art. 25. — Protezione dei dati personali e tutela della privacy
 

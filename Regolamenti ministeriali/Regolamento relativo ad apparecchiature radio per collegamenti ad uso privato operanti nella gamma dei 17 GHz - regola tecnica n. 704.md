@@ -28,7 +28,7 @@ Visto il decreto ministeriale 31 gennaio 1983, con il quale e' stato approvato i
 
 Visto il regolamento per il collaudo di materiali e di impianti forniti all'Amministrazione delle poste e delle telecomunicazioni e all'Azienda di Stato per i servizi telefonici, approvato con decreto del Ministro delle poste e delle telecomunicazioni 10 marzo 1984, pubblicato nella Gazzetta Ufficiale n. 20 del 24 gennaio 1985;
 
-Vista la [legge 9 maggio 1986, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), che ha ratificato la convenzione internazionale delle telecomunicazioni adottata a Nairobi il 6 novembre 1982, con allegato il regolamento delle radiocomunicazioni nel quale e' definito lo statuto di servizio secondario;
+Vista la [legge 9 maggio 1986, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md), che ha ratificato la convenzione internazionale delle telecomunicazioni adottata a Nairobi il 6 novembre 1982, con allegato il regolamento delle radiocomunicazioni nel quale e' definito lo statuto di servizio secondario;
 
 Visto il decreto ministeriale 9 maggio 1990, pubblicato nella Gazzetta Ufficiale n. 115 del 19 maggio 1990, con cui sono state approvate modifiche al piano nazionale di ripartizione delle radiofrequenze;
 

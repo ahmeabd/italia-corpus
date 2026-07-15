@@ -18,7 +18,7 @@ Visto il [decreto legislativo 4 marzo 2014, n. 24](../Leggi%20delega%20e%20relat
 
 Visti gli articoli 600 (Riduzione o mantenimento in schiavitu' o in servitu'), 601 (Tratta di persone) e 602 (Acquisto e alienazione di schiavi) del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
 
-Vista la [legge 27 maggio 1991, n. 176](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md), recante «Ratifica ed esecuzione della convenzione sui diritti del fanciullo, fatta a New York il 20 novembre 1989»;
+Vista la [legge 27 maggio 1991, n. 176](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sui%20diritti%20del%20fanciullo%20fatta%20a%20New%20York%20il%2020%20novembre%201989.md), recante «Ratifica ed esecuzione della convenzione sui diritti del fanciullo, fatta a New York il 20 novembre 1989»;
 
 Visto il [decreto legislativo 15 dicembre 2015, n. 212](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-29-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20ottobre%202012%20che%20istituisce%20norme%20minime%20in%20materia%20di%20diritti%20assistenza%20e%20protezione%20delle%20vittime%20di_af1dde3b0999.md), recante «Attuazione della [direttiva 2012/29/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;29), che istituisce norme minime in materia di diritti, assistenza e protezione delle vittime di reato e che sostituisce la decisione quadro 2001/220/GAI.»;
 

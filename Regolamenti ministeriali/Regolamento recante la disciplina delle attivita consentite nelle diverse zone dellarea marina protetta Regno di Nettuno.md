@@ -121,7 +121,7 @@ Avvertenza:
  d) conoscenza e monitoraggio dello stato della biodiversita', terrestre e marina, con la definizione di linee-guida di indirizzo e la predisposizione del piano nazionale per la biodiversita', nonche' istruttorie relative alla istituzione dei parchi nazionali e delle riserve naturali dello Stato;
  e) adempimenti relativi all'immissione deliberata nell'ambiente degli organismi geneticamente modificati;
  f) iniziative volte alla salvaguardia delle specie di flora e fauna terrestri e marine;
- g) attuazione e gestione della Convenzione sul commercio internazionale di specie di fauna e di flora selvatiche in pericolo di estinzione (CITES), firmata a Washington il 3 marzo 1973 e ratificata con [legge 19 dicembre 1975, n. 874](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20commercio%20internazionale%20delle%20specie%20animali%20e%20vegetali%20in%20via%20di%20estinzione%20firmata%20a%20Washington%20il%203%20marzo%201973.md), e dei relativi regolamenti comunitari;
+ g) attuazione e gestione della Convenzione sul commercio internazionale di specie di fauna e di flora selvatiche in pericolo di estinzione (CITES), firmata a Washington il 3 marzo 1973 e ratificata con [legge 19 dicembre 1975, n. 874](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20commercio%20internazionale%20delle%20specie%20animali%20e%20vegetali%20in%20via%20di%20estinzione%20firmata%20a%20Washington%20il%203%20marzo%201973.md), e dei relativi regolamenti comunitari;
  h) monitoraggio dello stato dell'ambiente marino;
  i) promozione della sicurezza in mare con riferimento al rischio di incidenti marini;
  l) pianificazione e coordinamento degli interventi in caso di inquinamento marino;

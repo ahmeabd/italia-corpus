@@ -220,7 +220,7 @@ Entro 60 giorni dall'entrata in vigore del presente regolamento le amministrazio
 
 4.
 
-L'avvio di negoziati con amministrazioni pubbliche di Stati esteri o con organizzazioni ed enti internazionali e la successiva stipula di intese tecniche per disciplinare il distacco sono subordinati al nulla osta della Presidenza e del Ministero. Rimangono ferme le procedure vigenti per la concessione dei pieni poteri alla firma degli accordi internazionali ai sensi della [legge 12 febbraio 1974, n. 112](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md), laddove necessari.
+L'avvio di negoziati con amministrazioni pubbliche di Stati esteri o con organizzazioni ed enti internazionali e la successiva stipula di intese tecniche per disciplinare il distacco sono subordinati al nulla osta della Presidenza e del Ministero. Rimangono ferme le procedure vigenti per la concessione dei pieni poteri alla firma degli accordi internazionali ai sensi della [legge 12 febbraio 1974, n. 112](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md), laddove necessari.
 
 5.
 
@@ -235,7 +235,7 @@ Le amministrazioni di appartenenza comunicano alla Presidenza e al Ministero l'i
 Per ciascuna amministrazione un unico ufficio provvede agli adempimenti di cui al presente articolo, dandone comunicazione al Ministero e alla Presidenza del Consiglio dei ministri.
 
 Note all'[art. 6: 
- La legge 12 febbraio 1974, n. 112](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md) (Ratifica ed esecuzione della convenzione sul diritto dei trattati, con annesso, adottata a Vienna il 23 maggio 1969) e' stata pubblicata nella Gazzetta Ufficiale dell'30 aprile 1974, n. 111.
+ La legge 12 febbraio 1974, n. 112](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20sul%20diritto%20dei%20trattati%20con%20annesso%20adottata%20a%20Vienna%20il%2023%20maggio%201969.md) (Ratifica ed esecuzione della convenzione sul diritto dei trattati, con annesso, adottata a Vienna il 23 maggio 1969) e' stata pubblicata nella Gazzetta Ufficiale dell'30 aprile 1974, n. 111.
 
 ### Art. 7. — Svolgimento del periodo di distacco presso Stati esteri 
  o organizzazioni ed enti internazionali

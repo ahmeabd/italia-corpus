@@ -24,7 +24,7 @@ Vista la [legge 22 maggio 1980, n. 209](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il decreto ministeriale 31 gennaio 1983, con il quale e' stato approvato il piano nazionale di ripartizione delle radiofrequenze, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983;
 
-Visto il regolamento delle radiocomunicazioni annesso alla convenzione internazionale delle telecomunicazioni adottata a Nairobi il 6 novembre 1982 e ratificata con [legge 9 maggio 1986, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md);
+Visto il regolamento delle radiocomunicazioni annesso alla convenzione internazionale delle telecomunicazioni adottata a Nairobi il 6 novembre 1982 e ratificata con [legge 9 maggio 1986, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md);
 
 (( Vista la [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), concernente "Disciplina del sistema radiotelevisivo pubblico e privato"; ))
 
