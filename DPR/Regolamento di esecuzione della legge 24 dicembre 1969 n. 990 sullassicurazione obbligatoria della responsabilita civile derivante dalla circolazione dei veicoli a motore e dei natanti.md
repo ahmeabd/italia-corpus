@@ -500,7 +500,7 @@ Nel caso in cui la commissione consultiva per le assicurazioni private sia richi
  nell'esercizio)
 
 Ai fini del calcolo della riserva sinistri si considerano come sinistri avvenuti in un determinato esercizio tutti i sinistri verificatisi nell'esercizio stesso qualunque sia la data della denuncia. Per i sinistri non ancora denunciati ((entro il 31 dicembre dell'esercizio)), si procedera' ad una stima del numero e degli importi dei sinistri stessi da imputare a riserva sulla base delle esperienze acquisite negli esercizi precedenti e dei costi medi dei sinistri denunciati nell'esercizio.
- COMMA ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md).
+ COMMA ABROGATO DAL [D.LGS. 17 MARZO 1995, N. 175](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md).
 
 ### Art. 71. — (Azione per conseguire le prestazioni di cui all'art. 37 della legge)
 

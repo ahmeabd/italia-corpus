@@ -54,7 +54,7 @@ Le procedure previste dal presente regolamento per il rilascio dell'autorizzazio
 
 3.
 
-Fatto comunque salvo quanto disposto dall'[articolo 22, comma 11, del decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), resta fermo che:
+Fatto comunque salvo quanto disposto dall'[articolo 22, comma 11, del decreto legislativo 5 febbraio 1997, n. 22](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), resta fermo che:
                         a)
                             non sono soggetti all'autorizzazione di cui al comma 1, lettera c), l'installazione e l'esercizio di gruppi elettrogeni funzionanti di continuo con potenza nominale non superiore a 3 MW se alimentati a metano o GPL e potenza termica non superiore a 1 MW se alimentati a benzina o gasolio, nonche' di gruppi elettrogeni per la produzione di energia elettrica che utilizzano fonti rinnovabili e che non comportano emissioni in atmosfera;
                         b)

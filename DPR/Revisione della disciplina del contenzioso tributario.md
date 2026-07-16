@@ -20,7 +20,7 @@ CAPO I
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ---------------
@@ -331,7 +331,7 @@ CAPO III
 
 ### Art. 15.
 
-ARTICOLO ABROGATO DAL [D.LGS. 31 DICEMBRE 1992, N. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) (9)(10)((11))
+ARTICOLO ABROGATO DAL [D.LGS. 31 DICEMBRE 1992, N. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) (9)(10)((11))
 
 ---------------
 
@@ -344,7 +344,7 @@ Il [D.Lgs. 31 dicembre 1992, n.545](../Decreti%20Legislativi/Ordinamento%20degli
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ---------------
@@ -363,7 +363,7 @@ tributaria centrale fino alla cessazione del suo funzionamento."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 17.
@@ -374,7 +374,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 18.
@@ -385,7 +385,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 19.
@@ -396,7 +396,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 19-bis.
@@ -407,7 +407,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 20.
@@ -418,7 +418,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 20-bis. — (Conciliazione).
@@ -441,7 +441,7 @@ Nell'ipotesi in cui la proposta non venga considerata ammissibile, il presidente
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ## PROCEDIMENTO DI APPELLO
@@ -456,7 +456,7 @@ Sezione II
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 23.
@@ -467,7 +467,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 24.
@@ -478,7 +478,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ## PROCEDIMENTO DINANZI ALLA COMMISSIONE TRIBUTARIA CENTRALE
@@ -493,7 +493,7 @@ Sezione III
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 26.
@@ -505,7 +505,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 27.
@@ -517,7 +517,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 28.
@@ -529,7 +529,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 29.
@@ -541,7 +541,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ## DISPOSIZIONI GENERALI E COMUNI AL PROCEDIMENTO DAVANTI ALLE COMMISSIONI TRIBUTARIE
@@ -557,7 +557,7 @@ Sezione IV
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 31.
@@ -569,7 +569,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 32.
@@ -581,7 +581,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 32-bis.
@@ -593,7 +593,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 33.
@@ -605,7 +605,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 34.
@@ -617,7 +617,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 35.
@@ -629,7 +629,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 36.
@@ -641,7 +641,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 37.
@@ -653,7 +653,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 38.
@@ -665,7 +665,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 39.
@@ -677,7 +677,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 39-bis.
@@ -689,7 +689,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ## RICORSO ALLA CORTE D'APPELLO E REVOCAZIONE
@@ -705,7 +705,7 @@ Sezione V
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 41.
@@ -717,7 +717,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
@@ -733,7 +733,7 @@ CAPO IV
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 43.
@@ -745,7 +745,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 44.
@@ -757,7 +757,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 45.
@@ -769,7 +769,7 @@ vigore."
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
+Il [D.Lgs. 31 dicembre 1992, n. 546](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) ha disposto (con l'art. 80, comma 2) che "Le disposizioni del presente decreto hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali salvo quanto stabilito dagli articoli 74 e 75 che, per le controversie pendenti alla data di entrata in vigore del presente decreto, si applicano a partire dalla predetta data di entrata in 
 vigore."
 
 ### Art. 46. — Norme abrogate
