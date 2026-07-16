@@ -737,11 +737,11 @@ Note all'art. 16:
 
 1.
 
-Le misure di accoglienza previste dal presente decreto tengono conto della specifica situazione delle persone vulnerabili, quali i minori, i minori non accompagnati, i disabili, gli anziani, le donne ((, con priorita' per quelle)) in stato di gravidanza, i genitori singoli con figli minori, le vittime della tratta di esseri umani, le persone affette da gravi malattie o da disturbi mentali, le persone per le quali e' stato accertato che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale o legata all'orientamento sessuale o all'identita' di genere, le vittime di mutilazioni genitali.
+Le misure di accoglienza previste dal presente decreto tengono conto della specifica situazione delle persone vulnerabili, quali i minori, i minori non accompagnati, i disabili, gli anziani, le donne, con priorita' per quelle in stato di gravidanza, i genitori singoli con figli minori, le vittime della tratta di esseri umani, le persone affette da gravi malattie o da disturbi mentali, le persone per le quali e' stato accertato che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale o legata all'orientamento sessuale o all'identita' di genere, le vittime di mutilazioni genitali.
 
 2.
 
-Ai richiedenti protezione internazionale identificati come vittime della tratta di esseri umani si applica il programma unico di emersione, assistenza e integrazione sociale di cui all'[articolo 18, comma 3-bis, del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+((Ai richiedenti protezione internazionale per i quali emergono oggettivi indicatori tali da far ritenere che siano vittime di tratta o di riduzione o mantenimento in schiavitu' o servitu' o identificate come tali, si applica il programma unico di emersione, assistenza e integrazione sociale di cui all'articolo 18, comma 3-bis, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al decreto legislativo 25 luglio 1998, n. 286.))
 
 3.
 

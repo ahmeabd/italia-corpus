@@ -616,7 +616,7 @@ Le regioni, ove non ritengano sussistere un prevalente interesse pubblico ad un 
                             b)
                                 a societa' a capitale misto pubblico privato nelle quali il socio privato e' scelto attraverso l'espletamento di gare con procedure ad evidenza pubblica;
                             c)
-                                mediante forme di partenariato ai sensi degli articoli 179 e seguenti del codice di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md). L'affidamento a societa' partecipate deve comunque avvenire nel rispetto delle disposizioni del testo unico di cui al [decreto legislativo 19 agosto 2016, n. 175](Testo%20unico%20in%20materia%20di%20societa%20a%20partecipazione%20pubblica.%2016G00188.md).
+                                mediante forme di partenariato ai sensi degli articoli 179 e seguenti del codice di cui al [decreto legislativo 18 aprile 2016, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici.%2016G00062.md). L'affidamento a societa' partecipate deve comunque avvenire nel rispetto delle disposizioni del testo unico di cui al [decreto legislativo 19 agosto 2016, n. 175](Testo%20unico%20in%20materia%20di%20societa%20a%20partecipazione%20pubblica.%2016G00188.md).
 
 1-ter.
 

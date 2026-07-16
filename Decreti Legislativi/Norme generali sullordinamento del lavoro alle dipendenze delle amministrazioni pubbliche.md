@@ -571,7 +571,7 @@ I dirigenti di uffici dirigenziali generali, comunque denominati, nell'ambito di
                             d)
                                 adottano gli atti e i provvedimenti amministrativi ed esercitano i poteri di spesa e quelli di acquisizione delle entrate rientranti nella competenza dei propri uffici, salvo quelli delegati ai dirigenti;
                             d-bis)
-                                adottano i provvedimenti previsti dall'[articolo 17, comma 2, del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni;
+                                adottano i provvedimenti previsti dall'[articolo 17, comma 2, del decreto legislativo 12 aprile 2006, n. 163](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni;
                             e)
                                 dirigono, coordinano e controllano l'attivita' dei dirigenti e dei responsabili dei procedimenti amministrativi, anche con potere sostitutivo in caso di inerzia, e propongono l'adozione, nei confronti dei dirigenti, delle misure previste dall'articolo 21;
                             f)

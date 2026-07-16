@@ -16,7 +16,7 @@ Vista la [direttiva 2008/105/CE del Parlamento europeo e del Consiglio, del 16 d
 
 Vista la [direttiva 2009/90/CE della Commissione, del 31 luglio 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;90) che stabilisce, conformemente alla [direttiva 2000/60/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;60), specifiche tecniche per l'analisi chimica e il monitoraggio dello stato delle acque;
 
-Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea - Legge comunitaria 2009, ed in particolare l'articolo 1 e 3 e l'allegato B;
+Vista la [legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea - Legge comunitaria 2009, ed in particolare l'articolo 1 e 3 e l'allegato B;
 
 Vista la decisione 2455/01/CE del Parlamento europeo e del Consiglio del 20 novembre 2001, relativa all'istituzione di un elenco di sostanze prioritarie in materia di acque e che modifica la [direttiva 2000/60/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;60);
 
@@ -416,7 +416,7 @@ Avvertenza:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
  - La [direttiva 2008/105/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;105) e' pubblicata nella G.U.U.E. 24 dicembre 2008, n. L 348. 
  - La [direttiva 2009/90/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2009;90) e' pubblicata nella G.U.U.E. 1 agosto 2009, n. L 201. 
- - Il testo degli articoli 1 e 3 e dell'allegato B della [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2009).» e' pubblicata nella Gazzetta Ufficiale 25 giugno 2010, n. 146, S.O., cosi' recitano: 
+ - Il testo degli articoli 1 e 3 e dell'allegato B della [legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. (Legge comunitaria 2009).» e' pubblicata nella Gazzetta Ufficiale 25 giugno 2010, n. 146, S.O., cosi' recitano: 
  «Capo I 
  Disposizioni generali sui procedimenti per l'adempimento degli obblighi comunitari 
  Art. 1. 

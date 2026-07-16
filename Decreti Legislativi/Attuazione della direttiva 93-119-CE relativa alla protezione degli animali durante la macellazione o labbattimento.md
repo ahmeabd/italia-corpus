@@ -16,7 +16,7 @@ Vista la [legge 24 aprile 1998, n. 128](../Atti%20di%20recepimento%20direttive%2
 
 Vista la [direttiva 93/119/CE, del Consiglio, del 22 dicembre 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;119), relativa alla protezione degli animali durante la macellazione o l'abbattimento;
 
-Vista la [legge 2 agosto 1978, n. 439](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20della%20direttiva%20CEE%20n.%2074-577%20relativa%20allo%20stordimento%20degli%20animali%20prima%20della%20macellazione.md), recante norme per l'attuazione della [direttiva n. 74/577/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1974;577), relativa allo stordimento degli animali prima della macellazione;
+Vista la [legge 2 agosto 1978, n. 439](../Atti%20di%20recepimento%20direttive%20UE/Norme%20di%20attuazione%20della%20direttiva%20CEE%20n.%2074-577%20relativa%20allo%20stordimento%20degli%20animali%20prima%20della%20macellazione.md), recante norme per l'attuazione della [direttiva n. 74/577/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1974;577), relativa allo stordimento degli animali prima della macellazione;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 maggio 1998;
 

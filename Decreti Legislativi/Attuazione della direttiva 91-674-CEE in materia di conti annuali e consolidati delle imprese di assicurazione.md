@@ -429,7 +429,7 @@ Nella nota integrativa e' fornito il dettaglio della voce di cui al comma 1 in c
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 3 novembre 2003, n. 307](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
+Il [D.Lgs. 3 novembre 2003, n. 307](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202002-12-CE%20e%202002-13-CE%20concernenti%20il%20margine%20di%20solvibilita%20delle%20imprese%20di%20assicurazione%20rispettivamente%20sulla%20vita%20e%20nei%20rami%20diversi%20dallassicurazione%20sulla%20vita.md) ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
 
 ### Art. 29. — Altre riserve
 

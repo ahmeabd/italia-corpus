@@ -181,7 +181,7 @@ PROVVEDIMENTO ABROGATO DAL [D.LGS. 7 SETTEMBRE 2005, N. 209](../Codici/Codice%20
 AGGIORNAMENTO (12)
 
 Il Provvedimento 13 febbraio 2007, (in G.U. 26/02/2007, n. 47), ha disposto (con l'art. 1, comma 1) che "Le imprese di assicurazione, al fine di tener conto delle variazioni dell'indice europeo dei prezzi al consumo pubblicato da Eurostat, adeguano gli importi relativi alla determinazione della quota di garanzia e del margine di solvibilita' come di seguito indicato: 
- l'importo minimo della quota di garanzia fissato dall'[art. 36, comma 2, del decreto legislativo 17 marzo 1995, n. 174](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-96-CEE%20in%20materia%20di%20assicurazione%20diretta%20sulla%20vita.md) in euro 3.000.000 e' aumentato a euro 3.200.000;".
+ l'importo minimo della quota di garanzia fissato dall'[art. 36, comma 2, del decreto legislativo 17 marzo 1995, n. 174](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-96-CEE%20in%20materia%20di%20assicurazione%20diretta%20sulla%20vita.md) in euro 3.000.000 e' aumentato a euro 3.200.000;".
 
 ### Art. 36-bis.
 

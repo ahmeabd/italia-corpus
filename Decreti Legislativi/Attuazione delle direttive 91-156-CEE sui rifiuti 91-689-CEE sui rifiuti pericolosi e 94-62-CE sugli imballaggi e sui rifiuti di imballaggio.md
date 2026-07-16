@@ -241,7 +241,7 @@ TITOLO IV
 
 AGGIORNAMENTO (24)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 238, comma 1) che "La tariffa di cui all'[articolo 49 del decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), e' soppressa a decorrere dall'entrata in vigore del presente articolo, salvo quanto previsto dal comma 11."
+Il [D.Lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 238, comma 1) che "La tariffa di cui all'[articolo 49 del decreto legislativo 5 febbraio 1997, n. 22](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), e' soppressa a decorrere dall'entrata in vigore del presente articolo, salvo quanto previsto dal comma 11."
 
 ## SISTEMA SANZIONATORIO E DISPOSIZIONI TRANSITORIE E FINALI CAPO I SANZIONI
 

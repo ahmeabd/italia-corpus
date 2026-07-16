@@ -16,7 +16,7 @@ Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/
 
 Vista la legge di delegazione europea 6 agosto 2013, n. 96;
 
-Visti gli [articoli 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) e [2 della legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2009;
+Visti gli [articoli 1](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md) e [2 della legge 4 giugno 2010, n. 96](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2009;
 
 Vista la [direttiva 2012/34/UE del Parlamento europeo e del Consiglio, del 21 novembre 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;34), che istituisce uno spazio ferroviario europeo unico;
 
@@ -130,7 +130,7 @@ Le Commissioni parlamentari e la Conferenza unificata di cui all'[articolo 8 del
 
 8.
 
-Le disposizioni del presente decreto non pregiudicano la [direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;25), sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la [direttiva 2004/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;17), recepita dal [codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
+Le disposizioni del presente decreto non pregiudicano la [direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;25), sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la [direttiva 2004/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;17), recepita dal [codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) di cui al [decreto legislativo 18 aprile 2016, n. 50](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
 
 ### Art. 2. — Principi
 

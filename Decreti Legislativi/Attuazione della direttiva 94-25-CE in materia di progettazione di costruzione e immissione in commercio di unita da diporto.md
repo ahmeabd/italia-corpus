@@ -58,19 +58,19 @@ Capo II
 
 ### Art. 11.
 
-((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Codici/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Atti%20di%20recepimento%20direttive%20UE/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 12.
 
-((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Codici/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Atti%20di%20recepimento%20direttive%20UE/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 13.
 
-((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Codici/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Atti%20di%20recepimento%20direttive%20UE/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ### Art. 14.
 
-((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Codici/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+((IL [D.LGS. 18 LUGLIO 2005, N. 171](../Atti%20di%20recepimento%20direttive%20UE/Codice%20della%20nautica%20da%20diporto%20ed%20attuazione%20della%20direttiva%202003-44-CE%20a%20norma%20dellarticolo%206%20della%20legge%208%20luglio%202003%20n.%20172.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## MODIFICHE ALLA LEGGE 11 FEBBRAIO 1971, N. 50 E SUCCESSIVE MODIFICAZIONI
 
