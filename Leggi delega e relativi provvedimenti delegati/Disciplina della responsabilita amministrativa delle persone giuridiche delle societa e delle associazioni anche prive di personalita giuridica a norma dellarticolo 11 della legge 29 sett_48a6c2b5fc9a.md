@@ -757,15 +757,17 @@ Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo
 
 In relazione alla commissione dei delitti previsti dalla sezione I del capo III del titolo XII del libro II del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
-                                per i delitti di cui agli articoli 600, 601 ((, 602 e 603-bis,)) la sanzione pecuniaria da quattrocento a mille quote;
+                                per i delitti di cui agli articoli 600, 601, 602 e 603-bis, la sanzione pecuniaria da quattrocento a mille quote;
                             b)
                                 per i delitti di cui agli articoli 600-bis, primo comma, 600-ter, primo e secondo comma, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, e 600-quinquies, la sanzione pecuniaria da trecento a ottocento quote;
                             c)
                                 per i delitti di cui agli articoli 600-bis, secondo comma, 600-ter, terzo e quarto comma, e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, nonche' per il delitto di cui all'articolo 609-undecies la sanzione pecuniaria da duecento a settecento quote.
+                            c-bis)
+                                ((per il delitto di cui all'articolo 601.1 la sanzione pecuniaria da cento a seicento quote.))
 
 2.
 
-Nei casi di condanna per uno dei delitti indicati nel comma 1, lettere a) e b), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore ad un anno.
+Nei casi di condanna per uno dei delitti indicati nel comma 1, lettere a) e b), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore ad un anno ((; nei casi di condanna per il delitto indicato nel comma 1, lettera c-bis), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore a sei mesi)).
 
 3.
 
@@ -894,9 +896,9 @@ La [L. 3 agosto 2009, n. 116](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed
 
 In relazione alla commissione dei reati previsti dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), si applicano all'ente le seguenti sanzioni pecuniarie:
                             a)
-                                per la violazione dell'articolo 452-bis, la sanzione pecuniaria da quattrocento a seicento quote;
+                                per la violazione ((degli articoli 452-bis e 452-bis.1,)), la sanzione pecuniaria da quattrocento a seicento quote;
                             b)
-                                per la violazione dell'articolo 452-quater, la sanzione pecuniaria da seicento a novecento quote;
+                                per la violazione dell'articolo 452-quater, la sanzione pecuniaria da seicento a ((milleduecento)) quote;
                             c)
                                 per la violazione dell'articolo 452-quinquies, la sanzione pecuniaria da duecento a cinquecento quote;
                             d)
@@ -908,7 +910,7 @@ In relazione alla commissione dei reati previsti dal [codice penale](../Codici/A
                             e-ter)
                                 per la violazione dell'articolo 452-terdecies, la sanzione pecuniaria da quattrocento a ottocento quote;
                             e-quater)
-                                per la violazione dell'articolo 452-quaterdecies, la sanzione pecuniaria da quattrocento a seicento quote, nel caso previsto dal primo comma, da quattrocentocinquanta a settecentocinquanta quote nel caso previsto dal secondo comma e da cinquecento a mille quote ((nei casi previsti dal terzo comma));
+                                per la violazione dell'articolo 452-quaterdecies, la sanzione pecuniaria da quattrocento a seicento quote, nel caso previsto dal primo comma, da quattrocentocinquanta a settecentocinquanta quote nel caso previsto dal secondo comma e da cinquecento a mille quote nei casi previsti dal terzo comma;
                             f)
                                 per la violazione dell'articolo 727-bis, la sanzione pecuniaria fino a duecentocinquanta quote;
                             g)
@@ -917,6 +919,15 @@ In relazione alla commissione dei reati previsti dal [codice penale](../Codici/A
 1-bis.
 
 Nei casi di condanna per i delitti indicati al comma 1, lettere a), b), d), e) ed e-quater), del presente articolo, si applicano, oltre alle sanzioni pecuniarie ivi previste, le sanzioni interdittive previste dall'articolo 9.
+
+1-ter.
+
+((In relazione alla commissione dei reati previsti dal decreto legislativo attuativo dell'articolo 9 della legge 13 giugno 2025, n. 91, per la violazione degli articoli 4 e 5, si applica all'ente la sanzione pecuniaria da quattrocento a ottocento quote.))
+
+1-quater.
+
+((Per i delitti aggravati ai sensi degli articoli 452-bis, secondo, terzo e quarto comma, 452-bis.1, secondo, terzo e quarto comma, e 452-quater, terzo comma, del codice penale, le sanzioni pecuniarie previste dal comma 1 sono aumentate di un terzo.
+Il medesimo aumento si applica per i delitti aggravati ai sensi dell'articolo 452-sexiesdecies, primo comma, n. 1, del codice penale)).
 
 2.
 
@@ -962,7 +973,7 @@ In relazione alla commissione dei reati previsti dal [decreto legislativo 3 apri
 
 2-bis.
 
-Quando ricorre l'ipotesi di cui all'[articolo 259-ter del decreto legislativo 2 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-02;152#art_259ter), le sanzioni previste dal comma 2, lettere a-bis), a-ter),((b) ed e),)) sono diminuite da un terzo a due terzi.
+Quando ricorre l'ipotesi di cui all'[articolo 259-ter del decreto legislativo 2 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-02;152#art_259ter), le sanzioni previste dal comma 2, lettere a-bis), a-ter), b) ed e), sono diminuite da un terzo a due terzi.
 
 3.
 
@@ -998,7 +1009,7 @@ Le sanzioni previste dal comma 2, lettera b), sono ridotte della meta' nel caso 
 
 7.
 
-Nei casi di condanna per i reati indicati al comma 2, (( lettera a) )), numero 2), e al comma 5, lettere b) e c), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a sei mesi. Nei casi di condanna per i reati indicati dal comma 2, lettere b), b-bis) ed e), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a un anno. Se l'ente o una sua unita' organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui agli [articoli 452-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-sexies](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [452-quaterdecies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), agli [articoli 256](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), [256-bis](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) e [259 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e all'[articolo 8 del decreto legislativo 6 novembre 2007, n. 202](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-35-CE%20relativa%20allinquinamento%20provocato%20dalle%20navi%20e%20conseguenti%20sanzioni.md), si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi ((dell'articolo 16, comma 3, del presente decreto)).
+Nei casi di condanna per i reati indicati al comma 2, lettera a), numero 2), e al comma 5, lettere b) e c), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a sei mesi. Nei casi di condanna per i reati indicati dal comma 2, lettere b), b-bis) ed e), si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a un anno. Se l'ente o una sua unita' organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui agli [articoli 452-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-quater](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [452-sexies](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [452-quaterdecies del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), agli [articoli 256](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), [256-bis](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md) e [259 del decreto legislativo 3 aprile 2006, n. 152](../Decreti%20Legislativi/Norme%20in%20materia%20ambientale.md), e all'[articolo 8 del decreto legislativo 6 novembre 2007, n. 202](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202005-35-CE%20relativa%20allinquinamento%20provocato%20dalle%20navi%20e%20conseguenti%20sanzioni.md), si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'articolo 16, comma 3, del presente decreto.
 
 8.
 

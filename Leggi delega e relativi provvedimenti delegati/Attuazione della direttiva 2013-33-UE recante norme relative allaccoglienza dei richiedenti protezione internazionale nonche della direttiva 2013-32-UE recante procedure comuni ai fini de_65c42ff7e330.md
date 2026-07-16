@@ -568,7 +568,7 @@ La verifica della sussistenza di esigenze particolari e di specifiche situazioni
 
 5.
 
-COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
+COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
 
 ### Art. 10.
 
@@ -648,7 +648,7 @@ Il richiedente che ha formalizzato la domanda e che risulta privo di mezzi suffi
 
 2.
 
-COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
+COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
 
 3.
 
@@ -737,11 +737,11 @@ Note all'art. 16:
 
 1.
 
-Le misure di accoglienza previste dal presente decreto tengono conto della specifica situazione delle persone vulnerabili, quali i minori, i minori non accompagnati, i disabili, gli anziani, le donne ((, con priorita' per quelle)) in stato di gravidanza, i genitori singoli con figli minori, le vittime della tratta di esseri umani, le persone affette da gravi malattie o da disturbi mentali, le persone per le quali e' stato accertato che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale o legata all'orientamento sessuale o all'identita' di genere, le vittime di mutilazioni genitali.
+Le misure di accoglienza previste dal presente decreto tengono conto della specifica situazione delle persone vulnerabili, quali i minori, i minori non accompagnati, i disabili, gli anziani, le donne, con priorita' per quelle in stato di gravidanza, i genitori singoli con figli minori, le vittime della tratta di esseri umani, le persone affette da gravi malattie o da disturbi mentali, le persone per le quali e' stato accertato che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale o legata all'orientamento sessuale o all'identita' di genere, le vittime di mutilazioni genitali.
 
 2.
 
-Ai richiedenti protezione internazionale identificati come vittime della tratta di esseri umani si applica il programma unico di emersione, assistenza e integrazione sociale di cui all'[articolo 18, comma 3-bis, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
+((Ai richiedenti protezione internazionale per i quali emergono oggettivi indicatori tali da far ritenere che siano vittime di tratta o di riduzione o mantenimento in schiavitu' o servitu' o identificate come tali, si applica il programma unico di emersione, assistenza e integrazione sociale di cui all'articolo 18, comma 3-bis, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al decreto legislativo 25 luglio 1998, n. 286.))
 
 3.
 
@@ -749,7 +749,7 @@ Nei centri di cui all'articolo 9 sono previsti servizi speciali di accoglienza d
 
 4.
 
-COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
+COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
 
 5.
 
@@ -994,7 +994,7 @@ Note all'art. 21:
 
 3.
 
-COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../Leggi%20contenenti%20deleghe/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
+COMMA ABROGATO DAL [D.L. 4 OTTOBRE 2018, N. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-10-04;113), CONVERTITO CON MODIFICAZIONI DALLA [L. 1 DICEMBRE 2018, N. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20ottobre%202018%20n.%20113%20recante%20disposizioni%20urgenti%20in%20materia%20di%20protezione%20internazionale%20e%20immigrazione%20sicurezza%20pubblica%20nonch_a2add7a24714.md).
 
 ### Art. 22-bis. — (Partecipazione dei richiedenti protezione internazionale ad attivita' di utilita' sociale)
 
