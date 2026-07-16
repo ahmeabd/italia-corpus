@@ -10,13 +10,13 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto 11 novembre 1923, n. 2395](../Regi%20decreti/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
+Visto il [regio decreto 11 novembre 1923, n. 2395](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e successive modificazioni;
 
 Visto il [regio decreto 30 dicembre 1923, n. 2960](../Regi%20decreti/Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sillo stato giuridico degli impiegati civili dello Stato, e successive modificazioni;
 
 Visto il [regio decreto-legge 27 ottobre 1937, n. 1931](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20ruoli%20di%20gruppo%20A%20del%20soppresso%20Commissariato%20generale%20dellemigrazione.%20037U1931.md), relativo al riordinamento dei ruoli di gruppo A. del soppresso Commissariato generale dell'emigrazione;
 
-Visto il [regio decreto 20 novembre 1930, n. 1482](../Regi%20decreti/Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md), contenente norme per gli esami di promozione nei ruoli del personale civile di gruppo A;
+Visto il [regio decreto 20 novembre 1930, n. 1482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20gli%20esami%20di%20promozione%20nei%20ruoli%20dei%20personali%20civili%20di%20gruppo%20A.%20030U1482.md), contenente norme per gli esami di promozione nei ruoli del personale civile di gruppo A;
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 

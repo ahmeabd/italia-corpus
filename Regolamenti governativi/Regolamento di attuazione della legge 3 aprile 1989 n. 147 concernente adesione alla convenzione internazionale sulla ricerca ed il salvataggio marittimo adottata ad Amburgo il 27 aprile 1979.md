@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 18](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [69](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [70 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visti gli [articoli 18](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), [69](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [70 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Vista la [legge 3 aprile 1989, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-03;147), di adesione alla convenzione internazionale sulla ricerca ed il salvataggio marittimo, adottata ad Amburgo il 27 aprile 1979, e sua esecuzione, il cui articolo I impegna le parti ad "adottare ogni provvedimento legislativo od altro provvedimento appropriato necessari a dare pieno effetto alla convenzione e al suo allegato, che e' parte integrante della convenzione";
 
@@ -78,7 +78,7 @@ Al fine dell'organizzazione prevista dal capitolo 2 e in conformita' della termi
 
 1.
 
-Fermo restando quanto previsto dagli [articoli 69](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [70 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), nonche' dall'art. 727 dello stesso codice per cio' che concerne il soccorso ad aeromobili in pericolo, gli organismi indicati nell'art. 3 svolgono i compiti di cui al presente articolo.
+Fermo restando quanto previsto dagli [articoli 69](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [70 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), nonche' dall'art. 727 dello stesso codice per cio' che concerne il soccorso ad aeromobili in pericolo, gli organismi indicati nell'art. 3 svolgono i compiti di cui al presente articolo.
 
 2.
 

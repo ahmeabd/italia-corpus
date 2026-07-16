@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Vista la [legge 9 aprile 1931, n. 406](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alle%20vigenti%20disposizioni%20sulle%20concessioni%20ferroviarie%20di%20viaggio%20ai%20giornalisti.%20031U0406.md);
 
-Visto il [regio decreto 11 maggio 1931, n. 1523](../Regi%20decreti/Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md);
+Visto il [regio decreto 11 maggio 1931, n. 1523](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md);
 
 Visto il [decreto luogotenenziale 10 maggio 1945, n. 279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;279);
 
@@ -98,7 +98,7 @@ Per quanto non espressamente previsto dal presente regolamento valgono le norme 
 
 ## Art. 11.
 
-Sono abrogati il [regio decreto 11 maggio 1931, n. 1523](../Regi%20decreti/Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md) e il [decreto luogotenenziale 10 maggio 1945, n. 279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;279).
+Sono abrogati il [regio decreto 11 maggio 1931, n. 1523](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20sulla%20concessione%20dei%20biglietti%20di%20viaggio%20a%20prezzo%20ridotto%20per%20i%20giornalisti.%20031U1523.md) e il [decreto luogotenenziale 10 maggio 1945, n. 279](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-10;279).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

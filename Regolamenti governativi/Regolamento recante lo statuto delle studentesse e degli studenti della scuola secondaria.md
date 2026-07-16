@@ -68,7 +68,7 @@ Avvertenza:
  "Art. 87. - Il Presidente della Repubblica promulga le leggi ed emana i decreti aventi valore di legge e i regolamenti". 
  - Il testo dell'[art. 328 del decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) (Approvazione del testo unico delle disposizioni legislative vigenti in materia di istruzione, relative alle scuole di ogni ordine e grado), e' il seguente: 
  "Art. 328 (Sanzioni disciplinari). - 1. Le norme disciplinari relative agli alunni delle scuole medie e delle scuole e istituti di istruzione secondaria superiore, ivi compresi gli alunni dei licei artistici e degli istituti d'arte, sono stabilite con regolamento, salvo quanto disposto dai commi seguenti. 
- 2. La sanzione disciplinare della sospensione fino a quindici giorni prevista dall'art. 19, lettera d), del vigente regolamento approvato con [regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), rientra nella competenza del consiglio di classe. 
+ 2. La sanzione disciplinare della sospensione fino a quindici giorni prevista dall'art. 19, lettera d), del vigente regolamento approvato con [regio decreto 4 maggio 1925, n. 653](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md), rientra nella competenza del consiglio di classe. 
  3. Le sanzioni disciplinari previste dall'art.19, lettere e), f), g), h), i), del regolamento richiamato nel comma 2 rientrano nella competenza della giunta esecutiva del consiglio di istituto. Le deliberazioni sono adottate su proposta del rispettivo consiglio di classe. 
  4. Contro le decisioni dei consigli di classe e della giunta esecutiva e' ammesso ricorso, entro trenta giorni dalla ricevuta comunicazione, al provveditore agli studi, che decide in via definitiva, sentita la sezione del consiglio scolastico provinciale avente competenza per il grado di scuola a cui appartiene l'alunno. 
  5. Contro le decisioni in materia disciplinare adottate dal preside ai sensi dell'art. 19, lettera c), del regolamento richiamato nel comma 2 e' ammesso ricorso entro trenta giorni al provveditore agli studi, che decide in via definitiva. 
@@ -428,7 +428,7 @@ Del presente regolamento e dei documenti fondamentali di ogni singola istituzion
 
 3.
 
-E' abrogato il capo III del titolo I del [regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
+E' abrogato il capo III del titolo I del [regio decreto 4 maggio 1925, n. 653](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
 
 3-bis.
 

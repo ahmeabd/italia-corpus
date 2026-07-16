@@ -938,18 +938,18 @@ Al libro nono del [Testo unico delle disposizioni regolamentari in materia di or
                             all'articolo 1120, il comma l e' sostituito dal seguente: «1.
 Ai sensi dell'articolo 2193 del codice e nelle more della pubblicazione del decreto ministeriale ivi previsto, si intendono destinate alla difesa militare le aree portuali gia' in consegna al Ministero della difesa alla data di entrata in vigore del codice, incluse nell'ambito dei seguenti porti: 
  a) Ancona ([r.d. 30 luglio 1888, n. 5629](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%20prima%20e%20seconda%20categoria%20dei%20porti%20marittimi%20indicati%20negli%20annessi%20elenchi%20colla%20designazione%20degli%20Enti%20interessati%20nelle%20spese.%20088U5629.md)); 
- b) Brindisi ([r.d. 18 aprile 1915, n. 662](../Regi%20decreti/Col%20quale%20tutto%20il%20porto%20di%20Brindisi%20viene%20inscritto%20nella%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato%20ferma%20restando%20la%20sua%20inscrizione%20nella%20prima%20classe%20della%20second_7fe4839ddc1f.md)); 
+ b) Brindisi ([r.d. 18 aprile 1915, n. 662](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20tutto%20il%20porto%20di%20Brindisi%20viene%20inscritto%20nella%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato%20ferma%20restando%20la%20sua%20inscrizione%20nella%20prima%20classe%20della%20second_7fe4839ddc1f.md)); 
  c) Carloforte ([r.d. n. 5629 del 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888;5629)); 
  d) Gaeta ([r.d. 7 agosto 1887, n. 5053](../Regi%20decreti/Che%20approva%20la%20classificazione%20nella%201ª%20e%202ª%20categoria%20e%20nelle%20corrispondenti%20classi%20dei%20cinquanta%20porti%20indicati%20negli%20annessi%20elenchi.%20087U5053.md)); 
  e) La Spezia ([r.d. n. 5629 del 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888;5629)); 
  f) Livorno ([r.d. n. 5053 del 1887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887;5053)); 
  g) Napoli ([r.d. n. 5629 del 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888;5629)); 
- h) Olbia ([r.d. 25 giugno 1899, n. 310](../Regi%20decreti/Col%20quale%20viene%20approvato%20il%20passaggio%20alla%201ª%20categoria%20del%20porto%20di%20Terranova%20Pausania%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato.%20099U0310.md)); 
+ h) Olbia ([r.d. 25 giugno 1899, n. 310](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20il%20passaggio%20alla%201ª%20categoria%20del%20porto%20di%20Terranova%20Pausania%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato.%20099U0310.md)); 
  i) Oristano ([r.d. n. 5629 del 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888;5629)); 
- l) Otranto ([r.d. 9 maggio 1907, n. 331](../Regi%20decreti/Concernente%20inscrizione%20del%20porto%20di%20Otranto%20nella%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato.%20007U0331.md)); 
+ l) Otranto ([r.d. 9 maggio 1907, n. 331](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concernente%20inscrizione%20del%20porto%20di%20Otranto%20nella%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato.%20007U0331.md)); 
  m) Porto Torres ([L. 12 luglio 1906, n. 430](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-12;430)); 
  n) Ravenna ([r.d. 25 novembre 1919, n. 2632](../Regi%20decreti/Assegnazione%20a%20varie%20categorie%20di%20porto%20canale.%20019U2632.md)); 
- o) S. Benedetto del Tronto ([r.d. 10 gennaio 1907, n. 71](../Regi%20decreti/Che%20inscrive%20in%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato%20il%20porto%20di%20San%20Benedetto%20del%20Tronto.%20007U0071.md)); 
+ o) S. Benedetto del Tronto ([r.d. 10 gennaio 1907, n. 71](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20inscrive%20in%20prima%20categoria%20nei%20riguardi%20della%20difesa%20militare%20dello%20Stato%20il%20porto%20di%20San%20Benedetto%20del%20Tronto.%20007U0071.md)); 
  p) Taranto ([r.d. n. 5629 del 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888;5629)); 
  q) Venezia ([r.d. n. 5629 del 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888;5629)); 
  r) Augusta ([r.d. n. 5629 del 1888](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888;5629)); 
@@ -961,7 +961,7 @@ Ai sensi dell'articolo 2193 del codice e nelle more della pubblicazione del decr
  1) al comma 1, le parole: «capo II del titolo VI del libro IV del» sono soppresse; 
  2) il comma 3, e' sostituito dal seguente: «3. Al personale in congedo a qualsiasi titolo fino al 31 dicembre dell'anno in cui e' stato adottato il decreto del Ministro della difesa di cui al comma 1, continuano ad applicarsi, rispettivamente, le disposizioni: 
  a) del regolamento per le matricole del regio esercito, approvato con decreto del Ministro per la guerra 25 luglio 1941; 
- b) del regolamento per i documenti matricolari e caratteristici del personale militare della Marina militare, approvato con [regio decreto 24 agosto 1941, n. 1236](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md); 
+ b) del regolamento per i documenti matricolari e caratteristici del personale militare della Marina militare, approvato con [regio decreto 24 agosto 1941, n. 1236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md); 
  c) del regolamento per la tenuta della matricola dei militari dell'Aeronautica militare, approvato con decreto del Ministro in data 15 ottobre 1938.».
 
 Note all'art. 8: 
@@ -980,7 +980,7 @@ Note all'art. 8:
  2. (Omissis). 
  3. Al personale in congedo a qualsiasi titolo fino al 31 dicembre dell'anno in cui e' stato adottato il decreto del Ministro della difesa di cui al comma 1, continuano ad applicarsi, rispettivamente, le disposizioni: 
  a) del regolamento per le matricole del regio esercito, approvato con decreto del Ministro per la guerra 25 luglio 1941; 
- b) del regolamento per i documenti matricolari e caratteristici del personale militare della Marina militare, approvato con [regio decreto 24 agosto 1941, n. 1236](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md); 
+ b) del regolamento per i documenti matricolari e caratteristici del personale militare della Marina militare, approvato con [regio decreto 24 agosto 1941, n. 1236](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20i%20documenti%20matricolari%20e%20caratteristici%20del%20personale%20militare%20delta%20Regia%20marina.%20041U1236.md); 
  c) del regolamento per la tenuta della matricola dei militari dell'Aeronautica militare, approvato con decreto del Ministro in data 15 ottobre 1938. 
  4. - 5. (Omissis).».
 

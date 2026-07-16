@@ -16,9 +16,9 @@ Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 20, comma 8, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), allegato 1, numeri 76 - 21;
 
-Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visto il regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visto il regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
@@ -107,11 +107,11 @@ Avvertenza:
  "Allegato 1 (previsto dall'art. 20, comma 8)
  (Omissis).
  21. Procedimento di concessione di beni demaniali marittimi nel caso di piu' domande di concessione:
- [art. 37 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+ [art. 37 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  (Omissis).
  76. Procedimenti di concessione di beni del demanio marittimo utilizzati per finalita' turistiche, ricreative e per la realizzazione e la gestione di attivita' commerciali, ricreative, sportive, turistiche e per quelle relative ai porti:
- [articoli 33](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)-[37 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
- articoli 5-21 del regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+ [articoli 33](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)-[37 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ articoli 5-21 del regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
  [decreto-legge 5 ottobre 1993, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-10-05;400), convertito, con modificazioni, dalla [legge 4 dicembre 1993, n. 494](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20ottobre%201993%20n.%20400%20recante%20disposizioni%20per%20la%20determinazione%20dei%20canoni%20relativi%20a%20concessioni%20demaniali%20marittime.md);
  [legge 28 gennaio 1994, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84);
  [decreto-legge 21 ottobre 1996, n. 535](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-10-21;535), convertito, con modificazioni, dalla [legge 23 dicembre 1996, n. 647](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%201996%20n.%20535%20recante%20disposizioni%20urgenti%20per%20i%20settori%20portuale%20marittimo%20cantieristico%20ed%20armatoriale%20nonche%20intervent_2731948f00b7.md)".
@@ -195,7 +195,7 @@ La domanda, ((redatta su modello approvato dal Ministero dei trasporti e della n
 
 3.
 
-La cartografia di riferimento per la individuazione a fini amministrativi di aree, opere ed altri elementi di interesse sulle zone demaniali marittime e sulla fascia di rispetto di cui all'[articolo 55 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' quella catastale revisionata prodotta in sede di costituzione ed aggiornamento del sistema informativo del demanio marittimo, di cui alla [legge 11 febbraio 1991, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-02-11;44).
+La cartografia di riferimento per la individuazione a fini amministrativi di aree, opere ed altri elementi di interesse sulle zone demaniali marittime e sulla fascia di rispetto di cui all'[articolo 55 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e' quella catastale revisionata prodotta in sede di costituzione ed aggiornamento del sistema informativo del demanio marittimo, di cui alla [legge 11 febbraio 1991, n. 44](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-02-11;44).
 
 4.
 
@@ -325,14 +325,14 @@ Note all'art. 6:
 
 1.
 
-Entro trenta giorni dall'esito favorevole della conferenza di servizi o dell'accordo di programma di cui all'articolo 6, l'autorita' competente rilascia al richiedente la concessione demaniale marittima mediante atto pubblico redatto con le formalita' di cui agli articoli 9 e 19 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), previa determinazione del canone di concessione calcolato secondo le disposizioni di legge vigenti al momento della stipula.
+Entro trenta giorni dall'esito favorevole della conferenza di servizi o dell'accordo di programma di cui all'articolo 6, l'autorita' competente rilascia al richiedente la concessione demaniale marittima mediante atto pubblico redatto con le formalita' di cui agli articoli 9 e 19 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), previa determinazione del canone di concessione calcolato secondo le disposizioni di legge vigenti al momento della stipula.
 
 2.
 
 Copia dell'atto di concessione e' trasmessa al competente ufficio del territorio del Ministero delle finanze.
 
 Nota all'art. 7:
- - Si riporta il testo degli articoli 9 e 19 del regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([D.P.R. n. 328/1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952;328) citato nelle note al preambolo):
+ - Si riporta il testo degli articoli 9 e 19 del regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([D.P.R. n. 328/1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952;328) citato nelle note al preambolo):
  "Art. 9 (Concessioni di durata superiore al quadriennio). - Le concessioni di durata superiore al quadriennio o che importino impianti di difficile rimozione devono essere fatte per atto pubblico ricevuto da un ufficiale di porto a cio' destinato con decreto del capo del compartimento. In qualita' di rappresentante dell'amministrazione concedente interviene il capo del compartimento. Per i compartimenti sedi di direzione marittima e quando si tratti di concessione di durata non superiore a quindici anni interviene l'ufficiale piu' elevato in grado dopo il capo del compartimento.
  Gli atti di concessione di durata sino a quindici anni sono approvati con decreto del direttore marittimo; gli atti di concessione di durata superiore con decreto del Ministro per la marina mercantile".
  "Art. 19 (Contenuto dell'atto di concessione). - Nell'atto di concessione devono essere indicati:
@@ -361,16 +361,16 @@ L'esecuzione delle opere e' soggetta alla vigilanza ed al collaudo finale di una
 
 1.
 
-Ai procedimenti disciplinati dal presente regolamento, non sono applicabili, in particolare, gli [articoli 37](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [38 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), gli articoli 5, 6, 12, 13, 14, 15 e 18 del regolamento di esecuzione del [codice della navigazione e l'articolo 82, comma 9](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md).
+Ai procedimenti disciplinati dal presente regolamento, non sono applicabili, in particolare, gli [articoli 37](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [38 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), gli articoli 5, 6, 12, 13, 14, 15 e 18 del regolamento di esecuzione del [codice della navigazione e l'articolo 82, comma 9](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), del [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md).
 
 Note all'art. 9:
- - Si riporta il testo degli [articoli 37](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [38 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([regio decreto n. 327/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327) citato nelle note al preambolo):
+ - Si riporta il testo degli [articoli 37](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [38 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([regio decreto n. 327/1942](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942;327) citato nelle note al preambolo):
  "Art. 37 (Concorso di piu' domande di concessione). - Nel caso di piu' domande di concessione, e' preferito il richiedente che offra maggiori garanzie di proficua utilizzazione della concessione e si proponga di avvalersi di questa per un uso che, a giudizio dell'amministrazione, risponda ad un piu' rilevante interesse pubblico.
  Al fine della tutela dell'ambiente costiero, per il rilascio di nuove concessioni demaniali marittime per attivita' turisticoricreative e' data preferenza alle richieste che importino attrezzature non fisse e completamente amovibili. E' altresi' data preferenza alle precedenti concessioni, gia' rilasciate, in sede di rinnovo rispetto alle nuove istanze.
  Qualora non ricorrano le ragioni di preferenza di cui ai precedenti commi, si procede a licitazione privata".
  "Art. 38 (Anticipata occupazione di zone demaniali). - Qualora ne riconosca l'urgenza, l'autorita' marittima puo', su richiesta dell'interessato, consentire, previa cauzione, l'immediata occupazione e l'uso di beni del demanio marittimo, nonche' l'esecuzione dei lavori all'uopo necessari, a rischio del richiedente, purche' questo si obblighi ad osservare le condizioni che saranno stabilite nell'atto di concessione.
  Se la concessione e' negata, il richiedente deve demolire le opere eseguite e rimettere i beni nel pristino stato".
- - Si riporta il testo degli articoli 5, 6, 12, 13,14, 15 e 18 del regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([D.P.R. n. 328/1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952;328) citato nelle note al preambolo):
+ - Si riporta il testo degli articoli 5, 6, 12, 13,14, 15 e 18 del regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ([D.P.R. n. 328/1952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952;328) citato nelle note al preambolo):
  "Art. 5 (Presentazione della domanda di concessione).
  - Chiunque intenda occupare per qualsiasi uso zone del demanio marittimo o del mare territoriale o pertinenze demaniali marittime o apportarvi innovazioni, o recare limitazioni agli usi cui esse sono destinate, deve presentare domanda al capo del compartimento competente per territorio.
  Se si tratta di innovazioni da eseguire in terreno privato confinante col demanio marittimo che non inducano limitazioni all'uso del demanio stesso si applicano le norme contenute nell'art. 22".
@@ -402,7 +402,7 @@ Note all'art. 9:
 
 1.
 
-Il presente regolamento si applica anche ai procedimenti avviati su istanze presentate prima della sua entrata in vigore e delle quali non sia stata ancora disposta la pubblicazione ai sensi dell'articolo 18 del regolamento di esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o delle quali non sia stata operata alcuna valutazione da parte degli enti locali o dell'ufficio del genio civile delle opere marittime.
+Il presente regolamento si applica anche ai procedimenti avviati su istanze presentate prima della sua entrata in vigore e delle quali non sia stata ancora disposta la pubblicazione ai sensi dell'articolo 18 del regolamento di esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) o delle quali non sia stata operata alcuna valutazione da parte degli enti locali o dell'ufficio del genio civile delle opere marittime.
 
 2.
 

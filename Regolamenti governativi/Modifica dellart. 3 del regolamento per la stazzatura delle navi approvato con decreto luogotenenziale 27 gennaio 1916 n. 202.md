@@ -12,7 +12,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
- Visti gli [articoli 15](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [138 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+ Visti gli [articoli 15](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [138 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
  Vista la [legge 29 giugno 1913, n. 796](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-29;796);
  Visto il [decreto luogotenenziale n. 202 del 27 gennaio 1916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-27;202), che approva il regolamento per la stazzatura delle navi;
  Ritenuta la necessita' di semplificare le operazioni per la determinazione della stazza delle piccole navi da traffico, da pesca e da diporto di lunghezza inferiore o uguale a metri 15;

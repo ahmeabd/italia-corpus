@@ -125,7 +125,7 @@ I materiali e componenti costruiti secondo le norme tecniche per la salvaguardia
 
 2.
 
-Si intendono altresi' costruiti a regola d'arte i materiali ed i componenti elettrici dotati di certificati o attestati di conformita' alle norme armonizzate previste dalla [legge 18 ottobre 1977, n. 791](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20del%20consiglio%20delle%20Comunita%20europee%20n.%2072-23-CEE%20relativa%20alle%20garanzie%20di%20sicurezza%20che%20devono%20possedere%20il%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato_ba0a9e22b669.md), o dotati altresi' di marchi di cui all'allegato IV del decreto del Ministero dell'industria, del commercio e dell'artigianato 13 giugno 1989, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 
+Si intendono altresi' costruiti a regola d'arte i materiali ed i componenti elettrici dotati di certificati o attestati di conformita' alle norme armonizzate previste dalla [legge 18 ottobre 1977, n. 791](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20del%20consiglio%20delle%20Comunita%20europee%20n.%2072-23-CEE%20relativa%20alle%20garanzie%20di%20sicurezza%20che%20devono%20possedere%20il%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato_ba0a9e22b669.md), o dotati altresi' di marchi di cui all'allegato IV del decreto del Ministero dell'industria, del commercio e dell'artigianato 13 giugno 1989, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 
 171 del 24 luglio 1989.
 
 3.

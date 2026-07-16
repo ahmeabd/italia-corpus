@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'art. 60 del regolamento del personale delle Ferrovie dello Stato, approvato con il [regio decreto-legge 7 aprile 1925, n. 405](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20del%20personale%20ferroviario%20con%20le%20relative%20tabelle%20delle%20disposizioni%20sulle%20competenze%20accessorie%20nonche%20delle%20piante%20del%20personale%20degli%20uffici.%20025U0405.md);
 
-Visto l'[art. 13 del regio decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md);
+Visto l'[art. 13 del regio decreto 12 ottobre 1942, n. 1210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md);
 
 Visto l'[art. 2 del decreto del Presidente della Repubblica 21 giugno 1946, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1946-06-21;9#art_2);
 

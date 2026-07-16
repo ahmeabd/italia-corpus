@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md), e successive modificazioni;
 
-Visto il regolamento generale dei servizi postali (parte 2ª servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
+Visto il regolamento generale dei servizi postali (parte 2ª servizi a danaro) approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md), e successive modificazioni;
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
@@ -24,12 +24,12 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-I limiti di importo, indicati nel regolamento generale dei servizi postali - parte 2ª servizi a danaro - approvato con [regio decreto 30 maggio 1940, n. 775](../Regi%20decreti/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md) e successive modificazioni, sono modificati come segue:
+I limiti di importo, indicati nel regolamento generale dei servizi postali - parte 2ª servizi a danaro - approvato con [regio decreto 30 maggio 1940, n. 775](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20generale%20dei%20servizi%20postali%20Parte%20seconda%20Servizi%20a%20danaro.%20040U0775.md) e successive modificazioni, sono modificati come segue:
  a) il limite di L. 20.000 previsto nei commi a) e b) dell'art. 9 modificato dal decreto 11 settembre 1947, n. 1227, e' aumentato a L. 100.000;
- b) il limite di L. 10.000, previsto dall'art. 10, modificato dal [regio decreto 17 ottobre 1941, n. 1292](../Regi%20decreti/Modificazioni%20al%20regolamento%20generale%20dei%20servizi%20postali%20Parte%20II%20-%20Servizi%20a%20danaro.%20041U1292.md), e' elevato a L. 100.000;
+ b) il limite di L. 10.000, previsto dall'art. 10, modificato dal [regio decreto 17 ottobre 1941, n. 1292](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20generale%20dei%20servizi%20postali%20Parte%20II%20-%20Servizi%20a%20danaro.%20041U1292.md), e' elevato a L. 100.000;
  c) il limite di L. 100.000 previsto dall'art. 22, e' elevato a L. 200.000;
  d) il limite di L. 100, previsto dall'art. 116, e' elevato a L. 1000;
- e) i limiti di L. 1000, previsti dal secondo e terzo alinea dell'art. 127, modificato dal [regio decreto 17 ottobre 1941, n. 1292](../Regi%20decreti/Modificazioni%20al%20regolamento%20generale%20dei%20servizi%20postali%20Parte%20II%20-%20Servizi%20a%20danaro.%20041U1292.md), sono elevati a, L. 10.000;
+ e) i limiti di L. 1000, previsti dal secondo e terzo alinea dell'art. 127, modificato dal [regio decreto 17 ottobre 1941, n. 1292](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regolamento%20generale%20dei%20servizi%20postali%20Parte%20II%20-%20Servizi%20a%20danaro.%20041U1292.md), sono elevati a, L. 10.000;
  f) il limite di L. 2000, previsto dall'art. 140, e' elevato a L. 50.000;
  g) il limite di L. 500, previsto dall'art. 161, e' elevato a L. 10.000;
  h) il limite di L. 500, previsto negli articoli 175 e 178 e' elevato a L. 5000;

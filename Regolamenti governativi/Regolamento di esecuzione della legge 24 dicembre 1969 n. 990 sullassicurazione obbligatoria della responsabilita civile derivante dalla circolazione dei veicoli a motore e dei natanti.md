@@ -277,7 +277,7 @@ Il Ministero dell'industria, del commercio e dell'artigianato, qualora constati 
 
 ### Art. 36. — (Registri obbligatori relativi ai sinistri)
 
-Le imprese autorizzate all'esercizio dell'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli, debbono tenere presso la sede centrale, oltre ai registri e al repertorio di cui all'[art. 49 del regio decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), i seguenti registri per l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli:
+Le imprese autorizzate all'esercizio dell'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli, debbono tenere presso la sede centrale, oltre ai registri e al repertorio di cui all'[art. 49 del regio decreto 4 gennaio 1925, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), i seguenti registri per l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli:
  a) registro dei sinistri pagati, con l'indicazione di quelli pagati parzialmente;
  b) registro dei sinistri eliminati senza pagamento di indennizzo;
  c) registro dei sinistri ancora da pagare alla chiusura

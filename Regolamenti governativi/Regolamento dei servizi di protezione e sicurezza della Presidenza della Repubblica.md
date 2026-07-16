@@ -237,7 +237,7 @@ Nota all'art. 12, comma 1:
  I contravventori sono puniti a termini del primo capoverso dell'articolo precedente.
  Art. 218 (art. 223 T.U. 1926). - Durante il dichiarato stato di guerra le autorita' civili continuano a funzionare per tutto quanto non si riferisce all'ordine pubblico.
  Per cio' che riguarda l'ordine pubblico le autorita' civili esercitano quei poteri che l'autorita' militare ritiene di delegare ad esse.
- Art. 219. - Durante il dichiarato stato di guerra sono giudicate dai tribunali militari le persone imputate di delitti contro la personalita' dello Stato previsti nel titolo primo del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+ Art. 219. - Durante il dichiarato stato di guerra sono giudicate dai tribunali militari le persone imputate di delitti contro la personalita' dello Stato previsti nel titolo primo del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Gli imputati di delitti contro l'ordine pubblico, la pubblica amministrazione, le persone e il patrimonio sono giudicati dall'autorita' giudiziaria ordinaria".
 
 ## Art. 13. — Spese per il funzionamento

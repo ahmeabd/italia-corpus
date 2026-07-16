@@ -409,7 +409,7 @@ Avvertenza:
  5. Il procedimento di cui al comma 4 si conclude entro quattro mesi dalla data di ricezione della domanda di iscrizione, salva l'esigenza di ulteriore istruttoria, da esperirsi entro i due mesi successivi. 
  6. Ai fini dell'iscrizione nel registro, sono richiesti i seguenti dati identificativi: 
  a) tipo e classe del naviglio, ove prevista; 
- b) tipo di abilitazione alla navigazione, secondo quanto previsto dall'art. 302 del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md); 
+ b) tipo di abilitazione alla navigazione, secondo quanto previsto dall'art. 302 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md); 
  c) distintivo ottico; 
  d) nome dell'unita'.». 
  «Art. 580 (Accertamento dell'idoneita' al servizio militare). - 1. L'accertamento dell'idoneita' al servizio militare e' effettuato mediante visite mediche generali e specialistiche e prove fisio-psico-attitudinali, esclusivamente a cura dei competenti organi sanitari militari. 

@@ -18,7 +18,7 @@ Visto il capo VII del titolo VII del regolamento per l'amministrazione del patri
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20approvazione%20complessiva%20di%20decreti%20Luogotenenziali%20e%20Regi%20aventi%20per%20oggetto%20argomenti%20diversi.%20026U0597.md), sul nuovo ordinamento dell'Amministrazione delle poste e delle telecomunicazioni;
 
-Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e delle telecomunicazioni, approvato con [regio decreto 8 maggio 1933, n. 841](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md);
+Visto il regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e delle telecomunicazioni, approvato con [regio decreto 8 maggio 1933, n. 841](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20contabilita%20per%20i%20servizi%20delle%20poste%20e%20dei%20telegrafi.%20033U0841.md);
 
 Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 

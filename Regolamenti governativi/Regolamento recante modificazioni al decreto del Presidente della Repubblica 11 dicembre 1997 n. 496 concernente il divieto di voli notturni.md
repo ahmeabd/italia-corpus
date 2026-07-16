@@ -14,7 +14,7 @@ Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'[articolo 11, comma 1, della legge 26 ottobre 1995, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-10-26;447#art_11-com1), recante legge quadro in materia di inquinamento acustico;
 
-Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), emanato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), emanato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Visto il decreto del Ministro dell'ambiente, di concerto con il Ministro dei trasporti e della navigazione, in data 31 ottobre 1997, pubblicato nella Gazzetta Ufficiale n. 267 del 15 novembre 1997, recante metodologia di misura del rumore aeronautico;
 

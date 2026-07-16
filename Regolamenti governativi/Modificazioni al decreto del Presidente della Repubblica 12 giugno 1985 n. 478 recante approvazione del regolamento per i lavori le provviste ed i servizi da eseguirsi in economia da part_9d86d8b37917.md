@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Visto l'[art. 8 del regio decreto 18 novembre 1923, n. 2440](../Regi%20decreti/Nuove%20disposizioni%20sullamministrazione%20del%20patrimonio%20e%20sulla%20contabilita%20generale%20dello%20Stato.%20023U2440.md), concernente nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato e il [regio decreto 23 maggio 1924, n. 827](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-23;827), di approvazione del relativo regolamento;
 
-Visto il [regio decreto 20 giugno 1929, n. 1058](../Regi%20decreti/Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md), che approva il regolamento sui servizi del Provveditorato generale dello Stato;
+Visto il [regio decreto 20 giugno 1929, n. 1058](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20sui%20servizi%20del%20Provveditorato%20Generale%20dello%20Stato.%20029U1058.md), che approva il regolamento sui servizi del Provveditorato generale dello Stato;
 
 Visto il [decreto del Presidente della Repubblica 30 giugno 1972, n. 422](Adeguamento%20degli%20originari%20limiti%20di%20somma%20previsti%20nella%20legge%20e%20nel%20regolamento%20di%20contabilita%20generale%20dello%20Stato%20nel%20testo%20unico%20delle%20leggi%20sullordinamento%20della%20Corte%20dei%20conti%20e%20_978eccc3e118.md);
 

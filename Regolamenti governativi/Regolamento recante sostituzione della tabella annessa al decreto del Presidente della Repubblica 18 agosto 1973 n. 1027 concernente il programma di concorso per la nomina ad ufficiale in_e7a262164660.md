@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 8 luglio 1926, n. 1178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Marina militare, e successive modificazioni;
 
-Visto il [regio decreto 16 giugno 1938, n. 1281](../Regi%20decreti/Norme%20e%20programmi%20per%20il%20reclutamento%20nel%20Corpo%20delle%20capitanerie%20di%20porto.%20038U1281.md), concernente norme e programmi per il reclutamento nel Corpo delle capitanerie di porto;
+Visto il [regio decreto 16 giugno 1938, n. 1281](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20e%20programmi%20per%20il%20reclutamento%20nel%20Corpo%20delle%20capitanerie%20di%20porto.%20038U1281.md), concernente norme e programmi per il reclutamento nel Corpo delle capitanerie di porto;
 
 Visto il [decreto legislativo del Capo provvisorio dello Stato 31 marzo 1947, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-31;396), ratificato con [legge 17 aprile 1956, n. 561](../DL%20e%20leggi%20di%20conversione/Ratifica%20ai%20sensi%20dellart.%206%20del%20decreto%20legislativo%20luogotenenziale%2016%20marzo%201946%20n.%2098%20di%20decreti%20legislativi%20emanati%20dal%20Governo%20durante%20il%20periodo%20della%20Costituente.md), concernente attribuzioni del Ministero della marina mercantile;
 

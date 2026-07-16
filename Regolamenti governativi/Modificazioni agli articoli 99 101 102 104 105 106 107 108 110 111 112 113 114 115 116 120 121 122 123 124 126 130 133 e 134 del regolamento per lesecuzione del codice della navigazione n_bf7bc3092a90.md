@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il proprio decreto 15 febbraio 1952, n. 328, e successive modificazioni ed integrazioni, che approva il regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
+Visto il proprio decreto 15 febbraio 1952, n. 328, e successive modificazioni ed integrazioni, che approva il regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,7 +20,7 @@ Sulla proposta dei Ministri di grazia e giustizia e della marina mercantile, di 
 
 ## Art. 1.
 
-Gli articoli 99, 101, 102, 104, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 120, 121, 122, 123, 124, 126, 130, 133, 134, del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e successive modificazioni ed integrazioni, sono sostituiti dai seguenti: 
+Gli articoli 99, 101, 102, 104, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 120, 121, 122, 123, 124, 126, 130, 133, 134, del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e successive modificazioni ed integrazioni, sono sostituiti dai seguenti: 
  
  Art. 99 - (Navi destinate al pilotaggio e uso eventuale di altri mezzi). - Per l'esplicazione del servizio di pilotaggio ogni corporazione deve essere provvista, ai sensi dell'art. 110, di navi determinate nel numero, nel tipo e nelle caratteristiche dai regolamenti locali di pilotaggio. 
  In caso di necessita' e in via temporanea il comandante del porto puo' autorizzare la corporazione a prendere le navi predette od altro mezzo idoneo in locazione. 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto il regolamento di esecuzione dei titoli I, II e III del predetto Codice postale e delle telecomunicazioni, approvato col [regio decreto 19 luglio 1941, numero 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
+Visto il regolamento di esecuzione dei titoli I, II e III del predetto Codice postale e delle telecomunicazioni, approvato col [regio decreto 19 luglio 1941, numero 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md);
 
 Riconosciuta l'opportunita' di adottare un nuovo criterio per la misurazione delle distante delle localita', tra le quali si svolgono le conversazioni telefoniche interurbane, ai fini della determinazione delle relative tariffe;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Art. 1.
 
-L'art. 139 del regolamento di esecuzione dei titoli I, II e III del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e' sostituito dal seguente: 
+L'art. 139 del regolamento di esecuzione dei titoli I, II e III del Codice postale e delle telecomunicazioni, approvato con [regio decreto 19 luglio 1941, n. 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e' sostituito dal seguente: 
  "La tariffa per le conversazioni interurbane e' determinata in base alla distanza in linea d'aria tra i centri telefonici cui appartengono le localita' collegate. 
  I centri telefonici da considerare ai fini delle distanze tariffarie in linea d'aria sono stabiliti con decreto del Ministro, per le poste e per le telecomunicazioni".
 

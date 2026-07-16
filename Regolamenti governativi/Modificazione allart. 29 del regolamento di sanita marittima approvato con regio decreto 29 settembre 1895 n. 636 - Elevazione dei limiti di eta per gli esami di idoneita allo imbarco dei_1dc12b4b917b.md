@@ -14,7 +14,7 @@ Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto l'art. 29 del regolamento di sanita' marittima approvato con [regio decreto 29 settembre 1895, n. 636](../Regi%20decreti/Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md);
 
-Vista la [legge 18 ottobre 1973, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-10-18;645), concernente la modifica dell'[art. 119 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
+Vista la [legge 18 ottobre 1973, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-10-18;645), concernente la modifica dell'[art. 119 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
 Udito il Consiglio di Stato;
 

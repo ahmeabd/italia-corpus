@@ -13,7 +13,7 @@ vigente: true
 IL PRESIDENTE DELLA REPUBBLICA
 
  Vista la [legge 20 giugno 1935, n. 1251](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellEnte%20autonomo%20del%20Monte%20di%20Portofino%20avente%20sede%20in%20Genova.%20035U1251.md), con cui venne istituito l'Ente autonomo del Monte di Portofino;
- Visto il [regio decreto 15 aprile 1937, n. 1777](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2020%20giugno%201935-XIII%20n.%201251%20concernente%20la%20costituzione%20dellEnte%20autonomo%20per%20il%20Monte%20di%20Portofino.%20037U1777.md), che approva il regolamento per l'esecuzione della predetta legge;
+ Visto il [regio decreto 15 aprile 1937, n. 1777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2020%20giugno%201935-XIII%20n.%201251%20concernente%20la%20costituzione%20dellEnte%20autonomo%20per%20il%20Monte%20di%20Portofino.%20037U1777.md), che approva il regolamento per l'esecuzione della predetta legge;
  Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
  Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
  Udito il parere del Consiglio di Stato;
@@ -22,7 +22,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
  Decreta:
 
- L'art. 6 del regolamento per l'esecuzione della [legge 20 gennaio 1935, n. 1251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-01-20;1251), che istituisce l'Ente autonomo del Monte di Portofino, approvato con [regio decreto 15 aprile 1937, n. 1777](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2020%20giugno%201935-XIII%20n.%201251%20concernente%20la%20costituzione%20dellEnte%20autonomo%20per%20il%20Monte%20di%20Portofino.%20037U1777.md), e' sostituito dal seguente:
+ L'art. 6 del regolamento per l'esecuzione della [legge 20 gennaio 1935, n. 1251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-01-20;1251), che istituisce l'Ente autonomo del Monte di Portofino, approvato con [regio decreto 15 aprile 1937, n. 1777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2020%20giugno%201935-XIII%20n.%201251%20concernente%20la%20costituzione%20dellEnte%20autonomo%20per%20il%20Monte%20di%20Portofino.%20037U1777.md), e' sostituito dal seguente:
  L'Ente provvede ai sensi dell'art. 10 della legge, alla attuazione dei suoi compiti con i seguenti mezzi finanziari:
  a) contributi annui della Provincia, dei comuni di Genova, Camogli, Rapallo, Santa Margherita Ligure, Portofino e Recco;
  b) contributo annuo della Camera di commercio;
@@ -30,7 +30,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  d) contributi annui da parte di altri eventuali enti e) introiti dei permessi e delle concessioni che siano rilasciati dall'Ente;
  f) proventi dei diritti di entrata, di rifugio e simili;
  g) ogni altro contributo, dato a qualsiasi titolo da enti, associazioni o privati.
- La misura complessiva dei contributi di cui alle lettere a) e b) del comma precedente e' determinata annualmente, osservato il limite minimo previsto dalla legge, sulla base delle risultanze del bilancio di previsione dell'Ente, ed e' approvata con decreto prefettizio, che la ripartisce fra gli enti interessati, il contributo di ciascuno dei quali non potra' superare di trenta volte la misura prevista dall'art. 6 del regolamento approvato con [regio decreto 15 aprile 1937, n. 1777](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2020%20giugno%201935-XIII%20n.%201251%20concernente%20la%20costituzione%20dellEnte%20autonomo%20per%20il%20Monte%20di%20Portofino.%20037U1777.md).
+ La misura complessiva dei contributi di cui alle lettere a) e b) del comma precedente e' determinata annualmente, osservato il limite minimo previsto dalla legge, sulla base delle risultanze del bilancio di previsione dell'Ente, ed e' approvata con decreto prefettizio, che la ripartisce fra gli enti interessati, il contributo di ciascuno dei quali non potra' superare di trenta volte la misura prevista dall'art. 6 del regolamento approvato con [regio decreto 15 aprile 1937, n. 1777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20la%20esecuzione%20della%20legge%2020%20giugno%201935-XIII%20n.%201251%20concernente%20la%20costituzione%20dellEnte%20autonomo%20per%20il%20Monte%20di%20Portofino.%20037U1777.md).
  Il pagamento dei contributi deve effettuarsi in due rate, la prima non oltre il primo trimestre e la seconda non oltre il terzo trimestre dell'anno a cui il contributo si riferisce.
  In caso di ritardo del versamento delle rate dei contributi di cui sopra, la Giunta provinciale amministrativa od il prefetto, secondo la rispettiva competenza, provvede alla spedizione del mandato nei confronti dell'ente debitore moroso.
 

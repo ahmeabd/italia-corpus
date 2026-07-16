@@ -1151,7 +1151,7 @@ E', inoltre, vietato l'uso degli ascensori a cabine multiple a moto continuo ai 
 
 3.
 
-Resta fermo il divieto di occupazione dei fanciulli e delle donne minorenni in lavori di manovra degli ascensori, montacarichi ed apparecchi di sollevamento a trazione meccanica, ai sensi della voce 69, della tabella A annessa al [regio decreto 7 agosto 1936, n. 1720](../Regi%20decreti/Approvazione%20delle%20tabelle%20indicanti%20i%20lavori%20per%20i%20quali%20e%20vietata%20loccupazione%20dei%20fanciulli%20e%20delle%20donne%20minorenni%20e%20quelli%20per%20i%20quali%20ne%20e%20consentita%20loccupazione%20con%20le%20cautele%20e%20l_fb513707d645.md).
+Resta fermo il divieto di occupazione dei fanciulli e delle donne minorenni in lavori di manovra degli ascensori, montacarichi ed apparecchi di sollevamento a trazione meccanica, ai sensi della voce 69, della tabella A annessa al [regio decreto 7 agosto 1936, n. 1720](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20delle%20tabelle%20indicanti%20i%20lavori%20per%20i%20quali%20e%20vietata%20loccupazione%20dei%20fanciulli%20e%20delle%20donne%20minorenni%20e%20quelli%20per%20i%20quali%20ne%20e%20consentita%20loccupazione%20con%20le%20cautele%20e%20l_fb513707d645.md).
 
 ### Art. 17-bis. — (( (Accordo preventivo per installazione di impianti di ascensori in deroga). ))
 

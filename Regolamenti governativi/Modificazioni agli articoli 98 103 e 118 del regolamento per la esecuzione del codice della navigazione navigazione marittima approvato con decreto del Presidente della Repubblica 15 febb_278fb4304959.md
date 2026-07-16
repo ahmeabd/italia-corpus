@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il proprio decreto 15 febbraio 1952, n. 328, che approva il regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
+Visto il proprio decreto 15 febbraio 1952, n. 328, che approva il regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima);
 
 Udito il parere del Consiglio di Stato;
 
@@ -20,7 +20,7 @@ Sulla proposta dei Ministri per la grazia e giustizia e per la marina mercantile
 
 ## Art. 1.
 
-Gli articoli 98, 103 e 118 del regolamento per la esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), sono sostituiti nel modo che segue: 
+Gli articoli 98, 103 e 118 del regolamento per la esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), sono sostituiti nel modo che segue: 
  "Art. 98 (Categorie e ambito territoriale delle corporazioni). - Le corporazioni dei piloti, istituite a norma dell'art. 86 del codice, si distinguono in due categorie. 
  Il Ministro per la marina mercantile provvede alla loro classificazione ed al relativo aggiornamento, tenuto conto del movimento medio delle navi a propulsione meccanica e delle difficolta' del pilotaggio nel luogo dove presta servizio la corporazione. 
  Per comprovate esigenze di carattere funzionale la circoscrizione territoriale di una corporazione puo' essere estesa a piu' porti o approdi. Se in questi operano gia' altre corporazioni, l'estensione ha effetto dal momento della loro soppressione o fusione, a norma dell'art. 86 del codice. 

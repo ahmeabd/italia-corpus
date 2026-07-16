@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [regio decreto 17 luglio 1910, n. 536](../Regi%20decreti/Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md);
+Visto il [testo unico delle leggi sul Debito pubblico](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20debito%20pubblico.%20Testo%20A.md), approvato con [regio decreto 17 luglio 1910, n. 536](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20testo%20unico%20di%20tutte%20le%20leggi%20sul%20Debito%20pubblico.%20010U0536.md);
 
-Visto il regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
+Visto il regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md);
 
 Visto il [decreto legislativo luogotenenziale 25 gennaio 1945, n. 19](../Decreti%20legislativi%20luogotenenziali/Norme%20per%20agevolare%20operazioni%20su%20titoli%20di%20debito%20pubblico%20gia%20ostacolato%20per%20cause%20dipendenti%20dalla%20guerra.%20045U0019.md);
 
@@ -83,7 +83,7 @@ Gli agenti di cambio ed i notai accreditati hanno l'obbligo di uniformarsi a tut
 
 ## Art. 9.
 
-Il testo del primo comma dell'art. 228 del regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md), e' sostituito dal seguente:
+Il testo del primo comma dell'art. 228 del regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md), e' sostituito dal seguente:
  "I documenti prodotti per operazioni di Debito pubblico rimangono in deposito presso l'Amministrazione, a giustificazione delle operazioni eseguite, per un periodo di dieci anni; se riguardanti annotazioni di ipoteca o di altro vincolo, per un periodo di venti anni.
  L'Amministrazione stessa ha facolta', su proposta della Commissione di cui al successivo comma, di eccedere i detti termini, nel proprio interesse, ovvero di microfilmare i documenti dei quali ritenga opportuna la conservazione in microfilm".
  Le parole "da conservarsi oltre il trentennio" e "possono eliminarsi anche prima del trentennio dagli archivi dell'Amministrazione" del secondo e del terzo comma del citato art. 2,28 sono rispettivamente sostituite da quelle "oltre i termini previsti nel primo comma" e "possono eliminarsi dagli archivi dell'Amministrazione anche prima dei termini indicati nel primo comma".
@@ -96,7 +96,7 @@ Della Commissione di cui all'art. 228 del citato [regolamento 19 febbraio 1911, 
 
 ## Art. 11.
 
-Sono abrogati gli articoli 167, 169, 203, 204, 207, 208 e 210 del regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Regi%20decreti/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md).
+Sono abrogati gli articoli 167, 169, 203, 204, 207, 208 e 210 del regolamento generale sul Debito pubblico, approvato con [regio decreto 19 febbraio 1911, n. 298](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20approva%20lannesso%20regolamento%20generale%20sul%20debito%20pubblico.%20011U0298.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

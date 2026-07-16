@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 7 settembre 1910, n. 711](../Regi%20decreti/Che%20istituisce%20a%20Napoli%20la%20R.%20scuola%20di%20sanita%20militare%20marittima.%20010U0711.md), concernente istituzione a Napoli della Scuola di sanita' militare marittima, e successive modificazioni;
+Visto il [regio decreto 7 settembre 1910, n. 711](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20a%20Napoli%20la%20R.%20scuola%20di%20sanita%20militare%20marittima.%20010U0711.md), concernente istituzione a Napoli della Scuola di sanita' militare marittima, e successive modificazioni;
 
 Vista la [legge 8 luglio 1926, n. 1178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20della%20Regia%20marina.%20026U1178.md), sull'ordinamento della Marina militare, e successive modificazioni;
 
@@ -26,11 +26,11 @@ Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il te
 
 ## Art. 1.
 
-La sede della "Scuola di sanita' militare marittima" istituita con [regio decreto 7 settembre 1910, n. 711](../Regi%20decreti/Che%20istituisce%20a%20Napoli%20la%20R.%20scuola%20di%20sanita%20militare%20marittima.%20010U0711.md), e' stabilita a Livorno, presso l'Accademia navale.
+La sede della "Scuola di sanita' militare marittima" istituita con [regio decreto 7 settembre 1910, n. 711](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20a%20Napoli%20la%20R.%20scuola%20di%20sanita%20militare%20marittima.%20010U0711.md), e' stabilita a Livorno, presso l'Accademia navale.
 
 ## Art. 2.
 
-E' approvato l'unito regolamento interno della "Scuola di sanita' militare marittima", che sostituisce quello approvato con [regio decreto 5 marzo 1914, n. 530](../Regi%20decreti/Col%20quale%20e%20approvato%20il%20nuovo%20regolamento%20per%20la%20R.%20scuola%20di%20sanita%20militare%20marittima.%20014U0530.md).
+E' approvato l'unito regolamento interno della "Scuola di sanita' militare marittima", che sostituisce quello approvato con [regio decreto 5 marzo 1914, n. 530](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20e%20approvato%20il%20nuovo%20regolamento%20per%20la%20R.%20scuola%20di%20sanita%20militare%20marittima.%20014U0530.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -26,7 +26,7 @@ Sulla proposta del Ministro per i trasporti, di concerto con il Ministro per il 
 
 ## Art. 1.
 
-Il primo comma dell'art. 30 del regolamento sulla pignorabilita' e sequestrabilita' degli stipendi, delle paglie e delle pensioni e sulla cessione degli stipendi e delle paghe degli agenti appartenenti all'Amministrazione delle ferrovie dello Stato, approvato con [regio decreto 29 luglio 1914, n. 850](../Regi%20decreti/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20sulla%20pignorabilita%20e%20sulla%20sequestrabilita%20degli%20stipendi%20delle%20paghe%20e%20delle%20pensioni%20e%20sulla%20cessione%20degli%20stipendi%20e%20delle%20paghe%20degli%20_6be1e51aa7f7.md), e' sostituito dal seguente:
+Il primo comma dell'art. 30 del regolamento sulla pignorabilita' e sequestrabilita' degli stipendi, delle paglie e delle pensioni e sulla cessione degli stipendi e delle paghe degli agenti appartenenti all'Amministrazione delle ferrovie dello Stato, approvato con [regio decreto 29 luglio 1914, n. 850](../Atti%20normativi%20abrogati%20%28in%20originale%29/Col%20quale%20viene%20approvato%20lannesso%20regolamento%20sulla%20pignorabilita%20e%20sulla%20sequestrabilita%20degli%20stipendi%20delle%20paghe%20e%20delle%20pensioni%20e%20sulla%20cessione%20degli%20stipendi%20e%20delle%20paghe%20degli%20_6be1e51aa7f7.md), e' sostituito dal seguente:
  "Il certificato medico, che ai sensi del precedente articolo deve essere allegato alla domanda di nulla osta, e' rilasciato, nell'interesse esclusivo dell'Amministrazione su apposito modello a stampa, dai sanitari di ruolo dell'Amministrazione qualunque sia il grado da essi rivestito, o dai medici di riparto".
 
 ## Art. 2.

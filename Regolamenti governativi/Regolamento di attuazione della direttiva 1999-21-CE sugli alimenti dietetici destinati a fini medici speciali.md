@@ -20,7 +20,7 @@ Vista la [direttiva 1999/21/CE della Commissione, del 25 marzo 1999](https://www
 
 Visto il [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md);
 
-Visto il [decreto del Ministro della sanita' 6 aprile 1994, n. 500](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20lattuazione%20delle%20direttive%2091-321-CEE%20della%20Commissione%20del%2014%20maggio%201991%20sugli%20alimenti%20per%20lattanti%20e%20alimenti%20di%20proseguimento%20e%2092-52-CEE%20del%20Consiglio%20del%201_7477e62580fe.md);
+Visto il [decreto del Ministro della sanita' 6 aprile 1994, n. 500](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20concernente%20lattuazione%20delle%20direttive%2091-321-CEE%20della%20Commissione%20del%2014%20maggio%201991%20sugli%20alimenti%20per%20lattanti%20e%20alimenti%20di%20proseguimento%20e%2092-52-CEE%20del%20Consiglio%20del%201_7477e62580fe.md);
 
 Visto il [decreto del Ministro della sanita' 1 giugno 1998, n. 518](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2096-4-CEE%20della%20Commissione%20del%2026%20febbraio%201996%20che%20modifica%20la%20direttiva%2091-321-CEE%20sugli%20alimenti%20per%20lattanti%20e%20gli%20alimenti%20di%20proseguimento.md);
 

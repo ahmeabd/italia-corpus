@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto il Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](../Regi%20decreti/Approvazione%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20036U0645.md);
 
-Visto il [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), che approva il regolamento di esecuzione dei titoli I e II del libro I del Codice postale e delle telecomunicazioni;
+Visto il [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), che approva il regolamento di esecuzione dei titoli I e II del libro I del Codice postale e delle telecomunicazioni;
 
 Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con
 
 ## Articolo unico.
 
-L'art. 17 del regolamento di esecuzione dei titoli I e II del libro I del Codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' sostituito dal seguente.
+L'art. 17 del regolamento di esecuzione dei titoli I e II del libro I del Codice postale e delle telecomunicazioni, approvato con [regio decreto 18 aprile 1940, n. 689](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20e%20II%20del%20libro%201%20del%20Codice%20postale%20e%20delle%20telecomunicazioni.%20040U0689.md), e' sostituito dal seguente.
  "Art. 17. - Il Ministro per le poste e le telecomunicazioni, di concerto con quello per il tesoro, determina l'aliquota dei proventi delle oblazioni che, senza eccedere la quarta parte, possa riservarsi alla concessione di premi di diligenza ai dipendenti dell'Amministrazione delle poste e delle telecomunicazioni e agli ufficiali e agenti della Forza pubblica che abbiano accertato, o che comunque abbiano concorso all'accertamento delle contravvenzioni, e le modalita' di assegnazione dei premi medesimi".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

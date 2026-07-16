@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [regio decreto 24 maggio 1925, n. 1102](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), che approva il regolamento per le migliorie igieniche negli alberghi;
+Visto il [regio decreto 24 maggio 1925, n. 1102](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), che approva il regolamento per le migliorie igieniche negli alberghi;
 
 Sentito il Consiglio superiore di sanita';
 
@@ -24,7 +24,7 @@ Sulla proposta del Ministro per la sanita', di concerto con il Ministro per il t
 
 ## Art. 1.
 
-Il primo comma dell'art. 4 del regolamento per le migliorie igieniche negli alberghi, approvato con [regio decreto 24 maggio 1925, n. 1102](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), e' modificato come segue:
+Il primo comma dell'art. 4 del regolamento per le migliorie igieniche negli alberghi, approvato con [regio decreto 24 maggio 1925, n. 1102](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20le%20migliorie%20igieniche%20negli%20alberghi.%20025U1102.md), e' modificato come segue:
  "Negli alberghi e nelle pensioni la cubatura minima delle camere a un letto e' fissata in metri cubi 24 e quella delle camere a due letti in metri cubi 42. La superficie minima sara' rispettivamente di metri quadrati 8 e metri quadrati 14. L'altezza utile interna sara' quella stabilita dai regolamenti comunali di igiene.
  Le suindicate dimensioni vanno calcolate al netto di ogni altro ambiente accessorio.
  Nelle localita' di altitudine superiore a metri 700 sul livello del mare, i regolamenti comunali di igiene possono ridurre la cubatura delle camere in relazione a particolari condizioni climatiche, fino al limite minimo di metri cubi 23 e 40, rispettivamente per le camere ad un letto e a due letti. Anche in questo caso l'altezza utile interna sara' quella stabilita dai regolamenti comunali di igiene.
