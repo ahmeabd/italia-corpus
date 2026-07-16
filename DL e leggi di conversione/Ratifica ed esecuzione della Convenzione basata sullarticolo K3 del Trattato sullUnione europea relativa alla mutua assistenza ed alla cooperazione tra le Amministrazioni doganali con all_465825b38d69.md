@@ -72,7 +72,7 @@ Nei casi previsti dagli articoli 22 e 23 della Convenzione, le relative operazio
 
 8.
 
-Restano ferme le disposizioni previste dal [codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) di cui al [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), per quanto riguarda la protezione dei dati trattati in attuazione della Convenzione.
+Restano ferme le disposizioni previste dal [codice in materia di protezione dei dati personali](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) di cui al [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), per quanto riguarda la protezione dei dati trattati in attuazione della Convenzione.
 
 ## Art. 5. — Copertura finanziaria
 
