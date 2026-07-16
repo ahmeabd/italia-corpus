@@ -24,7 +24,7 @@ Visto il decreto del Ministro della sanita' 21 marzo 1973, pubblicato nel supple
 
 Visto il [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md);
 
-Visto il [decreto del Ministro della sanita' 6 aprile 1994, n. 500](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20lattuazione%20delle%20direttive%2091-321-CEE%20della%20Commissione%20del%2014%20maggio%201991%20sugli%20alimenti%20per%20lattanti%20e%20alimenti%20di%20proseguimento%20e%2092-52-CEE%20del%20Consiglio%20del%201_7477e62580fe.md);
+Visto il [decreto del Ministro della sanita' 6 aprile 1994, n. 500](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20concernente%20lattuazione%20delle%20direttive%2091-321-CEE%20della%20Commissione%20del%2014%20maggio%201991%20sugli%20alimenti%20per%20lattanti%20e%20alimenti%20di%20proseguimento%20e%2092-52-CEE%20del%20Consiglio%20del%201_7477e62580fe.md);
 
 Visto il [decreto del Ministro della sanita' 27 febbraio 1996, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1996-02-27;209);
 
