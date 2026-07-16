@@ -14,7 +14,7 @@ RE D'ITALIA
 
 Visti il testo unico delle leggi e delle norme giuridiche sull'istruzione elementare, post-elementare e sulle opere d'integrazione approvato con [R. decreto 5 febbraio 1928, n. 577](../Regi%20decreti/Approvazione%20del%20testo%20unico%20delle%20leggi%20e%20delle%20norme%20giuridiche%20emanate%20in%20virtu%20dellart.%201%20n.%203%20della%20legge%2031%20gennaio%201926%20n.%20100%20sulla%20istruzione%20elementare%20post-elementare%20e%20sulle%20s_0e0db8f4e70a.md) ed il regolamento generale sull'istruzione elementare approvato con [R. decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297);
 
-Visti il [R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md) ed il [R. decreto-legge 14 ottobre 1938, n. 1771](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20scuole%20rurali.%20038U1771.md);
+Visti il [R. decreto 1° luglio 1933, n. 786](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md) ed il [R. decreto-legge 14 ottobre 1938, n. 1771](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20scuole%20rurali.%20038U1771.md);
 
 Visto il [R. decreto legislativo 10 maggio 1946, n. 262](Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
@@ -47,11 +47,11 @@ Le misure delle diarie e dei premi sono aumentate in ragione del 100% quando la 
 
 ## Art. 4.
 
-Ai maestri delle scuole di Stato che insegnino in scuole elementari speciali di cui all'[art. 28 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' corrisposta una indennita' mensile di lire seicentodieci lorde in ragione del servizio effettivamente prestato durante il periodo d'insegnamento e di esame.
+Ai maestri delle scuole di Stato che insegnino in scuole elementari speciali di cui all'[art. 28 del R. decreto 1° luglio 1933, n. 786](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), e' corrisposta una indennita' mensile di lire seicentodieci lorde in ragione del servizio effettivamente prestato durante il periodo d'insegnamento e di esame.
 
 ## Art. 5.
 
-La retribuzione oraria stabilita dal [2° comma dell'art. 27 del R. decreto 1° luglio 1933, n. 786](../Regi%20decreti/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), per gli insegnanti di materie speciali nelle scuole elementari, per i quali essa non costituisca retribuzione principale, e' fissata in lire dieci lorde comprensiva di ogni altro assegno, indennita' o compensi accessori di qualsiasi natura.
+La retribuzione oraria stabilita dal [2° comma dell'art. 27 del R. decreto 1° luglio 1933, n. 786](../Atti%20normativi%20abrogati%20%28in%20originale%29/Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md), per gli insegnanti di materie speciali nelle scuole elementari, per i quali essa non costituisca retribuzione principale, e' fissata in lire dieci lorde comprensiva di ogni altro assegno, indennita' o compensi accessori di qualsiasi natura.
 
 ## Art. 6.
 

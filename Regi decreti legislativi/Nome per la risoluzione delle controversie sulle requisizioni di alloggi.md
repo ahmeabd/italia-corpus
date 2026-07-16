@@ -124,7 +124,7 @@ Le azioni per l'inadempimento degli obblighi dell'assegnatario dell'alloggi o ne
 ## Art. 16.
 
 I provvedimenti emanati dal Commissario per gli alloggi, i verbali delle esecuzioni relative, gli atti di apposizione allo stesso Commissario, i ricorsi alla Commissione per le controversie relative alle requisizioni degli alloggi, nonche' i verbali e le decisioni della Commissione medesima, sono esenti da tributi.
- Gli atti e i documenti prodotti alla Commissione sano esenti dalla tassa di bollo, preveduta dall'art. 121 dell'allegato A alla legge sul bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
+ Gli atti e i documenti prodotti alla Commissione sano esenti dalla tassa di bollo, preveduta dall'art. 121 dell'allegato A alla legge sul bollo, approvato con [R. decreto 30 dicembre 1923, n. 3268](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20del%20bollo.%20023U3268.md).
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

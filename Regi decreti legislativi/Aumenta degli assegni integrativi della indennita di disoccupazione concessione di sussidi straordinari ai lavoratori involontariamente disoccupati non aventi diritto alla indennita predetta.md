@@ -18,7 +18,7 @@ Visto il [decreto legislativo Luogotenenziale 31 agosto 1945, n. 579](../Decreti
 
 Visto il [decreto legislativo Luogotenenziale 22 febbraio 1945, n. 38](../Decreti%20legislativi%20luogotenenziali/Prezzi%20del%20pane%20e%20della%20pasta.%20045U0038.md), per la corresponsione dell'indennita' caro-pane;
 
-Visto il [R. decreto 20 maggio 1946, n. 369](../Regi%20decreti/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo di retribuzione fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari;
+Visto il [R. decreto 20 maggio 1946, n. 369](../Atti%20normativi%20abrogati%20%28in%20originale%29/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo di retribuzione fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari;
 
 Visto il [decreto legislativo Luogotenenziale 10 febbraio 1945, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-10;58);
 

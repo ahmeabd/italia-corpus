@@ -350,7 +350,7 @@ I punti a) e b) dell'[art. 2 del R. decreto-legge 4 ottobre 1935, n. 1988](../At
 
 ## Art. 4.
 
-I gradi e le qualifiche del personale delle Ferrovie dello Stato citati nel presente decreto, sono quelli di cui il [R. decreto 12 ottobre 1942, n. 1210](../Regi%20decreti/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md).
+I gradi e le qualifiche del personale delle Ferrovie dello Stato citati nel presente decreto, sono quelli di cui il [R. decreto 12 ottobre 1942, n. 1210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20ed%20aggiunte%20al%20regolamento%20del%20personale%20delle%20Ferrovie%20dello%20Stato.%20042U1210.md).
 
 ## Art. 5.
 

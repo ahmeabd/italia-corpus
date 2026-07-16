@@ -16,9 +16,9 @@ Visto il testo unico delle leggi sull'istruzione elementare, approvato con [R. d
 
 Visto il regolamento generale sui servizi dell'istruzione elementare, approvato con [R. decreto 26 aprile 1928, n. 1297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297);
 
-Visto il [R. decreto 20 maggio 1926, n. 1259](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20delle%20scuole%20italiane%20allestero%20e%20per%20la%20sistemazione%20degli%20insegnanti%20delle%20scuole%20medesime.%20026U1259.md);
+Visto il [R. decreto 20 maggio 1926, n. 1259](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20delle%20scuole%20italiane%20allestero%20e%20per%20la%20sistemazione%20degli%20insegnanti%20delle%20scuole%20medesime.%20026U1259.md);
 
-Visto il testo unico delle norme legislative sulle scuole italiane all'estero, approvato con [R. decreto 12 febbraio 1940, n. 740](../Regi%20decreti/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md);
+Visto il testo unico delle norme legislative sulle scuole italiane all'estero, approvato con [R. decreto 12 febbraio 1940, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md);
 
 Vista la [legge 1° giugno 1942, n. 675](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inquadramento%20degli%20insegnanti%20dellordine%20elementare%20nel%20gruppo%20B%20dellordinamento%20gerarchico%20delle%20Amministrazioni%20dello%20Stato.%20042U0675.md);
 
@@ -41,7 +41,7 @@ All'atto della promozione ad ordinario, in seguito al compimento, con risultato 
 
 ## Art. 3.
 
-Per gli insegnanti i quali, gia' prima dell'entrata in vigore del testo unico delle norme legislative sulle scuole italiane all'estero, approvato con [R. decreto 12 febbraio 1940, n. 740](../Regi%20decreti/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md), avessero posseduto i requisiti richiesti dal [R. decreto 20 maggio 1926, n. 1259](../Regi%20decreti/Norme%20per%20il%20pareggiamento%20delle%20scuole%20italiane%20allestero%20e%20per%20la%20sistemazione%20degli%20insegnanti%20delle%20scuole%20medesime.%20026U1259.md), per l'assunzione in ruolo senza concorso, il periodo di prova e' ridotto ad un anno.
+Per gli insegnanti i quali, gia' prima dell'entrata in vigore del testo unico delle norme legislative sulle scuole italiane all'estero, approvato con [R. decreto 12 febbraio 1940, n. 740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20legislative%20sulle%20scuole%20italiane%20allestero.%20040U0740.md), avessero posseduto i requisiti richiesti dal [R. decreto 20 maggio 1926, n. 1259](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20pareggiamento%20delle%20scuole%20italiane%20allestero%20e%20per%20la%20sistemazione%20degli%20insegnanti%20delle%20scuole%20medesime.%20026U1259.md), per l'assunzione in ruolo senza concorso, il periodo di prova e' ridotto ad un anno.
 
 ## Art. 4.
 

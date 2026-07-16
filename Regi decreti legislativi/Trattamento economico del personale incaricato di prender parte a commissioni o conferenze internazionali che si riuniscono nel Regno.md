@@ -14,7 +14,7 @@ RE D'ITALIA
 
 Visto il [R. decreto-legge 22 marzo 1923, n. 750](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20uno%20speciale%20trattamento%20al%20personale%20incaricato%20di%20prender%20parte%20a%20commissioni%20o%20a%20conferenze%20internazionali%20che%20si%20riuniscano%20nel%20Regno.%20023U0750.md);
 
-Visto il [R. decreto 27 settembre 1923, n. 2216](../Regi%20decreti/Indennita%20da%20corrispondersi%20al%20personale%20addetto%20a%20Commissioni%20o%20a%20Conferenze%20internazionali%20che%20si%20riuniscano%20nel%20Regno.%20023U2216.md);
+Visto il [R. decreto 27 settembre 1923, n. 2216](../Atti%20normativi%20abrogati%20%28in%20originale%29/Indennita%20da%20corrispondersi%20al%20personale%20addetto%20a%20Commissioni%20o%20a%20Conferenze%20internazionali%20che%20si%20riuniscano%20nel%20Regno.%20023U2216.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 

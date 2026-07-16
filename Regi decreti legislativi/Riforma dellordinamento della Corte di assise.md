@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 23 marzo 1931, n. 249](../Regi%20decreti/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
+Visto il [R. decreto 23 marzo 1931, n. 249](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20Corti%20dassise.%20031U0249.md);
 
 Visti gli [articoli 60](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md), [61](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md) e [62 del R. decreto 30 gennaio 1941, n. 12](../Regi%20decreti/Ordinamento%20giudiziario.%20041U0012.md);
 

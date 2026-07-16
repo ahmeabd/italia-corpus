@@ -22,7 +22,7 @@ Visto il contratto collettivo 15 giugno 1940 per il trattamento degli operai del
 
 Visto il contratto collettivo 21 luglio 1942 per la determinazione della misura del contributo dovuto dai datori di lavoro alla Cassa predetta;
 
-Visto il [R. decreto 20 maggio 1946, n. 369](../Regi%20decreti/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo di retribuzione fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari;
+Visto il [R. decreto 20 maggio 1946, n. 369](../Atti%20normativi%20abrogati%20%28in%20originale%29/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo di retribuzione fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari;
 
 Vista la deliberazione del Consiglio dei Ministri;
 
@@ -36,7 +36,7 @@ Il contributo dovuto dai datori di lavoro dell'industria alla Cassa per il tratt
 ## Art. 2.
 
 Il presente decreto entra in vigore dal giorno successivo alla data della sua pubblicazione nella Gazzetta Ufficiale del Regno.
- Esso ha effetto nelle provincie restituite all'Amministrazione italiana dalla data di applicazione del [R. decreto 20 maggio 1946 n. 369](../Regi%20decreti/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo della retribuzione fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari e nelle provincie non ancora restituite all'Amministrazione predetta, dalla data in cui vi venga reso esecutivo dal Governo Militare Alleato o in mancanza dal giorno della loro restituzione.
+ Esso ha effetto nelle provincie restituite all'Amministrazione italiana dalla data di applicazione del [R. decreto 20 maggio 1946 n. 369](../Atti%20normativi%20abrogati%20%28in%20originale%29/Elevazione%20del%20limite%20massimo%20della%20retribuzione%20fino%20alla%20concorrenza%20del%20quale%20e%20dovuto%20il%20contributo%20per%20gli%20assegni%20familiari.md), per la determinazione del limite massimo della retribuzione fino alla concorrenza del quale e' dovuto il contributo per gli assegni familiari e nelle provincie non ancora restituite all'Amministrazione predetta, dalla data in cui vi venga reso esecutivo dal Governo Militare Alleato o in mancanza dal giorno della loro restituzione.
 
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 

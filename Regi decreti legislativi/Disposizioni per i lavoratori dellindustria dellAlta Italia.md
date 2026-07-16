@@ -30,7 +30,7 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 ## Art. 1.
 
-Le disposizioni di cui agli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md), [4 e seguenti del decreto legislativo Luogotenenziale 8 febbraio 1946, numero 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md), modificato con [R. decreto 20 maggio 1946, numero 371](../Regi%20decreti/Determinazione%20del%20contributo%20dovuto%20alla%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria.md), hanno effetto dal 1° maggio al 31 luglio 1946.
+Le disposizioni di cui agli [articoli 2](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md), [4 e seguenti del decreto legislativo Luogotenenziale 8 febbraio 1946, numero 50](../Decreti%20legislativi%20luogotenenziali/Disposizioni%20per%20i%20lavoratori%20dellindustria%20dellAlta%20Italia.md), modificato con [R. decreto 20 maggio 1946, numero 371](../Atti%20normativi%20abrogati%20%28in%20originale%29/Determinazione%20del%20contributo%20dovuto%20alla%20Cassa%20per%20lintegrazione%20dei%20guadagni%20degli%20operai%20dellindustria.md), hanno effetto dal 1° maggio al 31 luglio 1946.
 
 ## Art. 2.
 

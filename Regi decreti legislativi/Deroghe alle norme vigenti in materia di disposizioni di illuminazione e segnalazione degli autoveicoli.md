@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Viste le norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Regi%20decreti/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
+Viste le norme per la tutela delle strade e per la circolazione, approvate con [R. decreto 8 dicembre 1933, n. 1740](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20di%20norme%20per%20la%20tutela%20delle%20strade%20e%20per%20la%20circolazione.%20033U1740.md);
 
 Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 

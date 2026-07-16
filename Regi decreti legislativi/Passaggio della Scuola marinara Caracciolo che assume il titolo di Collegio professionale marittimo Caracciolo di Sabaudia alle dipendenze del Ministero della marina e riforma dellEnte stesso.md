@@ -53,7 +53,7 @@ Gli allievi del Collegio professionale marittimo "Caracciolo" che abbiano compiu
 
 ## Art. 6.
 
-Gli allievi del Collegio professionale marittimo che abbiano compiuto il corso nautico hanno facolta' di dare presso la competente Capitaneria di porto o presso il Collegio, con l'intervento dell'apposita, Commissione, gli esami per il conferimento della patente di padrone e di motorista autorizzato, anche se non abbiano raggiunto l'eta' ed i requisiti previsti dall'[art. 123 del Codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
+Gli allievi del Collegio professionale marittimo che abbiano compiuto il corso nautico hanno facolta' di dare presso la competente Capitaneria di porto o presso il Collegio, con l'intervento dell'apposita, Commissione, gli esami per il conferimento della patente di padrone e di motorista autorizzato, anche se non abbiano raggiunto l'eta' ed i requisiti previsti dall'[art. 123 del Codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
  Le relative patenti, saranno, pero', rilasciate quando i giovani riuniranno tutte le condizioni stabilite dalla norma su citata.
  Gli allievi che abbiano compiuto il corso nautico possono essere ammessi direttamente a sostenere gli esami finali del corso "nocchieri" e del corso "motoristi navali" delle scuole volontari del C.R.E.M.
 

@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto l'[art. 7, lett. m) del R. decreto 2 giugno 1924, n. 931](../Regi%20decreti/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), e successive modificazioni, concernente l'applicazione dell'[art. 189 del R. decreto 11 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2895#art_189), relativo agli assegni a terra da corrispondersi ai personali civili e militari della Regia marina;
+Visto l'[art. 7, lett. m) del R. decreto 2 giugno 1924, n. 931](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), e successive modificazioni, concernente l'applicazione dell'[art. 189 del R. decreto 11 novembre 1923, n. 2895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2895#art_189), relativo agli assegni a terra da corrispondersi ai personali civili e militari della Regia marina;
 
 Visto il [R. decreto-legge 23 marzo 1944, n. 103](../Atti%20normativi%20abrogati%20%28in%20originale%29/Paghe%20ordinarie%20dei%20Militari%20di%20truppa%20del%20R.%20Esercito%20della%20R.%20Marina%20e%20della%20R.%20Aeronautica.%20044U0103.md), sulle paglie ordinarie dei militari di truppa del Regio esercito, della Regia marina e della Regia aeronautica;
 
@@ -68,7 +68,7 @@ o in riserva:
 
 ## Art. 2.
 
-L'[art. 2 del R. decreto 23 dicembre 1920, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1894#art_2), confermato dall'[art. 7 lettera m) del R. decreto 2 giugno 1924, n. 931](../Regi%20decreti/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), e' sostituito dal seguente: 
+L'[art. 2 del R. decreto 23 dicembre 1920, n. 1894](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1894#art_2), confermato dall'[art. 7 lettera m) del R. decreto 2 giugno 1924, n. 931](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20dellart.%20189%20del%20R.%20decreto%2011%20novembre%201923%20n.%202395%20relativo%20agli%20assegni%20a%20terra%20da%20corrispondersi%20ai%20personali%20civili%20e%20militari%20della%20Regia%20marina.%20024U0931.md), e' sostituito dal seguente: 
  "Al sottocapi e comuni vincolati con rafferma o ferma speciale, ammogliati o vedovi con prole, e' concessa una indennita' speciale di L. 750 mensili nette, oltre una indennita' complementare di. L. 300 mensili netto per la moglie o per ogni figlio convivente ed a carico, minore o inabile al lavoro. 
  L'indennita' di cui sopra e' ridotta a L. 300, per i militari provvisti di alloggio in natura, ferme restando le indennita' complementari".
 

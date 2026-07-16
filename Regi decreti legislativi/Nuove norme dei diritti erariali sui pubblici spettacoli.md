@@ -12,9 +12,9 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 30 dicembre 1923, n. 3276](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), che approva il testo delle disposizioni per i diritti erariali sugli spettacoli;
+Visto il [R. decreto 30 dicembre 1923, n. 3276](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), che approva il testo delle disposizioni per i diritti erariali sugli spettacoli;
 
-Visto il [R. decreto 2 ottobre 1924, n. 1589](../Regi%20decreti/Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md), contenente disposizioni per i diritti erariali sui cinematografi;
+Visto il [R. decreto 2 ottobre 1924, n. 1589](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md), contenente disposizioni per i diritti erariali sui cinematografi;
 
 Visto il R. decreto-legge 14 novembre 1829, n. 2096, convertito nella [legge 1° maggio 1930, n. 540](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20novembre%201929%20n.%202096%20concernente%20la%20devoluzione%20a%20favore%20dellEnte%20autonomo%20del%20Teatro%20alla%20Scala%20di%20Milano%20del%20diritto%20erariale%20e%20del%20diritto_a736d3b54031.md), contenente disposizioni sulla devoluzione del diritto erariale e demaniale all'Ente autonomo Teatro alla Scala di Milano;
 
@@ -74,7 +74,7 @@ Il diritto erariale per i giuochi o trattenimenti di ogni genere di che all'[art
 ## Art. 4.
 
 Sono abrogati:
- a) l'[art. 31 del R. decreto 30 dicembre 1923, n. 3276](../Regi%20decreti/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), che istituisce una addizionale a favore del Teatro alla Scala di Milano;
+ a) l'[art. 31 del R. decreto 30 dicembre 1923, n. 3276](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20di%20legge%20dei%20diritti%20erariali%20sugli%20spettacoli.%20023U3276.md), che istituisce una addizionale a favore del Teatro alla Scala di Milano;
  b) il [R. decreto-legge 14 novembre 1929, n. 2096](../Atti%20normativi%20abrogati%20%28in%20originale%29/Devoluzione%20a%20favore%20dellEnte%20autonomo%20del%20Teatro%20alla%20Scala%20di%20Milano%20del%20diritto%20erariale%20e%20del%20diritto%20demaniale%20sugli%20spettacoli%20che%20avranno%20luogo%20del%20detto%20teatro.%20029U2096.md), convertito nella legge l° maggio 1930, n. 540, contenente disposizioni sulla devoluzione del diritto erariale e demaniale all'Ente autonomo Teatro alla Scala di Milano;
  c) il [R. decreto-legge 26 marzo 1931, n. 368](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20a%20favore%20del%20costituendo%20Ente%20autonomo%20del%20Politeama%20Fiorentino%20di%20un%20diritto%20addizionale%20in%20aggiunta%20ai%20diritti%20erariali%20dovuti%20per%20gli%20spettacoli%20e%20trattenimenti%20nella%20provi_bf53b2f1797f.md), convertito nella [legge 9 luglio 1931, n. 1008](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20marzo%201931%20n.%20368%20concernente%20la%20istituzione%20a%20favore%20del%20costituendo%20Ente%20autonomo%20del%20Politeama%20Fiorentino%20di%20un%20diritto%20addizionale%20in%20aggi_6ebb78a1705c.md), che istituisce una addizionale a favore del Teatro comunale Vittorio Emanuele II di Firenze;
  d) il [R. decreto-legge 14 luglio 1937, n. 1383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Applicazione%20dei%20diritti%20erariali%20e%20demaniali%20nei%20confronti%20dellEnte%20autonomo%20Teatro%20comunale%20Vittorio%20Emanuele%20II%20di%20Firenze.%20037U1383.md), convertito nella [legge 13 gennaio 1938, n. 10](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20luglio%201937-XV%20n.%201383%20concernente%20lapplicazione%20dei%20diritti%20erariali%20e%20demaniali%20nei%20confronti%20dellEnte%20autonomo%20Teatro%20comunale%20%20Vittorio%20Em_61ad1a7ebf99.md), contenente disposizioni sulla devoluzione del diritto erariale e demaniale a favore dell'Ente autonomo Teatro comunale Vittorio Emanuele II di Firenze;
@@ -130,7 +130,7 @@ Per i biglietti d'ingresso nei cinematografi e nei teatri che, in facolta' degli
 
 ## Art. 10.
 
-Gli [articoli 48 della legge 30 dicembre 1923, n. 3276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3276#art_48), e 12 del [R. decreto 2 ottobre 1924, n. 1589](../Regi%20decreti/Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md), sono sostituiti dal seguente:
+Gli [articoli 48 della legge 30 dicembre 1923, n. 3276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3276#art_48), e 12 del [R. decreto 2 ottobre 1924, n. 1589](../Atti%20normativi%20abrogati%20%28in%20originale%29/Esazione%20dei%20diritti%20erariali%20sui%20cinematografi%20a%20mezzo%20della%20Societa%20Italiana%20degli%20Autori.%20024U1589.md), sono sostituiti dal seguente:
  ((Nel caso di mancato pagamento dei diritti erariali o di constatata frode od alterazione nella compilazione della distinta d'incasso, l'intendente di finanza su proposta dell'ente accertatore, ha facolta' di provvedere per la chiusura del teatro, cinema od altro locale. In deroga al disposto dell'art. 6 della legge 7 gennaio 1929, n. 4, la chiusura puo' avere durata fino a tre mesi.
  Indipendentemente da tale chiusura e da eventuali sanzioni di carattere penale, si applica, nelle ipotesi di cui al precedente comma, la pena pecuniaria da due a otto volte il tributo evaso)).
 

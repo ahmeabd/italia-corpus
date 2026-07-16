@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto 29 gennaio 1928, n. 185](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Flussio%20Sagama%20e%20Tinnura%20a%20quello%20di%20Suni.%20028U0185.md);
+Visto il [R. decreto 29 gennaio 1928, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20dei%20comuni%20di%20Flussio%20Sagama%20e%20Tinnura%20a%20quello%20di%20Suni.%20028U0185.md);
 
 Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
@@ -22,13 +22,13 @@ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abb
 
 ## Art. 1.
 
-I comuni di Sagama, Flussio e Tinnura, aggregati con [R. decreto 29 gennaio 1928, n. 185](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Flussio%20Sagama%20e%20Tinnura%20a%20quello%20di%20Suni.%20028U0185.md), al comune di Suni, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
+I comuni di Sagama, Flussio e Tinnura, aggregati con [R. decreto 29 gennaio 1928, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20dei%20comuni%20di%20Flussio%20Sagama%20e%20Tinnura%20a%20quello%20di%20Suni.%20028U0185.md), al comune di Suni, sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo. 
  Il Prefetto di Nuoro, sentita la Giunta provinciale amministrativa, provvedera' al regolamento dei rapporti patrimoniali e finanziari fra i Comuni suddetti.
 
 ## Art. 2.
 
 Gli organici dei ricostituiti comuni di Sagama, Flussio e Tinnura ed il nuovo organico del comune di Suni saranno stabiliti dal Prefetto, sentita la Giunta provinciale amministrativa. 
- Il numero dei posti e dei gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione, disposta con [R. decreto 29 gennaio 1928, n. 185](../Regi%20decreti/Aggregazione%20dei%20comuni%20di%20Flussio%20Sagama%20e%20Tinnura%20a%20quello%20di%20Suni.%20028U0185.md). 
+ Il numero dei posti e dei gradi relativi non potranno essere superiori, rispettivamente, a quelli organicamente assegnati ai Comuni predetti anteriormente alla loro fusione, disposta con [R. decreto 29 gennaio 1928, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20dei%20comuni%20di%20Flussio%20Sagama%20e%20Tinnura%20a%20quello%20di%20Suni.%20028U0185.md). 
  Al personale gia' in servizio presso il comune di Suni, che sara' inquadrato nei predetti organici, non potranno essere attribuiti posizione gerarchica e trattamento economico superiori a quelli goduti all'atto dell'inquadramento medesimo.
 
 ## Art. 3.
