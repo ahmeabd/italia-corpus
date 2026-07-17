@@ -143,7 +143,7 @@ L'aliquota di cui al [secondo comma dell'articolo 18 del decreto del Presidente 
 
 3.
 
-Gli interessi per la riscossione o per il rimborso di imposte, previsti dagli [articoli 9](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [20](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [21](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [39](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [44 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, nella misura del 12 per cento annuo e del 6 per cento semestrale, sono dovuti, a decorrere dal 1 gennaio 1988, rispettivamente, nelle misure del 9 e del 4,5 per cento.
+Gli interessi per la riscossione o per il rimborso di imposte, previsti dagli [articoli 9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [20](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [21](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), [39](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md) e [44 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md), e successive modificazioni, nella misura del 12 per cento annuo e del 6 per cento semestrale, sono dovuti, a decorrere dal 1 gennaio 1988, rispettivamente, nelle misure del 9 e del 4,5 per cento.
 
 4.
 
@@ -177,7 +177,7 @@ Resta ferma al 25 per cento la ritenuta sugli interessi, premi ed altri frutti s
 
 11.
 
-Sono fatti salvi gli effetti prodotti dai [decreti-legge 29 dicembre 1987, n. 533, e 13 gennaio 1988, n. 3](../DL%20decaduti/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti_2.md), nei confronti dei certificati di deposito e dei depositi estinti nel periodo di vigenza dei predetti decreti-legge.
+Sono fatti salvi gli effetti prodotti dai [decreti-legge 29 dicembre 1987, n. 533, e 13 gennaio 1988, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti_2.md), nei confronti dei certificati di deposito e dei depositi estinti nel periodo di vigenza dei predetti decreti-legge.
 
 12.
 
@@ -814,11 +814,11 @@ Per consentire la definizione di interventi, avviati sulla base della [Direttiva
 
 30.
 
-Ai fini dell'attuazione del regolamento della Commissione delle Comunita' europee n. 2617/80, come modificato dai [regolamenti n. 217/84](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1984;217) e [3635/85](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1985;3635), concernente provvidenze in favore di alcune zone colpite dalla ristrutturazione del settore della costruzione navale, nelle province di Trieste, Gorizia, e Genova sono ammesse le agevolazioni di cui all'[articolo 5 del decreto del Presidente della Repubblica 9 novembre 1976, n. 902](../DPR/Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md) e successive modificazioni ed integrazioni, fino al 31 dicembre 1988. Per la provincia di Genova sono esclusi i comuni di Gorreto, Rovegno, Rezzoaglio e Santo Stefano d'Aveto.
+Ai fini dell'attuazione del regolamento della Commissione delle Comunita' europee n. 2617/80, come modificato dai [regolamenti n. 217/84](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1984;217) e [3635/85](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1985;3635), concernente provvidenze in favore di alcune zone colpite dalla ristrutturazione del settore della costruzione navale, nelle province di Trieste, Gorizia, e Genova sono ammesse le agevolazioni di cui all'[articolo 5 del decreto del Presidente della Repubblica 9 novembre 1976, n. 902](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md) e successive modificazioni ed integrazioni, fino al 31 dicembre 1988. Per la provincia di Genova sono esclusi i comuni di Gorreto, Rovegno, Rezzoaglio e Santo Stefano d'Aveto.
 
 31.
 
-Per le finalita' di cui al comma 30 nonche' per l'applicazione dell'[articolo 23 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), le autorizzazioni di spesa da iscrivere nel capitolo 7545 dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 25, primo comma, lettera a), del decreto del Presidente della Repubblica 9 novembre 1976, n. 902](../DPR/Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md) e successive modificazioni ed integrazioni, sono incrementate di lire 50 miliardi, in ragione di lire 20 miliardi per ciascuno degli anni 1988 e 1989 e di lire 10 miliardi per l'anno 1990.
+Per le finalita' di cui al comma 30 nonche' per l'applicazione dell'[articolo 23 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), le autorizzazioni di spesa da iscrivere nel capitolo 7545 dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'[articolo 25, primo comma, lettera a), del decreto del Presidente della Repubblica 9 novembre 1976, n. 902](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md) e successive modificazioni ed integrazioni, sono incrementate di lire 50 miliardi, in ragione di lire 20 miliardi per ciascuno degli anni 1988 e 1989 e di lire 10 miliardi per l'anno 1990.
 
 32.
 
@@ -935,7 +935,7 @@ Il [D.L. 16 maggio 1994, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
  
 AGGIORNAMENTO (31) 
- Il [D. Lgs. 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md) ha disposto (con l'art. 9, comma 4, numero 6)) che "A decorrere dalla data di entrata in vigore del primo decreto di cui all'articolo 6, comma 2: 
+ Il [D. Lgs. 27 luglio 1999, n. 297](../Decreti%20Legislativi/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md) ha disposto (con l'art. 9, comma 4, numero 6)) che "A decorrere dalla data di entrata in vigore del primo decreto di cui all'articolo 6, comma 2: 
  a) sono abrogate le seguenti disposizioni: 
 [..] 
  6) [articolo 15, commi 3](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) e [4, della legge 11 marzo 1988, n. 67](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md);" 
@@ -1065,7 +1065,7 @@ Per la realizzazione delle opere di edilizia carceraria e giudiziaria, il Minist
 
 24.
 
-COMMA ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md).
+COMMA ABROGATO DAL [D. LGS. 29 OTTOBRE 1999, N. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md).
 
 25.
 
@@ -1229,7 +1229,7 @@ Gli specialisti e le strutture convenzionate per le prestazioni di cui al comma 
 
 4.
 
-I medicinali per uso umano, al momento dell'autorizzazione all'immissione in commercio, rilasciata ai sensi del [decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), sono classificati come medicinali prescrivibili dal Servizio sanitario nazionale o come medicinali non prescrivibili dal Servizio sanitario nazionale. Il provvedimento che autorizza l'immissione in commercio di un medicinale per uso umano specifica, altresi', la classificazione ai fini del decreto legislativo di recepimento della direttiva del Consiglio delle Comunita' europee n. 92/26 CEE ed eventuali modificazioni.
+I medicinali per uso umano, al momento dell'autorizzazione all'immissione in commercio, rilasciata ai sensi del [decreto legislativo 29 maggio 1991, n. 178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), sono classificati come medicinali prescrivibili dal Servizio sanitario nazionale o come medicinali non prescrivibili dal Servizio sanitario nazionale. Il provvedimento che autorizza l'immissione in commercio di un medicinale per uso umano specifica, altresi', la classificazione ai fini del decreto legislativo di recepimento della direttiva del Consiglio delle Comunita' europee n. 92/26 CEE ed eventuali modificazioni.
 
 5.
 
@@ -1237,7 +1237,7 @@ Al prontuario terapeutico, costituito dai medicinali prescrivibili dal Servizio 
 
 6.
 
-COMMA SOPPRESSO DAL [D. LGS. 30 DICEMBRE 1992, N. 539](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md).
+COMMA SOPPRESSO DAL [D. LGS. 30 DICEMBRE 1992, N. 539](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md).
 
 7.
 
@@ -1265,7 +1265,7 @@ La Commissione di cui al comma 7, sulla base di un proprio programma di lavoro e
 
 11.
 
-COMMA ABROGATO DAL [D. LGS. 29 MAGGIO 1991, N. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
+COMMA ABROGATO DAL [D. LGS. 29 MAGGIO 1991, N. 178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
 
 12.
 
@@ -1760,7 +1760,7 @@ Note all'[art. 29, comma 1:
  f) beni immobili situati nel territorio della Repubblica per le quote libere da ipoteche;
  g) mutui, debitamente garantiti, a comuni, province e regioni e ad altri enti pubblici, mutui garantiti da ipoteca di primo grado su beni immobili per una somma che non ecceda la meta' del valore degli immobili stessi debitamente accertato; tale limite potra' arrivare fino all'80 per cento qualora il mutuo sia concesso a cooper- ative o consorzi di cooperative costituiti ai sensi del [decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-12-14;1577), ratificato, con modificazioni, dalla [legge 2 aprile 1951, n. 302](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%20del%20Capo%20provvisorio%20dello%20Stato%2014%20dicembre%201947%20n.%201577%20recante%20provvedimenti%20per%20la%20cooperazione%20e%20modificazione%20della%20legge%208%20maggio%201949%20n.%20285.md), e successive modificazioni ed integrazioni; mutui su proprie polizze di assicurazione sulla vita nel limite del corrispondente valore di riscatto;
  h) quote di partecipazione al capitale della Banca d'Italia, dell'Istituto mobiliare italiano, dei Mediocrediti regionali, delle Casse di risparmio e del Consorzio di credito per le opere pubbliche; azioni dell'Istituto italiano di credito fondiario;
- i) obbligazioni dell'ISVEIMER, dell'IRFIS, del CIS, dell'IRI, dell'ENEL, dell'ENI, dell'EFIM, dell'IMI, del C.C.OO.PP., dei Mediocrediti regionali e del Mediocredito centrale ed azioni ed obbligazioni di societa' da queste controllate nonche' di societa' nazionali le cui azioni siano quotate in borsa o al mercato ristretto da almeno tre anni, o il cui bilancio sia da almeno tre anni sottoposto a revisione da parte di una societa' iscritta nell'albo speciale di cui all'[art. 8 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), e quote di societa' coop- erative i cui bilanci siano stati certificati da almeno tre anni.
+ i) obbligazioni dell'ISVEIMER, dell'IRFIS, del CIS, dell'IRI, dell'ENEL, dell'ENI, dell'EFIM, dell'IMI, del C.C.OO.PP., dei Mediocrediti regionali e del Mediocredito centrale ed azioni ed obbligazioni di societa' da queste controllate nonche' di societa' nazionali le cui azioni siano quotate in borsa o al mercato ristretto da almeno tre anni, o il cui bilancio sia da almeno tre anni sottoposto a revisione da parte di una societa' iscritta nell'albo speciale di cui all'[art. 8 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), e quote di societa' coop- erative i cui bilanci siano stati certificati da almeno tre anni.
  Il valore dell'investimento in titoli di una stessa societa' non puo' comunque superare il 3 per cento dell'ammontare delle riserve tecniche ne', se si tratta di azioni o quote, il 5 per cento del capitale della societa' emittente. Non e' consentita la copertura delle riserve tecniche con azioni o quote emesse dalle societa' controllate di cui al numero 3) del [primo comma dell'articolo 2359 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2359-com1);
  l) azioni o quote di societa' di capitale, delle quali l'impresa detenga piu' della meta' del capitale sociale, che abbiano per oggetto esclusivo la costruzione o la gestione di immobili per l'edilizia residenziale non di lusso, per l'importo iscritto in bilancio nel limite del valore economico degli immobili della societa' assunto in proporzione alla quota di capitale sociale detenuta ed al netto dei debiti;
  m) azioni o quote di societa' di capitale, delle quali l'impresa detenga piu' della meta' del capitale sociale, che abbiano per oggetto esclusivo la costruzione o la gestione di immobili, ad uso industriale o commerciale o l'esercizio dell'attivita' agricola, per l'importo iscritto in bilancio nel limite del valore economico degli immobili della societa' assunto in proporzione alla quota di capitale sociale detenuta ed al netto dei debiti;
@@ -1804,7 +1804,7 @@ La presente legge entra in vigore il giorno stesso della sua pubblicazione nella
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti, prima dell'entrata in vigore della presente legge, sulla base delle disposizioni contenute nei [decreti-legge 13 gennaio 1988, nn. 3 e 5, 15 gennaio 1988, nn. 8 e 9, e 29 dicembre 1987, n. 533](../DL%20decaduti/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti.md), sostituite da quelle della presente legge.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti, prima dell'entrata in vigore della presente legge, sulla base delle disposizioni contenute nei [decreti-legge 13 gennaio 1988, nn. 3 e 5, 15 gennaio 1988, nn. 8 e 9, e 29 dicembre 1987, n. 533](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20tributaria%20di%20previdenza%20di%20assunzioni%20nella%20pubblica%20amministrazione%20ed%20altre%20disposizioni%20urgenti.md), sostituite da quelle della presente legge.
 
 Note all'[art. 31, comma 3:
  - Il D.L. n. 533/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;533#art_31-com3), non convertito in legge perche' respinto dalla Camera dei deputati nella seduta del 12 gennaio 1988 (il relativo comunicato e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 9 del 13 gennaio 1988), recava norme in materia tributaria, di previdenza, di assunzioni nella pubblica amministrazione ed altre disposizioni urgenti.
