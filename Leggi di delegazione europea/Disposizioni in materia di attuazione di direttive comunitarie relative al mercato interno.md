@@ -59,7 +59,7 @@ In aggiunta agli specifici criteri e principi direttivi contenuti nelle direttiv
 
 Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate:
                         a)
-                            con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md), rela- 
+                            con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md), rela- 
 tive agli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1973-11-19;361#art_2) 
 e [3 della direttiva 73/361/CEE del Consiglio, del 19 novembre 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;361), modificata dalla [direttiva 76/434/CEE della Commissione, del 13 aprile 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;434);
                         b)
@@ -235,7 +235,7 @@ L'attuazione della [direttiva 92/27/CEE del Consiglio, del 31 marzo 1992](https:
                         b)
                             sara' previsto che le confezioni contenenti etichetta e fogli illustrativi conformi alla previgente disciplina possano essere mantenute in commercio, ove non ostino specifici motivi di carattere sanitario, fino alla scadenza dei prodotti;
                         c)
-                            sara' confermata la possibilita' di apportare modifiche alla disciplina sull'etichettatura e sul foglio illustrativo con le modalita' previste dall'[articolo 16 del decreto legislativo 29 maggio 1991, n. 178](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
+                            sara' confermata la possibilita' di apportare modifiche alla disciplina sull'etichettatura e sul foglio illustrativo con le modalita' previste dall'[articolo 16 del decreto legislativo 29 maggio 1991, n. 178](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md).
 
 ## Art. 16. — Pubblicita' dei medicinali per uso umano: criteri di delega
 
@@ -369,7 +369,7 @@ L'attuazione della [direttiva 91/683/CEE del Consiglio, del 19 dicembre 1991](ht
 
 1.
 
-All'[articolo 74 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), e successive modificazioni, sono apportate le seguenti modifiche:
+All'[articolo 74 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), e successive modificazioni, sono apportate le seguenti modifiche:
                         a)
                             nel comma 1, le parole: "in quantita' superiore a chilogrammi 10" sono sostituite dalle seguenti: "in quantita' superiore a chilogrammi 50"; le parole: "dello zucchero, dello zucchero invertito, del glucosio e del levulosio, del melasso ed altre sostanze zuccherine" sono sostituite dalle seguenti: "del saccarosio, escluso lo zucchero a velo, del glucosio e isoglucosio"; le parole: "a madre e tre figlie" sono sostituite dalle seguenti: "a madre e due figlie";
                         b)
