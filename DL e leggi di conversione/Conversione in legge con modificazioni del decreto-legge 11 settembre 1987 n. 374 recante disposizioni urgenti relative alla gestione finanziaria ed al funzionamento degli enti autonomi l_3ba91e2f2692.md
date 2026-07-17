@@ -34,7 +34,7 @@ Il [decreto-legge 11 settembre 1987, n. 374](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 10 luglio 1987, n. 277](../DL%20decaduti/Disposizioni%20urgenti%20relative%20alla%20gestione%20finanziaria%20ed%20al%20funzionamento%20degli%20enti%20autonomi%20lirici%20ed%20istituzioni%20concertistiche%20assimilate.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 10 luglio 1987, n. 277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20relative%20alla%20gestione%20finanziaria%20ed%20al%20funzionamento%20degli%20enti%20autonomi%20lirici%20ed%20istituzioni%20concertistiche%20assimilate.md).
 
 3.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base degli [articoli 5, comma 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_5-com10), e [12, comma 12, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_12-com12), nonche' del [decreto-legge 23 giugno 2010, n. 94](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20accise%20sui%20tabacchi.%2010G0117.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base degli [articoli 5, comma 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_5-com10), e [12, comma 12, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_12-com12), nonche' del [decreto-legge 23 giugno 2010, n. 94](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20accise%20sui%20tabacchi.%2010G0117.md).
 
 3.
 

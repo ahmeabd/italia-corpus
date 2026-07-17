@@ -22,7 +22,7 @@ Il [decreto-legge 24 settembre 1996, n. 497](https://www.normattiva.it/uri-res/N
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 marzo 1996, n. 163, 27 maggio 1996, n. 293, e 26 luglio 1996, n. 394](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20risanamento%20la%20ristrutturazione%20e%20la%20privatizzazione%20del%20Banco%20di%20Napoli_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 27 marzo 1996, n. 163, 27 maggio 1996, n. 293, e 26 luglio 1996, n. 394](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20risanamento%20la%20ristrutturazione%20e%20la%20privatizzazione%20del%20Banco%20di%20Napoli_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 16 maggio 1994, n. 293](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 settembre 1992, n. 381, 19 novembre 1992, n. 439, 18 gennaio 1993, n. 7, 19 marzo 1993, n. 69, 20 maggio 1993, n. 150, 19 luglio 1993, n. 239, 17 settembre 1993, n. 363, 19 novembre 1993, n. 463, 17 gennaio 1994, n. 33, e 17 marzo 1994, n. 179](../DL%20decaduti/Disciplina%20della%20proroga%20degli%20organi%20amministrativi_10.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 settembre 1992, n. 381, 19 novembre 1992, n. 439, 18 gennaio 1993, n. 7, 19 marzo 1993, n. 69, 20 maggio 1993, n. 150, 19 luglio 1993, n. 239, 17 settembre 1993, n. 363, 19 novembre 1993, n. 463, 17 gennaio 1994, n. 33, e 17 marzo 1994, n. 179](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20proroga%20degli%20organi%20amministrativi_10.md).
 
 AVVERTENZA:
  Il [decreto-legge 16 maggio 1994, n. 293](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-16;293), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 114 del 18 maggio 1994.

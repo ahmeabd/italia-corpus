@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 27 febbraio 1984, n. 15](https://www.no
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dell'applicazione delle disposizioni del [decreto-legge 28 dicembre 1983, n. 734](../DL%20decaduti/Modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi_4.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dell'applicazione delle disposizioni del [decreto-legge 28 dicembre 1983, n. 734](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20regime%20fiscale%20di%20alcuni%20prodotti%20petroliferi_4.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

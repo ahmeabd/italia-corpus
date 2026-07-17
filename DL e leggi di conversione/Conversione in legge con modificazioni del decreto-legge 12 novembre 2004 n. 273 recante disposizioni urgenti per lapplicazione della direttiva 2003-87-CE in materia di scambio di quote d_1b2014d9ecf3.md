@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 12 novembre 2004, n. 273](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20urgenti%20per%20lapplicazione%20della%20direttiva%202003-87-CE%20in%20materia%20di%20scambio%20di%20quote%20di%20emissione%20dei%20gas%20ad%20effetto%20serra%20nella%20Comunita%20europea.md), recante disposizioni urgenti per l'applicazione della [direttiva 2003/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87) in materia di scambio di quote di emissione dei gas ad effetto serra nella Comunita' europea, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 12 novembre 2004, n. 273](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20lapplicazione%20della%20direttiva%202003-87-CE%20in%20materia%20di%20scambio%20di%20quote%20di%20emissione%20dei%20gas%20ad%20effetto%20serra%20nella%20Comunita%20europea.md), recante disposizioni urgenti per l'applicazione della [direttiva 2003/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87) in materia di scambio di quote di emissione dei gas ad effetto serra nella Comunita' europea, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

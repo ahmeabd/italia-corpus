@@ -22,7 +22,7 @@ Il [decreto-legge 30 maggio 1994, n. 324](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 dicembre 1993, n. 488, 29 gennaio 1994, n. 76, e 31 marzo 1994, n. 217](../DL%20decaduti/Attuazione%20dellembargo%20deliberato%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20nei%20confronti%20della%20Libia%20nonche%20disposizioni%20procedurali%20in%20materia%20di%20embargo%20nei%20confronti%20degli%20Stati%20_3cad66647a5d.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 2 dicembre 1993, n. 488, 29 gennaio 1994, n. 76, e 31 marzo 1994, n. 217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellembargo%20deliberato%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20nei%20confronti%20della%20Libia%20nonche%20disposizioni%20procedurali%20in%20materia%20di%20embargo%20nei%20confronti%20degli%20Stati%20_3cad66647a5d.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

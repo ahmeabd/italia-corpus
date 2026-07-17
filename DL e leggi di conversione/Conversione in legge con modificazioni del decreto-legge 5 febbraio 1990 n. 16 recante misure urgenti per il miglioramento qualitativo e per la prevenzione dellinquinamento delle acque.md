@@ -22,7 +22,7 @@ Il [decreto-legge 5 febbraio 1990, n. 16](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 14 febbraio 1989, n. 49, 14 aprile 1989, n. 130, 21 aprile 1989, n. 136, 14 giugno 1989, n. 229, 4 agosto 1989, n. 278, 7 ottobre 1989, n. 335, e 6 dicembre 1989, n. 388](../DL%20decaduti/Misure%20urgenti%20per%20il%20miglioramento%20qualitativo%20e%20per%20la%20prevenzione%20dellinquinamento%20delle%20risorse%20idriche%20destinate%20allapprovvigionamento%20potabile_6.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 14 febbraio 1989, n. 49, 14 aprile 1989, n. 130, 21 aprile 1989, n. 136, 14 giugno 1989, n. 229, 4 agosto 1989, n. 278, 7 ottobre 1989, n. 335, e 6 dicembre 1989, n. 388](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20il%20miglioramento%20qualitativo%20e%20per%20la%20prevenzione%20dellinquinamento%20delle%20risorse%20idriche%20destinate%20allapprovvigionamento%20potabile_6.md).
 
 AVVERTENZA:
  Il [decreto-legge 5 febbraio 1990, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-02-05;16), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 30 del 6 febbraio 1990.

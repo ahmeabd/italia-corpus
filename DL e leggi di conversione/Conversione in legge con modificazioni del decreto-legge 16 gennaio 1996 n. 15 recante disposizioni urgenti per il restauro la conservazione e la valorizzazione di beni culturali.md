@@ -22,7 +22,7 @@ Il [decreto-legge 16 gennaio 1996, n. 15](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 novembre 1995, n. 484](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20restauro%20la%20conservazione%20e%20la%20valorizzazione%20di%20beni%20culturali.md).
+Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 novembre 1995, n. 484](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20restauro%20la%20conservazione%20e%20la%20valorizzazione%20di%20beni%20culturali.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

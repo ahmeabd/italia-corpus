@@ -22,11 +22,11 @@ Il [decreto-legge 6 maggio 1994, n. 272](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 novembre 1993, n. 440, 7 gennaio 1994, n. 6, e 4 marzo 1994, n. 163](../DL%20decaduti/Attuazione%20degli%20embarghi%20deliberati%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20nei%20confronti%20di%20Haiti%20e%20del%20movimento%20UNITA%20in%20Angola_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 novembre 1993, n. 440, 7 gennaio 1994, n. 6, e 4 marzo 1994, n. 163](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20degli%20embarghi%20deliberati%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20nei%20confronti%20di%20Haiti%20e%20del%20movimento%20UNITA%20in%20Angola_3.md).
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 luglio 1993, n. 240](../DL%20decaduti/Attuazione%20dellembargo%20nei%20confronti%20di%20Haiti%20deliberato%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20con%20la%20risoluzione%20n.%20841.md), recante attuazione dell'embargo nei confronti di Haiti, deliberato dal Consiglio di sicurezza delle Nazioni Unite con la risoluzione n. 841.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 luglio 1993, n. 240](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20dellembargo%20nei%20confronti%20di%20Haiti%20deliberato%20dal%20Consiglio%20di%20sicurezza%20delle%20Nazioni%20Unite%20con%20la%20risoluzione%20n.%20841.md), recante attuazione dell'embargo nei confronti di Haiti, deliberato dal Consiglio di sicurezza delle Nazioni Unite con la risoluzione n. 841.
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

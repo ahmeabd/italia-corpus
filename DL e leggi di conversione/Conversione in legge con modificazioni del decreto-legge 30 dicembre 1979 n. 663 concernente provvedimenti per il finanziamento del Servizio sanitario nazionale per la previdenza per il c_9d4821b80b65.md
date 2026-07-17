@@ -236,7 +236,7 @@ A decorrere dal 16 dicembre 1979 l'importo giornaliero del trattamento speciale 
 
 ## Art. 4.
 
-I provvedimenti, adottati in attuazione del [decreto-legge 11 dicembre 1979, n. 624](../DL%20decaduti/Norme%20in%20materia%20di%20servizi%20dellimpiego%20di%20mobilita%20dei%20lavoratori%20e%20di%20integrazione%20salariale.md), conservano integralmente la loro efficacia.
+I provvedimenti, adottati in attuazione del [decreto-legge 11 dicembre 1979, n. 624](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20in%20materia%20di%20servizi%20dellimpiego%20di%20mobilita%20dei%20lavoratori%20e%20di%20integrazione%20salariale.md), conservano integralmente la loro efficacia.
  Le istanze presentate ai sensi dell'articolo 24 del decreto-legge di cui al comma precedente possono essere accolte ove ne ricorrano i presupposti necessari
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.

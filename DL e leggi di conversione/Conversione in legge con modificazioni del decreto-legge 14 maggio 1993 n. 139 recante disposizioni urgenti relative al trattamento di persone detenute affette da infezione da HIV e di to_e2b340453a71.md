@@ -22,7 +22,7 @@ Il [decreto-legge 14 maggio 1993, n. 139](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 luglio 1992, n. 335, 11 settembre 1992, n. 374, 12 novembre 1992, n. 431, 12 gennaio 1993, n. 3, e 13 marzo 1993, n. 60](../DL%20decaduti/Disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20affette%20da%20infezione%20da%20HIV%20o%20tossicodipendenti%20nonche%20per%20lincremento%20dellorganico%20del%20Corpo%20di%20polizia%20penitenziaria.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 13 luglio 1992, n. 335, 11 settembre 1992, n. 374, 12 novembre 1992, n. 431, 12 gennaio 1993, n. 3, e 13 marzo 1993, n. 60](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20relative%20al%20trattamento%20di%20persone%20affette%20da%20infezione%20da%20HIV%20o%20tossicodipendenti%20nonche%20per%20lincremento%20dellorganico%20del%20Corpo%20di%20polizia%20penitenziaria.md).
 
 AVVERTENZA:
  Il [decreto-legge 14 maggio 1993, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-14;139), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 112 del 15 maggio 1993.

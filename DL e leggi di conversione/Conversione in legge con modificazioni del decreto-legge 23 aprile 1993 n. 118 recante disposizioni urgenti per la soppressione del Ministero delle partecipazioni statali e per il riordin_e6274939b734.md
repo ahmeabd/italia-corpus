@@ -22,7 +22,7 @@ Il [decreto-legge 23 aprile 1993, n. 118](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 22 febbraio 1993, n. 41](../DL%20decaduti/Disposizioni%20urgenti%20per%20la%20soppressione%20del%20Ministero%20delle%20partecipazioni%20statali%20e%20per%20il%20riordino%20di%20IRI%20ENI%20ENEL%20IMI%20BNL%20e%20INA.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 22 febbraio 1993, n. 41](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20la%20soppressione%20del%20Ministero%20delle%20partecipazioni%20statali%20e%20per%20il%20riordino%20di%20IRI%20ENI%20ENEL%20IMI%20BNL%20e%20INA.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ Il [decreto-legge 23 maggio 1994, n. 301](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 settembre 1993, n. 348, 8 novembre 1993, n. 439, 7 gennaio 1994, n. 7, 10 marzo 1994, n. 168, e 6 maggio 1994, n. 277](../DL%20decaduti/Disposizioni%20urgenti%20sulla%20estinzione%20dellobbligo%20di%20cessione%20di%20quota%20parte%20dei%20rischi%20delle%20imprese%20che%20esercitano%20lassicurazione%20vita_5.md), recanti disposizioni urgenti sulla estinzione dell'obbligo di cessione di quota parte dei rischi delle imprese che esercitano l'assicurazione vita.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 9 settembre 1993, n. 348, 8 novembre 1993, n. 439, 7 gennaio 1994, n. 7, 10 marzo 1994, n. 168, e 6 maggio 1994, n. 277](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20sulla%20estinzione%20dellobbligo%20di%20cessione%20di%20quota%20parte%20dei%20rischi%20delle%20imprese%20che%20esercitano%20lassicurazione%20vita_5.md), recanti disposizioni urgenti sulla estinzione dell'obbligo di cessione di quota parte dei rischi delle imprese che esercitano l'assicurazione vita.
 
 AVVERTENZA:
  Il [decreto-legge 23 maggio 1994, n. 301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-23;301), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 118 del 23 maggio 1994.

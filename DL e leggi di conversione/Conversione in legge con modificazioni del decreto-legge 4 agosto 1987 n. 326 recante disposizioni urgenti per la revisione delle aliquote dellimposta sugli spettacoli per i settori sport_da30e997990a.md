@@ -47,7 +47,7 @@ Il termine previsto dall'[articolo 3 della legge 4 ottobre 1986, n. 657](../Legg
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 dicembre 1986, n. 881, 13 febbraio 1987, n. 23, 16 aprile 1987, n. 142, e 8 giugno 1987, n. 221](../DL%20decaduti/Disposizioni%20urgenti%20per%20la%20revisione%20delle%20aliquote%20dellimposta%20sugli%20spettacoli%20per%20i%20settori%20sportivo%20e%20cinematografico%20per%20assicurare%20la%20continuita%20della%20riscossione%20delle%20imposte%20dir_0f22e65fe4fb_2.md), non convertiti in legge.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 22 dicembre 1986, n. 881, 13 febbraio 1987, n. 23, 16 aprile 1987, n. 142, e 8 giugno 1987, n. 221](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20la%20revisione%20delle%20aliquote%20dellimposta%20sugli%20spettacoli%20per%20i%20settori%20sportivo%20e%20cinematografico%20per%20assicurare%20la%20continuita%20della%20riscossione%20delle%20imposte%20dir_0f22e65fe4fb_2.md), non convertiti in legge.
 
 4.
 

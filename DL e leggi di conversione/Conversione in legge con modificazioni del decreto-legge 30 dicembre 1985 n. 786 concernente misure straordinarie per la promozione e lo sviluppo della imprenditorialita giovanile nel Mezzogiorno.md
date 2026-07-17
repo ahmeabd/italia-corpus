@@ -30,7 +30,7 @@ Il [decreto-legge 30 dicembre 1985, n. 786](https://www.normattiva.it/uri-res/N2
  e il comma 2 e' sostituito dal seguente:
  "2. Le agevolazioni finanziarie sono concesse ed erogate secondo criteri e modalita' stabiliti con decreto del Ministro per gli interventi straordinari nel Mezzogiorno, di concerto con il Ministro del tesoro, con il Ministro del lavoro e della previdenza sociale e con il Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro 60 giorni dall'entrata in vigore della legge di conversione del presente decreto. Tali criteri e modalita' tengono conto:
  a) dell'opportunita' di privilegiare, in termini di maggiori contributi in conto capitale, i progetti che, oltre ad avere le caratteristiche di cui al seguente comma, prevedano, tra l'altro, lo sfruttamento di beni e di infrastrutture gia' esistenti e la valorizzazione delle risorse locali e siano corredati da studi di fattibilita' che comprovino le prospettive di mercato e l'economicita' di gestione;
- b) della residenza nel Mezzogiorno alla data di entrata in vigore del [decreto-legge 24 ottobre 1985, n. 561](../DL%20decaduti/Misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), o a data anteriore, della maggioranza dei giovani partecipanti alle cooperative od alle societa';
+ b) della residenza nel Mezzogiorno alla data di entrata in vigore del [decreto-legge 24 ottobre 1985, n. 561](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), o a data anteriore, della maggioranza dei giovani partecipanti alle cooperative od alle societa';
  c) della necessita' di privilegiare le cooperative nella determinazione del contributo per le spese di gestione;
  d) della necessita' di evitare il cumulo delle agevolazioni finanziarie del presente decreto con altre agevolazioni regionali, nazionali e comunitarie;
  e) dell'obbligo a carico del soggetto agevolato di non distogliere dall'uso previsto, per un congruo periodo di tempo, i beni strumentali agevolati;
@@ -59,7 +59,7 @@ AVVERTENZA:
 
 ## Art. 2.
 
-Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle norme del [decreto-legge 24 ottobre 1985, n. 561](../DL%20decaduti/Misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md).
+Restano validi gli atti ed i provvedimenti adottati ed hanno efficacia i rapporti giuridici sorti in applicazione delle norme del [decreto-legge 24 ottobre 1985, n. 561](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md).
 
 ## Art. 3.
 

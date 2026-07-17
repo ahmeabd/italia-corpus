@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 31 agosto 1994, n. 524](https://www.nor
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 1 luglio 1994, n. 429](../DL%20decaduti/Interventi%20urgenti%20per%20il%20palazzo%20di%20giustizia%20nella%20citta%20di%20Napoli%20e%20per%20le%20esigenze%20connesse%20allo%20svolgimento%20della%20Conferenza%20mondiale%20dei%20Ministri%20della%20giustizia.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 1 luglio 1994, n. 429](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20il%20palazzo%20di%20giustizia%20nella%20citta%20di%20Napoli%20e%20per%20le%20esigenze%20connesse%20allo%20svolgimento%20della%20Conferenza%20mondiale%20dei%20Ministri%20della%20giustizia.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

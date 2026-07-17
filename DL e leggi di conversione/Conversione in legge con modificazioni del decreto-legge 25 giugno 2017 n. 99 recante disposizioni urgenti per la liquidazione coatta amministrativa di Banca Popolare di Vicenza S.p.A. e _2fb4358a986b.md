@@ -22,7 +22,7 @@ Il [decreto-legge 25 giugno 2017, n. 99](https://www.normattiva.it/uri-res/N2Ls?
 
 2.
 
-Il [decreto-legge 16 giugno 2017, n. 89](../DL%20decaduti/Interventi%20urgenti%20per%20assicurare%20la%20parita%20di%20trattamento%20dei%20creditori%20nel%20contesto%20di%20una%20ricapitalizzazione%20precauzionale%20nel%20settore%20creditizio.%2017G00108.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 89 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017;89).
+Il [decreto-legge 16 giugno 2017, n. 89](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20per%20assicurare%20la%20parita%20di%20trattamento%20dei%20creditori%20nel%20contesto%20di%20una%20ricapitalizzazione%20precauzionale%20nel%20settore%20creditizio.%2017G00108.md), e' abrogato. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo [decreto-legge n. 89 del 2017](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017;89).
 
 3.
 

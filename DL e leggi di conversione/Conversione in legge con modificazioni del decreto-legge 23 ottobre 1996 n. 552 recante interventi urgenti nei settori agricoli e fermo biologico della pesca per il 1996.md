@@ -22,19 +22,19 @@ Il [decreto-legge 23 ottobre 1996, n. 552](https://www.normattiva.it/uri-res/N2L
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 7 maggio 1996, n. 247](../DL%20decaduti/Disposizioni%20urgenti%20per%20il%20personale%20della%20Federconsorzi.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 7 maggio 1996, n. 247](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20personale%20della%20Federconsorzi.md).
 
 3.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 15 marzo 1996, n. 124, e 16 maggio 1996, n. 260](../DL%20decaduti/Regime%20comunitario%20di%20produzione%20lattiera_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 15 marzo 1996, n. 124, e 16 maggio 1996, n. 260](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regime%20comunitario%20di%20produzione%20lattiera_2.md).
 
 4.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 dicembre 1995, n. 518, 31 gennaio 1996, n. 41, 2 aprile 1996, n. 182, e 3 giugno 1996, n. 302](../DL%20decaduti/Interventi%20urgenti%20nei%20settori%20agricoli_4.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 4 dicembre 1995, n. 518, 31 gennaio 1996, n. 41, 2 aprile 1996, n. 182, e 3 giugno 1996, n. 302](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20nei%20settori%20agricoli_4.md).
 
 5.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 luglio 1996, n. 353, e 6 settembre 1996, n. 463](../DL%20decaduti/Interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 8 luglio 1996, n. 353, e 6 settembre 1996, n. 463](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20urgenti%20nei%20settori%20agricoli%20e%20fermo%20biologico%20della%20pesca%20per%20il%201996_2.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

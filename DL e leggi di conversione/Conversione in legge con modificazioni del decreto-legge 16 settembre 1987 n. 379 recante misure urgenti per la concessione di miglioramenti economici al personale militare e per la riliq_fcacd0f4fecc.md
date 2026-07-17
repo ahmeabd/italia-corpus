@@ -63,7 +63,7 @@ Sono abrogati l'[articolo 7 della legge 2 giugno 1936, n. 1225](../Atti%20normat
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 marzo 1987, n. 92, 18 maggio 1987, n. 189, e 18 luglio 1987, n. 282](../DL%20decaduti/Misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliquidazione%20delle%20pensioni%20dei%20dirigenti%20civili%20e%20militari%20dello%20Stato%20e%20del%20personale%20ad%20es_de9e16aec4c1_2.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 18 marzo 1987, n. 92, 18 maggio 1987, n. 189, e 18 luglio 1987, n. 282](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20la%20concessione%20di%20miglioramenti%20economici%20al%20personale%20militare%20e%20per%20la%20riliquidazione%20delle%20pensioni%20dei%20dirigenti%20civili%20e%20militari%20dello%20Stato%20e%20del%20personale%20ad%20es_de9e16aec4c1_2.md).
 
 3.
 

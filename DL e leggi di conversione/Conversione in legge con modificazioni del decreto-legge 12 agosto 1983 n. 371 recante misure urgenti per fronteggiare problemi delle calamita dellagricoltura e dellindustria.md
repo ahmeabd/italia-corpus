@@ -50,7 +50,7 @@ E' convertito in legge il [decreto-legge 12 agosto 1983, n. 371](https://www.nor
 
 ## Art. 2.
 
-Restano validi gli atti e i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dall'applicazione del [decreto-legge 20 giugno 1983, n. 294](../DL%20decaduti/Norme%20contenenti%20misure%20per%20fronteggiare%20problemi%20urgenti%20delle%20calamita%20dellagricoltura%20e%20dellindustria.md).
+Restano validi gli atti e i provvedimenti adottati ed hanno efficacia i rapporti giuridici derivanti dall'applicazione del [decreto-legge 20 giugno 1983, n. 294](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20contenenti%20misure%20per%20fronteggiare%20problemi%20urgenti%20delle%20calamita%20dellagricoltura%20e%20dellindustria.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

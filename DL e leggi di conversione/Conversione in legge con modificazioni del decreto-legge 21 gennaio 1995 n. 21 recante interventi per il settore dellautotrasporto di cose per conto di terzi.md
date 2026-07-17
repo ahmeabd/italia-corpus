@@ -22,7 +22,7 @@ Il [decreto-legge 21 gennaio 1995, n. 21](https://www.normattiva.it/uri-res/N2Ls
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 22 novembre 1994, n. 642](../DL%20decaduti/Interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 22 novembre 1994, n. 642](../Atti%20normativi%20abrogati%20%28in%20originale%29/Interventi%20per%20il%20settore%20dellautotrasporto%20di%20cose%20per%20conto%20di%20terzi.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

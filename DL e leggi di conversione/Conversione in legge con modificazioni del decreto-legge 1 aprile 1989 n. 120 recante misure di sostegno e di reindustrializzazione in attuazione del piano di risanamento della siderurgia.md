@@ -22,7 +22,7 @@ Il decreto-legge 1 aprile 1989, n. 120, recante misure di sostegno e di reindu
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 11 gennaio 1989, n. 5](../DL%20decaduti/Misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia%20e%20proroga%20del%20trattamento%20straordinario%20di%20cassa%20integrazione%20salariale%20in%20favore%20dei_4c44b4b985bd.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base del [decreto-legge 11 gennaio 1989, n. 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20sostegno%20e%20di%20reindustrializzazione%20in%20attuazione%20del%20piano%20di%20risanamento%20della%20siderurgia%20e%20proroga%20del%20trattamento%20straordinario%20di%20cassa%20integrazione%20salariale%20in%20favore%20dei_4c44b4b985bd.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 23 marzo 1993, n. 76](https://www.norma
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 gennaio 1993, n. 10](../DL%20decaduti/Modifica%20della%20misura%20del%20contributo%20dovuto%20allEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20previsto%20dalla%20legge%2028%20marzo%201956%20n.%20168.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 18 gennaio 1993, n. 10](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20misura%20del%20contributo%20dovuto%20allEnte%20nazionale%20per%20la%20cellulosa%20e%20per%20la%20carta%20previsto%20dalla%20legge%2028%20marzo%201956%20n.%20168.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

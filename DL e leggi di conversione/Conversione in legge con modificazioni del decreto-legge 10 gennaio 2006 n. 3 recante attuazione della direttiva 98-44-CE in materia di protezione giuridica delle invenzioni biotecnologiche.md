@@ -18,7 +18,7 @@ Promulga la seguente legge:
 
 1.
 
-Il [decreto-legge 10 gennaio 2006, n. 3](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), recante attuazione della [direttiva 98/44/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;44) in materia di protezione giuridica delle invenzioni biotecnologiche, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+Il [decreto-legge 10 gennaio 2006, n. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2098-44-CE%20in%20materia%20di%20protezione%20giuridica%20delle%20invenzioni%20biotecnologiche.md), recante attuazione della [direttiva 98/44/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;44) in materia di protezione giuridica delle invenzioni biotecnologiche, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
 
 2.
 

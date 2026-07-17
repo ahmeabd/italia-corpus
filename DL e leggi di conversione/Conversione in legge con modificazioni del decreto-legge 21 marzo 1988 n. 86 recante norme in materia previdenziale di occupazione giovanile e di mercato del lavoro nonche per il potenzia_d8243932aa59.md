@@ -95,7 +95,7 @@ All'assunzione delle predette unita' si provvede mediante concorsi, su base regi
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 dicembre 1987, n. 535, e 15 gennaio 1988, n. 8](../DL%20decaduti/Proroga%20dei%20contributi%20GESCAL%20norme%20in%20materia%20di%20previdenza%20e%20misure%20per%20il%20potenziamento%20del%20sistema%20informativo%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), ad eccezione dell'articolo 1.
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodotti ed i rapporti giuridici sorti sulla base dei [decreti-legge 29 dicembre 1987, n. 535, e 15 gennaio 1988, n. 8](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20dei%20contributi%20GESCAL%20norme%20in%20materia%20di%20previdenza%20e%20misure%20per%20il%20potenziamento%20del%20sistema%20informativo%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md), ad eccezione dell'articolo 1.
 
 3.
 

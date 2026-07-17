@@ -22,7 +22,7 @@ E' convertito in legge il [decreto-legge 25 marzo 1993, n. 78](https://www.norma
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 gennaio 1993, n. 13](../DL%20decaduti/Misure%20urgenti%20per%20lo%20sviluppo%20delle%20esportazioni.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 gennaio 1993, n. 13](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20lo%20sviluppo%20delle%20esportazioni.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 

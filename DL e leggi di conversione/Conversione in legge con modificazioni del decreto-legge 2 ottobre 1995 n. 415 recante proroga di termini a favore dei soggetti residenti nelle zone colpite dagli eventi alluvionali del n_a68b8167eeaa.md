@@ -22,7 +22,7 @@ Il [decreto-legge 2 ottobre 1995, n. 415](../DL%20proroghe/Proroga%20di%20termin
 
 2.
 
-Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 7 aprile 1995, n. 109, 10 giugno 1995, n. 226, e 3 agosto 1995, n. 324](../DL%20decaduti/Proroga%20di%20termini%20a%20favore%20dei%20soggetti%20residenti%20nelle%20zone%20colpite%20dagli%20eventi%20alluvionali%20del%20novembre%201994%20e%20disposizioni%20integrative%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20conver_49c93b2fbd55_3.md).
+Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base dei [decreti-legge 7 aprile 1995, n. 109, 10 giugno 1995, n. 226, e 3 agosto 1995, n. 324](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20di%20termini%20a%20favore%20dei%20soggetti%20residenti%20nelle%20zone%20colpite%20dagli%20eventi%20alluvionali%20del%20novembre%201994%20e%20disposizioni%20integrative%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20conver_49c93b2fbd55_3.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
 
