@@ -18,9 +18,9 @@ Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/
 
 Vista la [direttiva 1999/21/CE della Commissione, del 25 marzo 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;21), sugli alimenti dietetici destinati a fini medici speciali;
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md);
+Visto il [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md);
 
-Visto il [decreto del Ministro della sanita' 6 aprile 1994, n. 500](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20concernente%20lattuazione%20delle%20direttive%2091-321-CEE%20della%20Commissione%20del%2014%20maggio%201991%20sugli%20alimenti%20per%20lattanti%20e%20alimenti%20di%20proseguimento%20e%2092-52-CEE%20del%20Consiglio%20del%201_7477e62580fe.md);
+Visto il [decreto del Ministro della sanita' 6 aprile 1994, n. 500](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20lattuazione%20delle%20direttive%2091-321-CEE%20della%20Commissione%20del%2014%20maggio%201991%20sugli%20alimenti%20per%20lattanti%20e%20alimenti%20di%20proseguimento%20e%2092-52-CEE%20del%20Consiglio%20del%201_7477e62580fe.md);
 
 Visto il [decreto del Ministro della sanita' 1 giugno 1998, n. 518](../Atti%20di%20recepimento%20direttive%20UE/Regolamento%20recante%20norme%20di%20attuazione%20della%20direttiva%2096-4-CEE%20della%20Commissione%20del%2026%20febbraio%201996%20che%20modifica%20la%20direttiva%2091-321-CEE%20sugli%20alimenti%20per%20lattanti%20e%20gli%20alimenti%20di%20proseguimento.md);
 
@@ -46,7 +46,7 @@ Emana il seguente regolamento:
 
 1.
 
-Il presente regolamento stabilisce i requisiti in materia di composizione ed etichettatura degli alimenti dietetici destinati a fini medici speciali, di cui all'allegato I del [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md).
+Il presente regolamento stabilisce i requisiti in materia di composizione ed etichettatura degli alimenti dietetici destinati a fini medici speciali, di cui all'allegato I del [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md).
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -68,11 +68,11 @@ Avvertenza:
  1999/22/CE: direttiva del Consiglio, del 29 marzo 1999, relativa alla custodia degli animali selvatici nei giardini zoologici.
  1999/39/CE: direttiva della Commissione, del 6 maggio 1999, che modifica la [direttiva 96/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;5) sugli alimenti a base di cereali e gli altri alimenti destinati ai lattanti e ai bambini.
  1999/50/CE: direttiva della Commissione, del 25 maggio 1999, che modifica la [direttiva 91/321/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;321) sugli alimenti per lattanti e alimenti di proseguimento.
- - Il [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), reca: "Attuazione della [direttiva 89/398/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;398) concernente i prodotti alimentari destinati ad una alimentazione particolare" e' pubblicato nella Gazzetta Ufficiale 17 febbraio 1992, n. 39.
+ - Il [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), reca: "Attuazione della [direttiva 89/398/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;398) concernente i prodotti alimentari destinati ad una alimentazione particolare" e' pubblicato nella Gazzetta Ufficiale 17 febbraio 1992, n. 39.
  - Il [decreto ministeriale 6 aprile 1994, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1994-04-06;500), reca: "Regolamento concernente l'attuazione delle [direttive 91/321/CEE della Commissione del 14 maggio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;321) sugli alimenti per lattanti e alimenti di proseguimento e 92/52/CEE del Consiglio del 18 giugno 1992 sugli alimenti per lattanti e alimenti di proseguimento destinati all'esportazione verso Paesi terzi" e' pubblicato nella Gazzetta Ufficiale 13 agosto 1994, n. 189.
  - Il [decreto ministeriale 1 giugno 1998, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1998-06-01;51), reca: "Regolamento recante norme di attuazione della [direttiva 96/4/CEE della Commissione del 26 febbraio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;4), che modifica la [direttiva 91/321/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;321) sugli alimenti per lattanti e gli alimenti di proseguimento" e' pubblicato nella Gazzetta Ufficiale 22 aprile 1999, n. 93.
  Nota all'[art. 1:
- - Il decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), e' citato nelle premesse.
+ - Il decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), e' citato nelle premesse.
 
 ## Art. 2. — Definizioni
 
@@ -113,7 +113,7 @@ La formulazione degli alimenti dietetici destinati a fini medici speciali e' bas
 
 1.
 
-Fermo restando quanto previsto dall'[articolo 4 del decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), l'etichettatura oggetto del presente regolamento deve riportare, in lingua italiana, le seguenti diciture obbligatorie, quando sono aggiuntive o ulteriori specificazioni rispetto a quelle prescritte dal citato [decreto legislativo n. 111 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;111):
+Fermo restando quanto previsto dall'[articolo 4 del decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), l'etichettatura oggetto del presente regolamento deve riportare, in lingua italiana, le seguenti diciture obbligatorie, quando sono aggiuntive o ulteriori specificazioni rispetto a quelle prescritte dal citato [decreto legislativo n. 111 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;111):
                         a)
                             la dicitura "Alimento dietetico destinato a fini medici speciali";
                         b)
@@ -143,8 +143,8 @@ Fermo restando quanto previsto dall'[articolo 4 del decreto legislativo 27 genna
                         n)
                             in tutti i casi nei quali sia necessario, le istruzioni per la corretta preparazione, l'uso e la conservazione del prodotto dopo apertura del contenitore.
 
-Nota all'[art. 4](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md):
- - L'[art. 4 del decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), cosi' recita:
+Nota all'[art. 4](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md):
+ - L'[art. 4 del decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), cosi' recita:
  "Art. 4 - 1. I prodotti alimentari di cui all'art. 1, destinati al consumatore finale devono riportare in lingua italiana sulle confezioni le seguenti indicazioni:
  a) la denominazione di vendita, accompagnata dalla indicazione delle caratteristiche nutrizionali particolari; per i prodotti di cui all'art. 1, comma 2, lettera c) la denominazione di vendita e' invece accompagnata dall'indicazione della loro destinazione;
  b) l'elenco degli ingredienti;
@@ -187,14 +187,14 @@ Dall'attuazione del presente articolo non derivano nuovi o maggiori oneri a cari
 
 1.
 
-E' consentita la commercializzazione di alimenti dietetici destinati a fini medici speciali non conformi al presente regolamento, purche' conformi a quanto previsto dal [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), fino allo smaltimento delle scorte e comunque non oltre diciotto mesi dalla data di entrata in vigore del presente regolamento.
+E' consentita la commercializzazione di alimenti dietetici destinati a fini medici speciali non conformi al presente regolamento, purche' conformi a quanto previsto dal [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), fino allo smaltimento delle scorte e comunque non oltre diciotto mesi dalla data di entrata in vigore del presente regolamento.
 
 2.
 
 In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com5) il presente regolamento si applica, per le regioni e le province autonome che non abbiano ancora provveduto al recepimento della [direttiva 1999/21/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;21), fino alla data di entrata in vigore della normativa di attuazione di ciascuna regione e provincia autonoma.
 
 Nota all'[art. 6:
- - Il decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), e' citato nelle premesse.
+ - Il decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), e' citato nelle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

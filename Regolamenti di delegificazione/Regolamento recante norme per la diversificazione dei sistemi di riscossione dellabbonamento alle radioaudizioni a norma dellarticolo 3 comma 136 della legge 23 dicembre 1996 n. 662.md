@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 1 agosto 1988, n. 367](../DPR/
 
 Visto il decreto del Ministro delle finanze 23 dicembre 1988, pubblicato nella Gazzetta Ufficiale n. 25 del 31 gennaio 1989, che ha approvato la convenzione tra il Ministero delle finanze e la RAI-Radiotelevisione italiana S.p.a., per la regolamentazione dei rapporti relativi alla gestione dei canoni di abbonamento alle radiodiffusioni;
 
-Visto l'[articolo 6, comma 2, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), il quale dispone che la riscossione dei canoni di abbonamento alla radiotelevisione, delle relative tasse di concessione governativa, imposta sul valore aggiunto, sanzioni, interessi e diritti e' effettuata mediante versamento su apposito conto corrente postale intestato all'ufficio del registro abbonamenti radio e televisione di Torino, vincolato a favore della sezione di tesoreria provinciale dello Stato di Torino;
+Visto l'[articolo 6, comma 2, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), il quale dispone che la riscossione dei canoni di abbonamento alla radiotelevisione, delle relative tasse di concessione governativa, imposta sul valore aggiunto, sanzioni, interessi e diritti e' effettuata mediante versamento su apposito conto corrente postale intestato all'ufficio del registro abbonamenti radio e televisione di Torino, vincolato a favore della sezione di tesoreria provinciale dello Stato di Torino;
 
 Visto l'[articolo 24, comma 39, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), il quale ha previsto, tra l'altro, che il pagamento dei tributi e delle altre entrate puo' essere effettuato anche con sistemi di pagamento diversi dal contante;
 
@@ -32,7 +32,7 @@ Visto l'[articolo 3, comma 136, della legge 23 dicembre 1996, n. 662](../Leggi%2
 
 Visto il decreto del Ministro delle finanze 16 dicembre 1998, pubblicato nella Gazzetta Ufficiale n. 304 del 31 dicembre 1998, concernente la determinazione della misura dei canoni di abbonamento alle radiodiffusioni;
 
-Ritenuta l'opportunita' di agevolare e semplificare gli adempimenti dei contribuenti per quanto riguarda l'operazione di versamento spontaneo del canone di abbonamento alla televisione e della relativa tassa di concessione governativa, dell'imposta sul valore aggiunto, nonche' degli eventuali interessi, diritti e sanzioni, consentendo l'utilizzazione di ulteriori modalita' di pagamento, rispetto a quella prevista dall'[articolo 6, comma 2, del decreto legislativo 9 luglio 1997, n. 237](../Decreti%20Legislativi/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md);
+Ritenuta l'opportunita' di agevolare e semplificare gli adempimenti dei contribuenti per quanto riguarda l'operazione di versamento spontaneo del canone di abbonamento alla televisione e della relativa tassa di concessione governativa, dell'imposta sul valore aggiunto, nonche' degli eventuali interessi, diritti e sanzioni, consentendo l'utilizzazione di ulteriori modalita' di pagamento, rispetto a quella prevista dall'[articolo 6, comma 2, del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md);
 
 Considerato che il fine di cui sopra puo' essere conseguito prevedendo l'effettuazione del pagamento presso soggetti, quali i concessionari del servizio di riscossione, il sistema bancario e i tabaccai titolari di punti di raccolta del giuoco del lotto, dotati di mezzi tecnici idonei ad assicurare il collegamento telematico con caratteristiche intrinseche di sicurezza;
 
@@ -40,7 +40,7 @@ Tenuto conto delle esigenze generali dei contribuenti e delle esigenze organizza
 
 Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2);
 
-Acquisito il parere della Commissione consultiva per la riscossione di cui all'[articolo 6 del decreto legislativo 13 aprile 1999, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), reso nell'adunanza del 26 ottobre 1999;
+Acquisito il parere della Commissione consultiva per la riscossione di cui all'[articolo 6 del decreto legislativo 13 aprile 1999, n. 112](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordino%20del%20servizio%20nazionale%20della%20riscossione%20in%20attuazione%20della%20delega%20prevista%20dalla%20legge%2028%20settembre%201998%20n.%20337.md), reso nell'adunanza del 26 ottobre 1999;
 
 Acquisito il parere del Garante per la protezione dei dati personali, espresso con nota n. 9091 del 21 dicembre 1999;
 

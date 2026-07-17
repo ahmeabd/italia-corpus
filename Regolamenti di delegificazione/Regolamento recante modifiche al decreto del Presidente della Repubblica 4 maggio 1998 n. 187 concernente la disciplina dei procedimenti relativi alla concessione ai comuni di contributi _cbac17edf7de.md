@@ -22,7 +22,7 @@ Visto il [decreto del Presidente della Repubblica 4 maggio 1998, n. 187](Regolam
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 6 dicembre 2012;
 
-Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Acquisito il parere delle competenti commissioni del Senato della Repubblica e della Camera dei deputati;
 

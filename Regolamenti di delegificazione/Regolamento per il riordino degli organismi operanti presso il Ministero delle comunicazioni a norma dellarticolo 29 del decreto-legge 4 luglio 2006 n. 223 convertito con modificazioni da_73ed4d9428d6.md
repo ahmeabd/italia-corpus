@@ -18,13 +18,13 @@ Visto il [decreto-legge 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res
 
 Visto il [decreto-legge 1° dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md);
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), ed in particolare l'articolo 32-quater, che individua gli organi tecnici del Ministero delle comunicazioni;
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), ed in particolare l'articolo 32-quater, che individua gli organi tecnici del Ministero delle comunicazioni;
 
-Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md);
+Visto il [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md);
 
-Visto il [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md), e successive modificazioni, ed in particolare gli articoli 9 e 35;
+Visto il [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md), e successive modificazioni, ed in particolare gli articoli 9 e 35;
 
-Visto il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md);
+Visto il [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md);
 
 Visto il [decreto del Presidente della Repubblica 9 novembre 2005, n. 243](../DPR/Regolamento%20recante%20la%20disciplina%20ordinamentale%20del%20Consiglio%20superiore%20delle%20comunicazioni.md);
 
@@ -177,7 +177,7 @@ Capo II
 
 1.
 
-Il Comitato di applicazione del codice di autoregolamentazione TV e minori, di cui agli articoli 9 e 35 del testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md), e' ridenominato: «Comitato di applicazione del Codice di autoregolamentazione media e minori».
+Il Comitato di applicazione del codice di autoregolamentazione TV e minori, di cui agli articoli 9 e 35 del testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md), e' ridenominato: «Comitato di applicazione del Codice di autoregolamentazione media e minori».
 
 2.
 
@@ -189,7 +189,7 @@ La partecipazione al Comitato di cui al comma 1 non comporta alcun onere economi
  3. Fino alla costituzione del Comitato di cui al comma 1, continua ad operare, ai sensi della normativa vigente, il Comitato di applicazione del codice di autoregolamentazione TV e minori.
 
 Note all'art. 6:
- - Per il testo degli articoli 9 e 35 del citato [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md), si vedano le note alle premesse.
+ - Per il testo degli articoli 9 e 35 del citato [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md), si vedano le note alle premesse.
  - Il testo dell'art. 34, comma 3, del citato [decreto legislativo n. 177 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;177), e' il seguente:
  «Art. 34 (Disposizioni a tutela dei minori e dei valori dello sport). - (Omissis).
  3. Le emittenti televisive ed i fornitori di contenuti, salvo quanto previsto dall'art. 4, comma 1, lettera b), sono tenute ad osservare le disposizioni a tutela dei minori previste dal Codice di autoregolamentazione TV e minori approvato il 29 novembre 2002, e successive modificazioni. Le eventuali modificazioni del Codice o l'adozione di nuovi atti di autoregolamentazione sono recepiti con decreto del Ministro delle comunicazioni, adottato ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), previo parere della Commissione parlamentare di cui alla [legge 23 dicembre 1997, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-23;451).».
@@ -212,9 +212,9 @@ Fermo restando quanto disposto dal capo I e in attuazione dell'[articolo 29, com
 
 Sono, inoltre, confermati i seguenti organismi che operano presso il Ministero delle comunicazioni:
                             a)
-                                il Comitato di controllo in materia di televendite e spot di televendita di beni e servizi di astrologia, di cartomanzia ed assimilabili, di servizi relativi ai pronostici concernenti il gioco del lotto, enalotto, superenalotto, totocalcio, totogol, totip, lotterie e giochi similari, di cui all'articolo 9 del testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md);
+                                il Comitato di controllo in materia di televendite e spot di televendita di beni e servizi di astrologia, di cartomanzia ed assimilabili, di servizi relativi ai pronostici concernenti il gioco del lotto, enalotto, superenalotto, totocalcio, totogol, totip, lotterie e giochi similari, di cui all'articolo 9 del testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md);
                             b)
-                                l'Osservatorio per la sicurezza delle reti e la tutela delle comunicazioni, di cui all'[articolo 7, comma 1, lettera e), del decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md).
+                                l'Osservatorio per la sicurezza delle reti e la tutela delle comunicazioni, di cui all'[articolo 7, comma 1, lettera e), del decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md).
 
 3.
 
@@ -224,7 +224,7 @@ Note all'art. 7:
  - Per il testo dell'art. 29 del citato [decreto-legge 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), per il testo dell'art. 32-quater del citato [decreto legislativo n. 300 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;300) e per il testo dell'art. 9 del citato [decreto legislativo n. 177 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;177), si vedano le note alle premesse.
  - Il testo dell'[art. 14 del decreto legislativo 9 maggio 2001, n. 269](../Decreti%20Legislativi/Attuazione%20della%20direttiva%201999-5-CE%20riguardante%20le%20apparecchiature%20radio%20le%20apparecchiature%20terminali%20di%20telecomunicazione%20ed%20il%20reciproco%20riconoscimento%20della%20loro%20conformita.md), recante: «Attuazione della [direttiva 1999/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;5) riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita», pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 7 luglio 2001, n. 156, e' il seguente:
  «Art. 14 (Composizione). - 1. Il Ministero delle comunicazioni, a mezzo di provvedimento dirigenziale, istituisce una commissione consultiva nazionale con il compito di fornire pareri in ordine alla applicazione delle disposizioni di cui al presente decreto. La commissione e' costituita da funzionari dei Ministeri delle comunicazioni, dell'industria, del commercio e dell'artigianato e dell'interno.».
- - Il testo dell'art. 7, comma 1, lettera e) del citato [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md), e' il seguente:
+ - Il testo dell'art. 7, comma 1, lettera e) del citato [decreto del Presidente della Repubblica 22 giugno 2004, n. 176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20comunicazioni.md), e' il seguente:
  «Art. 7 (Direzione generale per la gestione delle risorse strumentali ed informative). - 1. La Direzione generale per la gestione delle risorse strumentali ed informative:
  (omissis);
  e) provvede all'attuazione dei compiti in materia di sicurezza delle reti e di tutela delle comunicazioni, anche telematiche; gestisce i rapporti nelle predette materie con organismi nazionali e internazionali ad esclusione di quelli relativi alle materie di competenza dell'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione e coordina l'Osservatorio per la sicurezza delle reti e la tutela delle comunicazioni;».
@@ -260,10 +260,10 @@ Sono conseguentemente abrogate le seguenti disposizioni:
                             b)
                                 le [lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-30;300#art_32quater-com4-letb) e [d) del comma 4 dell'articolo 32-quater del decreto legislativo 30 maggio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-05-30;300#art_32quater-com4-letd), e successive modificazioni;
                             c)
-                                la lettera b) del comma 2, dell'articolo 9 del testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md).
+                                la lettera b) del comma 2, dell'articolo 9 del testo unico della radiotelevisione, di cui al [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md).
 
 Note all'art. 9:
- - Per il testo dell'art. 29 del citato [decreto-legge n. 223 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006;223), per il testo dell'art. 32-quater del citato [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e per il testo dell'art. 9 del citato [decreto legislativo 31 luglio 2005, n. 177](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md), si vedano le note alle premesse.
+ - Per il testo dell'art. 29 del citato [decreto-legge n. 223 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006;223), per il testo dell'art. 32-quater del citato [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e per il testo dell'art. 9 del citato [decreto legislativo 31 luglio 2005, n. 177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20della%20radiotelevisione.md), si vedano le note alle premesse.
  - Si riporta il testo dell'[art. 2, del decreto-legge 27 agosto 1993, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-08-27;323#art_2), recante: «Provvedimenti urgenti in materia radiotelevisiva», pubblicato nella Gazzetta Ufficiale 28 agosto 1993, n. 202, convertito, con modificazioni, dalla [legge 27 ottobre 1993, n. 422](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20agosto%201993%20n.%20323%20recante%20provvedimenti%20urgenti%20in%20materia%20radiotelevisiva.md) (Gazzetta Ufficiale 27 ottobre 1993, n. 253):
  «Art. 2. - 1. Il termine per la prosecuzione dell'esercizio degli impianti per la radiodiffusione televisiva in ambito locale e dei connessi collegamenti di telecomunicazione di cui all'[art. 32, comma 1, della legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223#art_32-com1), e' prorogato, per le emittenti autorizzate alla prosecuzione stessa, fino al rilascio della concessione, ovvero fino alla reiezione della domanda, e comunque non oltre il 28 febbraio 1994.
  2. Il Ministro delle poste e delle telecomunicazioni rilascia le concessioni per la radiodiffusione televisiva entro il novantesimo giorno successivo al ricevimento della documentazione attestante i requisiti previsti dall'art. 1 del presente decreto.

@@ -20,7 +20,7 @@ Visto il [regio decreto 9 luglio 1939, n. 1238](../Regi%20decreti/Ordinamento%20
 
 Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 30 aprile 1999 e del 7 luglio 2000;
 
-Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Sentita la Conferenza Stato-citta' ed autonomie locali ai sensi dell'[articolo 9, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Consultato il Garante per la protezione dei dati personali;
 
@@ -310,11 +310,11 @@ L'ufficiale dello stato civile puo' rilasciare copia integrale dell'atto trascri
 
 1.
 
-L'autorita' diplomatica o consolare che non e' in grado di ottenere dalle autorita' locali copie degli atti di stato civile formati all'estero, che devono essere trascritti in Italia, puo' rilasciare, ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), dopo avere effettuato gli accertamenti del caso, una certificazione sostitutiva della documentazione non potuta acquisire che verra' trascritta presso i comuni italiani.
+L'autorita' diplomatica o consolare che non e' in grado di ottenere dalle autorita' locali copie degli atti di stato civile formati all'estero, che devono essere trascritti in Italia, puo' rilasciare, ai sensi dell'[articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), dopo avere effettuato gli accertamenti del caso, una certificazione sostitutiva della documentazione non potuta acquisire che verra' trascritta presso i comuni italiani.
 
 Nota all'art. 20:
 
- - Si riporta il testo dell'[art. 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) (Disposizioni sulle funzioni e sui poteri consolari):
+ - Si riporta il testo dell'[art. 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) (Disposizioni sulle funzioni e sui poteri consolari):
 
  "Art. 49 (Certificati, legalizzazioni, vidimazioni). - L'autorita' consolare:
 
@@ -324,7 +324,7 @@ Nota all'art. 20:
 
  rilascia e vidima certificati di origine delle merci ed ogni altro certificato o documento previsto dalle leggi italiane o dalle convenzioni internazionali;
  rilascia copia autentica degli atti da essa ricevuti o presso di essa depositati;
- legalizza gli atti rilasciati o autenticati dalle autorita' locali previa, ove possibile, legalizzazione delle competenti autorita' locali, e quelli rilasciati o autenticati dalle autorita' italiane previo accertamento che l'atto e' stato legalizzato ai sensi dell'[art. 11 secondo comma, del decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../DPR/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md);
+ legalizza gli atti rilasciati o autenticati dalle autorita' locali previa, ove possibile, legalizzazione delle competenti autorita' locali, e quelli rilasciati o autenticati dalle autorita' italiane previo accertamento che l'atto e' stato legalizzato ai sensi dell'[art. 11 secondo comma, del decreto del Presidente della Repubblica 2 agosto 1957, n. 678](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20sulle%20documentazioni%20amministrative%20e%20sulla%20legalizzazione%20di%20firme.md);
  puo' rilasciare attestazioni concernenti leggi e consuetudini vigenti in Italia o nello Stato di residenza; puo' rilasciare certificati concernenti gli atti compiuti ed i fatti accertati nell'esercizio delle proprie funzioni;
  puo' rilasciare e certificare traduzioni di atti dalla lingua italiana in quella dello Stato di residenza e viceversa.".
 
@@ -934,7 +934,7 @@ Se gli sposi risiedono in comuni diversi, l'ufficiale dello stato civile cui e' 
 
 2.
 
-Quando uno degli sposi ha la residenza all'estero, l'ufficiale dello stato civile cui ne e' fatta richiesta in Italia fa eseguire la pubblicazione alla competente autorita' diplomatica o consolare nei modi previsti dall'[articolo 11, comma 3, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md). Se invece la richiesta di pubblicazione viene fatta alla competente autorita' diplomatica o consolare, quest'ultima la trasmette, in esenzione da ogni onere, all'ufficiale dello stato civile del comune di residenza attuale in Italia di uno degli sposi.
+Quando uno degli sposi ha la residenza all'estero, l'ufficiale dello stato civile cui ne e' fatta richiesta in Italia fa eseguire la pubblicazione alla competente autorita' diplomatica o consolare nei modi previsti dall'[articolo 11, comma 3, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md). Se invece la richiesta di pubblicazione viene fatta alla competente autorita' diplomatica o consolare, quest'ultima la trasmette, in esenzione da ogni onere, all'ufficiale dello stato civile del comune di residenza attuale in Italia di uno degli sposi.
 
 3.
 
@@ -946,7 +946,7 @@ Gli uffici cui e' richiesta la pubblicazione sono tenuti, quando questa e' stata
 
 Note all'art. 53:
 
- - Si riporta il testo dell'[articolo 11, terzo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) (Disposizioni sulle funzioni e sui poteri consolari):
+ - Si riporta il testo dell'[articolo 11, terzo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md) (Disposizioni sulle funzioni e sui poteri consolari):
  "Le pubblicazioni di matrimonio nell'ufficio consolare hanno luogo mediante affissione nell'albo consolare di un atto contenente nome, cognome, data e luogo di nascita, residenza e professione dei nubendi".
 
  - Si riporta il testo dell'[art. 109 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_109):
@@ -1820,14 +1820,14 @@ L'interessato puo' comunque richiedere il riconoscimento del diritto al mantenim
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 96. — (Procedimento)
 
@@ -1897,14 +1897,14 @@ Avverso i provvedimenti di cui al presente articolo, il procuratore della Repubb
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 99. — Correzione e ricostituzione degli atti dell'autorita' diplomatica o consolare
 
@@ -1920,14 +1920,14 @@ Le disposizioni di cui all'articolo 98 si applicano, altresi', per gli atti di c
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md) ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 10 ottobre 2022, n. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il [D.Lgs. 10 ottobre 2022, n. 149](../Decreti%20Legislativi/Attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20processo%20civile%20e%20per%20la%20revisione%20della%20disciplina%20degli%20strumenti%20di%20risoluzione%20alternativa_b0cf60b0e2a4.md), come modificato dalla [L. 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md), ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
 ### Art. 100. — (Competenza)
 
@@ -2184,11 +2184,11 @@ All'[articolo 16 del decreto del Presidente della Repubblica 12 ottobre 1993, n.
 
 7.
 
-E' abrogato il [secondo comma dell'articolo 17 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md). I numeri da 1 a 5 dell'articolo 69, primo comma, del medesimo decreto sono abrogati a far data dalla entrata in funzione degli archivi informatici di cui all'articolo 10.
+E' abrogato il [secondo comma dell'articolo 17 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md). I numeri da 1 a 5 dell'articolo 69, primo comma, del medesimo decreto sono abrogati a far data dalla entrata in funzione degli archivi informatici di cui all'articolo 10.
 
 8.
 
-Nel [terzo comma dell'articolo 11 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), sono soppresse le parole "e professione".
+Nel [terzo comma dell'articolo 11 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), sono soppresse le parole "e professione".
 
 Note all'art. 110: 
  - Il titolo del [regio decreto n. 1238/39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939;1238) e' riportato nella nota precedente. 

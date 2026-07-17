@@ -18,7 +18,7 @@ Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20r
 
 Vista la [legge 8 marzo 1999, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-08;50), e l'allegato 1, n. 29;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), capo III, sezione III, e successive modificazioni ed integrazioni;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), capo III, sezione III, e successive modificazioni ed integrazioni;
 
 Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni ed integrazioni;
 
@@ -124,7 +124,7 @@ Le disposizioni del presente regolamento recano la disciplina relativa alle segu
                         d)
                             cessazione dalla circolazione del veicolo per esportazione o per demolizione;
                         e)
-                            consegna delle targhe, di cui all'[articolo 100, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [3, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+                            consegna delle targhe, di cui all'[articolo 100, commi 1](../Codici/Nuovo%20codice%20della%20strada.md), [2](../Codici/Nuovo%20codice%20della%20strada.md) e [3, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -154,7 +154,7 @@ Gli Uffici PRA provvedono alle iscrizioni e alle trascrizioni secondo la discipl
 
 1.
 
-Il fascicolo digitale contiene la domanda, di cui all'articolo 4, comma 4, sottoscritta dal richiedente con firma elettronica avanzata e ogni altra documentazione di supporto, ivi compresa la riproduzione in formato digitale del documento di identita' del richiedente nonche' l'atto o la dichiarazione unilaterale di vendita che vengono formati digitalmente e sottoscritti dall'avente titolo con firma elettronica avanzata, autenticata ai sensi dell'[articolo 25 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md). Nei casi in cui il titolo, l'atto o la dichiarazione di vendita siano formati all'origine su supporto cartaceo, gli stessi sono preventivamente consegnati agli Uffici PRA che procedono all'attestazione di conformita' di cui all'[articolo 22, comma 2, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), a seguito della quale il fascicolo digitale si considera perfezionato.
+Il fascicolo digitale contiene la domanda, di cui all'articolo 4, comma 4, sottoscritta dal richiedente con firma elettronica avanzata e ogni altra documentazione di supporto, ivi compresa la riproduzione in formato digitale del documento di identita' del richiedente nonche' l'atto o la dichiarazione unilaterale di vendita che vengono formati digitalmente e sottoscritti dall'avente titolo con firma elettronica avanzata, autenticata ai sensi dell'[articolo 25 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md). Nei casi in cui il titolo, l'atto o la dichiarazione di vendita siano formati all'origine su supporto cartaceo, gli stessi sono preventivamente consegnati agli Uffici PRA che procedono all'attestazione di conformita' di cui all'[articolo 22, comma 2, del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), a seguito della quale il fascicolo digitale si considera perfezionato.
 
 2.
 
@@ -186,7 +186,7 @@ La carta di circolazione si considera regolarmente rilasciata dallo STA quando e
 
 1.
 
-Il Ministero e l'ACI, mediante appositi accordi, previa acquisizione del parere del Garante privacy, adeguano le attivita' e le procedure disciplinate dal presente regolamento alle disposizioni contenute nel [decreto legislativo 30 giugno 2003, n. 196](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante [codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e assumono il ruolo di responsabili del trattamento dei dati nonche' di contitolari del trattamento dei medesimi dati attuato in applicazione delle presenti disposizioni, ai sensi dell'articolo 26 del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio. I soggetti di cui alla [legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264), in quanto STA, assumono il ruolo di titolari autonomi del trattamento dei dati correlati al rilascio della carta di circolazione.
+Il Ministero e l'ACI, mediante appositi accordi, previa acquisizione del parere del Garante privacy, adeguano le attivita' e le procedure disciplinate dal presente regolamento alle disposizioni contenute nel [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante [codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e assumono il ruolo di responsabili del trattamento dei dati nonche' di contitolari del trattamento dei medesimi dati attuato in applicazione delle presenti disposizioni, ai sensi dell'articolo 26 del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio. I soggetti di cui alla [legge 8 agosto 1991, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-08-08;264), in quanto STA, assumono il ruolo di titolari autonomi del trattamento dei dati correlati al rilascio della carta di circolazione.
 
 ))
 

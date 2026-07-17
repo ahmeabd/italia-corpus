@@ -18,7 +18,7 @@ Vista la [direttiva 1999/4/CE del Parlamento europeo e del Consiglio del 22 febb
 
 Visto il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md);
 
-Visto il [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md);
+Visto il [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md);
 
 Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), ed in particolare l'articolo 50, che stabilisce che, con la procedura di cui all'[articolo 4, comma 5, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), possono essere emanate norme regolamentari per rivedere la produzione e la commercializzazione dei prodotti alimentari conservati e non, anche se disciplinate con legge;
 
@@ -38,7 +38,7 @@ Emana il seguente regolamento:
 
 1.
 
-L'[articolo 1 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), e' sostituito dal seguente:
+L'[articolo 1 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), e' sostituito dal seguente:
  "Art. 1 (Estratti di caffe'). - 1. Si intendono per estratti di caffe', i prodotti concentrati ottenuti mediante estrazione dai grani di caffe' torrefatti, utilizzando l'acqua come unico agente di estrazione, con esclusione di qualsiasi procedimento di idrolisi mediante aggiunta di acido o di base, e contenenti esclusivamente i principi solubili e aromatici del caffe', oltre alle sostanze non solubili, tecnicamente ineliminabili, ed agli oli non solubili provenienti dal caffe'.".
 
 Avvertenza:
@@ -58,7 +58,7 @@ Avvertenza:
  1999/50/CE: direttiva della Commissione, del 25 maggio 1999, che modifica la [direttiva 91/321/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;321) sugli alimenti per lattanti e alimenti di proseguimento.
  La [direttiva 1999/4/CE del Parlamento europeo e del Consiglio del 22 febbraio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;4) e' pubblicata in G.U.C.E. n. L. 066 del 13 marzo 1999.
  - Il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), reca: "Regolamento per la disciplina igienica della produzione e del commercio del caffe' e dei suoi derivati".
- - Il [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), reca: "Attuazione della [direttiva (CEE) n. 77/436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;436) relativa agli estratti di caffe' ed agli estratti di cicoria".
+ - Il [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), reca: "Attuazione della [direttiva (CEE) n. 77/436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;436) relativa agli estratti di caffe' ed agli estratti di cicoria".
  - La [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1993.
  L'[art. 50 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), cosi' recita:
  "Art. 50 (Regolamentazione dei prodotti). - 1. Il Governo emana, con uno o piu' regolamenti, norme intese a rivedere e riordinare a materia della produzione e commercializzazione dei prodotti alimentari conservati e non, anche se disciplinata con legge.
@@ -76,25 +76,25 @@ Avvertenza:
  - L'art. 17, comma 2, della succitata legge cosi' recita:
  "Art. 17. - 2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.
  Nota all'[art. 1:
- - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), vedi note alle premesse.
 
 ## Art. 2. — Sostituzione dell'articolo 2 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774
 
 1.
 
-L'[articolo 2 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), e' sostituito dal seguente:
+L'[articolo 2 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), e' sostituito dal seguente:
  "Art. 2 (Estratti di cicoria). - 1. Si intendono per estratti di cicoria i prodotti concentrati ottenuti mediante estrazione dalla cicoria torrefatta, utilizzando l'acqua come unico agente di estrazione, con esclusione di qualsiasi procedimento di idrolisi con aggiunta di acido o di base.
  2. Per cicoria si intendono le radici di Cichorium intybus L., non utilizzate per la produzione di cicoria Witloof, opportunamente pulite per essere essiccate e torrefatte per la preparazione di bevande.".
 
 Nota all'[art. 2:
- - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), vedi note alle premesse.
 
 ## Art. 3. — Sostituzione dell'articolo 5 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774
 
 1.
 
-L'[articolo 5 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), modificato dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), e' sostituito dal seguente:
- "Art. 5 (Etichettatura). - 1. Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni.
+L'[articolo 5 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), modificato dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), e' sostituito dal seguente:
+ "Art. 5 (Etichettatura). - 1. Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni.
 Tuttavia:
  a) la denominazione di vendita e' completata dalla dicitura:
  1) "in pasta o "in forma pastosa per i prodotti di cui all'allegato I, punto 1, lettera b) e all'allegato II, punto 1, lettera b);
@@ -108,14 +108,14 @@ Tuttavia:
  d) i prodotti in pasta e quelli liquidi devono riportare il tenore minimo di sostanza secca, ottenuta rispettivamente dal caffe' o dalla cicoria, espresso in percentuale di peso del prodotto finito.".
 
 Note all'[art. 3:
- - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), come modificato dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), vedi note alle premesse.
- - Il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), reca: "Attuazizione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/1936/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;1936) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari".
+ - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), come modificato dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), vedi note alle premesse.
+ - Il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), reca: "Attuazizione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/1936/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;1936) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari".
 
 ## Art. 4. — Sostituzione degli allegati I e II del decreto del Presidente della Repubblica 23 agosto 1982, n. 774
 
 1.
 
-L'allegato I del [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), sostituito dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), e' sostituito dal seguente:
+L'allegato I del [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), sostituito dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), e' sostituito dal seguente:
  "Allegato I Denominazioni e caratteristiche degli estratti di caffe'
  1. Con la denominazione di vendita "estratto di caffe' o "estratto di caffe' solubile o "caffe' solubile o "caffe' istantaneo si intendono i prodotti di cui all'articolo 1, aventi un tenore di sostanza secca ottenuta dal caffe':
  a) uguale o superiore al 95% in peso per l'estratto di caffe';
@@ -126,7 +126,7 @@ L'allegato I del [decreto del Presidente della Repubblica 23 agosto 1982, n. 774
 
 2.
 
-L'allegato II del [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), sostituito dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), e' sostituito dal seguente:
+L'allegato II del [decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), sostituito dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), e' sostituito dal seguente:
  "Allegato II Denominazioni e caratteristiche degli estratti di cicoria
  1. Con la denominazione di vendita "estratto di cicoria o "cicoria solubile o "cicoria istantanea si intendono i prodotti di cui all'articolo 2, aventi un tenore di sostanza secca ottenuta dalla cicoria:
                         a)
@@ -139,7 +139,7 @@ L'allegato II del [decreto del Presidente della Repubblica 23 agosto 1982, n. 77
  L'estratto di cicoria liquido puo' contenere zuccheri alimentari, torrefatti o non, in quantita' non superiore al 35% in peso.".
 
 Nota all'[art. 4:
- - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), come modificato dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), come modificato dal [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), vedi note alle premesse.
 
 ## Art. 5. — Abrogazioni
 
@@ -147,14 +147,14 @@ Nota all'[art. 4:
 
 A partire dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni:
                         a)
-                            l'[articolo 3, secondo comma](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), e l'[articolo 6 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md);
+                            l'[articolo 3, secondo comma](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), e l'[articolo 6 del decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md);
                         b)
                             gli articoli 6, primo comma, 8, 11, 18 e 19 del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md);
                         c)
                             il [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599).
 
 Note all'[art. 5:
- - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), vedi note alle premesse.
+ - Per il decreto del Presidente della Repubblica 23 agosto 1982, n. 774](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2077-436%20relativa%20agli%20estratti%20di%20caffe%20ed%20agli%20estratti%20di%20cicoria.md), vedi note alle premesse.
  - Per il [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), vedi note alle premesse.
  - Per il [decreto ministeriale 3 dicembre 1987, n. 599](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-12-03;599), vedi note alle premesse.
 

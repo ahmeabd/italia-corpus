@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 5 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni, che demanda allo Stato la potesta' regolamentare per definire la disciplina esecutiva e attuativa del codice in relazione ai contratti pubblici di lavori, servizi e forniture di amministrazioni ed enti statali e, limitatamente agli aspetti di cui all'articolo 4, comma 3, in relazione ai contratti di ogni amministrazione o soggetto equiparato;
+Visto l'[articolo 5 del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni, che demanda allo Stato la potesta' regolamentare per definire la disciplina esecutiva e attuativa del codice in relazione ai contratti pubblici di lavori, servizi e forniture di amministrazioni ed enti statali e, limitatamente agli aspetti di cui all'articolo 4, comma 3, in relazione ai contratti di ogni amministrazione o soggetto equiparato;
 
-Visto l'[articolo 40 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni, che demanda al regolamento di cui all'articolo 5 dello stesso decreto legislativo la disciplina regolamentare del sistema di qualificazione unico per tutti gli esecutori a qualsiasi titolo di lavori pubblici, di importo superiore a 150.000 euro, articolato in rapporto alle tipologie e all'importo dei lavori stessi;
+Visto l'[articolo 40 del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni, che demanda al regolamento di cui all'articolo 5 dello stesso decreto legislativo la disciplina regolamentare del sistema di qualificazione unico per tutti gli esecutori a qualsiasi titolo di lavori pubblici, di importo superiore a 150.000 euro, articolato in rapporto alle tipologie e all'importo dei lavori stessi;
 
-Visto l'[articolo 201 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni, che demanda al regolamento di cui all'articolo 5 dello stesso decreto legislativo la disciplina degli specifici requisiti di qualificazione dei soggetti esecutori dei lavori di cui all'articolo 198, ad integrazione di quelli generali definiti dal medesimo regolamento;
+Visto l'[articolo 201 del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e successive modificazioni, che demanda al regolamento di cui all'articolo 5 dello stesso decreto legislativo la disciplina degli specifici requisiti di qualificazione dei soggetti esecutori dei lavori di cui all'articolo 198, ad integrazione di quelli generali definiti dal medesimo regolamento;
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
@@ -36,7 +36,7 @@ Acquisito il parere del Consiglio superiore dei lavori pubblici reso in data 24 
 
 Acquisito il parere dell'Autorita' di vigilanza sui contratti pubblici di lavori servizi e forniture trasmesso in data 18 dicembre 2008;
 
-Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 25 marzo 2009;
+Acquisito il parere della Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Decreti%20Legislativi/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), reso nella seduta del 25 marzo 2009;
 
 Vista la nuova deliberazione preliminare del Consiglio dei Ministri, adottata nella riunione del 17 dicembre 2009;
 
@@ -522,7 +522,7 @@ PARTE VII - DISPOSIZIONI TRANSITORIE E ABROGAZIONI
  ALLEGATI 
  Allegato A - Categorie di opere generali e specializzate 
  Allegato B - Certificato di esecuzione dei lavori 
- Allegato B.1 - Certificato di esecuzione dei lavori ai sensi dell'articolo 357, commi 14 e 15, del regolamento di cui all'[articolo 5 del decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) 
+ Allegato B.1 - Certificato di esecuzione dei lavori ai sensi dell'articolo 357, commi 14 e 15, del regolamento di cui all'[articolo 5 del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) 
  Allegato C - Corrispettivi e oneri per le attivita' di qualificazione 
  Allegato D - Incremento convenzionale premiante 
  Allegato E - Domanda di qualificazione a contraente generale 
@@ -544,7 +544,7 @@ PARTE VII - DISPOSIZIONI TRANSITORIE E ABROGAZIONI
 
 AGGIORNAMENTO (13)
 
-La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 17, comma 6) che "Nel codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e nel relativo regolamento di esecuzione di cui al [decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), i riferimenti alla [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), si intendono fatti alla presente legge".
+La [L. 11 agosto 2014, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;125) ha disposto (con l'art. 17, comma 6) che "Nel codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), e nel relativo regolamento di esecuzione di cui al [decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md), i riferimenti alla [legge 26 febbraio 1987, n. 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-26;49), si intendono fatti alla presente legge".
 
 ### Art. 2.
 
@@ -618,7 +618,7 @@ In caso di particolare necessita' per appalti di importo inferiore a 500.000 eur
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 10. — Funzioni e compiti del responsabile del procedimento 
  
@@ -679,7 +679,7 @@ Il responsabile del procedimento fra l'altro:
                             cc)
                                 propone la transazione e la definizione bonaria delle controversie che insorgono in ogni fase di realizzazione dei lavori;
                             dd)
-                                svolge, ai sensi dell'[articolo 16 del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), su delega del soggetto di cui all'articolo 26, comma 3, del predetto decreto legislativo, i compiti previsti nel citato articolo 26, comma 3, qualora non sia prevista la predisposizione del piano di sicurezza e di coordinamento ai sensi del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).
+                                svolge, ai sensi dell'[articolo 16 del decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), su delega del soggetto di cui all'articolo 26, comma 3, del predetto decreto legislativo, i compiti previsti nel citato articolo 26, comma 3, qualora non sia prevista la predisposizione del piano di sicurezza e di coordinamento ai sensi del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).
 
 2.
 
@@ -687,7 +687,7 @@ Il responsabile del procedimento assume il ruolo di responsabile dei lavori, ai 
 
 3.
 
-Il responsabile del procedimento, nello svolgimento dell'incarico di responsabile dei lavori, salvo diversa indicazione e fermi restando i compiti e le responsabilita' di cui agli [articoli 90](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), [93, comma 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), [99](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), [comma 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), e [101, comma 1, del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md):
+Il responsabile del procedimento, nello svolgimento dell'incarico di responsabile dei lavori, salvo diversa indicazione e fermi restando i compiti e le responsabilita' di cui agli [articoli 90](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), [93, comma 2](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), [99](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), [comma 1](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), e [101, comma 1, del decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md):
                             a)
                                 richiede la nomina del coordinatore per la progettazione e del coordinatore per l'esecuzione dei lavori e vigila sulla loro attivita';
                             b)
@@ -720,7 +720,7 @@ Al responsabile del procedimento delle amministrazioni aggiudicatrici si applica
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ## ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
@@ -799,7 +799,7 @@ Qualora lo studio di fattibilita' e' posto a base di gara, ai sensi degli artico
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 15. — Disposizioni preliminari per la progettazione dei lavori e norme tecniche 
  (artt. 15 e 16, d.P.R. n. 554/1999)
@@ -911,7 +911,7 @@ I progetti sono predisposti in conformita' delle regole e norme tecniche stabili
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 16. — Quadri economici 
  
@@ -946,7 +946,7 @@ COMMA ABROGATO DAL [D.L. 13 MAGGIO 2011, N. 70](https://www.normattiva.it/uri-re
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 17. — Documenti componenti il progetto preliminare 
  
@@ -997,7 +997,7 @@ Qualora il progetto debba essere posto a base di gara di un appalto di cui all'a
                                 e' redatto un capitolato speciale descrittivo e prestazionale;
                             c)
                                 e' redatto uno schema di contratto. 
- L'elaborato di cui al comma 1, lettera f), contenente la stima sommaria dei costi della sicurezza da indicare nel bando di gara, nell'avviso di gara o nella lettera di invito, e' allegato al contratto, ferma restando l'integrazione del contratto con il piano di sicurezza e coordinamento di cui all'[articolo 100 del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), predisposto a corredo del progetto esecutivo.
+ L'elaborato di cui al comma 1, lettera f), contenente la stima sommaria dei costi della sicurezza da indicare nel bando di gara, nell'avviso di gara o nella lettera di invito, e' allegato al contratto, ferma restando l'integrazione del contratto con il piano di sicurezza e coordinamento di cui all'[articolo 100 del decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), predisposto a corredo del progetto esecutivo.
 
 4.
 
@@ -1009,7 +1009,7 @@ Qualora il progetto preliminare e' posto a base di gara per l'affidamento di una
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 18. — Relazione illustrativa del progetto preliminare 
  
@@ -1057,7 +1057,7 @@ La relazione da' chiara e precisa nozione di quelle circostanze che non possono 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 19. — Relazione tecnica 
  
@@ -1116,7 +1116,7 @@ Salva diversa motivata determinazione del responsabile del procedimento, per int
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 20. — Studio di prefattibilita' ambientale 
  
@@ -1146,7 +1146,7 @@ Nel caso di interventi ricadenti sotto la procedura di valutazione di impatto am
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 21. — Elaborati grafici del progetto preliminare 
  
@@ -1215,7 +1215,7 @@ Sia per le opere ed i lavori puntuali che per le opere ed i lavori a rete, il pr
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 22. — Calcolo sommario della spesa e quadro economico 
  
@@ -1253,7 +1253,7 @@ Nel caso di appalti di cui all'articolo 53, comma 2, lettere b) e c), del codice
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 23. — Capitolato speciale descrittivo e prestazionale del progetto preliminare 
  
@@ -1279,7 +1279,7 @@ Ai fini di quanto previsto dall'articolo 17, comma 3, qualora il progetto prelim
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 24. — Documenti componenti il progetto definitivo 
  
@@ -1321,7 +1321,7 @@ Esso comprende i seguenti elaborati, salva diversa motivata determinazione del r
 
 3.
 
-Quando il progetto definitivo e' posto a base di gara ai sensi dell'articolo 53, comma 2, lettera b), del codice ferma restando la necessita' della previa acquisizione della positiva valutazione di impatto ambientale se richiesta, in sostituzione del disciplinare di cui all'articolo 30, il progetto e' corredato dello schema di contratto e del capitolato speciale d'appalto redatti con le modalita' indicate all'articolo 43 nonche' del piano di sicurezza e di coordinamento di cui all'[articolo 100 del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), sulla base del quale determinare il costo della sicurezza, nel rispetto dell'allegato XV del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md). Lo schema di contratto prevede, inoltre, che il concorrente debba indicare, al momento dell'offerta, la sede di redazione del progetto esecutivo, nonche' i tempi della progettazione esecutiva e le modalita' di controllo, da parte del responsabile del procedimento, del rispetto delle indicazioni del progetto definitivo, anche ai fini di quanto disposto dall'articolo 112, comma 3, del codice. 
+Quando il progetto definitivo e' posto a base di gara ai sensi dell'articolo 53, comma 2, lettera b), del codice ferma restando la necessita' della previa acquisizione della positiva valutazione di impatto ambientale se richiesta, in sostituzione del disciplinare di cui all'articolo 30, il progetto e' corredato dello schema di contratto e del capitolato speciale d'appalto redatti con le modalita' indicate all'articolo 43 nonche' del piano di sicurezza e di coordinamento di cui all'[articolo 100 del decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), sulla base del quale determinare il costo della sicurezza, nel rispetto dell'allegato XV del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md). Lo schema di contratto prevede, inoltre, che il concorrente debba indicare, al momento dell'offerta, la sede di redazione del progetto esecutivo, nonche' i tempi della progettazione esecutiva e le modalita' di controllo, da parte del responsabile del procedimento, del rispetto delle indicazioni del progetto definitivo, anche ai fini di quanto disposto dall'articolo 112, comma 3, del codice. 
  
  ((16))
 
@@ -1329,7 +1329,7 @@ Quando il progetto definitivo e' posto a base di gara ai sensi dell'articolo 53,
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 25. — Relazione generale del progetto definitivo 
  
@@ -1367,7 +1367,7 @@ In particolare la relazione salva diversa motivata determinazione del responsabi
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 26. — Relazioni tecniche e specialistiche del progetto definitivo 
  
@@ -1411,7 +1411,7 @@ Ove la progettazione implichi la soluzione di ulteriori questioni specialistiche
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 27. — Studio di impatto ambientale e studio di fattibilita' ambientale 
  
@@ -1432,7 +1432,7 @@ Esso contiene tutte le informazioni necessarie al rilascio delle prescritte auto
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 28. — Elaborati grafici del progetto definitivo 
  
@@ -1538,7 +1538,7 @@ I valori minimi delle scale contenuti nel presente articolo possono essere varia
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 29. — Calcoli delle strutture e degli impianti 
  
@@ -1562,7 +1562,7 @@ I calcoli di dimensionamento e verifica delle strutture e degli impianti devono 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 30. — Disciplinare descrittivo e prestazionale degli elementi tecnici del progetto definitivo 
  
@@ -1578,7 +1578,7 @@ Il disciplinare descrittivo e prestazionale precisa, sulla base delle specifiche
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 31. — Piano particellare di esproprio 
  
@@ -1610,7 +1610,7 @@ Se l'incarico di acquisire l'area su cui insiste l'intervento da realizzare e' a
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 32. — Elenco dei prezzi unitari, computo metrico estimativo e quadro economico del progetto definitivo 
  
@@ -1662,7 +1662,7 @@ Per spese generali comprese nel prezzo dei lavori e percio' a carico dell'esecut
                             n)
                                 le spese per la custodia e la buona conservazione delle opere fino all'emissione del certificato di collaudo provvisorio o all'emissione del certificato di regolare esecuzione;
                             o)
-                                le spese di adeguamento del cantiere in osservanza del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), di cui e' indicata la quota di incidenza sul totale delle spese generali, ai fini degli adempimenti previsti dall'articolo 86, comma 3-bis, del codice;
+                                le spese di adeguamento del cantiere in osservanza del [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), di cui e' indicata la quota di incidenza sul totale delle spese generali, ai fini degli adempimenti previsti dall'articolo 86, comma 3-bis, del codice;
                             p)
                                 gli oneri generali e particolari previsti dal capitolato speciale di appalto.
 
@@ -1693,7 +1693,7 @@ Le varie voci di lavoro del computo metrico estimativo vanno aggregate secondo l
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 33. — Documenti componenti il progetto esecutivo 
  
@@ -1713,7 +1713,7 @@ Il progetto esecutivo costituisce la ingegnerizzazione di tutte le lavorazioni e
                             e)
                                 piano di manutenzione dell'opera e delle sue parti;
                             f)
-                                piano di sicurezza e di coordinamento di cui all'[articolo 100 del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), e quadro di incidenza della manodopera;
+                                piano di sicurezza e di coordinamento di cui all'[articolo 100 del decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), e quadro di incidenza della manodopera;
                             g)
                                 computo metrico estimativo e quadro economico;
                             h)
@@ -1731,7 +1731,7 @@ Il progetto esecutivo costituisce la ingegnerizzazione di tutte le lavorazioni e
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 34. — Relazione generale del progetto esecutivo 
  
@@ -1751,7 +1751,7 @@ La relazione generale contiene l'illustrazione dei criteri seguiti e delle scelt
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 35. — Relazioni specialistiche 
  
@@ -1775,7 +1775,7 @@ Le relazioni contengono l'illustrazione di tutte le problematiche esaminate e de
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 36. — Elaborati grafici del progetto esecutivo 
  
@@ -1811,7 +1811,7 @@ Gli elaborati sono redatti in modo tale da consentire all'esecutore una sicura i
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 37. — Calcoli esecutivi delle strutture e degli impianti 
  
@@ -1876,7 +1876,7 @@ I valori minimi delle scale contenuti nel presente articolo possono essere varia
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 38. — Piano di manutenzione dell'opera e delle sue parti 
  
@@ -1959,7 +1959,7 @@ Il piano di manutenzione e' redatto a corredo di tutti i progetti fatto salvo il
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 39. — Piano di sicurezza e di coordinamento e quadro di incidenza della manodopera 
  
@@ -1967,11 +1967,11 @@ Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contra
 
 1.
 
-Il piano di sicurezza e di coordinamento e' il documento complementare al progetto esecutivo, finalizzato a prevedere l'organizzazione delle lavorazioni piu' idonea, per prevenire o ridurre i rischi per la sicurezza e la salute dei lavoratori, attraverso l'individuazione delle eventuali fasi critiche del processo di costruzione, e la definizione delle relative prescrizioni operative. Il piano contiene misure di concreta fattibilita', e' specifico per ogni cantiere temporaneo o mobile ed e' redatto secondo quanto previsto nell'allegato XV al [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md). La stima dei costi della sicurezza derivanti dall'attuazione delle misure individuate rappresenta la quota di cui all'articolo 16, comma 1, punto a.2).
+Il piano di sicurezza e di coordinamento e' il documento complementare al progetto esecutivo, finalizzato a prevedere l'organizzazione delle lavorazioni piu' idonea, per prevenire o ridurre i rischi per la sicurezza e la salute dei lavoratori, attraverso l'individuazione delle eventuali fasi critiche del processo di costruzione, e la definizione delle relative prescrizioni operative. Il piano contiene misure di concreta fattibilita', e' specifico per ogni cantiere temporaneo o mobile ed e' redatto secondo quanto previsto nell'allegato XV al [decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md). La stima dei costi della sicurezza derivanti dall'attuazione delle misure individuate rappresenta la quota di cui all'articolo 16, comma 1, punto a.2).
 
 2.
 
-I contenuti del piano di sicurezza e di coordinamento sono il risultato di scelte progettuali ed organizzative conformi alle misure generali di tutela di cui all'[articolo 15 del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), secondo quanto riportato nell'allegato XV al medesimo decreto in termini di contenuti minimi. In particolare la relazione tecnica, corredata da tavole esplicative di progetto, deve prevedere l'individuazione, l'analisi e la valutazione dei rischi in riferimento all'area e all'organizzazione dello specifico cantiere, alle lavorazioni interferenti ed ai rischi aggiuntivi rispetto a quelli specifici propri dell'attivita' delle singole imprese esecutrici o dei lavoratori autonomi.
+I contenuti del piano di sicurezza e di coordinamento sono il risultato di scelte progettuali ed organizzative conformi alle misure generali di tutela di cui all'[articolo 15 del decreto legislativo 9 aprile 2008, n. 81](../Decreti%20Legislativi/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), secondo quanto riportato nell'allegato XV al medesimo decreto in termini di contenuti minimi. In particolare la relazione tecnica, corredata da tavole esplicative di progetto, deve prevedere l'individuazione, l'analisi e la valutazione dei rischi in riferimento all'area e all'organizzazione dello specifico cantiere, alle lavorazioni interferenti ed ai rischi aggiuntivi rispetto a quelli specifici propri dell'attivita' delle singole imprese esecutrici o dei lavoratori autonomi.
 
 3.
 
@@ -1983,7 +1983,7 @@ Il quadro di incidenza della manodopera e' il documento sintetico che indica, co
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 40. — Cronoprogramma 
  
@@ -2007,7 +2007,7 @@ Nel calcolo del tempo contrattuale deve tenersi conto della prevedibile incidenz
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 41. — Elenco dei prezzi unitari 
  
@@ -2023,7 +2023,7 @@ Per la redazione dei computi metrico estimativi facenti parte integrante dei pro
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 42. — Computo metrico estimativo e quadro economico 
  
@@ -2055,7 +2055,7 @@ Nel quadro economico, redatto secondo l'articolo 16, confluiscono:
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 43.
 
@@ -2136,7 +2136,7 @@ Nel caso di sospensione o di ritardo dei lavori per fatti imputabili all'esecuto
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ## (artt. 46, 47 48 e 49, d.P.R. n. 554/1999)   ((CAPO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
@@ -2236,7 +2236,7 @@ Le stazioni appaltanti non possono richiedere ai concorrenti la dimostrazione de
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 61. — Categorie e classifiche 
  
@@ -2297,7 +2297,7 @@ Per gli appalti di importo a base di gara superiore a euro 20.658.000, l'impresa
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 62. — Qualificazione di imprese stabilite in Stati diversi dall'Italia
 
@@ -2311,7 +2311,7 @@ Le imprese stabilite negli altri Stati di cui all'articolo 47, comma 1, del codi
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 63. — Sistema di qualita' aziendale 
  
@@ -2343,7 +2343,7 @@ La regolarita' dei certificati di qualita' deve essere riscontrata dalle SOA med
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 64. — Requisiti generali e di indipendenza delle SOA 
  
@@ -2393,7 +2393,7 @@ Non possono svolgere attivita' di attestazione le SOA:
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 65. — Controlli sulle SOA 
  
@@ -2413,7 +2413,7 @@ Le SOA comunicano all'Autorita', entro quindici giorni dal loro verificarsi, l'e
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 66. — Partecipazioni azionarie 
  
@@ -2450,7 +2450,7 @@ L'Autorita' puo' negare l'autorizzazione alla partecipazione azionaria della SOA
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 67. — Requisiti tecnici delle SOA 
  
@@ -2488,7 +2488,7 @@ Le SOA devono disporre di attrezzatura informatica per la comunicazione delle in
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 68. — Rilascio della autorizzazione 
  
@@ -2530,7 +2530,7 @@ Il diniego di autorizzazione non impedisce la presentazione di una nuova istanza
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 69. — Elenco delle SOA ed elenchi delle imprese qualificate 
  
@@ -2549,7 +2549,7 @@ L'Autorita', sulla base delle attestazioni trasmesse dalle SOA ai sensi dell'art
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 70. — Attivita' di qualificazione e organizzazione delle SOA -Tariffe 
  
@@ -2603,7 +2603,7 @@ Le SOA comunicano all'Autorita', entro il termine di dieci giorni, l'avvio del p
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 71. — Vigilanza dell'Autorita' 
  
@@ -2645,7 +2645,7 @@ L'Autorita' controlla le determinazioni assunte dalle SOA in merito ai contratti
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 72.
 
@@ -2657,7 +2657,7 @@ Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contra
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 73. — Sanzioni pecuniarie nei confronti delle SOA - 
  
@@ -2748,7 +2748,7 @@ In caso di sospensione o decadenza dell'autorizzazione, l'Autorita' non concede 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 74. — Sanzioni per violazione da parte delle imprese dell'obbligo d'informazione
 
@@ -2782,7 +2782,7 @@ La mancata comunicazione da parte delle imprese all'Osservatorio delle variazion
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 75. — Attivita' delle SOA
 
@@ -2808,7 +2808,7 @@ Qualora l'impresa non risponda alle richieste della SOA di cui al comma 1, la st
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 76. — Domanda di qualificazione 
  
@@ -2868,7 +2868,7 @@ Gli atti di fusione o di altra operazione di cui al comma 9 sono depositati dall
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 77. — Verifica triennale 
  
@@ -2909,7 +2909,7 @@ L'efficacia della verifica decorre dalla data di scadenza del triennio dalla dat
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 78. — Requisiti d'ordine generale 
  
@@ -2941,7 +2941,7 @@ Le SOA non rilasciano l'attestazione di qualificazione ai soggetti che, ai fini 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 79. — Requisiti di ordine speciale 
  (art. 18, d.P.R. n. 34/2000)
@@ -3020,7 +3020,7 @@ I consorzi di cooperative, i consorzi tra imprese artigiane ed i consorzi stabil
 
 14.
 
-Per ottenere la qualificazione fino alla III classifica di importo, i requisiti di cui al comma 5, lettere b) e c), possono essere dimostrati dall'impresa anche mediante i lavori affidati ad altre imprese della cui condotta e' stato responsabile uno dei propri direttori tecnici negli ultimi venti anni. Tale facolta' puo' essere esercitata solo nel caso in cui i soggetti designati hanno svolto funzioni di direttore tecnico, per conto di imprese gia' iscritte all'Albo nazionale dei costruttori ovvero gia' qualificate ai sensi del [decreto del Presidente della Repubblica 25 gennaio 2000, n. 34](../DPR/Regolamento%20recante%20istituzione%20del%20sistema%20di%20qualificazione%20per%20gli%20esecutori%20di%20lavori%20pubblici%20ai%20sensi%20dellarticolo%208%20della%20legge%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md) o qualificate ai sensi del presente titolo, per un periodo complessivo non inferiore a cinque anni, di cui almeno tre consecutivi nella stessa impresa. Lo svolgimento delle funzioni in questione e' dimostrato con l'esibizione dei certificati di iscrizione all'Albo o dell'attestazione e dei certificati di esecuzione dei lavori della cui condotta uno dei direttori tecnici e' stato responsabile. La valutazione dei lavori e' effettuata abbattendo ad un decimo l'importo complessivo di essi e fino ad un massimo di 2.500.000 euro. 
+Per ottenere la qualificazione fino alla III classifica di importo, i requisiti di cui al comma 5, lettere b) e c), possono essere dimostrati dall'impresa anche mediante i lavori affidati ad altre imprese della cui condotta e' stato responsabile uno dei propri direttori tecnici negli ultimi venti anni. Tale facolta' puo' essere esercitata solo nel caso in cui i soggetti designati hanno svolto funzioni di direttore tecnico, per conto di imprese gia' iscritte all'Albo nazionale dei costruttori ovvero gia' qualificate ai sensi del [decreto del Presidente della Repubblica 25 gennaio 2000, n. 34](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20recante%20istituzione%20del%20sistema%20di%20qualificazione%20per%20gli%20esecutori%20di%20lavori%20pubblici%20ai%20sensi%20dellarticolo%208%20della%20legge%2011%20febbraio%201994%20n.%20109%20e%20successive%20modificazioni.md) o qualificate ai sensi del presente titolo, per un periodo complessivo non inferiore a cinque anni, di cui almeno tre consecutivi nella stessa impresa. Lo svolgimento delle funzioni in questione e' dimostrato con l'esibizione dei certificati di iscrizione all'Albo o dell'attestazione e dei certificati di esecuzione dei lavori della cui condotta uno dei direttori tecnici e' stato responsabile. La valutazione dei lavori e' effettuata abbattendo ad un decimo l'importo complessivo di essi e fino ad un massimo di 2.500.000 euro. 
 Un direttore tecnico non puo' dimostrare i requisiti di cui al comma 5, lettere b) e c), qualora non siano trascorsi cinque anni da una eventuale precedente dimostrazione ed a tal fine deve produrre una apposita dichiarazione.
 
 15.
@@ -3064,7 +3064,7 @@ Per ottenere la qualificazione nelle categorie OS 13, OS 18-A, OS 18-B e OS 32, 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 80. — Incremento convenzionale premiante 
  
@@ -3095,7 +3095,7 @@ Per le ditte individuali e le societa' di persone, i requisiti di cui al comma 1
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 81. — Requisiti per la qualificazione dei consorzi stabili 
  
@@ -3111,7 +3111,7 @@ I requisiti per la qualificazione dei consorzi stabili sono quelli previsti dall
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 82. — Rivalutazione dell'importo dei lavori eseguiti 
  
@@ -3131,7 +3131,7 @@ Sono soggetti alla rivalutazione gli importi dei lavori eseguiti a seguito di co
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 83. — Determinazione del periodo di attivita' documentabile e dei relativi importi e certificati 
  
@@ -3177,7 +3177,7 @@ Qualora le SOA nella attivita' di attestazione, di cui all'articolo 40, comma 3,
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 84. — (Criteri di accertamento e di valutazione dei lavori eseguiti all'estero)
 
@@ -3207,7 +3207,7 @@ Qualora l'interessato abbia ultimato i lavori e non disponga piu' di propria rap
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 85. — Lavori eseguiti dall'impresa affidataria e dall'impresa subappaltatrice. 
  
@@ -3245,7 +3245,7 @@ Ai terzi, affidatari di lavori del contraente generale ai sensi dell'articolo 17
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 86. — Criteri di valutazione dei lavori eseguiti e dei relativi importi  
  (art. 25, d.P.R. n. 34/2000)
@@ -3296,7 +3296,7 @@ Ai fini della qualificazione, l'importo dei lavori appaltati al consorzio di imp
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 87. — Direzione tecnica 
  
@@ -3336,7 +3336,7 @@ In ogni caso di variazione della direzione tecnica, l'impresa provvede a darne c
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 88. — Contratto di avvalimento in gara e qualificazione mediante avvalimento
 
@@ -3384,7 +3384,7 @@ Le SOA attestano le imprese ausiliate utilizzando uno specifico modello di attes
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 89. — Contenuti delle attestazioni rilasciate dalle SOA
 
@@ -3402,7 +3402,7 @@ Le attestazioni devono indicare espressamente le referenze che hanno permesso il
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 90. — Requisiti per lavori pubblici di importo pari o inferiore a 150. 000 euro 
  
@@ -3433,7 +3433,7 @@ I requisiti, previsti dal bando di gara, dall'avviso di gara o dalla lettera di 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 91. — Decadenza dell'attestazione di qualificazione
 
@@ -3451,7 +3451,7 @@ Durante l'esecuzione dei lavori, le stazioni appaltanti verificano, attraverso i
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 92. — Requisiti del concorrente singolo e di quelli riuniti 
  
@@ -3506,7 +3506,7 @@ Il [D.L. 28 marzo 2014, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 93. — Societa' tra concorrenti riuniti o consorziati 
  
@@ -3537,7 +3537,7 @@ Tutti i concorrenti riuniti devono far parte della societa' nella medesima perce
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 94. — Consorzi stabili 
  
@@ -3564,7 +3564,7 @@ In caso di scioglimento del consorzio stabile ai consorziati sono attribuiti pro
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 95. — Requisiti del concessionario 
  
@@ -3603,7 +3603,7 @@ Qualora, ai sensi dell'articolo 153 del codice, sia necessario apportare modific
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 96. — Requisiti del proponente e attivita' di asseverazione 
  
@@ -3649,7 +3649,7 @@ La valutazione economica e finanziaria di cui al comma 4 deve avvenire almeno su
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ## ((TITOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50))
 
@@ -4193,7 +4193,7 @@ Ai sensi dell'articolo 141, comma 7, del codice, il collaudo in corso d'opera, s
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 216. — Nomina del collaudatore 
  
@@ -4265,7 +4265,7 @@ Il [D.P.R. 15 novembre 2012, n. 236](../DPR/Regolamento%20recante%20disciplina%2
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 217. — Documenti da fornirsi al collaudatore 
  
@@ -4323,7 +4323,7 @@ Ferma la responsabilita' dell'organo di collaudo nel custodire la documentazione
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 218. — Avviso ai creditori 
  
@@ -4347,7 +4347,7 @@ Il responsabile del procedimento invita l'esecutore a soddisfare i crediti da lu
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 219. — Estensione delle verifiche di collaudo 
  
@@ -4377,7 +4377,7 @@ Il [D.P.R. 15 novembre 2012, n. 236](../DPR/Regolamento%20recante%20disciplina%2
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 220. — Commissioni collaudatrici 
  
@@ -4401,7 +4401,7 @@ Se vi e' dissenso tra i componenti della commissione di collaudo, le conclusioni
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 221. — Visite in corso d'opera 
  
@@ -4429,7 +4429,7 @@ I verbali, da trasmettere al responsabile del procedimento entro trenta giorni s
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 222. — Visita definitiva e relativi avvisi 
  
@@ -4461,7 +4461,7 @@ Il direttore dei lavori ha l'obbligo di presenziare alle visite di collaudo.
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 223. — Processo verbale di visita 
  
@@ -4495,7 +4495,7 @@ Quando per lavori di notevole importanza e' fissato nel capitolato speciale un t
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 224. — Oneri dell'esecutore nelle operazioni di collaudo 
  
@@ -4523,7 +4523,7 @@ Sono ad esclusivo carico dell'esecutore le spese di visita del personale della s
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 225. — Valutazioni dell'organo di collaudo 
  
@@ -4557,7 +4557,7 @@ Con apposita relazione riservata il collaudatore espone il proprio parere sulle 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 226. — Discordanza fra la contabilita' e l'esecuzione 
  
@@ -4577,7 +4577,7 @@ In caso di gravi discordanze, l'organo di collaudo sospende le operazioni e ne r
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 227. — Difetti e mancanze nell'esecuzione 
  
@@ -4601,7 +4601,7 @@ Se infine i difetti e le mancanze non pregiudicano la stabilita' dell'opera e la
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 228. — Eccedenza su quanto e' stato autorizzato ed approvato 
  
@@ -4621,7 +4621,7 @@ L'eventuale riconoscimento delle lavorazioni non autorizzate, non libera il dire
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 229. — Certificato di collaudo 
  
@@ -4676,7 +4676,7 @@ Qualora nel biennio di cui all'articolo 141, comma 3, del codice, dovessero emer
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 230. — Verbali di accertamento ai fini della presa in consegna anticipata  
  (art. 200, d.P.R. n. 554/1999)
@@ -4709,7 +4709,7 @@ La presa in consegna anticipata non incide sul giudizio definitivo sul lavoro, s
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 231. — Obblighi per determinati risultati 
  
@@ -4725,7 +4725,7 @@ Il collaudo puo' avere luogo anche nel caso in cui l'esecutore abbia assunto l'o
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 232. — Lavori non collaudabili 
  
@@ -4741,7 +4741,7 @@ Nel caso in cui l'organo di collaudo ritenga i lavori non collaudabili, ne infor
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 233. — Richieste formulate dall'esecutore sul certificato di collaudo 
  
@@ -4764,7 +4764,7 @@ L'organo di collaudo riferisce al responsabile del procedimento sulle singole ri
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 234. — Ulteriori provvedimenti amministrativi 
  
@@ -4805,7 +4805,7 @@ Le relazioni riservate di cui all'articolo 200, comma 2, lettera f), all'articol
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 235. — Svincolo della cauzione e pagamento della rata di saldo 
  
@@ -4829,7 +4829,7 @@ Il decorso del termine fissato dalla legge per il compimento delle operazioni di
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 236. — Collaudo dei lavori di particolare complessita' tecnica o di grande rilevanza economica 
  
@@ -4853,7 +4853,7 @@ Per i lavori di cui al comma 1 il collaudo e' effettuato sulla base della certif
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 237. — Certificato di regolare esecuzione 
  
@@ -4881,7 +4881,7 @@ Per il certificato di regolare esecuzione si applicano le disposizioni previste 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ### Art. 238. — Compenso spettante ai collaudatori 
  (art. 210, d.P.R. n. 554/1999)
@@ -4920,7 +4920,7 @@ Gli oneri necessari per la liquidazione delle parcelle dei collaudatori fanno ca
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ## CAPO I - Beni del patrimonio culturale
 
@@ -4944,13 +4944,13 @@ Per quanto non disposto dal presente titolo, ai contratti relativi ai beni del p
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 240. — Scavo archeologico, restauro e manutenzione 
  
@@ -4972,7 +4972,7 @@ Lo scavo archeologico consiste in tutte le operazioni che consentono la lettura 
 
 3.
 
-I contenuti qualificanti e le finalita' della manutenzione e del restauro sono definiti all'[articolo 29, commi 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [4, del codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md).
+I contenuti qualificanti e le finalita' della manutenzione e del restauro sono definiti all'[articolo 29, commi 3](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [4, del codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 4.
 
@@ -4983,13 +4983,13 @@ Gli interventi sui beni del patrimonio culturale sono inseriti nei documenti di 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 241. — Attivita' di progettazione per i lavori riguardanti i beni del patrimonio culturale 
  
@@ -5016,13 +5016,13 @@ Qualora ricorra l'ipotesi prevista dall'articolo 252, comma 3, i membri della co
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 242. — Progetto preliminare per i lavori riguardanti i beni del patrimonio culturale 
  
@@ -5091,13 +5091,13 @@ Alle concessioni, ivi comprese quelle affidate secondo le procedure previste dal
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 243. — Progetto definitivo per i lavori riguardanti i beni del patrimonio culturale 
  
@@ -5156,13 +5156,13 @@ Qualora il responsabile del procedimento abbia previsto la redazione del progett
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 244. — Progetto esecutivo per i lavori riguardanti i beni del patrimonio culturale 
  
@@ -5201,13 +5201,13 @@ Il progetto esecutivo, se posto a base di gara, e' redatto secondo quanto indica
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 245. — Progettazione dello scavo archeologico 
  
@@ -5276,13 +5276,13 @@ In caso di scavi archeologici con finalita' di archeologia preventiva, la Soprin
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 246. — Progettazione di lavori di impiantistica e per la sicurezza riguardanti i beni del patrimonio culturale 
  
@@ -5297,13 +5297,13 @@ I progetti relativi ai lavori di impiantistica e per la sicurezza, redatti ai va
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 247. — Verifica dei progetti per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5340,13 +5340,13 @@ Il responsabile del procedimento puo' disporre motivatamente che la verifica rig
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ### Art. 248. — Qualificazione e direzione tecnica per i lavori riguardanti i beni del patrimonio culturale
 
@@ -5368,20 +5368,20 @@ Gli operatori economici, per partecipare agli appalti di importo pari o inferior
 
 5.
 
-Fermo restando quanto disposto dall'articolo 87, commi 1 e da 3 a 7, la direzione tecnica per i lavori di cui al presente titolo e' affidata, relativamente alla categoria OG 2, a soggetti in possesso di laurea in conservazione di beni culturali o in architettura, relativamente alle categorie OS 2-A e OS 2-B, ai restauratori dei beni culturali in possesso dei requisiti di cui agli [articoli 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [182 del codice dei beni culturali e del paesaggio](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e, relativamente alla categoria OS 25, a soggetti in possesso dei titoli previsti dal decreto ministeriale di cui all'articolo 95, comma 2, del codice. 
+Fermo restando quanto disposto dall'articolo 87, commi 1 e da 3 a 7, la direzione tecnica per i lavori di cui al presente titolo e' affidata, relativamente alla categoria OG 2, a soggetti in possesso di laurea in conservazione di beni culturali o in architettura, relativamente alle categorie OS 2-A e OS 2-B, ai restauratori dei beni culturali in possesso dei requisiti di cui agli [articoli 29](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [182 del codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) di cui al [decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e, relativamente alla categoria OS 25, a soggetti in possesso dei titoli previsti dal decreto ministeriale di cui all'articolo 95, comma 2, del codice. 
  (16) ((19))
 
 ---------------
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ## patrimonio culturale
 
@@ -5424,13 +5424,13 @@ Possono far parte dell'organo di collaudo, limitatamente ad un solo componente, 
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
+Il [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ha disposto (con l'art. 217, comma 1, lettera u)) che il presente articolo e' abrogato con effetto dalla data di entrata in vigore degli atti attuativi del [D.Lgs. 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md), i quali operano la ricognizione delle disposizioni del presente regolamento di esecuzione da esse sostituite.
 
 ---------------
 
 AGGIORNAMENTO (19)
 
-Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../DPR/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
+Il Decreto 22 agosto 2017, n. 154 ha disposto (con l'art. 27, comma 1) che "Ai sensi dell'[articolo 216, comma 19, del Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md), dall'entrata in vigore del presente decreto cessano di avere efficacia le disposizioni di cui alla Parte II, Titolo XI, Capi I e II, nonche' gli allegati o le parti di allegati ivi richiamate, e di cui all'[articolo 251 del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207](../Codici/Regolamento%20di%20esecuzione%20ed%20attuazione%20del%20decreto%20legislativo%2012%20aprile%202006%20n.%20163%20recante%20Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20diret_77146f338cf6.md)".
 
 ## ALL'ARCHITETTURA E ALL'INGEGNERIA NEI SETTORI ORDINARI  TITOLO I - DISPOSIZIONI GENERALI
 
