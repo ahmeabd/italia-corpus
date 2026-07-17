@@ -184,7 +184,7 @@ Le Commissioni territoriali per il riconoscimento della protezione internazional
 
 1-bis.
 
-A ciascuna Commissione territoriale e' assegnato un numero di funzionari amministrativi con compiti istruttori non inferiore a quattro individuati nell'ambito del contingente di personale altamente qualificato per l'esercizio di funzioni di carattere specialistico di cui all'[articolo 12 del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_12), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md) ovvero nell'ambito del personale dell'area dei funzionari o delle elevate professionalita' dell'Amministrazione civile dell'interno, appositamente formato in materia di protezione internazionale a cura dell'Amministrazione medesima ((, che puo' anche avvalersi del Centro Alti Studi del Ministero dell'interno,)) successivamente all'ingresso in ruolo.
+A ciascuna Commissione territoriale e' assegnato un numero di funzionari amministrativi con compiti istruttori non inferiore a quattro individuati nell'ambito del contingente di personale altamente qualificato per l'esercizio di funzioni di carattere specialistico di cui all'[articolo 12 del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_12), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md) ovvero nell'ambito del personale dell'area dei funzionari o delle elevate professionalita' dell'Amministrazione civile dell'interno, appositamente formato in materia di protezione internazionale a cura dell'Amministrazione medesima, che puo' anche avvalersi del Centro Alti Studi del Ministero dell'interno, successivamente all'ingresso in ruolo.
 
 2.
 
@@ -192,8 +192,11 @@ Le Commissioni territoriali sono fissate nel numero massimo di venti. Con decret
 
 2-bis.
 
-Con decreto del Ministro dell'interno, presso ciascuna Commissione territoriale possono essere istituite, al verificarsi di un eccezionale incremento delle domande di asilo connesso all'andamento dei flussi migratori e per il tempo strettamente necessario da determinare nello stesso decreto, una o piu' sezioni fino a un numero massimo complessivo di trenta per l'intero territorio nazionale. Alle sezioni si applicano le disposizioni concernenti le Commissioni territoriali. 
- 2- ter. ((Al fine di assicurare lo svolgimento delle procedure accelerate alla frontiera di cui al regolamento (UE) 2024/1348, in aggiunta a quanto stabilito dal comma 2-bis, possono essere istituite una o piu' sezioni, fino ad un massimo di ventiquattro.))
+Con decreto del Ministro dell'interno, presso ciascuna Commissione territoriale possono essere istituite, al verificarsi di un eccezionale incremento delle domande di asilo connesso all'andamento dei flussi migratori e per il tempo strettamente necessario da determinare nello stesso decreto, una o piu' sezioni fino a un numero massimo complessivo di trenta per l'intero territorio nazionale. Alle sezioni si applicano le disposizioni concernenti le Commissioni territoriali.
+
+2-ter.
+
+((Al fine di assicurare lo svolgimento delle procedure accelerate alla frontiera di cui al regolamento (UE) 2024/1348, in aggiunta a quanto stabilito dal comma 2-bis, possono essere istituite una o piu' sezioni, fino ad un massimo di ventiquattro.))
 
 3.
 
@@ -345,11 +348,11 @@ La Commissione nazionale redige, secondo le modalita' definite nel regolamento d
                             d)
                                 l'indirizzo ed il recapito telefonico dell'UNHCR e delle principali organizzazioni di tutela dei richiedenti protezione internazionale, nonche' informazioni sul servizio di cui al comma 2-bis.
                             d-bis)
-                                l'elenco dei Paesi designati di origine sicuri ai sensi dell'articolo
+                                l'elenco dei Paesi designati di origine sicuri ai sensi dell'articolo 2 -bis.
 
 2-bis.
 
-2-bis. Al fine di garantire al richiedente un servizio gratuito di informazione sulla procedura di esame della domanda da parte delle Commissioni territoriali, nonche' sulle procedure di revoca e sulle modalita' di impugnazione delle decisioni in sede giurisdizionale, il Ministero dell'interno stipula apposite convenzioni con l'UNHCR o con enti di tutela dei titolari di protezione internazionale con esperienza consolidata nel settore, anche ad integrazione dei servizi di informazione assicurati dal gestore nelle strutture di accoglienza previste dal presente decreto.
+Al fine di garantire al richiedente un servizio gratuito di informazione sulla procedura di esame della domanda da parte delle Commissioni territoriali, nonche' sulle procedure di revoca e sulle modalita' di impugnazione delle decisioni in sede giurisdizionale, il Ministero dell'interno stipula apposite convenzioni con l'UNHCR o con enti di tutela dei titolari di protezione internazionale con esperienza consolidata nel settore, anche ad integrazione dei servizi di informazione assicurati dal gestore nelle strutture di accoglienza previste dal presente decreto.
 
 3.
 
@@ -768,8 +771,11 @@ In casi eccezionali, debitamente motivati, il termine di nove mesi di cui al com
 
 1.
 
-Il presidente della Commissione territoriale, previo esame preliminare delle domande, determina i casi di trattazione prioritaria, ((ai sensi dell'articolo 34, paragrafo 5, del regolamento (UE) 2024/1348)), e quelli per i quali applicare la procedura accelerata, ((ai sensi dell'articolo 42, paragrafo 1, del regolamento (UE) 2024/1348)). La Commissione territoriale informa tempestivamente il richiedente delle determinazioni procedurali assunte ai sensi del periodo precedente. 
- 2.((Ai sensi dell'articolo 53, paragrafo 2, lettere b), c) e d) del regolamento (UE) 2024/1348, e fatto salvo quanto previsto dal paragrafo 1 del medesimo articolo, le procedure di cui al presente articolo si applicano ai richiedenti con esigenze particolari ai sensi dell'articolo 17 del decreto legislativo 18 agosto 2015, n. 142, all'esito di una valutazione individuale effettuata secondo le linee guida elaborate dal Ministero dell'interno, in collaborazione con le altre amministrazioni competenti e con le organizzazioni interessate, ove sia possibile fornire ai menzionati richiedenti il necessario sostegno.)) 
+Il presidente della Commissione territoriale, previo esame preliminare delle domande, determina i casi di trattazione prioritaria, ((ai sensi dell'articolo 34, paragrafo 5, del regolamento (UE) 2024/1348)), e quelli per i quali applicare la procedura accelerata, ((ai sensi dell'articolo 42, paragrafo 1, del regolamento (UE) 2024/1348)). La Commissione territoriale informa tempestivamente il richiedente delle determinazioni procedurali assunte ai sensi del periodo precedente.
+
+2.
+
+((Ai sensi dell'articolo 53, paragrafo 2, lettere b), c) e d) del regolamento (UE) 2024/1348, e fatto salvo quanto previsto dal paragrafo 1 del medesimo articolo, le procedure di cui al presente articolo si applicano ai richiedenti con esigenze particolari ai sensi dell'articolo 17 del decreto legislativo 18 agosto 2015, n. 142, all'esito di una valutazione individuale effettuata secondo le linee guida elaborate dal Ministero dell'interno, in collaborazione con le altre amministrazioni competenti e con le organizzazioni interessate, ove sia possibile fornire ai menzionati richiedenti il necessario sostegno.)) 
  (12)
 
 --------------
@@ -778,12 +784,53 @@ AGGIORNAMENTO (12)
 
 Il [D.L. 21 ottobre 2020, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-10-21;130), convertito con modificazioni dalla [L. 18 dicembre 2020, n. 173](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20ottobre%202020%20n.%20130%20recante%20disposizioni%20urgenti%20in%20materia%20di%20immigrazione%20protezione%20internazionale%20e%20complementare%20modifiche_b597c75041fc.md), ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettere a), b, c), d) ed e) si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto avanti alle commissioni territoriali".
 
-### Art. 28-bis. — (( (Trasferimento del richiedente sottoposto alla procedura di asilo alla frontiera). ))
+### Art. 28-bis.
 
-1. ((Nel rispetto dei termini stabiliti dagli articoli 51 e 73 del regolamento (UE) 2024/1348, qualora sia stata determinata l'applicazione della procedura accelerata in frontiera, la Commissione territoriale competente per l'esame adotta e comunica la decisione sulla domanda entro quattro settimane.))
+( ((Individuazione delle zone di frontiera e di transito)) ).
 
-1. ((Il richiedente la cui domanda di protezione internazionale e' esaminata con procedura di asilo alla frontiera puo' essere trasferito, dal punto della frontiera esterna in cui e' stato sottoposto agli accertamenti di cui al regolamento (UE) 2024/1356 e ha fatto domanda, a uno specifico luogo sito alla frontiera esterna o in prossimita' della stessa o in altri luoghi designati sul territorio nazionale nei quali vi sono strutture dedicate alle procedure di frontiera.)) 
- 2. ((Il trasferimento verso le strutture di cui al comma 1 e l'accoglienza nelle medesime non costituiscono autorizzazione all'ingresso nel territorio nazionale e non determinano la cessazione dell'obbligo del richiedente di restare a disposizione delle competenti autorita'.))
+1.
+
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
+
+2.
+
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
+
+2-bis.
+
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
+
+3.
+
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
+
+4.
+
+((Le zone di frontiera e di transito ai fini dello svolgimento della procedura accelerata in frontiera nei termini di cui all'articolo 28-bis.1 sono individuate con decreto del Ministro dell'interno.))
+
+5.
+
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
+
+6.
+
+((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
+
+### Art. 28-bis.1. — (( (Termini per lo svolgimento della procedura di asilo alla frontiera). ))
+
+1.
+
+((Nel rispetto dei termini stabiliti dagli articoli 51 e 73 del regolamento (UE) 2024/1348, qualora sia stata determinata l'applicazione della procedura accelerata in frontiera, la Commissione territoriale competente per l'esame adotta e comunica la decisione sulla domanda entro quattro settimane.))
+
+### Art. 28-bis.2. — (( (Trasferimento del richiedente sottoposto alla procedura di asilo alla frontiera). ))
+
+1.
+
+((Il richiedente la cui domanda di protezione internazionale e' esaminata con procedura di asilo alla frontiera puo' essere trasferito, dal punto della frontiera esterna in cui e' stato sottoposto agli accertamenti di cui al regolamento (UE) 2024/1356 e ha fatto domanda, a uno specifico luogo sito alla frontiera esterna o in prossimita' della stessa o in altri luoghi designati sul territorio nazionale nei quali vi sono strutture dedicate alle procedure di frontiera.))
+
+2.
+
+((Il trasferimento verso le strutture di cui al comma 1 e l'accoglienza nelle medesime non costituiscono autorizzazione all'ingresso nel territorio nazionale e non determinano la cessazione dell'obbligo del richiedente di restare a disposizione delle competenti autorita'.))
 
 ### Art. 28-ter. — (( (Domanda manifestamente infondata).))
 
@@ -855,9 +902,9 @@ Fatto salvo quanto previsto dagli articoli 23, 29 e 30 la Commissione territoria
                             b-bis)
                                 rigetta la domanda per manifesta infondatezza nei casi di cui all'articolo 28-ter;
                             b-ter)
-                                rigetta la domanda se, in una parte del territorio del Paese di origine, il richiedente non ha fondati motivi di temere di essere perseguitato o non corre rischi effettivi di subire danni gravi o ha accesso alla protezione contro persecuzioni o danni gravi, puo' legalmente e senza pericolo recarvisi ed esservi ammesso e si puo' ragionevolmente supporre che vi si ristabilisca.
+                                rigetta la domanda se, in una parte del territorio del Paese di origine, il richiedente non ha fondati motivi di temere di essere perseguitato o non corre rischi effettivi di subire danni gravi o ha accesso alla protezione contro persecuzioni o danni gravi, puo' legalmente e senza pericolo recarvisi ed esservi ammesso e si puo' ragionevolmente supporre che vi si ristabilisca;
                             b-quater)
-                                ((dichiara inammissibile la domanda e non procede all'esame quando accerta la sussistenza di una delle condizioni previste dall'articolo 38, paragrafo 1, lettere a), b) c) d) ed e) del regolamento (UE) 2024/1348.))
+                                dichiara inammissibile la domanda e non procede all'esame quando accerta la sussistenza di una delle condizioni previste dall'[articolo 38, paragrafo 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2024;1348#art_38-par1-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2024;1348#art_38-par1-letb) [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2024;1348#art_38-par1-letc) [d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2024;1348#art_38-par1-letd) ed [e) del regolamento (UE) 2024/1348](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2024;1348#art_38-par1-lete).
 
 1-bis.
 
@@ -875,16 +922,19 @@ Nei casi in cui non accolga la domanda di protezione internazionale e ricorrano 
 
 3-bis.
 
-La Commissione territoriale trasmette, altresi', gli atti al Questore per le valutazioni di competenza se nel corso dell'istruttoria sono emersi fondati motivi per ritenere che il richiedente e' stato vittima dei delitti di cui agli [articoli 600](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [601 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
+La Commissione territoriale trasmette, altresi', gli atti al Questore per le valutazioni di competenza se nel corso dell'istruttoria sono emersi fondati motivi per ritenere che il richiedente e' stato vittima dei delitti di cui agli [articoli 600](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [601 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). ((In tal caso si applica l'articolo 17, comma 2, del decreto legislativo 18 agosto 2015, n. 142.))
 
 4.
 
-La decisione di cui al comma 1, lettere b), b-bis) ((...)) b-ter) ((e b-quater)), del presente articolo e il verificarsi delle ipotesi previste dagli articoli 23, ((23-bis,)) 29 e 29-bis comportano, alla scadenza del termine per l'impugnazione, l'obbligo per il richiedente di lasciare il territorio nazionale, salvo che gli sia stato rilasciato un permesso di soggiorno ad altro titolo e salvo che la Commissione territoriale rilevi la sussistenza di una delle condizioni di cui ai commi 3.2 e 3-bis del presente articolo o di una delle cause impeditive di cui all'[articolo 19, commi 1-bis](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [2, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Nei casi di cui al periodo precedente, la decisione reca anche l'attestazione dell'obbligo di rimpatrio e del divieto di reingresso di cui all'[articolo 13, commi 13](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [14, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). L'attestazione tiene luogo e produce gli effetti del provvedimento di espulsione amministrativa di cui all'[articolo 13 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e il questore procede ai sensi del medesimo articolo 13, commi 4 e 5, salvi gli effetti di cui all'articolo 35-bis, commi 3 e 4, del presente decreto. Il provvedimento recante l'attestazione dell'obbligo di rimpatrio in conformita' al presente comma e' impugnabile con ricorso unitario ai sensi dell'articolo 35, comma 1, del presente decreto.
+La decisione di cui al comma 1, lettere b), b-bis) b-ter) e b-quater, del presente articolo e il verificarsi delle ipotesi previste dagli articoli 23, 23-bis, 29 e 29-bis comportano, alla scadenza del termine per l'impugnazione, l'obbligo per il richiedente di lasciare il territorio nazionale, salvo che gli sia stato rilasciato un permesso di soggiorno ad altro titolo e salvo che la Commissione territoriale rilevi la sussistenza di una delle condizioni di cui ai commi 3.2 e 3-bis del presente articolo o di una delle cause impeditive di cui all'[articolo 19, commi 1-bis](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [2, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Nei casi di cui al periodo precedente, la decisione reca anche l'attestazione dell'obbligo di rimpatrio e del divieto di reingresso di cui all'[articolo 13, commi 13](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md) e [14, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). L'attestazione tiene luogo e produce gli effetti del provvedimento di espulsione amministrativa di cui all'[articolo 13 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e il questore procede ai sensi del medesimo articolo 13, commi 4 e 5, salvi gli effetti di cui all'articolo 35-bis, commi 3 e 4, del presente decreto. Il provvedimento recante l'attestazione dell'obbligo di rimpatrio in conformita' al presente comma e' impugnabile con ricorso unitario ai sensi dell'articolo 35, comma 1, del presente decreto.
 
 4-bis.
 
-Nei casi di cui al comma 4, primo periodo, qualora la procedura si svolga direttamente alla frontiera o nelle zone di transito, ai sensi dell'articolo 28-bis, comma 2-bis, la decisione reca l'attestazione dell'obbligo di rimpatrio e produce gli effetti del provvedimento di respingimento di cui all'[articolo 10, comma 2, lettera b-bis), del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Si applica il comma 4, quarto periodo. 
- 4-ter.((Con la decisione di cui al comma 4-bis, il richiedente, qualora in possesso di un passaporto o altro documento di viaggio valido, e' informato della facolta' di chiedere al questore la concessione di un periodo per la partenza volontaria, anche attraverso programmi di rimpatrio volontario e assistito, sempreche' non ricorrano le circostanze impeditive previste dall'articolo 4, paragrafo 5, del regolamento (UE) 2024/1349. Si applica l'articolo 10, comma 2-septies, del decreto legislativo 25 luglio 1998, n. 286.))
+Nei casi di cui al comma 4, primo periodo, qualora la procedura si svolga direttamente alla frontiera o nelle zone di transito, ai sensi dell'articolo 28-bis.1, la decisione reca l'attestazione dell'obbligo di rimpatrio e produce gli effetti del provvedimento di respingimento di cui all'[articolo 10, comma 2, , del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md). Si applica il comma 4, quarto periodo.
+
+4-ter.
+
+Con la decisione di cui al comma 4-bis, il richiedente, qualora in possesso di un passaporto o altro documento di viaggio valido, e' informato della facolta' di chiedere al questore la concessione di un periodo per la partenza volontaria, anche attraverso programmi di rimpatrio volontario e assistito, sempreche' non ricorrano le circostanze impeditive previste dall'[articolo 4, paragrafo 5, del regolamento (UE) 2024/1349](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2024;1349#art_4-par5). Si applica l'[articolo 10, comma 2-septies, del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).
 
 ---------------
 
@@ -954,7 +1004,7 @@ Le controversie di cui al comma 1 sono disciplinate ((dagli articoli 35-bis e 35
 
 2-bis.
 
-I provvedimenti comunicati alla Commissione nazionale ovvero alle Commissioni territoriali ai sensi dell'articolo 35-bis, commi 4 e 13, sono tempestivamente trasmessi dalle medesime Commissioni territoriali o nazionali al questore del luogo di domicilio del ricorrente, risultante agli atti della Commissione, per gli adempimenti conseguenti. ((PERIODO SOPPRESSO DAL D.L. 12 GIUGNO 2026,N . 100)). (8)
+I provvedimenti comunicati alla Commissione nazionale ovvero alle Commissioni territoriali ai sensi dell'articolo 35-bis, commi 4 e 13, sono tempestivamente trasmessi dalle medesime Commissioni territoriali o nazionali al questore del luogo di domicilio del ricorrente, risultante agli atti della Commissione, per gli adempimenti conseguenti. ((PERIODO SOPPRESSO DAL D.L. 12 GIUGNO 2026, N . 100)). (8)
 
 3.
 
@@ -1147,9 +1197,7 @@ Il [D.L. 11 ottobre 2024, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 11 OTTOBRE 2024, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 9 DICEMBRE 2024, N. 187))
 
-### Art. 35-ter.
-
-(( (Delle controversie in materia di riconoscimento della protezione internazionale nella procedura di frontiera).))
+### Art. 35-ter. — (( (Delle controversie in materia di riconoscimento della protezione internazionale nella procedura di frontiera).))
 
 1.
 
