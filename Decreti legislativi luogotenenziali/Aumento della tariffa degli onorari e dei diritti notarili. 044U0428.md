@@ -57,7 +57,7 @@ L'onorario per ogni copia esecutiva, di cui all'art. 14 della tariffa annessa al
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 aprile 1948, n. 528](../Decreti%20Legislativi/Modificazioni%20alla%20tariffa%20degli%20onorari%20e%20dei%20diritti%20accessori%20spettanti%20ai%20notai%20e%20altre%20disposizioni%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.md) ha disposto (con l'art. 7, commi 1, 2 e 3) che "Il limite massimo dell'onorario di copia, di cui all'[art. 2 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), e' elevato a L. 1500 per le copie in forma esecutiva e a L. 1000 per le altre copie. 
+Il [D.Lgs. 9 aprile 1948, n. 528](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20tariffa%20degli%20onorari%20e%20dei%20diritti%20accessori%20spettanti%20ai%20notai%20e%20altre%20disposizioni%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.md) ha disposto (con l'art. 7, commi 1, 2 e 3) che "Il limite massimo dell'onorario di copia, di cui all'[art. 2 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), e' elevato a L. 1500 per le copie in forma esecutiva e a L. 1000 per le altre copie. 
  L'onorario di copia non puo' in ogni caso essere inferiore a L. 80. 
  Per le copie degli atti di valore indeterminabile l'onorario e' di L. 80 e per le copie ad uso dell'Ufficio del registro e' di L. 25".
 
@@ -106,7 +106,7 @@ Per ogni atto ricevuto o autenticato da notaio, che sia soggetto a registrazione
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 9 aprile 1948, n. 528](../Decreti%20Legislativi/Modificazioni%20alla%20tariffa%20degli%20onorari%20e%20dei%20diritti%20accessori%20spettanti%20ai%20notai%20e%20altre%20disposizioni%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.md) ha disposto (con l'art. 21, comma 1) che "La tassa di archivio stabilita dall'[art. 10 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), e' dovuta anche per gli atti di deposito del testamento Olografo e di ricevimento del testamento pubblico o segreto".
+Il [D.Lgs. 9 aprile 1948, n. 528](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20tariffa%20degli%20onorari%20e%20dei%20diritti%20accessori%20spettanti%20ai%20notai%20e%20altre%20disposizioni%20sullordinamento%20del%20notariato%20e%20degli%20archivi%20notarili.md) ha disposto (con l'art. 21, comma 1) che "La tassa di archivio stabilita dall'[art. 10 del decreto legislativo luogotenenziale 8 dicembre 1944, n. 428](Aumento%20della%20tariffa%20degli%20onorari%20e%20dei%20diritti%20notarili.%20044U0428.md), e' dovuta anche per gli atti di deposito del testamento Olografo e di ricevimento del testamento pubblico o segreto".
 
 ---------------
 
