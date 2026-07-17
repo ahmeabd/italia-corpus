@@ -30,7 +30,7 @@ Considerato che i batteri lattici, per poter esplicare efficacemente l'azione fe
 
 Considerato che il rispetto dei requisiti richiesti ai batteri lattici puo' essere garantito solamente da stabilimenti o da laboratori di preparazione e di confezionamento che dispongono di idonee strutture per la preparazione e per il controllo degli stessi prima della loro immissione in commercio;
 
-Visti i [decreti legislativi 3 marzo 1993, n. 91 e 3 marzo 1993, n. 92](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2090-220-CEE%20concernente%20lemissione%20deliberata%20nellambiente%20di%20organismi%20geneticamente%20modificati.md), e loro successive modificazioni, concernenti rispettivamente l'impiego confinato di microrganismi geneticamente modificati e l'emissione deliberata nell'ambiente di organismi geneticamente modificati;
+Visti i [decreti legislativi 3 marzo 1993, n. 91 e 3 marzo 1993, n. 92](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2090-220-CEE%20concernente%20lemissione%20deliberata%20nellambiente%20di%20organismi%20geneticamente%20modificati.md), e loro successive modificazioni, concernenti rispettivamente l'impiego confinato di microrganismi geneticamente modificati e l'emissione deliberata nell'ambiente di organismi geneticamente modificati;
 
 Visti i pareri espressi dal Consiglio superiore di sanita' nelle sedute del 7 settembre 1994, del 10 maggio 1995 e del 17 gennaio 1996;
 

@@ -18,7 +18,7 @@ IL MINISTRO DELL'INDUSTRIA
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto l'art. 319 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto l'art. 319 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 22 maggio 1980, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209), che modifica gli articoli 398 e 399 del sopracitato testo unico relativamente alla prevenzione ed alla eliminazione dei disturbi alle radiotrasmissioni ed alle radioricezioni;
 
@@ -28,9 +28,9 @@ Visto il regolamento delle radiocomunicazioni annesso alla convenzione internazi
 
 (( Vista la [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), concernente "Disciplina del sistema radiotelevisivo pubblico e privato"; ))
 
-Visto il regolamento di attuazione della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), approvato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md);
+Visto il regolamento di attuazione della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223), approvato con [decreto del Presidente della Repubblica 27 marzo 1992, n. 255](../DPR/Regolamento%20di%20attuazione%20della%20legge%206%20agosto%201990%20n.%20223%20sulla%20disciplina%20del%20sistema%20radiotelevisivo%20pubblico%20e%20privato.md);
 
-Visto il [decreto legislativo 4 dicembre 1992, n. 476](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md) "Attuazione della [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336), in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31)";
+Visto il [decreto legislativo 4 dicembre 1992, n. 476](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md) "Attuazione della [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336), in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31)";
 
 Visto il parere espresso dal Consiglio superiore tecnico delle poste, delle telecomunicazioni e dell'automazione;
 

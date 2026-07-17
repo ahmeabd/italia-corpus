@@ -34,9 +34,9 @@ Visto il regolamento concernente le modalita' di applicazione del trattamento ag
 
 Visto l'[articolo 3 della direttiva 2003/30/CE del Parlamento europeo e del Consiglio dell'8 maggio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;30), che dispone che gli Stati membri provvedono ad immettere nei rispettivi mercati una percentuale minima di biocarburante e di altri carburanti rinnovabili;
 
-Visto il [decreto legislativo 30 maggio 2005, n. 128](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md), di attuazione della predetta [direttiva 2003/30/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;30);
+Visto il [decreto legislativo 30 maggio 2005, n. 128](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-30-CE%20relativa%20alla%20promozione%20delluso%20dei%20biocarburanti%20o%20di%20altri%20carburanti%20rinnovabili%20nei%20trasporti.md), di attuazione della predetta [direttiva 2003/30/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;30);
 
-Visto il [decreto legislativo 21 marzo 2005, n. 66](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202003-17-CE%20relativa%20alla%20qualita%20della%20benzina%20e%20del%20combustibile%20diesel.md), di attuazione della [direttiva 2003/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;17), relativa alla qualita' della benzina e del combustibile diesel;
+Visto il [decreto legislativo 21 marzo 2005, n. 66](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202003-17-CE%20relativa%20alla%20qualita%20della%20benzina%20e%20del%20combustibile%20diesel.md), di attuazione della [direttiva 2003/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;17), relativa alla qualita' della benzina e del combustibile diesel;
 
 Vista la circolare dell'Agenzia per le erogazioni in agricoltura prot. ACIU.2007.25 del 19 gennaio 2007, che individua i dati e le modalita' operative sulla base dei quali la medesima Agenzia procede alla verifica della conformita' dei contratti di coltivazione di semi oleosi con i contratti quadro e delle quantita' di olio di semi ottenibili destinate alla produzione di biodiesel;
 

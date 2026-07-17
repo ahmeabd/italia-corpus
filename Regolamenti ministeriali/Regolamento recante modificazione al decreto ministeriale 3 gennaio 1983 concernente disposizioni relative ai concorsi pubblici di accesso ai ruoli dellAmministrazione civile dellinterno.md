@@ -14,7 +14,7 @@ DI CONCERTO CON
 
 IL MINISTRO PER LA FUNZIONE PUBBLICA
 
-Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../DPR/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), concernente l'ordinamento del personale e l'organizzazione degli uffici dell'Amministrazione civile del Ministero dell'interno;
+Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), concernente l'ordinamento del personale e l'organizzazione degli uffici dell'Amministrazione civile del Ministero dell'interno;
 
 Visto il decreto ministeriale 3 gennaio 1983, registrato alla Corte dei conti il 18 marzo successivo (registro n. 7 Interno, foglio n. 163), e successive integrazioni e modificazioni, pubblicato nel Bollettino ufficiale di legislazione e disposizioni ufficiali del Ministero dell'interno in data 1 aprile 1983 (supplemento ordinario al n. 1-3), recante norme per la regolamentazione dei concorsi pubblici di accesso ai ruoli del personale dell'Amministrazione civile dell'interno;
 

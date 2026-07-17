@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DI GRAZIA E GIUSTIZIA
 
-Visto l'[art. 206 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md);
+Visto l'[art. 206 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md);
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -145,7 +145,7 @@ Nota all'[art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repu
 
 1.
 
-La disposizione dell'[art. 24 comma 2 del decreto del Presidente della Repubblica 29 aprile 1976, n. 431](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md), relativa alla vidimazione da parte del magistrato di sorveglianza, si applica anche al registro previsto dall'[art. 57 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
+La disposizione dell'[art. 24 comma 2 del decreto del Presidente della Repubblica 29 aprile 1976, n. 431](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20della%20legge%2026%20luglio%201975%20n.%20354%20recante%20norme%20sullordinamento%20penitenziario%20e%20sulle%20misure%20privative%20e%20limitative%20della%20liberta.md), relativa alla vidimazione da parte del magistrato di sorveglianza, si applica anche al registro previsto dall'[art. 57 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
 
 Note all'art. 8:
  - Il comma 2 dell'art. 24 del regolamento di esecuzione della [legge 26 luglio 1975, n. 354](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;354), recante norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta', approvato con D P.R. n. 431/1976, prevede che: "Il registro, prima che sia posto in uso, e' presentato al magistrato di sorveglianza che ne fa numerare ciascuna pagina, vistandola e segnandola con sigillo del proprio ufficio. In fine del registro lo stesso magistrato di sorveglianza indica il numero complessivo delle pagine e vi appone la data e la sottoscrizione".
@@ -166,7 +166,7 @@ La disposizione del comma 1 non si applica se la misura degli arresti domiciliar
 
 1.
 
-L'elenco previsto dall'[art. 81 comma 1 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) e' formato assegnando un distinto numero a ciascuna cosa sequestrata. Piu' cose sequestrate possono essere raggruppate sotto un unico numero quando esse sono della stessa specie e non rilevano per la loro individualita'.
+L'elenco previsto dall'[art. 81 comma 1 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) e' formato assegnando un distinto numero a ciascuna cosa sequestrata. Piu' cose sequestrate possono essere raggruppate sotto un unico numero quando esse sono della stessa specie e non rilevano per la loro individualita'.
 
 2.
 
@@ -179,7 +179,7 @@ Nota all'art. 10:
 
 1.
 
-Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
+Se le cose sequestrate sono oggetti preziosi, monete, carte di pubblico credito indicate nell'[art. 458 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o altri titoli al portatore, si provvede, appena pervengono nella cancelleria o nella segreteria, alla loro verificazione, osservate le disposizioni dell'art. 261 del codice. Allo stesso modo si procede per ogni altra cosa sequestrata quando i sigilli appaiono rotti o alterati. Delle operazioni e' compilato verbale che viene unito agli atti.
 
 2.
 
@@ -276,7 +276,7 @@ Nota all'art. 19:
 
 1.
 
-Il ruolo per i dibattimenti davanti al tribunale, alla corte di assise e al pretore e' formato a norma degli [articoli 132](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) e [160 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
+Il ruolo per i dibattimenti davanti al tribunale, alla corte di assise e al pretore e' formato a norma degli [articoli 132](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) e [160 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md).
 
 2.
 
@@ -333,7 +333,7 @@ Gli originali delle sentenze e dei decreti penali di condanna sono raccolti in a
 
 1.
 
-I nastri e i supporti previsti dall'[art. 49 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) dei quali e' stata eseguita la trascrizione sono trasmessi senza ritardo alla cancelleria del giudice della impugnazione se questi ne fa richiesta.
+I nastri e i supporti previsti dall'[art. 49 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) dei quali e' stata eseguita la trascrizione sono trasmessi senza ritardo alla cancelleria del giudice della impugnazione se questi ne fa richiesta.
 
 Nota all'art. 24:
  L'art. 49 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), allegate al [D.Lgs. n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271), e' cosi' formulato:
@@ -397,7 +397,7 @@ Per l'esecuzione delle sentenze e dei decreti di condanna la segreteria del pubb
                         a)
                             eseguiti i necessari accertamenti, iscrive ciascuna sentenza di condanna a pene detentive nel registro delle esecuzioni; le sentenze di condanna a pene pecuniarie o a sanzioni sostitutive, i decreti di condanna nonche' le sentenze di condanna a pene detentive la cui esecuzione e' sospesa sono iscritti nel registro delle esecuzioni nel caso di conversione in pena detentiva o di revoca della sospensione. Con l'iscrizione e' annotato il provvedimento con il quale e' stata promossa l'esecuzione della sentenza o del decreto di condanna;
                         b)
-                            forma un fascicolo con un numero progressivo corrispondente a quello del registro, nel quale sono raccolti l'estratto indicato nell'art. 28, il certificato del casellario giudiziale riguardante il condannato, i dati acquisiti presso il servizio informatico previsto dall'[art. 97 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) nonche' copia degli atti del procedimento di grazia e dei provvedimenti emessi dall'autorita' giudiziaria in sede di esecuzione. Di tutti gli atti viene formato un indice;
+                            forma un fascicolo con un numero progressivo corrispondente a quello del registro, nel quale sono raccolti l'estratto indicato nell'art. 28, il certificato del casellario giudiziale riguardante il condannato, i dati acquisiti presso il servizio informatico previsto dall'[art. 97 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) nonche' copia degli atti del procedimento di grazia e dei provvedimenti emessi dall'autorita' giudiziaria in sede di esecuzione. Di tutti gli atti viene formato un indice;
                         c)
                             sottopone al pubblico ministero il fascicolo, anche per l'adozione dei provvedimenti previsti dagli articoli 657 e 663 del codice;
                         d)
@@ -445,7 +445,7 @@ Il provvedimento con il quale viene respinta la richiesta di liberazione anticip
 
 1.
 
-La cancelleria del giudice che emette i provvedimenti di riabilitazione o di revoca previsti dall'[art. 193 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) ne trasmette l'estratto per l'annotazione alla cancelleria del giudice che ha emesso la sentenza di condanna.
+La cancelleria del giudice che emette i provvedimenti di riabilitazione o di revoca previsti dall'[art. 193 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md) ne trasmette l'estratto per l'annotazione alla cancelleria del giudice che ha emesso la sentenza di condanna.
 
 Nota all'art. 33:
  Il testo dell'art. 193 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), allegate al [D.Lgs. n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271), e' il seguente:
@@ -476,7 +476,7 @@ Nota all'art. 34:
 
 1.
 
-Il giudice istruttore e il pretore trasmettono senza ritardo al pubblico ministero gli atti dei procedimenti indicati nell'[art. 258 del decreto legislativo 28 luglio 1989, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md). La segreteria del pubblico ministero provvede all'iscrizione dei procedimenti medesimi nel registro previsto dall'art. 335 del codice.
+Il giudice istruttore e il pretore trasmettono senza ritardo al pubblico ministero gli atti dei procedimenti indicati nell'[art. 258 del decreto legislativo 28 luglio 1989, n. 271](../Codici/Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md). La segreteria del pubblico ministero provvede all'iscrizione dei procedimenti medesimi nel registro previsto dall'art. 335 del codice.
 
 Note all'art. 35:
  - L'art. 258 delle norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), allegate al [D.Lgs. n. 271/1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989;271), e' cosi' formulato:
@@ -487,7 +487,7 @@ Note all'art. 35:
 
 1.
 
-Il presente regolamento entra in vigore lo stesso giorno dell'entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md).
+Il presente regolamento entra in vigore lo stesso giorno dell'entrata in vigore del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), approvato con [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md).
 
 Il presente regolamento, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

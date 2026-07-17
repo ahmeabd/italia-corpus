@@ -163,7 +163,7 @@ Nel caso di dichiarata responsabilita' processuale ai sensi dell'[articolo 96 de
 
 10.
 
-Nel caso di controversie a norma dell'[articolo 140-bis del decreto legislativo 6 settembre 2005, n. 206](../Decreti%20Legislativi/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), il compenso puo' essere aumentato fino al triplo rispetto a quello altrimenti liquidabile.
+Nel caso di controversie a norma dell'[articolo 140-bis del decreto legislativo 6 settembre 2005, n. 206](../Codici/Codice%20del%20consumo%20a%20norma%20dellarticolo%207%20della%20legge%2029%20luglio%202003%20n.%20229.md), il compenso puo' essere aumentato fino al triplo rispetto a quello altrimenti liquidabile.
 
 10-bis.
 

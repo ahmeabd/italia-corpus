@@ -620,7 +620,7 @@ Il laboratorio di confezionamento riconosciuto deve tenere un apposito registro 
 
 1.
 
-Le indicazioni obbligatorie da riportare nella etichettatura del prosciutto di Parma, con le modalita' previste dal [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sono le seguenti:
+Le indicazioni obbligatorie da riportare nella etichettatura del prosciutto di Parma, con le modalita' previste dal [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sono le seguenti:
                         a)
                             per il prosciutto di Parma intero con osso:
  1) "prosciutto di Parma" seguita da "denominazione di origine tutelata";

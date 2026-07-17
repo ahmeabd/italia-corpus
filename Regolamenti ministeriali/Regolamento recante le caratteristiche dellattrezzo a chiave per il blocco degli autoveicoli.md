@@ -14,7 +14,7 @@ DI CONCERTO CON
 
 IL MINISTRO DEI TRASPORTI
 
-Visto il testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), ed in particolare il comma 6 dell'art. 115, aggiunto dall'[art. 19, comma 2, della legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_19-com2);
+Visto il testo unico delle norme sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), ed in particolare il comma 6 dell'art. 115, aggiunto dall'[art. 19, comma 2, della legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_19-com2);
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -28,7 +28,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-L'attrezzo a chiave per il blocco delle ruote dei veicoli in sosta nelle ipotesi previste dai [commi 4](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md) e [5 dell'art. 115 del decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), come integrato dall'[art. 19 della legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_19), deve avere le seguenti caratteristiche:
+L'attrezzo a chiave per il blocco delle ruote dei veicoli in sosta nelle ipotesi previste dai [commi 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md) e [5 dell'art. 115 del decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), come integrato dall'[art. 19 della legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122#art_19), deve avere le seguenti caratteristiche:
                         a)
                             essere realizzato con almeno due braccia a pinza, idonee per bloccare la ruota del veicolo e regolabili in modo da poter essere adattate a vari tipi di ruota;
                         b)
@@ -79,7 +79,7 @@ AVVERTENZA:
 
 1.
 
-I prototipi dell'attrezzo a chiave di cui all'art. 1 sono soggetti all'approvazione rilasciata dal Ministero dei lavori pubblici ai sensi dell'[art. 607 del decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), recante il regolamento di esecuzione del testo unico sulla disciplina della circolazione stradale.
+I prototipi dell'attrezzo a chiave di cui all'art. 1 sono soggetti all'approvazione rilasciata dal Ministero dei lavori pubblici ai sensi dell'[art. 607 del decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md), recante il regolamento di esecuzione del testo unico sulla disciplina della circolazione stradale.
 
 Nota all'art. 2:
  - L'art. 607 del regolamento per l'esecuzione del testo unico delle norme sulla disciplina della circolazione stradale, approvato con [D.P.R. n. 420/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;420), e' cosi' formulato:

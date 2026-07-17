@@ -14,7 +14,7 @@ Visti gli articoli 5, lettera g), 7 e 22 della [legge 30 aprile 1962, n. 283](ht
 
 Visto l'[art. 57, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-16;142#art_57-com2) e [3, della legge 16 febbraio 1992, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-16;142#art_57-com3);
 
-Visto l'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto l'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Visto il proprio decreto ministeriale 31 marzo 1965 concernente la disciplina degli additivi alimentari consentiti nella preparazione e per la conservazione delle sostanze alimentari, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 101 del 22 aprile 1965, modificato da ultimo con il [decreto ministeriale 15 maggio 1995, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995-05-15;283);
 
@@ -111,7 +111,7 @@ Le disposizioni del presente decreto non si applicano:
                             b)
                                 alle sostanze utilizzate per la protezione di piante e prodotti vegetali;
                             c)
-                                agli aromi ed alle sostanze aromatizzanti di cui al [decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), riguardante l'attuazione delle [direttive 88/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;388) e [91/71/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;71) relative agli aromi destinati ad essere impiegati nei prodotti alimentari ed ai materiali di base per la loro preparazione;
+                                agli aromi ed alle sostanze aromatizzanti di cui al [decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), riguardante l'attuazione delle [direttive 88/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;388) e [91/71/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;71) relative agli aromi destinati ad essere impiegati nei prodotti alimentari ed ai materiali di base per la loro preparazione;
                             d)
                                 alle sostanze aggiunte ai prodotti alimentari in quanto nutritive quali i minerali, gli oligoelementi o le vitamine.
 
@@ -199,7 +199,7 @@ L'elenco dei prodotti alimentari che non possono essere colorati, salvo quanto s
 
 3.
 
-Le sostanze coloranti possono essere impiegate solo nei prodotti alimentari elencati agli allegati V, VI e VII, e alle condizioni ivi specificate; esse possono essere utilizzate nei medesimi prodotti quando sono destinati ad usi particolari in conformita' al [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md).
+Le sostanze coloranti possono essere impiegate solo nei prodotti alimentari elencati agli allegati V, VI e VII, e alle condizioni ivi specificate; esse possono essere utilizzate nei medesimi prodotti quando sono destinati ad usi particolari in conformita' al [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md).
 
 4.
 
@@ -293,7 +293,7 @@ Gli edulcoranti di cui al comma 1, lettera b), possono essere impiegati esclusiv
 
 3.
 
-Gli edulcoranti non possono essere impiegati nei prodotti alimentari destinati ai lattanti ed ai bambini piccoli conformemente al [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), ed ai prodotti alimentari destinati ai lattanti ed ai bambini piccoli che non godono di buona salute, salvo se previsto da disposizioni specifiche.
+Gli edulcoranti non possono essere impiegati nei prodotti alimentari destinati ai lattanti ed ai bambini piccoli conformemente al [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), ed ai prodotti alimentari destinati ai lattanti ed ai bambini piccoli che non godono di buona salute, salvo se previsto da disposizioni specifiche.
 
 ))
 
@@ -301,7 +301,7 @@ Gli edulcoranti non possono essere impiegati nei prodotti alimentari destinati a
 
 Le dosi massime d'impiego indicate nell'allegato VIII si riferiscono ai prodotti alimentari pronti per il consumo, preparati secondo le istruzioni per l'uso.
 
-((4-bis. Le disposizioni del presente capo si applicano anche ai corrispondenti prodotti alimentari destinati ad una alimentazione particolare di cui al [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md)))
+((4-bis. Le disposizioni del presente capo si applicano anche ai corrispondenti prodotti alimentari destinati ad una alimentazione particolare di cui al [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md)))
 
 ### Art. 10-bis.
 
@@ -421,7 +421,7 @@ Gli agenti di trattamento delle farine, esclusi gli emulsionanti, sono sostanze 
 
 Ai fini delle disposizioni contenute nel presente capo, le seguenti sostanze non sono considerate additivi alimentari:
                             a)
-                                sostanze utilizzate per il trattamento dell'acqua potabile, di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md);
+                                sostanze utilizzate per il trattamento dell'acqua potabile, di cui al [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md);
                             b)
                                 prodotti contenenti pectina e derivati dalla polpa di mela essiccata o dalla scorza di agrumi, o una miscela delle due, per azione di acido diluito seguita da parziale neutralizzazione con sali di sodio o di potassio ("pectina liquida");
                             c)
@@ -458,7 +458,7 @@ Salvo laddove sia specificamente previsto, le disposizioni di cui al comma 2 non
                             f)
                                 prodotti lattieri non aromatizzati ottenuti con fermenti vivi;
                             g)
-                                acqua minerale naturale, come definita nel [decreto legislativo 25 gennaio 1992, n. 105](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md) e acqua di sorgente;
+                                acqua minerale naturale, come definita nel [decreto legislativo 25 gennaio 1992, n. 105](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md) e acqua di sorgente;
                             h)
                                 caffe' (escluso il caffe' istantaneo aromatizzato) ed estratti di caffe';
                             i)
@@ -468,7 +468,7 @@ Salvo laddove sia specificamente previsto, le disposizioni di cui al comma 2 non
                             n)
                                 latticello naturale non aromatizzato (escluso il latticello sterilizzato);
                             o)
-                                alimenti per lattanti e per la prima infanzia, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), compresi gli alimenti per lattanti e la prima infanzia in cattive condizioni di salute. Questi prodotti alimentari sono oggetto delle disposizioni riportate nell'allegato XIII;
+                                alimenti per lattanti e per la prima infanzia, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), compresi gli alimenti per lattanti e la prima infanzia in cattive condizioni di salute. Questi prodotti alimentari sono oggetto delle disposizioni riportate nell'allegato XIII;
                             p)
                                 prodotti alimentari elencati nell'allegato X che possono contenere soltanto gli additivi ivi citati e gli additivi riportati negli allegati XI e XII alle condizioni specificate negli stessi.
 
@@ -482,7 +482,7 @@ Soltanto gli additivi elencati nell'allegato XIV possono essere impiegati come c
 
 6.
 
-Le disposizioni del presente capo si applicano anche ai corrispondenti prodotti alimentari destinati ad un'alimentazione particolare in conformita' al [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md).
+Le disposizioni del presente capo si applicano anche ai corrispondenti prodotti alimentari destinati ad un'alimentazione particolare in conformita' al [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md).
 
 7.
 
@@ -508,7 +508,7 @@ La presenza di un additivo alimentare e' ammissibile:
                             c)
                                 in un prodotto alimentare in cui e' stato aggiunto un aroma nella misura in cui l'additivo alimentare e' ammesso nell'aroma in ottemperanza alle disposizioni del presente decreto ed e' presente nel prodotto alimentare, a condizione che l'additivo alimentare non abbia alcuna funzione tecnologica nel prodotto finito.
 
-((2. Il comma 1 non si applica agli alimenti per lattanti e per la prima infanzia, agli alimenti a base di cereali ed agli altri alimenti destinati ai lattanti e ai bambini, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), salvo se previsto da disposizioni specifiche))
+((2. Il comma 1 non si applica agli alimenti per lattanti e per la prima infanzia, agli alimenti a base di cereali ed agli altri alimenti destinati ai lattanti e ai bambini, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), salvo se previsto da disposizioni specifiche))
 
 3.
 

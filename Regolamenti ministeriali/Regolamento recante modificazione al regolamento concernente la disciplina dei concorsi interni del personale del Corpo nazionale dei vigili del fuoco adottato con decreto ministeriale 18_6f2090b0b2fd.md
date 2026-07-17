@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELL'INTERNO
 
-Visto l'[articolo 70 del decreto del Presidente della Repubblica 4 agosto 1990, n. 335](../Regolamenti%20governativi/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md), recante tra l'altro la definizione dei nuovi profili professionali del personale del Corpo nazionale dei vigili del fuoco, che rinvia ad apposito decreto ministeriale la regolamentazione delle modalita', delle materie di esame e delle prove per l'ammissione ai menzionati profili, ai quali si accede dall'interno;
+Visto l'[articolo 70 del decreto del Presidente della Repubblica 4 agosto 1990, n. 335](../DPR/Regolamento%20per%20il%20recepimento%20delle%20norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20del%2010%20febbraio%201990%20concernente%20il%20personale%20del%20comparto%20delle%20aziende%20e%20delle%20amministrazion_4fcd7e854c67.md), recante tra l'altro la definizione dei nuovi profili professionali del personale del Corpo nazionale dei vigili del fuoco, che rinvia ad apposito decreto ministeriale la regolamentazione delle modalita', delle materie di esame e delle prove per l'ammissione ai menzionati profili, ai quali si accede dall'interno;
 
 Visto il [decreto ministeriale 18 giugno 1992, n. 565](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-06-18;565), con il quale e' stato disciplinato attraverso apposite disposizioni il passaggio del personale del Corpo nazionale dei vigili del fuoco da un profilo professionale ad altro superiore nell'ambito della medesima qualifica funzionale ovvero da un profilo professionale ad altro di qualifica superiore;
 
@@ -22,7 +22,7 @@ Considerato che persistendo una situazione di grave carenza di organico nei prof
 
 Valutata quindi l'opportunita' di estendere l'applicazione della disciplina di cui al [decreto ministeriale n. 164/1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1995;164) alle procedure concorsuali relative alla copertura dei posti vacanti dal 1 gennaio 1996 al 31 dicembre 1998 nei profili professionali di capo reparto e capo squadra del Corpo nazionale dei vigili del fuoco;
 
-Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 

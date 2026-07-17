@@ -16,7 +16,7 @@ Visto il [decreto ministeriale 13 luglio 1989, n. 270](https://www.normattiva.it
 
 Visto il [decreto ministeriale 12 settembre 1996, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-12;620), recante modificazioni al citato [decreto ministeriale 13 luglio 1989, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1989-07-13;270);
 
-Visto il [decreto legislativo 30 dicembre 1992, n. 537](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md), concernente attuazione della [direttiva 92/5/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;5) relativa a problemi sanitari in materia di scambi intracomunitari di prodotti a base di carne;
+Visto il [decreto legislativo 30 dicembre 1992, n. 537](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20scambi%20intracomunitari%20di%20prodotti%20a%20base%20di%20carne.md), concernente attuazione della [direttiva 92/5/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;5) relativa a problemi sanitari in materia di scambi intracomunitari di prodotti a base di carne;
 
 Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modifiche, ed in particolare l'articolo 7;
 

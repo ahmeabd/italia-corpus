@@ -16,7 +16,7 @@ di concerto con
 
 IL MINISTRO DEI LAVORI PUBBLICI
 
-Visto l'[articolo 354, commi 1](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e [2, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 199 del decreto del Presidente della Repubblica 16 settembre 1996, n. 610](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20concernente%20il%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20Codice%20della%20strada.md), che demanda al Ministro dei trasporti e della navigazione, di concerto con il Ministro dei lavori pubblici, l'approvazione di un disciplinare unico riguardante le tariffe che debbono essere applicate dai soggetti concessionari del servizio di rimozione dei veicoli per le operazioni relative ed il massimale della polizza assicurativa contro la responsabilita' civile verso terzi per i veicoli adibiti alla rimozione;
+Visto l'[articolo 354, commi 1](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e [2, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 199 del decreto del Presidente della Repubblica 16 settembre 1996, n. 610](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20concernente%20il%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20Codice%20della%20strada.md), che demanda al Ministro dei trasporti e della navigazione, di concerto con il Ministro dei lavori pubblici, l'approvazione di un disciplinare unico riguardante le tariffe che debbono essere applicate dai soggetti concessionari del servizio di rimozione dei veicoli per le operazioni relative ed il massimale della polizza assicurativa contro la responsabilita' civile verso terzi per i veicoli adibiti alla rimozione;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -30,7 +30,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Le tariffe per la rimozione dei veicoli, da applicarsi da parte dei concessionari di cui all'[articolo 354, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 199 del decreto del Presidente della Repubblica 16 settembre 1996, n. 610](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20concernente%20il%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20Codice%20della%20strada.md), sono individuate come segue:
+Le tariffe per la rimozione dei veicoli, da applicarsi da parte dei concessionari di cui all'[articolo 354, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), come modificato dall'[articolo 199 del decreto del Presidente della Repubblica 16 settembre 1996, n. 610](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20concernente%20il%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20Codice%20della%20strada.md), sono individuate come segue:
  A) Per la rimozione di veicoli di massa complessiva a pieno carico fino a 1,5 t:
                         a)
                             diritto di chiamata L./km 20.000
@@ -71,7 +71,7 @@ E' data facolta', agli enti concedenti il servizio di rimozione dei veicoli, di 
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 Nota all'art. 1:
- - Per il testo dell'art. 354, comma 1, del sopra citato [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
+ - Per il testo dell'art. 354, comma 1, del sopra citato [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), si veda nelle note alle premesse.
 
 ## Art. 2.
 
@@ -90,7 +90,7 @@ Gli importi dovuti dai trasgressori per le spese di rimozione, come sopra fissat
 Per eventuali casi di rimozione di veicoli, regolarnente parcheggiati, per urgenti motivi di ordine pubblico o di pubblica necessita', nulla e' dovuto dai proprietari degli stessi.
 
 Nota all'art. 2:
- - Il testo vigente dell'art. 397, comma 2, del gia' citato [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' il seguente:
+ - Il testo vigente dell'art. 397, comma 2, del gia' citato [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' il seguente:
  "2. Il trasferimento dei veicoli dal luogo dell'infrazione al luogo del deposito e' effettuato o direttamente con gli appositi veicoli appartenti all'ente proprietario ovvero con gli autoveicoli appartenenti alle ditte cui il servizio e' stato concesso ai sensi dell'art. 159, comma 2, del codice, e dell'art.
  354. In ogni caso i veicoli adibiti alla rimozione devono avere le caratteristiche prescritte dall'art.
  12. L'organo di polizia precedente comunica all'interessato l'avvenuta rimozione ed il luogo di deposito, quando possibile. Nel caso in cui l'interessato sopraggiunga durante le operazioni di rimozione del veicolo, e' consentita l'immediata restituzione del veicolo stesso, previo pagamento delle spese di intervento e rimozione all'incaricato del concessionario del servizio di rimozione che ne rilascia ricevuta".
@@ -102,7 +102,7 @@ Nota all'art. 2:
 Le tariffe di cui all'articolo 1 sono aggiornate all'inizio di ogni anno dagli enti concedenti il servizio di rimozione, secondo le previsioni di cui all'[articolo 397, comma 4, del decreto del Presidente della Repubblica n. 495/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1992;495#art_397-com4), come modificato dall'[articolo 224 del decreto del Presidente della Repubblica n. 610/1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1996;610#art_224), in misura non superiore all'intera variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati noto al 31 dicembre dell'anno precedente.
 
 Nota all'art. 3:
- - Il testo vigente dell'art. 397, comma 4, del piu' volte citato [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e' il seguente:
+ - Il testo vigente dell'art. 397, comma 4, del piu' volte citato [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e' il seguente:
  "4. Per la restituzione del veicolo rimosso l'interessato o la persona da lui delegata si deve presentare al responsabile del luogo di deposito provando il titolo alla restituzione e versando le spese di intervento, rimozione e custodia secondo tabelle preparate ed annualmente aggiornate dall'ente proprietario. Della avvenuta restituzione e' redatto verbale sottoscritto dal custode e dal proprietario del veicolo o persona da lui delegata che espressamente deve dichiarare, previo accertamento, che il veicolo non ha subito danni palesi od occulti a seguito della rimozione. Una copia del verbale e' rilasciata all'interessato. Del pagamento delle spese suddette e' rilasciata quietanza dal custode".
 
 ## Art. 4.

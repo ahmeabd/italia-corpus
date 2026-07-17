@@ -12,7 +12,7 @@ IL PRESIDENTE
 
 DEL CONSIGLIO DEI MINISTRI
 
-Visto il [decreto del Presidente della Repubblica 31 luglio 1980, n. 613](../DPR/Riordinamento%20della%20Croce%20rossa%20italiana%20art.%2070%20della%20legge%20n.%20833%20del%201978.md), concernente il riordinamento della Croce Rossa Italiana, e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 31 luglio 1980, n. 613](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20della%20Croce%20rossa%20italiana%20art.%2070%20della%20legge%20n.%20833%20del%201978.md), concernente il riordinamento della Croce Rossa Italiana, e successive modificazioni;
 
 Visto l'[articolo 7, comma 2 del decreto-legge 20 settembre 1995, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-09-20;390#art_7-com2), convertito con modificazioni, dalla [legge 20 novembre 1995, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20settembre%201995%20n.%20390%20recante%20provvedimenti%20urgenti%20in%20materia%20di%20prezzi%20di%20specialita%20medicinali%20nonche%20in%20materia%20sanitaria.md);
 

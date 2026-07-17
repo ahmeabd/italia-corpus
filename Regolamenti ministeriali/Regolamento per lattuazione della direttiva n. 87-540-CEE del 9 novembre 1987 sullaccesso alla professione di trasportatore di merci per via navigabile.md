@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DEI TRASPORTI
 
-Visti gli [articoli 128](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)-[135](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [1280 del codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con il [regio decreto 30 marzo 1932, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-03-30;327);
+Visti gli [articoli 128](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)-[135](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e [1280 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con il [regio decreto 30 marzo 1932, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-03-30;327);
 
 Visti gli articoli 41-69; 129-137; 162-165 del regolamento per la navigazione interna, approvato con [decreto del Presidente della Repubblica 23 giugno 1949, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-23;631);
 

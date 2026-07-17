@@ -22,7 +22,7 @@ Considerato che nell'articolo 3 del suindicato decreto n. 553 del 1999, sono err
 
 Ritenuto, pertanto, di dover procedere alla modifica, nel senso indicato, dell'articolo 3, comma 1, lettera d) del decreto 20 dicembre 1999, n. 553;
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Visto il [decreto-legge 12 giugno 2001, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-12;217), recante modifiche al predetto decreto legislativo;
 
@@ -59,7 +59,7 @@ Avvertenza:
  a) per l'emanazione degli atti normativi del Governo e dei singoli Ministri, ai sensi dall'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), nonche' per l'emanazione di testi unici;
  b) per la decisione dei ricorsi straordinari al Presidente della Repubblica;
  c) sugli schemi generali di contratti-tipo, accordi e convenzioni predisposti da uno o piu' Ministri".
- - Il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20governativi/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), reca: "Regolamento concernente norme per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale".
+ - Il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20di%20delegificazione/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), reca: "Regolamento concernente norme per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale".
  Nota all'articolo unico:
  - Si riporta il testo dell'[art. 3 del decreto del Ministro del lavoro e della previdenza sociale 20 dicembre 1999, n. 553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.lavoro.previdenza.sociale:decreto:1999-12-20;553#art_3), come modificato dal decreto qui pubblicato:
  "Art. 3 (Funzioni del comitato). - 1. Il comitato amministratore ha i seguenti compiti:

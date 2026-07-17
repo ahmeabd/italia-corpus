@@ -12,11 +12,11 @@ IL MINISTRO DELLE FINANZE
 
 Visto l'[art. 7 commi 1-septies](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201991%20n.%20417%20recante%20disposizioni%20concernenti%20criteri%20di%20applicazione%20dellimposta%20sul%20valore%20aggiunto%20delle%20tasse%20per%20i_c164cc92e85d.md) e [1-octies, della legge 6 febbraio 1992, n. 66](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201991%20n.%20417%20recante%20disposizioni%20concernenti%20criteri%20di%20applicazione%20dellimposta%20sul%20valore%20aggiunto%20delle%20tasse%20per%20i_c164cc92e85d.md), avente ad oggetto la costituzione, tra gli spedizionieri iscritti all'albo da almeno tre anni, di societa' di assistenza doganale, denominate CAD;
 
-Visto il testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
+Visto il testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
 Vista la [legge 22 dicembre 1960, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-22;1612);
 
-Visto il [decreto legislativo 8 novembre 1990, n. 374](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
+Visto il [decreto legislativo 8 novembre 1990, n. 374](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md);
 
 Ritenuta la necessita' di dettare le occorrenti disposizioni di attuazione del comma 1-septies, nonche' quelle di cui al comma 1-octies;
 
@@ -68,7 +68,7 @@ Note alle premesse:
  a) svolgimento, per conto degli operatori autorizzati e su espressa delega, di adempimenti previsti dal regime di detenzione, di circolazione e di controllo applicabile, in ambito comunitario, ai beni soggetti ad accisa;
  b) tenuta e conservazione di atti e scritture contabili relativi ai controlli richiamati nel comma 1 del presente articolo e a quelli qualitativi e quantitativi delle merci, anche al fine di rilasciare copie e certificati o estratti attestandone la conformita' all'originale, o in ordine ad eventuali vincoli relativi alla destinazione delle merci, a richiesta dell'utenza o di pubbliche amministrazioni;
  c) acquisizione, elaborazione e trasmissione dei dati relativi agli scambi internazionali nell'interesse dell'utenza, anche ai fini delle rilevazioni statistiche previste dalla normativa nazionale e comunitaria;
- d) custodia e vendita delle merci cadute in abbandono ai sensi del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)".
+ d) custodia e vendita delle merci cadute in abbandono ai sensi del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md)".
  - Per l'[art. 7, comma 1-septies, della legge n. 66/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992;66#art_7-com1septies) si veda in note alle premesse.
 
 ## Art. 2.
@@ -83,7 +83,7 @@ L'autorizzazione del Ministro delle finanze, prevista dall'[art. 7, comma 1-sept
                         c)
                             certificato di iscrizione della societa' alla camera di commercio, industria, artigianato e agricoltura;
                         d)
-                            certificazione del consiglio compartimentale competente da cui risulti che tutti i soci sono iscritti all'albo professionale da almeno tre anni e che esercitano l'attivita' professionale non vincolati a rapporto di lavoro subordinato e che per i medesimi non ricorre nessuna delle ipotesi da cui possa derivare la sospensione o la revoca della patente a termine dell'art. 53 o 54 del testo unico delle leggi doganali, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
+                            certificazione del consiglio compartimentale competente da cui risulti che tutti i soci sono iscritti all'albo professionale da almeno tre anni e che esercitano l'attivita' professionale non vincolati a rapporto di lavoro subordinato e che per i medesimi non ricorre nessuna delle ipotesi da cui possa derivare la sospensione o la revoca della patente a termine dell'art. 53 o 54 del testo unico delle leggi doganali, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
 
 2.
 
@@ -158,7 +158,7 @@ Gli operatori possono presentare ai centri di assistenza doganale le dichiarazio
 
 2.
 
-Le dichiarazioni doganali ricevute o emesse, asseverate dal centro di assistenza doganale, vengono presentate, corredate dalla relativa documentazione, alla dogana competente, che le accetta e ne dispone la visita totale o parziale secondo i programmi ed i criteri selettivi per la visita totale o parziale delle merci stabiliti con decreto del Ministro delle finanze, ai sensi dell' [art. 8, comma 5, del decreto legislativo 8 novembre 1990, n. 374](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md).
+Le dichiarazioni doganali ricevute o emesse, asseverate dal centro di assistenza doganale, vengono presentate, corredate dalla relativa documentazione, alla dogana competente, che le accetta e ne dispone la visita totale o parziale secondo i programmi ed i criteri selettivi per la visita totale o parziale delle merci stabiliti con decreto del Ministro delle finanze, ai sensi dell' [art. 8, comma 5, del decreto legislativo 8 novembre 1990, n. 374](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20degli%20istituti%20doganali%20e%20revisione%20delle%20procedure%20di%20accertamento%20e%20controllo%20in%20attuazione%20delle%20direttive%20n.%2079-695-CEE%20del%2024%20luglio%201979%20e%20n.%2082-57-CEE%20del%2017%20dicembre_8f7b60df9167.md).
 
 3.
 
@@ -307,7 +307,7 @@ Note all'art. 11:
 
 1.
 
-In via transitoria, e fino al 30 giugno 1993, e comunque solo in occasione della costituzione delle societa' di cui all'art. 1, comma 1, possono divenire soci anche spedizionieri doganali in possesso del titolo conseguito a termini degli articoli 47 e seguenti del testo unico delle disposizioni legislative in materia doganale approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e che, alla data di entrata in vigore del presente decreto, risultino essere stati iscritti all'elenco degli spedizionieri doganali di cui all'art. 44 del medesimo testo unico, ininterrottamente da almeno tre anni in qualita' di procuratore di spedizioniere doganale libero professionista iscritto all'albo istituito con [legge 22 dicembre 1960, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-22;1612).
+In via transitoria, e fino al 30 giugno 1993, e comunque solo in occasione della costituzione delle societa' di cui all'art. 1, comma 1, possono divenire soci anche spedizionieri doganali in possesso del titolo conseguito a termini degli articoli 47 e seguenti del testo unico delle disposizioni legislative in materia doganale approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), e che, alla data di entrata in vigore del presente decreto, risultino essere stati iscritti all'elenco degli spedizionieri doganali di cui all'art. 44 del medesimo testo unico, ininterrottamente da almeno tre anni in qualita' di procuratore di spedizioniere doganale libero professionista iscritto all'albo istituito con [legge 22 dicembre 1960, n. 1612](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-22;1612).
 
 Note all'art. 12:
  - Gli articoli da 47 a 54 del testo unico delle disposizioni legislative in materia doganale, approvato con [D.P.R. n. 43/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;43), cosi' dispongono:
@@ -349,7 +349,7 @@ Note all'art. 12:
  - E' sempre disposta la revoca della nomina dello spedizioniere doganale nei casi di:
  a) radiazione dell'albo professionale;
  b) perdita di uno dei requisiti richiesti dall'art. 48, lettere a) e d);
- c) condanna, in seguito a sentenza passata in giudicato, per uno dei delitti non colposi previsti dai titoli secondo, settimo e tredicesimo del libro secondo del [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ c) condanna, in seguito a sentenza passata in giudicato, per uno dei delitti non colposi previsti dai titoli secondo, settimo e tredicesimo del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  d) condanna, in seguito a sentenza passata in giudicato, per ogni altro delitto non colposo per il quale la legge commini la pena della reclusione non inferiore nel minimo a tre anni o nel massimo di dieci anni.
  Nei casi di cui alle lettere c) e d) la revoca e' disposta soltanto qualora venga pronunciata condanna alla pena della reclusione, ancorche' congiunta con la pena della multa, per un tempo superiore ad un anno. In caso diverso cessa la sospensione eventualmente inflitta ai sensi dell'articolo precedente, salvo che non sussistano altri motivi che ne giustificano il mantenimento.
  Il provvedimento di revoca e' adottato con decreto del Ministro per le finanze, sentito il consiglio nazionale degli spedizionieri doganali".

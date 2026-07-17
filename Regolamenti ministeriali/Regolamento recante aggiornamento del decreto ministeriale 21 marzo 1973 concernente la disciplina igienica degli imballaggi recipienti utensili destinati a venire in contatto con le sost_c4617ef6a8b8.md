@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Visto l'articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982. n. 777, modificato dall'[articolo 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto l'articolo 3 del decreto del Presidente della Repubblica 23 agosto 1982. n. 777, modificato dall'[articolo 3 del decreto legislativo 25 gennaio 1992, n. 108](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Visto il decreto del Ministro della sanita' 21 marzo 1973,
 

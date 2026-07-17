@@ -20,7 +20,7 @@ Vista la [legge 12 agosto 1982, n. 576](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, recante il testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli [articoli 8](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) e [21 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md);
 
-Visto il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), recante il [Codice delle Assicurazioni Private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) ed in particolare:
+Visto il [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), recante il [Codice delle Assicurazioni Private](../Codici/Codice%20delle%20assicurazioni%20private.md) ed in particolare:
 
 l'articolo 31, comma 2, che stabilisce che il Ministro dello sviluppo economico, con regolamento adottato su proposta dell'ISVAP, definisce i requisiti di onorabilita' e di professionalita' di cui deve essere in possesso l'attuario incaricato dall'impresa che esercita i rami vita;
 
@@ -28,7 +28,7 @@ l'articolo 34, comma 2, che stabilisce che il Ministro dello sviluppo economico,
 
 l'articolo 34, comma 4, che stabilisce che il Ministro dello sviluppo economico, con regolamento adottato su proposta dell'ISVAP, determina le funzioni dell'attuario dell'impresa che esercita i rami responsabilita' civile veicoli e natanti;
 
-Vista la nota n. 02.07.000828 in data 3 ottobre 2007 con la quale l'ISVAP ha formulato la propria proposta ai fini dell'emanazione del Regolamento di cui agli [articoli 31, comma 2](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e [34](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), [commi 2](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e [3, del decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md);
+Vista la nota n. 02.07.000828 in data 3 ottobre 2007 con la quale l'ISVAP ha formulato la propria proposta ai fini dell'emanazione del Regolamento di cui agli [articoli 31, comma 2](../Codici/Codice%20delle%20assicurazioni%20private.md) e [34](../Codici/Codice%20delle%20assicurazioni%20private.md), [commi 2](../Codici/Codice%20delle%20assicurazioni%20private.md) e [3, del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md);
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nella seduta del 25 febbraio 2008;
 
@@ -55,7 +55,7 @@ Il presente regolamento si applica:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 2. — Definizioni
 
@@ -63,7 +63,7 @@ Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20a
 
 Ai fini del presente regolamento si intende per:
                             a)
-                                «Codice»: il [decreto legislativo 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), recante il [Codice delle assicurazioni private](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md) e di qui in avanti cosi' indicato;
+                                «Codice»: il [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), recante il [Codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md) e di qui in avanti cosi' indicato;
                             b)
                                 «attuario incaricato»: l'attuario incaricato dall'impresa esercente i rami vita di cui all'articolo 31 del Codice, nonche' l'attuario incaricato dall'impresa che esercita i rami responsabilita' civile veicoli a motore e natanti di cui all'articolo 34 del Codice;
                             c)
@@ -110,7 +110,7 @@ Ai fini del presente regolamento si intende per:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 3. — Ruolo dell'attuario incaricato
 
@@ -127,7 +127,7 @@ L'attuario incaricato, la societa' di revisione, l'organo di controllo, il respo
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## DISCIPLINA GENERALE SULL'ATTUARIO INCARICATO  Capo I  Conferimento e cessazione dell'incarico
 
@@ -156,7 +156,7 @@ L'ISVAP puo' acquisire dalle imprese di assicurazione e dagli attuari incaricati
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 5. — Cessazione dell'incarico
 
@@ -173,7 +173,7 @@ In tutte le ipotesi di cessazione dall'incarico l'impresa provvede entro quarant
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## Requisiti
 
@@ -198,7 +198,7 @@ Qualora l'impresa di assicurazione non adempia agli obblighi di cui al comma 2, 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 7. — Requisiti di onorabilita'
 
@@ -223,7 +223,7 @@ Non puo' essere nominato attuario incaricato colui che:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 8. — Requisiti di professionalita'
 
@@ -250,7 +250,7 @@ La comprovata esperienza di cui al comma 1, lettera c) sussiste qualora l'attuar
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 9. — Incompatibilita'
 
@@ -293,7 +293,7 @@ L'attuario incaricato, cessato l'incarico, non puo' diventare membro degli organ
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 10. — Decadenza dall'incarico
 
@@ -314,7 +314,7 @@ Nelle ipotesi previste ai commi 1 e 2 l'attuario decade dall'incarico ad eccezio
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 11. — Limiti al cumulo degli incarichi
 
@@ -345,7 +345,7 @@ L'attuario incaricato e' tenuto a rassegnare le dimissioni da uno o piu' degli i
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## FUNZIONI DELL'ATTUARIO INCARICATO DALL'IMPRESA CHE ESERCITA I RAMI RESPONSABILITA' CIVILE VEICOLI A MOTORE E NATANTI   Capo I  Ambito di applicazione e adempimenti in materia di tariffe
 
@@ -362,7 +362,7 @@ Le disposizioni di cui al presente titolo si applicano esclusivamente all'attuar
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 13. — Funzioni in materia di tariffe
 
@@ -391,7 +391,7 @@ L'attuario incaricato informa tempestivamente l'ISVAP di un eventuale giudizio n
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 14. — Relazione tecnica sulla tariffa
 
@@ -419,7 +419,7 @@ La relazione tecnica sulla tariffa e' redatta in conformita' alle disposizioni e
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 15. — Imprese di assicurazione con sede legale in uno degli Stati membri
 
@@ -432,7 +432,7 @@ Ai fini dell'accertamento del rispetto delle disposizioni normative italiane in 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## Adempimenti in materia di riserve tecniche
 
@@ -459,7 +459,7 @@ Le verifiche svolte ai sensi del comma 1 sono riportate in una relazione tecnica
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 17. — Relazione tecnica sulle riserve
 
@@ -494,7 +494,7 @@ La relazione tecnica sulle riserve e' trasmessa dall'impresa di assicurazione al
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## DISPOSIZIONI TRANSITORIE E FINALI  Capo I  Disposizioni transitorie e norme abrogate
 
@@ -519,7 +519,7 @@ Fino all'emanazione del regolamento ISVAP di attuazione degli articoli 37, comma
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ### Art. 19. — Abrogazioni
 
@@ -532,7 +532,7 @@ Dalla data di entrata in vigore del presente regolamento e' abrogato il [decreto
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 settembre 2005, n. 209](../Decreti%20Legislativi/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
+Il [D.Lgs. 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal [D.Lgs. 12 maggio 2015, n. 74](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-138-CE%20in%20materia%20di%20accesso%20ed%20esercizio%20delle%20attivita%20di%20assicurazione%20e%20riassicurazione%20solvibilita%20II.%2015G00088.md), ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

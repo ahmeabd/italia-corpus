@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto del Presidente della Repubblica 12 gennaio 1991 riguardante l'adeguamento delle tariffe telefoniche nazionali, pubblicato nella Gazzetta Ufficiale n. 12 del 15 gennaio 1991; e, in particolare, l'art. 19 che disciplina i criteri per applicazione delle tariffe per i collegamenti ad elevata intensita' di traffico;
 
@@ -22,7 +22,7 @@ Visto il decreto ministeriale 2 dicembre 1991 relativo ai contributi, canoni e t
 
 Visto il decreto ministeriale 13 marzo 1992 relativo alle tariffe per i collegamenti ad elevata intensita' di traffico della rete telefonica pubblica commutata pubblicato nella Gazzetta Ufficiale n. 76 del 31 marzo 1992;
 
-Visto il [decreto-legge 8 maggio 1992, n. 278](../DL%20decaduti/Disposizioni%20urgenti%20in%20materia%20di%20tariffe%20telefoniche%20nazionali.md), recante disposizioni urgenti in materia di tariffe telefoniche nazionali;
+Visto il [decreto-legge 8 maggio 1992, n. 278](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20in%20materia%20di%20tariffe%20telefoniche%20nazionali.md), recante disposizioni urgenti in materia di tariffe telefoniche nazionali;
 
 Considerata la necessita' di istituire in ambito nazionale delle aree nelle quali vengano, in via prioritaria, offerte prestazioni di rete necessarie all'espletamento dei servizi di telecomunicazioni di tipo avanzato per far fronte a particolari concentrazioni di utenza in aree territorialmente limitate;
 

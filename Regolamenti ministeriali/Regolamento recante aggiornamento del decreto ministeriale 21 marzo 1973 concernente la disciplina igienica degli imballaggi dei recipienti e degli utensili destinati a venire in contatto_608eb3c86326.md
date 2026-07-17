@@ -44,7 +44,7 @@ Ritenuto di dover provvedere a modificazioni ed integrazioni del decreto 21 marz
 
 Viste le relazioni della Direzione generale per l'igiene degli alimenti e la nutrizione in data 2 marzo 1992 e 7 dicembre 1992;
 
-Visto l'[art. 3 del decreto legislativo del 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto l'[art. 3 del decreto legislativo del 25 gennaio 1992, n. 108](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Sentito il Consiglio superiore di sanita';
 

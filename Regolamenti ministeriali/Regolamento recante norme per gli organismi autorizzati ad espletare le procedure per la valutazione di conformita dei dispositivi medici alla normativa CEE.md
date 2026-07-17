@@ -18,9 +18,9 @@ Visto l'[articolo 87, quinto comma della Costituzione](https://www.normattiva.it
 
 Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md) (legge comunitaria 1994) ed in particolare gli articoli 1 e 30 che conferiscono la delega al Governo per l'attuazione della [direttiva comunitaria 93/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;42), concernente i dispositivi medici, e l'articolo 47 che dispone in ordine alle relative tariffe e spese;
 
-Visto il [decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), per l'attuazione della [direttiva 93/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;42) concernente i dispositivi medici ed in particolare l'articolo 15 relativo alle modalita' per autorizzare gli organismi ad espletare le procedure di conformita';
+Visto il [decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), per l'attuazione della [direttiva 93/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;42) concernente i dispositivi medici ed in particolare l'articolo 15 relativo alle modalita' per autorizzare gli organismi ad espletare le procedure di conformita';
 
-Ritenuta l'opportunita' di fissare, ai sensi dell'[articolo 15 del decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), i requisiti e le procedure per l'accertamento dell'idoneita' degli organismi a valutare la conformita' alla [direttiva 93/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;42) dei dispositivi medici e dei sistemi di garanzia e di qualita', ai fini della immissione in commercio e messa in servizio dei dispositivi medici stessi e dei relativi accessori;
+Ritenuta l'opportunita' di fissare, ai sensi dell'[articolo 15 del decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), i requisiti e le procedure per l'accertamento dell'idoneita' degli organismi a valutare la conformita' alla [direttiva 93/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;42) dei dispositivi medici e dei sistemi di garanzia e di qualita', ai fini della immissione in commercio e messa in servizio dei dispositivi medici stessi e dei relativi accessori;
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -36,7 +36,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Gli organismi per essere autorizzati ad espletare le procedure di valutazione di conformita' previste dal [decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), debbono:
+Gli organismi per essere autorizzati ad espletare le procedure di valutazione di conformita' previste dal [decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), debbono:
                         a)
                             soddisfare i criteri previsti dall'allegato XI del citato decreto legislativo;
                         b)
@@ -48,11 +48,11 @@ Gli organismi per essere autorizzati ad espletare le procedure di valutazione di
 
 2.
 
-L'istanza dell'organismo relativa alla richiesta di autorizzazione ad espletare le procedure di valutazione di conformita' di cui all'[articolo 11 del decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), deve essere indirizzata al Ministero della sanita' - Dipartimento delle professioni sanitarie delle risorse umane e tecnologiche in sanita' e dell'assistenza sanitaria di competenza statale - Piazzale dell'Industria, 20 - 00144 Roma.
+L'istanza dell'organismo relativa alla richiesta di autorizzazione ad espletare le procedure di valutazione di conformita' di cui all'[articolo 11 del decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), deve essere indirizzata al Ministero della sanita' - Dipartimento delle professioni sanitarie delle risorse umane e tecnologiche in sanita' e dell'assistenza sanitaria di competenza statale - Piazzale dell'Industria, 20 - 00144 Roma.
 
 3.
 
-L'istanza, sottoscritta dal legale rappresentante dell'organismo, va prodotta in originale bollato e in duplice copia e contiene l'esplicita indicazione del tipo di autorizzazione richiesta, in relazione ai compiti di valutazione di cui agli allegati II, III, IV, V e VI del [decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), ed alle famiglie di dispositivi da certificare con le relative classi di appartenenza unitamente alla dichiarazione di soddisfacimento puntuale dei requisiti minimi di cui al primo comma del presente articolo.
+L'istanza, sottoscritta dal legale rappresentante dell'organismo, va prodotta in originale bollato e in duplice copia e contiene l'esplicita indicazione del tipo di autorizzazione richiesta, in relazione ai compiti di valutazione di cui agli allegati II, III, IV, V e VI del [decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), ed alle famiglie di dispositivi da certificare con le relative classi di appartenenza unitamente alla dichiarazione di soddisfacimento puntuale dei requisiti minimi di cui al primo comma del presente articolo.
 
 4.
 
@@ -106,7 +106,7 @@ Avvertenza:
  b) limitare di norma a ospedali e ad altri istituti pubblici l'impiego dei dispositivi medici, destinati ad indagini cliniche; 
  c) prevedere l'obbligo, da parte del personale sanitario e delle strutture sanitarie locali di informare tempestivamente il Ministero della sanita' degli eventuali difetti o inconvenienti correlati all'uso dei dispositivi; 
  d) prevedere le opportune norme transitorie per i dispositivi conformi alla normativa in vigore". 
- - Il [D.Lgs. 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), reca: "Attuazione della [direttiva 93/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;42), concernente i 
+ - Il [D.Lgs. 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), reca: "Attuazione della [direttiva 93/42/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;42), concernente i 
  dispositivi medici". L'art. 15 cosi' recita: 
  "Art. 15 (Organismi designati ad attestare la 
  conformita'). - 1. (Omissis). 
@@ -447,7 +447,7 @@ Alla domanda di autorizzazione per la valutazione di conformita' dei dispositivi
                         c)
                             elenco dei macchinari e delle attrezzature in dotazione, corredato delle caratteristiche tecniche ed operative, possedute in proprio;
                         d)
-                            elenco del personale con l'indicazione dei relativi titoli di studio, qualifiche e mansioni, nonche' del rapporto esistente con l'organismo stesso con particolare riferimento al rispetto dei criteri di cui ai punti 3, 4 e 5 dell'allegato XI del [decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md);
+                            elenco del personale con l'indicazione dei relativi titoli di studio, qualifiche e mansioni, nonche' del rapporto esistente con l'organismo stesso con particolare riferimento al rispetto dei criteri di cui ai punti 3, 4 e 5 dell'allegato XI del [decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md);
                         e)
                             polizza di assicurazione per la responsabilita' civile, con massimale non inferiore a lire tre miliardi, per i rischi derivanti dall'esercizio dell'attivita' di attestazione di conformita' in ambito comunitario; tale obbligo non e' richiesto agli organismi pubblici;
                         f)
@@ -457,7 +457,7 @@ Alla domanda di autorizzazione per la valutazione di conformita' dei dispositivi
                         h)
                             documentazione, rilasciata dalle autorita' competenti, comprovante l'idoneita' dei locali e degli impianti dal punto di vista dell'igiene ambientale e della sicurezza del lavoro. Nelle more della presentazione della documentazione anzidetta, l'esistenza dei requisiti prescritti dalla normativa vigente puo' essere provvisoriamente attestata da atto notorio o da dichiarazione sostitutiva di atto notorio del legale rappresentante;
                         i)
-                            dichiarazione impegnativa in ordine al puntuale soddisfacimento dei requisiti minimi di cui all'allegato XI del [decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md);
+                            dichiarazione impegnativa in ordine al puntuale soddisfacimento dei requisiti minimi di cui all'allegato XI del [decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md);
                         j)
                             copia di eventuali riconoscimenti ottenuti;
                         k)
@@ -532,7 +532,7 @@ Nota all'art. 5:
 
 1.
 
-Le autorizzazioni agli organismi, rilasciate in base al decreto del Ministero della sanita' 10 novembre 1994 prima della data di entrata in vigore del [decreto legislativo 24 febbraio 1997, n. 46](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), sono valide fino alla loro scadenza triennale.
+Le autorizzazioni agli organismi, rilasciate in base al decreto del Ministero della sanita' 10 novembre 1994 prima della data di entrata in vigore del [decreto legislativo 24 febbraio 1997, n. 46](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2093-42-CEE%20concernente%20i%20dispositivi%20medici.md), sono valide fino alla loro scadenza triennale.
 
 2.
 

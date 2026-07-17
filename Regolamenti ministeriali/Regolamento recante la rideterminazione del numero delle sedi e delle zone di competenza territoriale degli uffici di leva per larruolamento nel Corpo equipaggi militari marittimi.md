@@ -12,7 +12,7 @@ IL MINISTRO DELLA DIFESA
 
 Vista la [legge 31 gennaio 1992, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sugli%20organi%20del%20servizio%20della%20leva%20militare.md) e, in particolare, l'art. 5 con il quale e' previsto che, con proprio decreto il Ministro della difesa puo' disporre la variazione del numero delle sedi e delle zone di competenza territoriale dei consigli e degli uffici di leva, in relazione alle esigenze del servizio;
 
-Visto il [decreto del Presidente della Repubblica 14 febbraio 1964, n. 237](../DPR/Leva%20e%20reclutamento%20obbligatorio%20nellEsercito%20nella%20Marina%20e%20nellAeronautica.md);
+Visto il [decreto del Presidente della Repubblica 14 febbraio 1964, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Leva%20e%20reclutamento%20obbligatorio%20nellEsercito%20nella%20Marina%20e%20nellAeronautica.md);
 
 Vista la [legge 31 maggio 1975, n. 191](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20il%20servizio%20di%20leva.md);
 

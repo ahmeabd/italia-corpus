@@ -50,7 +50,7 @@ Ritenuto di provvedere a modificazioni ed integrazioni del decreto ministeriale 
 
 Vista la relazione della Direzione generale per l'igiene degli alimenti e la nutrizione in data 9 settembre 1989;
 
-Visto l'[art. 3 del decreto del Presidente della Repubblica del 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto l'[art. 3 del decreto del Presidente della Repubblica del 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Sentito il Consiglio superiore di sanita';
 
@@ -58,7 +58,7 @@ Visto l'[art. 21 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/u
 
 Visto il parere della commissione per la determinazione dei metodi ufficiali d'analisi di cui all'[art. 21 della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_21), espresso nella seduta del 13 settembre 1990;
 
-Visto l'[art. 5 del decreto del Presidente della Repubblica del 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto l'[art. 5 del decreto del Presidente della Repubblica del 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 

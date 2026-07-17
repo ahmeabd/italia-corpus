@@ -18,7 +18,7 @@ Visto il [regio decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/u
 
 Visto il [regio decreto 29 luglio 1927, n. 1814](../Regi%20decreti/Disposizioni%20di%20attuazione%20e%20transitorie%20del%20R.%20decreto-legge%2015%20marzo%201927%20n.%20436%20concernente%20la%20disciplina%20dei%20contratti%20di%20compra-vendita%20degli%20autoveicoli%20e%20listituzione%20del%20pubblico%20_9ce09a15aff5.md), recante disposizioni di attuazione e transitorie del [regio decreto-legge 15 marzo 1927, n. 436](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436);
 
-Visto il [decreto del Presidente della Repubblica 15 giugno 1959, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-15;399), con il quale e' stato approvato il [testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale;
+Visto il [decreto del Presidente della Repubblica 15 giugno 1959, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-15;399), con il quale e' stato approvato il [testo unico delle norme sulla circolazione](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale;
 
 Vista la [legge 23 dicembre 1977, n. 952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-23;952), e successive modificazioni, riguardante la disciplina dell'imposta erariale di trascrizione;
 
@@ -343,7 +343,7 @@ La registrazione nel P.R.A. di variazione delle caratteristiche tecniche e fisca
 
 2.
 
-I mutamenti della proprieta' e della residenza sulla carta di circolazione, ai sensi dell'[art. 59 del decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), sono eseguiti dall'ufficio del P.R.A. mediante rilascio del tagliando del certificato di proprieta'.
+I mutamenti della proprieta' e della residenza sulla carta di circolazione, ai sensi dell'[art. 59 del decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), sono eseguiti dall'ufficio del P.R.A. mediante rilascio del tagliando del certificato di proprieta'.
 
 3.
 

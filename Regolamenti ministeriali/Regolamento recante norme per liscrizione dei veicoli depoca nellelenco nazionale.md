@@ -16,9 +16,9 @@ Visto l'[art. 5 della legge 28 febbraio 1983, n. 53](../DL%20e%20leggi%20di%20co
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 60 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+Visto l'[art. 60 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md);
 
-Visto l'[art. 214 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md);
+Visto l'[art. 214 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md);
 
 Udito il parere del Consiglio di Stato in data 28 aprile 1994;
 
@@ -30,7 +30,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Sono iscritti presso l'elenco nazionale istituito presso il Centro storico della Direzione generale M.C.T.C., ai sensi del [comma 2 dell'art. 60 del decreto legislativo n. 285 del 30 aprile 1992](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), gli autoveicoli e motoveicoli d'epoca che sono stati immatricolati da piu' di venti anni e sono stati preventivamente cancellati dal P.R.A. perche' destinati a venir conservati in musei o locali pubblici e privati, purche' rivestano effettivo interesse storico.
+Sono iscritti presso l'elenco nazionale istituito presso il Centro storico della Direzione generale M.C.T.C., ai sensi del [comma 2 dell'art. 60 del decreto legislativo n. 285 del 30 aprile 1992](../Codici/Nuovo%20codice%20della%20strada.md), gli autoveicoli e motoveicoli d'epoca che sono stati immatricolati da piu' di venti anni e sono stati preventivamente cancellati dal P.R.A. perche' destinati a venir conservati in musei o locali pubblici e privati, purche' rivestano effettivo interesse storico.
 
 2.
 
@@ -44,11 +44,11 @@ Detti veicoli devono essere completamente originali in ogni loro parte costrutti
  - Il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) e' il seguente:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restanto la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
- - Il [D.Lgs. 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), reca il nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
- - Il [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) approvato con [decreto legislativo n. 285 del 30 aprile 1992](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)".
+ - Il [D.Lgs. 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), reca il nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md).
+ - Il [D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), reca: "Regolamento di esecuzione e di attuazione del nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) approvato con [decreto legislativo n. 285 del 30 aprile 1992](../Codici/Nuovo%20codice%20della%20strada.md)".
 
 Nota all'art. 1:
- - Il testo dell'[art. 60, comma 2, del D.Lgs. 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' il seguente:
+ - Il testo dell'[art. 60, comma 2, del D.Lgs. 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e' il seguente:
  "2. Rientrano nella categoria dei veicoli d'epoca i motoveicoli e gli autoveicoli cancellati dal P.R.A. perche' destinati alla loro conservazione in musei o locali pubblici e privati, ai fini della salvaguardia delle originarie caratteristiche tecniche specifiche della casa costruttrice, e che non siano adeguati nei requisiti, nei dispositivi e negli equipaggiamenti, alle vigenti prescrizioni stabilite per l'ammissione alla circolazione.
  Tali veicoli sono iscritti in apposito elenco presso il Centro storico della Direzione generale M.C.T.C.".
 
@@ -74,10 +74,10 @@ Nota all'art. 2:
 
 1.
 
-Il trasferimento di proprieta' degli autoveicoli e motoveicoli d'epoca va comunicato, ai sensi del comma 3, punto b), dell'[art. 60 del decreto legislativo n. 285 del 30 aprile 1992](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), alla Direzione generale della M.C.T.C. a cura dell'acquirente del veicolo in questione, con apposita domanda cui deve essere allegata la certificazione inerente il titolo di proprieta'.
+Il trasferimento di proprieta' degli autoveicoli e motoveicoli d'epoca va comunicato, ai sensi del comma 3, punto b), dell'[art. 60 del decreto legislativo n. 285 del 30 aprile 1992](../Codici/Nuovo%20codice%20della%20strada.md), alla Direzione generale della M.C.T.C. a cura dell'acquirente del veicolo in questione, con apposita domanda cui deve essere allegata la certificazione inerente il titolo di proprieta'.
 
 Nota all'art. 3:
- - Il testo del [comma 3 dell'art. 60 del D.Lgs. 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' il seguente:
+ - Il testo del [comma 3 dell'art. 60 del D.Lgs. 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e' il seguente:
  "3. I veicoli d'epoca sono soggetti alle seguenti disposizioni:
  a) la loro circolazione puo' essere consentita soltanto in occasione di apposite manifestazioni o raduni autorizzati, limitatamente all'ambito della localita' e degli itinerari di svolgimento delle manifestazioni o raduni. All'uopo i veicoli, per poter circolare, devono essere provvisti di una particolare autorizzazione rilasciata dal competente ufficio della Direzione generale della M.C.T.C. nella cui circoscrizione e' compresa la localita' sede della manifestazione o del raduno ed al quale sia stato preventivamente presentato, da parte dell'ente organizzatore, l'elenco particolareggiato dei veicoli partecipanti. Nell'autorizzazione sono indicati la validita' della stessa, i percorsi stabiliti e la velocita' massima consentita in relazione alla garanzia di sicurezza offerta dal tipo di veicolo;
  b) il trasferimento di proprieta' degli stessi deve essere comunicato alla Direzione generale della M.C.T.C., per l'aggiornamento dell'elenco di cui al comma 2".
@@ -86,7 +86,7 @@ Nota all'art. 3:
 
 1.
 
-L'iscrizione e la circolazione dei veicoli d'epoca e' consentita con le modalita' indicate nell'art. 214 del regolamento di attuazione del [decreto legislativo n. 285 del 30 aprile 1992](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+L'iscrizione e la circolazione dei veicoli d'epoca e' consentita con le modalita' indicate nell'art. 214 del regolamento di attuazione del [decreto legislativo n. 285 del 30 aprile 1992](../Codici/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -94,14 +94,14 @@ Possono essere autorizzati a partecipare alle manifestazioni ed ai raduni solo i
 
 3.
 
-Il competente ufficio provinciale della Direzione generale della M.C.T.C., a seguito del nulla-osta della sede centrale concernente l'effettiva iscrizione dei veicoli di cui trattasi nell'elenco di cui all'art. 1, rilasciata l'autorizzazione di cui al comma 3, punto a), dell'[art. 60 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Il competente ufficio provinciale della Direzione generale della M.C.T.C., a seguito del nulla-osta della sede centrale concernente l'effettiva iscrizione dei veicoli di cui trattasi nell'elenco di cui all'art. 1, rilasciata l'autorizzazione di cui al comma 3, punto a), dell'[art. 60 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 4.
 
 Copia della autorizzazione viene inviata alla sede centrale della Direzione generale.
 
 Nota all'art. 4:
- - Il testo dell'[art. 214 del D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' il seguente:
+ - Il testo dell'[art. 214 del D.P.R. 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' il seguente:
  "Art. 214 (Motoveicoli ed autoveicoli d'epoca). - 1. Ai veicoli d'epoca, per la circolazione nei luoghi consentiti, e' rilasciato il foglio di via e la targa provvisoria previsti dall'art. 99 del codice.
  2. Nel foglio di via e' indicata la sua validita', limitata al percorso interessato dalla manifestazione o raduno ed alla sua durata, nonche' la velocita' massima consentita in relazione alle garanzie di sicurezza offerte dal veicolo. Tale velocita' non puo' superare i seguenti limiti:
  a) 40 km/h, in ogni caso;

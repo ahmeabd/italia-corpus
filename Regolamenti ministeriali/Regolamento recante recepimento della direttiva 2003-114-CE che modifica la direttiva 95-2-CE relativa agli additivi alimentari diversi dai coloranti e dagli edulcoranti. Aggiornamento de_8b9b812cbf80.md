@@ -47,8 +47,8 @@ Il [decreto ministeriale 27 febbraio 1996, n. 209](https://www.normattiva.it/uri
  c) alla voce E 469 e' aggiunta la seguente denominazione: «Gomma di cellulosa idrolizzata enzimaticamente»; 
  d) l'allegato X e' modificato come segue: 
  1) nel testo la voce «E 170 carbonati di calcio» e' sostituita dalla seguente: «E 170 carbonato di calcio»; 
- 2) la dizione «Prodotti di cacao e di cioccolato citati nella [legge 30 aprile 1976, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20della%20produzione%20e%20del%20commercio%20dei%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md)», e' sostituita dalla seguente: «Prodotti di cacao e cioccolato destinati all'alimentazione umana di cui al [decreto legislativo 12 giugno 2003, n. 178](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202000-36-CE%20relativa%20ai%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md)»; 
- 3) la tabella riguardante «Prodotti di cacao e cioccolato destinati all'alimentazione umana di cui al [decreto legislativo 12 giugno 2003, n. 178](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202000-36-CE%20relativa%20ai%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md), e' completata come segue:
+ 2) la dizione «Prodotti di cacao e di cioccolato citati nella [legge 30 aprile 1976, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20della%20produzione%20e%20del%20commercio%20dei%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md)», e' sostituita dalla seguente: «Prodotti di cacao e cioccolato destinati all'alimentazione umana di cui al [decreto legislativo 12 giugno 2003, n. 178](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-36-CE%20relativa%20ai%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md)»; 
+ 3) la tabella riguardante «Prodotti di cacao e cioccolato destinati all'alimentazione umana di cui al [decreto legislativo 12 giugno 2003, n. 178](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-36-CE%20relativa%20ai%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md), e' completata come segue:
 
 E 472c Esteri citrici acidi di mono- e digliceridi degli acidi grassi
                                 Quanto basta
@@ -303,7 +303,7 @@ Avvertenza:
  a) in un prodotto alimentare composto diverso da quelli indicati all'art. 15, comma 3, nella misura in cui l'additivo alimentare e' ammesso in uno degli ingredienti che costituiscono il prodotto alimentare composto; 
  b) nei prodotti alimentari destinati unicamente alla preparazione di un altro prodotto alimentare composto e in misura tale che il prodotto alimentare composto sia conforme alle disposizioni del presente titolo; 
  c) in un prodotto alimentare in cui e' stato aggiunto un aroma nella misura in cui l'additivo alimentare e' ammesso nell'aroma in ottemperanza alle disposizioni del presente decreto ed e' presente nel prodotto alimentare, a condizione che l'additivo alimentare non abbia alcuna funzione tecnologica nel prodotto finito. 
- 2. Il comma 1 non si applica agli alimenti per lattanti, per la prima infanzia e per lo svezzamento, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), salvo se previsto da disposizioni specifiche. 
+ 2. Il comma 1 non si applica agli alimenti per lattanti, per la prima infanzia e per lo svezzamento, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), salvo se previsto da disposizioni specifiche. 
  3. Le disposizioni del comma 1, lettera b), si applicano anche alle basi di gomma da masticare. 
  4. La quantita' di additivi alimentari presenti negli aromi deve essere limitata alla dose minima necessaria per garantire la sicurezza e la qualita' degli aromi stessi e per facilitarne lo stoccaggio. La presenza di additivi non deve indurre in errore il consumatore, ne' deve metterne a repentaglio la salute. Ove la presenza di un additivo in un alimento, risultante dall'aggiunta di aromi, svolga una funzione tecnologica nell'alimento stesso l'additivo deve essere annoverato tra gli additivi dell'alimento e non tra gli additivi degli aromi». 
  Nota all'art. 1, comma 1, lettera c): 
@@ -333,7 +333,7 @@ E' vietato il commercio di prodotti alimentari non conformi alle disposizioni de
 
 1.
 
-L'allegato I del [decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), e' abrogato.
+L'allegato I del [decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), e' abrogato.
 
 ## Art. 4.
 

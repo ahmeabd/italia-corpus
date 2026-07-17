@@ -113,7 +113,7 @@ Nell'esercizio delle attribuzioni di cui all'[articolo 3, commi 191](../Leggi%20
                         m)
                             promuove iniziative di collaborazione, di integrazione e di confronto fra la pubblica amministrazione, con particolare riferimento agli enti locali, e le realta' delle organizzazioni e degli enti.
                         m-bis)
-                            nei casi di cessazione dell'impresa sociale, si esprime, su richiesta del Ministero del lavoro e delle politiche sociali, in applicazione di quanto previsto dall'[articolo 13, comma 5, del decreto legislativo 24 marzo 2006, n. 155 e dal decreto](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disciplina%20dellimpresa%20sociale%20a%20norma%20della%20legge%2013%20giugno%202005%20n.%20118.md) attuativo del Ministro della solidarieta' sociale 24 gennaio 2008;
+                            nei casi di cessazione dell'impresa sociale, si esprime, su richiesta del Ministero del lavoro e delle politiche sociali, in applicazione di quanto previsto dall'[articolo 13, comma 5, del decreto legislativo 24 marzo 2006, n. 155 e dal decreto](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellimpresa%20sociale%20a%20norma%20della%20legge%2013%20giugno%202005%20n.%20118.md) attuativo del Ministro della solidarieta' sociale 24 gennaio 2008;
                         m-ter)
                             coadiuva e supporta, mediante protocolli d'intesa o accordi di programma, i soggetti istituzionali competenti, quali regioni, enti locali, Camere di commercio, uffici territoriali e altre amministrazioni pubbliche, al fine di armonizzare i criteri di formazione e le modalita' di gestione dei registri di settore;
 

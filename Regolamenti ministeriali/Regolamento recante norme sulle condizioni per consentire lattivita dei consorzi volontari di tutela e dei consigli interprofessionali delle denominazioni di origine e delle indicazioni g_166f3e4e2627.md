@@ -321,7 +321,7 @@ Entro due anni dalla entrata in vigore del presente regolamento i consorzi volon
 Il presente regolamento sara' inviato alla Corte dei conti per la registrazione e pubblicato nella Gazzetta Ufficiale della Repubblica italiana ed entra in vigore sei mesi dopo la sua pubblicazione.
 
 Nota all'art. 8:
- - Il D.M. 13 marzo 1982, pubblicato nella Gazzetta Ufficiale n. 120 del 4 maggio l982, concerne la disciplina all'esercizio, da parte dei consorzi volontari di tutela dei vini, delle attivita' connesse all'espletamento dell'incarico di vigilanza di cui all'[art. 21 del decreto del Presidente della Repubblica 12 luglio 1963, n. 930](../DPR/Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md).
+ - Il D.M. 13 marzo 1982, pubblicato nella Gazzetta Ufficiale n. 120 del 4 maggio l982, concerne la disciplina all'esercizio, da parte dei consorzi volontari di tutela dei vini, delle attivita' connesse all'espletamento dell'incarico di vigilanza di cui all'[art. 21 del decreto del Presidente della Repubblica 12 luglio 1963, n. 930](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20tutela%20delle%20denominazioni%20di%20origine%20dei%20mosti%20e%20dei%20vini.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

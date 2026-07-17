@@ -169,7 +169,7 @@ In particolare, l'ufficio piani e programmi esercita le seguenti funzioni ed att
 L'ufficio piani e programmi esercita altresi' le funzioni in precedenza svolte dalla Direzione delle acque e degli impianti elettrici e, in particolare, quelle relative a:
  istruttoria ai fini dell'emanazione di direttive generali per la programmazione delle opere e delle attivita' di competenza del Ministero dei lavori pubblici e la predisposizione dei relativi schemi di programmi;
  supporto e coordinamento istruttorio per la predisposizione di criteri ed indirizzi generali ai fini dell'aggiornamento del piano regolatore generale degli acquedotti;
- supporto e coordinamento delle attivita' di competenza del Ministero dei lavori pubblici in materia di qualita' delle acque destinate al consumo umano ai sensi del [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
+ supporto e coordinamento delle attivita' di competenza del Ministero dei lavori pubblici in materia di qualita' delle acque destinate al consumo umano ai sensi del [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md).
 
 4.
 

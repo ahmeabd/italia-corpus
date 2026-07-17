@@ -14,7 +14,7 @@ Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legg
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
-Visto il [decreto del Presidente della Repubblica 21 settembre 1994, n. 754](../Regolamenti%20governativi/Regolamento%20concernente%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20superiore%20di%20sanita.md), recante: "Regolamento concernente l'organizzazione ed il funzionamento dell'Istituto superiore di sanita';
+Visto il [decreto del Presidente della Repubblica 21 settembre 1994, n. 754](../DPR/Regolamento%20concernente%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20superiore%20di%20sanita.md), recante: "Regolamento concernente l'organizzazione ed il funzionamento dell'Istituto superiore di sanita';
 
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 17 novembre 1994;
 

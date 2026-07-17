@@ -67,7 +67,7 @@ Note all'art. 2:
 
 1.
 
-L'Ufficio di Gabinetto assicura alla Conferenza il necessario supporto nell'ambito delle funzioni di cui all'[articolo 6 del decreto del Presidente della Repubblica 25 luglio 2001, n. 315](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20giustizia.md), anche ai fini delle attivita' di monitoraggio delle spese generali del Ministero.
+L'Ufficio di Gabinetto assicura alla Conferenza il necessario supporto nell'ambito delle funzioni di cui all'[articolo 6 del decreto del Presidente della Repubblica 25 luglio 2001, n. 315](../DPR/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20giustizia.md), anche ai fini delle attivita' di monitoraggio delle spese generali del Ministero.
 
 2.
 
@@ -78,7 +78,7 @@ Il Capo di Gabinetto del Ministro individua, nell'ambito del proprio Ufficio, il
 Il segretario adotta ogni adempimento necessario per la convocazione della Conferenza, partecipa alle riunioni, segnala al Capo di Gabinetto le eventuali richieste di convocazione, provvede alla sottoscrizione dei verbali delle riunioni, cura la pubblicazione sul sito internet del Ministero delle delibere adottate dalla Conferenza, cura la conservazione degli atti relativi alla Conferenza.
 
 Note all'art. 3: 
- - Si riporta il testo dell'[articolo 6 del decreto del Presidente della Repubblica 25 luglio 2001, n. 315](../Regolamenti%20governativi/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20giustizia.md) (Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro della giustizia): 
+ - Si riporta il testo dell'[articolo 6 del decreto del Presidente della Repubblica 25 luglio 2001, n. 315](../DPR/Regolamento%20di%20organizzazione%20degli%20Uffici%20di%20diretta%20collaborazione%20del%20Ministro%20della%20giustizia.md) (Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro della giustizia): 
  «Art. 6. Gabinetto del Ministro. 
  1. Per l'esercizio delle funzioni di cui all'articolo 2, comma 1, il Ministro si avvale dell'Ufficio di Gabinetto, salve le specifiche competenze della Segreteria del Ministro, delle Segreterie dei Sottosegretari di Stato, dell'Ufficio legislativo e dell'Ispettorato generale. Per lo svolgimento delle sue funzioni, l'Ufficio di Gabinetto, servendosi delle informazioni trasmesse dagli altri uffici e dipartimenti del Ministero, assicura i rapporti con l'Ufficio legislativo e l'Ispettorato generale e il coordinamento degli altri uffici di diretta collaborazione, nonche' il raccordo tra le funzioni di indirizzo del Ministro e le attivita' dei dipartimenti del Ministero.
  L'Ufficio di Gabinetto tiene, altresi', nell'ambito e per le finalita' connesse alle sue attribuzioni, i rapporti con gli organi istituzionali e con enti e organizzazioni pubblici e privati. 

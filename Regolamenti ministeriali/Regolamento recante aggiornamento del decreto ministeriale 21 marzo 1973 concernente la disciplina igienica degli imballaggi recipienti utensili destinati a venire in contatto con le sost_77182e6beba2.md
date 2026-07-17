@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Visto l'[articolo 3 del decreto del presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), modificato dall'[articolo 3 del decreto legislativo del 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto l'[articolo 3 del decreto del presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), modificato dall'[articolo 3 del decreto legislativo del 25 gennaio 1992, n. 108](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Visto il decreto ministeriale 21 marzo 1973, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 104 del 20 aprile 1973, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire in contatto con le sostanze alimentari o con sostanze d'uso personale, modificato da ultimo con il [decreto ministeriale 24 settembre 1996, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-09-24;572);
 

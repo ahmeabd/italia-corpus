@@ -18,7 +18,7 @@ DELL'INDUSTRIA, DEL COMMERCIO E DELL'ARTIGIANATO
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 15, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), che prevede che il Ministro della sanita', con decreto da adottarsi di concerto con i Ministri dell'agricoltura e delle foreste, dell'ambiente e dell'industria, del commercio e dell'artigianato, fissa le caratteristiche delle schede per la rilevazione dei dati relativi alla vendita, all'acquisto ed alla utilizzazione dei presidi sanitari, nonche' le relative modalita' di compilazione, tempi e procedure di rilevamento e di trasmissione dei dati;
+Visto l'[art. 15, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), che prevede che il Ministro della sanita', con decreto da adottarsi di concerto con i Ministri dell'agricoltura e delle foreste, dell'ambiente e dell'industria, del commercio e dell'artigianato, fissa le caratteristiche delle schede per la rilevazione dei dati relativi alla vendita, all'acquisto ed alla utilizzazione dei presidi sanitari, nonche' le relative modalita' di compilazione, tempi e procedure di rilevamento e di trasmissione dei dati;
 
 Attesa la necessita' di stabilire le caratteristiche delle predette schede di rilevazione e le relative modalita' di compilazione e trasmissione, nonche' i tempi e le procedure di rilevamento ed elaborazione dei dati acquisiti;
 
@@ -34,7 +34,7 @@ ADOTTA il seguente regolamento:
 
 1.
 
-I modelli delle schede per l'annotazione dei dati riguardanti le vendite, gli acquisti e le utilizzazioni dei presidi sanitari effettuati dai soggetti di cui all'[art. 15, comma 1, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), sono quelli di cui agli allegati 1, 2, 3 e 4.
+I modelli delle schede per l'annotazione dei dati riguardanti le vendite, gli acquisti e le utilizzazioni dei presidi sanitari effettuati dai soggetti di cui all'[art. 15, comma 1, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), sono quelli di cui agli allegati 1, 2, 3 e 4.
 
 2.
 
@@ -70,7 +70,7 @@ La dichiarazione di cui al comma 1 deve essere trasmessa distintamente per ciasc
 
 3.
 
-La dichiarazione di cui al comma 1 potra' essere sostituita da un supporto magnetico contenente gli stessi dati della scheda di cui all'allegato 1, dopo che le caratteristiche di tale supporto saranno state determinate con provvedimento ministeriale o con il decreto di cui all'[art. 15, comma 2, decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), ove l'utilizzazione di tale supporto comporti una qualche variazione sul contenuto della dichiarazione.
+La dichiarazione di cui al comma 1 potra' essere sostituita da un supporto magnetico contenente gli stessi dati della scheda di cui all'allegato 1, dopo che le caratteristiche di tale supporto saranno state determinate con provvedimento ministeriale o con il decreto di cui all'[art. 15, comma 2, decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), ove l'utilizzazione di tale supporto comporti una qualche variazione sul contenuto della dichiarazione.
 
 4.
 
@@ -121,7 +121,7 @@ Tale dichiarazione potra' essere sostituita da un supporto magnetico, secondo qu
 
 6.
 
-Ai fini della compilazione delle schede di cui al comma 1, gli utilizzatori conservano, per i presidi di prima e seconda classe tossicologica, la copia dei moduli d'acquisto di cui all'[art. 22, quarto comma, del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Regolamenti%20governativi/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md) e, per gli acquisti di presidi delle altre classi, copia delle relative bolle di accompagnamento. (1) (2) (3) (4) ((5)) 
+Ai fini della compilazione delle schede di cui al comma 1, gli utilizzatori conservano, per i presidi di prima e seconda classe tossicologica, la copia dei moduli d'acquisto di cui all'[art. 22, quarto comma, del decreto del Presidente della Repubblica 3 agosto 1968, n. 1255](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20la%20disciplina%20della%20produzione%20del%20commercio%20e%20della%20vendita%20di%20fitofarmaci%20e%20dei%20presidi%20delle%20derrate%20alimentari%20immagazzinate.md) e, per gli acquisti di presidi delle altre classi, copia delle relative bolle di accompagnamento. (1) (2) (3) (4) ((5)) 
  
 -------------------
 
@@ -162,7 +162,7 @@ AGGIORNAMENTO (5)
 
 1.
 
-Sempre ai fini di cui all'[art. 15, comma 1, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), gli utilizzatori effettuano le annotazioni sul registro di cui all'allegato 4, entro i quindici giorni successivi a ciascuna operazione di trattamento.
+Sempre ai fini di cui all'[art. 15, comma 1, del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), gli utilizzatori effettuano le annotazioni sul registro di cui all'allegato 4, entro i quindici giorni successivi a ciascuna operazione di trattamento.
 
 2.
 

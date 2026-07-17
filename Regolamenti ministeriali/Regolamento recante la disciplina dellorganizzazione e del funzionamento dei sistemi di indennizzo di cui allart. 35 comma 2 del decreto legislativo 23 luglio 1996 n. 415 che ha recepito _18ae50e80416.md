@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DEL TESORO
 
-Visto il [decreto legislativo 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md);
+Visto il [decreto legislativo 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md);
 
 Visto l'articolo 35 il quale dispone che il Ministero del tesoro, sentite la Banca d'Italia e la Consob, disciplina con regolamento l'organizzazione ed il funzionamento dei sistemi di indennizzo, all'adesione ad uno dei quali e' subordinato l'esercizio dei servizi di investimento da parte degli intermediari;
 
@@ -40,7 +40,7 @@ Ai fini del presente regolamento si intendono per:
                         a)
                             "sistemi di indennizzo": i soggetti di natura privatistica aventi personalita' giuridica eventualmente espressa anche in forma di societa' consortili, costituiti per la tutela di crediti vantati nei confronti delle imprese e degli intermediari di cui alle lettere b), c) e d) seguenti;
                         b)
-                            "imprese di investimento": le imprese di investimento comunitarie ed extra comunitarie definite dall'[articolo 1, comma 5, lettere e)](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) ed [f), del decreto legislativo 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) (di seguito decreto);
+                            "imprese di investimento": le imprese di investimento comunitarie ed extra comunitarie definite dall'[articolo 1, comma 5, lettere e)](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) ed [f), del decreto legislativo 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) (di seguito decreto);
                         c)
                             "intermediari finanziari": gli intermediari finanziari iscritti nell'elenco previsto dall'[articolo 107 del decreto legislativo 1 settembre 1993, n. 385](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20in%20materia%20bancaria%20e%20creditizia.md), e successive modificazioni (di seguito testo unico bancario) abilitati a prestare servizi di investimento ai sensi dell'articolo 2, comma 4, del decreto;
                         d)
@@ -55,7 +55,7 @@ Ai fini del presente regolamento si intendono per:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 Note alle premesse:
- - Il testo dell'[art. 35 del D.Lgs. 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
+ - Il testo dell'[art. 35 del D.Lgs. 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
  "Art. 5. - 1. L'esercizio dei servizi d'investimento e' subordinato all'adesione a un sistema di indennizzo a tutela degli investitori riconosciuto dal Ministero del tesoro, sentite la Banca d'Italia e la Consob.
  2. Il Ministero del tesoro, sentite la Banca d'Italia e la Consob, disciplina con regolamento l'organizzazione e il funzionamento dei sistemi di indennizzo.
  3. La Banca d'Italia, sentita la Consob, detta regole per il coordinamento dell'operativita' dei sistemi d'indennizzo con la procedura di liquidazione coatta amministrativa, nonche' con l'attivita' di vigilanza in generale.
@@ -70,7 +70,7 @@ Note alle premesse:
  3. Fino all'adeguamento previsto dal comma 2, il Fondo continua ad operare secondo la disciplina previgente. La medesima disciplina si applica agli interventi dovuti in relazione alle insolvenze per le quali lo stato passivo definitivo sia stato depositato prima dell'entrata in vigore del regolamento previsto dall'art. 35, comma 2.
  4. Alla data dell'adeguamento previsto dal comma 2, le attivita' e passivita' del Fondo confluiscono in una gestione speciale secondo le modalita' stabilite con regolamento del Ministro del tesoro, sentite la Banca d'Italia e la Consob. Con il medesimo regolamento sono disciplinati: la gestione speciale del patrimonio del Fondo; la copertura degli impegni del Fondo derivanti dalle insolvenze pregresse anche attraverso contribuzioni straordinarie a carico degli aderenti al Fondo alla data dell'adeguamento; la destinazione dell'eventuale attivo residuo".
  Note all'art. 1:
- - Il testo dell'[art. 1, comma 5, lettere e)](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) ed [f) del D.Lgs. 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
+ - Il testo dell'[art. 1, comma 5, lettere e)](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) ed [f) del D.Lgs. 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
  "5. Si intendono per:
  ad) (omissis);
  e) ''impresa di investimento comunitaria'', l'impresa, diversa dalla banca, autorizzata a svolgere servizi di investimento, avente sede legale e direzione generale in un medesimo Stato appartenente all'Unione europea, diverso dall'Italia;
@@ -172,7 +172,7 @@ Il sistema di indennizzo puo' inoltre prevedere il rimborso dei crediti indicati
 
 Sono esclusi dal rimborso del sistema di indennizzo i crediti vantati dalle seguenti categorie di soggetti:
                         a)
-                            investitori nei confronti dei quali sia intervenuta condanna per i reati previsti dagli [articoli 648-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+                            investitori nei confronti dei quali sia intervenuta condanna per i reati previsti dagli [articoli 648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         b)
                             investitori che abbiano concorso a determinare l'insolvenza dell'intermediario, come accertato dagli organi della procedura concorsuale;
                         c)
@@ -193,7 +193,7 @@ Sono esclusi dal rimborso del sistema di indennizzo i crediti vantati dalle segu
 Sono escluse da qualsiasi indennizzo le operazioni effettuate per interposta persona dai soggetti di cui alle lettere f) e g) del precedente comma 3.
 
 Nata all'art. 4:
- - I testi degli [articoli 648-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono di seguito riportati:
+ - I testi degli [articoli 648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) sono di seguito riportati:
  "Art. 648-bis (Riciclaggio). - Fuori dei casi di concorso nel reato, chiunque sostituisce o trasferisce denaro, beni o altre utilita' provenienti da delitto non colposo, ovvero compie in relazione ad essi altre operazioni, in modo da ostacolare l'identificazione della loro provenienza delittuosa, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
  La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' professionale.
  La pena e' diminuita se il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione inferiore nel massimo a cinque anni.
@@ -219,7 +219,7 @@ Nel caso di un'operazione di investimento congiunta di due o piu' persone nella 
 
 4.
 
-Nessun investitore puo' beneficiare di un indennizzo superiore ai crediti complessivamente vantati. L'indennizzo erogato ai sensi del presente regolamento non e' cumulabile con l'indennizzo erogato ai sensi dell'articolo 96-bis del testo unico bancario. A tal fine, il sistema di indennizzo provvede ad adottare opportune misure di coordinamento con i sistemi di tutela dei depositi bancari previsti dal [decreto legislativo 4 dicembre 1996, n. 659](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2094-19-CEE%20relativa%20ai%20sistemi%20di%20garanzia%20dei%20depositi.md).
+Nessun investitore puo' beneficiare di un indennizzo superiore ai crediti complessivamente vantati. L'indennizzo erogato ai sensi del presente regolamento non e' cumulabile con l'indennizzo erogato ai sensi dell'articolo 96-bis del testo unico bancario. A tal fine, il sistema di indennizzo provvede ad adottare opportune misure di coordinamento con i sistemi di tutela dei depositi bancari previsti dal [decreto legislativo 4 dicembre 1996, n. 659](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2094-19-CEE%20relativa%20ai%20sistemi%20di%20garanzia%20dei%20depositi.md).
 
 5.
 
@@ -234,7 +234,7 @@ Nota all'art. 5:
  a) i depositi e gli altri fondi rimborsabili al portatore;
  b) le obbligazioni e i crediti derivanti da accettazioni, paghero' cambiari ed operazioni in titoli;
  c) il capitale sociale, le riserve e gli altri elementi patrimoniali della banca;
- d) i depositi derivanti da transazioni in relazione alle quali sia intervenuta una condanna per i reati previsti negli [articoli 648-bis](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
+ d) i depositi derivanti da transazioni in relazione alle quali sia intervenuta una condanna per i reati previsti negli [articoli 648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
  e) i depositi delle amministrazioni dello Stato, degli enti regionali, provinciali, comunali e degli altri enti pubblici territoriali;
  f) i depositi effettuati da banche in nome e per conto proprio, nonche' i crediti delle stesse;
  g) i depositi delle societa' finanziarie indicate nell'art. 59, comma 1, lettera b), delle compagnie di assicurazione; degli organismi di investimento collettivo del risparmio; di altre societa' dello stesso gruppo bancario;
@@ -283,7 +283,7 @@ Il sistema di indennizzo puo' stipulare polizze assicurative con imprese di assi
 Anche in presenza di tali polizze, il sistema di indennizzo resta comunque direttamente responsabile nei confronti degli aventi diritto ai rimborsi previsti dal presente regolamento.
 
 Nota all'art. 7:
- - Il testo dell'[art. 51 del D.Lgs. 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
+ - Il testo dell'[art. 51 del D.Lgs. 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
  "Art. 51. - 1. La Consob iscrive in un'apposita sezione dell'elenco previsto dall'art. 48, comma 2, i mercati regolamentati riconosciuti ai sensi dell'[art. 16 della direttiva 93/22/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;22).
  2. La Consob, previa stipula di accordi con le corrispondenti autorita', puo' riconoscere mercati esteri di strumenti finaziari, diversi da quelli inseriti nella sezione prevista dal comma 1, al fine di estendere l'operativita' sul territorio della Repubblica.
  3. Le societa' di gestione che intendano chiedere ad autorita' di Stati extracomunitari il riconoscimento dei mercati da esse gestiti, ne danno comunicazione alla Consob, la quale rilascia il proprio nulla osta previa stipula di accordi con le corrispondenti autorita' estere.

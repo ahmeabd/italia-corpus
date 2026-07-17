@@ -12,9 +12,9 @@ IL MINISTRO DELL'INDUSTRIA
 
 DEL COMMERCIO E DELL'ARTIGIANATO
 
-Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e le successive disposizioni modificative ed integrative;
+Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e le successive disposizioni modificative ed integrative;
 
-Visto il regolamento di esecuzione approvato con [regio decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), e le successive disposizioni modificative ed integrative;
+Visto il regolamento di esecuzione approvato con [regio decreto 4 gennaio 1925, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), e le successive disposizioni modificative ed integrative;
 
 Vista la [legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), recante norme per l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, e le succes- sive disposizioni modificative ed integrative;
 
@@ -107,7 +107,7 @@ AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [D.P.R. n. 449/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;449), e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 158 del 6 luglio 1959.
- - Il regolamento di esecuzione, approvato con [regio decreto 4 gennaio 1925, n. 63](../Regi%20decreti/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), concernente l'esercizio sulle assicurazioni private e' stato pubblicato nella Gazzetta Ufficiale n. 35 del 12 febbraio 1925.
+ - Il regolamento di esecuzione, approvato con [regio decreto 4 gennaio 1925, n. 63](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20per%20lesecuzione%20del%20R.%20decreto-legge%2029%20aprile%201923%20n.%20966%20concernente%20lesercizio%20delle%20assicurazioni%20private.%20025U0063.md), concernente l'esercizio sulle assicurazioni private e' stato pubblicato nella Gazzetta Ufficiale n. 35 del 12 febbraio 1925.
  - La [legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e' stata pubblicata nella Gazzetta Ufficiale n. 2 del 3 gennaio 1970.
  - La [legge 26 febbraio 1977, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201976%20n.%20857%20concernente%20modifica%20della%20disciplina%20dellassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante_44c8f65dc800.md), e' stata pubblicata nella Gazzetta Ufficiale n. 54 del 26 febbraio 1977.
  - La [legge 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114), e' stata pubblicata nella Gazzetta Ufficiale n. 103 del 16 aprile 1977.
@@ -394,7 +394,7 @@ Per i periti assicurativi il programma d'esame verte su nozioni giuridiche e mat
  In particolare le nozioni giuridiche riguardano:
  1) elementi di diritto e di procedura civile e penale;
  2) cenni di diritto e tecnica delle assicurazioni;
- 3) elementi di diritto della circolazione ([codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)).
+ 3) elementi di diritto della circolazione ([codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)).
  Le materie tecniche concernono:
  1) elementi di fisica e di meccanica;
  2) elementi di topografia e di fotogrammetria;
@@ -419,7 +419,7 @@ I candidati all'esame devono fornire la prova di avere la conoscenza teorica e p
  b) assicurazione obbligatoria r.c. auto e natanti: ([legge n. 990/1969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969;990) e successive modifiche);
  c) assicurazione contro i danni: r.c. auto, furto e incendio;
  d) convenzione indennizzo diretto; accordo terzi estranei; accordo tamponamenti multipli.
- 3) Elementi di diritto della circolazione ([codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e della navigazione).
+ 3) Elementi di diritto della circolazione ([codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e della navigazione).
  MATERIE TECNICHE
  1) Elementi di fisica e di meccanica:
  a) Elementi di meccanica dei corpi rigidi:

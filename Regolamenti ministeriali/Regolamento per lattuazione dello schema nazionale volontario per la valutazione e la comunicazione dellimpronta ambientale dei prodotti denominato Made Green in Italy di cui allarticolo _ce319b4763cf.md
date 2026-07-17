@@ -124,7 +124,7 @@ I soggetti proponenti la RCP inviano al gestore dello schema la richiesta per el
 
 2.
 
-La richiesta di cui al comma 1, e' effettuata con una delle modalita' di cui all'[articolo 65, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+La richiesta di cui al comma 1, e' effettuata con una delle modalita' di cui all'[articolo 65, del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 3.
 
@@ -155,7 +155,7 @@ Entro trenta giorni dal termine della consultazione pubblica, i soggetti propone
 Il gestore dello schema rende pubblici, sul proprio sito web, gli esiti della consultazione pubblica.
 
 Note all'art. 3: 
- - Si riporta il testo dell'[articolo 65, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)), pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O.: 
+ - Si riporta il testo dell'[articolo 65, del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)), pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O.: 
  «Art. 65 (Istanze e dichiarazioni presentate alle pubbliche amministrazioni per via telematica). - 1. Le istanze e le dichiarazioni presentate per via telematica alle pubbliche amministrazioni e ai gestori dei servizi pubblici ai sensi dell'[articolo 38, commi 1](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), sono valide: 
  a) se sottoscritte mediante la firma digitale o la firma elettronica qualificata, il cui certificato e' rilasciato da un certificatore qualificato; 
  b) ovvero, quando l'istante o il dichiarante e' identificato attraverso il sistema pubblico di identita' digitale (SPID), nonche' attraverso uno degli altri strumenti di cui all'articolo 64, comma 2-novies, nei limiti ivi previsti; 
@@ -166,7 +166,7 @@ Note all'art. 3:
  2. Le istanze e le dichiarazioni di cui al comma 1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma autografa apposta in presenza del dipendente addetto al procedimento. 
  3. 
  4. Il [comma 2 dell'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), e' sostituito dal seguente: 
- «2. Le istanze e le dichiarazioni inviate per via telematica sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)».
+ «2. Le istanze e le dichiarazioni inviate per via telematica sono valide se effettuate secondo quanto previsto dall'[articolo 65 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md)».
 
 ## Art. 4.
 
@@ -254,10 +254,10 @@ La procedura relativa all'utilizzo del logo e la comunicazione dei risultati nel
 
 1.
 
-Il Ministero dell'ambiente e della tutela del territorio e del mare utilizza nei CAM relativi alle nuove categorie di prodotti, nonche' nei CAM gia' approvati e pubblicati, l'adesione allo schema «Made Green in Italy» come strumento di verifica del rispetto delle specifiche tecniche, da parte delle stazioni appaltanti, laddove pertinenti e riguardanti il ciclo di vita del prodotto, tenuto conto delle previsioni di cui agli [articoli 34](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) e [87 del decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
+Il Ministero dell'ambiente e della tutela del territorio e del mare utilizza nei CAM relativi alle nuove categorie di prodotti, nonche' nei CAM gia' approvati e pubblicati, l'adesione allo schema «Made Green in Italy» come strumento di verifica del rispetto delle specifiche tecniche, da parte delle stazioni appaltanti, laddove pertinenti e riguardanti il ciclo di vita del prodotto, tenuto conto delle previsioni di cui agli [articoli 34](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) e [87 del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md).
 
 Note all'art. 8: 
- - Si riporta il testo degli [articoli 34](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) e [87, del decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ([Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)), pubblicato nella Gazzetta Ufficiale 19 aprile 2016, n. 91, S.O.: 
+ - Si riporta il testo degli [articoli 34](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) e [87, del decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md) ([Codice dei contratti pubblici](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)), pubblicato nella Gazzetta Ufficiale 19 aprile 2016, n. 91, S.O.: 
  «Art. 34 (Criteri di sostenibilita' energetica e ambientale). - 1. Le stazioni appaltanti contribuiscono al conseguimento degli obiettivi ambientali previsti dal Piano d'azione per la sostenibilita' ambientale dei consumi nel settore della pubblica amministrazione attraverso l'inserimento, nella documentazione progettuale e di gara, almeno delle specifiche tecniche e delle clausole contrattuali contenute nei criteri ambientali minimi adottati con decreto del Ministro dell'ambiente e della tutela del territorio e del mare e conformemente, in riferimento all'acquisto di prodotti e servizi nei settori della ristorazione collettiva e fornitura di derrate alimentari, anche a quanto specificamente previsto all'articolo 144. 
  2. I criteri ambientali minimi definiti dal decreto di cui al comma 1, in particolare i criteri premianti, sono tenuti in considerazione anche ai fini della stesura dei documenti di gara per l'applicazione del criterio dell'offerta economicamente piu' vantaggiosa, ai sensi dell'articolo 95, comma 6. Nel caso di contratti relativi alle categorie di appalto riferite agli interventi di ristrutturazione, inclusi quelli comportanti demolizione e ricostruzione, i criteri ambientali minimi di cui al comma 1, sono tenuti in considerazione, per quanto possibile, in funzione della tipologia di intervento e della localizzazione delle opere da realizzare, sulla base di adeguati criteri definiti dal Ministero dell'ambiente e della tutela del territorio e del mare. 
  3. L'obbligo di cui ai commi 1 e 2 si applica per gli affidamenti di qualunque importo, relativamente alle categorie di forniture e di affidamenti di servizi e lavori oggetto dei criteri ambientali minimi adottati nell'ambito del citato Piano d'azione.». 

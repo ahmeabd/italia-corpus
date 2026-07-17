@@ -24,15 +24,15 @@ Vista la [legge 23 aprile 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 15 dicembre 1959, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-12-15;1089), recante «Stato e avanzamento degli ufficiali della Guardia di finanza»;
 
-Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante «Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)»;
+Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante «Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)»;
 
-Visto il [decreto legislativo 12 maggio 1995, n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), recante «Attuazione dell'[articolo 3 della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di nuovo inquadramento del personale non direttivo e non dirigente del Corpo della Guardia di finanza»;
+Visto il [decreto legislativo 12 maggio 1995, n. 199](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), recante «Attuazione dell'[articolo 3 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di nuovo inquadramento del personale non direttivo e non dirigente del Corpo della Guardia di finanza»;
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche»;
 
-Visto il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante «[Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)»;
+Visto il [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante «[Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)»;
 
-Visto il [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), recante «[Codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)» e successive modificazioni e, in particolare, l'articolo 2149, comma 8-ter;
+Visto il [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), recante «[Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)» e successive modificazioni e, in particolare, l'articolo 2149, comma 8-ter;
 
 Visto il [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), recante «[Testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), a norma dell'[articolo 14 della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14)»;
 
@@ -52,14 +52,14 @@ Capo I
 
 1.
 
-Fermo restando quanto previsto dal [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), il presente decreto disciplina lo svolgimento dei procedimenti disciplinari di stato nei confronti dei militari, in servizio o in congedo, della Guardia di finanza.
+Fermo restando quanto previsto dal [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), il presente decreto disciplina lo svolgimento dei procedimenti disciplinari di stato nei confronti dei militari, in servizio o in congedo, della Guardia di finanza.
 
 N O T E 
  
  Avvertenza: 
  - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Nota al titolo: 
- - Si trascrive il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), recante «[Codice dell'ordinamento militare](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md)», pubblicato nel Supplemento Ordinario n. 84 alla Gazzetta Ufficiale 8 maggio 2010, n. 106: 
+ - Si trascrive il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), recante «[Codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md)», pubblicato nel Supplemento Ordinario n. 84 alla Gazzetta Ufficiale 8 maggio 2010, n. 106: 
  «Art. 2149 (Disposizioni in materia di disciplina militare per il personale del Corpo della Guardia di finanza). - 1. Per il personale del Corpo della Guardia di finanza le sospensioni dall'impiego di cui alla sezione IV del capo III del titolo V del libro IV del presente codice sono adottate: 
  a) dal Ministro dell'economia e delle finanze nei confronti dei generali di corpo d'armata e dei generali di divisione; 
  b) dal Comandante generale nei confronti del restante personale. 
@@ -77,7 +77,7 @@ N O T E
  a) qualora ritengano che al militare debba o meno essere inflitta una delle sanzioni disciplinari indicate nell'articolo 1357, comma 1, lettere a) e b), ne fanno proposta alle autorita' indicate al comma 2; 
  b) qualora ritengano che al militare possano essere inflitte le sanzioni disciplinari indicate all'articolo 1357, comma 1, lettere c) e d), ne ordinano il deferimento ad una Commissione di disciplina. 
  7. Le facolta' previste dall'articolo 1389, per il personale del Corpo della Guardia di finanza, si intendono riferite al Ministro dell'economia e delle finanze o al Comandante generale. 
- 8. Fermo restando quanto previsto dall'articolo 866, per il personale del Corpo della Guardia di finanza la perdita del grado e' disposta, previo giudizio disciplinare, in caso di condanna definitiva, non condizionalmente sospesa, per reato militare o delitto non colposo che comporti la pena accessoria della interdizione temporanea dai pubblici uffici oppure una delle pene accessorie di cui all'[articolo 19, primo comma, numeri 2)](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6), del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ 8. Fermo restando quanto previsto dall'articolo 866, per il personale del Corpo della Guardia di finanza la perdita del grado e' disposta, previo giudizio disciplinare, in caso di condanna definitiva, non condizionalmente sospesa, per reato militare o delitto non colposo che comporti la pena accessoria della interdizione temporanea dai pubblici uffici oppure una delle pene accessorie di cui all'[articolo 19, primo comma, numeri 2)](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [6), del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  8-bis. Rientrano tra gli accertamenti preliminari di cui all'articolo 1392, comma 2, anche i pareri gerarchici dei livelli superiori a quello che ha rilevato la mancanza. 
  8-ter. Per i militari del Corpo della guardia di finanza il procedimento disciplinare di stato e' disciplinato con decreto del Ministro dell'economia e delle finanze, ferme restando le disposizioni contenute nel presente Codice.». 
  Note alle premesse: 
@@ -90,15 +90,15 @@ N O T E
  - La [legge 17 aprile 1957, n. 260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-04-17;260), recante: «Stato dei sottufficiali della Guardia di finanza», e' stata pubblicata nella Gazzetta Ufficiale 3 maggio 1957, n. 112. 
  - La [legge 23 aprile 1959, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-04-23;189), recante: «Ordinamento del Corpo della guardia di finanza», e' stata pubblicata nella Gazzetta Ufficiale 24 aprile 1959, n. 98. 
  - La [legge 15 dicembre 1959, n. 1089](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-12-15;1089), recante: «Stato e avanzamento degli ufficiali della Guardia di finanza», e' stata pubblicata nella Gazzetta Ufficiale 24 dicembre 1959, n. 311. 
- - Il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante: «Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)», e' stato pubblicato nel Supplemento Ordinario n. 92 alla Gazzetta Ufficiale 24 ottobre 1988, n. 250. 
- - Il [decreto legislativo 12 maggio 1995, n. 199](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), recante: «Attuazione dell'[art. 3 della legge 6 marzo 1992, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di nuovo inquadramento del personale non direttivo e non dirigente del Corpo della guardia di finanza», e' stato pubblicato nel Supplemento Ordinario n. 61 alla Gazzetta Ufficiale 27 maggio 1995, n. 122. 
+ - Il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../Codici/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante: «Approvazione del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447)», e' stato pubblicato nel Supplemento Ordinario n. 92 alla Gazzetta Ufficiale 24 ottobre 1988, n. 250. 
+ - Il [decreto legislativo 12 maggio 1995, n. 199](../Decreti%20Legislativi/Attuazione%20dellart.%203%20della%20legge%206%20marzo%201992%20n.%20216%20in%20materia%20di%20nuovo%20inquadramento%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20della%20Guardia%20di%20finanza.md), recante: «Attuazione dell'[art. 3 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), in materia di nuovo inquadramento del personale non direttivo e non dirigente del Corpo della guardia di finanza», e' stato pubblicato nel Supplemento Ordinario n. 61 alla Gazzetta Ufficiale 27 maggio 1995, n. 122. 
  - Il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), recante: «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche», e' stato pubblicato nel Supplemento Ordinario n. 112 alla Gazzetta Ufficiale 9 maggio 2001, n. 106. 
- - Il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante: «[Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)», e' stato pubblicato nel Supplemento Ordinario n. 93 alla Gazzetta Ufficiale 16 maggio 2005, n. 112. 
- - Per il testo dell'[art. 2149, comma 8-ter, del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo. 
+ - Il [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante: «[Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)», e' stato pubblicato nel Supplemento Ordinario n. 93 alla Gazzetta Ufficiale 16 maggio 2005, n. 112. 
+ - Per il testo dell'[art. 2149, comma 8-ter, del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo. 
  - Il [decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), recante: «[Testo unico delle disposizioni regolamentari in materia di ordinamento militare](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md), a norma dell'[articolo 14 della legge 28 novembre 2005, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246#art_14)», e' stato pubblicato nel Supplemento Ordinario n. 131 alla Gazzetta Ufficiale 18 giugno 2010, n. 140. 
  
  Note all'art. 1: 
- - Per i riferimenti al [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo.
+ - Per i riferimenti al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo.
 
 ### Art. 2. — Definizioni
 
@@ -106,7 +106,7 @@ N O T E
 
 Ai sensi del presente decreto si intende per:
                             a)
-                                codice, il [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md);
+                                codice, il [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md);
                             b)
                                 procedimento disciplinare di stato, l'insieme delle procedure e degli atti necessari per l'irrogazione di una sanzione disciplinare di cui all'articolo 1357 del codice;
                             c)
@@ -129,7 +129,7 @@ Ai sensi del presente decreto si intende per:
                                 presidente della commissione, l'ufficiale piu' alto in grado della commissione di disciplina.
 
 Note all'art. 2: 
- - Si trascrive il testo dell'art. 1357 del citato [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'art. 1357 del citato [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1357 (Sanzioni disciplinari di stato). - 1. Le sanzioni disciplinari di stato sono: 
  a) la sospensione disciplinare dall'impiego per un periodo da uno a dodici mesi; 
  b) la sospensione disciplinare dalle funzioni del grado per un periodo da uno a dodici mesi; 
@@ -149,7 +149,7 @@ La potesta' sanzionatoria di stato compete alle Autorita' individuate ai sensi d
 Nei casi di corresponsabilita' di cui all'articolo 2149, comma 5, del codice, il procedimento disciplinare di stato e' concluso, per tutti i militari coinvolti, dall'Autorita' competente a provvedere per il militare piu' elevato in grado o piu' anziano nei cui confronti l'inchiesta e' stata avviata. Resta ferma, per il personale e nei casi di cui all'articolo 2149, comma 5, lettera a), del codice, la possibilita' per l'Autorita' competente ai sensi del comma 1 di ordinare la separazione dei procedimenti per ragioni di convenienza.
 
 Note all'art. 3: 
- - Per il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo.
+ - Per il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo.
 
 ### Art. 4.
 
@@ -170,7 +170,7 @@ Il procedimento disciplinare di stato e' svolto nei confronti:
                                 del militare gia' privato di tale status o del grado, nei cui confronti e' stata adottata per altra vicenda una sospensione precauzionale dall'impiego non gia' annullata o revocata retroattivamente a tutti gli effetti, ad eccezione del caso in cui la revoca della sospensione non determina alcuna restituzione degli assegni non percepiti a favore del militare per effetto dell'articolo 921 del codice.
 
 Note all'art. 4: 
- - Si trascrive il testo dell'art. 921 del citato [decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'art. 921 del citato [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 921 (Ricostruzione di carriera e rimborso spese). - 1. In caso di revoca della sospensione, ai sensi dell'articolo 918, comma 1, il militare ha diritto a tutti gli assegni non percepiti, escluse le indennita' per servizi e funzioni di carattere speciale o per prestazioni di lavoro straordinario. 
  2. Dall'importo determinato ai sensi del comma 1 si deduce: 
  a) l'assegno alimentare corrisposto; 
@@ -206,7 +206,7 @@ Le comunicazioni ricevute dal difensore si considerano pervenute anche all'inqui
 Per le comunicazioni successive alla contestazione degli addebiti, e' consentito l'utilizzo di un indirizzo di posta elettronica appositamente indicato dall'inquisito o dal suo difensore.
 
 Note all'art. 5: 
- - Il libro Primo del Titolo VI, Capo I, Sezione IV del [regio decreto 28 ottobre 1940, n. 1443](../Regi%20decreti/Codice%20di%20procedura%20civile.%20040U1443.md) (Approvazione del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443)), pubblicato nella Gazzetta Ufficiale 28 ottobre 1940, n. 253, reca: «Disposizioni generali».
+ - Il libro Primo del Titolo VI, Capo I, Sezione IV del [regio decreto 28 ottobre 1940, n. 1443](../Codici/Codice%20di%20procedura%20civile.%20040U1443.md) (Approvazione del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443)), pubblicato nella Gazzetta Ufficiale 28 ottobre 1940, n. 253, reca: «Disposizioni generali».
 
 ### Art. 6. — Sospensione e differimento del procedimento disciplinare
 
@@ -243,7 +243,7 @@ Ai fini del computo dei termini di cui all'articolo 1373 del codice:
                                 i termini riprendono a decorrere dalla data di adozione del primo degli atti rinnovati.
 
 Note all'art. 7: 
- - Si trascrive il testo dell'[art. 1373 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'[art. 1373 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1373 (Rinnovazione del procedimento disciplinare). - 1. Annullati uno o piu' atti del procedimento disciplinare a seguito di autotutela, anche contenziosa, di giudicato amministrativo ovvero di decreto decisorio di ricorso straordinario, se non e' esclusa la facolta' dell'amministrazione di rinnovare in tutto o in parte il procedimento e non sono gia' decorsi, limitatamente alle sanzioni di stato, gli originari termini perentori, il nuovo procedimento riprende, a partire dal primo degli atti annullati, nel termine perentorio di sessanta giorni dalla data in cui l'amministrazione ha avuto piena conoscenza dell'annullamento o dalla data di adozione del provvedimento di autotutela.».
 
 ### Art. 8. — Estinzione del procedimento disciplinare
@@ -265,7 +265,7 @@ Il procedimento disciplinare di stato si estingue:
                                 nei casi di cui all'articolo 1392, comma 3, del codice, salvo quanto previsto dall'articolo 36, comma 2, del presente regolamento.
 
 Note all'art. 8: 
- - Si trascrive il testo degli [artt. 920](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [1394](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [862](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [1392 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo degli [artt. 920](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [1394](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [862](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [1392 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 920 (Norme comuni in materia di sospensione dall'impiego). - 1. Al militare durante la sospensione dall'impiego compete la meta' degli assegni a carattere fisso e continuativo. Agli effetti della pensione, il tempo trascorso in sospensione dal servizio e' computato per meta'. 
  2. La sospensione dall'impiego e' disposta con decreto ministeriale e puo' essere applicata anche nei confronti del militare in aspettativa, trasferendolo dalla posizione in cui si trova in quella di sospensione dall'impiego. 
  3. Per gli appartenenti al ruolo appuntati e carabinieri la sospensione e' disposta con determinazione del Comandante generale. 
@@ -301,7 +301,7 @@ Autorita' competente a ordinare l'inchiesta formale
 L'inchiesta formale e' disposta dall'Autorita' competente ai sensi dell'articolo 2149 del codice ovvero per le decisioni di competenza del Comandante generale dall'Autorita' della Guardia di finanza dallo stesso delegata.
 
 Note all'art. 9: 
- - Per il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo.
+ - Per il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo.
 
 ### Art. 10. — Ufficiale inquirente
 
@@ -324,7 +324,7 @@ Il Comandante in seconda della Guardia di finanza puo' svolgere l'incarico di uf
 Si applicano le cause di incompatibilita' previste dall'articolo 1380, comma 3, del codice.
 
 Note all'art. 10: 
- - Si trascrive il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1380 (Composizione delle commissioni di disciplina). - 1. La commissione di disciplina e' formata di volta in volta, in relazione al grado rivestito dal giudicando, dall'autorita' che ha disposto l'inchiesta formale. 
  2. Quando l'inchiesta formale e' disposta dal Ministro della difesa, la commissione di disciplina e' formata da uno dei comandanti militari indicati dall'articolo 1378, designato dal Ministro stesso; se il giudicando e' ufficiale generale o colonnello alla composizione della commissione provvede il Ministro della difesa. 
  3. Non possono far parte della commissione di disciplina: 
@@ -365,7 +365,7 @@ L'inquisito:
 Le istanze dell'inquisito all'ufficiale inquirente e le comunicazioni dell'ufficiale inquirente all'inquisito o ad altre persone chiamate a fornire informazioni o testimonianze sono effettuate in forma scritta o risultano in apposito verbale.
 
 Note all'art. 11: 
- - Si trascrive il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1370 (Contestazione degli addebiti e diritto di difesa). - 1. Nessuna sanzione disciplinare puo' essere inflitta senza contestazione degli addebiti e senza che sono state acquisite e vagliate le giustificazioni addotte dal militare interessato. 
  2. Il militare inquisito e' assistito da un difensore da lui scelto fra militari in servizio, anche non appartenenti al medesimo ente o Forza armata nella quale egli presta servizio o, in mancanza, designato d'ufficio.
  Il difensore designato d'ufficio non puo' rifiutarsi salvo sussista un legittimo impedimento. Un militare non puo' esercitare l'ufficio di difensore piu' di sei volte in dodici mesi. 
@@ -408,8 +408,8 @@ Il difensore d'ufficio non puo' rifiutare l'incarico, salvo i casi di legittimo 
 Nei casi di sostituzione e' fatta salva l'attivita' esperita dal difensore sostituito e il procedimento prosegue dall'ultimo degli atti svolti con l'assistenza dello stesso.
 
 Note all'art. 12: 
- - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
- - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
+ - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
 
 ### Art. 13.
 
@@ -428,9 +428,9 @@ L'ufficiale inquirente che durante lo svolgimento del suo incarico risulta incom
 Nei casi di cui ai commi 1 e 2, se l'incompatibilita' e' sopravvenuta, si procede alla sostituzione ma sono salvi gli atti sino ad allora compiuti.
 
 Note all'art. 13: 
- - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
- - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10. 
- - Per il testo dell'[art. 1373 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 7.
+ - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
+ - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10. 
+ - Per il testo dell'[art. 1373 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 7.
 
 ## Svolgimento dell'inchiesta formale e decisioni
 
@@ -519,16 +519,16 @@ Terminati gli adempimenti di cui all'articolo 15, l'ufficiale inquirente:
 Nel caso in cui le Autorita' di cui al comma 1, lettera c), rilevino un vizio di legittimita', provvedono ai sensi degli articoli 1372 e 1373 del codice.
 
 Note all'art. 16: 
- - Per il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo. 
+ - Per il testo dell'[art. 2149 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota al titolo. 
  - Si trascrive il testo dell'[art. 726 del decreto del Presidente della Repubblica 15 marzo 2010, n. 90](../DPR/Testo%20unico%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20ordinamento%20militare%20a%20norma%20dellarticolo%2014%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0091.md): 
  «Art. 726 (Doveri del comandante di corpo). - 1.
  L'ufficiale preposto, secondo le disposizioni in vigore, al comando o alla direzione di unita', di ente o servizio organicamente costituito e dotato di autonomia nel campo dell'impiego e in quello logistico, tecnico e amministrativo, esercita le funzioni di comandante di corpo. 
  2. Il comandante di corpo, oltre ai doveri generali comuni a tutti i superiori, ha doveri particolari. Egli, nell'ambito del corpo, e' direttamente responsabile della disciplina, dell'organizzazione, dell'impiego, dell'addestramento del personale, della conservazione dei materiali e della gestione amministrativa. Esplica, inoltre, le funzioni di polizia giudiziaria militare secondo l'ordinamento vigente nei riguardi dei propri dipendenti. 
  3. Apposite disposizioni di ciascuna Forza armata o Corpo armato stabiliscono gli incarichi che comunque comportano l'esercizio delle funzioni di comandante di corpo e definiscono le autorita' militari cui e' attribuito il potere sanzionatorio nel campo della disciplina.». 
- - Per il testo dell'[art. 2149, commi 4](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [5, lettera b), del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), v. nelle note alle premesse. 
- - Si trascrive il testo dell'[art. 1372 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Per il testo dell'[art. 2149, commi 4](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [5, lettera b), del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), v. nelle note alle premesse. 
+ - Si trascrive il testo dell'[art. 1372 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1372 (Annullamento d'ufficio del procedimento disciplinare). - 1. E' consentito l'esercizio del potere di annullamento d'ufficio degli atti del procedimento disciplinare riconosciuti illegittimi dall'amministrazione militare, nei limiti sanciti dall'articolo 21 nonies della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241).». 
- - Per il testo dell'[art. 1373 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota all'art. 7.
+ - Per il testo dell'[art. 1373 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nella nota all'art. 7.
 
 ### Art. 17. — Decisioni all'esito dell'inchiesta formale
 
@@ -553,7 +553,7 @@ Il Comandante regionale o equiparato, tenendo conto delle risultanze dell'inchie
                                 ordina il deferimento alla commissione di disciplina dell'inquisito, se ritiene che allo stesso possano essere inflitte le sanzioni della perdita del grado per rimozione o della cessazione dalla ferma o dalla rafferma per motivi disciplinari.
 
 Note all'art. 17: 
- - Si trascrive il testo dell'[art. 1398 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'[art. 1398 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1398 (Procedimento disciplinare). - 1. Il procedimento disciplinare deve essere instaurato senza ritardo: 
  a) dalla conoscenza dell'infrazione; 
  b); 
@@ -637,7 +637,7 @@ Note all'art. 21:
  5-bis. Non possono essere, comunque, concessi gli arresti domiciliari a chi sia stato condannato per il reato di evasione nei cinque anni precedenti al fatto per il quale si procede, salvo che il giudice ritenga, sulla base di specifici elementi, che il fatto sia di lieve entita' e che le esigenze cautelari possano essere soddisfatte con tale misura. A tale fine il giudice assume nelle forme piu' rapide le relative notizie. 
  Art. 285 (Custodia cautelare in carcere). - 1. Con il provvedimento che dispone la custodia cautelare, il giudice ordina agli ufficiali e agli agenti di polizia giudiziaria che l'imputato sia catturato e immediatamente condotto in un istituto di custodia per rimanervi a disposizione dell'autorita' giudiziaria. 
  2. Prima del trasferimento nell'istituto la persona sottoposta a custodia cautelare non puo' subire limitazione della liberta', se non per il tempo e con le modalita' strettamente necessarie alla sua traduzione. 
- 3. Per determinare la pena da eseguire, la custodia cautelare subita si computa a norma dell'articolo 657, anche quando si tratti di custodia cautelare subita all'estero in conseguenza di una domanda di estradizione ovvero nel caso di rinnovamento del giudizio a norma dell'[articolo 11 del codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
+ 3. Per determinare la pena da eseguire, la custodia cautelare subita si computa a norma dell'articolo 657, anche quando si tratti di custodia cautelare subita all'estero in conseguenza di una domanda di estradizione ovvero nel caso di rinnovamento del giudizio a norma dell'[articolo 11 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). 
  Art. 285-bis (Custodia cautelare in istituto a custodia attenuata per detenute madri). - 1. Nelle ipotesi di cui all'articolo 275, comma 4, se la persona da sottoporre a custodia cautelare sia donna incinta o madre di prole di eta' non superiore a sei anni, ovvero padre, qualora la madre sia deceduta o assolutamente impossibilitata a dare assistenza alla prole, il giudice puo' disporre la custodia presso un istituto a custodia attenuata per detenute madri, ove le esigenze cautelari di eccezionale rilevanza lo consentano. 
  Art. 286 (Custodia cautelare in luogo di cura). - 1.
  Se la persona da sottoporre a custodia cautelare si trova in stato di infermita' di mente che ne esclude o ne diminuisce grandemente la capacita' di intendere o di volere, il giudice, in luogo della custodia in carcere, puo' disporre il ricovero provvisorio in idonea struttura del servizio psichiatrico ospedaliero, adottando i provvedimenti necessari per prevenire il pericolo di fuga.
@@ -712,8 +712,8 @@ Il deferimento alla commissione di disciplina e' disposto:
 Per la composizione della commissione di disciplina e per le cause di incompatibilita' dei suoi membri si applicano le disposizioni di cui agli articoli 1380, 1381, 1382 e 1383 del codice.
 
 Note all'art. 25: 
- - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10. 
- - Si trascrive il testo degli [artt. 1381](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), [1382](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md) e [1383 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10. 
+ - Si trascrive il testo degli [artt. 1381](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), [1382](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md) e [1383 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1381 (Commissioni di disciplina per gli ufficiali generali, colonnelli e gradi corrispondenti). - 1. La commissione di disciplina per i generali o colonnelli, e gradi corrispondenti, si compone di cinque ufficiali generali o di grado corrispondente, della stessa Forza armata cui il giudicando appartiene, tutti in servizio permanente e di grado superiore a quello rivestito dal giudicando medesimo, o anche di sola anzianita' superiore se trattasi di generale di corpo d'armata o ufficiale di grado corrispondente. 
  2. In caso di indisponibilita' possono essere chiamati a far parte della commissione ufficiali generali o di grado corrispondente della stessa Forza armata del giudicando, appartenenti all'ausiliaria o alla riserva, e, in caso di indisponibilita' anche di costoro, ufficiali generali o di grado corrispondente, in servizio permanente, delle altre Forze armate. 
  3. Il presidente deve rivestire grado non inferiore a: 
@@ -762,7 +762,7 @@ I componenti della commissione di disciplina sono nominati:
 Per la convocazione della commissione di disciplina si applica l'articolo 1387 del codice.
 
 Note all'art. 27: 
- - Si trascrive il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1387 (Convocazione della commissione di disciplina). - 1. La commissione di disciplina e' convocata dall'autorita' che l'ha formata. 
  2. Detta autorita' da' comunicazione scritta dell'avvenuta convocazione al militare inquisito o al suo difensore e trasmette, contemporaneamente, ai componenti della commissione l'ordine di convocazione e al presidente gli atti dell'inchiesta, tra i quali sono comprese le eventuali difese scritte dal giudicando. 
  3. La commissione di disciplina si riunisce nel luogo indicato nell'ordine di convocazione. 
@@ -792,11 +792,11 @@ Il giudicando:
                                 in sede di riunione della commissione, puo' chiedere la lettura degli atti dell'inchiesta che ritiene rilevanti, depositare una memoria difensiva, produrre nuovi documenti, dichiarare che non intende avvalersi delle predette facolta', fornire i chiarimenti richiesti dai componenti della commissione di disciplina nonche' esporre, anche tramite il difensore, le ragioni a difesa.
 
 Note all'art. 28: 
- - Si trascrive il testo dell'[art. 1386 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'[art. 1386 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1386 (Ricusazione). - 1. Il militare sottoposto al giudizio della commissione di disciplina ha diritto di ricusare per una sola volta uno o due dei componenti della commissione, se quest'ultima e' composta rispettivamente da tre o da cinque membri. La ricusazione non deve essere motivata e deve essere presentata entro due giorni dalla data della comunicazione della convocazione della commissione di disciplina. 
  2. I componenti ricusati sono sostituiti.». 
- - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
- - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27.
+ - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
+ - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27.
 
 ### Art. 29.
 
@@ -807,8 +807,8 @@ Facolta' del difensore
 Fermo restando quanto previsto dagli articoli 1370 e 1387 del codice, al difensore sono riconosciute le facolta' previste dall'articolo 28, comma 1, lettere c), d) ed e), e si applicano, in quanto compatibili, le disposizioni di cui all'articolo 12.
 
 Note all'art. 29: 
- - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
- - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27.
+ - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
+ - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27.
 
 ## Svolgimento del procedimento davanti alla commissione di disciplina
 
@@ -841,9 +841,9 @@ L'Autorita' di cui all'articolo 24 invia l'ordine di deferimento, nomina e convo
 L'Autorita' di cui all'articolo 24 sostituisce i componenti della commissione ricusati o incompatibili.
 
 Note all'art. 30: 
- - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
- - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27. 
- - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
+ - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27. 
+ - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
 
 ### Art. 31.
 
@@ -904,10 +904,10 @@ Il presidente della commissione acquisisce agli atti:
 Si applicano in quanto compatibili gli articoli 11, comma 1, lettera b), 15, comma 1, lettera b), e 21.
 
 Note all'art. 31: 
- - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10. 
- - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
- - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27. 
- - Si trascrive il testo dell'[art. 1388 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10. 
+ - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
+ - Per il testo dell'[art. 1387 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 27. 
+ - Si trascrive il testo dell'[art. 1388 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1388 (Procedimento davanti alla commissione di disciplina). - 1. Aperta la seduta, il presidente richiama l'attenzione dei membri della commissione sull'importanza dei giudizi che sono chiamati a esprimere; avvisa, inoltre, che devono astenersi, nel chiedere chiarimenti, dal fare apprezzamenti. 
  2. Fa introdurre quindi il militare, se presente, e: 
  a) legge l'ordine di convocazione; 
@@ -928,8 +928,8 @@ Note all'art. 31:
  12. Il segretario compila subito il verbale della seduta col giudizio della commissione; il verbale e' letto e firmato dai componenti della commissione. 
  13. Il presidente scioglie la commissione e trasmette gli atti direttamente al Ministero della difesa. 
  14. I componenti della commissione sono vincolati al segreto di ufficio.». 
- - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
- - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 1370 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 11. 
+ - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
 
 ### Art. 32.
 
@@ -944,7 +944,7 @@ Ciascun membro della commissione di disciplina, entro due giorni dalla ricezione
 Il membro segretario istituisce l'indice dei documenti della commissione di disciplina e ne cura l'aggiornamento.
 
 Note all'art. 32: 
- - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
+ - Per il testo dell'[art. 1380 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 10.
 
 ### Art. 33. — Procedimento
 
@@ -965,7 +965,7 @@ Si applica, in quanto compatibile, l'articolo 15, comma 3.
 La documentazione trasmessa al presidente della commissione ai sensi dell'articolo 30, comma 1, lettera b), il verbale della seduta e gli atti della commissione sono inviati, al termine della riunione della commissione di disciplina, all'Autorita' di cui all'articolo 3.
 
 Note all'art. 33: 
- - Per il testo dell'[art. 1388 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 31.
+ - Per il testo dell'[art. 1388 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 31.
 
 ### Art. 34. — Differimento
 
@@ -988,7 +988,7 @@ Nel caso di cui all'articolo 1388, comma 9, del codice, l'Autorita' che ha ordin
 Completato il supplemento d'istruttoria, il presidente della commissione fissa la data della nuova riunione, dandone comunicazione al giudicando e al difensore e avvisandoli della facolta' di prendere visione degli ulteriori documenti.
 
 Note all'art. 35: 
- - Per il testo dell'[art. 1388 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 31.
+ - Per il testo dell'[art. 1388 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 31.
 
 ### Art. 36. — Decisioni all'esito del verdetto della commissione di disciplina
 
@@ -1001,11 +1001,11 @@ L'Autorita' di cui all'articolo 3 decide ai sensi dell'articolo 1389 del codice.
 Le gravi ragioni di opportunita' di cui all'articolo 1389, comma 1, lettera b), del codice, sono esplicitate nel provvedimento con cui si conclude il procedimento disciplinare. In tale ipotesi, il procedimento disciplinare di stato si conclude nel termine perentorio di novanta giorni dall'ordine di convocazione della nuova commissione.
 
 Note all'art. 36: 
- - Si trascrive il testo dell'[art. 1389 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md): 
+ - Si trascrive il testo dell'[art. 1389 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md): 
  «Art. 1389 (Decisione del Ministro della difesa). - 1. Il Ministro della difesa: 
  a) puo' discostarsi, per ragioni umanitarie, dal giudizio della commissione di disciplina a favore del militare; 
  b) se ritiene, per gravi ragioni di opportunita', che deve essere inflitta la sanzione della perdita del grado per rimozione ovvero la cessazione dalla ferma o dalla rafferma, ordina, per una sola volta, la convocazione di una diversa commissione di disciplina, ai sensi dell'articolo 1387; in tale caso il procedimento disciplinare deve concludersi nel termine perentorio di 90 giorni.». 
- - Per il testo dell'[art. 1389 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 36.
+ - Per il testo dell'[art. 1389 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), si veda nelle note all'art. 36.
 
 ## Disposizioni finanziarie, transitorie ed entrata in vigore
 

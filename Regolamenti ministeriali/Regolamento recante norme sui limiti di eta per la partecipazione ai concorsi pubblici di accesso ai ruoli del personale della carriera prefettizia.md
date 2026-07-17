@@ -12,7 +12,7 @@ IL MINISTRO DELL'INTERNO
 
 Visto il [decreto del Presidente della Repubblica 10 gennaio 1957, n. 3](../DPR/Testo%20unico%20delle%20disposizioni%20concernenti%20lo%20statuto%20degli%20impiegati%20civili%20dello%20Stato.md), recante il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato;
 
-Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../DPR/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), recante: "Ordinamento del personale e organizzazione degli uffici dell'amministrazione civile del Ministero dell'interno";
+Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 340](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20del%20personale%20e%20organizzazione%20degli%20uffici%20dellAmministrazione%20civile%20del%20Ministero%20dellinterno.md), recante: "Ordinamento del personale e organizzazione degli uffici dell'amministrazione civile del Ministero dell'interno";
 
 Visto l'[articolo 3, comma 6, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3-com6), recante: "Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo", a norma del quale la partecipazione ai concorsi indetti dalle pubbliche amministrazioni non e' soggetta a limiti di eta', salvo deroghe dettate da regolamenti delle singole amministrazioni connesse alla natura del servizio o ad oggettive necessita' dell'amministrazione;
 

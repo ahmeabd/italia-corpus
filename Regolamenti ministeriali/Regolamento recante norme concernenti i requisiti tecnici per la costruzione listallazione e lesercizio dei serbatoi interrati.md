@@ -24,21 +24,21 @@ Vista la [legge 27 marzo 1969, n. 121](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), ed in particolare l'articolo 1, che assegna al Ministero dell'ambiente il compito di assicurare in un quadro organico la promozione, la conservazione ed il recupero delle condizioni ambientali conformi agli interessi fondamentali della collettivita' ed alla qualita' della vita, nonche' la difesa delle risorse naturali dall'inquinamento;
 
-Visto il [decreto del Presidente della Repubblica 17 maggio 1988, n. 175](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2082-501%20relativa%20ai%20rischi%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20attivita%20industriali%20ai%20sensi%20della%20legge%2016%20aprile%201987%20n.%20183.md), sui rischi di incidenti rilevanti ed in particolare l'articolo 3;
+Visto il [decreto del Presidente della Repubblica 17 maggio 1988, n. 175](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2082-501%20relativa%20ai%20rischi%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20attivita%20industriali%20ai%20sensi%20della%20legge%2016%20aprile%201987%20n.%20183.md), sui rischi di incidenti rilevanti ed in particolare l'articolo 3;
 
-Visto il [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), di attuazione della [direttiva CEE n. 80/778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;778) concernente la qualita' delle acque destinate al consumo umano ai sensi dell'[articolo 15 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_15);
+Visto il [decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md), di attuazione della [direttiva CEE n. 80/778](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;778) concernente la qualita' delle acque destinate al consumo umano ai sensi dell'[articolo 15 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_15);
 
 Visto il decreto del Ministero dell'interno del 13 ottobre 1994, pubblicato nel supplemento ordinario n. 142 alla Gazzetta Ufficiale n. 265 del 12 novembre 1994;
 
 Ritenuta necessaria ed urgente l'azione di prevenzione di incidenti originati da serbatoi interrati destinati allo stoccaggio di sostanze e preparati liquidi per usi commerciali o ai fini della produzione industriale, a salvaguardia e prevenzione dell'inquinamento del suolo e delle acque superficiali e sotterranee che potrebbe essere causato dal rilascio delle sostanze e preparati contenuti nei citati serbatoi;
 
-Visto il [decreto legislativo del 27 gennaio 1992, n. 132](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2080-68-CEE%20concernente%20la%20protezione%20delle%20acque%20sotterranee%20dallinquinamento%20provocato%20da%20certe%20sostanze%20pericolose.md), in merito alle sostanze o preparati pericolosi per l'ambiente;
+Visto il [decreto legislativo del 27 gennaio 1992, n. 132](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2080-68-CEE%20concernente%20la%20protezione%20delle%20acque%20sotterranee%20dallinquinamento%20provocato%20da%20certe%20sostanze%20pericolose.md), in merito alle sostanze o preparati pericolosi per l'ambiente;
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
 Sentita la Conferenza di servizi di cui alla [legge del 19 maggio 1997, n. 137, articolo 1, comma 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-19;137#art_1-com7), in data 25 luglio 1997;
 
-Sentito il comitato centrale tecnico scientifico per la prevenzione incendi di cui all'[articolo 10 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), nella seduta del 14 ottobre 1997;
+Sentito il comitato centrale tecnico scientifico per la prevenzione incendi di cui all'[articolo 10 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577](../DPR/Approvazione%20del%20regolamento%20concernente%20lespletamento%20dei%20servizi%20di%20prevenzione%20e%20di%20vigilanza%20antincendi.md), nella seduta del 14 ottobre 1997;
 
 Espletata la procedura di informazione di cui alla [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), di attuazione della [direttiva n. 83/189/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;189);
 
@@ -75,7 +75,7 @@ Ai sensi delle disposizioni del presente decreto si intendono per:
                         a)
                             serbatoio interrato: contenitore di stoccaggio situato sotto il piano campagna di cui non sia direttamente e visivamente ispezionabile la superficie esterna;
                         b)
-                            sostanza: ogni sostanza appartenente ai gruppi e alle famiglie di sostanze liquide in condizioni standard riportati negli elenchi in allegato al [decreto legislativo n. 132 del 27 gennaio 1992](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2080-68-CEE%20concernente%20la%20protezione%20delle%20acque%20sotterranee%20dallinquinamento%20provocato%20da%20certe%20sostanze%20pericolose.md), e relativi preparati liquidi;
+                            sostanza: ogni sostanza appartenente ai gruppi e alle famiglie di sostanze liquide in condizioni standard riportati negli elenchi in allegato al [decreto legislativo n. 132 del 27 gennaio 1992](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2080-68-CEE%20concernente%20la%20protezione%20delle%20acque%20sotterranee%20dallinquinamento%20provocato%20da%20certe%20sostanze%20pericolose.md), e relativi preparati liquidi;
                         c)
                             perdita di sostanza: qualsiasi evento di spillamento, trafilamento, emissione, sversamento, traboccamento o percolamento che si verifica, per qualsiasi causa, dal contenitore primario del serbatoio. 
  ((1))
@@ -138,7 +138,7 @@ La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.
 
 1.
 
-Per il rilascio delle concessioni ed autorizzazioni, relative ai depositi di oli minerali, ove siano presenti anche serbatoi interrati, le competenze sono dei prefetti, e le procedure quelle di cui alla [legge 7 maggio 1965, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-07;460), e del Ministero dell'industria, del commercio e dell'artigianato, di cui alla [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), e successivi provvedimenti, e le procedure quelle previste dal [decreto del Presidente della Repubblica 18 aprile 1994, n. 420](../Regolamenti%20governativi/Regolamento%20recante%20semplificazione%20delle%20procedure%20di%20concessione%20per%20linstallazione%20di%20impianti%20di%20lavorazione%20o%20di%20deposito%20di%20oli%20minerali.md).
+Per il rilascio delle concessioni ed autorizzazioni, relative ai depositi di oli minerali, ove siano presenti anche serbatoi interrati, le competenze sono dei prefetti, e le procedure quelle di cui alla [legge 7 maggio 1965, n. 460](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-07;460), e del Ministero dell'industria, del commercio e dell'artigianato, di cui alla [legge 8 febbraio 1934, n. 367](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto%20legge%202%20novembre%201933%20n.%201741%20concernente%20la%20disciplina%20dellimportazione%20lavorazione%20deposito%20e%20distribuzione%20degli%20olii%20minerali%20e%20dei%20carburanti.%20034U0367.md), e successivi provvedimenti, e le procedure quelle previste dal [decreto del Presidente della Repubblica 18 aprile 1994, n. 420](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20semplificazione%20delle%20procedure%20di%20concessione%20per%20linstallazione%20di%20impianti%20di%20lavorazione%20o%20di%20deposito%20di%20oli%20minerali.md).
 
 2.
 
@@ -167,7 +167,7 @@ Dopo l'entrata in vigore del presente decreto, il soggetto che intende installar
 
 2.
 
-Per i serbatoi interrati installati in impianti soggetti ad obblighi di notifica o di dichiarazione di cui agli articoli 4 o 6 del [decreto del Presidente della Repubblica 17 maggio 1988, n. 175](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2082-501%20relativa%20ai%20rischi%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20attivita%20industriali%20ai%20sensi%20della%20legge%2016%20aprile%201987%20n.%20183.md), e successive modificazioni ed integrazioni, il contenuto della domanda di installazione di nuovi serbatoi interrati, di cui al comma 1, deve essere riportato nel relativo rapporto di sicurezza o nella dichiarazione.
+Per i serbatoi interrati installati in impianti soggetti ad obblighi di notifica o di dichiarazione di cui agli articoli 4 o 6 del [decreto del Presidente della Repubblica 17 maggio 1988, n. 175](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2082-501%20relativa%20ai%20rischi%20di%20incidenti%20rilevanti%20connessi%20con%20determinate%20attivita%20industriali%20ai%20sensi%20della%20legge%2016%20aprile%201987%20n.%20183.md), e successive modificazioni ed integrazioni, il contenuto della domanda di installazione di nuovi serbatoi interrati, di cui al comma 1, deve essere riportato nel relativo rapporto di sicurezza o nella dichiarazione.
 
 3.
 
@@ -271,7 +271,7 @@ La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.
 
 1.
 
-All'atto della dismissione, i serbatoi interrati saranno svuotati e bonificati e si dovra' procedere all'eventuale bonifica del sito, ai sensi dell'[articolo 17 del decreto legislativo 5 febbraio 1997, n. 22](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md). La messa in sicurezza dei serbatoi dovra' essere garantita fino alla rimozione e smaltimento, da effettuarsi secondo le normative vigenti.
+All'atto della dismissione, i serbatoi interrati saranno svuotati e bonificati e si dovra' procedere all'eventuale bonifica del sito, ai sensi dell'[articolo 17 del decreto legislativo 5 febbraio 1997, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md). La messa in sicurezza dei serbatoi dovra' essere garantita fino alla rimozione e smaltimento, da effettuarsi secondo le normative vigenti.
 
 2.
 

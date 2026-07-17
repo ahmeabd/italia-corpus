@@ -26,7 +26,7 @@ e
 
 IL MINISTRO DELL'INTERNO
 
-Visto il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale»;
+Visto il [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale»;
 
 Visto, in particolare, l'articolo 195, comma 2, lettera q), del predetto decreto, che prevede l'individuazione della misura delle sostanze assorbenti e neutralizzanti, previamente testata da Universita' o Istituti specializzati, di cui devono dotarsi gli impianti destinati allo stoccaggio, ricarica, manutenzione, deposito e sostituzione di accumulatori al fine di prevenire l'inquinamento del suolo, del sottosuolo e di evitare danni alla salute e all'ambiente derivanti dalla fuoriuscita di acido, tenuto conto della dimensione degli impianti, del numero degli accumulatori e del rischio di sversamento connesso alla tipologia dell'attivita' esercitata;
 
@@ -50,13 +50,13 @@ Adotta il seguente regolamento:
 
 1.
 
-La determinazione della misura delle sostanze assorbenti e neutralizzanti da utilizzare nei casi di fuoriuscita di soluzione acida contenuta negli accumulatori al piombo presso gli impianti destinati allo stoccaggio, ricarica, manutenzione, deposito e sostituzione degli accumulatori medesimi ai sensi dell'[articolo 195, comma 2, lettera q), del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e' effettuata con le modalita' riportate nell'allegato 1 al presente decreto.
+La determinazione della misura delle sostanze assorbenti e neutralizzanti da utilizzare nei casi di fuoriuscita di soluzione acida contenuta negli accumulatori al piombo presso gli impianti destinati allo stoccaggio, ricarica, manutenzione, deposito e sostituzione degli accumulatori medesimi ai sensi dell'[articolo 195, comma 2, lettera q), del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e' effettuata con le modalita' riportate nell'allegato 1 al presente decreto.
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
- - Il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», e' pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. 
- - Si riporta il testo dei commi 2 e 4 dell'art. 195, del citato [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O.: 
+ - Il [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», e' pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. 
+ - Si riporta il testo dei commi 2 e 4 dell'art. 195, del citato [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), recante «Norme in materia ambientale», pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O.: 
  «2. Sono inoltre di competenza dello Stato: 
  a) l'indicazione dei criteri e delle modalita' di adozione, secondo principi di unitarieta', compiutezza e coordinamento, delle norme tecniche per la gestione dei rifiuti, dei rifiuti pericolosi e di specifiche tipologie di rifiuti, con riferimento anche ai relativi sistemi di accreditamento e di certificazione ai sensi dell'art. 178, comma 5; 
  b) l'adozione delle norme e delle condizioni per l'applicazione delle procedure semplificate di cui agli articoli 214, 215 e 216, ivi comprese le linee guida contenenti la specificazione della relazione da allegare alla comunicazione prevista da tali articoli; 

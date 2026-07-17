@@ -350,7 +350,7 @@ Copia di tale elenco viene affissa nell'albo dell'istituto tecnico sede degli es
 
 3.
 
-Gli atti relativi all'espletamento della sessione vengono dopo la sua chiusura consegnati dalla commissione esaminatrice all'istituto tecnico statale sede di esame, presso il quale sono conservati a disposizione del Ministro della pubblica istruzione per i periodi di tempo previsti dal [secondo](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md) e [terzo comma dell'art. 101 del regio decreto 4 maggio 1925, n. 653](../Regi%20decreti/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
+Gli atti relativi all'espletamento della sessione vengono dopo la sua chiusura consegnati dalla commissione esaminatrice all'istituto tecnico statale sede di esame, presso il quale sono conservati a disposizione del Ministro della pubblica istruzione per i periodi di tempo previsti dal [secondo](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md) e [terzo comma dell'art. 101 del regio decreto 4 maggio 1925, n. 653](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20sugli%20alunni%20gli%20esami%20e%20le%20tasse%20negli%20istituti%20medi%20di%20istruzione.%20025U0653.md).
 
 4.
 

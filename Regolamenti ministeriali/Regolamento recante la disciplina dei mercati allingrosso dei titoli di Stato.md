@@ -11,7 +11,7 @@ vigente: true
 ## Art. 1.
 
 IL MINISTRO DEL TESORO
- Visto il [decreto legislativo 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) e, in particolare, l'articolo 46, il quale prevede anche che il Ministro del tesoro, sentita la Banca d'Italia, disciplina e autorizza i mercati all'ingrosso dei titoli di Stato e ne approva i regolamenti, anche in deroga alle disposizioni del capo I del titolo III dello stesso decreto legislativo;
+ Visto il [decreto legislativo 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md) e, in particolare, l'articolo 46, il quale prevede anche che il Ministro del tesoro, sentita la Banca d'Italia, disciplina e autorizza i mercati all'ingrosso dei titoli di Stato e ne approva i regolamenti, anche in deroga alle disposizioni del capo I del titolo III dello stesso decreto legislativo;
  Visti inoltre gli articoli 47, 48, comma 3, 52, 54, 57, comma 5, 58, commi 1 e 3, e 59 del citato decreto legislativo;
  Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
  Sentita la Banca d'Italia;

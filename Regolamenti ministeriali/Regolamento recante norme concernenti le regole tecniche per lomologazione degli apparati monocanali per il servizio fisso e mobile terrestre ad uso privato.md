@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE COMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto ministeriale 17 novembre 1981, con il quale sono state approvate le norme tecniche riguardanti gli apparati monocanali radiotelefonici per i servizi fisso e mobile terrestre, pubblicato nella Gazzetta Ufficiale n. 339 del 10 dicembre 1981;
 
@@ -24,7 +24,7 @@ Visto il [decreto ministeriale 4 ottobre 1994, n. 625](https://www.normattiva.it
 
 Visto il regolamento delle radiocomunicazioni, annesso alla convenzione internazionale delle telecomunicazioni adottata a Ginevra il 22 dicembre 1992 e ratificata con [legge 31 gennaio 1996, n. 61](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20della%20Conferenza%20addizionale%20dei%20plenipotenziari%20relativa%20alla%20costituzione%20e%20convenzione%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20co_ae91d02b7429.md);
 
-Visto il [decreto legislativo 12 novembre 1996, n. 615](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md), di attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relativa alla compatibilita' elettromagnetica, modificata ed integrata dalla [direttiva 92/31/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31)
+Visto il [decreto legislativo 12 novembre 1996, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md), di attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relativa alla compatibilita' elettromagnetica, modificata ed integrata dalla [direttiva 92/31/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31)
 
 del 28 aprile 1992, dalla [direttiva 93/68/CEE del Consiglio del 22 luglio 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) e dalla [direttiva 93/97/CEE del Consiglio del 29 ottobre 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97);
 

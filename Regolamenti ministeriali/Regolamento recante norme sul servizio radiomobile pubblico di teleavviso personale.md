@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la convenzione internazionale delle telecomunicazioni adottata dall'U.I.T. (Unione internazionale delle telecomunicazioni) a Nairobi il 6 novembre 1982 e resa esecutiva in Italia con legge 9 maggio 1986, 149;
 

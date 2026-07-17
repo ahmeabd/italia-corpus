@@ -74,7 +74,7 @@ Le domande di partecipazione al concorso, redatte su carta libera e dirette al D
 
 1.
 
-La commissione esaminatrice del concorso di cui al presente regolamento e' composta ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md).
+La commissione esaminatrice del concorso di cui al presente regolamento e' composta ai sensi dell'[art. 2 del decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md).
 
 Nota all'art. 3:
  - Il testo dell'art. 2 del regolamento concernente la composizione e la nomina delle commissioni esaminatrici e le modalita' di svolgimento delle prove pratiche per l'inquadramento nei ruoli di cui all'[art. 1 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), del personale proveniente dai ruoli della Polizia di Stato che svolge funzioni di polizia e per il trasferimento di personale proveniente da altre amministrazioni, che svolge attivita' tecniche, approvato con [D.P.R. n. 490/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;490), e' il seguente:
@@ -148,7 +148,7 @@ I vincitori del concorso frequentano un corso di formazione tecnico-professional
 
 1.
 
-Per quanto non previsto dal presente regolamento, si applicano le disposizioni di cui al [decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md).
+Per quanto non previsto dal presente regolamento, si applicano le disposizioni di cui al [decreto del Presidente della Repubblica 6 ottobre 1987, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20concernente%20la%20composizione%20e%20la%20nomina%20delle%20commissioni%20esaminatrici%20e%20le%20modalita%20di%20svolgimento%20delle%20prove%20pratiche%20per%20linquadramento%20nei%20ruoli%20di%20cui%20a_fe9543b862e5.md).
 
 Nota all'art. 6:
  - Per l'argomento del [D.P.R. n. 490/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987;490) si veda la precedente nota all'art. 3.

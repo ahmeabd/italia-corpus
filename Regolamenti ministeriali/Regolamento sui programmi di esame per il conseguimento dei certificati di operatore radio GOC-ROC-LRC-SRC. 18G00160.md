@@ -12,13 +12,13 @@ IL MINISTRO
 
 DELLO SVILUPPO ECONOMICO
 
-Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), recante [codice delle comunicazioni elettroniche](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni, con particolare riferimento all'articolo 163 attinente alla revisione della normativa relativa ai titoli di abilitazione all'esercizio di stazioni radioelettriche di bordo ed in particolare al certificato generale (GOC) e limitato di operatore (ROC);
+Visto il [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), recante [codice delle comunicazioni elettroniche](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni, con particolare riferimento all'articolo 163 attinente alla revisione della normativa relativa ai titoli di abilitazione all'esercizio di stazioni radioelettriche di bordo ed in particolare al certificato generale (GOC) e limitato di operatore (ROC);
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visti gli articoli 47 e 48 e il capitolo VII del regolamento delle radiocomunicazioni (edizione 2016), dell'Unione internazionale delle telecomunicazioni (UIT), che integra le disposizioni della costituzione e della convenzione dell'UIT, adottata a Kyoto il 14 ottobre 1994 e ratificata con [legge 26 gennaio 1999, n. 26](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20degli%20atti%20finali%20con%20allegati%20adottati%20dalla%20Conferenza%20dei%20plenipotenziari%20dellUnione%20internazionale%20delle%20telecomunicazioni%20UIT%20tenutasi%20a%20Kyoto%2019%20settembre-14%20ottobre%201994.md);
 
-Visto il [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e il relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), e il relativo regolamento di esecuzione, approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../Codici/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Vista la risoluzione n. 1 della Conferenza IMO dei Governi contraenti la Convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS) 1974 del 9 novembre 1988, riguardante l'entrata in vigore di emendamenti per le radiocomunicazioni del sistema globale di soccorso e di sicurezza in mare, nel seguito denominato GMDSS (Sistema globale di soccorso e sicurezza in mare - Global Maritime Distress and Safety System), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 62 del 14 marzo 1992;
 
@@ -32,7 +32,7 @@ Vista la raccomandazione CEPT ERC/REC 31-04, pubblicata in data 15 ottobre 2009,
 
 Vista la raccomandazione CEPT ECC/REC/(10)03, pubblicata in data 7 ottobre 2010, riguardante l'armonizzazione delle prove d'esame per il rilascio del certificato di operatore Long Range Certificate (LRC) per imbarcazioni NON SOLAS, che abilita all'esercizio delle stazioni radioelettriche a bordo delle navi circolanti nelle zone marittime A1, A2, A3 e A4 e che utilizzano le frequenze e le tecniche del sistema GMDSS su base facoltativa;
 
-Visto il [decreto legislativo 12 maggio 2015, n. 71](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md), recante attuazione della [direttiva 2012/35/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;35), che modifica la [direttiva 2008/106/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;106), concernente i requisiti minimi di formazione della gente di mare;
+Visto il [decreto legislativo 12 maggio 2015, n. 71](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md), recante attuazione della [direttiva 2012/35/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;35), che modifica la [direttiva 2008/106/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;106), concernente i requisiti minimi di formazione della gente di mare;
 
 Visto il [decreto del Ministro delle poste e delle telecomunicazioni del 28 dicembre 1995, n. 584](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.poste.telecomunicazioni:decreto:1995-12-28;584), recante regolamento recante la revisione della normativa attinente ai titoli di abilitazione all'esercizio di stazioni radioelettriche di bordo;
 
@@ -64,7 +64,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Ai sensi dell'[articolo 163, del decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modifiche e integrazioni, sono stabiliti i sottoelencati titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, che utilizzano le frequenze e le tecniche del GMDSS, che costituiscono certificati di competenza del radio operatore, di cui all'articolo 5:
+Ai sensi dell'[articolo 163, del decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modifiche e integrazioni, sono stabiliti i sottoelencati titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, che utilizzano le frequenze e le tecniche del GMDSS, che costituiscono certificati di competenza del radio operatore, di cui all'articolo 5:
                         a)
                             certificato generale di operatore (GOC);
                         b)
@@ -72,7 +72,7 @@ Ai sensi dell'[articolo 163, del decreto legislativo 1° agosto 2003, n. 259](..
 
 2.
 
-Ai sensi dell'[articolo 163, del decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni, sono stabiliti i sottoelencati titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, installate a bordo di navi non soggette agli obblighi fissati dalla Convenzione internazionale per la salvaguardia della vita umana in mare (Solas 74/83), e successivi emendamenti, che utilizzano le frequenze e le tecniche del GMDSS:
+Ai sensi dell'[articolo 163, del decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni, sono stabiliti i sottoelencati titoli di abilitazione all'esercizio di stazioni di navi e di stazioni terrene di nave, installate a bordo di navi non soggette agli obblighi fissati dalla Convenzione internazionale per la salvaguardia della vita umana in mare (Solas 74/83), e successivi emendamenti, che utilizzano le frequenze e le tecniche del GMDSS:
                         a)
                             certificato di operatore Long Range (LRC);
                         b)
@@ -94,7 +94,7 @@ N O T E
  
  Note alle premesse: 
  
- - Il testo dell'[art. 163 del decreto legislativo 1 agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md) ([Codice delle comunicazioni elettroniche](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 15 settembre 2003, n. 214, e' il seguente: 
+ - Il testo dell'[art. 163 del decreto legislativo 1 agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md) ([Codice delle comunicazioni elettroniche](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 15 settembre 2003, n. 214, e' il seguente: 
  «Art. 163. - 1. Con regolamento adottato ai sensi dell' [art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) , dal Ministro dello sviluppo economico sentito il Ministro delle infrastrutture e dei trasporti sono stabiliti: 
  a) le classi ed i tipi dei titoli di abilitazione; 
  b) le modalita' di espletamento dei servizi; 
@@ -104,15 +104,15 @@ N O T E
  f) la costituzione delle commissioni esaminatrici; 
  g) la revoca, la sospensione e la decadenza dei titoli di abilitazione. 
  2. Dall'emanazione del regolamento di cui al comma 1 non derivano ulteriori oneri a carico del bilancio dello Stato ed i costi di funzionamento delle commissioni esaminatrici sono coperti esclusivamente con gli introiti dei contributi fissati dall' art. 5 dell'allegato n. 25». 
- - Il [decreto del Presidente della Repubblica del 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), recante Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 3 maggio 1973, n. 113, supplemento ordinario. 
+ - Il [decreto del Presidente della Repubblica del 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), recante Approvazione del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 3 maggio 1973, n. 113, supplemento ordinario. 
  - Il Regolamento delle radiocomunicazioni (edizione 2016) dell'Unione Internazionale delle telecomunicazioni, che integra le disposizioni della costituzione e della convenzione dell'UIT, adottata a Ginevra il 22 dicembre 1992, e' ratificata con [legge 31 gennaio 1996, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-01-31;313). 
- - Il [regio decreto del 30 marzo 1942, n. 327](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (Approvazione del testo definitivo del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)) e' pubblicato nella Gazzetta Ufficiale 18 aprile 1942, n. 93, edizione speciale. 
- - Il [decreto del Presidente della Repubblica del 15 febbraio 1952, n. 328](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) (Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) - navigazione marittima) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 21 aprile 1952, n. 94. 
+ - Il [regio decreto del 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (Approvazione del testo definitivo del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md)) e' pubblicato nella Gazzetta Ufficiale 18 aprile 1942, n. 93, edizione speciale. 
+ - Il [decreto del Presidente della Repubblica del 15 febbraio 1952, n. 328](../Codici/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) (Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) - navigazione marittima) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 21 aprile 1952, n. 94. 
  - La [legge 23 maggio 1980, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;313), recante «Adesione alla convenzione internazionale del 1974 per la salvaguardia della vita umana in mare, con allegato, aperta alla firma a Londra il 1° novembre 1974, e sua esecuzione», e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 12 luglio 1980, n. 190. 
  - La decisione ERC/DEC/(99)01, riguardante l'armonizzazione delle prove d'esame per il rilascio del certificato generale (GOC) e del certificato limitato di operatore (ROC), che utilizzano le frequenze e le tecniche del GMDSS, e' stata approvata il 10 marzo 1999 ed emendata il 3 luglio 2015. 
  - La raccomandazione CEPT ECC/REC/(10)03, riguardante l'armonizzazione delle prove d'esame per il rilascio del certificato di operatore Long Range Certificate (LRC) per imbarcazioni NON SOLAS, che abilita all'esercizio delle stazioni radioelettriche a bordo delle navi circolanti nelle zone marittime A1, A2, A3 e A4 e che utilizzano le frequenze e le tecniche del sistema GMDSS su base facoltativa e' stata pubblicata in data 7 ottobre 2010. 
  - La raccomandazione CEPT ERC/REC 31-04, riguardante le procedure d'esame armonizzate concernenti il certificato d'operatore radio marittimo «Short Range Certificate» (SRC) per imbarcazioni NON SOLAS, che abilita all'esercizio delle stazioni radioelettriche a bordo delle navi circolanti nella zona marittima A1 che utilizzano le frequenze e le tecniche del sistema GMDSS su base facoltativa, e' stata pubblicata in data 15 ottobre 2009. 
- - Il [decreto legislativo 12 maggio 2015, n. 71](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md) (Attuazione della [direttiva 2012/35/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;35), che modifica la [direttiva 2008/106/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;106), concernente i requisiti minimi di formazione della gente di mare), e' pubblicato nella Gazzetta Ufficiale 11 giugno 2015, n. 133. 
+ - Il [decreto legislativo 12 maggio 2015, n. 71](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md) (Attuazione della [direttiva 2012/35/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;35), che modifica la [direttiva 2008/106/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2008;106), concernente i requisiti minimi di formazione della gente di mare), e' pubblicato nella Gazzetta Ufficiale 11 giugno 2015, n. 133. 
  - Il [decreto del Presidente del Consiglio dei ministri del 5 dicembre 2013, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2013-12-05;158) (Regolamento di organizzazione del Ministero dello sviluppo economico), e' pubblicato in Gazzetta Ufficiale 24 gennaio 2014 n. 19. 
  - Il decreto del Ministro dello sviluppo economico del 24 febbraio 2017 (Individuazione degli uffici dirigenziali di livello non generale), e' pubblicato nella Gazzetta Ufficiale 10 maggio 2017, n. 107. 
  - Il decreto del Ministro dello sviluppo economico del 26 gennaio 2016 (Riconoscimento d'idoneita' allo svolgimento dei corsi di formazione, per la gente di mare come radioperatori candidati alla certificazione di competenza, che operano su navi che sono tenute a conformarsi alle disposizioni del GMDSS) e' pubblicato nella Gazzetta Ufficiale 19 marzo 2016, n. 66. 
@@ -122,7 +122,7 @@ N O T E
  
  Note all'art. 1: 
  
- - Per i riferimenti normativi dell'[art. 163 del decreto legislativo 1 agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md) si veda nelle note alle premesse. 
+ - Per i riferimenti normativi dell'[art. 163 del decreto legislativo 1 agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md) si veda nelle note alle premesse. 
  - Per i riferimenti normativi alla Convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS) 1974 del 9 novembre 1988 si veda nelle note alle premesse.
 
 ## Art. 2. — Esami per il conseguimento dei titoli
@@ -171,7 +171,7 @@ Nel caso in cui il rilascio dei certificati in attuazione del presente decreto s
 
 2.
 
-In caso di infrazioni o negligenze relative al servizio radioelettrico di bordo, si applicano le disposizioni di cui all'[articolo 182 del decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni.
+In caso di infrazioni o negligenze relative al servizio radioelettrico di bordo, si applicano le disposizioni di cui all'[articolo 182 del decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni.
 
 3.
 
@@ -179,19 +179,19 @@ Quando sia intervenuta la revoca di uno dei certificati di abilitazione di cui a
 
 Note all'art. 4: 
  
- - Il testo dell'[art. 182 del decreto legislativo 1 agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md) ([Codice delle comunicazioni elettroniche](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 15 settembre 2003, n. 214, e' il seguente: 
- «Art. 182 - 1. Al personale addetto al servizio radioelettrico di bordo, iscritto alla gente di mare, per le infrazioni commesse durante l'esercizio del servizio stesso, si applicano le sanzioni previste dal [codice della navigazione](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), che sono comminate dalle autorita' marittime anche su proposta del Ministero, nonche' le sanzioni contemplate dalle disposizioni del presente Titolo. 
+ - Il testo dell'[art. 182 del decreto legislativo 1 agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md) ([Codice delle comunicazioni elettroniche](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 15 settembre 2003, n. 214, e' il seguente: 
+ «Art. 182 - 1. Al personale addetto al servizio radioelettrico di bordo, iscritto alla gente di mare, per le infrazioni commesse durante l'esercizio del servizio stesso, si applicano le sanzioni previste dal [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), che sono comminate dalle autorita' marittime anche su proposta del Ministero, nonche' le sanzioni contemplate dalle disposizioni del presente Titolo. 
  2. Per le infrazioni commesse da personale addetto ai servizi radiomarittimi di bordo, non iscritto alla gente di mare, il Ministero, anche su proposta di quello delle infrastrutture e dei trasporti, applica direttamente le sanzioni previste dal presente Titolo.».
 
 ## Art. 5. — Certificati di competenza del radio operatore
 
 1.
 
-Il conseguimento del certificato di competenza del radio operatore, definito nell'articolo 2, comma 1, lettera uu) del [decreto legislativo 12 maggio 2015, n. 71](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md), avviene secondo quanto stabilito dal decreto direttoriale della Direzione generale per i servizi e di comunicazione elettronica, di radiodiffusione e postali del 26 luglio 2017, nonche' dal decreto del Ministero dello sviluppo economico del 26 gennaio 2016.
+Il conseguimento del certificato di competenza del radio operatore, definito nell'articolo 2, comma 1, lettera uu) del [decreto legislativo 12 maggio 2015, n. 71](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md), avviene secondo quanto stabilito dal decreto direttoriale della Direzione generale per i servizi e di comunicazione elettronica, di radiodiffusione e postali del 26 luglio 2017, nonche' dal decreto del Ministero dello sviluppo economico del 26 gennaio 2016.
 
 Note all'art. 5: 
  
- - Per i riferimenti normativi del [decreto legislativo 12 maggio 2015, n. 71](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md), si veda nelle note alle premesse. 
+ - Per i riferimenti normativi del [decreto legislativo 12 maggio 2015, n. 71](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202012-35-UE%20che%20modifica%20la%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20della%20gente%20di%20mare.%2015G00085.md), si veda nelle note alle premesse. 
  - Per i riferimenti normativi del decreto Ministro dello sviluppo economico del 26 gennaio 2016 si veda nelle note alle premesse.
 
 ## Art. 6. — Abrogazioni

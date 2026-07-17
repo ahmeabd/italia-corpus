@@ -14,7 +14,7 @@ Visto il decreto ministeriale in data 18 dicembre 1981, con il quale e' stato ap
 
 Ravvisata la necessita' di apportare a detto regolamento alcune modifiche semplificative circa l'esecuzione delle inchieste sommarie e le autorita' competenti ad ordinare le stesse;
 
-Visto il [decreto del Presidente della Repubblica 8 agosto 1994, n. 549](../Regolamenti%20governativi/Regolamento%20concernente%20la%20circoscrizione%20territoriale%20dei%20comandi%20di%20regione%20aerea.md), con il quale e' stato emanato il regolamento concernente la determinazione della circoscrizione territoriale dei comandi di regione aerea;
+Visto il [decreto del Presidente della Repubblica 8 agosto 1994, n. 549](../DPR/Regolamento%20concernente%20la%20circoscrizione%20territoriale%20dei%20comandi%20di%20regione%20aerea.md), con il quale e' stato emanato il regolamento concernente la determinazione della circoscrizione territoriale dei comandi di regione aerea;
 
 Visto l'[art. 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 

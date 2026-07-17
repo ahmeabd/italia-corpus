@@ -18,7 +18,7 @@ Visti in particolare i commi 3 e 4 dell'articolo 2 della citata legge, che preve
 
 Visto il [decreto del Presidente del Consiglio dei ministri 24 luglio 2009, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2009-07-24;126), regolamento recante: modalita' e criteri per l'assegnazione del premio intitolato a Giacomo Matteotti;
 
-Visto il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), recante il "[Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)";
+Visto il [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), recante il "[Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)";
 
 Ritenuto di dover modificare le modalita' di presentazione delle domande per l'assegnazione del premio intitolato a Giacomo Matteotti adottato con [decreto del Presidente del Consiglio dei ministri 24 luglio 2009, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2009-07-24;126), in particolare l'articolo 7, comma 1, del citato decreto;
 
@@ -58,7 +58,7 @@ Avvertenza:
  b) opere letterarie e teatrali; 
  c) tesi di laurea". 
  - Il [decreto del Presidente del Consiglio dei Ministri 24 luglio 2009, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2009-07-24;126), e' citato nella nota al titolo. 
- - Il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O. 
+ - Il [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O. 
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O. 
  
  Note all'art. 1: 

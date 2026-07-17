@@ -20,7 +20,7 @@ IL MINISTRO DELLE FINANZE
 
 Visto l'[articolo 9 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/477/CEE del Consiglio del 18 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;477);
 
-Visto il [decreto legislativo 30 dicembre 1992, n. 527](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md): "Attuazione della [direttiva 91/477/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;477) relativa al controllo dell'acquisizione e della detenzione di armi";
+Visto il [decreto legislativo 30 dicembre 1992, n. 527](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md): "Attuazione della [direttiva 91/477/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;477) relativa al controllo dell'acquisizione e della detenzione di armi";
 
 Vista la citata [direttiva del Consiglio 91/477/CEE del 18 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;477);
 
@@ -42,7 +42,7 @@ Visto il decreto ministeriale 5 giugno 1978, concernente modalita' per l'introdu
 
 Visto il decreto ministeriale 24 novembre 1978, concernente l'esportazione temporanea, da parte delle persone residenti in Italia, di armi comuni da sparo, per uso sportivo o di caccia;
 
-Ritenuta la necessita' di dettare le occorrenti disposizioni di attuazione del menzionato [decreto legislativo 30 dicembre 1992, n. 527](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md);
+Ritenuta la necessita' di dettare le occorrenti disposizioni di attuazione del menzionato [decreto legislativo 30 dicembre 1992, n. 527](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md);
 
 Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -56,7 +56,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-La carta europea d'arma da fuoco e' rilasciata alle persone residenti in Italia, con le modalita' previste dall'[articolo 2 del decreto legislativo 30 dicembre 1992, n. 527](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), su modello conforme all'allegato A al presente regolamento.
+La carta europea d'arma da fuoco e' rilasciata alle persone residenti in Italia, con le modalita' previste dall'[articolo 2 del decreto legislativo 30 dicembre 1992, n. 527](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), su modello conforme all'allegato A al presente regolamento.
 
 2.
 
@@ -184,7 +184,7 @@ Note alle premesse:
  15. In caso di inerzia delle regioni negli adempimenti di cui al presente articolo, il Ministro dell'agricoltura e delle foreste, di concerto con il Ministro dell'ambiente, assegna ad esse il termine di novanta giorni per provvedere, decorso inutilmente il quale il Presidente del Consiglio dei Ministri provvede in via sostitutiva, previa deliberazione del Consiglio dei Ministri su proposta del Ministro dell'agricoltura e delle foreste, di concerto con il Ministro dell'ambiente.
  16. A partire dalla stagione venatoria 1995-1996 i calendari venatori delle province devono indicare le zone dove l'attivita' venatoria e' consentita in forma programmata, quelle riservate alla gestione venatoria privata e le zone dove l'esercizio venatorio non e' consentito.
  17. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano, in base alle loro competenze esclusive, nei limiti stabiliti dai rispettivi statuti ed ai sensi dell'[art. 9 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), e nel rispetto dei principi della presente legge, provvedono alla pianificazione faunistico-venatoria, alla suddivisione territoriale, alla determinazione della densita' venatoria, nonche' alla regolamentazione per l'esercizio di caccia nel territorio di competenza".
- - Il [D.Lgs. 30 dicembre 1992, n. 527](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), concernente: "Attuazione della [direttiva 91/477/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;477) relativa al controllo dell'acquisizione e della detenzione di armi" e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 7 dell'11 gennaio 1993.
+ - Il [D.Lgs. 30 dicembre 1992, n. 527](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), concernente: "Attuazione della [direttiva 91/477/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;477) relativa al controllo dell'acquisizione e della detenzione di armi" e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 7 dell'11 gennaio 1993.
  Nota all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;527#art_1):
  - L'[art. 2 del D.Lgs. n. 527/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;527#art_2) cosi' recita:
  "Art. 2. - 1. La carta europea d'arma da fuoco, conforme al modello comunitario, contiene i dati identificativi delle armi, comprese quelle da caccia o di uso sportivo, di cui e' richiesta l'iscrizione, nonche' gli estremi del permesso di porto d'armi ovvero della autorizzazione al trasporto dell'arma per uso sportivo, della denuncia di detenzione e delle autorizzazioni al trasferimento delle armi iscritte in uno Stato membro delle Comunita' europee.
@@ -197,7 +197,7 @@ Note alle premesse:
 
 1.
 
-La domanda per l'autorizzazione prevista dall'[articolo 4 del decreto legislativo 30 dicembre 1992, n. 527](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), e' inoltrata dal titolare della carta europea d'arma da fuoco al questore competente per il luogo di residenza o di domicilio. Oltre alle generalita' del richiedente e agli estremi della carta europea, essa deve contenere:
+La domanda per l'autorizzazione prevista dall'[articolo 4 del decreto legislativo 30 dicembre 1992, n. 527](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), e' inoltrata dal titolare della carta europea d'arma da fuoco al questore competente per il luogo di residenza o di domicilio. Oltre alle generalita' del richiedente e agli estremi della carta europea, essa deve contenere:
                         a)
                             l'indicazione dell'arma o delle armi che il richiedente intende portare o trasportare nel viaggio;
                         b)
@@ -228,7 +228,7 @@ Nota all'[art. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.l
 
 1.
 
-La domanda per l'autorizzazione di cui all'[articolo 5, comma 1, del decreto legislativo 30 dicembre 1992, n. 527](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), e' inoltrata al Ministero dell'interno - Dipartimento della pubblica sicurezza - Direzione centrale per gli affari generali - Servizio polizia amministrativa e sociale. Oltre alle generalita' del richiedente e agli estremi della carta europea d'arma da fuoco, essa deve contenere:
+La domanda per l'autorizzazione di cui all'[articolo 5, comma 1, del decreto legislativo 30 dicembre 1992, n. 527](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md), e' inoltrata al Ministero dell'interno - Dipartimento della pubblica sicurezza - Direzione centrale per gli affari generali - Servizio polizia amministrativa e sociale. Oltre alle generalita' del richiedente e agli estremi della carta europea d'arma da fuoco, essa deve contenere:
                         a)
                             l'indicazione della localita' ove il richiedente intende recarsi;
                         b)
@@ -280,7 +280,7 @@ La domanda per la concessione dell'accordo preventivo dell'autorita' nazionale i
 
 2.
 
-La domanda deve contenere le indicazioni previste dall'[articolo 8, comma 2, del decreto legislativo 30 dicembre 1992, n. 527](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md).
+La domanda deve contenere le indicazioni previste dall'[articolo 8, comma 2, del decreto legislativo 30 dicembre 1992, n. 527](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-477-CEE%20relativa%20al%20controllo%20dellacquisizione%20e%20della%20detenzione%20di%20armi.md).
 
 3.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, in particolare l'articolo 2, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, in particolare l'articolo 2, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto del Ministro delle poste e delle telecomunicazioni 5 luglio 1983, recante la normativa tecnica per i telefoni senza cordone, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 210 del 2 agosto 1983;
 
@@ -20,7 +20,7 @@ Vista la [legge 28 marzo 1991, n. 109](../Atti%20normativi%20abrogati%20%28in%20
 
 Visto il decreto del Ministro delle poste e delle telecomunicazioni 25 giugno 1993, riguardante l'elenco delle norme europee di telecomunicazioni (NET), pubblicato nella Gazzetta Ufficiale n. 155 del 5 luglio 1993;
 
-Visto il [decreto legislativo 12 novembre 1996, n. 614](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md), concernente l'attuazione della [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) per il riavvicinamento delle legislazioni degli Stati membri relative alle apparecchiatura terminali di telecomunicazioni, come modificata dalla [direttiva 93/68/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) ed integrata dalla [direttiva 93/97/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97);
+Visto il [decreto legislativo 12 novembre 1996, n. 614](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md), concernente l'attuazione della [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) per il riavvicinamento delle legislazioni degli Stati membri relative alle apparecchiatura terminali di telecomunicazioni, come modificata dalla [direttiva 93/68/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) ed integrata dalla [direttiva 93/97/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97);
 
 Visto il [decreto ministeriale 17 aprile 1997, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-04-17;160), che approva il regolamento di attuazione della predetta [legge n. 109/1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;109);
 
@@ -70,7 +70,7 @@ Il presente regolamento detta la regola tecnica per gli apparecchi telefonici, c
 
 2.
 
-La regola tecnica ha lo scopo di fissare, per i terminali vocali, la terminologia, le caratteristiche telefonometriche ed il trattamento della chiamata che essi devono soddisfare secondo il [decreto legislativo 12 novembre 1996, n. 614](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md); sono altresi' stabiliti i metodi di prova da utilizzare per la verifica di conformita'.
+La regola tecnica ha lo scopo di fissare, per i terminali vocali, la terminologia, le caratteristiche telefonometriche ed il trattamento della chiamata che essi devono soddisfare secondo il [decreto legislativo 12 novembre 1996, n. 614](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md); sono altresi' stabiliti i metodi di prova da utilizzare per la verifica di conformita'.
 
 3.
 
@@ -85,7 +85,7 @@ AVVERTENZA:
 
  
  Nota all'[art. 1: 
- - Il decreto legislativo 12 novembre 1996, n. 614](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md), da' attuazione alla [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) concernente il ravvicinamento delle legislazioni degli Stati membri rela- tive alle apparecchiature terminali di telecomunicazioni, incluso il reciproco riconoscimento della loro conformita', come modificata dalla [direttiva 93/68/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) ed integrata dalla [direttiva 93/97/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97).
+ - Il decreto legislativo 12 novembre 1996, n. 614](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20terminali%20di%20telecomunicazioni%20incluso%20il%20reciproco_426130cd5bac.md), da' attuazione alla [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) concernente il ravvicinamento delle legislazioni degli Stati membri rela- tive alle apparecchiature terminali di telecomunicazioni, incluso il reciproco riconoscimento della loro conformita', come modificata dalla [direttiva 93/68/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;68) ed integrata dalla [direttiva 93/97/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;97).
 
 ### Art. 2. — (Definizioni)
 

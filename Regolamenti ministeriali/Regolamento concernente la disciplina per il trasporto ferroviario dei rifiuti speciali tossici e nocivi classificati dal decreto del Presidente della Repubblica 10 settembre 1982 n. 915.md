@@ -14,13 +14,13 @@ DEL CONSIGLIO DEI MINISTRI
 
 Visto l'[art. 11 del decreto-legge 31 agosto 1987, n. 361](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-08-31;361#art_11), convertito, con modificazioni, dalla [legge 29 ottobre 1987, n. 441](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%201987%20n.%20361%20recante%20disposizioni%20urgenti%20in%20materia%20di%20smaltimento%20dei%20rifiuti.md), recante disposizioni urgenti in materia di smaltimento dei rifiuti, che attribuisce al Presidente del Consiglio dei Ministri la competenza ad emanare il regolamento per il trasporto ferroviario protetto di rifiuti speciali, tossici e nocivi;
 
-Visto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), recante attuazione delle [direttive (CEE) n. 75/442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi;
+Visto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), recante attuazione delle [direttive (CEE) n. 75/442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;442) relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi;
 
-Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di cui all'[art. 5 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
+Vista la deliberazione in data 27 luglio 1984 del Comitato interministeriale di cui all'[art. 5 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
 
-Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../Regolamenti%20governativi/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
+Visto il [decreto del Presidente della Repubblica 19 giugno 1987, n. 306](../DPR/Regolamento%20per%20lorganizzazione%20del%20Ministero%20dellambiente.md), che ha approvato il regolamento per l'organizzazione del Ministero dell'ambiente;
 
 Vista la [legge 3 marzo 1987, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-03;59), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente;
 
@@ -38,7 +38,7 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 25 m
 
 Ritenuto di poter aderire alle osservazioni ivi contenute, salvo che:
 
-a) nella formulazione del titolo del regolamento, in quanto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), non "prevede", bensi' "classifica" i rifiuti speciali, tossici e nocivi;
+a) nella formulazione del titolo del regolamento, in quanto il [decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md), non "prevede", bensi' "classifica" i rifiuti speciali, tossici e nocivi;
 
 b) nella previsione di un'etichettatura, "conforme" e non "uguale" a quella dell'allegato 2, sugli imballaggi dei rifiuti speciali, tossici e nocivi trasportati, dovendosi meramente conseguire lo scopo di dotare gli imballaggi stessi dell'indicazione di tutti i dati necessari - indicati nell'allegato 2 - senza alcun vincolo di carattere formale nell'esposizione dei dati stessi;
 
@@ -50,9 +50,9 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../Regolamenti%20governativi/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md).
+Le imprese esercenti il trasporto ferroviario sono autorizzate ad effettuare il trasporto dei rifiuti speciali, tossici e nocivi, in conformita' alle norme del presente regolamento, sulle linee ferroviarie da esse esercitate, nonche' sulle navi traghetto munite dell'attestazione di idoneita' al trasporto di merci pericolose ai sensi dell'[art. 13 del decreto del Presidente della Repubblica 9 maggio 1968, n. 1008](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20limbarco%20trasporto%20per%20mare%20sbarco%20e%20trasbordo%20delle%20merci%20pericolose%20in%20colli.md).
 
-(( 2. L'attivita' di trasporto di cui al comma precedente deve ritenersi comprensiva delle c omplementari attivita' di carrellamento dei carri ferroviari per mezzo di carrelli stradali provvisti di tutte le autorizzazioni prescritte per la circolazione stradale delle merci pericolose di cui all'art. 168 del decreto legislativo 30 aprile 1992. n. 285, e successive modifiche, concernente il Nuovo [codice della strada, ed all'art. 368, comma 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), del relativo regolamento di attuazione e di esecuzione ))
+(( 2. L'attivita' di trasporto di cui al comma precedente deve ritenersi comprensiva delle c omplementari attivita' di carrellamento dei carri ferroviari per mezzo di carrelli stradali provvisti di tutte le autorizzazioni prescritte per la circolazione stradale delle merci pericolose di cui all'art. 168 del decreto legislativo 30 aprile 1992. n. 285, e successive modifiche, concernente il Nuovo [codice della strada, ed all'art. 368, comma 2](../Codici/Nuovo%20codice%20della%20strada.md), del relativo regolamento di attuazione e di esecuzione ))
 
 ## Art. 2.
 
@@ -75,7 +75,7 @@ Analoghe precauzioni incombono al mittente e al destinatario durante le operazio
 
 Durante il trasporto i rifiuti speciali, tossici e nocivi sono accompagnati, oltre che dalla documentazione richiesta dalle imprese esercenti il trasporto ferroviario, da:
                         a)
-                            una copia del contratto tra il produttore o detentore e lo smaltitore, con gli estremi dell'autorizzazione rilasciata dalla regione competente ai sensi dell'[art. 6, lettera d), del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
+                            una copia del contratto tra il produttore o detentore e lo smaltitore, con gli estremi dell'autorizzazione rilasciata dalla regione competente ai sensi dell'[art. 6, lettera d), del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md);
                         b)
                             un formulario contenente i seguenti dati e notizie, come indicati nell'allegato 1 che e' parte integrante del presente regolamento:
  1) nome o ragione sociale, indirizzo e codice fiscale del produttore o detentore, nonche' il luogo della produzione o detenzione;
@@ -155,7 +155,7 @@ Nel caso in cui i rifiuti non vengano ritirati presso la stazione ferroviaria, l
 
 1.
 
-L'osservanza delle disposizioni del presente regolamento e' soggetta al controllo da parte delle province interessate in conformita' all'[art. 7 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
+L'osservanza delle disposizioni del presente regolamento e' soggetta al controllo da parte delle province interessate in conformita' all'[art. 7 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
 
 Nota all'art. 6:
  - Il testo dell'[art. 7 del D.P.R. n. 915/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;915#art_7) (per il titolo si veda la nota precedente) e' il seguente:

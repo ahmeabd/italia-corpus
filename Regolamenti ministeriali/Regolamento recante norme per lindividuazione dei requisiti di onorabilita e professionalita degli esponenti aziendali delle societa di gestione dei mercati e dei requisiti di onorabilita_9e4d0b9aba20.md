@@ -12,7 +12,7 @@ IL MINISTRO DEL TESORO, DEL BILANCIO
 
 E DELLA PROGRAMMAZIONE ECONOMICA
 
-Visto il [decreto legislativo 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md);
+Visto il [decreto legislativo 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md);
 
 Visto in particolare l'articolo 46, comma 3, del citato decreto legislativo, in base al quale il Ministro del tesoro, sentita la Consob, determina con regolamento i requisiti di onorabilita' e di professionalita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo nelle societa' di gestione di mercati regolamentati di strumenti finanziari, nonche' i requisiti di onorabilita' dei partecipanti al capitale;.
 
@@ -51,7 +51,7 @@ L'amministratore delegato e il direttore generale devono essere in possesso di u
  Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
- - Il testo del [comma 3 dell'art. 46, del D.Lgs. 23 luglio 1996, n. 415](../Decreti%20Legislativi/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
+ - Il testo del [comma 3 dell'art. 46, del D.Lgs. 23 luglio 1996, n. 415](../Atti%20di%20recepimento%20direttive%20UE/Recepimento%20della%20direttiva%2093-22-CEE%20del%2010%20maggio%201993%20relativa%20ai%20servizi%20di%20investimento%20nel%20settore%20dei%20valori%20mobiliari%20e%20della%20direttiva%2093-6-CEE%20del%2015%20marzo%201993%20relativa%20alladeg_50a454e195f3.md), e' il seguente:
  "3. Il Ministro del tesoro, sentita la Consob, determina con regolamento i requisiti di onorabilita' e professionalita' dei soggetti che svolgono funzioni di amministrazione, direzione e controllo nelle societa' di gestione, nonche' i requisiti di onorabilita' dei partecipanti al capitale".
 
 ## Art. 2. — Situazioni impeditive

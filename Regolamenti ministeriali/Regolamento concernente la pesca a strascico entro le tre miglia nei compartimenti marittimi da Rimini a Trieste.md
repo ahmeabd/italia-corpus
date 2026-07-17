@@ -16,7 +16,7 @@ Vista la [legge 17 febbraio 1982, n. 41](../Atti%20normativi%20abrogati%20%28in%
 
 Vista la [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md), concernente la disciplina della pesca marittima ed in particolare l'art. 32;
 
-Visto il regolamento di esecuzione della suddetta [legge n. 963/65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965;963), approvato con [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), e successive modificazioni ed integrazioni;
+Visto il regolamento di esecuzione della suddetta [legge n. 963/65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965;963), approvato con [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), e successive modificazioni ed integrazioni;
 
 Visto, in particolare, l'art. 111 del citato regolamento, che fa divieto di usare le reti da traino nelle zone di mare nelle quali la profondita' delle acque sia inferiore a 50 metri entro le tre miglia marine dalla costa;
 

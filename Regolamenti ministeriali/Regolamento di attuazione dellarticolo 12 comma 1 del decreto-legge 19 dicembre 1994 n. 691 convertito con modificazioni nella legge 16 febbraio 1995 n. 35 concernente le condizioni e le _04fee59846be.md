@@ -20,9 +20,9 @@ E
 
 IL MINISTRO DELLE FINANZE
 
-Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e le successive disposizioni modificative ed integrative;
+Visto il testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md), e le successive disposizioni modificative ed integrative;
 
-Visto il [decreto legislativo 17 marzo 1995, n. 175](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md), recante attuazione della [direttiva 92/49/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;49) in materia di assicurazione diretta diversa dall'assicurazione sulla vita;
+Visto il [decreto legislativo 17 marzo 1995, n. 175](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md), recante attuazione della [direttiva 92/49/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;49) in materia di assicurazione diretta diversa dall'assicurazione sulla vita;
 
 Visto il [decreto-legge 19 dicembre 1994, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-19;691), convertito, con modificazioni, nella [legge 16 febbraio 1995, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201994%20n.%20691%20recante%20misure%20urgenti%20per%20la%20ricostruzione%20e%20la%20ripresa%20delle%20attivita%20produttive%20nelle%20zone%20colpite%20dall_68dcc341f398.md), recante misure urgenti per la ricostruzione e la ripresa delle attivita' produttive nelle zone colpite da eccezionali avversita' atmosferiche e dagli eventi alluvionali nella prima decade del mese di novembre 1994;
 

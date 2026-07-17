@@ -67,7 +67,7 @@ La dose di cui all'art. 1, comma 2, deve essere calcolata come indicato nell'all
 
 1.
 
-Per quanto riguarda l'etichettatura si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md).
+Per quanto riguarda l'etichettatura si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md).
 
 2.
 

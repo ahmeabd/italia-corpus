@@ -12,7 +12,7 @@ IL MINISTRO DEL LAVORO
 
 E DELLA PREVIDENZA SOCIALE
 
-Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante "Norme per la prevenzione degli infortuni sul lavoro", recante "Norme per la prevenzione degli infortuni sul lavoro" e, in particolare, l'art. 395, comma 3, concernente il riconoscimento di efficacia di nuovi mezzi e sistemi di sicurezza diversi da quelli previsti nel decreto medesimo;
+Visto il [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), recante "Norme per la prevenzione degli infortuni sul lavoro", recante "Norme per la prevenzione degli infortuni sul lavoro" e, in particolare, l'art. 395, comma 3, concernente il riconoscimento di efficacia di nuovi mezzi e sistemi di sicurezza diversi da quelli previsti nel decreto medesimo;
 
 Visto il [decreto del Presidente della Repubblica 20 marzo 1956, n. 320](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20e%20ligiene%20del%20lavoro%20in%20sotterraneo.md), recante "Norme per la prevenzione degli infortuni e l'igiene del lavoro in sotterraneo" e, in particolare, gli articoli 71 e 75 concernenti il divieto di impiegare motori termici, compresi i locomotori a nafta, nei lavori in sotterraneo ove sia probabile o si verifichi la presenza di gas infiammabili od esplodenti;
 

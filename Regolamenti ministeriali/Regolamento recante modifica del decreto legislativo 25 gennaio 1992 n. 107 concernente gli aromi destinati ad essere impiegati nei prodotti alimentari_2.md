@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA SALUTE
 
-Visto l'[articolo 11 del decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), e successive modificazioni;
+Visto l'[articolo 11 del decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), e successive modificazioni;
 
 Vista la decisione della Commissione del 23 gennaio 2002, n. 2002/113/CE, recante modifica della decisione 1999/217/CE, con la quale e' stato adottato il repertorio delle sostanze aromatizzanti legalmente accettate in uno Stato membro e tali riconosciute dagli altri Stati membri;
 
@@ -18,7 +18,7 @@ Vista la sentenza n. 443 del 1997 con la quale la Corte costituzionale ha sancit
 
 Ritenuto di consentire l'uso della sostanza aromatizzante "etilmaltolo" di cui al citato repertorio, gia' consentita in altri Stati membri e non in Italia, nella preparazione di gomma da masticare, caramelle e prodotti similari sulla base di richieste avanzate da Associazioni di categoria interessate;
 
-Ritenuto altresi' di dover modificare il [decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md);
+Ritenuto altresi' di dover modificare il [decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md);
 
 Sentito il parere del Consiglio superiore di sanita' che si e' espresso nella seduta del 30 maggio 2002;
 
@@ -40,7 +40,7 @@ Vista la comunicazione al Presidente del Consiglio dei Ministri ai sensi dell'ar
 
 1.
 
-All'allegato VII del [decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), sono apportate le seguenti modificazioni:
+All'allegato VII del [decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), sono apportate le seguenti modificazioni:
                         a)
                             il campo d'impiego "Caramelle e confetti" e la relativa "Dose massima d'impiego" della sostanza etilvanillina sono sostituiti dai seguenti:
                                 Sostanza
@@ -60,12 +60,12 @@ All'allegato VII del [decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20
 
 2.
 
-La sostanza di cui al comma 1, lettera b), deve rispondere ai requisiti di purezza stabiliti nell'allegato I al presente decreto che integra l'allegato VIII del [decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md).
+La sostanza di cui al comma 1, lettera b), deve rispondere ai requisiti di purezza stabiliti nell'allegato I al presente decreto che integra l'allegato VIII del [decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md).
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
- - Il testo dell'[art. 11 del decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md) (Attuazione delle [direttive 88/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;388) e [91/71/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;71) relative agli aromi destinati ad essere impiegati nei prodotti alimentari ed ai materiali di base per la loro preparazione), e' il seguente: 
+ - Il testo dell'[art. 11 del decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md) (Attuazione delle [direttive 88/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;388) e [91/71/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;71) relative agli aromi destinati ad essere impiegati nei prodotti alimentari ed ai materiali di base per la loro preparazione), e' il seguente: 
  "Art. 11. - 1. Il Ministro della sanita', ai sensi dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sentito il Consiglio superiore di sanita', adotta, con proprio regolamento, in attuazione di disposizioni comunitarie, prescrizioni riguardanti: 
  a) le fonti di aromi composti da prodotti alimentari nonche' da erbe e da spezie normalmente considerate come alimenti; 
  b) le fonti di aromi composti da materie prime vegetali o animali non considerate normalmente come alimenti; 
@@ -89,7 +89,7 @@ Avvertenza:
  Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione". 
  Nota all'art. 1, comma 1: 
- - L'allegato VII del [decreto legislativo 25 gennaio 1992, n. 107](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), riporta l'elenco delle "Sostanze aromatizzanti artificiali" che possono essere utilizzate nei prodotti alimentari, le dosi massime ed i relativi campi d'impiego. 
+ - L'allegato VII del [decreto legislativo 25 gennaio 1992, n. 107](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2088-388-CEE%20e%20n.%2091-71-CEE%20relative%20agli%20aromi%20destinati%20ad%20essere%20impiegati%20nei%20prodotti%20alimentari%20ed%20ai%20materiali%20di%20base%20per%20la%20loro%20preparazione.md), riporta l'elenco delle "Sostanze aromatizzanti artificiali" che possono essere utilizzate nei prodotti alimentari, le dosi massime ed i relativi campi d'impiego. 
  Nota all'art. 1, comma 2: 
  - L'allegato VIII fissa i requisiti specifici e generali di purezza delle sostanze aromatizzanti artificiali.
 

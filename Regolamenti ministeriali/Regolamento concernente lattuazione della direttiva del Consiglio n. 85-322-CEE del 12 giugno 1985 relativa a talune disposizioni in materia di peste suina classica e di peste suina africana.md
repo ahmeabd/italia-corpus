@@ -20,7 +20,7 @@ Vista la [legge 23 gennaio 1968, n. 34](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [direttiva 72/461 CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1972;461) relativa a problemi di polizia sanitaria negli scambi intracomunitari di carni fresche;
 
-Visto il [decreto del Presidente della Repubblica 21 luglio 1982, n. 728](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2072-461%20relativa%20a%20problemi%20di%20polizia%20sanitaria%20in%20materia%20di%20scambi%20intracomunitari%20di%20carni%20fresche.md), concernente l'attuazione della [direttiva 72/461 CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1972;461) relativa a problemi di polizia sanitaria in materia di scambi intracomunitari di carne fresca;
+Visto il [decreto del Presidente della Repubblica 21 luglio 1982, n. 728](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2072-461%20relativa%20a%20problemi%20di%20polizia%20sanitaria%20in%20materia%20di%20scambi%20intracomunitari%20di%20carni%20fresche.md), concernente l'attuazione della [direttiva 72/461 CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1972;461) relativa a problemi di polizia sanitaria in materia di scambi intracomunitari di carne fresca;
 
 Vista l'ordinanza ministeriale del 14 febbraio 1968 concernente "Norme per la profilassi della peste suina africana in Sardegna";
 

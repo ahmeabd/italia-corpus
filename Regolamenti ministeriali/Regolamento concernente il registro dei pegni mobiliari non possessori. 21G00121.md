@@ -26,7 +26,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 3 novembre 2020;
 
-Sentito il Garante per la protezione dei dati personali, ai sensi dell'[articolo 154, comma 4, del Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), di cui al [decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196), che ha espresso parere all'adunanza del 21 giugno 2018;
+Sentito il Garante per la protezione dei dati personali, ai sensi dell'[articolo 154, comma 4, del Codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), di cui al [decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196), che ha espresso parere all'adunanza del 21 giugno 2018;
 
 Acquisito il formale concerto del Ministero della giustizia;
 
@@ -86,7 +86,7 @@ NOTE
  «Art. 17 (Regolamenti). - (Omissis). 
  3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. 
  (Omissis).». 
- - Il testo dell'[art. 154, comma 4, del decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196#art_154-com4), recante «[Codice in materia di protezione dei dati personali](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)», e' il seguente: 
+ - Il testo dell'[art. 154, comma 4, del decreto legislativo 20 giugno 2003, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-20;196#art_154-com4), recante «[Codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)», e' il seguente: 
  «Art. 154 (Compiti). - (Omissis). 
  4. Il Garante collabora con altre autorita' amministrative indipendenti nazionali nello svolgimento dei rispettivi compiti. 
  (Omissis).». 
@@ -165,7 +165,7 @@ E' facolta' delle parti indicare nella domanda di iscrizione ogni altro elemento
 
 4.
 
-Le iscrizioni e le altre formalita' non si possono eseguire se non in forza di atto pubblico, di scrittura privata autenticata o accertata giudizialmente, di contratto sottoscritto digitalmente ai sensi dell'[articolo 24 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), o di provvedimento dell'autorita' giudiziaria.
+Le iscrizioni e le altre formalita' non si possono eseguire se non in forza di atto pubblico, di scrittura privata autenticata o accertata giudizialmente, di contratto sottoscritto digitalmente ai sensi dell'[articolo 24 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md), o di provvedimento dell'autorita' giudiziaria.
 
 5.
 
@@ -178,7 +178,7 @@ Note all'art. 3:
  3. Fatte salve le eccezioni espressamente previste per legge, nei rapporti con la pubblica amministrazione e con i concessionari di pubblici servizi, tutti gli stati, le qualita' personali e i fatti non espressamente indicati nell'art. 46 sono comprovati dall'interessato mediante la dichiarazione sostitutiva di atto di notorieta'. 
  4. Salvo il caso in cui la legge preveda espressamente che la denuncia all'Autorita' di polizia giudiziaria e' presupposto necessario per attivare il procedimento amministrativo di rilascio del duplicato di documenti di riconoscimento o comunque attestanti stati e qualita' personali dell'interessato, lo smarrimento dei documenti medesimi e' comprovato da chi ne richiede il duplicato mediante dichiarazione sostitutiva.». 
  - Per il testo dell'[art. 1 del decreto-legge 3 maggio 2016, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-05-03;59#art_1), convertito, con modificazioni, dalla [legge 30 giugno 2016, n. 119](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20maggio%202016%20n.%2059%20recante%20disposizioni%20urgenti%20in%20materia%20di%20procedure%20esecutive%20e%20concorsuali%20nonche%20a%20favore%20degli%20investitori_0180b6e8a95b.md), vedi nelle note alle premesse. 
- - Il testo dell'[art. 24 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) recante «[Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)», e' il seguente: 
+ - Il testo dell'[art. 24 del decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) recante «[Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)», e' il seguente: 
  «Art. 24 (Firma digitale). - 1. La firma digitale deve riferirsi in maniera univoca ad un solo soggetto ed al documento o all'insieme di documenti cui e' apposta o associata. 
  2. L'apposizione di firma digitale integra e sostituisce l'apposizione di sigilli, punzoni, timbri, contrassegni e marchi di qualsiasi genere ad ogni fine previsto dalla normativa vigente. 
  3. Per la generazione della firma digitale deve adoperarsi un certificato qualificato che, al momento della sottoscrizione, non risulti scaduto di validita' ovvero non risulti revocato o sospeso. 
@@ -275,7 +275,7 @@ Eseguita la formalita' richiesta, il conservatore restituisce al richiedente il 
 
 2.
 
-Il Registro pegni, la raccolta delle domande e i titoli consegnati al conservatore sono conservati su supporto informatico in conformita' alle disposizioni e secondo le regole tecniche stabilite dal [Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
+Il Registro pegni, la raccolta delle domande e i titoli consegnati al conservatore sono conservati su supporto informatico in conformita' alle disposizioni e secondo le regole tecniche stabilite dal [Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md) di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md).
 
 ### Art. 10. — Consultazione del registro dei pegni 
  mobiliari non possessori

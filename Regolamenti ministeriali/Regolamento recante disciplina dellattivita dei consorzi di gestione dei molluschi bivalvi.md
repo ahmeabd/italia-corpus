@@ -16,7 +16,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Vista la [legge 14 luglio 1965, n. 963](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20pesca%20marittima.md), recante disciplina della pesca marittima;
 
-Visto il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../Regolamenti%20governativi/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), riguardante il regolamento di esecuzione della predetta legge;
+Visto il [decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), riguardante il regolamento di esecuzione della predetta legge;
 
 Vista la [legge 17 febbraio 1982, n. 41](../Atti%20normativi%20abrogati%20%28in%20originale%29/Piano%20per%20la%20razionalizzazione%20e%20lo%20sviluppo%20della%20pesca%20marittima.md), e successive modifiche, recante piano per la razionalizzazione e lo sviluppo della pesca marittima, pubblicata nella Gazzetta Ufficiale n. 53 del 24 febbraio 1982;
 

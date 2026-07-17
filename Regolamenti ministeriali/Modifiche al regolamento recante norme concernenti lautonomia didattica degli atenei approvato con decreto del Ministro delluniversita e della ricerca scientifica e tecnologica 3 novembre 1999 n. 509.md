@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELL'ISTRUZIONE DELL'UNIVERSITA' E DELLA RICERCA
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
+Visto il [decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), ed in particolare l'articolo 17, comma 3;
 
@@ -18,7 +18,7 @@ Visto l'[articolo 17, comma 95, della legge 15 maggio 1997, n. 127](https://www.
 
 Visto il [decreto ministeriale 3 novembre 1999, n. 509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1999-11-03;509), e i decreti ministeriali 4 agosto 2000 pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000; 28 novembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 18 del 22 gennaio 2001; 2 aprile 2001, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 23 gennaio 2001;
 
-Visto il [decreto del Presidente della Repubblica 27 gennaio 1998, n. 25](../Regolamenti%20governativi/Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20allo%20sviluppo%20ed%20alla%20programmazione%20del%20sistema%20universitario%20nonche%20ai%20comitati%20regionali%20di%20coordinamento%20a%20norma%20dellarticolo%20_d5e4ebf874ee.md);
+Visto il [decreto del Presidente della Repubblica 27 gennaio 1998, n. 25](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20disciplina%20dei%20procedimenti%20relativi%20allo%20sviluppo%20ed%20alla%20programmazione%20del%20sistema%20universitario%20nonche%20ai%20comitati%20regionali%20di%20coordinamento%20a%20norma%20dellarticolo%20_d5e4ebf874ee.md);
 
 Visto il decreto 25 marzo 1998, n. 142, del Ministero del lavoro;
 
@@ -267,9 +267,9 @@ L'attivazione dei corsi di studio di cui al comma 2 e' subordinata all'inserimen
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2012, n. 19](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Valorizzazione%20dellefficienza%20delle%20universita%20e%20conseguente%20introduzione%20di%20meccanismi%20premiali%20nella%20distribuzione%20di%20risorse%20pubbliche%20sulla%20base%20di%20criteri%20definiti%20ex%20ante%20anche%20medi_08f3bac63c48.md) ha disposto (con l'art. 17, comma 3, lettera a)) che "A decorrere dalla data di emanazione degli atti di competenza dell'ANVUR previsti agli articoli 6 e 10 del presente decreto, il [decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.istruzione.universita.ricerca:decreto:2004-10-22;270), e' cosi' modificato: 
+Il [D.Lgs. 27 gennaio 2012, n. 19](../Decreti%20Legislativi/Valorizzazione%20dellefficienza%20delle%20universita%20e%20conseguente%20introduzione%20di%20meccanismi%20premiali%20nella%20distribuzione%20di%20risorse%20pubbliche%20sulla%20base%20di%20criteri%20definiti%20ex%20ante%20anche%20medi_08f3bac63c48.md) ha disposto (con l'art. 17, comma 3, lettera a)) che "A decorrere dalla data di emanazione degli atti di competenza dell'ANVUR previsti agli articoli 6 e 10 del presente decreto, il [decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.istruzione.universita.ricerca:decreto:2004-10-22;270), e' cosi' modificato: 
  a) all'articolo 9 il comma 2 e' sostituito dal seguente: 
- "2. Con apposite deliberazioni le universita' attivano i propri corsi di studio, nel rispetto della procedura di accreditamento definita dal decreto legislativo emanato in attuazione della delega prevista dall'[articolo 5, comma 1, lettera a), della legge 30 dicembre 2010, n. 240](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md). Nel caso di mancata conferma dell'accreditamento di uno o piu' corsi, le universita' assicurano la possibilita' per gli studenti gia' iscritti di concludere gli studi, conseguendo il relativo titolo e disciplinando le modalita' di esercizio della facolta' di opzione per altri corsi di studio accreditati ed attivati."".
+ "2. Con apposite deliberazioni le universita' attivano i propri corsi di studio, nel rispetto della procedura di accreditamento definita dal decreto legislativo emanato in attuazione della delega prevista dall'[articolo 5, comma 1, lettera a), della legge 30 dicembre 2010, n. 240](../Leggi%20contenenti%20deleghe/Norme%20in%20materia%20di%20organizzazione%20delle%20universita%20di%20personale%20accademico%20e%20reclutamento%20nonche%20delega%20al%20Governo%20per%20incentivare%20la%20qualita%20e%20lefficienza%20del%20sistema%20universitario.%2011G0009.md). Nel caso di mancata conferma dell'accreditamento di uno o piu' corsi, le universita' assicurano la possibilita' per gli studenti gia' iscritti di concludere gli studi, conseguendo il relativo titolo e disciplinando le modalita' di esercizio della facolta' di opzione per altri corsi di studio accreditati ed attivati."".
 
 ## Art. 10. — Obiettivi e attivita' formative qualificanti delle classi
 
@@ -414,7 +414,7 @@ Le universita', con appositi regolamenti, riordinano e disciplinano le procedure
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 27 gennaio 2012, n. 19](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Valorizzazione%20dellefficienza%20delle%20universita%20e%20conseguente%20introduzione%20di%20meccanismi%20premiali%20nella%20distribuzione%20di%20risorse%20pubbliche%20sulla%20base%20di%20criteri%20definiti%20ex%20ante%20anche%20medi_08f3bac63c48.md) ha disposto (con l'art. 17, comma 3, lettere b), c) e d)) che "A decorrere dalla data di emanazione degli atti di competenza dell'ANVUR previsti agli articoli 6 e 10 del presente decreto, il [decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.istruzione.universita.ricerca:decreto:2004-10-22;270), e' cosi' modificato: 
+Il [D.Lgs. 27 gennaio 2012, n. 19](../Decreti%20Legislativi/Valorizzazione%20dellefficienza%20delle%20universita%20e%20conseguente%20introduzione%20di%20meccanismi%20premiali%20nella%20distribuzione%20di%20risorse%20pubbliche%20sulla%20base%20di%20criteri%20definiti%20ex%20ante%20anche%20medi_08f3bac63c48.md) ha disposto (con l'art. 17, comma 3, lettere b), c) e d)) che "A decorrere dalla data di emanazione degli atti di competenza dell'ANVUR previsti agli articoli 6 e 10 del presente decreto, il [decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.istruzione.universita.ricerca:decreto:2004-10-22;270), e' cosi' modificato: 
  [...] 
  b) all'articolo 11, comma 7, lettera b), sono aggiunte, in fine, le seguenti parole: "in coerenza con le misurazioni dei risultati ottenuti nell'apprendimento effettuate dalle commissioni paritetiche docenti-studenti"; 
  c) all'articolo 11, comma 7, lettera l), sono aggiunte, in fine, le seguenti parole: " anche per il monitoraggio degli obiettivi strategici programmati ogni triennio"; 

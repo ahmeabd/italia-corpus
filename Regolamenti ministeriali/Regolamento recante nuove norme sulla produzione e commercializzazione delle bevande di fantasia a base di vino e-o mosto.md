@@ -16,9 +16,9 @@ DI CONCERTO CON
 
 IL MINISTRO DELLA SANITA'
 
-Visto il [decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), contenente norme per la repressione delle frodi nella preparazione e nel commercio dei mosti, vini ed aceti;
+Visto il [decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), contenente norme per la repressione delle frodi nella preparazione e nel commercio dei mosti, vini ed aceti;
 
-Visto il [decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari;
+Visto il [decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari;
 
 Visto il [decreto-legge 7 settembre 1987, n. 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-07;370), recante nuove norme in materia di produzione e commercializzazione dei prodotti vinicoli, nonche' sanzioni per l'inosservanza di regolamenti comunitari in materia agricola ed, in particolare, l'art. 2, comma 3, che consente la preparazione e commercializzazione delle bevande di fantasia a base di mosto o di vino o di entrambi i prodotti, convertito con modificazioni nella [legge 4 novembre 1987, n. 460](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20settembre%201987%20n.%20370%20recante%20nuove%20norme%20in%20materia%20di%20produzione%20e%20commercializzazione%20dei%20prodotti%20vitivinicoli%20nonche%20sanzio_69d04f0feb47.md);
 
@@ -56,7 +56,7 @@ AVVERTENZA:
  "Le disposizioni del presente decreto si applicano anche ai prodotti destinati all'esportazione.
  E' pero' in facolta' del Ministro per l'agricoltura e le foreste di concerto con quello per la sanita' e sentito il parere di quello per l'industria e il commercio, per le finanze e per il commercio con l'estero, di consentire sotto particolari cautele la preparazione e la confezione dei prodotti disciplinati dal presente decreto destinati all'esportazione, in difformita' delle norme stabilite per il mercato interno. (Comma cosi' sostituito dall'[art. 12 della legge 18 marzo 1968, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;498#art_12))".
  - Il [D.P.R. n. 777/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;777) e' stato emanato in attuazione della [direttiva CEE n. 76/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;893).
- - Il [comma 3 dell'art. 2 del D.L. n. 370/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;370#art_2-com3) prevede che: "La disposizione dell'[art. 34 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), non si applica alle bevande di fantasia a base di mosto o di vino o di entrambi i prodotti, ferma la vigente esclusione per la birra".
+ - Il [comma 3 dell'art. 2 del D.L. n. 370/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;370#art_2-com3) prevede che: "La disposizione dell'[art. 34 del decreto del Presidente della Repubblica 12 febbraio 1965, n. 162](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), non si applica alle bevande di fantasia a base di mosto o di vino o di entrambi i prodotti, ferma la vigente esclusione per la birra".
  Si trascrive il testo del richiamato [art. 34 del D.P.R.
  n. 162/1965](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1965;162#art_34):
  "Art. 34. - E' vietata la produzione, la detenzione e la vendita di bevande alcoliche, ad eccezione della birra, con gradazione alcolica complessiva inferiore a quella minima stabilita per il vino.
@@ -124,7 +124,7 @@ Sono esclusi dal divieto di cui sopra i riferimenti a nomi di frutta o parte di 
 
 1.
 
-Le bevande di cui al presente decreto possono essere confezionate in contenitori di materiali previsti dal [decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari.
+Le bevande di cui al presente decreto possono essere confezionate in contenitori di materiali previsti dal [decreto del Presidente della Repubblica 23 agosto 1982, n. 777](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2076-893%20relativa%20ai%20materiali%20e%20agli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md), concernente i materiali e gli oggetti destinati a venire a contatto con i prodotti alimentari.
 
 2.
 
@@ -180,7 +180,7 @@ La preparazione delle bevande di cui al presente decreto deve essere effettuata 
 
 2.
 
-L'introduzione di essenze, estratti e/o aromi naturali e/o coloranti e/o succhi di frutta, consentita in deroga all'[art. 17 del decreto del Presidente della Repubblica n. 162 del 12 febbraio 1965](../DPR/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), e' presa in carico su un apposito "registro di carico e scarico", preventivamente vidimato dagli uffici, competenti per territorio, dell'Ispettorato centrale per la prevenzione e la repressione delle frodi agro-alimentari. La presa in carico deve essere effettuata il giorno stesso della loro introduzione in cantina o stabilimento. I succhi di frutta utilizzati devono presentare con evidenza le caratteristiche organolettiche proprie del frutto di origine.
+L'introduzione di essenze, estratti e/o aromi naturali e/o coloranti e/o succhi di frutta, consentita in deroga all'[art. 17 del decreto del Presidente della Repubblica n. 162 del 12 febbraio 1965](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20repressione%20delle%20frodi%20nella%20preparazione%20e%20nel%20commercio%20dei%20mosti%20vini%20ed%20aceti.md), e' presa in carico su un apposito "registro di carico e scarico", preventivamente vidimato dagli uffici, competenti per territorio, dell'Ispettorato centrale per la prevenzione e la repressione delle frodi agro-alimentari. La presa in carico deve essere effettuata il giorno stesso della loro introduzione in cantina o stabilimento. I succhi di frutta utilizzati devono presentare con evidenza le caratteristiche organolettiche proprie del frutto di origine.
 
 3.
 

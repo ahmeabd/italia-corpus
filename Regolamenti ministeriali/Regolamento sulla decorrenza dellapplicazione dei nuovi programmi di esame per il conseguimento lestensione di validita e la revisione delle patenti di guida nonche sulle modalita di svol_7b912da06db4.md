@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DEI TRASPORTI
 
-Visto l'[art. 8, comma 1, della legge 18 marzo 1988, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20istituzione%20della%20patente%20di%20guida%20comunitaria%20e%20nuove%20disposizioni%20per%20il%20conseguimento%20delle%20patenti%20di%20guida%20e%20per%20la%20prevenzione%20e%20la%20sicurezza%20stradale.md), che sostituisce l'art. 85 del testo unico delle norme sulla disciplina della circolazione stradale approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md);
+Visto l'[art. 8, comma 1, della legge 18 marzo 1988, n. 111](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20sulla%20istituzione%20della%20patente%20di%20guida%20comunitaria%20e%20nuove%20disposizioni%20per%20il%20conseguimento%20delle%20patenti%20di%20guida%20e%20per%20la%20prevenzione%20e%20la%20sicurezza%20stradale.md), che sostituisce l'art. 85 del testo unico delle norme sulla disciplina della circolazione stradale approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md);
 
 Visto il proprio [decreto ministeriale 6 giugno 1988, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-06;262), con il quale sono stati approvati i programmi d'esame per il conseguimento, l'estensione di validita' o la revisione delle patenti di guida per le diverse categorie di veicoli a motore, riportati nell'allegato a tale decreto, che ne costituisce parte integrante;
 
@@ -59,7 +59,7 @@ AVVERTENZA:
  10. Gli esami possono essere sostenuti entro il termine di validita' dell'autorizzazione per l'esercitazione di guida. Nel limite di detta validita' e' consentito ripetere, per una volta soltanto, una delle due prove d'esame".
  - Il [D.M. n. 262/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988;262) e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - serie generale - n. 163 del 13 luglio 1988. Si trascrive il testo dell'art. 1, commi 2 e 3, di tale decreto:
  "2. Con successivi decreti saranno determinate la decorrenza dell'applicazione dei nuovi programmi d'esame e le modalita' di svolgimento degli esami.
- 3. Con la medesima decorrenza detti programmi sostituiscono quelli di cui all'art. 498 del regolamento per l'esecuzione del testo unico sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../Regolamenti%20governativi/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md)".
+ 3. Con la medesima decorrenza detti programmi sostituiscono quelli di cui all'art. 498 del regolamento per l'esecuzione del testo unico sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 30 giugno 1959, n. 420](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Testo%20Unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale.md)".
  Si riporta anche, per opportuna conoscenza, il testo dell'allegato al predetto decreto, nel quale sono indicati i programmi di esame per il conseguimento della patente di guida:
  "ALLEGATO PROGRAMMI D'ESAME PER IL
  CONSEGUIMENTO DELLE PATENTI DI GUIDA

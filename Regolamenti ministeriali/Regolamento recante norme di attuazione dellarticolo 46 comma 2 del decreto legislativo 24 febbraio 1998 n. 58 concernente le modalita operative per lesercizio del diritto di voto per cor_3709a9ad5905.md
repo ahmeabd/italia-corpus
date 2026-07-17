@@ -125,7 +125,7 @@ La SICAV mette a disposizione ai sensi dell'articolo 3, comma 2, una apposita sc
 
 ## Art. 7. — A b r o g a z i o n e
 
-1. Il presente decreto abroga e sostituisce il decreto ministeriale 29 luglio 1992 emanato in attuazione dell'[articolo 5, comma 3, del decreto legislativo 25 gennaio 1992, n. 84](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2085-611-CEE%20e%20n.%2088-220-CEE%20relative%20agli%20organismi%20di%20investimento%20collettivo%20in%20valori%20mobiliari%20operanti%20nella%20forma%20di%20societa%20di%20investimento%20a%20capitale%20_b3a2764fb15e.md).
+1. Il presente decreto abroga e sostituisce il decreto ministeriale 29 luglio 1992 emanato in attuazione dell'[articolo 5, comma 3, del decreto legislativo 25 gennaio 1992, n. 84](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2085-611-CEE%20e%20n.%2088-220-CEE%20relative%20agli%20organismi%20di%20investimento%20collettivo%20in%20valori%20mobiliari%20operanti%20nella%20forma%20di%20societa%20di%20investimento%20a%20capitale%20_b3a2764fb15e.md).
 
 Nota all'art. 7:
  - Il decreto ministeriale 29 luglio 1992 recava: "Determinazione delle modalita' operative per l'esercizio del voto per corrispondenza nelle assemblee delle societa' di investimento a capitale variabile".

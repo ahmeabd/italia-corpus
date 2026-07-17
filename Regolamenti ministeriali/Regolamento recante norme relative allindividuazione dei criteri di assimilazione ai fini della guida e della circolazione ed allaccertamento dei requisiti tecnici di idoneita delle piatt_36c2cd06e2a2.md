@@ -12,9 +12,9 @@ IL MINISTRO DELLE INFRASTRUTTURE
 
 E DEI TRASPORTI
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante «Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)», e successive modificazioni, ed in particolare gli articoli 10, 47, comma 1, lettera n), 59, 75, commi 1, 2 e 3, 93,100 e 116;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante «Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)», e successive modificazioni, ed in particolare gli articoli 10, 47, comma 1, lettera n), 59, 75, commi 1, 2 e 3, 93,100 e 116;
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [Codice della Strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)» e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, recante «Regolamento di esecuzione e di attuazione del nuovo [Codice della Strada](../Codici/Nuovo%20codice%20della%20strada.md)» e successive modificazioni;
 
 Visto il [decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:2001-05-02;277), e successive modificazioni, con cui e' stato adottato il regolamento recante «Disposizioni concernenti le procedure di omologazione dei veicoli a motore, dei rimorchi, delle macchine agricole, delle macchine operatrici e dei loro sistemi, componenti ed entita' tecniche»;
 
@@ -24,7 +24,7 @@ Viste le conclusioni della Commissione di studio, di cui al decreto dirigenziale
 
 Acquisito il parere favorevole del Ministro dell'interno ai sensi dell'[articolo 59, comma 2, del decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_59-com2);
 
-Vista la nota del 10 aprile 2015 con cui la Direzione generale per la motorizzazione ha espletato la procedura d'informazione in materia di norme e regolamentazioni tecniche prevista dalla [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), modificata dal [decreto legislativo 23 novembre 2000, n. 427](../Decreti%20Legislativi/Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md);
+Vista la nota del 10 aprile 2015 con cui la Direzione generale per la motorizzazione ha espletato la procedura d'informazione in materia di norme e regolamentazioni tecniche prevista dalla [legge 21 giugno 1986, n. 317](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20di%20disciplina%20europea%20in%20materia%20di%20normazione%20europea%20e%20procedura%20dinformazione%20nel%20settore%20delle%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_a1d2667472c9.md), modificata dal [decreto legislativo 23 novembre 2000, n. 427](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md);
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400) e successive modificazioni, ed in particolare l'articolo 17, commi 3 e 4;
 
@@ -38,7 +38,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Le piattaforme semoventi, ai sensi degli [articoli 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [59 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), sono veicoli eccezionali con caratteristiche atipiche destinate ai trasporti eccezionali e finalizzate esclusivamente al trasporto su strada, a velocita' ridotta comunque non superiore a 20 km/h, di manufatti ovvero di carichi indivisibili e sono costituite da:
+Le piattaforme semoventi, ai sensi degli [articoli 10](../Codici/Nuovo%20codice%20della%20strada.md) e [59 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), sono veicoli eccezionali con caratteristiche atipiche destinate ai trasporti eccezionali e finalizzate esclusivamente al trasporto su strada, a velocita' ridotta comunque non superiore a 20 km/h, di manufatti ovvero di carichi indivisibili e sono costituite da:
                         a)
                             un gruppo motopropulsore di potenza abbinato a una o piu' unita', di tipo modulare, munite di piano di carico, ovvero
                         b)
@@ -47,7 +47,7 @@ Le piattaforme semoventi, ai sensi degli [articoli 10](../Leggi%20delega%20e%20r
 
 2.
 
-Le piattaforme semoventi, in relazione a particolari necessita' di trasporto e movimentazione di manufatti di elevate dimensioni, possono essere abbinate ad altre piattaforme semoventi sia lateralmente che longitudinalmente, secondo le prescrizioni dettate dalla Direzione generale per la motorizzazione, come previsto in Appendice I, [articolo 9, del decreto del Presidente della Repubblica del 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
+Le piattaforme semoventi, in relazione a particolari necessita' di trasporto e movimentazione di manufatti di elevate dimensioni, possono essere abbinate ad altre piattaforme semoventi sia lateralmente che longitudinalmente, secondo le prescrizioni dettate dalla Direzione generale per la motorizzazione, come previsto in Appendice I, [articolo 9, del decreto del Presidente della Repubblica del 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md).
 
 ## Art. 2. — Campo di applicazione
 
@@ -55,7 +55,7 @@ Le piattaforme semoventi, in relazione a particolari necessita' di trasporto e m
 
 Il presente regolamento:
                         a)
-                            disciplina, ai sensi degli [articolo 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [75, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), [2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [3, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), ed in conformita' al [decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:2001-05-02;277), le procedure di omologazione e di accertamento dei requisiti di idoneita' alla circolazione delle piattaforme semoventi eccezionali;
+                            disciplina, ai sensi degli [articolo 59](../Codici/Nuovo%20codice%20della%20strada.md) e [75, commi 1](../Codici/Nuovo%20codice%20della%20strada.md), [2](../Codici/Nuovo%20codice%20della%20strada.md) e [3, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), ed in conformita' al [decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti.navigazione:decreto:2001-05-02;277), le procedure di omologazione e di accertamento dei requisiti di idoneita' alla circolazione delle piattaforme semoventi eccezionali;
                         b)
                             individua i requisiti richiesti per la circolazione delle piattaforme semoventi eccezionali.
 
@@ -63,7 +63,7 @@ Il presente regolamento:
 
 1.
 
-Ai fini della circolazione su strada e della guida, le piattaforme semoventi eccezionali sono assimilate ai veicoli della categoria [N3, di cui all'articolo 47, comma 2, lettera c), del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Ai fini della circolazione su strada e della guida, le piattaforme semoventi eccezionali sono assimilate ai veicoli della categoria [N3, di cui all'articolo 47, comma 2, lettera c), del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 ## Art. 4.
 
@@ -90,13 +90,13 @@ Le prescrizioni tecniche, di cui al comma 1, si applicano anche in sede di accer
 
 1.
 
-Le verifiche periodiche delle piattaforme semoventi eccezionali sono effettuate annualmente, a cura dei competenti uffici delle Direzioni generali territoriali del Ministero delle infrastrutture e dei trasporti, su tutti i moduli componenti il veicolo, secondo i tempi e le modalita' applicabili previsti dall'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Le verifiche periodiche delle piattaforme semoventi eccezionali sono effettuate annualmente, a cura dei competenti uffici delle Direzioni generali territoriali del Ministero delle infrastrutture e dei trasporti, su tutti i moduli componenti il veicolo, secondo i tempi e le modalita' applicabili previsti dall'[articolo 80 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 ## Art. 6. — Immatricolazione e documenti di circolazione
 
 1.
 
-La circolazione delle piattaforme semoventi eccezionali e' subordinata all'immatricolazione del veicolo costituito dal gruppo motopropulsore e da uno o piu' moduli, in modo da avere almeno quattro assi a terra, con le modalita' e le formalita' previste dall'[articolo 93 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+La circolazione delle piattaforme semoventi eccezionali e' subordinata all'immatricolazione del veicolo costituito dal gruppo motopropulsore e da uno o piu' moduli, in modo da avere almeno quattro assi a terra, con le modalita' e le formalita' previste dall'[articolo 93 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 Qualora trattasi della tipologia di cui al punto b) del comma 2 dell'articolo 1, il numero minimo di assi e' pari a tre.
 
 2.
@@ -119,7 +119,7 @@ Riconoscimento dei requisiti tecnici di idoneita' alla circolazione delle piatta
 
 1.
 
-Le piattaforme semoventi eccezionali sono destinate esclusivamente al trasporto di manufatti ovvero di carichi indivisibili e possono circolare, ai sensi dell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), su percorsi autorizzati dall'ente proprietario della strada.
+Le piattaforme semoventi eccezionali sono destinate esclusivamente al trasporto di manufatti ovvero di carichi indivisibili e possono circolare, ai sensi dell'[articolo 10 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), su percorsi autorizzati dall'ente proprietario della strada.
 
 2.
 

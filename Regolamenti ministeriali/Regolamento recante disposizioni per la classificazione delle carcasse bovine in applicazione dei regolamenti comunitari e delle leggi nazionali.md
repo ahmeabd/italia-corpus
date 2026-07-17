@@ -54,7 +54,7 @@ Capo I
 
 1.
 
-Ai sensi dell'articolo 1 del regolamento CEE n. 1186/90 del Consiglio del 7 maggio 1990 e della [legge dell'8 luglio 1997, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-08;213), tutti gli stabilimenti di macellazione riconosciuti ai sensi del [decreto legislativo del 18 aprile 1994, n. 286](../Decreti%20Legislativi/Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md) e successive modificazioni, denominati in seguito "stabilimenti", classificano e identificano le carcasse o mezzene di bovini adulti conformemente alla tabella comunitaria istituita con regolamento CEE n. 1208/81 del Consiglio del 28 aprile 1981 e successive modificazioni.
+Ai sensi dell'articolo 1 del regolamento CEE n. 1186/90 del Consiglio del 7 maggio 1990 e della [legge dell'8 luglio 1997, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-08;213), tutti gli stabilimenti di macellazione riconosciuti ai sensi del [decreto legislativo del 18 aprile 1994, n. 286](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md) e successive modificazioni, denominati in seguito "stabilimenti", classificano e identificano le carcasse o mezzene di bovini adulti conformemente alla tabella comunitaria istituita con regolamento CEE n. 1208/81 del Consiglio del 28 aprile 1981 e successive modificazioni.
 
 2.
 

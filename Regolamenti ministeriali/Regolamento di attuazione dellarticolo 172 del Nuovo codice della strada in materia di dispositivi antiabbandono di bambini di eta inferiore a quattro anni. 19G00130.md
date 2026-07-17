@@ -32,7 +32,7 @@ Visto il Regolamento n. 44 della Commissione economica per l'Europa delle Nazion
 
 Visto il Regolamento n. 129 della Commissione economica per l'Europa delle Nazioni Unite (UN/ECE) del 10 giugno 2014, recante: «Prescrizioni uniformi relative all'omologazione di dispositivi avanzati di ritenuta per bambini usati a bordo dei veicoli a motore»;
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante il nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e, in particolare, l'articolo 172;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante il nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md) e, in particolare, l'articolo 172;
 
 Considerata la necessita' di prevedere le caratteristiche tecnico-costruttive e funzionali del dispositivo di allarme volto a prevenire l'abbandono dei bambini sui veicoli delle categorie M1, N1, N2 e N3;
 
@@ -56,7 +56,7 @@ Ai fini del presente regolamento si intende per:
                         b)
                             dispositivo antiabbandono: un dispositivo di allarme, costituito da uno o piu' elementi interconnessi, la cui funzione e' quella di prevenire l'abbandono dei bambini di eta' inferiore ai quattro anni, a bordo dei veicoli delle categorie M1, N1, N2 e N3 e che si attiva nel caso di allontanamento del conducente dal veicolo;
                         c)
-                            sistemi di ritenuta per bambini: quelli indicati all'[articolo 172, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md);
+                            sistemi di ritenuta per bambini: quelli indicati all'[articolo 172, comma 1, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md);
                         d)
                             normativa di armonizzazione dell'Unione: normativa dell'Unione europea che armonizza le condizioni di commercializzazione del dispositivo antiabbandono quale prodotto;
                         e)
@@ -136,7 +136,7 @@ N O T E
 
 1.
 
-Il presente regolamento si applica ai dispositivi antiabbandono, di cui all'[articolo 172 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Il presente regolamento si applica ai dispositivi antiabbandono, di cui all'[articolo 172 del codice della strada](../Codici/Nuovo%20codice%20della%20strada.md).
 
 2.
 

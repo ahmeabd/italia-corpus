@@ -20,7 +20,7 @@ Visto l'[articolo 4, comma 3, della legge 29 dicembre 1990, n. 428](../Leggi%20d
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), ed in particolare l'articolo 17, comma 3;
 
-Visti i [decreti legislativi 27 maggio 1999, n. 165, e 15 giugno 2000, n. 188](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%2027%20maggio%201999%20n.%20165%20recante%20soppressione%20dellAIMA%20e%20istituzione%20dellAgenzia%20per%20le%20erogazioni%20in%20agricoltura%20AGEA%20a%20norma%20d_cd31c7d9f0b7.md), relativi all'istituzione dell'AGEA ed alla soppressione dell'AIMA;
+Visti i [decreti legislativi 27 maggio 1999, n. 165, e 15 giugno 2000, n. 188](../Decreti%20Legislativi/Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%2027%20maggio%201999%20n.%20165%20recante%20soppressione%20dellAIMA%20e%20istituzione%20dellAgenzia%20per%20le%20erogazioni%20in%20agricoltura%20AGEA%20a%20norma%20d_cd31c7d9f0b7.md), relativi all'istituzione dell'AGEA ed alla soppressione dell'AIMA;
 
 Rilevato che le disposizioni delle sopra citate decisioni comunitarie risultano formalmente e sostanzialmente identiche, salvo consequenziali adattamenti minimi;
 

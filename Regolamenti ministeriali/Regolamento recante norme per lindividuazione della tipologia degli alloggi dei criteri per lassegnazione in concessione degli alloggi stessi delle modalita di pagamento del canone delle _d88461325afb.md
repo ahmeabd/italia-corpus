@@ -218,10 +218,10 @@ Le somme provenienti dal pagamento dei canoni degli immobili di cui all'articolo
 
 3.
 
-I canoni non versati dal concessionario alle previste scadenze, sono riscossi coattivamente dal competente servizio di riscossione di cui al [decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
+I canoni non versati dal concessionario alle previste scadenze, sono riscossi coattivamente dal competente servizio di riscossione di cui al [decreto del Presidente della Repubblica 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md).
 
 Nota all'[art. 8:
- - Il D.P.R. 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), reca: "Istituzione del Servizio di riscossione dei tributi e di altre entrate dello Stato e di altri enti pubblici ai sensi dell'[art. 1, comma 1, della legge 4 ottobre 1986, n. 657](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20istituzione%20e%20la%20disciplina%20del%20servizio%20di%20riscossione%20dei%20tributi.md)".
+ - Il D.P.R. 28 gennaio 1988, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md), reca: "Istituzione del Servizio di riscossione dei tributi e di altre entrate dello Stato e di altri enti pubblici ai sensi dell'[art. 1, comma 1, della legge 4 ottobre 1986, n. 657](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20istituzione%20e%20la%20disciplina%20del%20servizio%20di%20riscossione%20dei%20tributi.md)".
 
 ### Art. 9.
 

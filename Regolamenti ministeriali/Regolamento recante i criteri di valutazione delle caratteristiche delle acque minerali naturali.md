@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLA SANITA'
 
-Visto il [decreto legislativo 25 gennaio 1992, n. 105](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md), recante disposizioni per l'attuazione della [direttiva 80/777/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;777) relativa alla utilizzazione e alla commercializzazione delle acque minerali naturali;
+Visto il [decreto legislativo 25 gennaio 1992, n. 105](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md), recante disposizioni per l'attuazione della [direttiva 80/777/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;777) relativa alla utilizzazione e alla commercializzazione delle acque minerali naturali;
 
 Visti in particolare il primo e secondo comma dell'art. 2 del citato decreto, che prevedono l'emanazione di provvedimenti concernenti i criteri di valutazione delle caratteristiche delle acque minerali naturali, ed il primo comma dell'art. 21, che prevede la revisione dei riconoscimenti delle acque minerali naturali in vendita alla data di entrata in vigore del decreto stesso;
 
@@ -43,7 +43,7 @@ A corredo delle domande di riconoscimento delle acque minerali naturali deve ess
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ## CRITERI DI VALUTAZIONE DELLE CARATTERISTICHE CHIMICHE E CHIMICO FISICHE DELLE ACQUE MINERALI NATURALI
 
@@ -67,7 +67,7 @@ La relazione deve fare riferimento alla cartografia ufficiale esistente e deve c
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 3.
 
@@ -78,7 +78,7 @@ Le domande di riconoscimento delle acque minerali naturali debbono essere corred
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 4.
 
@@ -89,7 +89,7 @@ Le analisi sono eseguite dai laboratori di cui al [decreto del Capo del Governo 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 5.
 
@@ -124,7 +124,7 @@ Dalle analisi chimiche e fisico-chimiche deve risultare la determinazione dei se
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 6.
 
@@ -168,7 +168,7 @@ rientrano nella voce n. 6
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ## CRITERI DI VALUTAZIONE DELLE CARATTERISTICHE MICROBIOLOGICHE DELLE ACQUE MINERALI NATURALI
 
@@ -183,7 +183,7 @@ Le domande di riconoscimento delle acque minerali naturali debbono essere corred
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 8.
 
@@ -194,7 +194,7 @@ Le analisi sono eseguite dai laboratori di cui al [decreto del Capo del Governo 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 9.
 
@@ -210,7 +210,7 @@ Dalle analisi deve risultare:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 10.
 
@@ -221,7 +221,7 @@ Debbono inoltre essere determinati i valori della carica microbica totale a 20 Â
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ## CRITERI DI VALUTAZIONE DELLE CARATTERISTICHE CLINICHE E FARMACOLOGICHE DELLE ACQUE MINERALI NATURALI
 
@@ -236,7 +236,7 @@ La natura degli esami, cui si deve procedere secondo metodi scientifici riconosc
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 12.
 
@@ -247,7 +247,7 @@ Eventualmente, la constatazione della costanza e della concordanza di un gran nu
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 13.
 
@@ -258,7 +258,7 @@ Gli studi clinici, farmacologici e tossicologici debbono essere condotti presso 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 14.
 
@@ -269,7 +269,7 @@ In situazioni particolari, quali quelle connesse con le caratteristiche di compo
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ### Art. 15.
 
@@ -280,7 +280,7 @@ I recipienti contenenti l'acqua da sottoporre alle prove cliniche, farmacologich
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 ## CRITERI DI VALUTAZIONE PER LA REVISIONE DEI RICONOSCIMENTI DELLE ACQUE MINERALI NATURALI IN COMMERCIO
 
@@ -300,7 +300,7 @@ Le domande di revisione dei riconoscimenti delle acque minerali naturali in comm
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 8 ottobre 2011, n. 176](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
+Il [D.Lgs. 8 ottobre 2011, n. 176](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202009-54-CE%20sullutilizzazione%20e%20la%20commercializzazione%20delle%20acque%20minerali%20naturali.%2011G0218.md) ha disposto (con l'art. 34, comma 3) che alla data di entrata in vigore del decreto ministeriale previsto all'articolo 3, comma 1, e' abrogato il [decreto del Ministro della sanita' 12 novembre 1992, n. 542](Regolamento%20recante%20i%20criteri%20di%20valutazione%20delle%20caratteristiche%20delle%20acque%20minerali%20naturali.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

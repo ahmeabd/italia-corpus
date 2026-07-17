@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto l'art. 319 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto l'art. 319 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il regolamento delle radiocomunicazioni, allegato alla convenzione internazionale delle telecomunicazioni, adottata a Nairobi il 6 novembre 1982, ratificata con [legge 9 maggio 1986, n. 149](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20internazionale%20delle%20telecomunicazioni%20con%20protocollo%20finale%20protocolli%20addizionali%20protocollo%20facoltativo%20risoluzioni%20e%20raccomandazioni%20adottata%20_17f3a81e2876.md);
 

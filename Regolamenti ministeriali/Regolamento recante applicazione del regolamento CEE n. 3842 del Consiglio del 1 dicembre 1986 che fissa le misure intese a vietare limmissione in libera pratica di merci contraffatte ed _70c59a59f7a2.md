@@ -14,7 +14,7 @@ Visto l'[art. 35 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazio
 
 Visto il predetto regolamento CEE n. 3842/86, che fissa le misure intese a vietare l'immissione in libera pratica di merci contraffatte ed a scoraggiarne il commercio internazionale;
 
-Visto il testo unico delle disposizioni legislative in materia doganale, aprovato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
+Visto il testo unico delle disposizioni legislative in materia doganale, aprovato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -126,7 +126,7 @@ La dogana, qualora constati l'esatta o la sostanziale corrispondenza del marchio
 
 7.
 
-Ove, a seguito del riscontro effettuato ai sensi del comma 6 del presente articolo, dovessero emergere atti o fatti penalmente rilevanti, riconducibili ad una delle ipotesi di violazioni previste dalle disposizioni vigenti in relazione all'introduzione nel territorio dello Stato di merci con segni falsi, contraffatti ed alterati, deve essere compilato il processo verbale di cui al secondo comma dell'art. 325 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
+Ove, a seguito del riscontro effettuato ai sensi del comma 6 del presente articolo, dovessero emergere atti o fatti penalmente rilevanti, riconducibili ad una delle ipotesi di violazioni previste dalle disposizioni vigenti in relazione all'introduzione nel territorio dello Stato di merci con segni falsi, contraffatti ed alterati, deve essere compilato il processo verbale di cui al secondo comma dell'art. 325 del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md).
 
 ## Art. 3.
 

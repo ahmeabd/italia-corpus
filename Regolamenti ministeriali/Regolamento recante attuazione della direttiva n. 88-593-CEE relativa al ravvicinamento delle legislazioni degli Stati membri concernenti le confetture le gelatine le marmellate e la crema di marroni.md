@@ -22,7 +22,7 @@ Visto l'[art. 5 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20e
 
 Visto l'[art. 20 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_20);
 
-Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), con il quale e' stata data attuazione alla [direttiva n. 79/693/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;693);
+Visto il [decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), con il quale e' stata data attuazione alla [direttiva n. 79/693/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;693);
 
 Vista la [direttiva n. 88/593/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;593) che modifica la [direttiva n. 79/693/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;693) relativa al ravvicinamento delle legislazioni degli Stati membri concernenti le confetture, le gelatine e le marmellate di frutta e la crema di marroni;
 
@@ -38,7 +38,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Al punto 1 dell'[art. 2 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' aggiunto il seguente periodo: "La confettura extra di cinorrodi puo' essere ottenuta totalmente o parzialmente dalla purea di cinorrodi".
+Al punto 1 dell'[art. 2 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' aggiunto il seguente periodo: "La confettura extra di cinorrodi puo' essere ottenuta totalmente o parzialmente dalla purea di cinorrodi".
 
 AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -104,15 +104,15 @@ AVVERTENZA:
 
 1.
 
-Il [quarto comma dell'art. 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
- "Possono essere utilizzati, nella preparazione dei prodotti di cui all'art. 2, succhi di frutta, succhi di frutta concentrati e succhi di frutta disidratati rispondenti ai requisiti stabiliti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e successive modifiche".
+Il [quarto comma dell'art. 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
+ "Possono essere utilizzati, nella preparazione dei prodotti di cui all'art. 2, succhi di frutta, succhi di frutta concentrati e succhi di frutta disidratati rispondenti ai requisiti stabiliti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e successive modifiche".
 
 Nota agli articoli 2 e 3:
  - Il testo vigente dell'[art. 4 del D.P.R. n. 401/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;401#art_4), come modificato dal presente regolamento, e' il seguente:
  "Art. 4. - Per frutto si intende il frutto fresco, sano, esente da qualsiasi alterazione, non privato di alcuno dei suoi componenti essenziali, giunto al grado di maturazione adeguato per la fabbricazione dei prodoti di cui all'art. 2, dopo pulitura, mondatura e spuntatura.
  I pomodori e le parti commestibili dei fusti del rabarbaro sono assimilati alla frutta. Nel caso dello zenzero sono considerate frutta le radici commestibili sbucciate e conservate in sciroppo.
  Il termine 'marrone' designa il frutto del castagno.
- Possono essere utilizzati, nella preparazione dei prodotti di cui all'art. 2, succhi di frutta, succhi di frutta concentrati e succhi di frutta disidradati rispondenti ai requisiti stabiliti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e suc- cessive modifiche.
+ Possono essere utilizzati, nella preparazione dei prodotti di cui all'art. 2, succhi di frutta, succhi di frutta concentrati e succhi di frutta disidradati rispondenti ai requisiti stabiliti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e suc- cessive modifiche.
  Per polpa di frutta si intende la parte commestibile del frutto intero, eventualmente sbucciato o privato dei semi; tale parte commestibile puo' essere tagliata a pezzi o schiacciata, ed eventualmente setacciata per i soli frutti di sottobosco.
  Per purea di frutta si intende la parte commestibile del frutto, eventualmente sbucciato o privato dei semi, ridotta in purea mediante setacciatura o altro procedimento simile.
  Per estratti acquosi si intendono gli estratti acquosi della frutta che, fatte salve le perdite inevitabili dovute alle buone norme di fabbricazione, contengono tutti i costituenti solubili in acqua della frutta utilizzata.
@@ -122,7 +122,7 @@ Nota agli articoli 2 e 3:
 
 1.
 
-All'[art. 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), dopo il settimo comma viene aggiunto il seguente ottavo comma:
+All'[art. 4 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), dopo il settimo comma viene aggiunto il seguente ottavo comma:
  "Per scorza di agrumi (scorze) si intendono le scorze di agrumi, pulite con o senza l'endocarpo".
 
 Nota agli articoli 2 e 3:
@@ -130,7 +130,7 @@ Nota agli articoli 2 e 3:
  "Art. 4. - Per frutto si intende il frutto fresco, sano, esente da qualsiasi alterazione, non privato di alcuno dei suoi componenti essenziali, giunto al grado di maturazione adeguato per la fabbricazione dei prodoti di cui all'art. 2, dopo pulitura, mondatura e spuntatura.
  I pomodori e le parti commestibili dei fusti del rabarbaro sono assimilati alla frutta. Nel caso dello zenzero sono considerate frutta le radici commestibili sbucciate e conservate in sciroppo.
  Il termine 'marrone' designa il frutto del castagno.
- Possono essere utilizzati, nella preparazione dei prodotti di cui all'art. 2, succhi di frutta, succhi di frutta concentrati e succhi di frutta disidradati rispondenti ai requisiti stabiliti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e suc- cessive modifiche.
+ Possono essere utilizzati, nella preparazione dei prodotti di cui all'art. 2, succhi di frutta, succhi di frutta concentrati e succhi di frutta disidradati rispondenti ai requisiti stabiliti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e suc- cessive modifiche.
  Per polpa di frutta si intende la parte commestibile del frutto intero, eventualmente sbucciato o privato dei semi; tale parte commestibile puo' essere tagliata a pezzi o schiacciata, ed eventualmente setacciata per i soli frutti di sottobosco.
  Per purea di frutta si intende la parte commestibile del frutto, eventualmente sbucciato o privato dei semi, ridotta in purea mediante setacciatura o altro procedimento simile.
  Per estratti acquosi si intendono gli estratti acquosi della frutta che, fatte salve le perdite inevitabili dovute alle buone norme di fabbricazione, contengono tutti i costituenti solubili in acqua della frutta utilizzata.
@@ -140,13 +140,13 @@ Nota agli articoli 2 e 3:
 
 1.
 
-L'[art. 5 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
+L'[art. 5 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
  "Art. 5. - 1. La frutta utilizzata per la preparazione dei prodotti definiti all'art. 2 puo' essere sottoposta a trattamenti mediante calore o freddo, liofilizzazione o concentrazione, sempreche' vi si presti tecnicamente.
  2. Qualora destinata alla fabbricazione dei prodotti di cui all'art. 2, numeri 2, 4 e 5 puo' anche essere addizionata di anidride solforosa (E 200) e dei suoi sali (E 221, E 222, E 223, E 224, E 226, E 227).
  3. Lo zenzero puo' essere essiccato o conservato nello sciroppo.
  4. Le albicocche destinate alla fabbricazione del prodotto definito all'art. 2, n. 2, possono anche subire trattamenti di disidratazione diversi dalla liofilizzazione.
  5. I marroni possono essere immersi per breve durata in una soluzione acquosa di anidride solforosa (E 220) e dei suoi sali (E 221, E 222, E 223, E 224, E 226, E 227).
- 6. I succhi di frutta possono essere sottoposti ai trattamenti previsti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), nonche' a quelli previsti al punto 2 allorche' siano destinati alla fabbricazione dei prodotti definiti all'art. 2, punti 4 e 5.
+ 6. I succhi di frutta possono essere sottoposti ai trattamenti previsti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), nonche' a quelli previsti al punto 2 allorche' siano destinati alla fabbricazione dei prodotti definiti all'art. 2, punti 4 e 5.
  7. Le scorze di agrumi possono essere conservate in salamoia.
  8. I tipi di zucchero che possono essere utilizzati nella
 preparazione dei prodotti di cui al presente decreto sono quelli indicati all'[art. 1 della legge 31 marzo 1980, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md), nonche' il fruttosio".
@@ -155,7 +155,7 @@ preparazione dei prodotti di cui al presente decreto sono quelli indicati all'[a
 
 1.
 
-Il punto 1) del [primo comma dell'art. 6 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
+Il punto 1) del [primo comma dell'art. 6 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
 
  "1) Acqua potabile in tutti i prodotti definiti all'art. 2 Succhi di frutta nei prodotti definiti al n. 2
  dell'art. 2
@@ -228,7 +228,7 @@ Nota all'art. 5:
 
 1.
 
-La [lettera h) del primo comma dell'art. 7 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituita dalla seguente:
+La [lettera h) del primo comma dell'art. 7 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituita dalla seguente:
  " h) La menzione 'zuccheri totali .... grammi per 100 grammi' ove la cifra indicata rappresenta il valore refrattometrico del prodotto finito, determinato a 20 C:
 e' ammessa una tolleranza di 3 gradi refrattometrici;".
 
@@ -258,7 +258,7 @@ Nota agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decr
 
 1.
 
-Il [quarto comma dell'art. 7 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
+Il [quarto comma dell'art. 7 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' sostituito dal seguente:
  "L'anidride solforosa residua e' considerata ingrediente quando supera i 30 mg/kg. Essa va indicata con la dicitura 'anidride solforosa', nell'elenco degli ingredienti in funzione dell'entita' ponderale del residuo nel prodotto finito".
 
 Nota agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;401#art_6) e [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;401#art_7):
@@ -287,7 +287,7 @@ Nota agli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decr
 
 1.
 
-Il [secondo comma dell'art. 8 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' abrogato.
+Il [secondo comma dell'art. 8 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' abrogato.
 
 Nota all'[art. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;401#art_8):
  - L'[art. 8 del D.P.R. n. 401/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;401#art_8), come modificato dal presente regolamento, e' il seguente:

@@ -14,7 +14,7 @@ DEL CONSIGLIO DEI MINISTRI
 
 Visto l'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76);
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), con il quale e' stata data attuazione alla [direttiva 79/112/CE del Consiglio del 18 dicembre 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;112) e successive modifiche e, in particolare, l'art. 29, il quale prevede che le relative disposizioni possono essere modificate con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro della sanita', in attuazione di norme comunitarie;
+Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), con il quale e' stata data attuazione alla [direttiva 79/112/CE del Consiglio del 18 dicembre 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;112) e successive modifiche e, in particolare, l'art. 29, il quale prevede che le relative disposizioni possono essere modificate con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro della sanita', in attuazione di norme comunitarie;
 
 Vista la [direttiva 93/102/CE della Commissione del 16 novembre 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;102) recante modifica della [direttiva 79/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;112), relativa al ravvicinamento delle legislazioni degli Stati membri concernenti l'etichettatura e la presentazione dei prodotti alimentari destinati al consumatore finale nonche' la relativa pubblicita';
 
@@ -34,7 +34,7 @@ E M A N A il seguente regolamento:
 
 1.
 
-Gli allegati 1 e 2 del [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sono sostituiti rispettivamente dagli allegati 1 e 2 del presente regolamento. 
+Gli allegati 1 e 2 del [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sono sostituiti rispettivamente dagli allegati 1 e 2 del presente regolamento. 
  
  AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai 

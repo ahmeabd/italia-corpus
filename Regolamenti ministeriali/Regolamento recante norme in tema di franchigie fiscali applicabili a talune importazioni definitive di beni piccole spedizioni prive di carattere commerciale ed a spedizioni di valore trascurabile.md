@@ -38,7 +38,7 @@ Ai sensi del presente regolamento si intendono per:
                         a)
                             "diritti doganali", ((l'imposta sul valore aggiunto di cui all'articolo 12)) delle disposizioni preliminari alla tariffa dei dazi doganali d'importazione, approvata con [decreto del Presidente della Repubblica 26 giugno 1965, n. 723](../DPR/Approvazione%20della%20nuova%20tariffa%20dei%20dazi%20doganali%20dimportazione.md), come sostituito dall'[articolo 1 della legge 26 novembre 1992, n. 479](../Atti%20di%20recepimento%20direttive%20UE/Adeguamento%20alle%20direttive%2083-181-CEE%20e%2083-183-CEE%20del%2028%20marzo%201983%20come%20modificate%20rispettivamente%20dalle%20direttive%2088-331-CEE%20del%2013%20giugno%201988%20e%2089-604-CEE%20del%2023%20novembre%201989%20concer_b43c9fa07f0d.md);
                         b)
-                            "diritti di confine", i diritti previsti all'articolo 34, secondo comma, del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
+                            "diritti di confine", i diritti previsti all'articolo 34, secondo comma, del testo unico delle disposizioni legislative in materia doganale, approvato con [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md);
                         c)
                             "regolamento comunitario", il regolamento (CEE) n. 918/83 del Consiglio del 28 marzo 1983;
                         d)
@@ -97,7 +97,7 @@ Nota all'[art. 4:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 25 maggio 2021, n. 83](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20degli%20articoli%202%20e%203%20della%20direttiva%20UE%202017-2455%20del%20Consiglio%20del%205%20dicembre%202017%20che%20modifica%20la%20direttiva%202006-112-CE%20e%20la%20direttiva%202009-132-CE%20per%20quanto%20riguarda%20taluni_e87c3692f358.md) ha disposto (con l'art. 10, comma 1) che l'abrogazione del presente articolo si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
+Il [D.Lgs. 25 maggio 2021, n. 83](../Decreti%20Legislativi/Recepimento%20degli%20articoli%202%20e%203%20della%20direttiva%20UE%202017-2455%20del%20Consiglio%20del%205%20dicembre%202017%20che%20modifica%20la%20direttiva%202006-112-CE%20e%20la%20direttiva%202009-132-CE%20per%20quanto%20riguarda%20taluni_e87c3692f358.md) ha disposto (con l'art. 10, comma 1) che l'abrogazione del presente articolo si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
 
 ## Art. 6.
 

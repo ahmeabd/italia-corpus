@@ -22,7 +22,7 @@ Visto il regolamento (CEE) n. 1576/89 del consiglio del 29 maggio 1989 che stabi
 
 Visto il regolamento (CEE) n. 2046/89 del consiglio del 19 giugno 1989 che stabilisce le regole generali relative alla distillazione dei vini e dei sottoprodotti della vinificazione;
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), relativo a attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari;
+Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), relativo a attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari;
 
 Considerato che l'alcool etilico esplica nel pane speciale, disciplinato dell'[articolo 20 della legge n. 580/1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967;580#art_20), un'utile azione conservatrice antimicotica allorche' esso e' commercializzato in confezioni chiuse impermeabili consentendogli una piu' prolungata conservazione e che per tale azione puo' essere impiegato in alternativa ad altri additivi alimentari autorizzati in conformita' del [decreto ministeriale n. 209/1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996;209);
 
@@ -128,7 +128,7 @@ Note all'art. 3:
 
 1.
 
-Il pane di cui all'articolo 1 deve riportare sulla confezione, oltre a quelle previste dal [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni e integrazioni, la seguente indicazione "Trattato con alcool etilico".
+Il pane di cui all'articolo 1 deve riportare sulla confezione, oltre a quelle previste dal [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni e integrazioni, la seguente indicazione "Trattato con alcool etilico".
 
 ## Art. 5.
 

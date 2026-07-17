@@ -52,7 +52,7 @@ Ritenuto di dover provvedere alle modificazioni ed integrazioni del decreto mini
 
 Vista la relazione della Direzione generale per l'igiene degli alimenti e la nutrizione in data 24 giugno 1992;
 
-Visto l'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
+Visto l'[art. 3 del decreto legislativo 25 gennaio 1992, n. 108](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
 Sentito il Consiglio Superiore di Sanita';
 
@@ -84,7 +84,7 @@ AVVERTENZA:
  d) carta e cartone;
  e) vetro;
  f) acciaio inossidabile.
- - Il testo dell'[art. 3 del D.P.R. n. 777/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;777#art_3) (Attuazione della [direttiva (CEE) n. 76/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;893) relativa ai materiali e agli oggetti destinati a venire a contatto con i prodotti alimentari) cosi' come modificato dall'[art. 3 del D.leg. 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) e' il seguente:
+ - Il testo dell'[art. 3 del D.P.R. n. 777/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;777#art_3) (Attuazione della [direttiva (CEE) n. 76/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;893) relativa ai materiali e agli oggetti destinati a venire a contatto con i prodotti alimentari) cosi' come modificato dall'[art. 3 del D.leg. 25 gennaio 1992, n. 108](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md) e' il seguente:
  "Art. 3. - 1. Con decreti del Ministro della sanita', sentito il Consiglio superiore di sanita', sono indicati per i materiali e gli oggetti, destinati a venire a contatto con le sostanze alimentari, di cui all'allegato I, da soli o in combinazione tra loro, i componenti consentiti nella loro produzione, e, ove occorrano, i requisiti di purezza e le prove di cessione alle quali i materiali e gli oggetti debbono essere sottoposti per determinare l'idoneita' all'uso cui sono destinati nonche' le limitazioni, le tolleranze e le condizioni di impiego sia per i limiti di contaminazione degli alimenti che per gli eventuali pericoli risultanti dal contatto orale.
  2. Per i materiali e gli oggetti di materia plastica, di gomma, di cellulosa rigenerata, di carta, di cartone, di vetro, di acciaio inossidabile, di banda stagnata, di ceramica e di banda cromata valgono le disposizioni contenute nei decreti ministeriali 21 marzo 1973, 3 agosto 1974, 13 settembre 1975, 18 giugno 1979, 2 dicembre 1980, 25 giugno 1981, 18 febbraio 1984, 4 aprile 1985 e [1 giugno 1988, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-06-01;243).
  3. Il Ministro della sanita', sentito il Consiglio superiore di sanita', procede all'aggiornamento e alle modifiche da apportare ai decreti di cui ai commi 1 e 2.

@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Viste le raccomandazioni del Comitato consultivo internazionale telegrafico e telefonico F 170 ed F 190 riguardanti le disposizioni per l'esercizio del servizio pubblico internazionale bureaufax tra i posti pubblici e tra i posti pubblici e i destinatari dotati di terminale facsimile;
 

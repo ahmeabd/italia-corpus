@@ -16,7 +16,7 @@ DI CONCERTO CON
 
 IL MINISTRO DEL TESORO
 
-Vista la [legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122), recante: "Disposizioni in materia di parcheggi, programma triennale per le aree urbane maggiormente popolate, nonche' modificazioni di alcune norme del testo unico sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md)";
+Vista la [legge 24 marzo 1989, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-24;122), recante: "Disposizioni in materia di parcheggi, programma triennale per le aree urbane maggiormente popolate, nonche' modificazioni di alcune norme del testo unico sulla disciplina della circolazione stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md)";
 
 Visti gli articoli 4 e 7 della predetta legge, con i quali viene autorizzata la concessione di contributi a titolo di concorso statale nelle spese occorrenti per la realizzazione dei parcheggi;
 

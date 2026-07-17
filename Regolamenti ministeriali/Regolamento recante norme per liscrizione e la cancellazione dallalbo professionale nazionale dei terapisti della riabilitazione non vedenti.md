@@ -64,13 +64,13 @@ Agli effetti del presente regolamento si intendono privi della vista coloro che 
 
 1.
 
-All'albo professionale nazionale dei terapisti della riabilitazione non vedenti vengono iscritti i cittadini italiani privi della vista diplomati ai sensi e con le modalita' previsti dall'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+All'albo professionale nazionale dei terapisti della riabilitazione non vedenti vengono iscritti i cittadini italiani privi della vista diplomati ai sensi e con le modalita' previsti dall'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 2.
 
 L'iscrizione all'albo e' subordinata alla presentazione dei seguenti documenti:
                         a)
-                            diploma conseguito ai sensi e con le modalita' previsti dall'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+                            diploma conseguito ai sensi e con le modalita' previsti dall'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                         b)
                             certificato, rilasciato dalla unita' sanitaria locale del luogo di residenza del non vedente o del luogo in cui e' stato conseguito il diploma, da cui risulti che il richiedente e' privo della vista o dispone di un residuo visivo non superiore ad un decimo in entrambi gli occhi anche con correzione di lenti, e che e' esente da altre minorazioni che potrebbero impedire l'espletamento delle funzioni di terapista della riabilitazione. Detta certificazione non deve essere di data anteriore a novanta giorni al momento della domanda di iscrizione.
 
@@ -100,7 +100,7 @@ Agli effetti dell'applicazione dell'[art. 6 della legge 11 gennaio 1994, n. 29](
 
 Nota all'art. 4:
  - Il testo dell'art. 6 della citata [legge n. 29/1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994;29) e' il seguente:
- "Art. 6 (Norme transitorie). - 1. In sede di prima applicazione della presente legge e comunque entro il termine di tre anni stabilito dall'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), gli iscritti all'albo professionale nazionale dei massaggiatori e massofisioterapisti ciechi istituito con [legge 21 luglio 1961, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;686), che abbiano prestato almeno cinque anni di effettivo servizio, sono iscritti di diritto all'albo professionale nazionale di cui all'art. 2 e sono equiparati a tutti gli effetti ai terapisti della riabilitazione".
+ "Art. 6 (Norme transitorie). - 1. In sede di prima applicazione della presente legge e comunque entro il termine di tre anni stabilito dall'[art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](../Decreti%20Legislativi/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), gli iscritti all'albo professionale nazionale dei massaggiatori e massofisioterapisti ciechi istituito con [legge 21 luglio 1961, n. 686](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;686), che abbiano prestato almeno cinque anni di effettivo servizio, sono iscritti di diritto all'albo professionale nazionale di cui all'art. 2 e sono equiparati a tutti gli effetti ai terapisti della riabilitazione".
 
 ## Art. 5. — Ricorsi
 

@@ -18,7 +18,7 @@ Visto l'[articolo 45, comma 2, del decreto legislativo 1° settembre 1993, n. 38
 
 Sentito il Ministro delle politiche agricole e forestali;
 
-Visto l'[articolo 23 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md); Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
+Visto l'[articolo 23 del decreto legislativo 30 luglio 1999, n. 300](../Decreti%20Legislativi/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md); Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 13 gennaio 2003;
 
@@ -118,7 +118,7 @@ Nel caso di finanziamenti erogati in favore di soggetti con obbligo di bilancio,
 
 4.
 
-Se i finanziamenti sono di importo superiore a euro duecentocinquantamila, i bilanci di cui al comma 3 devono essere stati sottoposti a revisione e certificazione da parte di una societa' iscritta nell'albo di cui all'[articolo 161 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), ovvero nel registro di cui all'[articolo 6 del decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md). In caso di importo inferiore, il comitato direttivo della Sezione si riserva di richiedere una certificazione analoga o comunque idonea a documentare la congruita' dei dati espressi dal bilancio della ditta richiedente. ((1))
+Se i finanziamenti sono di importo superiore a euro duecentocinquantamila, i bilanci di cui al comma 3 devono essere stati sottoposti a revisione e certificazione da parte di una societa' iscritta nell'albo di cui all'[articolo 161 del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), ovvero nel registro di cui all'[articolo 6 del decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md). In caso di importo inferiore, il comitato direttivo della Sezione si riserva di richiedere una certificazione analoga o comunque idonea a documentare la congruita' dei dati espressi dal bilancio della ditta richiedente. ((1))
 
 --------------
 

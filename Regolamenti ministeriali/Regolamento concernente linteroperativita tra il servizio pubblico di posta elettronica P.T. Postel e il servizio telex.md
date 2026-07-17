@@ -12,9 +12,9 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [decreto del Presidente della Repubblica 7 febbraio 1963, n. 735](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20recante%20la%20disciplina%20del%20servizio%20telegrafico%20diretto%20fra%20utenti%20telegrafici%20telex.md), che approva il regolamento del servizio telegrafico diretto fra utenti telegrafici (telex);
+Visto il [decreto del Presidente della Repubblica 7 febbraio 1963, n. 735](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20recante%20la%20disciplina%20del%20servizio%20telegrafico%20diretto%20fra%20utenti%20telegrafici%20telex.md), che approva il regolamento del servizio telegrafico diretto fra utenti telegrafici (telex);
 
 Visto il [decreto ministeriale 29 maggio 1988, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1988-05-29;269), concernente l'autorizzazione al normale esercizio del servizio pubblico di posta elettronica;
 

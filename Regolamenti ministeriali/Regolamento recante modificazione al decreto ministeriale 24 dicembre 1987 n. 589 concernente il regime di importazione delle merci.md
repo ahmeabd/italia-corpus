@@ -20,7 +20,7 @@ Visto il [decreto luogotenenziale 16 gennaio 1946, n. 12](https://www.normattiva
 
 Visto il trattato istitutivo della Comunita' economica europea;
 
-Visto il [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), che approva il testo unico delle disposizioni legislative in materia doganale e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 23 gennaio 1973, n. 43](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md), che approva il testo unico delle disposizioni legislative in materia doganale e successive modificazioni;
 
 Visto il [decreto del Presidente della Repubblica 31 marzo 1988, n. 148](../DPR/Approvazione%20del%20testo%20unico%20delle%20norme%20di%20legge%20in%20materia%20valutaria.md), concernente l'approvazione del testo unico delle norme di legge in materia valutaria;
 

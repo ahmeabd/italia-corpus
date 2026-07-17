@@ -124,7 +124,7 @@ L'istanza deve essere corredata della seguente documentazione amministrativa, ne
 
 La Direzione generale provvede all'istruttoria delle domande di cui al comma 1 e all'acquisizione dei giudizi di cui ai commi 6 e 7.
 
-((6. Il giudizio medico-legale sul nesso causale tra la somministrazione del farmaco talidomide in gravidanza e le lesioni o l'infermita' da cui e' derivata la menomazione permanente del soggetto, nelle forme dell'amelia, dell'emimelia, della focomelia e della macromelia, e' espresso, entro 90 giorni dal ricevimento della documentazione, dalla commissione medico-ospedaliera interforze (di seguito denominata commissione medica), di cui all'[articolo 193 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md). Il giudizio tiene conto della documentazione prodotta e dei criteri indicati nell'allegato A al presente regolamento.))
+((6. Il giudizio medico-legale sul nesso causale tra la somministrazione del farmaco talidomide in gravidanza e le lesioni o l'infermita' da cui e' derivata la menomazione permanente del soggetto, nelle forme dell'amelia, dell'emimelia, della focomelia e della macromelia, e' espresso, entro 90 giorni dal ricevimento della documentazione, dalla commissione medico-ospedaliera interforze (di seguito denominata commissione medica), di cui all'[articolo 193 del decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md). Il giudizio tiene conto della documentazione prodotta e dei criteri indicati nell'allegato A al presente regolamento.))
 
 ((1))
 

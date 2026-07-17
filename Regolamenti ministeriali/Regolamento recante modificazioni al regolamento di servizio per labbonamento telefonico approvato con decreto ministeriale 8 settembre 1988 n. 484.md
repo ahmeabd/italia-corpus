@@ -12,11 +12,11 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto il [regio decreto 19 luglio 1941, n. 1198](../Regi%20decreti/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modificazioni;
+Visto il [regio decreto 19 luglio 1941, n. 1198](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20titoli%20I%20II%20e%20III%20del%20libro%20II%20della%20legge%20postale%20e%20delle%20telecomunicazioni.%20041U1198.md), e successive modificazioni;
 
 Vista la convenzione tra il Ministero delle poste e delle telecomunicazionie la societa' concessionaria SIP - Societa' italiana per l'esercizio delle telecomunicazioni p.a., approvata con [decreto del Presidente della Repubblica 13 agosto 1984, n. 523](../DPR/Approvazione%20ed%20esecuzione%20delle%20convenzioni%20per%20la%20concessione%20dei%20servizi%20di%20telecomunicazioni%20ad%20uso%20pubblico%20alle%20societa%20SIP%20Italcable%20e%20Telespazio.md);
 

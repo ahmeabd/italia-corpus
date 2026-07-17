@@ -267,7 +267,7 @@ Sulla base delle proposte presentate dalle regioni e dalla provincia autonoma di
                         h)
                             territori a gestione sociale della caccia, ex [legge n. 968/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;968);
                         i)
-                            aree di salvaguardia delle risorse idriche di cui all'[art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md);
+                            aree di salvaguardia delle risorse idriche di cui all'[art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md);
                         l)
                             zone svantaggiate di cui all'[art. 3, paragrafi 3 e 4, della direttiva CEE n. 75/268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;268). 
  Il Ministero, d'intesa con le predette amministrazioni, con successivo regolamento, potra' limitare la superficie delle zone preferenziali e in particolare di quelle indicate alla lettera l).(1) 

@@ -16,7 +16,7 @@ Visto in particolare l'[articolo 8, comma 4, della legge 4 maggio 1990, n. 107](
 
 Visto il piano per la razionalizzazione del sistema trasfusionale per il triennio 1994-1996, approvato con decreto del Presidente della Repubblica 7 aprile 1994, pubblicato nella Gazzetta Ufficiale n. 93 del 22 aprile 1994;
 
-Considerato che il predetto piano prevede che l'Istituto superiore di sanita', per i compiti di coordinamento svolti in attuazione delle direttive tecniche emanate dal Ministero della sanita', possa avvalersi del supporto dell'Agenzia per i servizi sanitari regionali di cui all'[articolo 5 del decreto legislativo 30 giugno 1993, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
+Considerato che il predetto piano prevede che l'Istituto superiore di sanita', per i compiti di coordinamento svolti in attuazione delle direttive tecniche emanate dal Ministero della sanita', possa avvalersi del supporto dell'Agenzia per i servizi sanitari regionali di cui all'[articolo 5 del decreto legislativo 30 giugno 1993, n. 266](../Decreti%20Legislativi/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
 Ritenuta la conseguente esigenza di adottare norme per regolamentare l'esercizio della funzione di coordinamento e per disciplinare i rapporti tra i predetti organismi in armonia con le attribuzioni di competenza del Ministero della sanita' e delle regioni e province autonome;
 

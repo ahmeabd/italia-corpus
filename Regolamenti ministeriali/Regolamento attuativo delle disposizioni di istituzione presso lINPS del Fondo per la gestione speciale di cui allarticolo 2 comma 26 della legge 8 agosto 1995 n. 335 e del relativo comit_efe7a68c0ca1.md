@@ -30,7 +30,7 @@ Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.n
 
 Visto l'[articolo 17, comma 25, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_17-com25);
 
-Visto il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20governativi/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md);
+Visto il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20di%20delegificazione/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md);
 
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 6 dicembre 1999;
 
@@ -63,7 +63,7 @@ Avvertenza:
  a) per l'emanazione degli atti normativi del Governo e dei singoli Ministri, ai sensi dell'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17), nonche' per l'emanazione di testi unici;
  b) per la decisione dei ricorsi straordinari al Presidente della Repubblica;
  c) sugli schemi generali di contratti-tipo, accordi e convenzioni predisposti da uno o piu' Ministri".
- - Il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20governativi/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), reca: "Regolamento concernente norme per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale".
+ - Il [decreto del Presidente della Repubblica 24 settembre 1997, n. 366](../Regolamenti%20di%20delegificazione/Regolamento%20concernente%20norme%20per%20lorganizzazione%20ed%20il%20funzionamento%20dellIstituto%20nazionale%20della%20previdenza%20sociale.md), reca: "Regolamento concernente norme per l'organizzazione ed il funzionamento dell'Istituto nazionale della previdenza sociale".
  Note all'art. 1:
  - Per il testo del [comma 2 dell'art. 58 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), si veda in note alle premesse.
  - Il testo del comma 1 dell'art. 49 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' il seguente:

@@ -50,9 +50,9 @@ A D O T T A N O il seguente regolamento:
 
 L'Istituto superiore prevenzione e sicurezza del lavoro (ISPESL) esercita direttamente le seguenti attivita' omologative di primo o nuovo impianto secondo la normativa a fianco indicata:
                         a)
-                            impianti di messa a terra ([art. 328 del decreto del Presidente della Repubblica n. 547 del 27 aprile 1955](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md); decreto ministeriale del 22 febbraio 1965 del Ministero del lavoro e della previdenza sociale);
+                            impianti di messa a terra ([art. 328 del decreto del Presidente della Repubblica n. 547 del 27 aprile 1955](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md); decreto ministeriale del 22 febbraio 1965 del Ministero del lavoro e della previdenza sociale);
                         b)
-                            installazioni e dispositivi di protezione dalle scariche atmosferiche ([art. 40 del decreto del Presidente della Repubblica n. 547 del 27 aprile 1955](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md); decreto ministeriale del 22 febbraio 1965 del Ministero del lavoro e della previdenza sociale).
+                            installazioni e dispositivi di protezione dalle scariche atmosferiche ([art. 40 del decreto del Presidente della Repubblica n. 547 del 27 aprile 1955](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md); decreto ministeriale del 22 febbraio 1965 del Ministero del lavoro e della previdenza sociale).
 
 2.
 

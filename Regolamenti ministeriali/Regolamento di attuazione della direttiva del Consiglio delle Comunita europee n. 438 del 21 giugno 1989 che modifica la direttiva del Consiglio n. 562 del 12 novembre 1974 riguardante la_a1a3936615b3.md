@@ -52,14 +52,14 @@ AVVERTENZA:
 
 1.
 
-Sono esonerate dall'applicazione delle disposizioni contenute nel presente regolamento le imprese che effettuano esclusivamente trasporto di viaggiatori su strada a fini non commerciali mediante autobus immatricolati ai sensi dell'art. 58, comma 7, seconda parte, del [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni ed integrazioni.
+Sono esonerate dall'applicazione delle disposizioni contenute nel presente regolamento le imprese che effettuano esclusivamente trasporto di viaggiatori su strada a fini non commerciali mediante autobus immatricolati ai sensi dell'art. 58, comma 7, seconda parte, del [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni ed integrazioni.
 
 2.
 
 L'esercizio dei servizi pubblici di linea e l'attivita' di noleggio con conducente, restano soggetti alle apposite disposizioni, in quanto compatibili con quelle del presente regolamento.
 
 Nota all'art. 2:
- - Il testo dell'[art. 58, comma 7, del testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [D.P.R. n. 393/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;393), nella sua formulazione attuale e' il seguente:
+ - Il testo dell'[art. 58, comma 7, del testo unico delle norme sulla circolazione](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [D.P.R. n. 393/1959](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959;393), nella sua formulazione attuale e' il seguente:
  "7. Quando si tratti di autoveicoli o motocarrozzette da destinare a noleggio con conducente ovvero di veicoli da destinare a servizi pubblici, la carta di circolazione non puo' essere rilasciata se il richiedente non abbia conseguito il titolo per effettuare il servizio. Quando si tratti di autobus da destinare ad uso privato la carta di circolazione non puo' essere rilasciata se non ad imprenditori, collettivita' e simili, per le loro necessita'".
 
 ## Art. 3. — Requisiti per l'accesso alla professione

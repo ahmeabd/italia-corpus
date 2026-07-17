@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto del Ministro delle poste e delle telecomunicazioni 21 febbraio 1986, concernente la normativa relativa ai collegamenti radiomobili privati, pubblicato nel supplemento ordinario alla Gazzetta ufficiale n. 173 del 28 luglio 1986;
 

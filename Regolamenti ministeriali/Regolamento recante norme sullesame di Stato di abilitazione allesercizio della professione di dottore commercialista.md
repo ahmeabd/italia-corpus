@@ -18,7 +18,7 @@ Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 17 febbraio 1992, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;206);
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 88](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), di attuazione della [direttiva CEE n. 84/253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253), ed in particolare l'articolo 4;
+Visto il [decreto legislativo 27 gennaio 1992, n. 88](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2084-253-CEE%20relativa%20allabilitazione%20delle%20persone%20incaricate%20del%20controllo%20di%20legge%20dei%20documenti%20contabili.md), di attuazione della [direttiva CEE n. 84/253](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;253), ed in particolare l'articolo 4;
 
 Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 

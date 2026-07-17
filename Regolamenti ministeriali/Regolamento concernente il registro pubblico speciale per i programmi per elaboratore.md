@@ -14,7 +14,7 @@ Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), per la protezione del diritto d'autore e di altri diritti connessi al suo esercizio;
 
-Visto l'art. 7 della legge di delega 19 dicembre 1992, n. 489, ed il relativo [decreto legislativo 29 dicembre 1992, n. 518](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-250-CEE%20relativa%20alla%20tutela%20giuridica%20dei%20programmi%20per%20elaboratore.md), di recepimento della [direttiva 91/250/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;250) relativa alla tutela giuridica dei programmi per elaboratore ed in particolare gli articoli 6, 7 e 12;
+Visto l'art. 7 della legge di delega 19 dicembre 1992, n. 489, ed il relativo [decreto legislativo 29 dicembre 1992, n. 518](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-250-CEE%20relativa%20alla%20tutela%20giuridica%20dei%20programmi%20per%20elaboratore.md), di recepimento della [direttiva 91/250/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;250) relativa alla tutela giuridica dei programmi per elaboratore ed in particolare gli articoli 6, 7 e 12;
 
 Sentita la Societa' italiana degli autori ed editori;
 
@@ -26,7 +26,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Il registro pubblico speciale per i programmi per elaboratore tenuto della Societa' italiana degli autori ed editori (S.I.A.E.) ai sensi dell'[art. 103, quarto comma, della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_103-com4), come modificato dal [decreto legislativo 29 dicembre 1992, n. 518](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-250-CEE%20relativa%20alla%20tutela%20giuridica%20dei%20programmi%20per%20elaboratore.md), puo' essere tenuto con mezzi e strumenti informatici. Le registrazioni sono eseguite secondo l'ordine cronologico di presentazione o di arrivo, con numerazione progressiva e data.
+Il registro pubblico speciale per i programmi per elaboratore tenuto della Societa' italiana degli autori ed editori (S.I.A.E.) ai sensi dell'[art. 103, quarto comma, della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_103-com4), come modificato dal [decreto legislativo 29 dicembre 1992, n. 518](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-250-CEE%20relativa%20alla%20tutela%20giuridica%20dei%20programmi%20per%20elaboratore.md), puo' essere tenuto con mezzi e strumenti informatici. Le registrazioni sono eseguite secondo l'ordine cronologico di presentazione o di arrivo, con numerazione progressiva e data.
 
 AVVERTENZA: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -84,7 +84,7 @@ Per i programmi importati da persone fisiche o giuridiche stabilmente domiciliat
 
 4.
 
-Per le traduzioni, gli adattamenti o altre elaborazioni di un programma, di cui in particolare all'[art. 64-bis, comma 1, lettera b), della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_64bis-com1-letb), come introdotto dall'[art. 5 del decreto legislativo 29 dicembre 1992, n. 518](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-250-CEE%20relativa%20alla%20tutela%20giuridica%20dei%20programmi%20per%20elaboratore.md), la dichiarazione deve contenere, oltre alla indicazione dei dati identificativi dell'opera, riferiti al programma originario, le medesime indicazioni di cui al comma 1 riferite al programma derivato.
+Per le traduzioni, gli adattamenti o altre elaborazioni di un programma, di cui in particolare all'[art. 64-bis, comma 1, lettera b), della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_64bis-com1-letb), come introdotto dall'[art. 5 del decreto legislativo 29 dicembre 1992, n. 518](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2091-250-CEE%20relativa%20alla%20tutela%20giuridica%20dei%20programmi%20per%20elaboratore.md), la dichiarazione deve contenere, oltre alla indicazione dei dati identificativi dell'opera, riferiti al programma originario, le medesime indicazioni di cui al comma 1 riferite al programma derivato.
 
 5.
 

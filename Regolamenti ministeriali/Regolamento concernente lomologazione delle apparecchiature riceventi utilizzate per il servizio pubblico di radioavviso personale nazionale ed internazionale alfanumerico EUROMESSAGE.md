@@ -12,7 +12,7 @@ IL MINISTRO DELLE POSTE
 
 E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Visto il decreto ministeriale 31 gennaio 1983, con il quale e' stato approvato il Piano nazionale di ripartizione delle radiofrequenze, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983;
 
@@ -24,9 +24,9 @@ Visto l'allegato 11 del regolamento recante disposizioni di attuazione della [le
 
 Visto il [decreto ministeriale 8 gennaio 1992, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-01-08;43), con il quale e' stato adottato il regolamento recante norme sul servizio radiomobile pubblico di teleavviso personale;
 
-Visto il [decreto legislativo 4 dicembre 1992, n. 476](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), concernente l'attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31);
+Visto il [decreto legislativo 4 dicembre 1992, n. 476](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), concernente l'attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31);
 
-Visto il [decreto legislativo 29 dicembre 1992, n. 519](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20per%20terminali%20di%20telecomunicazione.md), di attuazione della [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) concernente il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature terminali di telecomunicazioni;
+Visto il [decreto legislativo 29 dicembre 1992, n. 519](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20per%20terminali%20di%20telecomunicazione.md), di attuazione della [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) concernente il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature terminali di telecomunicazioni;
 
 Visto l'[art. 17 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17);
 
@@ -54,7 +54,7 @@ AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  
  Nota alle premesse: 
- - Il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il 
+ - Il testo dell'[art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'[art. 74 del D.Lgs. 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e' il 
  seguente: 
  "Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati i regolamenti per disciplinare: 
  a) l'esecuzione delle leggi e dei decreti legislativi; 
@@ -369,7 +369,7 @@ La protezione contro l'intermodulazione non deve essere inferiore a 50 dB in con
 
 1.
 
-Nel rispetto di quanto previsto dalla [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336), adottata in Italia con il [decreto legislativo 4 dicembre 1992, n. 476](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), ed al fine dell'efficace gestione dello spettro, devono essere rispettate le disposizioni riportate nel presente articolo.
+Nel rispetto di quanto previsto dalla [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336), adottata in Italia con il [decreto legislativo 4 dicembre 1992, n. 476](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), ed al fine dell'efficace gestione dello spettro, devono essere rispettate le disposizioni riportate nel presente articolo.
 
 2.
 
@@ -388,7 +388,7 @@ La potenza di ogni irradiazione parassita nel campo di frequenza fino a 1 GHz no
 Nel campo di frequenze (minore) 1 GHz tale irradiazione parassita non deve essere superiore a 20 nW.
 
 Nota all'[art. 22:
- - Il D.Lgs. 4 dicembre 1992, n. 476](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), ha dato attuazione alla [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31).
+ - Il D.Lgs. 4 dicembre 1992, n. 476](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), ha dato attuazione alla [direttiva 89/336/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE del Consiglio del 28 aprile 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31).
 
 ## Art. 23. — Precisione delle misure
 

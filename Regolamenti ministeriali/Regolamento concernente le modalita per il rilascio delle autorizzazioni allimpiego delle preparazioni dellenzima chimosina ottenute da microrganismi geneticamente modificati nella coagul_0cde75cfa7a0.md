@@ -14,7 +14,7 @@ Viste le definizioni di formaggio, dei relativi sistemi di produzione nonche' de
 
 Vista la [legge 10 aprile 1954, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;125), concernente la tutela delle denominazioni di origine e tipiche dei formaggi, e i relativi successivi decreti applicativi;
 
-Visto il [decreto del Presidente della Repubblica 18 maggio 1982, n. 322](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2079-112%20relativa%20alletichettatura%20dei%20prodotti%20alimentari%20destinati%20al%20consumatore%20finale%20ed%20alla%20relativa%20pubblicita%20nonche%20della%20direttiva%20CEE%20n.%2077-94%20_1b442d5f130f.md), concernente l'attuazione della [direttiva CEE n. 79/112 del 18 dicembre 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;112), relativa ai prodotti alimentari destinati al consumatore finale ed alla relativa pubblicita';
+Visto il [decreto del Presidente della Repubblica 18 maggio 1982, n. 322](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20CEE%20n.%2079-112%20relativa%20ai%20prodotti%20alimentari%20destinati%20al%20consumatore%20finale%20ed%20alla%20relativa%20pubblicita%20nonche%20della%20direttiva%20CEE%20n.%2077-94%20relativa%20ai%20prodot_3337b7d34f7c.md), concernente l'attuazione della [direttiva CEE n. 79/112 del 18 dicembre 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;112), relativa ai prodotti alimentari destinati al consumatore finale ed alla relativa pubblicita';
 
 Rilevato che attualmente la produzione e la commercializzazione di preparazioni di chimosina di origine microbica ottenuta con la tecnica del DNA-ricombinante e' autorizzata in alcuni Stati membri della CEE e in altri Stati;
 

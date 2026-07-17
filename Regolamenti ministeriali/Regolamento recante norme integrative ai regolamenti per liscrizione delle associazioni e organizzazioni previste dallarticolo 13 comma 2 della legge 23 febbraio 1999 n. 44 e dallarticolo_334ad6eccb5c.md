@@ -98,7 +98,7 @@ Non possono, altresi', conseguire l'iscrizione gli enti che nel periodo di cui a
 
 3.
 
-Non possono conseguire l'iscrizione le associazioni e le fondazioni riconosciute per la prevenzione del fenomeno dell'usura, gia' iscritte nell'elenco di cui all'[articolo 15, comma 4 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com4), che risultino cancellate dal medesimo elenco, a termini delle disposizioni di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](../Regolamenti%20governativi/Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
+Non possono conseguire l'iscrizione le associazioni e le fondazioni riconosciute per la prevenzione del fenomeno dell'usura, gia' iscritte nell'elenco di cui all'[articolo 15, comma 4 della legge 7 marzo 1996, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-03-07;108#art_15-com4), che risultino cancellate dal medesimo elenco, a termini delle disposizioni di cui al [decreto del Presidente della Repubblica 11 giugno 1997, n. 315](../DPR/Regolamento%20di%20attuazione%20dellarticolo%2015%20della%20legge%207%20marzo%201996%20n.%20108%20concernente%20il%20fondo%20per%20la%20prevenzione%20del%20fenomeno%20dellusura.md).
 
 4.
 

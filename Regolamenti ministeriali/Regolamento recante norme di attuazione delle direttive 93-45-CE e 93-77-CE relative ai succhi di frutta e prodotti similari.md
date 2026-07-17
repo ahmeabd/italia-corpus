@@ -20,7 +20,7 @@ Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Di
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) sulla disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Visto il [decreto del Presidente della Repubblica del 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md) con il quale e' stata data attuazione alle [direttive CEE 75 / 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;725) e [79 / 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;168) relative ai succhi di frutta e prodotti similari;
+Visto il [decreto del Presidente della Repubblica del 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md) con il quale e' stata data attuazione alle [direttive CEE 75 / 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;725) e [79 / 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;168) relative ai succhi di frutta e prodotti similari;
 
 Vista la [direttiva 93/45/CE della Commissione del 17 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1993;45) relativa alla produzione di nettari senza aggiunta di zuccheri o di miele;
 
@@ -40,7 +40,7 @@ Adotta il seguente regolamento:
 
 1.
 
-Per la preparazione dei succhi di frutta, tra i procedimenti ed i trattamenti fisici usuali di cui all'[articolo 5, comma 1, del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' compresa l'utilizzazione delle resine adsorbenti per la deamarizzazione dei succhi.
+Per la preparazione dei succhi di frutta, tra i procedimenti ed i trattamenti fisici usuali di cui all'[articolo 5, comma 1, del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' compresa l'utilizzazione delle resine adsorbenti per la deamarizzazione dei succhi.
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti 
@@ -50,10 +50,10 @@ Avvertenza:
  - Il [comma 3 dell'art. 17 della legge n. 400 / 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali e interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della 
  Corte dei conti e pubblicati nella Gazzetta Ufficiale. 
- - Il [D.P.R. 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' stato pubblicato nella Gazzetta Ufficiale della Repubblica 
+ - Il [D.P.R. 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' stato pubblicato nella Gazzetta Ufficiale della Repubblica 
  italiana n. 210 del 2 agosto 1982. 
  Note all'articolato: 
- - Il [comma 1 dell'art. 5 del D.P.R. 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' il seguente: 
+ - Il [comma 1 dell'art. 5 del D.P.R. 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' il seguente: 
  "Per la preparazione dei succhi di frutta sono consentiti: 
  a) la mescolanza di succhi di frutta e/o di purea di frutta di una o piu specie; 
  b) i procedimenti ed i trattamenti fisici usuali, quali i trattamenti termici, la centrifugazione e la filtrazione, nonche' l'uso delle sostanze previste dal D.M. 31 marzo 1965, e successive modificazioni, concernente la disciplina degli additivi chimici consentiti nella preparazione e per la conservazione delle sostanze alimentari; 
@@ -63,10 +63,10 @@ Avvertenza:
  2) in quantita', espressa in sostanza secca, non superiore a: 
  200 g per litro di succo per i succhi di limone, di limetta, di bergamotto e di ribes; 
  100 g per litro di succo negli altri casi per ottenere un gusto dolce. Ne e' vietato l'impiego nella preparazione del succo di mela. 
- - Il [comma 1, lettera b), dell'art. 6 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' il seguente: 
+ - Il [comma 1, lettera b), dell'art. 6 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' il seguente: 
  "Per la preparazione dei succhi concentrati sono consentiti: 
  a) (omissis); 
- b) i trattamenti ed i procedimenti di cui all'art. 5; tuttavia l'aggiunta di zuccheri, di cui all'art. 5, primo comma, lettera c), punto 2, e' consentita solo per i succhi di frutta concentrati preconfezionati destinati al consumatore finale, con le quantita' massime prescritte dallo stesso articolo ed a condizione che se ne faccia menzione nella denominazione di vendita". - L'[art. 8 del D.P.R. 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' il 
+ b) i trattamenti ed i procedimenti di cui all'art. 5; tuttavia l'aggiunta di zuccheri, di cui all'art. 5, primo comma, lettera c), punto 2, e' consentita solo per i succhi di frutta concentrati preconfezionati destinati al consumatore finale, con le quantita' massime prescritte dallo stesso articolo ed a condizione che se ne faccia menzione nella denominazione di vendita". - L'[art. 8 del D.P.R. 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' il 
  seguente: 
  "Per la preparazione dei nettari di frutta sono consentiti: 
  a) la mescolanza dei nettari di una o piu' specie, eventualmente con aggiunta di succo o purea di frutta; 
@@ -81,13 +81,13 @@ Avvertenza:
 
 1.
 
-Per la preparazione dei nettari di frutta di cui all'[articolo 8 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), possono essere utilizzati, separatamente o insieme, senza aggiunta di zuccheri o di miele, i frutti elencati ai punti II e III dell'allegato del decreto medesimo nonche' l'albicocca, quando il loro elevato tenore naturale di zuccheri lo giustifica.
+Per la preparazione dei nettari di frutta di cui all'[articolo 8 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), possono essere utilizzati, separatamente o insieme, senza aggiunta di zuccheri o di miele, i frutti elencati ai punti II e III dell'allegato del decreto medesimo nonche' l'albicocca, quando il loro elevato tenore naturale di zuccheri lo giustifica.
 
 ## Art. 3. — Succhi di frutta concentrati
 
 1.
 
-Ai fini dell'applicazione dell'[articolo 6, comma 1, lettera b), del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), la quantita' complessiva di zuccheri aggiunti, espressa rispetto al volume di succo "a base di ... concentrato", non deve superare i valori indicati all'articolo 5, comma 1, lettera c), del decreto medesimo.
+Ai fini dell'applicazione dell'[articolo 6, comma 1, lettera b), del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), la quantita' complessiva di zuccheri aggiunti, espressa rispetto al volume di succo "a base di ... concentrato", non deve superare i valori indicati all'articolo 5, comma 1, lettera c), del decreto medesimo.
 
 2.
 

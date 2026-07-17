@@ -20,7 +20,7 @@ DELL'AGRICOLTURA E DELLE FORESTE
 
 Vista la [legge 16 luglio 1974, n. 722](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20della%20convenzione%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20adottata%20a%20Parigi%20il%202%20dicembre%201961%20e%20dellatto%20addizionale%20recante%20modifiche%20alla%20convenzione%20stessa%20ado_d9bc95b606c0.md), recante la ratifica ed esecuzione della convenzione per la protezione dei ritrovati vegetali, adottata a Parigi il 2 dicembre 1961 e dell'atto addizionale recante modifiche alla convenzione stessa, adottato a Ginevra il 10 novembre 1972;
 
-Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), contenente norme per la protezione delle nuove varieta' vegetali (come modificato dalla [legge 14 ottobre 1985, n. 620](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellatto%20di%20revisione%20della%20convenzione%20internazionale%20del%202%20dicembre%201961%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20riveduta%20il%2010%20novembre%201972%20firmato%20a%20Ginevra%20i_6b238489b16b.md)) ed in particolare l'art. 24, comma 2;
+Visto il [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), contenente norme per la protezione delle nuove varieta' vegetali (come modificato dalla [legge 14 ottobre 1985, n. 620](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20dellatto%20di%20revisione%20della%20convenzione%20internazionale%20del%202%20dicembre%201961%20per%20la%20protezione%20dei%20ritrovati%20vegetali%20riveduta%20il%2010%20novembre%201972%20firmato%20a%20Ginevra%20i_6b238489b16b.md)) ed in particolare l'art. 24, comma 2;
 
 Considerata l'opportunita' di estendere le disposizioni recate dal citato [decreto del Presidente della Repubblica n. 974 del 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975;974) ad altri generi e specie botanici;
 
@@ -36,7 +36,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-L'applicazione delle norme contenute nel [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../DPR/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), viene estesa alle nuove varieta' dei generi e delle specie le cui denominazioni, nella duplice versione latina ed italiana, sono riportate nell'elenco che segue: 
+L'applicazione delle norme contenute nel [decreto del Presidente della Repubblica 12 agosto 1975, n. 974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20protezione%20delle%20nuove%20varieta%20vegetali%20in%20attuazione%20della%20delega%20di%20cui%20alla%20legge%2016%20luglio%201974%20n.%20722.md), viene estesa alle nuove varieta' dei generi e delle specie le cui denominazioni, nella duplice versione latina ed italiana, sono riportate nell'elenco che segue: 
  1) Rubus Idaeus L., Lampone; 
  2) Rubus (gen.), Mora e specie affini; 
  3) Vaccinium (gen.), Mirtillo e specie affini; 

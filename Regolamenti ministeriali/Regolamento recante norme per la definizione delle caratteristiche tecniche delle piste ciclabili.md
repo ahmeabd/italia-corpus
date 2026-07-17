@@ -20,9 +20,9 @@ Visto l'[articolo 7 della legge 19 ottobre 1998, n. 366](https://www.normattiva.
 
 Visto l'[articolo 17, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3) e [4 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4);
 
-Visto il [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto il [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni;
 
 Udito il parere del Consiglio di Stato, espresso dalla sezione
 
@@ -53,8 +53,8 @@ Avvertenza:
  "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.
  I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.
  4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento , sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
- - Per l'argomento del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), vedasi nelle note all'art. 3.
- - Per l'argomento del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), vedasi nelle note all'art. 4.
+ - Per l'argomento del [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), vedasi nelle note all'art. 3.
+ - Per l'argomento del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), vedasi nelle note all'art. 4.
 
 ### Art. 2. — Finalita' e criteri di progettazione
 
@@ -81,11 +81,11 @@ Nell'ambito di tale piano e' ammessa la possibilita' di considerare itinerari is
 
 2.
 
-Per i comuni che sono tenuti alla predisposizione del Piano urbano del traffico (PUT), ai sensi dell'[articolo 36 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), il piano della rete ciclabile deve essere inserito in maniera organica, quale piano di settore, all'interno del PUT, secondo le indicazioni delle direttive ministeriali pubblicate nel supplemento ordinario n. 77 alla Gazzetta Ufficiale del 24 giugno 1995. Per i comuni non tenuti alla predisposizione del PUT occorre comunque procedere ad una verifica di compatibilita', soprattutto ai fini della sicurezza, con le altre modalita' di trasporto;
+Per i comuni che sono tenuti alla predisposizione del Piano urbano del traffico (PUT), ai sensi dell'[articolo 36 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), il piano della rete ciclabile deve essere inserito in maniera organica, quale piano di settore, all'interno del PUT, secondo le indicazioni delle direttive ministeriali pubblicate nel supplemento ordinario n. 77 alla Gazzetta Ufficiale del 24 giugno 1995. Per i comuni non tenuti alla predisposizione del PUT occorre comunque procedere ad una verifica di compatibilita', soprattutto ai fini della sicurezza, con le altre modalita' di trasporto;
  b) i progetti degli itinerari ciclabili, previsti dal piano di cui al punto a), che prevedano anche, ove necessario, la riqualificazione dello spazio stradale circostante; in particolare, i progetti devono considerare e prevedere adeguate soluzioni per favorire la sicurezza della mobilita' ciclistica nei punti di maggior conflitto con i pedoni e i veicoli a motore (intersezioni, accessi a nodi attrattivi, ecc.).
 
 Note all'art. 3:
- - Il testo dell'[art. 36 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante: "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario n. 114 alla Gazzetta Ufficiale del 18 maggio 1992, e' il seguente:
+ - Il testo dell'[art. 36 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante: "Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario n. 114 alla Gazzetta Ufficiale del 18 maggio 1992, e' il seguente:
  "Art. 36 (Piani urbani del traffico e piani del traffico per la viabilita' extraurbana). - 1. Ai comuni, con popolazione residente superiore a trentamila abitanti, e' fatto obbligo dell'adozione del piano urbano del traffico.
  2. All'obbligo di cui al comma 1 sono tenuti ad adempiere i comuni con popolazione residente inferiore a trentamila abitanti i quali registrino, anche in periodi dell'anno, una particolare affluenza turistica, risultino interessati da elevati fenomeni di pendolarismo o siano, comunque, impegnati per altre particolari ragioni alla soluzione di rilevanti problematiche derivanti da congestione della circolazione stradale. L'elenco dei comuni interessati viene predisposto dalla regione e pubblicato, a cura del Ministero dei lavori pubblici, nella Gazzetta Ufficiale della Repubblica italiana.
  3. Le province provvedono all'adozione di piani del traffico per la viabilita' extraurbana d'intesa con gli altri enti proprietari delle strade interessate. La legge regionale puo' provvedere, ai sensi dell'[art. 19 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md), che alla redazione del piano urbano del traffico delle aree, indicate all'art. 142, che alla redazione del piano urbano del traffico delle aree, indicate all'art. 17 della stessa, provvedano gli organi della citta' metropolitana.
@@ -96,7 +96,7 @@ Note all'art. 3:
  8. E' istituito, presso il Ministero dei lavori pubblici, l'albo degli esperti in materia di piani di traffico, formato mediante concorsi biennali per titoli. Il bando di concorso e' approvato con decreto del Ministro dei lavori pubblici, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica.
  9. A partire dalla data di formazione dell'albo degli esperti di cui al comma 8 e' fatto obbligo di conferire l'incarico della redazione dei piani di traffico, oltre che a tecnici specializzati appartenenti al proprio ufficio tecnico del traffico, agli esperti specializzati inclusi nell'albo stesso.
  10. I comuni e gli enti inadempienti sono invitati su segnalazione del prefetto dal Ministero dei lavori pubblici a provvedere, entro un termine assegnato, trascorso il quale il Ministero provvede alla esecuzione d'ufficio del piano ed alla sua realizzazione".
- - Il decreto interministeriale recante: "Direttive per la redazione, adozione ed attuazione dei piani urbani di traffico ([art. 36 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md))" e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 24 giugno 1995, n. 146.
+ - Il decreto interministeriale recante: "Direttive per la redazione, adozione ed attuazione dei piani urbani di traffico ([art. 36 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md). Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md))" e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 24 giugno 1995, n. 146.
 
 ### Art. 4. — Ulteriori elementi per la progettazione
 
@@ -134,7 +134,7 @@ Nel capo II del presente regolamento sono definite le norme da rispettare per la
 
 5.
 
-I percorsi promiscui pedonali e ciclabili, identificabili con la figura II 92/b del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono realizzati, di norma, all'interno di parchi o di zone a traffico prevalentemente pedonale, nel caso in cui l'ampiezza della carreggiata o la ridotta entita' del traffico ciclistico non richiedano la realizzazione di specifiche piste ciclabili. I percorsi promiscui pedonali e ciclabili possono essere altresi' realizzati, previa apposizione della suddetta segnaletica, su parti della strada esterne alla carreggiata, rialzate o altrimenti delimitate e protette, usualmente destinate ai pedoni, qualora le stesse parti della strada non abbiano dimensioni sufficienti per la realizzazione di una pista ciclabile e di un contiguo percorso pedonale e gli stessi percorsi si rendano necessari per dare continuita' alla rete di itinerari ciclabili programmati. In tali casi, si ritiene opportuno che la parte della strada che si intende utilizzare quale percorso promiscuo pedonale e ciclabile abbia:
+I percorsi promiscui pedonali e ciclabili, identificabili con la figura II 92/b del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), sono realizzati, di norma, all'interno di parchi o di zone a traffico prevalentemente pedonale, nel caso in cui l'ampiezza della carreggiata o la ridotta entita' del traffico ciclistico non richiedano la realizzazione di specifiche piste ciclabili. I percorsi promiscui pedonali e ciclabili possono essere altresi' realizzati, previa apposizione della suddetta segnaletica, su parti della strada esterne alla carreggiata, rialzate o altrimenti delimitate e protette, usualmente destinate ai pedoni, qualora le stesse parti della strada non abbiano dimensioni sufficienti per la realizzazione di una pista ciclabile e di un contiguo percorso pedonale e gli stessi percorsi si rendano necessari per dare continuita' alla rete di itinerari ciclabili programmati. In tali casi, si ritiene opportuno che la parte della strada che si intende utilizzare quale percorso promiscuo pedonale e ciclabile abbia:
                             a)
                                 larghezza adeguatamente incrementata rispetto ai minimi fissati per le piste ciclabili all'articolo 7;
                             b)
@@ -149,7 +149,7 @@ I percorsi ciclabili su carreggiata stradale, in promiscuo con i veicoli a motor
 Al fine di garantire nel tempo l'accessibilita' degli itinerari e la sicurezza della circolazione, le piste ed i percorsi promiscui devono essere costantemente oggetto di interventi di manutenzione.
 
 Note all'art. 4:
- - Per la figura n. 92/b si veda negli allegati al Titolo II del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante: "Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 dicembre 1992, n. 303.
+ - Per la figura n. 92/b si veda negli allegati al Titolo II del [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante: "Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 dicembre 1992, n. 303.
  - Per le direttive ministeriali 24 giugno 1995 si veda nelle note all'art. 3.
 
 ### Art. 5. — Fattibilita' tecnico-economica
@@ -209,7 +209,7 @@ In area urbana la circolazione ciclistica va indirizzata prevalentemente su stra
 
 6.
 
-In generale e con riferimento specifico alla tipologia delle strade indicata nel [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e' da osservare che:
+In generale e con riferimento specifico alla tipologia delle strade indicata nel [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e' da osservare che:
                             a)
                                 sulle autostrade, extraurbane ed urbane, e sulle strade extraurbane principali, la circolazione ciclistica e' vietata, ai sensi dell'articolo 175 del suddetto decreto legislativo, e da indirizzare sulle relative strade di servizio;
                             b)
@@ -220,7 +220,7 @@ In generale e con riferimento specifico alla tipologia delle strade indicata nel
                                 sulle strade locali urbane, le piste ciclabili - ove occorrano - devono essere sempre realizzate su corsie riservate.
 
 Note all'art. 6:
- - Il testo dell'[art. 175, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante: "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario n. 114 alla Gazzetta Ufficiale del 18 maggio 1992, e' il seguente:
+ - Il testo dell'[art. 175, comma 2, del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante: "Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario n. 114 alla Gazzetta Ufficiale del 18 maggio 1992, e' il seguente:
  "2. E' vietata la circolazione dei seguenti veicoli sulle autostrade e sulle strade di cui al comma 1:
  a) velocipedi, ciclomotori, motocicli di cilindrata inferiore a 150 cc se a motore termico e motocarrozzette di cilindrata inferiore a 250 cc se a motore termico;
  b) altri motoveicoli di massa a vuoto fino a 400 kg o di massa complessiva fino a 1300 kg;
@@ -244,14 +244,14 @@ Per le piste ciclabili in sede propria e per quelle su corsie riservate, la larg
 
 3.
 
-Le larghezze di cui ai commi precedenti rappresentano i minimi inderogabili per le piste sulle quali e' prevista la circolazione solo di velocipedi a due ruote. Per le piste sulle quali e' ammessa la circolazione di velocipedi a tre o piu' ruote, le suddette dimensioni devono essere opportunamente adeguate tenendo conto dei limiti dimensionali dei velocipedi fissati dall'[articolo 50 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
+Le larghezze di cui ai commi precedenti rappresentano i minimi inderogabili per le piste sulle quali e' prevista la circolazione solo di velocipedi a due ruote. Per le piste sulle quali e' ammessa la circolazione di velocipedi a tre o piu' ruote, le suddette dimensioni devono essere opportunamente adeguate tenendo conto dei limiti dimensionali dei velocipedi fissati dall'[articolo 50 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md).
 
 4.
 
 La larghezza dello spartitraffico fisicamente invalicabile che separa la pista ciclabile in sede propria dalla carreggiata destinata ai veicoli a motore, non deve essere inferiore a 0,50 m.
 
 Note all'art. 7:
- - Il testo dell'[art. 50 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), recante: "Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario n. 114 alla Gazzetta Ufficiale del 18 maggio 1992, e' il seguente:
+ - Il testo dell'[art. 50 del decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), recante: "Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario n. 114 alla Gazzetta Ufficiale del 18 maggio 1992, e' il seguente:
  "Art. 50. - 1. I velocipedi sono i veicoli con due o piu' ruote funzionanti a propulsione esclusivamente muscolare, per mezzo di pedali o di analoghi dispositivi, azionati dalle persone che si trovano sul veicolo.
  2. I velocipedi non possono superare 1,30 m di larghezza, 3 m di lunghezza e 2,20 m di altezza".
 
@@ -303,14 +303,14 @@ Per gli attraversamenti a livelli sfalsati riservati ai ciclisti (piste ciclabil
 
 1.
 
-Ferma restando l'applicazione delle disposizioni relative alla segnaletica stradale previste dal [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e dal [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, le piste ciclabili devono essere provviste della specifica segnaletica verticale di cui ai commi 9 e 10 dell'articolo 122 del suddetto decreto del Presidente della Repubblica all'inizio ed alla fine del loro percorso, dopo ogni interruzione e dopo ogni intersezione.
+Ferma restando l'applicazione delle disposizioni relative alla segnaletica stradale previste dal [decreto legislativo 30 aprile 1992, n. 285](../Codici/Nuovo%20codice%20della%20strada.md), e dal [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e successive modificazioni, le piste ciclabili devono essere provviste della specifica segnaletica verticale di cui ai commi 9 e 10 dell'articolo 122 del suddetto decreto del Presidente della Repubblica all'inizio ed alla fine del loro percorso, dopo ogni interruzione e dopo ogni intersezione.
 
 2.
 
 Le piste ciclabili devono essere provviste di appositi simboli e scritte orizzontali che ne distinguano l'uso specialistico, anche se la pavimentazione delle stesse e' contraddistinta nel colore da quella delle contigue parti di sede stradale destinate ai veicoli a motore ed ai pedoni. Analogamente deve essere segnalato, con apposite frecce direzionali sulla pavimentazione, ogni cambio di direzione della pista.
 
 Note all'art. 10:
- - Il testo dell'[art. 122, commi 9](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e [10, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20governativi/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante: "Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 dicembre 1992, n. 303, cosi' come modificato dal [decreto del Presidente della Repubblica 16 settembre 1996, n. 610](../Regolamenti%20governativi/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20concernente%20il%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20Codice%20della%20strada.md), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 4 dicembre 1996, n. 284, e' il seguente:
+ - Il testo dell'[art. 122, commi 9](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md) e [10, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../Regolamenti%20di%20delegificazione/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), recante: "Regolamento di esecuzione e di attuazione del Nuovo [codice della strada](../Codici/Nuovo%20codice%20della%20strada.md)", pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 28 dicembre 1992, n. 303, cosi' come modificato dal [decreto del Presidente della Repubblica 16 settembre 1996, n. 610](../Regolamenti%20di%20delegificazione/Regolamento%20recante%20modifiche%20al%20decreto%20del%20Presidente%20della%20Repubblica%2016%20dicembre%201992%20n.%20495%20concernente%20il%20regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20Codice%20della%20strada.md), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 4 dicembre 1996, n. 284, e' il seguente:
  "9. I segnali di circolazione riservata a determinate categorie di utenti il cui simbolo e' in essi contenuto indicano che la strada o parte di essa e' riservata alla sola categoria di utenti prevista mentre e' vietata alle altre. Tali segnali sono:
  a) il segnale percorso pedonale (fig. II.88) che deve essere posto all'inizio di un viale, di un itinerario o di un percorso riservato ai soli pedoni da impiegare solo quando non risulta evidente la destinazione al transito pedonale;
  b) il segnale pista ciclabile (fig. II.90) che deve essere posto all'inizio di una pista, di una corsia o di un itinerario riservato alla circolazione dei velocipedi. Deve essere ripetuto dopo ogni interruzione o dopo le intersezioni;

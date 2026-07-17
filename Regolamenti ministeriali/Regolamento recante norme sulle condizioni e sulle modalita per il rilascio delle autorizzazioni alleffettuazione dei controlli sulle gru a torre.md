@@ -20,7 +20,7 @@ DELL'AMBIENTE
 
 Visto l'[art. 67 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) relativa al livello di potenza acustica ammesso dalle gru a torre;
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 137](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2087-405-CEE%20relativa%20al%20livello%20di%20potenza%20acustica%20ammesso%20delle%20gru%20a%20torre.md), di attuazione della [direttiva 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) relativa al livello di potenza acustica ammesso delle gru a torre ed, in particolare, l'art. 7;
+Visto il [decreto legislativo 27 gennaio 1992, n. 137](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2087-405-CEE%20relativa%20al%20livello%20di%20potenza%20acustica%20ammesso%20delle%20gru%20a%20torre.md), di attuazione della [direttiva 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) relativa al livello di potenza acustica ammesso delle gru a torre ed, in particolare, l'art. 7;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -34,7 +34,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-L'autorizzazione alla certificazione CEE prevista dalla [direttiva n. 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) puo' essere concessa a organismi o laboratori di prova in possesso dei requisiti minimi di cui all'allegato IV al [decreto legislativo 27 gennaio 1992, n. 137](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2087-405-CEE%20relativa%20al%20livello%20di%20potenza%20acustica%20ammesso%20delle%20gru%20a%20torre.md), pubblicato sul supplemento ordinario n. 34, alla Gazzetta Ufficiale n. 41 del 19 febbraio 1992.
+L'autorizzazione alla certificazione CEE prevista dalla [direttiva n. 87/405/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;405) puo' essere concessa a organismi o laboratori di prova in possesso dei requisiti minimi di cui all'allegato IV al [decreto legislativo 27 gennaio 1992, n. 137](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2087-405-CEE%20relativa%20al%20livello%20di%20potenza%20acustica%20ammesso%20delle%20gru%20a%20torre.md), pubblicato sul supplemento ordinario n. 34, alla Gazzetta Ufficiale n. 41 del 19 febbraio 1992.
 
 2.
 
@@ -89,7 +89,7 @@ Alla domanda, redatta secondo le indicazioni prescritte e firmata dal legale rap
                         a)
                             certificato di iscrizione alla camera di commercio industria, artigianato e agricoltura per i soggetti di diritto privato;
                         b)
-                            atto costitutivo o statuto, con autentica notarile, ovvero estremi dell'atto normativo per i soggetti di diritto pubblico dal quale risulti la specifica attivita' di certificazione per i prodotti di cui al [decreto legislativo 27 gennaio 1992, n. 137](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2087-405-CEE%20relativa%20al%20livello%20di%20potenza%20acustica%20ammesso%20delle%20gru%20a%20torre.md);
+                            atto costitutivo o statuto, con autentica notarile, ovvero estremi dell'atto normativo per i soggetti di diritto pubblico dal quale risulti la specifica attivita' di certificazione per i prodotti di cui al [decreto legislativo 27 gennaio 1992, n. 137](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%20n.%2087-405-CEE%20relativa%20al%20livello%20di%20potenza%20acustica%20ammesso%20delle%20gru%20a%20torre.md);
                         c)
                             elenco dei macchinari e attrezzature in dotazione, corredato di caratteristiche tecniche ed operative;
                         d)

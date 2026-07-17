@@ -32,7 +32,7 @@ Ravvisata la necessita' di innovare ed integrare il citato [decreto ministeriale
 
 Visto l'[art. 15, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;46#art_15-com3) e [4, della legge 17 febbraio 1982, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;46#art_15-com4), recanti i criteri per la determinazione, mediante attualizzazione dei piani di ammortamento, dell'entita' della contribuzione utilizzando un tasso di attualizzazione costituito da quota parte del costo di provvista vigente per le operazioni ex [decreto del Presidente della Repubblica n. 902/1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976;902);
 
-Visto il disposto del [decreto del Presidente della Repubblica 9 novembre 1976, n. 902, art. 20](../DPR/Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md) e la deliberazione di applicazione in data 3 marzo 1994 del Comitato interministeriale per il credito ed il risparmio (pubblicata nella Gazzetta Ufficiale dell'11 marzo 1994, n. 58) ed il successivo decreto del Ministro del tesoro del 21 dicembre 1994;
+Visto il disposto del [decreto del Presidente della Repubblica 9 novembre 1976, n. 902, art. 20](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20del%20credito%20agevolato%20al%20settore%20industriale.md) e la deliberazione di applicazione in data 3 marzo 1994 del Comitato interministeriale per il credito ed il risparmio (pubblicata nella Gazzetta Ufficiale dell'11 marzo 1994, n. 58) ed il successivo decreto del Ministro del tesoro del 21 dicembre 1994;
 
 Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 19 gennaio 1995;
 

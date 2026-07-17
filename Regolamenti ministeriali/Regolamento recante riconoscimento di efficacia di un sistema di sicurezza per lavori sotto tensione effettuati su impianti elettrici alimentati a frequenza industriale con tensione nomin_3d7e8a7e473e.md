@@ -12,7 +12,7 @@ IL MINISTRO DEL LAVORO
 
 E DELLA PREVIDENZA SOCIALE
 
-Visto l'art. 395, ultimo comma, del [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), che prevede l'attribuzione al Ministro del lavoro e della previdenza sociale del riconoscimento dell'efficacia di nuovi mezzi e sistemi di sicurezza per la prevenzione degli infortuni sul lavoro;
+Visto l'art. 395, ultimo comma, del [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), che prevede l'attribuzione al Ministro del lavoro e della previdenza sociale del riconoscimento dell'efficacia di nuovi mezzi e sistemi di sicurezza per la prevenzione degli infortuni sul lavoro;
 
 Visti gli articoli 344 e 345 del citato decreto della Presidenza della Repubblica n. 547/1955 che vietano l'esecuzione di lavori su elementi in tensione quando essa superi 1.000 Volt e la subordinano, per valori inferiori, a determinate modalita';
 
@@ -34,7 +34,7 @@ ADOTTA il seguente regolamento:
 
 1.
 
-Ai fini della deroga di cui al [comma 3 dell'art. 395 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' riconosciuta l'efficacia del sistema di sicurezza per lavori sotto tensione, effettuati su impianti elettrici alimentati a frequenza industriale con tensione nominale compresa tra 1.000 e 30.000 Volt, descritto nell'allegato A, che fa parte integrante del presente decreto.
+Ai fini della deroga di cui al [comma 3 dell'art. 395 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), e' riconosciuta l'efficacia del sistema di sicurezza per lavori sotto tensione, effettuati su impianti elettrici alimentati a frequenza industriale con tensione nominale compresa tra 1.000 e 30.000 Volt, descritto nell'allegato A, che fa parte integrante del presente decreto.
  AVVERTENZA:
  Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3 del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -58,7 +58,7 @@ Note alle premesse:
 
 1.
 
-E' ammessa l'adozione del sistema di sicurezza di cui all'art. 1 in luogo del sistema di sicurezza previsto dagli [articoli 344](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md) e [345 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md).
+E' ammessa l'adozione del sistema di sicurezza di cui all'art. 1 in luogo del sistema di sicurezza previsto dagli [articoli 344](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md) e [345 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md).
 
 ## Art. 3.
 

@@ -22,7 +22,7 @@ Visto l'[art. 5 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20e
 
 Visto l'[art. 20 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_20);
 
-Visto il [decreto del Presidente della Repubblica del 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), con il quale e' stata data attuazione alla [direttiva CEE n. 75/726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;726) e successive modificazioni;
+Visto il [decreto del Presidente della Repubblica del 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), con il quale e' stata data attuazione alla [direttiva CEE n. 75/726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;726) e successive modificazioni;
 
 Vista la [direttiva CEE n. 89/394 del 14 giugno 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;394) recante la terza modifica della [direttiva n. 75/726](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;726) relativa al ravvicinamento delle legislazioni degli Stati membri concernenti i succhi di frutta e taluni prodotti simili;
 
@@ -38,7 +38,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-La [lettera a) dell'art. 5 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituita dalla seguente:
+La [lettera a) dell'art. 5 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituita dalla seguente:
  " a) La mescolanza di succhi di frutta e/o di purea di frutta di una o piu' specie".
 
 AVVERTENZA:
@@ -69,7 +69,7 @@ AVVERTENZA:
 
 1.
 
-La [lettera b) del comma 1 dell'art. 6 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituita dalla seguente:
+La [lettera b) del comma 1 dell'art. 6 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituita dalla seguente:
  " b) i trattamenti ed i procedimenti di cui all'art. 5; tuttavia l'aggiunta di zuccheri, di cui all'art. 5; primo comma, lettera c), punto 2, e' consentita solo per i succhi di frutta concentrati preconfezionati destinati al consumatore finale, con le quantita' massime prescritte dallo stesso articolo ed a condizione che se ne faccia menzione nella denominazione di vendita".
 
 Nota all'art. 2:
@@ -83,7 +83,7 @@ Nota all'art. 2:
 
 1.
 
-La [lettera f) dell'art. 8 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituita dalla seguente:
+La [lettera f) dell'art. 8 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituita dalla seguente:
  " f) la sostituzione totale degli zuccheri con il miele rispettando il limite del 20% previsto alla precedente lettera c)".
 
 Nota all'art. 3:
@@ -100,7 +100,7 @@ Nota all'art. 3:
 
 1.
 
-E' abrogato il [comma 2 dell'art. 10 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md).
+E' abrogato il [comma 2 dell'art. 10 del decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md).
 
 Nota all'art. 4:
  - Il testo vigente dell'[art. 10 del D.P.R. n. 489/1982](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982;489#art_10), come modificato dal presente regolamento, e' il seguente:
@@ -110,7 +110,7 @@ Nota all'art. 4:
 
 1.
 
-L'allegato del [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituito dall'allegato al presente decreto.
+L'allegato del [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), e' sostituito dall'allegato al presente decreto.
 
 ## Art. 6.
 

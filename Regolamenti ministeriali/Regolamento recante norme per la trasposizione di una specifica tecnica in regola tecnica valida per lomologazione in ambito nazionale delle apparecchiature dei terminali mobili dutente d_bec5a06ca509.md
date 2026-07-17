@@ -10,7 +10,7 @@ vigente: true
 
 IL MINISTRO DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
 Vista la [legge 22 maggio 1980, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-22;209), che modifica gli articoli 398 e 399 del sopracitato [testo unico n. 156/1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1973;156) relativamente alla prevenzione e all'eliminazione dei disturbi alle radiotrasmissioni ed alle radioricezioni;
 
@@ -26,9 +26,9 @@ Vista la [legge 28 marzo 1991, n. 109](../Atti%20normativi%20abrogati%20%28in%20
 
 Visto il [decreto ministeriale 23 maggio 1992, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1992-05-23;314), che approva il regolamento recante disposizioni di attuazione della predetta [legge 28 marzo 1991, n. 109](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20in%20materia%20di%20allacciamenti%20e%20collaudi%20degli%20impianti%20telefonici%20interni.md);
 
-Visto il [decreto legislativo 4 dicembre 1992, n. 476](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), concernente l'attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31);
+Visto il [decreto legislativo 4 dicembre 1992, n. 476](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_1665eebd997b.md), concernente l'attuazione della [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336) in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata dalla [direttiva 92/31/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;31);
 
-Visto il [decreto legislativo 29 dicembre 1992, n. 519](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20per%20terminali%20di%20telecomunicazione.md), concernente l'attuazione della [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) per il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature per terminali di telecomunicazioni;
+Visto il [decreto legislativo 29 dicembre 1992, n. 519](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2091-263-CEE%20concernente%20il%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alle%20apparecchiature%20per%20terminali%20di%20telecomunicazione.md), concernente l'attuazione della [direttiva 91/263/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;263) per il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature per terminali di telecomunicazioni;
 
 Visto il parere espresso dal consiglio superiore tecnico delle poste, delle telecomunicazioni e dell'automazione;
 
@@ -215,7 +215,7 @@ Nota all'art. 3:
  2. Il contrassegno deve essere indelebile, posto su una parte dell'apparecchiatura non intercambiabile e, per quanto concerne l'informazione di cui al comma 1 punto d), visibile sulla superficie esterna dell'apparecchiatura.
  Art. 14.
  Spese
- 1. Tutte le spese relative all'omologazione sono addebitate al richiedente nella misura stabilita dal decreto ministeriale previsto dall'[art. 19, comma quarto, del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
+ 1. Tutte le spese relative all'omologazione sono addebitate al richiedente nella misura stabilita dal decreto ministeriale previsto dall'[art. 19, comma quarto, del decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
  2. Prima dell'inizio delle prove, l'ISPT comunica per iscritto al richiedente l'importo presunto delle spese di omologazione e contestualmente ne richiede un adeguato anticipo che deve essere versato entro il termine di trenta giorni, pena l'interruzione della procedura di omologazione. Se le spese preventivate superano l'importo previsto, l'ISPT, durante la procedura di omologazione, ne informa il richiedente.
  3. Se il richiedente non comunica il suo assenso al riguardo entro trenta giorni, la procedura di omologazione puo' essere sospesa. In tal caso il richiedente ha facolta' di avviare la procedura del ricorso secondo le modalita' indicate nell'art. 12.
  4. Terminate le prove, viene chiesto al richiedente il versamento del conguaglio delle spese di omologazione, senza riguardo al risultato delle prove stesse in relazione all'eventuale rilascio dell'omologazione.
@@ -242,7 +242,7 @@ Nota all'art. 3:
 
 1.
 
-Per tre mesi dalla data di entrata in vigore del presente decreto, e' consentito presentare domanda di autorizzazione da rilasciare, ai sensi dell'art. 319 del codice postale e delle telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sulla base delle prove di cui all'allegato 1, parte II, appendice H.
+Per tre mesi dalla data di entrata in vigore del presente decreto, e' consentito presentare domanda di autorizzazione da rilasciare, ai sensi dell'art. 319 del codice postale e delle telecomunicazioni approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md), sulla base delle prove di cui all'allegato 1, parte II, appendice H.
 
 2.
 

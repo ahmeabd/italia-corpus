@@ -58,7 +58,7 @@ Avvertenza:
  «Art. 46 (Esame di Stato). - 1. L'esame di Stato si articola in tre prove scritte ed in una prova orale. 
  2. Le prove scritte sono svolte sui temi formulati dal Ministro della giustizia ed hanno per oggetto: 
  a) la redazione di un parere motivato, da scegliere tra due questioni in materia regolata dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262); 
- b) la redazione di un parere motivato, da scegliere tra due questioni in materia regolata dal [codice penale](../Regi%20decreti/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
+ b) la redazione di un parere motivato, da scegliere tra due questioni in materia regolata dal [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); 
  c) a redazione di un atto giudiziario che postuli conoscenze di diritto sostanziale e di diritto processuale, su un quesito proposto, in materia scelta dal candidato tra il diritto privato, il diritto penale ed il diritto amministrativo. 
  3. Nella prova orale il candidato illustra la prova scritta e dimostra la conoscenza delle seguenti materie: ordinamento e deontologia forensi, diritto civile, diritto penale, diritto processuale civile, diritto processuale penale; nonche' di altre due materie, scelte preventivamente dal candidato, tra le seguenti: diritto costituzionale, diritto amministrativo, diritto del lavoro, diritto commerciale, diritto comunitario ed internazionale privato, diritto tributario, diritto ecclesiastico, ordinamento giudiziario e penitenziario. 
  4. Per la valutazione di ciascuna prova scritta, ogni componente della commissione d'esame dispone di dieci punti di merito; alla prova orale sono ammessi i candidati che abbiano conseguito, nelle tre prove scritte, un punteggio complessivo di almeno 90 punti e un punteggio non inferiore a 30 punti in ciascuna prova. 
@@ -103,7 +103,7 @@ Modalita' di presentazione delle domande
 
 1.
 
-Con decreto del Ministro della giustizia vengono indetti gli esami di Stato per l'abilitazione all'esercizio della professione forense e sono fissati il termine e le modalita' di presentazione della domanda. Il decreto deve prevedere che la domanda puo' essere presentata anche con modalita' telematiche, nel rispetto delle disposizioni del [Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md). Nel medesimo decreto e' rimessa a ciascuna commissione distrettuale l'indicazione dei luoghi e delle date per la consegna dei testi di legge. Almeno dieci giorni prima dell'inizio delle prove scritte la commissione distrettuale provvede a norma del periodo precedente e ne da' pubblicita' in una sezione dedicata del sito internet del Ministero della giustizia.
+Con decreto del Ministro della giustizia vengono indetti gli esami di Stato per l'abilitazione all'esercizio della professione forense e sono fissati il termine e le modalita' di presentazione della domanda. Il decreto deve prevedere che la domanda puo' essere presentata anche con modalita' telematiche, nel rispetto delle disposizioni del [Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md), di cui al [decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md). Nel medesimo decreto e' rimessa a ciascuna commissione distrettuale l'indicazione dei luoghi e delle date per la consegna dei testi di legge. Almeno dieci giorni prima dell'inizio delle prove scritte la commissione distrettuale provvede a norma del periodo precedente e ne da' pubblicita' in una sezione dedicata del sito internet del Ministero della giustizia.
 
 2.
 
@@ -114,7 +114,7 @@ Agli esami possono partecipare i praticanti che abbiano compiuto la prescritta p
 Sull'ammissibilita' delle domande decide senza ritardo la commissione distrettuale formando l'elenco degli ammessi, che e' depositato almeno quindici giorni prima dell'inizio delle prove negli uffici della segreteria della commissione. Dell'elenco e' data comunicazione agli ammessi mediante la sua pubblicazione nella sezione dedicata del sito del Ministero della giustizia. Ove possibile, dell'avvenuta pubblicazione e' data notizia a ciascun candidato ammesso a mezzo di posta elettronica ordinaria. Quando nella domanda non e' indicato un indirizzo di posta elettronica, dell'avvenuta pubblicazione e' data notizia mediante posta raccomandata.
 
 Note all'[art. 2: 
- - Il decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O.
+ - Il decreto legislativo 7 marzo 2005, n. 82](../Codici/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Codici/Codice%20dellamministrazione%20digitale.md)), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, S.O.
 
 ## Art. 3. — Formulazione e consegna dei temi
 

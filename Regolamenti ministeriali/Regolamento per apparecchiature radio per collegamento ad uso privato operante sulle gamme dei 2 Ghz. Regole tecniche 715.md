@@ -14,15 +14,15 @@ E DELLE TELECOMUNICAZIONI
 
 Visto il [regio decreto-legge 23 aprile 1925, n. 520](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 maggio 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-21;597), sul nuovo ordinamento dell'Amministrazione postale e telegrafica, e successive modificazioni;
 
-Visto il [regio decreto 4 novembre 1926, n. 1978](../Regi%20decreti/Costituzione%20di%20un%20Regio%20istituto%20sperimentale%20delle%20comunicazioni%20mediante%20il%20coordinamento%20dellIstituto%20sperimentale%20delle%20ferrovie%20dello%20Stato%20e%20dellIstituto%20superiore%20postale%20telegraf_27c3b3b1e9cd.md), concernente i compiti dell'Istituto superiore delle poste e delle telecomunicazioni;
+Visto il [regio decreto 4 novembre 1926, n. 1978](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20di%20un%20Regio%20istituto%20sperimentale%20delle%20comunicazioni%20mediante%20il%20coordinamento%20dellIstituto%20sperimentale%20delle%20ferrovie%20dello%20Stato%20e%20dellIstituto%20superiore%20postale%20telegraf_27c3b3b1e9cd.md), concernente i compiti dell'Istituto superiore delle poste e delle telecomunicazioni;
 
 Vista la [legge 1 marzo 1968, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-01;186), concernente le disposizioni per la produzione di materiali, apparecchiature, macchinari, installazioni e impianti elettrici ed elettronici;
 
 Vista la [legge 12 marzo 1968, n. 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;325), concernente l'organizzazione dell'Amministrazione delle poste e delle telecomunicazioni;
 
-Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../Codici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il regolamento per il collaudo di materiali e di impianti forniti all'Amministrazione delle poste e delle telecomunicazioni e all'Azienda di Stato per i servizi telefonici, approvato con [decreto del Presidente della Repubblica 26 settembre 1973, n. 1143](../Regolamenti%20governativi/Approvazione%20del%20regolamento%20per%20il%20collaudo%20di%20materiali%20e%20di%20impianti%20forniti%20allAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20ed%20allAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md);
+Visto il regolamento per il collaudo di materiali e di impianti forniti all'Amministrazione delle poste e delle telecomunicazioni e all'Azienda di Stato per i servizi telefonici, approvato con [decreto del Presidente della Repubblica 26 settembre 1973, n. 1143](../DPR/Approvazione%20del%20regolamento%20per%20il%20collaudo%20di%20materiali%20e%20di%20impianti%20forniti%20allAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20ed%20allAzienda%20di%20Stato%20per%20i%20servizi%20telefonici.md);
 
 Vista la [legge 10 febbraio 1982, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-10;39);
 

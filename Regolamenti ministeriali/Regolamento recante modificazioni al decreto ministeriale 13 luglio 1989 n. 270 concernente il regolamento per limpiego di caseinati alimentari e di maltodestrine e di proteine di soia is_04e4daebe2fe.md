@@ -14,7 +14,7 @@ Visto il decreto 24 febbraio 1988, n. 106, concernente l'autorizzazione alla pro
 
 Visto il [decreto ministeriale 13 luglio 1989, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1989-07-13;270), concernente il regolamento per l'impiego di caseinati alimentari e di maltodestrine e di proteine di soia isolate nella produzione di carni preparate comunque conservate;
 
-Visto il [decreto legislativo 30 dicembre 1992, n. 537](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md), concernente attuazione della [direttiva 92/5/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;5) relativa a problemi sanitari in materia di scambi intracomunitari di prodotti a base di carne;
+Visto il [decreto legislativo 30 dicembre 1992, n. 537](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20scambi%20intracomunitari%20di%20prodotti%20a%20base%20di%20carne.md), concernente attuazione della [direttiva 92/5/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;5) relativa a problemi sanitari in materia di scambi intracomunitari di prodotti a base di carne;
 
 Vista la richiesta dell'Unione importatori esportatori commissionari grossisti ingrassatori macellatori spedizionieri carni bestiame prodotti derivati (Uniceb);
 

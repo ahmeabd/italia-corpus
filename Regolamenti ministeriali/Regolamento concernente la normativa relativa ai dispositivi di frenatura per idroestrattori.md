@@ -12,7 +12,7 @@ IL MINISTRO DEL LAVORO
 
 E DELLA PREVIDENZA SOCIALE
 
-Visto l'art. 395, ultimo comma, del [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), concernente il riconoscimento di efficacia di nuovi mezzi o sistemi di sicurezza diversi da quelli previsti nel citato decreto;
+Visto l'art. 395, ultimo comma, del [decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), concernente il riconoscimento di efficacia di nuovi mezzi o sistemi di sicurezza diversi da quelli previsti nel citato decreto;
 
 Visto l'art. 130 del citato decreto, che stabilisce l'obbligo di munire gli idroestrattori di freno adatto ed efficace;
 
@@ -32,7 +32,7 @@ A D O T T A il seguente regolamento:
 
 1.
 
-Per gli idroestrattori a funzionamento continuo del tipo a spinta a carcassa chiusa con carico e scarico a flusso continuo, impiegati nell'industria degli esplosivi, il dispositivo di frenatura di cui all'[art. 130 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), puo' essere sostituito con un sistema automatico di rilevamento di squilibrio rispondente ai seguenti requisiti:
+Per gli idroestrattori a funzionamento continuo del tipo a spinta a carcassa chiusa con carico e scarico a flusso continuo, impiegati nell'industria degli esplosivi, il dispositivo di frenatura di cui all'[art. 130 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md), puo' essere sostituito con un sistema automatico di rilevamento di squilibrio rispondente ai seguenti requisiti:
                         a)
                             che sia posizionato, tarato e collaudato con certificazione delle prove, da un tecnico della ditta costruttrice della macchina o da un tecnico abilitato;
                         b)

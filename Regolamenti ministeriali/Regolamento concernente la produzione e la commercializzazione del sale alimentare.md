@@ -20,13 +20,13 @@ Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?u
 
 Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), concernente istituzione del Servizio sanitario nazionale ed in particolare l'articolo 6 che riserva allo Stato la determinazione di indici di qualita' e di salubrita' degli alimenti e delle bevande alimentari;
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), relativo a attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari;
+Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), relativo a attuazione delle [direttive 89/395/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;395) e [89/396/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;396) concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari;
 
 Vista la [legge 17 luglio 1942, n. 907](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;907), e successive modificazioni, concernente il monopolio dei sali e dei tabacchi;
 
 Visto il [decreto ministeriale 27 febbraio 1996, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1996-02-27;209), concernente la disciplina degli additivi alimentari consentiti nella preparazione e per la conservazione delle sostanze alimentari in attuazione delle [direttive n. 94/34/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;34), [n. 94/35/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;35), [n. 94/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1994;36), [n. 95/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;2) e [n. 95/31/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;31);
 
-Visto il [decreto legislativo 3 marzo 1993, n. 123](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2089-397-CEE%20relativa%20al%20controllo%20ufficiale%20dei%20prodotti%20alimentari.md), concernente attuazione della [direttiva 89/397/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;397) relativa al controllo ufficiale dei prodotti alimentari;
+Visto il [decreto legislativo 3 marzo 1993, n. 123](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2089-397-CEE%20relativa%20al%20controllo%20ufficiale%20dei%20prodotti%20alimentari.md), concernente attuazione della [direttiva 89/397/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;397) relativa al controllo ufficiale dei prodotti alimentari;
 
 Vista la norma del Codex Alimentarius "Codex STAN 150-1985" e sua successiva modifica, concernente il sale di qualita' alimentare;
 
@@ -128,7 +128,7 @@ Il sale alimentare destinato al consumo diretto deve essere posto in vendita esc
 
 1.
 
-Ferme restando le disposizioni in materia di etichettatura, di presentazione e di pubblicita' dei prodotti alimentari disciplinate dal [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sull'imballaggio o sulla etichetta appostavi del sale alimentare destinato al consumo diretto devono essere riportate le seguenti indicazioni:
+Ferme restando le disposizioni in materia di etichettatura, di presentazione e di pubblicita' dei prodotti alimentari disciplinate dal [decreto legislativo 27 gennaio 1992, n. 109](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), sull'imballaggio o sulla etichetta appostavi del sale alimentare destinato al consumo diretto devono essere riportate le seguenti indicazioni:
                         a)
                             denominazione di vendita "sale" integrata dalla specificazione "alimentare" oppure "per uso alimentare" oppure "da cucina" oppure "da tavola";
                         b)
