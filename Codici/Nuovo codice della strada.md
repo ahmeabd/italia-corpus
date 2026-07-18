@@ -15201,7 +15201,7 @@ La rimozione dei veicoli o il blocco degli stessi costituiscono sanzione amminis
 
 5.
 
-Gli organi di polizia possono, altresi', procedere alla rimozione dei veicoli in sosta, ove per il loro stato o per altro fondato motivo si possa ritenere che siano stati abbandonati. Alla rimozione puo' provvedere anche l'ente proprietario della strada, sentiti preventivamente gli organi di polizia. Si applica in tal caso l'[art. 15 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
+Gli organi di polizia possono, altresi', procedere alla rimozione dei veicoli in sosta, ove per il loro stato o per altro fondato motivo si possa ritenere che siano stati abbandonati. Alla rimozione puo' provvedere anche l'ente proprietario della strada, sentiti preventivamente gli organi di polizia. Si applica in tal caso l'[art. 15 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md).
 
 ((5-bis. Nelle aree portuali e marittime come definite dalla [legge 28 gennaio 1994, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-28;84), e' autorizzato il sequestro conservativo degli automezzi in sosta vietata che ostacolano la regolare circolazione viaria e ferroviaria o l'operativita' delle strutture portuali.))
 
@@ -16972,7 +16972,7 @@ Decorso il termine indicato al comma 9, il veicolo puo' essere rimosso coattivam
 
 11.
 
-Gli organi di polizia stradale provvedono alla rimozione dei veicoli in sosta che per il loro stato o per altro fondato motivo possano ritenersi abbandonati, nonche' al loro trasporto in uno dei centri di raccolta autorizzati a norma dell'[art. 15 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20normativi%20abrogati%20%28in%20originale%29/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md). Per tali operazioni i predetti organi di polizia possono incaricare l'ente proprietario.
+Gli organi di polizia stradale provvedono alla rimozione dei veicoli in sosta che per il loro stato o per altro fondato motivo possano ritenersi abbandonati, nonche' al loro trasporto in uno dei centri di raccolta autorizzati a norma dell'[art. 15 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%20CEE%20n.%2075-442%20relativa%20ai%20rifiuti%20n.%2076-403%20relativa%20allo%20smaltimento%20dei%20policlorodifenili%20e%20dei%20policlorotrifenili%20e%20n.%2078-319%20relativa%20ai%20rifiuti%20tossici%20e%20nocivi.md). Per tali operazioni i predetti organi di polizia possono incaricare l'ente proprietario.
 
 12.
 
