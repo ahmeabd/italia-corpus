@@ -138,7 +138,7 @@ Ai fini dell'adozione degli ulteriori provvedimenti di competenza delle altre am
                         d)
                             Osservatorio centrale appalti pubblici, presso la direzione investigativa antimafia;
                         e)
-                            Osservatorio dei contratti pubblici relativi a lavori, servizi e forniture istituito presso l'Autorita' di vigilanza sui contratti pubblici, ai fini dell'inserimento nel casellario informatico di cui all'[articolo 7, comma 10, del decreto legislativo 12 aprile 2006, n. 163](../Atti%20di%20recepimento%20direttive%20UE/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md);
+                            Osservatorio dei contratti pubblici relativi a lavori, servizi e forniture istituito presso l'Autorita' di vigilanza sui contratti pubblici, ai fini dell'inserimento nel casellario informatico di cui all'[articolo 7, comma 10, del decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md);
                         f)
                             Ministero delle infrastrutture e dei trasporti;
                         g)

@@ -24,7 +24,7 @@ Vista la [legge 10 ottobre 1986, n. 668](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto l'accordo raggiunto in data 13 febbraio 1987 tra la delegazione governativa e i sindacati di polizia SIULP e SAP, ai sensi dell'[art. 95, primo comma, della legge 1 aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_95-com1);
 
-Visto il [decreto-legge 21 marzo 1987, n. 101](../DL%20decaduti/Copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%20di%20attuazione%20dellaccordo%20contrattuale%20triennale%20relativo%20al%20personale%20della%20Polizia%20di%20Stato%20ed%20estensione%20agli%20altri%20Co_310a3a144d20.md), recante copertura finanziaria del decreto del Presidente della Repubblica di attuazione dell'accordo contrattuale relativo al personale della Polizia di Stato ed estensione agli altri Corpi di polizia;
+Visto il [decreto-legge 21 marzo 1987, n. 101](../Atti%20normativi%20abrogati%20%28in%20originale%29/Copertura%20finanziaria%20del%20decreto%20del%20Presidente%20della%20Repubblica%20di%20attuazione%20dellaccordo%20contrattuale%20triennale%20relativo%20al%20personale%20della%20Polizia%20di%20Stato%20ed%20estensione%20agli%20altri%20Co_310a3a144d20.md), recante copertura finanziaria del decreto del Presidente della Repubblica di attuazione dell'accordo contrattuale relativo al personale della Polizia di Stato ed estensione agli altri Corpi di polizia;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1987;
 

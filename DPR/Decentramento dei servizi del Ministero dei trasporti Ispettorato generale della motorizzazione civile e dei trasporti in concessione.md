@@ -198,7 +198,7 @@ CAPO II
 
 ### Art. 19.
 
-Il primo e il [secondo comma dell'art. 1 del regio decreto-legge 14 luglio 1937, n. 1728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20per%20agevolare%20la%20concessione%20di%20filovie.%20037U1728.md), convertito nella [legge 23 dicembre 1937, n. 2562](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20luglio%201937-V%20n.%201728%20col%20quale%20sono%20state%20emanate%20nuove%20disposizioni%20per%20agevolare%20la%20concessione%20di%20filovie.%20037U2562.md), sono sostituiti dai seguenti:
+Il primo e il [secondo comma dell'art. 1 del regio decreto-legge 14 luglio 1937, n. 1728](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20disposizioni%20per%20agevolare%20la%20concessione%20di%20filovie.%20037U1728.md), convertito nella [legge 23 dicembre 1937, n. 2562](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2014%20luglio%201937-V%20n.%201728%20col%20quale%20sono%20state%20emanate%20nuove%20disposizioni%20per%20agevolare%20la%20concessione%20di%20filovie.%20037U2562.md), sono sostituiti dai seguenti:
  "Le concessioni di filovie sono accordate:
  a) dal sindaco del Comune interessato, previa conforme deliberazione del Consiglio comunale, qualora la linea si svolga integralmente nell'ambito del territorio del Comune;
  b) dall'Ispettorato compartimentale o ufficio distaccato della motorizzazione civile e dei trasporti in concessione se trattasi di filovie che colleghino Comuni di una stessa Provincia, o colleghino un Comune col proprio scalo ferroviario o con un aeroporto vicino, anche se situati in Province diverse;

@@ -60,7 +60,7 @@ La [L. 16 maggio 1978, n.196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 ## Art. 3.
 
-Sono trasferite alle Regioni a statuto ordinario le attribuzioni degli organi centrali e periferici dello Stato nei riguardi dei consorzi provinciali per l'istruzione tecnica di cui al [regio decreto-legge 26 settembre 1935, n. 1946](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20035U1946.md), convertito nella [legge 2 gennaio 1936, numero 82](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201946%20relativo%20al%20riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20036U0082.md), e successive modificazioni ed integrazioni.
+Sono trasferite alle Regioni a statuto ordinario le attribuzioni degli organi centrali e periferici dello Stato nei riguardi dei consorzi provinciali per l'istruzione tecnica di cui al [regio decreto-legge 26 settembre 1935, n. 1946](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20035U1946.md), convertito nella [legge 2 gennaio 1936, numero 82](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2026%20settembre%201935-XIII%20n.%201946%20relativo%20al%20riordinamento%20dei%20Consorzi%20provinciali%20per%20listruzione%20tecnica.%20036U0082.md), e successive modificazioni ed integrazioni.
 
 ## Art. 4.
 

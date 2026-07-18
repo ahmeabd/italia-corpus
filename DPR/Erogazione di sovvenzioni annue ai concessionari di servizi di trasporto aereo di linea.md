@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [regio decreto-legge 18 ottobre 1923, n. 3176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20dei%20servizi%20di%20trasporto%20esercitati%20con%20aeromobili.%20023U3176.md), convertito nella [legge 31 gennaio 1926, n. 753](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), concernente l'erogazione di sovvenzioni statali a favore di concessionari di pubblici servizi esercitati mediante aeromobili;
+Visto il [regio decreto-legge 18 ottobre 1923, n. 3176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20dei%20servizi%20di%20trasporto%20esercitati%20con%20aeromobili.%20023U3176.md), convertito nella [legge 31 gennaio 1926, n. 753](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), concernente l'erogazione di sovvenzioni statali a favore di concessionari di pubblici servizi esercitati mediante aeromobili;
 
 Considerata la necessita' di provvedere alla emanazione del regolamento previsto dall'art. 1, comma quarto, del regio decreto-legge 18 ottobre 1923 sopra citato;
 
@@ -26,7 +26,7 @@ Sulla proposta del Ministro per i trasporti e per l'aviazione civile di concerto
 
 ## Art. 1.
 
-Le sovvenzioni annue ai concessionari dei servizi di trasporto di linea esercitati con aeromobili, previste all'[art. 1, quarto comma del regio decreto-legge 18 ottobre 1923, n. 3176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20dei%20servizi%20di%20trasporto%20esercitati%20con%20aeromobili.%20023U3176.md), convertito nella [legge 31 gennaio 1926, n. 753](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), sono accordate nelle misure e con le modalita' stabilite negli articoli seguenti.
+Le sovvenzioni annue ai concessionari dei servizi di trasporto di linea esercitati con aeromobili, previste all'[art. 1, quarto comma del regio decreto-legge 18 ottobre 1923, n. 3176](../Atti%20normativi%20abrogati%20%28in%20originale%29/Concessione%20dei%20servizi%20di%20trasporto%20esercitati%20con%20aeromobili.%20023U3176.md), convertito nella [legge 31 gennaio 1926, n. 753](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20dei%20Regi%20decreti-legge%201%20in%20data%2024%20dicembre%201922%20n.%201878%20col%20quale%20si%20da%20esecuzione%20alla%20Convenzione%20per%20il%20regolamento%20della%20navigazione%20aerea%20stipulata%20fra%20lItalia_c42f1e095751.md), sono accordate nelle misure e con le modalita' stabilite negli articoli seguenti.
 
 ## Art. 2.
 

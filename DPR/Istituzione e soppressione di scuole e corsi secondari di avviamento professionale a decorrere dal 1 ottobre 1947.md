@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Vedute le [leggi 7 gennaio 1929, n. 8 e 22 aprile 1932, n. 490](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sull'ordinamento delle scuole e dei corsi secondari di avviamento professionale;
+Vedute le [leggi 7 gennaio 1929, n. 8 e 22 aprile 1932, n. 490](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%206%20ottobre%201930%20n.%201379%20concernente%20il%20riordinamento%20della%20scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20032U0490.md), sull'ordinamento delle scuole e dei corsi secondari di avviamento professionale;
 
 Veduto il [regio decreto 14 settembre 1941, n. 1059](../Atti%20normativi%20abrogati%20%28in%20originale%29/Inizio%20dellanno%20scolastico%20e%20fissazione%20dei%20giorni%20di%20vacanza.%20041U1059.md), col quale si modificano i termini in relazione alla data di inizio dell'anno scolastico;
 

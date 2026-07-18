@@ -24,7 +24,7 @@ Visto l'[articolo 2-quater del decreto-legge 27 dicembre 2000, n. 392](https://w
 
 Visto il [decreto del Presidente del Consiglio dei Ministri 22 ottobre 1999, n. 437](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1999-10-22;437);
 
-Visto il [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
+Visto il [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 maggio 2003;
 
@@ -164,14 +164,14 @@ Nota all'art. 3:
 
 1.
 
-La carta puo' contenere eventuali informazioni di carattere individuale generate, gestite e distribuite dalle pubbliche amministrazioni per attivita' amministrative e per l'erogazione dei servizi al cittadino, cui si puo' accedere tramite la carta, salvo si tratti dei dati sensibili di cui al [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
+La carta puo' contenere eventuali informazioni di carattere individuale generate, gestite e distribuite dalle pubbliche amministrazioni per attivita' amministrative e per l'erogazione dei servizi al cittadino, cui si puo' accedere tramite la carta, salvo si tratti dei dati sensibili di cui al [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
 
 2.
 
 I dati personali forniti ai fini dell'accesso a servizi, compreso il codice fiscale, sono utilizzabili unicamente per identificare in rete il titolare della carta nazionale dei servizi e per verificare la sua legittimazione al servizio, secondo le modalita' previste dalle regole tecniche di cui all'articolo 9.
 
 Nota all'[art. 4:
- - Il decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante: «[Codice in materia di protezione dei dati personali](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)», e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 29 luglio 2003, n. 174.
+ - Il decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), recante: «[Codice in materia di protezione dei dati personali](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md)», e' stato pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 29 luglio 2003, n. 174.
 
 ## Art. 5. — Validita' temporale e utilizzo della carta nazionale dei servizi
 

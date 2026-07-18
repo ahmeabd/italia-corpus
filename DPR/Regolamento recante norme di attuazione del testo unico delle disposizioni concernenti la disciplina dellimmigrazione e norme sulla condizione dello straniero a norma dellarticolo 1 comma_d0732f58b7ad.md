@@ -1059,7 +1059,7 @@ I dati identificativi ed informativi in materia di immigrazione, le caratteristi
 
 4.
 
-Le regole tecniche di funzionamento attinenti all'archivio informatizzato, alle eventuali e ulteriori misure di sicurezza per il trattamento dei dati e per la tenuta dell'archivio rispetto a quelle contenute nel [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni, e nei relativi regolamenti d'attuazione, sono disciplinate con decreto del Ministero dell'interno, sentiti la Presidenza del Consiglio dei Ministri - Dipartimento per l'innovazione e le tecnologie ed il Garante per la protezione dei dati personali.
+Le regole tecniche di funzionamento attinenti all'archivio informatizzato, alle eventuali e ulteriori misure di sicurezza per il trattamento dei dati e per la tenuta dell'archivio rispetto a quelle contenute nel [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e successive modificazioni, e nei relativi regolamenti d'attuazione, sono disciplinate con decreto del Ministero dell'interno, sentiti la Presidenza del Consiglio dei Ministri - Dipartimento per l'innovazione e le tecnologie ed il Garante per la protezione dei dati personali.
 
 5.
 

@@ -14,7 +14,7 @@ Visto l'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/ur
 
 Vista la [legge 6 febbraio 1951, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-06;127);
 
-Vista la [legge 2 marzo 1953, n. 429](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%2015%20aprile%201948%20n.%20381%20concernente%20il%20riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale%20e%20delega%20al%20Governo_9cb6a7c7e671.md);
+Vista la [legge 2 marzo 1953, n. 429](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ratifica%20del%20decreto%20legislativo%2015%20aprile%201948%20n.%20381%20concernente%20il%20riordinamento%20dei%20ruoli%20centrali%20e%20periferici%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale%20e%20delega%20al%20Governo_9cb6a7c7e671.md);
 
 Visto il [decreto del Presidente della Repubblica 19 marzo 1955, n. 520](Riorganizzazione%20centrale%20e%20periferica%20del%20Ministero%20del%20lavoro%20e%20della%20previdenza%20sociale.md);
 

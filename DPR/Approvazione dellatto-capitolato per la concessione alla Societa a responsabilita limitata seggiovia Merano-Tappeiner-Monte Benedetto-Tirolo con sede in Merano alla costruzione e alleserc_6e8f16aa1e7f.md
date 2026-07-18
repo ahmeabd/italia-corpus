@@ -16,7 +16,7 @@ IL PRESIDENTE DELLA REPUBBLICA
  Visto il progetto a firma ing. Silvano Bampi, portante i bolli annullati in data 1 settembre 1950, e con timbro della Commissione per le funicolari aeree e terrestri del 5 dicembre 1950, approvato con Ministeriale 8 febbraio 1951, n. 4599;
  Visto il voto 5 dicembre 1950, n. 4, della Commissione predetta;
  Vista la [legge 23 giugno 1927, n. 1110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110);
- Visto il [regio decreto-legge 24 novembre 1930, n. 1632](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20legge%2023%20giugno%201927%20n.%201110%20sulle%20funicolari%20aeree%20e%20ascensori%20in%20servizio%20pubblico.%20030U1632.md), convertito nella [legge 17 aprile 1931, n. 526](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20novembre%201930%20n.%201632%20concernente%20modificazioni%20alla%20legge%20sulle%20funicolari%20aeree%20ed%20ascensori%20in%20servizio%20pubblico.%20031U0526.md);
+ Visto il [regio decreto-legge 24 novembre 1930, n. 1632](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20alla%20legge%2023%20giugno%201927%20n.%201110%20sulle%20funicolari%20aeree%20e%20ascensori%20in%20servizio%20pubblico.%20030U1632.md), convertito nella [legge 17 aprile 1931, n. 526](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20novembre%201930%20n.%201632%20concernente%20modificazioni%20alla%20legge%20sulle%20funicolari%20aeree%20ed%20ascensori%20in%20servizio%20pubblico.%20031U0526.md);
  Sulla proposta del Ministro per i trasporti;
 
  Decreta:

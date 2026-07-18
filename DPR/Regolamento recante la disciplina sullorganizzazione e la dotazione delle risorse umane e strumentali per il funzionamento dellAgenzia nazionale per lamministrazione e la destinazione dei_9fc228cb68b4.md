@@ -26,7 +26,7 @@ Vista la [legge 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bila
 
 Visto il [decreto del Presidente della Repubblica 15 dicembre 2011, n. 235](Regolamento%20recante%20la%20disciplina%20sullorganizzazione%20e%20la%20dotazione%20delle%20risorse%20umane%20e%20strumentali%20per%20il%20funzionamento%20dellAgenzia%20nazionale%20per%20lamministrazione%20e%20la%20destinazione%20dei_939aa6067e5b.md);
 
-Visto il [decreto legislativo 30 giugno 2003, n. 196](../Atti%20di%20recepimento%20direttive%20UE/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
+Visto il [decreto legislativo 30 giugno 2003, n. 196](../Codici/Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 
 Visto il regolamento (CE) n. 2016/679/UE del Parlamento europeo, del 27 aprile 2016;
 

@@ -50,7 +50,7 @@ Visto il [decreto del Presidente della Repubblica 12 giugno 1955, n. 537](Classi
 
 Visto il [decreto del Presidente della Repubblica 6 novembre 1962, n. 2100](Istituzione%20della%20Sezione%20Disegno%20di%20architettura%20e%20della%20Sezione%20staccata%20in%20SantAmbrogio%20di%20Valpolicella%20Decorazione%20plastica%20e%20revisione%20della%20pianta%20organica%20della%20Scuola%20darte%20di%20Verona.md), con il quale e' stata approvata la pianta organica della Scuola d'arte di Verona;
 
-Vista la [legge 12 agosto 1957, n. 799](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20cattedre%20di%20ruolo%20ordinario%20dei%20posti%20di%20ruolo%20speciale%20transitorio%20e%20collocazione%20nei%20ruoli%20ordinari%20di%20insegnanti%20inscritti%20nei%20ruoli%20speciali%20transitori.md), concernente la conversione in cattedra di ruolo ordinario dei posti di ruolo speciale transitorio e collocazione in R. O. di insegnanti inscritti nei ruoli speciali transitori;
+Vista la [legge 12 agosto 1957, n. 799](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conversione%20in%20cattedre%20di%20ruolo%20ordinario%20dei%20posti%20di%20ruolo%20speciale%20transitorio%20e%20collocazione%20nei%20ruoli%20ordinari%20di%20insegnanti%20inscritti%20nei%20ruoli%20speciali%20transitori.md), concernente la conversione in cattedra di ruolo ordinario dei posti di ruolo speciale transitorio e collocazione in R. O. di insegnanti inscritti nei ruoli speciali transitori;
 
 Considerato che dal 1 ottobre 1966 le predette scuole funzionano come istituti d'arte;
 
